@@ -1,7 +1,7 @@
 ---
 title: Make A Plan & Set Goals
-date: 2024-08-06 19:25:55
-updated: 2024-08-07 11:59:41
+date: 2024-08-06T09:22:06.508Z
+updated: 2024-08-07T09:22:06.508Z
 tags:
   - win11
   - win10
@@ -22,15 +22,27 @@ Your Asus DVD drive is not working well after upgrading to Windows 10? It’s pr
 **[STEP 1 – Confirm it’s a driver problem](https://tools.techidaily.com/drivereasy/download/)**
 **[STEP 2 – Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## STEP 1 – Confirm it’s a driver problem
 
  To confirm if your DVD drive problem is caused by driver issue, you need to check for the driver status in Device Manager:
 
 1. On your keyboard, press the**Windows logo key**  and **R** at the same time to invoke a **Run** command.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 2. Type**devmgmt.msc** and click **OK** . This will start the Device Manager.![](https://images.drivereasy.com/wp-content/uploads/2019/06/dvd1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. In Device Manager, click**View** and then select**Show hidden devices** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/dvd.jpg)
 4. Expand**DVD/CD-ROM drives** , if you see a yellow mark next to the device name (usually an exclamation or a question mark), there’s a problem with the driver, and you need to update it.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## STEP 2 – Update your dvd drivers
 
 There are three ways you can update your audio drivers:
@@ -63,6 +75,9 @@ To do so, follow these steps:
 
  Once you’ve downloaded the utility, double-click on the downloaded file and follow the on-screen instructions to install it. Then run this program to manage your ASUS DVD driver.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3 – Automatically update drivers
 
  If you don’t have the time, patience or computer skills to update the drivers manually, you can do it automatically with Driver Easy.
@@ -73,6 +88,9 @@ To do so, follow these steps:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu1-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 3. Click the**Update** button next to the ASUS DVD driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click**Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu-2.jpg)
 
  Hopefully you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.

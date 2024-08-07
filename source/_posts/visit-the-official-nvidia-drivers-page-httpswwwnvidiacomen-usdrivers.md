@@ -1,7 +1,7 @@
 ---
 title: "Visit the Official NVIDIA Drivers Page (https://www.nvidia.com/en-us/drivers/)."
-date: 2024-08-05 10:27:18
-updated: 2024-08-07 10:31:24
+date: 2024-08-06T09:21:58.875Z
+updated: 2024-08-07T09:21:58.875Z
 tags:
   - win11
   - win10
@@ -23,14 +23,23 @@ If you’re using Geforce GTX 1050 graphics card, and found your resolution is p
   
  2) Click**Drivers** then select**GeForce Drivers** from the drop-down menu.  
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58abe0ead6b51.jpg)
 
  3) In Manual Driver Search section, select the product series (**GeForce 10 Series** ), the Product name (**Geforce GTX 1050** ), and the operating system version. Then click **START SEARCH** .  
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58abe13ac103e.jpg)
   
  4) You’ll see the driver list dislayed. Just download the version released lately. (You can identify it according to the**Release Date** .)
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58abe38e49e3d.jpg)
   
  5) Follow the on-screen instructions to download the driver.
@@ -49,12 +58,23 @@ If you’re using Geforce GTX 1050 graphics card, and found your resolution is p
 
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b179631653c3.jpg)
 
  3) Click the **Update**   button next to a flagged GTX 1050 driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)   – you’ll be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17964fa325c.jpg)
 
  4) After updating the driver, check to see if the issue you have resolves.

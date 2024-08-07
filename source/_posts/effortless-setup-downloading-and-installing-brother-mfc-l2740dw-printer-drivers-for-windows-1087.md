@@ -1,7 +1,7 @@
 ---
 title: "Effortless Setup: Downloading & Installing Brother MFC-L2740DW Printer Drivers for Windows 10/8/7"
-date: 2024-08-04 21:12:38
-updated: 2024-08-07 11:52:32
+date: 2024-08-06T09:21:54.522Z
+updated: 2024-08-07T09:21:54.522Z
 tags:
   - win11
   - win10
@@ -15,10 +15,16 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
 
 ## Effortless Setup for Your Brother HL-L2380DW Printer - Windows Driver Downloads Here
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-22.png)
 
  Printer driver plays an essential role in the connection between computer and printer. To ensure your**Brother HL-L2380DW printer** works well, you should keep its driver on your computer up to date.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## To update your Brother HL-L2380DW printer driver
 
  There are three ways you can update the driver for your Brother HL-L2380DW printer. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -35,12 +41,18 @@ To update your Brother HL-L2380DW printer driver using Device Manager:
 2. Type “**devmgmt.msc** ” and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image.png)
 3. Find your HP printer. Then right-click the device and click**Update driver** .  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-1.png)
 4. Click**Search automatically for updated driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-2.png)
 
 Now wait for the system to complete the driver update for you.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2: Download your printer driver from the Brother website
 
  Another way to download the correct driver for your Brother HL-L2380DW printer is to go to the Brother website. To do so:
@@ -59,8 +71,14 @@ Now wait for the system to complete the driver update for you.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install**Driver Easy** .
 2. Run**Driver Easy** and click the **Scan Now** button.**Driver Easy** will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-11.png)
 3. Click the**Update** button next to_your Brother HL-L2380DW printer_ to download the correct version of its driver, then you can manually install it. Or click the **Update All** button at the bottom right to automatically update all the drivers. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-9.png)  
  You can do it for free if you like, but it’s partly manual.
 

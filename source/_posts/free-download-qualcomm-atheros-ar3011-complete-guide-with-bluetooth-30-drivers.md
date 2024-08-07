@@ -1,7 +1,7 @@
 ---
 title: "Free Download: Qualcomm Atheros AR3011 - Complete Guide with Bluetooth 3.0 Drivers"
-date: 2024-08-04 23:38:58
-updated: 2024-08-07 10:58:49
+date: 2024-08-06T09:21:56.825Z
+updated: 2024-08-07T09:21:56.825Z
 tags:
   - win11
   - win10
@@ -17,23 +17,43 @@ thumbnail: https://thmb.techidaily.com/39537ef670f74abdd3937163bf686c62a000d8146
 
 Bluetooth not working? Don’t know how to[reinstall the Bluetooth driver](https://tools.techidaily.com/drivereasy/download/) ? Your Qualcomm Atheros AR3011 Bluetooth 3.0 adapter needs the latest correct driver to function properly. In this post, we’ll show you how to get the newest driver manually or automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2 ways to get the AR3011 Bluetooth driver
 
 [Option 1: Manually](https://tools.techidaily.com/drivereasy/download/) – This requires a certain level of computer skills. You need to know where to locate your adapter in Windows, and how to check if Microsoft provides the exact driver.
 
 [**Option 2: Automatically (Recommended)**](https://www.drivereasy.com/knowledge/download-qualcomm-atheros-ar3011-bluetooth-3-0-driver/#option2) – If you don’t have the time or computer skills, maybe you’d want to update drivers automatically. All it takes are a few clicks.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Option 1: Update your Qualcomm Atheros AR3011 Bluetooth 3.0 driver manually
 
  If you’re familiar with PC hardware, you can try to update your Qualcomm Atheros AR3011 Bluetooth 3.0 driver manually. To do so, follow these steps:
 
 1. On your keyboard, press**Win** (the Windows logo key) and type**device** **manager** . From the search results, select**Device Manager** .  
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-win-search-1.jpg)
 2. Click**Bluetooth** to expand the category. Right-click**Atheros AR3011 Bluetooth 3.0** and select**Update Driver Software…**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/ar3011-update-1.jpg)
 3. Click**Search automatically for drivers** . Then wait for the process to complete. If Windows tells you the best drivers are already installed, you might need to visit the manufacturer’s website to verify.  
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/ar3011-update-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 2: Update your Qualcomm Atheros AR3011 Bluetooth 3.0 driver automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update your Bluetooth driver manually, you can, instead, do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . Driver Easy will automatically recognize your system and find the correct drivers for your exact Bluetooth adapter, and your Windows version, and it will download and install them correctly:
@@ -42,6 +62,9 @@ Bluetooth not working? Don’t know how to[reinstall the Bluetooth driver](https
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/de-ar3011-update.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**

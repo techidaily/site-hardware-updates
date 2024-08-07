@@ -1,7 +1,7 @@
 ---
 title: Update to the Latest TP-Link Wireless Adapter Drivers - Perfect for Windows Operating Systems (10/8/7)
-date: 2024-08-05 14:49:24
-updated: 2024-08-06 11:58:24
+date: 2024-08-06T09:21:42.055Z
+updated: 2024-08-07T09:21:42.055Z
 tags:
   - win11
   - win10
@@ -15,10 +15,16 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 
 ## Brother L2740DW Driver Update for Windows Operating Systems - Get Started Now
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c859caf18.jpg)
 
  This post will show you how to download and update**Brother MFC-L2740DW printer drivers** in Windows 10, Windows 8, Windows 7, Windows XP and Windows Vista.  If your printer is not working properly, such as printer not printing, you can try updating the brother printer driver to fix the issue. In addition, keeping your driver up to date can bring you the best experience.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to download or update MFC-L2740DW printer driver
 
 1. [Download MFC-L2740DW driver manually](https://tools.techidaily.com/drivereasy/download/)
@@ -33,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 
 1. Go to the **[Brother Support page](http://support.brother.com/g/b/downloadlist.aspx?c=eu%5Fot&lang=en&prod=mfcl2740dw%5Fus%5Feu%5Fas&os=7)**  .
 2. Select the**operating system** in your computer (in my case I select Windows 10 64 bit), and select the**language** you need.  
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c713bda5e.jpg)
 3. Click the**driver** in the**Drivers** section to download.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c73e819aa.jpg)
@@ -54,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 
  Now you should have the latest Brother MFC-L2740DW driver installed in your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 3:  Update MFC-L2740DW driver via Device Manager
 
 You can also directly update the  MFC-L2740DW driver via Device Manager, where you can view and manage the hardware devices and driver software in your computer. Here’s what you need to do:
@@ -61,10 +73,16 @@ You can also directly update the  MFC-L2740DW driver via Device Manager, where y
 1. On your keyboard, press the **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  
  and **R**  at the same time to invoke the Run box.
 2. Type**devmgmt.msc** and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cabe00ddb.png)
 3. Find your printer device (it may display as**Unknown device** ), and right click on it then select**Update driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ce12a7cab.png)
 4. Choose**Search automatically for updated driver software** .  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ce3ebb24f.jpg)
 5. Follow the on-screen instructions to finish the update.
   So that’s it. Hope this post will help you understand how to update**MFC-L2740DW driver** . If you have any questions, feel free to add a comment and we’ll see what more we can better help.

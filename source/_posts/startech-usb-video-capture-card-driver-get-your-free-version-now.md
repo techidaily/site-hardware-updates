@@ -1,7 +1,7 @@
 ---
 title: StarTech USB Video Capture Card Driver - Get Your Free Version Now!
-date: 2024-08-03 15:54:56
-updated: 2024-08-06 10:48:22
+date: 2024-08-06T09:21:48.366Z
+updated: 2024-08-07T09:21:48.366Z
 tags:
   - win11
   - win10
@@ -15,16 +15,25 @@ thumbnail: https://thmb.techidaily.com/c5954b26aae847d226df8714f23c02a4ef32990ac
 
 ## Free Corsair K70 Mouse Software and Drivers - Get Latest Version
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-99.png)
 
  One day when you were playing games, your Corsair K70 RGB mechanical gaming keyboard stopped working, it could be frustrating. To make your K70 work again, you can download and install the latest iCUE driver.  
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What’s iCUE driver?  
 
  iCUE drive stands for Intelligent Corsair Utility Engine. It’s a powerful software that connects all your compatible Corsair products together in a single interface. You can use it to control the performance of your Corsair devices, such as Corsair keyboards, mice, headsets. For keyboard, you can control the lighting and custom actions and macros.  
 
  If your K70 gaming keyboard doesn’t work properly, for example, the lighting doesn’t work, you can reinstall the iCUE driver.  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to download and install iCUE driver  
 
  You can go to Corsair’s website to download and install the iCUE driver. Note the steps may be different if the design on the website was changed.  
@@ -33,10 +42,16 @@ thumbnail: https://thmb.techidaily.com/c5954b26aae847d226df8714f23c02a4ef32990ac
 
  2) Select**GAMING KEYBOARDS** from the drop-down menu of**SELECT CATEGORY** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-81.png)
 
  3)**Enter ‘k70’** in the SEARCH box, and press**Enter** on your keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-82.png)
 
  4) Click the download button next to iCUE to download the driver software.
@@ -45,6 +60,9 @@ thumbnail: https://thmb.techidaily.com/c5954b26aae847d226df8714f23c02a4ef32990ac
 
  5) Double-click on the downloaded file and follow the on-screen instructions to install the software.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What to do if your K70 still has issues?  
 
  After reinstalling iCUE driver, if your K70 mechanical gaming keyboard still doesn’t work, you can use Driver Easy to update all drivers in your computer, as the problem can be caused by faulty drivers installed on your computer.  

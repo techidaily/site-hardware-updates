@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for Rectifying Issues with the Realtek 8723BE Network Card Driver
-date: 2024-08-06 14:44:17
-updated: 2024-08-07 12:42:11
+date: 2024-08-06T09:22:09.062Z
+updated: 2024-08-07T09:22:09.062Z
 tags:
   - win11
   - win10
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 
 [**Method 2** **– Automatically (Recommended):**](https://www.drivereasy.com/knowledge/amd-vega-56-drivers-download-update-for-windowssolved/#b)  This option is **much quicker and easier** .   **All**  you need to do is   **just a couple of mouse clicks** !
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ### **Method 1: Download and install your AMD Radeon Pro Vega 56 Graphics driver manually**
 
  You can download the updated driver file for your AMD Radeon Pro Vega 56 Graphics card from the official website of[**AMD**](https://www.amd.com/en) . You can follow the steps below:
@@ -33,12 +36,24 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 
 1. Click **[here](https://www.amd.com/en)**  to visit the official website of AMD.
 2. Click**DRIVERS & SUPPORT** on the top of the web page to visit AMD Drivers and Support page.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000079.png)
 3. Click**search all products** . Then select**Radeon RX Vega 56** in the list. If AMD Radeon Pro Vega 56 doesn’t appear in the list, you can type **Vega 56**  in the search bar first. Then click**SUBMIT** .  
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000135.png)
 4. Select your version of Windows to continue.  
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000136.png)
 5. Click**Download** to download the driver file to your PC.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000137.png)
 6. **Double-click** the downloaded file and follow the on-screen instructions to install the driver on your PC.
 
@@ -50,6 +65,9 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)** and install **Driver Easy** .
 2. Run **Driver Easy**  and click the **Scan Now**  button. **Driver Easy**  will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000123.png)
 3. Click **Update**  next to your **Radeon Pro Vega 56** Graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee  ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000122.png)  
