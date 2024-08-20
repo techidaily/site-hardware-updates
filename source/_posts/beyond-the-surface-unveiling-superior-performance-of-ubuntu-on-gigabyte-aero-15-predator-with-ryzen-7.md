@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Surface: Unveiling Superior Performance of Ubuntu on Gigabyte Aero 15 Predator with Ryzen 7"
-date: 2024-08-15 13:29:22
-updated: 2024-08-17 11:39:29
+date: 2024-08-19T04:35:03.009Z
+updated: 2024-08-20T04:35:03.009Z
 tags:
   - laptop
 categories:
@@ -92,18 +92,30 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  On Geekbench 6, the Zenbook S16 achieved a single-core score of 2,765 and a multi-core score of 13,282\. This was enough to beat the M3 in Apple's MacBook Air, the 16-core Intel Core Ultra 7 155H in the[HP](https://tools.techidaily.com) Spectre x360 14, and the Qualcomm Snapdragon X Elite X1E-78-100 in the HP OmniBook X. The newest Ryzen fell only to the Apple M3 Max, with scores of 3,200 and 21,711 in the 16-inch MacBook Pro (and, to be fair, a review unit stocked with 128GB of RAM, making the MacBook Air a more apt comparison from a price perspective. While it's unclear that Apple has ever released an official number, various sites have tested the M3 Max to be using significantly more power than the Ryzen AI CPU here, which is rated at 28W and configured to 17W TDP out of the box).
@@ -114,12 +126,18 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  To stress the processor, we run Cinebench 2024 for 10 runs. During the test, the system started at 821.18 points and dipped into the high 700's, and then peaked up to 844.42 points before dipping again into the mid-to-high 700's. The Zen 5 cores ran at an average of 2.67 GHz, while the Zen 5C cores reached 1.9 GHz. The CPU ran at an average of 73.44 Celsius.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## AI on the AMD Ryzen AI 9 HX 370
 
  Despite all of the hubbub around artificial intelligence, it's still only useful in so many consumer products. On Windows laptops, applications are still slowly adopting the technologies. While NPUs are often being used for background blur in video conferencing apps, generative AI is often using GPUs (at least, when it isn't looking to the cloud instead).
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/kyTb4Yk4LUiQN83wEJXLtQ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  In a reviewer's guide sent to the press, AMD suggested a number of applications to try that make use of local AI. Chief among them was a beta of Amuse 2.0, which includes image generation with Stable Diffusion, as well as paint-to-image features that are very similar to image creator in Paint on Copilot Plus PCs (though that uses DALL-E). In a way, this app, made to work well with AMD's hardware, can fill in the blanks until[Microsoft](https://tools.techidaily.com) adds Copilot Plus features to Ryzen AI laptops.
@@ -144,6 +162,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  At 357 nits, I found the Zenbook 16 to be usable, but competitors do better. The 16-inch MacBook Pro was the brightest at 563 nits, and both the MacBook Air (476.4 nits) and HP Spectre x360 366.2 nits were also brighter.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## Keyboard and Touchpad on the Asus Zenbook S16
 
  Despite just 1.1 mm travel, the Zenbook S16’s keyboard is snappy. Don't get me wrong, it's still a membrane keyboard, but it's relatively comfortable and even has a bit of bounce. On monkeytype, I hit 112 words per minute with a 2% error rate, which isn't my best, but is pretty close.
@@ -188,6 +209,9 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  But the MacBook Air M3 (15:03), HP OmniBook X on a Snapdragon X Elite (16:18), and the 16-inch MacBook Pro lasted an incredible 17:11.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Heat on the Asus Zenbook S16
 
  During our ten runs of Cinebench 2024, we took skin temperature measurements to see how the Zenbook performs under an intense workload.
@@ -212,12 +236,18 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  Asus sells the Zenbook S16 with a one-year warranty. A card included in the box offers one free year of accidental damage protection in exchange for registering the laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Asus Zenbook S16 Configurations
 
  We tested the Asus Zenbook S16 with an AMD Ryzen AI 9 HX 370, 32GB of RAM, and a 1TB SSD, which goes for $1,699.99.
 
  A cheaper version[sold at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3Fpublisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-4910217774050973812%26url%3Dhttps%253A%252F%252Fwww.bestbuy.com%252Fsite%252Fasus-zenbook-s-16-16-3k-oled-touch-screen-laptop-amd-ryzen-ai-9-365-24gb-memory-1tb-ssd-scandinavian-white%252F6584435.p%26article%255Fname%3DAsus%2520Zenbook%2520S16%2520review%253A%2520AMD%2520Ryzen%2520AI%25209%2520HX%2520370%2520tested%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Flaptops%252Fgaming-laptops%252Fasus-zenbook-s16-amd-ryzen-ai-9-hx-370-review) is $1,399.99 with a Ryzen AI 9 HX 365 and 24GB of memory, as well as a white chassis.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## Bottom Line
 
  The Asus Zenbook S16 is a solid showcase for AMD's new AI-focused processors, even if AI applications themselves aren't quite ready to excite most people.
@@ -252,3 +282,45 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-a-simple-approach-to-youtube-statistics-review/"><u>[New] 2024 Approved  A Simple Approach to YouTube Statistics Review</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-transform-your-facebook-presence-with-dynamic-slideshows/"><u>[New] In 2024, Transform Your Facebook Presence with Dynamic Slideshows</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-unveiling-your-signature-look-a-beginners-blueprint/"><u>[New] In 2024, Unveiling Your Signature Look  A Beginner's Blueprint</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-the-art-of-live-image-capturing-on-screens/"><u>[New] Mastering the Art of Live Image Capturing on Screens</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-arena-aces-unbeatable-10-royale-games/"><u>[Updated] Arena Aces  Unbeatable 10 Royale Games</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-beneath-the-surface-secrets-to-professional-underwater-videos-with-gopro/"><u>2024 Approved  Beneath the Surface  Secrets to Professional Underwater Videos with GoPro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-x90s-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo X90S Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-user-friendly-walkthrough-seamless-driver-rejuvenation-for-your-dell-g7s-gpu/"><u>A User-Friendly Walkthrough: Seamless Driver Rejuvenation for Your Dell G7's GPU</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/aprende-el-calendario-semanal-espanol/"><u>Aprende El Calendario Semanal Español</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-practices-updating-your-amd-radeon-video-card-drivers-on-windows-7/"><u>Best Practices: Updating Your AMD Radeon Video Card Drivers on Windows 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/direct-download-links-available-now-get-epson-et-2750-printer-software-for-windows-users/"><u>Direct Download Links Available Now! Get Epson ET-2750 Printer Software for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-upgrade-amd-vega-graphics-card-drivers-optimized-gaming-experience/"><u>Download and Upgrade AMD Vega Graphics Card Drivers: Optimized Gaming Experience!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-and-free-updated-sound-blaster-audigy-fx-drivers-for-superior-audio-performance/"><u>Easy & Free: Updated Sound Blaster Audigy Fx Drivers for Superior Audio Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-installing-your-epson-wf-3620-printer-driver-on-windows-11-8-and-7-systems/"><u>Easy Guide to Downloading and Installing Your Epson WF-3620 Printer Driver on Windows 11, 8 & 7 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-epson-ds-530-printer-software-for-windows-10-x64/"><u>Easy Installation of Epson DS-530 Printer Software for Windows 10 (X64)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-motorola-moto-g-stylus-5g-2023-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on Motorola Moto G Stylus 5G (2023)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-the-latest-hp-deskjet-ink-advantage-3520-drivers-for-your-computer/"><u>Find the Latest HP Deskjet Ink Advantage 3520 Drivers for Your Computer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixing-the-hp-beats-audio-driver-glitch-for-optimal-performance-on-your-pc-running-windows-1187/"><u>Fixing the HP Beats Audio Driver Glitch for Optimal Performance on Your PC Running Windows 11/8/7</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-amateurs-to-pros-step-by-step-guide-on-mastering-background-erasing-in-adobe-photoshop/"><u>From Amateurs to Pros  Step-by-Step Guide on Mastering Background Erasing in Adobe Photoshop</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-best-audio-experience-with-updated-focusrite-scarlett-2i4-drivers-for-windows-pcs/"><u>Get the Best Audio Experience with Updated Focusrite Scarlett 2I4 Drivers for Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977029096-get-the-latest-brother-hl-l2360dw-printer-drivers-download-now/"><u>Get the Latest Brother HL-L2360DW Printer Drivers – Download Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-netgear-a6210-driver-software-for-windows-87-no-cost/"><u>Get the Latest Netgear A6210 Driver Software for Windows 8/7 – No Cost!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-asus-screen-up-to-date-easy-downloads-inside/"><u>Get Your ASUS Screen Up-to-Date: Easy Downloads Inside!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722966310031-get-your-brother-hl-expressdrive-cddvd-printer-up-and-running-in-minutes/"><u>Get Your Brother HL-eXpressDrive CD/DVD Printer Up & Running in Minutes!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-epson-v700-downloaded-compatible-with-windows-7-to-10-and-81/"><u>Get Your Epson V700 Downloaded: Compatible with Windows 7 to 10 and 8.1</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-safely-acquire-corsair-keyboard-software-and-drivers-for-windows-free-download/"><u>How to Safely Acquire Corsair Keyboard Software & Drivers for Windows - FREE Download</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-realme-12-proplus-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Realme 12 Pro+ 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-shot-upgrade-no-money-needed/"><u>In 2024, Ultimate Shot Upgrade - No Money Needed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-the-latest-dell-g15-driver-software-for-windows-systems/"><u>Installing the Latest Dell G15 Driver Software for Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-access-to-the-ft232r-uart-driver-free-easy-download/"><u>Instant Access to the FT232R UART Driver - Free, Easy Download!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-12plus-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme 12+ 5G Phone FRP Lock</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-canon-dr-c225-software-update-download-and-setup-instructions-for-windows-users/"><u>Latest Canon DR-C225 Software Update - Download and Setup Instructions for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/next-level-gaming-experience-awaits-with-msi-geforce-rtx-3080-ti-trio-upgrade/"><u>Next-Level Gaming Experience Awaits with MSI GeForce RTX 3080 Ti TRIO Upgrade</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/optimize-your-games-with-the-newest-nvidia-geforce-driver-download-for-windows-1110/"><u>Optimize Your Games with the Newest NVIDIA GeForce Driver - Download for Windows 11/10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-download-of-lenovo-t430-drivers-on-windows-1187-systems/"><u>Step-by-Step Download of Lenovo T430 Drivers on Windows 11/8/7 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-tutorial-on-acquiring-and-applying-dell-wd1f-driver-software/"><u>The Ultimate Tutorial on Acquiring and Applying Dell WD1f Driver Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/trouble-free-operation-achieved-for-pci-security-communication-module-drivers/"><u>Trouble-Free Operation Achieved for PCI Security Communication Module Drivers</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-samsung-galaxy-a05s-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Samsung Galaxy A05s?</u></a></li>
+</ul></div>

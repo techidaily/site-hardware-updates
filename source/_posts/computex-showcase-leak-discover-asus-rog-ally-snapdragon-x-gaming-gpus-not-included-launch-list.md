@@ -1,7 +1,7 @@
 ---
 title: "Computex Showcase Leak: Discover Asus ROG Ally, Snapdragon X - Gaming GPUs Not Included Launch List"
-date: 2024-08-16 17:17:55
-updated: 2024-08-17 12:48:20
+date: 2024-08-19T04:33:17.196Z
+updated: 2024-08-20T04:33:17.196Z
 tags:
   - laptop
 categories:
@@ -71,12 +71,18 @@ Acer Swift 14 AI  (Image credit: Qualcomm)
 
  Acer intends to launch the Swift 14 AI in the United States this June, with prices starting at $1,099.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Lenovo Yoga Slim 7x 14 Gen 9 and ThinkPad 14s Gen 6
 
  Next, we have the Yoga Slim 7x 14 Gen 9 from the Lenovo camp. Manufacturers often talk about "all-day" battery life with their thin and light[notebooks](https://tools.techidaily.com) , but Lenovo claims that the Yoga Slim 7x extends that to "multi-day battery life." The efficient Snapdragon X Elite processor is paired with up to 32GB of LPDDR5x and includes a 70 WHr battery to enable this long endurance.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/6ajDJXDRMCTNS5JfXuENyN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 Lenovo Yoga Slim 7x 14 Gen 9  (Image credit: Qualcomm)
 
  Your "window" into the computing world is through a 14.5-inch PureSight OLED panel with a 90Hz refresh rate and a 2944 x 1840 resolution. Lenovo says you'll get 100% coverage of sRGB and the P3 color gamuts. Other features include a 1080p webcam with IR support for Windows Hello and a four-speaker[audio](https://tools.techidaily.com) system.
@@ -110,12 +116,18 @@ Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  According to Lenovo, the Yoga Slim 7x and ThinkPad T14s Gen 6 will debut next month, priced from $1,199 and $1,699, respectively.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## Dell XPS 13, Inspiron 14 Plus, and Latitude 7455
 
  Dell’s lineup of Snapdragon X laptops[leaked early last week](https://tools.techidaily.com) , so things here should look somewhat familiar. The XPS 13 has a striking design, with a keyboard that goes nearly to the left and right edge of the CNC-machined aluminum chassis (available in Platinum or Graphite). You'll also find the controversial capacitive touch function row above the keyboard, which we discussed in our[reviews of the XPS 14 and XPS 16](https://tools.techidaily.com) . The haptic touchpad is also seamlessly integrated into the keyboard deck, which is covered in Gorilla Glass 3.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/cXqoxKsRoc29VARWi2JunN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 Dell XPS 13  (Image credit: Qualcomm)
 
  Dell makes the Snapdragon X Elite or the Snapdragon X Plus available, although the latter is only coming to the Chinese market (at least for now). Customers can choose from 16GB, 32GB, or 64GB of dual-channel LPDDR5x memory and 512GB, 1TB, 2TB, or 4TB (later availability) SSDs.
@@ -137,6 +149,9 @@ Dell XPS 13  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/5STqZSSuR2Yb9mkF7rrCLN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 Dell Inspiron 14 Plus  (Image credit: Qualcomm)
 
  The Inspiron 14 Plus comes exclusively with the Snapdragon X Plus, 16GB LPDDR5x memory, and 512GB/1TB SSD options. You get just one display option: a 14-inch 2560 x 1600 IPS panel with touch and an anti-glare coating. You also get two USB-C ports, one USB-A port, a microSD card reader, a headphone jack, quad speakers, a 1080p IR webcam with privacy shutter, Wi-Fi 7, Bluetooth 5.4, a power button with integrated fingerprint reader, and a 54 WHr battery.
@@ -153,6 +168,15 @@ Dell Latitude 7455  (Image credit: Qualcomm)
 
  The XPS 13 and Inspiron 14 Plus are scheduled to launch "later this year," priced from $1,299 and $1,099, respectively. Pricing and availability aren't yet known for the Latitude 7455.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## Hewlett-Packard OmniBook X and EliteBook Ultra
 
  The[HP](https://tools.techidaily.com) OmniBook X and HP EliteBook Ultra share the same aluminum chassis design, weighing 2.97 pounds, and they measure 12.32 x 8.8 x 0.57 inches. The primary difference is that the latter features a blue finish with a Physical Vapor Deposition (PVD) coating to help resist fingerprints.
@@ -190,3 +214,50 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-save-on-soccer-spectacles-live-tape-trim-for-free/"><u>[New] 2024 Approved  Save on Soccer Spectacles - Live, Tape, Trim for Free</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-the-ultimate-process-to-update-your-videos-cover-images/"><u>[New] 2024 Approved  The Ultimate Process to Update Your Videos' Cover Images</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-audiblefromtwitvid-direct-audio-conversion/"><u>[New] AudibleFromTwitVid  Direct Audio Conversion</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-reimagining-user-engagement-top-10-video-editors-outside-vimeo/"><u>[New] Reimagining User Engagement  Top 10 Video Editors Outside Vimeo</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-unwind-with-these-favorite-pc-games/"><u>[New] Unwind with These Favorite PC Games</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-conquer-snapchats-boomerang-challenges-easily/"><u>[Updated] 2024 Approved  Conquer Snapchat's Boomerang Challenges Easily</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-dissecting-the-technology-behind-frapss-screenshot-pro/"><u>[Updated] 2024 Approved  Dissecting the Technology Behind Fraps's Screenshot Pro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-the-art-of-cutting-with-vivacuts-full-review-2024/"><u>[Updated] Master the Art of Cutting with VivaCut's Full Review 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-beginning-a-charitable-cyber-fundraiser-on-fb/"><u>2024 Approved  Beginning a Charitable Cyber Fundraiser on FB</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-elite-hd-visual-snapshot-solutions/"><u>2024 Approved  Elite HD Visual Snapshot Solutions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pro-tip-guide-to-integrating-photos-and-videos-into-windows-10/"><u>2024 Approved  Pro-Tip Guide to Integrating Photos and Videos Into Windows 10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-elite-choices-a-guide-to-hdr-cameras/"><u>2024 Approved  Unveiling Elite Choices  A Guide to HDR Cameras</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-scanner-drivers-download-for-windows-free-and-easy/"><u>Canon Scanner Drivers Download for Windows | Free & Easy</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/corsair-fans-secure-optimal-compatibility-with-h80i-v2-driver-update/"><u>Corsair Fans: Secure Optimal Compatibility with H80I V2 Driver Update.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-broadcom-wireless-drivers-ensuring-compatibility-and-seamless-connectivity/"><u>Download Broadcom Wireless Drivers: Ensuring Compatibility and Seamless Connectivity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-canon-ip110-printer-drivers-for-latest-windows-versions-11-10-8-and-7/"><u>Download Canon IP110 Printer Drivers for Latest Windows Versions (11, 10, 8 & 7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-techkey-bluetooth-device-driver-compatible-with-windows-1078/"><u>Download Techkey Bluetooth Device Driver: Compatible with Windows 10/7/8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-access-to-up-to-date-kodak-printer-drivers-download-now/"><u>Easy Access to Up-to-Date Kodak Printer Drivers – Download Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-logitech-brio-webcam-drivers-and-software-downloads-for-windows-win-1087/"><u>Easy Setup: Logitech Brio Webcam Drivers & Software Downloads for Windows (Win 10/8/7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-device-functionality-on-windows-11-with-recent-lenovo-driver-updates/"><u>Enhance Device Functionality on Windows 11 with Recent Lenovo Driver Updates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhancing-your-brother-device-functionality-windows-compatible-driver-upgrades-available-now/"><u>Enhancing Your Brother Device Functionality: Windows-Compatible Driver Upgrades Available Now!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expert-techniques-efficiently-collecting-photo-and-video-banners/"><u>Expert Techniques  Efficiently Collecting Photo and Video Banners</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-for-successfully-patching-and-refreshing-ati-radeon-drivers-in-windows-environment/"><u>Expert Tips for Successfully Patching and Refreshing ATI Radeon Drivers in Windows Environment</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-complete-guide-and-amd-gpio-device-driver/"><u>Free Download: Complete Guide & AMD GPIO Device Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-gamepad-driver-for-xbox-360-controllers/"><u>Free Download: Gamepad Driver for Xbox 360 Controllers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-officejet-pro-8740-drivers-for-windows-operating-systems-win11-win10-win8/"><u>Get the Latest HP OfficeJet Pro 8740 Drivers for Windows Operating Systems (Win11, Win10, Win8)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-webcam-driver-software-for-windows-creative-edition/"><u>Get the Latest Webcam Driver Software for Windows - Creative Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-and-set-up-the-epson-xp-400-drivers-a-comprehensive-walkthrough/"><u>How to Get and Set Up the Epson XP-400 Drivers: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-geforce-gtx-460-graphics-card-drivers-installed-on-your-pc/"><u>How to Get the Latest GeForce GTX 460 Graphics Card Drivers Installed on Your PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-deskjet-ink-advantage-vehicle-3050a-secure-free-drivers-and-improvements-for-windows-users/"><u>HP Deskjet Ink Advantage Vehicle 3050A - Secure Free Drivers and Improvements for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/improve-your-pcs-performance-with-free-gigabyte-ethernet-card-driver-downloads/"><u>Improve Your PC's Performance with Free Gigabyte Ethernet Card Driver Downloads!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977166985-install-latest-logitech-speakers-drivers-on-windows-1178-direct-download-links/"><u>Install Latest Logitech Speakers' Drivers on Windows 11/7/8 - Direct Download Links!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-startechs-usb-video-graphics-adaptor-driver-for-windows-and-mac/"><u>Installing StarTech's USB Video Graphics Adaptor Driver for Windows & Mac</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-epson-wf-7720-drivers-for-windows-a-comprehensive-guide/"><u>Latest Epson WF-7720 Drivers for Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-msi-b350-thumahorse-graphics-card-drivers-windows-11-and-7-support/"><u>Latest MSI B350 THUMAHORSE Graphics Card Drivers: Windows 11 & 7 Support</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/msi-sound-drivers-download-for-windows/"><u>MSI Sound Drivers Download for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-260-ci-wi-fi-aware-driver-compatibility-with-usb-ports/"><u>Resolving 260 Ci Wi-Fi Aware Driver Compatibility with USB Ports</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-installation-of-nvidia-1080-drivers-on-windows-10-step-by-step-process/"><u>Seamless Installation of Nvidia 1080 Drivers on Windows 10: Step by Step Process</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-downloading-and-installing-steelseries-windows-software/"><u>Step-by-Step Guide to Downloading & Installing SteelSeries Windows Software</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/stepwise-introduction-to-adding-texts-on-tiktok-for-2024/"><u>Stepwise Introduction to Adding Texts on TikTok for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/synchronizing-online-interactions-minimizing-delay-in-data-transmission/"><u>Synchronizing Online Interactions: Minimizing Delay in Data Transmission</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722972442453-the-balance-of-power-and-strategic-interests-are-significant-factors-that-influence-states-decisions-regarding-nuclear-armament-or-disarmament/"><u>The Balance of Power and Strategic Interests Are Significant Factors that Influence States' Decisions Regarding Nuclear Armament or Disarmament.</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-breaking-free-from-quik-exploring-the-best-pc-video-editors-for-gopro-users/"><u>Updated In 2024, Breaking Free From Quik Exploring the Best PC Video Editors for GoPro Users</u></a></li>
+</ul></div>

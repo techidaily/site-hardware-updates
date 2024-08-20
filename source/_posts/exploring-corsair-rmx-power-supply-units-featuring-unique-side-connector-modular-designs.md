@@ -1,7 +1,7 @@
 ---
 title: Exploring Corsair RMx Power Supply Units Featuring Unique Side-Connector Modular Designs
-date: 2024-08-15 10:22:50
-updated: 2024-08-18 11:30:14
+date: 2024-08-19T04:12:14.368Z
+updated: 2024-08-20T04:12:14.368Z
 tags:
   - power-supply
 categories:
@@ -69,8 +69,14 @@ Category
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Back to Hubs & Switches
 
 Brand
@@ -87,6 +93,9 @@ Colour
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Black
 
  Copper
@@ -95,6 +104,14 @@ Condition
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
  New
 
  Refurbished
@@ -103,6 +120,10 @@ Price
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 Any Price
 
  Showing 10 of 52 deals
@@ -111,6 +132,10 @@ Any Price
 
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 [Netgear GS305E](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PJ7XZ7X%2Fref%3Dasc%5Fdf%5FB07PJ7XZ7X1723888800000%3Ftag%3Dhawk-future-20%26creative%3D395261%26creativeASIN%3DB07PJ7XZ7X%26linkCode%3Dasn%26ascsubtag%3Dtomshardware-us-1310836781021125979-20)
 
 1
@@ -277,3 +302,42 @@ Our Review
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-tribe-50-branding-banners-ready-to-unleash-for-2024/"><u>[New] Free Tribe  50 Branding Banners Ready to Unleash for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-mind-puzzling-stats-a-graphed-journey-through-yt-17/"><u>[New] Mind-Puzzling Stats  A Graphed Journey Through YT '17</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-navigating-copyright-laws-when-turning-social-media-videos-into-gifs-for-educational-purposes/"><u>[New] Navigating Copyright Laws When Turning Social Media Videos Into GIFS for Educational Purposes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-leading-8-affordable-open-source-platforms-for-enterprise-calls/"><u>[Updated] Leading 8 Affordable Open-Source Platforms for Enterprise Calls</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-maximize-memories-overwatch-game-footage/"><u>2024 Approved  Maximize Memories  Overwatch Game Footage</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722962085035-amd-rx-480-driver-updates-made-easy-secure-your-optimal-performance-now/"><u>AMD RX 480 Driver Updates Made Easy - Secure Your Optimal Performance Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978232951-download-official-nvidia-geforce-rtx-3070-ti-drivers-compatible-with-windows-1187/"><u>Download Official NVIDIA GeForce RTX 3070 Ti Drivers Compatible with Windows 11/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-version-of-brother-hl-2240-drivers-for-pcs-running-windows/"><u>Download the Latest Version of Brother HL-2240 Drivers for PCs Running Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-gaming-and-graphics-with-the-latest-nvidia-rtx-2070-super-drivers-on-windows-11/"><u>Enhance Gaming & Graphics with the Latest Nvidia RTX 2070 Super Drivers on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-download-the-best-audio-drivers-for-windows-7-computers/"><u>Find and Download the Best Audio Drivers for Windows 7 Computers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/genshin-impact-error-4201-a-step-by-step-fix-for-a-smooth-gameplay-experience/"><u>Genshin Impact Error 4201 – A Step-by-Step Fix for a Smooth Gameplay Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-latest-canon-mg3420-drivers-for-windows-1187-pcs-fast-download/"><u>Get Latest Canon MG3420 Drivers for Windows 11/8/7 PCs - Fast Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-latest-software-update-for-your-hp-deskjet-cuinti-one-printer-compatible-with-win-10-8-and-7/"><u>Get Latest Software Update for Your HP DeskJet Cuinti-One Printer - Compatible with Win 10, 8, and 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-up-to-date-rtx-2e80-graphics-card-drivers-for-windows-versions-win11-7-and-8/"><u>Get Up-to-Date RTX 2E80 Graphics Card Drivers for Windows Versions: Win11, 7, and 8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-canon-mf8200c-drivers-support-for-windows-781-and-windows-10-systems/"><u>Get Your Canon MF8200C Drivers - Support for Windows 7/8.1 and Windows 10 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fix-your-lg-monitors-connectivity-issues-with-older-and-newer-windows-os/"><u>How to Fix Your LG Monitor's Connectivity Issues with Older and Newer Windows OS</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-11-pro-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 11 Pro to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973687452-how-to-update-usb-drivers-on-your-asus-computer-quickly-and-easily/"><u>How to Update USB Drivers on Your ASUS Computer. Quickly & Easily</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-deskjet-envy-2540-printing-solutions-driver-update-guide-and-download-links/"><u>HP Deskjet Envy 2540 Printing Solutions: Driver Update Guide & Download Links</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-logitech-g29-racing-game-controller-on-pcs-running-windows-10-7-or-8/"><u>Install Logitech G29 Racing Game Controller on PCs Running Windows 10, 7 or 8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installation-guide-the-most-recent-driver-update-for-brother-hl-l2350dw/"><u>Installation Guide: The Most Recent Driver Update for Brother HL-L2350DW</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keep-your-computer-running-smoothly-intel-rst-driver-software-downloads-for-quick-boot-and-data-safety/"><u>Keep Your Computer Running Smoothly - Intel RST Driver Software Downloads for Quick Boot & Data Safety</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-updates-for-intel-integrated-graphics-drivers-compatible-with-windows-11/"><u>Latest Updates for Intel Integrated Graphics Drivers: Compatible with Windows 11</u></a></li>
+<li><a href="https://media-tips.techidaily.com/making-memes-made-easy-a-step-by-step-iphone-tutorial-for-beginners-featuring-the-newest-meme-creators/"><u>Making Memes Made Easy: A Step-by-Step iPhone Tutorial for Beginners, Featuring the Newest Meme Creators</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-discretion-in-digital-artistry-for-2024/"><u>Mastering Discretion in Digital Artistry for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969413497-nvidias-most-recent-geforce-rtx-3080-driver-download-for-windows-users/"><u>NVIDIA's Most Recent GeForce RTX 3080 Driver - Download for Windows Users!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722962573592-official-brother-support-get-your-hl-l2340dw-printer-drivers-on-windows-now/"><u>Official Brother Support: Get Your HL-L2340DW Printer Drivers on Windows Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-fix-for-your-acer-predator-xb271hu-secure-and-simple-driver-downloads-today/"><u>Quick Fix for Your Acer Predator XB271HU: Secure & Simple Driver Downloads Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-updating-and-downloading-drivers-on-the-microsoft-surface-book-2/"><u>Step-by-Step Tutorial: Updating and Downloading Drivers on the Microsoft Surface Book 2</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Motorola G24 Power? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/up-to-date-drivers-for-enhancing-performance-of-nvidias-rtx-2080-across-various-windows-os/"><u>Up-to-Date Drivers for Enhancing Performance of NVIDIA's RTX 2080 Across Various Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-dell-wireless-network-driver-today-download-here/"><u>Update Your Dell Wireless Network Driver Today - Download Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-sharp-printers-drives-effortlessly-a-guide-for-windows-operating-system-users/"><u>Update Your Sharp Printer's Drives Effortlessly: A Guide for Windows Operating System Users</u></a></li>
+</ul></div>

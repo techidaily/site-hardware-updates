@@ -1,7 +1,7 @@
 ---
 title: "Experience Extended 'Multi-Day Battery Life' On the Latest Laptops From Acer, Dell, HP & Lenovo: New $1, 099 Snapdragon X and Windows Copilot+ PCs Available Now!"
-date: 2024-08-15 22:25:21
-updated: 2024-08-17 11:33:38
+date: 2024-08-19T04:33:24.120Z
+updated: 2024-08-20T04:33:24.120Z
 tags:
   - laptop
 categories:
@@ -100,6 +100,9 @@ Lenovo Yoga Slim 7x 14 Gen 9  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/QXLgUBPHQLuoQKnKFXBYAN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  Lenovo provides three display options with the ThinkPad T14s Gen 6: the first two are 14-inch 400-nit IPS panels with a 1920 x 1200 resolution, but one supports touch, and the other doesn't. The third option is a 2.8K OLED panel with 100% coverage of DCI-P3 and VESA HDR True Black 500 compliance.
@@ -110,6 +113,9 @@ Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  According to Lenovo, the Yoga Slim 7x and ThinkPad T14s Gen 6 will debut next month, priced from $1,199 and $1,699, respectively.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Dell XPS 13, Inspiron 14 Plus, and Latitude 7455
 
  Dell’s lineup of Snapdragon X laptops[leaked early last week](https://tools.techidaily.com) , so things here should look somewhat familiar. The XPS 13 has a striking design, with a keyboard that goes nearly to the left and right edge of the CNC-machined aluminum chassis (available in Platinum or Graphite). You'll also find the controversial capacitive touch function row above the keyboard, which we discussed in our[reviews of the XPS 14 and XPS 16](https://tools.techidaily.com) . The haptic touchpad is also seamlessly integrated into the keyboard deck, which is covered in Gorilla Glass 3.
@@ -137,6 +143,9 @@ Dell XPS 13  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/5STqZSSuR2Yb9mkF7rrCLN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Dell Inspiron 14 Plus  (Image credit: Qualcomm)
 
  The Inspiron 14 Plus comes exclusively with the Snapdragon X Plus, 16GB LPDDR5x memory, and 512GB/1TB SSD options. You get just one display option: a 14-inch 2560 x 1600 IPS panel with touch and an anti-glare coating. You also get two USB-C ports, one USB-A port, a microSD card reader, a headphone jack, quad speakers, a 1080p IR webcam with privacy shutter, Wi-Fi 7, Bluetooth 5.4, a power button with integrated fingerprint reader, and a 54 WHr battery.
@@ -145,6 +154,9 @@ The 3.17-pound Inspiron 14 Plus measures 12.36 x 8.80 x 0.66 inches.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/ejCrV57dyrk8JZeZLG66eN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 Dell Latitude 7455  (Image credit: Qualcomm)
 
  Rounding out Dell's Snapdragon X assault is the Latitude 7455, aimed at business users (Snapdragon X Elite or Snapdragon X Plus with up to 32GB of LPDDR5x). This 14-inch laptop is only available with a 2560 x 1600 IPS display and anti-glare coating.
@@ -153,12 +165,18 @@ Dell Latitude 7455  (Image credit: Qualcomm)
 
  The XPS 13 and Inspiron 14 Plus are scheduled to launch "later this year," priced from $1,299 and $1,099, respectively. Pricing and availability aren't yet known for the Latitude 7455.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## Hewlett-Packard OmniBook X and EliteBook Ultra
 
  The[HP](https://tools.techidaily.com) OmniBook X and HP EliteBook Ultra share the same aluminum chassis design, weighing 2.97 pounds, and they measure 12.32 x 8.8 x 0.57 inches. The primary difference is that the latter features a blue finish with a Physical Vapor Deposition (PVD) coating to help resist fingerprints.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/kkJgrFcMsp5e7XQRtHVKxM-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
 
  The two laptops each have a Snapdragon X Elite chip, a 14-inch 2240 x 1400 IPS display, support for Wi-Fi 6E/Bluetooth 5.3 or Wi-Fi 7/Bluetooth 5.4, a 1080p webcam with IR, a 59 WHr battery, two USB-C ports, and one USB-A port. The OmniBook X is available with 16GB or 32GB of LPDDR5x and 512GB, 1TB, or 2TB SSD options. The EliteBook Ultra is only available with 16GB of LPDDR5x and a 512GB or 1TB SSD.
@@ -190,3 +208,46 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-cooking-cut-away-classics-top-7-techniques-for-tasty-videos/"><u>[New] 2024 Approved  Cooking Cut-Away Classics - Top 7 Techniques for Tasty Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-assessing-the-apex-of-video-recording-is-it-splitcam/"><u>[New] Assessing the Apex of Video Recording  Is It SplitCam?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-unlock-new-potentials-iphone-x-secrets-unveiled/"><u>[New] In 2024, Unlock New Potentials  IPhone X Secrets Unveiled</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-perfected-pixelated-photos-follow-the-10-key-composition-guidelines/"><u>[New] Perfected Pixelated Photos  Follow the 10 Key Composition Guidelines</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-list-of-3d-animation-and-modelling-programs/"><u>[New] The Ultimate List of 3D Animation and Modelling Programs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-captivating-content-top-three-channel-growth-strategies/"><u>[Updated] 2024 Approved  Captivating Content  Top Three Channel Growth Strategies</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-how-to-make-a-playlist-on-youtube/"><u>[Updated] 2024 Approved  How to Make a Playlist on YouTube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-quick-and-easy-way-to-record-iphone-screens/"><u>[Updated] In 2024, Quick & Easy Way to Record iPhone Screens</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-best-mp4-players-for-music-enthusiasts-for-2024/"><u>10 Best MP4 Players for Music Enthusiasts for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-expert-blueprint-fashioning-timer-functionality-with-video-editors/"><u>2024 Approved  Expert Blueprint  Fashioning Timer Functionality with Video Editors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-performance-intel-iris-plus-gfx-driver-v655-for-windows-11-systems/"><u>Best Performance: Intel Iris Plus Gfx Driver v655 for Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-brother-l2340dw-printer-software-for-winsys/"><u>Download and Install Brother L2340DW Printer Software for WinSys</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-nvidia-geforce-rtx-3070-drivers-on-windows-11/"><u>Download and Install NVIDIA GeForce RTX 3070 Drivers on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/downloading-logitech-m525-mouse-software-and-required-drivers/"><u>Downloading Logitech M525 Mouse Software and Required Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-download-and-setup-for-amd-radeon-rx-6800-driver-supports-windows-11-10-8-and-7/"><u>Easy Download and Setup for AMD Radeon RX ˈ6800 Driver: Supports Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-downloading-and-installing-kyocera-printer-software-for-windows-users/"><u>Easy Setup: Downloading & Installing KYOCERA Printer Software for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-guide-updating-windows-battery-driver-software-with-ease/"><u>Effortless Guide: Updating Windows Battery Driver Software with Ease</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-peak-performance-with-new-geforce-gtx-770-drivers-for-windows-computers/"><u>Ensure Peak Performance with New GeForce GTX 770 Drivers for Windows Computers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-14-pro-max-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone 14 Pro Max Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-vivo-v29-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Vivo V29 Face Lock?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-acer-monitor-graphics-driver-for-pcs-and-laptops/"><u>Get the Newest Acer Monitor Graphics Driver for PCs and Laptops</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-installation-amd-ryzen-5-2600-driver-downloads-at-lightning-speed/"><u>Hassle-Free Installation: AMD Ryzen 5 2600 Driver Downloads at Lightning Speed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-rapid-download-hp-stream-driver-collection/"><u>Hassle-Free Rapid Download: HP Stream Driver Collection</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-excel-2010-files-electronically-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i sign a Excel 2010 files electronically</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-install-and-update-your-canon-mp250-printers-latest-drivers-online/"><u>How to Easily Install and Update Your Canon MP250 Printer's Latest Drivers Online</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-official-samsung-phone-drivers-for-pc-and-mac/"><u>How to Install Official Samsung Phone Drivers for PC and Mac</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-vivo-y55s-5g-2023-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo Y55s 5G (2023) Fingerprint Lock</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-tecno-phantom-v-fold-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Tecno Phantom V Fold To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-11-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-motorola-moto-g24-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Motorola Moto G24 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-software-download-for-hp-deskjet-3755-inkjet-all-in-one-printer-compatible-with-windows-os-10-8-and-7/"><u>Latest Software Download for HP DeskJet 3755 Inkjet All-In-One Printer - Compatible with Windows OS (10, 8 & 7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-release-magicard-rio-pro-driver-download-now-for-windows-7-81-and-10/"><u>New Release: Magicard Rio Pro Driver - Download Now for Windows 7, 8.1 & 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/razer-naga-driver-downloads-and-upgrades-complete-guide-for-windows-computers/"><u>Razer Naga Driver Downloads & Upgrades: Complete Guide for Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/realtek-network-card-issues-in-windows-os-a-fix-guide-for-windows-11-10-and-7-users/"><u>Realtek Network Card Issues in Windows OS: A Fix Guide for Windows 11, 10, & 7 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ricoh-printer-driver-downloads-for-windows-operating-system-fast-installation-steps/"><u>Ricoh Printer Driver Downloads for Windows Operating System – Fast Installation Steps!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722968582740-the-rise-of-alternative-ideologies-such-as-islamist-theocracy-and-nationalism-suggest-that-liberal-democracy-is-not-universally-accepted-or-desirable/"><u>The Rise of Alternative Ideologies Such as Islamist Theocracy and Nationalism Suggest that Liberal Democracy Is Not Universally Accepted or Desirable.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-seagate-backup-plus-upgrade-guide-advanced-methods-for-202n/"><u>The Ultimate Seagate Backup Plus Upgrade Guide - Advanced Methods for 202N</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-msi-b3ns-with-the-newest-drivers-for-windows-10-and-7-get-the-tomahawk-edition/"><u>Update Your MSI B3n's with the Newest Drivers for Windows 10 and 7 - Get the Tomahawk Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-to-the-latest-version-of-hp-scanjet-drivers-now-available-for-windows-users/"><u>Upgrade to the Latest Version of HP Scanjet Drivers Now Available for Windows Users</u></a></li>
+</ul></div>

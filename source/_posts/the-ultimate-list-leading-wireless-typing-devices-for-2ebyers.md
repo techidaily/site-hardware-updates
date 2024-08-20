@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate List: Leading Wireless Typing Devices for 2Ebyers"
-date: 2024-08-15 11:58:22
-updated: 2024-08-18 10:15:18
+date: 2024-08-19T04:13:08.955Z
+updated: 2024-08-20T04:13:08.955Z
 tags:
   - peripherals
 categories:
@@ -120,6 +120,9 @@ Today's best Keychron Q1 deals
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Typing and Gaming Experience on the Q1 HE
 
  The prebuilt Q1 HE comes with Gateron 2.0 Nebula switches, which are linear magnetic switches with a starting force of 40g and a bottom-out force of 60g. This is the only prebuilt switch option, but Keychron also sells two other compatible switches separately — Gateron 2.0 Dawn (linear, 30g starting force, 50g bottom-out) and Gateron 2.0 Aurora (linear, 50g starting force, 70g bottom-out).
@@ -128,6 +131,9 @@ Today's best Keychron Q1 deals
 
 ![Keychron Q1 HE](https://cdn.mos.cms.futurecdn.net/VRGcGtLcEcSgw9EymrUKoR-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The Q1 HE's switches are pre-lubed and have a dual-rail structure designed to reduce stem wobble. This works well; the switches are smooth and stable — there's still some stem wobble but it's not bad. The board features a double gasket mount design that makes for a comfortable typing experience, and the case is lined with sound-dampening foam and an acoustic pad to reduce ping. It's a nice-sounding keyboard out of the box, though there's some noticeable stabilizer rattle (especially in the space bar) and bottoming out sounds slightly dull. The Q1 HE's sound is not too far from that of the Boog75 — but I did have a (mild, but definitive) preference for the latter.
@@ -136,6 +142,9 @@ Today's best Keychron Q1 deals
 
  The Q1 HE also makes a great gaming keyboard — actually, I'm not sure why Keychron didn't release this under its gaming brand (Lemokey), considering magnetic Hall Effect switches are mainly advertised to gamers for their speed and features like Rapid Trigger. (Well, it's probably going to; the P1, which appears to be the Q1's equivalent, is[up for pre-order on Lemokey's site now](https://www.lemokey.com/products/lemokey-p1-qmk-via-custom-gaming-keyboard) .) Anyway, the Q1 HE offers the standard swath of magnetic switch features: wide range, precise adjustable actuation, multiple inputs on a single key, and Rapid Trigger. The switches have an actuation range of 0.5 - 3.8mm, with a sensitivity of 0.1mm, and each key's actuation can be set individually with Keychron's new web-based customization app, Keychron Launcher. The keyboard also offers low-latency 1,000 Hz polling rates over both wireless (2.4GHz) and wired connections.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Features and Software of the Q1 HE
 
  The Q1 HE offers three forms of connectivity: low-latency 2.4GHz wireless, Bluetooth 5.1, and wired (via USB-C). The 2.4GHz wireless connection was solid and consistent in my testing, and there was no noticeable difference in latency between it and the wired connection (as you might expect, there was noticeable lag over the Bluetooth connection). The keyboard has two switches on the back: one to switch between connection types and one to switch between PC and Mac modes. My only minor gripe was with the connection switch, which was trickier to quickly move into position than it should have been. (Luckily, speed-switching connections isn't one of my priorities.)
@@ -158,6 +167,9 @@ Today's best Keychron Q1 deals
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -166,6 +178,9 @@ Today's best Keychron Q1 deals
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -182,6 +197,9 @@ Today's best Keychron Q1 deals
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -190,6 +208,9 @@ Today's best Keychron Q1 deals
 
  The Q1 HE has a 4,000 mAh battery that Keychron says will last "up to 100 hours" with the backlighting turned off. That's not terribly impressive given the keyboard's weight, but it also seems like plenty... given the keyboard's weight. I expect this nearly-four-pound keyboard will spend most of its time on desks.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ## The Bottom Line
 
  The Keychron Q1 HE QMK Wireless Custom keyboard is pretty impressive — even though every custom keyboard company seems to have a nearly identical offer._Nearly_ being the key word — the Q1 HE has the solid build and nice typing experience of the[Meletrix Boog75](https://tools.techidaily.com) , the tri-mode connectivity of the[Akko MOD007B-HE PC](https://tools.techidaily.com) , and the larger layout we wanted from the[Arbiter Studio Polar 65](https://tools.techidaily.com) .
@@ -216,3 +237,39 @@ Today's best Keychron Q1 deals
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-professional-tips-for-efficient-screen-casting-in-meet/"><u>[New] In 2024, Professional Tips for Efficient Screen Casting in Meet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-understanding-the-video-space-in-high-capacity-drives/"><u>[New] Understanding the Video Space in High-Capacity Drives</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-tactical-multitasking-a-guide-to-co-watching-on-yt/"><u>[Updated] In 2024, Tactical Multitasking  A Guide to Co-Watching on YT</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-filmmakers-lounge-app/"><u>2024 Approved  Filmmaker's Lounge App</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-3450-driver-updates-made-simple-for-optimal-graphics-card-functioning/"><u>AMD Radeon 3450 Driver Updates Made Simple for Optimal Graphics Card Functioning</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-practices-for-downloading-and-installing-nvidia-quadro-rtx-4000-drivers-step-by-step-guide/"><u>Best Practices for Downloading & Installing NVIDIA Quadro RTX 4000 Drivers – Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-your-system-free-behringer-driver-downloads-for-enhanced-sound-quality/"><u>Boost Your System: Free Behringer Driver Downloads for Enhanced Sound Quality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-setting-up-device-drivers-without-network-access-on-windows/"><u>Complete Guide: Setting Up Device Drivers Without Network Access on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-latest-toshiba-drivers-for-windows-step-by-step-guide/"><u>Download & Install the Latest Toshiba Drivers for Windows - Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/efficiently-traverse-youtubes-votes-and-reaction-space/"><u>Efficiently Traverse YouTube’s Votes and Reaction Space</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-peak-performance-of-your-samsung-vevo-960-with-the-latest-drivers-download-guide-for-windows-systems/"><u>Ensure Peak Performance of Your Samsung Vevo 960 with the Latest Drivers - Download Guide for Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-update-hp-laserjet-1320-printer-drivers-cu8145n-m97a-on-windows-os-step-by-step/"><u>Find and Update HP Laserjet 1320 Printer Drivers (Cu8145N M97A) on Windows OS - Step by Step!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixing-your-260ci-keyless-remote-usb-connection-issues/"><u>Fixing Your 260Ci Keyless Remote USB Connection Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-hp-deskjet-inkjet-9325e-printer-drivers-compatible-with-windows/"><u>Free Download: HP Deskjet Inkjet 9325E Printer Drivers - Compatible with Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-up-to-date-a-step-by-step-process-for-reinstalling-windows-bluetooth-adapter-drivers/"><u>Getting Up-to-Date: A Step-by-Step Process for Reinstalling Windows Bluetooth Adapter Drivers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-14-pro-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 14 Pro without Password?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-c32-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from C32.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-make-a-favorite-tiktok-sound-your-caller-id/"><u>How to Make a Favorite TikTok Sound Your Caller ID</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-envy-5540-how-to-quickly-download-and-update-your-systems-drivers-and-programs/"><u>HP Envy 5540: How to Quickly Download and Update Your System's Drivers & Programs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-samsung-galaxy-s23-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Samsung Galaxy S23 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977316241-install-the-latest-creative-webcam-drivers-on-your-windows-system-free/"><u>Install the Latest Creative WebCam Drivers on Your Windows System - FREE</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-updated-canon-mx922-drivers-on-your-windows-device/"><u>Install Updated Canon MX922 Drivers on Your Windows Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722963330919-newly-released-geforce-nvidia-210-drivers-compatible-with-windows-11-get-them-now/"><u>Newly Released GeForce nVidia 210 Drivers Compatible with Windows 11 - Get Them Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/play-without-hiccups-masterful-techniques-for-a-stutter-free-hogwarts-legacy-game-202n/"><u>Play Without Hiccups: Masterful Techniques for a Stutter-Free Hogwarts Legacy Game (202N)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-guide-asus-laptop-trackpad-drivers-compatible-with-windows-10/"><u>Quick & Easy Guide: ASUS Laptop Trackpad Drivers Compatible with Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-installation-dell-latitude-e6420-drivers-downloaded-in-a-flash/"><u>Quick and Easy Installation: Dell Latitude E6420 Drivers Downloaded in a Flash!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-ndis-solutions-for-windows-users/"><u>Quick NDIS Solutions for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-update-process-modern-sataahci-drive-controllers/"><u>Simple Update Process: Modern SATA/AHCI Drive Controllers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/steelseries-driver-software-downloads-and-setup-guide-optimize-your-windows-experience/"><u>SteelSeries Driver Software Downloads & Setup Guide - Optimize Your Windows Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-updating-and-installing-netgear-a6100-drivers-on-windows-machines/"><u>Ultimate Guide to Updating and Installing Netgear A6100 Drivers on Windows Machines</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722961951707-upgrade-to-the-newest-nvidia-video-card-drivers-supported-by-windows-operating-systems/"><u>Upgrade to the Newest Nvidia Video Card Drivers - Supported by Windows Operating Systems!</u></a></li>
+</ul></div>

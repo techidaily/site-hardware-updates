@@ -1,7 +1,7 @@
 ---
 title: "Boost Your School Year: Top 6 Computer System Enhancements"
-date: 2024-08-17 15:13:37
-updated: 2024-08-18 11:38:24
+date: 2024-08-19T04:16:16.566Z
+updated: 2024-08-20T04:16:16.566Z
 tags:
   - build
 categories:
@@ -31,12 +31,19 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 4. [System Value Compared](https://tools.techidaily.com)
 5. $912 AMD LAN Box PC
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## $912 AMD LAN Box PC
 
  Even though my Intel-based revision of this quarter vindicates my assessments last quarter, a number of readers are still convinced that a properly cooled and overclocked 860K is the gateway to budget gaming goodness. After experiencing the limitations and frustrations last quarter, I still have my reservations. However, the SBM is a perfect place to empirically test this and give AMD's budget quad-core every chance to prove itself.
 
 ![](https://cdn.mos.cms.futurecdn.net/vaZRhuXWqcyB98KdTMVaK3-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
  For your bonus build pleasure, here's the conclusion to the Munchkin Saga, Episode III: Revenge of 860K.
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
@@ -94,6 +101,9 @@ Deepcool Gamer Storm Gabriel
 
  I don't need to spend time explaining the same parts from[two days ago](https://tools.techidaily.com) . To save space and time, I'll only address the three new components.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -134,6 +144,9 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://cdn.mos.cms.futurecdn.net/kiyNGE2ogxSRTZjnNEBoST-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Overclocking
 
  I did a little more digging on 860K overclocking after last quarter. Most FM2+ motherboards are very liberal with CPU voltage at stock levels. This means it's usually possible to overclock the CPU while undervolting it. This held true for my particular 860K. Stock voltage was set at 1.45V, but I was able to get it to run at 4.0GHz on only 1.35V. Lowering the voltage helped temperatures, but the CPU still has a pretty hard thermal ceiling that won't let it be pushed as much as it could. Regardless of cooling solution or voltage, the CPU cuts back to 3.5 to 3.7GHz when it hits 65 degrees C (total, not over ambient). Even with the cooler at full speed, I was occasionally hitting that ceiling under the most demanding workloads.
@@ -146,10 +159,16 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
 
  My system this time around was only capable of reaching DDR3-2133, a bit shy of the 2400 speeds I got last quarter. I did get respectable timings of 10-11-10-31, but that was the limit. Along with the RAM, I upped the northbridge from 1800 to 2000MHz with only a slight bump in voltage to 1.1625V. I wasn't trying to match the frequency of last quarter, I simply couldn't boot the machine at anything past 2000MHz.
@@ -170,3 +189,48 @@ Deepcool Gamer Storm Gabriel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-navigating-the-dangers-of-fabricated-followers-on-feed/"><u>[Updated] Navigating the Dangers of Fabricated Followers on Feed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-shift-dimensions-quickly-virtually/"><u>[Updated] Shift Dimensions Quickly, Virtually</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-fixing-rtmp-streams-in-premiere/"><u>[Updated] The Ultimate Guide to Fixing RTMP Streams in Premiere</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-poll-power-players-guide-quintessential-voting-simulations/"><u>2024 Approved  Poll Power Players' Guide  Quintessential Voting Simulations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/benchmark-analysis-the-fastest-3d-printer-models-for-rapid-prototyping/"><u>Benchmark Analysis: The Fastest 3D Printer Models for Rapid Prototyping</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-fit-logitech-g27-game-controller-software-downloads-compatible-with-newest-windows-oses/"><u>Best Fit Logitech G27 Game Controller Software Downloads Compatible with Newest Windows OSes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/brother-mfc-7360n-drivers-update-made-simple-for-windows-1087/"><u>Brother MFC 7360N Drivers Update Made Simple for Windows 10/8/7</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-powered-proposal-strategies-how-to-write-and-win-bids-that-impress-clients/"><u>ChatGPT-Powered Proposal Strategies: How to Write and Win Bids That Impress Clients</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/collaborative-music-sessions-can-two-individuals-stream-spotify-side-by-side/"><u>Collaborative Music Sessions: Can Two Individuals Stream Spotify Side by Side?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/creative-webcam-drivers-download-and-update-for-windows/"><u>Creative Webcam Drivers Download & Update for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-canon-pixma-mx925-printer-software-for-pc/"><u>Download Canon PIXMA MX925 Printer Software for PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-ftdi-ft232r-usb-to-uart-bridge-chip-drivers-fast/"><u>Download the FTDI FT232R USB-to-UART Bridge Chip Drivers Fast</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722965711551-download-the-newest-dolby-sound-drivers-for-windows-11-10-and-81-now-available/"><u>Download the Newest Dolby Sound Drivers for Windows 11, 10, and 8.1 - Now Available!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-windows-1087-printer-drivers-for-epson-workforce-wf-ds30-series-no-hacking-required/"><u>Download Windows 10/8/7 Printer Drivers for Epson WorkForce WF-DS30 Series - No Hacking Required</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-install-the-latest-driver-for-your-lenovo-docking-station/"><u>Easy Steps to Install the Latest Driver for Your Lenovo Docking Station</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-keeping-your-epson-printer-up-to-date-with-the-newest-windows-11-drivers/"><u>Easy Steps: Keeping Your Epson Printer Up-to-Date with the Newest Windows 11 Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-to-follow-instructions-get-the-newest-epson-ds-530-driver-for-64-bit-windows-10/"><u>Easy to Follow Instructions: Get the Newest Epson DS-530 Driver for 64-Bit Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhanced-printing-capabilities-in-windows-10-with-new-driver-updates-for-scanners-and-printers/"><u>Enhanced Printing Capabilities in Windows 10 with New Driver Updates for Scanners & Printers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-instructions-on-downloading-and-installing-asus-wifi-driver-software/"><u>Expert Instructions on Downloading and Installing Asus Wifi Driver Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977431334-fast-track-to-enhanced-performance-download-nvidia-geforce-gt-730-drivers-today/"><u>Fast Track to Enhanced Performance: Download NVIDIA GeForce GT 730 Drivers Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-apply-the-newest-amd-radeon-hd-7870-drivers-for-optimal-performance-in-windows-11/"><u>Find and Apply the Newest AMD Radeon HD 7870 Drivers for Optimal Performance in Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/framing-the-frame-top-camera-techniques-for-visuals/"><u>Framing the Frame  Top Camera Techniques for Visuals</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-zebra-printing-drivers-for-windows-download-guide/"><u>Get the Newest Zebra Printing Drivers for Windows: Download Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-insignia-usbhdd-drives-swift-setup-for-windows-users/"><u>Get Your Hands on Insignia USB/HDD Drives - Swift Setup for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-windows-10-or-11-bluetooth-driver-from-msi-free-download/"><u>Get Your Windows 10 or 11 Bluetooth Driver From MSi - Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-install-latest-rndis-network-adapter-drivers-on-your-pc/"><u>How to Find and Install Latest RNDIS Network Adapter Drivers on Your PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-newest-amd-radeon-r5-graphic-drivers-windows-111087-guide-and-downloads/"><u>How to Install the Newest AMD Radeon R5 Graphic Drivers: Windows 11/10/8/7 Guide and Downloads</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-6-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/improved-compatibility-essential-scanning-and-printing-hardware-drivers-added-to-windows-1/"><u>Improved Compatibility: Essential Scanning & Printing Hardware Drivers Added to Windows 1</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-decoding-the-mystery-of-laptop-video-editing-with-inshot/"><u>In 2024, Decoding the Mystery of Laptop Video Editing With Inshot</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-outlining-expenses-creating-a-music-video/"><u>In 2024, Outlining Expenses  Creating a Music Video</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-ultimate-bikers-camera-companion-top-hats-reviewed-and-ranked-2023/"><u>In 2024, The Ultimate Biker's Camera Companion – Top Hats Reviewed & Ranked 2023</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-logitech-momo-trackmania-wheel-on-pc-first-time-driver-setup-guide-and-download-link/"><u>Install Logitech MOMO TrackMania Wheel on PC – First-Time Driver Setup Guide and Download Link</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-logitech-f710-driver-support-across-multiple-windows-platforms-windows-111087-solutions/"><u>Mastering Logitech F710 Driver Support Across Multiple Windows Platforms: Windows 11/10/8/7 Solutions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/maximizing-your-channels-earnings-a-guide-to-creating-impactful-trailers-for-2024/"><u>Maximizing Your Channel's Earnings  A Guide to Creating Impactful Trailers for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-geforce-rtx-3060-ti-driver-update-download-guide-for-windows-10-and-11/"><u>NVIDIA GeForce RTX 3060 Ti Driver Update: Download Guide for Windows 10 and 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-steps-to-fresh-microsoft-drivers-compatible-with-windows-11-8-or-7-systems/"><u>Simple Steps to Fresh Microsoft Drivers: Compatible with Windows 11, 8, or 7 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-steps-to-refresh-your-asus-pcs-usb-driver-software/"><u>Simple Steps to Refresh Your ASUS PC's USB Driver Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-successfully-downloading-your-dell-mouse-driver/"><u>Step-by-Step Guide: Successfully Downloading Your Dell Mouse Driver</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/superior-sound-recorders-for-scholarly-discussions-for-2024/"><u>Superior Sound Recorders for Scholarly Discussions for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-trick-to-find-and-update-your-sandisk-ssd-drives-necessary-drivers/"><u>Ultimate Trick to Find and Update Your SanDisk SSD Drive's Necessary Drivers</u></a></li>
+</ul></div>

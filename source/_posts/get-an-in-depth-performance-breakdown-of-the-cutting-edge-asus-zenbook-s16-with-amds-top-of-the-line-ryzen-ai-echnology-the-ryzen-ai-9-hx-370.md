@@ -1,7 +1,7 @@
 ---
 title: "Get an In-Depth Performance Breakdown of the Cutting-Edge Asus Zenbook S16 with AMD's Top-of-the-Line Ryzen AI Echnology: The Ryzen AI 9 HX 370."
-date: 2024-08-15 12:52:45
-updated: 2024-08-17 10:56:36
+date: 2024-08-19T04:39:19.127Z
+updated: 2024-08-20T04:39:19.127Z
 tags:
   - laptop
 categories:
@@ -92,6 +92,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -100,10 +103,17 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  On Geekbench 6, the Zenbook S16 achieved a single-core score of 2,765 and a multi-core score of 13,282\. This was enough to beat the M3 in Apple's MacBook Air, the 16-core Intel Core Ultra 7 155H in the[HP](https://tools.techidaily.com) Spectre x360 14, and the Qualcomm Snapdragon X Elite X1E-78-100 in the HP OmniBook X. The newest Ryzen fell only to the Apple M3 Max, with scores of 3,200 and 21,711 in the 16-inch MacBook Pro (and, to be fair, a review unit stocked with 128GB of RAM, making the MacBook Air a more apt comparison from a price perspective. While it's unclear that Apple has ever released an official number, various sites have tested the M3 Max to be using significantly more power than the Ryzen AI CPU here, which is rated at 28W and configured to 17W TDP out of the box).
@@ -120,6 +130,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/kyTb4Yk4LUiQN83wEJXLtQ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  In a reviewer's guide sent to the press, AMD suggested a number of applications to try that make use of local AI. Chief among them was a beta of Amuse 2.0, which includes image generation with Stable Diffusion, as well as paint-to-image features that are very similar to image creator in Paint on Copilot Plus PCs (though that uses DALL-E). In a way, this app, made to work well with AMD's hardware, can fill in the blanks until[Microsoft](https://tools.techidaily.com) adds Copilot Plus features to Ryzen AI laptops.
@@ -144,12 +157,18 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  At 357 nits, I found the Zenbook 16 to be usable, but competitors do better. The 16-inch MacBook Pro was the brightest at 563 nits, and both the MacBook Air (476.4 nits) and HP Spectre x360 366.2 nits were also brighter.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Keyboard and Touchpad on the Asus Zenbook S16
 
  Despite just 1.1 mm travel, the Zenbook S16’s keyboard is snappy. Don't get me wrong, it's still a membrane keyboard, but it's relatively comfortable and even has a bit of bounce. On monkeytype, I hit 112 words per minute with a 2% error rate, which isn't my best, but is pretty close.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/aW7bBZzL8RWWNJL5FgJbTR-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The keyboard is set back slightly further than I'd like because the touchpad is so tall. I got used to it but some of my coworkers found it a bit uncomfortable.
@@ -188,18 +207,31 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  But the MacBook Air M3 (15:03), HP OmniBook X on a Snapdragon X Elite (16:18), and the 16-inch MacBook Pro lasted an incredible 17:11.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Heat on the Asus Zenbook S16
 
  During our ten runs of Cinebench 2024, we took skin temperature measurements to see how the Zenbook performs under an intense workload.
 
  The keyboard hit a warm (but not uncomfortable) 99.5 degrees Fahrenheit, while the touchpad stayed cool at 87.4 F. The hottest point on the top on the grille at 110 F, but that's not usually a place you put your hands. On the bottom, the hottest touchpoint, near the ventilation, was at 116.2 F.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## Webcam on the Asus Zenbook S16
 
  There's a 1080p webcam on the Zenbook S16's top bezel. While it's color-accurate, catching the exact shade of green in my shirt and the blue in my mesh office chair, some details, like my hair, came across a bit fuzzy.
 
  The camera supports infrared to log in with Windows Hello for facial recognition. It's the sole biometric option on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## Software and Warranty on the Asus Zenbook S16
 
  Asus includes four pieces of software on the Zenbook S16\. The first is MyAsus, which allows you to manage your warranty, and also shows system settings and lets you check for updates. This app now prompts you for an account, which it didn't use to do (and in my opinion, shouldn't need to). Despite its appearance, you can skip this prompt.  
@@ -212,6 +244,9 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  Asus sells the Zenbook S16 with a one-year warranty. A card included in the box offers one free year of accidental damage protection in exchange for registering the laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Asus Zenbook S16 Configurations
 
  We tested the Asus Zenbook S16 with an AMD Ryzen AI 9 HX 370, 32GB of RAM, and a 1TB SSD, which goes for $1,699.99.
@@ -252,3 +287,39 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-cam-functioning-post-fix-triumph-for-obs/"><u>[New] In 2024, Cam Functioning  Post-Fix Triumph for OBS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-elevate-your-meetings-best-tools-to-record-zoom/"><u>[New] In 2024, Elevate Your Meetings  Best Tools to Record Zoom</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-superior-online-concert-streamers/"><u>[New] Superior Online Concert Streamers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-prime-windows-rapid-photo-displayer/"><u>[Updated] 2024 Approved  Prime Window's Rapid Photo Displayer</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-break-free-10-innovative-editors-beyond-vimeos-boundaries/"><u>[Updated] Break Free  10 Innovative Editors Beyond Vimeo's Boundaries</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-the-future-of-video-capturing-embracing-vimeo-record/"><u>[Updated] In 2024, The Future of Video Capturing  Embracing Vimeo Record</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-prime-choices-in-cinema-cameras-from-newbies-to-professionals/"><u>2024 Approved  Prime Choices in Cinema Cameras  From Newbies to Professionals</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-vega-56-graphics-card-step-by-step-guide-to-downloading-and-updating-drivers-for-windows-users/"><u>AMD Vega 56 Graphics Card: Step-by-Step Guide to Downloading and Updating Drivers for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975333491-asus-ac68-pce-wireless-card-driver-installation-get-now/"><u>ASUS AC68 PCE Wireless Card Driver Installation - Get Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976875276-boost-performance-seamless-intel-iris-graphics-540-driver-updates-unveiled/"><u>Boost Performance: Seamless Intel Iris Graphics 540 Driver Updates Unveiled!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-soundmax-drivers-for-windows-computers-easy-guide/"><u>Download & Install SoundMAX Drivers for Windows Computers – Easy Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-and-speedy-download-of-amd-ryzen-5-2400g-graphics-drivers/"><u>Easy & Speedy Download of AMD Ryzen 5 2400G Graphics Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-driver-installation-for-samsung-mzmpf256hafu-nvme-ssd-on-windows-systems-a-complete-walkthrough/"><u>Easy Driver Installation for Samsung MZMPF256HAFU NVMe SSD on Windows Systems - A Complete Walkthrough</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-installing-updated-epson-xp-420-drivers-on-your-device/"><u>Easy Guide: Installing Updated Epson XP 420 Drivers on Your Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-iphone-driver-downloads-for-windows-10-users/"><u>Easy iPhone Driver Downloads for Windows 10 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-methods-to-refresh-microsoft-mouse-drivers-in-windows-operating-system/"><u>Easy Methods to Refresh Microsoft Mouse Drivers in Windows Operating System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-tackle-and-fix-ralink-rt3290-driver-problems-in-windows-11-8-and-7-environments/"><u>Easy Steps to Tackle and Fix Ralink RT3290 Driver Problems in Windows 11, 8 & 7 Environments</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722968476918-fleetwood-mac-known-for-their-timeless-hits-that-blend-rock-with-an-infectious-funkiness-try-listening-to-tracks-like-go-your-own-way-or-dreams/"><u>Fleetwood Mac – Known for Their Timeless Hits that Blend Rock with an Infectious Funkiness. Try Listening to Tracks Like Go Your Own Way or Dreams</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-epson-gt-s50-printer-driver-compatible-with-windows-7-8-and-10/"><u>Free Download: Epson GT-S50 Printer Driver Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/geforce-gtx-1660-super-fresh-driver-downloads-and-installation-guide/"><u>GeForce GTX 1660 SUPER: Fresh Driver Downloads & Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-started-fast-free-easycap-drivers-downloads-here/"><u>Get Started Fast: Free EasyCap Drivers Downloads Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-amd-radeon-graphics-drivers-for-your-pcs-display/"><u>Get the Newest AMD Radeon Graphics Drivers for Your PC's Display</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-official-hp-laserjet-pro-mfp-m127fn-software-for-your-device/"><u>Get the Official HP LaserJet Pro MFP M127FN Software for Your Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-samsung-845-evo-drive-up-and-running-with-our-latest-driver-software/"><u>Get Your Samsung 845 EVO Drive Up & Running with Our Latest Driver Software!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hid-keyboard-device-driver-download-and-update-easily/"><u>HID Keyboard Device Driver Download and Update Easily</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-resolve-compatibility-problems-with-ralink-rt3290-in-windows-operating-systems-1187/"><u>How to Resolve Compatibility Problems with Ralink RT3290 in Windows Operating Systems (11/8/7)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-apple-iphone-13-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From Apple iPhone 13 Pro Max without Password?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-no-price-no-problem-turning-twitter-vids-into-gifs/"><u>In 2024, No Price, No Problem  Turning Twitter Vids Into GIFs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mycam-vs-others-a-comparative-camera-performance-study/"><u>MyCam Vs. Others  A Comparative Camera Performance Study</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/newly-released-driver-software-for-the-hp-deskjet-ink-advantage-3755-multifunctional-printer-on-windows-systems-win1087/"><u>Newly Released Driver Software for the HP DeskJet Ink Advantage 3755 Multifunctional Printer on Windows Systems (Win10/8/7)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/st-streamers-ever-caught-for-2024/"><u>Richest Streamers Ever Caught for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-free-android-video-call-apps-compared/"><u>Top Free Android Video Call Apps Compared</u></a></li>
+</ul></div>

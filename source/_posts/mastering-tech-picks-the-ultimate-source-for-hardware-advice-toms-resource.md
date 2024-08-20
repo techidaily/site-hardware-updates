@@ -1,7 +1,7 @@
 ---
 title: "Mastering Tech Picks: The Ultimate Source for Hardware Advice - Tom's Resource"
-date: 2024-08-15 17:53:38
-updated: 2024-08-17 12:33:43
+date: 2024-08-19T04:21:27.353Z
+updated: 2024-08-20T04:21:27.353Z
 tags:
   - motherboards
 categories:
@@ -101,12 +101,27 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
  Inside the retail packaging, below the motherboard, ASRock includes a few accessories to get you started. You get two SATA cables, a Wi-Fi antenna, screws for M.2 sockets, and a thermistor cable. There isn’t much here, which isn’t surprising at this price point, but it’s enough to cover the basics.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Design of the Lightning Wi-Fi
 
  Image 1 of 3
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -115,12 +130,27 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  This little motherboard sits on a server-grade 8-layer matte black PCB. The sole design element comes from the actively cooled, heatpipe-connected VRM heatsinks and M.2 heatsinks. The heatsinks have lines that meander their way around the metal bits. On the left, you see the Phantom Gaming branding as well. If you’re interested in RGB lighting in your chassis, you’ll have to add your own to the onboard headers, as the board does not include any natively. The all-black appearance looks good and, in my opinion, better than the more expensive PG-ITX/TB4.
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/97M3RfrDnnVcKkV4n7VkU8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  Starting in the left corner, we spy a single 8-pin EPS connector just above the heatpipe connecting the heatsinks. The VRMs have plenty of mass and surface area to keep the powerful VRMs below running cool. There’s also a small fan attached to the heatsink tucked in between the rear IO plate and the VRM for additional cooling. The default fan curve sounds improved from the PG-ITX/TB4\. While it was still audible, we could hear it only during stress testing. Of course, you can adjust it if needed. Also by the EPS connector is the 2-pin temperature sensor header to use with the included thermistor.
@@ -141,6 +171,9 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/38vzBpWcpKHzwQLj5js8d8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  We’ll continue our counterclockwise journey at the bottom of the board. Here, we see the only expansion slot: a full-length PCIe 5.0 x16 slot. The slot also supports PCIe riser cards to extend one x16 slot to two x8 slots if needed. Above that, under the heatsink, is the first M.2 socket (you’ll find the other on the back of the board). Each M.2 socket runs at PCIe 4.0 x4 (64 Gbps) speeds and supports up to 80mm modules. None of the sockets support SATA-based devices, but they support RAID0/1/10 modes, as do the SATA ports. Thankfully, There’s no lane / bandwidth sharing, and you can run all storage simultaneously without a performance penalty.
@@ -149,6 +182,9 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Ax7PUWX76BhvWC7HhxEAn8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  The rear IO plate on the Z790I Lightning comes preinstalled on the motherboard. It has a black and gray background, the Phantom Gaming branding in the corner, and plenty of venting for the hidden VRM fan. In total, there are five USB Type-A ports (four are USB 3.2 Gen 1) while the other below the Realtek 2.5 GbE port is faster at USB 3.2 Gen 2 (10 Gbps) speeds. Additionally, you get a USB Type-C port with USB 3.2 Gen 2 (10 Gbps) speeds. There are DisplayPort and HDMI ports for video, while the Wi-Fi 6E antenna connections sit just above that. Last but not least, on the far right, is the audio stack with two 3.5mm jacks (mic in and line out) and the SPDIF output.
@@ -175,3 +211,53 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-discreet-youtube-playback-on-mobile-devices/"><u>[New] 2024 Approved  Discreet YouTube Playback on Mobile Devices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-quick-tips-for-creating-and-editing-snapchat-duos/"><u>[New] 2024 Approved  Quick Tips for Creating and Editing Snapchat Duos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-creating-a-unique-online-presence-using-obs-youtube-and-twitch/"><u>[New] In 2024, Creating a Unique Online Presence  Using OBS, YouTube & Twitch</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-reaching-into-shared-snippets-of-life-on-messenger-for-2024/"><u>[New] Reaching Into Shared Snippets of Life on Messenger for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-comedy-gold-twitters-hottest-jokes-for-2024/"><u>[Updated] Comedy Gold  Twitter's Hottest Jokes for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-efficient-mp4-conversion-software-facebook-targeted-for-2024/"><u>[Updated] Efficient MP4 Conversion Software (Facebook Targeted) for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-non-fbx-innovations-leading-the-way-in-gameplay-tracking/"><u>[Updated] In 2024, Non-FBX Innovations Leading the Way in Gameplay Tracking</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-uploading-and-embedding-srt-text-in-social-media-videos/"><u>2024 Approved  Uploading and Embedding SRT Text in Social Media Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-set-of-drivers-for-your-hp-spectre-x360-on-windows-download-now/"><u>Complete Set of Drivers for Your HP Spectre X360 on Windows (Download Now)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-setup-for-epson-wf-2750-printer-how-to-get-the-correct-drivers/"><u>Complete Setup for Epson WF-2750 Printer - How to Get the Correct Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-amd-radeon-hd-7700-drivers-latest-updates-and-installation-guide/"><u>Download AMD Radeon HD 7700 Drivers - Latest Updates & Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-geforce-gtx-460-drivers-on-windows-simple-guide/"><u>Download GeForce GTX 460 Drivers on Windows: Simple Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-now-msis-updated-bluetooth-software-for-seamless-connectivity-on-windows-1110/"><u>Download Now: MSI's Updated Bluetooth Software for Seamless Connectivity on Windows 11/10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-install-guide-fingerprint-access-program-for-windows-devices/"><u>Easy Install Guide: Fingerprint Access Program for Windows Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-intel-nuc-drivers-step-by-step-tutorial/"><u>Easy Installation of Intel NUC Drivers - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722968911922-enhance-your-audio-experience-on-windows-11-10-and-81-with-the-latest-dolby-driver-updates-free/"><u>Enhance Your Audio Experience on Windows 11, 10 & 8.1 with the Latest Dolby Driver Updates - Free</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expansive-movement-assessment-2023/"><u>Expansive Movement Assessment 2023</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-compatible-acer-touchpad-driver-for-windows-11-users/"><u>Free Download: Compatible Acer Touchpad Driver for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-surface-drivers-seamless-download-and-update-process/"><u>Get the Latest Surface Drivers - Seamless Download and Update Process</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973262062-get-your-focusrite-scarlett-2i4-windows-device-drivers-here/"><u>Get Your Focusrite Scarlett 2I4 Windows Device Drivers Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-updated-magicard-rio-pro-driver-for-windows-os/"><u>Get Your Hands on the Updated Magicard Rio Pro Driver for Windows OS</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-lava-blaze-2-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Lava Blaze 2 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-install-canon-dr-c225-drivers-on-various-versions-of-windows-11-10-and-8/"><u>How to Easily Install Canon DR-C225 Drivers on Various Versions of Windows (11, 10 & 8)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-or-fix-your-toshiba-dynabook-drivers-in-windows-environment/"><u>How to Install or Fix Your Toshiba Dynabook Drivers in Windows Environment</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-or-update-your-canon-mg252e-printer-driver-on-a-windows-pc/"><u>How to Install or Update Your Canon MG252e Printer Driver on a Windows PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-refresh-the-driver-software-for-your-microsoft-mouse-in-windows/"><u>How To Refresh The Driver Software For Your Microsoft Mouse In Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-securely-get-and-install-linksys-ae250-wireless-router-updated-firmware-now/"><u>How to Securely Get & Install Linksys AE250# Wireless Router Updated Firmware Now</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-solve-fifa-20-crashing-on-pc-full-guide/"><u>How to Solve FIFA 20 Crashing on PC [FULL GUIDE]</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/ideal-video-editor-unleashed-for-vimeo-videos-for-2024/"><u>Ideal Video Editor Unleashed for Vimeo Videos for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-enhance-your-presentations-with-aiseesofts-screencast-tools/"><u>In 2024, Enhance Your Presentations with Aiseesoft's Screencast Tools</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/infusing-identity-tips-for-iconic-podcast-graphics/"><u>Infusing Identity  Tips for Iconic Podcast Graphics</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instacapture-the-ultimate-download-toolkit-unveiled/"><u>InstaCapture  The Ultimate Download Toolkit Unveiled</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722967152797-instant-access-to-the-zebra-gk420d-printer-driver-easy-and-reliable-download-options-inside/"><u>Instant Access to the Zebra GK420D Printer Driver – Easy and Reliable Download Options Inside</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-geforce-gtx-1660-super-graphics-card-driver-downloads-and-updates/"><u>Latest NVIDIA GeForce GTX 1660 Super Graphics Card Driver Downloads & Updates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/m-audio-fast-track-driver-install-files-for-windows-11-to-8-users/"><u>M-Audio Fast Track Driver Install Files for Windows 11 to 8 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-rtx-2080-drivers-fresh-release-download-now-for-windows-1178/"><u>NVIDIA RTX 2080 Drivers - Fresh Release: Download Now for Windows 11/7/8</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pioneering-the-use-of-film-in-educational-methodologies-for-2024/"><u>Pioneering the Use of Film in Educational Methodologies for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revolutionize-your-viewing-pleasure-with-hitachis-ultra-hd-tv-and-built-in-roku-technology/"><u>Revolutionize Your Viewing Pleasure With Hitachi’s Ultra HD TV and Built-In Roku Technology</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722964901109-simple-steps-install-the-latest-epson-drivers-on-windows-without-a-hitch/"><u>Simple Steps: Install the Latest Epson Drivers on Windows Without a Hitch!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solved-dell-optiplex-790-driver-issues-in-windows/"><u>Solved Dell OptiPlex 790 Driver Issues in Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-process-revitalize-your-computer-by-rejuvenating-your-motherboard-drivers-under-windows/"><u>Step-by-Step Process: Revitalize Your Computer by Rejuvenating Your Motherboard Drivers Under Windows</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-samsung-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Samsung</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-art-of-concealing-the-boundaries-between-sounds-with-fades-for-2024/"><u>Updated The Art of Concealing the Boundaries Between Sounds with Fades for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/viewer-count-trophies-and-channel-prominence-honors/"><u>Viewer Count Trophies & Channel Prominence Honors</u></a></li>
+<li><a href="https://video-capture.techidaily.com/webcam-recorder-reviews-unlocking-your-video-potential/"><u>Webcam Recorder Reviews - Unlocking Your Video Potential</u></a></li>
+</ul></div>

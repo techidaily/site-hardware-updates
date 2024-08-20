@@ -1,7 +1,7 @@
 ---
 title: "Snapdragon Vs. Intel: Comparing Elite Laptop Battery Endurance Beyond 15 Hours"
-date: 2024-08-15 16:40:17
-updated: 2024-08-17 11:45:42
+date: 2024-08-19T04:33:41.174Z
+updated: 2024-08-20T04:33:41.174Z
 tags:
   - laptop
 categories:
@@ -39,6 +39,9 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  The Vivobook S15 (S5507) features two USB 4 ports, two USB 3.2 Type-A ports, a microSD card reader, an HDMI 2.1 port, and a 3.5mm headphone jack. It starts at $1,299.99 on the [Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-1448347873480858520&url=https%3A%2F%2Fshop.asus.com%2Fus%2F90nb14q2-m000w0-asus-vivobook-s-15-s5507.html) , but is out of stock at the time of writing.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -57,10 +60,16 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  The biggest advantage of the XPS 13 is the screen options available: it starts with a 13.4-inch display with an FHD+ resolution, but you can upgrade it to a QHD+ display. But if you want the best image quality, the XPS 13 can be had with a 3K OLED screen. The XPS 13 starts at $1,299.99 but can quickly jump to $2,499.99 if you max out its specs. It’s now available on the[Dell website](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-3641429059046625036%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Flaptops%2Fsnapdragon%2Fspd%2Fxps-13-9345-laptop%2Fusexchcto9345qcm02) .
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Dell Inspiron 14 Plus
 
 ![Dell Inspiron 14 Plus Laptop](https://cdn.mos.cms.futurecdn.net/RxhbpuMwEyZwzgdfQ5xe7T-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 (Image credit: Dell)
 
  If you don’t have the budget for a premium laptop, but still trust Dell’s quality, you can pick the Inspiron 14 Plus to get on the Copilot+ PC bandwagon. This laptop uses the less potent (but still powerful) Snapdragon X Plus X1P-64-100 chip with 16GB of RAM and a 512GB SSD.
@@ -71,6 +80,9 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
 ![HP EliteBook Ultra 14](https://cdn.mos.cms.futurecdn.net/ss4CedHQoAQaDKDSg4AVsh-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 (Image credit: HP)
 
  The EliteBook Ultra 14 is[HP](https://tools.techidaily.com) ’s premium Copilot+ PC offering, with a 12-core Snapdragon X Elite X1E-78-100 chip, 16GB of RAM, and a 512GB SSD. It also has a 14-inch 2.2K display and has the following ports: two USB-C ports, a USB-A port, and a 3.5mm combo jack.
@@ -87,10 +99,16 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  Although this laptop is thicker than the EliteBook Ultra 14, it’s also substantially more affordable at $1,149.99\. You can purchase and customize this laptop now on[the HP website](https://www.anrdoezrs.net/click-8900246-15852945?sid=tomshardware-us-1154629704587710143&url=https://www.hp.com/us-en/shop/ConfigureView?langId=-1&storeId=10151&catalogId=10051&catEntryId=3074457345621303820&urlLangId=&quantity=1) , but shipments will begin on July 9.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Lenovo Yoga Slim 7x
 
 ![Lenovo Yoga Slim 7x](https://cdn.mos.cms.futurecdn.net/J3XYYNCds6rXWkSQVXZc49-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Lenovo)
 
  Lenovo offers the Yoga Slim 7x for consumers who want the Copilot+ PC. This laptop uses a Snapdragon X Elite X1E-78-100 processor, and you can choose between 16GB or 32GB of RAM baked into the SoC. It also comes with a 512GB SSD, but you can upgrade it to 1TB for an additional $45.
@@ -101,6 +119,9 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
 ![Lenovo ThinkPad T14s Gen 6](https://cdn.mos.cms.futurecdn.net/By8PYnaLQtTDyDkoyxvmNd-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Lenovo)
 
  Lenovo knows that many businesses want to get on the AI bandwagon, so it’s bringing the Copilot+ PC certification to one of the most popular[enterprise](https://tools.techidaily.com) laptops. The ThinkPad T14s Gen 6 has a Snapdragon X Elite processor with 32GB of RAM and a 1TB SSD. It also comes with[Windows 11](https://tools.techidaily.com) Pro right out of the box.
@@ -111,6 +132,9 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
 ![Microsoft Surface Laptop](https://cdn.mos.cms.futurecdn.net/C6DJ6XaHjf2BKnT2gskUhk-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Microsoft)
 
  Of course,[Microsoft](https://tools.techidaily.com) will not lag behind the competition when it comes to Copilot+ PCs. It is offering the most affordable Snapdragon X option, with the Surface Laptop, which starts at $999.99\. This model has a Snapdragon X Plus processor and a 13.8-inch display. It also comes with 16GB of RAM and a 512GB SSD.
@@ -127,6 +151,9 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  The Snapdragon X Elite model gets a 13-inch OLED screen and 16GB of RAM, but you now also have a choice between a 512GB or a 1TB SSD. The Snapdragon X Elite Surface Pro starts at $1,499.99 but jumps to $1,699.99 for the larger storage version. You can also spec this chip with 32GB of RAM and 1TB SSD, but you’ll have to shell out $2,099.99 for this model. You can get it now from[Microsoft](https://www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj) if you want a new Windows 11 tablet.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## Samsung Galaxy Book4 Edge
 
 ![Samsung Galaxy Book4 Edge](https://cdn.mos.cms.futurecdn.net/92Lc3j6TS3cq5HjHkBqebH-320-80.jpg)
@@ -153,3 +180,55 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-the-art-of-divergence-in-channels-identities-and-names/"><u>[New] Mastering the Art of Divergence in Channels' Identities and Names</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-stealthy-spectator-of-online-tales/"><u>[New] Stealthy Spectator of Online Tales</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-12-sign-bio-blueprints-on-whatsapp-for-2024/"><u>[Updated] The Ultimate 12-Sign Bio Blueprints on WhatsApp for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1982-honkytonk-man-with-eastwood-as-red-boyle-an-ex-convict-who-finds-himself-riding-through-the-southwest-during-the-great-depression-the-film-was-based-on129/"><u>1982 - Honkytonk Man, with Eastwood as Red Boyle, an Ex-Convict Who Finds Himself Riding Through the Southwest During the Great Depression. The Film Was Based on Clancy Carlile'cuentero's 1974 Novel ''The Goodbye Look''</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/achieve-perfect-synergy-how-to-successfully-update-your-amd-graphics-card-with-the-latest-drivers-on-windows-108vista/"><u>Achieve Perfect Synergy: How to Successfully Update Your AMD Graphics Card with the Latest Drivers on Windows 10/8/Vista</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-gpu-driver-update-guide-installing-the-most-recent-rx-6700-xt-software-on-win11-10-or-windows-7-systems/"><u>AMD GPU Driver Update Guide: Installing the Most Recent RX 6700 XT Software on Win11, 10 or Windows 7 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-smbus-driver-update-made-simple-fast-track-to-improved-system-efficiency/"><u>AMD SMBus Driver Update Made Simple – Fast Track to Improved System Efficiency!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973549674-brother-hl-l2370dw-printer-drivers-download-upgrade-to-the-new-release/"><u>Brother HL-L2370DW Printer Drivers Download: Upgrade to the New Release!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-a-spectacited-photographic-display-for-2024/"><u>Crafting a Spectacited Photographic Display for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-hardware-choices-with-toms-detailed-product-breakdown/"><u>Discover Top Hardware Choices with Tom's Detailed Product Breakdown</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-hp-officejet-pro-8610-drivers-compatible-with-windows-1187xpvista/"><u>Download & Install HP Officejet Pro 8610 Drivers: Compatible with Windows 11/8/7/XP/Vista</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-ricoh-printer-drivers-on-windows-easy-guide/"><u>Download & Install Ricoh Printer Drivers on Windows - Easy Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-now-the-latest-nvidia-graphics-drivers-available-here/"><u>Download & Update Now: The Latest NVIDIA Graphics Drivers Available Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970283062-download-and-install-hp-elitebook-8460p-drivers-on-windows-solved/"><u>Download and Install HP EliteBook 8460P Drivers on Windows: Solved</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-mpow-bluetooth-drivers-for-windows-1187-compatible-and-updated/"><u>Download MPOW Bluetooth Drivers for Windows 11/8/7 – Compatible and Updated</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-download-of-the-most-recent-hp-officejet-4500-drivers-enhanced-compatibility-guide/"><u>Easy Download of the Most Recent HP Officejet 4500 Drivers: Enhanced Compatibility Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-guide-transforming-3gp-files-into-mp3-format-on-windows-11-8-or-7-using-simple-online-tools/"><u>Easy Guide: Transforming 3GP Files Into MP3 Format on Windows 11, 8 or 7 Using Simple Online Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-instructions-installing-the-latest-update-for-your-centrino-advance-n-6235-chipset-driver/"><u>Easy Instructions: Installing the Latest Update for Your Centrino Advance-N 6235 Chipset Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-to-use-amd-gpio-driver-available-now-for-immediate-download/"><u>Easy-to-Use AMD GPIO Driver Available Now For Immediate Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/efficiently-download-hp-officejet-5740-drivers-compatible-with-all-windows-versions-11108/"><u>Efficiently Download HP Officejet 5740 Drivers: Compatible with All Windows Versions (11/10/8)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-features-of-anycubic-kobra-3-a-breakthrough-in-multicolor-additive-manufacturing/"><u>Exploring the Features of Anycubic Kobra 3: A Breakthrough in Multicolor Additive Manufacturing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-realm-of-predictive-artificeal-intelligence-insights-and-functionality/"><u>Exploring the Realm of Predictive Artificeal Intelligence: Insights & Functionality</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-samsung-galaxy-f04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-canon-mg2800-series-driver-for-your-pc-windows-11-support-included/"><u>Get the Latest Canon MG2800 Series Driver for Your PC (Windows 11 Support Included)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-logitech-k400-plus-driver-updates-instantly-no-cost/"><u>Get the Latest Logitech K400 Plus Driver Updates Instantly – No Cost</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-latest-m-audio-fast-track-driver-for-windows-users/"><u>Get Your Hands on the Latest M-Audio Fast Track Driver for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-to-resolving-realtek-wireless-lan-driver-issues-on-windows-platforms-windows-11-10-7/"><u>Guide to Resolving Realtek Wireless LAN Driver Issues on Windows Platforms [Windows 11, 10, 7]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hid-compliant-mouse-software-improvements-latest-driver-release-guide/"><u>HID-Compliant Mouse Software Improvements - Latest Driver Release Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-logitech-g920-mouse-drivers-on-your-pc-compatible-with-win11-win10-win8-and-win7/"><u>How to Get Logitech G920 Mouse Drivers on Your PC - Compatible with Win11, Win10, Win8 & Win7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-obtain-latest-updates-for-your-canon-pixma-mp250-printer/"><u>How To Obtain Latest Updates For Your Canon PIXMA MP250 Printer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-securely-get-your-nvidia-gpus-updated-drivers-on-windows-1nt-step-by-step/"><u>How to Securely Get Your NVIDIA GPU's Updated Drivers on Windows 1nT – Step-by-Step</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-update-or-repair-realtek-rtl8beusbdriver/"><u>How to Successfully Update or Repair Realtek RTL8_BE_USB_DRIVER</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-13-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 13 Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-golden-5-premier-macsierra-dvd-makers/"><u>In 2024, Golden 5  Premier MacSierra Dvd Makers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-6-plus-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 6 Plus After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-screen-saviors-ranked-top-8-for-ios-filmmaking-apps/"><u>In 2024, Screen Saviors  Ranked Top 8 for iOS Filmmaking Apps</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-redmi-note-12-proplus-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Xiaomi Redmi Note 12 Pro+ 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-logitech-wireless-mouse-drivers-on-your-window-computer/"><u>Installing Logitech Wireless Mouse Drivers on Your Window Computer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-graphics-card-potential-with-newly-available-nvidia-rtx-2n80-super-driver-software-optimal-for-win10win11/"><u>Maximize Your Graphics Card Potential with Newly Available NVIDIA RTX 2N80 Super Driver Software - Optimal for Win10/Win11!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/microsoft-bluetooth-driver-upgrade-for-windows-fresh-download-guide-for-win-11-10-8-and-asterisk7/"><u>Microsoft Bluetooth Driver Upgrade for Windows: Fresh Download Guide for Win 11, 10, 8 & Asterisk7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722958491788-non-healing-ulcers-in-specific-areas-can-indicate-occlusion-at-particular-points-along-the-arterial-tree-supplying-that-region/"><u>Non-Healing Ulcers in Specific Areas Can Indicate Occlusion at Particular Points Along the Arterial Tree Supplying that Region</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977087213-quick-install-get-your-official-samsung-m2070fw-printer-drivers-now/"><u>Quick Install: Get Your Official Samsung M2070FW Printer Drivers Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revamp-your-visual-experience-a-comprehensive-guide-to-new-windows-display-driver-setup/"><u>Revamp Your Visual Experience: A Comprehensive Guide to New Window's Display Driver Setup</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamlessly-update-your-windows-7s-wi-fi-drivers-download-tips/"><u>Seamlessly Update Your Windows 7'S Wi-Fi Drivers: Download Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-sound-blaster-z-driver-installation-on-windows-10-easy-and-reliable-methods/"><u>Secure Sound Blaster Z Driver Installation on Windows 10 - Easy and Reliable Methods</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-samsung-printer-drivers-on-windows-solutions-unveiled/"><u>Troubleshooting Samsung Printer Drivers on Windows: Solutions Unveiled</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-nvidia-geforce-rtx-3070-ti-drivers-for-optimal-performance-on-win-1187/"><u>Update Your NVIDIA GeForce RTX 3070 Ti Drivers for Optimal Performance on Win 11/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-hp-deskjet-2700-printing-solutions-free-software-downloads-available-now/"><u>Updated HP DeskJet 2700 Printing Solutions - Free Software Downloads Available Now</u></a></li>
+</ul></div>

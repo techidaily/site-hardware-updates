@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Reviews: The Ultimate Guide to Computer Components"
-date: 2024-08-15 23:59:48
-updated: 2024-08-17 10:26:36
+date: 2024-08-19T04:36:27.319Z
+updated: 2024-08-20T04:36:27.319Z
 tags:
   - laptop
 categories:
@@ -92,6 +92,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -100,10 +103,17 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  On Geekbench 6, the Zenbook S16 achieved a single-core score of 2,765 and a multi-core score of 13,282\. This was enough to beat the M3 in Apple's MacBook Air, the 16-core Intel Core Ultra 7 155H in the[HP](https://tools.techidaily.com) Spectre x360 14, and the Qualcomm Snapdragon X Elite X1E-78-100 in the HP OmniBook X. The newest Ryzen fell only to the Apple M3 Max, with scores of 3,200 and 21,711 in the 16-inch MacBook Pro (and, to be fair, a review unit stocked with 128GB of RAM, making the MacBook Air a more apt comparison from a price perspective. While it's unclear that Apple has ever released an official number, various sites have tested the M3 Max to be using significantly more power than the Ryzen AI CPU here, which is rated at 28W and configured to 17W TDP out of the box).
@@ -114,12 +124,18 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  To stress the processor, we run Cinebench 2024 for 10 runs. During the test, the system started at 821.18 points and dipped into the high 700's, and then peaked up to 844.42 points before dipping again into the mid-to-high 700's. The Zen 5 cores ran at an average of 2.67 GHz, while the Zen 5C cores reached 1.9 GHz. The CPU ran at an average of 73.44 Celsius.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## AI on the AMD Ryzen AI 9 HX 370
 
  Despite all of the hubbub around artificial intelligence, it's still only useful in so many consumer products. On Windows laptops, applications are still slowly adopting the technologies. While NPUs are often being used for background blur in video conferencing apps, generative AI is often using GPUs (at least, when it isn't looking to the cloud instead).
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/kyTb4Yk4LUiQN83wEJXLtQ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  In a reviewer's guide sent to the press, AMD suggested a number of applications to try that make use of local AI. Chief among them was a beta of Amuse 2.0, which includes image generation with Stable Diffusion, as well as paint-to-image features that are very similar to image creator in Paint on Copilot Plus PCs (though that uses DALL-E). In a way, this app, made to work well with AMD's hardware, can fill in the blanks until[Microsoft](https://tools.techidaily.com) adds Copilot Plus features to Ryzen AI laptops.
@@ -130,6 +146,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
   
  I also tried a preview of Camo Studio, which uses the NPU to blur backgrounds, though you can already do that with Windows Studio Effects. There are other uses, like AI upscaling in Gigapixel AI, but these are mostly tools for creators. The average person, at the moment, doesn't seem to have a lot of reasons to use local AI features, and should probably focus more on productivity performance and battery life.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Display on the Asus Zenbook S16
 
  The screen on the Zenbook 16 makes a colorful first impression. The 16-inch, 2880 x 1800 OLED touch panel was vivid to my eye, but not as bright as some others. It also goes up to 120 Hz refresh rate.
@@ -150,6 +169,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/aW7bBZzL8RWWNJL5FgJbTR-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The keyboard is set back slightly further than I'd like because the touchpad is so tall. I got used to it but some of my coworkers found it a bit uncomfortable.
@@ -188,6 +210,9 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  But the MacBook Air M3 (15:03), HP OmniBook X on a Snapdragon X Elite (16:18), and the 16-inch MacBook Pro lasted an incredible 17:11.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Heat on the Asus Zenbook S16
 
  During our ten runs of Cinebench 2024, we took skin temperature measurements to see how the Zenbook performs under an intense workload.
@@ -212,12 +237,19 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  Asus sells the Zenbook S16 with a one-year warranty. A card included in the box offers one free year of accidental damage protection in exchange for registering the laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Asus Zenbook S16 Configurations
 
  We tested the Asus Zenbook S16 with an AMD Ryzen AI 9 HX 370, 32GB of RAM, and a 1TB SSD, which goes for $1,699.99.
 
  A cheaper version[sold at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3Fpublisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-4910217774050973812%26url%3Dhttps%253A%252F%252Fwww.bestbuy.com%252Fsite%252Fasus-zenbook-s-16-16-3k-oled-touch-screen-laptop-amd-ryzen-ai-9-365-24gb-memory-1tb-ssd-scandinavian-white%252F6584435.p%26article%255Fname%3DAsus%2520Zenbook%2520S16%2520review%253A%2520AMD%2520Ryzen%2520AI%25209%2520HX%2520370%2520tested%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Flaptops%252Fgaming-laptops%252Fasus-zenbook-s16-amd-ryzen-ai-9-hx-370-review) is $1,399.99 with a Ryzen AI 9 HX 365 and 24GB of memory, as well as a white chassis.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Bottom Line
 
  The Asus Zenbook S16 is a solid showcase for AMD's new AI-focused processors, even if AI applications themselves aren't quite ready to excite most people.
@@ -252,3 +284,43 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-updates.techidaily.com/1722974674454-effortless-setup-targus-dock-compatibility-download-and-install-drivers-in-a-flash/"><u>[EFFORTLESS SETUP] Targus Dock Compatibility: Download & Install Drivers in a Flash</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-slowing-down-action-iphone-filmmaking-tricks/"><u>[Updated] In 2024, Slowing Down Action  IPhone Filmmaking Tricks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfecting-package-adventure-7-steps/"><u>[Updated] Perfecting Package Adventure  7 Steps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-guide-to-cinematography-on-youtube/"><u>[Updated] The Ultimate Guide to Cinematography on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-recommendations-elite-ios-sound-artists/"><u>2024 Approved  Master Recommendations  Elite iOS Sound Artists</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/corsair-h115i-troubleshooting-driver-problems-for-multiple-windows-versions/"><u>Corsair H115i: Troubleshooting Driver Problems for Multiple Windows Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722967861518-download-and-update-broadcom-gige-driver-for-windows-11-issue-resolved/"><u>Download and Update Broadcom GigE Driver for Windows 11: Issue Resolved</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-broadcom-bluetooth-drivers-for-windows-10-8-and-7/"><u>Download Broadcom Bluetooth Drivers for Windows 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-canon-pixma-mg2520-driver-compatible-with-all-windows-versions/"><u>Download Canon PIXMA MG2520 Driver: Compatible with All Windows Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-logitech-brio-camera-software-for-windows-1087-users/"><u>Download Logitech Brio Camera Software for Windows 10/8/7 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-fix-how-to-obtain-and-update-intel-hd-graphics-5500-driver-software/"><u>Easy Fix: How To Obtain And Update Intel HD Graphics 5500 Driver Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-guide-installing-brother-mfc-l2700dw-drivers-on-pc-windows-compatible/"><u>Easy Setup Guide: Installing Brother MFC-L2700DW Drivers on PC - Windows Compatible</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-guide-to-downloading-the-newest-nvidia-1080-drivers-on-windows-10/"><u>Effortless Guide to Downloading the Newest NVIDIA 1080 Drivers on Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-amd-radeon-hd-graphics-drivers-for-windows-8-users-install-now/"><u>Free AMD Radeon HD Graphics Drivers for Windows 8 Users – Install Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-to-fix-connectivity-issues-between-lg-peripherals-and-windows-versions-including-11-8-and-7/"><u>Guide to Fix Connectivity Issues Between LG Peripherals and Windows Versions Including 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-guide-to-finding-and-installing-lenovo-t430-drivers-for-pcs-with-windows-os/"><u>Hassle-Free Guide to Finding and Installing Lenovo T430 Drivers for PCs with Windows OS</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-honor-90-lite-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Honor 90 Lite Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-updated-msi-gs65-drivers-on-windows-a-step-by-step-guide/"><u>How to Install Updated MSI GS65 Drivers on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-obtain-and-install-the-latest-dell-network-drivers-for-windows-7-users/"><u>How to Obtain & Install the Latest Dell Network Drivers for Windows 7 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-or-download-ds-530-printer-drivers-for-windows-10-x8664-step-by-step-guide/"><u>How to Update or Download DS-^530 Printer Drivers for Windows 10 (X86_64) - Step by Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/improve-your-gaming-experience-with-new-rtx-2060-super-driver-downloads-on-windows-1011/"><u>Improve Your Gaming Experience with New RTX 2060 Super Driver Downloads on Windows 10/11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Life360 Notify When You Log Out On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-iosandroid-comparison-youtube-app-explored/"><u>In 2024, IOS/Android Comparison  YouTube App Explored</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-canon-mf4500-printer-drivers-instantly/"><u>Install Canon MF4500 Printer Drivers Instantly</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-new-gigabyte-z370-pcie-gen-3-motherboard-drivers/"><u>Install New GIGABYTE Z370 PCIe Gen 3 Motherboard Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-latest-compatible-realtek-bluetooth-drivers-with-your-windows-computer/"><u>Installing Latest Compatible Realtek Bluetooth Drivers with Your Windows Computer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-release-magicard-rio-pro-driver-game-enthusiasts-available-for-win-10817-users/"><u>Latest Release: Magicard Rio Pro Driver Game Enthusiasts! Available for Win 10/8.1/7 Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977127094-microsoft-wireless-mouse-5000-driver-download-made-simple-and-swift-for-optimal-performance/"><u>Microsoft Wireless Mouse 5000 Driver Download Made Simple and Swift for Optimal Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mpow-bluetooth-driver-software-update-compatible-with-windows-11-8-and-7/"><u>MPOW Bluetooth Driver Software Update: Compatible with Windows 11, 8, and 7</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/prime-mac-animation-extractor/"><u>Prime Mac Animation Extractor</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-setup-lenovo-thinkpad-x230-driver-downloads-for-speedy-configuration/"><u>Quick Setup: Lenovo ThinkPad X230 Driver Downloads for Speedy Configuration</u></a></li>
+<li><a href="https://games-able.techidaily.com/rekindling-the-joy-of-play-with-these-six-ideas/"><u>Rekindling the Joy of Play with These Six Ideas</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-guide-obtaining-epson-xp-830-driver-software-seamlessly/"><u>Troubleshooting Guide: Obtaining Epson XP-830 Driver Software Seamlessly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/up-to-date-hp-laserjet-m506-printer-driver-software-installation-instructions-and-resources/"><u>Up-to-Date HP LaserJet M506 Printer Driver Software - Installation Instructions & Resources</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-7-ready-download-the-latest-amd-radeon-graphics-card-drivers/"><u>Windows 7-Ready: Download the Latest AMD Radeon Graphics Card Drivers</u></a></li>
+</ul></div>

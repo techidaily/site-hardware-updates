@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Computer Gear From Tom's Electronics Showcase
-date: 2024-08-17 18:35:25
-updated: 2024-08-18 12:40:24
+date: 2024-08-19T04:16:20.924Z
+updated: 2024-08-20T04:16:20.924Z
 tags:
   - build
 categories:
@@ -31,6 +31,9 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/5e7tcB7ninYDsRjVKYpGMU-320-80.jpg
 4. [System Value Compared](https://tools.techidaily.com)
 5. $912 AMD LAN Box PC
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## $912 AMD LAN Box PC
 
  Even though my Intel-based revision of this quarter vindicates my assessments last quarter, a number of readers are still convinced that a properly cooled and overclocked 860K is the gateway to budget gaming goodness. After experiencing the limitations and frustrations last quarter, I still have my reservations. However, the SBM is a perfect place to empirically test this and give AMD's budget quad-core every chance to prove itself.
@@ -86,10 +89,25 @@ Deepcool Gamer Storm Gabriel
 
  Every component is identical to the Intel build earlier this week except the CPU, cooler and motherboard.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## The Definition of Insanity
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Alternate Component Selection
 
  I don't need to spend time explaining the same parts from[two days ago](https://tools.techidaily.com) . To save space and time, I'll only address the three new components.
@@ -120,6 +138,9 @@ Deepcool Gamer Storm Gabriel
 
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-8198437440134718399%26murl%3Dhttp%253A%252F%252Fwww.newegg.com%252FProduct%252FProduct.aspx%253Fcm%255Fmmc%253Dbac-tomshardwaresbm-%255F-systembuildereditorial-%255F-CPU%2BFans%2B%2526%2BHeatsinks-%255F-N82E16835856007%2526Item%253DN82E16835856007%2526IsFeedbackTab%253DTrue%2526nm%255Fmc%253DExtBanner)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## Assembly
 
  The only significant change in assembly of this against the Intel build is the CPU cooler. And I ran into fitment issues with it. While I specifically got the low profile version Ballistix memory kit, AMD's rectangular mounting bracket meant the cooler could only be installed in two orientations. Both are problematic with this motherboard. The Gabriel is thinnest on the end opposite of the heat pipe curve. This part extends farthest from the CPU socket and can clear most RAM modules. On either side, the fins have a small step making them a little thicker. This edge of the cooler is a millimeter or two too thick to fully clear the RAM on the side, touching the very top edge of the RAM heat spreader.
@@ -130,6 +151,9 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://cdn.mos.cms.futurecdn.net/EkXfRYe3XW8vhT2PuH7XkJ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
  The rest of the assembly went just peachy. The slightly different port layout of the motherboard necessitated different cable routing, but that's it. Everything else is the exact same as the Intel build from a few days ago.
 
 ![](https://cdn.mos.cms.futurecdn.net/kiyNGE2ogxSRTZjnNEBoST-320-80.jpg)
@@ -148,6 +172,9 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
@@ -170,3 +197,69 @@ Deepcool Gamer Storm Gabriel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-digital-makeup-mastering-youtubes-chromatic-alignment-for-2024/"><u>[New] Digital Makeup  Mastering Youtube's Chromatic Alignment for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-explore-the-world-of-custom-thumbnails-top-6-tools-reviewed-for-2024/"><u>[New] Explore the World of Custom Thumbnails - Top 6 Tools Reviewed for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-top-tier-rankings-for-podcasts-a-seo-masterclass/"><u>[New] In 2024, Top-Tier Rankings for Podcasts  A Seo Masterclass</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-step-by-step-adding-tracks-to-youtubes-playlist/"><u>[New] Step-by-Step  Adding Tracks to YouTube's Playlist</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-vlog-to-audio-conversion-with-twitta/"><u>[New] Vlog-to-Audio Conversion with Twitta</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-beginners-bliss-how-to-set-up-and-manage-a-podcast-live-stream-easily/"><u>[Updated] Beginner's Bliss  How to Set Up and Manage a Podcast Live Stream Easily</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-hands-on-help-quick-screen-recording-dell-for-2024/"><u>[Updated] Hands-On Help  Quick Screen Recording (Dell) for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sound-senses-try-our-free-online-rhythm-analyzers/"><u>[Updated] Sound Senses  Try Our FREE Online Rhythm Analyzers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-refining-your-digital-footprint-editing-the-look-back-feature/"><u>2024 Approved  Refining Your Digital Footprint  Editing the Look Back Feature</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/accessing-and-installing-canons-scandrive-secure-easy-and-free-windows-driver-download/"><u>Accessing and Installing Canon's ScanDrive: Secure, Easy, and FREE Windows Driver Download</u></a></li>
+<li><a href="https://article-tips.techidaily.com/allocating-money-wisely-in-youtube-advertising/"><u>Allocating Money Wisely in YouTube Advertising</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974622026-amd-ryzen-motherboard-firmware-update-download-now/"><u>AMD Ryzen Motherboard Firmware Update - Download Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/approach-identify-the-welding-processes-mentioned-in-relation-to-arc-blow-susceptibility/"><u>Approach: Identify the Welding Processes Mentioned in Relation to Arc Blow Susceptibility.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977998432-asus-usb-bt500-bluetooth-50-usb-adapter-driver-download-windows-11108/"><u>Asus USB-BT500 Bluetooth 5.0 USB Adapter Driver Download – Windows 11/10/8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mp560-driver-update-quick-installation-process-explained/"><u>Canon MP560 Driver Update - Quick Installation Process Explained</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canoscan-lide-120-driver-download-and-update/"><u>CanoScan LiDE 120 Driver Download & Update</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-tutorial-to-update-webcam-drives-in-the-world-of-windows-10/"><u>Comprehensive Tutorial to Update Webcam Drives in the World of Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-hp-p1006-printer-software-and-drivers-free/"><u>Download HP P1006 Printer Software & Drivers - Free</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976641953-download-latest-wacom-intuus-drawing-pad-drivers-simple-steps/"><u>Download Latest Wacom Intuus Drawing Pad Drivers - Simple Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-nvidias-new-rtx-3080-drivers-optimized-for-windows-10-8-and-7-systems/"><u>Download NVIDIA's New RTX 3080 Drivers: Optimized for Windows 10, 8 & 7 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-setting-up-your-camera-drivers-for-all-windows-versions/"><u>Easy Guide to Downloading and Setting Up Your Camera Drivers for All Windows Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-updating-your-nvidia-geforce-gtx-1660-graphics-card-drivers-in-minutes/"><u>Easy Steps: Updating Your NVIDIA GeForce GTX 1660 Graphics Card Drivers in Minutes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effective-techniques-to-correct-arduino-uno-driver-issues-on-windows-platforms/"><u>Effective Techniques to Correct Arduino Uno Driver Issues on Windows Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-gaming-experience-with-the-newest-steelseries-keyboard-drivers/"><u>Elevate Your Gaming Experience with the Newest SteelSeries Keyboard Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722960833822-ensure-smooth-operation-of-your-razer-naga-with-the-newest-windows-driver-download/"><u>Ensure Smooth Operation of Your Razer Naga with the Newest Windows Driver Download!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/eradicating-the-past-your-guide-to-cleaner-chatgpt-history/"><u>Eradicating the Past: Your Guide to Cleaner ChatGPT History</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixed-guide-latest-driver-update-for-your-amd-radeon-vega-graphics-card-on-windows-systems/"><u>Fixed Guide: Latest Driver Update for Your AMD Radeon Vega Graphics Card on Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-thrustmaster-t300-racing-simulator-downloads-compatible-with-windows-11-and-10/"><u>Free Thrustmaster T300 Racing Simulator Downloads Compatible with Windows 11 & 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-latest-safe-lenovo-bluetooth-software-for-windows-7-and-10-free-download-now/"><u>Get Latest, Safe Lenovo Bluetooth Software for Windows 7 & 10 – Free Download Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973069029-get-the-latest-gigabyte-z370-d3-chipset-drivers-download-now/"><u>Get the Latest GIGABYTE Z370-D3 Chipset Drivers - Download Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-laptop-drivers-free-downloads-for-windows-users/"><u>Get the Latest HP Laptop Drivers: Free Downloads for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-compatible-brother-hl-c2240-driver-on-windows-systems/"><u>Get the Most Recent Compatible Brother HL-C2240 Driver on Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-qualcomm-chipset-usb-drivers-compatible-with-win11-10-8-and-7/"><u>Get Your [Qualcomm Chipset] USB Drivers - Compatible with Win11, 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-asus-mousepads-optimal-performance-on-windows-driver-download/"><u>Get Your ASUS Mousepad's Optimal Performance on Windows - Driver Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-sades-headset-drivers-for-windows-trustworthy-and-risk-free-downloads/"><u>Get Your Sades Headset Drivers for Windows: Trustworthy and Risk-Free Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-dell-xps-13-driver-update-process-explained/"><u>Hassle-Free Dell XPS 13 Driver Update Process Explained</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-perfect-memos-through-sound-waves/"><u>In 2024, Crafting Perfect Memos Through Sound Waves</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leading-offline-audio-to-text-applications/"><u>In 2024, Leading Offline Audio-To-Text Applications</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-obs-techniques-for-clear-skype-screen-recording/"><u>In 2024, OBS Techniques for Clear Skype Screen Recording</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quantum-megadesk-pure-4k-multi-touch/"><u>In 2024, Quantum MegaDesk  Pure 4K Multi-Touch</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-your-hp-laserjet-pro-m402n-printer-drivers-on-microsoft-windows-a-comprehensive-tutorial/"><u>Installing Your HP LaserJet Pro M402n Printer Drivers on Microsoft Windows: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-chipset-drivers-download-swift-straightforward-installation-guide/"><u>Intel Chipset Drivers Download: Swift, Straightforward Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keep-your-workstation-up-to-date-finding-thunderbolt-tb16-driver-downloads-for-dell-systems/"><u>Keep Your Workstation Up-to-Date: Finding Thunderbolt TB16 Driver Downloads for Dell Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-the-glitch-how-to-overcome-server-slips-in-ms-store/"><u>Mending the Glitch: How to Overcome Server Slips in MS Store</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-12-pro-max-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/patch-successful-non-existence-of-default-printer-and-scanner-supports-for-windows-10-os/"><u>Patch Successful: Non-Existence of Default Printer and Scanner Supports for Windows 10 OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-guide-how-to-update-your-windows-laptops-battery-drivers/"><u>Quick and Simple Guide: How to Update Your Windows Laptop's Battery Drivers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-infinix-hot-40i-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Infinix Hot 40i</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolved-common-challenges-with-intel-hd-graphics-630-drivers-on-windows-systems/"><u>Resolved: Common Challenges with Intel HD Graphics 630 Drivers on Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolved-troubleshooting-asus-pce-ac56-wifi-adapter-drivers-on-windows-11-8-and-7/"><u>Resolved: Troubleshooting ASUS PCE-AC56 WiFi Adapter Drivers on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976747082-simple-steps-to-download-the-latest-logitech-m325-drivers-get-started-today/"><u>Simple Steps to Download the Latest Logitech M325 Drivers – Get Started Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simplified-process-for-fresh-sound-drivers-and-updates-start-today/"><u>Simplified Process for Fresh Sound Drivers & Updates - Start Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-internet-awaits-quick-guide-to-update-and-install-intel-dual-band-ac-3160-wifi-driver/"><u>Speedy Internet Awaits: Quick Guide to Update and Install Intel Dual Band AC 3160 WiFi Driver</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/step-by-step-producing-square-videos-in-imovie-for-instagram-for-2024/"><u>Step-by-Step  Producing Square Videos in iMovie for Instagram for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-downloading-and-installing-logitech-g920-drivers-on-your-windows-pc/"><u>Step-by-Step Guide to Downloading and Installing Logitech G920 Drivers on Your Windows PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-on-acquiring-asus-wifi-network-adapter-drivers/"><u>Step-by-Step Instructions on Acquiring ASUS WiFi Network Adapter Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-downloading-and-setting-up-your-thrustmaster-t30-drivers-for-latest-windows-systems-1110/"><u>Step-by-Step: Downloading and Setting Up Your Thrustmaster T30지동차툰 Drivers for Latest Windows Systems (11/10)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-downloading-and-installing-hp-deskjet-2652-driver-for-windows-variants/"><u>The Ultimate Guide to Downloading and Installing HP DeskJet 2652 Driver for Windows Variants</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-simplified-approach-to-sound-wave-suppression-with-audacity/"><u>Updated 2024 Approved Simplified Approach to Sound Wave Suppression with Audacity</u></a></li>
+<li><a href="https://techidaily.com/ways-to-fix-the-failed-to-parse-the-corrupted-excel-2003-file-error-by-stellar-guide/"><u>Ways to Fix the Failed to Parse the Corrupted Excel 2003 File Error</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Your Trusted Source for In-Depth Tech Analysis - Tom's Hardware
-date: 2024-08-16 16:47:33
-updated: 2024-08-17 11:49:43
+date: 2024-08-19T04:21:02.104Z
+updated: 2024-08-20T04:21:02.104Z
 tags:
   - motherboards
 categories:
@@ -101,26 +101,43 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
  Inside the retail packaging, below the motherboard, ASRock includes a few accessories to get you started. You get two SATA cables, a Wi-Fi antenna, screws for M.2 sockets, and a thermistor cable. There isn’t much here, which isn’t surprising at this price point, but it’s enough to cover the basics.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Design of the Lightning Wi-Fi
 
  Image 1 of 3
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  This little motherboard sits on a server-grade 8-layer matte black PCB. The sole design element comes from the actively cooled, heatpipe-connected VRM heatsinks and M.2 heatsinks. The heatsinks have lines that meander their way around the metal bits. On the left, you see the Phantom Gaming branding as well. If you’re interested in RGB lighting in your chassis, you’ll have to add your own to the onboard headers, as the board does not include any natively. The all-black appearance looks good and, in my opinion, better than the more expensive PG-ITX/TB4.
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/97M3RfrDnnVcKkV4n7VkU8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  Starting in the left corner, we spy a single 8-pin EPS connector just above the heatpipe connecting the heatsinks. The VRMs have plenty of mass and surface area to keep the powerful VRMs below running cool. There’s also a small fan attached to the heatsink tucked in between the rear IO plate and the VRM for additional cooling. The default fan curve sounds improved from the PG-ITX/TB4\. While it was still audible, we could hear it only during stress testing. Of course, you can adjust it if needed. Also by the EPS connector is the 2-pin temperature sensor header to use with the included thermistor.
@@ -149,6 +166,9 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Ax7PUWX76BhvWC7HhxEAn8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  The rear IO plate on the Z790I Lightning comes preinstalled on the motherboard. It has a black and gray background, the Phantom Gaming branding in the corner, and plenty of venting for the hidden VRM fan. In total, there are five USB Type-A ports (four are USB 3.2 Gen 1) while the other below the Realtek 2.5 GbE port is faster at USB 3.2 Gen 2 (10 Gbps) speeds. Additionally, you get a USB Type-C port with USB 3.2 Gen 2 (10 Gbps) speeds. There are DisplayPort and HDMI ports for video, while the Wi-Fi 6E antenna connections sit just above that. Last but not least, on the far right, is the audio stack with two 3.5mm jacks (mic in and line out) and the SPDIF output.
@@ -175,3 +195,43 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-the-ultimate-selection-top-10-vimeo-download-tools-unveiled/"><u>[New] 2024 Approved  The Ultimate Selection  Top 10 Vimeo Download Tools Unveiled</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-deciphering-revenue-sharing-in-youtube-shorts/"><u>[New] Deciphering Revenue Sharing in YouTube Shorts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/echniques-extracting-youtube-audio-for-2024/"><u>[New] Techniques  Extracting YouTube Audio for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-a-comprehensive-dive-into-creating-inspiring-slow-mo-videos-on-ig-for-2024/"><u>[Updated] A Comprehensive Dive Into Creating Inspiring Slow Mo Videos on IG for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-ultimate-tiktok-live-jump-a-how-to-guide-for-2024/"><u>[Updated] The Ultimate TikTok Live Jump  A How-To Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-recommendations-the-very-best-ways-to-watch-cricket-on-screen/"><u>2024 Approved  Expert Recommendations  The Very Best Ways to Watch Cricket on Screen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/addressing-the-problem-of-missing-dts-sound-support-in-selected-output-hardware/"><u>Addressing the Problem of Missing DTS Sound Support in Selected Output Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-r5-driver-downloads-most-recent-version-for-win-11-10-8-and-7-users/"><u>AMD Radeon R5 Driver Downloads - Most Recent Version for Win 11, 10, 8, and 7 Users</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/cant-find-your-iphone-app-icons-anymore-try-these-fixes-for-a-quick-recovery/"><u>Can't Find Your iPhone App Icons Anymore? Try These Fixes for a Quick Recovery</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-driver-downloads-and-setup-instructions-for-the-logitech-hd-webcam-c270-on-windows-11-pcs/"><u>Complete Driver Downloads and Setup Instructions for the Logitech HD Webcam C270 on Windows 11 PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/divide-both-the-numerator-and-the-denominator-by-4-frac-20-div-48-div-4-frac-52/"><u>Divide Both the Numerator and the Denominator by 4: $\\Frac{-20 \\Div 4}{8 \\Div 4} = \\Frac{-5}{2}$</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-lenovo-thinkpad-t420-drivers-on-windows-simple-steps/"><u>Download & Update Lenovo ThinkPad T420 Drivers on Windows: Simple Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-compatible-logitech-racing-wheel-software-for-your-windows-7810-pc/"><u>Download Compatible Logitech Racing Wheel Software for Your Windows 7/8/10 PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722958809790-download-your-newly-fixed-wi-fi-driver-update-now/"><u>Download Your Newly Fixed Wi-Fi Driver Update Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-canon-ip110-printer-installation-guide-with-downloadable-drivers-for-various-windows-os-including-7/"><u>Easy Canon iP110 Printer Installation Guide with Downloadable Drivers for Various Windows OS (Including 7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-install-guide-fetch-your-epson-v700-drivers-today-windows-7-10-and-81-support/"><u>Easy Install Guide: Fetch Your Epson V700 Drivers Today (Windows 7, 10 & 8.1 Support)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhancing-compatibility-new-dell-compatible-sm-bus-controller-firmware-revision/"><u>Enhancing Compatibility: New Dell-Compatible SM Bus Controller Firmware Revision</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-photoshop-tricks-conceal-faces-and-spaces-for-2024/"><u>Expert Photoshop Tricks  Conceal Faces & Spaces for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-windows-11-screen-mirrored-in-reverse/"><u>Fixing Windows 11: Screen Mirrored In Reverse</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722959384644-get-the-best-fix-free-wireless-driver-downloads-available-now/"><u>Get the Best Fix: Free Wireless Driver Downloads Available Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-firmware-update-and-driver-software-for-your-logitech-k350-keyboard-free/"><u>Get the Latest Firmware Update and Driver Software for Your Logitech K350 Keyboard [Free]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-correctly-install-and-update-your-intel-csr8510-a10-gpu-driver-in-windows-fixed/"><u>How to Correctly Install and Update Your Intel CSR8510 A10 GPU Driver in Windows [FIXED]</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-apple-iphone-11-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or Apple iPhone 11 without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-overcome-compatibility-woes-solving-the-realtek-alc887-sound-driver-issue-on-windows/"><u>How to Overcome Compatibility Woes: Solving the Realtek ALC887 Sound Driver Issue on Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-oppo-reno-11-pro-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Oppo Reno 11 Pro 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-gif-a-step-by-step-guide/"><u>In 2024, Mastering GIF  A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-updated-logitech-g910-controller-software-for-windows-fresh-download/"><u>Install Updated Logitech G910 Controller Software for Windows - Fresh Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-amd-gpio-driver-available-for-instant-download/"><u>Latest AMD GPIO Driver Available for Instant Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-g920-driver-download-for-windows-111087/"><u>Logitech G920 Driver Download for Windows 11/10/8/7</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-lava-blaze-2-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Lava Blaze 2 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-setup-guide-obtain-essential-drivers-for-your-acer-predator-xb271hu/"><u>Quick Setup Guide: Obtain Essential Drivers for Your Acer Predator XB271HU</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-and-speedy-brother-hl-3170cdw-driver-download/"><u>Secure and Speedy Brother HL-3170cdw Driver Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-steps-how-to-quickly-update-your-windows-battery-drivers/"><u>Simple Steps: How to Quickly Update Your Windows Battery Drivers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-tricks-for-uninstalling-software-on-your-mac-system/"><u>Ultimate Tricks for Uninstalling Software on Your Mac System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-10-new-release-of-nvidia-geforce-210-graphics-card-drivers/"><u>Windows 10: New Release of NVIDIA GeForce 210 Graphics Card Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zero-cost-downloads-of-updated-asus-audio-chipset-driver-packs-available-now/"><u>Zero-Cost Downloads of Updated Asus Audio Chipset Driver Packs Available Now!</u></a></li>
+</ul></div>

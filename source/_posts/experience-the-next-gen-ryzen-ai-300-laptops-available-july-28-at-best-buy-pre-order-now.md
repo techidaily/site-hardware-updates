@@ -1,7 +1,7 @@
 ---
 title: "Experience the Next-Gen Ryzen AI 300 Laptops: Available July 28 at Best Buy - Pre-Order Now"
-date: 2024-08-16 17:46:35
-updated: 2024-08-17 11:24:48
+date: 2024-08-19T04:31:38.113Z
+updated: 2024-08-20T04:31:38.113Z
 tags:
   - laptop
 categories:
@@ -59,6 +59,9 @@ Acer Swift 14 AI  (Image credit: Qualcomm)
 
  On the connectivity front, there are two USB-C, two USB-A ports, and HDMI 1.4\. For your wireless needs, you'll find Wi-Fi 7 and Bluetooth 5.4\. Power comes from a 73 WHr battery, rated for up to 12 hours.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -71,6 +74,9 @@ Acer Swift 14 AI  (Image credit: Qualcomm)
 
  Acer intends to launch the Swift 14 AI in the United States this June, with prices starting at $1,099.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Lenovo Yoga Slim 7x 14 Gen 9 and ThinkPad 14s Gen 6
 
  Next, we have the Yoga Slim 7x 14 Gen 9 from the Lenovo camp. Manufacturers often talk about "all-day" battery life with their thin and light[notebooks](https://tools.techidaily.com) , but Lenovo claims that the Yoga Slim 7x extends that to "multi-day battery life." The efficient Snapdragon X Elite processor is paired with up to 32GB of LPDDR5x and includes a 70 WHr battery to enable this long endurance.
@@ -100,6 +106,10 @@ Lenovo Yoga Slim 7x 14 Gen 9  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/QXLgUBPHQLuoQKnKFXBYAN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  Lenovo provides three display options with the ThinkPad T14s Gen 6: the first two are 14-inch 400-nit IPS panels with a 1920 x 1200 resolution, but one supports touch, and the other doesn't. The third option is a 2.8K OLED panel with 100% coverage of DCI-P3 and VESA HDR True Black 500 compliance.
@@ -116,6 +126,9 @@ Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/cXqoxKsRoc29VARWi2JunN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Dell XPS 13  (Image credit: Qualcomm)
 
  Dell makes the Snapdragon X Elite or the Snapdragon X Plus available, although the latter is only coming to the Chinese market (at least for now). Customers can choose from 16GB, 32GB, or 64GB of dual-channel LPDDR5x memory and 512GB, 1TB, 2TB, or 4TB (later availability) SSDs.
@@ -137,6 +150,9 @@ Dell XPS 13  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/5STqZSSuR2Yb9mkF7rrCLN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 Dell Inspiron 14 Plus  (Image credit: Qualcomm)
 
  The Inspiron 14 Plus comes exclusively with the Snapdragon X Plus, 16GB LPDDR5x memory, and 512GB/1TB SSD options. You get just one display option: a 14-inch 2560 x 1600 IPS panel with touch and an anti-glare coating. You also get two USB-C ports, one USB-A port, a microSD card reader, a headphone jack, quad speakers, a 1080p IR webcam with privacy shutter, Wi-Fi 7, Bluetooth 5.4, a power button with integrated fingerprint reader, and a 54 WHr battery.
@@ -153,6 +169,9 @@ Dell Latitude 7455  (Image credit: Qualcomm)
 
  The XPS 13 and Inspiron 14 Plus are scheduled to launch "later this year," priced from $1,299 and $1,099, respectively. Pricing and availability aren't yet known for the Latitude 7455.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Hewlett-Packard OmniBook X and EliteBook Ultra
 
  The[HP](https://tools.techidaily.com) OmniBook X and HP EliteBook Ultra share the same aluminum chassis design, weighing 2.97 pounds, and they measure 12.32 x 8.8 x 0.57 inches. The primary difference is that the latter features a blue finish with a Physical Vapor Deposition (PVD) coating to help resist fingerprints.
@@ -190,3 +209,64 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-updates.techidaily.com/immediate-access-secure-qualcomm-atheros-ar938x-networking-drivers-for-optimal-performance-complimentary/"><u>[Immediate Access] Secure Qualcomm Atheros AR938X Networking Drivers for Optimal Performance - Complimentary</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-maintain-consistency-in-voice-posts-on-instagram-for-2024/"><u>[New] How to Maintain Consistency in Voice Posts on Instagram for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-screen-recording-for-professionals-choosing-between-bandicam-and-camtasia/"><u>[New] Screen Recording for Professionals  Choosing Between Bandicam & Camtasia</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-free-custom-minecraft-gif-templates/"><u>[Updated] Free Custom Minecraft GIF Templates</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-guide-turning-insta-vids-to-mp3-tracks-for-2024/"><u>[Updated] Guide  Turning Insta Vids to MP3 Tracks for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-quick-scale-your-iphones-viewport/"><u>[Updated] Quick Scale Your iPhone's Viewport</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-guide-merging-srt-captions-with-mp4-video-content/"><u>2024 Approved  Expert Guide  Merging SRT Captions with MP4 Video Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-luminous-landscapes-mastering-nightscape-portraits-with-precision/"><u>2024 Approved  Luminous Landscapes  Mastering Nightscape Portraits with Precision</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/acer-pad-keyboard-drivers-compatible-with-windows-11-full-guide-and-download/"><u>Acer Pad-Keyboard Drivers Compatible with Windows 11 - Full Guide & Download</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capture-breathtaking-scenes-on-iphone-with-ease/"><u>Capture Breathtaking Scenes on iPhone with Ease</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-shots-for-youtube-filmmakers-for-2024/"><u>Clear Shots for YouTube Filmmakers for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-tutorial-on-installing-and-refreshing-intel-hd-graphics-driver-v5500/"><u>Complete Tutorial on Installing & Refreshing Intel HD Graphics Driver V5500</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-magicard-rio-pro-driver-compatible-with-windows-10817-get-it-now/"><u>Download the Magicard Rio Pro Driver - Compatible with Windows 10/8.1/7: Get It Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-nvidia-rtx-2060-drivers-compatible-with-windows-111087/"><u>Download Updated NVIDIA RTX 2060 Drivers Compatible with Windows 11/10/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-installing-hps-840-g3-graphics-and-audio-drivers/"><u>Easy Guide: Installing HP's 840 G3 Graphics & Audio Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-linksys-ea3000-drivers-start-now/"><u>Effortless Installation of Linksys EA3000 Drivers - Start Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-steps-to-refresh-lenovo-battery-and-charging-software/"><u>Effortless Steps to Refresh Lenovo Battery & Charging Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-smooth-performance-update-or-fresh-download-of-samsung-ssd-pertinent-to-the-samsung-960-evo-drivers-in-windows-environments/"><u>Ensure Smooth Performance: Update or Fresh Download of Samsung SSD Pertinent to the Samsung 960 EVO Drivers in Windows Environments</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-realtek-device-drivers-now-available-enhance-your-windows-11-experience/"><u>Essential Realtek Device Drivers Now Available: Enhance Your Windows 11 Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/exclusive-insight-discerning-storage-type-on-windows/"><u>Exclusive Insight: Discerning Storage Type on Windows</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-level-file-deletion-with-stellars-winstandard-eraser-version-5-uncompromising-quality-guaranteed/"><u>Expert-Level File Deletion with Stellar's WinStandard Eraser Version 5 - Uncompromising Quality Guaranteed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-updated-drivers-for-your-toshiba-dynabook-on-windows-computers/"><u>Find and Install Updated Drivers for Your Toshiba Dynabook on Windows Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-astro-a50-microphone-issues-troubleshooting-guide/"><u>Fix Astro A50 Microphone Issues: Troubleshooting Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fresh-razer-drivers-available-now-downloading-and-setup-tips-for-multiple-windows-os/"><u>Fresh Razer Drivers Available Now: Downloading and Setup Tips for Multiple Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-intel-wireless-ac-9560-drivers-download-and-installation-guide/"><u>Get the Most Recent Intel Wireless AC 9560 Drivers - Download and Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-updates-epson-wf-3620-drivers-compatible-with-windows-1187/"><u>Get the Most Recent Updates: Epson WF-3620 Drivers Compatible with Windows 11/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-new-driver-update-for-optimal-rtx-2080-performance-in-windows-1078/"><u>Get the New Driver Update for Optimal RTX 2080 Performance in Windows 10/7/8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-asus-pcs-sounds-working-free-driver-downloads/"><u>Get Your ASUS PC's Sounds Working: FREE Driver Downloads!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-started-with-your-hp-officejet-5255-fresh-driver-download-instructions/"><u>Getting Started with Your HP OfficeJet 5255 - Fresh Driver Download Instructions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-hp-stream-drivers-downloads-for-speedy-setup/"><u>Hassle-Free HP Stream Drivers Downloads for Speedy Setup</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-fix-windows-11-installation-has-failed/"><u>How to Fix “Windows 11 Installation Has Failed”</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-ch340-serial-port-drivers-for-your-windows-10-pc/"><u>How to Get the Newest CH340 Serial Port Drivers for Your Windows 10 PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Honor X50i+? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-revolutionize-video-production-150plus-complimentary-pp-samples/"><u>In 2024, Revolutionize Video Production  150+ Complimentary PP Samples</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to stop parent tracking your Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-official-amd-rx-6800-xt-graphics-driver-on-windows-11-10-8-and-7-download/"><u>Install Official AMD RX 6800 XT Graphics Driver on Windows 11, 10, 8 & 7 - [Download]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977279858-install-your-roccat-mouse-with-these-free-drivers/"><u>Install Your Roccat Mouse with These Free Drivers!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-hd-graphics-630-driver-issues-in-windows-solved/"><u>Intel HD Graphics 630 Driver Issues In Windows [SOLVED]</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/iphone-2024-voice-memo-saving-device/"><u>IPhone 2024 Voice Memo Saving Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keep-your-printer-running-smoothly-with-the-new-epson-wf-3620-windows-driver-update/"><u>Keep Your Printer Running Smoothly with the New Epson WF-3620 Windows Driver Update!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-ch3ebutrex-how-to-get-and-install-updates-for-windows-11-users/"><u>Latest CH3ebutrex: How To Get And Install Updates For Windows 11 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-firmware-and-software-updates-for-canon-mg3022/"><u>Latest Firmware & Software Updates for Canon MG3022</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leverage-bings-integrated-dall-e-3-ai-your-guide-to-free-creative-design/"><u>Leverage Bing's Integrated DALL-E 3 AI - Your Guide to Free Creative Design</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/obtain-latest-hp-envy-t39-stylew-printer-drivers-easy-download-and-installation-process/"><u>Obtain Latest HP Envy T39 Stylew Printer Drivers - Easy Download and Installation Process</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfect-podcast-summaries-strategies-and-case-studies/"><u>Perfect Podcast Summaries  Strategies & Case Studies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-access-downloading-your-asus-monitors-latest-drivers/"><u>Quick Access: Downloading Your ASUS Monitor's Latest Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/rapid-download-compatible-geforce-rtx-2060-super-graphics-card-drivers-with-windows-10-11/"><u>Rapid Download: Compatible GeForce RTX 2060 Super Graphics Card Drivers with Windows 10, 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-download-the-ultimate-guide-for-thrustmaster-t150-driving-experience-setup/"><u>Speedy Download: The Ultimate Guide for Thrustmaster T150 Driving Experience Setup</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722963283780-speedy-windows-guide-to-downloading-and-setting-up-bcm207n02a0-drivers/"><u>Speedy Window's Guide to Downloading & Setting Up BCM207n02A0 Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-asus-pce-ac56-driver-update-and-repair-on-windows-1187-now-fixed/"><u>Step-by-Step ASUS PCE-AC56 Driver Update and Repair on Windows 11/8/7: Now Fixed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-smart-planners-guide-to-virtual-meeting-success/"><u>The Smart Planner's Guide to Virtual Meeting Success</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-rated-asmr-gear-high-quality-priced-right/"><u>Top-Rated ASMR Gear  High Quality, Priced Right</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-overcoming-windows-10s-stalled-updates-and-installation-problems/"><u>Troubleshooting Tips: Overcoming Windows 10'S Stalled Updates and Installation Problems</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/shing-potential-in-your-channel-through-studio/"><u>Unleashing Potential in Your Channel Through Studio</u></a></li>
+<li><a href="https://techidaily.com/update-your-drivers-with-device-manager-in-windows-7-by-drivereasy-guide/"><u>Update your drivers with Device Manager in Windows 7</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-soundspiral-stream-the-worlds-best-dj-beats-for-2024/"><u>Updated SoundSpiral Stream the Worlds Best DJ Beats for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-1110-compatible-update-your-geforce-rtx-3070-drivers-here/"><u>Windows 11/10 Compatible: Update Your GeForce RTX 3070 Drivers Here</u></a></li>
+</ul></div>

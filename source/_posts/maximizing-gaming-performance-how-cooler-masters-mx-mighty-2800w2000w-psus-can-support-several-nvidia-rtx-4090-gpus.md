@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Gaming Performance: How Cooler Master's MX Mighty 2800W/2000W PSUs Can Support Several NVIDIA RTX 4090 GPUs"
-date: 2024-08-15 19:46:15
-updated: 2024-08-18 10:35:24
+date: 2024-08-19T04:12:19.791Z
+updated: 2024-08-20T04:12:19.791Z
 tags:
   - power-supply
 categories:
@@ -63,20 +63,33 @@ See more Real Deals below.
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB07S98YLHM%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8780951100740110730-20)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## Looking for more deals?
 
 Category
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Back to Hubs & Switches
 
 Brand
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Intel
 
  Netgear
@@ -95,6 +108,9 @@ Condition
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
  New
 
  Refurbished
@@ -103,6 +119,9 @@ Price
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Any Price
 
  Showing 10 of 52 deals
@@ -277,3 +296,56 @@ Our Review
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-professional-techniques-to-streamline-video-capture-on-computers-and-phones/"><u>[New] 2024 Approved  Professional Techniques to Streamline Video Capture on Computers & Phones</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-best-mac-screen-capture-tools-for-2024/"><u>[New] Best Mac Screen Capture Tools for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-efficiently-record-on-xiaomi-mi-11-a-beginners-handbook/"><u>[New] In 2024, Efficiently Record on Xiaomi Mi 11 - A Beginner's Handbook</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-complete-checklist-for-remotely-podcasters-delight/"><u>[New] The Complete Checklist for Remotely Podcaster's Delight</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-intel-dual-band-wireless-ac-3160-driver-quickly-and-easily/"><u>[UPDATE] Intel Dual Band Wireless-AC 3160 Driver | Quickly & Easily</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-mp4-downloader-pro-facebook-video-hacks-for-2024/"><u>[Updated] MP4 Downloader Pro - Facebook Video Hacks for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-taking-the-leap-secrets-for-free-fcp-acquisition/"><u>[Updated] Taking the Leap  Secrets for Free FCP Acquisition</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-unlocking-microsoft-azure-transcription-capabilities-for-2024/"><u>[Updated] Unlocking Microsoft Azure Transcription Capabilities for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-unlocking-the-power-of-closed-captions-on-vimeo-for-2024/"><u>[Updated] Unlocking the Power of Closed Captions on Vimeo for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-realme-12-pro-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Realme 12 Pro 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-techniques-to-blur-faces-in-photography/"><u>2024 Approved  Innovative Techniques to Blur Faces in Photography</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/bcm2045a0-driver-woes-unravel-them-quickly-and-without-hassle/"><u>BCM2045A0 Driver Woes? Unravel Them Quickly and Without Hassle!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-source-to-find-and-download-nvidias-quadro-drivers-specifically-for-windows-11/"><u>Best Source to Find and Download Nvidia's Quadro Drivers Specifically for Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-tutorial-on-updating-and-installing-zebras-zp450-printer-drivers/"><u>Comprehensive Tutorial on Updating & Installing Zebra's ZP450 Printer Drivers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-your-sound-story-utilizing-auditions-fade-in-for-2024/"><u>Crafting Your Sound Story  Utilizing Audition's Fade In for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-compatible-software-for-samsungs-850-series-evo-solid-state-drive/"><u>Download Compatible Software for Samsung's 850 Series EVO Solid State Drive</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-epson-artisan-1430-printer-drivers-compatible-with-windows-11-10-and-8/"><u>Download Epson Artisan 1430 Printer Drivers: Compatible with Windows 11, 10 & 8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-geforce-rtx-3080-drivers-for-enhanced-performance-on-windows-11-8-and-7/"><u>Download Updated GeForce RTX 3080 Drivers for Enhanced Performance on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970209482-easy-installation-for-your-hp-all-in-one-7520-free-printer-driver-downloads-ready-to-go/"><u>Easy Installation for Your HP All-in-One 7520: Free Printer Driver Downloads Ready to Go!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-flawlessly-install-latest-drivers-for-nvidias-geforce-gtx-660-series/"><u>Easy Steps to Flawlessly Install Latest Drivers for Nvidia's GeForce GTX ₰660 Series</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-way-to-optimize-windows-device-performance-by-updating-battery-drivers/"><u>Easy Way To Optimize Windows Device Performance by Updating Battery Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-connection-intel-wifi-6-ax200-drivers-latest-version-compatible-with-win-11-and-10/"><u>Enhance Your Connection: Intel Wifi 6 AX200 Drivers - Latest Version Compatible with Win 11 & 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-techniques-for-downloading-and-installing-lenovo-thinkpad-drivers-without-any-worries/"><u>Expert Techniques for Downloading and Installing Lenovo ThinkPad Drivers Without Any Worries!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722962159669-fast-track-your-files-download-the-latest-lexar-usb-driver-today/"><u>Fast Track Your Files: Download the Latest Lexar USB Driver Today!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/online-webinar-conduct-with-youtube-for-2024/"><u>Free Online Webinar Conduct with YouTube for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-asus-dvd-driver-downloads-here/"><u>Get the Newest Asus DVD Driver Downloads Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-canon-mf4800-up-and-running-official-driver-downloads/"><u>Get Your Canon MF4800 Up and Running - Official Driver Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-correctly-update-hp-beats-audio-driver-issues-in-windows-operating-systems-10-8-and-7/"><u>How to Correctly Update HP Beats Audio Driver Issues in Windows Operating Systems (10, 8, and 7)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-itel-p40plus-phone-by-drfone-android/"><u>How to Reset a Locked Itel P40+ Phone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-your-epson-xp-330-with-official-drivers/"><u>Install Your Epson XP-330 with Official Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722962032157-instant-access-to-hp-software-fresh-drivers-at-your-fingertsip/"><u>Instant Access to HP Software - Fresh Drivers at Your Fingertsip</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-setup-for-microsoft-comfort-keyboard-4000-download-and-configure-the-right-drivers-now/"><u>Instant Setup for Microsoft Comfort Keyboard 4000: Download and Configure the Right Drivers Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-nuc-driver-update-streamlined-installation-process/"><u>Intel NUC Driver Update: Streamlined Installation Process</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-hardware-optimization-quick-and-simple-power-management-drivers-refresh/"><u>Lenovo Hardware Optimization: Quick & Simple Power Management Drivers Refresh</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/luminaries-in-augmented-sight-technology-for-2024/"><u>Luminaries in Augmented Sight Technology for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-guide-connecting-additional-devices-with-thinkpads-usb-c-docking-station/"><u>New Guide: Connecting Additional Devices with ThinkPad's USB-C Docking Station</u></a></li>
+<li><a href="https://windows11.techidaily.com/purpose-behind-visual-cplusplus-distributable/"><u>Purpose Behind Visual C++ Distributable</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-remedy-restore-registry-management-functions/"><u>Quick Remedy: Restore Registry Management Functions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/reveal-and-receive-the-most-exciting-sites-for-buying-mystery-boxes-for-2024/"><u>Reveal and Receive  The Most Exciting Sites for Buying Mystery Boxes for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-and-swift-driver-acquisition-for-your-acer-predator-xb271-hi-fi-display/"><u>Secure and Swift Driver Acquisition for Your Acer Predator XB271 Hi-Fi Display</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/startech-usb-video-capture-card-driver-get-your-free-version-now/"><u>StarTech USB Video Capture Card Driver - Get Your Free Version Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-latest-way-to-get-your-western-digital-ses-device-up-and-running-in-windows-after-2011/"><u>The Latest Way to Get Your Western Digital SES Device Up & Running in Windows After 2011</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/trouble-free-elgato-hd60-swift-and-effortless-driver-fix-techniques/"><u>Trouble-Free Elgato HD60: Swift & Effortless Driver Fix Techniques</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-nonfunctional-hardware-in-windows-11-8-or-7-driver-solutions-fixed/"><u>Troubleshoot Nonfunctional Hardware in Windows 11, 8 or 7: Driver Solutions [FIXED]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-performance-hitches-in-forza-horizon-5-solutions-included/"><u>Troubleshooting Performance Hitches in Forza Horizon 5 - Solutions Included</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-installing-your-epson-wf-2630-drivers-on-windows-operating-systems-78110/"><u>Ultimate Guide to Installing Your Epson WF-2630 Drivers on Windows Operating Systems 7/8.1/10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-announced-basic-peripheral-driver-availability-restored-on-windows/"><u>Update Announced: Basic Peripheral Driver Availability Restored on Windows</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-10plus-free-online-audio-to-text-converters/"><u>Updated 2024 Approved 10+ Free Online Audio to Text Converters</u></a></li>
+</ul></div>

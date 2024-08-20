@@ -1,7 +1,7 @@
 ---
 title: Expert Insights on PC Components by Tom’s Technology Hub
-date: 2024-08-16 19:15:27
-updated: 2024-08-17 11:17:53
+date: 2024-08-19T04:19:13.267Z
+updated: 2024-08-20T04:19:13.267Z
 tags:
   - ssd
 categories:
@@ -42,6 +42,9 @@ Best SSD and Hard Drive Deals
 * **PCIe 3, 4 or 5:** If you're buying an NVMe SSD, you can choose among PCIe 3, 4 or 5 interfaces with speeds increasing from a maximum of around 3,500 MBps sequential reads and writes to 8,000 MBps and 14,000 MBps. At this point, PCIe 4 drives are mainstream and offer the best value. PCIe 5 drives are extraordinarily expensive, require a newer-gen platform that supports them, and also generate a fair amount of heat. We're seeing the best SSD deals on PCIe 4 drives which is the best standard for most people.
 * **Capacity:** 2TB seems to be the sweet spot for price and performance, with decent 2TB, PCIe 4 NVMe drives going for around $80 or less and high-performance ones in the sub $130 range. If you can splurge, go for a 4TB drive, which could cost anywhere from $150 for a low-end drive, up to $250 for a high-end one. If you really need to save money, a decent 1TB drive can cost $50 or less. However, the top SSD deals this year are definitely on 2 and 4TB capacities.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best SSD Deals
 
 [Samsung 990 Pro (2TB) SSD:&nbsp;now $169 at Best Buy](https://cdn.mos.cms.futurecdn.net/yWYHwGzYhVYxLM38ZxYDwk-200-100.jpg "Samsung 990 Pro (2TB) SSD:&nbsp;now $169 at Best Buy") ](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3FskuId%3D6523595%26publisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-1244705598733577618%26url%3Dhttps%253A%252F%252Fwww.bestbuy.com%252Fsite%252Fsamsung-990-pro-2tb-internal-ssd-pcle-gen-4x4-nvme%252F6523595.p%253FskuId%253D6523595%26article%255Fname%3DBest%2520SSD%2520and%2520Hard%2520Drive%2520Deals%25202024%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Ffeatures%252Fbest-deals-on-ssds)
@@ -230,6 +233,9 @@ Best SSD and Hard Drive Deals
 
 * [Back to top ^](https://tools.techidaily.com)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best External SSD / HDD / NAS Deals
 
 [Western Digital 8TB WD Red Pro NAS Internal Hard Drive HDD:&nbsp;now $199 at Amazon](https://cdn.mos.cms.futurecdn.net/R763rGe5wzXgjQeGDhHEzW-200-100.jpg "Western Digital 8TB WD Red Pro NAS Internal Hard Drive HDD:&nbsp;now $199 at Amazon") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FWestern-Digital-Internal-Hard-Drive%2Fdp%2FB0D1V2K4LJ%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-7312074856993712567-20)
@@ -287,6 +293,9 @@ Best SSD and Hard Drive Deals
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FSAMSUNG-Portable-SSD-1TB-MU-PC1T0T%2Fdp%2FB0874XN4D8%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-5810562302926172923-20)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## More Tech Deals
 
 * [Best deals on tech & PC Hardware](https://tools.techidaily.com)
@@ -312,3 +321,37 @@ Best SSD and Hard Drive Deals
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-ringtone-reservoir-iphone-voice-memos-2024/"><u>[New] Ringtone Reservoir - iPhone Voice Memos 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-ultimate-guide-to-stellar-tiktok-content-through-template-utilization-for-2024/"><u>[Updated] The Ultimate Guide to Stellar TikTok Content Through Template Utilization for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-press-pause-on-anxiety-with-these-games/"><u>2024 Approved  Press Pause on Anxiety with These Games</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-monetary-outcomes-of-podcast-engagement/"><u>2024 Approved  The Monetary Outcomes of Podcast Engagement</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-ultimate-selection-of-economical-4k-projection-screens/"><u>2024 Approved  Ultimate Selection of Economical 4K Projection Screens</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-windows-compatible-graphics-drivers-latest-version-available-now/"><u>ASUS Windows-Compatible Graphics Drivers - Latest Version Available Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-installing-android-file-transfer-on-your-pc/"><u>Complete Guide: Installing Android File Transfer on Your PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/diy-solutions-to-the-common-problems-with-realteks-rtl8723be-driver/"><u>DIY Solutions to the Common Problems with Realtek's RTL8723BE Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-essential-tools-hp-tech-assistance-suite-and-drivers/"><u>Download Essential Tools - HP Tech Assistance Suite & Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-installing-sony-vaio-drivers-on-your-pc-with-windows-os/"><u>Easy Guide: Installing Sony Vaio Drivers on Your PC with Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-guide-downloading-and-installing-the-epson-wf-3540-driver-on-windows-computers/"><u>Essential Guide: Downloading & Installing the Epson WF-3540 Driver on Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-to-repairing-realtek-lan-drivers-on-windows-11-windows-10-and-windows-n7/"><u>Guide to Repairing Realtek LAN Drivers on Windows 11, Windows 10 & Windows N7</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-vivo-s17t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-amd-vega-cuatro-docenas-drivers-update-on-your-pc-with-windows-os/"><u>How to Get the Latest AMD Vega Cuatro Docenas Drivers Update on Your PC with Windows OS</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/how-to-invert-colors-in-digital-photos-for-2024/"><u>How to Invert Colors in Digital Photos for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-optimize-your-pc-swift-and-straightforward-intel-iris-540-graphics-driver-upgrade/"><u>How to Optimize Your PC: Swift and Straightforward Intel Iris 540 Graphics Driver Upgrade</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-lava-blaze-2-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Lava Blaze 2 Phone? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-arduino-usb-drivers-compatible-with-windows-systems/"><u>Latest Arduino USB Drivers Compatible with Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-realtek-audio-driver-downloads-compatible-with-windows-11107/"><u>Latest Realtek Audio Driver Downloads Compatible with Windows 11/10/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/make-a-plan-and-set-goals/"><u>Make A Plan & Set Goals</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-the-quick-fix-tackling-your-logitech-c615-drivers-seamlessly/"><u>Mastering the Quick-Fix: Tackling Your Logitech C615 Drivers Seamlessly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/optimize-your-pcs-performance-with-new-ati-drivers-update-instructions-for-windows/"><u>Optimize Your PC's Performance with New ATI Drivers - Update Instructions for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-getting-the-latest-thrustmaster-t150-driver-software-downloaded/"><u>Quick Guide: Getting the Latest Thrustmaster T150 Driver Software Downloaded</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solution-understanding-these-mechanisms-can-inform-the-development-of-vaccines-targeted-drug-therapies-and-strategies-to-block-placental-transfer-or-enhance246/"><u>Solution: Understanding These Mechanisms Can Inform the Development of Vaccines, Targeted Drug Therapies, and Strategies to Block Placental Transfer or Enhance Maternal Immunity.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722964610154-speedy-setup-obtain-your-linksys-ae1200-drivers-with-these-simple-tips/"><u>Speedy Setup: Obtain Your Linksys AE1200 Drivers with These Simple Tips!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tech-savvy-mastering-the-process-of-upgrading-motherboard-drivers-on-a-windows-machine/"><u>Tech Savvy: Mastering the Process of Upgrading Motherboard Drivers on a Windows Machine</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unlocking-the-hidden-power-of-instagrams-ask-emoji-for-2024/"><u>Unlocking the Hidden Power of Instagram’s Ask Emoji for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-amd-driver-pack-tailored-for-windows-10-7-8-and-81-systems/"><u>Updated AMD Driver Pack: Tailored for Windows 10, 7, 8 & 8.1 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969544459-upgrade-your-pc-now-fast-track-guide-for-intel-driver-download/"><u>Upgrade Your PC Now: Fast Track Guide for Intel Driver Download</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Google Pixel Fold? | Dr.fone</u></a></li>
+</ul></div>

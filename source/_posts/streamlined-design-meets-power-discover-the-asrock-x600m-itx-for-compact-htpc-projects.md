@@ -1,7 +1,7 @@
 ---
 title: "Streamlined Design Meets Power: Discover the ASRock X600M-Itx for Compact HTPC Projects"
-date: 2024-08-15 17:15:21
-updated: 2024-08-17 12:58:52
+date: 2024-08-19T04:20:02.596Z
+updated: 2024-08-20T04:20:02.596Z
 tags:
   - motherboards
 categories:
@@ -101,20 +101,32 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
  Inside the retail packaging, below the motherboard, ASRock includes a few accessories to get you started. You get two SATA cables, a Wi-Fi antenna, screws for M.2 sockets, and a thermistor cable. There isn’t much here, which isn’t surprising at this price point, but it’s enough to cover the basics.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Design of the Lightning Wi-Fi
 
  Image 1 of 3
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  This little motherboard sits on a server-grade 8-layer matte black PCB. The sole design element comes from the actively cooled, heatpipe-connected VRM heatsinks and M.2 heatsinks. The heatsinks have lines that meander their way around the metal bits. On the left, you see the Phantom Gaming branding as well. If you’re interested in RGB lighting in your chassis, you’ll have to add your own to the onboard headers, as the board does not include any natively. The all-black appearance looks good and, in my opinion, better than the more expensive PG-ITX/TB4.
@@ -141,6 +153,9 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/38vzBpWcpKHzwQLj5js8d8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  We’ll continue our counterclockwise journey at the bottom of the board. Here, we see the only expansion slot: a full-length PCIe 5.0 x16 slot. The slot also supports PCIe riser cards to extend one x16 slot to two x8 slots if needed. Above that, under the heatsink, is the first M.2 socket (you’ll find the other on the back of the board). Each M.2 socket runs at PCIe 4.0 x4 (64 Gbps) speeds and supports up to 80mm modules. None of the sockets support SATA-based devices, but they support RAID0/1/10 modes, as do the SATA ports. Thankfully, There’s no lane / bandwidth sharing, and you can run all storage simultaneously without a performance penalty.
@@ -149,6 +164,9 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Ax7PUWX76BhvWC7HhxEAn8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  The rear IO plate on the Z790I Lightning comes preinstalled on the motherboard. It has a black and gray background, the Phantom Gaming branding in the corner, and plenty of venting for the hidden VRM fan. In total, there are five USB Type-A ports (four are USB 3.2 Gen 1) while the other below the Realtek 2.5 GbE port is faster at USB 3.2 Gen 2 (10 Gbps) speeds. Additionally, you get a USB Type-C port with USB 3.2 Gen 2 (10 Gbps) speeds. There are DisplayPort and HDMI ports for video, while the Wi-Fi 6E antenna connections sit just above that. Last but not least, on the far right, is the audio stack with two 3.5mm jacks (mic in and line out) and the SPDIF output.
@@ -175,3 +193,39 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-updates.techidaily.com/1722974674454-effortless-setup-targus-dock-compatibility-download-and-install-drivers-in-a-flash/"><u>[EFFORTLESS SETUP] Targus Dock Compatibility: Download & Install Drivers in a Flash</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-mastering-youtube-video-edits-with-adobe-premiere/"><u>[New] Mastering YouTube Video Edits with Adobe Premiere</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-upgraded-2023-samsung-bd-j5900/"><u>[New] Unveiling the Upgraded 2023 Samsung BD-J5900</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-top-titles-essential-hd-video-playback-tools-freepaid/"><u>[Updated] Top Titles  Essential HD Video Playback Tools (Free/Paid)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-clear-image-purchases-no-more-watermarks/"><u>2024 Approved  Clear Image Purchases  No More Watermarks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultra-fast-picture-reader-for-windows-11/"><u>2024 Approved  Ultra-Fast Picture Reader for Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-content-that-wins-on-ig-unboxing-edition-for-2024/"><u>Crafting Content That Wins on IG  Unboxing Edition for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-broadcom-bluetooth-drivers-for-windows-10-8-and-7/"><u>Download Broadcom Bluetooth Drivers for Windows 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-canon-pixma-mg2520-driver-compatible-with-all-windows-versions/"><u>Download Canon PIXMA MG2520 Driver: Compatible with All Windows Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-logitech-brio-camera-software-for-windows-1087-users/"><u>Download Logitech Brio Camera Software for Windows 10/8/7 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-guide-installing-brother-mfc-l2700dw-drivers-on-pc-windows-compatible/"><u>Easy Setup Guide: Installing Brother MFC-L2700DW Drivers on PC - Windows Compatible</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-guide-to-downloading-the-newest-nvidia-1080-drivers-on-windows-10/"><u>Effortless Guide to Downloading the Newest NVIDIA 1080 Drivers on Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-amd-radeon-hd-graphics-drivers-for-windows-8-users-install-now/"><u>Free AMD Radeon HD Graphics Drivers for Windows 8 Users – Install Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-to-fix-connectivity-issues-between-lg-peripherals-and-windows-versions-including-11-8-and-7/"><u>Guide to Fix Connectivity Issues Between LG Peripherals and Windows Versions Including 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-updated-msi-gs65-drivers-on-windows-a-step-by-step-guide/"><u>How to Install Updated MSI GS65 Drivers on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/improve-your-gaming-experience-with-new-rtx-2060-super-driver-downloads-on-windows-1011/"><u>Improve Your Gaming Experience with New RTX 2060 Super Driver Downloads on Windows 10/11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-redmi-note-13-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi Redmi Note 13 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-realme-12-proplus-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Realme 12 Pro+ 5G Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-latest-compatible-realtek-bluetooth-drivers-with-your-windows-computer/"><u>Installing Latest Compatible Realtek Bluetooth Drivers with Your Windows Computer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-release-magicard-rio-pro-driver-game-enthusiasts-available-for-win-10817-users/"><u>Latest Release: Magicard Rio Pro Driver Game Enthusiasts! Available for Win 10/8.1/7 Users</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/melodic-freedom-fbs-music-library-for-2024/"><u>Melodic Freedom  FB's Music Library for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977127094-microsoft-wireless-mouse-5000-driver-download-made-simple-and-swift-for-optimal-performance/"><u>Microsoft Wireless Mouse 5000 Driver Download Made Simple and Swift for Optimal Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mpow-bluetooth-driver-software-update-compatible-with-windows-11-8-and-7/"><u>MPOW Bluetooth Driver Software Update: Compatible with Windows 11, 8, and 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722979093894-obtain-updated-amd-ryzen-system-drivers-at-no-cost-start-here/"><u>Obtain Updated AMD Ryzen System Drivers at No Cost – Start Here</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-the-barrier-solutions-for-fortnite-not-authorized-to-play-errors/"><u>Overcoming the Barrier: Solutions for Fortnite 'Not Authorized to Play' Errors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/prime-streaming-services-ranked-a-comparison-analysis-for-2024/"><u>Prime Streaming Services Ranked  A Comparison Analysis for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-download-of-intels-ultra-fast-usb-30-drivers-for-windows-11-users/"><u>Quick and Easy Download of Intel's Ultra-Fast USB 3.0 Drivers for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-setup-lenovo-thinkpad-x230-driver-downloads-for-speedy-configuration/"><u>Quick Setup: Lenovo ThinkPad X230 Driver Downloads for Speedy Configuration</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quickly-install-your-corsair-void-pro-drivers-with-our-step-by-step-tutorial/"><u>Quickly Install Your Corsair Void Pro Drivers with Our Step-by-Step Tutorial!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-update-scansnap-s1500-drivers/"><u>Step-by-Step: Update Scansnap S1500 Drivers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-15-pro-max-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 15 Pro Max</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-7-ready-download-the-latest-amd-radeon-graphics-card-drivers/"><u>Windows 7-Ready: Download the Latest AMD Radeon Graphics Card Drivers</u></a></li>
+</ul></div>

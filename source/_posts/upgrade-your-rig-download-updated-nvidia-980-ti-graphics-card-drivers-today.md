@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Your Rig: Download Updated NVIDIA 980 Ti Graphics Card Drivers Today"
-date: 2024-08-06T09:21:51.980Z
-updated: 2024-08-07T09:21:51.980Z
+date: 2024-08-19T05:08:53.442Z
+updated: 2024-08-20T05:08:53.442Z
 tags:
   - win11
   - win10
@@ -101,3 +101,61 @@ OR
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-does-youtube-count-views-its-not-as-simple-as-you-think-for-2024/"><u>[New] How Does YouTube Count Views? It's Not as Simple as You Think for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-best-of-the-best-12-screen-capture-tools-no-end/"><u>[New] In 2024, Best of the Best 12 Screen Capture Tools (No End)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-depth-look-at-bandicams-functionality-for-video-creation-for-2024/"><u>[New] In-Depth Look at Bandicam's Functionality for Video Creation for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-present-trends-in-drone-technology-for-the-future/"><u>[New] Present Trends in Drone Technology for the Future</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-premium-planet-friendly-recording-software/"><u>[Updated] In 2024, Premium, Planet-Friendly Recording Software</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-stream-friendly-tips-for-halo-legends/"><u>[Updated] In 2024, Stream-Friendly Tips for Halo Legends</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-vlc-player-from-live-viewing-to-recording/"><u>[Updated] In 2024, VLC Player  From Live Viewing to Recording</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1985-pale-rider-with-eastwood-as-a-mysterious-preacher-who-is-hired-to-work-in-a-gold-mine-during-the-california-gold-rush-the-film-was-based-on-dashiell-ha147/"><u>1985 - Pale Rider, with Eastwood as a Mysterious Preacher Who Is Hired to Work in a Gold Mine During the California Gold Rush. The Film Was Based on Dashiell Hammett's Short Story, Told in the Hills.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-xiaomi-redmi-k70e-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Xiaomi Redmi K70E to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-step-by-step-guide-navigating-through-the-internet-archives-wayback-machine/"><u>A Step-by-Step Guide: Navigating Through the Internet Archive's Wayback Machine</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-ryzen-3-2200g-latest-graphics-driver-download-optimize-your-performance/"><u>AMD RYZEN 3 2200G Latest Graphics Driver Download – Optimize Your Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-realtek-audio-driver-free-download/"><u>ASUS Realtek Audio Driver Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-performance-with-newly-released-steelseries-engine-software-for-keyboards/"><u>Boost Performance with Newly Released SteelSeries Engine Software for Keyboards</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-solutions-addressing-the-synaptics-smbus-driver-conflict-on-windows-11-systems/"><u>Comprehensive Solutions: Addressing the Synaptics SMBus Driver Conflict on Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-your-lenovo-ideapad-100s-drivers-easy-tutorial-for-windows-10-operating-system/"><u>Download and Update Your Lenovo IdeaPad 100'S Drivers: Easy Tutorial for Windows 10 Operating System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-intel-iris-xe-graphics-control-panel-for-windows-11-now/"><u>Download Updated Intel Iris Xe Graphics Control Panel for Windows 11 Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-fixes-how-to-refresh-the-firmware-of-a-lenovo-dock/"><u>Easy Fixes: How to Refresh the Firmware of a Lenovo Dock</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-performance-update-windows-11-version-2004-with-essential-connexent-drivers/"><u>Enhance Performance - Update Windows 11 Version 2004 With Essential Connexent Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-home-network-easy-guide-to-downloading-and-installing-linksys-ae1200-drivers/"><u>Enhance Your Home Network: Easy Guide to Downloading and Installing Linksys AE1200 Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-of-intel-z270-gaming-pro-carbon-motherboard-chipset/"><u>Free Download of Intel Z270 Gaming Pro Carbon Motherboard Chipset</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-gtx-980-ti-nvidia-drivers-for-your-pc-or-laptop/"><u>Get the Latest GTX 980 Ti Nvidia Drivers for Your PC or Laptop</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-intel-integrated-gpu-drivers-on-windows-10-or-11/"><u>Get the Newest Intel Integrated GPU Drivers on Windows 10 or 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-epson-v700-driver-for-windows-download-guide-for-win78110-systems/"><u>Get Your Epson V700 Driver for Windows - Download Guide for Win7/8.1/10 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-bluetooth-mouse-setup-tools-for-pc-operating-systems/"><u>Get Your Logitech Bluetooth Mouse Setup Tools for PC Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722956815587-get-your-m-audio-fast-track-ultra-driver-installer-at-no-cost/"><u>Get Your M-Audio Fast Track Ultra Driver Installer at No Cost!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-realtek-rtl81/"><u>Get Your Realtek RTL81</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969846266-grab-your-free-qualcomm-atheros-ar938x-drivers-with-ease-step-by-step-guide-included/"><u>Grab Your Free Qualcomm Atheros AR938X Drivers with Ease – Step by Step Guide Included!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/highly-recommended-mice-designed-specifically-for-ipads/"><u>Highly Recommended Mice Designed Specifically for iPads</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-new-world-conquered-the-easy-anti-cheat-challenge-now-launching-smoothly/"><u>How New World Conquered the Easy Anti-Cheat Challenge, Now Launching Smoothly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-ensure-your-huion-digital-art-pad-works-perfectly-with-windows-updates-and-downloads/"><u>How to Ensure Your Huion Digital Art Pad Works Perfectly with Windows Updates & Downloads</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-apple-iphone-8-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>How To Fake GPS On Apple iPhone 8 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-download-and-update-toshiba-laptop-drivers-in-windows-1087/"><u>How to Seamlessly Download and Update Toshiba Laptop Drivers in Windows 10/8/7</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-best-practices-in-winning-tv-recording-with-software/"><u>In 2024, Best Practices in Winning TV Recording with Software</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-infinix-smart-7-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Infinix Smart 7</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-13-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 13 Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-fresh-logitech-k40-grove-bluetooth-driver-for-improved-functionality/"><u>Install Fresh Logitech K40 Grove Bluetooth Driver for Improved Functionality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-msi-b350-tomahawk-driver-update-for-enhanced-compatibility-on-windows-117/"><u>Installing MSI B350 TOMAHAWK Driver Update for Enhanced Compatibility on Windows 11/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-the-latest-sound-device-driver-on-your-updated-windows-10-version-2004/"><u>Installing the Latest Sound Device Driver on Your Updated Windows 10 Version 2004</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-hp-printer-drivers-and-updates-for-windows-1011-get-them-now/"><u>Latest HP Printer Drivers & Updates for Windows 10/11 – Get Them Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-lenovo-webcam-driver-enhancements-for-windows-7-users/"><u>Latest Lenovo Webcam Driver Enhancements for Windows 7 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-rtx-2070-super-graphics-driver-downloads-and-updates-for-windows-10-and-11/"><u>Latest RTX 2070 Super Graphics Driver Downloads and Updates for Windows 10 and 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/many-materials-have-an-endurance-limit-below-which-they-can-withstand-infinite-cycle-counts-without-failing/"><u>Many Materials Have an Endurance Limit Below Which They Can Withstand Infinite Cycle Counts without Failing.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/overcoming-window-updates-a-guide-to-solving-your-hp-laserjet-p2035-driver-glitches/"><u>Overcoming Window Updates: A Guide to Solving Your HP LaserJet P2035 Driver Glitches</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/seek-out-all-shared-media-on-messenger-platform-for-2024/"><u>Seek Out All Shared Media on Messenger Platform for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/streamline-your-surface-books-experience-with-quick-driver-downloads-and-updates/"><u>Streamline Your Surface Book's Experience with Quick Driver Downloads and Updates!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-guide-to-choosing-among-15-great-free-uninstallers/"><u>The Complete Guide to Choosing Among 15 Great Free Uninstallers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-final-art-piece-must-have-an-interactive-element-that-allows-viewers-to-change-lighting-conditions-representing-fluctuating-energy-input/"><u>The Final Art Piece Must Have an Interactive Element that Allows Viewers to Change Lighting Conditions, Representing Fluctuating Energy Input</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-leading-free-online-screencasting-solutions/"><u>The Leading Free Online Screencasting Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/thinkpad-enhancement-tips-utilizing-the-thunderbolt-3-external-hub-driver/"><u>ThinkPad Enhancement Tips: Utilizing the Thunderbolt 3 External Hub Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-solving-universal-print-driver-errors-for-samsung-devices-windows/"><u>Troubleshooting and Solving Universal Print Driver Errors for Samsung Devices (Windows)</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-solutions-for-last-epoch-system-failures-on-pcs-2024-update/"><u>Ultimate Solutions for 'Last Epoch' System Failures on PCs - 2024 Update</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-realtek-card-reader-driver-suite-free-download-for-windows-10-users/"><u>Updated Realtek Card Reader Driver Suite - Free Download for Windows 10 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-compatible-thunderbolt-drivers-download-and-enhance-your-pcs-performance/"><u>Windows Compatible Thunderbolt Drivers – Download and Enhance Your PC's Performance</u></a></li>
+</ul></div>

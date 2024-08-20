@@ -1,7 +1,7 @@
 ---
 title: Master Your System Upgrades with Expertise From Tom's Hardware
-date: 2024-08-14 16:33:20
-updated: 2024-08-17 11:25:49
+date: 2024-08-19T04:22:00.117Z
+updated: 2024-08-20T04:22:00.117Z
 tags:
   - motherboards
 categories:
@@ -101,6 +101,9 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
  Inside the retail packaging, below the motherboard, ASRock includes a few accessories to get you started. You get two SATA cables, a Wi-Fi antenna, screws for M.2 sockets, and a thermistor cable. There isn’t much here, which isn’t surprising at this price point, but it’s enough to cover the basics.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Design of the Lightning Wi-Fi
 
  Image 1 of 3
@@ -111,16 +114,25 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  This little motherboard sits on a server-grade 8-layer matte black PCB. The sole design element comes from the actively cooled, heatpipe-connected VRM heatsinks and M.2 heatsinks. The heatsinks have lines that meander their way around the metal bits. On the left, you see the Phantom Gaming branding as well. If you’re interested in RGB lighting in your chassis, you’ll have to add your own to the onboard headers, as the board does not include any natively. The all-black appearance looks good and, in my opinion, better than the more expensive PG-ITX/TB4.
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/97M3RfrDnnVcKkV4n7VkU8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  Starting in the left corner, we spy a single 8-pin EPS connector just above the heatpipe connecting the heatsinks. The VRMs have plenty of mass and surface area to keep the powerful VRMs below running cool. There’s also a small fan attached to the heatsink tucked in between the rear IO plate and the VRM for additional cooling. The default fan curve sounds improved from the PG-ITX/TB4\. While it was still audible, we could hear it only during stress testing. Of course, you can adjust it if needed. Also by the EPS connector is the 2-pin temperature sensor header to use with the included thermistor.
@@ -141,6 +153,9 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/38vzBpWcpKHzwQLj5js8d8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  We’ll continue our counterclockwise journey at the bottom of the board. Here, we see the only expansion slot: a full-length PCIe 5.0 x16 slot. The slot also supports PCIe riser cards to extend one x16 slot to two x8 slots if needed. Above that, under the heatsink, is the first M.2 socket (you’ll find the other on the back of the board). Each M.2 socket runs at PCIe 4.0 x4 (64 Gbps) speeds and supports up to 80mm modules. None of the sockets support SATA-based devices, but they support RAID0/1/10 modes, as do the SATA ports. Thankfully, There’s no lane / bandwidth sharing, and you can run all storage simultaneously without a performance penalty.
@@ -149,6 +164,9 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Ax7PUWX76BhvWC7HhxEAn8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  The rear IO plate on the Z790I Lightning comes preinstalled on the motherboard. It has a black and gray background, the Phantom Gaming branding in the corner, and plenty of venting for the hidden VRM fan. In total, there are five USB Type-A ports (four are USB 3.2 Gen 1) while the other below the Realtek 2.5 GbE port is faster at USB 3.2 Gen 2 (10 Gbps) speeds. Additionally, you get a USB Type-C port with USB 3.2 Gen 2 (10 Gbps) speeds. There are DisplayPort and HDMI ports for video, while the Wi-Fi 6E antenna connections sit just above that. Last but not least, on the far right, is the audio stack with two 3.5mm jacks (mic in and line out) and the SPDIF output.
@@ -175,3 +193,43 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-innovative-design-and-graphics-free-and-affordable-sources/"><u>[New] Innovative Design and Graphics  Free & Affordable Sources</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-mystic-art-of-invisible-storytelling-on-snapchat/"><u>[New] The Mystic Art of Invisible Storytelling on Snapchat</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-unlocking-youtube-secrets-to-effective-screen-recording-for-2024/"><u>[New] Unlocking YouTube  Secrets to Effective Screen Recording for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-elevate-gaming-on-tv-obs-guide/"><u>[Updated] In 2024, Elevate Gaming on TV - OBS Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-quick-fixes-for-green-screen-glitches-on-mac-video-editing-platform/"><u>[Updated] Quick Fixes for Green Screen Glitches on Mac Video Editing Platform</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-infinix-note-30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-90-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor 90</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-compatibility-download-wacom-intuos-3-drivers-for-windows-and-enjoy-uninterrupted-productivity/"><u>Complete Compatibility: Download Wacom Intuos 3 Drivers for Windows and Enjoy Uninterrupted Productivity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complimentary-intel-82-groovyv-motherboard-chipset-drivers-simple-installation-guide/"><u>Complimentary Intel 82 groovyV Motherboard Chipset Drivers: Simple Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-how-to-overcome-pci-encryptdecrypt-chip-driver-complications-now-fixed/"><u>Comprehensive Guide: How to Overcome PCI Encrypt/Decrypt Chip Driver Complications (Now Fixed!)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/cost-effective-video-syncing-for-economical-pcs/"><u>Cost-Effective Video Syncing for Economical PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973892787-download-and-install-updates-for-your-nvidia-quadro-rtx-graphics-card-today/"><u>Download & Install Updates for Your NVIDIA Quadro RTX Graphics Card Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-techkey-compatible-bluetooth-drivers-for-windows-1078-devices/"><u>Download Techkey Compatible Bluetooth Drivers for Windows 10/7/8 Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-solutions-for-lg-hardware-drivers-errors-in-windows-operating-systems/"><u>Easy Solutions for LG Hardware Drivers Errors in Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-synaptics-driver-installation-and-updates-for-windows-get-started-now/"><u>Easy Synaptics Driver Installation and Updates for Windows - Get Started Now!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-like-a-pro-the-5-best-iphone-video-editing-apps/"><u>Edit Like a Pro The 5 Best iPhone Video Editing Apps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-compatibility-downloading-logitech-hd-c270-drivers-for-enhanced-performance-on-windows-1011/"><u>Ensure Compatibility: Downloading Logitech HD C270 Drivers for Enhanced Performance on Windows 10/11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/track-to-short-video-treasure-troves-free-access-for-2024/"><u>Fast Track to Short Video Treasure Troves (Free Access) for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-better-image-capture-upgrading-your-lenovo-camera-driver-for-windows-7/"><u>Get Better Image Capture: Upgrading Your Lenovo Camera Driver for Windows 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-intel-uhd-graphics-710-driver-update-for-windows-operating-systems/"><u>Get the Newest Intel UHD Graphics 710 Driver Update for Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hp-laserjet-1018-driver-software-here-for-immediate-use/"><u>Get Your HP LaserJet 1018 Driver Software Here for Immediate Use</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-honor-90-gt-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Honor 90 GT?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974783073-in-litigation-parties-have-access-to-the-discovery-process-including-depositions-and-interrogatories-which-are-not-always-available-in-arbitration/"><u>In Litigation, Parties Have Access to the Discovery Process, Including Depositions and Interrogatories, Which Are Not Always Available in Arbitration.</u></a></li>
+<li><a href="https://extra-information.techidaily.com/journey-to-perfect-audio-ultimate-iphone-podcast-downloading-techniques/"><u>Journey to Perfect Audio  Ultimate iPhone Podcast Downloading Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/kyocera-print-management-downloading-and-installing-windows-printer-drivers/"><u>KYOCERA Print Management: Downloading & Installing Windows Printer Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-hp-officejet-5740-drivers-for-windows-11-10-and-8-free-download/"><u>Latest HP Officejet 5740 Drivers for Windows 11, 10 and 8 - Free Download!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-gtx-980-ti-drivers-for-enhanced-gaming-performance-free-download/"><u>Latest Nvidia GTX 980 Ti Drivers for Enhanced Gaming Performance - Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-release-geforce-rtx-cufflinks-2070-driver-version-for-windows-operating-systems/"><u>Latest Release: Geforce RTX Cufflinks 2070 Driver Version for Windows Operating Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-ati-graphics-driver-on-windows/"><u>Step-by-Step Guide: Updating Your ATI Graphics Driver on Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-nvidia-rtx-crashes-in-games/"><u>Stop NVIDIA RTX Crashes in Games</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/tech-talk-m06-audio-pairing-perfectly-executed/"><u>Tech Talk: M06 Audio Pairing Perfectly Executed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-obs-mic-issues-ultimate-6-solution-list/"><u>Troubleshooting OBS Mic Issues: Ultimate 6 Solution List</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-download-source-for-insignia-ns-pcy5bma2-drivers-ensuring-fluid-performance-on-win11-win10-and-win7/"><u>Ultimate Download Source for Insignia NS-PCY5BMA2 Drivers - Ensuring Fluid Performance on Win11, Win10 & Win7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-gpt-3-a-guide-to-enabling-the-latest-chatbot-web-navigation-and-add-on-capabilities/"><u>Unlocking GPT-3: A Guide to Enabling the Latest Chatbot Web Navigation & Add-On Capabilities</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-or-download-new-drivers-for-brother-mfc-j480dw-optimized-for-windows-devices/"><u>Update or Download New Drivers for Brother MFC-J480DW - Optimized for Windows Devices</u></a></li>
+</ul></div>

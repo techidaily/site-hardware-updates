@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Review: Comprehensive Guide & Insights"
-date: 2024-08-14 23:25:58
-updated: 2024-08-17 11:58:22
+date: 2024-08-19T04:21:44.534Z
+updated: 2024-08-20T04:21:44.534Z
 tags:
   - motherboards
 categories:
@@ -101,16 +101,25 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
  Inside the retail packaging, below the motherboard, ASRock includes a few accessories to get you started. You get two SATA cables, a Wi-Fi antenna, screws for M.2 sockets, and a thermistor cable. There isn’t much here, which isn’t surprising at this price point, but it’s enough to cover the basics.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Design of the Lightning Wi-Fi
 
  Image 1 of 3
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -121,6 +130,9 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/97M3RfrDnnVcKkV4n7VkU8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  Starting in the left corner, we spy a single 8-pin EPS connector just above the heatpipe connecting the heatsinks. The VRMs have plenty of mass and surface area to keep the powerful VRMs below running cool. There’s also a small fan attached to the heatsink tucked in between the rear IO plate and the VRM for additional cooling. The default fan curve sounds improved from the PG-ITX/TB4\. While it was still audible, we could hear it only during stress testing. Of course, you can adjust it if needed. Also by the EPS connector is the 2-pin temperature sensor header to use with the included thermistor.
@@ -141,6 +153,9 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/38vzBpWcpKHzwQLj5js8d8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  We’ll continue our counterclockwise journey at the bottom of the board. Here, we see the only expansion slot: a full-length PCIe 5.0 x16 slot. The slot also supports PCIe riser cards to extend one x16 slot to two x8 slots if needed. Above that, under the heatsink, is the first M.2 socket (you’ll find the other on the back of the board). Each M.2 socket runs at PCIe 4.0 x4 (64 Gbps) speeds and supports up to 80mm modules. None of the sockets support SATA-based devices, but they support RAID0/1/10 modes, as do the SATA ports. Thankfully, There’s no lane / bandwidth sharing, and you can run all storage simultaneously without a performance penalty.
@@ -149,6 +164,9 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Ax7PUWX76BhvWC7HhxEAn8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  The rear IO plate on the Z790I Lightning comes preinstalled on the motherboard. It has a black and gray background, the Phantom Gaming branding in the corner, and plenty of venting for the hidden VRM fan. In total, there are five USB Type-A ports (four are USB 3.2 Gen 1) while the other below the Realtek 2.5 GbE port is faster at USB 3.2 Gen 2 (10 Gbps) speeds. Additionally, you get a USB Type-C port with USB 3.2 Gen 2 (10 Gbps) speeds. There are DisplayPort and HDMI ports for video, while the Wi-Fi 6E antenna connections sit just above that. Last but not least, on the far right, is the audio stack with two 3.5mm jacks (mic in and line out) and the SPDIF output.
@@ -175,3 +193,53 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-transform-photos-and-videos-with-these-androidiphone-montage-apps/"><u>[New] Transform Photos & Videos with These Android/iPhone Montage Apps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-must-see-vr-movies-for-film-enthusiasts/"><u>[Updated] 2024 Approved  Must-See VR Movies for Film Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-activate-or-deactivate-video-commenting-in-youtube/"><u>[Updated] How To Activate or Deactivate Video Commenting in YouTube</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-seamless-tactic-for-igtv-stories-integration/"><u>[Updated] In 2024, Seamless Tactic for IGTV Stories Integration</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-master-your-livestream-essential-tips-for-top-9-filters-for-2024/"><u>[Updated] Master Your Livestream  Essential Tips for Top 9 Filters for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-obs-scheduling-mastery-implementing-a-countdown-clock/"><u>[Updated] Obs Scheduling Mastery  Implementing a Countdown Clock</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-srt-revisited-direct-conversion-to-subcap/"><u>[Updated] SRT Revisited  Direct Conversion to SUBCAP</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-10-accelerating-yt-channels-for-intellectual-enlightenment/"><u>2024 Approved  Top 10 Accelerating YT Channels for Intellectual Enlightenment</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-unlocking-viewership-growth-on-twitch-top-4-strategies/"><u>2024 Approved  Unlocking Viewership Growth on Twitch  Top 4 Strategies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-hp-laserjet-1320-printer-drivers-on-windows/"><u>Download & Update HP LaserJet 1320 Printer Drivers on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easily-connect-your-iphone-to-pc-with-windows-10-free-downloads-available-now/"><u>Easily Connect Your iPhone to PC with Windows 10 - Free Downloads Available Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-guide-epson-wf-2650-printer-software-for-windows-users/"><u>Easy Installation Guide: Epson WF-2650 Printer Software for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-step-by-step-guide-to-installing-steelseries-drivers-on-windows-systems/"><u>Easy Step-by-Step Guide to Installing SteelSeries Drivers on Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-updated-hp-deskjet-ink-advantage-3050a-printer-drivers-on-windows-no-cost/"><u>Effortless Installation of Updated HP Deskjet Ink Advantage 3050A Printer Drivers on Windows - No Cost</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ensuring-compatibility-the-process-of-updating-the-epson-wf-7720-printer-driver-on-windows-devices/"><u>Ensuring Compatibility: The Process of Updating the Epson WF-7720 Printer Driver on Windows Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fix-how-to-get-windows-11-to-detect-your-usb-drive/"><u>Fix: How To Get Windows 11 To Detect Your USB Drive</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-hp-officejet-3830-printer-driver-installation-for-windows-pcs/"><u>Free HP OfficeJet 3830 Printer Driver Installation for Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-dell-audio-drivers-quick-and-easy-download-options/"><u>Get the Newest Dell Audio Drivers - Quick and Easy Download Options!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977100131-get-the-right-brother-mfc-7360n-drivers-instantly-compatible-with-windows-11-8-and-7-download-and-update-today/"><u>Get the Right Brother MFC-7360N Drivers Instantly: Compatible with Windows 11, 8 and 7 - Download & Update Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-brother-mfc-l2700dw-ready-on-windows-with-official-drivers-free-download/"><u>Get Your Brother MFC-L2700DW Ready on Windows with Official Drivers - Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722963257284-get-your-nvidia-geforce-rtx-20-series-and-gtx-10-series-drivers-today/"><u>Get Your Nvidia GeForce RTX 20 Series and GTX 10 Series Drivers Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-installation-of-brother-mfc-7360n-drivers-for-windows-operating-systems/"><u>Hassle-Free Installation of Brother MFC-7360N Drivers for Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-amd-graphics-drivers-for-crypto-mining-platforms-on-windows-pcs/"><u>How to Get the Newest AMD Graphics Drivers for Crypto-Mining Platforms on Windows PCs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-itel-p40plus-by-fonelab-android-recover-data/"><u>How to recover lost data from Itel P40+?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-90-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Honor 90 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-tecno-spark-20-proplus-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Tecno Spark 20 Pro+ Phone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 13 mini</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-producing-attention-grabbing-podcast-openers/"><u>In 2024, The Art of Producing Attention-Grabbing Podcast Openers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-the-latest-hp-pagewide-pro-477dw-printer-drivers-on-windows-11108-systems/"><u>Installing the Latest HP PageWide Pro 477DW Printer Drivers on Windows 11/10/8 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-developing-multiple-variants-of-the-upcoming-panther-lake-processors-for-next-gen-laptops-post-lunar-lake-series/"><u>Intel Developing Multiple Variants of the Upcoming Panther Lake Processors for Next-Gen Laptops Post Lunar Lake Series</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keep-your-asus-computer-running-smoothly-with-updated-drivers/"><u>Keep Your ASUS Computer Running Smoothly with Updated Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-brother-mfc-j480dw-windows-printer-software-upgrade-guide/"><u>Latest Brother MFC-J480DW Windows Printer Software Upgrade Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722965307472-latest-nvidia-rtx-2060-graphics-card-drivers-for-windows-11-10-8-and-7-download-now/"><u>Latest NVIDIA RTX 2060 Graphics Card Drivers for Windows 11, 10, 8 & 7 - Download Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976865282-liberalism-as-a-political-philosophy-had-won-out-over-its-rivals-communism-fascism/"><u>Liberalism as a Political Philosophy Had Won Out over Its Rivals (Communism, Fascism).</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-through-common-errors-for-realteks-hd-sound-card-drivers-under-windows/"><u>Navigating Through Common Errors for Realtek's HD Sound Card Drivers Under Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/neo-qled-vs-oled-diving-deep-into-television-display-technologies/"><u>Neo QLED Vs. OLED: Diving Deep Into Television Display Technologies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-drivers-downloading-find-and-install-for-optimal-performance/"><u>NVIDIA Drivers Downloading: Find & Install for Optimal Performance</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Realme 11 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/securely-acquire-the-most-recent-broadcom-bluetooth-software-support-for-windows-systems-versions-10-8-and-7/"><u>Securely Acquire the Most Recent Broadcom Bluetooth Software Support for Windows Systems (Versions 10, 8 & 7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-for-amd-radeon-rx-query/"><u>Step-by-Step Tutorial for AMD Radeon RX # Query</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-easy-way-to-get-latest-d-link-driver-software-installed-on-windows-computers/"><u>The Easy Way to Get Latest D-Link Driver Software Installed on Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-insightful-computer-and-gadget-analysis/"><u>Tom's Tech Review: Insightful Computer & Gadget Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-computing-with-toms-equipment-analysis/"><u>Unveiling the Latest in Computing with Tom's Equipment Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-targus-usb-monitor-adapter-on-windows-compatible-with-win11-8-and-7/"><u>Update Your Targus USB Monitor Adapter on Windows: Compatible with Win11, 8, and 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-11-ready-free-rtx-2060-super-graphics-card-driver-software/"><u>Windows 11 Ready – Free RTX 2060 Super Graphics Card Driver Software</u></a></li>
+</ul></div>

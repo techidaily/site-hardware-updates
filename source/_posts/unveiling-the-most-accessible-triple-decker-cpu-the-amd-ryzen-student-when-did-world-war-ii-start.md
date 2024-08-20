@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Most Accessible Triple-Decker CPU: The AMD Ryzen # Student: When Did World War II Start?"
-date: 2024-08-15 22:42:49
-updated: 2024-08-18 10:43:47
+date: 2024-08-19T04:14:29.108Z
+updated: 2024-08-20T04:14:29.108Z
 tags:
   - components
 categories:
@@ -84,6 +84,9 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 [View Deal](https://www.spotify.com/us/premium/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Entertainment
 
  When you need a break from your studies, to unwind and relax, either by yourself or with a couple of friends, there's always a use for a little entertainment to provide some much needed stimuli.
@@ -94,6 +97,9 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 ![Xbox Series X Games Console](https://cdn.mos.cms.futurecdn.net/FWrpbr8EsWYxBQwnUV8PdE-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Microsoft)
 
  Microsoft's latest generation games console the Xbox Series X gives you access to not only the suite of games made for the Xbox console but also Microsoft's Game Pass subscription service which opens up a multitude of games for a monthly subscription. If you opt for the Ultimate pass, then you can access games on both your console and PC which is superb value for money and a great option if you want access to a lot of entertainment. With Xbox also offering day-one games on Games Pass - such as the new Call of Duty - it's one of the best-value ways to consume video games.
@@ -126,6 +132,10 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
  From popping more SSD's in your computer, or upgrading capacities, to portable storage solutions for easily transporting or backing up your important work, storage is something you should certainly consider or have at the ready.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## Crucial P3 Plus
 
 ![Crucial P3 Plus](https://cdn.mos.cms.futurecdn.net/ALyLNNwPR3UGJkVdsgFN6c-320-80.jpg)
@@ -146,6 +156,9 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FCrucial-Plus-PCIe-NAND-5000MB%2Fdp%2FB0B25NTRGD%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1121119280149340044-20)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## Crucial X9 Portable SSD
 
 ![Crucial X9 1TB External SSD](https://cdn.mos.cms.futurecdn.net/PbcVJWyXHTmfgbaMWrHXpi-320-80.jpg)
@@ -168,6 +181,9 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3Fpublisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-6461667939973165955%26url%3Dhttps%253A%252F%252Fwww.bestbuy.com%252Fsite%252Fcrucial-x9-1tb-external-usb-c-ssd-black%252F6557871.p%26article%255Fname%3DBack%2520To%2520School%2520Tech%2520Deals%25202024%253A%2520Save%2520on%2520essential%2520tech%2520for%2520the%2520new%2520term%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fpc-components%252Fback-to-school-tech-deals-2024-save-on-essential-tech-for-the-new-term)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Crucial X10 Portable SSD
 
 ![Crucial X10 Pro 1TB External SSD](https://cdn.mos.cms.futurecdn.net/kpEAYHfyHPHNxwmQPeCSF4-320-80.jpg)
@@ -188,12 +204,18 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FCrucial-X10-Pro-Portable-CT1000X10PROSSD902%2Fdp%2FB0C9WGGZT9%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-3379043427879641339-20)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## USB Hubs and Docks
 
  Let's face it, there are never enough available USB-C ports on your computer whether it's a laptop or desktop PC, and with the number of devices - especially peripherals - using USB-C becoming more commonplace a USB hub is an essential piece of kit.
 
  I've been using hubs and docking stations for years to easily connect to devices, and I don't know what I'd do without them. Unless motherboard manufacturers or laptop makers start shipping their products with tons more included ports, hubs will be the only option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## Satechi 4 in 1 USB C Hub and 2.5 Gigabit Ethernet Adapter
 
 ![Satechi 4 in 1 USB-C Hub and 2.5GHz Network Adapter](https://cdn.mos.cms.futurecdn.net/SRJF5S6CDsCotPErsTc4RF-320-80.jpg)
@@ -212,14 +234,25 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FSatechi-Ethernet-Adapter-Gigabit-Enhanced%2Fdp%2FB0D953K2WK%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1222265096208182448-20)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Keyboard and Mouse
 
  You're more than likely going to be using a computer a lot in your new year at school or college and whether it's a laptop or desktop, you want to have the best experience possible when using them. Something to seriously consider is what you're using the computer for, and the ergonomics of your setup. Adding a new mouse, keyboard, or even a wrist rest is a great way of improving your computer setup and can potentially even reduce the risks of any repetitive strain injuries you could incur from excessive computer use.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Logitech MX Keys S
 
 ![Logitech MX Keys S](https://cdn.mos.cms.futurecdn.net/RKag62xcWzrPgVBsAKm6MA-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
  (Image credit: Logitech)
 
  With its light and dark gray graphite styling (also available in Black and Pale Gray), the MX Keys S is an attractive keyboard that will look great on any desk. The MX Keys doesn’t boast per-key RGB like most modern day gaming keyboards, but instead has white backlighting, which it uses a proximity sensor located on the keyboard’s bottom edge which measures the magnetic field around the peripheral. The MX Keys S notices when your hands are touching the keyboard and lights up the keys without you having to press a button which is pretty cool.
@@ -236,6 +269,9 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 [View Deal](https://logitech.cfzu.net/c/221109/499820/8585?subId1=tomshardware-us-1293848247163695391&sharedId=tomshardware-us&u=https%3A%2F%2Fwww.logitech.com%2Fen-us%2Fproducts%2Fkeyboards%2Fmx-keys-s.920-011558.html)
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Logitech MX Master 3S
 
 ![Logitech MX Master 3S Wireless Mouse](https://cdn.mos.cms.futurecdn.net/u664eJMBpQNnX76znUeXSV-320-80.png)
@@ -264,6 +300,9 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 ![HyperX Wrist Rest](https://cdn.mos.cms.futurecdn.net/Qp6sX9i4RfCgboeQFo9Pi3-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: HyperX)
 
  Something as simple as a wrist rest can make all the difference to your workstation setup. For instance, the HyperX wrist rest is a firm favorite amongst some of our Tom's Hardware editors including our Editor-in-Chief Avram Piltch who swears by the comfort of his longstanding HyperX wrist rest.
@@ -280,6 +319,9 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB07GP7JXQY%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-3681302020797219626-20)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Monitor
 
  For work or play a monitor is a good option for a screen above choosing a television as they can often be cheaper, have more connectivity choices, and vary in size. Perfect for setting up in a small dorm room over a 55-50-inch TV.
@@ -316,3 +358,48 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-essential-8-in-virtual-reality-gaming/"><u>[New] 2024 Approved  The Essential 8 in Virtual Reality Gaming</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-animated-wonders-a-curated-top-15-in-stop-motion/"><u>[New] Animated Wonders  A Curated Top 15 in Stop Motion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comparing-360-immersion-to-vr-experience/"><u>[New] Comparing 360° Immersion to VR Experience</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-a-professionals-secret-efficiently-incorporating-luts-into-premiere-pro/"><u>[Updated] A Professional's Secret  Efficiently Incorporating LUTs Into Premiere Pro</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-flex-your-viewing-muscles-handling-multiple-youtube-videos/"><u>[Updated] Flex Your Viewing Muscles  Handling Multiple YouTube Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-solutions-to-stop-blank-spots-in-obs-media-for-2024/"><u>[Updated] Solutions to Stop Blank Spots in OBS Media for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-step-up-your-streams-advanced-practices-for-capturing-vr-playtimes-for-2024/"><u>[Updated] Step Up Your Streams  Advanced Practices for Capturing VR Playtimes for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-vivo-x-flip-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Vivo X Flip to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/artificial-ingenuity-at-play-the-8-ways-ai-redefines-whats-real-and-imaginary-in-our-world-today/"><u>Artificial Ingenuity at Play: The 8 Ways AI Redefines What’s Real and Imaginary in Our World Today</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-pcs-performance-stop-discord-from-overloading-the-cpu/"><u>Boost Your PC's Performance: Stop Discord From Overloading the CPU</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/direct-links-downloading-hp-officejet-4650-drivers-compatible-with-windows-os/"><u>Direct Links: Downloading HP OfficeJet 4650 Drivers Compatible with Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-the-epson-wf-3520-driver-step-by-step-tutorial-for-pc-users/"><u>Download & Update the Epson WF-3520 Driver - Step by Step Tutorial for PC Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-logitech-k350-driver/"><u>Download Logitech K350 Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effective-fixes-for-your-2ve-wia-device-solving-usb-compatibility-glitches-on-hp-260ci-model/"><u>Effective Fixes for Your 2Ve WIA Device - Solving USB Compatibility Glitches on HP 260Ci Model</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/elevate-your-portraits-with-hdr-techniques/"><u>Elevate Your Portraits with HDR Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977968492-expert-tips-easy-windows-7-webcam-driver-installation-and-setup/"><u>Expert Tips: Easy Windows 7 Webcam Driver Installation and Setup</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-universal-csr-bluetooth-device-drivers/"><u>Free Download: Universal CSR Bluetooth Device Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-targus-displaylink-driver-support-for-your-windows-11-8-or-7/"><u>Get the Newest Targus DisplayLink Driver Support for Your Windows (11, 8, or 7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-epson-wf-3540-ready-to-print-with-a-quick-driver-install-on-windows/"><u>Get Your Epson WF-3540 Ready to Print with a Quick Driver Install on Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-removing-included-apps-on-apples-iphone-without-jailbreaking/"><u>Guide: Removing Included Apps on Apple's iPhone Without Jailbreaking</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-oppo-find-n3-flip-is-unlocked-by-drfone-android/"><u>How To Check if Your Oppo Find N3 Flip Is Unlocked</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-upgrade-your-nvidia-quadro-rtx-4000-drivers-secure-and-fast-downloads-available-now/"><u>How to Easily Upgrade Your NVIDIA Quadro RTX 4000 Drivers – Secure & Fast Downloads Available Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-new-hp-wireless-adapter-drivers-on-windows-1078-systems/"><u>How to Install New HP Wireless Adapter Drivers on Windows 10/7/8 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-resolve-compatibility-problems-with-ralink-rt3290-for-windows-1187-users/"><u>How to Resolve Compatibility Problems with Ralink RT3290 for Windows 11/8/7 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-voice-chatting-capability-in-overwatch-fast/"><u>How to Restore Voice Chatting Capability in Overwatch Fast</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-amd-graphics-card-drivers-downloads-for-windows-11108-and-7/"><u>How to Update Your AMD Graphics Card Drivers: Downloads for Windows 11/10/8 & 7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-xiaomi-redmi-a2plus-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Xiaomi Redmi A2+ to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-top-screen-recorders-for-live-broadcasts-on-youtube/"><u>In 2024, Top Screen Recorders for Live Broadcasts on YouTube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-newest-targus-displaylink-software-for-windows-1187/"><u>Install Newest Targus DisplayLink Software for Windows 11/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-your-corsair-h80i-v2-aio-cooler-free-system-driver-download/"><u>Install Your Corsair H80i V2 AIO Cooler - Free System Driver Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-access-to-samsung-c460c465-printer-drivers-easy-download-options-inside/"><u>Instant Access to Samsung C460/C465 Printer Drivers: Easy Download Options Inside</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-intel-wireless-ac-9560-driver-software-upgrade/"><u>Latest Intel Wireless AC 9560 Driver Software Upgrade</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-update-for-your-intel-gen9-iris-graphics-driver-easy-steps-to-the-newest-version/"><u>Quick Update for Your Intel Gen9 Iris Graphics Driver: Easy Steps to the Newest Version</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/sharpen-your-videography-skills-converting-standard-definition-to-hdr-excellence-for-2024/"><u>Sharpen Your Videography Skills  Converting Standard Definition to HDR Excellence for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-steps-updating-your-lenovos-bios-and-device-drivers-with-no-fuss/"><u>Simple Steps: Updating Your Lenovo's BIOS and Device Drivers with No Fuss</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solution-guide-for-audio-device-cannot-play-dts-ensuring-proper-functionality/"><u>Solution Guide for 'Audio Device Cannot Play DTS': Ensuring Proper Functionality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-to-download-and-update-hp-spectre-x360-windows-drivers/"><u>Step-by-Step Instructions to Download and Update HP Spectre X360 Windows Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-fast-track-to-getting-the-right-drivers-for-dell-latitude-e6420/"><u>The Fast Track to Getting the Right Drivers for Dell Latitude E6420</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-realme-11x-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Realme 11X 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-pcs-hid-compatible-mouse-drivers-a-comprehensive-guide/"><u>Update Your PC's HID-Compatible Mouse Drivers: A Comprehensive Guide</u></a></li>
+</ul></div>

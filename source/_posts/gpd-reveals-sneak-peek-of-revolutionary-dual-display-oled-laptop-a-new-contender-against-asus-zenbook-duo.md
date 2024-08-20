@@ -1,7 +1,7 @@
 ---
 title: GPD Reveals Sneak Peek of Revolutionary Dual-Display OLED Laptop, a New Contender Against Asus ZenBook Duo
-date: 2024-08-15 23:46:38
-updated: 2024-08-17 12:22:16
+date: 2024-08-19T04:38:46.353Z
+updated: 2024-08-20T04:38:46.353Z
 tags:
   - laptop
 categories:
@@ -82,6 +82,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
 | **Weight**                | 3.31 pounds (1.5 kg)                                                                         |
 | **Price (as configured)** | $1,699.99                                                                                    |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## Productivity Performance on the Asus Zenbook S16
 
  This review happens to be our first look at AMD's new Ryzen AI 9 HX 370, one of the company's very lengthily-named processors in its "Strix Point" lineup. This chip has four Zen 5 cores and eight Zen 5c cores (for a total of 12 cores). It has a base clock of 2 GHz and a max boost of up to 5.1 GHz. As chip companies attempt to one-up each other on AI, AMD is packing 50 TOPS in its NPU, surpassing the 45 TOPS in the Qualcomm Snapdragon X Elite and X Plus (the chip as a whole goes up to 80 TOPS).
@@ -92,6 +95,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -104,6 +110,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  On Geekbench 6, the Zenbook S16 achieved a single-core score of 2,765 and a multi-core score of 13,282\. This was enough to beat the M3 in Apple's MacBook Air, the 16-core Intel Core Ultra 7 155H in the[HP](https://tools.techidaily.com) Spectre x360 14, and the Qualcomm Snapdragon X Elite X1E-78-100 in the HP OmniBook X. The newest Ryzen fell only to the Apple M3 Max, with scores of 3,200 and 21,711 in the 16-inch MacBook Pro (and, to be fair, a review unit stocked with 128GB of RAM, making the MacBook Air a more apt comparison from a price perspective. While it's unclear that Apple has ever released an official number, various sites have tested the M3 Max to be using significantly more power than the Ryzen AI CPU here, which is rated at 28W and configured to 17W TDP out of the box).
@@ -150,6 +159,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/aW7bBZzL8RWWNJL5FgJbTR-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The keyboard is set back slightly further than I'd like because the touchpad is so tall. I got used to it but some of my coworkers found it a bit uncomfortable.
@@ -160,10 +172,16 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  Asus also includes its Asus Pen 2.0 — a stylus with 4,096 degrees of pressure sensitivity — in the box with the laptop. It's a nice add-on, I suppose. But it’s an odd fit for this clamshell laptop, particularly considering the display doesn't fold flat.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## Audio on the Asus Zenbook S16
 
  The Zenbook S16 trades volume for detail. Don't get me wrong, it's loud enough, especially if you're sitting right in front of it, but it didn't quite fill an entire meeting room with sound. But when I was listening to Charli XCX's "Von dutch," I was surprised to hear a bit of bass. The speakers, tuned with Dolby Atmos, sounded great when I switched from "balanced" to "detailed," with clear vocals, pounding drums and whirring synths.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Upgradeability of the Asus Zenbook S16
 
 There isn't much to upgrade or repair on the Zenbook S16.
@@ -172,6 +190,9 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/ecmzqwkBMqHc5j2cTa5SPS-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Once you're in, there are two parts you could replace. The first is the battery, which takes up most of the room inside the system. The other is the SSD. Despite the size of the laptop, there isn't a secondary M.2 slot, so you'll have to replace the drive if you want more storage space. The wireless module and RAM are soldered to the motherboard.
@@ -182,12 +203,25 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/qUjejmtkRBhxMYbsPzPwHT-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The AMD-based Zenbook ran for 11 hours and 35 minutes on our battery test, which involves web browsing, OpenGL tests, and video streaming over Wi-Fi with the screen set to 150 nits. Only the Spectre x360, with Intel Core Ultra, did worse at 11:01 (and that's not far behind, especially considering that laptop has a smaller battery than the Zenbook).
 
  But the MacBook Air M3 (15:03), HP OmniBook X on a Snapdragon X Elite (16:18), and the 16-inch MacBook Pro lasted an incredible 17:11.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Heat on the Asus Zenbook S16
 
  During our ten runs of Cinebench 2024, we took skin temperature measurements to see how the Zenbook performs under an intense workload.
@@ -226,6 +260,9 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/6o6YfV44dwdxPyvuRks6XS-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  It's hard to say that 11 and a half hours of battery life is a downside, but it does show that x86 laptops are lagging a bit in that department behind the likes of Apple and Qualcomm, both using Arm-based designs. Over 11 hours is great; over 15 hours is better. Additionally, while the OLED display is extremely colorful, it's not as bright as some competitors.
@@ -252,3 +289,46 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-12-unparalleled-youtube-gamers-intros-revealed-free-or-fee-for-2024/"><u>[New] 12 Unparalleled YouTube Gamers' Intros Revealed  Free or Fee for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-attract-more-viewers-crafting-impressive-youtube-description-with-custom-templates-for-2024/"><u>[New] Attract More Viewers  Crafting Impressive Youtube Description with Custom Templates for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-cultivating-growth-selecting-the-right-co-stars-for-youtube/"><u>[New] Cultivating Growth  Selecting the Right Co-Stars for YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-academic-avenue-leading-educators-on-youtube/"><u>[Updated] 2024 Approved  Academic Avenue  Leading Educators on YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-a-comprehensible-guide-on-saving-instagram-story-content/"><u>[Updated] In 2024, A Comprehensible Guide on Saving Instagram Story Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-poptoons-pro-analysis-and-guide-2s24/"><u>[Updated] In 2024, PopToons Pro Analysis and Guide 2S24</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-navigating-srt-download-from-youtube-with-3-tactics/"><u>[Updated] Navigating SRT Download From YouTube with 3 Tactics</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-capturing-the-cosmos-mastering-editing-techniques-for-starry-images/"><u>2024 Approved  Capturing the Cosmos  Mastering Editing Techniques for Starry Images</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-how-to-initiate-your-own-blog-product-analysis-edition/"><u>2024 Approved  How to Initiate Your Own Blog  Product Analysis Edition</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupted-video-files-of-realme-c53-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupted video files of Realme C53</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/boost-accelerate-and-speed-up-tiktok-videos/"><u>Boost, Accelerate and Speed Up TikTok Videos</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/discord-broadcasting-the-essential-checklist-for-successful-streaming/"><u>Discord Broadcasting  The Essential Checklist for Successful Streaming</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978265303-download-and-update-netgear-wna3100-drivers-with-simple-steps/"><u>Download & Update Netgear WNA3100 Drivers with Simple Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-dell-latitude-e6430-drivers-comprehensive-guide-for-windows/"><u>Download and Update Dell Latitude E6430 Drivers: Comprehensive Guide for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-downloading-and-installing-logitech-g920-drivers-for-multiple-windows-editions/"><u>Easy Guide: Downloading & Installing Logitech G920 Drivers for Multiple Windows Editions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-seamless-connectivity-techkey-bluetooth-driver-downloads-for-multiple-windows-os/"><u>Ensure Seamless Connectivity: Techkey Bluetooth Driver Downloads for Multiple Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-seamless-networking-downloading-the-revamped-wireless-driver-set/"><u>Experience Seamless Networking: Downloading the Revamped Wireless Driver Set</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/formulating-gripping-narratives-for-your-vlogs-for-2024/"><u>Formulating Gripping Narratives for Your Vlogs for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-new-update-for-your-epson-tm-t88v-printing-device-windows-compatible-software-downloads/"><u>Get the New Update for Your EPSON TM-T88V Printing Device: Windows Compatible Software Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-started-with-a-new-ricoh-printer-download-and-install-windows-drivers/"><u>Getting Started with a New Ricoh Printer: Download & Install Windows Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971728729-hassle-free-downloads-and-updates-for-amds-smbus-driver-do-it-today/"><u>Hassle-Free Downloads & Updates for AMD's Smbus Driver: Do It Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-the-latest-drivers-for-your-canon-mg2900-printer/"><u>How to Download the Latest Drivers for Your Canon MG2900 Printer</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-iphone-se-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your iPhone SE and iPad</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-set-up-your-amd-graphics-card-for-cryptocurrency-mining/"><u>How to Set Up Your AMD Graphics Card for Cryptocurrency Mining</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-nokia-130-music-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Nokia 130 Music</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-creating-engaging-stream-content-shorts/"><u>In 2024, Creating Engaging Stream Content Shorts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-access-to-samsung-m2070fw-driver-upgrades-secure-and-swift-downloads-here/"><u>Instant Access to Samsung M2070FW Driver Upgrades: Secure and Swift Downloads Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-epson-ds-530-64-bit-driver-download-for-windows-10-users-tutorial/"><u>Latest Epson DS- 530 64-Bit Driver Download for Windows 10 Users - Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-driver-packs-for-enhanced-audio-experience-compatible-with-windows-10-7-and-8/"><u>Logitech Driver Packs for Enhanced Audio Experience: Compatible with Windows 10, 7, and 8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-pcs-potential-with-the-latest-nvidia-geforce-210-driver-upgrade-on-windows-10/"><u>Maximize Your PC's Potential with the Latest NVIDIA GeForce 210 Driver Upgrade on Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/optimize-your-dell-system-with-a-new-smbus-controller-driver-update/"><u>Optimize Your Dell System with a New SMBus Controller Driver Update</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolved-tips-for-keeping-your-amd-radeon-graphics-card-drivers-current/"><u>Resolved Tips for Keeping Your AMD Radeon Graphics Card Drivers Current</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/save-with-the-scarlett-solo-windows-setup-direct-download-link-for-musicians/"><u>Save with the Scarlett Solo Windows Setup - Direct Download Link for Musicians</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-pc-issues-in-granblue-fantasy-how-to-resolve-crashes-while-re-linking/"><u>Solving PC Issues in Granblue Fantasy: How to Resolve Crashes While Re-Linking</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-getting-and-updating-your-razer-controller-drivers-across-multiple-windows-os/"><u>Step-by-Step Guide: Getting & Updating Your Razer Controller Drivers Across Multiple Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-corsair-audio-device-drivers-on-windows/"><u>Step-by-Step Guide: Updating Corsair Audio Device Drivers on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-for-upgrading-your-nvidia-graphics-drivers/"><u>Step-by-Step Instructions for Upgrading Your NVIDIA Graphics Drivers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-visuals-detailed-guide-to-hero5-black-proficiency-for-2024/"><u>Unlocking Visuals  Detailed Guide to Hero5 Black Proficiency for 2024</u></a></li>
+</ul></div>

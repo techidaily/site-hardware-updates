@@ -1,7 +1,7 @@
 ---
 title: Join the System Architects Marathon in Q4 2015 for a High-Speed LAN PC Box, Now Only $912 AMD Model Available
-date: 2024-08-16 10:18:39
-updated: 2024-08-18 10:31:31
+date: 2024-08-19T04:16:47.645Z
+updated: 2024-08-20T04:16:47.645Z
 tags:
   - build
 categories:
@@ -94,6 +94,9 @@ Deepcool Gamer Storm Gabriel
 
  I don't need to spend time explaining the same parts from[two days ago](https://tools.techidaily.com) . To save space and time, I'll only address the three new components.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -120,6 +123,9 @@ Deepcool Gamer Storm Gabriel
 
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-8198437440134718399%26murl%3Dhttp%253A%252F%252Fwww.newegg.com%252FProduct%252FProduct.aspx%253Fcm%255Fmmc%253Dbac-tomshardwaresbm-%255F-systembuildereditorial-%255F-CPU%2BFans%2B%2526%2BHeatsinks-%255F-N82E16835856007%2526Item%253DN82E16835856007%2526IsFeedbackTab%253DTrue%2526nm%255Fmc%253DExtBanner)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Assembly
 
  The only significant change in assembly of this against the Intel build is the CPU cooler. And I ran into fitment issues with it. While I specifically got the low profile version Ballistix memory kit, AMD's rectangular mounting bracket meant the cooler could only be installed in two orientations. Both are problematic with this motherboard. The Gabriel is thinnest on the end opposite of the heat pipe curve. This part extends farthest from the CPU socket and can clear most RAM modules. On either side, the fins have a small step making them a little thicker. This edge of the cooler is a millimeter or two too thick to fully clear the RAM on the side, touching the very top edge of the RAM heat spreader.
@@ -130,10 +136,21 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://cdn.mos.cms.futurecdn.net/EkXfRYe3XW8vhT2PuH7XkJ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
  The rest of the assembly went just peachy. The slightly different port layout of the motherboard necessitated different cable routing, but that's it. Everything else is the exact same as the Intel build from a few days ago.
 
 ![](https://cdn.mos.cms.futurecdn.net/kiyNGE2ogxSRTZjnNEBoST-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## Overclocking
 
  I did a little more digging on 860K overclocking after last quarter. Most FM2+ motherboards are very liberal with CPU voltage at stock levels. This means it's usually possible to overclock the CPU while undervolting it. This held true for my particular 860K. Stock voltage was set at 1.45V, but I was able to get it to run at 4.0GHz on only 1.35V. Lowering the voltage helped temperatures, but the CPU still has a pretty hard thermal ceiling that won't let it be pushed as much as it could. Regardless of cooling solution or voltage, the CPU cuts back to 3.5 to 3.7GHz when it hits 65 degrees C (total, not over ambient). Even with the cooler at full speed, I was occasionally hitting that ceiling under the most demanding workloads.
@@ -146,6 +163,9 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -170,3 +190,63 @@ Deepcool Gamer Storm Gabriel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-get-paid-to-review-products-on-youtube-for-2024/"><u>[New] How to Get Paid to Review Products on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-create-with-colors-youtube-banner-creation-guide/"><u>[New] In 2024, Create with Colors  YouTube Banner Creation Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-laugh-cry-or-shout-out-on-these-top-10-instagram-memes-hubs-for-2024/"><u>[New] Laugh, Cry or Shout Out on These Top 10 Instagram Memes Hubs for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-ultimate-guide-to-budget-friendly-phone-video-conferencing-iphone-and-android-for-2024/"><u>[Updated] Ultimate Guide to Budget-Friendly Phone Video Conferencing (iPhone & Android) for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-essential-tips-for-capturing-evening-portraits/"><u>2024 Approved  Essential Tips for Capturing Evening Portraits</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/best-light-video-editing-software-for-2024/"><u>Best Light Video Editing Software for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/broadcom-bluetooth-driver-downloads-for-enhanced-connectivity-in-windows-11-8-and-tldr7/"><u>Broadcom Bluetooth Driver Downloads for Enhanced Connectivity in Windows 11, 8 & Tldr;7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/brother-mfc-l2740dw-compatible-windows-drivers-download-links-here/"><u>Brother MFC-L2740DW: Compatible Windows Drivers Download Links Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/cant-print-with-your-canon-mf4500-heres-where-to-get-the-correct-driver/"><u>Can't Print with Your Canon MF4500? Here's Where to Get the Correct Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978265303-download-and-update-netgear-wna3100-drivers-with-simple-steps/"><u>Download & Update Netgear WNA3100 Drivers with Simple Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-dell-latitude-e6430-drivers-comprehensive-guide-for-windows/"><u>Download and Update Dell Latitude E6430 Drivers: Comprehensive Guide for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-epson-stylus-nx420-printer-driver-for-windows-7-8-and-10-latest-version/"><u>Download Epson Stylus NX420 Printer Driver for Windows 7, 8 & 10 - Latest Version</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dual-method-strategies-boosting-tiktok-visibility/"><u>Dual-Method Strategies  Boosting TikTok Visibility</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-downloading-and-installing-logitech-g920-drivers-for-multiple-windows-editions/"><u>Easy Guide: Downloading & Installing Logitech G920 Drivers for Multiple Windows Editions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installer-asus-screen-drivers-get-them-now/"><u>Easy Installer: ASUS Screen Drivers - Get Them Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971221209-easy-solutions-to-samsung-printer-driver-issues-in-windows-fixed/"><u>Easy Solutions to Samsung Printer Driver Issues in Windows - Fixed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-upgrade-your-hp-printer-software-on-windows-11-computers/"><u>Easy Steps to Upgrade Your HP Printer Software on Windows 11 Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/efficient-printing-with-ricoh-mp-c4503-secure-driver-downloads-available-now/"><u>Efficient Printing with Ricoh MP C4503: Secure Driver Downloads Available Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-seamless-connectivity-techkey-bluetooth-driver-downloads-for-multiple-windows-os/"><u>Ensure Seamless Connectivity: Techkey Bluetooth Driver Downloads for Multiple Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-synaptics-touchpad-driver-software-heres-how-to-easily-update/"><u>Get the Latest Synaptics Touchpad Driver Software - Here's How to Easily Update!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-new-update-for-your-epson-tm-t88v-printing-device-windows-compatible-software-downloads/"><u>Get the New Update for Your EPSON TM-T88V Printing Device: Windows Compatible Software Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-started-with-a-new-ricoh-printer-download-and-install-windows-drivers/"><u>Getting Started with a New Ricoh Printer: Download & Install Windows Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971728729-hassle-free-downloads-and-updates-for-amds-smbus-driver-do-it-today/"><u>Hassle-Free Downloads & Updates for AMD's Smbus Driver: Do It Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-the-latest-drivers-for-your-canon-mg2900-printer/"><u>How to Download the Latest Drivers for Your Canon MG2900 Printer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fix-rndis-driver-issues-and-update-for-windows-expert-solutions-available/"><u>How to Fix RNDIS Driver Issues & Update for Windows: Expert Solutions Available!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-and-update-your-brother-l2n6040d-trimmer-windows-drivers-and-support/"><u>How to Install and Update Your Brother L2n6040D Trimmer: Windows Drivers & Support</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-itel-a60-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Itel A60.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-13-mini-without-apple-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone 13 mini without Apple ID?</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-6s-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 6s iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-set-up-your-amd-graphics-card-for-cryptocurrency-mining/"><u>How to Set Up Your AMD Graphics Card for Cryptocurrency Mining</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-tecno-pop-7-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Tecno Pop 7 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-network-drivers-and-wireless-card-software-in-windows-1110/"><u>How to Update Network Drivers and Wireless Card Software in Windows 11/10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-upgrade-your-dell-computers-smbus-controller-for-enhanced-performance/"><u>How to Upgrade Your Dell Computer's SMBus Controller for Enhanced Performance</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-apple-music-for-dynamic-video-enhancement/"><u>In 2024, Apple Music for Dynamic Video Enhancement</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-realme-gt-3-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Realme GT 3</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-access-to-samsung-m2070fw-driver-upgrades-secure-and-swift-downloads-here/"><u>Instant Access to Samsung M2070FW Driver Upgrades: Secure and Swift Downloads Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-epson-ds-530-64-bit-driver-download-for-windows-10-users-tutorial/"><u>Latest Epson DS- 530 64-Bit Driver Download for Windows 10 Users - Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-hp-ethernet-card-drivers-compatible-with-windows-1087-systems-download/"><u>Latest HP Ethernet Card Drivers: Compatible with Windows 10/8/7 Systems Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-rtx-2060-super-drivers-update-for-windows-11-systems-get-them-now/"><u>Latest Nvidia RTX 2060 Super Drivers Update for Windows 11 Systems - Get Them Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lg-display-driver-troubleshooting-for-windows-users-fixes-for-win11-win7-and-win81/"><u>LG Display Driver Troubleshooting for Windows Users: Fixes for Win11, Win7 & Win8.1</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-driver-packs-for-enhanced-audio-experience-compatible-with-windows-10-7-and-8/"><u>Logitech Driver Packs for Enhanced Audio Experience: Compatible with Windows 10, 7, and 8</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-class-resolving-gameplay-jitters-for-enhanced-performance-and-elevated-fps-in-the-current-year/"><u>Master Class: Resolving Gameplay Jitters for Enhanced Performance & Elevated FPS in the Current Year</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-pcs-potential-with-the-latest-nvidia-geforce-210-driver-upgrade-on-windows-10/"><u>Maximize Your PC's Potential with the Latest NVIDIA GeForce 210 Driver Upgrade on Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/optimize-your-dell-system-with-a-new-smbus-controller-driver-update/"><u>Optimize Your Dell System with a New SMBus Controller Driver Update</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolved-tips-for-keeping-your-amd-radeon-graphics-card-drivers-current/"><u>Resolved Tips for Keeping Your AMD Radeon Graphics Card Drivers Current</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/reviving-your-samsung-blu-ray-how-to-fix-common-playback-issues/"><u>Reviving Your Samsung Blu-Ray: How to Fix Common Playback Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/save-with-the-scarlett-solo-windows-setup-direct-download-link-for-musicians/"><u>Save with the Scarlett Solo Windows Setup - Direct Download Link for Musicians</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-getting-and-updating-your-razer-controller-drivers-across-multiple-windows-os/"><u>Step-by-Step Guide: Getting & Updating Your Razer Controller Drivers Across Multiple Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-corsair-audio-device-drivers-on-windows/"><u>Step-by-Step Guide: Updating Corsair Audio Device Drivers on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/streamlined-mpow-bluetooth-driver-update-and-installation-guide-for-windows-users-11-8-and-7/"><u>Streamlined MPOW Bluetooth Driver Update & Installation Guide for Windows Users (11, 8, and 7)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/tackling-the-complexity-of-german-grammar/"><u>Tackling the Complexity of German Grammar</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-ppro-fs-viewing-for-2024/"><u>The Ultimate Guide to PPro FS Viewing for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-10-screen-free-android-apps-for-leisurely-gaming/"><u>Top 10 Screen-Free Android Apps for Leisurely Gaming</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-solutions-for-seamless-connection-downloading-powerful-wireless-drivers/"><u>Top Solutions for Seamless Connection: Downloading Powerful Wireless Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-the-newest-drivers-optimizing-your-hp-m506s-printing-capabilities/"><u>Update to the Newest Drivers: Optimizing Your HP M506's Printing Capabilities</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-v30-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V30 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+</ul></div>

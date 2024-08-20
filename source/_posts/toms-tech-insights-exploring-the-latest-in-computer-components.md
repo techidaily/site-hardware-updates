@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Insights: Exploring the Latest in Computer Components"
-date: 2024-08-17 13:16:29
-updated: 2024-08-18 12:37:12
+date: 2024-08-19T04:16:35.337Z
+updated: 2024-08-20T04:16:35.337Z
 tags:
   - build
 categories:
@@ -37,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/e0fa8a626f9ce04b93030cf87348bad1dbf4f9d0f
 
 ![](https://cdn.mos.cms.futurecdn.net/vaZRhuXWqcyB98KdTMVaK3-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
  For your bonus build pleasure, here's the conclusion to the Munchkin Saga, Episode III: Revenge of 860K.
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
@@ -90,10 +93,16 @@ Deepcool Gamer Storm Gabriel
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Alternate Component Selection
 
  I don't need to spend time explaining the same parts from[two days ago](https://tools.techidaily.com) . To save space and time, I'll only address the three new components.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -126,6 +135,9 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://cdn.mos.cms.futurecdn.net/nKfSxuUzQNwqBkyJ4996bk-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
  If the fins were a little thinner or my RAM didn't have a heat spreader, this would be a non-issue. It's still not technically a problem. It doesn't keep the RAM from being installed, it doesn't even put flex on the RAM stick. It's just annoying that a cooler marketed as designed specifically for ITX cooling seems to be borderline incompatible with every current AMD ITX motherboard (every model on Newegg right now has the CPU socket oriented the same way). Perhaps some of them have RAM slots a little farther from the CPU socket, which would solve this, but if Deepcool wanted to be universally compatible, shaving a few millimeters off the fins would have accomplished this without impacting thermal performance.
 
 ![](https://cdn.mos.cms.futurecdn.net/EkXfRYe3XW8vhT2PuH7XkJ-320-80.jpg)
@@ -134,6 +146,14 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://cdn.mos.cms.futurecdn.net/kiyNGE2ogxSRTZjnNEBoST-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Overclocking
 
  I did a little more digging on 860K overclocking after last quarter. Most FM2+ motherboards are very liberal with CPU voltage at stock levels. This means it's usually possible to overclock the CPU while undervolting it. This held true for my particular 860K. Stock voltage was set at 1.45V, but I was able to get it to run at 4.0GHz on only 1.35V. Lowering the voltage helped temperatures, but the CPU still has a pretty hard thermal ceiling that won't let it be pushed as much as it could. Regardless of cooling solution or voltage, the CPU cuts back to 3.5 to 3.7GHz when it hits 65 degrees C (total, not over ambient). Even with the cooler at full speed, I was occasionally hitting that ceiling under the most demanding workloads.
@@ -170,3 +190,37 @@ Deepcool Gamer Storm Gabriel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-2023-online-facebook-video-to-mp3-converters/"><u>[New] In 2024, 2023 Online Facebook Video to MP3 Converters</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unlock-iphone-photo-potential-the-art-of-reflection-for-2024/"><u>[New] Unlock iPhone Photo Potential  The Art of Reflection for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-make-highlights-on-instagram/"><u>[Updated] How to Make Highlights on Instagram</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-build-stellar-youtube-beginnings-on-a-shoestring-budget/"><u>[Updated] In 2024, Build Stellar YouTube Beginnings on a Shoestring Budget</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-relaxation-reigns-top-pc-titles/"><u>[Updated] Relaxation Reigns  Top PC Titles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-art-of-filter-and-music-integration-in-windows-10-photos/"><u>2024 Approved  Mastering the Art of Filter & Music Integration in Windows 10 Photos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mx492-drivers-download-and-update-in-windows-mx-series-printer-drivers/"><u>Canon MX492 Drivers Download & Update in Windows - MX Series Printer Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-lenovo-bluetooth-software-safe-download-and-update-for-win7win10/"><u>Complete Guide to Lenovo Bluetooth Software: Safe Download & Update for Win7/Win10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-tp-link-wifi-drivers-for-win1187-80211ac-support/"><u>Download the Newest TP-Link WiFi Drivers for Win11/8/7 - 802.11Ac Support</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973425607-download-your-asus-dvd-hardware-drivers-today/"><u>Download Your ASUS DVD Hardware Drivers Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-zexmte-bluetooth-adapter-driver-windows-1078/"><u>Download Zexmte Bluetooth Adapter Driver (Windows 10/7/8)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-guide-quickly-refresh-your-lenovo-devices-energy-control-software/"><u>Effortless Guide: Quickly Refresh Your Lenovo Device's Energy Control Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-the-depths-of-ifunnys-meme-experience/"><u>Exploring the Depths of iFunny's Meme Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-updates-and-amd-radeon-hd-ebsyhd-7870-drivers-on-windows-11-installation-guide/"><u>Get the Newest Updates and AMD Radeon HD Ebsy|HD 7870 Drivers on Windows 11: Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-epson-stylus-nx420-up-to-date-windows-7810-driver-downloads-available-now/"><u>Get Your Epson Stylus NX420 Up-to-Date: Windows 7/8/10 Driver Downloads Available Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978020711-get-your-msi-z370-a-pro-updates-free-driver-package-available-now/"><u>Get Your MSI Z370-A Pro Updates - Free Driver Package Available Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-razer-mamba-drivers-fast-instant-downloads-available/"><u>Get Your Razer Mamba Drivers Fast: Instant Downloads Available</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-correctly-update-or-repair-hp-monitor-drivers-for-windows-7810-users/"><u>How to Correctly Update or Repair HP Monitor Drivers for Windows 7/8/10 Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-create-a-digital-signature-online-for-word-2013-document-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Create a Digital Signature Online for Word 2013 document</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-and-upgrade-your-canoscan-lide-220-driver-step-by-step-tutorial/"><u>How to Install & Upgrade Your CanoScan LiDE 220 Driver - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-image-deformation-techniques/"><u>In 2024, Master Image Deformation Techniques</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/perfect-your-video-a-comprehensive-guide-to-ideal-thumbnail-heights/"><u>Perfect Your Video  A Comprehensive Guide to Ideal Thumbnail Heights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-updating-drivers-on-your-asus-maximus-x-hero-motherboard/"><u>Quick Guide: Updating Drivers on Your ASUS Maximus X Hero Motherboard</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-driver-problems-for-startech-hardware-in-windows-operating-systems-7810/"><u>Resolving Driver Problems for StarTech Hardware in Windows Operating Systems (7/8/10)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solved-pci-device-controller-problems-related-to-encrypting-and-decrypting-data/"><u>Solved: PCI Device Controller Problems Related to Encrypting and Decrypting Data 🛠️✨</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solving-lg-printer-driver-problems-in-windows-operating-systems-windows-11-8-and-7/"><u>Solving LG Printer Driver Problems in Windows Operating Systems: Windows 11, 8, & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-updating-epson-wf-3620-printer-drivers-on-windows-operating-systems-10-8-and-7/"><u>Step by Step Guide to Updating Epson WF-3620 Printer Drivers on Windows Operating Systems (10, 8, and 7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-resolution-securing-the-latest-updates-for-your-huion-tablets-windows-software/"><u>Step-by-Step Resolution: Securing the Latest Updates for Your Huion Tablet's Windows Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-epson-xp-n410-driver-setup-and-download-for-windows-users/"><u>Step-By-Step Tutorial: Epson XP-N410 Driver Setup & Download for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-three-stages-of-creep-are-primary-decreasing-strain-rate-secondary-constant-strain-rate-and-tertiary-accelerating-strain-rate-leading-to-failure/"><u>The Three Stages of Creep Are Primary (Decreasing Strain Rate), Secondary (Constant Strain Rate), and Tertiary (Accelerating Strain Rate Leading to Failure)</u></a></li>
+</ul></div>

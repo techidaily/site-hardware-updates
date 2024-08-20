@@ -1,7 +1,7 @@
 ---
 title: Explore Innovative Computer Components at Tom's Tech Insights
-date: 2024-08-16 15:21:37
-updated: 2024-08-18 12:47:33
+date: 2024-08-19T04:16:23.011Z
+updated: 2024-08-20T04:16:23.011Z
 tags:
   - build
 categories:
@@ -86,14 +86,24 @@ Deepcool Gamer Storm Gabriel
 
  Every component is identical to the Intel build earlier this week except the CPU, cooler and motherboard.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## The Definition of Insanity
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Alternate Component Selection
 
  I don't need to spend time explaining the same parts from[two days ago](https://tools.techidaily.com) . To save space and time, I'll only address the three new components.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -120,12 +130,18 @@ Deepcool Gamer Storm Gabriel
 
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-8198437440134718399%26murl%3Dhttp%253A%252F%252Fwww.newegg.com%252FProduct%252FProduct.aspx%253Fcm%255Fmmc%253Dbac-tomshardwaresbm-%255F-systembuildereditorial-%255F-CPU%2BFans%2B%2526%2BHeatsinks-%255F-N82E16835856007%2526Item%253DN82E16835856007%2526IsFeedbackTab%253DTrue%2526nm%255Fmc%253DExtBanner)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Assembly
 
  The only significant change in assembly of this against the Intel build is the CPU cooler. And I ran into fitment issues with it. While I specifically got the low profile version Ballistix memory kit, AMD's rectangular mounting bracket meant the cooler could only be installed in two orientations. Both are problematic with this motherboard. The Gabriel is thinnest on the end opposite of the heat pipe curve. This part extends farthest from the CPU socket and can clear most RAM modules. On either side, the fins have a small step making them a little thicker. This edge of the cooler is a millimeter or two too thick to fully clear the RAM on the side, touching the very top edge of the RAM heat spreader.
 
 ![](https://cdn.mos.cms.futurecdn.net/nKfSxuUzQNwqBkyJ4996bk-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
  If the fins were a little thinner or my RAM didn't have a heat spreader, this would be a non-issue. It's still not technically a problem. It doesn't keep the RAM from being installed, it doesn't even put flex on the RAM stick. It's just annoying that a cooler marketed as designed specifically for ITX cooling seems to be borderline incompatible with every current AMD ITX motherboard (every model on Newegg right now has the CPU socket oriented the same way). Perhaps some of them have RAM slots a little farther from the CPU socket, which would solve this, but if Deepcool wanted to be universally compatible, shaving a few millimeters off the fins would have accomplished this without impacting thermal performance.
 
 ![](https://cdn.mos.cms.futurecdn.net/EkXfRYe3XW8vhT2PuH7XkJ-320-80.jpg)
@@ -148,6 +164,9 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
@@ -170,3 +189,36 @@ Deepcool Gamer Storm Gabriel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-achieve-youtube-stardom-top-strategies-for-recognition-and-growth/"><u>[New] 2024 Approved  Achieve YouTube Stardom  Top Strategies for Recognition and Growth</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-broadcast-battle-obs-against-wirecast/"><u>[New] 2024 Approved  Broadcast Battle  OBS Against Wirecast</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-top-picks-excellent-4k-displays-for-playing-games/"><u>[New] 2024 Approved  Top Picks  Excellent 4K Displays for Playing Games</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-how-to-select-and-download-the-right-audio-for-your-video/"><u>[Updated] How to Select and Download the Right Audio for Your Video</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-securing-brand-deals-with-youtube-personalities/"><u>[Updated] Securing Brand Deals with YouTube Personalities</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-conquering-facebook-audiences-live-stream-excellence-with-wirecast/"><u>2024 Approved  Conquering Facebook Audiences  Live Stream Excellence with Wirecast</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-investment-icons-top-15-youtube-stock-gurus/"><u>2024 Approved  Investment Icons  Top 15 YouTube Stock Gurus</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-graphics-card-drivers-update-guide-for-windows-10-11-and-7-operating-systems/"><u>AMD Graphics Card Drivers: Update Guide for Windows 10, 11, & 7 Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-printer-drivers-for-mf8500c-on-windows-operating-systems-quick-download-guide/"><u>Canon Printer Drivers for MF8500C on Windows Operating Systems - Quick Download Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/conceptualizing-shorter-vids-for-instagram-with-mac-for-2024/"><u>Conceptualizing Shorter Vids for Instagram with Mac for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/direct-links-for-newest-nvidia-driver-updates-save-time-improve-performance/"><u>Direct Links for Newest NVIDIA Driver Updates - Save Time, Improve Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-samsung-ssd-960-evo-drives-on-windows-pc-guide/"><u>Download & Install Samsung SSD 960 EVO Drives on Windows PC: Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-creative-x-fi-gamer-audio-driver-pack-for-windows-10/"><u>Download and Update Creative X-Fi Gamer Audio Driver Pack for Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-new-intel-usb-30-driver-package-supporting-windows-11-systems/"><u>Download the New Intel USB 3.0 Driver Package Supporting Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dts-surround-sound-problem-solved-fixes-for-device-recognition-issues/"><u>DTS Surround Sound Problem Solved: Fixes for Device Recognition Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-access-to-hps-professional-color-laser-jet-m452dn-printing-drivers/"><u>Easy Access to HP's Professional Color Laser Jet M452dn Printing Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-update-guide-for-zebra-zp450-driver-software-download-and-installation-steps/"><u>Easy Update Guide for Zebra ZP450 Driver Software - Download & Installation Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-advice-how-to-ensure-optimal-performance-by-refreshing-dell-xps-15-drivers-in-windows-environment/"><u>Expert Advice: How to Ensure Optimal Performance by Refreshing Dell XPS 15 Drivers in Windows Environment</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-canon-mp250-printer-drivers-latest-version-available/"><u>Free Canon MP250 Printer Drivers - Latest Version Available</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-fresh-updates-for-your-wacom-digital-drawing-board-download-latest-cintiq-13hd-driver-now/"><u>Get Fresh Updates for Your Wacom Digital Drawing Board: Download Latest Cintiq 13HD Driver Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-drivers-for-intel-raid-and-matrix-storage-acceleration-on-windows-compatible-with-xp-through-to-windows-11/"><u>Get the Newest Drivers for Intel RAID & Matrix Storage Acceleration on Windows - Compatible with XP Through to Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-version-of-the-epson-xp-420-driver-step-by-step-guide/"><u>How To Get The Newest Version Of The Epson XP 420 Driver - Step By Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-best-asus-mousepad-driver-on-your-windows-device/"><u>How to Install the Best ASUS Mousepad Driver on Your Windows Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-newest-amd-rx-6800-graphics-driver-on-windows-operating-systems-111087/"><u>How to Install the Newest AMD RX 6800 Graphics Driver on Windows Operating Systems (11/10/8/7)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-exploring-the-top-8-collaborative-affordable-android-video-mosaics/"><u>In 2024, Exploring the Top 8 Collaborative, Affordable Android Video Mosaics</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-logitech-g910-driver-installation-guide-for-windows-pcs/"><u>Latest Logitech G910 Driver Installation Guide for Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977378260-maintains-a-uniform-temperature-gradient-for-better-heat-transfer-performance/"><u>Maintains a Uniform Temperature Gradient for Better Heat Transfer Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-finding-and-installing-lenovo-t430-drivers-for-multiple-windows-versions/"><u>Step-by-Step: Finding and Installing Lenovo T430 Drivers for Multiple Windows Versions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-tips-for-resolving-critical-process-died-and-preventing-bsod-on-windows-10-systems/"><u>Troubleshooting Tips for Resolving Critical Process Died and Preventing BSOD on Windows 10 Systems</u></a></li>
+</ul></div>

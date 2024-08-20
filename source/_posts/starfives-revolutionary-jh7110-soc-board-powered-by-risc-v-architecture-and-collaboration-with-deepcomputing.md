@@ -1,7 +1,7 @@
 ---
 title: "StarFive's Revolutionary JH7110 SoC Board: Powered by RISC-V Architecture and Collaboration with DeepComputing"
-date: 2024-08-14 11:53:19
-updated: 2024-08-17 11:55:58
+date: 2024-08-19T04:32:50.544Z
+updated: 2024-08-20T04:32:50.544Z
 tags:
   - laptop
 categories:
@@ -100,6 +100,9 @@ Lenovo Yoga Slim 7x 14 Gen 9  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/QXLgUBPHQLuoQKnKFXBYAN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  Lenovo provides three display options with the ThinkPad T14s Gen 6: the first two are 14-inch 400-nit IPS panels with a 1920 x 1200 resolution, but one supports touch, and the other doesn't. The third option is a 2.8K OLED panel with 100% coverage of DCI-P3 and VESA HDR True Black 500 compliance.
@@ -110,12 +113,18 @@ Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  According to Lenovo, the Yoga Slim 7x and ThinkPad T14s Gen 6 will debut next month, priced from $1,199 and $1,699, respectively.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Dell XPS 13, Inspiron 14 Plus, and Latitude 7455
 
  Dell’s lineup of Snapdragon X laptops[leaked early last week](https://tools.techidaily.com) , so things here should look somewhat familiar. The XPS 13 has a striking design, with a keyboard that goes nearly to the left and right edge of the CNC-machined aluminum chassis (available in Platinum or Graphite). You'll also find the controversial capacitive touch function row above the keyboard, which we discussed in our[reviews of the XPS 14 and XPS 16](https://tools.techidaily.com) . The haptic touchpad is also seamlessly integrated into the keyboard deck, which is covered in Gorilla Glass 3.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/cXqoxKsRoc29VARWi2JunN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Dell XPS 13  (Image credit: Qualcomm)
 
  Dell makes the Snapdragon X Elite or the Snapdragon X Plus available, although the latter is only coming to the Chinese market (at least for now). Customers can choose from 16GB, 32GB, or 64GB of dual-channel LPDDR5x memory and 512GB, 1TB, 2TB, or 4TB (later availability) SSDs.
@@ -137,6 +146,9 @@ Dell XPS 13  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/5STqZSSuR2Yb9mkF7rrCLN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 Dell Inspiron 14 Plus  (Image credit: Qualcomm)
 
  The Inspiron 14 Plus comes exclusively with the Snapdragon X Plus, 16GB LPDDR5x memory, and 512GB/1TB SSD options. You get just one display option: a 14-inch 2560 x 1600 IPS panel with touch and an anti-glare coating. You also get two USB-C ports, one USB-A port, a microSD card reader, a headphone jack, quad speakers, a 1080p IR webcam with privacy shutter, Wi-Fi 7, Bluetooth 5.4, a power button with integrated fingerprint reader, and a 54 WHr battery.
@@ -145,6 +157,9 @@ The 3.17-pound Inspiron 14 Plus measures 12.36 x 8.80 x 0.66 inches.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/ejCrV57dyrk8JZeZLG66eN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 Dell Latitude 7455  (Image credit: Qualcomm)
 
  Rounding out Dell's Snapdragon X assault is the Latitude 7455, aimed at business users (Snapdragon X Elite or Snapdragon X Plus with up to 32GB of LPDDR5x). This 14-inch laptop is only available with a 2560 x 1600 IPS display and anti-glare coating.
@@ -159,6 +174,9 @@ Dell Latitude 7455  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/kkJgrFcMsp5e7XQRtHVKxM-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
 
  The two laptops each have a Snapdragon X Elite chip, a 14-inch 2240 x 1400 IPS display, support for Wi-Fi 6E/Bluetooth 5.3 or Wi-Fi 7/Bluetooth 5.4, a 1080p webcam with IR, a 59 WHr battery, two USB-C ports, and one USB-A port. The OmniBook X is available with 16GB or 32GB of LPDDR5x and 512GB, 1TB, or 2TB SSD options. The EliteBook Ultra is only available with 16GB of LPDDR5x and a 512GB or 1TB SSD.
@@ -190,3 +208,41 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-budget-friendly-top-7-mac-apps-for-enhanced-tiktok-videos/"><u>[New] In 2024, Budget-Friendly Top 7 Mac Apps for Enhanced TikTok Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-in-depth-look-at-videorecorderpros-features-and-review/"><u>[New] In 2024, In-Depth Look at VideoRecorderPro's Features & Review</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-experience-unlimited-recording-review-of-free-screen-tools-for-cameras/"><u>[Updated] 2024 Approved  Experience Unlimited Recording – Review of Free Screen Tools for Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-magic-behind-shooting-images-with-iphones-hdr/"><u>[Updated] Unveiling the Magic Behind Shooting Images with iPhone’s HDR</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-oneplus-12-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from OnePlus 12 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-honor-x50-gt-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Honor X50 GT Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/best-bike-racing-games-that-you-should-play-for-2024/"><u>Best Bike Racing Games That You Should Play for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mp560-driver-update-quick-installation-process-explained/"><u>Canon MP560 Driver Update - Quick Installation Process Explained</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-downloading-and-installing-logitech-g35-drivers-on-windows-windows-7810/"><u>Complete Guide to Downloading and Installing Logitech G35 Drivers on Windows (Windows 7/8/10)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-enhance-your-windows-7-wifi-connection-with-updated-drivers/"><u>Download & Enhance Your Windows 7 WiFi Connection with Updated Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-setting-up-your-camera-drivers-for-all-windows-versions/"><u>Easy Guide to Downloading and Setting Up Your Camera Drivers for All Windows Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-gaming-experience-with-the-newest-steelseries-keyboard-drivers/"><u>Elevate Your Gaming Experience with the Newest SteelSeries Keyboard Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-guide-to-obtaining-thunderbolt-driver-packages-on-windows-systems/"><u>Essential Guide to Obtaining Thunderbolt Driver Packages on Windows Systems</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/exclusive-selection-of-fastest-screen-capture-apps/"><u>Exclusive Selection of Fastest Screen Capture Apps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixed-guide-latest-driver-update-for-your-amd-radeon-vega-graphics-card-on-windows-systems/"><u>Fixed Guide: Latest Driver Update for Your AMD Radeon Vega Graphics Card on Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973069029-get-the-latest-gigabyte-z370-d3-chipset-drivers-download-now/"><u>Get the Latest GIGABYTE Z370-D3 Chipset Drivers - Download Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-laptop-drivers-free-downloads-for-windows-users/"><u>Get the Latest HP Laptop Drivers: Free Downloads for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-asus-mousepads-optimal-performance-on-windows-driver-download/"><u>Get Your ASUS Mousepad's Optimal Performance on Windows - Driver Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-dell-xps-13-driver-update-process-explained/"><u>Hassle-Free Dell XPS 13 Driver Update Process Explained</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-epson-es-400-scanner-drivers-for-windows-computers/"><u>How to Install Epson ES-400 Scanner Drivers for Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-keep-your-tp-link-ub400-bluetooth-adapter-running-smoothly-with-updated-drivers/"><u>How to Keep Your TP-Link UB400 Bluetooth Adapter Running Smoothly with Updated Drivers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-vivo-y100a-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo Y100A Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971477713-hp-deskjet-3050a-driver-free-download-and-update-for-windows/"><u>HP Deskjet 3050A Driver – Free Download & Update for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-your-hp-laserjet-pro-m402n-printer-drivers-on-microsoft-windows-a-comprehensive-tutorial/"><u>Installing Your HP LaserJet Pro M402n Printer Drivers on Microsoft Windows: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975347403-lenovo-ideapad-100-find-and-install-the-latest-drivers-for-windows-10-systems-easily/"><u>Lenovo IdeaPad 100 - Find and Install the Latest Drivers for Windows 10 Systems Easily</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/msi-sound-card-software-get-your-latest-drivers-instantly/"><u>MSI Sound Card Software: Get Your Latest Drivers Instantly</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-navigating-through-the-excellent-windowed-and-mac-compatible-daws-top-10-selection/"><u>New 2024 Approved Navigating Through the Excellent Windowed & Mac Compatible DAWs - Top 10 Selection</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nexiq-usb-bridge-drivers-compatible-download-and-install-steps-guide/"><u>NEXIQ USB Bridge Drivers: Compatible Download and Install Steps Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-when-minecraft-wont-start-step-by-step-solution/"><u>Quick Fixes When Minecraft Won’t Start – Step-by-Step Solution</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-internet-awaits-quick-guide-to-update-and-install-intel-dual-band-ac-3160-wifi-driver/"><u>Speedy Internet Awaits: Quick Guide to Update and Install Intel Dual Band AC 3160 WiFi Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-downloading-and-installing-logitech-g920-drivers-on-your-windows-pc/"><u>Step-by-Step Guide to Downloading and Installing Logitech G920 Drivers on Your Windows PC</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-choosing-a-google-nest-doorbell-battery-expert-reviews/"><u>The Ultimate Guide to Choosing a Google Nest Doorbell (Battery) – Expert Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-downloading-and-installing-hp-deskjet-2652-driver-for-windows-variants/"><u>The Ultimate Guide to Downloading and Installing HP DeskJet 2652 Driver for Windows Variants</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-made-simple-ensuring-safe-and-effective-driver-updates-on-amd-ryzen-systems/"><u>Troubleshooting Made Simple: Ensuring Safe and Effective Driver Updates on AMD Ryzen Systems</u></a></li>
+</ul></div>

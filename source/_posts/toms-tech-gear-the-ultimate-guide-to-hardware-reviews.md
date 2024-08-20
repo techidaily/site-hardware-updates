@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Gear: The Ultimate Guide to Hardware Reviews"
-date: 2024-08-16 18:58:19
-updated: 2024-08-17 12:47:19
+date: 2024-08-19T04:29:43.148Z
+updated: 2024-08-20T04:29:43.148Z
 tags:
   - monitor
 categories:
@@ -95,6 +95,9 @@ I’ve been reviewing a lot of OLED monitors lately, mainly of the 27-inch QHD 2
 
 ![Gigabyte Aorus FO32U2P](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
  (Image credit: Gigabyte)
 
 ![Gigabyte Aorus FO32U2P](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -103,6 +106,9 @@ I’ve been reviewing a lot of OLED monitors lately, mainly of the 27-inch QHD 2
 
 ![Gigabyte Aorus FO32U2P](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
  (Image credit: Gigabyte)
 
 ![Gigabyte Aorus FO32U2P](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -117,6 +123,10 @@ I’ve been reviewing a lot of OLED monitors lately, mainly of the 27-inch QHD 2
 
  The jack panel is in the usual up-and-under center spot and features two DisplayPort 2.1 inputs, one standard and one mini. It should be noted that the current crop of GeForce RTX 4090 video cards tops out at DP 1.4a. The FO32U2P includes a version switch in the OSD to address this. There is also a DP 1.4 output for daisy chaining, meaning you don’t have to run multiple video cables to your PC. Additional inputs include two HDMI 2.1 and a USB-C, which support DP functions and provide 65 watts of power. USB 3.2 is covered by one upstream and two downstream ports along with KVM options in the OSD. The internal speakers play cleanly with five watts of power, and you get a 3.5mm headphone jack and a 3.5mm microphone input.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## OSD Features
 
  The FO32U2P’s OSD is summoned by a press and up-click of the joystick. Two additional buttons flank it and can be programmed for a variety of different functions for quick access. The joystick directionals take you straight to inputs, volume and picture mode selection.
@@ -133,6 +143,9 @@ I’ve been reviewing a lot of OLED monitors lately, mainly of the 27-inch QHD 2
 
 ![Gigabyte Aorus FO32U2P](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Gigabyte Aorus FO32U2P](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -141,6 +154,9 @@ I’ve been reviewing a lot of OLED monitors lately, mainly of the 27-inch QHD 2
 
 ![Gigabyte Aorus FO32U2P](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Gigabyte Aorus FO32U2P](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -149,10 +165,17 @@ I’ve been reviewing a lot of OLED monitors lately, mainly of the 27-inch QHD 2
 
 ![Gigabyte Aorus FO32U2P](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Gigabyte Aorus FO32U2P](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Gigabyte Aorus FO32U2P](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -169,6 +192,9 @@ I’ve been reviewing a lot of OLED monitors lately, mainly of the 27-inch QHD 2
 
  The FO32U2P has a huge list of OLED care options to prevent burn-in. You can run a pixel clean procedure, recommended every four hours, that wipes the screen to equalize pixel usage. It’s best to run when you’re not using the monitor. The significant option here is APL Stabilize. This is a form of variable brightness with three levels of intensity. On Low, there is no change in brightness for dark or light content. I verified this in testing. It is the best way to use the FO32U2P because the image remains stable. The two higher settings change brightness globally and you’ll see some shift during gameplay.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Game Assist
 
  Image 1 of 3
@@ -183,12 +209,18 @@ I’ve been reviewing a lot of OLED monitors lately, mainly of the 27-inch QHD 2
 
 ![Gigabyte Aorus FO32U2P](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Pressing the joystick and clicking right brings up the Game Assist menu. This menu is unique to Gigabyte monitors and has a huge array of features to aid gameplay. You can put a data window at the top of the screen that runs countdown and elapsed time, plus a frame rate indicator. Visual aids include aiming points, four different sniper mode magnifications, and night vision.
 
  The Dashboard is activated with a USB connection and Gigabyte’s OSD Sidekick app. Once installed, you can monitor CPU and GPU parameters in real-time through an on-screen window. It’s fairly large and will cover about 10% of the screen in a corner of your choosing. It can be shrunk by turning off some of the nine available info fields.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Gigabyte Aorus FO32U2P Calibration Settings
 
  The FO32U2P comes out of the box in Eco mode. It’s color accurate, but brightness is limited, peaking at around 150 nits. You can use either Standard or Custom to unlock the full luminance range. Both can be calibrated, so I went for Custom. The Normal color temp hits the 6500K white point, but I found a small improvement with the User Define option and its RGB controls which are precise. The gamma presets are accurately labeled but tracking showed some too-bright values in the middle and upper steps. I’ll show you those results on page four. If you want sRGB color, choose that picture mode. The Color Space option should be left on Native. The Adobe and Display P3 choices gray out all other picture controls. My SDR settings are below should you wish to try them.
@@ -266,3 +298,46 @@ powered by
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-express-thumbnails-for-epic-battle-royale/"><u>[New] In 2024, Express Thumbnails for Epic Battle Royale</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-footage-to-final-cut-chroma-mastery/"><u>[New] In 2024, From Raw Footage to Final Cut  Chroma Mastery</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-ispring-review-a-deep-dive-into-screen-capture/"><u>[New] ISpring Review  A Deep Dive Into Screen Capture</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-synching-youtube-songs-to-video-frameworks/"><u>[New] Synching YouTube Songs to Video Frameworks</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-building-a-brand-with-your-own-eyes-the-dual-identity-strategy-for-tiktok-enthusiasts-for-2024/"><u>[Updated] Building a Brand with Your Own Eyes  The Dual Identity Strategy for TikTok Enthusiasts for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-reversal-techniques-a-new-perspective-on-youtube-videos/"><u>[Updated] Reversal Techniques  A New Perspective on YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-streamline-your-youtube-short-experience/"><u>[Updated] Streamline Your YouTube Short Experience</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-behind-the-numbers-earnings-in-podcasting/"><u>2024 Approved  Behind the Numbers  Earnings in Podcasting</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-gionee-f3-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Gionee F3 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/a-quick-guide-secure-your-instagram-stories-with-screen-record/"><u>A Quick Guide  Secure Your Instagram Stories with Screen Record</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/brother-mfc-7360n-seamless-drivers-downloading-and-updating-on-windows-11-windows-8-and-7-systems/"><u>Brother MFC-7360N - Seamless Drivers Downloading and Updating on Windows 11, Windows 8 & 7 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/correct-partition-size/"><u>Correct Partition Size</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-hp-deskjet-ink-advantage-675a-printer-drivers/"><u>Download and Update HP Deskjet Ink Advantage 675A Printer Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-sas-software-on-windows-10-8-or-7-a-step-by-step-guide/"><u>Download and Update SAS Software on Windows 10, 8, or 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-enhanced-performance-comprehensive-msi-z370-a-pro-drivers/"><u>Download Enhanced Performance: Comprehensive MSI Z370-A Pro Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-driver-updates-for-scansnap-ix500-compatible-with-windows-os/"><u>Easy Driver Updates for ScanSnap iX500 - Compatible with Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-for-brother-hl-l2340dw-printer-secure-download-links-for-windows-users/"><u>Easy Setup for Brother HL-L2340DW Printer - Secure Download Links for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-acquire-windows-asio-drivers-for-focusrite-scarlett-2i4-audio-interface/"><u>Easy Setup: Acquire Windows ASIO Drivers for Focusrite Scarlett 2I4 Audio Interface</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-optimal-performance-a-how-to-for-refreshing-your-corsair-headset-drivers-on-windows-systems/"><u>Ensure Optimal Performance: A How-To for Refreshing Your Corsair Headset Drivers on Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/epson-gt-s50-compatible-driver-downloads-for-windows-operating-systems-7-8-and-lete-10/"><u>Epson GT-S50: Compatible Driver Downloads for Windows Operating Systems (7, 8 & Lete 10)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/exclusive-list-skypes-top-audio-recorders/"><u>Exclusive List  Skype's Top Audio Recorders</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971890214-find-and-install-the-newest-amd-smbus-drivers-in-minutes/"><u>Find & Install the Newest AMD SMBus Drivers in Minutes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-best-gaming-experience-free-download-of-logiteches-driving-force-gt-driver-for-windows-users-windows-7-10-and-11/"><u>Get the Best Gaming Experience: Free Download of Logiteche's Driving Force GT Driver for Windows Users (Windows 7, 10 & 11)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-logitech-c270-webcam-driver-for-windows-1011-pcs/"><u>Get the Latest Logitech C270 WebCam Driver for Windows 10/11 PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-msi-sound-card-software-on-your-pc-with-ease-for-windows-users/"><u>Get the Newest MSI Sound Card Software on Your PC with Ease - For Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-asrock-ab350-pro4-graphics-card-up-and-running-on-windows-for-free/"><u>Get Your Asrock AB350 Pro4 Graphics Card Up and Running on Windows for Free</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/gtx-1660-graphics-card-a-step-by-step-guide-to-updating-drivers-fast-and-easy/"><u>GTX 1660 Graphics Card: A Step-by-Step Guide to Updating Drivers Fast and Easy</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fix-persistent-war-thunder-game-crashes-expert-solutions/"><u>How To Fix Persistent War Thunder Game Crashes - Expert Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-repair-a-non-functional-igfxem-chipset-issue-successfully/"><u>How To Repair A Non-Functional igfxEM Chipset Issue Successfully</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-nokia-c32-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Nokia C32 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-nokia-c12-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Nokia C12 Phones with/without a PC</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone 13 Pro Max</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722966944789-latest-driver-update-for-hp-officejet-pro-8610-on-windows-11-8-7-xp-and-vista-get-it-now/"><u>Latest Driver Update for HP Officejet Pro #8610 on Windows 11, 8, 7, XP & Vista - Get It Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-upgrade-compatible-drivers-for-lenovo-thinkpad-with-usb-c-thunderbolt-3-port/"><u>Latest Upgrade: Compatible Drivers for Lenovo ThinkPad with USB-C Thunderbolt 3 Port</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-narakeet-review-text-to-speech-convenient-voice-maker/"><u>New Narakeet Review Text to Speech Convenient Voice Maker</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722972977803-quick-fix-freshest-surface-book-drivers-installed-in-a-flash/"><u>Quick-Fix: Freshest Surface Book Drivers Installed in a Flash!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/swiftly-stow-facebook-broadcasts-for-smartphonedesktop-users-for-2024/"><u>Swiftly Stow Facebook Broadcasts for Smartphone/Desktop Users for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-honor-90-lite-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Honor 90 Lite? Here is How | Dr.fone</u></a></li>
+</ul></div>

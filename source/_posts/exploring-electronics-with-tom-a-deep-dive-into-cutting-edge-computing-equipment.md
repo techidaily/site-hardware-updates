@@ -1,7 +1,7 @@
 ---
 title: "Exploring Electronics with Tom: A Deep Dive Into Cutting-Edge Computing Equipment"
-date: 2024-08-15 14:24:36
-updated: 2024-08-18 10:29:29
+date: 2024-08-19T04:15:57.957Z
+updated: 2024-08-20T04:15:57.957Z
 tags:
   - build
 categories:
@@ -37,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/3d11ea0bfdce60d31e046d3cc7ec8c1b61d6f0342
 
 ![](https://cdn.mos.cms.futurecdn.net/vaZRhuXWqcyB98KdTMVaK3-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  For your bonus build pleasure, here's the conclusion to the Munchkin Saga, Episode III: Revenge of 860K.
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
@@ -90,6 +93,9 @@ Deepcool Gamer Storm Gabriel
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Alternate Component Selection
 
  I don't need to spend time explaining the same parts from[two days ago](https://tools.techidaily.com) . To save space and time, I'll only address the three new components.
@@ -120,6 +126,9 @@ Deepcool Gamer Storm Gabriel
 
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-8198437440134718399%26murl%3Dhttp%253A%252F%252Fwww.newegg.com%252FProduct%252FProduct.aspx%253Fcm%255Fmmc%253Dbac-tomshardwaresbm-%255F-systembuildereditorial-%255F-CPU%2BFans%2B%2526%2BHeatsinks-%255F-N82E16835856007%2526Item%253DN82E16835856007%2526IsFeedbackTab%253DTrue%2526nm%255Fmc%253DExtBanner)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## Assembly
 
  The only significant change in assembly of this against the Intel build is the CPU cooler. And I ran into fitment issues with it. While I specifically got the low profile version Ballistix memory kit, AMD's rectangular mounting bracket meant the cooler could only be installed in two orientations. Both are problematic with this motherboard. The Gabriel is thinnest on the end opposite of the heat pipe curve. This part extends farthest from the CPU socket and can clear most RAM modules. On either side, the fins have a small step making them a little thicker. This edge of the cooler is a millimeter or two too thick to fully clear the RAM on the side, touching the very top edge of the RAM heat spreader.
@@ -130,6 +139,9 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://cdn.mos.cms.futurecdn.net/EkXfRYe3XW8vhT2PuH7XkJ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The rest of the assembly went just peachy. The slightly different port layout of the motherboard necessitated different cable routing, but that's it. Everything else is the exact same as the Intel build from a few days ago.
 
 ![](https://cdn.mos.cms.futurecdn.net/kiyNGE2ogxSRTZjnNEBoST-320-80.jpg)
@@ -146,10 +158,16 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
 
  My system this time around was only capable of reaching DDR3-2133, a bit shy of the 2400 speeds I got last quarter. I did get respectable timings of 10-11-10-31, but that was the limit. Along with the RAM, I upped the northbridge from 1800 to 2000MHz with only a slight bump in voltage to 1.1625V. I wasn't trying to match the frequency of last quarter, I simply couldn't boot the machine at anything past 2000MHz.
@@ -170,3 +188,45 @@ Deepcool Gamer Storm Gabriel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-behind-the-scenes-what-does-an-unlisted-video-mean/"><u>[New] 2024 Approved  Behind the Scenes  What Does an 'Unlisted' Video Mean?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-unlock-content-creation-uploading-videos/"><u>[New] 2024 Approved  Unlock Content Creation  Uploading Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-advanced-gaming-setup-for-nintendo-switch-for-2024/"><u>[Updated] Advanced Gaming Setup for Nintendo Switch for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-clipcreatorassessment-full-dissection/"><u>[Updated] ClipCreatorAssessment – Full Dissection</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-viral-harmony-essential-soundtracks-for-popular-video-shorts/"><u>[Updated] In 2024, Viral Harmony  Essential Soundtracks For Popular Video Shorts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-path-to-profitable-product-placements-on-youtube/"><u>[Updated] The Path to Profitable Product Placements on YouTube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-avoiding-ambiguity-clear-dating-of-digital-pics/"><u>2024 Approved  Avoiding Ambiguity  Clear Dating of Digital Pics</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mx492-driver-update-and-download-enhance-your-printers-performance-on-windows-systems/"><u>Canon MX492 Driver Update & Download: Enhance Your Printer's Performance on Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-hp-deskjet-2755e-drivers-for-smooth-windows-printing/"><u>Download & Install HP Deskjet 2755E Drivers for Smooth Windows Printing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-microsoft-sound-card-drivers-download-for-windows-operating-systems/"><u>Free Microsoft Sound Card Drivers Download for Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-drivers-for-your-hp-elitebook-x360-model-1030-g2/"><u>Get the Latest Drivers for Your HP EliteBook X360 Model 1030 G2</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-brother-hl-l2350dw-printer-firmware-free-download-guide/"><u>Get the Newest Brother HL-L2350DW Printer Firmware – Free Download Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-downloads-of-official-hp-wifi-card-drivers-for-windows-users/"><u>Hassle-Free Downloads of Official HP WiFi Card Drivers for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-update-your-zebra-zp45n-printer-drivers-with-ease-complete-guide/"><u>How to Successfully Update Your Zebra ZP45n Printer Drivers with Ease - Complete Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/humorhexagonhub-photofunniesfactory-for-2024/"><u>HumorHexagonHub  PhotoFunniesFactory for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-nvidias-top-performing-rtx-1080-drivers-on-windows-11-with-ease/"><u>Install NVIDIA's Top-Performing RTX 1080 Drivers on Windows 11 with Ease</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-lenovo-webcam-driver-updates-for-windows-7-users/"><u>Latest Lenovo Webcam Driver Updates for Windows 7 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-sapphire-driver-updates-available-get-them-here/"><u>Latest Sapphire Driver Updates Available: Get Them Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-momo-racing-wheel-download-the-latest-pc-game-drivers-now/"><u>Logitech MOMO Racing Wheel - Download the Latest PC Game Drivers Now!</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-freestyle-producers-guide-2023s-no-cost-audio-mixing-leaders/"><u>New In 2024, The Freestyle Producers Guide 2023S No-Cost Audio Mixing Leaders</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/overcome-your-phasmophobia-game-glitch-fix-the-endless-load-screen-of-90/"><u>Overcome Your Phasmophobia Game Glitch - Fix the Endless Load Screen of 90%%!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/overcoming-challenges-with-pci-secure-data-handler-resolved-control-mechanisms/"><u>Overcoming Challenges with PCI Secure Data Handler: Resolved Control Mechanisms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/performance-based-seismic-design-pbsd-focuses-on-achieving-specific-performance-objectives-using-nonlinear-analysis-to-predict-damage-levels/"><u>Performance-Based Seismic Design (PBSD) Focuses on Achieving Specific Performance Objectives, Using Nonlinear Analysis to Predict Damage Levels.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-razer-mouse-driver-setup-for-windows-users-a-step-by-step-tutorial/"><u>Seamless Razer Mouse Driver Setup for Windows Users - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solution-wind-speeds-over-5msec-can-increase-the-rate-of-moisture-loss-through-evaporation-leading-to-uneven-drying-surface-defects-and-reduced-strength-in-81/"><u>Solution: Wind Speeds over 5M/Sec Can Increase the Rate of Moisture Loss Through Evaporation, Leading to Uneven Drying, Surface Defects, and Reduced Strength in the Concrete.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/successful-installation-guide-huion-tablet-drivers-update-on-windows/"><u>Successful Installation Guide: Huion Tablet Drivers Update on Windows</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-channels-growth-optimizing-viewership-with-collaborative-videos/"><u>Swift Channels Growth  Optimizing Viewership with Collaborative Videos</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-samsung-galaxy-s21-fe-5g-2023-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Samsung Galaxy S21 FE 5G (2023) FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-edit-suite-apps-and-devices-tools-listed-for-2024/"><u>Top Edit Suite (Apps & Devices) Tools Listed for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-solutions-for-hp-officejet-pro-6978-printer-drivers/"><u>Troubleshooting & Solutions for HP OfficeJet Pro 6978 Printer Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-guide-fixing-pci-secure-token-holder-communication-errors/"><u>Troubleshooting Guide: Fixing PCI Secure Token Holder Communication Errors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-steps-for-defective-ralink-rt3290-drivers-on-older-and-latest-windows-versions/"><u>Troubleshooting Steps for Defective Ralink RT3290 Drivers on Older & Latest Windows Versions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-mastering-the-factory-reset-on-ios-devices/"><u>Ultimate Guide: Mastering the Factory Reset on iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/uncomfortable-sound-fluctuations-in-airpods-fix-it-by-deactivating-dynamic-ear-movement-sensors/"><u>Uncomfortable Sound Fluctuations in AirPods? Fix It by Deactivating Dynamic Ear Movement Sensors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-or-install-targus-usb-graphics-drivers-compatible-with-windows-1087/"><u>Update or Install Targus USB Graphics Drivers Compatible with WIndows 10/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updating-your-hp-z440s-display-driver-made-easy-step-by-step-instructions/"><u>Updating Your HP Z440's Display Driver Made Easy - Step-by-Step Instructions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/xbox-accessory-driver-troubles-heres-how-you-can-fix-it-in-windows-1187-systems/"><u>Xbox Accessory Driver Troubles? Here's How You Can Fix It in Windows 11/8/7 Systems</u></a></li>
+</ul></div>

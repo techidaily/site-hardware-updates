@@ -1,7 +1,7 @@
 ---
 title: Expert Analysis on Computing Equipment – Trustworthy Reviews by Tom's Hardware
-date: 2024-08-14 20:37:46
-updated: 2024-08-17 10:56:18
+date: 2024-08-19T04:18:25.080Z
+updated: 2024-08-20T04:18:25.080Z
 tags:
   - ssd
 categories:
@@ -54,6 +54,9 @@ SSD Price Index by Model
 | Gigabyte Aorus 12000 2TB | [$259](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0CDNCNBSP%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-2522012097200834085-20)     | $149                   | 5        |
 | MSI Spatium M570 2TB     | [$199](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0BYRRD36V%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1194489255921165592-20)     | $199                   | 5        |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4TB SSDs: Lowest Prices
 
  Below are all the PCIe 4 and 3 drives in 4TB capacity. Usually, you'll pay a premium for 4TB capacity, but it's a great size, particularly if you're planning for this to be your one and only drive. With 4TB, you can fit a ton of games, video clips, and even virtual machines or AI models on your system.
@@ -74,6 +77,9 @@ SSD Price Index by Model
 | WD Black SN750         | N/A                                                                                                                                                                                       | $533                   | 3        |
 | WD Black SN850X        | [$279](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0B7CQ2CHH%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1435418681249410954-20) | $229                   | 4        |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## 2TB SSDs: Lowest Prices
 
  The sweet spot in price and capacity for a lot of consumers, 2TB SSD drives have enough storage for most applications and games and come at a more affordable price point. Some of our personal favorites include the Samsung 990 Pro and Western Digital SN850X because they are standout Gen 4 2TB SSDs.
@@ -103,6 +109,9 @@ SSD Price Index by Model
 | WD Black SN850X        | [$159](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3Fpublisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-1441598879513853342%26url%3Dhttps%253A%252F%252Fwww.bestbuy.com%252Fsite%252Fwd-black-sn850x-2tb-internal-ssd-pcie-gen-4-x4-nvme%252F6512128.p%26article%255Fname%3DSSD%2520Price%2520Index%25202024%253A%2520Cheapest%2520Price%2520on%25201TB%252C%25202TB%2520and%25204TB%2520Models%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fnews%252Flowest-ssd-prices) | $89                    | 4        |
 | WD Blue SN570          | [$198](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09JM8DJNS%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-3077597594994621287-20)                                                                                                                                                                                                                                               | $84                    | 3        |
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1TB SSDs: Lowest Prices
 
  While you can pick up a 512 or 256GB SSD in a pinch, 1TB is the minimum capacity you should have on a computing device these days. If you're not doing a ton of gaming, media editing or local AI modeling, you can definitely get by with a 1TB SSD as your boot drive.
@@ -152,3 +161,50 @@ SSD Price Index by Model
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-realms-united-identifying-the-7-best-strategy-rivals/"><u>[Updated] In 2024, Realms United  Identifying the 7 Best Strategy Rivals</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-lifelike-livestreaming-should-streamers-trust-softwares-or-systems/"><u>[Updated] Lifelike Livestreaming  Should Streamers Trust Softwares or Systems?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-no-more-queasiness-in-vr-worlds/"><u>[Updated] No More Queasiness in VR Worlds</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-select-macos-big-sur-11-apps-for-seamless-video-editing/"><u>[Updated] Select MacOS Big Sur 11 Apps for Seamless Video Editing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-steps-for-controlling-video-comment-settings-in-youtube/"><u>[Updated] Steps for Controlling Video Comment Settings in YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harvest-high-quality-pics-the-free-edition-guide/"><u>2024 Approved  Harvest High-Quality Pics  The Free Edition Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/acclaimed-ea-play-games-for-ps5/"><u>Acclaimed EA Play Games for PS5</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-rx-6800-xt-graphics-card-drivers-download-for-windows-11-10-8-and-7/"><u>AMD Radeon RX 6800 XT Graphics Card Drivers: Download for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/broadcom-network-driver-download-get-your-windows-10s-gige-connection-up-to-date-repaird/"><u>Broadcom Network Driver Download: Get Your Windows 10'S GigE Connection Up-to-Date [REPAIRD]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-updating-and-downloading-x-pen-driver-software/"><u>Complete Guide: Updating and Downloading X-PEN Driver Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-hp-laserjet-pro-p1006-printer-software/"><u>Download HP LaserJet Pro P1006 Printer Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-logitech-hd-webcam-c525-software-compatible-with-pc-and-laptop/"><u>Download Logitech HD Webcam C525 Software Compatible with PC & Laptop</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-mouse-driver-for-windows-7-solved/"><u>Download Mouse Driver for Windows 7 [Solved]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-update-and-install-amd-radeon-r9-200-series-drivers-in-windows-environment/"><u>Easy Guide: Update and Install AMD Radeon R9 200 Series Drivers in Windows Environment</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-gaming-sessions-with-the-latest-logitech-g933-drivers/"><u>Enhance Your Gaming Sessions with the Latest Logitech G933 Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-and-official-epson-v50vehicletypeconverter-perfectdriversoftware/"><u>Free & Official Epson V50vehicle_type_converter-Perfect_driver_software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-logitech-c270-windows-11-compatible-drivers-here-start-now/"><u>Get the Latest Logitech C270 Windows 11 Compatible Drivers Here – Start Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722960912608-get-the-latest-nvidia-graphics-drivers-for-windows-11-simple-download-process/"><u>Get the Latest NVIDIA Graphics Drivers for Windows 11 - Simple Download Process</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-realtek-card-software-for-windows-10-free-download/"><u>Get the Latest Realtek Card Software for Windows 10 - Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976397266-get-your-corsair-k70-mouse-up-and-running-with-fresh-driver-downloads/"><u>Get Your Corsair K70 Mouse Up and Running with Fresh Driver Downloads!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-zexmte-universal-bluetooth-adapter-drivers-on-your-pc/"><u>How to Download and Install ZexMTE Universal Bluetooth Adapter Drivers on Your PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-insignia-usb-video-adapter-for-monitor-connection/"><u>How to Install the Insignia USB Video Adapter for Monitor Connection</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-update-microsoft-mouse-drivers-for-a-smoother-experience-on-windows-computers/"><u>How to Seamlessly Update Microsoft Mouse Drivers for a Smoother Experience on Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-system-with-new-nvidia-940mx-gpu-drivers-free-download/"><u>How to Update Your System with New NVIDIA 940MX GPU Drivers - Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/immediate-availability-grab-the-newest-lexar-usb-drivers-in-no-time/"><u>Immediate Availability: Grab the Newest Lexar USB Drivers in No Time</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-v30-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo V30 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-epson-v39-scan-driver-on-windows-7810-step-by-step-guide-and-download-links/"><u>Install Epson V39 Scan Driver on Windows 7/8/10: Step-by-Step Guide and Download Links</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-your-epson-ds-530s-newest-printer-driver-on-windows-11-64-bit-system/"><u>Install Your Epson DS-530's Newest Printer Driver on Windows 11 (64-Bit) System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-latest-graphic-card-drivers-on-your-hp-840g3-notebook-system/"><u>Installing Latest Graphic Card Drivers on Your HP 840/G3 Notebook System</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nt-how-to-converting-photos-to-your-youtube-channels-thumbnails/"><u>Instant How-To  Converting Photos to Your YouTube Channel's Thumbnails</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keep-your-gaming-at-peak-performance-update-your-razer-blackwidow-driver-here/"><u>Keep Your Gaming at Peak Performance: Update Your Razer BlackWidow Driver Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-canon-mx49e-printer-software-update-available-for-windows-users/"><u>Latest Canon MX49e Printer Software Update Available for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-firmware-enhancement-for-dell-2330d2330dn-color-laser-printers/"><u>Latest Firmware Enhancement for Dell 2330D/2330DN Color Laser Printers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-engagement-across-facebook-twitter-instagram-and-youtube-channels/"><u>Mastering Social Media Engagement Across Facebook, Twitter, Instagram & YouTube Channels</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172710145-maximize-arcade-fun-embrace-big-box-framing/"><u>Maximize Arcade Fun: Embrace Big Box Framing!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/qualcomm-atheros-ar938x-free-driver-download-now/"><u>Qualcomm Atheros AR938X - FREE Driver Download Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solving-hp-beats-audio-issues-across-various-windows-versions-your-ultimate-fix/"><u>Solving HP Beats Audio Issues Across Various Windows Versions - Your Ultimate Fix</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-quickly-set-up-hp-printerlaptop-drivers/"><u>Step-by-Step Tutorial: Quickly Set Up HP Printer/Laptop Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-walkthrough-for-refreshing-device-drivers-in-windows-on-the-dell-xps-15/"><u>The Ultimate Walkthrough for Refreshing Device Drivers in Windows on the Dell XPS 15</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-fixing-software-drivers-for-hp-officejet-pro-6978/"><u>Troubleshooting & Fixing Software Drivers for HP OfficeJet Pro 6978</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-updating-your-ati-radeon-graphics-card-drivers-on-windows/"><u>Ultimate Guide: Updating Your ATI Radeon Graphics Card Drivers on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-now-simplified-guide-to-installing-amd-ryzen-5-2500u-cpu-drivers/"><u>Update Now: Simplified Guide to Installing AMD Ryzen 5 2500U CPU Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-compatible-focusrite-scarlett-2i2-drivers-free-downloads-available-now/"><u>Windows-Compatible Focusrite Scarlett 2I2 Drivers - Free Downloads Available Now!</u></a></li>
+</ul></div>

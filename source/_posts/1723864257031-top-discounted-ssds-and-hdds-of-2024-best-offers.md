@@ -1,7 +1,7 @@
 ---
 title: Top Discounted SSDs & HDDs of 2024 - Best Offers
-date: 2024-08-15 17:26:31
-updated: 2024-08-17 11:28:36
+date: 2024-08-19T04:19:09.074Z
+updated: 2024-08-20T04:19:09.074Z
 tags:
   - ssd
 categories:
@@ -42,6 +42,9 @@ Best SSD and Hard Drive Deals
 * **PCIe 3, 4 or 5:** If you're buying an NVMe SSD, you can choose among PCIe 3, 4 or 5 interfaces with speeds increasing from a maximum of around 3,500 MBps sequential reads and writes to 8,000 MBps and 14,000 MBps. At this point, PCIe 4 drives are mainstream and offer the best value. PCIe 5 drives are extraordinarily expensive, require a newer-gen platform that supports them, and also generate a fair amount of heat. We're seeing the best SSD deals on PCIe 4 drives which is the best standard for most people.
 * **Capacity:** 2TB seems to be the sweet spot for price and performance, with decent 2TB, PCIe 4 NVMe drives going for around $80 or less and high-performance ones in the sub $130 range. If you can splurge, go for a 4TB drive, which could cost anywhere from $150 for a low-end drive, up to $250 for a high-end one. If you really need to save money, a decent 1TB drive can cost $50 or less. However, the top SSD deals this year are definitely on 2 and 4TB capacities.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best SSD Deals
 
 [Samsung 990 Pro (2TB) SSD:&nbsp;now $169 at Best Buy](https://cdn.mos.cms.futurecdn.net/yWYHwGzYhVYxLM38ZxYDwk-200-100.jpg "Samsung 990 Pro (2TB) SSD:&nbsp;now $169 at Best Buy") ](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3FskuId%3D6523595%26publisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-1244705598733577618%26url%3Dhttps%253A%252F%252Fwww.bestbuy.com%252Fsite%252Fsamsung-990-pro-2tb-internal-ssd-pcle-gen-4x4-nvme%252F6523595.p%253FskuId%253D6523595%26article%255Fname%3DBest%2520SSD%2520and%2520Hard%2520Drive%2520Deals%25202024%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Ffeatures%252Fbest-deals-on-ssds)
@@ -230,6 +233,9 @@ Best SSD and Hard Drive Deals
 
 * [Back to top ^](https://tools.techidaily.com)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Best External SSD / HDD / NAS Deals
 
 [Western Digital 8TB WD Red Pro NAS Internal Hard Drive HDD:&nbsp;now $199 at Amazon](https://cdn.mos.cms.futurecdn.net/R763rGe5wzXgjQeGDhHEzW-200-100.jpg "Western Digital 8TB WD Red Pro NAS Internal Hard Drive HDD:&nbsp;now $199 at Amazon") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FWestern-Digital-Internal-Hard-Drive%2Fdp%2FB0D1V2K4LJ%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-7312074856993712567-20)
@@ -287,6 +293,9 @@ Best SSD and Hard Drive Deals
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FSAMSUNG-Portable-SSD-1TB-MU-PC1T0T%2Fdp%2FB0874XN4D8%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-5810562302926172923-20)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## More Tech Deals
 
 * [Best deals on tech & PC Hardware](https://tools.techidaily.com)
@@ -312,3 +321,52 @@ Best SSD and Hard Drive Deals
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-updates.techidaily.com/free-download-up-to-date-geforce-rtx-3060-ti-drivers-for-enhanced-windows-performance/"><u>[Free Download] Up-to-Date GeForce RTX 3060 Ti Drivers for Enhanced Windows Performance</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effortless-internet-ranking-the-best-7-android-adblockers-now/"><u>[New] 2024 Approved  Effortless Internet  Ranking the Best 7 Android AdBlockers Now</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-groundbreaking-tools-to-create-instagram-grids-that-wow/"><u>[New] Groundbreaking Tools to Create Instagram Grids That Wow</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-capture-your-linkinscape-content-top-6-tools-for-it/"><u>[New] How to Capture Your Linkinscape Content  Top 6 Tools for It</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-analyzing-the-need-for-verified-instagramselfies/"><u>[Updated] 2024 Approved  Analyzing the Need for Verified Instagramselfies</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-ace-the-art-of-game-recordings-in-windows-11/"><u>[Updated] Ace the Art of Game Recordings in Windows 11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-duel-of-the-camcorders-gopros-black-versus-sony-fdr-x1000v-for-2024/"><u>[Updated] Duel of the Camcorders  GoPro's Black Versus Sony FDR-X1000V for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-constructing-coherent-youtube-video-sequences/"><u>[Updated] In 2024, Constructing Coherent YouTube Video Sequences</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-your-pcs-performance-with-intel-usb-30-drivers-for-windows-10-free-software-download-here/"><u>Boost Your PC's Performance with Intel USB 3.0 Drivers for Windows 10: Free Software Download Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-epson-wf-2750-drivers-complete-guide/"><u>Download & Install Epson WF-2750 Drivers – Complete Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-asus-pce-ac68-drivers-now/"><u>Download and Install: ASUS PCE-AC68 Drivers Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-amd-radeon-pro-w5700-driver-for-enhanced-performance-on-windows-11-10-and-7/"><u>Download Updated AMD Radeon Pro W5700 Driver for Enhanced Performance on Windows 11, 10 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-install-logitech-wireless-mouse-driver-download-for-windows-pcs/"><u>Easy Install: Logitech Wireless Mouse Driver Download for Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-xbox-360-controllers-free-driver-downloads/"><u>Easy Installation of Xbox 360 Controllers - Free Driver Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-download-and-setup-for-the-latest-graphics-drivers-on-your-amd-ryzen-5-2400g/"><u>Effortless Download & Setup for the Latest Graphics Drivers on Your AMD Ryzen 5 2400G</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-compatibility-downloading-updated-drivers-for-your-hp-officejet-pro-9015-printer/"><u>Ensure Compatibility: Downloading Updated Drivers for Your HP OfficeJet Pro 9015 Printer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-printing-fresh-drivers-for-hp-officejet-pro-69n8-printers/"><u>Essential Printing: Fresh Drivers for HP OfficeJet Pro 69N8 Printers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-device-ready-broadcoms-bluetooth-drivers-for-windows-platforms-xpvista/"><u>Get Your Device Ready: Broadcom's Bluetooth Drivers for Windows Platforms (XP/Vista)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-itel-p40plus-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Itel P40+ Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-realme-narzo-60-5g-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Realme Narzo 60 5G</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-most-recent-driver-support-for-your-hp-printer-on-windows-10-11/"><u>How to Get the Most Recent Driver Support for Your HP Printer on Windows 10, 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-repair-and-update-your-hp-monitor-driver-for-optimal-performance-on-windows-systems/"><u>How to Repair and Update Your HP Monitor Driver for Optimal Performance on Windows Systems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-nokia-c210-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Nokia C210 Device SIM</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-iphone-6s-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and iPhone 6s without Apple Account</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-proper-techniques-for-streaming-from-gopro-camera-to-social-networks/"><u>In 2024, Proper Techniques for Streaming From GoPro Camera to Social Networks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-subtitle-mastery-made-easy-10-free-online-tools/"><u>In 2024, Subtitle Mastery Made Easy - 10 Free Online Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976699229-install-asus-bt50n-bluetooth-50-usb-stick-driver-on-windows-pcs-latest-version-available-now/"><u>Install Asus BT50n Bluetooth 5.0 USB Stick Driver on Windows PCs – Latest Version Available Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-or-update-brother-mfc-j480dw-driver-software-compatible-with-windows-os/"><u>Install or Update Brother Mfc-J480dw Driver Software - Compatible with Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keeping-your-logitech-m510-on-track-with-the-latest-software-updates/"><u>Keeping Your Logitech M510 on Track with the Latest Software Updates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/konica-minolta-windows-111087-printer-driver-download-step-by-step-guide/"><u>Konica Minolta Windows 11/10/8/7 Printer Driver Download: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-asus-vg248qe-graphics-card-drivers-for-windows-free-and-fast-downloads/"><u>Latest Asus VG248QE Graphics Card Drivers for Windows: Free and Fast Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-fingerprint-driver-software-free-download-and-updates-for-pc/"><u>Latest Fingerprint Driver Software: Free Download and Updates for PC</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-breaking-the-rules-10-innovative-glitch-art-video-editing-apps-for-mobile/"><u>New 2024 Approved Breaking the Rules 10 Innovative Glitch Art Video Editing Apps for Mobile</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/optimize-your-pc-geforce-rtx-3090-driver-download-for-win-10-8-and-7/"><u>Optimize Your PC: GeForce RTX 3090 Driver Download for Win 10, 8 & 7</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/picsart-app-deep-dive-full-review-analysis-and-instructions-for-the-new-year/"><u>PicsArt App Deep Dive  Full Review, Analysis & Instructions for the New Year</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-listings-photoplustune-recording-software-innovations-for-2024/"><u>Prime Listings  Photo+Tune Recording Software Innovations for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/run-task-manager-as-an-admin-essential-steps-for-windows-11-users/"><u>Run Task Manager as an Admin: Essential Steps for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/scarlett-solo-driver-windows-download-improve-your-audio-quality/"><u>Scarlett Solo Driver Windows Download - Improve Your Audio Quality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-repairing-the-realtek-rtl8723be-wifi-driver-problem/"><u>Step-by-Step Guide to Repairing the Realtek RTL8723BE WiFi Driver Problem</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-screen-recorder-test-active-vs-top-contenders/"><u>The Ultimate Screen Recorder Test  Active vs Top Contenders</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-tips-choosing-the-right-fps-for-your-slow-motion-vids-for-2024/"><u>Top Tips  Choosing the Right FPS for Your Slow Motion Vids for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-overcoming-far-cry-6s-black-screen-dilemma/"><u>Troubleshooting Guide: Overcoming Far Cry 6'S Black Screen Dilemma</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-stutters-in-assassins-creed-valhalla-pc-optimization-tips/"><u>Troubleshooting Stutters in Assassin's Creed Valhalla: PC Optimization Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-your-logitech-g9ns-headset-a-guide-for-windriver-fixes/"><u>Troubleshooting Your Logitech G9n_s Headset: A Guide for WinDriver Fixes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/why-picshot-simplifying-collage-construction-for-you/"><u>Why Picshot? Simplifying Collage Construction for You</u></a></li>
+</ul></div>
