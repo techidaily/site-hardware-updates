@@ -1,0 +1,212 @@
+---
+title: "Quick Install Guide: Get Up-to-Date on Intel's Wireless Network Card - Dual Band AC 3160 for Optimal Internet Speed"
+date: 2024-08-23T13:44:07.170Z
+updated: 2024-08-24T13:44:07.170Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - DriverDownload
+description: "This Article Describes Quick Install Guide: Get Up-to-Date on Intel's Wireless Network Card - Dual Band AC 3160 for Optimal Internet Speed"
+excerpt: "This Article Describes Quick Install Guide: Get Up-to-Date on Intel's Wireless Network Card - Dual Band AC 3160 for Optimal Internet Speed"
+thumbnail: https://thmb.techidaily.com/91d5be9a6861c4c9aa999253b8784315fe4d3aae2f0511baeab6c403517618b1.jpg
+---
+
+## Step-by-Step Installation for the Intel Wireless AC 3160 Card - Get Ready Fast
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-648.png)
+
+ Are you looking to download and install the latest driver for**Intel Dual Band Wireless-AC 3160** ? If the answer is “yes,” then you’ve come to the right place. Here we’ll show you how to update the driver step by step.
+
+ There’re two ways you can update the Intel Dual Band Wireless-AC 3160 driver:
+
+**[Option 1 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/update-intel-dual-band-wireless-ac-3160-driver-quickly-easily/#option1)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
+
+OR
+
+**[Option 2 – Manually](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/)**  – You’ll need some computer skills and patience to update your driver this way, because you need to find exactly the right driver online, download it and install it step by step.
+
+---
+
+## Option 1 – Automatically update the driver
+
+ If you don’t have the time, patience or computer skills to update the driver manually,**you can do it automatically with** **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. Driver Easy takes care of everything.
+
+ You can update drivers both online and offline. According to your actual situation, jump ahead to the section you’re interested in:
+
+* **[My network connection is not stable but still works at times](https://tools.techidaily.com/drivereasy/download/)**
+* **[My network connection doesn’t work at all](https://tools.techidaily.com/drivereasy/download/)**
+
+#### Network connection is not stable but still works at times
+
+ When your computer is connected to the network, you can use Driver Easy to update device drivers in the normal way. Here’s how:
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
+
+ 3) Click the **Update**  button next to the Intel Dual Band Wireless-AC 3160 driver to automatically download its correct version, then you can manually install it (you can do this with the FREE version).
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-649.png)
+
+ If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
+
+#### Network connection doesn’t work at all
+
+ Driver Easy allows you to update drivers with a few mouse clicks when it has a network connection. But what if you just can’t get onto the Internet? Don’t worry, the**Offline Scan feature** of Driver Easy is available for you. Still, you’ll need**another PC with Internet access** to perform the whole update process.
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) Driver Easy in a computer with Internet access. Then save the program in a USB flash drive (or other storage devices, e.g. your Android device) and transfer it to the PC without Internet connection.
+
+ 2) Install Driver Easy on your computer that has**no Internet connection** .
+
+ 3) Run Driver Easy and click**Tools** in the left pane.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-658.png)
+
+ 4) Click**Offline Scan** . On the right panel, select**Offline Scan (on the computer without Internet access)** and click the**Continue** button.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-528.png)
+
+ 5) Click **Browse** to choose where you want to save your offline scan result. Then click the**Offline Scan** button.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-531.png)
+
+ 6) Click **OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-532.png)
+
+ 7) Open the folder where you’ve saved the offline scan file. Then**save** the file in a USB flash drive and**transfer** it to another computer**with Internet access** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-534.png)
+
+ 8) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy on that computer (the one with Internet access).
+
+ 9) Run Driver Easy and click**Tools** in the left pane.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-659.png)
+
+ 10) In the left pane, click**Offline Scan** . Then on the right panel, select **Upload Offline Scan File (on the computer with Internet access)** and click the**Continue** button.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-538.png)
+
+ 11) Click**Browse** to locate your offline scan file. Once you find it, double-click on it and then click**Continue** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-540.png)
+
+ 12) Click the**Download** button next to**Intel Dual Band Wireless-AC 3160** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-671.png)
+
+ 13) Choose where you’d like to save the downloaded driver, and click**OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-542.png)
+
+Wait for the download process to be complete.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-672.png)
+
+ 14) Save your downloaded driver file in a USB flash drive and transfer it to your computer that has no Internet access. Then you should install the driver on that computer manually.
+
+ To view more details of the install process, please refer to **[https://www.drivereasy.com/help55/offline-scan/](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ 15) After the driver has been successfully installed, you should restart your computer for the changes to take effect.
+
+---
+
+## Option 2 – Update the driver manually
+
+ Intel keeps updating the Dual Band Wireless-AC 3160 drivers. To get the one you need, you should visit the download center of Intel, find the driver corresponding with your specific flavor of Windows version (for example, Windows 10 of 64 bit) and download the driver manually. Here’re the details (network connectivity is required):
+
+ 1) Click **[here](https://downloadcenter.intel.com/product/75442/Intel-Dual-Band-Wireless-AC-3160)**  to visit the download page of Intel Dual Band Wireless-AC 3160 drivers.
+
+ 2) On the pop-up page, click **Intel® PROSet/Wireless Software and Drivers for Intel® Dual Band Wireless-AC 3160.**
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-658-1024x326.png)
+
+ 3) On the next page, pay attention to the left section and find the EXE file corresponding to your Windows version. Once you’ve found the correct one, click the**Download** button below.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-661.png)
+
+ 4) Click**I accept the terms in the license agreement** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-662.png)
+
+ 5) After the file has been downloaded, double-click on it and follow the onscreen instructions to install the driver.
+
+ 6)**Reboot** your PC for the changes to be fully implemented even if you’re not asked to.
+
+ Now your Intel Dual Band Wireless-AC 3160 driver should have been installed on PC successfully.
+
+---
+
+ Hopefully you found this post useful. If you have any follow-up questions or ideas, please feel free to leave a comment below. Thanks for reading!
+
+* [Drivers](https://tools.techidaily.com/drivereasy/download/)
+* [Intel](https://tools.techidaily.com/drivereasy/download/)
+* [network adapter](https://tools.techidaily.com/drivereasy/download/)
+* [wireless](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-expanding-viewership-tweeting-to-fb-effectively/"><u>[Updated] Expanding Viewership  Tweeting to FB Effectively</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-gamers-secrets-to-effective-playback-logging/"><u>[Updated] Gamers' Secrets to Effective Playback Logging</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-navigating-multiple-perspectives-with-fb-lives-split-view-functionality/"><u>[Updated] In 2024, Navigating Multiple Perspectives with FB Live's Split View Functionality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inshot-audio-techniques-for-professional-editors/"><u>2024 Approved  InShot Audio Techniques for Professional Editors</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-xs-max-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone XS Max to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-13-pro-activation-lock-without-previous-owner-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 13 Pro activation lock without previous owner</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-y100-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo Y100</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-kyocera-windows-compatible-printer-drivers/"><u>Download & Install KYOCERA Windows-Compatible Printer Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-version-of-amd-radeon-r5-graphics-drivers-for-all-windows-versions-w11w10w8w7/"><u>Download the Latest Version of AMD Radeon R5 Graphics Drivers for All Windows Versions (W11/W10/W8/W7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-access-to-hp-officejet-pro-6968-printer-drivers-secure-download/"><u>Easy Access to HP OfficeJet Pro 6968 Printer Drivers - Secure Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-guide-updating-and-downloading-the-latest-wacom-cintiq-drivers/"><u>Easy Installation Guide: Updating and Downloading the Latest Wacom Cintiq Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-guide-how-to-get-and-upgrade-your-surface-device-drivers/"><u>Effortless Guide: How To Get & Upgrade Your Surface Device Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-world-of-electronics-with-toms-gadget-insights/"><u>Exploring the World of Electronics with Tom's Gadget Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973214798-fire-suppression-systems-are-designed-based-on-a-thorough-risk-assessment-of-the-protected-space/"><u>Fire Suppression Systems Are Designed Based on a Thorough Risk Assessment of the Protected Space</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-compatible-zexmte-usb-bluetooth-drivers-for-windows-users/"><u>Get Your Compatible Zexmte USB Bluetooth Drivers for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-to-overcoming-amd-rx-560-driver-issues-on-windows-os-11-10-8-and-7/"><u>Guide to Overcoming AMD RX 560 Driver Issues on Windows OS (11, 10, 8, and 7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hitch-free-dymo-labelwriter-450-driver-software/"><u>Hitch-Free DYMO LabelWriter 450 Driver Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-moto-e13-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Moto E13</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-securely-download-and-update-sas-tools-for-windows-1087-operating-systems/"><u>How to Securely Download and Update SAS Tools for Windows 10/8/7 Operating Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-motorola-moto-g23-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Motorola Moto G23 Phone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-intels-management-engine-drivers-on-windows-11817-complete-tutorial/"><u>Installing Intel's Management Engine Drivers on Windows 11/8.1/7 - Complete Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/irrevocable-harm-intel-processor-faults-extend-beyond-k-series-to-include-all-65wplus-models-without-recalls/"><u>Irrevocable Harm: Intel Processor Faults Extend Beyond K-Series to Include All 65W+ Models Without Recalls</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-logitech-speaker-drivers-for-windows-download-now-pc-version-1178/"><u>Latest Logitech Speaker Drivers for Windows: Download Now - PC Version 11/7/8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/msi-graphics-cards-free-download-for-optimal-windows-performance/"><u>MSI Graphics Cards - Free Download for Optimal Windows Performance</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-from-basic-to-brilliant-mastering-picture-in-picture-in-final-cut-pro/"><u>New In 2024, From Basic to Brilliant Mastering Picture-in-Picture in Final Cut Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/potential-challenges-in-executing-this-ambitious-roadmap-and-their-solutions/"><u>Potential Challenges in Executing This Ambitious Roadmap and Their Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolved-realtek-network-drivers-troubleshooting-for-windows-11-10-and-7/"><u>Resolved Realtek Network Drivers Troubleshooting for Windows 11, 10 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-and-swift-update-of-your-samsung-m2070s-printing-drivers-today/"><u>Seamless & Swift Update of Your Samsung M2070's Printing Drivers Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-download-updated-drivers-for-the-hp-color-laserjet-pro-m4n52d-improve-compatibility/"><u>Secure Download: Updated Drivers for the HP Color Laserjet Pro M4n52d - Improve Compatibility</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-zoom-livestream-setup-guide-for-youtube-enthusiasts-for-2024/"><u>Step-by-Step Zoom Livestream Setup Guide for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-intel-310-cpu-proves-that-two-p-cores-can-pack-a-powerful-punch/"><u>The Intel 310 CPU Proves That Two P-Cores Can Pack a Powerful Punch</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-solution-compatible-printer-and-scanner-software-now-available-for-windows-11-users/"><u>The Solution: Compatible Printer & Scanner Software Now Available for Windows 11 Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-guide-to-enhancing-photos-with-top-10-screenshot-charmers/"><u>Ultimate Guide to Enhancing Photos with Top 10 Screenshot Charmers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-8-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 8</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
