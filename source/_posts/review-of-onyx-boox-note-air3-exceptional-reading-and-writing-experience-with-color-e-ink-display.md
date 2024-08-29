@@ -1,7 +1,7 @@
 ---
 title: Review of Onyx Boox Note Air3 - Exceptional Reading and Writing Experience with Color E-Ink Display
-date: 2024-08-27 21:22:19
-updated: 2024-08-29 12:56:26
+date: 2024-08-28T01:59:25.803Z
+updated: 2024-08-29T01:59:25.803Z
 tags:
   - hardware
 categories:
@@ -119,6 +119,9 @@ Close
 
 ![Settings page open on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/settings-page-open-on-the-boox-note-air3-c_53567555564_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  With an Android 12 operating system, this tablet offers the best of both worlds. It makes an excellent alternative to a Kindle or Nook, for example, if you're looking for something with extra features. However, because I found one of the best features to be ebook annotation and the notebook capabilities of the Boox Air3 C, I would compare it more readily to the [Amazon Kindle Scribe](https://android-unlock.techidaily.com/how-to-reset-a-locked-samsung-galaxy-f54-5g-phone-by-drfone-android/).
@@ -135,6 +138,9 @@ Jerome Thomas / How-To Geek
 
 ![The notepad open on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-notepad-open-on-the-boox-note-air3-c_53567432378_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Although I'm a proponent of that pen-to-paper feeling, that isn't something I've found on electronic devices, but the Boox Note Air3 C replicated it as well as a tablet can. The tablet came with a large magnetic stylus that easily attached to the side of the device and looped well through the tab of the included cover, which is well-made but nothing to write home about. The lightweight pen was comfortable to grip, and it required no charging—I started writing straight out of the box. The writing pressure needed to use the stylus was similar to using a pencil or smooth-gliding ballpoint pen (not too soft, not too heavy), while the textured feel of the stylus to the screen felt satisfying, and even made a nice noise, if that sort of thing thrills you as it does me.
@@ -149,6 +155,9 @@ Jerome Thomas / How-To Geek
 
 ![The text recognition on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-text-recognition-on-the-boox-note-air3-c_53567432338_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  And exporting my notepads (or single pages) was a game-changer, since I could convert them to PDFs and send them to my computer or Google Drive. I also synced a notebook to the Kindle app (which I downloaded via Google Play) and used Quick Share and Bluetooth to transfer files from the device.
@@ -161,6 +170,9 @@ Jerome Thomas / How-To Geek
 
 ![A book open on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/a-book-open-on-the-boox-note-air3-c_53567676895_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Most people may come to the Boox Note Air3 C for reading, and the device does well here. I read a few titles I downloaded from the Boox Store, but the inventory in the store was small and seemed only to feature titles available through Project Gutenberg. One such title I picked for a quick meander was Henry David Thoreau's "Walden," which I've read before.
@@ -169,6 +181,9 @@ Jerome Thomas / How-To Geek
 
 ![The book store on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-book-store-on-the-boox-note-air3-c_53567234536_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Despite the low stock in the Boox Book Store, I downloaded other eReader apps through the Google Play App, including the Kindle app and Play Books, plus Audible for audiobook listening. All of these apps performed well on the Note Air3 C, whether I was reading H.G. Wells' "The Invisible Man" via Play Books, looking for recipes in one of my cookbook ebooks on Kindle, or listening to one of my in-progress audiobooks. As noted before, however, audiobook listening (or any listening) works best on the Note Air3 C if you use [wireless earbuds](https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-xs-max-5-ways-to-get-into-a-locked-apple-iphone-xs-max-by-drfone-ios/) or a pair of wired earbuds plugged into the USB-C port—otherwise, the speaker system is too low and squashy.
@@ -195,6 +210,9 @@ Jerome Thomas / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 #####  Onyx Boox Note Air3 C 
 
 8/ 10 
@@ -217,3 +235,73 @@ The Onyx Boox Note Air3 C features a 10.3-inch display with a gorgeous blend of 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-updates.techidaily.com/download-focusrite-scarlett-2i4-drivers-in-windows/"><u>[Download] Focusrite Scarlett 2I4 Drivers In Windows</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-guide-to-exporting-pinterest-videos-into-mp3-format/"><u>[New] 2024 Approved  Guide to Exporting Pinterest Videos Into MP3 Format</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-boost-connectivity-discover-the-best-5-chrome-tools-for-facebook-videos/"><u>[New] In 2024, Boost Connectivity  Discover the Best 5 Chrome Tools for Facebook Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-snapshots-secured-techniques-for-instagrams-close-ups-and-distances/"><u>[New] In 2024, Snapshots Secured  Techniques for Instagram's Close-Ups & Distances</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-mastering-creative-content-for-fb-video-advertising-for-2024/"><u>[New] Mastering Creative Content for Fb Video Advertising for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-xperience-photoshoot-iphone-x-classic-clicks/"><u>[Updated] 2024 Approved  Xperience Photoshoot  IPhone X Classic Clicks</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-harmonic-hits-on-snapchat-videos/"><u>[Updated] Harmonic Hits on Snapchat Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-professional-webcam-setup-on-macbook/"><u>[Updated] In 2024, Professional Webcam Setup on MacBook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-recycle-and-relish-continuous-playback-of-youtube-on-tv/"><u>[Updated] Recycle and Relish  Continuous Playback of YouTube on TV</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-timeless-tales-for-the-whole-clan-family-movie-guide/"><u>[Updated] Timeless Tales for the Whole Clan  Family Movie Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-beginning-a-blogging-journey-profit-from-your-passion/"><u>2024 Approved  Beginning a Blogging Journey  Profit From Your Passion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-pioneers-of-possibilities-the-leading-6-in-artistic-realms/"><u>2024 Approved  Pioneers of Possibilities  The Leading 6 in Artistic Realms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723262327383-amd-epyc-9755-unleashed-the-mighty-epyc-128-core-processors-astounding-victory-in-multi-threaded-benchmarking/"><u>AMD Epyc 9755 Unleashed: The Mighty EPYC 128-Core Processor's Astounding Victory in Multi-Threaded Benchmarking</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-z170-a-drivers-download-for-windows-1087-easily/"><u>ASUS Z170-A Drivers Download for Windows 10/8/7 Easily</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boosting-gaming-performance-with-an-enhanced-asus-dual-geforce-gtx-970-ti-graphics-card/"><u>Boosting Gaming Performance with an Enhanced ASUS Dual GeForce GTX 970 Ti Graphics Card</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-apple-iphone-se-2022-is-off-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track You When Your Apple iPhone SE (2022) is off? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722035336425-chatgpts-desktop-release-delayed-use-this-effective-and-affordable-open-source-tool-today/"><u>ChatGPT's Desktop Release Delayed? Use This Effective and Affordable Open Source Tool Today.</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/content-cash-cow-how-much-does-the-meme-king-make-in-2024/"><u>Content Cash Cow  How Much Does the Meme King Make, In 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-enhanced-performance-realtek-rtl8188cu-wifi-drivers-for-optimal-functionality-on-windows-10-and-7/"><u>Download Enhanced Performance: Realtek RTL8188CU WiFi Drivers for Optimal Functionality on Windows 10 and 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-lenovo-driver-update-for-optimal-windows-n-compatibility/"><u>Download the Newest Lenovo Driver Update for Optimal Windows N Compatibility</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/downloading-official-nvidia-drivers-for-geforce-gtx-980-ti-gpus/"><u>Downloading Official NVIDIA Drivers for GeForce GTX 980 Ti GPUs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-driver-downloads-and-updates-for-your-hp-elitebook-8460p-running-on-windows-os/"><u>Easy Driver Downloads and Updates for Your HP EliteBook 8460P Running on Windows OS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/eliminating-unsteadiness-from-high-altitude-cinematography/"><u>Eliminating Unsteadiness From High-Altitude Cinematography</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-system-performance-targus-displaylink-driver-updates-for-win-1187-download/"><u>Enhance Your System Performance: Targus DisplayLink Driver Updates for Win 11/8/7 - Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-seamless-connectivity-updated-usb-3-ethernet-device-driver-for-your-windows-computer/"><u>Ensure Seamless Connectivity: Updated USB 3.# Ethernet Device Driver for Your Windows Computer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-advice-easily-update-your-ati-graphic-cards-drivers-for-windows-computers/"><u>Expert Advice: Easily Update Your ATI Graphic Cards' Drivers for Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fix-hp-envy-7640-driver-issues-easily/"><u>Fix HP ENVY 7640 Driver Issues. Easily</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-new-insignia-ethernet-usb-cable-driver-for-seamless-connection/"><u>Get the New Insignia Ethernet-USB Cable Driver for Seamless Connection</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-asus-atk0110-acpi-controller-drivers-for-free/"><u>Get Your ASUS ATK0110 ACPI Controller Drivers for Free!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-device-ready-top-generic-bluetooth-driver-updates-and-download-options-for-windows-users/"><u>Get Your Device Ready: Top Generic Bluetooth Driver Updates & Download Options for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-epson-ds-530-ready-windows-10-64-bit-compatible-drivers-free-download/"><u>Get Your Epson DS-530 Ready: Windows 10 (64-Bit) Compatible Drivers Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hp-officejet-n5740-up-and-running-with-instant-driver-downloads/"><u>Get Your HP OfficeJet N5740 Up and Running with Instant Driver Downloads!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-roccat-mouse-driver-now-free-software-downloads-available/"><u>Get Your Roccat Mouse Driver Now – Free Software Downloads Available!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-driver-update-process-for-the-scansnap-ix500-on-windows-systems/"><u>Hassle-Free Driver Update Process for the ScanSnap iX500 on Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-update-toshiba-satellite-device-drivers-in-windows-1087/"><u>How to Find and Update Toshiba Satellite Device Drivers in Windows 10/8/7</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-for-effortless-apple-podcast-acquisition-swift-and-smooth-for-2024/"><u>How-To for Effortless Apple Podcast Acquisition – Swift & Smooth for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-printer-enthusiasts-update-your-p1007-with-the-latest-drivers-here/"><u>HP Printer Enthusiasts, Update Your P1007 with the Latest Drivers Here</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-vidvault-screen-recording-review-for-2efficiency-seekers/"><u>In 2024, 'VidVault'  Screen Recording Review for 2Efficiency Seekers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-nokia-150-2023-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Nokia 150 (2023) Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-enhance-video-aesthetics-instagram-border-techniques/"><u>In 2024, Enhance Video Aesthetics  Instagram Border Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-vision-to-reality-benqs-masterpiece-the-bl2711u-monitor-review/"><u>In 2024, From Vision to Reality  BenQ’s Masterpiece, the BL2711U Monitor Review</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-itel-s23plus-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Itel S23+ Phone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-navigating-the-process-of-modifying-your-networks-visual-backdrop/"><u>In 2024, Navigating the Process of Modifying Your Network's Visual Backdrop</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Realme GT 5? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-on-apple-iphone-8-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide on Apple iPhone 8 Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-interviews-fans-magnetism-in-audio-for-2024/"><u>Innovative Interviews  Fans' Magnetism in Audio for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-updated-drivers-for-optimal-performance-on-samsung-850-evo/"><u>Install Updated Drivers for Optimal Performance on Samsung 850 EVO</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-updated-hp-p1007-laser-printer-drivers-today-step-by-step-download-tutorial/"><u>Install Updated HP P1007 Laser Printer Drivers Today - Step-by-Step Download Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-nvidias-geforce-gtx-460-drivers-on-your-windows-pc-the-quick-and-easy-way/"><u>Installing NVIDIA's GeForce GTX 460 Drivers on Your Windows PC: The Quick and Easy Way</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/intro-to-graphic-motion-artistry-and-usage-for-2024/"><u>Intro to Graphic Motion Artistry and Usage for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-speaker-system-drivers-installation-guide-for-windows-10windows-8windows-(span)7(span)/"><u>Logitech Speaker System Drivers Installation Guide for Windows 10/Windows 8/Windows <Span>7</Span></u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-tech-choices-trustworthy-tips-from-toms-hardware-hub/"><u>Mastering Tech Choices: Trustworthy Tips From Tom's Hardware Hub</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-repair-of-x3daudiodll-error-essential-troubleshooting-techniques/"><u>Mastering the Repair of X3DAudio.dll Error: Essential Troubleshooting Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prime-places-to-find-high-quality-vectors/"><u>Prime Places to Find High-Quality Vectors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revamp-your-windows-experience-integrating-updated-conexant-graphics-card-drivers-into-version-2004-of-windows-11/"><u>Revamp Your Windows Experience: Integrating Updated Conexant Graphics Card Drivers Into Version 2004 of Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-iphones-noise-difficulties-guide-for-clearer-sounds/"><u>Solving Your iPhone's Noise Difficulties – Guide for Clearer Sounds</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-the-driver-for-intels-centrino-advance-n-6235-chip/"><u>Step-by-Step Guide: Updating the Driver for Intel's Centrino Advance-N 6235 Chip</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-to-install-samsung-usb-driver-software-on-windows-10/"><u>Step-by-Step Instructions to Install Samsung USB Driver Software on Windows 10</u></a></li>
+<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-tecno-camon-30-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-notch-apps-to-refine-your-iphone-and-android-gopro-videos-for-2024/"><u>Top-Notch Apps to Refine Your iPhone & Android GoPro Videos for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-solving-problems-with-the-realtek-rtl8811au-network-adapter-driver/"><u>Troubleshooting and Solving Problems with the Realtek RTL8811AU Network Adapter Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-high-quality-audio-on-pc-free-focusrite-scarlett-solo-windows-software/"><u>Unlock High-Quality Audio on PC: Free Focusrite Scarlett Solo Windows Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-gadgets-with-tom-your-trusted-guide/"><u>Unveiling the Latest Gadgets with Tom - Your Trusted Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-the-lesser-known-media-players-post-vlc/"><u>Unveiling the Lesser-Known Media Players Post-VLC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-asus-dvd-player-drivers-secure-your-system-now/"><u>Update Your ASUS DVD Player Drivers – Secure Your System Now</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+</ul></div>

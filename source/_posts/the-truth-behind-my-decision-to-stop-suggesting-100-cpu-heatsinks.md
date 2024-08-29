@@ -1,7 +1,7 @@
 ---
 title: The Truth Behind My Decision to Stop Suggesting $100 CPU Heatsinks
-date: 2024-08-26 18:14:32
-updated: 2024-08-29 10:53:13
+date: 2024-08-28T02:04:09.190Z
+updated: 2024-08-29T02:04:09.190Z
 tags:
   - hardware
 categories:
@@ -25,6 +25,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Back when it came out, the Noctua NH-D15 was a majestic piece of hardware that absolutely justified its price. Nowadays, though, $100 air CPU coolers aren't rulers of the realm anymore. They've been superseded by a new generation of tower coolers offering both performance and affordability.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Mid-Range Options Offer Comparable if Not Superior Performance
 
  Don't get me wrong, the [Noctua NH-D15](https://www.amazon.com/Noctua-NH-D15-heatpipe-NF-A15-140mm/dp/B00L7UZMAK?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003287&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fheres-why-i-stopped-recommending-100-air-cpu-coolers%2F&asc%5Fcampaign=Evergreen) and its ilk in the form of the [DeepCool Assassin IV](https://www.amazon.com/DeepCool-Assassin-Cooler-Mighty-LGA20XX/dp/B0C8D2CKXX?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003287&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fheres-why-i-stopped-recommending-100-air-cpu-coolers%2F&asc%5Fcampaign=Evergreen) and [be quiet! Dark Rock Elite](https://www.amazon.com/quiet-High-Performance-Enhanced-Compatibility-BK037/dp/B0CJY2QS2W?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003287&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fheres-why-i-stopped-recommending-100-air-cpu-coolers%2F&asc%5Fcampaign=Evergreen) are still pretty "solid to excellent" when it comes to pure cooling performance, depending on the specific model and the CPU you pair it with. However, when you combine said performance with the price of admission, things go south.
@@ -39,10 +42,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Nowadays, I tend to recommend budget and mid-range CPU air coolers or AIOs if the PC builder wants a liquid cooling solution for their CPUs. I hope Noctua's upcoming NH-D15 successor won't cost $100 unless it gets close to a quality 360mm AIO performance.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  CPU Air Coolers I Can Recommend
 
  So now it's time to put your money where my mouth is: these are some of the best air coolers I can recommend today.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  My Go-To Recommendation: [Thermalright Phantom Spirit 120SE](https://www.amazon.com/Thermalright-Phantom-TL-C12B-Technilogy-Bearing/dp/B0BNDTJVPL?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003287&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fheres-why-i-stopped-recommending-100-air-cpu-coolers%2F&asc%5Fcampaign=Evergreen) 
 
 ![Thermalright Phantom Spirit 120SE CPU Air Cooler.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/thermalright-phantom-spirit-120se.png) 
@@ -55,10 +64,21 @@ _Thermalright_
 
  The [Phantom Spirit 120 EVO](http://www.amazon.com/Thermalright-Phantom-EVO-Technilogy-Bearing/dp/B0CL8Z43L8?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003287&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fheres-why-i-stopped-recommending-100-air-cpu-coolers%2F&asc%5Fcampaign=Evergreen) is technically better, but its $50 price works against it. If you don't mind spending a bit extra, the EVO is a solid option, considering it looks way better than the Phantom Spirit 120SE while also packing a pinch of RGB.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  The Best Alternative: [Thermalright Peerless Assassin 120 SE](https://www.amazon.com/Thermalright-Peerless-SE-Aluminium-Technology/dp/B09LGY38L4?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003287&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fheres-why-i-stopped-recommending-100-air-cpu-coolers%2F&asc%5Fcampaign=Evergreen) 
 
 ![Thermalright Peerless Assassin 120 SE CPU Air Cooler.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/thermalright-peerless-assassin-120-se.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 _Thermalright_ 
 
  If you want something with similar power but can't find the Phantom Spirit 120SE at the $35 price point or at all, check out the [Peerless Assassin 120 SE](http://www.amazon.com/Thermalright-Peerless-SE-Aluminium-Technology/dp/B09LGY38L4?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003287&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fheres-why-i-stopped-recommending-100-air-cpu-coolers%2F&asc%5Fcampaign=Evergreen), also from Thermalight. This is yet another beefy CPU air cooler sporting a price of about $39.
@@ -77,6 +97,9 @@ _DeepCool_
 
  Just note that you can pair all the coolers I mentioned above with any Ryzen CPU and most Intel processors. The only situation where I'd go with an AIO liquid cooler is if you plan on using an Intel K-series i7 or i9 without power limits—that said, [it looks like](https://videocardz.com/newz/intel-addresses-instability-issues-with-13th-14th-gen-core-k-series-cpus-in-latest-statement) removing power limits will make your Intel CPU unstable—for heavy all-core workloads that can punish every performance core found below the heat spreader (IHS), or if you're building an ultra-compact small form factor (SFF) PC.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  When It's Okay to Spend $100+ on an Air CPU Cooler
 
  While I generally don't recommend $100+ CPU air coolers for regular builds, there are a couple of specific scenarios where buying an expensive CPU air cooler is justified.
@@ -105,3 +128,57 @@ _DeepCool_
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-the-ultimate-list-8-best-hidden-video-downloader-apps-2023/"><u>[New] In 2024, The Ultimate List  8 Best Hidden-Video Downloader Apps, 2023</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-from-frames-to-frequencies-transforming-instagram-videos-for-2024/"><u>[Updated] From Frames to Frequencies  Transforming Instagram Videos for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-master-the-art-of-sound-alteration-on-sony-games-for-2024/"><u>[Updated] Master the Art of Sound Alteration on Sony Games for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-minimizing-moments-edit-longer-videos-for-youtube/"><u>[Updated] Minimizing Moments  Edit Longer Videos for YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-demystifying-how-luts-enhance-your-creative-vision/"><u>2024 Approved  Demystifying How LUTs Enhance Your Creative Vision</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-precision-guide-for-subtitles-insertion-in-mp4-files/"><u>2024 Approved  Precision Guide for Subtitles Insertion in MP4 Files</u></a></li>
+<li><a href="https://review-topics.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-outlook-preview-via-windows-11-os/"><u>Accessing Outlook Preview via Windows 11 OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723262327383-amd-epyc-9755-unleashed-the-mighty-epyc-128-core-processors-astounding-victory-in-multi-threaded-benchmarking/"><u>AMD Epyc 9755 Unleashed: The Mighty EPYC 128-Core Processor's Astounding Victory in Multi-Threaded Benchmarking</u></a></li>
+<li><a href="https://howto.techidaily.com/asus-rog-phone-7-ultimate-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Asus ROG Phone 7 Ultimate Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-z170-a-drivers-download-for-windows-1087-easily/"><u>ASUS Z170-A Drivers Download for Windows 10/8/7 Easily</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-gaming-rig-potential-with-latest-acer-predator-helios-300-drivers-update/"><u>Boost Gaming Rig Potential with Latest Acer Predator Helios 300 Drivers Update</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722955740258-boost-your-msi-gs65-experience-free-download-of-optimized-windows-drivers-here/"><u>Boost Your MSI GS65 Experience - Free Download of Optimized Windows Drivers Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boosting-gaming-performance-with-an-enhanced-asus-dual-geforce-gtx-970-ti-graphics-card/"><u>Boosting Gaming Performance with an Enhanced ASUS Dual GeForce GTX 970 Ti Graphics Card</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/class-action-allegations-surface-against-intel-for-persistent-processor-problems/"><u>Class-Action Allegations Surface Against Intel for Persistent Processor Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/combat-plan-against-windows-update-setback-code-0x800f080a/"><u>Combat Plan Against Windows Update Setback: Code 0X800f080a</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-remnrances-without-fbs-presence/"><u>Digital Remnrances Without FB’s Presence</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-enhanced-performance-realtek-rtl8188cu-wifi-drivers-for-optimal-functionality-on-windows-10-and-7/"><u>Download Enhanced Performance: Realtek RTL8188CU WiFi Drivers for Optimal Functionality on Windows 10 and 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/downloading-official-nvidia-drivers-for-geforce-gtx-980-ti-gpus/"><u>Downloading Official NVIDIA Drivers for GeForce GTX 980 Ti GPUs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977650151-easy-install-brother-mfc-7360n-printer-drivers-for-windows-10-8-and-eby-latest-updates-available/"><u>Easy Install: Brother MFC-7360N Printer Drivers for Windows 10, 8 & Eby | Latest Updates Available!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-instructions-on-how-to-install-new-audio-technica-driver-software/"><u>Easy Instructions on How To Install New Audio Technica Driver Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-your-gaming-experience-on-pc-by-fixing-double-frames-per-second-dip-issues/"><u>Enhancing Your Gaming Experience on PC by Fixing Double Frames Per Second Dip Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-optimal-performance-with-the-latest-steelseries-driver-software-on-windows-devices/"><u>Ensure Optimal Performance with the Latest SteelSeries Driver Software on Windows Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-gap-in-intel-extended-cpu-warranty-coverage-among-leading-pc-companaders-survey-findings/"><u>Exploring the Gap in Intel Extended CPU Warranty Coverage Among Leading PC Companaders - Survey Findings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fast-and-simple-driver-update-for-your-acer-predator-xb271h-display/"><u>Fast & Simple Driver Update for Your Acer Predator XB271H Display</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fast-and-simple-guide-downloading-dell-latitude-e6420-device-drivers/"><u>Fast and Simple Guide: Downloading Dell Latitude E6420 Device Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722965179309-fast-download-get-your-samsung-c460-drivers-instantly/"><u>Fast Download: Get Your Samsung C460 Drivers Instantly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-officejet/"><u>Get the Latest HP OfficeJet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722955816327-get-the-newest-amd-graphics-driver-for-win-11107-free-downloads-now/"><u>Get the Newest AMD Graphics Driver for Win 11/10/7 - Free Downloads Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hp-officejet-n5740-up-and-running-with-instant-driver-downloads/"><u>Get Your HP OfficeJet N5740 Up and Running with Instant Driver Downloads!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-microsoft-wireless-mouse-5000-up-and-running-fast-download-of-drivers/"><u>Get Your Microsoft Wireless Mouse 5000 Up and Running - Fast Download of Drivers!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-combine-videos-into-one-on-iphone/"><u>How to Combine Videos Into One on iPhone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-oppo-k11x-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Oppo K11x Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huion-h610-pro-drawing-tablet-driver-download/"><u>Huion H610 Pro Drawing Tablet Driver Download</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Plus Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-updated-drivers-for-optimal-performance-on-samsung-850-evo/"><u>Install Updated Drivers for Optimal Performance on Samsung 850 EVO</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keep-your-data-analysis-tools-updated-download-and-update-sas-driver-in-windows-10-or-older-versions/"><u>Keep Your Data Analysis Tools Updated - Download & Update SAS Driver in Windows 10 or Older Versions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/launching-on-big-sur-key-system-specs-needed/"><u>Launching on Big Sur  Key System Specs Needed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-the-art-of-diagnosing-and-correcting-i2c-interface-device-driver-errors/"><u>Mastering the Art of Diagnosing and Correcting I2C Interface Device Driver Errors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-pc-parts-with-toms-guide-to-hardware/"><u>Navigating PC Parts with Tom's Guide to Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-toms-equipment-guides-a-comprehensive-guide-for-enthusiasts/"><u>Navigating Tom's Equipment Guides: A Comprehensive Guide for Enthusiasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/official-hp-deskjet-series-3700-software-firmware-and-driver-installers/"><u>Official HP DeskJet Series 3700 Software, Firmware, and Driver Installers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ricoh-mp-c3003-free-driver-downloads-and-installation-guide/"><u>Ricoh MP C3003: Free Driver Downloads and Installation Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/standing-up-for-originality-the-reasons-behind-sarah-silvermans-legal-challenge-against-ai-innovators-openai-and-meta/"><u>Standing Up for Originality: The Reasons Behind Sarah Silverman's Legal Challenge Against AI Innovators OpenAI & Meta</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-source-for-pc-enthusiasts-insights-from-toms-hardware/"><u>The Ultimate Source for PC Enthusiasts: Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-solving-problems-with-the-realtek-rtl8811au-network-adapter-driver/"><u>Troubleshooting and Solving Problems with the Realtek RTL8811AU Network Adapter Driver</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-solve-your-netflix-woes-on-lg-television/"><u>Troubleshooting Guide: Solve Your Netflix Woes on LG Television</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-securing-fresh-updates-and-downloads-for-your-amd-ati-radeon-hd-3450/"><u>Ultimate Guide: Securing Fresh Updates & Downloads for Your AMD ATI Radeon HD 3450</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-gadgets-with-tom-your-trusted-guide/"><u>Unveiling the Latest Gadgets with Tom - Your Trusted Guide</u></a></li>
+</ul></div>

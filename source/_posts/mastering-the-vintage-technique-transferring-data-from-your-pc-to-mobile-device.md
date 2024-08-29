@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Vintage Technique: Transferring Data From Your PC to Mobile Device"
-date: 2024-08-28 23:53:47
-updated: 2024-08-29 12:56:35
+date: 2024-08-28T02:05:32.971Z
+updated: 2024-08-29T02:05:32.971Z
 tags:
   - android
 categories:
@@ -26,12 +26,18 @@ thumbnail: https://thmb.techidaily.com/4c147f639cee2585f7f88020d64ed44f6ab3d2fb8
 
  You might expect that moving files from one device to another would be simple by now. That's mostly true if all of your devices come from the same company, but that's often not the case. Imagine my surprise when I re-stumbled across a 53-year-old way of moving files around that is still faster than most of the modern methods. It's known as FTP.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What Is FTP?
 
  FTP stands for "File Transfer Protocol." Developer Abhay Bhushan created the protocol way back in 1971\. He was inducted into the Internet Hall of Fame in 2023.
 
  FTP involves sending files from a server device to a client. This can take place over the internet or a local area network. For our purposes, we'll be using FTP to send files from one device (the server) to another (the client) connected to the same Wi-Fi network.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ##  Download an Alternative File Manager
 
  You likely need to begin by downloading an alternative file manager. The default file managers for Android phones, like Files by Google and Samsung My Files, don't come with FTP support baked in.
@@ -40,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/4c147f639cee2585f7f88020d64ed44f6ab3d2fb8
 
  You can download Material Files from the [Play Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004633/https://play.google.com/store/apps/details?id=me.zhanghai.android.files) or, if that isn't an option (say, you removed all Google software and [turned your Android phone into a dumb phone](https://hardware-tips.techidaily.com/expert-recommendations-on-top-password-storage-apps-from-no-cost-to-full-price-options/)), you can find the app on [F-Droid](https://f-droid.org/packages/me.zhanghai.android.files/) instead.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ##  How to Activate the FTP Server
 
  The process is largely similar regardless of which file manager you choose. Here's how it looks in Material Files.
@@ -54,6 +63,9 @@ Close
 
  If you're not at home, [set up a hotspot on your phone](https://article-posts.techidaily.com/a-filmmakers-approach-to-classroom-instructional-videos-for-2024/) and connect your other device to that network before enabling the FTP connection. Or you should [learn how to use SFTP instead](https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-f14-5g-pattern-lock-screen-by-drfone-android/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Access the FTP Server from Your Computer
 
  FTP used to be baked into web browsers, but you can still access it through file managers. You connect to an FTP address using the prefix ftp:// followed by the numbers visible on your phone. For this example, the numbers are ftp://192.168.68.62:2121/.
@@ -64,10 +76,17 @@ Close
 
 ![Prompt for FTP username and password in GNOME Files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-from-2024-08-06-10-28-40.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
  At this point, the files on your phone will appear on your file manager as though you were browsing local files on your computer. You can manage these files as you would local files. Copy and paste entire folders. Reorganize your phone's internal storage. Make backups. The works.
 
 ![GNOME Files connected to an FTP server.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-from-2024-08-06-10-24-53.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
  You can manage files even more quickly by downloading a dedicated FTP client like [Filezilla](https://filezilla-project.org), which is available for Windows, macOS, and Linux. You can even [use FTP in a terminal](https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y27s-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/) if you so choose.
 
  When you're done, be sure to turn the server back off on your phone.
@@ -90,3 +109,44 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-optimized-screen-capture-on-pcmac-with-elite-tools/"><u>[New] Optimized Screen Capture on PC/Mac with Elite Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-pioneering-approaches-to-logging-lol-rallies-for-2024/"><u>[New] Pioneering Approaches to Logging LOL Rallies for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-convert-for-free-from-twitter-videos-to-animated-gifs/"><u>[Updated] 2024 Approved  Convert for Free  From Twitter Videos to Animated Gifs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-simplified-methods-to-screen-record-instagrams-story-feature-for-2024/"><u>[Updated] Simplified Methods to Screen Record Instagram's Story Feature for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/5-nvme-essentials-comprehensive-uphere-m201-ssd-heatsink-assessment/"><u>$5 NVMe Essentials: Comprehensive UpHere M201 SSD Heatsink Assessment</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-pinnacle-screenshots-on-mac-a-deep-dive-into-top-apps/"><u>2024 Approved  Pinnacle Screenshots on Mac  A Deep Dive Into Top Apps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-requests-removal-of-zluda-open-source-software-creator-determined-to-restore-and-revise-project/"><u>AMD Requests Removal of ZLUDA Open Source Software; Creator Determined to Restore and Revise Project</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-itel-a60s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Itel A60s? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On ZTE Blade A73 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/choosing-between-gopro-max-and-hero-11-top-cameras-compared-for-2024/"><u>Choosing Between GoPro Max and Hero 11  Top Cameras Compared for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-best-value-deal-top-rated-5-star-fractal-design-north-tower-case-for-your-pc-now-only-1ebn/"><u>Discover the Best Value Deal: Top-Rated 5 Star Fractal Design North Tower Case for Your PC, Now Only $1Ebn</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/engaging-insight-featuring-fractals-minute-terra-pc-case-with-charming-wood-finish-and-ergonomic-spine-adjustment/"><u>Engaging Insight: Featuring Fractal's Minute Terra PC Case with Charming Wood Finish and Ergonomic Spine Adjustment</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exciting-development-intels-18a-panel-and-clearlake-cpu-series-initiate-boot-process-advancing-closer-to-advanced-lithography/"><u>Exciting Development: Intel's 18A Panel & Clearlake CPU Series Initiate Boot Process - Advancing Closer to Advanced Lithography</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-analysis-by-toms-gadget-hub-dive-into-advanced-technology-insights/"><u>Expert Analysis by Tom's Gadget Hub: Dive Into Advanced Technology Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-reactivate-and-optimize-intel-rapid-storage-in-windows-11-environments/"><u>Expert Tips to Reactivate and Optimize Intel Rapid Storage in Windows 11 Environments</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-advanced-computing-with-toms-hardware-review-guide/"><u>Exploring Advanced Computing with Tom's Hardware Review Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-advanced-computing-with-toms-systems-analysis/"><u>Exploring Advanced Computing with Tom's Systems Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-computer-gadgets-with-tom-in-depth-hardware-analysis/"><u>Exploring Computer Gadgets with Tom: In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-digital-innovations-with-toms-hardware-guide/"><u>Exploring Digital Innovations with Tom's Hardware Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-hardware-with-toms-review-hub/"><u>Exploring Hardware with Tom's Review Hub</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-infinix-smart-7-hd-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Infinix Smart 7 HD FRP Locks</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-poco-m6-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Poco M6 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-cougar-gaming-chassis-showcases-stunning-rgb-turning-stand-for-collectible-figurines-unveiled-at-computex/"><u>Latest Cougar Gaming Chassis Showcases Stunning RGB Turning Stand for Collectible Figurines - Unveiled at Computex</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lowest-price-on-pure-base-500dx-midi-tower-computer-case-just-84-available-now/"><u>Lowest Price on Pure Base 500DX Midi-Tower Computer Case: Just $84 Available Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/magazine-horoscopes-or-chatgpt-which-tool-gives-better-insights-into-your-tomorrow/"><u>Magazine Horoscopes or ChatGPT - Which Tool Gives Better Insights Into Your Tomorrow?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-with-tom-comprehensive-computer-hardware-guides/"><u>Navigating with Tom: Comprehensive Computer Hardware Guides</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/save-big-high-quality-corsair-4000d-atx-mid-tower-with-850w-power-supply-unit-just-139/"><u>Save Big: High-Quality Corsair 4000D ATX Mid Tower with 850W Power Supply Unit - Just $139!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tech-giant-intel-postpones-anticipated-innovation-conference-to-2025-struggling-with-job-reductions-and-economic-unpredictability/"><u>Tech Giant Intel Postpones Anticipated Innovation Conference To 2025: Struggling With Job Reductions and Economic Unpredictability</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-comprehensive-gadget-reviews-t17239718721769/"><u>Tom's Tech Insights: Comprehensive Gadget Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-your-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Insights: Your Guide to the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-in-depth-analysis-and-comparison-of-computer-hardware/"><u>Tom's Tech Review: In-Depth Analysis and Comparison of Computer Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-comprehensive-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Reviews: Comprehensive Guide to the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-in-depth-analysis-of-the-latest-gadgets/"><u>Tom's Tech Reviews: In-Depth Analysis of the Latest Gadgets</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-most-innovative-computer-enhancements-showcased-at-computex-2024/"><u>Top Most Innovative Computer Enhancements Showcased at Computex 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723964475857-ultimate-storage-solution-raijintek-zofos-with-14x-35-drives-for-maximum-capacity/"><u>Ultimate Storage Solution: Raijintek Zofos with 14X 3.5 Drives for Maximum Capacity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-the-phanteks-eclipse-g360a-your-top-choice-for-an-affordable-pc-case-at-just-59/"><u>Unbeatable Deal: The Phanteks Eclipse G360A, Your Top Choice for an Affordable PC Case at Just $59</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-toms-gear-analysis-a-deep-dive-into-personal-computing/"><u>Unveiling Tom's Gear Analysis: A Deep Dive Into Personal Computing</u></a></li>
+</ul></div>

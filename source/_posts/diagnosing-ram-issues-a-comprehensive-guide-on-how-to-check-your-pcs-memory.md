@@ -1,7 +1,7 @@
 ---
 title: "Diagnosing RAM Issues: A Comprehensive Guide on How to Check Your PC's Memory"
-date: 2024-08-26 12:23:52
-updated: 2024-08-29 12:56:55
+date: 2024-08-28T01:57:56.494Z
+updated: 2024-08-29T01:57:56.494Z
 tags:
   - hardware
 categories:
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/c7faa06295ae09ceb9c04771af8ef4a70065bcb58
 
  Is your PC crashing, freezing, or just unstable? There may be a problem with its RAM. To check, you can use a hidden system tool included with Windows 11, 10, and 7—or download and boot a more advanced tool.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  How RAM Testing Tools Work
 
  Your computer's [random access memory (RAM)](https://youtube-web.techidaily.com/ed-2024-approved-unlocking-youtube-success-top-video-strategies-to-explode-views/) is its working memory. Your computer's operating system and applications are continually writing data to RAM and reading it back. For example, when you load a web page like this one, your web browser stores it in RAM while you're reading it. When you launch a PC game, the game loads information from slower system storage (like a solid-state drive or hard drive) into much faster RAM.
@@ -59,12 +62,18 @@ thumbnail: https://thmb.techidaily.com/c7faa06295ae09ceb9c04771af8ef4a70065bcb58
 
 ![Windows Memory Diagnostic app interface in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2024-04-22_19h10_20.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
  Your computer will restart and the Windows Memory Diagnostics Tool screen will appear. Just leave it be and let it perform the test. This may take several minutes. During this process, you'll see a progress bar and a "Status" message will inform you if any problems have been detected during the process.
 
  However, you don't need to watch the test—you can leave your computer alone and come back to see the results later.
 
 ![Windows Memory Diagnostics Tool running on a computer monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_20240422_133527_602.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Jordan Gloor / How-To Geek
 
  When it's done, your computer will automatically reboot and return to the Windows desktop. After you log in, the test results will appear.
@@ -85,6 +94,9 @@ Jordan Gloor / How-To Geek
 
  The text doesn't wrap inside the window, so you can't see it in the screenshot above, but in our case Windows returned a message stating no errors were found in our RAM.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Option 2: Boot and Run MemTest86
 
  If you're looking for a more powerful testing tool, you can download and use [MemTest86](http://www.memtest86.com/). It performs a wider variety of tests and may find issues that the included Windows test won't. The latest releases of this tool offer a paid version with more features, although the free version should do everything you need. You don't need to pay for anything. MemTest86 is signed by Microsoft, so it will work even on systems with [Secure Boot enabled](https://youtube-help.techidaily.com/in-2024-mastering-youtube-shorts-key-facts/).
@@ -103,8 +115,19 @@ Jordan Gloor / How-To Geek
 
 ![MemTest86 running a memory check on a computer monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_20240422_161655_906.jpg) 
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jordan Gloor / How-To Geek
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  What to Do If a Memory Test Finds Errors
 
  If memory tests give you errors, it's very possible that your RAM—at least one of the sticks—is faulty and needs to be replaced. We recommend you contact your PC's manufacturer for service if it's still under warranty.
@@ -129,3 +152,41 @@ Jordan Gloor / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-expertise-in-quick-creation-professional-valorant-thumbnail-art/"><u>[New] 2024 Approved  Expertise in Quick Creation  Professional Valorant Thumbnail Art</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-art-of-visual-storytelling-in-your-instagram-highlight-images/"><u>[New] In 2024, The Art of Visual Storytelling in Your Instagram Highlight Images</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-optimizing-facebook-live-from-pcmaclaptop-through-obs/"><u>[Updated] 2024 Approved  Optimizing Facebook Live From PC/Mac/Laptop Through OBS</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-apex-artists-youtubes-most-followed-sages/"><u>[Updated] Apex Artists  YouTube's Most-Followed Sages</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-from-fb-videos-to-mp3-the-easy-transformation-path/"><u>[Updated] In 2024, From Fb Videos to MP3 - The Easy Transformation Path</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-rapidly-crafting-valorant-image-highlights-for-gamers/"><u>[Updated] Rapidly Crafting Valorant Image Highlights for Gamers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-strategies-to-evade-content-flagging-for-2024/"><u>[Updated] Strategies to Evade Content Flagging for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-quick-fix-guide-adding-a-flip-tone-to-your-pcs-vocal-array/"><u>2024 Approved  Quick-Fix Guide  Adding a Flip Tone to Your PC's Vocal Array</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-guide-to-maximizing-your-youtube-brands-impact/"><u>2024 Approved  Step-by-Step Guide to Maximizing Your YouTube Brand's Impact</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-ryzen-5-vs-ryzen-7-showdown-mastering-gaming-excellence-with-the-latest-zen-5-technology-review/"><u>AMD Ryzen 5 Vs. Ryzen 7 Showdown: Mastering Gaming Excellence with the Latest Zen 5 Technology Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-of-both-worlds-racing-simulation-with-logitechs-momo-wheel-free-software-trial-and-download-on-pc/"><u>Best of Both Worlds: Racing Simulation with Logitech's MOMO Wheel – Free Software Trial and Download on PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-corsair-keyboard-drivers-for-windows-fast-free-and-secure/"><u>Download Corsair Keyboard Drivers for Windows - Fast, Free & Secure</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-bluetooth-adapters-software-for-windows-systems-today/"><u>Download the Latest Bluetooth Adapters Software for Windows Systems Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-drivers-for-nvidia-rtx-2060-super-on-windows-10-and-11-systems/"><u>Download Updated Drivers for NVIDIA RTX 2060 Super on Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-zebra-gk420d-drivers-instantly-simple-steps/"><u>Download Zebra GK420D Drivers Instantly - Simple Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-downloading-guide-get-sound-blaster-z-drivers-compatible-with-windows-10/"><u>Effortless Downloading Guide: Get Sound Blaster Z Drivers Compatible with Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-steps-to-update-your-pcs-sound-card-windows-n-11-support/"><u>Effortless Steps to Update Your PC's Sound Card - Windows N 11 Support</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-apex-legends-solving-the-voice-chat-issue/"><u>Fixing Apex Legends: Solving the Voice Chat Issue</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-canon-mp280-printer-software-installation-packages-for-windows-11-8-and-7/"><u>Free Canon MP280 Printer Software Installation Packages for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-amd-rx-6800-xt-drivers-for-your-windows-system-compatible-with-win11win10win8win7/"><u>Get the Latest AMD RX 6800 XT Drivers for Your Windows System – Compatible with Win11/Win10/Win8/Win7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-quadro-graphics-drivers-from-nvidia-for-windows-10-systems/"><u>Get the Newest Quadro Graphics Drivers From Nvidia for Windows 10 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-focusrite-scarlett-2i2-installed-on-windows-free-download/"><u>Get Your Focusrite Scarlett 2I2 Installed on Windows - Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-updated-drivers-for-your-amd-ryzen-processor/"><u>How to Install Updated Drivers for Your AMD Ryzen Processor</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-connect-your-western-digital-ses-drive-using-updated-usb-software-on-windows-computers-2011-onwards/"><u>How to Successfully Connect Your Western Digital SES Drive Using Updated USB Software on Windows Computers (2011 Onwards)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-hp-officejet-5255-driver-installation-guide/"><u>Latest HP OfficeJet #5255 Driver Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-zexmte-bluetooth-adapter-drivers-for-optimal-performance-on-windows-11-7-and-8-free-download-available-now/"><u>Latest Zexmte Bluetooth Adapter Drivers for Optimal Performance on Windows 11, 7 & 8 - Free Download Available Now!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ps4-gameplay-to-video-an-in-depth-obs-recording-guide-for-2024/"><u>PS4 Gameplay to Video - An In-Depth OBS Recording Guide for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/repair-guide-for-non-printing-machines/"><u>Repair Guide for Non-Printing Machines</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-up-your-game-obtain-latest-windows-graphics-driver-support-from-nvidia/"><u>Step Up Your Game: Obtain Latest Windows Graphics Driver Support From NVIDIA</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-the-potential-of-your-hardware-inspired-by-toms-tech-wisdom/"><u>Unlock the Potential of Your Hardware - Inspired by Tom's Tech Wisdom</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-qualcomm-atheros-ar956-x-wireless-network-adapter-with-the-newest-drivers/"><u>Update Your Qualcomm Atheros AR956 X Wireless Network Adapter with the Newest Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-and-enhance-updated-version-effortless-installation-of-the-intel-dual-band-wireless-ac-3160-driver/"><u>Upgrade & Enhance: [UPDATED VERSION] Effortless Installation of the Intel Dual Band Wireless-AC 3160 Driver</u></a></li>
+</ul></div>

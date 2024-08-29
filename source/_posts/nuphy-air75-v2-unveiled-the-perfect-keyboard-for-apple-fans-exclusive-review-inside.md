@@ -1,7 +1,7 @@
 ---
 title: "NuPhy Air75 V2 Unveiled: The Perfect Keyboard for Apple Fans - Exclusive Review Inside!"
-date: 2024-08-27 22:55:23
-updated: 2024-08-29 12:35:40
+date: 2024-08-28T01:58:23.395Z
+updated: 2024-08-29T01:58:23.395Z
 tags:
   - hardware
 categories:
@@ -147,18 +147,27 @@ Tim Brookes / How-To Geek
 
 Expand 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Air75 Version 2 Improvements
 
  If you’re coming from the original Air75, there are a few improvements to note in V2\. The revised version makes use of a higher 1000Hz polling rate when connected via Bluetooth, supports QMK/VIA customization, and ships with double-shot PBT keycaps that shouldn't get shiny over time.
 
 ![A closeup shot of the NuPhy Air75 V2 PBT keycaps.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/closeup2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  V2 also has a greater choice of Nuphy x Gateron switches, is available in two more colors, has brighter RGB backlighting, and offers improved acoustics thanks to new sound dampening inside the keyboard.
 
  There’s no reason to pick the original over the revision, except for perhaps a massive discount. Even then, these improvements seem worth it for anyone looking for a premium yet portable low-profile keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ##  An Apple User’s Take on the Air75 V2
 
  Let me preface this review by stating that I am not an expert on mechanical keyboards. This is the first mechanical keyboard that I’ve owned outright. As a Mac user for the past few decades, I’ve become accustomed to Apple’s ultra-low-profile keyboards, and I’ve been daily driving a 16-inch 2021 MacBook Pro since it launched.
@@ -169,6 +178,9 @@ Tim Brookes / How-To Geek
 
 ![A NuPhy Air75 V2 next to a Magic Trackpad and a MacBook Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/keyboard_trackpad.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  The Air75 V2 is a 75% keyboard that’s ever-so-slightly larger than the MacBook Pro keyboard I’m used to, but one that shares a similar layout with a full row of function keys. It works seamlessly with macOS, Windows, Linux, iOS, Android, and more thanks to wireless connections via Bluetooth and the included 2.4GHz dongle, plus a wired connection over the included USB-C to USB-A cable.
@@ -185,6 +197,9 @@ Tim Brookes / How-To Geek
 
  In terms of size, 75% feels perfect for someone who appreciates the tidy look of a small keyboard that doesn’t skimp on the essentials.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ##  Typing Speed Isn’t Everything
 
  For me, the most striking thing about this keyboard (and likely any decent mechanical keyboard) is how satisfying the experience is. This isn’t the most premium-sounding keyboard, but it still sounds better than the tinny Apple experience I’m used to. The Moss switches require slightly less pressure than I’m used to on a Magic Keyboard, but travel significantly further.
@@ -227,6 +242,9 @@ Tim Brookes / How-To Geek
 
  Make no mistake, the Air75 V2 has one of the largest batteries in its class of low-profile mechanical keyboards. This makes it a great portable typing companion for tablet or smartphone users. The large battery helps add some heft to the board that keeps it planted on your desk, too.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ##  Should You Buy the Air75 V2 Keyboard?
 
  Overall, the [Nuphy Air75 V2](http://nuphy.com/products/air75-v2) is probably the best choice you can make if you want a 75% low-profile mechanical keyboard that not only supports macOS but can even replace your built-in MacBook keyboard by fitting neatly over the top of it.
@@ -269,3 +287,60 @@ The NuPhy Air75 V2 is the second revision of the company's 75% low-profile mecha
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-building-trust-key-elements-in-forging-youtube-brand-relationships/"><u>[New] Building Trust  Key Elements in Forging Youtube Brand Relationships</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-approach-for-managing-cc-rights-and-usage/"><u>[New] In 2024, Best Approach for Managing CC Rights & Usage</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-upload-tunes-with-images-digitally/"><u>[New] Upload Tunes with Images Digitally</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-and-fast-download-hp-photosmart-7520-printer-drivers-start-printing/"><u>[Secure & Fast Download] HP Photosmart 7520 Printer Drivers - Start Printing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-enhance-your-presentations-with-aiseesofts-screencast-tools/"><u>[Updated] Enhance Your Presentations with Aiseesoft's Screencast Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-start-participate-in-and-organize-zoom-calls-for-android-users/"><u>[Updated] How to Start, Participate in, and Organize Zoom Calls for Android Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-reverse-video-magic-online-step-by-step-guides/"><u>[Updated] In 2024, Reverse Video Magic Online  Step-by-Step Guides</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-photography-fundamentals-tips-and-apps-for-android/"><u>[Updated] Photography Fundamentals  Tips & Apps for Android</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-seamless-transition-to-using-a-virtual-whiteboard-on-zoom-platforms-for-2024/"><u>[Updated] Seamless Transition to Using a Virtual Whiteboard on Zoom Platforms for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-compilation-of-top-5-mkv-apps-for-mac/"><u>2024 Approved  Compilation of Top 5 MKV Apps for Mac</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-razers-kiyo-webcam-complete-overview/"><u>2024 Approved  Razer's Kiyo Webcam - Complete Overview</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tricks-and-secrets-for-gaining-more-likes-in-tiktok-unboxings/"><u>2024 Approved  Tricks & Secrets for Gaining More 'Likes' In TikTok Unboxings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-ultimate-iphone-selfie-sticks-8/"><u>2024 Approved  Unveiling the Ultimate IPhone Selfie Sticks (#8)</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/2024-approved-the-best-text-to-speech-online-tools-to-use/"><u>2024 Approved The Best Text-to-Speech Online Tools To Use</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-infinix-note-30-pro-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Infinix Note 30 Pro System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722972613711-boost-performance-with-newly-released-killer-e2500-gige-controller-firmware-and-drivers-free/"><u>Boost Performance with Newly Released Killer E2500 GigE Controller Firmware and Drivers – Free!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/breakdown-of-features-in-the-new-nokia-31-best-pick-for-smartphone-novices/"><u>Breakdown of Features in the New Nokia 3.1 - Best Pick for Smartphone Novices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mg2522-driver-update-how-to-get-it-now/"><u>Canon MG2522 Driver Update: How to Get It Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complimentary-asus-realtek-audio-drivers-direct-download-link/"><u>Complimentary ASUS Realtek Audio Drivers - Direct Download Link</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-geforce-rtx-3090-graphics-driver-for-windows-get-now/"><u>Download GeForce RTX 3090 Graphics Driver for Windows - Get Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-newly-released-windows-compatible-pl2303-chipset-drivers-for-faster-data-transfer/"><u>Download Newly Released Windows-Compatible PL2303 Chipset Drivers for Faster Data Transfer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-epson-wf-3620-printer-drivers-compatibility-with-windows-11-8-and-7/"><u>Download the Latest Epson WF-3620 Printer Drivers: Compatibility with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-download-of-amd-rx-6800-drivers-optimized-for-various-windows-editions-windows-111087/"><u>Easy Download of AMD RX 6800 Drivers: Optimized for Various Windows Editions (Windows 11/10/8/7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-methods-for-fetching-asus-routers-compatible-wifi-drivers-online/"><u>Easy Methods for Fetching ASUS Router's Compatible WiFi Drivers Online</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-of-brother-dcp-l2540dw-printer-on-your-windows-computer-drive-downloads-and-steps/"><u>Easy Setup of Brother DCP-L2540DW Printer on Your Windows Computer: Drive Downloads & Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-workstation-how-to-install-updated-drivers-for-nvidia-quadro-rtx-4000/"><u>Enhance Your Workstation: How to Install Updated Drivers for NVIDIA Quadro RTX 4000</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/filmora-13-free-trial-download-unlock-pro-features-for-2024/"><u>Filmora 13 Free Trial Download Unlock Pro Features for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/gamers-companion-step-by-step-instructions-on-downloading-and-updating-amd-vega-drivers/"><u>Gamer's Companion: Step-by-Step Instructions on Downloading and Updating AMD Vega Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-drivers-for-your-nvidia-rtx-2070-super-download-and-update-guide-for-windows-pcs/"><u>Get the Newest Drivers for Your NVIDIA RTX 2070 SUPER: Download and Update Guide for Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-amd-radeon-rx-windows-drivers/"><u>How to Get the Latest AMD Radeon RX 지원 WinDows Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-drivers-for-your-lenovo-ideapad-100-on-windows-10-complete-guide/"><u>How to Get the Latest Drivers for Your Lenovo IdeaPad 100 on Windows 10: Complete Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-update-your-windows-screen-driver-step-by-step/"><u>How to Successfully Update Your Windows Screen Driver - Step by Step</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c12-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Nokia C12 Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/improve-gaming-and-music-playback-secure-free-sound-blaster-audigy-drivers-here/"><u>Improve Gaming and Music Playback - Secure Free Sound Blaster Audigy Drivers Here!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-oneplus-nord-ce-3-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does OnePlus Nord CE 3 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-phones-and-samsung-gear-vr-interaction/"><u>In 2024, Navigating Phones & Samsung Gear VR Interaction</u></a></li>
+<li><a href="https://review-topics.techidaily.com/online-signatures-for-wpd-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Online signatures for .wpd file</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-download-the-latest-intel-iris-graphics-540-drivers-step-by-step-tutorial/"><u>Quick Download: The Latest Intel Iris Graphics 540 Drivers – Step-by-Step Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-free-driver-downloads-and-updates-for-surface-book-2/"><u>Quick Guide: Free Driver Downloads and Updates for Surface Book 2</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-unmatched-savings-on-leading-processors-with-amd-and-intel-specials/"><u>Score Unmatched Savings on Leading Processors with AMD and Intel Specials</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-solutions-for-resolving-lenovo-peripheral-drivers-problems/"><u>Simple Solutions for Resolving Lenovo Peripheral Drivers Problems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solution-guide-installing-the-latest-broadcom-ethernet-driver-on-windows-11/"><u>Solution Guide: Installing the Latest Broadcom Ethernet Driver on Windows 11</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solve-your-snapchat-struggles-in-5-easy-steps-quick-fixes-for-usability-issues/"><u>Solve Your Snapchat Struggles in 5 Easy Steps - Quick Fixes for Usability Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/staying-competitive-the-continued-performance-of-dual-core-intel-processors-on-benchmarks/"><u>Staying Competitive: The Continued Performance of Dual-Core Intel Processors on Benchmarks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-finding-and-installing-new-drivers-for-amd-radeon-rx/"><u>Step-by-Step Guide: Finding and Installing New Drivers for AMD Radeon RX 지오</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/streamline-your-pc-instant-downloads-of-realtek-asio-drivers-for-windows-10/"><u>Streamline Your PC: Instant Downloads of RealTek Asió Drivers for Windows 10</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-10-best-spy-watches-for-your-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Top 10 Best Spy Watches For your Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-when-your-seagate-external-drops-off-windows-11s-radar/"><u>Troubleshooting Tips for When Your Seagate External Drops Off Windows 11'S Radar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-overcoming-voice-chat-glitches-in-your-league-matches/"><u>Ultimate Guide: Overcoming Voice Chat Glitches in Your League Matches</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-connectivity-free-downloads-of-intel-wireless-network-adapter-drivers-for-windows-computers/"><u>Upgrade Your Connectivity: Free Downloads of Intel Wireless Network Adapter Drivers for Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971100220-usb-to-serial-diver-download-for-windows-easily-and-quickly/"><u>USB to Serial Diver Download for Windows — Easily & Quickly</u></a></li>
+</ul></div>
