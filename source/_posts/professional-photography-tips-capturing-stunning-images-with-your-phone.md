@@ -1,7 +1,7 @@
 ---
 title: "Professional Photography Tips: Capturing Stunning Images with Your Phone"
-date: 2024-08-26 11:47:40
-updated: 2024-08-29 10:43:27
+date: 2024-09-01T05:42:23.482Z
+updated: 2024-09-02T05:42:23.482Z
 tags:
   - android
 categories:
@@ -68,6 +68,9 @@ Ben Lovejoy / How-To Geek
 
 ![2-Thirds1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/2-thirds1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Ben Lovejoy / How-To Geek
 
  In this example, the subject of the photo is the smiling girl, so I've positioned my camera so that she appears roughly at the intersection of the bottom-right grid lines. So, if you have several people in a shot, and you want to draw attention to one of them, try framing such that their face is in one of these intersecting positions. If you're shooting one person, try positioning their closest eye in one of these positions.
@@ -92,6 +95,9 @@ Ben Lovejoy / How-To Geek
 
  Ultimately, the Rule of Thirds is not intended to turn you into a robot, mechanically using exact placements, but rather to cure the common tendency of beginner photographers to position everything in the center of the frame. Use it as a guideline, but use your own judgment as to what looks best.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  When Symmetry Is The Better Choice
 
  But what about those times when you _want_ the subject of your photo to be centered? No problem—go right ahead. You're the photographer, and sometimes the Rule of Thirds just isn't the best option.
@@ -114,6 +120,9 @@ Ben Lovejoy / How-To Geek
 
  Don't assume that a scene has to be perfectly symmetrical for central placement to be the best choice. I still opted to centrally frame this gorgeous art deco Post Office in Miami, even though the building itself is not symmetrical. To me, the round central component is the focus here, and that part _is_ symmetrical. Again, use your judgment, and experiment, to see what you think looks best.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ##  Using Layers to Add Depth
 
  Photographs turn a three-dimensional scene into a two-dimensional image (though things like [Spatial Photos on Vision Pro](https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-zte-blade-a73-5g-by-drfone-android/) may be changing that!). But we can often capture some of that 3D feel by using layering in our photos.
@@ -122,20 +131,35 @@ Ben Lovejoy / How-To Geek
 
 ![4-Layers1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/4-layers1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Ben Lovejoy / How-To Geek
 
  This photo of Sydney Harbour was shot from across the water near a bench known as Mrs Macquarie's Chair. I was standing under the trees, and I took a wide-angle photo to include the tree branches above me. That serves as a partial literal frame, as described above, but also lends a sense of scale. If you use your hand to block the trees when looking at the photo, I think you'll agree it becomes less aesthetically pleasing.
 
 ![4-Layers2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/4-layers2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 Ben Lovejoy / How-To Geek
 
  This shot of the Golden Gate Bridge is taken at quite a distance, and I've positioned myself such that I include a tree in the foreground. To me, this makes for a more visually balanced and interesting shot.
 
 ![4-Layers3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/4-layers3.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
  So, it seems I rather frequently use trees for foreground content! This shot of London's Tower Bridge similarly includes the tree on the right, partly to add depth to the shot but also to make for a more pleasing composition, the rounded shape mirroring the curve of the bridge supports.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ##  Getting Creative With Angles
 
  The natural tendency of beginner photographers is to shoot everything square-on, from eye level. Try instead crouching down low, finding a way to get up high, or some other unusual angle. Again, a few examples.
@@ -170,12 +194,18 @@ Ben Lovejoy / How-To Geek
 
 ![6-Wide-close1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-wide-close1.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 Ben Lovejoy / How-To Geek
 
  First, we have a wide-angle shot, which shows a good chunk of the city.
 
 ![6-Wide-close2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-wide-close2.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 Ben Lovejoy / How-To Geek
 
  But simply turning a little to my left and selecting the 5x telephoto lens on my iPhone gave me this close-up of the back of the Walkie-Talkie: same time, same place, but a completely different shot.
@@ -188,6 +218,9 @@ Ben Lovejoy / How-To Geek
 
 ![6-Wide-close0b](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-wide-close0b.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 Ben Lovejoy / How-To Geek
 
  But zoom in, and we get a _very_ different shot, again from the same place at the same time. It was this shot I ended up hanging on my wall.
@@ -200,18 +233,27 @@ Ben Lovejoy / How-To Geek
 
 ![6-Wide-close4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-wide-close4.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 Ben Lovejoy / How-To Geek
 
  A very close and tight shot of one of the nearby rock formations gave me a very abstract-looking shot that couldn't be more different.
 
 ![6-Wide-close5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-wide-close5.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Ben Lovejoy / How-To Geek
 
  Finally, don't think that wide shots are only good for wide open landscapes or cityscapes. We just saw a telephoto shot of the Walkie-Talkie building, and now here's a wide-angle shot of the spectacular interior.
 
 ![6-Wide-close6](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-wide-close6.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 Ben Lovejoy / How-To Geek
 
  Here's a telephoto shot taken from inside that same space (albeit from floor level rather than the top of the stairs).
@@ -236,3 +278,43 @@ Ben Lovejoy / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-funimate-masterclass-quick-video-access/"><u>[New] 2024 Approved  Funimate Masterclass  Quick Video Access</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leveraging-zooms-full-spectrum-of-live-video-capabilities/"><u>[New] Leveraging Zoom's Full Spectrum of Live Video Capabilities</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-common-issues-in-youtube-shorts/"><u>[Updated] Mastering Common Issues in YouTube Shorts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pushing-boundaries-with-innovative-vsco-techniques/"><u>[Updated] Pushing Boundaries with Innovative VSCO Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-virtual-speedway-selection-top-5-picks-revealed-for-2024/"><u>[Updated] Virtual Speedway Selection  Top 5 Picks Revealed for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-oneplus-ace-2-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your OnePlus Ace 2 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/as-android-leader-google-emerges-as-top-producer-of-bulky-pre-installed-apps/"><u>As Android Leader, Google Emerges as Top Producer of Bulky Pre-Installed Apps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/assessing-your-samsung-smartphones-battery-condition-and-next-steps/"><u>Assessing Your Samsung Smartphone's Battery Condition & Next Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-defensive-covers-for-your-samsung-galaxy-s24-smartphone-in-202n4/"><u>Best Defensive Covers for Your Samsung Galaxy S24 Smartphone in 202N4</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/budget-friendly-tech-unveiling-the-impressive-features-of-the-new-google-pixel-7a/"><u>Budget-Friendly Tech: Unveiling the Impressive Features of the New Google Pixel 7A</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/controlling-sound-levels-a-step-by-step-guide-to-managing-app-audio-settings-on-your-samsung-device/"><u>Controlling Sound Levels: A Step-by-Step Guide to Managing App Audio Settings on Your Samsung Device</u></a></li>
+<li><a href="https://article-tips.techidaily.com/crafting-pure-designs-erasing-backgrounds-with-canva-expertise-for-2024/"><u>Crafting Pure Designs  Erasing Backgrounds with Canva Expertise for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-how-to-access-your-devices-android-build-information/"><u>Discover How to Access Your Device's Android Build Information</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-tutorial-setting-up-and-using-voicemail-on-your-android-smartphone/"><u>Easy Tutorial: Setting Up and Using Voicemail on Your Android Smartphone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-mobile-experience-samsungs-elite-tablets-are-equipped-with-new-android-13-update/"><u>Enhance Your Mobile Experience - Samsung’s Elite Tablets Are Equipped With New Android 13 Update</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-ahead-of-its-time-with-the-google-pixel-8-blurring-lines-between-imagination-and-innovation/"><u>Experience Ahead of Its Time with the Google Pixel 8: Blurring Lines Between Imagination and Innovation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/extended-playtime-with-googles-pixel/"><u>Extended Playtime with Google's Pixel</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/galaxy-s22-upgraded-experience-the-latest-with-android-13-and-one-ui-5/"><u>Galaxy S22 Upgraded: Experience the Latest with Android 13 & One UI 5</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/has-another-smartphone-mimicked-the-iphone-14-pros-groundbreaking-dynamic-island-design/"><u>Has Another Smartphone Mimicked the iPhone 14 Pro's Groundbreaking Dynamic Island Design?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-do-you-use-your-android-phone-as-a-car-remote-control-with-carkey-feature/"><u>How Do You Use Your Android Phone as a Car Remote Control with CarKey Feature?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-manually-adjust-screen-brightness-and-deactivate-auto-brightness-feature-in-android/"><u>How to Manually Adjust Screen Brightness and Deactivate Auto-Brightness Feature in Android</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-iphone-8-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On iPhone 8 without Password?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-capturing-vistas-with-the-high-end-z32x-monitor/"><u>In 2024, Capturing Vistas with the High-End Z32X Monitor</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-samsung-galaxy-xcover-7-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Samsung Galaxy XCover 7 FRP Without Computer</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-vivo-y28-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Vivo Y28 5G FRP Bypass</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-recommended-videos-block-the-videos-i-dont-like/"><u>In 2024, YouTube Recommended Videos - Block the Videos I Don't Like</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-unveiling-the-secrets-inside-the-google-pixel-7/"><u>In-Depth Analysis: Unveiling the Secrets Inside the Google Pixel 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-the-new-cross-platform-video-editor-compatible-with-chrome-os-and-android-devices/"><u>Introducing the New Cross-Platform Video Editor: Compatible with Chrome OS & Android Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/iphone-vs-android-costs-are-smartphones-really-equal-in-price/"><u>IPhone Vs. Android Costs: Are Smartphones Really Equal in Price?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-facial-recognition-easily-manage-your-android-device-with-just-a-look/"><u>Master Facial Recognition: Easily Manage Your Android Device with Just a Look</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/method-guide-access-and-identify-restricted-phone-numbers-in-android-settings/"><u>Method Guide: Access and Identify Restricted Phone Numbers in Android Settings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/on-the-horizon-android-13-release-but-will-it-reach-your-device/"><u>On the Horizon: Android 13 Release - But Will It Reach Your Device?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pushing-creative-boundaries-with-these-top-7-film-color-techniques-for-2024/"><u>Pushing Creative Boundaries with These Top 7 Film Color Techniques for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-nokia-c110-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-your-iphones-persistent-sos-signal-on-the-screen/"><u>Troubleshooting Your iPhone's Persistent 'SOS' Signal on the Screen</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/youtubes-monetization-milestone-500-subscribers-achieved/"><u>YouTube's Monetization Milestone  500 Subscribers Achieved</u></a></li>
+</ul></div>

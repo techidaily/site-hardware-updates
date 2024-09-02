@@ -1,7 +1,7 @@
 ---
 title: Top 7 Features Long-Time Samsung Users Adore and Might Miss with a Transition to Google
-date: 2024-08-27 13:33:43
-updated: 2024-08-29 10:32:46
+date: 2024-09-01T05:40:54.355Z
+updated: 2024-09-02T05:40:54.355Z
 tags:
   - android
 categories:
@@ -29,28 +29,43 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  The Google Camera app on the Pixel phones is very minimal. That's usually a good thing, but Samsung Galaxy phones have “Pro” modes that let you tweak things like focus, ISO, exposure, and more. They also have fun modes like “Portrait Video.” [This is stuff you don't get with a simplified camera app](https://win-howtos.techidaily.com/troubleshooting-tips-for-fixing-windows-11s-persistent-black-screen-fault/).
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Bixby Routines
 
 ![Screenshot of Google Pixel Rules feature.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot_20240110-143142.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 The extent of Google's automation feature.
 
  If we're listing reasons to ditch Samsung phones, Bixby is probably one of them. However, there is one [really handy tool called Bixby Routines](https://fox-helps.techidaily.com/new-in-2024-sleepy-sequences-examining-bedtime-story-video-adaptations/). You can choose actions to be a “trigger,” and then you pick what actions should happen when the trigger happens. If you never used it, you'd be surprised at how sophisticated and useful it is.
 
  Pixel phones have something similar called “Rules,” but it's a disservice to even call it "similar" to Bixby Routines. The only things you can use as triggers are connecting to a Wi-Fi network or going to a place. Google could do so much more than they are with this feature.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Secure Folder
 
 [Secure Folder](https://facebook-video-share.techidaily.com/updated-building-your-ultimate-youtube-music-list-step-by-step-guide-webmobile-for-2024/) is a cool Samsung feature that you may not have even known about. Most people think it’s only for hiding secret stuff or work accounts, but it can do a lot more than that. Apps in the Secure Folder are separate from the apps in the main part of your phone. Photos, videos, and files are separate, too.
 
  All this essentially allows you to have a separate phone inside your phone. Pixel phones, on the other hand, can only use the [“Locked Folder” in Google Photos](https://some-knowledge.techidaily.com/gigglegraphics-suite-for-2024/) or the [“Safe Folder” in the Files app](https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-motorola-moto-e13-drfone-by-drfone-virtual/), and that’s it. If you want to have more than one of the same apps on a Pixel phone, you have to use other ways.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Good Lock
 
  Personally, when I switch from Samsung to Google, the thing I might miss the most is Good Lock. [It's a suite of add-ons that make the basic features even better](https://extra-skills.techidaily.com/in-2024-metaverse-mastery-rapidly-assemble-your-digital-self/). You can change the lock screen, volume controls, make custom themes, and a lot more. It's honestly amazing for tech lovers.
 
  Google doesn't have anything like Good Lock. In fact, even the core Galaxy experience (One UI) has more customization options than the Pixel UI. If you really love having a ton of tweaks and controls at your disposal, you're going to feel very limited with a Pixel phone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ##  Better One-Handed Mode
 
 ![Screenshot of Google Pixel one-handed mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot_20240110-143209.png) 
@@ -61,6 +76,9 @@ The Pixel's only one-handed mode.
 
  Samsung’s one-handed mode lets you slide the screen down or shrink it to a corner. You can also change the size and position of the shrunken screen. You can activate it by double-tapping the home button or using a gesture. Pixel’s one-handed mode only lets you slide the screen down. You cannot adjust the size or position of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ##  Edge Panel
 
  Having your most often-used apps and shortcuts at easy reach is one of the most important things on a smartphone. You don't want to get lost in your phone for every little task. [Samsung aids in this mission with the Edge Panels feature](https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-realme-11-5g-drfone-by-drfone-virtual-android/), which puts your favorite apps, contacts, tools, and more in a slide-out drawer on the edge of your screen.
@@ -91,3 +109,40 @@ The Pixel's only one-handed mode.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-solo-broadcasters-playbook-for-optimal-live-streams/"><u>[New] 2024 Approved  The Solo Broadcaster's Playbook for Optimal Live Streams</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-cutting-edge-techniques-for-gopro-users-for-2024/"><u>[New] Cutting-Edge Techniques for GoPro Users for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-speeding-up-your-periscope-streams-effortlessly/"><u>[New] Speeding Up Your Periscope Streams Effortlessly</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-twitch-facebook-collaboration-for-content-distribution/"><u>[Updated] 2024 Approved  Twitch-Facebook Collaboration for Content Distribution</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/2-the-unbeatable-advantages-why-wireless-earbuds-are-the-future-over-wired-ones/"><u>2. The Unbeatable Advantages: Why Wireless Earbuds Are the Future Over Wired Ones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/4-gen-2-enhances-low-cost-smartphone-performance/"><u>4 Gen 2 Enhances Low-Cost Smartphone Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/batch-deletion-a-step-by-step-guide-to-removing-multiple-applications-simultaneously-on-your-android-device/"><u>Batch Deletion: A Step-by-Step Guide to Removing Multiple Applications Simultaneously on Your Android Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/beyond-google-play-unveiling-4-amazing-app-stores-worth-exploring/"><u>Beyond Google Play: Unveiling 4 Amazing App Stores Worth Exploring</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/clearing-out-clones-a-guide-to-eliminating-redundant-files-on-android-phones-and-tablets/"><u>Clearing Out Clones: A Guide to Eliminating Redundant Files on Android Phones & Tablets</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/determining-your-ideal-android-device-memory-requirements-how-much-is-enough/"><u>Determining Your Ideal Android Device Memory Requirements: How Much Is Enough?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/disabling-keyboard-clicks-a-step-by-step-guide-for-all-gadgets/"><u>Disabling Keyboard Clicks: A Step-by-Step Guide for All Gadgets</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-most-popular-android-apps-for-easy-and-delicious-home-cooking/"><u>Discover the Most Popular Android Apps for Easy and Delicious Home Cooking</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/emulate-iphone-aesthetics-on-your-android-home-screen-step-by-step-guide/"><u>Emulate iPhone Aesthetics on Your Android Home Screen – Step by Step Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/enhance-accessibility-with-top-free-text-conversion-software-for-macs-for-2024/"><u>Enhance Accessibility with Top Free Text Conversion Software for Macs for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-release-hmds-limited-edition-barbie-themed-flip-phone-and-revival-of-classic-nokia-designs/"><u>Exclusive Release: HMD's Limited Edition Barbie Themed Flip Phone and Revival of Classic Nokia Designs</u></a></li>
+<li><a href="https://techidaily.com/expert-tips-to-improve-godfall-performance-and-end-the-frustrating-lag/"><u>Expert Tips to Improve Godfall Performance and End the Frustrating Lag</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-lineageos-20-extends-the-life-of-legacy-devices-by-integrating-android-date-get-more-space-in-your-inbox/"><u>How LineageOS 20 Extends the Life of Legacy Devices by Integrating Android ([Date] - Get More Space in Your Inbox)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-achieving-professional-quality-with-instagrams-virtual-screens/"><u>In 2024, Achieving Professional Quality with Instagram's Virtual Screens</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/iphone-rivals-struggle-key-contenders-fail-amidst-market-challenges/"><u>IPhone Rivals Struggle: Key Contenders Fail Amidst Market Challenges</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-cross-platform-access-using-apple-notes-on-windows-and-android-devices/"><u>Mastering Cross-Platform Access: Using Apple Notes on Windows and Android Devices</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-from-start-to-finish-a-complete-guide-to-editing-mp4-videos-on-mac-and-windows/"><u>New In 2024, From Start to Finish A Complete Guide to Editing MP4 Videos on Mac and Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/nightly-narratives-video-guide-and-critiques/"><u>Nightly Narratives  Video Guide & Critiques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pinnacle-of-radio-drama-crafting-for-2024/"><u>Pinnacle of Radio Drama Crafting for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/pixel-7-limited-to-3-year-software-support-cycle-what-you-need-to-know/"><u>Pixel 7 Limited to 3-Year Software Support Cycle: What You Need To Know</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-access-savvy-setting-up-google-passwords-on-your-android-home-screen/"><u>Quick Access Savvy: Setting Up Google Passwords on Your Android Home Screen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revealing-your-android-smartphones-inner-workings-understanding-processor-type-and-clock-speed/"><u>Revealing Your Android Smartphone's Inner Workings: Understanding Processor Type & Clock Speed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionizing-childhood-entertainment-old-school-mobile-devices-as-ideal-music-and-podcast-hubs-for-youngsters/"><u>Revolutionizing Childhood Entertainment: Old-School Mobile Devices as Ideal Music and Podcast Hubs for Youngsters</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/silencing-ringtones-mastering-the-art-of-call-muting-on-android-devices/"><u>Silencing Ringtones: Mastering the Art of Call Muting on Android Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-what-to-inspect-when-acquiring-secondhand-android-smartphones/"><u>Ultimate Guide: What to Inspect When Acquiring Secondhand Android Smartphones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/understanding-and-maintaining-optimal-battery-performance-on-your-android-smartphone/"><u>Understanding and Maintaining Optimal Battery Performance on Your Android Smartphone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-efficiency-how-home-screen-shortcuts-revolutionize-your-android-experience/"><u>Unlocking Efficiency: How Home Screen Shortcuts Revolutionize Your Android Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveil-the-technique-to-locate-your-personal-cell-numbers-on-ios-and-android-platforms/"><u>Unveil the Technique to Locate Your Personal Cell Numbers on iOS & Android Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-oneplus-tab-2-high-definition-3000x2000-display-powered-by-snapdragon-chipset/"><u>Unveiling the OnePlus Tab 2: High-Definition 3000X2000 Display Powered by Snapdragon Chipset</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Impact of Unwanted Vibrations on Mobile Phone Cameras: Tips for iPhones and Androids"
-date: 2024-08-26 12:40:57
-updated: 2024-08-29 12:13:29
+date: 2024-09-01T05:45:55.028Z
+updated: 2024-09-02T05:45:55.028Z
 tags:
   - android
 categories:
@@ -31,10 +31,17 @@ Related: [What Is Image Stabilization, and How Does It Work?](https://desktop-re
 
  OIS can make a huge difference in photo and video quality. It's nearly impossible to hold a phone perfectly still with only your hands. The mechanisms that make this possible inside an iPhone or Android camera are remarkably small and delicate. That's where the risk of damage from vibrations comes into play.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  How Can Vibration Damage a Camera?
 
 ![iPhone 13 on a motorcycle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/2021-09-17_16-07-48.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 _Apple_
 
  Moving parts are what often lead to failures, especially when it comes to gadgets. A smartphone camera with OIS has several small moving parts inside it, and those parts are delicate. Enough stress on those parts can cause them to fail.
@@ -43,6 +50,14 @@ _Apple_
 
  This is not something most people need to worry too much about. You're not going to damage the camera by keeping it in your pocket while running. The vibrations to worry about are from high-power, high-volume engines, like the aforementioned motorcycles.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ##  What Can I Do to Avoid Damage?
 
  The main thing to avoid is extended exposure to these high-amplitude vibrations. Strapping your iPhone or Android device to a motorcycle for a short trip once in a while is probably fine. If you're doing it twice a day for your 30-minute commute, that's a bigger risk.
@@ -51,6 +66,9 @@ _Apple_
 
 ![31sPsK50zKL._SL500_](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/31spsk50zkl-_sl500_.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 For Motorcycles, Bikes, and Cars
 
 #####  Quad Lock Vibration Dampener
@@ -77,3 +95,52 @@ Related: [When Should You Use Image Stabilization When You’re Taking Photos?](
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-strategies-to-perfect-the-last-push-on-your-vimeo-videos/"><u>[New] 2024 Approved  Strategies to Perfect the Last Push on Your Vimeo Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-an-apple-powered-athletic-broadcast-platform-for-2024/"><u>[New] Crafting an Apple-Powered Athletic Broadcast Platform for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-from-zip-to-srt-the-conversion-process-unveiled/"><u>[New] In 2024, From ZIP to SRT  The Conversion Process Unveiled</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-immersive-escapades-documented-the-experts-guide-to-capturing-vr-games/"><u>[New] In 2024, Immersive Escapades Documented  The Expert's Guide to Capturing VR Games</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-learn-to-bring-text-alive-free-animation-for-vids/"><u>[Updated] 2024 Approved  Learn to Bring Text Alive  Free Animation for Vids</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-low-cost-pc-unlock-with-ideal-obs-settings/"><u>[Updated] 2024 Approved  Low-Cost PC - Unlock with Ideal OBS Settings</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-step-by-step-guide-to-crafting-youtube-splitscreen-content/"><u>[Updated] 2024 Approved  Step-by-Step Guide to Crafting YouTube Splitscreen Content</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-unlocking-potential-your-ultimate-youtube-facebook-transition-guide/"><u>[Updated] In 2024, Unlocking Potential  Your Ultimate YouTube-Facebook Transition Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-quick-and-clean-video-extraction-for-all-screens/"><u>[Updated] Quick and Clean Video Extraction for All Screens</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-spotlight-solutions-the-top-17-vlog-gear-lists/"><u>[Updated] Spotlight Solutions  The Top 17 Vlog Gear Lists</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-pixelpop-complete-examination-and-manual-24/"><u>2024 Approved  PixelPop Complete Examination & Manual '24</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-to-creating-curved-graphics/"><u>2024 Approved  Step-by-Step Guide to Creating Curved Graphics</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-vivo-t2-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Vivo T2 5G FRP</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-your-gtx-1660-ti-enhance-gaming-quality-through-updated-drivers/"><u>Boost Your GTX 1660 Ti: Enhance Gaming Quality Through Updated Drivers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/do-you-need-gpt-4-to-make-the-most-out-of-auto-gpt/"><u>Do You Need GPT-4 to Make the Most Out of Auto-GPT?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-hp-sound-card-drivers-for-free-fast-and-simple/"><u>Download HP Sound Card Drivers For Free – Fast & Simple</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-nvidia-drivers-for-the-powerful-rtx-1650-supers-graphics-card-compatible-with-windows-11/"><u>Download Updated NVIDIA Drivers for the Powerful RTX 1650 Supers Graphics Card Compatible with Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/expert-tips-capturing-high-quality-whatsapp-voice-transcripts/"><u>Expert Tips  Capturing High-Quality WhatsApp Voice Transcripts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-logitech-g29-racing-wheel-software-setup-guide-and-downloads-compatible-with-windows-7-8-and-10/"><u>Free Logitech G29 Racing Wheel Software Setup Guide & Downloads Compatible with Windows 7, 8, and 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-best-printing-results-fresh-drivers-for-epson-xp-420/"><u>Get the Best Printing Results: Fresh Drivers for Epson XP-420</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978673735-get-the-latest-gigabyte-wb867d-i-graphics-card-drivers-here/"><u>Get the Latest Gigabyte WB867D-I Graphics Card Drivers Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-msi-sound-card-drivers-on-your-windows-system-today/"><u>Get the Latest MSI Sound Card Drivers on Your Windows System Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-version-of-your-dell-thunderbolt-tb1-n-docking-stations-software-here/"><u>Get the Newest Version of Your Dell Thunderbolt (TB1) N Docking Station's Software Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-updated-generic-bluetooth-connectors-drivers-for-pc-now-instant-access/"><u>Get Your Updated Generic Bluetooth Connectors' Drivers for PC Now - Instant Access</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-experience-obtain-and-setup-acers-advanced-bluetooth-drivers-instantly/"><u>Hassle-Free Experience: Obtain and Setup Acer’s Advanced Bluetooth Drivers Instantly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-correctly-address-and-solve-microsofts-battery-drivers-issues-with-acpi-compliance/"><u>How to Correctly Address and Solve Microsoft’s Battery Drivers Issues with ACPI Compliance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-secure-your-samsung-phone-with-the-latest-adb-driver-software/"><u>How To: Secure Your Samsung Phone with the Latest ADB Driver Software</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-capturing-and-polishing-videography-in-adobe-connect/"><u>In 2024, Capturing and Polishing Videography in Adobe Connect</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-future-of-drone-control-with-syma-x8c/"><u>In 2024, The Future of Drone Control with Syma X8C</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-toms-hardware-unveiling-cutting-edge-tech-insights/"><u>Inside Tom's Hardware: Unveiling Cutting-Edge Tech Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-freshly-released-nvidia-geforce-nvme-940mx-drivers-download-now/"><u>Install Freshly Released NVIDIA GeForce Nvme 940MX Drivers - Download Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-intel-raid-drive-support-software-updates-for-windows-111087-users-download-now/"><u>Latest Intel RAID Drive Support Software Updates for Windows 11/10/8/7 Users: Download Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722966357941-latest-sas-driver-downloads-and-updates-for-windows-11-8-and-7/"><u>Latest SAS Driver Downloads and Updates for Windows 11, 8, and 7</u></a></li>
+<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/master-languages-effortlessly-with-mondly-googles-choice/"><u>Master Languages Effortlessly with Mondly, Google's Choice</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-data-storage-top-external-hard-drive-picks-for-seagate-backup-plus-users-updated-tips/"><u>Mastering Data Storage: Top External Hard Drive Picks for Seagate Backup Plus Users [Updated Tips]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mpow-bluetooth-driver-software-download-update-options-for-windows-11-8-and-7-devices/"><u>MPOW Bluetooth Driver Software: Download, Update Options for Windows 11, 8, and 7 Devices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/navigating-smartphone-choices-a-detailed-comparison-of-iphones-and-samsung-devices-for-savvy-shoppers/"><u>Navigating Smartphone Choices: A Detailed Comparison of iPhones and Samsung Devices for Savvy Shoppers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-release-updated-drivers-for-geforce-210-on-windows-11-systems/"><u>New Release: Updated Drivers for GeForce 210 on Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-guide-downloading-realtek-card-reader-drivers-for-windows/"><u>Quick & Easy Guide: Downloading RealTek Card Reader Drivers for Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fixes-for-sync-issues-with-chromecast-audio-devices/"><u>Quick Fixes for Sync Issues with Chromecast Audio Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revamp-your-visual-experience-in-windows-11-with-updated-graphics-driver-instructions/"><u>Revamp Your Visual Experience in Windows 11 with Updated Graphics Driver Instructions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-complete-guide-to-downloading-and-installing-logitechs-g29-racing-wheel-software-for-windows-os-versions-10-11-and-7/"><u>The Complete Guide to Downloading and Installing Logitech's G29 Racing Wheel Software for Windows OS (Versions 10, 11 & 7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-powerhouse-performance-with-new-z270-gaming-pro-carbon-order-now/"><u>Unleash Powerhouse Performance with New Z270 Gaming Pro Carbon - Order Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-performance-secrets-with-toms-hardware-experts/"><u>Unlocking Performance Secrets with Tom's Hardware Experts</u></a></li>
+</ul></div>
