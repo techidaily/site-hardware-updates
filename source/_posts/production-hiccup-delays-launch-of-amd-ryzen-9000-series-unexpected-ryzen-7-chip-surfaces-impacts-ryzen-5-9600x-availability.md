@@ -1,7 +1,7 @@
 ---
 title: Production Hiccup Delays Launch of AMD Ryzen 9000 Series; Unexpected Ryzen 7 Chip Surfaces, Impacts Ryzen 5 9600X Availability
-date: 2024-09-01T05:57:14.433Z
-updated: 2024-09-02T05:57:14.433Z
+date: 2024-09-05T19:54:55.222Z
+updated: 2024-09-06T19:54:55.222Z
 tags:
   - cpu
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/LZ3DFmVUdBZVtTPA6VmNqE-320-80.png
 ---
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Aftermath of Zen 5'S Initial Ryzen 9000 Die Failure - A Deep Dive Into Cracked Dice & Residual Solder Evidence
 
 Content creator and extreme overclocker[Tony Yu](https://www.bilibili.com/opus/962497485488521238) had the rare privilege of being one of (if not the) first people to delid one of AMD's brand new[Ryzen 9000](https://www.tomshardware.com/pc-components/cpus/amd-announces-zen-5-ryzen-9000-processors-launches-in-july-four-new-ryzen-9-7-and-5-processors-with-a-16-ipc-improvement) processors, which will contend with the[best CPUs](https://www.tomshardware.com/reviews/best-cpus,3986.html) . Sadly, the content creator revealed photos of his delidding attempt failing, resulting in a cracked and broken Zen 5 CPU.
@@ -27,6 +39,12 @@ Content creator and extreme overclocker[Tony Yu](https://www.bilibili.com/opus/9
 
  Ryzen 9000 is AMD's latest generation of processors based on the Zen 5 CPU architecture. Reviews for The [Ryzen 5 9600X and Ryzen 7 9700X](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-9600x-cpu-review) went live earlier this morning. Both chips will be available starting tomorrow. Meanwhile, AMD's higher-end Ryzen 9 9950X and 9900X will go on sale next Thursday, August 15.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -86,7 +104,3 @@ Content creator and extreme overclocker[Tony Yu](https://www.bilibili.com/opus/9
 <li><a href="https://hardware-updates.techidaily.com/why-relying-on-benchmarks-is-key-when-purchasing-computer-components/"><u>Why Relying on Benchmarks Is Key When Purchasing Computer Components</u></a></li>
 <li><a href="https://hardware-updates.techidaily.com/will-intel-experience-the-same-downfall-as-nokia-once-did/"><u>Will Intel Experience the Same Downfall as Nokia Once Did?</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->

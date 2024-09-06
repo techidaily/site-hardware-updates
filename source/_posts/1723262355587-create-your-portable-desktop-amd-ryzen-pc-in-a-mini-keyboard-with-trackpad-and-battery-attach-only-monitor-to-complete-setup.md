@@ -1,7 +1,7 @@
 ---
 title: "Create Your Portable Desktop: AMD Ryzen PC in a Mini Keyboard with Trackpad & Battery, Attach Only Monitor to Complete Setup!"
-date: 2024-09-01T05:58:45.262Z
-updated: 2024-09-02T05:58:45.262Z
+date: 2024-09-05T19:54:54.210Z
+updated: 2024-09-06T19:54:54.210Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://thmb.techidaily.com/54f82da67ed2494634e4d548a9b8c903250bdadd52e7584fcc6f20e9fac55f68.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Gaming Upgrades for Less: Dive Into Our Favorite Alienware Deal - Save $700 on an Unmatched Aurora R16 PC & Top-Tier 34 OLED Monitor Combo
 
 Today we have one great deal that turns into two when you take up a bundle offering and save yourself a whopping $700 with both offers combined. If you like the look of a new[Alienware Aurora R16](https://www.tomshardware.com/reviews/alienware-aurora-r16) gaming PC, then check out this deal that not only saves you $300 off of the cost of a new gaming rig, but if you add the 34-inch[Alienware AW3423DWF](https://www.tomshardware.com/reviews/alienware-aw3423dwf) to your order you can save 44% ($400) off of the listed price of this fantastic curved QD-OLED monitor as well.
@@ -109,8 +121,3 @@ Today we have one great deal that turns into two when you take up a bundle offer
 <li><a href="https://hardware-updates.techidaily.com/troubleshooting-the-corsair-h115i-on-latest-windows-systems-win-8-10-and-11-solutions/"><u>Troubleshooting the Corsair H115i on Latest Windows Systems - Win 8, 10 & 11 Solutions</u></a></li>
 <li><a href="https://hardware-updates.techidaily.com/ultimate-fixes-for-startech-driver-problems-across-windows-versions-including-win-11-8-and-7/"><u>Ultimate Fixes for StarTech Driver Problems Across Windows Versions Including Win 11, 8 and 7</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->

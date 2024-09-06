@@ -1,7 +1,7 @@
 ---
 title: Unveiling New Innovations with Tom's Hardware Insights
-date: 2024-09-01T05:54:00.522Z
-updated: 2024-09-02T05:54:00.522Z
+date: 2024-09-05T19:54:57.507Z
+updated: 2024-09-06T19:54:57.507Z
 tags:
   - cpu
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/7e6hjesKEr55uQWxGUPanF-320-80.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## AMD Takes the Lead with Fastest New Mobile Chip Against Apple's M3 Max - Multi-Core War Commences
 
 AMD’s next-generation mobile and desktop chips are expected to launch in July, and we’ve seen some benchmark results for the top-end [Ryzen AI 9 HX 370](https://www.tomshardware.com/pc-components/cpus/ryzen-ai-9-hx-370-delivers-intel-beating-single-core-performance) gradually appearing online. Hardware detective [HXL](https://twitter.com/9550pro/status/1813896531352953040) shared a photograph of a Cinebench R23 test showing AMD’s latest processor running Windows 10\. As with all leaks, treat the results with a pinch of salt. The Ryzen AI 9 HX 370 reportedly achieved a single-core score of 2,010 points, while its multi-core performance hit 23,302.
@@ -32,6 +38,12 @@ AMD’s next-generation mobile and desktop chips are expected to launch in July,
 
  With the launch just a few weeks away, many AMD fans would be excited to get their hands on its latest processors. But we recommend holding off on your purchases until tech reviewers get their hands on these laptops and run them through their paces. That way, you know which options to look at and can get your money’s worth on the new computer you’ll buy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -123,7 +135,3 @@ AMD’s next-generation mobile and desktop chips are expected to launch in July,
 <li><a href="https://hardware-updates.techidaily.com/updated-synaptics-driver-software-for-windows-quick-download-and-installation-tutorials/"><u>Updated Synaptics Driver Software for Windows: Quick Download & Installation Tutorials</u></a></li>
 <li><a href="https://hardware-updates.techidaily.com/updating-your-razer-naga-the-ultimate-guide-to-downloading-new-drivers-on-pc/"><u>Updating Your Razer Naga: The Ultimate Guide to Downloading New Drivers on PC</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
