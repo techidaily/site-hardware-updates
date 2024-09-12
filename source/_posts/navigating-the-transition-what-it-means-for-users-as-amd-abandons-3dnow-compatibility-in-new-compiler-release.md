@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Transition: What It Means for Users as AMD Abandons 3DNow! Compatibility in New Compiler Release"
-date: 2024-09-05T20:11:52.942Z
-updated: 2024-09-06T20:11:52.942Z
+date: 2024-09-11T16:51:44.074Z
+updated: 2024-09-12T16:51:44.074Z
 tags:
   - cpu
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/cf44629f086fd2b8084bdc12a848844a50c0357a13a529d9a3d917fda81ba43e.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## This Title Highlights the Exceptional Performance of the EPYC 9755 Turin Chip, Emphasizing Its Success and Dominance on Multi-Threading Tasks
 
 AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd-announces-3nm-epyc-turin-launching-with-192-cores-and-384-threads-in-second-half-of-2024-54x-faster-than-intel-xeon-in-ai-workload) (Turin) processor with 128 Zen 5 cores has set a new benchmark record. According to hardware leaker [YuuKi_AnS](https://x.com/yuuki%5Fans/status/1816185684753015066) , the EPYC 9755 scored 108,093 points in the CPU-Z multi-thread test, making it the fastest multi-threaded processor on the CPU-Z benchmark on the planet.
@@ -41,11 +35,12 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -54,14 +49,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -72,40 +64,13 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-exploring-the-legal-aspects-of-youtube-content-capture/"><u>[New] 2024 Approved Exploring the Legal Aspects of YouTube Content Capture</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-elevate-your-content-techniques-for-combining-sound-and-sight-in-instareels-for-2024/"><u>[New] Elevate Your Content Techniques for Combining Sound and Sight in InstaReels for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-from-unnoticed-to-noteworthy-building-a-viral-fb-presence/"><u>[New] In 2024, From Unnoticed to Noteworthy Building a Viral FB Presence</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-precision-in-reducing-image-size-the-essential-guide-to-thumbnails/"><u>[New] In 2024, Precision in Reducing Image Size The Essential Guide to Thumbnails</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ch340g-driver-update-and-install-guide-for-windows-10-users-free-downloads-available/"><u>CH340G Driver Update & Install Guide for Windows 10 Users: Free Downloads Available</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-amd-radeon-driver-compatible-with-windows-7/"><u>Download AMD Radeon Driver: Compatible with Windows 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-upgrade-netgear-wireless-network-adapter-drivers-step-by-step-guide/"><u>Download and Upgrade NETGEAR Wireless Network Adapter Drivers: Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-latest-dell-thunderbolt-dock-tb1n-driver-updates/"><u>Download Latest Dell Thunderbolt Dock TB1n Driver Updates</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-tutorial-how-to-install-latest-ati-driver-for-windows-users/"><u>Easy Tutorial: How to Install Latest ATI Driver for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-connection-mastering-the-scansnap-s1100-drivers-update-process/"><u>Effortless Connection: Mastering the Scansnap S1100 Drivers Update Process</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effortless-mac-video-editing-a-comprehensive-how-to-for-quick-free-cuts/"><u>Effortless Mac Video Editing: A Comprehensive How-To for Quick, Free Cuts</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-digital-connections-through-leading-sites-facebook-twitter-instagram-and-youtube/"><u>Exploring Digital Connections Through Leading Sites: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-hp-deskjet-ink-advantage-3050a-printer-software-upgrade-and-installation-guide-for-windows/"><u>Free HP Deskjet Ink Advantage 3050A Printer Software Upgrade and Installation Guide for Windows</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/free-vs-paid-discover-the-best-zoom-transcription-tools-for-2024/"><u>Free vs Paid Discover the Best Zoom Transcription Tools for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-most-out-of-your-dell-alienware-x51-with-updated-graphics-card-drivers/"><u>Get the Most Out of Your Dell Alienware X51 with Updated Graphics Card Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-amd-radeon-graphics-cards-up-to-date-on-windows-groovy-8-without-spending-a-penny/"><u>Get Your AMD Radeon Graphics Cards Up to Date on Windows Groovy 8 Without Spending a Penny</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hand-on-free-qualcomm-atheros-ar938x-drivers-quick-and-simple-download-guide/"><u>Get Your Hand on Free Qualcomm Atheros AR938X Drivers - Quick & Simple Download Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/gtx-1650-super-graphics-card-driver-downloads-and-updates-for-windows-11/"><u>GTX 1650 Super Graphics Card Driver Downloads & Updates for Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-ensure-optimal-performance-updating-razer-blackwidows-controller-drivers/"><u>How to Ensure Optimal Performance: Updating Razer BlackWidow's Controller Drivers</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-6-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-fitbit-versa-2-your-complete-guide-to-a-wellness-wearable-with-smart-features/"><u>In-Depth Look at the Fitbit Versa 2 - Your Complete Guide to a Wellness Wearable with Smart Features</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/microsoft-bluetooth-driver-download-and-update-win-111187/"><u>Microsoft Bluetooth Driver Download & Update - Win 11/11/8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-new-tech-trends-with-toms-hardware-guidance/"><u>Navigating New Tech Trends with Tom's Hardware Guidance</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-best-websites-to-add-emojis-to-photos-online/"><u>New Best Websites to Add Emojis to Photos Online</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/polaroid-xs-100i-action-camera-review-for-2024/"><u>Polaroid XS 100I Action Camera Review for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-download-hid-keyboard-driver-support-update-with-ease-today/"><u>Quick-Download HID Keyboard Driver Support - Update with Ease Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolving-drivers-problems-for-hp-envy-asterisk3-printer-in-microsoft-windows/"><u>Resolving Drivers Problems for HP Envy Asterisk(3) Printer in Microsoft Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ryzen-suffering-capturing-the-aftermath-of-the-initial-zen-5-die-failures-due-to-cracked-dice-and-solder-residue/"><u>Ryzen Suffering: Capturing the Aftermath of the Initial Zen 5 Die Failures Due to Cracked Dice & Solder Residue</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solution-steps-resetting-and-repairing-issues-with-firestick-controllers/"><u>Solution Steps: Resetting and Repairing Issues with Firestick Controllers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-xiaomi-redmi-12-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Xiaomi Redmi 12 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-full-picture-a-review-of-dji-inspire-1-for-2024/"><u>The Full Picture A Review of DJI Inspire 1 for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-windrive-problems-neat-scanner-driver-fixes-revealed/"><u>Troubleshooting WinDrive Problems: Neat Scanner Driver Fixes Revealed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-convenience-how-to-get-and-install-a-samsung-usb-driver-on-your-windows-10-pc/"><u>Ultimate Convenience: How to Get and Install a Samsung USB Driver on Your Windows 10 PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/wacom-intuos-3-drivers-download-in-windows-work-100/"><u>Wacom Intuos 3 Drivers Download in Windows – [Work 100%]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/windows-1087-driver-update-process-easy-download-and-installation-for-usb-bluetooth-adapters/"><u>Windows 10/8/7 Driver Update Process - Easy Download and Installation for USB Bluetooth Adapters</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ransform-your-streaming-enabling-av1-technology-in-youtube-for-2024/"><u>[New] Transform Your Streaming Enabling AV1 Technology in YouTube for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-your-system-download-compatible-geforce-rtx-3080-drivers-for-win-10-8-7-today/"><u>[Secure] Your System: Download Compatible GeForce RTX 3080 Drivers for Win 10 / 8 / 7 Today!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-best-10-ae-text-setups/"><u>[Updated] Expert Tips Best 10 AE Text Setups</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-shatter-the-status-quo-with-these-instagram-9-methods-for-stardom/"><u>2024 Approved Shatter the Status Quo with These Instagram #9 Methods for Stardom</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-for-resolving-hd-audio-drivers-issues-in-windows-focus-on-realteks-alc887-model/"><u>Expert Tips for Resolving HD Audio Drivers Issues in Windows - Focus on Realtek's ALC887 Model</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-substitutes-for-netflix-top-10-options-to-stream-legally-at-no-extra-expense/"><u>Free Substitutes for Netflix: Top 10 Options to Stream Legally at No Extra Expense</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/pros-and-cons-free2webcam-software-analysis-for-2024/"><u>Pros & Cons Free2WebCam Software Analysis for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solved-intel-hd-graphics-620-driver-issues-on-windows/"><u>Solved: Intel HD Graphics 620 Driver Issues on Windows</u></a></li>
 </ul></div>
+

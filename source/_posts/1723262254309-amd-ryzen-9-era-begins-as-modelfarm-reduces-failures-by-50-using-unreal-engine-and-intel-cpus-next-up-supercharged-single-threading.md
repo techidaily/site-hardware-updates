@@ -1,7 +1,7 @@
 ---
 title: "AMD Ryzen 9 Era Begins as ModelFarm Reduces Failures by 50%% Using Unreal Engine & Intel CPUs: Next Up, Supercharged Single-Threading!"
-date: 2024-09-05T20:10:40.107Z
-updated: 2024-09-06T20:10:40.107Z
+date: 2024-09-11T16:52:50.610Z
+updated: 2024-09-12T16:52:50.610Z
 tags:
   - cpu
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4eff5c9989165ba5b957b7575.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AMD Ryzen 9 Era Begins as ModelFarm Reduces Failures by 50% Using Unreal Engine & Intel CPUs: Next Up, Supercharged Single-Threading
 
 Dylan Browne, an Unreal Engine Supervisor and Feature Film VFX at the ModelFarm visual effects studio, posted on[X](https://x.com/DylserX/status/1815688815996281128) that his company is experiencing a 50% failure rate for systems powered by Intel's Core i9-13900K and 14900K processors. As a result, the company is deploying AMD's as-yet-unreleased Zen 5 Ryzen 9 9950X processors in place of Intel-powered solutions, with Browne praising AMD's single-thread performance.  
@@ -40,11 +34,12 @@ Dylan Browne, an Unreal Engine Supervisor and Feature Film VFX at the ModelFarm 
  Intel says its patch will address the instability issues in August. Regardless, it has a serious scandal on its hands that could put some extra wind in AMD’s sails right as it launches the Ryzen 9000 series at the end of July.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -53,14 +48,11 @@ Dylan Browne, an Unreal Engine Supervisor and Feature Film VFX at the ModelFarm 
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -71,52 +63,15 @@ Dylan Browne, an Unreal Engine Supervisor and Feature Film VFX at the ModelFarm 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-obs-versus-streamlabs-the-live-stream-software-duel-for-2024/"><u>[Updated] OBS Versus Streamlabs – The Live Stream Software Duel for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-online-video-scaling-service/"><u>[Updated] Online Video Scaling Service</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/2024s-premier-selection-of-raspberry-pi-housing-solutions-find-your-perfect-fit-today/"><u>2024'S Premier Selection of Raspberry Pi Housing Solutions - Find Your Perfect Fit Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/all-in-one-console-sporting-raspberry-pi-cm4-and-enhanced-expansion-capabilities-with-gpio/"><u>All-in-One Console Sporting Raspberry Pi CM4 & Enhanced Expansion Capabilities with GPIO</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-realme-12plus-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Realme 12+ 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-hardware-guide-by-tom-the-ultimate-resource/"><u>Comprehensive Hardware Guide by Tom: The Ultimate Resource</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-overview-of-the-ai-enhanced-raspberry-pi-development-setup-the-brainiac-edition/"><u>Comprehensive Overview of the AI Enhanced Raspberry Pi Development Setup – The Brainiac Edition</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ddr3-production-halts-by-samsung-and-sk-hynix-amidst-intense-hbm3-memory-market-growth/"><u>DDR3 Production Halts by Samsung and SK Hynix Amidst Intense HBM3 Memory Market Growth</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/developing-advanced-telemetry-software-for-enhanced-raspberry-pi-monitoring/"><u>Developing Advanced Telemetry Software for Enhanced Raspberry Pi Monitoring</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-corsairs-revamped-2022-lineup-the-newly-enhanced-hxi-1000w-and-150epsu-power-supplies/"><u>Discover Corsair's Revamped 2022 Lineup: The Newly Enhanced HXi 1000W & 150ePSU Power Supplies</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dive-into-technology-with-toms-hardware-guides-and-updates/"><u>Dive Into Technology with Tom's Hardware Guides and Updates</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/doom-game-demo-powered-by-raspberry-pi-pico-at-deconf-32-a-developers-breakthrough/"><u>Doom Game Demo Powered by Raspberry Pi Pico at Deconf 32: A Developer's Breakthrough</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/elite-ddr4-memory-contenders-a-scoring-system-of-rapid-data-transfer-rates/"><u>Elite DDR4 Memory Contenders: A Scoring System of Rapid Data Transfer Rates</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-insights-on-pc-hardware-with-toms-digital-lab/"><u>Expert Insights on PC Hardware with Tom's Digital Lab</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-secrets-to-exceptional-tiktok-videos-for-2024/"><u>Expert Secrets to Exceptional TikTok Videos for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-computer-components-with-toms-gadget-guides/"><u>Exploring Computer Components with Tom's Gadget Guides</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-computer-wonders-with-tom-a-deep-dive-into-cutting-edge-hardware/"><u>Exploring Computer Wonders with Tom - A Deep Dive Into Cutting-Edge Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-world-of-toms-computer-components-and-tech-reviews-t17239724902053/"><u>Exploring the World of Tom's Computer Components and Tech Reviews</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-a1x-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo A1x 5G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ideal-raspberry-pi-hat-options-choose-the-perfect-extension-board-for-your-tech-endeavors/"><u>Ideal Raspberry Pi HAT Options : Choose the Perfect Extension Board for Your Tech Endeavors</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-c32-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Nokia C32 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-virtual-victory-youtubes-female-elite-ten/"><u>In 2024, Virtual Victory YouTube’s Female Elite Ten</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-and-product-testing-by-toms-electronics-hub/"><u>In-Depth Analysis & Product Testing by Tom's Electronics Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-look-at-geekworm-x1011-a-revolutionary-approach-to-building-nas-systems/"><u>Inside Look at Geekworm X1011: A Revolutionary Approach to Building NAS Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-look-at-toms-hardware-insights-and-reviews/"><u>Inside Look at Tom's Hardware: Insights & Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-toms-hardware-store-top-product-reviews-and-tips/"><u>Inside Tom's Hardware Store: Top Product Reviews and Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-toms-hardware-your-definitive-resource-for-tech-gear-analysis/"><u>Inside Tom's Hardware: Your Definitive Resource for Tech Gear Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/introducing-the-newly-released-12-m2-expansion-board-compatible-with-raspberry-pi-model-b/"><u>Introducing the Newly-Released $12 M.2 Expansion Board Compatible with Raspberry Pi Model B</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lattepanda-unveiled-surpassing-raspberry-pi-4-in-speed-and-cost/"><u>LattePanda Unveiled: Surpassing Raspberry Pi 4 in Speed and Cost</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximizing-the-potential-of-every-pin-building-a-bespoke-capacitive-touch-controller-on-the-raspberry-pi-pico-pcb/"><u>Maximizing the Potential of Every Pin: Building a Bespoke Capacitive Touch Controller on the Raspberry Pi Pico PCB</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/microns-2028-roadmap-reveals-future-hbm4e-memory-technologies/"><u>Micron's 2028 Roadmap Reveals Future HBM4E Memory Technologies</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/microns-growth-boost-in-china-praised-by-government-officials-post-memory-ic-import-prohibition/"><u>Micron’s Growth Boost in China Praised by Government Officials Post-Memory IC Import Prohibition</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725288743738-mp4/"><u>MP4ビデオ品質向上に最適な手法：トップ推奨のアップグレード戦略</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-hardware-excellence-with-toms-gear-guides/"><u>Navigating Hardware Excellence with Tom's Gear Guides</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-technology-with-toms-hardware-expertise/"><u>Navigating Technology with Tom's Hardware Expertise</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-gadgets-with-tom-insightful-hardware-analysis-and-reviews/"><u>Navigating the World of Gadgets with Tom: Insightful Hardware Analysis and Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-toms-electronics-top-notch-reviews-and-buying-advice-for-every-budget/"><u>Navigating Tom's Electronics: Top-Notch Reviews & Buying Advice for Every Budget</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/north-korean-tensions-escalate-potential-impact-on-majority-of-worlds-memory-chip-production-from-south-korea/"><u>North Korean Tensions Escalate: Potential Impact on Majority of World's Memory Chip Production From South Korea</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/raspberry-pi-pico-shines-with-doom-on-rp2350-based-badges-showcased-in-deconf-32-event/"><u>Raspberry Pi Pico Shines with Doom on RP2350-Based Badges Showcased in Deconf 32 Event</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/skatterbenchers-innovative-project-crafting-next-gen-telemetry-tools-for-raspberry-pi-systems/"><u>SkatterBencher's Innovative Project: Crafting Next-Gen Telemetry Tools for Raspberry Pi Systems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721449830266-struggling-with-find-my-iphone-heres-why-it-shows-offline-and-how-to-fix-it/"><u>Struggling with Find My iPhone? Here’s Why It Shows ‘Offline’ & How to Fix It!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-in-depth-reviews-and-analysis-of-cutting-edge-hardware/"><u>Tom's Tech Insights: In-Depth Reviews and Analysis of Cutting-Edge Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-unlocking-the-secrets-of-computer-components/"><u>Tom's Tech Review: Unlocking the Secrets of Computer Components</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-offer-grab-an-exceptional-bargain-with-rodecaster-duo-and-complimentary-rode-nth-100m-headset-all-for-just-374/"><u>Unbeatable Offer: Grab an Exceptional Bargain with Rodecaster Duo & Complimentary Rode NTH-100M Headset - All for Just $374</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-gadgets-and-pcs-with-tom-comprehensive-tips-by-toms-hardware/"><u>Unveiling Gadgets & PCs with Tom: Comprehensive Tips by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-best-in-computing-a-deep-dive-into-toms-hardware-expertise/"><u>Unveiling the Best in Computing: A Deep Dive Into Tom's Hardware Expertise</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-make-a-lasting-impression-top-10-free-animated-logo-makers/"><u>Updated In 2024, Make a Lasting Impression Top 10 Free Animated Logo Makers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-essential-techniques-for-making-and-tweaking-multi-snap-chats/"><u>[Updated] In 2024, Essential Techniques for Making & Tweaking Multi-Snap Chats</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Vivo Y200? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721430143746-gpt-4-welcomes-everyone-despite-freedom-to-use-plus-continues-offering-6-superior-services/"><u>GPT-4 Welcomes Everyone: Despite Freedom to Use, Plus Continues Offering 6 Superior Services.</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/hear-the-difference-mac-in-sound-recording/"><u>Hear the Difference Mac in Sound Recording</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-secure-your-samsung-phone-with-official-android-debug-bridge-drivers/"><u>How to Secure Your Samsung Phone with Official Android Debug Bridge Drivers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-infinix-hot-40-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Infinix Hot 40 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976221412-introducing-too-many-new-alleles-at-once-may-lead-to-unwanted-traits-or-genetic-instability/"><u>Introducing Too Many New Alleles at Once May Lead to Unwanted Traits or Genetic Instability.</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/no-watermark-wonders-top-10-free-online-video-editing-tools-for-2024/"><u>No-Watermark Wonders Top 10 Free Online Video Editing Tools for 2024</u></a></li>
+<li><a href="https://techidaily.com/optimizing-pubg-gameplay-mastering-nvidia-graphics-card-settings/"><u>Optimizing PUBG Gameplay: Mastering Nvidia Graphics Card Settings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-rtx-ablishing-a-safe-environment-in-which-individuals-can-express-their-emotions-and-offering-coping-strategies-to-manage-intense-feelings-const281/"><u>Update Your RTX Ablishing a Safe Environment in Which Individuals Can Express Their Emotions, and Offering Coping Strategies to Manage Intense Feelings Constructively without Resorting to Self-Harm.</u></a></li>
 </ul></div>
+

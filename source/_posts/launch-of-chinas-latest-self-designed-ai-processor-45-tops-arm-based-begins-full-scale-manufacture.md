@@ -1,7 +1,7 @@
 ---
 title: "Launch of China’s Latest Self-Designed AI Processor: 45 TOPS, Arm-Based, Begins Full Scale Manufacture"
-date: 2024-09-05T20:15:00.259Z
-updated: 2024-09-06T20:15:00.259Z
+date: 2024-09-11T16:48:55.355Z
+updated: 2024-09-12T16:48:55.355Z
 tags:
   - cpu
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a210562c1ab5e7ca0ee4b18377.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AMD's Ryzen 9000 Now Available on Best Buy: Prices Slashed Below Launch Rates of Previous Ryzen Models
 
 The launch of AMD’s highly anticipated[Ryzen 9000](https://www.tomshardware.com/pc-components/cpus/amd-announces-zen-5-ryzen-9000-processors-launches-in-july-four-new-ryzen-9-7-and-5-processors-with-a-16-ipc-improvement) series, which will rival the[best CPUs](https://www.tomshardware.com/reviews/best-cpus,3986.html) , has been pushed back by a couple of weeks, moving it from July 31 to August 8 for the Ryzen 7 9700X and Ryzen 5 9600X and August 15 for the Ryzen 9 9900X and Ryzen 9 9950X chips. Nevertheless, U.S. retailers have started listing these hot new processors with included pricing information.
@@ -42,17 +36,12 @@ The launch of AMD’s highly anticipated[Ryzen 9000](https://www.tomshardware.co
  Intel won't have an answer for Ryzen 9000 until later this year with the chipmaker's next-generation Core Ultra 200 (codenamed Arrow Lake) processors. With the whole[Raptor Lake and Raptor Lake Refresh instability](https://www.tomshardware.com/pc-components/intel-raptor-lake-instability-troubles-everything-you-need-to-know) drama and Ryzen 9000's attractive MSRP, Intel will not easily compete with Zen 5.
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -67,8 +56,6 @@ The launch of AMD’s highly anticipated[Ryzen 9000](https://www.tomshardware.co
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -78,70 +65,16 @@ The launch of AMD’s highly anticipated[Ryzen 9000](https://www.tomshardware.co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-fresh-take-on-the-enhanced-sony-s6500-media-device/"><u>[New] 2024 Approved Fresh Take on the Enhanced Sony S6500 Media Device</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-navigating-and-mastering-instagram-filters-a-2023-guide/"><u>[New] 2024 Approved Navigating and Mastering Instagram Filters A 2023 Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-embedding-youtube-videos-tips-for-a-smooth-ppt-transition-for-2024/"><u>[New] Embedding YouTube Videos Tips for a Smooth PPT Transition for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-essential-empowerment-packages-top-trending-products-for-todays-entrepreneur/"><u>[New] In 2024, Essential Empowerment Packages Top Trending Products for Today's Entrepreneur</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-pro-tips-to-amplify-your-canva-designs/"><u>[New] In 2024, Pro Tips to Amplify Your Canva Designs</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-shooter-synergy-crafting-a-list-of-top-7-game-battles/"><u>[New] In 2024, Shooter Synergy Crafting a List of Top 7 Game Battles</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-ultimate-top-11-list-excellent-audio-devices/"><u>[New] In 2024, Ultimate Top 11 List Excellent Audio Devices</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-frame-it-right-selecting-the-perfect-borders-for-social-media-photos-for-2024/"><u>[Updated] Frame It Right Selecting the Perfect Borders for Social Media Photos for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-innovative-naming-solutions-for-channels/"><u>[Updated] Innovative Naming Solutions for Channels</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-edge-selecting-the-best-mobile-and-desktop-video-editors/"><u>[Updated] Instagram Edge Selecting the Best Mobile & Desktop Video Editors</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-mastering-online-team-interactions-for-2024/"><u>[Updated] Mastering Online Team Interactions for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723964478343-49-post-rebate-offer-discover-why-the-phanteks-evolv-shift-2-is-a-top-choice-for-itx-enthusiasts/"><u>$49 Post-Rebate Offer: Discover Why the Phanteks Evolv Shift 2 Is a Top Choice for ITX Enthusiasts</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-nes-switch-brawlers-the-ultimate-10-game-guide/"><u>2024 Approved NES Switch Brawlers The Ultimate 10-Game Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-recording-real-time-google-meetings/"><u>2024 Approved Recording Real-Time Google Meetings</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/advanced-component-breakdown-with-tom-the-ultimate-guide-from-toms-hardware/"><u>Advanced Component Breakdown with Tom: The Ultimate Guide From Tom’s Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/advanced-gaming-rigs-equipped-for-hidden-connector-boards-supporting-6500dx-2500dc-and-asus-zenbtr-with-corsairs-latest-case-models/"><u>Advanced Gaming Rigs Equipped for Hidden Connector Boards: Supporting 6500D/X, 2500D/C and Asus ZenBTR with Corsair's Latest Case Models</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/at-computex-thermaltake-launches-matcha-green-tea-infused-cte-products-for-enhanced-cooling-performance/"><u>At Computex, Thermaltake Launches Matcha Green Tea Infused CTE Products for Enhanced Cooling Performance</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/creating-stunning-overlays-in-photoshop/"><u>Creating Stunning Overlays in Photoshop</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/delving-into-toms-hardware-a-comprehensive-resource-for-computer-enthusiasts/"><u>Delving Into Tom's Hardware: A Comprehensive Resource for Computer Enthusiasts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-convenience-of-inwins-new-case-designs-featuring-user-friendly-pack-it-modules-and-adaptable-structures/"><u>Discover the Convenience of InWin's New Case Designs Featuring User-Friendly Pack-It Modules and Adaptable Structures</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723964479059-elevate-your-build-with-thermaltakes-core-p3-open-frame-pc-case-for-under-a-hundred-dollars/"><u>Elevate Your Build with Thermaltake's Core P3 Open Frame PC Case for Under a Hundred Dollars!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enable-smart-color-settings-in-windows-11-programs/"><u>Enable Smart Color Settings in Windows 11 Programs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-the-charm-of-natural-aesthetics-with-fractals-miniature-terra-gaming-rig-enjoy-adjustable-support-and-wood-accents/"><u>Experience the Charm of Natural Aesthetics with Fractal's Miniature Terra Gaming Rig - Enjoy Adjustable Support & Wood Accents!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-analysis-on-pc-components-by-toms-electronics-hub/"><u>Expert Analysis on PC Components by Tom's Electronics Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-evaluations-with-tom-comprehensive-hardware-guides/"><u>Expert Evaluations with Tom - Comprehensive Hardware Guides</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-insights-on-pc-components-by-toms-electronics-hub/"><u>Expert Insights on PC Components by Tom's Electronics Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-insights-on-technology-a-guide-inspired-by-toms-hardware/"><u>Expert Insights on Technology: A Guide Inspired by Tom’s Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-take-on-lian-li-o11-vision-rack-a-comprehensive-review-featuring-tempered-glass-enclosure/"><u>Expert Take on Lian Li O11 Vision Rack – A Comprehensive Review Featuring Tempered Glass Enclosure</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-new-horizons-in-computing-with-toms-hardware-insights/"><u>Exploring New Horizons in Computing with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-latest-in-computer-hardware-with-tom-authoritative-guides-and-top-picks/"><u>Exploring the Latest in Computer Hardware with Tom - Authoritative Guides & Top Picks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-latest-in-computing-a-review-by-tom-hardware-experts/"><u>Exploring the Latest in Computing: A Review by Tom Hardware Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-world-of-computers-with-toms-system-review/"><u>Exploring the World of Computers with Tom's System Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-toms-hardware-the-ultimate-guide-to-your-tech-needs/"><u>Exploring Tom's Hardware: The Ultimate Guide to Your Tech Needs</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/facebooks-visual-storytelling-what-angle-matters-most-for-2024/"><u>Facebook's Visual Storytelling What Angle Matters Most for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/firefoxs-best-screenshot-add-ons-for-2024/"><u>Firefox's Best Screenshot Add-Ons for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-samsung-galaxy-f15-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Samsung Galaxy F15 5G FRP</u></a></li>
-<li><a href="https://article-helps.techidaily.com/full-motion-assessment-2023-for-2024/"><u>Full Motion Assessment 2023 for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-skys-the-limit-with-husqvarnas-x4-drone/"><u>In 2024, The Sky's the Limit with Husqvarna's X4 Drone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-xiaomi-14-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Xiaomi 14</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-reviews-and-comparisons-toms-tech-insights/"><u>In-Depth Reviews & Comparisons: Tom's Tech Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-the-world-of-tech-with-toms-hardware-a-deep-dive-into-gadgets-and-systems/"><u>Inside the World of Tech with Tom's Hardware - A Deep Dive Into Gadgets & Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-toms-tech-comprehensive-reviews-and-analysis-of-latest-hardware/"><u>Inside Tom's Tech: Comprehensive Reviews and Analysis of Latest Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/introducing-the-cutting-edge-silent-performance-of-akasas-new-13-pro-nuc-retail-computer-system/"><u>Introducing the Cutting-Edge, Silent Performance of Akasa's New 13 Pro NUC Retail Computer System</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/iphone-users-manual-embracing-a-group-album-invite/"><u>IPhone Users' Manual: Embracing a Group Album Invite</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723964479036-lian-li-lancool-iii-computer-chassis-now-at-an-unbeatable-price-just-119/"><u>Lian Li Lancool III Computer Chassis Now at an Unbeatable Price: Just $119!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximizing-gpu-performance-with-quadro-cards-on-an-open-source-linux-pc-mid-tower-build-guide/"><u>Maximizing GPU Performance with Quadro Cards on an Open Source Linux PC - Mid Tower Build Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-digital-world-with-toms-hardware-analysis-and-guides/"><u>Navigating the Digital World with Tom's Hardware Analysis and Guides</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/precision-gadget-insights-from-toms-technology-hub/"><u>Precision Gadget Insights From Tom's Technology Hub</u></a></li>
-<li><a href="https://facebook.techidaily.com/protecting-users-whatsapp-clashes-with-government-law/"><u>Protecting Users, WhatsApp Clashes with Government Law</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/reaching-beyond-with-silverstone-icemyst-the-ultimate-solution-for-unreachable-components/"><u>Reaching Beyond with SilverStone IceMyst: The Ultimate Solution for Unreachable Components</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-cyberpowerpc-amethyst-360s-a-blend-of-bold-style-vivid-rgb-lighting-and-elegant-wooden-touches-for-your-desktop/"><u>The CyberPowerPC Amethyst 360S: A Blend of Bold Style, Vivid RGB Lighting & Elegant Wooden Touches for Your Desktop</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-most-accurate-transcription-programs-for-2eby-year-2024-edition/"><u>The Most Accurate Transcription Programs for 2Eby Year: 2024 Edition</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-expert-analysis-comprehensive-guides-to-advanced-computer-hardware/"><u>Tom's Expert Analysis: Comprehensive Guides to Advanced Computer Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-hardware-explored-the-ultimate-guide-to-tech-and-gadgets/"><u>Tom's Hardware Explored: The Ultimate Guide to Tech and Gadgets</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-comprehensive-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Hub: Comprehensive Guide to the Latest in Computer Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-comprehensive-insights-on-the-latest-hardware/"><u>Tom's Tech Hub: Comprehensive Insights on the Latest Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-expert-insights-on-hardware-and-more/"><u>Tom's Tech Hub: Expert Insights on Hardware & More</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-comprehensive-guides-on-latest-hardware/"><u>Tom's Tech Insights: Comprehensive Guides on Latest Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-expert-guides-and-reviews-t17239718713955/"><u>Tom's Tech Insights: Expert Guides and Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-expert-hardware-reviews/"><u>Tom's Tech Insights: Expert Hardware Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-expert-reviews-and-advice/"><u>Tom's Tech Insights: Expert Reviews & Advice</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-protection-safeguarding-your-text-files-with-password-encryption-techniques/"><u>Ultimate Protection: Safeguarding Your Text Files with Password Encryption Techniques</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/unearth-pristine-stock-media-from-selective-4-youtube-hubs/"><u>Unearth Pristine Stock Media From Selective 4 YouTube Hubs</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-online-dailymotion-converter-convert-videos-to-any-format-for-free-for-2024/"><u>Updated Online Dailymotion Converter Convert Videos to Any Format for Free for 2024</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/ways-to-stop-parent-tracking-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Ways to stop parent tracking your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-top-10-hidden-gems-for-enhancing-canva-images/"><u>[Updated] 2024 Approved Top 10 Hidden Gems for Enhancing Canva Images</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fix-confirmed-shorts-are-showing-up/"><u>[Updated] In 2024, Fix Confirmed Shorts Are Showing Up</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-the-premier-guide-to-high-definition-android-viewing-tools/"><u>2024 Approved The Premier Guide to High-Definition Android Viewing Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-rx-6800-graphics-card-step-by-step-driver-download-for-multiple-windows-versions/"><u>AMD RX 6800 Graphics Card: Step-by-Step Driver Download for Multiple Windows Versions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-techniques-for-ae-title-creation-for-2024/"><u>Expert Techniques for AE Title Creation for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-download-compatible-drivers-for-logitech-hd-webcam-model-c525-on-windows-1087/"><u>Find & Download Compatible Drivers for Logitech HD Webcam Model C525 on Windows 10/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-official-hp-deskjet-driver-updates-and-support-for-your-windows-pc-windows-7-8-10/"><u>Get Official HP DeskJet Driver Updates & Support for Your Windows PC (Windows 7, 8, 10)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-epson-ds-530-printer-driver-software-for-optimal-windows-10-performance/"><u>Get the Latest Epson DS-530 Printer Driver Software for Optimal Windows 10 Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-zebra-gk420d-up-and-running-secure-your-printer-drivers-now/"><u>Get Your Zebra GK420D Up and Running: Secure Your Printer Drivers Now</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-plus-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Plus to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-frequent-freezing-during-windows-10-boot-up/"><u>Resolving Issues with Frequent Freezing During Windows 10 Boot-Up</u></a></li>
 </ul></div>
+

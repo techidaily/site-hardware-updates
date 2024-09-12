@@ -1,7 +1,7 @@
 ---
 title: "Exploring China's Breakthrough: The New Cixin P1 AI Processor Surpasses Expectations with a 45 TOPS Speed"
-date: 2024-09-05T20:16:58.783Z
-updated: 2024-09-06T20:16:58.783Z
+date: 2024-09-11T16:47:10.215Z
+updated: 2024-09-12T16:47:10.215Z
 tags:
   - cpu
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b4af374350d9a6e5be665eb8.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Sticking to Plans: The Much-Awaited Ryzen 5000XT Series Drops This Month, as Promised by AMD
 
 Despite media reports that AMD has delayed its Ryzen 5000XT processors, AMD told_Tom's Hardware_ that the Ryzen 9 5900XT and the Ryzen 7 5800XT will launch as scheduled. The chipmaker had previously slated the[5000XT launch for July](https://www.tomshardware.com/pc-components/cpus/amd-announces-zen-5-ryzen-9000-processors-launches-in-july-four-new-ryzen-9-7-and-5-processors-with-a-16-ipc-improvement) , meaning the chips should be available at retail tomorrow.
@@ -40,11 +28,18 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
  The Ryzen 9 5900XT, on the other hand, should provide a significant upgrade over the current[Ryzen 9 5900X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) . Weirdly, AMD chose that model name since the Ryzen 9 5900XT is closer to the[Ryzen 9 5950X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) than the Ryzen 9 5900X. The Ryzen 9 5900XT wields the same 16 Zen 3 cores as the former in addition to the 64MB L3 cache and 105W TDP. The Ryzen 9 5900XT has a 100 MHz lower base and boost clock than the Ryzen 9 5950X.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -55,14 +50,11 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
  AMD has kept the pricing under wraps for the Ryzen 9 5900XT and the Ryzen 7 5800XT. However, we should know tomorrow how much the new refreshed chips cost. Don't forget to double back for our review of the two processors and two new 5000XT SKUs.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -73,54 +65,21 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-quick-stitching-together-synchronizing-obs-and-zoom/"><u>[New] 2024 Approved Quick Stitching Together Synchronizing OBS and Zoom</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/xploring-the-past-top-10-educational-history-yt-channels-for-2024/"><u>[New] Exploring the Past Top 10 Educational History YT Channels for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-top-5-secure-methods-to-maximize-instagram-earnings/"><u>[New] In 2024, Top 5 Secure Methods to Maximize Instagram Earnings</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-unlocking-social-connections-facetime-tutorials-for-android/"><u>[New] Unlocking Social Connections Facetime Tutorials for Android</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-how-to-add-border-to-instagram-video-in-2024/"><u>[Updated] How to Add Border to Instagram Video, In 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-step-by-step-selection-of-top-10-no-cost-conference-software-for-2024/"><u>[Updated] Step-By-Step Selection of Top 10 No-Cost Conference Software for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-engage-and-inspire-audiences-professional-level-tips-for-youtube-edits/"><u>2024 Approved Engage and Inspire Audiences Professional-Level Tips for YouTube Edits</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-google-meet-for-non-paying-professionals-complete-insights-and-tips/"><u>2024 Approved Google Meet for Non-Paying Professionals Complete Insights and Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/digital-display-upgrade-anticipate-advertisements-on-amazons-new-160-picture-in-picture-screen/"><u>Digital Display Upgrade: Anticipate Advertisements on Amazon's New $160 Picture-in-Picture Screen</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-classic-apple-ii-machines-using-an-hdmi-output-adapter-for-modern-connectivity/"><u>Enhance Classic Apple II Machines Using an HDMI Output Adapter for Modern Connectivity</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhanced-viewing-jbls-latest-earphones-feature-larger-display-panels/"><u>Enhanced Viewing: JBL's Latest Earphones Feature Larger Display Panels</u></a></li>
-<li><a href="https://driver-install.techidaily.com/ensuring-top-performance-win11s-atheros-driver-update-routine/"><u>Ensuring Top Performance: Win11's Atheros Driver Update Routine</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/essential-tech-tools-top-7-must-have-devices-for-modern-digital-wanderers/"><u>Essential Tech Tools: Top 7 Must-Have Devices for Modern Digital Wanderers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-acers-newly-released-vero-series-unmatched-simplicity-meets-luxury-in-laser-projection/"><u>Experience Acer's Newly Released Vero Series: Unmatched Simplicity Meets Luxury in Laser Projection</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-enhanced-mobile-charging-with-nomads-latest-portable-stand-and-max-capacity-for-qi2-devices/"><u>Experience Enhanced Mobile Charging with Nomad's Latest Portable Stand and Max Capacity for Qi2 Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-gaming-excellence-with-the-just-released-asus-rog-ally-x-laptop/"><u>Experience Gaming Excellence with the Just-Released ASUS ROG Ally X Laptop</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-analysis-of-the-nanoleaf-umbra-cone-a-prime-selection-for-young-ones-bedrooms-reviewed/"><u>Expert Analysis of the Nanoleaf Umbra Cone - A Prime Selection for Young Ones' Bedrooms Reviewed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/explore-the-power-beneath-discover-how-lenovos-cutting-edge-tablet-dominates-with-stellar-specs-and-functionality/"><u>Explore the Power Beneath: Discover How Lenovo's Cutting-Edge Tablet Dominates with Stellar Specs and Functionality</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/gaming-curved-ultrawide-display-and-immersion/"><u>Gaming, Curved Ultrawide Display, and Immersion.</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722959303607-get-the-newest-evga-windows-drivers-installed-faster-and-smoother-performance/"><u>Get the Newest EVGA Windows Drivers Installed - Faster and Smoother Performance!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hold-onto-your-current-ipad-and-save-big-exclusive-deal-on-apple-pencil-ns-at-unbeatable-prices/"><u>Hold Onto Your Current iPad and Save Big - Exclusive Deal on Apple Pencil N's at Unbeatable Prices!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-x-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone X</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-nubia-red-magic-9-proplus-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Nubia Red Magic 9 Pro+?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-14-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/implications-of-microsofts-latest-artificial-intelligence-advancements-on-portable-gaming-pc-markets/"><u>Implications of Microsoft's Latest Artificial Intelligence Advancements on Portable Gaming PC Markets</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-building-a-broad-spectrum-audience-with-multichannel-strategy/"><u>In 2024, Building a Broad-Spectrum Audience with Multichannel Strategy</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-top-10-budget-friendly-digital-photography-workspaces-online/"><u>In 2024, Top 10 Budget-Friendly Digital Photography Workspaces Online</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Nokia C300? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-of-the-ugreen-300w-portable-charger-with-48000mah-battery-the-ultimate-compact-energy-reservoir/"><u>In-Depth Analysis of the Ugreen 300W Portable Charger with 48,000mAh Battery - The Ultimate Compact Energy Reservoir</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-of-the-ultimate-ears-everboom-powerful-sonic-performance-with-cool-extras/"><u>In-Depth Analysis of the Ultimate Ears Everboom: Powerful Sonic Performance with Cool Extras!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/intel-decides-against-issuing-product-recalls-for-faulty-processors/"><u>Intel Decides Against Issuing Product Recalls for Faulty Processors</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-home-fixes-top-strategies-to-launch-your-at-home-repair-skills/"><u>Mastering Home Fixes: Top Strategies to Launch Your At-Home Repair Skills</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximizing-convenience-with-your-tv-at-heart-creative-tips-for-a-tech-savvy-living-space/"><u>Maximizing Convenience with Your TV at Heart - Creative Tips for a Tech-Savvy Living Space</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/night-shutdown-strategy-unveiling-the-5-advantages-of-turning-off-your-laptop-at-night/"><u>Night Shutdown Strategy: Unveiling the 5 Advantages of Turning Off Your Laptop at Night</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/outdoor-enthusiasts-guide-how-bone-conduction-headphones-revolutionized-my-diy-adventures/"><u>Outdoor Enthusiast's Guide: How Bone-Conduction Headphones Revolutionized My DIY Adventures</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcome-the-freezing-curse-in-assassins-creed-odyssey-on-your-computer-the-best-fixes-april-2024/"><u>Overcome the Freezing Curse in Assassin's Creed Odyssey on Your Computer: The Best Fixes (April 2024)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/post-nvme-era-unveiling-the-innovations-shaping-tomorrows-ssd-landscape/"><u>Post-NVMe Era: Unveiling the Innovations Shaping Tomorrow's SSD Landscape</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/rethinking-performance-5-compelling-arguments-for-skipping-the-premium-cpu/"><u>Rethinking Performance: 5 Compelling Arguments for Skipping the Premium CPU</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/review-of-the-eufy-security-solocam-s34-top-notch-solar-powered-motion-detector-for-enhanced-safety/"><u>Review of the Eufy Security Solocam S34#: Top-Notch Solar-Powered Motion Detector for Enhanced Safety</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/review-the-ultimate-guide-to-sennheiser-momentum-sport-gym-ready-headphones/"><u>Review: The Ultimate Guide to Sennheiser Momentum Sport - Gym-Ready Headphones</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revolutionary-wiim-enhancement-boost-your-classic-sound-setup-with-the-latest-streaming-technology/"><u>Revolutionary WiiM Enhancement: Boost Your Classic Sound Setup with the Latest Streaming Technology</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/say-goodbye-to-lost-remotes-discover-the-ultimate-solution-with-our-innovative-tile-remote-finder/"><u>Say Goodbye to Lost Remotes: Discover the Ultimate Solution with Our Innovative Tile Remote Finder</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/section-2c-similar-but-increasingly-complex-questions/"><u>Section 2C: Similar but Increasingly Complex Questions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/smart-home-oversight-made-easier-with-matter-13/"><u>Smart Home Oversight Made Easier with Matter 1.3</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/streamlining-your-smart-household-introducing-matter-13-solutions/"><u>Streamlining Your Smart Household: Introducing Matter 1.3 Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-final-chapter-a-closer-look-at-the-retirement-of-apples-best-selling-gem/"><u>The Final Chapter: A Closer Look at the Retirement of Apple’s Best-Selling Gem</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-future-of-data-transfer-unlocking-the-potential-of-thunderbolt-sharing-in-your-new-laptop/"><u>The Future of Data Transfer: Unlocking the Potential of Thunderbolt Sharing in Your New Laptop</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-for-implementing-bots-into-discord/"><u>The Ultimate Tutorial for Implementing Bots Into Discord</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unleash-creativity-iphone-camera-mastery-through-10-rules/"><u>Unleash Creativity IPhone Camera Mastery Through 10 Rules</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-10-switch-knockouts-the-ultimate-list-for-2024/"><u>[New] Top 10 Switch Knockouts The Ultimate List for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-concealing-identity-swift-methods-for-picscanner/"><u>[Updated] In 2024, Concealing Identity Swift Methods for PicScanner</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-monetization-an-instagram-income-journey/"><u>2024 Approved Mastering Monetization An Instagram Income Journey</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-install-hp-deskjet-series-printer-drivers-on-windows-7810-free-software-downloads/"><u>Easy Install HP Deskjet Series Printer Drivers on Windows 7/8/10 - Free Software Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-software-for-your-canon-pixma-mg2520mg2530-printers/"><u>Get the Newest Software for Your Canon PIXMA MG2520/MG2530 Printers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-windows-compatible-drivers-for-your-canon-mf743cdw-all-in-one-printer/"><u>Get the Newest Windows-Compatible Drivers for Your Canon MF743CDW All-in-One Printer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-secure-the-correct-toshiba-copying-machine-drivers-for-your-windows-operating-system/"><u>Guide: Secure the Correct Toshiba Copying Machine Drivers for Your Windows Operating System</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-to-create-amazing-mosaic-photo-collage-for-2024/"><u>How to Create Amazing Mosaic Photo Collage for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-samsung-galaxy-f54-5g-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-samsung-galaxy-f54-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Samsung Galaxy F54 5G Without PUK Codes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/increase-your-results-discover-5-productivity-hacks-for-facebook-professionals/"><u>Increase Your Results: Discover 5 Productivity Hacks for Facebook Professionals</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-the-newest-hp-officejet-4500-drivers-compatible-with-windows-and-mac/"><u>Installing the Newest HP Officejet 4500 Drivers – Compatible with Windows and Mac</u></a></li>
+<li><a href="https://discover-best.techidaily.com/top-13-strategies-transforming-your-dvds-vob-content-into-high-quality-mp4-on-pc-and-mac-systems/"><u>Top 13 Strategies: Transforming Your DVD's VOB Content Into High-Quality MP4 on PC and Mac Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-fixing-the-realtek-wireless-driver-in-windows-operating-systems-windows-11107/"><u>Troubleshooting and Fixing the Realtek Wireless Driver in Windows Operating Systems (Windows 11/10/7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-downloading-and-installing-brother-l2e-2700d-series-for-windows-pcs/"><u>Ultimate Guide to Downloading and Installing Brother L2e 2700D Series for Windows PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-steelseries-x70-optical-mouse-solving-the-non-responsive-nub-issue-full-step-by-step-guide/"><u>Ultimate Troubleshooting SteelSeries X70 Optical Mouse: Solving the Non-Responsive Nub Issue - Full Step-by-Step Guide</u></a></li>
 </ul></div>
+
