@@ -1,7 +1,7 @@
 ---
 title: "Anticipated December Release Date: Intel's New Arrow Lake-S Processor Lineup"
-date: 2024-09-11T17:00:35.731Z
-updated: 2024-09-12T17:00:35.731Z
+date: 2024-09-14T22:25:56.280Z
+updated: 2024-09-17T20:59:25.227Z
 tags:
   - cpu
 categories:
@@ -31,13 +31,6 @@ Intel has reportedly increased the maximum thermal junction (TJMax) temperature 
 
  Panther Lake-U CPUs will purportedly sport up to four high-performance cores, four ultra-low-power cores, four Xe GPU clusters, and a PBP of 15W. In contrast, the more powerful Panther Lake-U processor will seemingly pack up to four high-performance cores, eight energy-efficient cores, four ultra-low-power cores, and 12 Xe graphics clusters. However, these CPUs will dissipate up to 25W. Because the image does not come from Intel, consider its contents with a grain of salt.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -61,18 +54,24 @@ Intel has reportedly increased the maximum thermal junction (TJMax) temperature 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-achieve-fluent-fb-video-posting-windows-linux-ios-and-android-tips/"><u>[New] In 2024, Achieve Fluent FB Video Posting Windows, Linux, iOS & Android Tips</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-inside-window-11s-power-saving-secrets/"><u>[New] In 2024, Inside Window 11'S Power-Saving Secrets</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-ultimate-9-listing-best-virtual-microphones-recorders-2023/"><u>[Updated] In 2024, Ultimate 9 Listing Best Virtual Microphones Recorders 2023</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-premium-tools-for-tag-analysis-across-fb-twitter-and-instagram-for-2024/"><u>[Updated] Premium Tools for Tag Analysis Across FB, Twitter and Instagram for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-ryzen-5-2600-driver-update-fast-and-simple-download-methods/"><u>AMD Ryzen 5 2600 Driver Update: Fast & Simple Download Methods</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-infinix-note-30-5g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Infinix Note 30 5G</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-compatibility-with-new-windows-11-download-nvidia-rtx-2060-super-drivers/"><u>Ensure Compatibility with New Windows 11 - Download NVIDIA RTX 2060 Super Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-driver-update-for-your-amd-vega-56-graphic-processor-quick-guide-for-windows-users/"><u>Get the Newest Driver Update for Your AMD Vega 56 Graphic Processor - Quick Guide for Windows Users</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone 8 Plus</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-huawei-p60-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Huawei P60 Lock Screen Password</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-how-to-stream-on-mixer-macos/"><u>In 2024, How to Stream on Mixer MacOS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-nexiqs-usb-link-2-downloading-and-installation-instructions/"><u>Mastering Nexiq's USB Link 2: Downloading & Installation Instructions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-tech-secrets-a-journey-through-toms-hardware-zone/"><u>Unlocking Tech Secrets: A Journey Through Tom's Hardware Zone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-transform-your-archive-with-instagrams-filters-an-easy-guide/"><u>[New] 2024 Approved Transform Your Archive with Instagram’s Filters – An Easy Guide</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-deconstructing-the-legal-framework-of-youtube-and-cc-licenses/"><u>[New] Deconstructing the Legal Framework of Youtube & CC Licenses</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-shining-up-your-videos-on-android/"><u>[Updated] Shining Up Your Videos on Android</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/2-esplora-le-specifiche-tecniche-dellai-di-winxvideo-guida-completa-per-utenti-professionisti/"><u>2. Esplora Le Specifiche Tecniche Dell'AI Di WinXVideo – Guida Completa per Utenti Professionisti</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-update-process-for-scansnap-s1300i-drivers-get-started-today/"><u>Effortless Update Process for ScanSnap S1300i Drivers - Get Started Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-canon-mg3620-drivers-easy-guide-for-smooth-printing-experience/"><u>Get Canon MG3620 Drivers: Easy Guide for Smooth Printing Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-your-mic-working-again-how-to-resolve-microsoft-teams-sound-issues-in-windows-1110/"><u>Get Your Mic Working Again: How to Resolve Microsoft Teams Sound Issues in Windows 11/10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Honor 90 GT? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-toms-computer-world-expert-hardware-analysis/"><u>Inside Tom's Computer World: Expert Hardware Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-setup-guide-canon-pro-100-printer-drivers-compatible-with-windows-systems/"><u>Instant Setup Guide: Canon PRO-100 Printer Drivers Compatible with Windows Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/mute-mastery-playing-silently-on-xbox/"><u>Mute Mastery: Playing Silently on Xbox</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-brother-mfc-l2690dw-printer-driver-to-the-newest-version-now/"><u>Update Your Brother MFC-L2690DW Printer Driver to the Newest Version Now</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

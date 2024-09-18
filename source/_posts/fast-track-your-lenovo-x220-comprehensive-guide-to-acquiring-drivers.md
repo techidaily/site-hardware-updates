@@ -1,7 +1,7 @@
 ---
 title: "Fast Track Your Lenovo X220: Comprehensive Guide to Acquiring Drivers"
-date: 2024-09-11T17:05:43.735Z
-updated: 2024-09-12T17:05:43.735Z
+date: 2024-09-10T16:45:26.324Z
+updated: 2024-09-18T02:00:00.918Z
 tags:
   - win11
   - win10
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/ab1fb6d2b01e6d6cae2ff34bc70cb3c89b4b302b1
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **There are two methods to download & update the drivers for your Surface:**
 
@@ -66,60 +59,19 @@ thumbnail: https://thmb.techidaily.com/ab1fb6d2b01e6d6cae2ff34bc70cb3c89b4b302b1
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap728.png)
 3. In the search bar, type**Download drivers and firmware for Surface** and click**the search button** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap729.png)
 4. In the list of search results, click the link**Download drivers and firmware for Surface** (usually the first link). You’ll be redirected to a new web page.  
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap730-1.png)
 5. Scroll down until you see the model of your Surface  . Then click its drivers download link to continue. You’ll be redirected to the Download Center details page for your Surface.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap731.png)
 6. Click **Download**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap732.png)
 7. To update your Surface with the latest drivers and firmware,   **select the .msi file name that matches your operating system version** . Then click **Next**  to start downloading.  
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap733.png)  
  For example, if you’re using Surface Book 2 and the build of Windows 10 you’ve installed is build 17763, you should select**SurfaceBook2\_Win10\_17763\_1805009\_0.msi** . If you’re not sure about the version of Windows 10 you’ve installed, go to**Start** \>**Settings** \>**System** \>**About** to view**the OS Build number** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Double-click the downloaded file and follow the on-screen instructions to install its drivers.
 
@@ -143,14 +95,27 @@ Please leave your comment below if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-under-the-surface-sound-savers-top-6-stealthy-recorders-iosandroid/"><u>[New] In 2024, Under-the-Surface Sound Savers Top 6 Stealthy Recorders (iOS/Android)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-easy-steps-to-screen-record-on-macbook-air/"><u>[Updated] In 2024, Easy Steps to Screen Record on Macbook Air</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-triggering-instant-play-for-youtube-videos-on-social-media/"><u>[Updated] In 2024, Triggering Instant Play for YouTube Videos on Social Media</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/acer-nitro-e-the-ultimate-driver-update-process-for-peak-performance/"><u>Acer Nitro E: The Ultimate Driver Update Process for Peak Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-halts-global-delivery-and-inspects-all-shipped-ryzen-9000-units-following-unexplained-quality-flags-eyeing-an-august-release/"><u>AMD Halts Global Delivery & Inspects All Shipped Ryzen 9000 Units Following Unexplained Quality Flags, Eyeing an August Release</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-supported-nvidia-rtx-3070-ti-graphics-card-drivers-for-windows-versions-win11-win8-win7/"><u>Download Supported NVIDIA RTX 3070 Ti Graphics Card Drivers for Windows Versions (Win11, Win8, Win7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-epson-wf-2630-printer-drivers-for-windows-7-81-and-10-get-your-printing-started/"><u>Download the Epson WF-2630 Printer Drivers for Windows 7, 8.1 & 10 - Get Your Printing Started!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/nvidia-rtx-2n60-graphics-card-fresh-driver-downloads-for-all-windows-oses-including-win-11-10-8-and-7/"><u>NVIDIA RTX 2N60 Graphics Card - Fresh Driver Downloads for All Windows OSes Including Win 11, 10, 8 & 7</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-enhancing-visuals-with-paradox-creation-for-2024/"><u>[New] Enhancing Visuals with Paradox Creation for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exquisite-visual-enhancement-implementing-filters-on-videos-pc-and-mobile/"><u>[New] Exquisite Visual Enhancement Implementing Filters on Videos (PC & Mobile)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-free-guide-to-premium-mp4-screen-recorders/"><u>[New] Free Guide to Premium MP4 Screen Recorders</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-propel-your-presence-on-facebook-mastering-the-art-of-going-live/"><u>[Updated] Propel Your Presence on Facebook Mastering the Art of Going Live</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-elevating-your-yt-content-with-the-top-thumbnail-hacks/"><u>2024 Approved Elevating Your YT Content with the Top Thumbnail Hacks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-downloading-m-audio-fast-track-drivers-for-your-pc/"><u>Complete Guide to Downloading M-Audio Fast Track Drivers for Your PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-fixes-and-solutions-fresh-installation-of-huion-device-drivers-on-windows-os/"><u>Easy Fixes & Solutions: Fresh Installation of Huion Device Drivers on Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortlessly-enhance-your-pc-with-nahimic-drivers-what-you-need-to-know/"><u>Effortlessly Enhance Your PC with Nahimic Drivers – What You Need to Know</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fresh-installation-of-amd-driver-packs-for-improved-functionality-in-windows-operating-systems-11-7-and-xp/"><u>Fresh Installation of AMD Driver Packs for Improved Functionality in Windows Operating Systems 11, 7 & XP</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-securely-update-and-download-thunderbolt-drivers-on-windows-os/"><u>How to Securely Update and Download Thunderbolt Drivers on Windows OS</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-6-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock iPhone 6 with/without SIM Card</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-the-official-logitech-race-simulator-wheel-drivers-on-pc/"><u>Installing the Official Logitech Race Simulator Wheel Drivers on PC</u></a></li>
+<li><a href="https://video-capture.techidaily.com/seamless-solutions-for-playing-m4a-audio-on-android-phones/"><u>Seamless Solutions for Playing M4A Audio on Android Phones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-in-depth-insights-and-reviews/"><u>Tom's Tech Hub: In-Depth Insights and Reviews</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/video-platforms-clash-a-youtube-vs-dailymention-comparison/"><u>Video Platforms Clash A YouTube Vs. DailyMention Comparison</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

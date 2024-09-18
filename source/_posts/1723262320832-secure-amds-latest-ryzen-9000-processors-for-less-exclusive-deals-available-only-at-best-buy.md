@@ -1,7 +1,7 @@
 ---
 title: "Secure AMD's Latest Ryzen 9000 Processors for Less: Exclusive Deals Available Only at Best Buy."
-date: 2024-09-11T17:04:31.354Z
-updated: 2024-09-12T17:04:31.354Z
+date: 2024-09-10T23:58:26.774Z
+updated: 2024-09-18T01:35:11.711Z
 tags:
   - cpu
 categories:
@@ -22,13 +22,6 @@ AMD has listed the new Ryzen 5 9600X for pre-order on its[Canadian Amazon store]
  Traditionally, AMD's Ryzen 5 chips are incredibly attractive for mainstream gamers and PC enthusiasts, offering a great bang for the buck once online prices settle down. AMD's Ryzen 5 9600X is a six-core, 12-thread chip based on the[Zen 5 architecture](https://www.tomshardware.com/pc-components/cpus/amd-deep-dives-zen-5-ryzen-9000-and-strix-point-cpu-rdna-35-gpu-and-xdna-2-architectures) . Base clocks for the chip are 3.9 GHz, with boosts up to 5.4 GHz. This power will come with a TDP of 65W and a peak power draw of only 88W. A 38MB (6+32) cache and support for up to DDR5-5600 memory round out the spec sheet.  
   
  AMD showed the Ryzen 5 9600X crushing Intel's Core i5-14600K by 22% in productivity[benchmarks](https://www.tomshardware.com/tag/benchmark) and 11% in gaming at its Zen 5 Tech Day, with an 88W peak power draw versus Intel's 181W. A lead of this margin for almost half of the power shows strong performance for the bottom of AMD's Zen 5 desktop CPU slate, though as always we need to take manufacturer benchmarks with a spoonful of salt. If AMD prices Ryzen 5 9600X below $300 (which we suspect it will, eventually), it becomes a shoo-in for[our best value CPU](https://www.tomshardware.com/reviews/best-cpus,3986.html#section-value-best-cpu-for-gaming-200-to-250) , a spot currently held by the Ryzen 5 7600X.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -53,20 +46,23 @@ AMD has listed the new Ryzen 5 9600X for pre-order on its[Canadian Amazon store]
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-unveiling-optimal-sites-for-pixel-sounds/"><u>[New] 2024 Approved Unveiling Optimal Sites for Pixel Sounds</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-thinkpad-thunderbolt-3-dock-driver/"><u>[UPDATE] ThinkPad Thunderbolt 3 Dock Driver</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-complete-hand-tracking-encyclopedia/"><u>[Updated] 2024 Approved The Complete Hand-Tracking Encyclopedia</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-chart-topping-ideas-to-invigorate-your-youtube-channel/"><u>[Updated] Chart-Topping Ideas to Invigorate Your YouTube Channel</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-flawless-frame-capturer-kit-for-2024/"><u>[Updated] Flawless Frame Capturer Kit for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-from-plate-to-screen-perfecting-the-art-of-food-cinema/"><u>2024 Approved From Plate to Screen Perfecting the Art of Food Cinema</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-free-m-audio-ultradriver-now-amp-up-your-audio-experience/"><u>Download Free M-Audio UltraDriver Now: Amp Up Your Audio Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722963427141-effortless-windows-7-keyboard-driver-download-get-started-now/"><u>Effortless Windows 7 Keyboard Driver Download – Get Started Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/groove-music-summer-vibes-a-playlist-curated-to-capture-the-essence-of-a-carefree-summer-perfect-for-when-you-want-to-feel-uplifted-and-joyful/"><u>Groove Music 'Summer Vibes': A Playlist Curated to Capture the Essence of a Carefree Summer, Perfect for when You Want to Feel Uplifted and Joyful</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Lava Yuva 3? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-laptop-editing-avoiding-inshot-dependence/"><u>In 2024, Laptop Editing Avoiding Inshot Dependence</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-setting-up-infringement-driver-support-on-windows-10-7-8-xp-and-vista/"><u>Step-by-Step Guide: Setting Up Infringement Driver Support on Windows 10, 7, 8, XP & Vista</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-updating-samsungs-usb-drivers-for-optimal-smartphone-functionality/"><u>Troubleshooting and Updating Samsung's USB Drivers for Optimal Smartphone Functionality</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-corsair-k55-drivers-with-the-newest-version-now-available/"><u>Update Your Corsair K55 Drivers with the Newest Version Now Available</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/windows-installation-guide-how-to-get-your-logitech-g600-drivers/"><u>Windows Installation Guide: How to Get Your Logitech G600 Drivers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-skald-rage-new-age-of-might/"><u>[New] In 2024, Skald Rage New Age of Might</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-esteemed-creators-best-of-breed-insta-hlv-makers/"><u>[Updated] 2024 Approved Esteemed Creators Best-of-Breed Insta HLV Makers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-how-generative-ai-could-fuel-false-information-campaigns/"><u>Exploring How Generative AI Could Fuel False Information Campaigns</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-brother-hl-2240-printer-software-for-optimal-performance-on-your-windows-machine/"><u>Get the Latest Brother HL-2240 Printer Software for Optimal Performance on Your Windows Machine!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Motorola Defy 2? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-vivo-g2-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Vivo G2 to Another | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-and-apple-a-topping-team-at-global-educational-summit/"><u>Mondly and Apple: A Topping Team at Global Educational Summit</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/pioneering-computer-hardware-analysis-by-toms-technology-hub/"><u>Pioneering Computer Hardware Analysis by Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolved-access-newly-patched-and-updated-wireless-network-adapter-drivers-for-seamless-internet-experience/"><u>Resolved! Access Newly Patched and Updated Wireless Network Adapter Drivers for Seamless Internet Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ryzen-9-9950x-the-new-contender-exploring-the-performance-of-amds-zen-5-chipset-under-full-blast/"><u>Ryzen 지니9 9950X - The New Contender: Exploring the Performance of AMD's Zen 5 Chipset Under Full Blast</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-compatible-toshiba-driver-downloads-update-seamlessly-today/"><u>Windows Compatible Toshiba Driver Downloads – Update Seamlessly Today!</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

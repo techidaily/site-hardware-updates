@@ -1,7 +1,7 @@
 ---
 title: "AMD Ryzen Chipset Updates: Secure and Simple Guide"
-date: 2024-09-11T17:06:35.651Z
-updated: 2024-09-12T17:06:35.651Z
+date: 2024-09-17T01:43:21.592Z
+updated: 2024-09-18T02:04:28.453Z
 tags:
   - win11
   - win10
@@ -30,31 +30,11 @@ OR
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Option 1: Download and install the FT232R USB UART driver manually
 
 **FTDI** keeps updating drivers. To get them, you need to go to[the official FTDI website](https://www.ftdichip.com/Drivers/VCP.htm) , find the drivers corresponding with your specific flavor of Windows version (for example, Windows 64 bit) and download the driver manually.
 
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Option 2: Automatically update the FT232R USB UART driver
 
@@ -69,28 +49,8 @@ OR
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea6bc2b9153.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![update drivers](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea6f20bd3d7.jpg)  
 **Note:** You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -115,16 +75,28 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-premier-media-mover-mp4-to-fb/"><u>[New] 2024 Approved Premier Media Mover MP4-to-FB</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-audio-clarity-10-pro-tips-for-high-quality-recordings/"><u>[Updated] 2024 Approved Audio Clarity 10 Pro Tips for High-Quality Recordings</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/access-high-quality-microphone-and-speakers-with-new-microsoft-drivers-on-windows-download-here/"><u>Access High-Quality Microphone and Speakers with New Microsoft Drivers on Windows - Download Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-the-latest-epson-xp-420-printer-drivers/"><u>Download & Update the Latest Epson XP-420 Printer Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/freshest-canon-mg2n-series-driver-version-free-download-and-setup-help/"><u>Freshest Canon MG2n Series Driver Version - Free Download & Setup Help</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-and-understanding-how-to-use-imessage-on-your-computer/"><u>Navigating and Understanding How to Use iMessage on Your Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/simple-guide-get-free-gtx-780-graphics-card-driver-installation-for-your-windows-pc/"><u>Simple Guide: Get Free GTX 780 Graphics Card Driver Installation for Your Windows PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-downloading-and-installing-hp-840-g3-driver-software/"><u>Step-by-Step Guide: Downloading & Installing HP 840 G3 Driver Software</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-selection-2024s-premier-video-game-platforms-unveiled/"><u>Ultimate Selection: 2024'S Premier Video Game Platforms Unveiled!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-top-5-non-commercial-art-influencers/"><u>Unveiling Top 5 Non-Commercial Art Influencers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-ideal-capturists-for-academic-presentations/"><u>[New] 2024 Approved Ideal Capturists for Academic Presentations</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-full-screen-recovered-from-obs-errors/"><u>[Updated] 2024 Approved Full Screen Recovered From OBS Errors</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enriching-vlog-topics-to-share/"><u>[Updated] In 2024, Enriching Vlog Topics to Share</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/10-spectacularly-free-luts-elevate-with-exclusive-purchase-options-for-2024/"><u>10 Spectacularly Free LUTs; Elevate with Exclusive Purchase Options for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-honor-magic-5-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-download-thrustmaster-t300-controller-drivers-for-modern-windows-pcs/"><u>Easy Download: Thrustmaster T300 Controller Drivers for Modern Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-lenovo-x1-carbon-graphics-and-system-drivers-on-windows-operating-systems/"><u>Effortless Installation of Lenovo X1 Carbon Graphics and System Drivers on Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-seamless-printing-with-the-newest-epson-wf-n3620-drivers-compatible-with-all-windows-versions-windows-1187/"><u>Ensure Seamless Printing with the Newest Epson WF-N3620 Drivers - Compatible With All Windows Versions (Windows 11/8/7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-advice-from-toms-gadget-hub-unveiling-the-best-in-tech/"><u>Expert Advice From Tom's Gadget Hub: Unveiling the Best in Tech</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-non-responsive-start-button-on-windows-10-easy-solutions/"><u>Fixing the Non-Responsive Start Button on Windows 10 - Easy Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-better-controls-discover-the-latest-update-for-your-logitech-extreme-3d-pro-drivers/"><u>Get Better Controls – Discover the Latest Update for Your Logitech Extreme 3D Pro Drivers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-issue-when-deathloop-wont-open/"><u>How to Overcome the Issue When Deathloop Won't Open</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-facetime-call-history-on-iphone-15-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover FaceTime Call History on iPhone 15 Pro | Stellar</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-at-home-workflows-with-these-six-powerful-uses-of-chatgpt-for-productivity/"><u>Revolutionize Your At-Home Workflows with These Six Powerful Uses of ChatGPT for Productivity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/scansnap-driver-download-and-update-for-windows-easily/"><u>ScanSnap Driver Download & Update for Windows EASILY</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-fix-for-network-adapters-in-windows-7-operating-system/"><u>Step-by-Step Fix for Network Adapters in Windows 7 Operating System</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

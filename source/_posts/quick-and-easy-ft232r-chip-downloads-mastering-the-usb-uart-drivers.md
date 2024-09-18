@@ -1,7 +1,7 @@
 ---
 title: "Quick and Easy FT232R Chip Downloads: Mastering the USB UART Drivers"
-date: 2024-09-11T17:05:23.863Z
-updated: 2024-09-12T17:05:23.863Z
+date: 2024-09-13T18:19:05.566Z
+updated: 2024-09-17T18:23:05.903Z
 tags:
   - win11
   - win10
@@ -22,19 +22,6 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2 options to update **HP ENVY 5660 drivers**
 
  Both methods below work in**Windows 10** ,**8.1**  and**7** . And as the method list suggests, you don’t have to try both. Just decide if you want to do it manually or automatically and take your pick:
@@ -51,33 +38,7 @@ If you’re not confident playing around with drivers manually, you can do it au
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e00c0171da.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2: Update **HP ENVY 5660**  driver manually
 
@@ -86,30 +47,9 @@ If you’re not confident playing around with drivers manually, you can do it au
 1. Go to **[HP’s official website for driver downloads](https://support.hp.com/hk-en/drivers)**  , and click**Printer** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17620c2da6d.jpg)
 2. Type**HP ENVY 5660** into the box and click**Submit** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1762cc8910c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Make sure the selected operating system is **the right version for your Windows OS** (Windows 10, 64-bit in my example) and click**Download** in**the first result** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b176382863d2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Double-click on the downloaded file and follow the onscreen instructions to finish the install.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Restart your computer for the changes to take effect.
 
@@ -134,20 +74,22 @@ If you’re not confident playing around with drivers manually, you can do it au
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2023-browser-snapshot-winners-announced-for-2024/"><u>[Updated] 2023 Browser Snapshot Winners Announced for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722976038966-confusion-may-result-from-metabolic-disturbances-infections-toxic-ingestions-or-increased-intracranial-pressure/"><u>Confusion May Result From Metabolic Disturbances, Infections, Toxic Ingestions, or Increased Intracranial Pressure.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-installation-guide-hp-laserjet-pro-p1606dn-printer-software-for-windows/"><u>Download and Installation Guide: HP LaserJet Pro P1606dn Printer Software for Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-install-guide-canon-mf8200c-driver-download-for-windows-7-81-and-10/"><u>Easy Install Guide: Canon MF8200C Driver Download for Windows 7, 8.1 & 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-steelseries-drivers-on-windows-systems-comprehensive-guide/"><u>Easy Installation of SteelSeries Drivers on Windows Systems – Comprehensive Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-xcover-6-pro-tactical-edition-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy XCover 6 Pro Tactical Edition Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-audiovisual-harmony-merging-audio-and-visual-elements-on-youtube/"><u>In 2024, Audiovisual Harmony Merging Audio and Visual Elements on YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-strategies-for-altering-pubg-speech-for-2024/"><u>Innovative Strategies for Altering PUBG Speech for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-display-driver-updates-and-easy-installation-guide-for-windows/"><u>Latest Display Driver Updates and Easy Installation Guide for Windows</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-sony-xperia-5-v-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Sony Xperia 5 V, is it possible?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-guide-to-downloading-your-zebra-gk420d-driver-effortless-setup/"><u>Quick Guide to Downloading Your ZEBRA GK420d Driver – Effortless Setup!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-iphones-final-line-unavailable-issue-a-step-by-step-guide/"><u>Resolving iPhone's Final Line Unavailable Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-for-easy-microsoft-driver-installationupdates-in-windows-1187/"><u>Step-by-Step Instructions for Easy Microsoft Driver Installation/Updates in Windows 11/8/7</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-of-no-fee-community-driven-dns-options/"><u>Ultimate Selection of No-Fee, Community-Driven DNS Options</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-realme-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Realme</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-unveiling-secrets-to-adding-seconds-to-youtube-clips/"><u>2024 Approved Unveiling Secrets to Adding Seconds to YouTube Clips</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-realme-gt-3-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Realme GT 3</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-intel-usb3-ethernet-controller-driver/"><u>Download & Install Intel USB3 Ethernet Controller Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-seamless-connectivity-with-tp-link-ub400-bluetooth-stick-download-latest-firmware/"><u>Ensure Seamless Connectivity with TP-Link UB400 Bluetooth Stick - Download Latest Firmware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-your-printer-works-latest-canoscan-lide-220-driver-downloads-and-updates/"><u>Ensure Your Printer Works: Latest CanoScan LiDE 220 Driver Downloads and Updates</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/forge-business-identity-no-cost-customizable-logo-templates-available-for-2024/"><u>Forge Business Identity No-Cost Customizable Logo Templates Available for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/lenovo-users-manual-hassle-free-process-to-update-pc-firmware-and-driver-set/"><u>Lenovo User’s Manual: Hassle-Free Process to Update PC Firmware & Driver Set</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-arduino-drivers-on-your-pc/"><u>Step-by-Step Guide: Installing Arduino Drivers on Your PC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-raspberry-pi-offers-and-savings/"><u>Top Raspberry Pi Offers and Savings</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Discover the Power of AI in Computing with AMD's Brand-New Ryzen Processors Featuring Strix Halo & Kraken Point Upgrades
-date: 2024-09-11T17:00:51.971Z
-updated: 2024-09-12T17:00:51.971Z
+date: 2024-09-16T22:27:18.002Z
+updated: 2024-09-18T01:26:31.541Z
 tags:
   - cpu
 categories:
@@ -26,13 +26,6 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
  "One chip for many uses" was also the guiding light in determining Cixin P1's use cases. "[Notebooks](https://www.tomshardware.com/tag/notebooks) , mini PCs, all-in-one computers, desktops, home entertainment consoles,[enterprise](https://www.tomshardware.com/tag/enterprise) edge hosts, etc.," were cited as potential uses for the P1, and launch attendees saw the processor power notebooks and desktops. They also saw the many uses in person, as the company had[benchmarks](https://www.tomshardware.com/tag/benchmark) like 3DMark06 and the popular video game Genshin Impact running on the floor, along with other productivity and AI LLM demos. No numbers, such as benchmark results or Genshin's frames per second, were shown — though reporters qualitatively describe demos as running smoothly.
 
  The Cixin P1 is a very unique processor. While it does not fulfill Beijing's goals of being a fully home-grown processor because it uses Arm CPU and GPU designs, the chip is specifically designed for the needs of the Chinese market and stands ready to enjoy some level of success. It also sadly does not meet[Microsoft](https://www.tomshardware.com/tag/microsoft) 's arbitrary "AI PC" requirements. The P1's NPU on its own is only 30 TOPS — shy of the 40 TOPS target — though it's likely that Cixin could not care less about Windows Copilot+ certification.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -59,20 +52,28 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-navigating-the-tech-maze-screen-casting-sessions/"><u>[New] 2024 Approved Navigating the Tech Maze Screen Casting Sessions</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-apeaksoft-screen-recorder-review/"><u>[New] Apeaksoft Screen Recorder Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-ricoh-mp-c3003-printer-software-free-driver-pack/"><u>Download Ricoh MP C3003 Printer Software - Free Driver Pack</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/essential-download-guide-getting-started-with-your-new-logitech-m525-keyboard/"><u>Essential Download Guide: Getting Started with Your New Logitech M525 Keyboard</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-find-download-and-update-your-canon-mg3600-printer-software/"><u>How to Find, Download & Update Your Canon MG3600 Printer Software</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor ?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-hardware-insights-with-toms-technology-hub/"><u>Mastering Hardware Insights with Tom's Technology Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-printing-on-windows-11-10-and-8-download-the-latest-epson-artisan-1430-drivers-today/"><u>Seamless Printing on Windows 11, 10 & 8: Download the Latest Epson Artisan 1430 Drivers Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-to-optimize-amd-radeon-hd-7870-with-new-drivers-on-windows-10-platforms/"><u>Step-by-Step Instructions to Optimize AMD Radeon HD 7870 with New Drivers on Windows 10 Platforms</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/stop-video-buffering-during-streaming/"><u>Stop Video Buffering During Streaming</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-ios-photography-handling-issues-with-image-capture-and-processing/"><u>Troubleshooting iOS Photography: Handling Issues with Image Capture and Processing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-improvements-in-the-latest-version-of-logitech-extreme-3d-driver/"><u>Unveiling Improvements in the Latest Version of Logitech Extreme 3D Driver</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-5-best-video-editing-apps-for-iphone/"><u>Updated 2024 Approved Top 5 Best Video Editing Apps for iPhone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/windows-movie-maker-error-fixes-for-windows-11-users-solving-silent-audio-and-operation-issues/"><u>Windows Movie Maker Error Fixes for Windows 11 Users: Solving Silent Audio and Operation Issues</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725287743634-windows-11and/"><u>ビデオエンコードツール：Windows 11用のおすすめフリーソフト&簡単操作手順</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-beginners-guide-to-interpreting-facebook-metrics/"><u>[New] Beginner's Guide to Interpreting Facebook Metrics</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-legal-implications-of-youtube-video-savings/"><u>[Updated] In 2024, Legal Implications of YouTube Video Savings</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-lyrical-explanation-designer/"><u>[Updated] Lyrical Explanation Designer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-metaverse-laughter/"><u>[Updated] The Ultimate Guide to Metaverse Laughter</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-harmonious-social-media-incorporating-soundtracks-into-fb-videos/"><u>2024 Approved Harmonious Social Media Incorporating Soundtracks Into FB Videos</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-13-mini-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 13 mini to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-m-audio-fast-track-ultra-drivers-available-for-free-premium-sound-experience/"><u>Best M-Audio Fast Track Ultra Drivers Available for Free – Premium Sound Experience</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/breaking-into-the-elite-6-steps-for-becoming-an-instagram-certified-account-for-2024/"><u>Breaking Into the Elite 6 Steps for Becoming an Instagram Certified Account for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-installing-iphones-with-the-latest-drivers-for-windows-11-users/"><u>Easy Guide: Installing iPhones with the Latest Drivers for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-and-fast-hp-officejet-pro-8740-drivers-for-windows-11108-secure-download-links/"><u>Free and Fast HP Officejet Pro 8740 Drivers for Windows 11/10/8 - Secure Download Links!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-xbox-360-gamepad-compatibility-drivers-available-now/"><u>Free Xbox 360 Gamepad Compatibility Drivers Available Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-farming-simulator-22-not-launching/"><u>How to Fix Farming Simulator 22 Not Launching</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/optimizing-performance-download-the-updated-sm-bus-controller-software-patch-for-your-dell-pc/"><u>Optimizing Performance: Download the Updated SM Bus Controller Software Patch for Your Dell PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/understanding-stock-android-what-does-it-mean-for-your-smartphone-experience/"><u>Understanding Stock Android: What Does It Mean for Your Smartphone Experience?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-to-windows-11-and-get-the-ultimate-gaming-software-free-steelseries-engine/"><u>Upgrade to Windows 11 and Get the Ultimate Gaming Software - Free SteelSeries Engine</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/usb-30-driver-installation-tutorial-for-windows-operating-systems/"><u>USB 3.0 Driver Installation Tutorial for Windows Operating Systems</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

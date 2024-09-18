@@ -1,7 +1,7 @@
 ---
 title: Corsair's H80i V2 CPU Water Block Driver Download – Step-by-Step Tutorial
-date: 2024-09-11T17:03:13.651Z
-updated: 2024-09-12T17:03:13.651Z
+date: 2024-09-10T23:16:34.776Z
+updated: 2024-09-17T16:04:40.802Z
 tags:
   - win11
   - win10
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 1 – Automatically update the HP LaserJet P1006 driver
 
  If you don’t have the time, patience or computer skills to update the HP LaserJet P1006 driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -48,40 +41,13 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-19-51.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the **Update**  button next to the HP LaserJet P1006 driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-19-56.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2 – Download and install the driver manually
 
@@ -97,23 +63,9 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-20-28-1-1024x762.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Find the driver you want, then click **Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-20-34-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)**  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
@@ -141,14 +93,24 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-approach-to-master-multi-window-video-on-edge/"><u>[New] Expert Approach to Master Multi-Window Video on Edge</u></a></li>
-<li><a href="https://extra-information.techidaily.com/changing-photo-colors-with-ease/"><u>Changing Photo Colors with Ease</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-compatible-drivers-unlock-full-potential-of-your-logitech-k350-device/"><u>Download Compatible Drivers: Unlock Full Potential of Your Logitech K350 Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-dedicated-nvidia-geforce-rtx-3090-drivers-compatible-with-windows-1187/"><u>Free Download: Dedicated NVIDIA GeForce RTX 3090 Drivers Compatible with Windows 11/8/7</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-apple-iphone-14-plus-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the Apple iPhone 14 Plus Without Previous Owner?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-se-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone SE iOS? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-stream-drivers-fast-and-easy-installation-guide/"><u>HP Stream Drivers - Fast and Easy Installation Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-zooming-in-on-effective-win11-meetings-for-2024/"><u>Ultimate Guide to Zooming In on Effective Win11 Meetings for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-enriched-narratives-with-these-top-video-text-treatments/"><u>2024 Approved Enriched Narratives with These Top Video Text Treatments</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-installing-hp-printer-drivers-on-windows-1011-systems/"><u>Easy Guide to Downloading & Installing HP Printer Drivers on Windows 10/11 Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-growth-and-impact-of-electric-car-adoption/"><u>Exploring the Growth and Impact of Electric Car Adoption</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-canon-mp560-driver-quick-download-and-setup-instructions/"><u>Get the Latest Canon MP560 Driver: Quick Download & Setup Instructions</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-motorola-moto-g23-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Motorola Moto G23 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-set-up-your-logitech-momo-wheel-driver-on-a-pc-step-by-step-guide/"><u>How to Set Up Your Logitech MOMO Wheel Driver on a PC - Step by Step Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-samsung-galaxy-s23-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Samsung Galaxy S23 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-iphone-14-pro-max-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect iPhone 14 Pro Max and iPad</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-the-installation-process-the-best-way-to-update-your-windows-with-epson-et-4550-drivers/"><u>Mastering the Installation Process: The Best Way to Update Your Windows with Epson ET-4550 Drivers</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-facebook-settings-change-your-year-of-birth/"><u>Navigating Facebook Settings: Change Your Year of Birth</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-geforce-rtx-3070-ti-driver-update-windows-1187-compatible-version-available-now/"><u>NVIDIA GeForce RTX 3070 Ti Driver Update - Windows 11/8/7 Compatible Version Available Now</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-resolving-frequent-freezes-in-overwatch-gameplay/"><u>Troubleshooting: Resolving Frequent Freezes in Overwatch Gameplay</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

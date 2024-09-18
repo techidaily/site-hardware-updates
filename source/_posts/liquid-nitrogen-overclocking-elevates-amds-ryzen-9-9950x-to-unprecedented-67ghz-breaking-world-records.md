@@ -1,7 +1,7 @@
 ---
 title: Liquid Nitrogen Overclocking Elevates AMD's Ryzen #9 9950X to Unprecedented 6.7GHz, Breaking World Records!
-date: 2024-09-11T17:05:51.610Z
-updated: 2024-09-12T17:05:51.610Z
+date: 2024-09-16T01:54:39.228Z
+updated: 2024-09-17T16:37:18.205Z
 tags:
   - cpu
 categories:
@@ -31,19 +31,6 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
 
  Ryzen 9 9950X’s performance boosts over the 7950X are nothing to scoff at. While some overclocking headroom is lost over the 7950X, AMD’s own[benchmarks](https://www.tomshardware.com/tag/benchmark) and[recent leaked tests in the wild](https://www.tomshardware.com/pc-components/cpus/amds-new-zen-5-flagship-gets-benchmarked-ryzen-9-9950x-engineering-sample-isnt-as-impressive-in-blender-at-maximum-power-settings) show a 30% increase in performance for the same wattage. For more details from Zen 5 Tech Day about the entire Granite Ridge lineup and Strix Point,[see our full coverage of the event](https://www.tomshardware.com/pc-components/cpus/amd-deep-dives-zen-5-ryzen-9000-and-strix-point-cpu-rdna-35-gpu-and-xdna-2-architectures) .
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -67,20 +54,28 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-pickup-or-something-else-unveiling-best-android-photo-editor/"><u>[New] PickUp or Something Else? Unveiling Best Android Photo Editor</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-optimize-oust-and-outperform-youtube-titles-that-dominate-for-2024/"><u>[Updated] Optimize, Oust & Outperform YouTube Titles That Dominate for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastery-in-music-selection-enhancing-video-packages/"><u>2024 Approved Mastery in Music Selection Enhancing Video Packages</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-navigating-instagram-hashtags-maximizing-post-exposure-and-engagement/"><u>2024 Approved Navigating Instagram Hashtags Maximizing Post Exposure & Engagement</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-driver-downloads-and-updates-for-lenovo-thinkpad-t-series-including-t500/"><u>Effortless Driver Downloads and Updates for Lenovo ThinkPad T Series, Including T500</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-drama-to-film-shaping-realistic-dialogue/"><u>From Drama to Film Shaping Realistic Dialogue</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-rtl8188cu-wireless-network-adapter-driver-supporting-windows-710/"><u>Get the Latest RTL8188CU Wireless Network Adapter Driver Supporting Windows 7/10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-intel-wi-fi-6-ax200-drivers-compatible-with-windows-11-and-10-free-update-now/"><u>Get the Newest Intel Wi-Fi 6 AX200 Drivers Compatible with Windows 11 & 10 - Free Update Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-netgear-adapter-driver-version-free-download-here/"><u>Get the Newest NETGEAR Adapter Driver Version - Free Download Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/getting-the-newest-display-driver-software-for-your-hp-pavilion-or-envy-laptop-models-840-841-etc/"><u>Getting the Newest Display Driver Software for Your HP Pavilion or Envy Laptop Models (840, 841, Etc.)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-t2x-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo T2x 5G Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/safe-and-reliable-your-guide-to-downloading-sades-headset-drivers-compatible-with-all-windows-versions/"><u>Safe and Reliable - Your Guide to Downloading Sades Headset Drivers Compatible with All Windows Versions</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-resolution-guide-for-failed-intel-dptf-driver-setup-on-your-pc/"><u>Step-by-Step Resolution Guide for Failed Intel DPTF Driver Setup on Your PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1723808273124-ultimate-tutorial-on-linking-laptop-and-television-through-hdmi-visual-steps-included/"><u>Ultimate Tutorial on Linking Laptop and Television Through HDMI – Visual Steps Included!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/understanding-computing-power-with-toms-hardware-reviews/"><u>Understanding Computing Power with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-perfecting-the-art-of-whatsapp-call-logging/"><u>[New] Perfecting the Art of WhatsApp Call Logging</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-snapchat-integration-for-twitters-visual-content/"><u>[Updated] 2024 Approved Snapchat Integration for Twitter's Visual Content</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lens-legends-battle-sj6-versus-xiaomis-yi-4k-visionary/"><u>[Updated] Lens Legends Battle SJ6 Versus Xiaomi's Yi 4K Visionary</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-find-youtube-sponsorships-by-using-famebit/"><u>2024 Approved How to Find YouTube Sponsorships by Using FameBit</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-graphics-card-software-nvidia-gtx-980-ti-driver-downloads-available-now/"><u>Get the Newest Graphics Card Software: Nvidia GTX ^ 980 Ti Driver Downloads Available Now!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-f04-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Samsung Galaxy F04 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-logitech-g203-headset-on-windows-71011-driver-download-included/"><u>How to Update Your Logitech G203 Headset on Windows 7/10/11 - Driver Download Included</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Vivo Y56 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-the-cheapest-cloud-storage-service-for-mass-file/"><u>In 2024, The Cheapest Cloud Storage Service for Mass File</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-new-driver-packages-on-your-hp-z440-workstation-machine/"><u>Installing New Driver Packages on Your HP Z440 Workstation Machine</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-legion-5-pro-upgrade-to-modern-drivers-ach6h-edition/"><u>Lenovo Legion 5 Pro - Upgrade to Modern Drivers: ACH6H Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-guide-to-resolving-windows-http-too-many-requests-issue/"><u>Mastery Guide to Resolving Windows' HTTP Too Many Requests Issue</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-update-for-your-netgear-wna310-drivers-start-here/"><u>Quick & Easy Update for Your Netgear WNA310# Drivers - Start Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-dell-d3100-driver-update-process-a-comprehensive-guide-with-links-and-resources/"><u>Seamless Dell D3100 Driver Update Process: A Comprehensive Guide with Links & Resources</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/seamless-video-playback-on-kodi-master-the-art-of-fixing-buffering-woes/"><u>Seamless Video Playback on Kodi - Master the Art of Fixing Buffering Woes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-fixing-intel-csr8510-a10-driver-compatibility-with-the-latest-windows-version/"><u>Step-by-Step: Fixing Intel CSR8510 A10 Driver Compatibility with the Latest Windows Version</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Restarting a Stalled iGFX Module"
-date: 2024-09-11T17:05:39.985Z
-updated: 2024-09-12T17:05:39.985Z
+date: 2024-09-13T00:28:16.425Z
+updated: 2024-09-18T01:26:58.696Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ OR
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Option 1: Automatically update your Elgato HD60 driver (recommended)
 
  If you don’t have the time, patience, or computer skills to update the  
@@ -54,32 +47,11 @@ OR
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-11-04_11-33-08.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the Game Capture HD60 driver for now, click the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-11-04_11-35-05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Option 2: Manually update your
 
@@ -91,21 +63,7 @@ OR
 2. Click**Download Driver for Elgato Video Capture** to start the download process.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-11-04_11-52-38.jpg)
 3. Double-click on the downloaded file (**with .exe extension** ) and then follow the onscreen instructions to install it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-11-04_11-58-53.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Wait for the installation to complete. When it’s done, restart your PC for the changes to be fully implemented.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -129,21 +87,27 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-10-best-free-video-conferencing-with-screen-sharing/"><u>[New] 2024 Approved 10 Best Free Video Conferencing With Screen Sharing</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-mastering-board-functionality-a-comprehensive-approach-to-using-whiteboards-in-zoom-meetings/"><u>[New] 2024 Approved Mastering Board Functionality A Comprehensive Approach to Using Whiteboards in Zoom Meetings</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-dailymotion-vs-youtube-who-earns-more-from-video-content-in-2024/"><u>[New] Dailymotion vs YouTube Who Earns More From Video Content, In 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-finalized-choices-best-10-video-editing-tools-for-reels/"><u>2024 Approved Finalized Choices Best 10 Video Editing Tools for Reels</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-amd-graphics-drivers-optimized-for-windows-11-7-8-and-81-operating-systems/"><u>Download AMD Graphics Drivers: Optimized for Windows 11, 7, 8 and 8.1 Operating Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-hp-officejet-pro-8620-driver-on-windows/"><u>Download and Install HP Officejet Pro 8620 Driver on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-download-guide-thunderbolt-drivers-for-your-windows-computer/"><u>Easy Download Guide: Thunderbolt Drivers for Your Window's Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722974122519-easy-installation-instructions-for-hp-officejet-vee-3830-printer-driver-on-windows-pcs/"><u>Easy Installation Instructions for HP Officejet Vee 3830 Printer Driver on Windows PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-correctly-install-and-manage-arduino-unos-drivers-in-your-windows-system/"><u>How to Correctly Install and Manage Arduino Uno's Drivers in Your Windows System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-asus-laptop-drivers-free-downloads-and-tips/"><u>How to Get the Latest ASUS Laptop Drivers – Free Downloads & Tips</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/hustle-free-download-free-gif-conversion-tools-ranked/"><u>Hustle-Free, Download-Free GIF Conversion Tools Ranked</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-iphone-14-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your iPhone 14 in Security Lockout? Proper Ways To Unlock</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-reimagining-photo-presentation-with-top-frame-tools/"><u>In 2024, Reimagining Photo Presentation with Top Frame Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revamp-computing-experience-with-quick-intel-cpu-driver-downloads/"><u>Revamp Computing Experience with Quick Intel CPU Driver Downloads</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ling-youtubes-complex-view-count-system/"><u>Unveiling YouTube's Complex View Count System</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1725286995781-winxdvd/"><u>WinXDVD 的運用技術分享與合作方法</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-enhancing-your-facebook-presence-with-effective-covers/"><u>[New] 2024 Approved Enhancing Your Facebook Presence with Effective Covers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-video-production-essential-lessons-for-beginners/"><u>[Updated] Mastering Video Production Essential Lessons for Beginners</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ultimate-guide-easycapture-v2-analysis/"><u>[Updated] Ultimate Guide EasyCapture V2 Analysis</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-navigating-the-square-wave-of-facebook-video-popularity/"><u>2024 Approved Navigating the Square Wave of Facebook Video Popularity</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pinnacle-ai-transcribers-for-speech/"><u>2024 Approved Pinnacle AI Transcribers for Speech</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/brother-hl-l2n80dw-complete-driver-installation-guide-for-windows-users/"><u>Brother HL-L2n80DW: Complete Driver Installation Guide for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-logitech-g933-drivers-updated-guide/"><u>Download the Newest Logitech G933 Drivers - Updated Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-driver-compatible-with-windows-pcs-realteks-rtl8188eed-wifi-card-software/"><u>Get the Latest Driver: Compatible with Windows PCs - Realtek's RTL81ˈ88EED WiFi Card Software</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-gratitude-for-american-birthday/"><u>Global Gratitude for American Birthday</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

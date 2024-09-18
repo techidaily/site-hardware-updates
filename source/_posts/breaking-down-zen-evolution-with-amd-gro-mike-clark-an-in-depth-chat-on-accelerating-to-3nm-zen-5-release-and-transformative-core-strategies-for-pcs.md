@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down Zen Evolution with AMD' Gro Mike Clark: An In-Depth Chat on Accelerating to 3Nm, Zen 5 Release & Transformative Core Strategies for PCs"
-date: 2024-09-11T17:06:56.364Z
-updated: 2024-09-12T17:06:56.364Z
+date: 2024-09-12T00:48:35.938Z
+updated: 2024-09-17T16:12:34.334Z
 tags:
   - cpu
 categories:
@@ -31,13 +31,6 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  With all these technologies working in tandem, the overclocker achieved an idle frequency of 5.86 GHz. In stress testing, the maximum single-thread clock speed was 5.758 GHz, with a maximum multi-core frequency of 5.454 GHz operating at 95.2 degrees Celsius at a package power of 172.1 watts.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,18 +56,33 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-fb-video-retrieval-the-top-5-software-compared/"><u>2024 Approved FB Video Retrieval The Top 5 Software Compared</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/are-arrow-lake-cpus-by-intel-set-to-push-temperature-boundaries-beyond-current-models/"><u>Are Arrow Lake CPUs by Intel Set to Push Temperature Boundaries Beyond Current Models?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-updating-canons-mx-series-printer-drivers-on-windows-systems/"><u>Easy Guide to Downloading & Updating Canon's MX Series Printer Drivers on Windows Systems</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-lenovo-frp-by-drfone-android/"><u>Full Guide to Bypass Lenovo FRP</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-itel-p55-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Itel P55 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y100i-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y100i Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-top-6-best-apps-for-making-photo-slideshow-with-music-on-iphone/"><u>In 2024, FREE Top 6 Best Apps for Making Photo Slideshow With Music on iPhone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-xiaomi-13t-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Xiaomi 13T Pro Lock Screen Password</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-m54-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy M54 5G Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-guide-installingupdating-synaptics-graphics-drivers-on-windows-systems/"><u>Quick Guide: Installing/Updating Synaptics Graphics Drivers on Windows Systems</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/selecting-the-top-8-linux-screenshots-tools/"><u>Selecting the Top 8 Linux Screenshots Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-computer-review-your-ultimate-guide-to-tech-gear/"><u>Tom's Computer Review: Your Ultimate Guide to Tech Gear</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-now-compatible-brothers-scanner-drivers-for-windows-systems/"><u>Update Now: Compatible Brothers Scanner Drivers for Windows Systems</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-fresh-face-finds-budget-friendly-platforms-to-purchase/"><u>[Updated] In 2024, Fresh Face Finds Budget-Friendly Platforms to Purchase</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-secrets-to-writing-compelling-vlog-dialogues/"><u>[Updated] Secrets to Writing Compelling Vlog Dialogues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-walkthrough-acquiring-and-setting-up-epson-xp-430-drivers-on-windows-systems/"><u>Comprehensive Walkthrough: Acquiring & Setting Up Epson XP-430 Drivers on Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-download-and-setup-of-the-epson-et-4550-printer-software-for-windows-devices/"><u>Easy Download & Setup of the Epson ET-4550 Printer Software for Windows Devices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/essential-fix-re-emerge-missing-watch-icon-2023/"><u>Essential Fix Re-Emerge Missing Watch Icon, 2023</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-software-tools-and-driver-downloads-for-optimizing-your-samsung-850-evo-performance/"><u>Essential Software Tools and Driver Downloads for Optimizing Your Samsung 850 EVO Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722966652839-get-your-gigabyte-ethernet-controller-up-to-date-with-this-free-driver-package/"><u>Get Your Gigabyte Ethernet Controller Up-to-Date with This Free Driver Package</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-k400-plus-keyboard-running-comprehensive-driver-downloads/"><u>Get Your Logitech K400 Plus Keyboard Running: Comprehensive Driver Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-asus-mouse-pad-drivers-downloaded-onto-a-windows-computer/"><u>How to Get the ASUS Mouse Pad Drivers Downloaded Onto a Windows Computer</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-walkthrough-deploying-chatgpt-on-a-windows-machine/"><u>The Ultimate Walkthrough: Deploying ChatGPT on a Windows Machine</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/this-months-most-unbeatable-offers-on-apple-watches/"><u>This Month's Most Unbeatable Offers on Apple Watches</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-windows-computer-with-new-arduino-usb-software/"><u>Update Your Windows Computer with New Arduino USB Software</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-streamlining-your-workflow-our-selection-of-the-6-best-automatic-transcription-programs/"><u>Updated 2024 Approved Streamlining Your Workflow Our Selection of the 6 Best Automatic Transcription Programs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/when-can-we-expect-gpt-5-to-arrive/"><u>When Can We Expect GPT-5 to Arrive?</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

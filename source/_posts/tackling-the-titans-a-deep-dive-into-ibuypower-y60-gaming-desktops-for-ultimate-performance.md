@@ -1,7 +1,7 @@
 ---
 title: "Tackling the Titans: A Deep Dive Into iBUYPOWER Y60 Gaming Desktops for Ultimate Performance"
-date: 2024-09-11T17:05:47.644Z
-updated: 2024-09-12T17:05:47.644Z
+date: 2024-09-10T18:44:42.999Z
+updated: 2024-09-17T20:42:02.852Z
 tags:
   - desktop
 categories:
@@ -49,13 +49,6 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -79,19 +72,25 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-creative-music-videos-a-list-of-15-youtube-projects/"><u>[New] 2024 Approved Creative Music Videos A List of 15 YouTube Projects</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-securing-your-spatial-content-mastering-the-art-of-360-degree-video-filming-and-uploading/"><u>[Updated] In 2024, Securing Your Spatial Content Mastering the Art of 360-Degree Video Filming & Uploading</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-initiate-your-journey-into-asmr-filming-essential-insights-revealed/"><u>2024 Approved Initiate Your Journey Into ASMR Filming – Essential Insights Revealed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amds-fire-series-zen-5-processors-keep-fl1-chip-design-implications-for-upgraded-laptops-with-ryzen-60-gpus/"><u>AMD's Fire Series: Zen 5 Processors Keep FL1 Chip Design; Implications for Upgraded Laptops with Ryzen 60 GPUs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/aurora-vs-standard-hd-is-the-premium-worth-it-for-2024/"><u>Aurora vs Standard HD Is the Premium Worth It for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-infinix-hot-40-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Infinix Hot 40 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-epson-wf-2760-drivers-for-recent-windows-versions-11-10-and-e/"><u>Easy Guide to Downloading Epson WF-2760 Drivers for Recent Windows Versions (11, 10 & E)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-ultimate-gaming-setup-logitech-momo-racing-wheel-pc-drivers-now-available/"><u>Get Your Hands on the Ultimate Gaming Setup: Logitech MOMO Racing Wheel PC Drivers Now Available!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/introducing-core-ultra-k-a-peek-at-the-new-intel-4-processor-design-showing-5ghz-performance-without-avx-512-features/"><u>Introducing Core Ultra K: A Peek at the New Intel 4 Processor Design Showing 5GHz Performance without AVX-512 Features</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/skill-up-on-the-fly-with-top-10-freeware-art-apps-for-mac-for-2024/"><u>Skill Up on the Fly with Top 10 Freeware Art Apps for Mac for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/spotlights-and-shadows-a-closer-look-at-the-google-pixel-6s-performance/"><u>Spotlights & Shadows: A Closer Look at the Google Pixel 6'S Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-fetch-your-updated-hp-deskjet-2700-printer-drivers-for-a-seamless-print-experience/"><u>Step-by-Step Guide: Fetch Your Updated HP DeskJet 2700 Printer Drivers for a Seamless Print Experience</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-economics-of-video-promotion-platforms-for-2024/"><u>The Economics of Video Promotion Platforms for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updating-your-microsoft-mouse-driver-a-step-by-step-guide-for-windows-users/"><u>Updating Your Microsoft Mouse Driver: A Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-untamed-video-preservation-units/"><u>[New] In 2024, Untamed Video Preservation Units</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-crack-the-code-of-content-discovery-on-facebook-for-2024/"><u>[Updated] Crack the Code of Content Discovery on Facebook for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-graphics-card-driver-update-quick-and-easy-downloads-for-ryzen-5-models/"><u>AMD Graphics Card Driver Update: Quick & Easy Downloads for Ryzen 5 Models</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-microsoft-surface-pro-4-drivers-on-windows/"><u>Download & Install Microsoft Surface Pro 4 Drivers on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-tutorial-refreshing-your-intel-centrino-advanced-n-6235-wireless-lan-driver-software/"><u>Easy Tutorial: Refreshing Your Intel Centrino Advanced-N 6235 Wireless LAN Driver Software</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/elevate-your-engagement-essential-apps-for-insta-growth-for-2024/"><u>Elevate Your Engagement Essential Apps for Insta Growth for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/enhance-your-gameplay-eliminate-high-lag-in-valheim-on-pc-systems/"><u>Enhance Your Gameplay - Eliminate High Lag in Valheim on PC Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-lava-blaze-curve-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Lava Blaze Curve 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On Apple iPhone 6 Plus?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-rhythms-of-introduction-10-must-hear-songs-for-podcast-opens/"><u>In 2024, Rhythms of Introduction 10 Must-Hear Songs for Podcast Opens</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/j5-tactical-v1-pro-assessed-exceptional-resilience-in-a-compact-nightlight-design-review/"><u>J5 Tactical V1-Pro Assessed: Exceptional Resilience in a Compact Nightlight Design Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-driver-updates-and-free-downloads-for-microsoft-surface-book-2-users/"><u>Latest Driver Updates & Free Downloads for Microsoft Surface Book 2 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/una-guia-sencilla-para-instalar-controladores-en-windows-sin-conexion/"><u>Una Guía Sencilla Para Instalar Controladores en Windows Sin Conexión</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

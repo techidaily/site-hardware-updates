@@ -1,7 +1,7 @@
 ---
 title: Exploring Innovation in Computers and Gaming - Dive Into Tom's Hardware Insights!
-date: 2024-09-11T17:07:16.594Z
-updated: 2024-09-12T17:07:16.594Z
+date: 2024-09-17T00:54:41.711Z
+updated: 2024-09-18T00:10:57.745Z
 tags:
   - cpu
 categories:
@@ -26,19 +26,6 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
  "One chip for many uses" was also the guiding light in determining Cixin P1's use cases. "[Notebooks](https://www.tomshardware.com/tag/notebooks) , mini PCs, all-in-one computers, desktops, home entertainment consoles,[enterprise](https://www.tomshardware.com/tag/enterprise) edge hosts, etc.," were cited as potential uses for the P1, and launch attendees saw the processor power notebooks and desktops. They also saw the many uses in person, as the company had[benchmarks](https://www.tomshardware.com/tag/benchmark) like 3DMark06 and the popular video game Genshin Impact running on the floor, along with other productivity and AI LLM demos. No numbers, such as benchmark results or Genshin's frames per second, were shown — though reporters qualitatively describe demos as running smoothly.
 
  The Cixin P1 is a very unique processor. While it does not fulfill Beijing's goals of being a fully home-grown processor because it uses Arm CPU and GPU designs, the chip is specifically designed for the needs of the Chinese market and stands ready to enjoy some level of success. It also sadly does not meet[Microsoft](https://www.tomshardware.com/tag/microsoft) 's arbitrary "AI PC" requirements. The P1's NPU on its own is only 30 TOPS — shy of the 40 TOPS target — though it's likely that Cixin could not care less about Windows Copilot+ certification.
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -65,14 +52,20 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/download-mastering-windows-installation-of-your-new-focusrite-scarlett-2i2-audio-interface/"><u>[Download]: Mastering Windows Installation of Your New Focusrite Scarlett 2I2 Audio Interface!</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-ideas-aplenty-crafting-inspirational-photographic-mosaics/"><u>[New] Ideas Aplenty Crafting Inspirational Photographic Mosaics</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-right-platform-for-content-creation-podcast-or-video/"><u>[Updated] The Right Platform for Content Creation? Podcast or Video?</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-your-windows-experience-zexmte-bluetooth-adapter-software-now-available-for-11-7-and-8-users/"><u>Enhance Your Windows Experience - Zexmte Bluetooth Adapter Software, Now Available for 11, 7 & 8 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-enable-the-latest-hid-standard-mouse-support-on-your-pc/"><u>How to Enable the Latest HID Standard Mouse Support on Your PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-realme-12plus-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Realme 12+ 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Pokemon Go Joystick on Apple iPhone 6s? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-free-ai-tools-for-creating-images/"><u>Top 5 Free AI Tools for Creating Images</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-live-tv-saving-made-simple-with-free-software-tools/"><u>[Updated] Live TV Saving Made Simple with Free Software Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-guide-to-downloading-youtube-media/"><u>[Updated] The Ultimate Guide to Downloading YouTube Media</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/a-step-by-step-strategy-to-design-engaging-youtube-teasers-for-2024/"><u>A Step-by-Step Strategy to Design Engaging YouTube Teasers for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/failed-to-initialize-smartaudio-solved/"><u>Failed to Initialize SmartAudio [SOLVED]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/pioneering-computer-hardware-analysis-by-toms-technology-hub/"><u>Pioneering Computer Hardware Analysis by Tom's Technology Hub</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/er-popularity-prognosticator-for-video-charts/"><u>Premier Popularity Prognosticator for Video Charts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ryzen-9-9950x-the-new-contender-exploring-the-performance-of-amds-zen-5-chipset-under-full-blast/"><u>Ryzen 지니9 9950X - The New Contender: Exploring the Performance of AMD's Zen 5 Chipset Under Full Blast</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-compatible-toshiba-driver-downloads-update-seamlessly-today/"><u>Windows Compatible Toshiba Driver Downloads – Update Seamlessly Today!</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Multithreading vs Single-Threading Battle: How AMD’s Zen Technology Triumphs Over Intel Lunar Lake"
-date: 2024-09-11T17:04:35.255Z
-updated: 2024-09-12T17:04:35.255Z
+date: 2024-09-10T23:11:41.477Z
+updated: 2024-09-17T17:25:35.399Z
 tags:
   - cpu
 categories:
@@ -34,19 +34,6 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -70,21 +57,26 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-earnings-from-a-million-youtube-globals/"><u>[New] 2024 Approved Earnings From a Million YouTube Globals</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-5-budget-friendly-windows-screen-recorders-2023-edition/"><u>[New] Top 5 Budget-Friendly Windows Screen Recorders – 2023 Edition</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-crafting-engaging-youtube-videos-using-finalcut-pro-expertise/"><u>[Updated] 2024 Approved Crafting Engaging YouTube Videos Using FinalCut Pro Expertise</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-essential-recording-strategies-how-to-capture-the-unrecorded-moments-on-discord-for-2024/"><u>[Updated] Essential Recording Strategies How to Capture the Unrecorded Moments on Discord for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722970796188-boost-your-pc-gaming-with-the-newest-geforce-drivers-from-nvidia-free-download-available-now/"><u>Boost Your PC Gaming with the Newest GeForce Drivers From NVIDIA – Free Download Available Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722977299261-brother-l2740dw-driver-update-for-windows-operating-systems-get-started-now/"><u>Brother L2740DW Driver Update for Windows Operating Systems - Get Started Now!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-greatest-lgbt-movies-available-on-netflix-as-of-july-2024/"><u>Discover the Greatest LGBT Movies Available on Netflix as of July 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-activate-brother-l25cuprincess-drivers-installed-in-a-flash-on-windows/"><u>Download & Activate: Brother L25cuprincess Drivers Installed in a Flash on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easily-install-hp-officejet-pro-6968-access-free-driver-software/"><u>Easily Install HP OfficeJet Pro 6968 - Access Free Driver Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hassle-free-process-to-download-and-enhance-your-asus-bluetooth-drivers/"><u>Hassle-Free Process to Download & Enhance Your ASUS Bluetooth Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-updated-drivers-for-brother-mfc-j480dw-on-windows-operating-system/"><u>How to Install Updated Drivers for Brother MFC-J480DW on Windows Operating System</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagram-video-wisdom-strategies-that-score-big/"><u>Instagram Video Wisdom Strategies That Score Big</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovo-driver-update-mastery-a-hassle-free-approach/"><u>Lenovo Driver Update Mastery: A Hassle-Free Approach</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-ultimate-tutorial-unfollow-a-business-account/"><u>The Ultimate Tutorial: Unfollow a Business Account</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-10-apps-to-write-on-photos-for-ios-and-android/"><u>Top 10 Apps to Write on Photos for iOS and Android</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-tecno-camon-20-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Tecno Camon 20 Location | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nfographic-social-video-marketing-tips-for-small-business/"><u>[New] [Infographic] Social Video Marketing Tips for Small Business</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-phones-to-cameras-diy-setup-guide-for-mobile-video-recording/"><u>[New] Phones to Cameras DIY Setup Guide for Mobile Video Recording</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-sony-bdp-s3700-review/"><u>2024 Approved Sony BDP- S3700 Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723262303052-amds-cutting-edge-ryzen-7-7800x3d-zen-5-architecture-leaves-zen-4-gaming-flagship-behind-with-a-staggering-23-performance-boost/"><u>AMD's Cutting-Edge Ryzen 7 7800X3D: Zen 5 Architecture Leaves Zen 4 Gaming Flagship Behind with a Staggering 23% Performance Boost</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/detecting-delirium-identifying-fake-insights-amongst-ai-generations/"><u>Detecting Delirium: Identifying Fake Insights Amongst AI Generations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-and-set-up-plex-for-your-windows-11-pc-comprehensive-tutorial/"><u>Download & Set Up Plex for Your Windows 11 PC: Comprehensive Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-guide-get-corsair-void-pro-drivers-installed-on-your-pc/"><u>Effortless Guide: Get Corsair Void Pro Drivers Installed on Your PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-download-of-latest-drivers-for-lenovo-thinkpad-t430-on-windows-1187-platforms-comprehensive-guide/"><u>Hassle-Free Download of Latest Drivers for Lenovo ThinkPad T430 on Windows 11/8/7 Platforms – Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-your-lifestyles-ultimate-boost/"><u>Leveraging ChatGPT: Your Lifestyle's Ultimate Boost</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/live-stream-pioneers-top-10-sites-ranked/"><u>Live Stream Pioneers Top 10 Sites Ranked</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-music-production-with-behringers-essential-usb-driver-downloads/"><u>Mastering Music Production with Behringer's Essential USB Driver Downloads</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagining-your-windows-profile-a-new-username-approach/"><u>Reimagining Your Windows Profile: A New UserName Approach</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-high-performance-computing-in-europe-with-the-newly-priced-amd-ryzen-9-649/"><u>Unlocking High-Performance Computing in Europe with the Newly Priced AMD Ryzen 9 (€649)</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-best-of-both-worlds-video-editing-apps-with-music-for-android-and-iphone-users/"><u>Updated In 2024, The Best of Both Worlds Video Editing Apps with Music for Android and iPhone Users</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

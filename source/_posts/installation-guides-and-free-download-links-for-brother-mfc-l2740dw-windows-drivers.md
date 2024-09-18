@@ -1,7 +1,7 @@
 ---
 title: Installation Guides & Free Download Links for Brother MFC-L2740DW Windows Drivers
-date: 2024-09-11T17:02:04.893Z
-updated: 2024-09-12T17:02:04.893Z
+date: 2024-09-13T22:56:06.902Z
+updated: 2024-09-18T00:51:21.795Z
 tags:
   - win11
   - win10
@@ -28,19 +28,6 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 2. [**Update Brother printer drivers via Device Manager**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update Brother printer drivers with Driver Easy automatically (Recommended)**](https://www.drivereasy.com/knowledge/brother-printer-drivers-download-easily-quickly/#WAY3)
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Way 1: Download Brother printer latest drivers from Brother official website
 
  1) Go to[Brother Product Support Center](http://www.brother.com.sg/en/support/products) .  
@@ -62,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-24.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Click **Printer Driver**  under **Drivers**  dialog.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-22.jpg)
@@ -78,33 +58,12 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-15.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  7) When it’s done, double-click the downloaded **.exe**  file and follow the on-screen instructions to install the driver on your computer.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Way 2: Update Brother printer drivers via Device Manager
   
  1) Press the **Windows logo**  key ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b42dbb955df7.png) \+ **R**  key at the same time to open the Run box.  
   
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Type **devmgmt.msc**  in the box and hit **Enter**  to open **Device** **Manager** .  
   
@@ -115,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 **![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-13.jpg)**
   
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click **Search automatically for updated driver software** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-8.jpg)
@@ -129,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
  5) Now Windows will detect the update automatically for you. Just follow the on-screen instructions.
 
 **Note:**  If you see the   **The best driver software for your device is already installed**  message, choose other way to update your Brother printer driver. That’s because sometimes Microsoft might not detect the update for some reasons.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Way 3: Update Brother printer drivers with one-click via Driver Easy automatically (Recommended)
 
@@ -146,10 +105,16 @@ Or click **Update All**  to automatically download and install the correct versi
   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:**  Some Brother printers have built-in drivers to support basic functions.  
@@ -175,20 +140,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-social-media-strategy-fb-video-angles-for-2024/"><u>[New] Social Media Strategy – FB Video Angles for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-innovating-your-sims-4-experience-through-recording-for-2024/"><u>[Updated] Innovating Your Sims 4 Experience Through Recording for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-breakthroughs-in-ergonomic-office-design-for-high-efficiency/"><u>2024 Approved Breakthroughs in Ergonomic Office Design for High Efficiency</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-vlog-glow-achieving-professional-video-setup/"><u>2024 Approved Vlog Glow Achieving Professional Video Setup</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/acer-nitro-5-users-manual-how-to-refresh-system-drivers-efficiently/"><u>Acer Nitro 5 User's Manual: How to Refresh System Drivers Efficiently</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-broadcom-bluetooth-drivers-compatible-with-windows-11-8-and-7/"><u>Download Broadcom Bluetooth Drivers Compatible with Windows 11, 8 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fix-guide-overcoming-compatibility-challenges-of-synaptic-drivers-with-windows-11-update/"><u>Fix Guide: Overcoming Compatibility Challenges of Synaptic Drivers with Windows 11 Update</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-intel-825n-vga-graphics-card-drivers-quick-setup-for-optimal-performance/"><u>Free Intel 825N VGA Graphics Card Drivers: Quick Setup for Optimal Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-scanjet-driver-upgrade-now-available-for-windows-users-windows-10-8-and-7/"><u>HP Scanjet Driver Upgrade Now Available for Windows Users (Windows 10, 8, and 7)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/mind-maze-spectacle-exclusive-trivia-channel-line-up-for-2024/"><u>Mind Maze Spectacle Exclusive Trivia Channel Line-Up for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/officially-updated-nvidia-graphics-card-drivers-for-windows-operating-systems-windows-11-7-and-8/"><u>Officially Updated Nvidia Graphics Card Drivers for Windows Operating Systems: Windows 11, 7 & 8</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722961967943-strategic-partnerships-and-distribution-networks-for-global-reach/"><u>Strategic Partnerships and Distribution Networks for Global Reach</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-8-creative-prompts-for-impressive-ai-art-with-dall-e-3/"><u>Top 8 Creative Prompts for Impressive AI Art with DALL-E 3</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/your-go-to-source-for-detailed-reviews-on-computing-hardware-toms-hardware/"><u>Your Go-To Source for Detailed Reviews on Computing Hardware - Tom's Hardware</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-windows-11-capture-tools-win-edition/"><u>[New] 2024 Approved Top Windows 11 Capture Tools Win Edition</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-streamline-your-education-mac-audio-recording-best-practices/"><u>[New] In 2024, Streamline Your Education Mac Audio Recording Best Practices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-forward-thinking-desktopmobile-chat-apps/"><u>[Updated] In 2024, Forward-Thinking Desktop/Mobile Chat Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-ae-titles-for-striking-visual-impact/"><u>2024 Approved Top AE Titles for Striking Visual Impact</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/breaking-down-zen-evolution-with-amd-gro-mike-clark-an-in-depth-chat-on-accelerating-to-3nm-zen-5-release-and-transformative-core-strategies-for-pcs/"><u>Breaking Down Zen Evolution with AMD' Gro Mike Clark: An In-Depth Chat on Accelerating to 3Nm, Zen 5 Release & Transformative Core Strategies for PCs</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/digital-gateway-to-latin-learning-made-simple/"><u>Digital Gateway to Latin Learning Made Simple</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-setup-hp-officejet-5740-printer-drivers-quickly-easy-tutorial/"><u>Download & Setup HP OfficeJet 5740 Printer Drivers Quickly | Easy Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-logitech-unifying-receiver-software-for-windows-pcs/"><u>Download Logitech Unifying Receiver Software for Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-essential-pioneer-dj-ddj-sx2-controller-driver-for-quick-performance/"><u>Download the Essential Pioneer DJ DDJ-SX2 Controller Driver for Quick Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-release-nvidia-quadro-rtx-8000-drivers-tailored-for-windows-1087-systems/"><u>Latest Release: Nvidia Quadro RTX 8000 Drivers Tailored for Windows 10/8/7 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/no-need-for-additional-software-printerscanner-functionality-in-latest-windows-11-update/"><u>No Need for Additional Software: Printer/Scanner Functionality in Latest Windows 11 Update</u></a></li>
+<li><a href="https://techtrends.techidaily.com/precision-photography-tips-effortless-zooming-with-iphoneipad/"><u>Precision Photography Tips: Effortless Zooming with iPhone/iPad</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-s-most-popular-free-4k-video-conversion-software/"><u>Updated 2024 Approved S Most Popular Free 4K Video Conversion Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Oppo Reno 9A? | Dr.fone</u></a></li>
 </ul></div>
 

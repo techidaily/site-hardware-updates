@@ -1,7 +1,7 @@
 ---
 title: "Intel's Expanded Warranty on Processor Failures: A Look at Diverse Strategies by Computer Brands"
-date: 2024-09-11T17:02:26.280Z
-updated: 2024-09-12T17:02:26.280Z
+date: 2024-09-12T19:52:53.361Z
+updated: 2024-09-17T20:01:04.542Z
 tags:
   - cpu
 categories:
@@ -47,19 +47,6 @@ The AMD Ryzen 9000-series chips are slated to launch on July 31; but more than a
 
  With just 10 days to go before the official launch of the Ryzen 9000 desktop chips, it’s plausible that some retailers already have them in stock. However, we’re unsure of what to make of these Ryzen 9000 listings. PC21.fr seems to be a legitimate PC parts retailer and we could add the processor into our cart. But the 24-to-48-hour shipping time might sound unrealistic, especially as the chips haven’t officially launched yet. These listings might even be breaking a couple of NDAs with AMD and could lead to headaches for buyers if this was a listing mistake. So, we suggest holding off on buying these processors until after the official launch and MSRPs are known.
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -83,21 +70,26 @@ The AMD Ryzen 9000-series chips are slated to launch on July 31; but more than a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-nightmares-unleashed-8-must-play-zombie-games-explored/"><u>[New] 2024 Approved Nightmares Unleashed 8 Must-Play Zombie Games Explored</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-pinnacle-choices-top-30-mac-videograbbers-reviewed-for-2024/"><u>[New] Pinnacle Choices Top 30 Mac Videograbbers Reviewed for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-windowsmac-tutorials-for-skype-audio-and-video-archive/"><u>[Updated] In 2024, Windows/Mac Tutorials for Skype Audio & Video Archive</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/blade-blh4100-rc-helicopter-unveiled-a-complete-guide-to-flying-your-new-toys-outdoors/"><u>Blade BLH4100 RC Helicopter Unveiled: A Complete Guide to Flying Your New Toys Outdoors</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatible-driver-update-for-lenovo-photographic-equipment-on-microsofts-operating-system-7/"><u>Compatible Driver Update for Lenovo Photographic Equipment on Microsoft's Operating System 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-compatible-realtek-drivers-for-enhanced-sound-on-your-pc-supporting-windows-11-10-and-7-systems/"><u>Download Compatible Realtek Drivers for Enhanced Sound on Your PC: Supporting Windows 11, 10 & 7 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-universal-windows-10-7-and-8-bluetooth-adapter-drivers/"><u>Free Download: Universal Windows 10, 7 & 8 Bluetooth Adapter Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-latest-driver-for-your-amd-rx-6800-on-windows-111087-step-by-step-tutorial/"><u>How to Install the Latest Driver for Your AMD RX 6800 on Windows 11/10/8/7 – Step-by-Step Tutorial</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-epson-gt-s50-printer-drivers-downloads-for-windows-7-8-and-10-users/"><u>How to Update Your Epson GT-S50 Printer Drivers: Downloads for Windows 7, 8 and 10 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-upgrade-your-canon-ts6220-series-printer-driver-on-windows-pcs/"><u>How to Upgrade Your Canon TS6220 Series Printer Driver on Windows PCs</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-poco-f5-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Poco F5 5G FRP Bypass</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/logitech-g29-driver-setup-instructions-and-download-links-for-windows-users-windows-11-10-and-7/"><u>Logitech G29 Driver Setup Instructions and Download Links for Windows Users (Windows 11, 10 & 7)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/my-ai-or-chatgpt-selecting-your-ideal-digital-companion-on-snapchat/"><u>My AI or ChatGPT - Selecting Your Ideal Digital Companion on Snapchat</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/quick-conversion-tips-using-vlc-for-mpeg-4-and-beyond/"><u>Quick Conversion Tips Using VLC for MPEG-4 and Beyond</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oneplus-11-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset OnePlus 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-and-repairing-persistent-crashes-in-nioh-2-complete-edition/"><u>Troubleshooting and Repairing Persistent Crashes in Nioh 2 Complete Edition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-movavis-video-creation-tool-an-overview-of-plus-2024/"><u>[New] Movavi's Video Creation Tool An Overview of Plus 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-decoding-the-meaning-and-usage-facebooks-icon-in-chat/"><u>[Updated] 2024 Approved Decoding the Meaning and Usage Facebook's Icon in Chat</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-farming-fiesta-fun-pack-the-ultimate-agritainment-guide/"><u>[Updated] Farming Fiesta Fun-Pack The Ultimate Agritainment Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-sky-high-storages-expert-recommendations/"><u>2024 Approved Sky-High Storages Expert Recommendations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/direct-links-to-download-the-updated-drivers-for-your-epson-xp-420-printer/"><u>Direct Links to Download the Updated Drivers for Your Epson XP 420 Printer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-latest-driver-for-your-xbox-360-gamepad/"><u>Download and Install the Latest Driver for Your Xbox 360 Gamepad</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-oppo-reno-10-proplus-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Oppo Reno 10 Pro+ 5G Is Unlocked</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-build-at-home-an-affordable-and-versatile-virtual-reality-headset/"><u>In 2024, Build at Home an Affordable and Versatile Virtual Reality Headset</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-5-avant-garde-creators-in-digital-media/"><u>In 2024, Top 5 Avant-Garde Creators in Digital Media</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-xr-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone XR With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-ft232r-chip-downloads-mastering-the-usb-uart-drivers/"><u>Quick and Easy FT232R Chip Downloads: Mastering the USB UART Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-solution-to-enhance-your-netgear-wna3100-with-new-driver-downloads/"><u>The Ultimate Solution to Enhance Your Netgear WNA3100 with New Driver Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-the-most-recent-amd-rx-6700-xt-graphics-driver-for-enhanced-performance-on-all-windows-platforms/"><u>Update to the Most Recent AMD RX 6700 XT Graphics Driver for Enhanced Performance on All Windows Platforms</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
