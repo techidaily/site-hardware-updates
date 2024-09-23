@@ -1,7 +1,7 @@
 ---
 title: Policy Evaluation Informs Future Policymaking by Providing Evidence of a Policy's Effectiveness or Shortcomings.
-date: 2024-09-17 17:23:28
-updated: 2024-09-20 11:34:39
+date: 2024-09-15T23:55:11.353Z
+updated: 2024-09-22T23:19:40.250Z
 tags:
   - tvs
 categories:
@@ -62,11 +62,34 @@ The rollout will happen over the next few weeks, starting with Roku-branded TVs 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-8-trending-videos-on-facebook/"><u>[New] 8 Trending Videos on Facebook</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-professional-videographers-choice-for-screen-recordings/"><u>[Updated] Professional Videographer's Choice for Screen Recordings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-instructions-for-downloading-and-setting-up-dell-wd19-drivers/"><u>Complete Instructions for Downloading and Setting Up Dell WD19 Drivers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/erase-your-online-presence-post-facebook-stories-for-2024/"><u>Erase Your Online Presence Post-Facebook Stories for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-for-successfully-updating-dell-webcam-drivers/"><u>Expert Tips for Successfully Updating Dell Webcam Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-asus-atk0110-power-supply-unit-psu-bios-and-acpi-firmware-downloads/"><u>Free ASUS ATK0110 Power Supply Unit (PSU) BIOS & ACPI Firmware Downloads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-create-an-nft-effortlessly-an-ultimate-guide-for-beginners/"><u>How to Create an NFT Effortlessly An Ultimate Guide for Beginners</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-edit-mp4-videosfiles-in-macwindows-2023-tutorial/"><u>How to Edit MP4 Videos/Files in Mac/Windows 2023 Tutorial</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-nokia-c02-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Nokia C02 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-download-hp-envy-5055-printer-drivers-fast-installation-guide/"><u>Quick Download: HP Envy 5055 Printer Drivers - Fast Installation Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/resurrecting-absorbed-gpt-dialogues/"><u>Resurrecting Absorbed GPT Dialogues</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/syncing-your-phone-with-facebook-videos-on-appletv/"><u>Syncing Your Phone with Facebook Videos on AppleTV</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

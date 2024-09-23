@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Quality: Samsung S90C OLED Marked as Samsung's Finest Ever, Now at an Unbelievable Discount – Discover How! [ZDNet]"
-date: 2024-09-18 13:16:43
-updated: 2024-09-20 10:56:31
+date: 2024-09-18T20:20:33.122Z
+updated: 2024-09-22T23:35:23.064Z
 tags:
   - tvs
 categories:
@@ -86,6 +86,13 @@ If you want a more elaborate audio setup, you can connect your TV to [Echo speak
 
 I would much rather see multi-device support for generic Bluetooth speakers and soundbars, since users might have audio equipment from different brands rather than a house full of Amazon-branded devices. You can set up non-Amazon speakers and soundbars with the TV but won't get that whole-home audio experience, which is a shame. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Alexa and Amazon features 
 
 As it's meant to be the centerpiece of your Amazon or Alexa-centered smart home network. the Omni QLED features native Alexa support via a voice-enabled remote, as well as a four-microphone array built into the unit itself. If you don't have an Alexa account already, you can use basic voice commands for turning the TV on and off or launching certain apps. And if you want expanded, hands-free controls as well as the ability to add Skills, you can either connect to an Echo device or the Alexa companion app. Though you will need an Amazon account to sign into the Alexa app as well as the TV itself to access many enhanced features. 
@@ -166,6 +173,19 @@ Many of the cool features are inextricably linked to Alexa functionality, so if 
 
 [Great for streaming Sony X77L The Sony X77L uses an LED panel to provide 4K resolution at a 60Hz refresh rate, which means that from sports and action movies to music videos and animated shorts, your media will have smooth motion, crisp details, and bold colors. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BZF2N3LM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)[Great budget option Amazon Fire TV 4-Series The Fire TV 4-Series from Amazon is a solid, budget-friendly option for anyone looking for a reliable second screen for their bedroom or affordable main TV. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-55-inch-4-series-4k-smart-tv%2Fdp%2FB0B3H6JPYZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
@@ -193,11 +213,26 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-prime-10-terraria-game-enhancements/"><u>[Updated] 2024 Approved Prime 10 Terraria Game Enhancements</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-recommendations-for-8-windows-audio-apps/"><u>2024 Approved Expert Recommendations for 8-Windows Audio Apps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-realme-12-pro-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Realme 12 Pro 5G Fingerprint Lock</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/easing-freezes-tips-for-smooth-photobooth-footage/"><u>Easing Freezes Tips for Smooth Photobooth Footage</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/false-alarm-a-real-chatgpt-windows-application-doesnt-exist-its-a-cyber-threat-in-disguise/"><u>False Alarm: A Real ChatGPT Windows Application Doesn't Exist; It’s a Cyber Threat In Disguise</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-narzo-60x-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme Narzo 60x 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keeping-your-computers-bluetooth-functional-up-to-date-drivers-from-microsoft-for-windows-users/"><u>Keeping Your Computer's Bluetooth Functional: Up-to-Date Drivers From Microsoft for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-display-driver-free-download-and-latest-version-guide/"><u>Lenovo Display Driver: Free Download and Latest Version Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-image-clarity-issues-in-ubisofts-new-island/"><u>Resolving Image Clarity Issues in Ubisoft's New Island</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sizzling-skills-7-keys-for-scrumptious-video-cooking-for-2024/"><u>Sizzling Skills 7 Keys for Scrumptious Video Cooking for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-visual-experience-updated-drivers-for-the-rtx-2080-graphics-card-on-windows-11-platforms/"><u>Upgrade Your Visual Experience: Updated Drivers for the RTX 2080 Graphics Card on Windows 11 Platforms</u></a></li>
+</ul></div>
+

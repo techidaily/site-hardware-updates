@@ -1,7 +1,7 @@
 ---
 title: "Solution: Radiographic Testing (RT) Uses X-Rays or Gamma Rays; Therefore, Strict Safety Protocols Must Be Followed to Protect Against Ionizing Radiation Exposure."
-date: 2024-09-10T21:35:00.217Z
-updated: 2024-09-18T01:56:49.634Z
+date: 2024-09-18T21:45:44.574Z
+updated: 2024-09-22T22:07:19.839Z
 tags:
   - win11
   - win10
@@ -67,20 +67,33 @@ thumbnail: https://thmb.techidaily.com/3b3746640fe26afab367eb3d6989fbedd82bfd022
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Still have audio issues?
 
  In rare cases, updating your drivers won’t get your problem solved. If unfortunately, updating the SteelSeries Actis 5 drivers didn’t help, you can try the following troubleshooting steps:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Set your Arctis 5 as the default
 
  Make sure you have set your SteelSeries Arctis 5 as the default output/input device. Also, select**Set as Default Communications** **Device** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Make sure you’ve set it up correctly
 
@@ -89,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/3b3746640fe26afab367eb3d6989fbedd82bfd022
 ### Have the latest version of SteelSeries Engine installed
 
  In-app updates are supported so you will be prompted to update directly through the Engine. But if this doesn’t do the trick, you can uninstall the SteelSeries Engine, and download[**the latest SteelSeries Engine**](https://steelseries.com/engine) .
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Disable audio enhancements
 
@@ -131,19 +137,18 @@ thumbnail: https://thmb.techidaily.com/3b3746640fe26afab367eb3d6989fbedd82bfd022
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-securing-your-online-sessions-pcmobile-recording/"><u>[New] Securing Your Online Sessions PC/Mobile Recording</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/blue-snowball-essential-windows-updates-to-boost-audio-and-video-device-functionality/"><u>Blue Snowball: Essential Windows Updates to Boost Audio and Video Device Functionality</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-downloading-m-audio-fast-track-drivers-for-your-pc/"><u>Complete Guide to Downloading M-Audio Fast Track Drivers for Your PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-fixes-and-solutions-fresh-installation-of-huion-device-drivers-on-windows-os/"><u>Easy Fixes & Solutions: Fresh Installation of Huion Device Drivers on Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fresh-installation-of-amd-driver-packs-for-improved-functionality-in-windows-operating-systems-11-7-and-xp/"><u>Fresh Installation of AMD Driver Packs for Improved Functionality in Windows Operating Systems 11, 7 & XP</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722972892281-get-your-steelseries-game-booster-now-enhanced-for-windows-11-users/"><u>Get Your SteelSeries Game Booster Now - Enhanced for Windows 11 Users!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-turn-a-tiktok-sound-into-your-ringtone-a-detailed-guidance/"><u>How To Turn A TikTok Sound Into Your Ringtone? A Detailed Guidance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-the-official-logitech-race-simulator-wheel-drivers-on-pc/"><u>Installing the Official Logitech Race Simulator Wheel Drivers on PC</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/master-the-art-of-ios-screen-recording-for-2024/"><u>Master the Art of iOS Screen Recording for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/polish-study-made-fast-and-easy/"><u>Polish Study Made Fast and Easy</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/safeguarding-conversations-pinpointing-3-privacy-chatbot-hazards/"><u>Safeguarding Conversations: Pinpointing 3 Privacy Chatbot Hazards</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Realme Narzo 60x 5G? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/steps-to-establish-a-viable-youtube-sponsor-relationship/"><u>Steps to Establish a Viable YouTube Sponsor Relationship</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-m34-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy M34 5G Device</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-targeted-approach-carving-out-your-space-on-youtube/"><u>[New] 2024 Approved Targeted Approach Carving Out Your Space on YouTube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/affordable-tunes-how-can-you-enjoy-spotifys-library-at-student-prices/"><u>Affordable Tunes: How Can You Enjoy Spotify's Library at Student Prices?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/closing-the-distance-zoom-in-for-a-clearer-picture/"><u>Closing the Distance Zoom in for a Clearer Picture</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortlessly-obtain-and-update-your-hid-keyboards-device-drivers-today/"><u>Effortlessly Obtain and Update Your HID Keyboard's Device Drivers Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-smooth-printing-with-latest-hp-officejet-4655-driver-software-download/"><u>Ensure Smooth Printing with Latest HP Officejet 4655 Driver Software Download</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/harnessing-the-power-of-photography-and-videography-a-pixiz-approach/"><u>Harnessing the Power of Photography & Videography A Pixiz Approach</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-get-rid-of-wavy-horizontal-lines-appearing-on-your-desktop-display/"><u>How to Get Rid of Wavy Horizontal Lines Appearing on Your Desktop Display?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-most-recent-updates-for-ch3nitor-drivers-in-windows-10/"><u>How to Get the Most Recent Updates for CH3nitor Drivers in Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-x100-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on X100 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-lava-yuva-3-pro-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-install-and-update-your-epson-ds-510-driver-on-a-windows-machine-comprehensive-stepwise-steps/"><u>How To Seamlessly Install and Update Your Epson DS-510 Driver on a Windows Machine - Comprehensive Stepwise Steps</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-current-lighting-infrastructure/"><u>In 2024, Current Lighting Infrastructure</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Oppo Reno 9A | Dr.fone</u></a></li>
 </ul></div>
 

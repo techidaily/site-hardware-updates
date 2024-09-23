@@ -1,7 +1,7 @@
 ---
 title: Get Up-to-Date Drivers for Your Qualcomm Atheros AR956x WiFi Card – Free Downloads Available
-date: 2024-09-10T21:54:52.320Z
-updated: 2024-09-18T01:19:20.154Z
+date: 2024-09-20T20:38:46.695Z
+updated: 2024-09-22T17:24:53.210Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/gs.jpg)
 3. Download and install the driver manually.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 2 – Automatically update MSI GS65 drivers**
 
  If you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with Driver Easy.
@@ -61,21 +68,14 @@ OR
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -98,14 +98,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-unmatched-5-apps-for-harmonious-photoplussound-creation-for-2024/"><u>[New] Unmatched 5 Apps for Harmonious Photo+Sound Creation for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-beginners-blueprint-for-mobile-youtube-videos/"><u>2024 Approved The Beginner's Blueprint for Mobile YouTube Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/a-step-by-step-approach-to-ending-live-sharing-on-laptops-and-tablets/"><u>A Step-by-Step Approach to Ending Live Sharing on Laptops and Tablets</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/android-tricks-changing-video-ordering-for-2024/"><u>Android Tricks Changing Video Ordering for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-installing-iphones-with-the-latest-drivers-for-windows-11-users/"><u>Easy Guide: Installing iPhones with the Latest Drivers for Windows 11 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-xbox-360-gamepad-compatibility-drivers-available-now/"><u>Free Xbox 360 Gamepad Compatibility Drivers Available Now</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/samsung-galaxy-z-fold-7-unveiled-exploring-costs-launch-timeline-features-and-updates/"><u>Samsung Galaxy Z Fold 7 Unveiled: Exploring Costs, Launch Timeline, Features & Updates</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-correct-realtek-rtl8723be-driver-malfunctions/"><u>Step-by-Step Guide to Correct Realtek RTL8723BE Driver Malfunctions</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-wizardry-entering-control-panel-quickly/"><u>Windows Wizardry: Entering Control Panel Quickly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-audible-annotators-top-selections-for-offline-text-conversion/"><u>[New] Audible Annotators Top Selections for Offline Text Conversion</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-dreamer-to-doer-sign-up-for-a-youtube-channel-for-2024/"><u>[New] From Dreamer To Doer Sign Up for a YouTube Channel for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-and-easy-the-top-ten-for-youtube-mpeg-transformation/"><u>2024 Approved Quick and Easy The Top Ten for YouTube MPEG Transformation</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-nokia-130-music-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Nokia 130 Music FRP</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-galactic-journey-through-gaming-the-story-and-action-of-the-outer-worlds-reviewed/"><u>A Galactic Journey Through Gaming: The Story and Action of 'The Outer Worlds' Reviewed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015736769-anthem-game-muted-troubleshoot-windows-10-sound-issues-today/"><u>Anthem Game Muted? Troubleshoot Windows 10 Sound Issues Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-update-canon-mp250-printer-drivers-easy-download-options-here/"><u>Find & Update Canon MP250 Printer Drivers - Easy Download Options Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-or-download-logitech-g29-racing-wheel-drivers-for-modern-windows-operating-systems/"><u>How to Update or Download Logitech G29 Racing Wheel Drivers for Modern Windows Operating Systems</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-perfecting-video-conferencing-with-snap-functionality/"><u>In 2024, Perfecting Video Conferencing with Snap Functionality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/legacy-over-how-llvm-compilers-departure-signals-the-end-of-amds-3dnow/"><u>Legacy Over: How LLVM Compiler's Departure Signals the End of AMD's 3DNow!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-artificial-intelligence-for-enhanced-content-generation-exploring-chatbot-capabilities/"><u>Leveraging Artificial Intelligence for Enhanced Content Generation: Exploring Chatbot Capabilities</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-improve-fps-and-reduce-lag-in-roblox-windows-edition/"><u>Strategies to Improve FPS & Reduce Lag in Roblox Windows Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/surface-book-driver-update-made-simple-download-now/"><u>Surface Book Driver Update Made Simple – Download Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-gaming-experience-on-windows-11-8-or-7-download-nvidia-rtx-3090-drivers-now/"><u>Upgrade Gaming Experience on Windows 11, 8 or 7 - Download NVIDIA RTX 3090 Drivers Now</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/video-metadata-made-easy-8-best-mac-editors/"><u>Video Metadata Made Easy 8 Best Mac Editors</u></a></li>
 </ul></div>
 

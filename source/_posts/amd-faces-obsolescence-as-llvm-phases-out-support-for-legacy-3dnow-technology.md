@@ -1,7 +1,7 @@
 ---
 title: AMD Faces Obsolescence as LLVM Phases Out Support for Legacy 3DNow! Technology
-date: 2024-09-14T20:27:16.758Z
-updated: 2024-09-17T17:31:40.228Z
+date: 2024-09-21T23:20:55.366Z
+updated: 2024-09-22T19:04:19.252Z
 tags:
   - cpu
 categories:
@@ -58,24 +58,24 @@ The launch of AMD’s highly anticipated[Ryzen 9000](https://www.tomshardware.co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-pinnacle-of-picture-perfection-with-video-enhance-v22/"><u>[New] Pinnacle of Picture Perfection with Video Enhance V2.2</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-turn-your-image-brightness-upside-down-a-tutorial/"><u>[Updated] Turn Your Image Brightness Upside Down A Tutorial</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-expert-tips-for-effortless-ipodcast-downloads-on-iphone/"><u>2024 Approved Expert Tips for Effortless IPodcast Downloads on iPhone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pinnacle-of-video-quality-3-key-transcoder-strategies/"><u>2024 Approved Pinnacle of Video Quality 3 Key Transcoder Strategies</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-sky-high-quality-unveiling-the-best-4k-video-converters/"><u>2024 Approved Sky-High Quality Unveiling the Best 4K Video Converters</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722973402805-boost-your-pcs-speed-easy-intel-cpu-driver-downloads-inside/"><u>Boost Your PC's Speed: Easy Intel CPU Driver Downloads Inside!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-the-new-intel-iris-plus-gf-640-drivers-your-guide-to-a-speedy-update/"><u>Easy Installation of the New Intel Iris Plus GF 640 Drivers: Your Guide to a Speedy Update</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-techniques-to-divide-videos-into-30-second-intervals-a-comprehensive-guide/"><u>Easy Techniques to Divide Videos Into 30-Second Intervals: A Comprehensive Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-pro-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Passcode without Computer?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Honor 90 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/proven-methods-to-secure-costless-illustrations-for-2024/"><u>Proven Methods to Secure Costless Illustrations for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-big-move-chinese-telco-companebrands-turn-to-indigenous-cpu-platforms-retrofitting-servers-across-the-board/"><u>The Big Move: Chinese Telco Companebrands Turn to Indigenous CPU Platforms, Retrofitting Servers Across the Board</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-elevate-your-brand-explore-these-10-essential-youtube-creators/"><u>[Updated] 2024 Approved Elevate Your Brand Explore These 10 Essential YouTube Creators</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-best-6-multilingual-video-decoders/"><u>[Updated] Best 6 Multilingual Video Decoders</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-gamers-dream-gear-youtube-collection/"><u>[Updated] In 2024, Gamers' Dream Gear YouTube Collection</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-soundtrack-posts-a-copyright-primer-for-insta/"><u>[Updated] Mastering the Art of Soundtrack Posts A Copyright Primer for Insta</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-guide-to-seamlessly-replace-backgrounds-on-instagram-for-2024/"><u>[Updated] Step-by-Step Guide to Seamlessly Replace Backgrounds on Instagram for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-immediate-access-best-5-convertors-no-download-required/"><u>2024 Approved Immediate Access Best 5 Convertors, No Download Required</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/2024s-elite-lineup-best-performing-wi-fi-boosters-for-uninterrupted-internet-access/"><u>2024'S Elite Lineup: Best Performing Wi-Fi Boosters for Uninterrupted Internet Access</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/webex-webex/"><u>即時選出最佳Webex錄影解決方案 - 簡易上線迅速記錄Webex會議</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/approach/"><u>Approach:</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-drivers-for-your-hp-officejet-prise-4500-2024-version/"><u>Get the Newest Drivers for Your HP OfficeJet Prise 4500 - 2024 Version</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-definitive-source-for-tech-comparisons-toms-hardware-opinions/"><u>The Definitive Source for Tech Comparisons: Tom's Hardware Opinions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/trouble-looms-as-diablo-ii-reborn-struggles-with-initial-launch-setbacks/"><u>Trouble Looms as Diablo II Reborn Struggles with Initial Launch Setbacks</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

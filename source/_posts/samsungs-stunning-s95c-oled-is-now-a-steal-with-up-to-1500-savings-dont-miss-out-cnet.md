@@ -1,7 +1,7 @@
 ---
 title: Samsung's Stunning S95C OLED Is Now a Steal with Up to $1,500 Savings - Don't Miss Out! | CNET
-date: 2024-09-17 21:56:11
-updated: 2024-09-20 11:12:14
+date: 2024-09-20T17:40:58.844Z
+updated: 2024-09-22T23:37:32.518Z
 tags:
   - tvs
 categories:
@@ -110,11 +110,42 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-key-metrics-to-track-igtv-video-analytics/"><u>[New] 2024 Approved Key Metrics to Track IGTV Video Analytics</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-ultimate-tutorial-for-sharing-photos-from-phone-memory-for-2024/"><u>[Updated] The Ultimate Tutorial for Sharing Photos From Phone Memory for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-uncovering-veiled-viewer-interactions-with-video-content-for-2024/"><u>[Updated] Uncovering Veiled Viewer Interactions with Video Content for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-pixma-mg2522-fresh-driver-download-and-update-guide/"><u>Canon Pixma MG2522: Fresh Driver Download and Update Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-setup-guide-for-nexiq-usb-link-2-drivers-quick-and-easy/"><u>Complete Setup Guide for Nexiq USB Link 2 Drivers - Quick and Easy!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-downloading-process-for-the-latest-canon-mg362e-printer-drivers/"><u>Easy Downloading Process for the Latest Canon MG362e Printer Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-obtain-acers-bluetooth-driver-free-downloads-available/"><u>Easy Steps to Obtain Acer's Bluetooth Driver - Free Downloads Available</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-compatibility-with-windows-download-logitech-hd-c525-webcam-drivers-and-updates/"><u>Ensure Compatibility with Windows - Download Logitech HD C525 Webcam Drivers & Updates</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-dirt-5-pc-game-freezing-issues-solutions-inside/"><u>Fixing Dirt 5 PC Game Freezing Issues - Solutions Inside</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/gadget-reviews-by-tom-unlocking-performance-secrets/"><u>Gadget Reviews by Tom: Unlocking Performance Secrets</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-samsung-960-evo-drive-firmware-for-windows-systems-here/"><u>Get the Latest Samsung 960 EVO Drive Firmware for Windows Systems Here!</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-spark-20-proplus-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Spark 20 Pro+ without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/roblox-error-fixes-handling-and-preventing-code-277-on-your-computer/"><u>Roblox Error Fixes: Handling and Preventing Code 277 on Your Computer</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/le-upon-substantial-comment-sections/"><u>Stumble upon Substantial Comment Sections</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-imagery-with-ar-and-accessible-luts-for-2024/"><u>Transform Your Imagery with AR & Accessible LUTs for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
