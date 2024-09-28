@@ -1,7 +1,7 @@
 ---
 title: "Beyond Sony and Samsung: The Ultimate Guide to Selecting a Premium Gaming Television"
-date: 2024-09-20T18:42:49.498Z
-updated: 2024-09-23T00:06:25.361Z
+date: 2024-09-27T18:44:06.199Z
+updated: 2024-09-28T16:45:02.592Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,20 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-melodyrecorder-free-an-experts-evaluation/"><u>[Updated] 2024 Approved MelodyRecorder Free An Expert's Evaluation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-maximizing-your-content-instagrams-video-time-restrictions/"><u>2024 Approved Maximizing Your Content Instagram's Video Time Restrictions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-protecting-your-privacy-a-curated-list-of-cam-covers/"><u>2024 Approved Protecting Your Privacy A Curated List of Cam Covers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeo-video-segmentation-adding-chapters-for-clarity/"><u>2024 Approved Vimeo Video Segmentation Adding Chapters for Clarity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-fixes-for-logitech-c615-mouse-driver-errors-a-comprehensive-guide/"><u>Effortless Fixes for Logitech C615 Mouse Driver Errors - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-software-upgrades-for-your-hp-2540-all-in-one-printer/"><u>Get the Latest Software Upgrades for Your HP 2540 All-in-One Printer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-zero-30-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Zero 30 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-xiaomi-13t-pro-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Xiaomi 13T Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Realme Narzo 60 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-the-latest-logitech-c52eb-pc-webcam-drivers-for-optimal-performance-in-windows/"><u>Installing the Latest Logitech C52eb PC Webcam Drivers for Optimal Performance in Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/newest-software-upgrades-for-hp-p1606dn-laser-jet-free-driver-installation-guide/"><u>Newest Software Upgrades for HP P1606DN Laser Jet - Free Driver Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolve-your-asus-pce-ac56-driver-problems-in-windows-windows-1087/"><u>Resolve Your ASUS PCE-AC56 Driver Problems in Windows (Windows 10/8/7)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/secrets-of-professional-level-iptv-capturing/"><u>Secrets of Professional-Level IPTV Capturing</u></a></li>
+</ul></div>
 

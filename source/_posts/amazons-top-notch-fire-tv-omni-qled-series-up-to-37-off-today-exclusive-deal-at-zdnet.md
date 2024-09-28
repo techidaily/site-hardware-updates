@@ -1,7 +1,7 @@
 ---
 title: Amazon's Top-Notch Fire TV Omni QLED Series Up to 37%% Off Today - Exclusive Deal at ZDNET!
-date: 2024-09-21T16:30:44.567Z
-updated: 2024-09-22T16:46:25.294Z
+date: 2024-09-27T17:08:38.472Z
+updated: 2024-09-28T19:08:03.679Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Jason Hiner/ZDNET
 ### What's the deal?
 
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
 
@@ -59,6 +66,13 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
@@ -76,12 +90,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unlocking-home-design-potential-in-minecraft/"><u>[New] Unlocking Home Design Potential in Minecraft</u></a></li>
+<li><a href="https://android-frp.techidaily.com/call-of-duty-enthusiasts-guide-rectifying-the-sticky-shader-compilation-problem-in-bocw/"><u>Call of Duty Enthusiasts Guide: Rectifying the Sticky Shader Compilation Problem in BOCW</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-latest-evga-graphics-card-drivers-on-windows-pcs/"><u>Download & Install Latest EVGA Graphics Card Drivers on Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-upgrade-intel-hd-graphics-driver-compatible-with-windows-11/"><u>Download & Upgrade Intel HD Graphics Driver: Compatible with Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-installing-logitech-wireless-mouse-software-for-pc-users/"><u>Easy Guide to Installing Logitech Wireless Mouse Software for PC Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hp-color-laserjet-pro-m4n-dm-driver-installed-today/"><u>Get Your HP Color LaserJet Pro M4n-Dm Driver Installed Today</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Phones with/without a PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978581081-msi-b350-toms-tomahawk-driver-software-for-pcs-running-on-windows-117-download-now/"><u>MSI B350 TOM'S TOMAHAWK Driver Software for PCs Running on Windows 11/7 – Download Now!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-and-efficient-ways-to-solve-magic-mouse-touch-issues/"><u>Quick & Efficient Ways to Solve Magic Mouse Touch Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-tutorial-how-to-transform-your-dvd-collection-into-premium-ogg-format/"><u>Ultimate Tutorial: How to Transform Your DVD Collection Into Premium OGG Format</u></a></li>
+</ul></div>
 

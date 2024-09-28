@@ -1,7 +1,7 @@
 ---
 title: Cutting the Power Bill with Smart TV Adjustments! Discover ZDNet's Secret to Saving Electricity on Your Set-Up.
-date: 2024-09-17T16:48:29.256Z
-updated: 2024-09-22T17:48:57.554Z
+date: 2024-09-26T18:49:20.229Z
+updated: 2024-09-28T16:15:06.700Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,19 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-harmony-hunters-dive-into-free-online-beat-tracker/"><u>[New] Harmony Hunters Dive Into Free, Online Beat Tracker</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-pure-harmony-for-win-software-for-2024/"><u>[Updated] Pure Harmony for WIN Software for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-nubia-z50s-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Nubia Z50S Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypassing-technical-hurdles-in-apex-legends-engine-issues-solved/"><u>Bypassing Technical Hurdles in Apex Legends - Engine Issues Solved</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/combining-images-for-an-engaging-picture-panorama-for-2024/"><u>Combining Images for an Engaging Picture Panorama for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-for-successfully-patching-and-refreshing-ati-radeon-drivers-in-windows-environment/"><u>Expert Tips for Successfully Patching and Refreshing ATI Radeon Drivers in Windows Environment</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/improve-your-pcs-performance-with-free-gigabyte-ethernet-card-driver-downloads/"><u>Improve Your PC's Performance with Free Gigabyte Ethernet Card Driver Downloads!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-spark-10c-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Tecno Spark 10C?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977166985-install-latest-logitech-speakers-drivers-on-windows-1178-direct-download-links/"><u>Install Latest Logitech Speakers' Drivers on Windows 11/7/8 - Direct Download Links!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-epson-wf-7720-drivers-for-windows-a-comprehensive-guide/"><u>Latest Epson WF-7720 Drivers for Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/premier-android-storage-in-the-clouds-list-for-2024/"><u>Premier Android Storage in the Clouds List for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-6-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock iPhone 6 With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+</ul></div>
 

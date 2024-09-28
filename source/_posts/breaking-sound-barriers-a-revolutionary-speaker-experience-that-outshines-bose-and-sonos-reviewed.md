@@ -1,7 +1,7 @@
 ---
 title: "Breaking Sound Barriers: A Revolutionary Speaker Experience that Outshines Bose & Sonos Reviewed"
-date: 2024-09-20T22:32:38.765Z
-updated: 2024-09-22T20:50:35.855Z
+date: 2024-09-26T16:01:17.236Z
+updated: 2024-09-28T18:37:49.517Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,20 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-connoisseur-transform-your-sub4sub-experience-now/"><u>[New] In 2024, From Novice to Connoisseur Transform Your Sub4sub Experience Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revamped-quality-enhance-audio-experience-with-updated-nahimic-drivers/"><u>[Revamped Quality!]: Enhance Audio Experience with Updated Nahimic Drivers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-photo-cartoony-kick-cross-platform-windows-and-mac-software/"><u>2024 Approved Photo Cartoony Kick Cross-Platform Windows & Mac Software</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/converti-file-avi-a-formato-webm-online-e-gratuitamente-con-movavi/"><u>Converti File AVI a Formato WEBM Online E Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-driver-for-your-brother-hl-l2300d-printer-here/"><u>Get the Most Recent Driver for Your Brother HL-L2300D Printer Here</u></a></li>
+<li><a href="https://discover-community.techidaily.com/guida-completa-di-supporto-tecnico-in-tempo-reale-per-il-programma-winx-dvd-ripper-insieme-a-winxvideo-artificial-intelligence-ai/"><u>Guida Completa Di Supporto Tecnico in Tempo Reale per Il Programma WinX DVD Ripper Insieme a Winxvideo Artificial Intelligence (AI)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-securely-obtain-nvidia-video-card-drivers-for-your-windows-system-10-7-and-nv/"><u>How to Securely Obtain Nvidia Video Card Drivers for Your Windows System (10, 7 & Nv)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-pioneering-proficiency-the-complete-guide-to-music-and-media-fusion-on-youtube/"><u>In 2024, Pioneering Proficiency The Complete Guide to Music & Media Fusion on YouTube</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-samsung-galaxy-a34-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Samsung Galaxy A34 5G</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-lenovo-thinkpad-x260-drivers-and-firmware-updates-for-windows-11/"><u>Latest Lenovo ThinkPad X260 Drivers and Firmware Updates for Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-rtx-2070-driver-download-supports-windows-11-8-and-7/"><u>NVIDIA RTX #2070 Driver Download – Supports Windows 11, 8, and 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976766427-secure-lenovo-bluetooth-driver-downloads-and-updates-for-windows-7-and-10/"><u>Secure Lenovo Bluetooth Driver Downloads & Updates for Windows 7 and 10</u></a></li>
+</ul></div>
 

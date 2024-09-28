@@ -1,7 +1,7 @@
 ---
 title: "Prime Day Extravaganza: Secure Your Discounted Samsung Frame Television for 35%% Less Today, Advice & Tips by ZDNet"
-date: 2024-09-15T18:04:15.039Z
-updated: 2024-09-22T19:20:27.913Z
+date: 2024-09-21T17:20:29.382Z
+updated: 2024-09-28T19:52:04.141Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,24 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-dividing-recordings-top-cam-scrutiny-review/"><u>[New] 2024 Approved Dividing Recordings Top Cam Scrutiny Review</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-from-novice-to-pro-your-complete-reddit-post-blueprint/"><u>[Updated] 2024 Approved From Novice to Pro Your Complete Reddit Post Blueprint</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-mastering-the-art-of-persuasion-in-marketing/"><u>[Updated] 2024 Approved Mastering the Art of Persuasion in Marketing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-ultimate-visual-diary-unparalleled-tips-for-documenting-your-sims-stories-in-sims-4/"><u>[Updated] 2024 Approved The Ultimate Visual Diary Unparalleled Tips for Documenting Your Sims' Stories in Sims 4</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-nine-key-approaches-for-storing-mov-in-windows-environments/"><u>2024 Approved Nine Key Approaches for Storing .mov in Windows Environments</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-rx-5700-xt-drivers-download-and-installation-guide-for-various-windows-versions-111087/"><u>AMD Radeon RX 5700 XT Drivers: Download & Installation Guide for Various Windows Versions (11/10/8/7)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203390423-dell-laptop-fn-key-problem-heres-how-to-get-it-working-again/"><u>Dell Laptop Fn-Key Problem? Here’s How to Get It Working Again!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-get-your-xbox-wireless-controller-ready-with-fast-driver-download/"><u>Effortless Installation: Get Your Xbox Wireless Controller Ready with Fast Driver Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-best-gaming-experience-with-corsairs-void-pro-download-and-instantly-setup-on-windows/"><u>Get the Best Gaming Experience with Corsair's Void Pro - Download and Instantly Setup on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-updates-for-your-canon-mp250-printer-a-comprehensive-downloading-tutorial/"><u>Get the Latest Updates for Your Canon MP250 Printer: A Comprehensive Downloading Tutorial</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-reno-11-pro-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Reno 11 Pro 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intel-bluetooth-driver-for-windows-11-download-easily/"><u>Intel Bluetooth Driver for Windows 11 Download Easily</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-compatible-amd-radeon-drivers-for-windows-7-free-download-and-setup-instructions/"><u>Latest Compatible AMD Radeon Drivers for Windows 7: Free Download and Setup Instructions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/master-guide-to-online-video-calls-free-edition-best/"><u>Master Guide to Online Video Calls Free Edition Best</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-to-download-and-setup-epson-xp-410-drivers-for-windows-users/"><u>Step-by-Step Instructions to Download and Setup Epson XP-410 Drivers for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-resolution-of-ralink-rt3290-drivers-in-windows-7-8-and-11-expert-insights-and-strategies/"><u>Step-by-Step Resolution of Ralink RT3290 Drivers in Windows 7, 8 & 11: Expert Insights and Strategies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-guide-downloading-and-setting-up-the-epson-xp-830-drivers/"><u>Troubleshooting Guide: Downloading & Setting Up the Epson XP-830 Drivers</u></a></li>
+</ul></div>
 

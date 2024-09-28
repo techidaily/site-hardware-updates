@@ -1,7 +1,7 @@
 ---
 title: "Beyond Bose & Sonos: Discover the Ultimate Audio Experience in This Remarkable Speaker System"
-date: 2024-09-19T22:04:58.331Z
-updated: 2024-09-22T23:08:29.254Z
+date: 2024-09-24T16:52:47.984Z
+updated: 2024-09-28T19:48:39.130Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,24 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-speedy-sketching-techniques-for-fortnite-tiles/"><u>[New] 2024 Approved Speedy Sketching Techniques for Fortnite Tiles</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-ultimate-action-review-sj7s-4k-star-video-capability-unveiled/"><u>[Updated] The Ultimate Action Review SJ7's 4K Star Video Capability Unveiled</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1985-pale-rider-with-eastwood-as-a-mysterious-preacher-who-is-hired-to-work-in-a-gold-mine-during-the-california-gold-rush-the-film-was-based-on-dashiell-ha147/"><u>1985 - Pale Rider, with Eastwood as a Mysterious Preacher Who Is Hired to Work in a Gold Mine During the California Gold Rush. The Film Was Based on Dashiell Hammett's Short Story, Told in the Hills.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-motorola-defy-2-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Motorola Defy 2 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-vivo-y100-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Vivo Y100 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/digiartys-final-user-license-agreement-for-winxdvd-secure-your-legal-rights/"><u>Digiarty's Final User License Agreement for WinXDVD - Secure Your Legal Rights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722956815587-get-your-m-audio-fast-track-ultra-driver-installer-at-no-cost/"><u>Get Your M-Audio Fast Track Ultra Driver Installer at No Cost!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-download-and-update-toshiba-laptop-drivers-in-windows-1087/"><u>How to Seamlessly Download and Update Toshiba Laptop Drivers in Windows 10/8/7</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-boost-creativity-with-free-audio-effects-online/"><u>In 2024, Boost Creativity with Free Audio Effects Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-your-videos-potential-with-dynamic-titles/"><u>In 2024, Unleash Your Video's Potential with Dynamic Titles</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/overcoming-window-updates-a-guide-to-solving-your-hp-laserjet-p2035-driver-glitches/"><u>Overcoming Window Updates: A Guide to Solving Your HP LaserJet P2035 Driver Glitches</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sculpting-light-an-in-depth-look-at-lightroom-hdr-photos/"><u>Sculpting Light An In-Depth Look at Lightroom HDR Photos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/srt-conversion-made-easy-a-step-by-step-approach/"><u>SRT Conversion Made Easy A Step-by-Step Approach</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/streamline-your-surface-books-experience-with-quick-driver-downloads-and-updates/"><u>Streamline Your Surface Book's Experience with Quick Driver Downloads and Updates!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-solving-universal-print-driver-errors-for-samsung-devices-windows/"><u>Troubleshooting and Solving Universal Print Driver Errors for Samsung Devices (Windows)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-realtek-card-reader-driver-suite-free-download-for-windows-10-users/"><u>Updated Realtek Card Reader Driver Suite - Free Download for Windows 10 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-compatible-thunderbolt-drivers-download-and-enhance-your-pcs-performance/"><u>Windows Compatible Thunderbolt Drivers – Download and Enhance Your PC's Performance</u></a></li>
+</ul></div>
 

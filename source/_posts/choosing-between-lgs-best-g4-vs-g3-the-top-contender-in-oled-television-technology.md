@@ -1,7 +1,7 @@
 ---
 title: "Choosing Between LG's Best: G4 Vs. G3 - The Top Contender in OLED Television Technology"
-date: 2024-09-17T17:18:26.697Z
-updated: 2024-09-22T19:45:08.166Z
+date: 2024-09-26T18:27:19.929Z
+updated: 2024-09-28T18:26:25.843Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,22 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-expansive-movement-assessment-2023/"><u>[New] Expansive Movement Assessment 2023</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-novice-writers-best-enhancements-for-gopro/"><u>[New] Novice’ Writers Best Enhancements for GoPro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-updating-and-downloading-atheros-drivers-on-windows/"><u>Complete Guide to Updating and Downloading Atheros Drivers on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-latest-firmware-netgear-wna3100/"><u>Download & Install Latest Firmware: Netgear WNA3100</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-installing-your-epson-stylus-nx420-printer-driver-on-windows/"><u>Easy Guide to Downloading and Installing Your Epson Stylus NX420 Printer Driver on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-tweaks-required-for-better-gpt-plugin-management/"><u>Essential Tweaks Required for Better GPT Plugin Management</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/etape-par-etape-transformation-video-de-ratio-43-en-format-169-explique/"><u>Étape Par Étape : Transformation Vidéo De Ratio 4/3 en Format 16/9 Expliqué!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-wi-fi-drivers-compatible-with-windows-111087-download-now/"><u>Get the Most Recent Wi-Fi Drivers Compatible with Windows 11/10/8/7 – Download Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-or-install-hp-wifi-drivers-on-windows-computers-and-laptops/"><u>How to Update or Install HP Wifi Drivers on Windows Computers and Laptops</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Spoofing Life360 How to Do it on Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-xs-5-ways-to-get-into-a-locked-apple-iphone-xs-by-drfone-ios/"><u>Locked Out of Apple iPhone XS? 5 Ways to get into a Locked Apple iPhone XS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mastering-video-cloning-in-just-a-few-steps-top-3-methods-revealed/"><u>Mastering Video Cloning in Just a Few Steps - Top 3 Methods Revealed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/navigate-your-digital-files-with-ease-discover-12-quick-tips-to-launch-file-explorer-on-windows-11/"><u>Navigate Your Digital Files with Ease: Discover 12 Quick Tips to Launch File Explorer on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-reinstalling-your-computers-usb-sound-card-drivers-for-windows-11/"><u>Step-by-Step Guide to Reinstalling Your Computer's USB Sound Card Drivers for Windows 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlock-creativity-idea-driven-youtube-channel-titles-for-2024/"><u>Unlock Creativity Idea-Driven YouTube Channel Titles for 2024</u></a></li>
+</ul></div>
 

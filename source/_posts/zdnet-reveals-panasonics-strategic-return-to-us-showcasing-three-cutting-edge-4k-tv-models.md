@@ -1,7 +1,7 @@
 ---
 title: ZDNet Reveals Panasonic's Strategic Return to US, Showcasing Three Cutting-Edge 4K TV Models
-date: 2024-09-20T17:35:56.498Z
-updated: 2024-09-22T16:01:58.338Z
+date: 2024-09-24T18:50:38.799Z
+updated: 2024-09-28T16:02:08.364Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,19 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +59,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +103,18 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-maximize-your-income-through-strategic-use-of-youtube-shorts/"><u>[New] 2024 Approved Maximize Your Income Through Strategic Use of YouTube Shorts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-the-10-funniest-youtube-shorts-video-ideas/"><u>[New] 2024 Approved The 10 Funniest YouTube Shorts Video Ideas</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-facebook-linking-method-for-youtube-video-content/"><u>[New] In 2024, Facebook Linking Method for YouTube Video Content</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snap-into-fun-step-by-step-guide-for-adding-gifs-in-conversations/"><u>[Updated] 2024 Approved Snap Into Fun Step-by-Step Guide for Adding Gifs in Conversations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effective-guide-to-downloading-and-installing-brother-dcp-l2540dw-driver-for-windows-computers/"><u>Effective Guide to Downloading & Installing Brother DCP-L2540DW Driver for Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-wacom-intuos-pro-drivers-running-on-windows-11-a-hassle-free-guide/"><u>How to Get the Latest Wacom Intuos Pro Drivers Running on Windows 11 - A Hassle-Free Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-apple-iphone-xs-max-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone XS Max Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/record-your-rush-make-every-game-count/"><u>Record Your Rush Make Every Game Count</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/redundancy-and-reliability-features-ensure-that-the-system-activates-in-an-emergency-and-alerts-first-responders-promptly/"><u>Redundancy and Reliability Features Ensure that the System Activates in an Emergency and Alerts First Responders Promptly.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/safe-access-such-as-ladders-or-stairway-type-ladders-must-be-secured-and-free-from-hazards/"><u>Safe Access Such as Ladders or Stairway-Type Ladders Must Be Secured and Free From Hazards.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-canon-mx490-driver-in-windows-1087/"><u>Step-by-Step Guide: Updating Your Canon MX490 Driver in Windows 10/8/7</u></a></li>
+</ul></div>
 

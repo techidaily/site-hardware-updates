@@ -1,7 +1,7 @@
 ---
 title: "Scorching Deal Alert: Snag Your 85-Inch TCL Television for 25%% Less - Labor Day Countdown Begins | Find Exclusive Offers on ZDNET"
-date: 2024-09-16T17:30:58.586Z
-updated: 2024-09-22T22:10:36.243Z
+date: 2024-09-27T18:16:32.207Z
+updated: 2024-09-28T19:13:28.792Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,22 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-optimal-mov-recording-settings-for-windows-11/"><u>[New] In 2024, Optimal MOV Recording Settings for Windows 11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/our-guide-to-youtube-stardom-6-effortless-steps-for-exposure-for-2024/"><u>[New] Your Guide to YouTube Stardom 6 Effortless Steps for Exposure for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-picture-perfect-displays-choosing-the-best-photo-editing-screens-2024/"><u>[Updated] Picture Perfect Displays Choosing the Best Photo Editing Screens, 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-elevating-engagement-crafting-high-roi-animated-campaigns-on-facebook/"><u>2024 Approved Elevating Engagement Crafting High-ROI Animated Campaigns on Facebook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-nvidia-quadro-drivers-for-windows-10-latest-directshow-codec-and-hardware-acceleration-support/"><u>Download NVIDIA Quadro Drivers for Windows 10: Latest DirectShow Codec and Hardware Acceleration Support</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-epson-wf-2630-printer-drivers-for-windows-7-10-and-81/"><u>Download the Latest Epson WF-2630 Printer Drivers for Windows 7, 10 & 8.1</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-guide-recovering-missing-or-hidden-windows-on-your-pc/"><u>Easy Guide: Recovering Missing or Hidden Windows on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-404-the-missing-link-at-wonderfox-resolved-your-content-awaits/"><u>Error 404: The Missing Link at WonderFox Resolved - Your Content Awaits!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977666528-information-on-prior-interactions-or-escalations-related-to-this-case-if-applicable/"><u>Information on Prior Interactions or Escalations Related to This Case, if Applicable</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-firmware-get-the-new-hp-officejet-pro-9015-printer-software/"><u>Latest Firmware: Get the New HP OfficeJet Pro 9015 Printer Software</u></a></li>
+<li><a href="https://win-blog.techidaily.com/navigating-through-hazardous-programming-errors-in-modern-warfare-and-blackout/"><u>Navigating Through Hazardous Programming Errors in Modern Warfare and Blackout</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-and-fast-obtain-download-and-install-hp-product-drivers-effortlessly/"><u>Simple & Fast: Obtain, Download & Install HP Product Drivers Effortlessly!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-naming-algorithms-for-podcast-mastery-for-2024/"><u>Top 10 Naming Algorithms for Podcast Mastery for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-outlook-spellcheck-steps-to-get-it-running-again/"><u>Troubleshooting Outlook Spellcheck: Steps to Get It Running Again</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-and-download-drivers-for-logitech-brio-webcam-compatible-with-windows-os-x78/"><u>Update & Download Drivers for Logitech Brio Webcam - Compatible with Windows OS X/7/8</u></a></li>
+</ul></div>
 

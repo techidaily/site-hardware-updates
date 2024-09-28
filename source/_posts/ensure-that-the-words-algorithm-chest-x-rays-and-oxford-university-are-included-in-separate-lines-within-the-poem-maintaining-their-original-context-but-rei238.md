@@ -1,7 +1,7 @@
 ---
 title: Ensure that the Words Algorithm, Chest X-Rays, and Oxford University Are Included in Separate Lines Within the Poem, Maintaining Their Original Context but Reinterpreted Astrologically.
-date: 2024-09-18T22:21:51.126Z
-updated: 2024-09-22T17:46:07.307Z
+date: 2024-09-26T17:08:58.993Z
+updated: 2024-09-28T17:53:23.911Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Jason Hiner/ZDNET
 ### What's the deal?
 
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
 
@@ -59,6 +66,13 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
@@ -76,12 +90,17 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-a-beginners-guide-to-youtube-shorts-nuances/"><u>[New] 2024 Approved A Beginner's Guide to YouTube Shorts Nuances</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-a-great-educational-video-for-youtube/"><u>[Updated] In 2024, How to Make a Great Educational Video for YouTube?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-apple-iphone-6s-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>Best Apple iPhone 6s & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-pixma-ts3322-printer-software-download-and-latest-firmware-updates/"><u>Canon PIXMA TS3322 Printer Software Download & Latest Firmware Updates</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/crafting-seamless-visuals-with-instagrams-chroma-key/"><u>Crafting Seamless Visuals with Instagram's Chroma Key</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-compatibility-downloading-and-installing-updated-drivers-for-your-epson-xp-640-printer-on-windows/"><u>Seamless Compatibility: Downloading and Installing Updated Drivers for Your Epson XP-640 Printer on Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-automating-your-tweets-with-advanced-scheduling-tools/"><u>Step-by-Step Guide: Automating Your Tweets with Advanced Scheduling Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/successful-installation-of-intels-dptf-driver-a-step-by-step-troubleshooting-guide/"><u>Successful Installation of Intel's DPTF Driver: A Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-msi-speaker-and-headset-drivers-for-windows-users/"><u>Updated MSI Speaker and Headset Drivers for Windows Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/windows-11-compatible-get-and-install-nvidia-1080-drivers-fast-and-easy/"><u>Windows 11 Compatible: Get and Install NVIDIA 1080 Drivers Fast & Easy!</u></a></li>
+</ul></div>
 

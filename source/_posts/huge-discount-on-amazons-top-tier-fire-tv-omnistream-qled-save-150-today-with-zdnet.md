@@ -1,7 +1,7 @@
 ---
 title: Huge Discount on Amazon's Top-Tier Fire TV Omnistream QLED - Save $150 Today with ZDNet
-date: 2024-09-17T23:20:27.359Z
-updated: 2024-09-22T18:39:27.911Z
+date: 2024-09-25T17:50:46.292Z
+updated: 2024-09-28T19:37:59.010Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,20 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-crafting-professional-grade-steam-gameplay-videos/"><u>[New] 2024 Approved Crafting Professional-Grade Steam Gameplay Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-uncovering-the-value-of-video-selfies-on-insta/"><u>[New] 2024 Approved Uncovering the Value of Video Selfies on Insta</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-11-useful-youtube-seo-tips-to-rank-your-video/"><u>[New] In 2024, 11 Useful YouTube SEO Tips to Rank Your Video</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-nurturing-nature-on-android-animals-in-a-virtual-world-for-2024/"><u>[Updated] Nurturing Nature on Android Animals in a Virtual World for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-techniques-for-flawless-live-broadcasting-of-rl-games-for-2024/"><u>[Updated] Techniques for Flawless Live Broadcasting of RL Games for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-usb-30-drivers-for-windows-pc/"><u>Download & Install USB 3.0 Drivers for Windows PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-toshiba-laptop-drivers-on-windows-easy-guide/"><u>Download and Update Toshiba Laptop Drivers on Windows - Easy Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/online-webinar-conduct-with-youtube-for-2024/"><u>Free Online Webinar Conduct with YouTube for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977811354-genetic-diversity-is-essential-for-the-adaptability-and-resilience-of-crop-species/"><u>Genetic Diversity Is Essential for the Adaptability and Resilience of Crop Species.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-zexmt-bluetooth-device-up-and-running-with-updated-drivers-win1078/"><u>Get Your Zexmt Bluetooth Device Up and Running with Updated Drivers (Win10/7/8)</u></a></li>
+<li><a href="https://games-able.techidaily.com/minecraft-network-disconnect-on-windows-quick-tips/"><u>Minecraft Network Disconnect on Windows: Quick Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-quadro-rtx-4000-how-to-download-and-update-your-drivers-easily/"><u>Nvidia Quadro RTX 4000 - How to Download and Update Your Drivers Easily</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-downloading-and-installing-asus-touchpad-drivers-on-your-windows-11-device/"><u>Ultimate Guide to Downloading and Installing ASUS Touchpad Drivers on Your Windows 11 Device</u></a></li>
+</ul></div>
 

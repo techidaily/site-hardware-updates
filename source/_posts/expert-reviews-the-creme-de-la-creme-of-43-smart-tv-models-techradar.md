@@ -1,7 +1,7 @@
 ---
 title: "Expert Reviews: The Crème De La Crème of 43 Smart TV Models | TechRadar"
-date: 2024-09-18T16:07:47.804Z
-updated: 2024-09-22T16:52:01.020Z
+date: 2024-09-22T17:55:34.718Z
+updated: 2024-09-28T20:06:05.301Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,26 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-enhance-your-films-innovative-kinemaster-transitions/"><u>[New] 2024 Approved Enhance Your Films Innovative Kinemaster Transitions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-making-a-channels-story-visible-in-snippets/"><u>[New] In 2024, Making a Channel's Story Visible in Snippets</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-wallet-friendly-mirrorless-choices/"><u>2024 Approved Wallet-Friendly Mirrorless Choices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-epson-xp-420-printer-software-latest-drivers-and-firmware-updates/"><u>Download & Install Epson XP-420 Printer Software: Latest Drivers and Firmware Updates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-latest-sas-software-on-windows-11-8-or-7-free-updates/"><u>Download & Install Latest SAS Software on Windows 11, 8 or 7 - Free Updates</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-epson-workforce-ds-30-printer-software-for-windows-systems-windows-10-8-and-cuu/"><u>Easy Installation Guide: Epson WorkForce DS-30 Printer Software for Windows Systems (Windows 10, 8, and Cuu)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/geforce-460-driver-update-seamless-installation-on-windows-machines/"><u>GeForce 460 Driver Update: Seamless Installation on Windows Machines</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-latest-iphone-drivers-on-your-windows-10-pc/"><u>How to Install the Latest iPhone Drivers on Your Windows 10 PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Honor X9a? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-konica-minolta-printer-drivers-available-here-windows-111087-downloads/"><u>Latest Konica Minolta Printer Drivers Available Here: Windows 11/10/8/7 Downloads</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-vivo-y100-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977084738-rapid-access-to-razer-mamba-device-drivers-start-now/"><u>Rapid Access to Razer Mamba Device Drivers - Start Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/razer-mamba-driver-download-swift-and-simple-steps/"><u>Razer Mamba Driver Download: Swift and Simple Steps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/sound-quality-matters-a-critical-look-at-the-top-6-streaming-mics/"><u>Sound Quality Matters A Critical Look at The Top 6 Streaming Mics</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-remedy-unsupported-audio-device-in-windows-os/"><u>Steps to Remedy Unsupported Audio Device in Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-tutorial-setting-up-your-arduino-by-downloading-the-right-windows-drivers/"><u>The Ultimate Tutorial: Setting Up Your Arduino by Downloading the Right Windows Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-epson-v600-scanner-software-and-drivers-free-download/"><u>Updated Epson V600 Scanner Software & Drivers: Free Download</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/youtube-for-iphoneandroid-enhancing-browser-performance/"><u>YouTube for iPhone/Android Enhancing Browser Performance</u></a></li>
+</ul></div>
 

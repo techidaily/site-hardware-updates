@@ -1,7 +1,7 @@
 ---
 title: Panasonic Makes a Grand Return to U.S. Markets with Trio of Innovative 4K Televisions - Insights From ZDNet
-date: 2024-09-16T18:57:30.858Z
-updated: 2024-09-22T17:48:44.476Z
+date: 2024-09-23T19:41:53.365Z
+updated: 2024-09-28T18:13:48.022Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,26 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-becoming-professionally-active-registering-a-business-on-ig-for-2024/"><u>[New] Becoming Professionally Active Registering a Business on IG for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-essential-gadgets-for-capturing-zoom-sessions/"><u>[New] Essential Gadgets for Capturing Zoom Sessions</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-using-luts-in-spark-ar-and-download-free-luts/"><u>[New] In 2024, Using LUTs in Spark AR & Download Free LUTs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-cutting-edge-conversion-tips-avi-to-gif-using-filmora-for-windowsmac-users-for-2024/"><u>[Updated] Cutting-Edge Conversion Tips AVI to GIF Using Filmora for Windows/Mac Users for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beginners-guide-to-visual-storytelling-key-shot-techniques-for-2024/"><u>Beginner’s Guide to Visual Storytelling Key Shot Techniques for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/drone-powerhouses-the-ultimate-heavy-lift-guide/"><u>Drone Powerhouses The Ultimate Heavy-Lift Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-xbox-360-controllers-free-driver-downloads/"><u>Easy Installation of Xbox 360 Controllers - Free Driver Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-installation-realtek-8188cu-wireless-network-adapter-drivers-on-windows-10-7/"><u>Free Installation: Realtek 8188CU Wireless Network Adapter Drivers on Windows 10, 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-zebra-driver-and-printer-utilities-for-your-pc-install-now/"><u>Get the Newest Zebra Driver & Printer Utilities for Your PC - Install Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-windows-pc-updated-with-the-latest-bluetooth-adapter-support/"><u>Get Your Windows PC Updated with the Latest Bluetooth Adapter Support</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-iphone-8-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The iPhone 8 SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ibuypower-gaming-rig-assessment-unmatched-performance-and-exceptional-value/"><u>IBuyPower Gaming Rig Assessment: Unmatched Performance & Exceptional Value</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keeping-your-logitech-m510-on-track-with-the-latest-software-updates/"><u>Keeping Your Logitech M510 on Track with the Latest Software Updates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-and-greatest-how-to-get-the-newest-netgear-wi-fi-driver-updates-for-your-device/"><u>Latest and Greatest: How to Get the Newest NETGEAR Wi-Fi Driver Updates for Your Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-rtx-2060-graphics-driver-compatible-with-multiple-windows-os-versions/"><u>Latest NVIDIA RTX 2060 Graphics Driver: Compatible with Multiple Windows OS Versions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-htc-u23-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/renovation/"><u>Renovation</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-systems-crafting-a-window-11-routine-with-controlled-downtime-and-updates/"><u>Seamless Systems: Crafting a Window 11 Routine with Controlled Downtime and Updates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-simplest-way-to-secure-latest-driver-updates-for-your-microsoft-surface-devices/"><u>The Simplest Way to Secure Latest Driver Updates for Your Microsoft Surface Devices</u></a></li>
+</ul></div>
 

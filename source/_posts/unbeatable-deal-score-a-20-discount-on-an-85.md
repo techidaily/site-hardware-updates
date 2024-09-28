@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Deal: Score a 20%% Discount on an 85"
-date: 2024-09-19T20:38:06.374Z
-updated: 2024-09-22T16:26:22.551Z
+date: 2024-09-24T19:39:52.452Z
+updated: 2024-09-28T16:05:30.214Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,26 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-download.techidaily.com/download-x230-lenovo-drivers-quickly-and-easily/"><u>[DOWNLOAD] X230 Lenovo Drivers | Quickly & Easily</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-sound-of-funny-ringtones-recommended-websites/"><u>[New] Sound of Funny Ringtones' Recommended Websites</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-eco-scene-blueprints-download-free-guides-for-professional-filmmakers-for-2024/"><u>[Updated] Eco-Scene Blueprints Download Free Guides for Professional Filmmakers for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/approach-analyze-how-density-influences-specific-heat-capacity-and-consider-how-moisture-loss-can-affect-cellular-structure-differently-based-on-initial-den234/"><u>Approach: Analyze How Density Influences Specific Heat Capacity and Consider How Moisture Loss Can Affect Cellular Structure Differently Based on Initial Density</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-drivers-for-hp-officejet-pro-8610-on-windows-1087xpvista-compatible-software/"><u>Download & Update Drivers for HP Officejet Pro 8610 on Windows 10/8/7/XP/Vista - Compatible Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-data-management-with-these-5-expert-tips-for-the-seagate-backup-plus-drive/"><u>Enhance Your Data Management with These 5 Expert Tips for the Seagate Backup Plus Drive</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-guide-free-update-programs-ranked-top-8-picked/"><u>Essential Guide: Free Update Programs Ranked - Top 8 Picked!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-logitech-camera-software-installation-for-windows-pcs/"><u>Free Logitech Camera Software Installation for Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722968736622-get-the-newest-version-of-brother-hl-l237n-drivers-download-now/"><u>Get the Newest Version of Brother HL-L237n Drivers – Download Now!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-honor-magic-6-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Honor Magic 6 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Lava Yuva 2? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-the-latest-logitech-c920-webcam-software-for-pcs-running-windows-11108/"><u>Installing the Latest Logitech C920 Webcam Software for PCs Running Windows 11/10/8</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/jumping-from-sdr-to-hdr-the-ultimate-transformation-guide-for-2024/"><u>Jumping From SDR to HDR The Ultimate Transformation Guide for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-x220-drivers-at-your-fingertnails-quick-hassle-free-download/"><u>Lenovo X220 Drivers at Your Fingertnails: Quick, Hassle-Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/official-lenovo-driver-updates-for-windows-7-and-10-secure-bluetooth-setup-instructions/"><u>Official Lenovo Driver Updates for Windows 7 and 10: Secure Bluetooth Setup Instructions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rectifying-acpi-driver-fault-venintanddev33a0/"><u>Rectifying ACPI Driver Fault: VEN_INT&DEV_33A0</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-oppo-reno-11-5g-by-fonelab-android-recover-data/"><u>Undelete lost data from Oppo Reno 11 5G</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-the-latest-epson-perfection-v600-driver-secure-your-print-quality/"><u>Update to the Latest Epson Perfection V600 Driver - Secure Your Print Quality</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Transforming Your Budget: Achieving Stellar Picture & Audio on a 98-Inch TV without Breaking the Bank | ZDNET"
-date: 2024-09-19T19:21:57.017Z
-updated: 2024-09-22T23:25:54.556Z
+date: 2024-09-23T16:14:53.505Z
+updated: 2024-09-28T19:41:45.635Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,18 +131,20 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-ultimate-pc-workaround-for-console-gaming-recordings/"><u>[New] In 2024, The Ultimate PC Workaround for Console Gaming Recordings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-top-5-twitch-broadcasting-techniques/"><u>[New] In 2024, Top 5 Twitch Broadcasting Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-squaring-the-circle-your-imovie-path-to-perfect-instagram-videos/"><u>[New] Squaring the Circle Your iMovie Path to Perfect Instagram Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-deep-dive-prodigious-polarrs-editing-capabilities/"><u>[Updated] A Deep Dive Prodigious Polarr's Editing Capabilities</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-elevate-your-slow-motion-on-mobile-with-these-apps-for-2024/"><u>[Updated] Elevate Your Slow Motion on Mobile with These Apps for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-tutorial-downloading-and-installing-broadcom-gigabit-ethernet-driver-for-windows-11/"><u>Comprehensive Tutorial: Downloading & Installing Broadcom Gigabit Ethernet Driver for Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-insignia-ns-pcy5bma2-driver-for-enhanced-performance-on-all-microsoft-windows-versions/"><u>Download the Latest Insignia NS-PCY5BMA2 Driver for Enhanced Performance on All Microsoft Windows Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-gameplay-latest-gtx-1660-ti-graphics-driver-update/"><u>Enhance Your Gameplay: Latest GTX 1660 Ti Graphics Driver Update</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-13-mini-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 13 mini</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-from-slide-show-to-screen-share-recording-tips-for-professionals/"><u>In 2024, From Slide Show to Screen Share Recording Tips for Professionals</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-proactive-planning-harnessing-the-power-of-slack-and-filmora-for-meetings/"><u>In 2024, Proactive Planning Harnessing the Power of Slack & Filmora For Meetings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-mpow-bluetooth-driver-software-for-windows-systems/"><u>Latest MPOW Bluetooth Driver Software for Windows Systems</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/telecharger-et-convertir-des-fichiers-mmf-en-mp3-gratuitement-guide-complet-de-movavi/"><u>Télécharger Et Convertir Des Fichiers MMF en MP3 Gratuitement – Guide Complet De Movavi</u></a></li>
+</ul></div>
 

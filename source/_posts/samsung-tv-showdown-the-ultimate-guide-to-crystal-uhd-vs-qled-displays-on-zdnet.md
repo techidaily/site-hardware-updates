@@ -1,7 +1,7 @@
 ---
 title: "Samsung TV Showdown: The Ultimate Guide to Crystal UHD Vs. QLED Displays on ZDNET"
-date: 2024-09-16T16:53:03.969Z
-updated: 2024-09-22T17:28:33.933Z
+date: 2024-09-25T19:31:19.705Z
+updated: 2024-09-28T19:11:24.719Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,24 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-gratuitous-access-to-top-digital-editing-suites/"><u>[New] 2024 Approved Gratuitous Access to Top Digital Editing Suites</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-taking-twitter-videos-from-regular-to-high-definition/"><u>[Updated] In 2024, Taking Twitter Videos From Regular to High-Definition</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-seamless-speech-recognition-the-pinnacle-of-googles-translation-for-2024/"><u>[Updated] Seamless Speech Recognition The Pinnacle of Google's Translation for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726222251707-wmvaac-movavi/"><u>免費移動網站 WMV到AAC 格式 - 使用 Movavi 視頻編解碼器</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-steps-to-correct-the-absence-of-d3dx927dll-in-your-system/"><u>Comprehensive Steps to Correct The Absence of d3dx9_27.dll in Your System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-intel-wi-fi-ac-9560-drivers/"><u>Download and Update Intel Wi-Fi AC 9560 Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-intels-top-z270-motherboard-for-gamers-carbon-series-with-enhanced-features-and-free-access/"><u>Download Intel's Top Z270 Motherboard for Gamers: Carbon Series with Enhanced Features & Free Access</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-hot-40-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-12-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-recent-updates-for-your-lenovo-usb-c-3-dock-station/"><u>Installing Recent Updates for Your Lenovo USB-C 3 Dock Station</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-wireless-network-drivers-for-pcs-secure-your-connection-with-latest-downloads-for-win11win10win7/"><u>Intel Wireless Network Drivers for PCs - Secure Your Connection with Latest Downloads for Win11/Win10/Win7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-x1-carbon-software-updates-secure-driver-downloads-for-win-10win-n7-systems/"><u>Lenovo X1 Carbon Software Updates – Secure Driver Downloads for Win 10/Win N7 Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-system-information-accessing-bios-on-windows-11/"><u>Mastering System Information: Accessing BIOS on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/overcome-troubles-the-complete-guide-to-repairing-igfxem-malfunctions/"><u>Overcome Troubles: The Complete Guide to Repairing IgfxEM Malfunctions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-way-to-find-and-download-your-dell-monitors-drivers/"><u>Quick & Easy Way to Find and Download Your Dell Monitor's Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722979129422-speedy-driver-downloads-for-targus-port-connectors-start-using-today/"><u>Speedy Driver Downloads for Targus Port Connectors - Start Using Today!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/update-privacy-policy-and-terms-of-use/"><u>Update: Privacy Policy & Terms of Use</u></a></li>
+</ul></div>
 

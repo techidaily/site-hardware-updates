@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Viewing Experience: The Long-Throw Projector That's a Steal at $200 Off – Why I Ditched My TV"
-date: 2024-09-17T21:18:34.977Z
-updated: 2024-09-22T20:20:17.660Z
+date: 2024-09-22T17:35:04.461Z
+updated: 2024-09-28T17:12:43.989Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Jason Hiner/ZDNET
 ### What's the deal?
 
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
 
@@ -59,6 +66,13 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
@@ -76,12 +90,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-achieving-professional-level-youtube-streams-using-wirecast/"><u>[New] 2024 Approved Achieving Professional-Level Youtube Streams Using WireCast</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-capturing-your-laptop-simple-lenovo-steps/"><u>[New] In 2024, Capturing Your Laptop Simple Lenovo Steps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-maximizing-iphone-to-mac-file-transfer-for-large-videos/"><u>[New] In 2024, Maximizing iPhone-to-Mac File Transfer for Large Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-superior-audio-alerts-prime-pick-pages-for-2024/"><u>[New] Superior Audio Alerts Prime Pick Pages for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-analysis-of-fb-video-proportions/"><u>[Updated] 2024 Approved Analysis of FB Video Proportions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-ice-cream-video-recorder-exploration-in-depth/"><u>[Updated] In 2024, Ice Cream Video Recorder Exploration in Depth</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-perfecting-live-broadcasts-with-streamlabs-obs-tips-for-2024/"><u>[Updated] Perfecting Live Broadcasts with Streamlabs OBS Tips for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-install-guide-for-epson-xp-440-driver-updates-keeping-your-print-quality-top-notch/"><u>Easy Install Guide for Epson XP-440 Driver Updates – Keeping Your Print Quality Top-Notch</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-gaming-experience-using-the-enhanced-asus-rx-970-pro-card/"><u>Elevate Your Gaming Experience Using the Enhanced Asus RX 970 Pro Card</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/internet-independence-how-to-stay-connected-without-a-landline-or-cable-service/"><u>Internet Independence: How to Stay Connected without a Landline or Cable Service</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-start-manual-for-downloading-and-installing-the-latest-ricoh-printer-drivers-on-windows/"><u>Quick Start Manual for Downloading & Installing the Latest Ricoh Printer Drivers on Windows</u></a></li>
+<li><a href="https://fox-access.techidaily.com/transforming-your-content-delivery-the-power-of-onestream-for-2024/"><u>Transforming Your Content Delivery The Power of OneStream for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/whats-new-with-the-logitech-extreme-3d-pro-check-out-these-updates/"><u>What's New with the Logitech Extreme 3D Pro? Check Out These Updates</u></a></li>
+</ul></div>
 

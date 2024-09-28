@@ -1,7 +1,7 @@
 ---
 title: "Top-Ranked Gaming Televisions : Features and Reviews by ZDNet"
-date: 2024-09-20T22:48:37.631Z
-updated: 2024-09-22T21:33:27.916Z
+date: 2024-09-21T18:11:43.312Z
+updated: 2024-09-28T17:23:17.450Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,18 +97,18 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-game-on-the-ultimate-guide-to-superior-offline-ios-fun/"><u>[Updated] Game On The Ultimate Guide to Superior Offline iOS Fun</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/advanced-analytics-driven-by-cookiebot-solutions/"><u>Advanced Analytics Driven by Cookiebot Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722963331513-best-behringer-sound-drivers-available-for-immediate-download/"><u>Best Behringer Sound Drivers Available for Immediate Download!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-you-watch-mov-movies-on-htc-u23-pro-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can you watch MOV movies on HTC U23 Pro ?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-hp-photosmart-c7520-printing-utilities-for-hassle-free-use/"><u>Download the Latest HP Photosmart C7520 Printing Utilities for Hassle-Free Use</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-xbox-360-gamepad-driver-download-for-pc-users/"><u>Easy Xbox 360 Gamepad Driver Download for PC Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970627068-get-your-safeaccess-usb-fingerprint-scanner-software-instantly-effortless-download-options/"><u>Get Your [SAFE_ACCESS] USB Fingerprint Scanner Software Instantly – Effortless Download Options</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>How to identify malfunctioning your hardware drivers with Windows Device Manager in Windows 10</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-tangos-communication-suite-top-features-for-budget-chats/"><u>In-Depth Analysis of Tango's Communication Suite: Top Features for Budget Chats</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-top-6-celebrity-text-to-speech-ai-voice-generators-you-may-like-for-2024/"><u>New Top 6 Celebrity Text to Speech AI Voice Generators You May Like for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-future-of-social-media-platforms-hangs-in-balance/"><u>The Future of Social Media Platforms Hangs in Balance</u></a></li>
+</ul></div>
 

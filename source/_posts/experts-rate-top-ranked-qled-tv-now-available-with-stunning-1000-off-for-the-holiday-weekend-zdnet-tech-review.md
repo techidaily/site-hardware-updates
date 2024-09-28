@@ -1,7 +1,7 @@
 ---
 title: Experts Rate Top-Ranked QLED TV Now Available with Stunning $1,000 Off for the Holiday Weekend | ZDNET Tech Review
-date: 2024-09-15T18:26:25.821Z
-updated: 2024-09-22T17:57:52.658Z
+date: 2024-09-26T17:04:13.920Z
+updated: 2024-09-28T18:44:05.095Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,21 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-instant-techniques-mix-up-your-youtube-watchlist/"><u>[New] Instant Techniques Mix Up Your YouTube Watchlist</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-asmr-explained-why-it-might-be-good-for-you-for-2024/"><u>[Updated] ASMR Explained Why It Might Be Good For You for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-top-6-unobtrusive-applications-for-android-captures/"><u>[Updated] Top 6 Unobtrusive Applications for Android Captures</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-oppo-reno-10-pro-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Oppo Reno 10 Pro 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/approach-identify-the-welding-processes-mentioned-in-relation-to-arc-blow-susceptibility/"><u>Approach: Identify the Welding Processes Mentioned in Relation to Arc Blow Susceptibility.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-secrets-revealed-transform-your-content-and-unleash-innovation-in-your-works/"><u>ChatGPT Secrets Revealed: Transform Your Content & Unleash Innovation in Your Works</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/crafting-viral-covers-for-your-facebook-profile-for-2024/"><u>Crafting Viral Covers for Your Facebook Profile for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-7-free-ai-apps-and-chatgpt-replacements-for-instant-travel-arrangement/"><u>Discover the Ultimate 7 Free AI Apps and ChatGPT Replacements for Instant Travel Arrangement</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-nvidias-new-rtx-3080-drivers-optimized-for-windows-10-8-and-7-systems/"><u>Download NVIDIA's New RTX 3080 Drivers: Optimized for Windows 10, 8 & 7 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-download-of-m-audio-fast-track-drivers-suitable-for-windows-1078-and-81-users/"><u>Easy Download of M-Audio Fast Track Drivers Suitable for Windows 10/7/8 & 8.1 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effective-techniques-to-correct-arduino-uno-driver-issues-on-windows-platforms/"><u>Effective Techniques to Correct Arduino Uno Driver Issues on Windows Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722960833822-ensure-smooth-operation-of-your-razer-naga-with-the-newest-windows-driver-download/"><u>Ensure Smooth Operation of Your Razer Naga with the Newest Windows Driver Download!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-wipe-iphone-14-pro-data-permanently-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Wipe iPhone 14 Pro Data Permanently? | Stellar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-installation-guide-download-the-official-pioneer-dj-ddj-sx2-software/"><u>Quick Installation Guide: Download the Official Pioneer DJ DDJ-SX2 Software</u></a></li>
+</ul></div>
 

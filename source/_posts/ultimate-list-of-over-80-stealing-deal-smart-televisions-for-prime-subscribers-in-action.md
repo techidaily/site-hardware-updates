@@ -1,7 +1,7 @@
 ---
 title: Ultimate List of Over 80 Stealing-Deal Smart Televisions for Prime Subscribers in Action!
-date: 2024-09-19T18:06:18.622Z
-updated: 2024-09-22T19:06:56.893Z
+date: 2024-09-23T16:31:35.692Z
+updated: 2024-09-28T19:01:15.980Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,19 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +59,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +103,22 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-building-your-brand-through-effective-fb-reel-strategies-for-2024/"><u>[New] Building Your Brand Through Effective FB Reel Strategies for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mouthwatering-movies-a-cooks-guide-for-2024/"><u>[Updated] Mouthwatering Movies A Cook's Guide for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-the-ultimate-arsenal-of-audio-manipulation-software-for-professional-use/"><u>2024 Approved The Ultimate Arsenal of Audio Manipulation Software for Professional Use</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978855293-chronic-headaches-with-neurological-deficits-can-be-associated-with-tumors-strokes-or-demyelinating-diseases-like-multiple-sclerosis/"><u>Chronic Headaches with Neurological Deficits Can Be Associated with Tumors, Strokes, or Demyelinating Diseases Like Multiple Sclerosis.</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-13-pro-max-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 13 Pro Max Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-the-latest-from-apple-comprehensive-review-of-the-iphone-15-pros-cutting-edge-technology/"><u>Experience the Latest From Apple: Comprehensive Review of the iPhone 15 Pro's Cutting-Edge Technology</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969497558-get-the-new-driver-update-for-your-nvidia-quadro-rtx-4000-now-secure-download-links-here/"><u>Get the New Driver Update for Your NVIDIA Quadro RTX 4000 Now - Secure Download Links Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-windows-pcs-usb-30-gigabit-ethernet-controller-software/"><u>How to Update Your Windows PC's USB 3.0 Gigabit Ethernet Controller Software</u></a></li>
+<li><a href="https://fox-that.techidaily.com/improve-your-iphones-internet-connection-with-these-8-simple-wi-fi-tweaks/"><u>Improve Your iPhone's Internet Connection with These 8 Simple Wi-Fi Tweaks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-epson-gt-s50-printer-driver-on-windows-7-8-or-10-download-now/"><u>Install Epson GT S50 Printer Driver on Windows 7, 8 or 10 - Download Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-updated-amd-radeon-graphics-drivers-on-windows-without-spending-a-penny/"><u>Install Updated AMD Radeon Graphics Drivers on Windows Without Spending a Penny</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-y02t-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo Y02T Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-for-installing-new-steelseries-device-drivers-on-your-window-machine/"><u>Step-by-Step Instructions for Installing New SteelSeries Device Drivers on Your Window Machine</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-solution-effortless-installation-and-maintenance-of-elan-smbus-driver-on-windows/"><u>Ultimate Solution: Effortless Installation and Maintenance of ELAN SMBus Driver on Windows</u></a></li>
+</ul></div>
 

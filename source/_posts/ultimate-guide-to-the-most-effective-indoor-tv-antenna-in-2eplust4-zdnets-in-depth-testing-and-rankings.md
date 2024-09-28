@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to the Most Effective Indoor TV Antenna in 2E+t4 - ZDNet's In-Depth Testing and Rankings
-date: 2024-09-18T16:53:12.850Z
-updated: 2024-09-22T18:38:46.328Z
+date: 2024-09-25T18:17:50.295Z
+updated: 2024-09-28T17:05:32.828Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,21 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/rom-newbie-to-pro-your-complete-guide-to-creator-studio/"><u>[New] From Newbie to Pro Your Complete Guide to Creator Studio</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-comparing-recording-obs-studio-versus-bandicam/"><u>[Updated] Comparing Recording OBS Studio Versus Bandicam</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-top-picks-excellent-fb-lite-video-downloaders-of-2023-for-2024/"><u>[Updated] The Top Picks Excellent FB Lite Video Downloaders of 2023 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-skype-chorus-select-websites-for-rhythmic-calls/"><u>2024 Approved The Skype Chorus Select Websites for Rhythmic Calls</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/basic-steps-to-hassle-free-high-dynamic-range-hdr/"><u>Basic Steps to Hassle-Free High Dynamic Range (HDR)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-latest-updates-nvidia-rtx-2070-super-graphics-driver-for-windows-11/"><u>Download & Latest Updates: Nvidia RTX 2070 Super Graphics Driver for Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-zebra-printer-drivers-for-windows-download-and-update-instructions/"><u>Easy Installation of Zebra Printer Drivers for Windows - Download & Update Instructions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/elevate-your-iphone-photography-mastering-the-art-of-leading-lines-for-2024/"><u>Elevate Your iPhone Photography Mastering the Art of Leading Lines for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-updated-drivers-for-your-samsung-960-evo-in-windows/"><u>How to Download and Install Updated Drivers for Your Samsung 960 EVO in Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-upgrade-your-arduino-devices-usb-driver-on-windows/"><u>How to Upgrade Your Arduino Device's USB Driver on Windows</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/megadatasky-affordable-space-for-big-files-for-2024/"><u>MegaDataSky - Affordable Space for Big Files for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/premier-images-backup-portals-for-2024/"><u>Premier Images Backup Portals for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/reviving-your-logitech-g433-microphone-a-step-by-step-fix/"><u>Reviving Your Logitech G433 Microphone: A Step-by-Step Fix</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-meizu-21-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Meizu 21 Pro | Dr.fone</u></a></li>
+</ul></div>
 

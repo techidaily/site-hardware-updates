@@ -1,7 +1,7 @@
 ---
 title: "Wireless Mirroring Guide: Display Your iPhone on Samsung Smart Television - TechTips"
-date: 2024-09-16T20:58:40.513Z
-updated: 2024-09-22T23:37:25.043Z
+date: 2024-09-24T16:12:34.327Z
+updated: 2024-09-28T18:39:26.547Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,22 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-best-action-cameras-with-front-facing-screen-for-2024/"><u>[New] Best Action Cameras with Front Facing Screen for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-optimize-your-social-presence-with-efficient-fb-covers/"><u>2024 Approved Optimize Your Social Presence with Efficient FB Covers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/acquiring-high-quality-copyright-free-images-for-2024/"><u>Acquiring High-Quality Copyright-Free Images for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/amazon-login-revolutionized-a-step-by-step-guide-on-utilizing-passkeys-for-secure-access/"><u>Amazon Login Revolutionized: A Step-by-Step Guide on Utilizing Passkeys for Secure Access</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/catalan-language-sprint-10-minsday/"><u>Catalan Language Sprint – 10 Mins/Day</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-for-downloading-and-setting-up-hp-laserjet-pro-m402n-drivers-in-windows/"><u>Comprehensive Guide for Downloading & Setting up HP LaserJet Pro M402n Drivers in Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-hp-laserjet-1320-driver-update-and-installation-guide-best-practices-for-windows-enthusiasts/"><u>Comprehensive HP LaserJet 1320 Driver Update and Installation Guide - Best Practices for Windows Enthusiasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-canon-imageclass-mf4800-printer-drivers-full-version/"><u>Download Canon ImageCLASS MF4800 Printer Drivers - Full Version</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/freshly-updated-hp-scanjet-printer-drivers-now-available-for-multiple-windows-versions/"><u>Freshly Updated HP Scanjet Printer Drivers Now Available for Multiple Windows Versions!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-sades-headset-drivers-safely-downloaded-for-your-windows-system/"><u>Get the Latest Sades Headset Drivers Safely Downloaded for Your Windows System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-steelseries-graphics-card-driver-for-windows-users/"><u>Get the Latest SteelSeries Graphics Card Driver for Windows Users</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-15-pro-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 15 Pro when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-to-downloading-targus-docking-station-driver-packs/"><u>Quick Guide to Downloading Targus Docking Station Driver Packs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-maplestory-freezing-issues-on-windows-10-pcs/"><u>Ultimate Guide: Resolving MapleStory Freezing Issues on Windows 10 PCs</u></a></li>
+</ul></div>
 

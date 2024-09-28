@@ -1,7 +1,7 @@
 ---
 title: "CES 202N's Ultimate Television Guide: Expert Picks & Reviews by ZDNET"
-date: 2024-09-20T18:36:24.574Z
-updated: 2024-09-22T17:27:01.938Z
+date: 2024-09-22T19:17:51.952Z
+updated: 2024-09-28T19:01:06.392Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +103,24 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-how-to-quickly-capture-iphone-screens-on-the-fly/"><u>[New] How to Quickly Capture iPhone Screens on the Fly</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-revamp-your-resonance-the-7-premier-voice-recorder-change-android-apps/"><u>[Updated] Revamp Your Resonance The 7 Premier Voice Recorder Change Android Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-highest-quality-images-in-4k-with-these-cameras/"><u>2024 Approved Highest Quality Images in 4K with These Cameras</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-rethinking-gameplay-mavic-air-versus-spark-showdown/"><u>2024 Approved Rethinking Gameplay Mavic Air Versus Spark Showdown</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/bluetooth-usb-receiver-driver-download-from-techkey-supported-by-wndows-1078/"><u>Bluetooth USB Receiver Driver Download From Techkey - Supported by Wndows 10/7/8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-updating-the-drivers-of-your-epson-wf-n20-printer-wf-7620-on-a-windows-pc/"><u>Complete Guide: Updating the Drivers of Your Epson WF-N20 Printer (WF-7620) on a Windows PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-official-canon-mg3620-drivers-easy-and-protected-steps-to-follow/"><u>Download the Official Canon MG3620 Drivers - Easy and Protected Steps to Follow</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-recording-tips-capturing-video-from-macbook-pro/"><u>Essential Recording Tips Capturing Video From MacBook Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-amd-radeon-r5-graphics-driver-for-all-windows-versions-including-win-11-10-8-and-nw/"><u>Get the Most Recent AMD Radeon R5 Graphics Driver for All Windows Versions Including Win 11, 10, 8 & Nw</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-asus-pce-ac68-driver-for-enhanced-connectivity-now-available/"><u>Get the Newest ASUS PCE-AC68 Driver for Enhanced Connectivity – Now Available</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-hot-40-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-iphone-15-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect iPhone 15 Pro Max and iPad</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-release-lenovos-thunderbolt-3-usb-c-hub-driver-updates/"><u>New Release: Lenovo's Thunderbolt 3 USB-C Hub Driver Updates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-downloading-and-using-steelseries-keyboards-engine-driver/"><u>Step-by-Step Guide to Downloading and Using SteelSeries Keyboard's Engine Driver</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-ordinary-snaps-the-top-10-snapshot-enhancers-apps-for-2024/"><u>Transform Ordinary Snaps The Top 10 Snapshot Enhancers Apps for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974782432-update-your-canon-d530s-camera-software-direct-download-instructions-here/"><u>Update Your Canon D530's Camera Software: Direct Download Instructions Here!</u></a></li>
+</ul></div>
 

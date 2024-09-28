@@ -1,7 +1,7 @@
 ---
 title: "Scorching Discount Alert: Up to $170 Off Amazon's Popular Fire TV QLED Series! Act Fast on This Exclusive Offer - Full Details | ZDNet"
-date: 2024-09-17T23:52:46.613Z
-updated: 2024-09-22T19:59:24.408Z
+date: 2024-09-21T17:53:13.706Z
+updated: 2024-09-28T16:40:25.073Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,19 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-unveiling-my-lost-followers-insta-unfollow-check/"><u>[New] Unveiling My Lost Followers Insta Unfollow Check</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-launching-professional-instagram-starting-an-enterprise-account/"><u>2024 Approved Launching Professional Instagram Starting an Enterprise Account</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-12-mini-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone 12 mini When Its Locked Within Seconds</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-strategies-for-leveraging-desktop-utilities-and-applications-in-media-file-handling/"><u>Comprehensive Strategies for Leveraging Desktop Utilities and Applications in Media File Handling</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-advice-the-ultimate-method-for-refreshing-cpu-drivers-on-windows-systems/"><u>Expert Advice: The Ultimate Method for Refreshing CPU Drivers on Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-logitech-c27n-hd-webcam-driver-installers-for-win10win11-computers-free-and-secure-downloads/"><u>Get Logitech C27n HD Webcam Driver Installers for Win10/Win11 Computers - Free & Secure Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-asus-dvd-driver-step-by-step-tutorial-and-download-links/"><u>Get the Latest ASUS DVD Driver: Step-by-Step Tutorial and Download Links</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-moto-g-5g-2023-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Motorola Moto G 5G (2023) to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-razer-naga-mouse-driver-software-downloads-and-updates-for-windows/"><u>Latest Razer Naga Mouse Driver Software Downloads and Updates for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-samsung-mobile-adb-driver-installation-guide/"><u>Latest Samsung Mobile ADB Driver Installation Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-gpus-for-4k-edit-and-render/"><u>Top GPUs for 4K Edit & Render</u></a></li>
+</ul></div>
 

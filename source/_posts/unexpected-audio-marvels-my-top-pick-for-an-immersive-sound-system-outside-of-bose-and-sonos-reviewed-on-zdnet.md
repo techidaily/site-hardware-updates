@@ -1,7 +1,7 @@
 ---
 title: "Unexpected Audio Marvels: My Top Pick for an Immersive Sound System Outside of Bose & Sonos, Reviewed on ZDNET"
-date: 2024-09-21T18:13:37.881Z
-updated: 2024-09-22T16:14:16.110Z
+date: 2024-09-27T18:07:44.353Z
+updated: 2024-09-28T20:05:45.596Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +103,17 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-sharp-images-no-fog-protecting-gopro-quality/"><u>[New] Sharp Images, No Fog Protecting GoPro Quality</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-budgetary-skynetting-massively-saving-cloud-data-costs/"><u>2024 Approved Budgetary SkyNetting Massively Saving Cloud Data Costs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-ways-kids-can-use-chatgpt-safely/"><u>5 Ways Kids Can Use ChatGPT Safely</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/brother-hl-l2370dw-driver-download-and-latest-firmware-update/"><u>Brother HL-L2370DW Driver Download & Latest Firmware Update</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-install-upgraded-nvidia-graphics-card-drivers-on-windows-1178/"><u>How to Easily Install Upgraded NVIDIA Graphics Card Drivers on Windows 11/7/8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-most-recent-hp-deskjet-2652-driver-for-multiple-windows-os-versions/"><u>How to Install the Most Recent HP DeskJet 2652 Driver for Multiple Windows OS Versions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-nubia-red-magic-8s-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Nubia Red Magic 8S Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/mastering-timelapse-using-gopro-hero5-black-for-2024/"><u>Mastering Timelapse Using GoPro Hero5 Black for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722963980767-quick-installation-of-asus-maximus-xi-extreme-z370-motherboard-secure-your-latest-drivers-now/"><u>Quick Installation of ASUS Maximus XI Extreme Z370 Motherboard - Secure Your Latest Drivers Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-top-5-corporate-barricades-preventing-chatgpt-use/"><u>The Top 5 Corporate Barricades Preventing ChatGPT Use</u></a></li>
+</ul></div>
 

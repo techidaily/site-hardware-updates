@@ -1,7 +1,7 @@
 ---
 title: How the Sony A8nO TV's Smart Upscaling Technology Delivers Stunning HD Visuals for Under 2 Grand | CNET Insider
-date: 2024-09-20T22:41:58.750Z
-updated: 2024-09-22T18:41:27.518Z
+date: 2024-09-26T19:08:03.278Z
+updated: 2024-09-28T17:53:30.769Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,18 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-depth-guide-to-maximizing-your-earnings-with-youtube-and-adsense/"><u>[New] In-Depth Guide to Maximizing Your Earnings with YouTube & AdSense</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-beijings-glacial-gala-the-olympics-of-winter-2022/"><u>[Updated] Beijing's Glacial Gala The Olympics of Winter, 2022</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-perfecting-stability-a-no-tripod-guide/"><u>[Updated] In 2024, Perfecting Stability A No-Tripod Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-dialogue-in-writing-scripts/"><u>[Updated] The Art of Dialogue in Writing Scripts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-detailed-walkthrough-of-androids-photography-suite-lightroom-for-2024/"><u>A Detailed Walkthrough of Android’s Photography Suite, Lightroom for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-guide-complete-your-behringer-audio-system-drivers-available-now/"><u>Easy Setup Guide: Complete Your Behringer Audio System - Drivers Available Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-download-of-logitee-brio-driver-software-for-multiple-windows-versions/"><u>Effortless Download of Logitee BRIO Driver Software for Multiple Windows Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-officejet-pro-8720-driver-software-update-for-windows-os/"><u>Get the Latest HP Officejet Pro #8720 Driver Software Update for Windows OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-unresponsive-function-keys-on-your-asus-device/"><u>How to Resolve Unresponsive Function Keys on Your Asus Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-zbook-15-g3-graphics-driver-setup-how-to-download-and-install-for-windows-computers/"><u>HP ZBook 15 G3 Graphics Driver Setup: How to Download and Install for Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/usb-c-drivers-free-download-compatible-with-windows-10/"><u>USB-C Drivers: Free Download Compatible with Windows 10</u></a></li>
+</ul></div>
 

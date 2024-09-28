@@ -1,7 +1,7 @@
 ---
 title: Unbeatable 4Th of July Television Offers Featured by ZDNet
-date: 2024-09-15T23:10:58.500Z
-updated: 2024-09-22T22:49:57.545Z
+date: 2024-09-27T20:09:04.439Z
+updated: 2024-09-28T19:49:19.528Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,18 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-can-youtube-sub4sub-really-enhance-viewing-experience/"><u>[New] Can YouTube Sub4Sub Really Enhance Viewing Experience?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-inside-out-the-explanation-for-youtubes-unlisted-media/"><u>[Updated] Inside Out The Explanation for YouTube's Unlisted Media</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-surround-sound-setup-effortless-installation-of-updated-nahimic-drivers/"><u>Enhance Your Surround Sound Setup: Effortless Installation of Updated Nahimic Drivers</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-meizu-21-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Meizu 21 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/harness-windows-11s-netstat-power-for-traffic-observation/"><u>Harness Windows 11'S Netstat Power for Traffic Observation</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-realtek-audio-driver-downloads-compatible-with-windows-11107/"><u>Latest Realtek Audio Driver Downloads Compatible with Windows 11/10/7</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-transform-your-memories-top-rated-video-collage-apps-for-iphone-and-ipad/"><u>New 2024 Approved Transform Your Memories Top-Rated Video Collage Apps for iPhone and iPad</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-corsair-gaming-headset-drivers-on-windows-pcs/"><u>Step-by-Step Guide: Updating Your Corsair Gaming Headset Drivers on Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-hp-scanjet-software-compatible-with-windows-1087-download-now/"><u>Update Your HP Scanjet Software: Compatible with Windows 10/8/7 - Download Now</u></a></li>
+</ul></div>
 

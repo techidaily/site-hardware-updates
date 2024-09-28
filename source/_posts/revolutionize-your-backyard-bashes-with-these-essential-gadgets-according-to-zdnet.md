@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Backyard Bashes with These Essential Gadgets, According to ZDNet
-date: 2024-09-16T23:52:32.039Z
-updated: 2024-09-22T22:04:02.312Z
+date: 2024-09-24T18:18:41.723Z
+updated: 2024-09-28T19:36:56.252Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,19 @@ Jason Hiner/ZDNET
 ### What's the deal?
 
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
 
@@ -59,6 +72,19 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
@@ -76,12 +102,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-8-free-instagram-story-savers-save-instagram-stories-without-limits/"><u>[Updated] 2024 Approved 8 Free Instagram Story Savers-Save Instagram Stories without Limits</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-add-auto-captions-to-instagram-for-2024/"><u>[Updated] How to Add Auto Captions to Instagram for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-mastery-in-music-selection-enhancing-video-packages/"><u>2024 Approved Mastery in Music Selection Enhancing Video Packages</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-upgrade-your-youtube-bio-with-pro-templates/"><u>2024 Approved Upgrade Your Youtube Bio with Pro Templates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mx492-drivers-download-and-update-in-windows-mx-series-printer-drivers/"><u>Canon MX492 Drivers Download & Update in Windows - MX Series Printer Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-guide-quickly-refresh-your-lenovo-devices-energy-control-software/"><u>Effortless Guide: Quickly Refresh Your Lenovo Device's Energy Control Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-epson-stylus-nx420-up-to-date-windows-7810-driver-downloads-available-now/"><u>Get Your Epson Stylus NX420 Up-to-Date: Windows 7/8/10 Driver Downloads Available Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-razer-mamba-drivers-fast-instant-downloads-available/"><u>Get Your Razer Mamba Drivers Fast: Instant Downloads Available</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-oppo-reno-10-proplus-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Oppo Reno 10 Pro+ 5G Face Lock?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-updating-epson-wf-3620-printer-drivers-on-windows-operating-systems-10-8-and-7/"><u>Step by Step Guide to Updating Epson WF-3620 Printer Drivers on Windows Operating Systems (10, 8, and 7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-epson-xp-n410-driver-setup-and-download-for-windows-users/"><u>Step-By-Step Tutorial: Epson XP-N410 Driver Setup & Download for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-three-stages-of-creep-are-primary-decreasing-strain-rate-secondary-constant-strain-rate-and-tertiary-accelerating-strain-rate-leading-to-failure/"><u>The Three Stages of Creep Are Primary (Decreasing Strain Rate), Secondary (Constant Strain Rate), and Tertiary (Accelerating Strain Rate Leading to Failure)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-samsung-galaxy-a15-4g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Samsung Galaxy A15 4G for Parents | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/twittrick-uncovered-metasig-initiative/"><u>TwitTrick Uncovered: Metasig Initiative</u></a></li>
+</ul></div>
 

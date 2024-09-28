@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Deal: The Top-Ranked Samsung TV at 43%% Discount This Labor Day - Insights From a Comprehensive Review on ZDNet"
-date: 2024-09-19T19:26:14.138Z
-updated: 2024-09-22T20:41:48.034Z
+date: 2024-09-21T18:54:44.130Z
+updated: 2024-09-28T18:04:33.360Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,18 +97,22 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-high-resolution-blu-ray-delight-top-3d-player-selections/"><u>[New] High-Resolution Blu-Ray Delight Top 3D Player Selections</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-fast-and-free-fb-video-conversion-tools-for-mp3-files/"><u>[New] In 2024, Fast and Free FB Video Conversion Tools for MP3 Files</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-rx-560-driver-trouble-overcome-issues-on-windows-111087-with-these-fixes/"><u>AMD RX 560 Driver Trouble? Overcome Issues on Windows 11/10/8/7 with These Fixes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-nvidia-drivers-driver-updater/"><u>Download NVIDIA Drivers | Driver Updater</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-hp-scanjet-driver-for-enhanced-performance-on-windows-1187-devices/"><u>Download Updated HP Scanjet Driver for Enhanced Performance on Windows 11/8/7 Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-downloading-and-updating-of-microsoft-drivers-for-windows-7-8-and-10-users/"><u>Effortless Downloading & Updating of Microsoft Drivers for Windows 7, 8 & 10 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-tp-link-tusb400-bluetooth-adapter-software-updates-now/"><u>Get the Latest TP-Link TUSB400 Bluetooth Adapter Software Updates Now!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-tecno-spark-10-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Tecno Spark 10 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphones-and-charging-errors-unlock-the-secrets-with-these-8-troubleshooting-steps/"><u>IPhones and Charging Errors: Unlock the Secrets with These 8 Troubleshooting Steps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pro-tip-effortlessly-conceal-your-environment-in-microsoft-teams-video-calls/"><u>Pro Tip: Effortlessly Conceal Your Environment in Microsoft Teams Video Calls</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976916287-seamless-connection-obtain-startechs-usb-to-vga-driver-software-today/"><u>Seamless Connection: Obtain StarTech's USB-to-VGA Driver Software Today!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015713971-speedy-repairs-needed-heres-how-to-fix-the-microphone-on-your-oculus-rift-s-quickly/"><u>Speedy Repairs Needed? Here's How to Fix the Microphone on Your Oculus Rift S Quickly!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-installing-or-updating-your-epson-xp-420-printer-drivers-now/"><u>Step-by-Step: Installing or Updating Your Epson XP 420 Printer Drivers Now</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-oppo-k11x-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Oppo K11x Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/turning-off-voice-guidance-functionality-on-samsung-televisions-easily/"><u>Turning Off Voice Guidance Functionality on Samsung Televisions Easily</u></a></li>
+</ul></div>
 

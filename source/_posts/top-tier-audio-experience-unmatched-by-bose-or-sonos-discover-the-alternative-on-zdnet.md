@@ -1,7 +1,7 @@
 ---
 title: Top-Tier Audio Experience Unmatched by Bose or Sonos - Discover the Alternative on ZDNet
-date: 2024-09-15T19:56:29.932Z
-updated: 2024-09-22T23:39:40.522Z
+date: 2024-09-25T16:38:17.519Z
+updated: 2024-09-28T19:53:43.481Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,23 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-mastering-hdr-photography-your-essential-list/"><u>[New] In 2024, Mastering HDR Photography Your Essential List</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-ideal-screen-recorder-picks-for-digital-educators-for-2024/"><u>[Updated] Ideal Screen Recorder Picks for Digital Educators for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-primary-screening-footage-study-and-off-the-cuff-selections/"><u>[Updated] In 2024, Primary Screening Footage Study and Off-the-Cuff Selections</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2022-winter-games-skate-spotlights/"><u>2022 Winter Games Skate Spotlights</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-guide-installing-wacom-intuos-amo-drawing-tablet-drivers-on-your-pc/"><u>Complete Guide: Installing Wacom Intuos Amo Drawing Tablet Drivers on Your PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-intel-usb-30-drivers-for-windows-10/"><u>Download | Intel USB 3.0 Drivers for Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-scansnap-s1300i-software-free-fast-and-easy/"><u>Download the Latest ScanSnap S1300i Software: Free, Fast, and Easy!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-to-downloading-and-installing-intel-management-engine-drivers-windows-compatible/"><u>Easy Guide to Downloading and Installing Intel Management Engine Drivers - Windows Compatible</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723864254809-flash-deal-alert-the-4tb-ssd-by-crucial-is-now-a-steal-only-005-per-gb-but-hurry-limited-stock-available/"><u>Flash Deal Alert! The 4TB SSD by Crucial Is Now a Steal - Only $0.05 per GB, But Hurry, Limited Stock Available</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-wireless-adapter-drivers-instantly-effortlessly-download-them-now/"><u>Get Your Wireless Adapter Drivers Instantly – Effortlessly Download Them Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/rtx-2060-super-driver-pack-optimized-performance-for-windows-10-and-11-users/"><u>RTX 2060 Super Driver Pack - Optimized Performance for Windows 10 and 11 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-installation-how-to-get-a-compatible-keyboard-driver-for-windows-7-instantly/"><u>Seamless Installation: How to Get a Compatible Keyboard Driver for Windows 7 Instantly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-the-best-artificial-intelligence-notetakers-for-superior-organization/"><u>The Ultimate List of the Best Artificial Intelligence Notetakers for Superior Organization</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-graphics-nvidia-geforce-210-drivers-for-windows-10/"><u>Update Your Graphics: Nvidia GeForce 210 Drivers for Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-visual-experience-download-new-hdmiusb-driver-patches/"><u>Upgrade Your Visual Experience: Download New HDMI/USB Driver Patches</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Iconic Japanese Brand Panasonic Unveils Three Cutting-Edge # Problem: Write an Equation for the Following Statement and Then Solve It: A Number Added to Itself Plus Four Times the Same Number Equals 90. What Is the Original Number?"
-date: 2024-09-17T16:34:10.498Z
-updated: 2024-09-22T22:43:58.194Z
+date: 2024-09-22T18:03:48.651Z
+updated: 2024-09-28T19:25:29.994Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,26 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-best-6-modern-homes-for-minecraft-enthusiasts/"><u>[New] Best 6 Modern Homes for Minecraft Enthusiasts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-minecraft-sustainable-house-projects-6-10/"><u>[New] Minecraft Sustainable House Projects #6-10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfecting-small-details-on-google-meet-screen/"><u>[New] Perfecting Small Details on Google Meet Screen</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-best-online-deals-on-webcam-protection-kits/"><u>[Updated] 2024 Approved Best Online Deals on Webcam Protection Kits</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-hp-laserjet-1018-printer-software-and-drivers/"><u>Download the HP LaserJet 1018 Printer Software and Drivers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-place-among-mirrorless-cameras-for-videos-for-2024/"><u>DSLR's Place Among Mirrorless Cameras for Videos for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-users-at-risk-the-effect-of-deleting-facial-recognition-data-on-safety/"><u>Facebook Users at Risk? The Effect of Deleting Facial Recognition Data on Safety?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-installing-the-hp-deskjet-2755e-printer-software-on-windows-systems/"><u>Free Download: Installing the HP Deskjet 2755E Printer Software on Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-printer-software-upgrade-find-and-install-latest-drivers-for-windows-10-and-11/"><u>HP Printer Software Upgrade: Find and Install Latest Drivers for Windows 10 & 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-g310-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia G310 Phone FRP Lock</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-styling-your-content-a-compreran-guide-to-insta-photo-watermarks/"><u>In 2024, Styling Your Content A Compreran Guide to Insta Photo Watermarks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-oculus-headset-drivers-on-pcs-running-windows-11-10-8-or-7/"><u>Installing Oculus Headset Drivers on PCs Running Windows 11, 10, 8 or #7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-version-of-epson-ds-530-driver-downloads-for-windows-11-64-bit-systems-secure-your-print-jobs/"><u>Latest Version of Epson DS-530 Driver Downloads for Windows 11 64-Bit Systems - Secure Your Print Jobs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/official-epson-workforce-ds-30-printer-driver-download-compatible-with-windows-10-8-and-7/"><u>Official Epson WorkForce DS-30 Printer Driver Download | Compatible with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/optimize-your-computers-input-device-compatibility-with-the-latest-hid-driver-update/"><u>Optimize Your Computer's Input Device Compatibility with the Latest HID Driver Update</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcome-windows-rts-top-7-solutions-for-eliminating-the-camera-detection-error/"><u>Overcome Windows ˈrɪts: Top 7 Solutions for Eliminating the Camera Detection Error</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722961018542-regular-maintenance-testing-and-drills-are-essential-to-maintain-the-functionality-and-effectiveness-of-fire-suppression-systems-over-time/"><u>Regular Maintenance, Testing, and Drills Are Essential to Maintain the Functionality and Effectiveness of Fire Suppression Systems over Time.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723964463953-unleashing-the-power-of-legacy-the-remarkable-journey-of-a-vintage-14-year-old-celeron-d-347-overclocked-to-an-astounding-837ghz/"><u>Unleashing the Power of Legacy: The Remarkable Journey of a Vintage 14-Year-Old Celeron D 347, Overclocked to an Astounding 8.37Ghz!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-canon-mg3000-step-by-step-guide-to-downloading-drivers/"><u>Update Your Canon MG3000: Step-by-Step Guide to Downloading Drivers</u></a></li>
+</ul></div>
 

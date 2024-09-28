@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Samsung TV Guide: Why the S90C OLED Is a Game-Changer and Available for Less - Insider Info From ZDNET"
-date: 2024-09-15T18:37:55.064Z
-updated: 2024-09-22T17:16:21.933Z
+date: 2024-09-23T18:06:11.521Z
+updated: 2024-09-28T17:46:49.941Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Jason Hiner/ZDNET
 ### What's the deal?
 
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
 
@@ -59,6 +66,13 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
@@ -76,12 +90,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-peeking-beyond-one-camera-limitations/"><u>[New] Peeking Beyond One-Camera Limitations</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-best-applications-for-crafting-dynamic-video-entrances/"><u>[Updated] Best Applications for Crafting Dynamic Video Entrances</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-contrasting-copyright-clauses-in-youtube-and-the-freedom-of-cc/"><u>2024 Approved Contrasting Copyright Clauses in Youtube & the Freedom of CC</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-realme-narzo-60-pro-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Realme Narzo 60 Pro 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-brother-l2340dw-printer-software-for-winsys/"><u>Download and Install Brother L2340DW Printer Software for WinSys</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-nvidia-geforce-rtx-3070-drivers-on-windows-11/"><u>Download and Install NVIDIA GeForce RTX 3070 Drivers on Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/fantasy-forays-a-decades-best-games-for-2024/"><u>Fantasy Forays A Decade’s Best Games for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-official-samsung-phone-drivers-for-pc-and-mac/"><u>How to Install Official Samsung Phone Drivers for PC and Mac</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-nord-3-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock OnePlus Nord 3 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-mastering-twitter-videos-adhere-to-aspect-ratio-rules/"><u>In 2024, Mastering Twitter Videos Adhere to Aspect Ratio Rules</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-software-download-for-hp-deskjet-3755-inkjet-all-in-one-printer-compatible-with-windows-os-10-8-and-7/"><u>Latest Software Download for HP DeskJet 3755 Inkjet All-In-One Printer - Compatible with Windows OS (10, 8 & 7)</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unveiling-the-best-youtube-channel-titles-a-must-have-guide-for-vloggers-limit-to-156-characters/"><u>Unveiling the Best Youtube Channel Titles A Must-Have Guide for Vloggers (Limit to 156 Characters)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-msi-b3ns-with-the-newest-drivers-for-windows-10-and-7-get-the-tomahawk-edition/"><u>Update Your MSI B3n's with the Newest Drivers for Windows 10 and 7 - Get the Tomahawk Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-to-the-latest-version-of-hp-scanjet-drivers-now-available-for-windows-users/"><u>Upgrade to the Latest Version of HP Scanjet Drivers Now Available for Windows Users</u></a></li>
+</ul></div>
 

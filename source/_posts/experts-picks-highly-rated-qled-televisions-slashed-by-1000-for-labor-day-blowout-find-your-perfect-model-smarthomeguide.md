@@ -1,7 +1,7 @@
 ---
 title: "Experts' Picks: Highly Rated QLED Televisions Slashed by $1,000 for Labor Day Blowout - Find Your Perfect Model | SmartHomeGuide"
-date: 2024-09-17T16:15:00.467Z
-updated: 2024-09-22T18:56:01.271Z
+date: 2024-09-27T18:29:10.707Z
+updated: 2024-09-28T19:42:33.034Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,20 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-bring-your-ideas-to-life-a-practical-guide-to-screen-recording-on-macos-for-2024/"><u>[New] Bring Your Ideas to Life A Practical Guide to Screen Recording on MacOS for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-tips-for-extending-instagram-videos-beyond-limits/"><u>[Updated] In 2024, Tips for Extending Instagram Videos Beyond Limits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-your-twitter-videos-with-pro-convertors/"><u>[Updated] Streamline Your Twitter Videos with Pro Convertors</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-expert-choice-top-12-non-time-restricted-recorders/"><u>2024 Approved Expert Choice Top 12 Non-Time Restricted Recorders</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-download-guide-securing-your-logitech-m525s-compatibility-with-newest-drivers-and-software/"><u>Comprehensive Download Guide: Securing Your Logitech M525's Compatibility with Newest Drivers & Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-install-of-brother-hl-2280dw-printer-drivers-on-windows-111087-step-by-step/"><u>Easy Install of Brother HL-2280DW Printer Drivers on Windows 11/10/8/7 – Step by Step</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-canon-imageclass-mf4800-driver-software-for-free/"><u>Get the Latest Canon ImageCLASS MF4800 Driver Software for Free!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-a-comparative-analysis-of-macs-best-snipping-tools/"><u>In 2024, A Comparative Analysis of Mac's Best Snipping Tools</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-tech-world-the-ultimate-guide-to-cutting-edge-hardware/"><u>Inside Tom's Tech World: The Ultimate Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-the-latest-intel-me-drivers-for-windows-systems-w10-81-and-7/"><u>Install the Latest Intel ME Drivers for Windows Systems (W10, 8.1, & 7)</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-arrival-of-diablo-immortal-on-pc-gaming-platforms-what-gamers-need-to-know/"><u>No Arrival of Diablo Immortal on PC Gaming Platforms: What Gamers Need to Know</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/unveiling-the-potential-of-the-netgear-orbi-rbs53-in-enhancing-backyard-internet-coverage/"><u>Unveiling the Potential of the Netgear Orbi RBS53 in Enhancing Backyard Internet Coverage</u></a></li>
+</ul></div>
 

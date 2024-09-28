@@ -1,7 +1,7 @@
 ---
 title: "Must-Watch TV Series and Films on Hulu, Disney+, and More This March: Our Expert Guide by ZDNet"
-date: 2024-09-18T21:54:25.078Z
-updated: 2024-09-22T21:50:50.056Z
+date: 2024-09-22T18:46:48.834Z
+updated: 2024-09-28T17:10:32.473Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,19 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +59,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,18 +103,23 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-harness-the-power-of-youtubes-movie-maker-for-professionals/"><u>[New] 2024 Approved Harness the Power of YouTube's Movie Maker for Professionals</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-science-behind-sharing-memes-unveiled/"><u>[Updated] 2024 Approved The Science Behind Sharing Memes Unveiled</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-strategies-for-effective-online-image-trimming/"><u>2024 Approved Expert Strategies for Effective Online Image Trimming</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-mobile-color-correction-in-seconds/"><u>2024 Approved Master Mobile Color Correction in Seconds</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unlock-social-connectivity-with-downloader-tools/"><u>2024 Approved Unlock Social Connectivity with Downloader Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722967419857-boost-computer-performance-with-a-click-lexar-usb-driver-downloads-ready/"><u>Boost Computer Performance with a Click: Lexar USB Driver Downloads Ready!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cutting-edge-issues-imovies-automatic-dimension-adjustments/"><u>Cutting Edge Issues IMovie’s Automatic Dimension Adjustments</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-how-to-update-your-surface-dock-driver-instantly/"><u>Easy Steps: How to Update Your Surface Dock Driver Instantly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969941665-get-the-latest-amd-vega-drivers-streamlined-downloads-and-upgrades-for-players/"><u>Get the Latest AMD Vega Drivers: Streamlined Downloads and Upgrades for Players</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-zebra-printer-drivers-for-windows-easy-guide-to-downloading-and-update/"><u>Get the Newest Zebra Printer Drivers for Windows - Easy Guide to Downloading and Update</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hp-deskjet-2652-windows-111087-driver-software-here/"><u>Get Your HP DeskJet 2652 Windows 11/10/8/7 Driver Software Here</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/is-it-possible-to-tailor-the-assistance-icon-for-flipbuilder-sites/"><u>Is It Possible to Tailor the Assistance Icon for FlipBuilder Sites?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-compatible-driver-update-the-most-recent-hl-2240-controller-software-for-windows/"><u>New Compatible Driver Update: The Most Recent HL-2240 Controller Software for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-getting-the-latest-nvidia-1-drivers-on-your-windows-11-pc/"><u>Step-by-Step: Getting the Latest NVIDIA 1# Drivers on Your Windows 11 PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unleash-your-videos-potential-thriving-in-youtube-rankings-for-2024/"><u>Unleash Your Video's Potential Thriving in YouTube Rankings for 2024</u></a></li>
+</ul></div>
 

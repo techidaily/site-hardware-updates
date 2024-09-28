@@ -1,7 +1,7 @@
 ---
 title: Samsung's Stunning S95C OLED Is Now a Steal with Up to $1,500 Savings - Don't Miss Out! | CNET
-date: 2024-09-20T17:40:58.844Z
-updated: 2024-09-22T23:37:32.518Z
+date: 2024-09-22T18:02:44.218Z
+updated: 2024-09-28T18:24:49.105Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,18 +131,22 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-masterful-post-placement-to-surge-video-views/"><u>[New] 2024 Approved Masterful Post Placement to Surge Video Views</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-assemble-visual-media-for-queue-upgrade-for-2024/"><u>[Updated] Assemble Visual Media for Queue Upgrade for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-samsung-ue590-ultra-hd-4k-gaming-and-freesync-screen/"><u>[Updated] Samsung UE590 - Ultra HD 4K, Gaming & FreeSync Screen</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-live-watch-tracker-applications/"><u>2024 Approved Live Watch Tracker Applications</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-photo-capture-techniques-of-smart-hdr-3-and-4-modules/"><u>2024 Approved Mastering Photo Capture Techniques of Smart HDR 3 & 4 Modules</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/boosting-income-via-youtube-ads-and-analytics-across-platforms/"><u>Boosting Income via YouTube Ads & Analytics Across Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dell-wifi-card-software-update-free-access-here/"><u>Dell WiFi Card Software Update: FREE Access Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-access-to-hp-laserjet-pro-m127fn-printer-drivers-secure-and-updated-downloads-here/"><u>Easy Access to HP Laserjet Pro M127FN Printer Drivers – Secure & Updated Downloads Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-optimal-performance-latest-version-of-corsair-k55-driver-software-available-to-download/"><u>Ensure Optimal Performance: Latest Version of Corsair K55 Driver Software Available to Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-enhance-performance-updating-the-driver-for-your-intel-centrino-advanced-n-6239-wireless-card/"><u>How to Enhance Performance: Updating the Driver for Your Intel Centrino Advanced-N 6239 Wireless Card</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-g933-headset-latest-driver-download/"><u>Logitech G933 Headset Latest Driver Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-the-arduino-nano-driver-installation-process-for-windows-users-no-more-headaches/"><u>Mastering the Arduino Nano Driver Installation Process for Windows Users: No More Headaches</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-realtek-alc887-hd-audio-driver-problems-on-windows-systems/"><u>Resolving Realtek ALC887 HD Audio Driver Problems on Windows Systems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-honor-magic-6-by-drfone-android/"><u>Universal Unlock Pattern for Honor Magic 6</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-is-a-408-timeout-identifying-issues-and-implementing-fixes-on-your-site/"><u>What Is a 408 Timeout? Identifying Issues & Implementing Fixes on Your Site</u></a></li>
+</ul></div>
 

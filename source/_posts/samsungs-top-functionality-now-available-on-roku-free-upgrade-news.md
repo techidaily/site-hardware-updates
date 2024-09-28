@@ -1,7 +1,7 @@
 ---
 title: "Samsung's Top Functionality Now Available on Roku: Free Upgrade News"
-date: 2024-09-20T23:48:28.579Z
-updated: 2024-09-22T16:50:29.246Z
+date: 2024-09-23T18:01:17.426Z
+updated: 2024-09-28T19:48:50.300Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,18 +103,26 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-discovering-calmer-video-consumption-three-ways-to-pause-time-56-chars-slightly-over-but-a-minor-exception-due-to-title-length/"><u>[New] 2024 Approved Discovering Calmer Video Consumption Three Ways to Pause Time (56 Chars, Slightly over but a Minor Exception Due to Title Length)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-screen-capturing-magic-comprehensive-guide-and-options-ranked/"><u>[New] In 2024, Screen-Capturing Magic Comprehensive Guide & Options Ranked</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-inside-the-headset-comprehensive-vr-gear-analysis/"><u>[New] Inside the Headset Comprehensive VR Gear Analysis</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-27-ways-to-livestream-education-content-for-free/"><u>[Updated] In 2024, 27 Ways to Livestream Education Content for Free</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-ideal-bandicam-replacements-for-mac-users/"><u>[Updated] In 2024, Ideal Bandicam Replacements for Mac Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-insta-rapid-rise-mastering-engagement-with-likes-and-vids/"><u>[Updated] Insta Rapid Rise Mastering Engagement with Likes & Vids</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-shadowed-swords-and-honored-combatants-must-try-titles-inspired-by-ghost-of-tsushi/"><u>[Updated] Shadowed Swords & Honored Combatants Must-Try Titles Inspired by Ghost of Tsushi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-epson-wf-27n60-driver-software-for-windows-operating-systems-win-11-win-10-win-8/"><u>Compatible Epson WF-27n60 Driver Software for Windows Operating Systems (Win 11, Win 10, Win 8)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-new-intel-xe-graphics-software-for-optimal-performance-on-win10win11/"><u>Download New Intel Xe Graphics Software for Optimal Performance on Win10/Win11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/downloading-and-updating-the-brother-mfc-7860dw-drivers-on-your-pc/"><u>Downloading and Updating the Brother MFC-#7860DW Drivers on Your PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-compatibility-with-newest-hp-officejet-pro-8610-drivers-for-windows-operating-systems-win11-win10/"><u>Ensure Compatibility with Newest HP Officejet Pro 8610 Drivers for Windows Operating Systems (Win11, Win10)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-version-of-broadcoms-bluetooth-software-for-windows-1087-users/"><u>Get the Latest Version of Broadcom's Bluetooth Software for Windows 10/8/7 Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-simplifying-the-process-of-enabling-virtual-screen-on-meet/"><u>In 2024, Simplifying the Process of Enabling Virtual Screen on Meet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722967335054-latest-hp-laserjet-pro-1006-driver-software-secure-your-free-copy/"><u>Latest HP LaserJet Pro 1006 Driver Software - Secure Your Free Copy</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/newly-released-nvidia-rtx-3080-ti-driver-downloads-fully-compatible-with-windows-1087/"><u>Newly Released NVIDIA RTX 3080 Ti Driver Downloads: Fully Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-solving-driver-issues-with-startech-hardware-in-windows/"><u>Troubleshooting and Solving Driver Issues with StarTech Hardware in Windows</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-unlocking-adobe-premiere-a-step-by-step-guide-to-video-import-and-export-for-2024/"><u>Updated Unlocking Adobe Premiere A Step-by-Step Guide to Video Import and Export for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-graphics-performance-amd-radeon-rx-5700-xt-drivers-now-available-for-all-windows-os/"><u>Upgrade Graphics Performance: AMD Radeon RX 5700 XT Drivers Now Available for All Windows OS</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Image Enhancement: My Mind Blown by the Sony A8amazing AI-Powered TV Under Two Grand! Check Out ZDNET Review"
-date: 2024-09-16T16:52:02.653Z
-updated: 2024-09-22T18:58:43.066Z
+date: 2024-09-21T17:14:29.994Z
+updated: 2024-09-28T18:04:29.548Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,17 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-easy-methods-for-windows-fish-voice-alteration/"><u>[New] 2024 Approved Easy Methods for Windows Fish Voice Alteration</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-driving-income-through-youtube-shorts-crucial-elements-and-earnings-potential/"><u>[Updated] 2024 Approved Driving Income Through YouTube Shorts Crucial Elements and Earnings Potential</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-finest-music-playlist-generators-for-unique-tailored-soundtracks/"><u>Discover the Finest Music Playlist Generators for Unique, Tailored Soundtracks.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-intel-8259v-graphics-driver-at-no-cost-instant-guide/"><u>Download the Intel 8259V Graphics Driver at No Cost: Instant Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fashion-forward-video-ideas-for-2024/"><u>Fashion Forward Video Ideas for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971437872-get-the-best-sound-quality-download-scarlett-2i4-drivers-for-windows-now/"><u>Get the Best Sound Quality: Download Scarlett 2I4 Drivers for Windows Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-and-update-linksys-ea9700-drivers-a-step-by-step-tutorial/"><u>How to Install and Update Linksys EA9700 Drivers: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-screenplays-to-screens-youtubes-filmmaker-training/"><u>In 2024, From Screenplays to Screens YouTube's Filmmaker Training</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/razer-blackwidow-controller-update-guide-expert-advice-and-customer-care-services/"><u>Razer BlackWidow Controller Update Guide: Expert Advice & Customer Care Services</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015889144-windows-10/"><u>Windows 10의 소음이 중단되는 폼한 문제를 해결하기 위한 안내</u></a></li>
+</ul></div>
 

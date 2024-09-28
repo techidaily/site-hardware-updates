@@ -1,7 +1,7 @@
 ---
 title: Top Rated Smart Televisions - Expert Reviews & Comparisons | ZDNet
-date: 2024-09-21T21:25:36.359Z
-updated: 2024-09-22T18:16:01.449Z
+date: 2024-09-21T16:05:40.452Z
+updated: 2024-09-28T19:08:28.840Z
 tags:
   - tvs
 categories:
@@ -86,6 +86,19 @@ If you want a more elaborate audio setup, you can connect your TV to [Echo speak
 
 I would much rather see multi-device support for generic Bluetooth speakers and soundbars, since users might have audio equipment from different brands rather than a house full of Amazon-branded devices. You can set up non-Amazon speakers and soundbars with the TV but won't get that whole-home audio experience, which is a shame. 
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Alexa and Amazon features 
 
 As it's meant to be the centerpiece of your Amazon or Alexa-centered smart home network. the Omni QLED features native Alexa support via a voice-enabled remote, as well as a four-microphone array built into the unit itself. If you don't have an Alexa account already, you can use basic voice commands for turning the TV on and off or launching certain apps. And if you want expanded, hands-free controls as well as the ability to add Skills, you can either connect to an Echo device or the Alexa companion app. Though you will need an Amazon account to sign into the Alexa app as well as the TV itself to access many enhanced features. 
@@ -95,10 +108,10 @@ Taylor Clemons/ZDNET
 If you decide to download Alexa Skills, you can play music, games, check the weather, get daily trivia, or even make and receive video calls. Skills are what really set the Omni QLED apart from similar smart TVs from competitors like TCL and Hisense. Without access to these features, the Omni QLED is reduced to a pretty bog-standard smart TV with better-than-expected picture and audio capabilities. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Gaming 
@@ -126,6 +139,13 @@ Taylor Clemons/ZDNET
 I usually play console games with a headset so I can better pick up on audio cues and dialogue, but the integrated speakers of the Omni QLED provide loud and clear audio that doesn't make you miss out on fine details like wind through trees, subtle music, and quiet character conversations. 
 
 If you're in the market for a TV strictly for console gaming, I'd highly recommend the Omni QLED. Even at the full $800, it's still a solid option against competitors from brands like Sony and LG when it comes to picture quality and a smoother, more enjoyable gameplay experience. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Streaming 
 
@@ -161,13 +181,6 @@ Animation is another area where this TV comes into its own. Whether you're watch
 
 [Amazon Fire TV Omni QLED $690 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09N6J7KJD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Bottom line 
 
 At the end of the day, the Amazon Fire TV Omni Series QLED is a run-of-the-mill smart, 4K TV that aims to provide a solid streaming experience for Amazon and Alexa users. If you're not an avid Alexa or Amazon fan, you can still get a lot of mileage out of this TV, especially if you're looking for a more affordable TV for console gaming. 
@@ -175,6 +188,13 @@ At the end of the day, the Amazon Fire TV Omni Series QLED is a run-of-the-mill 
 The dedicated gaming picture mode lets colors and details pop while the integrated speakers provide clean, clear audio. And even older cartoons and films look amazing with upscaled 4K resolution, letting you revisit childhood favorites.
 
 Many of the cool features are inextricably linked to Alexa functionality, so if you want to take full advantage of the Omni QLED, you'll have to invest in an Echo device and set up an Alexa account. And this reason alone is why I think the $800 price tag is just a touch on the high side for this TV, since without Alexa Skills, it's just a basic QLED model. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider 
 
@@ -214,5 +234,24 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-updates.techidaily.com/get-now-step-by-step-tutorial-for-qualcomm-atheros-ar3011-bluetooth-30-driver-setup/"><u>[Get Now] Step-by-Step Tutorial for Qualcomm Atheros AR3011 Bluetooth 3.0 Driver Setup</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-sidestep-the-norm-alternatives-to-vidma-screen-record-for-2024/"><u>[New] Sidestep the Norm Alternatives to Vidma Screen Record for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-macos-sierra-enhancement-guide-step-by-step-upgrades/"><u>[Updated] 2024 Approved MacOS Sierra Enhancement Guide Step-by-Step Upgrades</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-windows-11-potential-latest-apps-and-games/"><u>2024 Approved Unleash Windows 11 Potential Latest Apps & Games</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970964289-arbitration-proceedings-are-private-and-confidential-unlike-court-cases-they-do-not-become-part-of-the-public-record/"><u>Arbitration Proceedings Are Private and Confidential; Unlike Court Cases, They Do Not Become Part of the Public Record</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-look-inside-apples-worldwide-developers-conference-and-their-advancements-in-ai/"><u>Comprehensive Look Inside Apple's Worldwide Developers Conference and Their Advancements in AI</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-newest-brush-pen-pro-software-version-from-wacom/"><u>Download & Install Newest Brush Pen Pro Software Version From Wacom</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fix-and-improve-your-canon-mx492-printer-official-drivers-download-and-update-for-windows-users/"><u>Fix and Improve Your Canon MX492 Printer: Official Drivers Download & Update for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-logitech-rx250-mouse-software-and-drivers-for-windows-7-8-and-10/"><u>Free Logitech RX250 Mouse Software & Drivers for Windows 7, 8 & 10</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-remove-apple-iphone-12-pro-max-sim-lock-by-drfone-ios/"><u>How to Remove Apple iPhone 12 Pro Max SIM Lock?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-xiaomi-redmi-note-13-pro-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Xiaomi Redmi Note 13 Pro 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-fresh-driver-updates-for-brother-hl-2240-series-enhance-your-windows-printing-experience/"><u>Install Fresh Driver Updates for Brother HL-2240 Series - Enhance Your Windows Printing Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-access-free-downloads-for-arduino-mega-2560-board-drivers/"><u>Quick Access! Free Downloads for Arduino Mega 2560 Board Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-guide-installing-the-usb-to-serial-converter-drivers-on-windows/"><u>Simple Guide: Installing the USB to Serial Converter Drivers on Windows</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-art-of-digital-cinema-a-detailed-analysis-of-lgs-31mu97-b-monitor/"><u>The Art of Digital Cinema - A Detailed Analysis of LG’s 31MU97-B Monitor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transform-your-smartphone-photography-with-iphones-hdr/"><u>Transform Your Smartphone Photography with iPhone’s HDR</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-guide-best-apps-turning-pics-into-videos/"><u>Ultimate Guide Best Apps Turning Pics Into Videos</u></a></li>
+</ul></div>
 

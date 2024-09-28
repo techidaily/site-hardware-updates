@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Quality: Samsung S90C OLED Marked as Samsung's Finest Ever, Now at an Unbelievable Discount – Discover How! [ZDNet]"
-date: 2024-09-18T20:20:33.122Z
-updated: 2024-09-22T23:35:23.064Z
+date: 2024-09-22T20:17:38.299Z
+updated: 2024-09-28T17:09:53.197Z
 tags:
   - tvs
 categories:
@@ -58,6 +58,13 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 
 As great as the new Omni Series QLED models are, price is a big sticking point for me, especially since I personally don't use Alexa or want an Amazon-centric streaming experience. However, Amazon is currently running a sale on the [65-inch Omni Series QLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-65-inch-omni-qled-series-smart-tv%2Fdp%2FB0BJMGB9RN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1), bringing the price down to $690 -- which is much more in line with what I think this TV should be retailing for -- making it a great, budget-friendly option if you're looking to upgrade. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Picture and sound 
 
 I have to admit that I wasn't expecting to be as impressed as I was with the picture and sound quality of the Omni Series QLED. Since Amazon is so new to manufacturing, I was expecting a bare-bones TV with basic features and passable picture and sound. And I am very glad to be proven wrong. 
@@ -86,13 +93,6 @@ If you want a more elaborate audio setup, you can connect your TV to [Echo speak
 
 I would much rather see multi-device support for generic Bluetooth speakers and soundbars, since users might have audio equipment from different brands rather than a house full of Amazon-branded devices. You can set up non-Amazon speakers and soundbars with the TV but won't get that whole-home audio experience, which is a shame. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Alexa and Amazon features 
 
 As it's meant to be the centerpiece of your Amazon or Alexa-centered smart home network. the Omni QLED features native Alexa support via a voice-enabled remote, as well as a four-microphone array built into the unit itself. If you don't have an Alexa account already, you can use basic voice commands for turning the TV on and off or launching certain apps. And if you want expanded, hands-free controls as well as the ability to add Skills, you can either connect to an Echo device or the Alexa companion app. Though you will need an Amazon account to sign into the Alexa app as well as the TV itself to access many enhanced features. 
@@ -100,6 +100,13 @@ As it's meant to be the centerpiece of your Amazon or Alexa-centered smart home 
 Taylor Clemons/ZDNET
 
 If you decide to download Alexa Skills, you can play music, games, check the weather, get daily trivia, or even make and receive video calls. Skills are what really set the Omni QLED apart from similar smart TVs from competitors like TCL and Hisense. Without access to these features, the Omni QLED is reduced to a pretty bog-standard smart TV with better-than-expected picture and audio capabilities. 
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Gaming 
 
@@ -161,6 +168,13 @@ Animation is another area where this TV comes into its own. Whether you're watch
 
 [Amazon Fire TV Omni QLED $690 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09N6J7KJD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 At the end of the day, the Amazon Fire TV Omni Series QLED is a run-of-the-mill smart, 4K TV that aims to provide a solid streaming experience for Amazon and Alexa users. If you're not an avid Alexa or Amazon fan, you can still get a lot of mileage out of this TV, especially if you're looking for a more affordable TV for console gaming. 
@@ -174,16 +188,10 @@ Many of the cool features are inextricably linked to Alexa functionality, so if 
 [Great for streaming Sony X77L The Sony X77L uses an LED panel to provide 4K resolution at a 60Hz refresh rate, which means that from sports and action movies to music videos and animated shorts, your media will have smooth motion, crisp details, and bold colors. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BZF2N3LM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)[Great budget option Amazon Fire TV 4-Series The Fire TV 4-Series from Amazon is a solid, budget-friendly option for anyone looking for a reliable second screen for their bedroom or affordable main TV. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-55-inch-4-series-4k-smart-tv%2Fdp%2FB0B3H6JPYZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -220,5 +228,24 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-enhancing-facebook-traffic-with-innovative-video-techniques/"><u>[New] Enhancing Facebook Traffic with Innovative Video Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-a-comprehensible-guide-on-saving-instagram-story-content/"><u>[New] In 2024, A Comprehensible Guide on Saving Instagram Story Content</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-revolutionize-your-console-proven-strategies-for-clear-gaming-recordings/"><u>[New] In 2024, Revolutionize Your Console Proven Strategies for Clear Gaming Recordings</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-sdr-vs-hdr-the-superiority-of-high-dynamic-range-in-video-production/"><u>[New] In 2024, SDR Vs. HDR The Superiority of High Dynamic Range in Video Production</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-realme-gt-5-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Realme GT 5 Fingerprint Lock</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-best-elgato-stream-deck-features/"><u>Decoding the Best Elgato Stream Deck Features</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-hp-envy-laptop-series-5660-drivers-with-ease/"><u>Download and Install HP Envy Laptop Series 5660 Drivers with Ease</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722972715064-download-ryzen-amoledcameoimagesfavicon-32x32-precomposedpngryzen52400g-drivers-now/"><u>Download Ryzen amoled_cameo/images/favicon-32x32-precomposed.pngryzen5_2400g Drivers Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-faster-internet-on-windows-download-and-install-updated-usb-30-ethernet-adapter-drivers/"><u>Get Faster Internet on Windows: Download and Install Updated USB 3.0 Ethernet Adapter Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-or-update-your-microsoft-bluetooth-drivers-for-windows-11-10-8-and-7/"><u>How to Install or Update Your Microsoft Bluetooth Drivers for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-newest-nvidia-drivers-on-windows-downloads-for-1087-systems/"><u>How to Install the Newest Nvidia Drivers on Windows: Downloads for 10/8/7 Systems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-infinix-note-30-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Infinix Note 30 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-xiaomi-redmi-note-13-proplus-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Xiaomi Redmi Note 13 Pro+ 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolved-troubleshoot-bcm2045a0-driver-problems-with-simple-steps/"><u>Resolved: Troubleshoot BCM2045A0 Driver Problems with Simple Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-windows-11-version-2n04-with-the-latest-conexant-chipset-drivers/"><u>Step-by-Step Guide: Updating Your Windows 11 Version 2N04 With the Latest Conexant Chipset Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshoot-and-enhance-updating-webcam-drivers-on-the-latest-windows-os/"><u>Troubleshoot & Enhance: Updating Webcam Drivers on the Latest Windows OS</u></a></li>
+</ul></div>
 

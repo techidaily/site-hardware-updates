@@ -1,7 +1,7 @@
 ---
 title: "Discover Savings: Up To $1,700 Off On Samsung’s Innovative 'The Frame' TV - Exclusive Offer Spotted by ZDNet"
-date: 2024-09-16T19:59:35.850Z
-updated: 2024-09-22T17:12:12.456Z
+date: 2024-09-22T18:39:30.650Z
+updated: 2024-09-28T16:50:58.342Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,17 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-x-audio-capture-pc-version/"><u>[New] 2024 Approved X-Audio Capture PC Version</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-ground-to-heavens-a-mobile-panorama-journey/"><u>2024 Approved From Ground to Heavens A Mobile Panorama Journey</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-list-8-key-steps-for-irresistible-unboxing-reels/"><u>2024 Approved The Ultimate List 8 Key Steps for Irresistible Unboxing Reels</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-firmware-update-for-your-logitech-g203-on-windows-pcs-71011/"><u>Download the Latest Firmware Update for Your Logitech G203 on Windows PCs (7/10/11)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-driver-update-instructions-for-samsungs-high-performance-ssd-models/"><u>Easy Driver Update Instructions for Samsung's High-Performance SSD Models</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-speakers-up-and-running-on-windows-1178-driver-downloads-available-now/"><u>Get Your Logitech Speakers Up & Running on Windows 11/7/8: Driver Downloads Available Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-find-and-update-your-toshiba-devices-drivers-on-a-pc-or-laptop/"><u>How to Easily Find & Update Your Toshiba Device's Drivers on a PC or Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fix-for-0x800f0831-error-update-your-windows-today/"><u>Quick Fix for 0X800F0831 Error - Update Your Windows Today!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-samsung-ubd-k8500-analysis-for-2024/"><u>Updated Samsung UBD-K8500 Analysis for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/video-editing-for-dummies-10-essential-youtube-insights-for-2024/"><u>Video Editing for Dummies 10 Essential YouTube Insights for 2024</u></a></li>
+</ul></div>
 

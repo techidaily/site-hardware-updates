@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Offer Alert: Save Big on Premium 85-Inch TVs for Only $900, Limited Time Available This Labor Day Holiday - Act Fast!"
-date: 2024-09-16T00:01:14.153Z
-updated: 2024-09-22T20:37:22.273Z
+date: 2024-09-24T19:24:45.867Z
+updated: 2024-09-28T19:48:24.551Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,19 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +59,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +103,20 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-your-shots-vloggers-guide-to-the-9-finest-camera-gadgets/"><u>[New] In 2024, Elevate Your Shots Vlogger's Guide to the 9 Finest Camera Gadgets</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-masterclass-flawless-powerpoint-screen-recordings/"><u>[Updated] In 2024, Masterclass Flawless PowerPoint Screen Recordings</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/busting-barriers-with-laughs-the-best-facebook-prisoner-wit-quotes/"><u>Busting Barriers with Laughs The Best Facebook Prisoner-Wit Quotes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-mastery-6-effective-techniques-for-freelancers-and-remote-professionals/"><u>ChatGPT Mastery: 6 Effective Techniques for Freelancers and Remote Professionals</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compare-organisms/"><u>Compare Organisms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-pci-card-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download PCI Card Drivers Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-infamous-ntoskrnlexe-causes-pc-crash-and-blue-screen-of-death/"><u>How to Fix the Infamous 'ntoskrnl.exe' Causes PC Crash & Blue Screen of Death</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-and-update-epson-et-3760-drivers-on-microsoft-windows-systems/"><u>How to Get & Update Epson ET-3760 Drivers on Microsoft Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-keep-your-pcs-sound-in-top-shape-updating-usb-drivers-across-windows-operating-systems/"><u>How to Keep Your PC’s Sound in Top Shape: Updating USB Drivers Across Windows Operating Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-samsung-galaxy-a05-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Samsung Galaxy A05</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/most-recent-m-audio-fast-track-drivers-for-windows-11-7-8-and-81-free-download/"><u>Most Recent M-Audio Fast Track Drivers For: Windows 11, 7, 8 & 8.1 - Free Download</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-distinctions-between-augmented-reality-virtual-reality-mixed-reality-and-extended-reality/"><u>Understanding The Distinctions Between Augmented Reality, Virtual Reality, Mixed Reality, and Extended Reality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-hp-printer-software-on-windows-download-latest-drivers-for-w10-and-w11/"><u>Update Your HP Printer Software on Windows: Download Latest Drivers for W10 & W11</u></a></li>
+</ul></div>
 

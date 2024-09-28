@@ -1,7 +1,7 @@
 ---
 title: Exploring the Most Innovative TVs Unveiled at CES 2Er 2024 - A Review by ZDNet
-date: 2024-09-21T21:19:28.947Z
-updated: 2024-09-22T21:07:21.171Z
+date: 2024-09-25T16:29:12.507Z
+updated: 2024-09-28T16:10:41.273Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,26 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-prime-chrome-audio-transformers-leading-web-based-text-to-speech-apps/"><u>[New] 2024 Approved Prime Chrome Audio Transformers Leading Web-Based Text-to-Speech Apps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-essential-ps3-simulators-for-windows-users-top-5/"><u>[New] In 2024, Essential PS3 Simulators for Windows Users (Top 5)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-mastering-the-art-of-silent-videography/"><u>[Updated] 2024 Approved Mastering the Art of Silent Videography</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-unleashing-creativity-with-magix-video-pro-x/"><u>2024 Approved Unleashing Creativity with Magix Video Pro X</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-nubia-red-magic-8s-proplus-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Nubia Red Magic 8S Pro+ by Name | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-amd-vega-graphics-card-updates-get-the-latest-driver-downloads-now/"><u>Easy AMD Vega Graphics Card Updates: Get the Latest Driver Downloads Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-gaming-setup-the-essential-driver-refresh-for-the-acer-predator-helios/"><u>Elevate Your Gaming Setup: The Essential Driver Refresh for the Acer Predator Helios</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/essential-fixes-for-disconnected-fb-live-feeds-for-2024/"><u>Essential Fixes for Disconnected FB Live Feeds for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-download-and-setup-your-dell-wd1e-hardware-drivers-with-ease/"><u>Find, Download, and Setup Your Dell WD1e Hardware Drivers with Ease</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-m-audio-fast-track-driver-downloads-compatible-with-windows-107881/"><u>Free M-Audio Fast Track Driver Downloads Compatible with Windows 10/7/8/8.1</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-ensure-your-logitech-m510-performs-optimally-drivers-update-guide/"><u>How To Ensure Your Logitech M510 Performs Optimally: Drivers Update Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-infinix-note-30-by-fonelab-android-recover-music/"><u>How to recover old music from your Infinix Note 30</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-iphone-15-pro-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone 15 Pro Max in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-update-of-magicard-rio-pro-driver-available-now-for-windows-enthusiasts-compatible-with-win-11-81-and-7/"><u>Latest Update of Magicard Rio Pro Driver Available Now for Windows Enthusiasts | Compatible with Win 11, 8.1 and 7</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-selection-of-screen-capture-software-for-gaming/"><u>Prime Selection of Screen Capture Software for Gaming</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722963997404-randd-investments-and-their-role-in-maintaining-hahron-spices-competitive-edge/"><u>R&D Investments and Their Role in Maintaining HAHRON SPICE's Competitive Edge</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-revamping-ati-driver-software-in-microsoft-windows-environment/"><u>Step-by-Step Tutorial: Revamping ATI Driver Software in Microsoft Windows Environment</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-resource-find-and-update-creative-webcams-with-latest-windows-compatible-drivers/"><u>Ultimate Resource: Find & Update Creative Webcams with Latest Windows-Compatible Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/understanding-intels-explanation-behind-frequent-desktop-cpu-failures/"><u>Understanding Intel's Explanation Behind Frequent Desktop CPU Failures</u></a></li>
+</ul></div>
 

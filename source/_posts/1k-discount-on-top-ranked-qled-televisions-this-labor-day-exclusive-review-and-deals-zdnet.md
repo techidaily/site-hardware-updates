@@ -1,7 +1,7 @@
 ---
 title: "$1K Discount on Top-Ranked QLED Televisions This Labor Day: Exclusive Review & Deals - ZDNet"
-date: 2024-09-21T20:05:21.994Z
-updated: 2024-09-22T18:38:23.338Z
+date: 2024-09-24T19:28:53.586Z
+updated: 2024-09-28T19:19:18.354Z
 tags:
   - tvs
 categories:
@@ -52,11 +52,25 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 | Refresh rate     | 60Hz                                                                 |
 | Connectivity     | HDMI, HDMI eARC, Bluetooth, Wi-Fi, Ethernet, USB, AUX, Optical, Coax |
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Pricing 
 
 **Also:** [**The 5 best budget TVs**](https://www.zdnet.com/home-and-office/home-entertainment/best-budget-tv/)
 
 As great as the new Omni Series QLED models are, price is a big sticking point for me, especially since I personally don't use Alexa or want an Amazon-centric streaming experience. However, Amazon is currently running a sale on the [65-inch Omni Series QLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-65-inch-omni-qled-series-smart-tv%2Fdp%2FB0BJMGB9RN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1), bringing the price down to $690 -- which is much more in line with what I think this TV should be retailing for -- making it a great, budget-friendly option if you're looking to upgrade. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Picture and sound 
 
@@ -95,10 +109,10 @@ Taylor Clemons/ZDNET
 If you decide to download Alexa Skills, you can play music, games, check the weather, get daily trivia, or even make and receive video calls. Skills are what really set the Omni QLED apart from similar smart TVs from competitors like TCL and Hisense. Without access to these features, the Omni QLED is reduced to a pretty bog-standard smart TV with better-than-expected picture and audio capabilities. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Gaming 
@@ -126,6 +140,13 @@ Taylor Clemons/ZDNET
 I usually play console games with a headset so I can better pick up on audio cues and dialogue, but the integrated speakers of the Omni QLED provide loud and clear audio that doesn't make you miss out on fine details like wind through trees, subtle music, and quiet character conversations. 
 
 If you're in the market for a TV strictly for console gaming, I'd highly recommend the Omni QLED. Even at the full $800, it's still a solid option against competitors from brands like Sony and LG when it comes to picture quality and a smoother, more enjoyable gameplay experience. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Streaming 
 
@@ -169,13 +190,6 @@ The dedicated gaming picture mode lets colors and details pop while the integrat
 
 Many of the cool features are inextricably linked to Alexa functionality, so if you want to take full advantage of the Omni QLED, you'll have to invest in an Echo device and set up an Alexa account. And this reason alone is why I think the $800 price tag is just a touch on the high side for this TV, since without Alexa Skills, it's just a basic QLED model. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Alternatives to consider 
 
 [Great for streaming Sony X77L The Sony X77L uses an LED panel to provide 4K resolution at a 60Hz refresh rate, which means that from sports and action movies to music videos and animated shorts, your media will have smooth motion, crisp details, and bold colors. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BZF2N3LM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)[Great budget option Amazon Fire TV 4-Series The Fire TV 4-Series from Amazon is a solid, budget-friendly option for anyone looking for a reliable second screen for their bedroom or affordable main TV. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-55-inch-4-series-4k-smart-tv%2Fdp%2FB0B3H6JPYZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
@@ -214,5 +228,20 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-correct-fb-chat-display-revealed-as-yourself/"><u>[New] 2024 Approved Correct FB Chat Display Revealed as Yourself</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-pro-converter-mp4-videos-for-social-media-fb-focus/"><u>[New] In 2024, Pro Converter MP4 Videos for Social Media (FB Focus)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-ultimate-list-free-online-video-conferencing-software/"><u>[New] In 2024, The Ultimate List Free Online Video Conferencing Software</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-funniest-face-changes-in-photography-tools/"><u>[New] The Funniest Face Changes in Photography Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-most-viewed-vids-worldwide-roundup/"><u>[Updated] In 2024, Most Viewed Vids Worldwide Roundup</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-potential-transforming-vhs-photos-through-technology/"><u>[Updated] Unleash Potential Transforming VHS Photos Through Technology</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/disseminate-your-tiktok-on-twitter-effectively-for-2024/"><u>Disseminate Your TikTok on Twitter Effectively for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-installation-steps-for-epson-xp-400-drivers-a-thorough-explanation/"><u>Download and Installation Steps for Epson XP 400 Drivers – A Thorough Explanation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/freshly-updated-bluetooth-usb-adapter-software-for-windows-operating-systems/"><u>Freshly Updated Bluetooth USB Adapter Software for Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973834184-get-your-hands-on-updated-windows-drivers-for-msi-gs65-free-downloads-available/"><u>Get Your Hands on Updated Windows Drivers for MSi GS65 - Free Downloads Available</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-networks-successfully-updating-and-fixing-ralink-rt3290-wifi-drivers-on-older-windows-versions/"><u>Mastering Networks: Successfully Updating and Fixing Ralink RT3290 WiFi Drivers on Older Windows Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-fix-for-asus-monitors-essential-drivers-download-tutorial/"><u>Quick Fix for ASUS Monitors: Essential Drivers Download Tutorial</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-se-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone SE Data From iTunes | Dr.fone</u></a></li>
+</ul></div>
 

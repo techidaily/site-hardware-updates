@@ -1,7 +1,7 @@
 ---
 title: Spectacular Deals on Top-Ranking Samsung TVs This Labor Day, Save Up to 43%% - Exclusive Insights From ZDNet
-date: 2024-09-18T17:18:04.738Z
-updated: 2024-09-22T16:12:41.788Z
+date: 2024-09-22T16:33:07.890Z
+updated: 2024-09-28T18:42:37.729Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,18 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-review-unveiling-the-potential-of-vidma-capture-tech/"><u>[New] In 2024, Review Unveiling the Potential of Vidma Capture Tech</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-heart-of-storytelling-engaging-dialogue-in-scripts/"><u>[Updated] 2024 Approved The Heart of Storytelling Engaging Dialogue in Scripts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-your-pcs-performance-with-intel-usb-30-drivers-for-windows-10-free-software-download-here/"><u>Boost Your PC's Performance with Intel USB 3.0 Drivers for Windows 10: Free Software Download Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-download-and-setup-for-the-latest-graphics-drivers-on-your-amd-ryzen-5-2400g/"><u>Effortless Download & Setup for the Latest Graphics Drivers on Your AMD Ryzen 5 2400G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/freelancers-ai-decision-guide-weighing-bing-chat-and-chatgpt/"><u>Freelancer's AI Decision Guide: Weighing Bing Chat & ChatGPT</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-toshiba-laptop-drivers-compatible-with-windows-systems-instantly/"><u>Get the Newest Toshiba Laptop Drivers Compatible with Windows Systems Instantly</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-7-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 7</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-acurite-pro-weather-station-01036m-evaluation-user-friendly-installation-and-durable-construction/"><u>In-Depth AcuRite Pro Weather Station 01036M Evaluation: User-Friendly Installation and Durable Construction</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/konica-minolta-windows-111087-printer-driver-download-step-by-step-guide/"><u>Konica Minolta Windows 11/10/8/7 Printer Driver Download: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/scarlett-solo-driver-windows-download-improve-your-audio-quality/"><u>Scarlett Solo Driver Windows Download - Improve Your Audio Quality</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-hidden-facebook-data-and-protecting-yourself-online/"><u>Unveiling Hidden Facebook Data & Protecting Yourself Online</u></a></li>
+</ul></div>
 

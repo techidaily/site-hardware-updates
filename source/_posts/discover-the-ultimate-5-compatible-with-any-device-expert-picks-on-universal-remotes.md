@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate 5 Compatible with Any Device - Expert Picks on Universal Remotes
-date: 2024-09-15T19:26:51.761Z
-updated: 2024-09-22T23:59:23.152Z
+date: 2024-09-21T18:31:16.085Z
+updated: 2024-09-28T19:01:03.843Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,19 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +59,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,18 +103,20 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-richest-rewarded-creators-on-youtube/"><u>[New] 2024 Approved The Richest Rewarded Creators on YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-dusk-to-dawn-strategies-for-exceptional-night-portraits/"><u>[Updated] In 2024, Dusk to Dawn Strategies for Exceptional Night Portraits</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unleash-youtube-dominance-a-comprehensive-guide-to-studio-success/"><u>[Updated] Unleash YouTube Dominance A Comprehensive Guide to Studio Success</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/arduino-and-windows-synchronization-the-latest-driver-updates-unveiled/"><u>Arduino and Windows Synchronization: The Latest Driver Updates Unveiled</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/iently-add-youtube-playlists-to-your-website-interface-for-2024/"><u>Efficiently Add YouTube Playlists to Your Website Interface for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-upload-ultimate-collection-of-x23xenonlenovo-laptop-driver-downloads/"><u>Effortless Upload: Ultimate Collection of X23^Xenon_Lenovo Laptop Driver Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-music-production-free-m-audio-fast-track-ultra-drivers-available-now/"><u>Elevate Your Music Production – Free M-Audio Fast Track Ultra Drivers Available Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-14-pro-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 14 Pro Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978388646-quick-and-simple-download-of-razer-mamba-controller-drivers-do-it-right-away/"><u>Quick & Simple Download of Razer Mamba Controller Drivers – Do It Right Away</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-download-of-corsair-drivers-for-optimal-performance-in-windows/"><u>Quick Download of Corsair Drivers for Optimal Performance in Windows</u></a></li>
+<li><a href="https://techidaily.com/samsung-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Samsung won’t play AVCHD .mts files</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-the-best-outboard-bd-drives/"><u>Ultimate Guide to the Best Outboard BD Drives</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-epson-xp-640-printer-software-for-windows-operating-systems/"><u>Update Epson XP-640 Printer Software for Windows Operating Systems</u></a></li>
+</ul></div>
 
