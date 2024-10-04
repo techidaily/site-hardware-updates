@@ -1,7 +1,7 @@
 ---
 title: Download & Update HP OfficeJet Pro 8620 Printer Drivers on Windows - Latest Version
-date: 2024-09-10T22:57:51.887Z
-updated: 2024-09-17T23:44:35.040Z
+date: 2024-10-02T17:26:07.508Z
+updated: 2024-10-03T22:12:05.786Z
 tags:
   - win11
   - win10
@@ -80,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/2df9b8f3d2024c9ae71f35777ff3859d473b31e67
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Update your printer driver in Device Manager
@@ -102,24 +102,45 @@ thumbnail: https://thmb.techidaily.com/2df9b8f3d2024c9ae71f35777ff3859d473b31e67
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e40b8731ad.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Double click**Printers** or**Print** **queues** to expand it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Right click on your printer (it may display as**Unknown device** ), and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Choose**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Windows will start searching the latest driver for your printer. Follow the instructions to install and finish.
 
@@ -143,5 +164,26 @@ Feel free to add a comment below if you have any questions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-streamlining-workflow-efficient-tools-for-screencast-creation/"><u>[New] Streamlining Workflow Efficient Tools for Screencast Creation</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-crafting-seamless-image-transfers-across-operating-systems/"><u>[Updated] 2024 Approved Crafting Seamless Image Transfers Across Operating Systems</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-soundtrack-to-life-fbs-music-offerings/"><u>2024 Approved Soundtrack to Life FB's Music Offerings</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/corsair-h80i-v2-latest-driver-installation-guide-and-download-links/"><u>Corsair H80i v2: Latest Driver Installation Guide and Download Links</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-latest-rtx-ebyte-2080-gpu-drivers-for-windows-10-7-and-8-systems/"><u>Download Latest RTX Ebyte 2080 GPU Drivers for Windows 10, 7 and 8 Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/driver-for-xbox-360-controller-download/"><u>Driver for Xbox 360 Controller Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-guide-keeping-your-lide-120-scanner-drivers-updated-and-secure/"><u>Easy Installation Guide: Keeping Your LiDE 120 Scanner Drivers Updated & Secure</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/epson-scanner-setup-made-simple-how-to-acquire-and-install-necessary-drivers/"><u>Epson Scanner Setup Made Simple: How to Acquire and Install Necessary Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/freshest-asus-ac68-wifi-adapter-drivers-free-download-for-enhanced-connectivity/"><u>Freshest Asus AC68 WiFi Adapter Drivers - Free Download for Enhanced Connectivity</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fundamentals-of-gif-animation-mastery-for-2024/"><u>Fundamentals of GIF Animation Mastery for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-iphone-cinematography-top-8-tips-for-professional-video-shooting/"><u>In 2024, Master iPhone Cinematography Top 8 Tips for Professional Video Shooting</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-new-drivers-for-logitech-steering-wheels-on-modern-windows-os-7-8-and-nt/"><u>Installing New Drivers for Logitech Steering Wheels on Modern Windows OS: 7, 8 & nT</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-official-dell-bluetooth-software-and-driver-packs-for-windows-systems/"><u>Installing Official Dell Bluetooth Software & Driver Packs for Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-epson-v700-printer-drivers-supported-by-windows-operating-systems-from-7-to-10-and-81/"><u>Latest Epson V700 Printer Drivers: Supported by Windows Operating Systems From 7 to 10 and 8.1</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pixeled-up-transform-your-shots-for-free/"><u>Pixeled-Up Transform Your Shots for Free</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-setup-for-mediateks-usb-vcom-drivers-download-now/"><u>Quick Setup for MediaTek's USB VCOM Drivers – Download Now!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solution-to-avoid-macbooks-sleep-mode-activation-while-closing-the-cover/"><u>Solution to Avoid MacBook's Sleep Mode Activation While Closing the Cover</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ltimate-tutorial-for-professional-looking-youtube-channels-for-2024/"><u>The Ultimate Tutorial for Professional-Looking YouTube Channels for 2024</u></a></li>
+</ul></div>
 

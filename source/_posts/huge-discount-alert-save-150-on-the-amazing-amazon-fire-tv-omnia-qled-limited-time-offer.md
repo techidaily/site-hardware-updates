@@ -1,7 +1,7 @@
 ---
 title: "Huge Discount Alert: Save $150 on the Amazing Amazon Fire TV Omnia QLED - Limited Time Offer"
-date: 2024-09-24T19:03:17.368Z
-updated: 2024-09-28T16:15:40.167Z
+date: 2024-09-27T02:17:56.945Z
+updated: 2024-10-03T22:44:07.048Z
 tags:
   - tvs
 categories:
@@ -22,16 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -73,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -98,18 +92,14 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-free-video-opening-line-template-packs/"><u>[New] Free Video Opening Line Template Packs</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-insiders-look-at-facebook-video-proportions-and-settings/"><u>[New] In 2024, The Insider's Look at Facebook Video Proportions and Settings</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-exploring-no-cost-cam-screens-reviews-and-high-alternatives/"><u>[Updated] In 2024, Exploring No-Cost Cam Screens Reviews & High Alternatives</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-infinix-hot-40-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Infinix Hot 40 without App | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/direct-links-for-newest-nvidia-driver-updates-save-time-improve-performance/"><u>Direct Links for Newest NVIDIA Driver Updates - Save Time, Improve Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-creative-x-fi-gamer-audio-driver-pack-for-windows-10/"><u>Download and Update Creative X-Fi Gamer Audio Driver Pack for Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-kyocera-printer-drivers-for-windows-users/"><u>Easy Installation of KYOCERA Printer Drivers for Windows Users</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/enhance-your-video-impact-with-slow-motion-on-ig-for-2024/"><u>Enhance Your Video Impact with Slow Motion on IG for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-find-n3-flip-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo Find N3 Flip FRP</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/is-the-hp-stream-14-right-for-you-weighing-its-affordable-features-and-limitations/"><u>Is the HP Stream 14 Right for You? Weighing Its Affordable Features and Limitations</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/obs-high-encoding-how-to-fix/"><u>OBS High Encoding - How to Fix</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-social-networking-grounds-for-youtube-growth-for-2024/"><u>Top Social Networking Grounds for YouTube Growth for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updating-your-amd-drivers-on-windows-10-11-and-7-a-comprehensive-guide/"><u>Updating Your AMD Drivers on Windows 10, 11 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigate-the-metaverse-with-friends-top-10-games/"><u>[New] Navigate the Metaverse with Friends - Top 10 Games</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-avoiding-the-ignored-making-your-video-a-staff-pick-on-vimeo-for-2024/"><u>[Updated] Avoiding the Ignored Making Your Video a Staff Pick on Vimeo for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leaders-list-of-gps-drones-with-precision-tracking/"><u>[Updated] Leader's List of GPS Drones with Precision Tracking</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-gaming-monitors-for-xbox-series-x-a-buyers-guide/"><u>[Updated] Top Gaming Monitors for Xbox Series X - A Buyer's Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/budget-resolutions-while-not-binding-upon-the-senate-these-resolutions-establish-a-blueprint-for-federal-spending-and-revenues-that-both-chambers-can-adhere19/"><u>Budget Resolutions - While Not Binding upon the Senate, These Resolutions Establish a Blueprint for Federal Spending and Revenues that Both Chambers Can Adhere to During Appropriation Processes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-cutting-edge-computing-gear-with-toms-technology-reviews/"><u>Exploring Cutting-Edge Computing Gear with Tom's Technology Reviews</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-evaluating-asus-proart-pa-329q-the-future-of-4k-workspace-displays/"><u>In 2024, Evaluating Asus ProArt PA 329Q – The Future of 4K Workspace Displays</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-high-tech-solutions-with-tom-the-hardware-enthusiast/"><u>Unveiling High-Tech Solutions with Tom - The Hardware Enthusiast</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/x-fi-audio-evolution-unveiling-the-gen4-upgrade-with-advanced-ai-powered-hearing-technology/"><u>X-Fi Audio Evolution: Unveiling the Gen4 Upgrade with Advanced AI-Powered Hearing Technology</u></a></li>
 </ul></div>
 

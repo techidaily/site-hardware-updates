@@ -1,7 +1,7 @@
 ---
 title: Samsung's QN90B QLED - Ultimate Performance in Bright Rooms, Expert Reviews & Comparison
-date: 2024-09-24T18:30:25.692Z
-updated: 2024-09-28T16:11:43.578Z
+date: 2024-09-27T16:23:51.951Z
+updated: 2024-10-03T21:17:08.517Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,24 +99,19 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-maximizing-your-income-potential-on-instagram/"><u>[New] 2024 Approved Maximizing Your Income Potential on Instagram</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-send-smiles-wide-step-by-step-for-sharing-gifs-on-snapchat/"><u>[New] In 2024, Send Smiles Wide Step-by-Step for Sharing Gifs on Snapchat</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/a-step-by-step-guide-to-rectifying-palworld-search-mishaps/"><u>A Step-by-Step Guide to Rectifying Palworld Search Mishaps</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/beginners-tutorial-stream-to-facebook-with-obs-studio-for-2024/"><u>Beginners Tutorial Stream to Facebook With OBS Studio for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/creative-webcam-drivers-download-and-update-for-windows/"><u>Creative Webcam Drivers Download & Update for Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhanced-printing-capabilities-in-windows-10-with-new-driver-updates-for-scanners-and-printers/"><u>Enhanced Printing Capabilities in Windows 10 with New Driver Updates for Scanners & Printers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-potential-8-unique-applications-of-chatgpt-vision/"><u>Exploring the Potential: 8 Unique Applications of ChatGPT Vision</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722977431334-fast-track-to-enhanced-performance-download-nvidia-geforce-gt-730-drivers-today/"><u>Fast Track to Enhanced Performance: Download NVIDIA GeForce GT 730 Drivers Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-apply-the-newest-amd-radeon-hd-7870-drivers-for-optimal-performance-in-windows-11/"><u>Find and Apply the Newest AMD Radeon HD 7870 Drivers for Optimal Performance in Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/fostering-fast-visual-storytelling-with-google-imagery/"><u>Fostering Fast Visual Storytelling with Google Imagery</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-optimal-performance-nvidias-geforce-rtx-3080-drivers-on-windows-7810-download/"><u>Get Optimal Performance: NVIDIA's GeForce RTX 3080 Drivers on Windows 7/8/10 (Download)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-install-latest-rndis-network-adapter-drivers-on-your-pc/"><u>How to Find and Install Latest RNDIS Network Adapter Drivers on Your PC</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-hit-the-right-notes-music-mastery-on-instagram/"><u>In 2024, Hit the Right Notes Music Mastery on Instagram</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-13-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 13 Properly | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-picks-experts-choice-of-4k-dslr-rigs/"><u>In 2024, Prime Picks Expert's Choice of 4K DSLR Rigs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/nvidia-geforce-rtx-3060-ti-driver-update-download-guide-for-windows-10-and-11/"><u>NVIDIA GeForce RTX 3060 Ti Driver Update: Download Guide for Windows 10 and 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-setup-get-your-intel-thunderbolt-controller-drivers-instantly/"><u>Quick Setup: Get Your Intel Thunderbolt Controller Drivers Instantly!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-and-installation-guide-dell-latitude-e6430-drivers-on-windows/"><u>Update and Installation Guide: Dell Latitude E6430 Drivers on Windows</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-comparing-iphones-best-video-editors-cameo-and-filmorago/"><u>[New] In 2024, Comparing iPhone's Best Video Editors Cameo & FilmoraGo</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-sorbet-surveillance-complete-guide-to-ice-cream-screen-capture-for-2024/"><u>[New] Sorbet Surveillance Complete Guide to Ice Cream Screen Capture for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-best-three-tactics-for-maximizing-zoom-transcoding/"><u>[Updated] 2024 Approved Best Three Tactics for Maximizing Zoom Transcoding</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-tickletech-design-easy-entertaining-visuals/"><u>[Updated] 2024 Approved TickleTech Design Easy, Entertaining Visuals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-complete-guide-to-producing-professional-gopro-video-content/"><u>[Updated] The Complete Guide to Producing Professional GoPro Video Content</u></a></li>
+<li><a href="https://article-files.techidaily.com/essential-guide-to-selecting-quality-cricket-broadcast-services/"><u>Essential Guide to Selecting Quality Cricket Broadcast Services</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Plus Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-poco-m6-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Poco M6 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-reviews-and-expert-analysis-at-toms-tech-insights/"><u>In-Depth Reviews & Expert Analysis at Tom's Tech Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723964469575-join-the-system-architects-marathon-in-q4-2015-for-a-high-speed-lan-pc-box-now-only-912-amd-model-available/"><u>Join the System Architects Marathon in Q4 2015 for a High-Speed LAN PC Box, Now Only $912 AMD Model Available</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-pc-efficiency-with-these-15-cost-effective-tweaks-for-under-50/"><u>Maximize Your PC Efficiency with These 15 Cost-Effective Tweaks for Under $50</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-computer-components-expert-reviews-and-detailed-analysis/"><u>Tom's Computer Components: Expert Reviews and Detailed Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-gadget-guide-your-go-to-source-for-hardware-reviews-and-comparisons/"><u>Tom's Gadget Guide: Your Go-To Source for Hardware Reviews and Comparisons</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-shorts-vs-tiktok-which-one-is-better-for-short-videos-for-2024/"><u>YouTube Shorts Vs. TikTok Which One Is Better for Short Videos for 2024</u></a></li>
 </ul></div>
 

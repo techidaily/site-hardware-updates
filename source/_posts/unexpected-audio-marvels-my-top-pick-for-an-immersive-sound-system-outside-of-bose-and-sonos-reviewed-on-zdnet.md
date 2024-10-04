@@ -1,7 +1,7 @@
 ---
 title: "Unexpected Audio Marvels: My Top Pick for an Immersive Sound System Outside of Bose & Sonos, Reviewed on ZDNET"
-date: 2024-09-27T18:07:44.353Z
-updated: 2024-09-28T20:05:45.596Z
+date: 2024-10-01T02:16:41.759Z
+updated: 2024-10-03T16:03:39.531Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,16 +55,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -105,15 +105,24 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-sharp-images-no-fog-protecting-gopro-quality/"><u>[New] Sharp Images, No Fog Protecting GoPro Quality</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-budgetary-skynetting-massively-saving-cloud-data-costs/"><u>2024 Approved Budgetary SkyNetting Massively Saving Cloud Data Costs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-ways-kids-can-use-chatgpt-safely/"><u>5 Ways Kids Can Use ChatGPT Safely</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/brother-hl-l2370dw-driver-download-and-latest-firmware-update/"><u>Brother HL-L2370DW Driver Download & Latest Firmware Update</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-easily-install-upgraded-nvidia-graphics-card-drivers-on-windows-1178/"><u>How to Easily Install Upgraded NVIDIA Graphics Card Drivers on Windows 11/7/8</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-most-recent-hp-deskjet-2652-driver-for-multiple-windows-os-versions/"><u>How to Install the Most Recent HP DeskJet 2652 Driver for Multiple Windows OS Versions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-nubia-red-magic-8s-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Nubia Red Magic 8S Pro? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/mastering-timelapse-using-gopro-hero5-black-for-2024/"><u>Mastering Timelapse Using GoPro Hero5 Black for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722963980767-quick-installation-of-asus-maximus-xi-extreme-z370-motherboard-secure-your-latest-drivers-now/"><u>Quick Installation of ASUS Maximus XI Extreme Z370 Motherboard - Secure Your Latest Drivers Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-top-5-corporate-barricades-preventing-chatgpt-use/"><u>The Top 5 Corporate Barricades Preventing ChatGPT Use</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-maximize-your-access-to-fb-videos-with-our-top-5-picks-for-2024/"><u>[New] Maximize Your Access to FB Videos with Our Top 5 Picks for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-tech-gadgets-with-ois-for-professional-filmmaking/"><u>2024 Approved Best Tech Gadgets with OIS for Professional Filmmaking</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-frame-rate-selection-made-simple-pros-and-cons-of-30fps-and-60hz/"><u>2024 Approved Frame Rate Selection Made Simple Pros and Cons of 30Fps and 60Hz</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-the-conversion-avi-files-become-gifs-using-filmora-software-windowsmac/"><u>2024 Approved Master the Conversion AVI Files Become GIFs Using Filmora Software (Windows/Mac)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-episodes-your-guide-to-gpodc-mastery/"><u>2024 Approved Prime Episodes Your Guide to GPodC Mastery</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-brother-mfc-l2740dw-printer-drivers-for-pc-free-and-easy-setup/"><u>Download Brother MFC-L2740DW Printer Drivers for PC - Free & Easy Setup</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-thinkpad-with-new-windows-10-drivers/"><u>Enhance ThinkPad with New Windows 10 Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722967281568-get-the-newest-mpow-bluetooth-software-for-windows-update-now/"><u>Get the Newest MPOW Bluetooth Software for Windows - Update Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-finding-and-downloading-the-right-toshiboa-copierprinter-drivers-for-windows-machines/"><u>Guide: Finding & Downloading the Right Toshiboa Copier/Printer Drivers for Windows Machines</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-enable-usb-c-connectivity-in-windows-nx-professional-driver-packs-available-here/"><u>How to Enable USB-C Connectivity in Windows nX: Professional Driver Packs Available Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-swiftly-update-your-intel-nuc-system-with-the-newest-drivers/"><u>How to Swiftly Update Your Intel NUC System with the Newest Drivers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-v30-pro-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo V30 Pro?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-gt-5-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme GT 5 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-now-csr-bluetooth-interface-drivers-available-for-download/"><u>Install Now: CSR Bluetooth Interface Drivers Available for Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-setup-get-your-acer-bluetooth-device-drivers-here/"><u>Instant Setup: Get Your Acer Bluetooth Device Drivers Here</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-get-ready-for-the-big-screen-top-10-movie-trailer-apps-for-ios/"><u>New In 2024, Get Ready for the Big Screen Top 10 Movie Trailer Apps for iOS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-downloading-and-installing-intel-hduhd-drivers-on-windows-11/"><u>Step-by-Step Guide to Downloading and Installing Intel HD/UHD Drivers on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722963755523-step-by-step-solution-for-intels-dynamic-platform-and-thermal-framework-driver-error/"><u>Step-by-Step Solution for Intel's Dynamic Platform & Thermal Framework Driver Error!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-install-wacom-intuos-nibs-on-windows-guaranteed-success/"><u>Ultimate Guide: Install Wacom Intuos Nibs on Windows – Guaranteed Success</u></a></li>
 </ul></div>
 

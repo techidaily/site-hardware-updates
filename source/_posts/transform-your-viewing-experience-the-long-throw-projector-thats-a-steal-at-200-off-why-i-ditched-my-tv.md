@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Viewing Experience: The Long-Throw Projector That's a Steal at $200 Off – Why I Ditched My TV"
-date: 2024-09-22T17:35:04.461Z
-updated: 2024-09-28T17:12:43.989Z
+date: 2024-09-27T23:14:12.127Z
+updated: 2024-10-03T19:30:27.115Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,18 +92,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-achieving-professional-level-youtube-streams-using-wirecast/"><u>[New] 2024 Approved Achieving Professional-Level Youtube Streams Using WireCast</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-capturing-your-laptop-simple-lenovo-steps/"><u>[New] In 2024, Capturing Your Laptop Simple Lenovo Steps</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-maximizing-iphone-to-mac-file-transfer-for-large-videos/"><u>[New] In 2024, Maximizing iPhone-to-Mac File Transfer for Large Videos</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-superior-audio-alerts-prime-pick-pages-for-2024/"><u>[New] Superior Audio Alerts Prime Pick Pages for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-analysis-of-fb-video-proportions/"><u>[Updated] 2024 Approved Analysis of FB Video Proportions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-ice-cream-video-recorder-exploration-in-depth/"><u>[Updated] In 2024, Ice Cream Video Recorder Exploration in Depth</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-perfecting-live-broadcasts-with-streamlabs-obs-tips-for-2024/"><u>[Updated] Perfecting Live Broadcasts with Streamlabs OBS Tips for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-install-guide-for-epson-xp-440-driver-updates-keeping-your-print-quality-top-notch/"><u>Easy Install Guide for Epson XP-440 Driver Updates – Keeping Your Print Quality Top-Notch</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/elevate-your-gaming-experience-using-the-enhanced-asus-rx-970-pro-card/"><u>Elevate Your Gaming Experience Using the Enhanced Asus RX 970 Pro Card</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/internet-independence-how-to-stay-connected-without-a-landline-or-cable-service/"><u>Internet Independence: How to Stay Connected without a Landline or Cable Service</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-start-manual-for-downloading-and-installing-the-latest-ricoh-printer-drivers-on-windows/"><u>Quick Start Manual for Downloading & Installing the Latest Ricoh Printer Drivers on Windows</u></a></li>
-<li><a href="https://fox-access.techidaily.com/transforming-your-content-delivery-the-power-of-onestream-for-2024/"><u>Transforming Your Content Delivery The Power of OneStream for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/whats-new-with-the-logitech-extreme-3d-pro-check-out-these-updates/"><u>What's New with the Logitech Extreme 3D Pro? Check Out These Updates</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-fresh-concepts-for-youtube-channels-inspiration-at-its-peak/"><u>[New] 2024 Approved Fresh Concepts for YouTube Channels Inspiration at Its Peak</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-best-bargain-scene-for-no-cost-video-capturing-on-chromebooks-for-2024/"><u>[New] Best Bargain Scene for No-Cost Video Capturing on Chromebooks for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-your-pathway-to-audio-mastery-download-and-install-vrecorder/"><u>[New] In 2024, Your Pathway to Audio Mastery - Download & Install VRecorder</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-usb-bluetooth-dongle-drivers-on-windows/"><u>Download & Update USB Bluetooth Dongle Drivers on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-nvidia-geforce-game-ready-driver-for-windows/"><u>Download NVIDIA GeForce Game Ready Driver for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722966779533-get-your-hands-on-qualcomms-atheros-bluetooth-ar3011-v30-driver-here/"><u>Get Your Hands on Qualcomm's Atheros Bluetooth AR3011 v3.0 Driver Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hp-m477-all-in-one-laser-printer-drivers-here/"><u>Get Your HP M477 All-in-One Laser Printer Drivers Here!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/highlighting-key-developments-in-windows-movie-maker-releases/"><u>Highlighting Key Developments in Windows Movie Maker Releases</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-infinix-smart-8-plus-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Infinix Smart 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-honor-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Honor</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/laserjet-p1006-printing-solutions-secure-download-of-your-necessary-drivers-and-utilities/"><u>LaserJet P1006 Printing Solutions: Secure Download of Your Necessary Drivers and Utilities</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/microsoft-driver-fix-addressing-acpi-compatible-control-method-for-batteries-issues-successfully/"><u>Microsoft Driver Fix: Addressing ACPI Compatible Control Method for Batteries Issues Successfully</u></a></li>
+<li><a href="https://win11.techidaily.com/stepwise-customization-how-to-innovate-with-pattern-locks-on-pc/"><u>Stepwise Customization: How to Innovate with Pattern Locks on PC</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/stop-printerevolving-spooler-error-wx-w10-and-w11/"><u>Stop Printer'evolving Spooler Error (WX, W10 & W11)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-lg-watch-styles-legacy-a-closer-look-at-standard-wear-os-20-features-and-functionality/"><u>Unveiling the LG Watch Style's Legacy: A Closer Look at Standard Wear OS 2.0 Features and Functionality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-sataahci-controller-drivers-with-minimal-hassle/"><u>Update SATA/AHCI Controller Drivers with Minimal Hassle</u></a></li>
 </ul></div>
 

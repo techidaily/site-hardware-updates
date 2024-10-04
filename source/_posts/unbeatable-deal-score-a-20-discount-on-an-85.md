@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Deal: Score a 20%% Discount on an 85"
-date: 2024-09-24T19:39:52.452Z
-updated: 2024-09-28T16:05:30.214Z
+date: 2024-09-29T23:42:15.499Z
+updated: 2024-10-04T01:28:06.170Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
@@ -91,10 +91,10 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,24 +133,24 @@ Should you buy one if you're looking for a portable projector that doesn't have 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-download.techidaily.com/download-x230-lenovo-drivers-quickly-and-easily/"><u>[DOWNLOAD] X230 Lenovo Drivers | Quickly & Easily</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-sound-of-funny-ringtones-recommended-websites/"><u>[New] Sound of Funny Ringtones' Recommended Websites</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-eco-scene-blueprints-download-free-guides-for-professional-filmmakers-for-2024/"><u>[Updated] Eco-Scene Blueprints Download Free Guides for Professional Filmmakers for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/approach-analyze-how-density-influences-specific-heat-capacity-and-consider-how-moisture-loss-can-affect-cellular-structure-differently-based-on-initial-den234/"><u>Approach: Analyze How Density Influences Specific Heat Capacity and Consider How Moisture Loss Can Affect Cellular Structure Differently Based on Initial Density</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-drivers-for-hp-officejet-pro-8610-on-windows-1087xpvista-compatible-software/"><u>Download & Update Drivers for HP Officejet Pro 8610 on Windows 10/8/7/XP/Vista - Compatible Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-your-data-management-with-these-5-expert-tips-for-the-seagate-backup-plus-drive/"><u>Enhance Your Data Management with These 5 Expert Tips for the Seagate Backup Plus Drive</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-guide-free-update-programs-ranked-top-8-picked/"><u>Essential Guide: Free Update Programs Ranked - Top 8 Picked!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-logitech-camera-software-installation-for-windows-pcs/"><u>Free Logitech Camera Software Installation for Windows PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722968736622-get-the-newest-version-of-brother-hl-l237n-drivers-download-now/"><u>Get the Newest Version of Brother HL-L237n Drivers – Download Now!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-honor-magic-6-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Honor Magic 6 Pro to iPad | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Lava Yuva 2? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-the-latest-logitech-c920-webcam-software-for-pcs-running-windows-11108/"><u>Installing the Latest Logitech C920 Webcam Software for PCs Running Windows 11/10/8</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/jumping-from-sdr-to-hdr-the-ultimate-transformation-guide-for-2024/"><u>Jumping From SDR to HDR The Ultimate Transformation Guide for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovo-x220-drivers-at-your-fingertnails-quick-hassle-free-download/"><u>Lenovo X220 Drivers at Your Fingertnails: Quick, Hassle-Free Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/official-lenovo-driver-updates-for-windows-7-and-10-secure-bluetooth-setup-instructions/"><u>Official Lenovo Driver Updates for Windows 7 and 10: Secure Bluetooth Setup Instructions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/rectifying-acpi-driver-fault-venintanddev33a0/"><u>Rectifying ACPI Driver Fault: VEN_INT&DEV_33A0</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-oppo-reno-11-5g-by-fonelab-android-recover-data/"><u>Undelete lost data from Oppo Reno 11 5G</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-to-the-latest-epson-perfection-v600-driver-secure-your-print-quality/"><u>Update to the Latest Epson Perfection V600 Driver - Secure Your Print Quality</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-android-users-the-top-6-video-downloaders-for-easy-access/"><u>[New] 2024 Approved Android Users The Top 6 Video Downloaders for Easy Access</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-future-file-fortresses-top-five-innovations-in-cloud-storage/"><u>[Updated] Future File Fortresses Top Five Innovations in Cloud Storage</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-pinnacle-chroma-modifier/"><u>2024 Approved Pinnacle Chroma Modifier</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-top-8-best-screen-recorders-with-no-lag/"><u>2024 Approved Top 8 Best Screen Recorders with No Lag</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-slow-motion-to-quick-with-android-aids/"><u>2024 Approved Transform Slow Motion to Quick with Android Aids</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/a-curated-list-of-happiness-crying-combo-on-instagram-pages/"><u>A Curated List of Happiness-Crying Combo on Instagram Pages</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-and-updated-how-to-install-modern-drivers-for-your-epson-xp-640-on-windows/"><u>Compatible and Updated: How to Install Modern Drivers for Your Epson XP-640 on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-download-of-epson-wf-2750-printer-software-and-installation-instructions/"><u>Easy Download of Epson WF-2750 Printer Software & Installation Instructions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-fresh-asus-driver-installation-for-your-windows-motherboard/"><u>Easy Steps to Fresh ASUS Driver Installation for Your Windows Motherboard</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-efficiency-enhancements-extensive-benchmarking-of-the-amd-ryzen-9-9950x-engineering-sample-with-blender-across-a-spectrum-of-thermal-design-power-36/"><u>Exploring Efficiency Enhancements: Extensive Benchmarking of the AMD Ryzen 9 9950X Engineering Sample with Blender Across a Spectrum of Thermal Design Power Settings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-aoc-graphics-card-drivers-for-your-windows-operating-system-efficiently/"><u>Get the Latest AOC Graphics Card Drivers for Your Windows Operating System Efficiently</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722967434010-get-your-brother-hl-l2360dw-ready-download-essential-printer-drivers-now/"><u>Get Your Brother HL-L2360DW Ready: Download Essential Printer Drivers Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-updated-hp-officejet-5255-driver-step-by-step-guide/"><u>How to Install Updated HP OfficeJet 5255 Driver – Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-simplifying-mixers-interface-for-macos-streamers/"><u>In 2024, Simplifying Mixer's Interface for macOS Streamers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-the-hp-deskjet-ink-advantage-3050a-driver-for-free-windows-update-available/"><u>Install the HP Deskjet Ink Advantage 3050A Driver for Free - Windows Update Available</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-solutions-how-to-troubleshoot-and-fix-your-lenovos-usb-drivers/"><u>Quick Solutions: How to Troubleshoot and Fix Your Lenovo's USB Drivers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-free-easy-to-use-srt-translation-services-explored-for-2024/"><u>Top Free, Easy-to-Use SRT Translation Services Explored for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-oppo-reno-10-proplus-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Oppo Reno 10 Pro+ 5G Phone Network-Ready</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Lava Blaze Curve 5G? | Dr.fone</u></a></li>
 </ul></div>
 

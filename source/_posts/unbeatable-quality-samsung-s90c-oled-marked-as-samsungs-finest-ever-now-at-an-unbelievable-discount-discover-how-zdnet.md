@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Quality: Samsung S90C OLED Marked as Samsung's Finest Ever, Now at an Unbelievable Discount – Discover How! [ZDNet]"
-date: 2024-09-22T20:17:38.299Z
-updated: 2024-09-28T17:09:53.197Z
+date: 2024-10-03T02:54:03.448Z
+updated: 2024-10-04T00:49:00.968Z
 tags:
   - tvs
 categories:
@@ -59,10 +59,16 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 As great as the new Omni Series QLED models are, price is a big sticking point for me, especially since I personally don't use Alexa or want an Amazon-centric streaming experience. However, Amazon is currently running a sale on the [65-inch Omni Series QLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-65-inch-omni-qled-series-smart-tv%2Fdp%2FB0BJMGB9RN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1), bringing the price down to $690 -- which is much more in line with what I think this TV should be retailing for -- making it a great, budget-friendly option if you're looking to upgrade. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Picture and sound 
@@ -102,10 +108,10 @@ Taylor Clemons/ZDNET
 If you decide to download Alexa Skills, you can play music, games, check the weather, get daily trivia, or even make and receive video calls. Skills are what really set the Omni QLED apart from similar smart TVs from competitors like TCL and Hisense. Without access to these features, the Omni QLED is reduced to a pretty bog-standard smart TV with better-than-expected picture and audio capabilities. 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Gaming 
@@ -169,10 +175,10 @@ Animation is another area where this TV comes into its own. Whether you're watch
 [Amazon Fire TV Omni QLED $690 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09N6J7KJD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Bottom line 
@@ -183,16 +189,16 @@ The dedicated gaming picture mode lets colors and details pop while the integrat
 
 Many of the cool features are inextricably linked to Alexa functionality, so if you want to take full advantage of the Omni QLED, you'll have to invest in an Echo device and set up an Alexa account. And this reason alone is why I think the $800 price tag is just a touch on the high side for this TV, since without Alexa Skills, it's just a basic QLED model. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Alternatives to consider 
 
 [Great for streaming Sony X77L The Sony X77L uses an LED panel to provide 4K resolution at a 60Hz refresh rate, which means that from sports and action movies to music videos and animated shorts, your media will have smooth motion, crisp details, and bold colors. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BZF2N3LM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)[Great budget option Amazon Fire TV 4-Series The Fire TV 4-Series from Amazon is a solid, budget-friendly option for anyone looking for a reliable second screen for their bedroom or affordable main TV. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-55-inch-4-series-4k-smart-tv%2Fdp%2FB0B3H6JPYZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -230,22 +236,16 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-enhancing-facebook-traffic-with-innovative-video-techniques/"><u>[New] Enhancing Facebook Traffic with Innovative Video Techniques</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-a-comprehensible-guide-on-saving-instagram-story-content/"><u>[New] In 2024, A Comprehensible Guide on Saving Instagram Story Content</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-revolutionize-your-console-proven-strategies-for-clear-gaming-recordings/"><u>[New] In 2024, Revolutionize Your Console Proven Strategies for Clear Gaming Recordings</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-sdr-vs-hdr-the-superiority-of-high-dynamic-range-in-video-production/"><u>[New] In 2024, SDR Vs. HDR The Superiority of High Dynamic Range in Video Production</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-realme-gt-5-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Realme GT 5 Fingerprint Lock</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-the-best-elgato-stream-deck-features/"><u>Decoding the Best Elgato Stream Deck Features</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-hp-envy-laptop-series-5660-drivers-with-ease/"><u>Download and Install HP Envy Laptop Series 5660 Drivers with Ease</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722972715064-download-ryzen-amoledcameoimagesfavicon-32x32-precomposedpngryzen52400g-drivers-now/"><u>Download Ryzen amoled_cameo/images/favicon-32x32-precomposed.pngryzen5_2400g Drivers Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-faster-internet-on-windows-download-and-install-updated-usb-30-ethernet-adapter-drivers/"><u>Get Faster Internet on Windows: Download and Install Updated USB 3.0 Ethernet Adapter Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-or-update-your-microsoft-bluetooth-drivers-for-windows-11-10-8-and-7/"><u>How to Install or Update Your Microsoft Bluetooth Drivers for Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-newest-nvidia-drivers-on-windows-downloads-for-1087-systems/"><u>How to Install the Newest Nvidia Drivers on Windows: Downloads for 10/8/7 Systems</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-infinix-note-30-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Infinix Note 30 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-xiaomi-redmi-note-13-proplus-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Xiaomi Redmi Note 13 Pro+ 5G Phone Pattern Lock</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolved-troubleshoot-bcm2045a0-driver-problems-with-simple-steps/"><u>Resolved: Troubleshoot BCM2045A0 Driver Problems with Simple Steps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-windows-11-version-2n04-with-the-latest-conexant-chipset-drivers/"><u>Step-by-Step Guide: Updating Your Windows 11 Version 2N04 With the Latest Conexant Chipset Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshoot-and-enhance-updating-webcam-drivers-on-the-latest-windows-os/"><u>Troubleshoot & Enhance: Updating Webcam Drivers on the Latest Windows OS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-videopilot-social-networks-to-files-for-2024/"><u>[New] VideoPilot Social Networks to Files for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-smooth-path-from-instagram-visuals-to-mp3-sound/"><u>[Updated] Smooth Path From Instagram Visuals to Mp3 Sound</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-downloads-updated-dell-sound-card-software/"><u>Easy Downloads: Updated Dell Sound Card Software</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-online-excel-webworkers-strategies-for-streamlining-spreadsheet-efficiency/"><u>Enhancing Online Excel Webworkers: Strategies for Streamlining Spreadsheet Efficiency</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-free-eveo-bluetooth-receiver-drivers-now/"><u>Get Your Free Eveo Bluetooth Receiver Drivers Now</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-s23-ultra-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Samsung Galaxy S23 Ultra to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-epson-ds-30-all-in-one-printer-driver-compatible-with-windows-11-8-and-7-download-now/"><u>Latest Epson DS 30 All-in-One Printer Driver Compatible with Windows 11, 8 & 7 – Download Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/msi-and-asrock-now-offer-intel-cpu-stability-fixes-asus-rog-board-owners-get-early-beta-patch/"><u>MSI and ASRock Now Offer Intel CPU Stability Fixes; Asus ROG Board Owners Get Early Beta Patch</u></a></li>
+<li><a href="https://facebook.techidaily.com/profile-perfection-designing-a-tailored-cover-photo-that-celebrates-you-and-your-avatar/"><u>Profile Perfection: Designing a Tailored Cover Photo that Celebrates You and Your Avatar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-professional-behringer-driver-packs-free-downloads-to-enhance-your-mixing-skills/"><u>Unlock Professional Behringer Driver Packs – Free Downloads to Enhance Your Mixing Skills</u></a></li>
 </ul></div>
 

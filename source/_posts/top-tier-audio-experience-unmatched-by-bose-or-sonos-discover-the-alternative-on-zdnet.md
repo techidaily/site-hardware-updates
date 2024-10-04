@@ -1,7 +1,7 @@
 ---
 title: Top-Tier Audio Experience Unmatched by Bose or Sonos - Discover the Alternative on ZDNet
-date: 2024-09-25T16:38:17.519Z
-updated: 2024-09-28T19:53:43.481Z
+date: 2024-10-02T18:35:55.739Z
+updated: 2024-10-04T00:40:36.303Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,21 +99,22 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-mastering-hdr-photography-your-essential-list/"><u>[New] In 2024, Mastering HDR Photography Your Essential List</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-ideal-screen-recorder-picks-for-digital-educators-for-2024/"><u>[Updated] Ideal Screen Recorder Picks for Digital Educators for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-primary-screening-footage-study-and-off-the-cuff-selections/"><u>[Updated] In 2024, Primary Screening Footage Study and Off-the-Cuff Selections</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2022-winter-games-skate-spotlights/"><u>2022 Winter Games Skate Spotlights</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-guide-installing-wacom-intuos-amo-drawing-tablet-drivers-on-your-pc/"><u>Complete Guide: Installing Wacom Intuos Amo Drawing Tablet Drivers on Your PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-intel-usb-30-drivers-for-windows-10/"><u>Download | Intel USB 3.0 Drivers for Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-scansnap-s1300i-software-free-fast-and-easy/"><u>Download the Latest ScanSnap S1300i Software: Free, Fast, and Easy!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-guide-to-downloading-and-installing-intel-management-engine-drivers-windows-compatible/"><u>Easy Guide to Downloading and Installing Intel Management Engine Drivers - Windows Compatible</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723864254809-flash-deal-alert-the-4tb-ssd-by-crucial-is-now-a-steal-only-005-per-gb-but-hurry-limited-stock-available/"><u>Flash Deal Alert! The 4TB SSD by Crucial Is Now a Steal - Only $0.05 per GB, But Hurry, Limited Stock Available</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-wireless-adapter-drivers-instantly-effortlessly-download-them-now/"><u>Get Your Wireless Adapter Drivers Instantly – Effortlessly Download Them Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/rtx-2060-super-driver-pack-optimized-performance-for-windows-10-and-11-users/"><u>RTX 2060 Super Driver Pack - Optimized Performance for Windows 10 and 11 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-installation-how-to-get-a-compatible-keyboard-driver-for-windows-7-instantly/"><u>Seamless Installation: How to Get a Compatible Keyboard Driver for Windows 7 Instantly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-the-best-artificial-intelligence-notetakers-for-superior-organization/"><u>The Ultimate List of the Best Artificial Intelligence Notetakers for Superior Organization</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Nokia 150 (2023) | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-graphics-nvidia-geforce-210-drivers-for-windows-10/"><u>Update Your Graphics: Nvidia GeForce 210 Drivers for Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-your-visual-experience-download-new-hdmiusb-driver-patches/"><u>Upgrade Your Visual Experience: Download New HDMI/USB Driver Patches</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-art-with-sony-fdr-x1000v-action-footage/"><u>[New] Mastering the Art with Sony FDR-X1000V Action Footage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-to-flawless-gopro-4k-edits/"><u>[Updated] Unveiling the Secrets to Flawless GoPro 4K Edits</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-guide-securely-integrating-tiktok-profile-links/"><u>2024 Approved Ultimate Guide Securely Integrating TikTok Profile Links</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficiently-disconnect-your-bluetooth-devices-from-pcs-running-windows-11-or-10/"><u>Efficiently Disconnect Your Bluetooth Devices From PCs Running Windows 11 or 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-setting-up-automated-text-messaging-timers-on-your-iphone/"><u>Guide: Setting Up Automated Text Messaging Timers on Your iPhone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-non-functioning-headphones-on-your-windows-7-pc/"><u>How to Fix Non-Functioning Headphones on Your Windows 7 PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-update-software-for-your-logitech-m510-mouse/"><u>How to Successfully Update Software for Your Logitech M510 Mouse</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intels-lunar-lake-project-outsourced-assembly-and-upgrades-via-panther-lake-incorporating-clearwater-forest-power-systems/"><u>Intel's Lunar Lake Project: Outsourced Assembly and Upgrades via Panther Lake, Incorporating Clearwater Forest Power Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-hp-officejet-4500-printer-software-upgrade-available-for-free/"><u>Latest HP Officejet 4500 Printer Software Upgrade Available for Free !</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-rtx-2060-driver-download-for-windows-11-10-8-7/"><u>Latest RTX 2060 Driver Download for Windows 11, 10, 8, 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-microsoft-drivers-downloads-and-updates-for-windows-10-8-and-7/"><u>Quick Guide: Microsoft Drivers Downloads and Updates for Windows 10, 8, and 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/realtek-rtl8188ee-80211bgn-wifi-adapter-driver-download-for-windows/"><u>Realtek RTL8188EE 802.11Bgn WiFi Adapter Driver Download for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-downloads-and-updates-for-microsoft-surface-drivers/"><u>Seamless Downloads & Updates for Microsoft Surface Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-latest-mono-laser-driver-for-your-dell-2330d-or-2330dn-printer/"><u>Step-by-Step Guide: Installing Latest Mono Laser Driver for Your Dell 2330D or 2330DN Printer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-complete-guide-to-decluttered-image-designs-on-canva-for-2024/"><u>The Complete Guide to Decluttered Image Designs on Canva for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-complete-guide-to-help-you-convert-srt-to-xml-ssa-ttml-and-othe-for-2024/"><u>The Complete Guide to Help You Convert SRT to XML, SSA, TTML, and Othe for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-best-vocal-trackers-essential-software-for-seamless-sound-capture/"><u>Updated In 2024, Best Vocal Trackers Essential Software for Seamless Sound Capture</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Using Your iPhone: A Comprehensive Guide to Turn It Into a Smart TV Remote - Insights From ZDNet"
-date: 2024-09-25T19:18:02.891Z
-updated: 2024-09-28T17:19:32.668Z
+date: 2024-09-30T20:46:46.195Z
+updated: 2024-10-03T21:58:00.063Z
 tags:
   - tvs
 categories:
@@ -32,16 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -61,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -105,21 +99,17 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-quick-glance-fastest-photo-viewer-in-11-os/"><u>[New] Quick Glance Fastest Photo Viewer in 11 OS</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unlocking-image-potential-the-importance-of-luts/"><u>[Updated] Unlocking Image Potential The Importance of LUTs</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-unrecognizable-images-with-picarts-feature-for-2024/"><u>[Updated] Unrecognizable Images with PicArt's Feature for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-master-classroom-optimal-video-edits-on-vimeo/"><u>2024 Approved Master Classroom Optimal Video Edits on Vimeo</u></a></li>
-<li><a href="https://blog-min.techidaily.com/tiffwebmovavi-webp/"><u>無料でシームレスTIFF画像をWeb用に変換：Movavi マジックワーカー - WEBPフォーミュラ</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/beginners-guide-to-limolight-studio-agg814-kit/"><u>Beginner’s Guide to LimoLight Studio AGG814 Kit</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cinematic-excellence-discover-the-best-15-gopro-action-cam-luts/"><u>Cinematic Excellence Discover the Best 15 GOPRO Action Cam LUTs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-installing-intel-iris-xe-lp-graphics-655-drivers-on-pcs-with-windows-10-or-11/"><u>Comprehensive Guide: Installing Intel Iris Xe LP Graphics 655 Drivers on PCs with Windows 10 or 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/find-your-favorite-songs-for-free-with-these-best-7-apps-for-iphone-and-android-devices/"><u>Find Your Favorite Songs for Free with These ^Best^ 7 Apps for iPhone & Android Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-geforce-rtx-3080-drivers-downloaded-compatible-with-windows-10-8-and-7/"><u>Free GeForce RTX 3080 Drivers Downloaded - Compatible with Windows 10, 8 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-amd-radeon-vega-64-up-to-date-download-and-install-drivers-easily-on-windows-pcs/"><u>Get Your AMD Radeon VEGA 64 Up to Date - Download & Install Drivers Easily on Windows PCs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-infinix-note-30-vip-racing-edition-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Infinix Note 30 VIP Racing Edition PC | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/most-recent-driver-updates-for-nvidia-geforce-rtx-3080-ti-win-11-8-and-7-support/"><u>Most Recent Driver Updates for NVIDIA GeForce RTX 3080 Ti: Win 11, 8 & 7 Support</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/nvidia-quadro-windows-10-driver-download-enhance-your-gpu-performance-with-dch/"><u>NVIDIA Quadro Windows 10 Driver Download - Enhance Your GPU Performance with DCH</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-steps-to-downloading-the-latest-scansnap-driver-for-windows-pcs/"><u>Quick and Simple Steps to Downloading the Latest ScanSnap Driver for Windows PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-and-simple-downloads-for-amd-ryzen-graphics-drivers/"><u>Secure and Simple Downloads for AMD Ryzen Graphics Drivers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/mplify-your-videos-impact-increasing-view-count-on-youtube-shorts/"><u>[New] Amplify Your Video's Impact Increasing View Count on YouTube Shorts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-breaking-the-mold-high-fidelity-sound-without-a-microphone-for-2024/"><u>[New] Breaking the Mold High-Fidelity Sound without a Microphone for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-creative-closure-ideas-with-our-template-service/"><u>[Updated] Unlock Creative Closure Ideas with Our Template Service</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unpacking-the-features-of-androids-lightroom-app/"><u>2024 Approved Unpacking the Features of Android's Lightroom App</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-a-non-responsive-tablet-screen-effective-methods-and-quick-tips-you-should-try/"><u>Fixing a Non-Responsive Tablet Screen: Effective Methods and Quick Tips You Should Try</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fully-updated-download-d3-graphics-and-chipset-drivers-for-gigabyte-z370p/"><u>Fully Updated: Download D3 Graphics and Chipset Drivers for Gigabyte Z370P</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971493430-get-the-newest-epson-wf-3620-driver-software-for-compatible-pcs-running-windows-1087-download-here/"><u>Get the Newest Epson WF-3620 Driver Software for Compatible PCs Running Windows 10/8/7 - Download Here!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-find-x7-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Oppo Find X7 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-immersive-health-experiences-enhanced-care/"><u>In 2024, Immersive Health Experiences, Enhanced Care</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unveiling-itop-a-screencast-game-changer/"><u>In 2024, Unveiling ITop A Screencast Game-Changer?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-momo-wheel-racing-controller-software-for-pc-free-download-links/"><u>Logitech MOMO Wheel Racing Controller Software for PC – Free Download Links</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722965563839-netgear-a6100-user-heres-where-you-can-download-the-newest-windows-driver/"><u>Netgear A6100 User? Here's Where You Can Download the Newest Windows Driver!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating New Gadgets & Gizmos at Tom's Hardware Hub
-date: 2024-09-11T16:58:21.456Z
-updated: 2024-09-12T16:58:21.456Z
+date: 2024-10-03T00:12:55.450Z
+updated: 2024-10-03T22:54:06.897Z
 tags:
   - cpu
 categories:
@@ -26,19 +26,6 @@ AMD’s near-ancient 3DNow! instructions have faded even further into obscurity.
  _“This set of instructions was only supported by AMD chips starting in the K6-2 (introduced 1998), and before the “Bulldozer” family (2011). They were never much used, as they were effectively superseded by the more-widely-implemented SSE (first implemented on the AMD side in Athlon XP in 2001)._
 
  _This is being done as a predecessor towards general removal of MMX register usage. Since there is almost no usage of the 3DNow! intrinsics, and no modern hardware even implements them, simple removal seems like the best option.”_
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -65,5 +52,30 @@ AMD’s near-ancient 3DNow! instructions have faded even further into obscurity.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/tandout-thumbnails-start-here-20-top-font-picks-for-2024/"><u>[New] Standout Thumbnails Start Here 20 Top Font Picks for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-download-and-organize-facebook-urls-top-8-tools-of-the-year/"><u>[Updated] Download & Organize Facebook URLs Top 8 Tools of the Year</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-a-step-by-step-approach-to-screening-on-switch/"><u>[Updated] In 2024, A Step-by-Step Approach to Screening on Switch</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-newcomers-guide-profiting-from-live-streaming-on-periscope-for-2024/"><u>[Updated] Newcomer’s Guide Profiting From Live Streaming on Periscope for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prime-20-anime-openers-soundscape/"><u>[Updated] Prime 20 Anime Openers' Soundscape</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-achieving-peak-zoom-resolution-effective-techniques/"><u>2024 Approved Achieving Peak Zoom Resolution Effective Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-toms-tech-insights-a-comprehensive-guide/"><u>Exploring Tom's Tech Insights: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/first-ever-release-of-sabrents-unique-single-sided-rocket-nvme-gen5-1tb2tb-ssds-optimized-dram-free-storage-solutions-perfect-for-laptops-and-gaming-console2/"><u>First Ever Release of Sabrent's Unique Single-Sided Rocket NVMe Gen5 1TB/2TB SSDs: Optimized DRAM-Free Storage Solutions Perfect for Laptops & Gaming Consoles</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/flash-deal-alert-the-4tb-ssd-by-crucial-is-now-a-steal-only-005-per-gb-but-hurry-limited-stock-available/"><u>Flash Deal Alert! The 4TB SSD by Crucial Is Now a Steal - Only $0.05 per GB, But Hurry, Limited Stock Available!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hardware-review-hub-unveiling-the-best-tech-at-your-brand-name/"><u>Hardware Review Hub: Unveiling the Best Tech at [Your Brand Name]</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hdr-mastery-essential-steps-for-sdr-to-hdr-upconversion/"><u>HDR Mastery Essential Steps for SDR-to-HDR Upconversion</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/high-performance-vs-excess-analyzing-the-need-for-a-120mm-radiator-in-teamgroups-sub-12w-m2-ssd-setup/"><u>High Performance Vs. Excess? Analyzing the Need for a 120Mm Radiator in TeamGroup’s Sub-12W M.2 SSD Setup</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/high-performance-risc-v-pcie-gen5-ssd-nvme-controller-from-china-achieves-up-to-142gbs-speeds-no-cooling-required/"><u>High-Performance RISC-V PCIe Gen5 SSD NVMe Controller From China Achieves Up to 14.2GB/S Speeds - No Cooling Required</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/imminent-arrival-new-trademark-discoveries-point-to-a-launch-of-samsungs-990-evo-plus-and-9100-pro-ssds-soon/"><u>Imminent Arrival? New Trademark Discoveries Point to a Launch of Samsung's 990 EVO PLUS and 9100 PRO SSDs Soon</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://solve-news.techidaily.com/online-movavi-mp3-flv-freemp3flv/"><u>무료 표준화: Online Movavi MP3 및 FLV 파일을 원형화하기 위한 바이트를 아닌 효율적인 소스 - FREEMP3FLV</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

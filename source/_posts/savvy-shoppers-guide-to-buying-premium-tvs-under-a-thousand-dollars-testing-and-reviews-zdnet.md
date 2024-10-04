@@ -1,7 +1,7 @@
 ---
 title: Savvy Shopper's Guide to Buying Premium TVs Under a Thousand Dollars | Testing and Reviews | ZDNet
-date: 2024-09-23T19:59:51.334Z
-updated: 2024-09-28T16:02:29.785Z
+date: 2024-09-27T17:50:07.303Z
+updated: 2024-10-03T17:22:00.178Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,17 +99,18 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-explore-the-10-finest-iphone-photo-editors-and-filters/"><u>[New] 2024 Approved Explore the 10 Finest iPhone Photo Editors & Filters</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-download-premium-video-covers-free-fast-and-easy/"><u>[New] In 2024, Download Premium Video Covers - Free, Fast & Easy</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-champion-of-chiseled-cheeks-starting-your-youtube-aesthetic-venture-for-2024/"><u>[Updated] Champion of Chiseled Cheeks Starting Your YouTube Aesthetic Venture for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-starter-gear-for-gopro-cameras/"><u>[Updated] Top Starter Gear for GoPro Cameras</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-sony-xperia-10-v-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Sony Xperia 10 V Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-correcting-power-management-problems-with-windows-drivers/"><u>Diagnosing and Correcting Power Management Problems with Windows Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-latest-zebra-printer-drivers-on-windows-systems/"><u>Download & Install Latest Zebra Printer Drivers on Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-canon-printer-mp250-driver-downloads-and-latest-firmware-updates/"><u>Free Canon Printer MP250 Driver Downloads and Latest Firmware Updates</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-peak-color-alignment-tool/"><u>In 2024, Peak Color Alignment Tool</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-hp-scanjet-printer-drivers-for-windows-11-download-and-install/"><u>Latest HP Scanjet Printer Drivers for Windows 11: Download & Install</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-resource-for-downloading-gigabytes-gc-wb867d-i-video-card-software/"><u>Ultimate Resource for Downloading Gigabyte's GC-WB867D-I Video Card Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/water-resistance-checked-the-sinking-scenario-for-the-new-iphone-15-pro-max/"><u>Water Resistance Checked: The Sinking Scenario for the New iPhone 15 Pro Max</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-free-webinar-recorders-manual/"><u>[New] 2024 Approved The Free Webinar Recorder's Manual</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-secure-storage-strategies-for-itunes-media/"><u>[New] In 2024, Secure Storage Strategies for iTunes Media</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-unlock-the-power-of-filmora-for-effective-avi-to-gif-conversion-for-2024/"><u>[New] Unlock the Power of Filmora for Effective AVI-to-GIF Conversion for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-streaming-gopro-on-social-platforms-a-step-by-step-guide/"><u>[Updated] Streaming GoPro on Social Platforms A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/aspiring-pro-modders-expert-advice-and-essential-strategies/"><u>Aspiring Pro Modders: Expert Advice and Essential Strategies</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-free-to-fiscal-determining-view-counts-for-youtube-earnings-for-2024/"><u>From Free to Fiscal Determining View Counts for YouTube Earnings for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Infinix Note 30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-oppo-reno-8t-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Oppo Reno 8T ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/pioneering-hardware-analysis-with-toms-technology-blog/"><u>Pioneering Hardware Analysis with Tom's Technology Blog</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-the-ultimate-guide-to-the-latest-in-computer-components/"><u>Tom's Tech Review: The Ultimate Guide to the Latest in Computer Components</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-user-friendly-budget-optimizing-passport-photo-creators-for-2024/"><u>Top 10 User-Friendly, Budget-Optimizing Passport Photo Creators for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-the-secret-how-neweggs-innovative-pc-assembly-scheme-secures-scarce-parts/"><u>Unlocking the Secret: How Newegg's Innovative PC Assembly Scheme Secures Scarce Parts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cr2-movavi/"><u>オンラインでスムーズにCR2ファイルを変換! 評判のMovaviアプリ</u></a></li>
 </ul></div>
 

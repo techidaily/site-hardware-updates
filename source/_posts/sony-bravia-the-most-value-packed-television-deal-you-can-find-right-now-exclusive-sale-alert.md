@@ -1,7 +1,7 @@
 ---
 title: "Sony Bravia: The Most Value-Packed Television Deal You Can Find Right Now – Exclusive Sale Alert!"
-date: 2024-09-21T18:40:16.787Z
-updated: 2024-09-28T19:10:07.202Z
+date: 2024-10-02T20:45:08.319Z
+updated: 2024-10-04T00:31:09.701Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,16 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,20 +98,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-ultimate-choice-15-superior-action-recorders/"><u>[New] Ultimate Choice 15 Superior Action Recorders</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-secret-screensnappers-guide-discreet-techniques-for-photo-taking/"><u>[Updated] 2024 Approved Secret ScreenSnapper's Guide Discreet Techniques for Photo-Taking</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-achieving-professionalism-with-zoom-filter-applications/"><u>[Updated] Achieving Professionalism with Zoom Filter Applications</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-screen-capture-showdown-comparing-bests-in-town-obs-vs-bandicam/"><u>2024 Approved Screen Capture Showdown Comparing Bests in Town – OBS vs Bandicam</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boosting-computer-performance-a-comprehensive-tutorial-for-updating-intelamd-cpu-drivers-on-windows/"><u>Boosting Computer Performance: A Comprehensive Tutorial for Updating Intel/AMD CPU Drivers on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-canon-printer-drivers-supports-windows-10-8-and-7-mf6340mg340-series/"><u>Download and Install Canon Printer Drivers: Supports Windows 10, 8, & 7 - MF6340/MG340 Series</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/enhancing-video-aesthetics-incorporating-lc-and-bb-in-facebook-posts/"><u>Enhancing Video Aesthetics Incorporating LC and BB in Facebook Posts</u></a></li>
-<li><a href="https://common-error.techidaily.com/five-effective-methods-to-repair-your-windows-11-touchscreen-issues/"><u>Five Effective Methods to Repair Your Windows 11 Touchscreen Issues</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-and-installation-guide-for-dell-latitude-e6430-windows-drivers-problem-solved/"><u>Free Download and Installation Guide for Dell Latitude E6430 Windows Drivers - Problem Solved!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-realme-11x-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Realme 11X 5G Face Lock?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-kyocera-drivers-for-smooth-windows-1087-printing-experience/"><u>Install KYOCERA Drivers for Smooth Windows 10/8/7 Printing Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamlessly-update-wireless-network-adapters-in-windows-11-vs-windows-e-a-comprehensive-guide/"><u>Seamlessly Update Wireless Network Adapters in Windows 11 vs Windows E: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-comprehensive-walkthrough-on-setting-up-your-dell-mouse-driver/"><u>The Comprehensive Walkthrough on Setting up Your Dell Mouse Driver</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/the-hidden-pathway-to-logging-in-depth-whatsapp-chats/"><u>The Hidden Pathway to Logging In-Depth WhatsApp Chats</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-iphone-and-ipad-video-powerhouses-the-ultimate-list-of-10/"><u>[Updated] 2024 Approved IPhone & iPad Video Powerhouses The Ultimate List of 10</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-best-practices-in-youtube-keyword-selection/"><u>[Updated] In 2024, Best Practices in YouTube Keyword Selection</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/a-detailed-look-at-successful-valheim-sowing/"><u>A Detailed Look at Successful Valheim Sowing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ask-our-expert-live-qanda-session-on-amd-with-toms-hardware-april-6th/"><u>Ask Our Expert: Live Q&A Session on AMD with Tom's Hardware - April 6Th</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-exciting-launch-of-asuss-latest-rog-evangelion-series-featuring-asuka/"><u>Discover the Exciting Launch of ASUS's Latest ROG Evangelion Series Featuring Asuka</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-top-hardware-with-toms-gadget-guides/"><u>Discover Top Hardware with Tom's Gadget Guides</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-innovations-with-toms-technology-reviews-a-focus-on-cutting-edge-hardware/"><u>Exploring Innovations with Tom’s Technology Reviews: A Focus on Cutting-Edge Hardware</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ng-youtube-success-peak-audience-engagement-timing-for-2024/"><u>Hacking YouTube Success Peak Audience Engagement Timing for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-from-amateur-to-pro-excelling-at-instagram-editing/"><u>In 2024, From Amateur to Pro Excelling at Instagram Editing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-s-most-popular-video-editing-software-for-mac-users/"><u>In 2024, S Most Popular Video Editing Software for Mac Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-iphonepcs-best-video-conversion-software-8/"><u>In 2024, Unveiling iPhone/PC's Best Video Conversion Software #8</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-unveiling-the-latest-in-computer-components/"><u>Tom's Tech Insights: Unveiling the Latest in Computer Components</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-in-depth-guide-on-latest-computing-equipment/"><u>Tom's Tech Reviews: In-Depth Guide on Latest Computing Equipment</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/unleash-your-inner-documentarian-comprehensive-guide-for-recording-sims-4-gameplay-triumphantly/"><u>Unleash Your Inner Documentarian Comprehensive Guide for Recording Sims 4 Gameplay Triumphantly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-secrets-of-high-performance-computing-with-toms-reviews/"><u>Unveiling the Secrets of High-Performance Computing with Tom's Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/win-big-in-toms-hardware-skylake-pc-build-contest-a-complete-guide/"><u>Win Big in Tom's Hardware Skylake PC Build Contest – A Complete Guide</u></a></li>
 </ul></div>
 

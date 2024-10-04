@@ -1,7 +1,7 @@
 ---
 title: Buckling Refers to Sudden Deflection of Structural Members Under Compressive Stress, Which Can Lead to Progressive Collapse
-date: 2024-09-11T00:27:31.487Z
-updated: 2024-09-17T17:14:56.433Z
+date: 2024-09-29T16:06:07.063Z
+updated: 2024-10-03T20:55:17.506Z
 tags:
   - win11
   - win10
@@ -50,7 +50,21 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-318.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2 – Update GTX 1660 Ti drivers manually
 
@@ -74,6 +88,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-323-1024x393.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**DOWNLOAD** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-326.png)
@@ -81,6 +102,13 @@ OR
 4) Click DOWNLOAD again to start the download.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-327.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Double-click on the downloaded file and follow the on-screen instructions to finish the install.
 
@@ -107,12 +135,19 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-depth-analysis-top-car-traffic-cameras/"><u>[New] In-Depth Analysis Top Car Traffic Cameras</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-essential-steps-for-exceptional-photographic-assemblies-for-2024/"><u>[Updated] Essential Steps for Exceptional Photographic Assemblies for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/budget-friendly-chinese-innovations-in-vr/"><u>Budget-Friendly Chinese Innovations in VR</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhance-your-shots-top-paid-and-free-iphone-photography-apps/"><u>Enhance Your Shots Top Paid and Free iPhone Photography Apps</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/exploring-the-features-of-samsung-galaxy-tab-s6-in-depth-look-at-s-pen-and-dex-modes/"><u>Exploring the Features of Samsung Galaxy Tab S6 - In-Depth Look at S Pen & DeX Modes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-motorola-moto-g24-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Motorola Moto G24 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/mastering-social-media-marketing-2024s-top-fb-strategies/"><u>Mastering Social Media Marketing 2024'S Top FB Strategies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-through-innovations-at-toms-digital-workshop/"><u>Navigating Through Innovations at Tom's Digital Workshop</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-through-tech-trends-at-toms-electronic-review-center/"><u>Navigating Through Tech Trends at Tom's Electronic Review Center</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/next-gen-windows-computers-to-embrace-arm-processors-from-mediatek-as-qualcomms-exclusivity-term-ends/"><u>Next-Gen Windows Computers to Embrace Arm Processors From MediaTek as Qualcomm's Exclusivity Term Ends</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/pioneering-electronics-evaluation-at-toms-device-domain/"><u>Pioneering Electronics Evaluation at Tom's Device Domain</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/precision-tech-gear-your-guide-to-toms-hardware-essentials/"><u>Precision Tech Gear - Your Guide to Tom's Hardware Essentials</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Restarting a Stalled iGFX Module"
-date: 2024-09-13T00:28:16.425Z
-updated: 2024-09-18T01:26:58.696Z
+date: 2024-09-28T22:37:47.444Z
+updated: 2024-10-03T19:21:12.924Z
 tags:
   - win11
   - win10
@@ -53,6 +53,13 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 2: Manually update your
 
  Elgato HD60 driver
@@ -62,6 +69,20 @@ OR
 1. Visit the **[support website of Elgato](https://www.elgato.com/en/video-capture/support)**  , then find out the available drivers for your Elgato Video Capture.
 2. Click**Download Driver for Elgato Video Capture** to start the download process.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-11-04_11-52-38.jpg)
 3. Double-click on the downloaded file (**with .exe extension** ) and then follow the onscreen instructions to install it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-11-04_11-58-53.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Wait for the installation to complete. When it’s done, restart your PC for the changes to be fully implemented.
 
@@ -85,18 +106,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-quick-and-cool-minecraft-abodes-guide/"><u>[Updated] 2024 Approved Quick and Cool Minecraft Abodes Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-2023s-best-screen-recorder-discover-with-camstudio/"><u>[Updated] In 2024, 2023'S Best Screen Recorder? Discover with CamStudio</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-leveraging-synergies-how-to-choose-ideal-youtube-duosgroups/"><u>[Updated] In 2024, Leveraging Synergies How to Choose Ideal YouTube Duos/Groups</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-gameplay-with-best-gadgets/"><u>[Updated] Mastering Gameplay with Best Gadgets</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-sculpting-images-selecting-the-right-aspect-ratio/"><u>2024 Approved Sculpting Images Selecting the Right Aspect Ratio</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mx340-driver-installation-guide-for-modern-operating-systems-including-windows-11-8-and-7/"><u>Canon MX340 Driver Installation Guide for Modern Operating Systems Including Windows 11, 8 and 7</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/e-the-digital-dollar-with-youtube-an-effective-triple-step-method-for-income-analysis/"><u>Decode the Digital Dollar with YouTube An Effective Triple Step Method for Income Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-sm-bus-controller-driver-for-different-windows-operating-systems/"><u>Download the Latest SM Bus Controller Driver for Different Windows Operating Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-use-zoom-for-win11-pc-for-2024/"><u>How to Use Zoom for Win11 PC for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-updated-drivers-for-your-amd-radeon-hd-7870-on-windows-10/"><u>Installing Updated Drivers for Your AMD Radeon HD 7870 on Windows 10</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-speed-up-or-slow-down-top-10-free-video-editing-apps-for-mobile/"><u>Updated 2024 Approved Speed Up or Slow Down Top 10 Free Video Editing Apps for Mobile</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-to-enhanced-performance-free-download-of-updated-killer-network-drivers-for-all-win-users/"><u>Upgrade to Enhanced Performance: Free Download of Updated Killer Network Drivers for All Win Users!</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+</ul></div>
 

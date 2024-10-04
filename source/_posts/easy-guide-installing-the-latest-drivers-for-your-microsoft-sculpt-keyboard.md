@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Installing the Latest Drivers for Your Microsoft Sculpt Keyboard"
-date: 2024-09-10T16:28:53.460Z
-updated: 2024-09-17T19:40:21.921Z
+date: 2024-09-29T20:32:30.131Z
+updated: 2024-10-03T23:28:07.458Z
 tags:
   - win11
   - win10
@@ -42,6 +42,14 @@ thumbnail: https://thmb.techidaily.com/c54c6148123e508341809a9f8c11fb6ca2958cb78
 2. Scroll down to the Help list, then click   **Install and update**  \> **Download drivers and firmware for Surface**  . You’ll be redirected to a new web page.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap715.png)
 3. Scroll down until you see**Surface Book 2** on the table. Then click its drivers download link to continue.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap716.png)
 4. Click**Download** .  
 
@@ -54,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/c54c6148123e508341809a9f8c11fb6ca2958cb78
 **SurfaceBook2\_Win10\_17763\_1805009\_0.msi** . If you’re not sure about the version of Windows 10 you’ve installed, go to**Start** \>**Settings** \>**System** \>**About** to view **the OS Build number** .
 6. Double-click the downloaded file and follow the on-screen instructions to install its drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Download and update the drivers for your Surface Book 2 automatically
 
  If you don’t have the time, patience or computer skills to download and update the drivers for your Surface Book 2 manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .  You don’t need to know exactly what system your Surface Book 2 is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all** .
@@ -64,8 +79,23 @@ thumbnail: https://thmb.techidaily.com/c54c6148123e508341809a9f8c11fb6ca2958cb78
 2. Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap719.png)
 3. Click **Update**  next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap720.png)  
  You can do it for free if you like, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -87,12 +117,26 @@ thumbnail: https://thmb.techidaily.com/c54c6148123e508341809a9f8c11fb6ca2958cb78
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ynamic-slideshows-embedding-youtube-content/"><u>[New] Dynamic Slideshows Embedding YouTube Content</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-jujutsu-kaisens-impact-the-tiktok-challenge-perspective-for-2024/"><u>[New] Jujutsu Kaisen's Impact The TikTok Challenge Perspective for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-the-art-of-embedding-youtube-playlist-content/"><u>[New] Mastering the Art of Embedding YouTube Playlist Content</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-honor-x7b-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Honor X7b FRP Bypass Instantly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/approach-recall-the-classic-triad-for-diagnosis/"><u>Approach: Recall the Classic Triad for Diagnosis.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-hp-officejet-3830-drivers-available-for-windows-systems/"><u>Compatible HP OfficeJet 3830 Drivers Available for Windows Systems</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/essential-elements-for-implementing-channel-banners-in-games-for-2024/"><u>Essential Elements for Implementing Channel Banners in Games for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-tips-for-keeping-your-windows-1110-wi-fi-drivers-up-to-date/"><u>Essential Tips for Keeping Your Windows 11/10 Wi-Fi Drivers Up to Date</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-logitech-m525-mouse-drivers-and-installation-files-quick-guide/"><u>Free Logitech M525 Mouse Drivers & Installation Files: Quick Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-hp-deskjet-3755-all-in-one-printer-driver-download-for-windows-11-8-7/"><u>Latest HP DeskJet 3755 All-in-One Printer Driver Download for Windows 11, 8, 7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/masterful-crypto-communication-top-10-gpt-powered-conversation-starters/"><u>Masterful Crypto Communication: Top 10 GPT-Powered Conversation Starters</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mastering-linkedin-video-sharing-error-free-guide-to-uploading-content/"><u>Mastering LinkedIn Video Sharing: Error-Free Guide to Uploading Content</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-best-virtual-shops-for-cutting-edge-television-deals/"><u>Navigating the Best Virtual Shops for Cutting-Edge Television Deals</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/next-leap-forward-how-intel-prepares-three-versions-of-the-panther-lake-for-future-portable-computers-following-lunar-lakes-legacy/"><u>Next Leap Forward: How Intel Prepares Three Versions of the Panther Lake for Future Portable Computers Following Lunar Lake's Legacy</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revitalize-your-windows-10-hardware-performance-with-proven-driver-update-techniques/"><u>Revitalize Your Windows 10 Hardware Performance with Proven Driver Update Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-your-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Review - Your Guide to the Latest in Computer Hardware</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-rated-vlogging-gear-essentials-the-ultimate-movavi-vlogging-station-set/"><u>Top Rated Vlogging Gear Essentials: The Ultimate Movavi Vlogging Station Set</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-ranking-17-inch-laptop-picks/"><u>Top-Ranking 17-Inch Laptop Picks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-tech-secrets-toms-guide-to-computer-hardware/"><u>Unveiling Tech Secrets: Tom's Guide to Computer Hardware</u></a></li>
+</ul></div>
 

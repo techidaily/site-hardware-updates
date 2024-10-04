@@ -1,7 +1,7 @@
 ---
 title: "Breaking News: Over Half a Million Roku Logins Exposed in Recent Hack – Protect Your Streaming Services Now! | ZDNET"
-date: 2024-09-25T17:52:39.139Z
-updated: 2024-09-28T16:38:47.363Z
+date: 2024-10-02T19:50:41.819Z
+updated: 2024-10-03T23:45:56.627Z
 tags:
   - tvs
 categories:
@@ -87,10 +87,10 @@ If you want a more elaborate audio setup, you can connect your TV to [Echo speak
 I would much rather see multi-device support for generic Bluetooth speakers and soundbars, since users might have audio equipment from different brands rather than a house full of Amazon-branded devices. You can set up non-Amazon speakers and soundbars with the TV but won't get that whole-home audio experience, which is a shame. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alexa and Amazon features 
@@ -100,13 +100,6 @@ As it's meant to be the centerpiece of your Amazon or Alexa-centered smart home 
 Taylor Clemons/ZDNET
 
 If you decide to download Alexa Skills, you can play music, games, check the weather, get daily trivia, or even make and receive video calls. Skills are what really set the Omni QLED apart from similar smart TVs from competitors like TCL and Hisense. Without access to these features, the Omni QLED is reduced to a pretty bog-standard smart TV with better-than-expected picture and audio capabilities. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Gaming 
 
@@ -135,10 +128,10 @@ I usually play console games with a headset so I can better pick up on audio cue
 If you're in the market for a TV strictly for console gaming, I'd highly recommend the Omni QLED. Even at the full $800, it's still a solid option against competitors from brands like Sony and LG when it comes to picture quality and a smoother, more enjoyable gameplay experience. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Streaming 
@@ -175,6 +168,13 @@ Animation is another area where this TV comes into its own. Whether you're watch
 
 [Amazon Fire TV Omni QLED $690 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09N6J7KJD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 At the end of the day, the Amazon Fire TV Omni Series QLED is a run-of-the-mill smart, 4K TV that aims to provide a solid streaming experience for Amazon and Alexa users. If you're not an avid Alexa or Amazon fan, you can still get a lot of mileage out of this TV, especially if you're looking for a more affordable TV for console gaming. 
@@ -188,16 +188,10 @@ Many of the cool features are inextricably linked to Alexa functionality, so if 
 [Great for streaming Sony X77L The Sony X77L uses an LED panel to provide 4K resolution at a 60Hz refresh rate, which means that from sports and action movies to music videos and animated shorts, your media will have smooth motion, crisp details, and bold colors. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BZF2N3LM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)[Great budget option Amazon Fire TV 4-Series The Fire TV 4-Series from Amazon is a solid, budget-friendly option for anyone looking for a reliable second screen for their bedroom or affordable main TV. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-55-inch-4-series-4k-smart-tv%2Fdp%2FB0B3H6JPYZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -236,24 +230,19 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-premier-screen-grabbers-premium-video-selections/"><u>[New] 2024 Approved Premier Screen Grabbers Premium Video Selections</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-resolve-hdr-video-issue-clearing-blank-display/"><u>[New] 2024 Approved Resolve HDR Video Issue Clearing Blank Display</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-increase-followers-on-instagram-ultimate-guide-for-2024/"><u>[New] How to Increase Followers on Instagram - Ultimate Guide for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-from-calm-to-captivating-techniques-for-motion-blur-mastery/"><u>[New] In 2024, From Calm to Captivating Techniques for Motion Blur Mastery</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-your-pathway-to-profit-the-most-straightforward-top-10-business-channels-on-youtube-for-2024/"><u>[Updated] Your Pathway to Profit The Most Straightforward Top 10 Business Channels on YouTube for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-upgrade-for-optimal-functionality-steelseries-keyboard-engine-driver/"><u>Download & Upgrade for Optimal Functionality: SteelSeries Keyboard Engine Driver</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-hp-officejet-3830-windows-printer-drivers-free-and-fast/"><u>Download the HP Officejet 3830 Windows Printer Drivers - Free & Fast</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-way-to-obtain-and-implement-the-driver-software-for-hp-laserjet-pro-m402n-in-your-windows-computer/"><u>Easy Way to Obtain and Implement the Driver Software for HP LaserJet Pro M402n in Your Windows Computer</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expert-tips-to-boost-visual-impact-aes-10-text-sets/"><u>Expert Tips to Boost Visual Impact AE's 10 Text Sets</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fixing-logitech-f710-connectivity-issues-on-various-windows-platforms-including-windows-111087/"><u>Fixing Logitech F710 Connectivity Issues on Various Windows Platforms Including Windows 11/10/8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fresh-and-updated-comprehensive-guide-on-ch340ech340g-drivers-for-win10-systems/"><u>Fresh and Updated: Comprehensive Guide on CH340e/CH340g Drivers for Win10 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-corsair-mouse-driver-fast-easy-installation-steps/"><u>Get Your Corsair Mouse Driver - Fast, Easy Installation Steps!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722976997026-latest-dell-smbus-controller-firmware-enhancement-download-now/"><u>Latest Dell SMBus Controller Firmware Enhancement - Download Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-rtx-2080-graphic-cards-drivers-available-download-now-for-all-windows-platforms/"><u>Latest RTX 2080 Graphic Cards Drivers Available: Download Now for All Windows Platforms</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-lava-blaze-2-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Lava Blaze 2 5G Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-art-of-auditory-alchemy-does-the-magic-voice-modifier-work-seek-alternates/"><u>The Art of Auditory Alchemy Does the Magic Voice Modifier Work? Seek Alternates</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-iphone-multimedia-magic/"><u>The Ultimate Guide to iPhone Multimedia Magic</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-meizu-21-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-or-install-zebra-printer-drivers-for-windows-latest-versions-available-now/"><u>Update or Install Zebra Printer Drivers for Windows - Latest Versions Available Now!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-clearview-screenshot-perfect-windowsmac-imaging/"><u>[New] In 2024, ClearView Screenshot Perfect Windows/Mac Imaging</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-podcasters-guide-to-high-quality-home-recordings/"><u>[Updated] In 2024, The Podcaster’s Guide to High-Quality Home Recordings</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-lava-unlock-without-password-by-drfone-android/"><u>5 Solutions For Lava Unlock Without Password</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/data-revival-on-mac-platform-a-comprehensive-guide-to-top-8-applications/"><u>Data Revival on Mac Platform - A Comprehensive Guide to Top 8 Applications</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvdfab-video-converter-dvds/"><u>DVDFab Video Converter - 专为 DVDS 和视频转换的优化软件</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-toms-hardware-the-ultimate-guide-to-your-tech-needs/"><u>Exploring Tom's Hardware: The Ultimate Guide to Your Tech Needs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-infinix-hot-30-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Infinix Hot 30 5G online without jailbreak</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-digital-world-with-toms-hardware-analysis-and-guides/"><u>Navigating the Digital World with Tom's Hardware Analysis and Guides</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-the-error-code-0xc19001e1-on-your-windows-10-machine/"><u>Resolving the 'Error Code 0xC19001E1' On Your Windows 10 Machine</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-enabling-night-mode-when-windows-10s-night-light-is-unresponsive/"><u>Solution Steps for Enabling Night Mode when Windows 10'S Night Light Is Unresponsive</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-cyberpowerpc-amethyst-360s-a-blend-of-bold-style-vivid-rgb-lighting-and-elegant-wooden-touches-for-your-desktop/"><u>The CyberPowerPC Amethyst 360S: A Blend of Bold Style, Vivid RGB Lighting & Elegant Wooden Touches for Your Desktop</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-comprehensive-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Hub: Comprehensive Guide to the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-comprehensive-guides-on-latest-hardware/"><u>Tom's Tech Insights: Comprehensive Guides on Latest Hardware</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Ultimate Selection of 40-Inch TVs for 202^[N]: Expert Ratings and Reviews at ZDNET"
-date: 2024-09-22T18:19:11.151Z
-updated: 2024-09-28T16:53:38.153Z
+date: 2024-10-03T02:53:57.342Z
+updated: 2024-10-04T01:20:44.433Z
 tags:
   - tvs
 categories:
@@ -22,16 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -73,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -98,24 +92,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-navigate-picture-in-picture-settings-in-youtube-app-ios/"><u>[New] Navigate Picture-in-Picture Settings in YouTube App iOS</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-unleashing-potential-advanced-xbox-live-captures-for-2024/"><u>[New] Unleashing Potential Advanced Xbox Live Captures for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-discovering-the-stars-of-youtubes-best-music-videos-2023/"><u>2024 Approved Discovering the Stars of YouTube's Best Music Videos, 2023</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-maximizing-engagement-with-instagrams-ask-emoji/"><u>2024 Approved Maximizing Engagement with Instagram's Ask Emoji</u></a></li>
-<li><a href="https://win-blog.techidaily.com/bmp-format-transformation-for-free-using-movavis-web-service/"><u>BMP Format Transformation for Free Using Movavi's Web Service</u></a></li>
-<li><a href="https://win-forum.techidaily.com/digital-landscape-dominators-navigating-through-facebook-twitter-instagram-and-youtube-successfully/"><u>Digital Landscape Dominators: Navigating Through Facebook, Twitter, Instagram and YouTube Successfully</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-redmi-note-13-pro-5g-has-native-mkv-support-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Redmi Note 13 Pro 5G has native MKV support?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-asus-vg248qe-graphics-card-drivers-on-windows-simplified-steps/"><u>Download and Update Asus VG248QE Graphics Card Drivers on Windows - Simplified Steps!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-brother-l2690dw-printer-software-latest-drivers-and-updates/"><u>Download Brother L2690dw Printer Software: Latest Drivers and Updates</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/efficiently-fixing-the-driver-errors-of-logitech-headset-model-g930-on-pc-with-windows-os/"><u>Efficiently Fixing the Driver Errors of Logitech Headset Model G930 on PC with Windows OS</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/enhancing-engagement-the-top-20-best-tiktok-caption-approaches-for-2024/"><u>Enhancing Engagement The Top 20 Best TikTok Caption Approaches for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-hp-deskjet-2600-driver-installation-files-compatible-with-windows-7-8-and-10/"><u>Free HP DeskJet 2600 Driver Installation Files Compatible with Windows 7, 8 & 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-canon-imageclass-mg3420-driver-updates-now-compatible-with-windows-11-8-and-7-systems/"><u>Get Your Canon ImageClass MG3420 Driver Updates Now: Compatible with Windows 11, 8 & 7 Systems</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-infinix-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Infinix Phone? Unlock It Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-basic-printer-and-scanner-drivers-in-windows-11-step-by-step-tutorial/"><u>Install Basic Printer and Scanner Drivers in Windows 11: Step-by-Step Tutorial</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-logitechs-high-definition-webcam-c525-on-your-windows-system-step-by-step-guide/"><u>Install Logitech's High-Definition Webcam (C525) on Your Windows System: Step by Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-your-roccat-mousedeck-today-secure-download-options-below/"><u>Install Your Roccat Mousedeck Today – Secure Download Options Below</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigate-through-updating-your-pcs-webcam-drivers-on-a-windows-10-platform/"><u>Navigate Through Updating Your PC’s WebCam Drivers on a Windows 10 Platform</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-10-best-free-avi-concatenators-for-seamless-video-editing-for-2024/"><u>New The 10 Best Free AVI Concatenators for Seamless Video Editing for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-10-must-see-vr-videos-on-youtube-for-deep-immersion/"><u>[New] 2024 Approved 10 Must-See VR Videos on YouTube for Deep Immersion</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-av1-essentials-for-the-uninitiated/"><u>[New] AV1 Essentials For the Uninitiated</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-crafting-seamless-transitions-the-art-of-canon-time-lapses/"><u>[Updated] 2024 Approved Crafting Seamless Transitions The Art of Canon Time-Lapses</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-transform-your-video-chats-using-zooms-filters/"><u>[Updated] 2024 Approved Transform Your Video Chats Using Zoom's Filters</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-art-of-discrete-audio-erosion-in-audacity/"><u>[Updated] In 2024, The Art of Discrete Audio Erosion in Audacity</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-beats-now-at-your-fingertips-in-imovie-editing/"><u>2024 Approved YouTube Beats, Now at Your Fingertips in iMovie Editing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/easy-peasy-screen-transitions-for-filmmakers/"><u>Easy-Peasy Screen Transitions for Filmmakers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/feel-good-pop-anthems-by-microsoft-a-collection-specifically-chosen-for-their-positive-cheerful-melodies-and-lyrics-designed-to-boost-your-mood/"><u>Feel Good Pop Anthems by Microsoft – A Collection Specifically Chosen for Their Positive, Cheerful Melodies and Lyrics Designed to Boost Your Mood</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hp-3520-deskjet-printer-software-downloaded-here-link/"><u>Get Your HP 3520 Deskjet Printer Software Downloaded Here: [Link]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-install-and-upgrade-amd-radeon-rx-590-drivers-on-your-windows-pc/"><u>How to Easily Install and Upgrade AMD Radeon RX 590 Drivers on Your Windows PC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/how-to-improve-audio-clarity-disabling-enhancements-on-windows-10-systems/"><u>How To Improve Audio Clarity: Disabling Enhancements on Windows 10 Systems</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-13-mini-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 13 mini Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975047362-install-epson-ds-530-printer-drivers-on-your-windows-10-x64-pc-get-them-here/"><u>Install Epson DS-^530 Printer Drivers on Your Windows 10 (X64) PC - Get Them Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-logitech-g920-support-software-for-win-111087-free-download/"><u>Latest Logitech G920 Support Software for Win 11/10/8/7 - Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/obtain-official-drivers-for-ricoh-mp-c3003-all-in-one-printer/"><u>Obtain Official Drivers for Ricoh MP C3003 All-in-One Printer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-installation-of-hp-laserjet-5200-printer-driver-on-recent-windows-versions/"><u>Step-by-Step Installation of HP LaserJet 5200 Printer Driver on Recent Windows Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-dell-driver-packs-for-seamless-integration-with-windows-7/"><u>Updated Dell Driver Packs for Seamless Integration with Windows 7</u></a></li>
 </ul></div>
 

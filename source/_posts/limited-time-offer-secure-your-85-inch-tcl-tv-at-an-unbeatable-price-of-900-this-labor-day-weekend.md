@@ -1,7 +1,7 @@
 ---
 title: "Limited Time Offer: Secure Your 85-Inch TCL TV at an Unbeatable Price of $900 This Labor Day Weekend!"
-date: 2024-09-22T17:49:12.075Z
-updated: 2024-09-28T17:43:32.347Z
+date: 2024-10-02T19:15:04.250Z
+updated: 2024-10-03T16:22:41.291Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,24 +92,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-cutting-edge-strategies-for-flawless-custom-shorts-coverage/"><u>[Updated] In 2024, Cutting-Edge Strategies for Flawless Custom Shorts Coverage</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-storyline-secret-to-youtube-triumph/"><u>[Updated] In 2024, The Storyline Secret to YouTube Triumph</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-enhance-your-watch-experience-with-faster-instagram-videos/"><u>2024 Approved Enhance Your Watch Experience with Faster Instagram Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/branding-excellence-through-joint-video-campaigns-with-youtube-for-2024/"><u>Branding Excellence Through Joint Video Campaigns with YouTube for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-new-intel-usb-30-driver-package-supporting-windows-11-systems/"><u>Download the New Intel USB 3.0 Driver Package Supporting Windows 11 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dts-surround-sound-problem-solved-fixes-for-device-recognition-issues/"><u>DTS Surround Sound Problem Solved: Fixes for Device Recognition Issues</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-access-to-hps-professional-color-laser-jet-m452dn-printing-drivers/"><u>Easy Access to HP's Professional Color Laser Jet M452dn Printing Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-fresh-updates-for-your-wacom-digital-drawing-board-download-latest-cintiq-13hd-driver-now/"><u>Get Fresh Updates for Your Wacom Digital Drawing Board: Download Latest Cintiq 13HD Driver Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-version-of-the-epson-xp-420-driver-step-by-step-guide/"><u>How To Get The Newest Version Of The Epson XP 420 Driver - Step By Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-best-asus-mousepad-driver-on-your-windows-device/"><u>How to Install the Best ASUS Mousepad Driver on Your Windows Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-newest-amd-rx-6800-graphics-driver-on-windows-operating-systems-111087/"><u>How to Install the Newest AMD RX 6800 Graphics Driver on Windows Operating Systems (11/10/8/7)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-s17t-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo S17t</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722977378260-maintains-a-uniform-temperature-gradient-for-better-heat-transfer-performance/"><u>Maintains a Uniform Temperature Gradient for Better Heat Transfer Performance</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-discovering-your-ideal-audio-format-a-step-by-step-strategy/"><u>New In 2024, Discovering Your Ideal Audio Format A Step-by-Step Strategy</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pursuing-peak-performance-selecting-premium-drone-motors/"><u>Pursuing Peak Performance Selecting Premium Drone Motors</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-finding-and-installing-lenovo-t430-drivers-for-multiple-windows-versions/"><u>Step-by-Step: Finding and Installing Lenovo T430 Drivers for Multiple Windows Versions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/storytelling-mastery-unleashed-harnessing-the-power-of-chatgpt-for-captivating-narratives/"><u>Storytelling Mastery Unleashed: Harnessing the Power of ChatGPT for Captivating Narratives</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-motorola-moto-g84-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Motorola Moto G84 5G Device</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722973397434-upgrade-your-surface-book-drives-easy-downloads-included/"><u>Upgrade Your Surface Book Drives Easy - Downloads Included</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-break-the-1k-barrier-stream-youtube-successfully-from-a-phone/"><u>[New] 2024 Approved Break the 1K Barrier Stream Youtube Successfully From a Phone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-reel-in-viewers-mastery-of-live-360-video-broadcasts-on-youtube/"><u>[New] In 2024, Reel In Viewers Mastery of Live 360 Video Broadcasts on Youtube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-how-to-download-twitter-videos-to-your-android-phone-for-2024/"><u>[Updated] How to Download Twitter Videos to Your Android Phone for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-mastery-over-airwaves-recording-techniques-for-live-sounds/"><u>[Updated] In 2024, Mastery Over Airwaves Recording Techniques for Live Sounds</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/apewav/"><u>APEファイルからWAVへの容易で成功率高い変換手法トップ２</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-unveils-new-gaming-mouse-rog-keris-ii-ace-a-lightweight-rivals-to-the-iconic-deathadder-v3-pro/"><u>Asus Unveils New Gaming Mouse - ROG Keris II Ace, a Lightweight Rivals to the Iconic DeathAdder V3 Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discovering-the-digital-core-with-toms-computer-components-guides/"><u>Discovering the Digital Core with Tom’s Computer Components Guides</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-toms-gear-roundup-in-depth-reviews-of-cutting-edge-hardware/"><u>Exploring Tom's Gear Roundup: In-Depth Reviews of Cutting-Edge Hardware</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-debut-visual-capturing-analysis/"><u>In 2024, Debut Visual Capturing Analysis</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-7-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/innovative-equipment-evaluations-by-tom-top-rated-hardware-analysis/"><u>Innovative Equipment Evaluations by Tom - Top-Rated Hardware Analysis</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/mastering-the-art-of-adding-mov-files-a-step-by-step-guide-for-cyberlink-powerdirector/"><u>Mastering the Art of Adding MOV Files: A Step-by-Step Guide for CyberLink PowerDirector</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/reinventing-sound-how-creatives-x-fi-transforms-after-nearly-two-decades-with-cutting-edge-ai-ear-mapping-innovation/"><u>Reinventing Sound: How Creative's X-Fi Transforms After Nearly Two Decades with Cutting-Edge AI Ear Mapping Innovation</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-hardware-drivers-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated hardware drivers on Windows 11 & 10</u></a></li>
 </ul></div>
 

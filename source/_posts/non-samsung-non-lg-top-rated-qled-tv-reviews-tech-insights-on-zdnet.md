@@ -1,7 +1,7 @@
 ---
 title: Non-Samsung, Non-LG Top Rated QLED TV Reviews | Tech Insights on ZDNet
-date: 2024-09-21T18:56:49.525Z
-updated: 2024-09-28T16:43:18.754Z
+date: 2024-09-30T01:04:00.148Z
+updated: 2024-10-03T17:40:47.411Z
 tags:
   - tvs
 categories:
@@ -58,13 +58,6 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 
 As great as the new Omni Series QLED models are, price is a big sticking point for me, especially since I personally don't use Alexa or want an Amazon-centric streaming experience. However, Amazon is currently running a sale on the [65-inch Omni Series QLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-65-inch-omni-qled-series-smart-tv%2Fdp%2FB0BJMGB9RN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1), bringing the price down to $690 -- which is much more in line with what I think this TV should be retailing for -- making it a great, budget-friendly option if you're looking to upgrade. 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Picture and sound 
 
 I have to admit that I wasn't expecting to be as impressed as I was with the picture and sound quality of the Omni Series QLED. Since Amazon is so new to manufacturing, I was expecting a bare-bones TV with basic features and passable picture and sound. And I am very glad to be proven wrong. 
@@ -94,10 +87,10 @@ If you want a more elaborate audio setup, you can connect your TV to [Echo speak
 I would much rather see multi-device support for generic Bluetooth speakers and soundbars, since users might have audio equipment from different brands rather than a house full of Amazon-branded devices. You can set up non-Amazon speakers and soundbars with the TV but won't get that whole-home audio experience, which is a shame. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alexa and Amazon features 
@@ -107,13 +100,6 @@ As it's meant to be the centerpiece of your Amazon or Alexa-centered smart home 
 Taylor Clemons/ZDNET
 
 If you decide to download Alexa Skills, you can play music, games, check the weather, get daily trivia, or even make and receive video calls. Skills are what really set the Omni QLED apart from similar smart TVs from competitors like TCL and Hisense. Without access to these features, the Omni QLED is reduced to a pretty bog-standard smart TV with better-than-expected picture and audio capabilities. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Gaming 
 
@@ -140,6 +126,13 @@ Taylor Clemons/ZDNET
 I usually play console games with a headset so I can better pick up on audio cues and dialogue, but the integrated speakers of the Omni QLED provide loud and clear audio that doesn't make you miss out on fine details like wind through trees, subtle music, and quiet character conversations. 
 
 If you're in the market for a TV strictly for console gaming, I'd highly recommend the Omni QLED. Even at the full $800, it's still a solid option against competitors from brands like Sony and LG when it comes to picture quality and a smoother, more enjoyable gameplay experience. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Streaming 
 
@@ -176,10 +169,10 @@ Animation is another area where this TV comes into its own. Whether you're watch
 [Amazon Fire TV Omni QLED $690 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09N6J7KJD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Bottom line 
@@ -189,6 +182,13 @@ At the end of the day, the Amazon Fire TV Omni Series QLED is a run-of-the-mill 
 The dedicated gaming picture mode lets colors and details pop while the integrated speakers provide clean, clear audio. And even older cartoons and films look amazing with upscaled 4K resolution, letting you revisit childhood favorites.
 
 Many of the cool features are inextricably linked to Alexa functionality, so if you want to take full advantage of the Omni QLED, you'll have to invest in an Echo device and set up an Alexa account. And this reason alone is why I think the $800 price tag is just a touch on the high side for this TV, since without Alexa Skills, it's just a basic QLED model. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider 
 
@@ -230,20 +230,19 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-strategic-approach-to-crafting-youtube-content-headlines/"><u>[Updated] Strategic Approach to Crafting YouTube Content Headlines</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-ultimate-earnings-prediction-top-6-tiktok-tools/"><u>[Updated] Ultimate Earnings Prediction Top 6 TikTok Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-installing-hp-deskjet-inkjet-printer-drivers-for-windows-10-devices/"><u>Easy Guide to Downloading and Installing HP Deskjet Inkjet Printer Drivers for Windows 10 Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-downloading-the-right-samsung-adb-driver/"><u>Easy Steps to Downloading the Right Samsung ADB Driver</u></a></li>
-<li><a href="https://fox-that.techidaily.com/expert-advice-utilizing-apples-online-tools-for-iphone-hardware-check-ups/"><u>Expert Advice: Utilizing Apple's Online Tools for iPhone Hardware Check-Ups</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721445528277-fix-the-mystery-of-asymmetrical-audio-on-your-airpods-with-these-4-solutions/"><u>Fix the Mystery of Asymmetrical Audio on Your AirPods with These 4 Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-corsair-keyboard-up-and-running-on-windows-with-these-safe-driver-downloads/"><u>Get Your Corsair Keyboard Up & Running on Windows with These Safe Driver Downloads</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-officejet-inkjet-n-pro-4650-download-the-latest-drivers-specifically-tailored-for-microsoft-windows-systems/"><u>HP Officejet Inkjet N Pro 4650: Download the Latest Drivers Specifically Tailored for Microsoft Windows Systems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-narzo-60x-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Realme Narzo 60x 5G Phone without Google Account?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-the-best-compatible-drivers-for-your-epson-et-2750-printer-on-windows-108x-free-download-options/"><u>Install the Best Compatible Drivers for Your Epson ET-2750 Printer on Windows 10/8.x: Free Download Options</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/optimize-your-gameplay-enhancing-performance-with-an-updated-asus-radeon-rx-970-graphics-card/"><u>Optimize Your Gameplay: Enhancing Performance with an Updated ASUS Radeon RX 970 Graphics Card</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/reviving-memories-with-instagram-reposts/"><u>Reviving Memories with Instagram Reposts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722977311069-streamlined-access-to-the-zebra-gk420d-interface-start-downloading-today/"><u>Streamlined Access to the Zebra GK420D Interface - Start Downloading Today!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-enhance-video-popularity-with-strategic-timestamps-for-2024/"><u>[Updated] Enhance Video Popularity with Strategic Timestamps for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypass-locked-steam-nine-effective-strategies-explored/"><u>Bypass Locked Steam: Nine Effective Strategies Explored</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/comparing-googles-flat-cube-and-samsungs-headset/"><u>Comparing Google's Flat Cube and Samsung's Headset</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-tutorial-how-to-fetch-and-install-ralink-device-drivers-in-windows/"><u>Comprehensive Tutorial: How to Fetch and Install Ralink Device Drivers in Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-windows-11-ambiance-with-wallpaper-ideas/"><u>Enhancing Windows 11 Ambiance with Wallpaper Ideas</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/exclusive-winx-pro-dvd-ripping-software-legitimate-activation-code-no-trial-required/"><u>Exclusive WinX Pro DVD Ripping Software Legitimate Activation Code , No Trial Required!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-thrustmaster-t300-driver-installation-guide-compatible-with-windows-11-and-10/"><u>Free Thrustmaster T300 Driver Installation Guide: Compatible with Windows 11 & 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-your-sandisk-ssd-drivers-quickly-and-easily-complete-tutorial/"><u>How to Install Your Sandisk SSD Drivers Quickly and Easily – Complete Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-quickly-and-successfully-download-new-amd-graphics-drivers/"><u>How to Quickly and Successfully Download New AMD Graphics Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-steps-when-windows-fails-to-setup-essential-system-parts/"><u>Resolved: Troubleshooting Steps When Windows Fails to Setup Essential System Parts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-process-to-install-or-reinstall-intel-uhd-graphics-driver-on-windows-11/"><u>Step-by-Step Process to Install or Reinstall Intel UHD Graphics Driver on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-fixing-compatibility-error-with-startech-drivers-in-windows-1187-systems/"><u>Troubleshooting and Fixing Compatibility Error with StarTech Drivers in Windows 11/8/7 Systems</u></a></li>
+<li><a href="https://techidaily.com/update-hardware-drivers-with-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Update hardware drivers with Device Manager in Windows 11/10/7</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-your-drivers-in-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated your drivers in Windows 11/10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top Picks for Premium TV Stands with Built-In Media Units - Fireplaces Edition, 2024 [ZDNet Review]
-date: 2024-09-24T16:11:12.275Z
-updated: 2024-09-28T18:24:29.095Z
+date: 2024-10-03T01:06:31.944Z
+updated: 2024-10-03T23:10:16.703Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,24 +92,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-tips-and-tricks-mastering-voiceover-on-tiktok/"><u>[New] 2024 Approved Tips and Tricks Mastering Voiceover on TikTok</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-compilation-of-hd-android-video-apps/"><u>[New] The Ultimate Compilation of Hd Android Video Apps</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-palettes-journey-learning-the-science-of-colors/"><u>[Updated] A Palette's Journey Learning the Science of Colors</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-elevating-engagement-crafting-high-roi-animated-campaigns-on-facebook/"><u>[Updated] Elevating Engagement Crafting High-ROI Animated Campaigns on Facebook</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-pro-level-cams-for-aspiring-youtube-creators/"><u>[Updated] Pro-Level Cams for Aspiring YouTube Creators</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-in-depth-walkthrough-of-recording-gameplay-on-apple-gaming-systems/"><u>2024 Approved In-Depth Walkthrough of Recording Gameplay on Apple Gaming Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/accurate-method-to-install-new-drivers-on-a-dell-webcam/"><u>Accurate Method to Install New Drivers on a Dell Webcam</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-official-logitech-g29-steering-wheel-drivers-for-windows-users/"><u>Download the Official Logitech G29 Steering Wheel Drivers for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-download-updated-nvidia-1080-graphics-drivers-for-windows-10/"><u>Easy Download: Updated NVIDIA 1080 Graphics Drivers for Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722974610369-effortlessly-enhance-your-system-with-new-intel-iris-plus-graphics-640-drivers-easy-installation-steps-inside/"><u>Effortlessly Enhance Your System with New Intel Iris + Graphics 640 Drivers - Easy Installation Steps Inside</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/freshly-updated-canon-ip110-printer-drivers-ideal-for-windows-11-10-8-and-7-users/"><u>Freshly Updated Canon iP110 Printer Drivers: Ideal for Windows 11, 10, 8 & 7 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-geforce-rtx-3090-driver-for-your-windows-pc-1187-secure-your-download-now/"><u>Get the Newest GeForce RTX 3090 Driver for Your Windows PC (11/8/7): Secure Your Download Now</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Xiaomi Civi 3 Disney 100th Anniversary Edition?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-redmi-a2-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Xiaomi Redmi A2 Lock Screen Password?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instant-access-to-brother-mfc-9130cw-driver-installation-files/"><u>Instant Access to Brother MFC-9130CW Driver Installation Files</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/logitech-rx250-windows-7810-mouse-drivers-how-to-find-and-install-the-latest-software-start-here/"><u>Logitech RX250 Windows 7/8/10 Mouse Drivers: How to Find and Install the Latest Software – Start Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-setup-guide-installing-the-surface-dock-faultless-connection/"><u>Quick Setup Guide: Installing the Surface Dock - Faultless Connection</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-updating-acer-predator-xb271h-graphics-and-sound-drivers/"><u>Step-by-Step Guide to Updating Acer Predator XB271H Graphics & Sound Drivers</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-guide-to-highlight-video-editors-desktop-and-mobile-picks-for-2024/"><u>Updated The Ultimate Guide to Highlight Video Editors Desktop and Mobile Picks for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellent-top-5-apps-for-iphone-auditory-delight/"><u>[Updated] Excellent Top 5 Apps for iPhone Auditory Delight</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-premier-select-mac-dvd-editors/"><u>[Updated] Premier Select Mac DVD Editors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-technical-dive-into-gesture-and-movement-sensors/"><u>2024 Approved A Technical Dive Into Gesture and Movement Sensors</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-funimate-unlocked-a-complete-experience/"><u>2024 Approved Funimate Unlocked A Complete Experience</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-14-pro-max-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password On iPhone 14 Pro Max</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-your-pc-now-secure-the-latest-in-gaming-tech-with-amds-bundle-ryzen-cpus-7000-and-radeon-gpus-7000-claim-up-to-two-complimentary-games-ryzen-9000-not-55/"><u>Boost Your PC Now! Secure the Latest in Gaming Tech with AMD's Bundle: Ryzen CPUs 7000 & Radeon GPUs 7000 - Claim Up to Two Complimentary Games, Ryzen 9000 Not Included</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mg2520-software-updates-and-download-instructions-for-windows-users/"><u>Canon MG2520 Software Updates and Download Instructions for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-drivers-for-your-hp-elitebook-x360-model-1030-g2/"><u>Download Drivers for Your HP EliteBook X360 - Model 1030 G2</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-k350-keyboard-up-and-running-drivers-downloaded-here/"><u>Get Your Logitech K350 Keyboard Up and Running: Drivers Downloaded Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-nvidias-latest-rtx-3090-graphics-card-drivers-on-windows-versions-11-8-and-7/"><u>How to Install NVIDIA's Latest RTX 3090 Graphics Card Drivers on Windows: Versions 11, 8 & 7</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-samsung-galaxy-s23-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Samsung Galaxy S23 is off? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-motorola-moto-g24-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Motorola Moto G24 Phone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keep-your-netgear-wi-fi-router-updated-with-the-latest-adapter-drivers-download-now/"><u>Keep Your NETGEAR Wi-Fi Router Updated with the Latest Adapter Drivers – Download Now!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/minds-on-trial-best-general-knowledge-channels/"><u>Minds on Trial Best General Knowledge Channels</u></a></li>
+<li><a href="https://win-answers.techidaily.com/simple-solution-how-to-stop-outriders-from-continuously-freezing/"><u>Simple Solution: How to Stop Outriders From Continuously Freezing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-hardware-picks-curated-by-tom-for-savvy-consumers/"><u>Top Hardware Picks Curated by Tom for Savvy Consumers</u></a></li>
 </ul></div>
 

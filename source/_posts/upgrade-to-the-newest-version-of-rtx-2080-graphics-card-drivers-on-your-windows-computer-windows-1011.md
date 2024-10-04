@@ -1,7 +1,7 @@
 ---
 title: Upgrade to the Newest Version of RTX 2080 Graphics Card Drivers on Your Windows Computer (Windows 10/11)
-date: 2024-09-22T00:08:34.302Z
-updated: 2024-09-22T18:54:26.172Z
+date: 2024-10-03T00:51:31.443Z
+updated: 2024-10-03T21:50:29.445Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1: Install the driver automatically (Recommended)
 
  Installing drivers manually takes time and computer skills. If you’re not comfortable playing with device drivers, we recommend using **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It’s a tool that detects, downloads and installs any driver updates your computer needs.
@@ -41,8 +48,22 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-de-update-all-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -57,6 +78,13 @@ You can use the following steps to install the graphics driver manually:
 1. Go to the NVIDIA driver download page. Then search for your GPU.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-manually-1.jpg)
 2. At the search result page, click**DOWNLOAD** to download the driver installer. Then open the installer and follow the on-screen instructions to install or update the driver.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-manually-2.jpg)
 
@@ -79,12 +107,18 @@ You can use the following steps to install the graphics driver manually:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-apples-m1-expedition-the-new-era-of-computing/"><u>[New] 2024 Approved Apple's M1 Expedition The New Era of Computing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-overcoming-challenges-in-ppt-screen-capture/"><u>[Updated] In 2024, Overcoming Challenges in PPT Screen Capture</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-gpio-driver-download-get-your-latest-version-now/"><u>AMD GPIO Driver Download – Get Your Latest Version Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-tutorial-on-updating-your-serial-port-devices-drivers-for-usb-conversion/"><u>Comprehensive Tutorial on Updating Your Serial Port Device's Drivers for USB Conversion</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-hp-officejet-pro-8715-printer-drivers-for-windows-11-10-and-8/"><u>Download the Latest HP OfficeJet Pro 8715 Printer Drivers for Windows 11, 10 & 8</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-back-to-binge-watching-solved-issues-of-netflix-not-playing-properly-on-xbox/"><u>Get Back to Binge-Watching: Solved Issues of Netflix Not Playing Properly on Xbox</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-canon-ip110-printer-up-and-running-on-windows-drivers-for-win-11-10-8-and-7-available-now/"><u>Get Your Canon iP110 Printer Up and Running on Windows: Drivers for Win 11, 10, 8 & 7 Available Now!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-drivers-free-downloads-for-win-1078-users/"><u>Latest NVIDIA Drivers: Free Downloads for Win 10/7/8 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-geforce-gtx-1650-supers-drivers-installation-and-updates-for-windows-1110-users/"><u>Latest NVIDIA GeForce GTX 1650 Supers Drivers: Installation & Updates for Windows 11/10 Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-frame-rate-drops-in-minecraft-on-your-powerhouse-pc-a-modern-approach-learn-from-2vectras-best-practices/"><u>Overcoming Frame Rate Drops in Minecraft on Your Powerhouse PC: A Modern Approach - Learn From 2Vectra's Best Practices</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top Rated Smart Televisions - Expert Reviews & Comparisons | ZDNet
-date: 2024-09-21T16:05:40.452Z
-updated: 2024-09-28T19:08:28.840Z
+date: 2024-09-28T20:45:05.433Z
+updated: 2024-10-03T23:30:30.523Z
 tags:
   - tvs
 categories:
@@ -58,6 +58,13 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 
 As great as the new Omni Series QLED models are, price is a big sticking point for me, especially since I personally don't use Alexa or want an Amazon-centric streaming experience. However, Amazon is currently running a sale on the [65-inch Omni Series QLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-65-inch-omni-qled-series-smart-tv%2Fdp%2FB0BJMGB9RN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1), bringing the price down to $690 -- which is much more in line with what I think this TV should be retailing for -- making it a great, budget-friendly option if you're looking to upgrade. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Picture and sound 
 
 I have to admit that I wasn't expecting to be as impressed as I was with the picture and sound quality of the Omni Series QLED. Since Amazon is so new to manufacturing, I was expecting a bare-bones TV with basic features and passable picture and sound. And I am very glad to be proven wrong. 
@@ -87,16 +94,16 @@ If you want a more elaborate audio setup, you can connect your TV to [Echo speak
 I would much rather see multi-device support for generic Bluetooth speakers and soundbars, since users might have audio equipment from different brands rather than a house full of Amazon-branded devices. You can set up non-Amazon speakers and soundbars with the TV but won't get that whole-home audio experience, which is a shame. 
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alexa and Amazon features 
@@ -106,13 +113,6 @@ As it's meant to be the centerpiece of your Amazon or Alexa-centered smart home 
 Taylor Clemons/ZDNET
 
 If you decide to download Alexa Skills, you can play music, games, check the weather, get daily trivia, or even make and receive video calls. Skills are what really set the Omni QLED apart from similar smart TVs from competitors like TCL and Hisense. Without access to these features, the Omni QLED is reduced to a pretty bog-standard smart TV with better-than-expected picture and audio capabilities. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Gaming 
 
@@ -141,10 +141,10 @@ I usually play console games with a headset so I can better pick up on audio cue
 If you're in the market for a TV strictly for console gaming, I'd highly recommend the Omni QLED. Even at the full $800, it's still a solid option against competitors from brands like Sony and LG when it comes to picture quality and a smoother, more enjoyable gameplay experience. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Streaming 
@@ -190,10 +190,10 @@ The dedicated gaming picture mode lets colors and details pop while the integrat
 Many of the cool features are inextricably linked to Alexa functionality, so if you want to take full advantage of the Omni QLED, you'll have to invest in an Echo device and set up an Alexa account. And this reason alone is why I think the $800 price tag is just a touch on the high side for this TV, since without Alexa Skills, it's just a basic QLED model. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider 
@@ -236,22 +236,22 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/get-now-step-by-step-tutorial-for-qualcomm-atheros-ar3011-bluetooth-30-driver-setup/"><u>[Get Now] Step-by-Step Tutorial for Qualcomm Atheros AR3011 Bluetooth 3.0 Driver Setup</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-sidestep-the-norm-alternatives-to-vidma-screen-record-for-2024/"><u>[New] Sidestep the Norm Alternatives to Vidma Screen Record for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-macos-sierra-enhancement-guide-step-by-step-upgrades/"><u>[Updated] 2024 Approved MacOS Sierra Enhancement Guide Step-by-Step Upgrades</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-windows-11-potential-latest-apps-and-games/"><u>2024 Approved Unleash Windows 11 Potential Latest Apps & Games</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722970964289-arbitration-proceedings-are-private-and-confidential-unlike-court-cases-they-do-not-become-part-of-the-public-record/"><u>Arbitration Proceedings Are Private and Confidential; Unlike Court Cases, They Do Not Become Part of the Public Record</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-look-inside-apples-worldwide-developers-conference-and-their-advancements-in-ai/"><u>Comprehensive Look Inside Apple's Worldwide Developers Conference and Their Advancements in AI</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-newest-brush-pen-pro-software-version-from-wacom/"><u>Download & Install Newest Brush Pen Pro Software Version From Wacom</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fix-and-improve-your-canon-mx492-printer-official-drivers-download-and-update-for-windows-users/"><u>Fix and Improve Your Canon MX492 Printer: Official Drivers Download & Update for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-logitech-rx250-mouse-software-and-drivers-for-windows-7-8-and-10/"><u>Free Logitech RX250 Mouse Software & Drivers for Windows 7, 8 & 10</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-remove-apple-iphone-12-pro-max-sim-lock-by-drfone-ios/"><u>How to Remove Apple iPhone 12 Pro Max SIM Lock?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-xiaomi-redmi-note-13-pro-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Xiaomi Redmi Note 13 Pro 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-fresh-driver-updates-for-brother-hl-2240-series-enhance-your-windows-printing-experience/"><u>Install Fresh Driver Updates for Brother HL-2240 Series - Enhance Your Windows Printing Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-access-free-downloads-for-arduino-mega-2560-board-drivers/"><u>Quick Access! Free Downloads for Arduino Mega 2560 Board Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/simple-guide-installing-the-usb-to-serial-converter-drivers-on-windows/"><u>Simple Guide: Installing the USB to Serial Converter Drivers on Windows</u></a></li>
-<li><a href="https://fox-info.techidaily.com/the-art-of-digital-cinema-a-detailed-analysis-of-lgs-31mu97-b-monitor/"><u>The Art of Digital Cinema - A Detailed Analysis of LG’s 31MU97-B Monitor</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/transform-your-smartphone-photography-with-iphones-hdr/"><u>Transform Your Smartphone Photography with iPhone’s HDR</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-guide-best-apps-turning-pics-into-videos/"><u>Ultimate Guide Best Apps Turning Pics Into Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-steam-games-have-no-sound-quickly-and-easily/"><u>[FIXED] Steam Games Have No Sound | Quickly & Easily</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-getting-acquainted-the-basics-of-ez-grabber-utilization/"><u>[New] 2024 Approved Getting Acquainted The Basics of EZ Grabber Utilization</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-win-10-wisdom-key-tips-and-tricks-guide/"><u>[Updated] 2024 Approved Win 10 Wisdom Key Tips and Tricks Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-social-avatar-customization-concocting-caricatured-images-for-2024/"><u>[Updated] Social Avatar Customization Concocting Caricatured Images for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-value-picks-raspberry-pi-bargains-for-this-year/"><u>Best Value Picks: Raspberry Pi Bargains for This Year</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-dawn-of-artificocal-intelligence/"><u>Decoding the Dawn of Artificocal Intelligence</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-hardware-analysis-by-toms-technical-hub/"><u>Expert Hardware Analysis by Tom's Technical Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-insights-into-hardware-by-toms-gadget-journal/"><u>Expert Insights Into Hardware by Tom's Gadget Journal</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-find-x6-pro-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo Find X6 Pro FRP</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-c110-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Nokia C110 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/incorporate-speaking-abilities-into-your-raspberry-pi-venture-using-textymcspeechy/"><u>Incorporate Speaking Abilities Into Your Raspberry Pi Venture Using TextyMcSpeechy</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/master-looped-videos-for-maximum-instagram-impact/"><u>Master Looped Videos for Maximum Instagram Impact</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/pocket-z-redefines-retro-tech-with-raspberry-pi-zero-2w-core-a-modern-take-on-the-iconic-pocket-pc-form-factor/"><u>Pocket Z Redefines Retro Tech with Raspberry Pi Zero 2W Core - A Modern Take on the Iconic Pocket PC Form Factor</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-tutorial-on-seamless-movie-transfers-between-ipad-and-mac-devices/"><u>Step-by-Step Tutorial on Seamless Movie Transfers Between iPad and Mac Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-computer-review-a-comprehensive-guide/"><u>Tom's Computer Review: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-hardware/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-your-ultimate-guide-to-computer-hardware/"><u>Tom's Tech Review: Your Ultimate Guide to Computer Hardware</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How the Sony A8nO TV's Smart Upscaling Technology Delivers Stunning HD Visuals for Under 2 Grand | CNET Insider
-date: 2024-09-26T19:08:03.278Z
-updated: 2024-09-28T17:53:30.769Z
+date: 2024-09-26T23:10:13.462Z
+updated: 2024-10-03T19:13:40.875Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,16 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +61,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,16 +105,21 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-depth-guide-to-maximizing-your-earnings-with-youtube-and-adsense/"><u>[New] In-Depth Guide to Maximizing Your Earnings with YouTube & AdSense</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-beijings-glacial-gala-the-olympics-of-winter-2022/"><u>[Updated] Beijing's Glacial Gala The Olympics of Winter, 2022</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-perfecting-stability-a-no-tripod-guide/"><u>[Updated] In 2024, Perfecting Stability A No-Tripod Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-dialogue-in-writing-scripts/"><u>[Updated] The Art of Dialogue in Writing Scripts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-detailed-walkthrough-of-androids-photography-suite-lightroom-for-2024/"><u>A Detailed Walkthrough of Android’s Photography Suite, Lightroom for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-setup-guide-complete-your-behringer-audio-system-drivers-available-now/"><u>Easy Setup Guide: Complete Your Behringer Audio System - Drivers Available Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-download-of-logitee-brio-driver-software-for-multiple-windows-versions/"><u>Effortless Download of Logitee BRIO Driver Software for Multiple Windows Versions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-officejet-pro-8720-driver-software-update-for-windows-os/"><u>Get the Latest HP Officejet Pro #8720 Driver Software Update for Windows OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-unresponsive-function-keys-on-your-asus-device/"><u>How to Resolve Unresponsive Function Keys on Your Asus Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-zbook-15-g3-graphics-driver-setup-how-to-download-and-install-for-windows-computers/"><u>HP ZBook 15 G3 Graphics Driver Setup: How to Download and Install for Windows Computers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/usb-c-drivers-free-download-compatible-with-windows-10/"><u>USB-C Drivers: Free Download Compatible with Windows 10</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-best-practices-for-documenting-youtube-live-videos/"><u>2024 Approved Best Practices for Documenting Youtube LIVE Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expertly-manipulating-colors-in-video-edits/"><u>2024 Approved Expertly Manipulating Colors in Video Edits</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-streamline-and-stand-out-twitters-video-directive/"><u>2024 Approved Streamline and Stand Out Twitter's Video Directive</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-xiaomi-redmi-note-13-proplus-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Xiaomi Redmi Note 13 Pro+ 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-creativity-in-3-bot-systems/"><u>Comparing Creativity in 3 Bot Systems</u></a></li>
+<li><a href="https://fox-http.techidaily.com/discovering-the-ultimate-gopro-camera-max-or-hero-11/"><u>Discovering The Ultimate GoPro Camera Max or Hero 11?</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-diagnosis-addressing-applicationexe-has-stopped-working-issues-successfully/"><u>Error Diagnosis - Addressing 'Application.exe Has Stopped Working' Issues Successfully</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-toms-computer-gear-comprehensive-guides-and-reviews/"><u>Exploring Tom's Computer Gear: Comprehensive Guides & Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lowest-cpu-failure-rates-in-intel-chips-outperforming-amd-ryzen-according-to-puget-and-system-builder-data-reveal/"><u>Lowest CPU Failure Rates in Intel Chips, Outperforming AMD Ryzen According to Puget and System Builder Data Reveal</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-digital-gadgets-with-expertise-from-toms-hardware-review/"><u>Navigating Digital Gadgets with Expertise From Tom’s Hardware Review</u></a></li>
+<li><a href="https://blog-min.techidaily.com/quick-tutorial-converting-dvf-tracks-into-mp3s-in-3-easy-methods/"><u>Quick Tutorial: Converting DVF Tracks Into MP3s in 3 Easy Methods</u></a></li>
+<li><a href="https://facebook.techidaily.com/say-hi-to-your-new-verified-meta-profile/"><u>Say Hi to Your New, Verified Meta Profile</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-computer-reviews-expert-insights-on-latest-tech/"><u>Tom's Computer Reviews: Expert Insights on Latest Tech</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-in-depth-reviews-and-news-from-toms-hardware/"><u>Tom's Tech Insights: In-Depth Reviews & News From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-comprehensive-insights-into-computer-hardware/"><u>Tom's Tech Review: Comprehensive Insights Into Computer Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-expert-insights-on-your-next-computer-purchase/"><u>Tom's Tech Reviews: Expert Insights on Your Next Computer Purchase</u></a></li>
 </ul></div>
 
