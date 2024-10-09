@@ -1,7 +1,7 @@
 ---
 title: Top Picks for Premium TV Stands with Built-In Media Units - Fireplaces Edition, 2024 [ZDNet Review]
-date: 2024-10-03T01:06:31.944Z
-updated: 2024-10-03T23:10:16.703Z
+date: 2024-10-01T17:50:15.942Z
+updated: 2024-10-09T04:45:40.750Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,21 +92,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-excellent-top-5-apps-for-iphone-auditory-delight/"><u>[Updated] Excellent Top 5 Apps for iPhone Auditory Delight</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-premier-select-mac-dvd-editors/"><u>[Updated] Premier Select Mac DVD Editors</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-a-technical-dive-into-gesture-and-movement-sensors/"><u>2024 Approved A Technical Dive Into Gesture and Movement Sensors</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-funimate-unlocked-a-complete-experience/"><u>2024 Approved Funimate Unlocked A Complete Experience</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-14-pro-max-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password On iPhone 14 Pro Max</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-your-pc-now-secure-the-latest-in-gaming-tech-with-amds-bundle-ryzen-cpus-7000-and-radeon-gpus-7000-claim-up-to-two-complimentary-games-ryzen-9000-not-55/"><u>Boost Your PC Now! Secure the Latest in Gaming Tech with AMD's Bundle: Ryzen CPUs 7000 & Radeon GPUs 7000 - Claim Up to Two Complimentary Games, Ryzen 9000 Not Included</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-mg2520-software-updates-and-download-instructions-for-windows-users/"><u>Canon MG2520 Software Updates and Download Instructions for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-drivers-for-your-hp-elitebook-x360-model-1030-g2/"><u>Download Drivers for Your HP EliteBook X360 - Model 1030 G2</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-k350-keyboard-up-and-running-drivers-downloaded-here/"><u>Get Your Logitech K350 Keyboard Up and Running: Drivers Downloaded Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-nvidias-latest-rtx-3090-graphics-card-drivers-on-windows-versions-11-8-and-7/"><u>How to Install NVIDIA's Latest RTX 3090 Graphics Card Drivers on Windows: Versions 11, 8 & 7</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-samsung-galaxy-s23-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Samsung Galaxy S23 is off? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-motorola-moto-g24-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Motorola Moto G24 Phone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/keep-your-netgear-wi-fi-router-updated-with-the-latest-adapter-drivers-download-now/"><u>Keep Your NETGEAR Wi-Fi Router Updated with the Latest Adapter Drivers – Download Now!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/minds-on-trial-best-general-knowledge-channels/"><u>Minds on Trial Best General Knowledge Channels</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simple-solution-how-to-stop-outriders-from-continuously-freezing/"><u>Simple Solution: How to Stop Outriders From Continuously Freezing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-hardware-picks-curated-by-tom-for-savvy-consumers/"><u>Top Hardware Picks Curated by Tom for Savvy Consumers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-a-new-era-of-photo-display-best-frame-makers-for-2024/"><u>[New] A New Era of Photo Display Best Frame Makers for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-revolutionizing-adventure-recording-with-garmin-ultra-30/"><u>[Updated] 2024 Approved Revolutionizing Adventure Recording with Garmin Ultra 30</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-lifetime-of-photos-in-the-cloud-free-space-haven-and-charged-sanctuaries-await/"><u>[Updated] Lifetime of Photos in the Cloud Free Space Haven & Charged Sanctuaries Await</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mp4-dvd2024/"><u>「MP4への変換! DVD再生用最強無料ソフト2024年版紹介」</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-quality-and-cost-savings-unite-in-best-asmr-mics/"><u>2024 Approved Quality and Cost Savings Unite in Best ASMR Mics</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/download-diva-a-guide-to-free-skype-tone-resources/"><u>Download Diva A Guide to Free Skype Tone Resources</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-logitech-c920-software-for-optimal-functionality-in-windows-11-10-and-8-systems/"><u>Download Updated Logitech C920 Software for Optimal Functionality in Windows 11, 10 & 8 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/epson-workforce-ds-30-printer-software-download-for-windows-users-windows-1187/"><u>Epson WorkForce DS 30 Printer Software Download for Windows Users (Windows 11/8/7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-download-compatible-drivers-for-logitech-hd-webcam-model-c525-on-windows-1087/"><u>Find & Download Compatible Drivers for Logitech HD Webcam Model C525 on Windows 10/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-epson-ds-530-printer-driver-software-for-optimal-windows-10-performance/"><u>Get the Latest Epson DS-530 Printer Driver Software for Optimal Windows 10 Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-zebra-gk420d-up-and-running-secure-your-printer-drivers-now/"><u>Get Your Zebra GK420D Up and Running: Secure Your Printer Drivers Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-installation-instructions-msi-b350-tomahawk-graphics-card-drivers-for-windows-10-and-7-enthusiasts/"><u>Seamless Installation Instructions: MSI B350 Tomahawk Graphics Card Drivers for Windows 10 and 7 Enthusiasts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/srt-deep-dive-knowledge-at-your-fingertips/"><u>SRT Deep Dive Knowledge at Your Fingertips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-installing-updated-amd-radeon-hd-7870-drivers-on-your-pc-running-windows-11/"><u>Step-by-Step Tutorial: Installing Updated AMD Radeon HD 7870 Drivers on Your PC Running Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/streamline-your-input-top-quality-keyboard-drivers-tailored-for-windows-7/"><u>Streamline Your Input: Top-Quality Keyboard Drivers Tailored for Windows 7</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722169243282-transform-how-you-use-google-search-make-the-switch-to-superior-results-with-perplexity-ai/"><u>Transform How You Use Google Search - Make the Switch to Superior Results with Perplexity AI</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-black-screen-issues-in-rainbow-six-siege-pc-edition/"><u>Ultimate Guide: Resolving Black Screen Issues in Rainbow Six Siege - PC Edition</u></a></li>
 </ul></div>
 

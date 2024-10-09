@@ -1,7 +1,7 @@
 ---
 title: "$1K Discount on Top-Ranked QLED Televisions This Labor Day: Exclusive Review & Deals - ZDNet"
-date: 2024-09-30T19:01:44.895Z
-updated: 2024-10-04T00:13:56.932Z
+date: 2024-10-08T01:00:12.518Z
+updated: 2024-10-09T02:42:31.779Z
 tags:
   - tvs
 categories:
@@ -52,25 +52,11 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 | Refresh rate     | 60Hz                                                                 |
 | Connectivity     | HDMI, HDMI eARC, Bluetooth, Wi-Fi, Ethernet, USB, AUX, Optical, Coax |
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Pricing 
 
 **Also:** [**The 5 best budget TVs**](https://www.zdnet.com/home-and-office/home-entertainment/best-budget-tv/)
 
 As great as the new Omni Series QLED models are, price is a big sticking point for me, especially since I personally don't use Alexa or want an Amazon-centric streaming experience. However, Amazon is currently running a sale on the [65-inch Omni Series QLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-65-inch-omni-qled-series-smart-tv%2Fdp%2FB0BJMGB9RN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1), bringing the price down to $690 -- which is much more in line with what I think this TV should be retailing for -- making it a great, budget-friendly option if you're looking to upgrade. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Picture and sound 
 
@@ -100,6 +86,13 @@ If you want a more elaborate audio setup, you can connect your TV to [Echo speak
 
 I would much rather see multi-device support for generic Bluetooth speakers and soundbars, since users might have audio equipment from different brands rather than a house full of Amazon-branded devices. You can set up non-Amazon speakers and soundbars with the TV but won't get that whole-home audio experience, which is a shame. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Alexa and Amazon features 
 
 As it's meant to be the centerpiece of your Amazon or Alexa-centered smart home network. the Omni QLED features native Alexa support via a voice-enabled remote, as well as a four-microphone array built into the unit itself. If you don't have an Alexa account already, you can use basic voice commands for turning the TV on and off or launching certain apps. And if you want expanded, hands-free controls as well as the ability to add Skills, you can either connect to an Echo device or the Alexa companion app. Though you will need an Amazon account to sign into the Alexa app as well as the TV itself to access many enhanced features. 
@@ -107,13 +100,6 @@ As it's meant to be the centerpiece of your Amazon or Alexa-centered smart home 
 Taylor Clemons/ZDNET
 
 If you decide to download Alexa Skills, you can play music, games, check the weather, get daily trivia, or even make and receive video calls. Skills are what really set the Omni QLED apart from similar smart TVs from competitors like TCL and Hisense. Without access to these features, the Omni QLED is reduced to a pretty bog-standard smart TV with better-than-expected picture and audio capabilities. 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Gaming 
 
@@ -140,6 +126,13 @@ Taylor Clemons/ZDNET
 I usually play console games with a headset so I can better pick up on audio cues and dialogue, but the integrated speakers of the Omni QLED provide loud and clear audio that doesn't make you miss out on fine details like wind through trees, subtle music, and quiet character conversations. 
 
 If you're in the market for a TV strictly for console gaming, I'd highly recommend the Omni QLED. Even at the full $800, it's still a solid option against competitors from brands like Sony and LG when it comes to picture quality and a smoother, more enjoyable gameplay experience. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Streaming 
 
@@ -183,15 +176,22 @@ The dedicated gaming picture mode lets colors and details pop while the integrat
 
 Many of the cool features are inextricably linked to Alexa functionality, so if you want to take full advantage of the Omni QLED, you'll have to invest in an Echo device and set up an Alexa account. And this reason alone is why I think the $800 price tag is just a touch on the high side for this TV, since without Alexa Skills, it's just a basic QLED model. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Alternatives to consider 
 
 [Great for streaming Sony X77L The Sony X77L uses an LED panel to provide 4K resolution at a 60Hz refresh rate, which means that from sports and action movies to music videos and animated shorts, your media will have smooth motion, crisp details, and bold colors. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BZF2N3LM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)[Great budget option Amazon Fire TV 4-Series The Fire TV 4-Series from Amazon is a solid, budget-friendly option for anyone looking for a reliable second screen for their bedroom or affordable main TV. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-55-inch-4-series-4k-smart-tv%2Fdp%2FB0B3H6JPYZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -230,16 +230,20 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/exploring-computer-components-with-tom-insights-and-advice/"><u>Exploring Computer Components with Tom - Insights and Advice</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-high-tech-gear-with-tom-innovations-in-computer-hardware/"><u>Exploring High-Tech Gear with Tom: Innovations in Computer Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-toms-tech-the-ultimate-guide-to-computer-components-and-peripherals/"><u>Exploring Tom's Tech: The Ultimate Guide to Computer Components and Peripherals</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hassle-free-guide-to-updating-and-downloading-canon-printer-drivers-for-windows-computers/"><u>Hassle-Free Guide to Updating and Downloading Canon Printer Drivers for Windows Computers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/highlights-of-the-teamgroup-t-force-vulcan-a-ddr5-c38-kit-optimized-performance-with-your-amd-zen-4-cpu/"><u>Highlights of the TeamGroup T-Force Vulcan Α DDR5 C38 Kit: Optimized Performance with Your AMD Zen 4 CPU</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-google-pixel-8-pro-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Google Pixel 8 Pro for Streaming | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-modern-components-by-toms-electronics-hub/"><u>In-Depth Analysis of Modern Components by Tom's Electronics Hub</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-call-troubles-essential-fixes-for-iphone-communication-breakdowns/"><u>Resolving Call Troubles: Essential Fixes for iPhone Communication Breakdowns</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-m34-5g-won-t-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Samsung Galaxy M34 5G won't play MOV videos, how to fix ?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-gadget-rundown-comprehensive-guide-on-modern-hardware-solutions/"><u>Tom's Gadget Rundown: Comprehensive Guide on Modern Hardware Solutions</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-edit-3gp-videos-like-a-pro-cutting-trimming-and-more/"><u>Updated Edit 3GP Videos Like a Pro Cutting, Trimming, and More</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-revive-playstation-classics-the-5-best-android-emulation-software/"><u>[New] 2024 Approved Revive PlayStation Classics The 5 Best Android Emulation Software</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-screen-spectaculor-the-premier-6-hdmi-21-models-reviewed-for-2024/"><u>[Updated] Screen Spectaculor The Premier 6 HDMI 2.1 Models Reviewed for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-extensive-movement-review-2023/"><u>2024 Approved Extensive Movement Review 2023</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-streamlined-processes-for-exporting-video-assets-as-mp3-on-pinterest/"><u>2024 Approved Streamlined Processes for Exporting Video Assets as MP3 on Pinterest</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-guide-to-get-your-canon-pro-100-up-and-running-on-windows-systems/"><u>Effortless Guide to Get Your Canon PRO 100 Up & Running on Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-elgato-drivers-step-by-step-tutorial/"><u>Effortless Installation of Elgato Drivers - Step-by-Step Tutorial!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-insights-from-toms-hardware-a-complete-technology-overview/"><u>Expert Insights From Tom's Hardware: A Complete Technology Overview</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-iphone-xs-max-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On iPhone XS Max? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-12-mini-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 12 mini Lock Screen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-the-latest-epson-wf-3720-printer-software-upgrade-online/"><u>Install the Latest Epson WF-3720 Printer Software Upgrade Online</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-canon-printer-drivers-mx340-supported-by-windows-1087-systems/"><u>Installing Canon Printer Drivers: MX340 Supported by Windows 10/8/7 Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-ai-communication-with-these-5-premier-online-educational-programs-on-prompt-engineering/"><u>Master AI Communication with These 5 Premier Online Educational Programs on Prompt Engineering</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-your-crypto-transactions-with-amd-blockchain-driver-installation-for-windows/"><u>Secure Your Crypto Transactions with AMD Blockchain Driver Installation for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-guide-how-to-download-and-update-netgear-wna3100-drivers/"><u>Simple Guide: How to Download and Update Netgear WNA3100 Drivers</u></a></li>
 </ul></div>
 

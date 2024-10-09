@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Upgrading HP Officejet 4655 Printer Driver & Software Versions
-date: 2024-09-24T18:49:40.975Z
-updated: 2024-09-28T18:01:15.406Z
+date: 2024-10-05T23:45:15.972Z
+updated: 2024-10-09T05:09:56.132Z
 tags:
   - win11
   - win10
@@ -27,10 +27,10 @@ Whether at the office or at home, we all want to have jobs done smoothly. Yet if
  A wrong or outdated printer driver could cause problems such as**print jobs getting stuck in a queue** ,**error notifications** **randomly popping up and printers being accidently offline** . To keep your printer in good performance, you should always keep your Epson ET-3760 driver up-to-date. Below is the guide of how to update the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Here are the two methods to try
@@ -50,14 +50,15 @@ Whether at the office or at home, we all want to have jobs done smoothly. Yet if
 3. In the list expanding below, click the**Download** in the**Printer Driver v2.68.02** option.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Epson-3760-click-download.jpg)
 4. Double-click on the downloaded file and follow the on-screen instructions to install your printer driver.
-5. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Restart your computer for the changes to take effect.
 
 ### Method 2: Automatically update the driver with Driver Easy
 
@@ -71,10 +72,10 @@ Whether at the office or at home, we all want to have jobs done smoothly. Yet if
 3. Click the **Update** button next to a flagged **Epson ET-3760** driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _All_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).  
@@ -82,10 +83,10 @@ Whether at the office or at home, we all want to have jobs done smoothly. Yet if
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The **[Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com.**](https://tools.techidaily.com/drivereasy/download/)
@@ -111,21 +112,20 @@ Whether at the office or at home, we all want to have jobs done smoothly. Yet if
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-decoding-the-cost-per-thousand-views-on-youtube-for-successful-earning-for-2024/"><u>[New] Decoding the Cost Per Thousand Views on YouTube for Successful Earning for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-celestial-craftsmanship-perfecting-night-portraits-step-by-step/"><u>[Updated] 2024 Approved Celestial Craftsmanship Perfecting Night Portraits Step-by-Step</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-direct-engagement-broadcasting-from-your-xbox-to-fb/"><u>[Updated] In 2024, Direct Engagement Broadcasting From Your Xbox to FB</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-hook-creating-headline-helper/"><u>2024 Approved Hook-Creating Headline Helper</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-window-capture-suite-pro-xp/"><u>2024 Approved Window Capture Suite Pro XP</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/diy-dvd-preservation-easy-steps-for-converting-dvd-media-into-iso-format-and-backups-via-winx-software/"><u>DIY DVD Preservation: Easy Steps for Converting DVD Media Into ISO Format & Backups via WinX Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-access-rapid-installation-of-hp-stream-video-drivers/"><u>Easy Access - Rapid Installation of HP Stream Video Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-instructions-for-installing-the-latest-drivers-on-your-epson-wf-7600-series-using-windows-operating-system/"><u>Easy Instructions for Installing the Latest Drivers on Your Epson WF-7600 Series Using Windows Operating System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-the-ft232r-universal-uart-dongle-driver/"><u>Effortless Installation of the FT232R Universal UART Dongle Driver</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-visual-experience-by-upgrading-amd-drivers-in-supported-windows-systems/"><u>Enhance Visual Experience by Upgrading AMD Drivers in Supported Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-universal-csr-bluetooth-device-drivers/"><u>Free Download: Universal CSR Bluetooth Device Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-windows-system-upgraded-free-msi-auditory-device-drivers-available-now/"><u>Get Your Windows System Upgraded: Free MSI Auditory Device Drivers Available Now!</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-htc-u23-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset HTC U23 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-resolve-compatibility-problems-with-ralink-rt3290-for-windows-1187-users/"><u>How to Resolve Compatibility Problems with Ralink RT3290 for Windows 11/8/7 Users</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-honor-100-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Honor 100 Without PUK Codes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-review-benchmarks-and-analysis-of-the-linksys-wrt1900ac-with-openwrt-firmware-for-enhanced-networking/"><u>The Ultimate Review: Benchmarks and Analysis of the Linksys WRT1900AC with OpenWRT Firmware for Enhanced Networking</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-eliminating-blemishes-in-image-downloads/"><u>[New] 2024 Approved Eliminating Blemishes in Image Downloads</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/arnings-empire-constructing-a-profitable-youtube-channel/"><u>[New] Earnings Empire Constructing a Profitable YouTube Channel</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unlock-youtube-monetization-a-focus-on-short-video-profits/"><u>[Updated] 2024 Approved Unlock YouTube Monetization A Focus on Short Video Profits</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-achieving-peak-video-clarity-with-youtubes-tools/"><u>[Updated] Achieving Peak Video Clarity with YouTube's Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-elevate-your-success-must-have-essentials-for-the-modern-business-owner/"><u>[Updated] In 2024, Elevate Your Success Must-Have Essentials for the Modern Business Owner</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-mastering-windows-colors-expertise-for-viewing-and-editing-hd-video/"><u>[Updated] In 2024, Mastering Windows Colors Expertise for Viewing & Editing HD Video</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-oppo-a59-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Oppo A59 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortlessly-obtain-and-update-your-hid-keyboards-device-drivers-today/"><u>Effortlessly Obtain and Update Your HID Keyboard's Device Drivers Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-performance-nvidia-geforce-titan-x-edition-drivers-for-free/"><u>Enhance Performance: NVIDIA GeForce TITAN X Edition Drivers for Free</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-smooth-printing-with-latest-hp-officejet-4655-driver-software-download/"><u>Ensure Smooth Printing with Latest HP Officejet 4655 Driver Software Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-download-compatible-printer-drivers-for-epson-wf-2630-on-windows-os-v7-10-and-81/"><u>How to Find & Download Compatible Printer Drivers for Epson WF 2630 on Windows OS: V7, 10, and 8.1</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-most-recent-updates-for-ch3nitor-drivers-in-windows-10/"><u>How to Get the Most Recent Updates for CH3nitor Drivers in Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-install-and-update-your-epson-ds-510-driver-on-a-windows-machine-comprehensive-stepwise-steps/"><u>How To Seamlessly Install and Update Your Epson DS-510 Driver on a Windows Machine - Comprehensive Stepwise Steps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-12-complimentary-keyboard-skill-courses-ideal-for-every-age-group/"><u>Top 12 Complimentary Keyboard Skill Courses: Ideal for Every Age Group</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-permission-denied-for-fortnite-error-message/"><u>Troubleshooting the 'Permission Denied for Fortnite' Error Message</u></a></li>
 </ul></div>
 

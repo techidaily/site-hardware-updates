@@ -1,7 +1,7 @@
 ---
 title: "Scorching Discount Alert: Up to $170 Off Amazon's Popular Fire TV QLED Series! Act Fast on This Exclusive Offer - Full Details | ZDNet"
-date: 2024-09-21T17:53:13.706Z
-updated: 2024-09-28T16:40:25.073Z
+date: 2024-10-08T02:00:33.332Z
+updated: 2024-10-08T21:01:41.050Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
@@ -91,10 +91,10 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,17 +133,19 @@ Should you buy one if you're looking for a portable projector that doesn't have 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-unveiling-my-lost-followers-insta-unfollow-check/"><u>[New] Unveiling My Lost Followers Insta Unfollow Check</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-launching-professional-instagram-starting-an-enterprise-account/"><u>2024 Approved Launching Professional Instagram Starting an Enterprise Account</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-12-mini-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone 12 mini When Its Locked Within Seconds</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-strategies-for-leveraging-desktop-utilities-and-applications-in-media-file-handling/"><u>Comprehensive Strategies for Leveraging Desktop Utilities and Applications in Media File Handling</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-advice-the-ultimate-method-for-refreshing-cpu-drivers-on-windows-systems/"><u>Expert Advice: The Ultimate Method for Refreshing CPU Drivers on Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-logitech-c27n-hd-webcam-driver-installers-for-win10win11-computers-free-and-secure-downloads/"><u>Get Logitech C27n HD Webcam Driver Installers for Win10/Win11 Computers - Free & Secure Downloads</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-asus-dvd-driver-step-by-step-tutorial-and-download-links/"><u>Get the Latest ASUS DVD Driver: Step-by-Step Tutorial and Download Links</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-moto-g-5g-2023-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Motorola Moto G 5G (2023) to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-razer-naga-mouse-driver-software-downloads-and-updates-for-windows/"><u>Latest Razer Naga Mouse Driver Software Downloads and Updates for Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-samsung-mobile-adb-driver-installation-guide/"><u>Latest Samsung Mobile ADB Driver Installation Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-gpus-for-4k-edit-and-render/"><u>Top GPUs for 4K Edit & Render</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-essential-mac-tech-tips-5-snapshot-strategies/"><u>[New] In 2024, Essential Mac Tech Tips 5 Snapshot Strategies</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-learn-and-create-the-ultimate-youtube-trailer-blueprint-in-filmora/"><u>[New] Learn and Create The Ultimate YouTube Trailer Blueprint in Filmora</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-windows-10-photoviewing-suite/"><u>[New] Prime Windows 10 Photoviewing Suite</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-rhythm-and-reels-instagram-music-secrets/"><u>[Updated] 2024 Approved Rhythm & Reels Instagram Music Secrets</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-retro-to-future-radeon-rebooted/"><u>2024 Approved Retro to Future Radeon Rebooted</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-drivers-for-your-brother-mfc-j480dw-windows-printer/"><u>Download the Newest Drivers for Your Brother MFC-J480DW Windows Printer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-ralink-driver-downloads-and-updates-for-windows-pcs-complete-guide/"><u>Free Ralink Driver Downloads and Updates for Windows PCs - Complete Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975543696-get-your-official-asus-pce-ac68-drivers-free-here/"><u>Get Your Official ASUS PCE-AC68 Drivers Free Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-canon-eos-mf8200c-printer-drivers-windows-compatibility-guide/"><u>How to Download and Install Canon EOS MF8200C Printer Drivers: Windows Compatibility Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-install-latest-drivers-for-your-microsoft-surface-book-2/"><u>How to Find and Install Latest Drivers for Your Microsoft Surface Book 2</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-lenovo-t450-driver-downloads-for-a-smooth-computing-experience/"><u>Quick Lenovo T450 Driver Downloads for a Smooth Computing Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-recorders-bible-for-clear-conversations-for-2024/"><u>The Ultimate Recorder's Bible for Clear Conversations for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-pc-video-editing-made-easy-a-review-of-vn-editor/"><u>Updated In 2024, PC Video Editing Made Easy A Review of VN Editor</u></a></li>
 </ul></div>
 

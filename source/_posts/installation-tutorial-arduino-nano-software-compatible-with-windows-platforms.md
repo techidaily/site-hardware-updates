@@ -1,7 +1,7 @@
 ---
 title: "Installation Tutorial: Arduino Nano Software Compatible with Windows Platforms"
-date: 2024-09-11T16:48:32.717Z
-updated: 2024-09-12T16:48:32.717Z
+date: 2024-10-05T02:08:57.344Z
+updated: 2024-10-09T00:24:28.263Z
 tags:
   - win11
   - win10
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 1 – Update your driver via Device Manager**
@@ -49,33 +49,21 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 3. Type**device** into the search box. Then select**Device Manager** from a list of search results.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1098.png)
 4. Here comes**Device Manager** . Click the**▷** symbol to the left of**Biometric Devices** to expand its drop-down list.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1073.png)
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Right-click on**Validity Sensors (WBF)** to open its context menu. Then select**Update Driver Software…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-11-03.png)
 6. Click**Search automatically for updated driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-18-21.png)
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Wait till the download and installation process finishes.
@@ -84,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Option 2 – Update your driver from official websites**
 
  If you’d like to update your driver from its official website, you need to know the original equipment manufacturer (OEM) of your notebook or other devices with a fingerprint sensor. Given that the process of finding, downloading and installing the driver varies from person to person, this post will simply outline the method in a brief way.
@@ -98,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
  For example, if you’re using a Lenovo laptop, you can visit the official site of Lenovo and locate its**Support** section (that is where they usually provide drivers or other software for customers to download). Down there you should select “Drivers & Download” or whatever so that you can enter the download page of drivers. Usually there will a search box for you to type in your device model or the driver name, etc. As long as you give the right name, the website will automatically display a list of drivers that are considered to match your request. Select one from them depending on your Windows version (such as Windows 10 Pro, 64-bit), download it and install it step by step. On completion, please reboot your PC to let the changes take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Option 3 – Update your driver automatically (Recommended)**
 
@@ -119,10 +93,10 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Validity fingerprint sensor driver for now, simply click the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-36-48-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -151,5 +125,24 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-laugh-and-cry-on-instagram-best-meme-accounts-of-the-year/"><u>[New] Laugh and Cry on Instagram Best Meme Accounts of the Year</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-deciphering-the-best-of-gopro-max-360-vs-hero-11-pro-camera-comparison/"><u>2024 Approved Deciphering the Best of GoPro Max 360 vs Hero 11 Pro Camera Comparison</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-spark-creativity-30-unique-video-projects/"><u>2024 Approved Spark Creativity 30 Unique Video Projects</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-hp-laserjet-5200-printer-driver-compatible-with-windows-11-10-and-8/"><u>Download the HP LaserJet 5200 Printer Driver Compatible with Windows 11, 10 & 8</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-picks-the-best-laptop-power-solutions-in-a-portable-package/"><u>Expert Picks: The Best Laptop Power Solutions in a Portable Package</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-logitech-mk710-mouse-software-latest-driver-installation-guide/"><u>Free Logitech MK710 Mouse Software: Latest Driver Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-best-performance-from-msis-b350-tomahawk-essential-drivers-for-windows-users/"><u>Get the Best Performance From MSI's B350 Tomahawk: Essential Drivers for Windows Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>How to Change Spotify Location After Moving to Another Country On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-extracting-youtube-subtitles-srt/"><u>In 2024, The Ultimate Guide to Extracting YouTube Subtitles (SRT)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971586459-latest-hp-laserjet-1018-driver-version-download-now/"><u>Latest HP LaserJet 1018 Driver Version Download Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-update-seamless-installation-of-the-scansnap-s1100-software/"><u>Latest Update: Seamless Installation of the Scansnap S1100 Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-download-and-update-for-synaptics-touchpad-controller-programs/"><u>Quick Download & Update for Synaptics Touchpad Controller Programs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/reduction-of-nutrient-input/"><u>Reduction of Nutrient Input</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unseen-by-your-computer-heres-how-to-reset-the-blue-yeti-microphone/"><u>Unseen by Your Computer? Here’s How to Reset the Blue Yeti Microphone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/your-ultimate-guide-to-downloading-the-epson-xp-n400-printer-drivers-step-by-step-instructions/"><u>Your Ultimate Guide to Downloading the Epson XP N400 Printer Drivers - Step by Step Instructions</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: ZDNet Reveals Panasonic's Strategic Return to US, Showcasing Three Cutting-Edge 4K TV Models
-date: 2024-09-24T18:50:38.799Z
-updated: 2024-09-28T16:02:08.364Z
+date: 2024-10-01T21:34:22.371Z
+updated: 2024-10-09T06:01:26.556Z
 tags:
   - tvs
 categories:
@@ -32,16 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -61,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -105,16 +99,22 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-maximize-your-income-through-strategic-use-of-youtube-shorts/"><u>[New] 2024 Approved Maximize Your Income Through Strategic Use of YouTube Shorts</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-the-10-funniest-youtube-shorts-video-ideas/"><u>[New] 2024 Approved The 10 Funniest YouTube Shorts Video Ideas</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-facebook-linking-method-for-youtube-video-content/"><u>[New] In 2024, Facebook Linking Method for YouTube Video Content</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snap-into-fun-step-by-step-guide-for-adding-gifs-in-conversations/"><u>[Updated] 2024 Approved Snap Into Fun Step-by-Step Guide for Adding Gifs in Conversations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effective-guide-to-downloading-and-installing-brother-dcp-l2540dw-driver-for-windows-computers/"><u>Effective Guide to Downloading & Installing Brother DCP-L2540DW Driver for Windows Computers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-wacom-intuos-pro-drivers-running-on-windows-11-a-hassle-free-guide/"><u>How to Get the Latest Wacom Intuos Pro Drivers Running on Windows 11 - A Hassle-Free Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-apple-iphone-xs-max-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone XS Max Backup Password? Heres What to Do</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/record-your-rush-make-every-game-count/"><u>Record Your Rush Make Every Game Count</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/redundancy-and-reliability-features-ensure-that-the-system-activates-in-an-emergency-and-alerts-first-responders-promptly/"><u>Redundancy and Reliability Features Ensure that the System Activates in an Emergency and Alerts First Responders Promptly.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/safe-access-such-as-ladders-or-stairway-type-ladders-must-be-secured-and-free-from-hazards/"><u>Safe Access Such as Ladders or Stairway-Type Ladders Must Be Secured and Free From Hazards.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-canon-mx490-driver-in-windows-1087/"><u>Step-by-Step Guide: Updating Your Canon MX490 Driver in Windows 10/8/7</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-simplified-guide-uploading-urls-to-instagram-media/"><u>[Updated] 2024 Approved Simplified Guide Uploading URLs to Instagram Media</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-maximize-your-income-through-strategic-use-of-youtube-shorts/"><u>[Updated] Maximize Your Income Through Strategic Use of YouTube Shorts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-thorough-investigation-dji-inspire-1-reviewed/"><u>[Updated] Thorough Investigation DJI Inspire 1 Reviewed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-enhance-performance-with-updated-amd-vision-modules-today/"><u>Download & Enhance Performance with Updated AMD Vision Modules Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-install-of-newly-released-wacom-intuos-drawing-pen-software-update/"><u>Easy Install of Newly Released Wacom Intuos Drawing Pen Software Update</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensuring-optimal-performance-update-graphic-card-drivers-on-windows-11-easily/"><u>Ensuring Optimal Performance: Update Graphic Card Drivers on Windows 11 Easily</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/exploring-the-best-photo-recovery-services-of-2024-an-insightful-look-at-their-strengths-and-weaknesses/"><u>Exploring the Best Photo Recovery Services of 2024: An Insightful Look at Their Strengths and Weaknesses</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-update-or-download-hp-officejet-4655-printer-drivers/"><u>How to Successfully Update or Download HP Officejet 4655 Printer Drivers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mac-compatible-high-definition-avchd-mkv-mov-mp4-file-format-conversion-with-winx-hd-video-converter/"><u>Mac Compatible: High-Definition AVCHD, MKV, MOV, MP4 File Format Conversion with WinX HD Video Converter</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-hardware-maintenance-a-comprehensive-tutorial-on-upgrading-motherboard-drivers-for-windows-systems/"><u>Mastering Hardware Maintenance: A Comprehensive Tutorial on Upgrading Motherboard Drivers for Windows Systems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/modern-uses-of-drones-to-coming-innovations/"><u>Modern Uses of Drones to Coming Innovations</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-motorola-moto-g14-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Motorola Moto G14, is it possible?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-dell-g7-driver-refresh-tutorials-for-better-performance/"><u>Quick and Simple Dell G7 Driver Refresh Tutorials for Better Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamlessly-install-your-intel-centrino-advanced-n-6205-wifi-card-free-drivers-available/"><u>Seamlessly Install Your Intel Centrino Advanced-N 6205 WiFi Card - Free Drivers Available</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-razer-mamba-driver-update-easy-steps-inside/"><u>Speedy Razer Mamba Driver Update - Easy Steps Inside</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/twilight-tales-top-hdr-sky-captures-from-leading-portals/"><u>Twilight Tales - Top HDR Sky Captures From Leading Portals</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-oppo-reno-11f-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Oppo Reno 11F 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

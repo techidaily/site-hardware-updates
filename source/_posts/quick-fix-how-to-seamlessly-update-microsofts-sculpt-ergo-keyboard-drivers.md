@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix: How to Seamlessly Update Microsoft's Sculpt Ergo Keyboard Drivers"
-date: 2024-09-11T16:47:39.291Z
-updated: 2024-09-12T16:47:39.291Z
+date: 2024-10-03T09:12:36.626Z
+updated: 2024-10-09T03:21:25.189Z
 tags:
   - win11
   - win10
@@ -21,21 +21,7 @@ There are many ways for you to download Radeon RX 480 Graphics Card device drive
 
 Device Manager is the easiest way for you to get the updated device drivers, but the down side is, you don’t usually get the latest driver in this way. Still, it worth a shot. 1) Go to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/). Locate and expand **Display adapters**. Double-click **AMD Radeon RX 480**. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f6ee252477.jpg)2) Go to the **Driver**tab, and click **Update Driver…**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f6f5a5522f.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Click **Search automatically for updated driver software**. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f6f78e09b2-600x438.jpg)4) Microsoft will search automatically for your**AMD Radeon RX 480**graphics card driver now. But if you see the following notification:
 
@@ -44,10 +30,10 @@ Device Manager is the easiest way for you to get the updated device drivers, but
 You need to go for other ways to get your display card driver updated since Microsoft cannot help you do this for now.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2: Update Radeon RX 480 Graphics Card Driver** **Manually**
@@ -56,20 +42,20 @@ If Device Manager fails to get you the latest driver available, you can always g
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f7327b334e-475x600.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Go to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) again. Locate and expand **Display adapters** . Double-click **AMD Radeon RX 480** . ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f6ee252477.jpg)5) Go to the **Driver**tab, and click **Uninstall**. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f742f54e25.jpg)Click **OK**to continue. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f7452e10b3.png)6) Double-click the downloaded**AMD Radeon RX 480**driver, and run the installation manually. 7) Restart your computer for the changes to take effect after the installation.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3: Update Radeon RX 480 Graphics Card Driver Automatically (Recommended)**
@@ -79,10 +65,10 @@ If you’re not confident playing around with drivers manually, you can do it au
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e5f628aad8e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * [graphics](https://tools.techidaily.com/drivereasy/download/)
@@ -100,5 +86,18 @@ If you’re not confident playing around with drivers manually, you can do it au
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/updated-select-best-dvd-software-for-sierra-mac-users/"><u>[Updated] Select Best Dvd Software for Sierra Mac Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-steps-to-cure-intermittent-obs-frames/"><u>[Updated] Steps to Cure Intermittent OBS Frames</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-bugs-expert-tips-and-tricks-to-resolve-assassins-creed-valhalla-crashes-on-windows-machines/"><u>Beat the Bugs: Expert Tips and Tricks to Resolve Assassin's Creed Valhalla Crashes on Windows Machines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/brisk-startups-in-win11-adjusting-boot-delay-period/"><u>Brisk Startups in Win11: Adjusting Boot Delay Period</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-y28-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo Y28 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhanced-functionality-for-windows-11-direct-printer-and-scanner-support-included-by-default/"><u>Enhanced Functionality for Windows 11: Direct Printer and Scanner Support Included by Default</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mov-movies-on-redmi-note-12-4g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Failed to play MOV movies on Redmi Note 12 4G</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-hp-sound-card-drivers-fast-and-simple-installation-guide/"><u>Free HP Sound Card Drivers: Fast & Simple Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722967127472-get-your-lenovo-t430-running-on-windows-free-drivers-for-win-11-8-and-7-no-hassles/"><u>Get Your Lenovo T430 Running on Windows: Free Drivers for Win 11, 8 & 7 - No Hassles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-announce-your-first-social-giving-drive/"><u>In 2024, How to Announce Your First Social Giving Drive</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidias-most-recent-geforce-rtx-2070-drivers-windows-10-8-and-customer-in-the-book-the-call-of-the-wild/"><u>NVIDIA's Most Recent GeForce RTX 2070 Drivers: Windows 10, 8 & # Customer: In the Book The Call of the Wild,</u></a></li>
+</ul></div>
 

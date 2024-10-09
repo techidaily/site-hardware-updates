@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Deal: Score a 20%% Discount on an 85"
-date: 2024-09-29T23:42:15.499Z
-updated: 2024-10-04T01:28:06.170Z
+date: 2024-10-02T21:09:10.241Z
+updated: 2024-10-09T06:38:08.210Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
@@ -91,10 +91,10 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,24 +133,22 @@ Should you buy one if you're looking for a portable projector that doesn't have 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-android-users-the-top-6-video-downloaders-for-easy-access/"><u>[New] 2024 Approved Android Users The Top 6 Video Downloaders for Easy Access</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-future-file-fortresses-top-five-innovations-in-cloud-storage/"><u>[Updated] Future File Fortresses Top Five Innovations in Cloud Storage</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-pinnacle-chroma-modifier/"><u>2024 Approved Pinnacle Chroma Modifier</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-top-8-best-screen-recorders-with-no-lag/"><u>2024 Approved Top 8 Best Screen Recorders with No Lag</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-slow-motion-to-quick-with-android-aids/"><u>2024 Approved Transform Slow Motion to Quick with Android Aids</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/a-curated-list-of-happiness-crying-combo-on-instagram-pages/"><u>A Curated List of Happiness-Crying Combo on Instagram Pages</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatible-and-updated-how-to-install-modern-drivers-for-your-epson-xp-640-on-windows/"><u>Compatible and Updated: How to Install Modern Drivers for Your Epson XP-640 on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-download-of-epson-wf-2750-printer-software-and-installation-instructions/"><u>Easy Download of Epson WF-2750 Printer Software & Installation Instructions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-fresh-asus-driver-installation-for-your-windows-motherboard/"><u>Easy Steps to Fresh ASUS Driver Installation for Your Windows Motherboard</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-efficiency-enhancements-extensive-benchmarking-of-the-amd-ryzen-9-9950x-engineering-sample-with-blender-across-a-spectrum-of-thermal-design-power-36/"><u>Exploring Efficiency Enhancements: Extensive Benchmarking of the AMD Ryzen 9 9950X Engineering Sample with Blender Across a Spectrum of Thermal Design Power Settings</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-aoc-graphics-card-drivers-for-your-windows-operating-system-efficiently/"><u>Get the Latest AOC Graphics Card Drivers for Your Windows Operating System Efficiently</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722967434010-get-your-brother-hl-l2360dw-ready-download-essential-printer-drivers-now/"><u>Get Your Brother HL-L2360DW Ready: Download Essential Printer Drivers Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-updated-hp-officejet-5255-driver-step-by-step-guide/"><u>How to Install Updated HP OfficeJet 5255 Driver – Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-simplifying-mixers-interface-for-macos-streamers/"><u>In 2024, Simplifying Mixer's Interface for macOS Streamers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-the-hp-deskjet-ink-advantage-3050a-driver-for-free-windows-update-available/"><u>Install the HP Deskjet Ink Advantage 3050A Driver for Free - Windows Update Available</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-solutions-how-to-troubleshoot-and-fix-your-lenovos-usb-drivers/"><u>Quick Solutions: How to Troubleshoot and Fix Your Lenovo's USB Drivers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-free-easy-to-use-srt-translation-services-explored-for-2024/"><u>Top Free, Easy-to-Use SRT Translation Services Explored for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-oppo-reno-10-proplus-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Oppo Reno 10 Pro+ 5G Phone Network-Ready</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Lava Blaze Curve 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-facebook-live-video-downloaders-how-to-download-live-videos/"><u>[New] 2024 Approved Facebook Live Video Downloaders | How to Download Live Videos?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-augmenting-aerial-mastery-10-essential-drone-accessories/"><u>[New] Augmenting Aerial Mastery 10 Essential Drone Accessories</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-alternatives-at-a-glance-choosing-the-best-platforms/"><u>[New] YouTube Alternatives at a Glance Choosing the Best Platforms</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-enhancing-comments-with-emojis-on-youtube-for-2024/"><u>[Updated] Enhancing Comments with Emojis on YouTube for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-essential-mac-screen-recorders-top-10-free-list/"><u>[Updated] In 2024, Essential Mac Screen Recorders – Top 10 FREE List</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-streamline-your-channels-customized-end-screen-templates/"><u>[Updated] Streamline Your Channels Customized End Screen Templates</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-samsung-galaxy-a25-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Samsung Galaxy A25 5G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-downloading-and-installing-updated-drivers-for-creative-webcams-on-windows-pcs/"><u>Complete Guide to Downloading & Installing Updated Drivers for Creative Webcams on Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/customers-contact-information-and-preferred-contact-method-ensuring-privacy-is-maintained/"><u>Customer's Contact Information and Preferred Contact Method, Ensuring Privacy Is Maintained.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-installation-guide-hp-printer-drivers-on-windows-11/"><u>Download & Installation Guide: HP Printer Drivers on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-edge-in-gaming-a-step-by-step-tutorial-on-upgrading-to-asus-970-pro-graphics/"><u>Get the Edge in Gaming: A Step-by-Step Tutorial on Upgrading to ASUS 970 Pro Graphics</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-windows-compatible-drivers-for-your-amd-radeon-r9-200-gpus-step-by-step-guide/"><u>Get the Latest Windows-Compatible Drivers for Your AMD Radeon R9 200 GPUs – Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-latest-epson-xp-400-printer-driver-a-complete-guide/"><u>How to Install the Latest Epson XP-400 Printer Driver - A Complete Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-obtain-and-improve-performance-with-intel-hd-graphics-driver-5500-update/"><u>How To Obtain & Improve Performance with Intel HD Graphics Driver #5500 Update</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-14-plus-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 14 Plus to iPhone | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-firmware-enhancements-for-canons-lide-220-scanning-device-secure-your-download-here/"><u>Latest Firmware Enhancements for Canon's LiDE 220 Scanning Device - Secure Your Download Here!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-infinix-smart-8-hd-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Infinix Smart 8 HD Users</u></a></li>
 </ul></div>
 

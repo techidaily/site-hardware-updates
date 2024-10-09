@@ -1,7 +1,7 @@
 ---
 title: "Exploring China's Breakthrough: The New Cixin P1 AI Processor Surpasses Expectations with a 45 TOPS Speed"
-date: 2024-09-11T16:47:10.215Z
-updated: 2024-09-12T16:47:10.215Z
+date: 2024-10-04T06:57:20.961Z
+updated: 2024-10-08T18:59:11.969Z
 tags:
   - cpu
 categories:
@@ -27,19 +27,6 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
  The Ryzen 9 5900XT, on the other hand, should provide a significant upgrade over the current[Ryzen 9 5900X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) . Weirdly, AMD chose that model name since the Ryzen 9 5900XT is closer to the[Ryzen 9 5950X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) than the Ryzen 9 5900X. The Ryzen 9 5900XT wields the same 16 Zen 3 cores as the former in addition to the 64MB L3 cache and 105W TDP. The Ryzen 9 5900XT has a 100 MHz lower base and boost clock than the Ryzen 9 5950X.
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,5 +50,28 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-action-cam-showdown-which-holds-the-crown-gopro-or-yi/"><u>[New] Action Cam Showdown Which Holds the Crown - GoPro or Yi?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-expert-picks-the-10-most-affordable-video-conferencing-for-ios-and-android-for-2024/"><u>[New] Expert Picks The 10 Most Affordable Video Conferencing for iOS & Android for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-fading-out-the-louder-end-techniques-using-lumafusion-for-2024/"><u>[New] Fading Out the Louder End Techniques Using Lumafusion for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-from-raw-feedback-a-critical-review-of-top-video-editors-for-youtube/"><u>[Updated] In 2024, From Raw Feedback A Critical Review of Top Video Editors for YouTube</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-nokia-c12-plus-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Nokia C12 Plus to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-infinix-hot-30i-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Infinix Hot 30i Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-infinix-gt-10-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Infinix GT 10 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/places-to-find-background-music-for-videos-for-2024/"><u>Places to Find Background Music for Videos for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-one-chip-solutions-the-ultimate-list-of-single-board-computers/"><u>Top Rated One-Chip Solutions: The Ultimate List of Single-Board Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tracking-down-ultrawide-displays-how-and-where-to-purchase-them/"><u>Tracking Down Ultrawide Displays: How and Where to Purchase Them</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transforming-entertainment-innovative-uses-for-a-tv-centric-smart-home-setup/"><u>Transforming Entertainment: Innovative Uses for a TV-Centric Smart Home Setup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-interruptions-in-windows-11-a-comprehensive-guide/"><u>Troubleshooting Audio Interruptions in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-technology-bargains-snag-the-latest-pixel-section-1-advanced-problem-on-hormone-related-tumors/"><u>Unbeatable Technology Bargains: Snag the Latest Pixel # Section 1: Advanced Problem on Hormone-Related Tumors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/understanding-and-monitoring-wireless-network-performance-a-guide-to-measuring-wi-fi-signal-intensity/"><u>Understanding and Monitoring Wireless Network Performance: A Guide to Measuring Wi-Fi Signal Intensity</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

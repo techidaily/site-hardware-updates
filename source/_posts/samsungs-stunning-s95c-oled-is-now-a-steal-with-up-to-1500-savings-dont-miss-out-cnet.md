@@ -1,7 +1,7 @@
 ---
 title: Samsung's Stunning S95C OLED Is Now a Steal with Up to $1,500 Savings - Don't Miss Out! | CNET
-date: 2024-09-22T18:02:44.218Z
-updated: 2024-09-28T18:24:49.105Z
+date: 2024-10-08T04:34:14.310Z
+updated: 2024-10-08T20:08:56.691Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
@@ -91,10 +91,10 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,20 +133,24 @@ Should you buy one if you're looking for a portable projector that doesn't have 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-masterful-post-placement-to-surge-video-views/"><u>[New] 2024 Approved Masterful Post Placement to Surge Video Views</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-assemble-visual-media-for-queue-upgrade-for-2024/"><u>[Updated] Assemble Visual Media for Queue Upgrade for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-samsung-ue590-ultra-hd-4k-gaming-and-freesync-screen/"><u>[Updated] Samsung UE590 - Ultra HD 4K, Gaming & FreeSync Screen</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-live-watch-tracker-applications/"><u>2024 Approved Live Watch Tracker Applications</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-photo-capture-techniques-of-smart-hdr-3-and-4-modules/"><u>2024 Approved Mastering Photo Capture Techniques of Smart HDR 3 & 4 Modules</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/boosting-income-via-youtube-ads-and-analytics-across-platforms/"><u>Boosting Income via YouTube Ads & Analytics Across Platforms</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dell-wifi-card-software-update-free-access-here/"><u>Dell WiFi Card Software Update: FREE Access Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-access-to-hp-laserjet-pro-m127fn-printer-drivers-secure-and-updated-downloads-here/"><u>Easy Access to HP Laserjet Pro M127FN Printer Drivers – Secure & Updated Downloads Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-optimal-performance-latest-version-of-corsair-k55-driver-software-available-to-download/"><u>Ensure Optimal Performance: Latest Version of Corsair K55 Driver Software Available to Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-enhance-performance-updating-the-driver-for-your-intel-centrino-advanced-n-6239-wireless-card/"><u>How to Enhance Performance: Updating the Driver for Your Intel Centrino Advanced-N 6239 Wireless Card</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/logitech-g933-headset-latest-driver-download/"><u>Logitech G933 Headset Latest Driver Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-the-arduino-nano-driver-installation-process-for-windows-users-no-more-headaches/"><u>Mastering the Arduino Nano Driver Installation Process for Windows Users: No More Headaches</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolving-realtek-alc887-hd-audio-driver-problems-on-windows-systems/"><u>Resolving Realtek ALC887 HD Audio Driver Problems on Windows Systems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-honor-magic-6-by-drfone-android/"><u>Universal Unlock Pattern for Honor Magic 6</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/what-is-a-408-timeout-identifying-issues-and-implementing-fixes-on-your-site/"><u>What Is a 408 Timeout? Identifying Issues & Implementing Fixes on Your Site</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/hats-in-it-for-a-million-youtube-viewers-for-2024/"><u>[New] What’s in It for a Million YouTube Viewers for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-how-to-use-youtube-analytics-to-grow-your-channel/"><u>[Updated] How to Use YouTube Analytics to Grow Your Channel?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-joke-jamboree-7-hilarious-plot-ideas-for-youtube-stars/"><u>[Updated] Joke Jamboree 7 Hilarious Plot Ideas for YouTube Stars</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-optimize-your-videos-quickly-with-story-remix-in-windows-10-photos/"><u>[Updated] Optimize Your Videos Quickly with Story Remix in Windows 10 Photos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721474306440-cant-find-itunes-heres-how-to-restore-your-iphone-on-your-own/"><u>Can't Find iTunes? Here's How to Restore Your iPhone on Your Own!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-asus-vg248qe-monitor-driver-on-windows-quick-guide/"><u>Download & Install Asus VG248QE Monitor Driver on Windows - Quick Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-methods-to-download-and-improve-your-intel-hd-graphics-5500-software/"><u>Easy Methods to Download & Improve Your Intel HD Graphics 5500 Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-advanced-gadgets-with-toms-electronics-guide/"><u>Exploring Advanced Gadgets with Tom's Electronics Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/from-snaps-to-savings-on-snapchat/"><u>From Snaps to Savings on Snapchat</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-best-free-apple-iphone-se-imei-checker-by-drfone-ios/"><u>In 2024, Best Free Apple iPhone SE IMEI Checker</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-xiaomi-redmi-k70e-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Xiaomi Redmi K70E? Fixed | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-high-end-gadgets-and-equipment-with-toms-wisdom/"><u>Navigating High-End Gadgets & Equipment with Tom's Wisdom</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/professional-audio-interface-upgrade-focusrite-scarlett-solo-driver-download-and-install-on-windows/"><u>Professional Audio Interface Upgrade: Focusrite Scarlett Solo Driver [Download & Install] on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-tips-for-resolving-driver-conflicts-on-your-hp-officejet-pro-6978/"><u>Quick Tips for Resolving Driver Conflicts on Your HP OfficeJet Pro 6978</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-driver-problems-with-arduino-uno-on-windows-pc/"><u>Resolving Driver Problems with Arduino Uno on Windows PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722972613091-seamless-installation-of-latest-surface-book-drivers-just-click-here/"><u>Seamless Installation of Latest Surface Book Drivers – Just Click Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/streamlined-driver-installation-for-hp-envy-5055-download-now-effortlessly/"><u>Streamlined Driver Installation for HP Envy 5055: Download Now Effortlessly</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Tecno Spark 20 | Dr.fone</u></a></li>
 </ul></div>
 

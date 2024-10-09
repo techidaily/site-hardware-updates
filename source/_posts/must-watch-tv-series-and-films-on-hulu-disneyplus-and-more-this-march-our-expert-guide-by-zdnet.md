@@ -1,7 +1,7 @@
 ---
 title: "Must-Watch TV Series and Films on Hulu, Disney+, and More This March: Our Expert Guide by ZDNet"
-date: 2024-09-27T17:51:35.954Z
-updated: 2024-10-03T19:27:17.818Z
+date: 2024-10-07T16:01:56.179Z
+updated: 2024-10-08T21:26:25.573Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,22 +105,16 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-amplify-content-with-free-audio-samples/"><u>[New] 2024 Approved Amplify Content with Free Audio Samples!</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-fast-and-easy-photovideo-exchange-between-ios-gear/"><u>[New] 2024 Approved Fast & Easy Photo/Video Exchange Between iOS Gear</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-change-saving-spot-for-macs-photos-for-2024/"><u>[New] Change Saving Spot for Mac's Photos for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-complete-guide-to-slow-down-a-video-on-snapchat/"><u>[New] Complete Guide to Slow Down a Video on Snapchat</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-whats-in-your-wallet-from-one-million-youtube-sights/"><u>[New] In 2024, What's In Your Wallet From One Million YouTube Sights?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-mastering-the-art-of-video-chatting-on-snapchat/"><u>[Updated] 2024 Approved Mastering the Art of Video Chatting on Snapchat</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amds-next-leap-with-fire-range-the-continued-use-of-fl1-packaging-in-zen-5-cpus-and-potential-for-rtx-series-integration-in-new-laptop-releases/"><u>AMD's Next Leap with 'Fire Range': The Continued Use of FL1 Packaging in Zen 5 CPUs and Potential for RTX Series Integration in New Laptop Releases</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-ricoh-mp-c4503-printer-drivers-step-by-step-guide/"><u>Download the Ricoh MP C4503 Printer Drivers: Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722959107811-easy-amd-vega-graphics-card-driver-downloads-and-updates-for-enhanced-gaming-performance/"><u>Easy AMD Vega Graphics Card Driver Downloads and Updates for Enhanced Gaming Performance!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-update-microsoft-bluetooth-drivers-for-your-windows-pc-compatible-with-win-10-11-8-or-er/"><u>Find & Update Microsoft Bluetooth Drivers for Your Windows PC - Compatible with Win 10, 11, 8, or Er</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fresh-drivers-ready-to-go-downloading-and-updating-for-your-lenovo-thinkpad-t420s-running-windows-11/"><u>Fresh Drivers Ready to Go - Downloading & Updating for Your Lenovo ThinkPad T420s Running Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-usb-30-devices-working-with-the-right-windows-drivers/"><u>Get Your USB 3.0 Devices Working with the Right Windows Drivers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-how-to-archive-your-favorite-movies-mac-screenshots-for-netflix/"><u>In 2024, How to Archive Your Favorite Movies Mac Screenshots for Netflix</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-new-logitech-sound-card-software-on-windows-7811-free-driver-packs-downloaded/"><u>Install New Logitech Sound Card Software on Windows 7/8/11 - Free Driver Packs Downloaded</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/intel-user-disputes-processing-terms-alleges-inauthenticity-in-acquired-brand-new-i9-14900k-cpu-units-from-amazon-and-micro-center/"><u>Intel User Disputes Processing Terms - Alleges Inauthenticity in Acquired Brand New I9-14900K CPU Units From Amazon & Micro Center</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-fit-examination-the-perfect-gadget-for-fitness-enthusiasts/"><u>Samsung Galaxy Fit Examination: The Perfect Gadget for Fitness Enthusiasts</u></a></li>
-<li><a href="https://win-blog.techidaily.com/why-does-microsoft-outlook-continuously-fail-troubleshooting-tips-revealed/"><u>Why Does Microsoft Outlook Continuously Fail? Troubleshooting Tips Revealed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-optimizing-screencapture-techniques-for-maximum-results/"><u>[Updated] In 2024, Optimizing ScreenCapture Techniques for Maximum Results</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-lgs-new-tech-horizon-in-bp550/"><u>2024 Approved Exploring LG's New Tech Horizon in BP550</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970796188-boost-your-pc-gaming-with-the-newest-geforce-drivers-from-nvidia-free-download-available-now/"><u>Boost Your PC Gaming with the Newest GeForce Drivers From NVIDIA – Free Download Available Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977299261-brother-l2740dw-driver-update-for-windows-operating-systems-get-started-now/"><u>Brother L2740DW Driver Update for Windows Operating Systems - Get Started Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-enhanced-performance-latest-geforce-rtx-1650-super-driver-software-update-for-microsofts-new-operating-system/"><u>Get Enhanced Performance: Latest GeForce RTX 1650 Super Driver Software Update for Microsoft's New Operating System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/googles-palm-2-clashes-with-openais-gpt-4/"><u>Google's PaLM 2 Clashes with OpenAI's GPT-4</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-process-to-download-and-enhance-your-asus-bluetooth-drivers/"><u>Hassle-Free Process to Download & Enhance Your ASUS Bluetooth Drivers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamlessly-save-and-swap-converting-twitch-broadcasts-to-mp4-with-ease/"><u>Seamlessly Save & Swap: Converting Twitch Broadcasts to MP4 with Ease</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-hidden-alerts-on-your-iphone-discover-7-solutions/"><u>Struggling with Hidden Alerts on Your iPhone? Discover 7 Solutions!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-resolving-all-itunes-issues-solutions-updated-for-2018/"><u>Ultimate Guide: Resolving All iTunes Issues - Solutions Updated for 2018</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-guide-on-samsung-m202-drivers-downloading-and-setup-processes/"><u>Updated Guide on Samsung M202# Drivers Downloading and Setup Processes</u></a></li>
 </ul></div>
 

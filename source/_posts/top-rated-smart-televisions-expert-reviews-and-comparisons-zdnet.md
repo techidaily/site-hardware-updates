@@ -1,7 +1,7 @@
 ---
 title: Top Rated Smart Televisions - Expert Reviews & Comparisons | ZDNet
-date: 2024-09-28T20:45:05.433Z
-updated: 2024-10-03T23:30:30.523Z
+date: 2024-10-05T22:54:40.772Z
+updated: 2024-10-09T05:32:31.252Z
 tags:
   - tvs
 categories:
@@ -52,6 +52,13 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 | Refresh rate     | 60Hz                                                                 |
 | Connectivity     | HDMI, HDMI eARC, Bluetooth, Wi-Fi, Ethernet, USB, AUX, Optical, Coax |
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Pricing 
 
 **Also:** [**The 5 best budget TVs**](https://www.zdnet.com/home-and-office/home-entertainment/best-budget-tv/)
@@ -59,10 +66,10 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 As great as the new Omni Series QLED models are, price is a big sticking point for me, especially since I personally don't use Alexa or want an Amazon-centric streaming experience. However, Amazon is currently running a sale on the [65-inch Omni Series QLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-65-inch-omni-qled-series-smart-tv%2Fdp%2FB0BJMGB9RN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1), bringing the price down to $690 -- which is much more in line with what I think this TV should be retailing for -- making it a great, budget-friendly option if you're looking to upgrade. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Picture and sound 
@@ -92,19 +99,6 @@ If you want a more elaborate audio setup, you can connect your TV to [Echo speak
 **Also:** [**The 5 best video streaming services**](https://www.zdnet.com/home-and-office/home-entertainment/best-streaming-service/)
 
 I would much rather see multi-device support for generic Bluetooth speakers and soundbars, since users might have audio equipment from different brands rather than a house full of Amazon-branded devices. You can set up non-Amazon speakers and soundbars with the TV but won't get that whole-home audio experience, which is a shame. 
-
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Alexa and Amazon features 
 
@@ -140,13 +134,6 @@ I usually play console games with a headset so I can better pick up on audio cue
 
 If you're in the market for a TV strictly for console gaming, I'd highly recommend the Omni QLED. Even at the full $800, it's still a solid option against competitors from brands like Sony and LG when it comes to picture quality and a smoother, more enjoyable gameplay experience. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Streaming 
 
 This TV was built from the ground up to be a one-stop-shop not only for streaming Amazon Originals and Prime Video offerings, but streaming from every one of your favorite apps. Upon startup, the Omni QLED drops you right into the FireOS home screen, which puts Prime shows and movies front and center. You can also access Amazon's other video streaming partners like Freevee from the home screen as well to watch free movies and shows with ads. 
@@ -181,6 +168,13 @@ Animation is another area where this TV comes into its own. Whether you're watch
 
 [Amazon Fire TV Omni QLED $690 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09N6J7KJD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 At the end of the day, the Amazon Fire TV Omni Series QLED is a run-of-the-mill smart, 4K TV that aims to provide a solid streaming experience for Amazon and Alexa users. If you're not an avid Alexa or Amazon fan, you can still get a lot of mileage out of this TV, especially if you're looking for a more affordable TV for console gaming. 
@@ -190,10 +184,10 @@ The dedicated gaming picture mode lets colors and details pop while the integrat
 Many of the cool features are inextricably linked to Alexa functionality, so if you want to take full advantage of the Omni QLED, you'll have to invest in an Echo device and set up an Alexa account. And this reason alone is why I think the $800 price tag is just a touch on the high side for this TV, since without Alexa Skills, it's just a basic QLED model. 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider 
@@ -236,22 +230,21 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-steam-games-have-no-sound-quickly-and-easily/"><u>[FIXED] Steam Games Have No Sound | Quickly & Easily</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-getting-acquainted-the-basics-of-ez-grabber-utilization/"><u>[New] 2024 Approved Getting Acquainted The Basics of EZ Grabber Utilization</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-win-10-wisdom-key-tips-and-tricks-guide/"><u>[Updated] 2024 Approved Win 10 Wisdom Key Tips and Tricks Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-social-avatar-customization-concocting-caricatured-images-for-2024/"><u>[Updated] Social Avatar Customization Concocting Caricatured Images for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-value-picks-raspberry-pi-bargains-for-this-year/"><u>Best Value Picks: Raspberry Pi Bargains for This Year</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-dawn-of-artificocal-intelligence/"><u>Decoding the Dawn of Artificocal Intelligence</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-hardware-analysis-by-toms-technical-hub/"><u>Expert Hardware Analysis by Tom's Technical Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-insights-into-hardware-by-toms-gadget-journal/"><u>Expert Insights Into Hardware by Tom's Gadget Journal</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-find-x6-pro-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo Find X6 Pro FRP</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-c110-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Nokia C110 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/incorporate-speaking-abilities-into-your-raspberry-pi-venture-using-textymcspeechy/"><u>Incorporate Speaking Abilities Into Your Raspberry Pi Venture Using TextyMcSpeechy</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/master-looped-videos-for-maximum-instagram-impact/"><u>Master Looped Videos for Maximum Instagram Impact</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/pocket-z-redefines-retro-tech-with-raspberry-pi-zero-2w-core-a-modern-take-on-the-iconic-pocket-pc-form-factor/"><u>Pocket Z Redefines Retro Tech with Raspberry Pi Zero 2W Core - A Modern Take on the Iconic Pocket PC Form Factor</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-tutorial-on-seamless-movie-transfers-between-ipad-and-mac-devices/"><u>Step-by-Step Tutorial on Seamless Movie Transfers Between iPad and Mac Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-computer-review-a-comprehensive-guide/"><u>Tom's Computer Review: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-hardware/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-your-ultimate-guide-to-computer-hardware/"><u>Tom's Tech Review: Your Ultimate Guide to Computer Hardware</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-excellent-sound-devices-for-video-blogs/"><u>[New] 2024 Approved Excellent Sound Devices for Video Blogs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-best-tools-for-video-recording-focus-on-apeaksofts-advantages/"><u>[New] 2024 Approved The Best Tools for Video Recording – Focus on Apeaksoft's Advantages</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-improving-zoom-video-fidelity-easy-steps/"><u>[New] Improving Zoom Video Fidelity Easy Steps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-optimal-obs-configurations-on-budget-computers-for-2024/"><u>[Updated] Optimal OBS Configurations on Budget Computers for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-practices-for-resolving-compatibility-and-performance-problems-of-startech-drivers-on-windows-11-8-and-e/"><u>Best Practices for Resolving Compatibility and Performance Problems of StarTech Drivers on Windows 11, 8 & E</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-to-installing-amd-rx-6800-drivers-on-windows-compatible-with-windows-111087/"><u>Comprehensive Guide to Installing AMD RX 6800 Drivers on Windows - Compatible with Windows 11/10/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-essential-drivers-for-hp-elitebook-x360-1030-g2-model/"><u>Download Essential Drivers for HP EliteBook X360 1030 G2 Model</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-update-secure-hp-officejet-5255-printer-drivers-for-optimal-performance/"><u>Find & Update: Secure HP OfficeJet 5255 Printer Drivers for Optimal Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-issues-how-to-resolve-dauntless-game-crashes-on-windows/"><u>Fixing Issues: How to Resolve Dauntless Game Crashes on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-ultimate-guide-to-using-behringer-usb-audio-interface/"><u>Free Download: Ultimate Guide to Using Behringer USB Audio Interface</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-samsung-galaxy-xcover-6-pro-tactical-edition-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Samsung Galaxy XCover 6 Pro Tactical Edition Phone? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-essential-polarr-tips-for-pro-level-photography-editing/"><u>In 2024, Essential Polarr Tips for Pro-Level Photography Editing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-y100-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo Y100? Fixed | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-top-performers-in-the-world-of-live-game-broadcast-cams/"><u>In 2024, Top Performers in the World of Live Game Broadcast Cams</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-release-magiccard-rio-pro-driver-downloads-available-for-windows-users-versions-11-81-and-7/"><u>Latest Release: Magiccard Rio Pro Driver - Downloads Available for Windows Users (Versions 11, 8.1 & 7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-wacom-cintiq-pen-drawing-pad-software/"><u>Update Your Wacom Cintiq Pen Drawing Pad Software</u></a></li>
 </ul></div>
 

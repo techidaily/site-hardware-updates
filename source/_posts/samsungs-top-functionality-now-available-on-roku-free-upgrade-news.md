@@ -1,7 +1,7 @@
 ---
 title: "Samsung's Top Functionality Now Available on Roku: Free Upgrade News"
-date: 2024-09-23T18:01:17.426Z
-updated: 2024-09-28T19:48:50.300Z
+date: 2024-10-05T00:06:18.374Z
+updated: 2024-10-09T01:38:47.373Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,16 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,16 +61,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -105,24 +105,21 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-discovering-calmer-video-consumption-three-ways-to-pause-time-56-chars-slightly-over-but-a-minor-exception-due-to-title-length/"><u>[New] 2024 Approved Discovering Calmer Video Consumption Three Ways to Pause Time (56 Chars, Slightly over but a Minor Exception Due to Title Length)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-screen-capturing-magic-comprehensive-guide-and-options-ranked/"><u>[New] In 2024, Screen-Capturing Magic Comprehensive Guide & Options Ranked</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-inside-the-headset-comprehensive-vr-gear-analysis/"><u>[New] Inside the Headset Comprehensive VR Gear Analysis</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-27-ways-to-livestream-education-content-for-free/"><u>[Updated] In 2024, 27 Ways to Livestream Education Content for Free</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-ideal-bandicam-replacements-for-mac-users/"><u>[Updated] In 2024, Ideal Bandicam Replacements for Mac Users</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-insta-rapid-rise-mastering-engagement-with-likes-and-vids/"><u>[Updated] Insta Rapid Rise Mastering Engagement with Likes & Vids</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-shadowed-swords-and-honored-combatants-must-try-titles-inspired-by-ghost-of-tsushi/"><u>[Updated] Shadowed Swords & Honored Combatants Must-Try Titles Inspired by Ghost of Tsushi</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatible-epson-wf-27n60-driver-software-for-windows-operating-systems-win-11-win-10-win-8/"><u>Compatible Epson WF-27n60 Driver Software for Windows Operating Systems (Win 11, Win 10, Win 8)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-new-intel-xe-graphics-software-for-optimal-performance-on-win10win11/"><u>Download New Intel Xe Graphics Software for Optimal Performance on Win10/Win11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/downloading-and-updating-the-brother-mfc-7860dw-drivers-on-your-pc/"><u>Downloading and Updating the Brother MFC-#7860DW Drivers on Your PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-compatibility-with-newest-hp-officejet-pro-8610-drivers-for-windows-operating-systems-win11-win10/"><u>Ensure Compatibility with Newest HP Officejet Pro 8610 Drivers for Windows Operating Systems (Win11, Win10)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-version-of-broadcoms-bluetooth-software-for-windows-1087-users/"><u>Get the Latest Version of Broadcom's Bluetooth Software for Windows 10/8/7 Users</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-simplifying-the-process-of-enabling-virtual-screen-on-meet/"><u>In 2024, Simplifying the Process of Enabling Virtual Screen on Meet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722967335054-latest-hp-laserjet-pro-1006-driver-software-secure-your-free-copy/"><u>Latest HP LaserJet Pro 1006 Driver Software - Secure Your Free Copy</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/newly-released-nvidia-rtx-3080-ti-driver-downloads-fully-compatible-with-windows-1087/"><u>Newly Released NVIDIA RTX 3080 Ti Driver Downloads: Fully Compatible with Windows 10/8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-solving-driver-issues-with-startech-hardware-in-windows/"><u>Troubleshooting and Solving Driver Issues with StarTech Hardware in Windows</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-unlocking-adobe-premiere-a-step-by-step-guide-to-video-import-and-export-for-2024/"><u>Updated Unlocking Adobe Premiere A Step-by-Step Guide to Video Import and Export for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-graphics-performance-amd-radeon-rx-5700-xt-drivers-now-available-for-all-windows-os/"><u>Upgrade Graphics Performance: AMD Radeon RX 5700 XT Drivers Now Available for All Windows OS</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-augmented-reality-stickers-by-google-unveiled-and-compared/"><u>[New] Augmented Reality Stickers by Google Unveiled and Compared</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-webinar-playback-recordings/"><u>[New] In 2024, Webinar Playback Recordings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unleashing-your-inner-instagram-reel-mastermind-for-2024/"><u>[New] Unleashing Your Inner Instagram Reel Mastermind for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-top-25-instagram-hashtags-to-get-likes-and-followers/"><u>[Updated] Top 25 Instagram Hashtags to Get Likes and Followers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/amplify-your-storytelling-integrating-captions-in-a-triple-threat-on-ig-for-2024/"><u>Amplify Your Storytelling - Integrating Captions in a Triple Threat on IG for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-google-pixel-8-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Google Pixel 8 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/contrast-and-surprise/"><u>Contrast and Surprise</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-dell-sound-card-driver-installation-and-updates/"><u>Effortless Dell Sound Card Driver Installation and Updates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974442177-get-your-device-ready-downloads-for-windows-bluetooth-adapters-versions-11-7-and-n/"><u>Get Your Device Ready - Downloads for Windows Bluetooth Adapters (Versions 11, 7, and N)!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-nokia-c12-plus-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Nokia C12 Plus FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-the-latest-graphics-drivers-for-nvidia-geforce-980-ti-start-here/"><u>Install the Latest Graphics Drivers for Nvidia GeForce 980 Ti – Start Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-geforce-rtx-1650-super-graphics-driver-download-for-windows-10-and-11/"><u>Latest GeForce RTX™ 1650 Super Graphics Driver Download for Windows 10 and 11</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-mocking-sponge-bob-meme-generator/"><u>New 2024 Approved Mocking Sponge Bob Meme Generator</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-release-download-the-latest-nvidia-quadro-rtx-8000-drivers-compatible-with-windows-1187/"><u>New Release: Download the Latest Nvidia Quadro RTX #8000 Drivers Compatible with Windows 11/8/7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/trasforma-le-tue-foto-jpeg-in-formato-bmp-per-libero-esperta-conversione-online-senza-costi/"><u>Trasforma Le Tue Foto JPEG in Formato BMP per Libero! Esperta Conversione Online Senza Costi.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-tech-secrets-in-depth-analysis-by-toms-hardware-experts/"><u>Unveiling Tech Secrets: In-Depth Analysis by Tom's Hardware Experts</u></a></li>
 </ul></div>
 

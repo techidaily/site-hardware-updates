@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Ultimate Selection of 40-Inch TVs for 202^[N]: Expert Ratings and Reviews at ZDNET"
-date: 2024-10-03T02:53:57.342Z
-updated: 2024-10-04T01:20:44.433Z
+date: 2024-10-06T08:47:18.624Z
+updated: 2024-10-08T19:54:22.166Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,16 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +73,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,22 +98,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-10-must-see-vr-videos-on-youtube-for-deep-immersion/"><u>[New] 2024 Approved 10 Must-See VR Videos on YouTube for Deep Immersion</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-av1-essentials-for-the-uninitiated/"><u>[New] AV1 Essentials For the Uninitiated</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-crafting-seamless-transitions-the-art-of-canon-time-lapses/"><u>[Updated] 2024 Approved Crafting Seamless Transitions The Art of Canon Time-Lapses</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-transform-your-video-chats-using-zooms-filters/"><u>[Updated] 2024 Approved Transform Your Video Chats Using Zoom's Filters</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-art-of-discrete-audio-erosion-in-audacity/"><u>[Updated] In 2024, The Art of Discrete Audio Erosion in Audacity</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-beats-now-at-your-fingertips-in-imovie-editing/"><u>2024 Approved YouTube Beats, Now at Your Fingertips in iMovie Editing</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/easy-peasy-screen-transitions-for-filmmakers/"><u>Easy-Peasy Screen Transitions for Filmmakers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/feel-good-pop-anthems-by-microsoft-a-collection-specifically-chosen-for-their-positive-cheerful-melodies-and-lyrics-designed-to-boost-your-mood/"><u>Feel Good Pop Anthems by Microsoft – A Collection Specifically Chosen for Their Positive, Cheerful Melodies and Lyrics Designed to Boost Your Mood</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hp-3520-deskjet-printer-software-downloaded-here-link/"><u>Get Your HP 3520 Deskjet Printer Software Downloaded Here: [Link]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-easily-install-and-upgrade-amd-radeon-rx-590-drivers-on-your-windows-pc/"><u>How to Easily Install and Upgrade AMD Radeon RX 590 Drivers on Your Windows PC</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/how-to-improve-audio-clarity-disabling-enhancements-on-windows-10-systems/"><u>How To Improve Audio Clarity: Disabling Enhancements on Windows 10 Systems</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-13-mini-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 13 mini Keeps Asking for Outlook Password</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975047362-install-epson-ds-530-printer-drivers-on-your-windows-10-x64-pc-get-them-here/"><u>Install Epson DS-^530 Printer Drivers on Your Windows 10 (X64) PC - Get Them Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-logitech-g920-support-software-for-win-111087-free-download/"><u>Latest Logitech G920 Support Software for Win 11/10/8/7 - Free Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/obtain-official-drivers-for-ricoh-mp-c3003-all-in-one-printer/"><u>Obtain Official Drivers for Ricoh MP C3003 All-in-One Printer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-installation-of-hp-laserjet-5200-printer-driver-on-recent-windows-versions/"><u>Step-by-Step Installation of HP LaserJet 5200 Printer Driver on Recent Windows Versions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updated-dell-driver-packs-for-seamless-integration-with-windows-7/"><u>Updated Dell Driver Packs for Seamless Integration with Windows 7</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-extensive-insights-deconstructing-the-dji-inspire-1/"><u>[New] 2024 Approved Extensive Insights Deconstructing the DJI Inspire 1</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-innovations-in-capturing-high-quality-facetime-calls/"><u>[New] 2024 Approved Innovations in Capturing High-Quality FaceTime Calls</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-ultimate-guide-to-iphone-7-screen-recording/"><u>[Updated] 2024 Approved Ultimate Guide to iPhone 7 Screen Recording</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-get-creative-and-cost-effective-with-a-stash-of-over-50-free-youtube-promo-artwork-for-2024/"><u>[Updated] Get Creative and Cost-Effective with a Stash of Over 50 Free YouTube Promo Artwork for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-screen-capturing-on-iphoneipad-updated-strategies/"><u>[Updated] Screen Capturing on iPhone/iPad Updated Strategies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-driver-installation-guide-for-windows-7-users/"><u>AMD Radeon Driver Installation Guide for Windows 7 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-acer-monitor-drivers-complete-guide-and-step-by-step-instructions/"><u>Download Acer Monitor Drivers: Complete Guide & Step-by-Step Instructions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-remedies-for-the-missing-btballoondll-error-in-your-system/"><u>Effective Remedies for the Missing btballoon.dll Error in Your System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fast-track-your-pc-with-samsung-m2070fw-drivers-download-without-hassle/"><u>Fast Track Your PC with Samsung M2070FW Drivers - Download Without Hassle</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-set-up-corsair-hardware-drivers-for-windows-with-no-hassle/"><u>How to Download and Set Up Corsair Hardware Drivers for Windows with No Hassle</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-13-ultra-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi 13 Ultra Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-unlocking-the-full-spectrum-of-editing-power-in-polarr/"><u>In 2024, Unlocking the Full Spectrum of Editing Power in Polarr</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/lightning-loop-transferring-youtube-playlists-fast/"><u>Lightning Loop Transferring YouTube Playlists Fast</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970407914-maintaining-genetic-diversity-requires-balancing-the-introduction-of-new-germplasm-with-the-selection-for-desired-traits/"><u>Maintaining Genetic Diversity Requires Balancing the Introduction of New Germplasm with the Selection for Desired Traits</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-your-pc-upgrades-at-toms-authoritative-hardware-source/"><u>Master Your PC Upgrades at Tom's Authoritative Hardware Source</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snapdragon-x-cpu-takes-off-in-performance-metrics-secures-65-of-geekbench-6-scores-benchmark-devs-take/"><u>Snapdragon X CPU Takes Off in Performance Metrics, Secures 6.5% of Geekbench 6 Scores - Benchmark Dev's Take</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Samsung's QN90B QLED - Ultimate Performance in Bright Rooms, Expert Reviews & Comparison
-date: 2024-09-27T16:23:51.951Z
-updated: 2024-10-03T21:17:08.517Z
+date: 2024-10-04T16:54:05.248Z
+updated: 2024-10-09T07:36:45.113Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,16 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +61,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,19 +105,22 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-comparing-iphones-best-video-editors-cameo-and-filmorago/"><u>[New] In 2024, Comparing iPhone's Best Video Editors Cameo & FilmoraGo</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-sorbet-surveillance-complete-guide-to-ice-cream-screen-capture-for-2024/"><u>[New] Sorbet Surveillance Complete Guide to Ice Cream Screen Capture for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-best-three-tactics-for-maximizing-zoom-transcoding/"><u>[Updated] 2024 Approved Best Three Tactics for Maximizing Zoom Transcoding</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-tickletech-design-easy-entertaining-visuals/"><u>[Updated] 2024 Approved TickleTech Design Easy, Entertaining Visuals</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-complete-guide-to-producing-professional-gopro-video-content/"><u>[Updated] The Complete Guide to Producing Professional GoPro Video Content</u></a></li>
-<li><a href="https://article-files.techidaily.com/essential-guide-to-selecting-quality-cricket-broadcast-services/"><u>Essential Guide to Selecting Quality Cricket Broadcast Services</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Plus Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-poco-m6-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Poco M6 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-reviews-and-expert-analysis-at-toms-tech-insights/"><u>In-Depth Reviews & Expert Analysis at Tom's Tech Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723964469575-join-the-system-architects-marathon-in-q4-2015-for-a-high-speed-lan-pc-box-now-only-912-amd-model-available/"><u>Join the System Architects Marathon in Q4 2015 for a High-Speed LAN PC Box, Now Only $912 AMD Model Available</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximize-your-pc-efficiency-with-these-15-cost-effective-tweaks-for-under-50/"><u>Maximize Your PC Efficiency with These 15 Cost-Effective Tweaks for Under $50</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-computer-components-expert-reviews-and-detailed-analysis/"><u>Tom's Computer Components: Expert Reviews and Detailed Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-gadget-guide-your-go-to-source-for-hardware-reviews-and-comparisons/"><u>Tom's Gadget Guide: Your Go-To Source for Hardware Reviews and Comparisons</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/youtube-shorts-vs-tiktok-which-one-is-better-for-short-videos-for-2024/"><u>YouTube Shorts Vs. TikTok Which One Is Better for Short Videos for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-breaking-limits-free-saves-for-your-story-loads/"><u>[New] In 2024, Breaking Limits Free Saves for Your Story Loads</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1716068741737-new-in-2024-screenmasters-unite/"><u>[New] In 2024, ScreenMasters Unite!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/capturing-screenshots-like-a-pro-the-best-recorder-reviews/"><u>Capturing Screenshots Like a Pro The Best Recorder Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dell-computers-new-sm-bus-controller-driver-version-release/"><u>Dell Computers - New SM Bus Controller Driver Version Release</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-tutorial-for-nexiqs-usb-drive-linking-software/"><u>Easy Installation Tutorial for NEXIQ's USB Drive Linking Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-download-and-update-your-epson-wf-3720-printer-software/"><u>Easy Steps to Download and Update Your Epson WF 3720 Printer Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-download-for-your-microsoft-comfort-keyboard-model-40/"><u>Effortless Download for Your Microsoft Comfort Keyboard Model 40</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721472936164-experiencing-iphone-volume-dysfunctions-correct-them-using-our-top-cuhre-methods/"><u>Experiencing iPhone Volume Dysfunctions? Correct Them Using Our Top Cuhre Methods!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-epson-wf-3720-ready-fresh-driver-downloads-with-step-by-step-instructions/"><u>Get Your Epson WF-3720 Ready: Fresh Driver Downloads with Step-by-Step Instructions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-10-superior-soundspeed-apps-for-devices/"><u>In 2024, 10 Superior Soundspeed Apps for Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-the-most-recent-fingerprint-scanning-tools-on-your-pc-windows/"><u>Install the Most Recent Fingerprint Scanning Tools on Your PC (Windows)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lexar-device-connection-made-easy-swift-installation-for-usb-drivers/"><u>Lexar Device Connection Made Easy: Swift Installation for USB Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-hardware-with-toms-guides/"><u>Navigating the World of Hardware with Tom's Guides</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/optimize-your-gaming-experience-with-updated-nvidia-rtx-2070-super-graphics-card-drivers-on-windows-11-download-and-installation-tips/"><u>Optimize Your Gaming Experience with Updated NVIDIA RTX 2070 Super Graphics Card Drivers on Windows 11: Download and Installation Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-computer-review-top-gadgets-and-tech-news/"><u>Tom's Computer Review: Top Gadgets and Tech News</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-5-user-friendly-mxf-conversion-tools-essential-picks-for-smooth-editing/"><u>Top 5 User-Friendly MXF Conversion Tools: Essential Picks for Smooth Editing</u></a></li>
 </ul></div>
 

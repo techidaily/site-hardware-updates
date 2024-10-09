@@ -1,7 +1,7 @@
 ---
 title: Experts Rate Top-Ranked QLED TV Now Available with Stunning $1,000 Off for the Holiday Weekend | ZDNET Tech Review
-date: 2024-09-28T20:34:40.446Z
-updated: 2024-10-03T17:24:40.015Z
+date: 2024-10-04T03:31:04.259Z
+updated: 2024-10-08T19:44:21.392Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
@@ -91,10 +91,10 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,15 +133,19 @@ Should you buy one if you're looking for a portable projector that doesn't have 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-apex-10-royale-showdowns/"><u>[Updated] 2024 Approved Apex 10 Royale Showdowns</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/best-gratis-trimmers-video-di-windows-11-8-o-7-e-macos-come-eliminare-i-righe-indesiderate-dai-tuoi-file/"><u>Best Gratis Trimmers Video Di Windows 11, 8 O 7 E macOS: Come Eliminare I Righe Indesiderate Dai Tuoi File</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-vivo-y78plus-t1-edition-screen-sharing-drfone-by-drfone-android/"><u>How To Do Vivo Y78+ (T1) Edition Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-key-to-youtube-success-understanding-your-cpm/"><u>In 2024, The Key to YouTube Success Understanding Your CPM</u></a></li>
-<li><a href="https://driver-download.techidaily.com/qualcomm-atheros-ar956x-driver-download-compatibility-and-installation-tips/"><u>Qualcomm Atheros AR956x Driver Download: Compatibility and Installation Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-uncovering-the-secrets-of-hardware-mastery/"><u>Tom's Tech Insights: Uncovering the Secrets of Hardware Mastery</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-gpu-performance-leaders-of-2024-comprehensive-graphics-card-rating-chart/"><u>Top GPU Performance Leaders of 2024: Comprehensive Graphics Card Rating Chart</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-processor-promotions-exclusive-discounts-on-amd-and-intel-models/"><u>Top Processor Promotions : Exclusive Discounts on AMD & Intel Models</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/transform-your-videos-a-step-by-step-mp4-video-editing-guide-for-mac-and-windows/"><u>Transform Your Videos A Step-by-Step MP4 Video Editing Guide for Mac and Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-gadgets-with-toms-hardware-experts/"><u>Unveiling the Latest Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-building-a-strong-online-presence-with-attractive-video-thumbnails/"><u>[Updated] 2024 Approved Building a Strong Online Presence with Attractive Video Thumbnails</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-camstudio-updates-the-2023-guide-for-screen-recording-pros/"><u>2024 Approved CamStudio Updates The 2023 Guide for Screen Recording Pros</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-smilesketcher-turn-your-ideas-into-memes-and-graphics/"><u>2024 Approved SmileSketcher Turn Your Ideas Into Memes & Graphics</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-youtube-integration-in-instagram-narratives/"><u>2024 Approved YouTube Integration in Instagram Narratives</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/amazon-fire-hd-10-review-a-multimedia-tablet-made-for-the-whole-family/"><u>Amazon Fire HD 10 Review: A Multimedia Tablet Made for the Whole Family</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722960017247-amd-rx-560-graphics-card-driver-fix-for-all-windows-users-solutions-included/"><u>AMD RX 560 Graphics Card Driver Fix for All Windows Users - Solutions Included!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-80211n-wi-fi-drivers-compatible-with-windows-111087-download-now/"><u>Get the Newest 802.11N Wi-Fi Drivers Compatible with Windows 11/10/8/7 - Download Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-samsung-printer-up-and-running-on-windows-with-our-easy-to-install-drivers/"><u>Get Your Samsung Printer Up and Running on Windows with Our Easy-to-Install Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-toshiba-copiers-drivers-in-windows-os/"><u>How to Download & Install Toshiba Copiers' Drivers in Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-update-intel-video-chip-drivers-a-step-by-step-tutorial/"><u>How to Easily Update Intel Video Chip Drivers: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-14-plus-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone 14 Plus Unavailable Issue With Ease</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oneplus-nord-ce-3-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From OnePlus Nord CE 3 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-poco-x6-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Poco X6 Pro to New Phone | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-securing-the-latest-hp-laserjet-1018-printing-drivers/"><u>Step-by-Step Guide: Securing the Latest HP LaserJet 1018 Printing Drivers</u></a></li>
 </ul></div>
 

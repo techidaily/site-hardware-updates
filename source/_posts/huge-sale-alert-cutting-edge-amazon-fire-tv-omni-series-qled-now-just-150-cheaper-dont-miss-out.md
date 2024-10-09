@@ -1,7 +1,7 @@
 ---
 title: "Huge Sale Alert: Cutting-Edge Amazon Fire TV Omni Series QLED Now Just $150 Cheaper – Don't Miss Out!"
-date: 2024-10-01T21:12:32.640Z
-updated: 2024-10-04T02:32:49.511Z
+date: 2024-10-03T03:46:40.243Z
+updated: 2024-10-09T03:50:41.733Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,18 +92,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/solved-update-synaptics-ps2-port-touchpad-drivers-quickly-and-easily/"><u>[Solved] Update Synaptics PS/2 Port TouchPad Drivers Quickly & Easily</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-accelerate-lost-snap-content-find/"><u>[Updated] 2024 Approved Accelerate Lost Snap Content Find</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-ultimate-guide-to-podcast-introduction-skills-for-2024/"><u>[Updated] The Ultimate Guide to Podcast Introduction Skills for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/asmr-expertise-soundscapes-that-ease-sleeplessness/"><u>ASMR Expertise Soundscapes That Ease Sleeplessness</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comparing-standard-and-hdr-screens-the-case-for-aurora-for-2024/"><u>Comparing Standard and HDR Screens The Case for Aurora for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-drivers-for-your-hp-designjet-t520-or-t620-printer/"><u>Download the Latest Drivers for Your HP DesignJet T520 or T620 Printer</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ds-510-epson-driver-installation-steps-for-windows-users-free-downloads-available/"><u>DS-510 Epson Driver Installation Steps for Windows Users – Free Downloads Available</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722974052819-effortless-driver-installation-grab-your-usb-camera-software-today/"><u>Effortless Driver Installation: Grab Your USB Camera Software Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722961660934-essential-guide-to-downloading-m-audio-fast-track-driver-for-win-11-7881/"><u>Essential Guide to Downloading M-Audio Fast Track Driver for Win 11, 7/8/8.1</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-update-your-standard-sata-achi-controllers-driver/"><u>How to Seamlessly Update Your Standard SATA ACHI Controller's Driver</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-oppo-a58-4g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Oppo A58 4G Phone?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-depth-look-10-must-have-terraria-mods/"><u>In-Depth Look 10 Must-Have Terraria Mods</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-download-and-update-solution-for-hp-elitebook-8460p-on-windows-systems-fixed/"><u>Ultimate Download & Update Solution for HP Elitebook 8460P on Windows Systems [FIXED]</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-graphics-genesis-radeon-reclaimed-for-2024/"><u>[New] Graphics Genesis Radeon Reclaimed for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-windowsmac-captioning-crusade-the-ultimate-guide-to-text-placement-for-2024/"><u>[Updated] Windows/Mac Captioning Crusade The Ultimate Guide to Text Placement for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-engaging-audiences-making-popular-youtube-shorts/"><u>2024 Approved Engaging Audiences Making Popular YouTube Shorts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-most-recent-printer-driver-software-for-your-brother-hl-2240-on-windows/"><u>Download the Most Recent Printer Driver Software for Your Brother HL-2240 on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-cpu-game-with-an-amd-ryzen-9700x-overclocking-to-58ghz-and-beyond-using-cutting-edge-aio-liquid-coolers-surpassing-expectations-at-a-steady-idl32/"><u>Elevate Your CPU Game with an AMD Ryzen #9700X: Overclocking to 5.8GHz and Beyond Using Cutting-Edge AIO Liquid Coolers, Surpassing Expectations at a Steady Idle Speed of 6 GHz</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-updated-epson-wf-2750-printer-driver-here/"><u>Get the Updated Epson WF-2750 Printer Driver Here!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-vivo-x-fold-2-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Vivo X Fold 2 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y100a-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo Y100A Phone Without Password?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-wmv-video-cutter-top-picks/"><u>New Free WMV Video Cutter Top Picks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-solutions-to-tackle-bcm20-45a0-driver-troubles-with-ease/"><u>Quick Solutions to Tackle BCM20 45A0 Driver Troubles with Ease</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/taking-twitters-short-form-stories-and-making-them-come-alive-as-gifs/"><u>Taking Twitter's Short Form Stories and Making Them Come Alive as GIFS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-most-reliable-free-screen-capture-apps-for-mac-for-2024/"><u>The Most Reliable Free Screen Capture Apps for Mac for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-technique-to-upgrade-graphics-card-software-on-windows-11-computers/"><u>The Ultimate Technique to Upgrade Graphics Card Software on Windows 11 Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-guide-to-acquire-latest-ralink-network-card-drivers-in-windows-environment/"><u>Troubleshooting Guide to Acquire Latest Ralink Network Card Drivers in Windows Environment</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-hp-workstation-z440-compatible-driver-releases-and-download-links/"><u>Update Your HP Workstation Z440: Compatible Driver Releases and Download Links</u></a></li>
 </ul></div>
 

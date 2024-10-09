@@ -1,7 +1,7 @@
 ---
 title: 1. Experience the April 8 Eclipse with Google's Complimentary Viewing Options - Learn How!
-date: 2024-09-22T17:40:21.976Z
-updated: 2024-09-28T17:27:49.101Z
+date: 2024-10-08T05:12:19.979Z
+updated: 2024-10-08T22:10:02.736Z
 tags:
   - tvs
 categories:
@@ -59,10 +59,16 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 As great as the new Omni Series QLED models are, price is a big sticking point for me, especially since I personally don't use Alexa or want an Amazon-centric streaming experience. However, Amazon is currently running a sale on the [65-inch Omni Series QLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-65-inch-omni-qled-series-smart-tv%2Fdp%2FB0BJMGB9RN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1), bringing the price down to $690 -- which is much more in line with what I think this TV should be retailing for -- making it a great, budget-friendly option if you're looking to upgrade. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Picture and sound 
@@ -94,10 +100,10 @@ If you want a more elaborate audio setup, you can connect your TV to [Echo speak
 I would much rather see multi-device support for generic Bluetooth speakers and soundbars, since users might have audio equipment from different brands rather than a house full of Amazon-branded devices. You can set up non-Amazon speakers and soundbars with the TV but won't get that whole-home audio experience, which is a shame. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alexa and Amazon features 
@@ -107,13 +113,6 @@ As it's meant to be the centerpiece of your Amazon or Alexa-centered smart home 
 Taylor Clemons/ZDNET
 
 If you decide to download Alexa Skills, you can play music, games, check the weather, get daily trivia, or even make and receive video calls. Skills are what really set the Omni QLED apart from similar smart TVs from competitors like TCL and Hisense. Without access to these features, the Omni QLED is reduced to a pretty bog-standard smart TV with better-than-expected picture and audio capabilities. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Gaming 
 
@@ -142,10 +141,10 @@ I usually play console games with a headset so I can better pick up on audio cue
 If you're in the market for a TV strictly for console gaming, I'd highly recommend the Omni QLED. Even at the full $800, it's still a solid option against competitors from brands like Sony and LG when it comes to picture quality and a smoother, more enjoyable gameplay experience. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Streaming 
@@ -194,6 +193,19 @@ Many of the cool features are inextricably linked to Alexa functionality, so if 
 
 [Great for streaming Sony X77L The Sony X77L uses an LED panel to provide 4K resolution at a 60Hz refresh rate, which means that from sports and action movies to music videos and animated shorts, your media will have smooth motion, crisp details, and bold colors. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BZF2N3LM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)[Great budget option Amazon Fire TV 4-Series The Fire TV 4-Series from Amazon is a solid, budget-friendly option for anyone looking for a reliable second screen for their bedroom or affordable main TV. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-55-inch-4-series-4k-smart-tv%2Fdp%2FB0B3H6JPYZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
@@ -230,24 +242,22 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-future-of-interaction-with-microsofts-hololens-review/"><u>[New] 2024 Approved The Future of Interaction with Microsoft's HoloLens Review</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-multi-channel-mastery-coordinated-content-consumption/"><u>[New] In 2024, Multi-Channel Mastery Coordinated Content Consumption</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-the-role-and-significance-of-blue-icons-in-fb-chats-for-2024/"><u>[New] The Role and Significance of Blue Icons in FB Chats for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-top-6-respectful-android-recorder-apps-for-2024/"><u>[New] Top 6 Respectful Android Recorder Apps for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-enhancing-viewability-of-fb-videos-hv-debate/"><u>[Updated] 2024 Approved Enhancing Viewability of FB Videos – H/V Debate</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-plant-and-play-stardew-esque-gaming-winners/"><u>2024 Approved Plant and Play Stardew-Esque Gaming Winners</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-free-high-quality-streaming-tools-for-webm-video-files-for-2024/"><u>Best Free, High-Quality Streaming Tools for WebM Video Files for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-hp-officejet-5740-printer-drivers-on-windows-11-10-and-8/"><u>Download & Install HP OfficeJet 5740 Printer Drivers on Windows 11, 10 & 8</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-amd-radeon-rx-580-graphics-card-drivers-fast-simple-steps/"><u>Download & Update AMD Radeon RX 580 Graphics Card Drivers - Fast, Simple Steps!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-brother-ql-7800nw-printer-driver-for-free-today/"><u>Download the Brother QL-7800NW Printer Driver for Free Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-tutorial-on-upgrading-and-downloading-hp-laserjet-p3015-printer-software-for-windows-machines/"><u>Expert Tutorial on Upgrading and Downloading HP LaserJet P3015 Printer Software for Windows Machines</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explore-new-heights-increasing-window-11-icon-size/"><u>Explore New Heights: Increasing Window 11 Icon Size</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-downloading-and-installation-of-updated-netgear-a6200-driver-package-for-windows-87-operating-system/"><u>Free Downloading and Installation of Updated Netgear A6200 Driver Package for Windows 8/7 Operating System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-corsair-k55-driver-version-installed/"><u>Get the Latest Corsair K55 Driver Version Installed</u></a></li>
-<li><a href="https://win11.techidaily.com/guides-to-overcoming-geforce-nows-xc0f1103f-problem-in-win11/"><u>Guides to Overcoming GeForce Now’s Xc0f1103f Problem in Win11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-install-updated-canon-mx-492-printing-drivers-in-windows/"><u>How to Find and Install Updated Canon MX 492 Printing Drivers in Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-rainbow-six-extraction-from-crashing-while-playing-on-your-computer/"><u>How To Prevent Rainbow Six Extraction From Crashing While Playing on Your Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolved-common-problems-and-solutions-for-ralink-rt3290-drivers-in-various-windows-versions/"><u>Resolved! Common Problems and Solutions for Ralink RT3290 Drivers in Various Windows Versions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-integration-updating-the-software-interface-for-your-serial-to-usb-adapter/"><u>Seamless Integration: Updating the Software Interface for Your Serial-to-USB Adapter</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-crafting-sections-in-vimeo-videos/"><u>[New] Crafting Sections in Vimeo Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-avoiding-misdated-memories-with-exact-times/"><u>[Updated] 2024 Approved Avoiding Misdated Memories with Exact Times</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-zooms-acoustic-edge-unlocking-two-pronged-audio-perfection-for-2024/"><u>[Updated] Zoom's Acoustic Edge Unlocking Two-Pronged Audio Perfection for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/approach/"><u>Approach:</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/enhancing-privacy-and-security-the-importance-of-disconnecting-your-vizio-smart-tv-from-internet-access/"><u>Enhancing Privacy and Security: The Importance of Disconnecting Your Vizio Smart TV From Internet Access</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/file-system-limitations/"><u>File System Limitations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-installation-files-for-sound-blaster-audigy-fx/"><u>Free Download: Installation Files for Sound Blaster Audigy FX</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-drivers-for-your-hp-officejet-prise-4500-2024-version/"><u>Get the Newest Drivers for Your HP OfficeJet Prise 4500 - 2024 Version</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-cut-the-hassle-with-macos-easy-to-follow-video-size-adjustment-for-instagram/"><u>In 2024, Cut the Hassle with MacOS Easy-to-Follow Video Size Adjustment for Instagram</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-tp-link-wireless-network-adapter-driver-for-windows-users-supports-win11-8-and-7/"><u>Latest TP-Link Wireless Network Adapter Driver for Windows Users: Supports Win11, 8 & #7</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-csr8510-a10-chip-set-drivers-problems-on-windows-platform/"><u>Resolving CSR8510 A10 Chip Set Drivers Problems on Windows Platform</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-package-revelation-amplifying-initial-impressions-for-2024/"><u>The Art of Package Revelation Amplifying Initial Impressions for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-definitive-source-for-tech-comparisons-toms-hardware-opinions/"><u>The Definitive Source for Tech Comparisons: Tom's Hardware Opinions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-new-technology-insights-with-toms-hardware-guide/"><u>Unveiling New Technology Insights with Tom's Hardware Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/unveiling-the-ultimate-convenience-5-in-1-mini-baseus-powerstrip-with-67w-review-the-perfect-versatile-solution/"><u>Unveiling the Ultimate Convenience: 5-In-1 Mini Baseus PowerStrip with 67W Review – The Perfect Versatile Solution</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-list-of-free-tiktok-watermark-remover-websites/"><u>Updated The Ultimate List of Free TikTok Watermark Remover Websites</u></a></li>
 </ul></div>
 

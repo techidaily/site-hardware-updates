@@ -1,7 +1,7 @@
 ---
 title: AMD's Watercooled Warrior - Ryzen 9 9950X Shines at #5 Worldwide Speed Ranking on the Notorious Time Spy Extreme Test
-date: 2024-09-11T16:49:15.980Z
-updated: 2024-09-12T16:49:15.980Z
+date: 2024-10-03T19:20:03.648Z
+updated: 2024-10-09T08:47:04.302Z
 tags:
   - cpu
 categories:
@@ -34,13 +34,6 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -62,5 +55,31 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-add-a-professional-touch-youtube-video-image-crafting-for-2024/"><u>[New] Add a Professional Touch YouTube Video Image Crafting for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-elevating-aerial-photography-with-gopro-karma/"><u>[New] In 2024, Elevating Aerial Photography with GoPro Karma</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-comprehensive-guide-to-free-xbox-screen-recorder-use-for-2024/"><u>[Updated] Comprehensive Guide to Free Xbox Screen Recorder Use for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-channel-success-metrics-subscriber-and-play-buttons/"><u>2024 Approved Channel Success Metrics Subscriber & Play Buttons</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/critical-fixes-implemented-for-pci-encryption-decoding-system-driver-challenges/"><u>Critical Fixes Implemented for PCI Encryption Decoding System Driver Challenges</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-latest-version-comprehensive-guide-to-epson-et-3760-printer-drivers-on-windows/"><u>Download and Install the Latest Version: Comprehensive Guide to Epson ET-3760 Printer Drivers on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-setup-corsair-void-pro-drivers-on-windows-with-quick-steps-get-started-now/"><u>Download and Setup Corsair Void Pro Drivers on Windows with Quick Steps - Get Started Now</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-ways-to-set-up-a-secondary-email-address-with-googles-mail-service/"><u>Easy Ways to Set Up a Secondary Email Address with Google's Mail Service</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-brother-hl-3170cdw-drivers-instant-downloads-and-steps-for-smooth-operation/"><u>Get Brother HL-3170CDW Drivers: Instant Downloads and Steps for Smooth Operation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-freely-accessible-platforms-for-professional-photography-edits/"><u>In 2024, Freely Accessible Platforms for Professional Photography Edits</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-best-online-locations-to-find-and-download-open-source-closing-music/"><u>New Best Online Locations to Find and Download Open-Source Closing Music</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/offline-methods-to-update-and-install-windows-hardware-drivers/"><u>Offline Methods to Update and Install Windows Hardware Drivers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/pictureprofessional-expert-guide-to-adjusting-ig-content-sizes/"><u>PictureProfessional Expert Guide to Adjusting IG Content Sizes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-steps-to-upgrade-your-asus-maximus-x-hero-graphics-card-fast-and-troubleshoot/"><u>Simple Steps to Upgrade Your ASUS Maximus X Hero Graphics Card - Fast and Troubleshoot</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-computer-gear-featuring-toms-insights/"><u>The Ultimate Guide to Computer Gear Featuring Tom's Insights</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-itel-p40plus-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Itel P40+ Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zen-daddy/"><u>Zen Daddy</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

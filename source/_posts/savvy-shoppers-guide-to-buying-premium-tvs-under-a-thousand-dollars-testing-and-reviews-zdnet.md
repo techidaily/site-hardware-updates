@@ -1,7 +1,7 @@
 ---
 title: Savvy Shopper's Guide to Buying Premium TVs Under a Thousand Dollars | Testing and Reviews | ZDNet
-date: 2024-09-27T17:50:07.303Z
-updated: 2024-10-03T17:22:00.178Z
+date: 2024-10-07T16:17:25.933Z
+updated: 2024-10-08T18:11:05.332Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,18 +99,24 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-free-webinar-recorders-manual/"><u>[New] 2024 Approved The Free Webinar Recorder's Manual</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-secure-storage-strategies-for-itunes-media/"><u>[New] In 2024, Secure Storage Strategies for iTunes Media</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-unlock-the-power-of-filmora-for-effective-avi-to-gif-conversion-for-2024/"><u>[New] Unlock the Power of Filmora for Effective AVI-to-GIF Conversion for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-streaming-gopro-on-social-platforms-a-step-by-step-guide/"><u>[Updated] Streaming GoPro on Social Platforms A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/aspiring-pro-modders-expert-advice-and-essential-strategies/"><u>Aspiring Pro Modders: Expert Advice and Essential Strategies</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/from-free-to-fiscal-determining-view-counts-for-youtube-earnings-for-2024/"><u>From Free to Fiscal Determining View Counts for YouTube Earnings for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Infinix Note 30 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-oppo-reno-8t-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Oppo Reno 8T ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/pioneering-hardware-analysis-with-toms-technology-blog/"><u>Pioneering Hardware Analysis with Tom's Technology Blog</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-the-ultimate-guide-to-the-latest-in-computer-components/"><u>Tom's Tech Review: The Ultimate Guide to the Latest in Computer Components</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-10-user-friendly-budget-optimizing-passport-photo-creators-for-2024/"><u>Top 10 User-Friendly, Budget-Optimizing Passport Photo Creators for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-the-secret-how-neweggs-innovative-pc-assembly-scheme-secures-scarce-parts/"><u>Unlocking the Secret: How Newegg's Innovative PC Assembly Scheme Secures Scarce Parts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cr2-movavi/"><u>オンラインでスムーズにCR2ファイルを変換! 評判のMovaviアプリ</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-expert-recommendations-best-phonespcs-for-chatting-online/"><u>[New] In 2024, Expert Recommendations Best Phones/PCs for Chatting Online</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-optimize-your-youtube-videos-faster-rendering-smarter-uploads/"><u>[Updated] In 2024, Optimize Your YouTube Videos Faster Rendering, Smarter Uploads</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-edge-of-gaming-technology-samsung-ue590-monitor/"><u>2024 Approved The Edge of Gaming Technology Samsung UE590 Monitor</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-best-cpus-in-depth-benchmarking-and-rankings-insight/"><u>Discover the Best CPUs : In-Depth Benchmarking & Rankings Insight</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-driver-software-setup-for-your-lenovo-legion-ebook-the-professional-guide-model-16ach6h/"><u>Easy Driver Software Setup for Your Lenovo Legion eBook: The Professional Guide [Model 16ACH6H]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-smooth-printing-with-updated-epson-l3150-drivers-on-windows-11-8-and-7-secure-your-free-download-now/"><u>Ensure Smooth Printing with Updated Epson L3150 Drivers on Windows 11, 8 & 7 - Secure Your Free Download Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-download-ricoh-mp-c3003-printer-compatible-software-today/"><u>Find & Download Ricoh MP C3003 Printer Compatible Software Today!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/finding-value-in-sport-photography-cameras-for-the-price-conscious/"><u>Finding Value in Sport Photography – Cameras for the Price-Conscious</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-securely-obtain-the-latest-version-of-intels-hd-graphics-driver-55-groovycats-5500/"><u>How to Securely Obtain the Latest Version of Intel's HD Graphics Driver 55 Groovy_cats 5500</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-a-tactical-approach-to-youtube-video-enhancement-with-imovie/"><u>In 2024, A Tactical Approach to YouTube Video Enhancement with iMovie</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-motorola-moto-g-stylus-5g-2023-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Motorola Moto G Stylus 5G (2023)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-intel-wireless-network-drivers-download-for-windows-pcs/"><u>Latest Intel Wireless Network Drivers Download for Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-m-audio-driver-installers-for-windows-107881-users/"><u>Latest M-Audio Driver Installers for Windows 10/7/8/8.1 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-radeon-rx-470-graphics-card-drivers-easy-download-and-updates/"><u>Latest Radeon RX 470 Graphics Card Drivers: Easy Download & Updates</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/living-your-best-life-with-insights-from-chatgpt-expertise/"><u>Living Your Best Life with Insights From ChatGPT Expertise</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macx-mediatrans-der-bevorzugte-offizielle-medienverschiebungslosung-zum-synchronisieren-von-fotos-videos-and-musik-auf-ihrem-iphoneipad/"><u>MacX MediaTrans: Der Bevorzugte Offizielle Medienverschiebungslösung Zum Synchronisieren Von Fotos, Videos & Musik Auf Ihrem iPhone/iPad</u></a></li>
+<li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/sign-a-pdf-v20-document-with-electronic-signature-tool-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Sign a PDF v2.0 document with electronic signature tool</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-asus-laptops-drivers-download-and-installation-tips/"><u>Update Your ASUS Laptop's Drivers - Download & Installation Tips</u></a></li>
 </ul></div>
 

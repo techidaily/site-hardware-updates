@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Backyard Bashes with These Essential Gadgets, According to ZDNet
-date: 2024-10-01T17:46:12.886Z
-updated: 2024-10-03T19:57:51.655Z
+date: 2024-10-06T03:24:25.344Z
+updated: 2024-10-08T18:42:50.178Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,18 +92,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-15-best-free-tools-for-downloading-high-fidelity-soundtracks-directly-from-youtube/"><u>[New] 2024 Approved 15 Best Free Tools for Downloading High-Fidelity Soundtracks Directly From YouTube</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-ace-your-gift-shopping-the-ultimate-guide-to-selecting-specialty-stores/"><u>[New] 2024 Approved Ace Your Gift Shopping The Ultimate Guide to Selecting Specialty Stores</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-zooming-in-on-sound-excellence-techniques-for-top-tier-quality-for-2024/"><u>[Updated] Zooming In on Sound Excellence Techniques for Top-Tier Quality for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-master-meeting-magic-key-ways-to-tweak-with-zoom-converter/"><u>2024 Approved Master Meeting Magic Key Ways to Tweak with Zoom Converter</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-self-shutting-windows-11-units/"><u>Addressing Self-Shutting Windows 11 Units</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-takes-the-lead-with-fastest-new-mobile-chip-against-apples-m3-max-multi-core-war-commences/"><u>AMD Takes the Lead with Fastest New Mobile Chip Against Apple's M3 Max - Multi-Core War Commences!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/die-ultimativen-5-videospieler-mit-360-unterstutzung-unter-windows-und-macos-ihre-perfekte-wahl/"><u>Die Ultimativen 5 Videospieler Mit 360° Unterstützung Unter Windows Und macOS - Ihre Perfekte Wahl!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-drivers-for-your-logitech-k400-plus-device-set/"><u>Download Drivers for Your Logitech K400 Plus Device Set</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/epson-v600-scanner-and-photodrive-software-download-the-complete-guide/"><u>Epson V600 Scanner & Photodrive Software Download – The Complete Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722963102368-get-the-latest-windows-7-compatible-amd-radeon-graphics-drivers-here/"><u>Get the Latest Windows 7 Compatible AMD Radeon Graphics Drivers Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-update-and-download-procedures-for-your-epson-printer-drivers-with-windows-11-compatibility/"><u>Seamless Update & Download Procedures for Your Epson Printer Drivers with Windows 11 Compatibility</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-essential-role-of-voice-in-visual-content/"><u>The Essential Role of Voice in Visual Content</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-scan-back-to-operational-state/"><u>Windows Scan: Back to Operational State</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-apex-thrill-racers-our-favorites-5/"><u>[New] 2024 Approved Apex Thrill Racers Our Favorites (5)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-enhance-and-unblur-photo-editing-tools-ranked-1-10/"><u>[New] 2024 Approved Enhance and Unblur Photo Editing Tools Ranked #1-10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-swiftly-excise-your-youtube-comment-spam/"><u>[Updated] 2024 Approved How to Swiftly Excise Your Youtube Comment Spam</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-sideways-to-symmetry-the-ultimate-manual-of-visual-storytelling-through-rotations-on-social-media/"><u>[Updated] From Sideways to Symmetry The Ultimate Manual of Visual Storytelling Through Rotations on Social Media</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-solving-obs-high-bitrate-issues-for-2024/"><u>[Updated] Solving OBS High Bitrate Issues for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-immersion-guide-to-lgs-360-vr-headset/"><u>2024 Approved The Ultimate Immersion Guide to LG's 360 VR Headset</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-driver-update-instructions-for-hp-designjet-500-series-t620-t520/"><u>Easy Driver Update Instructions for HP DesignJet 500 Series (T620, T520)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-brother-hl-l2300d-printer-up-to-date-with-these-updated-drivers/"><u>Get Your Brother HL-L2300D Printer Up to Date with These Updated Drivers!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-securely-download-and-update-your-epson-scanner-driver/"><u>How to Securely Download & Update Your Epson Scanner Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-up-to-date-drivers-for-your-gigabyte-gc-wb867d-motherboard-here/"><u>Install Up-to-Date Drivers for Your GIGABYTE GC-WB867D Motherboard Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/razer-blackwidow-drivers-latest-updates-and-compatibility-checks/"><u>Razer BlackWidow Drivers - Latest Updates & Compatibility Checks</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/syma-s111g-rc-helicopter-review/"><u>Syma S111G RC Helicopter Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tips-how-to-download-and-install-toshiba-copy-machine-drivers-on-pcs-with-windows-os/"><u>Tips: How to Download and Install Toshiba Copy Machine Drivers on PCs with Windows OS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/unlocking-dvd-content-tutorial-for-transforming-secure-dvd-media-into-efficiently-sized-avi-divx-videos/"><u>Unlocking DVD Content: Tutorial for Transforming Secure DVD Media Into Efficiently Sized AVI DivX Videos</u></a></li>
 </ul></div>
 

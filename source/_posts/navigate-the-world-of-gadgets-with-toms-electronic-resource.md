@@ -1,7 +1,7 @@
 ---
 title: Navigate the World of Gadgets with Tom’s Electronic Resource
-date: 2024-09-11T16:47:32.981Z
-updated: 2024-09-12T16:47:32.981Z
+date: 2024-10-02T23:16:20.170Z
+updated: 2024-10-08T23:49:52.732Z
 tags:
   - cpu
 categories:
@@ -27,13 +27,6 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
  The Cixin P1 is a very unique processor. While it does not fulfill Beijing's goals of being a fully home-grown processor because it uses Arm CPU and GPU designs, the chip is specifically designed for the needs of the Chinese market and stands ready to enjoy some level of success. It also sadly does not meet[Microsoft](https://www.tomshardware.com/tag/microsoft) 's arbitrary "AI PC" requirements. The P1's NPU on its own is only 30 TOPS — shy of the 40 TOPS target — though it's likely that Cixin could not care less about Windows Copilot+ certification.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -57,5 +50,25 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-updates.techidaily.com/download-usb-c-driver-on-windows-10/"><u>[Download] USB-C Driver on Windows 10</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ow-to-blur-faces-or-objects-in-youtube-videos/"><u>[New] How to Blur Faces or Objects in YouTube Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-unveiled-the-premier-places-to-obtain-snapchat-audio-for-2024/"><u>[New] Unveiled The Premier Places to Obtain Snapchat Audio for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-15-high-performing-instagram-content-extractors/"><u>[Updated] 2024 Approved 15 High-Performing Instagram Content Extractors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5-schnelle-und-einfache-methoden-zum-ubertragen-von-dateien-von-ihrem-iphone-auf-den-pc-eine-umfassende-anleitung/"><u>5 Schnelle Und Einfache Methoden Zum Übertragen Von Dateien Von Ihrem iPhone Auf Den PC: Eine Umfassende Anleitung</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beware-of-blind-faith-in-ai-top-6-concerns-to-consider/"><u>Beware of Blind Faith in AI: Top 6 Concerns to Consider</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-updates-for-hp-elitebook-8460p-drivers-on-windows-solutions-and-guides/"><u>Download & Install Updates for HP EliteBook 8460P Drivers on Windows: Solutions and Guides</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/educations-new-era-vr-integration/"><u>Education's New Era VR Integration</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-update-windows-sata-drivers-a-comprehensive-tutorial/"><u>How to Download and Update Windows SATA Drivers - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-effortlessly-upgrade-and-enhance-amd-graphics-performance/"><u>How to Effortlessly Upgrade and Enhance AMD Graphics Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722964640226-quick-and-painless-setup-of-your-samsung-m2070-drivers-a-comprehensive-guide/"><u>Quick and Painless Setup of Your Samsung M2070 Drivers - A Comprehensive Guide!</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

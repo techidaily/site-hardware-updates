@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Viewing Experience: The Long-Throw Projector That's a Steal at $200 Off – Why I Ditched My TV"
-date: 2024-09-27T23:14:12.127Z
-updated: 2024-10-03T19:30:27.115Z
+date: 2024-10-08T03:48:25.170Z
+updated: 2024-10-09T05:29:43.123Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,21 +92,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-fresh-concepts-for-youtube-channels-inspiration-at-its-peak/"><u>[New] 2024 Approved Fresh Concepts for YouTube Channels Inspiration at Its Peak</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-best-bargain-scene-for-no-cost-video-capturing-on-chromebooks-for-2024/"><u>[New] Best Bargain Scene for No-Cost Video Capturing on Chromebooks for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-your-pathway-to-audio-mastery-download-and-install-vrecorder/"><u>[New] In 2024, Your Pathway to Audio Mastery - Download & Install VRecorder</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-usb-bluetooth-dongle-drivers-on-windows/"><u>Download & Update USB Bluetooth Dongle Drivers on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-nvidia-geforce-game-ready-driver-for-windows/"><u>Download NVIDIA GeForce Game Ready Driver for Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722966779533-get-your-hands-on-qualcomms-atheros-bluetooth-ar3011-v30-driver-here/"><u>Get Your Hands on Qualcomm's Atheros Bluetooth AR3011 v3.0 Driver Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hp-m477-all-in-one-laser-printer-drivers-here/"><u>Get Your HP M477 All-in-One Laser Printer Drivers Here!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/highlighting-key-developments-in-windows-movie-maker-releases/"><u>Highlighting Key Developments in Windows Movie Maker Releases</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-infinix-smart-8-plus-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Infinix Smart 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-honor-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Honor</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/laserjet-p1006-printing-solutions-secure-download-of-your-necessary-drivers-and-utilities/"><u>LaserJet P1006 Printing Solutions: Secure Download of Your Necessary Drivers and Utilities</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/microsoft-driver-fix-addressing-acpi-compatible-control-method-for-batteries-issues-successfully/"><u>Microsoft Driver Fix: Addressing ACPI Compatible Control Method for Batteries Issues Successfully</u></a></li>
-<li><a href="https://win11.techidaily.com/stepwise-customization-how-to-innovate-with-pattern-locks-on-pc/"><u>Stepwise Customization: How to Innovate with Pattern Locks on PC</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/stop-printerevolving-spooler-error-wx-w10-and-w11/"><u>Stop Printer'evolving Spooler Error (WX, W10 & W11)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-lg-watch-styles-legacy-a-closer-look-at-standard-wear-os-20-features-and-functionality/"><u>Unveiling the LG Watch Style's Legacy: A Closer Look at Standard Wear OS 2.0 Features and Functionality</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-sataahci-controller-drivers-with-minimal-hassle/"><u>Update SATA/AHCI Controller Drivers with Minimal Hassle</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-innovative-solutions-for-high-fidelity-webinars/"><u>[New] In 2024, Innovative Solutions for High Fidelity Webinars</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-broadcast-your-games-with-professional-skill-for-2024/"><u>[Updated] Broadcast Your Games with Professional Skill for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2023-endless-ears-on-facebook-downloads-for-2024/"><u>2023 Endless Ears on Facebook Downloads for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-building-your-brand-making-money-with-vids/"><u>2024 Approved Building Your Brand Making Money with Vids</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-walkthrough-downloading-the-right-software-for-your-xbox-1360-controller/"><u>Complete Walkthrough: Downloading the Right Software for Your Xbox 1/360 Controller</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-microsoft-ergonomic-keyboard-4000-driverseasily-and-quickly/"><u>Download Microsoft Ergonomic Keyboard 4000 Drivers|Easily & Quickly</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/easily-capturing-iphone-screens-on-the-go/"><u>Easily Capturing iPhone Screens on the Go</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-setup-find-and-download-your-samsung-m2070fw-printer-drivers-now/"><u>Effortless Setup: Find and Download Your Samsung M2070FW Printer Drivers Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixing-asus-pce-ac56-drivers-on-windows-10-8-and-7-comprehensive-solutions/"><u>Fixing ASUS PCE-AC56 Drivers on Windows 10, 8 & 7 - Comprehensive Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-free-techkey-bluetooth-usb-driver-for-windows-pcs-win1178/"><u>Get Your Free Techkey Bluetooth USB Driver for Windows PCs (Win11/7/8)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/heaviest-lifting-uavs-the-definitive-top-10-for-2024/"><u>Heaviest Lifting UAVs The Definitive Top 10 for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-apple-iphone-drivers-seamlessly-onto-windows-10-devices/"><u>How To: Install Apple iPhone Drivers Seamlessly Onto Windows 10 Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fast-track-choosing-best-pc-game-speed-extensions/"><u>In 2024, Fast Track Choosing Best PC Game Speed Extensions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/optimizing-hp-screen-performance-correcting-driver-issues-in-modern-windows-os-versions/"><u>Optimizing HP Screen Performance: Correcting Driver Issues in Modern Windows OS Versions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-culinary-skills-with-these-7-handy-chatgpt-tricks-for-home-chefs/"><u>Revolutionize Your Culinary Skills with These 7 Handy ChatGPT Tricks for Home Chefs</u></a></li>
 </ul></div>
 

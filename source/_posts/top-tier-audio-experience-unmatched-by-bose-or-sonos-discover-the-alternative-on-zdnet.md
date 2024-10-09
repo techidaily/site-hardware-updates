@@ -1,7 +1,7 @@
 ---
 title: Top-Tier Audio Experience Unmatched by Bose or Sonos - Discover the Alternative on ZDNet
-date: 2024-10-02T18:35:55.739Z
-updated: 2024-10-04T00:40:36.303Z
+date: 2024-10-03T09:23:26.681Z
+updated: 2024-10-09T01:25:38.530Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,22 +99,20 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-art-with-sony-fdr-x1000v-action-footage/"><u>[New] Mastering the Art with Sony FDR-X1000V Action Footage</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-to-flawless-gopro-4k-edits/"><u>[Updated] Unveiling the Secrets to Flawless GoPro 4K Edits</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-guide-securely-integrating-tiktok-profile-links/"><u>2024 Approved Ultimate Guide Securely Integrating TikTok Profile Links</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficiently-disconnect-your-bluetooth-devices-from-pcs-running-windows-11-or-10/"><u>Efficiently Disconnect Your Bluetooth Devices From PCs Running Windows 11 or 10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-setting-up-automated-text-messaging-timers-on-your-iphone/"><u>Guide: Setting Up Automated Text Messaging Timers on Your iPhone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-non-functioning-headphones-on-your-windows-7-pc/"><u>How to Fix Non-Functioning Headphones on Your Windows 7 PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-update-software-for-your-logitech-m510-mouse/"><u>How to Successfully Update Software for Your Logitech M510 Mouse</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/intels-lunar-lake-project-outsourced-assembly-and-upgrades-via-panther-lake-incorporating-clearwater-forest-power-systems/"><u>Intel's Lunar Lake Project: Outsourced Assembly and Upgrades via Panther Lake, Incorporating Clearwater Forest Power Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-hp-officejet-4500-printer-software-upgrade-available-for-free/"><u>Latest HP Officejet 4500 Printer Software Upgrade Available for Free !</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-rtx-2060-driver-download-for-windows-11-10-8-7/"><u>Latest RTX 2060 Driver Download for Windows 11, 10, 8, 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-guide-microsoft-drivers-downloads-and-updates-for-windows-10-8-and-7/"><u>Quick Guide: Microsoft Drivers Downloads and Updates for Windows 10, 8, and 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/realtek-rtl8188ee-80211bgn-wifi-adapter-driver-download-for-windows/"><u>Realtek RTL8188EE 802.11Bgn WiFi Adapter Driver Download for Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-downloads-and-updates-for-microsoft-surface-drivers/"><u>Seamless Downloads & Updates for Microsoft Surface Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-latest-mono-laser-driver-for-your-dell-2330d-or-2330dn-printer/"><u>Step-by-Step Guide: Installing Latest Mono Laser Driver for Your Dell 2330D or 2330DN Printer</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-complete-guide-to-decluttered-image-designs-on-canva-for-2024/"><u>The Complete Guide to Decluttered Image Designs on Canva for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-complete-guide-to-help-you-convert-srt-to-xml-ssa-ttml-and-othe-for-2024/"><u>The Complete Guide to Help You Convert SRT to XML, SSA, TTML, and Othe for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-best-vocal-trackers-essential-software-for-seamless-sound-capture/"><u>Updated In 2024, Best Vocal Trackers Essential Software for Seamless Sound Capture</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-elevate-your-viewing-game-with-concurrent-channel-watches/"><u>[New] In 2024, Elevate Your Viewing Game with Concurrent Channel Watches</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-most-improved-10-elements-of-terraria-for-2024/"><u>[New] Most Improved 10 Elements of Terraria for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-10-converters-free-apps-for-efficient-srt-file-transformations/"><u>[New] Prime 10 Converters FREE Apps for Efficient SRT File Transformations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unlock-efficient-airdrop-transfers-fixes-for-all-apple-gadgets-for-2024/"><u>[Updated] Unlock Efficient AirDrop Transfers - Fixes for All Apple Gadgets for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/competing-titans-chatgpt-versus-claudes-capabilities/"><u>Competing Titans: ChatGPT Versus Claude's Capabilities</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-stylish-dell-alienware-aurora-r9-for-gamers/"><u>Comprehensive Analysis of the Stylish Dell Alienware Aurora R9 for Gamers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-instructions-for-hp-laserjet-pro-p3015-printer-drivers-on-windows-systems/"><u>Download and Update Instructions for HP LaserJet Pro P3015 Printer Drivers on Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-intel-wifi-driver-for-windows/"><u>Download Intel WiFi Driver for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-driver-and-updates-installation-guide-for-brother-mfc-7360n-printer-on-windows-11-8-or-7/"><u>Easy Driver and Updates Installation Guide for Brother MFC-7360N Printer on Windows 11, 8, or 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-file-management-on-windows-11-mastering-the-art-of-file-explorer/"><u>Effortless File Management on Windows 11: Mastering the Art of File Explorer</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-y200e-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo Y200e 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-best-performance-from-your-gtx-1650-supers-download-and-update-to-newest-drivers-for-windows-11/"><u>Get the Best Performance From Your GTX 1650 Supers: Download & Update to Newest Drivers for Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-and-installing-new-hp-laserjet-p1007-driver-software-easy-guide/"><u>Getting and Installing New HP LaserJet P1007 Driver Software | Easy Guide</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-13-pro-max-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone 13 Pro Max to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-acers-free-wi-fi-drivers-made-easy-get-started-now/"><u>Installing Acer's Free Wi-Fi Drivers Made Easy - Get Started Now!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Launch of China’s Latest Self-Designed AI Processor: 45 TOPS, Arm-Based, Begins Full Scale Manufacture"
-date: 2024-09-11T16:48:55.355Z
-updated: 2024-09-12T16:48:55.355Z
+date: 2024-10-03T20:24:56.023Z
+updated: 2024-10-09T01:14:32.236Z
 tags:
   - cpu
 categories:
@@ -35,13 +35,6 @@ The launch of AMD’s highly anticipated[Ryzen 9000](https://www.tomshardware.co
 
  Intel won't have an answer for Ryzen 9000 until later this year with the chipmaker's next-generation Core Ultra 200 (codenamed Arrow Lake) processors. With the whole[Raptor Lake and Raptor Lake Refresh instability](https://www.tomshardware.com/pc-components/intel-raptor-lake-instability-troubles-everything-you-need-to-know) drama and Ryzen 9000's attractive MSRP, Intel will not easily compete with Zen 5.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,5 +56,31 @@ The launch of AMD’s highly anticipated[Ryzen 9000](https://www.tomshardware.co
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-transform-your-tiktok-footage-with-enlarged-characters/"><u>[New] In 2024, Transform Your TikTok Footage with Enlarged Characters</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-powerhouse-guide-to-innovative-mobizen-screencasting-techniques/"><u>[Updated] 2024 Approved Powerhouse Guide to Innovative Mobizen Screencasting Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-swift-remedies-to-rescue-your-windows-10-photos-app/"><u>2024 Approved Swift Remedies to Rescue Your Windows 10 Photos App</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/capturing-life-with-iphones-dual-function-capability-for-2024/"><u>Capturing Life with iPhone’s Dual-Function Capability for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/chinas-telecom-giants-overhaul-infrastructure-switching-to-native-processor-platforms-for-servers/"><u>China's Telecom Giants Overhaul Infrastructure: Switching to Native Processor Platforms for Servers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cutting-edge-imagery-iphones-photo-cropping-techniques/"><u>Cutting Edge Imagery IPhone's Photo Cropping Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-geforce-rtx-3060-ti-graphics-card-driver-for-windows/"><u>Download GeForce RTX 3060 Ti Graphics Card Driver for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-official-canon-pixma-mg5420-driver-for-windows-10-8-or-7-free-download-now/"><u>Get Official Canon Pixma MG5420 Driver for Windows 10, 8 or 7 – Free Download Now!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-magic-v2-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor Magic V2 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-your-epson-xp-330-with-official-updated-drivers-today/"><u>Install Your Epson XP-330 with Official, Updated Drivers Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-6-techniques-to-resolve-dreamlight-valleys-pc-compatibility-woes/"><u>Mastering Stability: 6 Techniques to Resolve Dreamlight Valley's PC Compatibility Woes</u></a></li>
+<li><a href="https://solve-help.techidaily.com/step-by-step-guide-installing-libdvdcss-library-on-macos-illustrated-method/"><u>Step-by-Step Guide: Installing Libdvdcss Library on macOS - Illustrated Method</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-process-of-downloading-new-mouse-drivers-for-windows-7-users/"><u>Step-by-Step Process of Downloading New Mouse Drivers for Windows 7 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722963662119-step-by-step-download-drivers-for-your-microsoft-4000-ergonomic-keyboard-today/"><u>Step-by-Step: Download Drivers for Your Microsoft 4000 Ergonomic Keyboard Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/twice-this-number-is-represented-by-2x/"><u>Twice This Number Is Represented by ( 2X ).</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970862344-zero-cost-full-functionality-download-the-qualcomm-atheros-ar938x-driver-now/"><u>Zero Cost, Full Functionality - Download the Qualcomm Atheros AR938X Driver Now!</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
