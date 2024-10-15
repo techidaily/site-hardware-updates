@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Deal: Score a 20%% Discount on an 85"
-date: 2024-10-02T21:09:10.241Z
-updated: 2024-10-09T06:38:08.210Z
+date: 2024-10-09T16:03:45.626Z
+updated: 2024-10-15T16:30:06.442Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
@@ -91,10 +91,10 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,22 +133,18 @@ Should you buy one if you're looking for a portable projector that doesn't have 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-facebook-live-video-downloaders-how-to-download-live-videos/"><u>[New] 2024 Approved Facebook Live Video Downloaders | How to Download Live Videos?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-augmenting-aerial-mastery-10-essential-drone-accessories/"><u>[New] Augmenting Aerial Mastery 10 Essential Drone Accessories</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-alternatives-at-a-glance-choosing-the-best-platforms/"><u>[New] YouTube Alternatives at a Glance Choosing the Best Platforms</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-enhancing-comments-with-emojis-on-youtube-for-2024/"><u>[Updated] Enhancing Comments with Emojis on YouTube for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-essential-mac-screen-recorders-top-10-free-list/"><u>[Updated] In 2024, Essential Mac Screen Recorders – Top 10 FREE List</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-streamline-your-channels-customized-end-screen-templates/"><u>[Updated] Streamline Your Channels Customized End Screen Templates</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-samsung-galaxy-a25-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Samsung Galaxy A25 5G Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-downloading-and-installing-updated-drivers-for-creative-webcams-on-windows-pcs/"><u>Complete Guide to Downloading & Installing Updated Drivers for Creative Webcams on Windows PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/customers-contact-information-and-preferred-contact-method-ensuring-privacy-is-maintained/"><u>Customer's Contact Information and Preferred Contact Method, Ensuring Privacy Is Maintained.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-installation-guide-hp-printer-drivers-on-windows-11/"><u>Download & Installation Guide: HP Printer Drivers on Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-edge-in-gaming-a-step-by-step-tutorial-on-upgrading-to-asus-970-pro-graphics/"><u>Get the Edge in Gaming: A Step-by-Step Tutorial on Upgrading to ASUS 970 Pro Graphics</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-windows-compatible-drivers-for-your-amd-radeon-r9-200-gpus-step-by-step-guide/"><u>Get the Latest Windows-Compatible Drivers for Your AMD Radeon R9 200 GPUs – Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-latest-epson-xp-400-printer-driver-a-complete-guide/"><u>How to Install the Latest Epson XP-400 Printer Driver - A Complete Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-obtain-and-improve-performance-with-intel-hd-graphics-driver-5500-update/"><u>How To Obtain & Improve Performance with Intel HD Graphics Driver #5500 Update</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-14-plus-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 14 Plus to iPhone | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-firmware-enhancements-for-canons-lide-220-scanning-device-secure-your-download-here/"><u>Latest Firmware Enhancements for Canon's LiDE 220 Scanning Device - Secure Your Download Here!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-infinix-smart-8-hd-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Infinix Smart 8 HD Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-complete-evaluation-the-dji-inspire-1-unveiled/"><u>[New] Complete Evaluation The DJI Inspire 1 Unveiled</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-banishing-unwanted-green-in-mac-recorded-youtube-content/"><u>[Updated] 2024 Approved Banishing Unwanted Green in Mac-Recorded YouTube Content</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-pioneering-televised-facebook-interactions-via-live-streams/"><u>[Updated] Pioneering Televised Facebook Interactions via Live Streams</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-social-media-visuals-aspect-ratio-decisions/"><u>[Updated] Social Media Visuals Aspect Ratio Decisions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-your-samsung-c460-drivers-instantly-and-effortlessly/"><u>Download Your Samsung C460 Drivers Instantly & Effortlessly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-guide-installing-latest-nvidia-display-drivers-for-windows-operating-systems/"><u>Free Guide: Installing Latest NVIDIA Display Drivers for Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-drivers-for-your-logitech-g933-gaming-headset-now/"><u>Get the Latest Drivers for Your Logitech G933 Gaming Headset Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-safely-get-and-install-lenovos-latest-bluetooth-drivers-for-pc-windows-710-edition/"><u>How to Safely Get & Install Lenovo's Latest Bluetooth Drivers for PC - Windows 7/10 Edition</u></a></li>
+<li><a href="https://fox-http.techidaily.com/implementing-look-up-tables-luts-to-elevate-design-work/"><u>Implementing Look-Up Tables (LUTs) to Elevate Design Work</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keeping-your-lenovo-ideapad-100-running-smoothly-in-windows-11-driver-download-and-update-guide/"><u>Keeping Your Lenovo IdeaPad 100 Running Smoothly in Windows 11 - Driver Download & Update Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-persistent-green-display-issues-in-windows-10-computers/"><u>Overcoming Persistent Green Display Issues in Windows 10 Computers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-part-reviews-and-advice/"><u>Tom's Computer Part Reviews and Advice</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transformative-visual-experiences-with-tiktok-enhancements-for-2024/"><u>Transformative Visual Experiences with TikTok Enhancements for 2024</u></a></li>
 </ul></div>
 

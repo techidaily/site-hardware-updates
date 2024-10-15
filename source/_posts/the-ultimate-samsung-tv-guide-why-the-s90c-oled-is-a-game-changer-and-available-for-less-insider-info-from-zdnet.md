@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Samsung TV Guide: Why the S90C OLED Is a Game-Changer and Available for Less - Insider Info From ZDNET"
-date: 2024-10-04T04:00:20.460Z
-updated: 2024-10-08T21:48:06.674Z
+date: 2024-10-14T16:29:25.443Z
+updated: 2024-10-15T16:50:20.587Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,17 +92,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-top-tweet-talent-showdown-1-10-edition/"><u>[Updated] In 2024, Top Tweet Talent Showdown #1-#10 Edition</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-guide-to-refresh-lenovo-ideapad-t430s-drivers-on-windows-speedy-solutions-inside/"><u>Effortless Guide to Refresh Lenovo IdeaPad T430s Drivers on Windows – Speedy Solutions Inside</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/elevate-your-online-video-quality-mastery-in-finalcut-for-youtube/"><u>Elevate Your Online Video Quality Mastery in FinalCut for YouTube</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722959139755-get-the-latest-surface-driver-software-effortlessly-downloaded-here/"><u>Get the Latest Surface Driver Software Effortlessly Downloaded Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hp-deskjet-ink-advantage-3050a-updated-drivers-secure-compatibility-with-windows-download-now/"><u>Get Your HP Deskjet Ink Advantage 3050A Updated Drivers: Secure Compatibility with Windows - Download Now</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-breakdown-fb-video-aspect-ratios/"><u>In 2024, Breakdown FB Video Aspect Ratios</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-vivo-y77t-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Vivo Y77t Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-stability-tweaks-to-fix-and-optimize-elite-dangerous-on-your-personal-computer/"><u>Mastering Stability Tweaks to Fix and Optimize Elite Dangerous on Your Personal Computer</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/quick-remedies-for-your-league-of-legends-downfall-issues/"><u>Quick Remedies for Your League of Legends Downfall Issues</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-graphic-card-drivers-in-windows-11/"><u>Step-by-Step Guide: Updating Your Graphic Card Drivers in Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-5-ai-companions-for-inspirational-content-creation/"><u>The Ultimate List of 5 AI Companions for Inspirational Content Creation</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unrivaled-android-podcast-apps/"><u>Unrivaled Android Podcast Apps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-update-to-the-newest-geforce-rtx-3080-driver-for-pcs-running-windows-11-8-or-7/"><u>[Free] Update to the Newest GeForce RTX 3080 Driver for PCs Running Windows 11, 8 or 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-epson-xp-330-drivers-today-hassle-free-step-by-step-process/"><u>Download & Install Epson XP-330 Drivers Today – Hassle-Free, Step by Step Process</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-download-and-update-your-canon-pixma-mg490-driver-for-a-smooth-windows-experience/"><u>Easy Steps to Download and Update Your Canon PIXMA MG490 Driver for a Smooth Windows Experience</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/empowering-websites-with-cookiebot-technology-for-smarter-engagement/"><u>Empowering Websites with Cookiebot Technology – For Smarter Engagement</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-pc-free-downloads-of-intel-usb-30-drivers-tailored-for-windows-10-users/"><u>Enhance Your PC: Free Downloads of Intel USB 3.0 Drivers Tailored for Windows 10 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-roccat-mouse-driver-free-installation-guide/"><u>Get Roccat Mouse Driver - Free Installation Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pinterest-video-extraction-the-ultimate-guide-to-the-best-tools/"><u>In 2024, Pinterest Video Extraction The Ultimate Guide to the Best Tools</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-pixel-perfect-playback-fixing-blurry-videos-on-smartphones/"><u>In 2024, Pixel Perfect Playback Fixing Blurry Videos on Smartphones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-msi-sound-card-drivers-free-downloads-for-windows-users/"><u>Latest MSI Sound Card Drivers: Free Downloads for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-desktop-art-windows-1011-tutorials/"><u>Mastering Desktop Art: Windows 10/11 Tutorials</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp3-making-from-vimeo-videos-cost-free-solutions-for-windows-users/"><u>MP3 Making From Vimeo Videos: Cost-Free Solutions for Windows Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/native-os-capture-utility-chrome-edition-for-2024/"><u>Native OS Capture Utility Chrome Edition for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-adding-closed-captions-or-subtitles-to-your-videos-using-an-iphone/"><u>Step-by-Step Guide: Adding Closed Captions or Subtitles to Your Videos Using an iPhone</u></a></li>
 </ul></div>
 

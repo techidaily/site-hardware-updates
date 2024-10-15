@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to the Most Effective Indoor TV Antenna in 2E+t4 - ZDNet's In-Depth Testing and Rankings
-date: 2024-10-05T06:54:53.605Z
-updated: 2024-10-09T09:09:12.552Z
+date: 2024-10-13T16:08:56.165Z
+updated: 2024-10-15T16:42:19.940Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,16 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +61,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,17 +111,20 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-the-soundscape-symphony-magixs-audio-mastery-in-studio-suite-for-2024/"><u>[Updated] The Soundscape Symphony Magix's Audio Mastery in Studio Suite for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-of-breed-pages-for-sparkling-3d-text/"><u>2024 Approved Best of Breed Pages for Sparkling 3D Text</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-honor-play-40c-frp-bypass-by-drfone-android/"><u>About Honor Play 40C FRP Bypass</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-sony-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Sony</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-itel-a70-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Itel A70</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-intel-thunderbolt-device-drivers-fast-and-simple-guide/"><u>Download Intel Thunderbolt Device Drivers - Fast and Simple Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-optimal-performance-update-to-the-newest-rtx-e-2070-super-driver-version-on-your-windows-11-pc/"><u>Ensure Optimal Performance: Update to the Newest RTX E 2070 Super Driver Version on Your Windows 11 PC</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/eral-clip-creator/"><u>Ephemeral Clip Creator</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-the-best-hp-officejet-pro-6970-drivers-for-your-windows-device-download-install-and-enjoy-flawless-printing/"><u>Find the Best HP OfficeJet Pro 6970 Drivers for Your Windows Device: Download, Install and Enjoy Flawless Printing!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hp-officejet-5740-drivers-for-latest-windows-operating-systems-win11-win10-and-win8/"><u>Get Your HP OfficeJet 5740 Drivers for Latest Windows Operating Systems (Win11, Win10 & Win8)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/innovations-in-live-broadcast-with-periscope/"><u>Innovations in Live Broadcast with Periscope</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-updated-drivers-for-your-hp-officejet-pro-8620-on-a-windows-pc-step-by-step-tutorial/"><u>Installing Updated Drivers for Your HP OfficeJet Pro 8620 on a Windows PC - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-exploring-classical-works-free-for-all/"><u>[New] 2024 Approved Exploring Classical Works Free for All</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-exploring-the-capabilities-of-bandicam-for-multimedia-creators-for-2024/"><u>[New] Exploring the Capabilities of Bandicam for Multimedia Creators for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-2023-shoppers-guide-to-innovative-360-cameras-and-systems/"><u>2024 Approved The 2023 Shopper’s Guide to Innovative 360 Cameras & Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-dell-wifi-driver-for-optimal-performance/"><u>Download and Install Dell Wifi Driver for Optimal Performance</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-honor-magic-6-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Honor Magic 6 Pattern Lock Screen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-logitech-webcam-software-installs-at-no-cost-for-your-pc-or-laptop/"><u>Get Logitech Webcam Software Installs at No Cost for Your PC or Laptop</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722959201161-get-your-killer-e2500-gigabit-ethernet-driver-today/"><u>Get Your Killer E2500 Gigabit Ethernet Driver Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-techkey-bluetooth-device-driver-for-windows-operating-systems-windows-1178-download-now/"><u>Get Your Techkey Bluetooth Device Driver for Windows Operating Systems (Windows 11/7/8) - Download Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-disabling-windows-surrounders/"><u>Guide to Disabling Windows Surrounders</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-motorola-moto-g73-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Motorola Moto G73 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-hp-thunderbolt-docking-station-g2-complete-guide-to-downloading-120w230w-drivers/"><u>Install HP Thunderbolt Docking Station G2: Complete Guide to Downloading 120W/230W Drivers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/minecraft-magic-crafting-unique-and-uneasy-elixirs-step-by-step/"><u>Minecraft Magic: Crafting Unique and Uneasy Elixirs Step by Step</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-sudden-pc-shutdowns-with-our-6-trusted-solutions-for-recurring-crashes/"><u>Say Goodbye to Sudden PC Shutdowns with Our 6 Trusted Solutions for Recurring Crashes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-lenovo-x1-carbon-support-software-on-windows-10-and-7/"><u>Step-by-Step Guide: Installing Lenovo X1 Carbon Support Software on Windows 10 & 7</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-power-of-nvidias-artificial-intelligence-foundations-discover-its-uses-and-eligibility/"><u>Unveiling the Power of NVIDIA's Artificial Intelligence Foundations: Discover Its Uses and Eligibility</u></a></li>
 </ul></div>
 

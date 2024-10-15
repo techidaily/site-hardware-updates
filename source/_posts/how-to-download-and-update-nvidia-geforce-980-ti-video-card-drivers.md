@@ -1,7 +1,7 @@
 ---
 title: How to Download & Update NVIDIA GeForce 980 Ti Video Card Drivers
-date: 2024-09-05T20:09:08.306Z
-updated: 2024-09-06T20:09:08.306Z
+date: 2024-10-14T16:29:42.892Z
+updated: 2024-10-15T16:44:54.385Z
 tags:
   - win11
   - win10
@@ -13,28 +13,10 @@ excerpt: This Article Describes How to Download & Update NVIDIA GeForce 980 Ti V
 thumbnail: https://thmb.techidaily.com/bef0ee80271c03bca8fa1ceeb9bd487dbcf95a1c3cbd6d89762ee7396e9d66d9.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Complete Guide to Downloading and Updating the AMD Radeon RX 6900 XT Graphics Card Drivers for Windows OS
 
 ![amd rx-6900 xt driver](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-rx-6900xt-driver.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  AMD RX 6900 XT, the newest gaming GPU of AMD’s Radeon 6000 series, has arrived. To enjoy the ultra-high frame rates and serious 4K gameplay as this flagship GPU deserves, you’ll need the latest AMD RX 6900 XT driver.
 
 Here are two ways you can update the driver safely:
@@ -45,12 +27,6 @@ OR
 
 **[Option 2 – Manually](https://tools.techidaily.com/drivereasy/download/)**  – You’ll need some computer skills and patience to update your drivers this way, because you need to find the exactly right driver online, download it and install it step by step.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Option 1 – Automatically update the AMD RX 6900 XT driver (recommended)
 
  If you don’t have the time, patience or computer skills to update your AMD RX 6900 XT driver by yourself, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -73,17 +49,12 @@ OR
  It’s always easy and time-saving to update your device drivers with Driver Easy. If you’re familiar with computer hardware, you could also try the manual method below.
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Option 2 – Download and install the driver manually
 
  AMD keeps updating its GPU drivers for general improvements, bug fixes and compatibility with the latest games like Cyberpunk 2077 and CoD Black Ops Cold War. To get them manually, simply follow the instruction below:
@@ -92,19 +63,22 @@ OR
 2. Scroll to the search section. Then, select**Graphics** \>**AMD Radeon 6000 Series** \>**AMD Radeon 6900 Series** \>**AMD Radeon RX 6900 XT** , and click**Submit** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6900xt-1.jpg)
 3. Choose the correct operating system and click the**Download** button next to your desired driver.  
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6900xt-2.jpg)
 4. After the download finishes, double-click the file and follow the wizard to install the driver.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart your computer and test the powerhouse performance of AMD RX 6900 XT with an up-to-date driver.
@@ -123,8 +97,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +104,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-extending-your-content-a-detailed-youtube-video-upload-manual-for-2024/"><u>[New] Extending Your Content A Detailed YouTube Video Upload Manual for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-indoor-android-games-you-can-play-without-a-network/"><u>[New] Indoor Android Games You Can Play Without a Network</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-ultimate-8-choice-of-cameras-for-excellent-video-feeds-for-2024/"><u>[New] Ultimate 8 Choice of Cameras for Excellent Video Feeds for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-rapidrush-framefrozen-recording-for-2024/"><u>[Updated] RapidRush FrameFrozen Recording for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-tricks-to-turn-off-youtube-videos-without-compromise/"><u>2024 Approved Tricks to Turn Off YouTube Videos Without Compromise</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/approach-apply-knowledge-of-the-relationship-between-voltage-and-arc-blow-suscepteility/"><u>Approach: Apply Knowledge of the Relationship Between Voltage and Arc Blow Suscepteility.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-installing-updated-hp-officejet-pro-8610-printer-drivers-on-various-windows-versions/"><u>Complete Guide to Installing Updated HP Officejet Pro 8610 Printer Drivers on Various Windows Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-essential-software-for-your-logitech-g-prodigy-gaming-mouse-g402/"><u>Download Essential Software for Your Logitech G Prodigy Gaming Mouse (G402)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-access-to-hps-professional-color-laser-jet-m452dn-printing-drivers/"><u>Easy Access to HP's Professional Color Laser Jet M452dn Printing Drivers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-creating-your-personalized-signature-with-godaddys-email-service/"><u>Easy Steps: Creating Your Personalized Signature with GoDaddy's Email Service</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-update-hp-elitebook-x360-1030-g2-full-driver-pack-available-to-download/"><u>Essential Update: HP EliteBook X360 1030 G2 Full Driver Pack Available to Download</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-novice-to-newsmaker-crafting-viral-memes-in-9gag-for-2024/"><u>From Novice to Newsmaker Crafting Viral Memes in 9GAG for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-best-asus-mousepad-driver-on-your-windows-device/"><u>How to Install the Best ASUS Mousepad Driver on Your Windows Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-newest-amd-rx-6800-graphics-driver-on-windows-operating-systems-111087/"><u>How to Install the Newest AMD RX 6800 Graphics Driver on Windows Operating Systems (11/10/8/7)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-lenovo-thinkpad-t420s-driver-updates-and-download-options-optimized-for-windows-11-users/"><u>Latest Lenovo ThinkPad T420s Driver Updates & Download Options Optimized for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977378260-maintains-a-uniform-temperature-gradient-for-better-heat-transfer-performance/"><u>Maintains a Uniform Temperature Gradient for Better Heat Transfer Performance</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/next-level-earbuds-apples-airpods-pro-pitted-against-samsung/"><u>Next Level Earbuds: Apple's AirPods Pro Pitted Against Samsung</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-how-to-setting-up-a-new-account-on-the-meta-oculus-quest-system/"><u>Ultimate How-To: Setting up a New Account on the Meta (Oculus) Quest System</u></a></li>
+</ul></div>
 

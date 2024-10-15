@@ -1,7 +1,7 @@
 ---
 title: "Navigating Technology: The Tom's Hardware Compendium"
-date: 2024-09-11T16:50:54.013Z
-updated: 2024-09-12T16:50:54.013Z
+date: 2024-10-09T16:24:26.310Z
+updated: 2024-10-15T16:27:24.960Z
 tags:
   - cpu
 categories:
@@ -22,13 +22,6 @@ AMD has listed the new Ryzen 5 9600X for pre-order on its[Canadian Amazon store]
  Traditionally, AMD's Ryzen 5 chips are incredibly attractive for mainstream gamers and PC enthusiasts, offering a great bang for the buck once online prices settle down. AMD's Ryzen 5 9600X is a six-core, 12-thread chip based on the[Zen 5 architecture](https://www.tomshardware.com/pc-components/cpus/amd-deep-dives-zen-5-ryzen-9000-and-strix-point-cpu-rdna-35-gpu-and-xdna-2-architectures) . Base clocks for the chip are 3.9 GHz, with boosts up to 5.4 GHz. This power will come with a TDP of 65W and a peak power draw of only 88W. A 38MB (6+32) cache and support for up to DDR5-5600 memory round out the spec sheet.  
   
  AMD showed the Ryzen 5 9600X crushing Intel's Core i5-14600K by 22% in productivity[benchmarks](https://www.tomshardware.com/tag/benchmark) and 11% in gaming at its Zen 5 Tech Day, with an 88W peak power draw versus Intel's 181W. A lead of this margin for almost half of the power shows strong performance for the bottom of AMD's Zen 5 desktop CPU slate, though as always we need to take manufacturer benchmarks with a spoonful of salt. If AMD prices Ryzen 5 9600X below $300 (which we suspect it will, eventually), it becomes a shoo-in for[our best value CPU](https://www.tomshardware.com/reviews/best-cpus,3986.html#section-value-best-cpu-for-gaming-200-to-250) , a spot currently held by the Ryzen 5 7600X.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -51,5 +44,24 @@ AMD has listed the new Ryzen 5 9600X for pre-order on its[Canadian Amazon store]
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-a-beginners-path-to-compiling-a-youtube-playlist/"><u>[New] In 2024, A Beginner's Path to Compiling a YouTube Playlist</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-download-free-youtube-pics-and-templates/"><u>[Updated] Download Free YouTube Pics & Templates</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-elevate-your-video-presentations-with-top-30-free-intra-makers/"><u>[Updated] Elevate Your Video Presentations with Top 30 Free Intra Makers</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-future-is-here-high-resolution-video-on-nikon-j5/"><u>[Updated] In 2024, The Future Is Here High-Resolution Video on Nikon J5</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-reinstalling-and-repairing-synaptics-device-drivers-for-seamless-windows-10-operation/"><u>Comprehensive Guide: Reinstalling and Repairing Synaptics Device Drivers for Seamless Windows 10 Operation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-hp-officejet-pro-8610-printer-drivers-on-windows-1187xpvista-step-by-step-guide/"><u>Download & Install HP Officejet Pro 8610 Printer Drivers on Windows 11/8/7/XP/Vista: Step-by-Step Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-vivo-v29-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Vivo V29 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969158509-effortless-installation-get-the-latest-surface-book-driver-updates-now/"><u>Effortless Installation: Get the Latest Surface Book Driver Updates Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-update-huion-pen-tablet-drivers-in-windows-effortlessly/"><u>How to Find and Update Huion Pen Tablet Drivers in Windows Effortlessly</u></a></li>
+<li><a href="https://win-able.techidaily.com/rocket-league-crash-fixing-the-unresponsive-game-issue/"><u>Rocket League Crash: Fixing the Unresponsive Game Issue</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

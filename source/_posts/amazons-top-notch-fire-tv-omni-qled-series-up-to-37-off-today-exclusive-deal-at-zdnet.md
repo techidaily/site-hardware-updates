@@ -1,7 +1,7 @@
 ---
 title: Amazon's Top-Notch Fire TV Omni QLED Series Up to 37%% Off Today - Exclusive Deal at ZDNET!
-date: 2024-10-06T06:36:09.499Z
-updated: 2024-10-09T05:13:10.974Z
+date: 2024-10-10T16:13:32.583Z
+updated: 2024-10-15T16:43:54.950Z
 tags:
   - tvs
 categories:
@@ -22,16 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -73,16 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -104,24 +92,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-highest-rated-10-online-subtitle-tools/"><u>[Updated] Highest-Rated 10 Online Subtitle Tools</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-tech-savvy-tips-for-capturing-and-saving-mobile-snapshots-for-2024/"><u>[Updated] Tech-Savvy Tips for Capturing and Saving Mobile Snapshots for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-ultimate-guide-to-sustainable-visual-effects-equipment-for-2024/"><u>[Updated] Ultimate Guide to Sustainable Visual Effects Equipment for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/approach-contrast-the-objectives-of-pbsd-with-prescriptive-code-requirements/"><u>Approach: Contrast the Objectives of PBSD with Prescriptive Code Requirements</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ing-a-signature-look-starting-with-self-reflection-for-2024/"><u>Crafting a Signature Look Starting with Self-Reflection for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-updating-your-epson-wf-3720-drivers-for-optimal-performance/"><u>Easy Guide to Downloading and Updating Your Epson WF-3720 Drivers for Optimal Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/environmental-considerations-play-a-significant-role-in-mix-design-decisions/"><u>Environmental Considerations Play a Significant Role in Mix Design Decisions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-restrictions-of-chatgpt-seven-unanswerable-topics/"><u>Exploring the Restrictions of ChatGPT: Seven Unanswerable Topics</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722969667847-get-your-controllers-up-and-running-quickly-download-the-newest-xbox-wireless-adapters/"><u>Get Your Controllers Up & Running Quickly - Download the Newest Xbox Wireless Adapters</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-repair-a-non-functional-logitech-g433-microphone-expert-advice/"><u>How to Repair a Non-Functional Logitech G433 Microphone - Expert Advice</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-enhance-your-films-innovative-kinemaster-transitions/"><u>In 2024, Enhance Your Films Innovative Kinemaster Transitions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-the-latest-canon-ts6320-series-driver-software-for-pc-users/"><u>Installing the Latest Canon TS6320 Series Driver Software for PC Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-tech-with-toms-hardware-in-depth-analysis-and-advice/"><u>Mastering Tech with Tom's Hardware – In-Depth Analysis and Advice</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/newest-amd-radeon-graphics-driver-releases-for-windows-devices-download-now/"><u>Newest AMD Radeon Graphics Driver Releases for Windows Devices: Download Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/optimize-your-pc-for-gaming-with-latest-dell-g3-graphics-card-drivers/"><u>Optimize Your PC for Gaming with Latest Dell G3 Graphics Card Drivers</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/optimizing-video-production-a-guide-to-vimeos-capabilities/"><u>Optimizing Video Production A Guide to Vimeo's Capabilities</u></a></li>
-<li><a href="https://video-capture.techidaily.com/secrets-to-flawless-remote-audio-production-for-2024/"><u>Secrets to Flawless Remote Audio Production for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-6-essential-ai-chatbot-plugins-for-visual-studio-code/"><u>Top 6 Essential AI Chatbot Plugins for Visual Studio Code</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-mobile-face-enhancers-compared-iosandroid/"><u>Top Mobile Face-Enhancers Compared (iOS/Android)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-blueprint-to-perpetual-snapstreaks/"><u>[New] 2024 Approved The Blueprint to Perpetual Snapstreaks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-video-subtitling-a-compreenhensive-review-of-key-online-tools/"><u>[Updated] Mastering Video Subtitling A Compreenhensive Review of Key Online Tools</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1728475916565-aomei/"><u>AOMEI一键系统恢复技术人员及个性化数据保存功能</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-usb-30-drivers-for-windows-pc/"><u>Download & Install USB 3.0 Drivers for Windows PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-toshiba-laptop-drivers-on-windows-easy-guide/"><u>Download and Update Toshiba Laptop Drivers on Windows - Easy Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-motorola-edge-40-pro-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977811354-genetic-diversity-is-essential-for-the-adaptability-and-resilience-of-crop-species/"><u>Genetic Diversity Is Essential for the Adaptability and Resilience of Crop Species.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-canon-imageclass-mf4800-driver-software-for-free/"><u>Get the Latest Canon ImageCLASS MF4800 Driver Software for Free!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-zexmt-bluetooth-device-up-and-running-with-updated-drivers-win1078/"><u>Get Your Zexmt Bluetooth Device Up and Running with Updated Drivers (Win10/7/8)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-obtain-and-update-toshiba-dynamo-pad-control-drivers-for-windows-pcs/"><u>How to Easily Obtain & Update Toshiba Dynamo Pad Control Drivers for Windows PCs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-a15-4g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Samsung Galaxy A15 4G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-emoji-mastery-for-engaging-youtube-discussions/"><u>In 2024, Emoji Mastery for Engaging YouTube Discussions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-youtubes-finest-unveiling-the-best-reaction-tricks/"><u>In 2024, YouTube's Finest Unveiling the Best Reaction Tricks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-the-latest-intel-me-drivers-for-windows-systems-w10-81-and-7/"><u>Install the Latest Intel ME Drivers for Windows Systems (W10, 8.1, & 7)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/raft-community-image-bank-access-for-2024/"><u>Minecraft Community Image Bank Access for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-quadro-rtx-4000-how-to-download-and-update-your-drivers-easily/"><u>Nvidia Quadro RTX 4000 - How to Download and Update Your Drivers Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-elevated-processor-demand-in-windows-10-systems-a-comprehensive-guide/"><u>Resolving Elevated Processor Demand in Windows 10 Systems: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-downloading-and-installing-asus-touchpad-drivers-on-your-windows-11-device/"><u>Ultimate Guide to Downloading and Installing ASUS Touchpad Drivers on Your Windows 11 Device</u></a></li>
 </ul></div>
 

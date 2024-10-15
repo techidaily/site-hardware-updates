@@ -1,7 +1,7 @@
 ---
 title: "Limited Time Offer: Secure Your 85-Inch TCL TV at an Unbeatable Price of $900 This Labor Day Weekend!"
-date: 2024-10-04T04:35:16.658Z
-updated: 2024-10-08T19:31:49.517Z
+date: 2024-10-13T17:05:56.672Z
+updated: 2024-10-15T16:42:29.912Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,22 +92,15 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-screensavers-supreme-mastering-the-art-of-twitvid-archiving/"><u>[New] 2024 Approved ScreenSavers Supreme Mastering the Art of TwitVid Archiving</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-a78-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo A78 FRP</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723262316054-amds-ryzen-9000-now-available-on-best-buy-prices-slashed-below-launch-rates-of-previous-ryzen-models/"><u>AMD's Ryzen 9000 Now Available on Best Buy: Prices Slashed Below Launch Rates of Previous Ryzen Models</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comparing-outlookcom-and-gmail-determining-the-superior-email-provider/"><u>Comparing Outlook.com & Gmail: Determining the Superior Email Provider</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/downloading-latest-rtx-2080-driver-compatible-with-windows-10-7-and-8/"><u>Downloading Latest RTX 2080 Driver: Compatible with Windows 10, 7, and 8</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-a-compre-written-by-dr-john-smith-phd-in-environmental-science/"><u>In 2024, A Compre Written By Dr. John Smith, PhD in Environmental Science</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722978324322-intel-hd-graphics-630-windows-driver-troubles-heres-how-to-get-it-running-smoothly/"><u>Intel HD Graphics 630 Windows Driver Troubles? Here's How to Get It Running Smoothly!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/opting-for-hdri-a-better-step-forward-in-video-production-for-2024/"><u>Opting for HDRI A Better Step Forward in Video Production for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-overcoming-compiling-shaders-issue-in-call-of-duty-black-ops-cold-war/"><u>Resolved: Overcoming 'Compiling Shaders' Issue in Call of Duty: Black Ops Cold War</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-workflows-10-chatgpt-benefits-in-business/"><u>Revolutionize Your Workflows: 10 ChatGPT Benefits in Business</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/samsung-galaxy-z-fold-6-the-next-generation-specs-release-schedule-and-price-point-uncovered/"><u>Samsung Galaxy Z Fold 6 - The Next Generation Specs, Release Schedule, and Price Point Uncovered</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-usb-30-drivers-on-windows-1178/"><u>Step-by-Step Guide: Installing USB 3.0 Drivers on Windows 11/7/8</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-for-fast-driver-updates-on-your-dell-g7-laptop/"><u>Step-by-Step Tutorial for Fast Driver Updates on Your Dell G7 Laptop</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-upgrading-your-bluetooth-usb-drivers-on-windows-devices/"><u>Step-by-Step Tutorial: Upgrading Your Bluetooth USB Drivers on Windows Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-aftermath-of-zen-5s-initial-ryzen-9000-die-failure-a-deep-dive-into-cracked-dice-and-residual-solder-evidence/"><u>The Aftermath of Zen 5'S Initial Ryzen 9000 Die Failure - A Deep Dive Into Cracked Dice & Residual Solder Evidence.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-the-secrets-to-fixing-your-wiredwireless-adapter-issues-in-windows-7/"><u>Unlock the Secrets to Fixing Your Wired/Wireless Adapter Issues in Windows 7</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-mouse-reset-a-step-by-step-tutorial/"><u>Windows Mouse Reset: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-boost-your-visual-language-with-premium-affects-extensions-for-2024/"><u>[Updated] Boost Your Visual Language with Premium Affects Extensions for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-best-10-action-ready-microphones-reviewed/"><u>[Updated] In 2024, Best 10 Action-Ready Microphones Reviewed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-troubleshooting-obs-full-screen-malfunction/"><u>[Updated] Troubleshooting OBS Full Screen Malfunction</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-best-in-class-premium-screenshots-and-recorders/"><u>2024 Approved Best in Class Premium Screenshots & Recorders</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-instagram-reels-production-process/"><u>2024 Approved Step-by-Step Instagram Reels Production Process</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970966650-achieve-optimal-gameplay-nvidia-geforce-driver-updates-tailored-for-windows-free-downloads-available/"><u>Achieve Optimal Gameplay: NVIDIA GeForce Driver Updates Tailored for Windows - Free Downloads Available!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974686922-download-the-free-qualcomm-atheros-ar938x-drivers-without-hassle/"><u>Download the Free Qualcomm Atheros AR938X Drivers Without Hassle!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969418987-effortless-hp-driver-downloads-and-setup-get-started-today/"><u>Effortless HP Driver Downloads and Setup - Get Started Today!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/elevating-your-brand-key-tactics-for-testimonial-vids/"><u>Elevating Your Brand Key Tactics for Testimonial Vids</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-audio-experience-on-windows-11-10-and-81-with-the-latest-dolby-driver-updates-free/"><u>Enhance Your Audio Experience on Windows 11, 10 & 8.1 with the Latest Dolby Driver Updates - Free!</u></a></li>
 </ul></div>
 

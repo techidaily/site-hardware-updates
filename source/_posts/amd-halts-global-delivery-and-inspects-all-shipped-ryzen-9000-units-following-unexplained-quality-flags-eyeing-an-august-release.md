@@ -1,7 +1,7 @@
 ---
 title: AMD Halts Global Delivery & Inspects All Shipped Ryzen 9000 Units Following Unexplained Quality Flags, Eyeing an August Release
-date: 2024-09-11T16:52:27.161Z
-updated: 2024-09-12T16:52:27.161Z
+date: 2024-10-10T16:16:41.042Z
+updated: 2024-10-15T16:24:30.349Z
 tags:
   - cpu
 categories:
@@ -31,13 +31,6 @@ AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best
 
  The Ryzen 9 9950X's performance is impressive. The CPU leveraged AMD's PBO and Curve Optimizer technologies with speedy RAM. The system utilizes a custom loop to remain cool during the[benchmarks](https://www.tomshardware.com/tag/benchmark) . Extreme overclockers can break world records with this chip once they put it under liquid nitrogen.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -59,5 +52,31 @@ AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-updates.techidaily.com/download-rtx-2060-super-drivers-for-windows-11-11/"><u>[Download] RTX 2060 SUPER Drivers for Windows 11, 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-capture-your-gaming-adventures-with-steam-for-2024/"><u>[New] Capture Your Gaming Adventures with Steam for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamline-your-audio-content-with-googles-tools/"><u>[New] Streamline Your Audio Content with Google’s Tools</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-viral-video-vault-the-days-most-retweeted-threads-on-twitter-for-2024/"><u>[New] Viral Video Vault The Day's Most Retweeted Threads on Twitter for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-efficient-techniques-to-record-and-edit-videos-using-adobe-connect-for-2024/"><u>[Updated] Efficient Techniques to Record & Edit Videos Using Adobe Connect for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-zoom-skills-for-exceptional-audio-capture-in-podcasting-for-2024/"><u>[Updated] Essential Zoom Skills for Exceptional Audio Capture in Podcasting for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-the-new-developer-landscape/"><u>AI and the New Developer Landscape</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-brother-hl-l2380dw-driver-software-for-your-windows-pc/"><u>Download the Brother HL-L2380DW Driver Software for Your Windows PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-issues-on-your-computer-without-hearing-a-peep-step-by-step/"><u>Fixing Audio Issues on Your Computer Without Hearing a Peep – Step-by-Step</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-camera-up-and-running-driver-downloads-for-windows-11-to-7/"><u>Get Your Camera Up and Running: Driver Downloads for Windows 11 to 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971370458-get-your-free-techkey-bluetooth-drivers-for-win-10-7-and-8-instant-download/"><u>Get Your Free Techkey Bluetooth Drivers for Win 10, 7 & 8 - Instant Download!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975789049-how-to-properly-download-and-set-up-arduino-nano-boards-driver-on-a-windows-machine-solved/"><u>How to Properly Download and Set Up Arduino Nano Board's Driver on a Windows Machine - Solved!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-deep-dive-into-theta-s-a-full-camera-examination/"><u>In 2024, Deep Dive Into Theta S A Full Camera Examination</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/newest-canon-mp250-software-driver-download-and-installation-guide/"><u>Newest Canon MP250 Software Driver Download & Installation Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-itel-p55-5g-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Itel P55 5G</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbiased-evaluations-of-gadgets-and-systems-from-toms-tech-experts/"><u>Unbiased Evaluations of Gadgets and Systems From Tom's Tech Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-brother-mfc-j480dw-printer-drivers-on-windows-pcs/"><u>Update Brother MFC J480DW Printer Drivers on Windows PCs</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

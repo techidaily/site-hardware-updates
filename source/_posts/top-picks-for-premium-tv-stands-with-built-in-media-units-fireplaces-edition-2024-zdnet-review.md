@@ -1,7 +1,7 @@
 ---
 title: Top Picks for Premium TV Stands with Built-In Media Units - Fireplaces Edition, 2024 [ZDNet Review]
-date: 2024-10-01T17:50:15.942Z
-updated: 2024-10-09T04:45:40.750Z
+date: 2024-10-13T16:59:33.234Z
+updated: 2024-10-15T16:24:03.218Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,22 +92,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-a-new-era-of-photo-display-best-frame-makers-for-2024/"><u>[New] A New Era of Photo Display Best Frame Makers for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-revolutionizing-adventure-recording-with-garmin-ultra-30/"><u>[Updated] 2024 Approved Revolutionizing Adventure Recording with Garmin Ultra 30</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-lifetime-of-photos-in-the-cloud-free-space-haven-and-charged-sanctuaries-await/"><u>[Updated] Lifetime of Photos in the Cloud Free Space Haven & Charged Sanctuaries Await</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mp4-dvd2024/"><u>「MP4への変換! DVD再生用最強無料ソフト2024年版紹介」</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-quality-and-cost-savings-unite-in-best-asmr-mics/"><u>2024 Approved Quality and Cost Savings Unite in Best ASMR Mics</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/download-diva-a-guide-to-free-skype-tone-resources/"><u>Download Diva A Guide to Free Skype Tone Resources</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-updated-logitech-c920-software-for-optimal-functionality-in-windows-11-10-and-8-systems/"><u>Download Updated Logitech C920 Software for Optimal Functionality in Windows 11, 10 & 8 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/epson-workforce-ds-30-printer-software-download-for-windows-users-windows-1187/"><u>Epson WorkForce DS 30 Printer Software Download for Windows Users (Windows 11/8/7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-download-compatible-drivers-for-logitech-hd-webcam-model-c525-on-windows-1087/"><u>Find & Download Compatible Drivers for Logitech HD Webcam Model C525 on Windows 10/8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-epson-ds-530-printer-driver-software-for-optimal-windows-10-performance/"><u>Get the Latest Epson DS-530 Printer Driver Software for Optimal Windows 10 Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-zebra-gk420d-up-and-running-secure-your-printer-drivers-now/"><u>Get Your Zebra GK420D Up and Running: Secure Your Printer Drivers Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-installation-instructions-msi-b350-tomahawk-graphics-card-drivers-for-windows-10-and-7-enthusiasts/"><u>Seamless Installation Instructions: MSI B350 Tomahawk Graphics Card Drivers for Windows 10 and 7 Enthusiasts</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/srt-deep-dive-knowledge-at-your-fingertips/"><u>SRT Deep Dive Knowledge at Your Fingertips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-installing-updated-amd-radeon-hd-7870-drivers-on-your-pc-running-windows-11/"><u>Step-by-Step Tutorial: Installing Updated AMD Radeon HD 7870 Drivers on Your PC Running Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/streamline-your-input-top-quality-keyboard-drivers-tailored-for-windows-7/"><u>Streamline Your Input: Top-Quality Keyboard Drivers Tailored for Windows 7</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722169243282-transform-how-you-use-google-search-make-the-switch-to-superior-results-with-perplexity-ai/"><u>Transform How You Use Google Search - Make the Switch to Superior Results with Perplexity AI</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-black-screen-issues-in-rainbow-six-siege-pc-edition/"><u>Ultimate Guide: Resolving Black Screen Issues in Rainbow Six Siege - PC Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-discover-the-secrets-to-superior-scalability-in-roblox-worlds/"><u>[New] Discover the Secrets to Superior Scalability in Roblox Worlds</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-premium-android-screenshot-and-video-tools-ranked-five-for-2024/"><u>[New] Premium Android Screenshot & Video Tools - Ranked Five for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-game-on-mastering-the-art-of-play-with-kinemaster-on-android-for-2024/"><u>[Updated] Game On! Mastering the Art of Play with KineMaster on Android for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-nanofilm-whiz/"><u>[Updated] NanoFilm Whiz</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unhindered-video-capture-app/"><u>[Updated] Unhindered Video Capture App</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1982-honkytonk-man-with-eastwood-as-red-boyle-an-ex-convict-who-finds-himself-riding-through-the-southwest-during-the-great-depression-the-film-was-based-on129/"><u>1982 - Honkytonk Man, with Eastwood as Red Boyle, an Ex-Convict Who Finds Himself Riding Through the Southwest During the Great Depression. The Film Was Based on Clancy Carlile'cuentero's 1974 Novel ''The Goodbye Look''</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-stay-ahead-in-the-metaverse-with-this-list-of-must-haves/"><u>2024 Approved Stay Ahead in the Metaverse with This List of Must-Haves</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/best-tricks-to-fix-constant-iphone-app-failures-learn-now/"><u>Best Tricks to Fix Constant iPhone App Failures - Learn Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-ricoh-printer-drivers-on-windows-easy-guide/"><u>Download & Install Ricoh Printer Drivers on Windows - Easy Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-auto-transcribe-for-enhanced-office-productivity-in-ms-word-for-2024/"><u>Harnessing the Power of Auto-Transcribe for Enhanced Office Productivity in MS Word for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-samsung-printer-drivers-on-windows-solutions-unveiled/"><u>Troubleshooting Samsung Printer Drivers on Windows: Solutions Unveiled</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-hp-deskjet-2700-printing-solutions-free-software-downloads-available-now/"><u>Updated HP DeskJet 2700 Printing Solutions - Free Software Downloads Available Now</u></a></li>
 </ul></div>
 

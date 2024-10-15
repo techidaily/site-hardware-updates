@@ -1,7 +1,7 @@
 ---
 title: Experts Rate Top-Ranked QLED TV Now Available with Stunning $1,000 Off for the Holiday Weekend | ZDNET Tech Review
-date: 2024-10-04T03:31:04.259Z
-updated: 2024-10-08T19:44:21.392Z
+date: 2024-10-14T17:03:01.508Z
+updated: 2024-10-15T16:34:11.123Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
@@ -91,10 +91,16 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,19 +139,15 @@ Should you buy one if you're looking for a portable projector that doesn't have 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-building-a-strong-online-presence-with-attractive-video-thumbnails/"><u>[Updated] 2024 Approved Building a Strong Online Presence with Attractive Video Thumbnails</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-camstudio-updates-the-2023-guide-for-screen-recording-pros/"><u>2024 Approved CamStudio Updates The 2023 Guide for Screen Recording Pros</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-smilesketcher-turn-your-ideas-into-memes-and-graphics/"><u>2024 Approved SmileSketcher Turn Your Ideas Into Memes & Graphics</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-youtube-integration-in-instagram-narratives/"><u>2024 Approved YouTube Integration in Instagram Narratives</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/amazon-fire-hd-10-review-a-multimedia-tablet-made-for-the-whole-family/"><u>Amazon Fire HD 10 Review: A Multimedia Tablet Made for the Whole Family</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722960017247-amd-rx-560-graphics-card-driver-fix-for-all-windows-users-solutions-included/"><u>AMD RX 560 Graphics Card Driver Fix for All Windows Users - Solutions Included!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-80211n-wi-fi-drivers-compatible-with-windows-111087-download-now/"><u>Get the Newest 802.11N Wi-Fi Drivers Compatible with Windows 11/10/8/7 - Download Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-samsung-printer-up-and-running-on-windows-with-our-easy-to-install-drivers/"><u>Get Your Samsung Printer Up and Running on Windows with Our Easy-to-Install Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-toshiba-copiers-drivers-in-windows-os/"><u>How to Download & Install Toshiba Copiers' Drivers in Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-easily-update-intel-video-chip-drivers-a-step-by-step-tutorial/"><u>How to Easily Update Intel Video Chip Drivers: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-14-plus-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone 14 Plus Unavailable Issue With Ease</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oneplus-nord-ce-3-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From OnePlus Nord CE 3 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-poco-x6-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Poco X6 Pro to New Phone | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-securing-the-latest-hp-laserjet-1018-printing-drivers/"><u>Step-by-Step Guide: Securing the Latest HP LaserJet 1018 Printing Drivers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-fresh-film-enthusiasts-primer-on-visual-quality/"><u>[New] In 2024, The Fresh Film Enthusiast’s Primer on Visual Quality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-lenovo-bluetooth-software-safe-download-and-update-for-win7win10/"><u>Complete Guide to Lenovo Bluetooth Software: Safe Download & Update for Win7/Win10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-zexmte-bluetooth-adapter-driver-windows-1078/"><u>Download Zexmte Bluetooth Adapter Driver (Windows 10/7/8)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-necessary-hardware-configurations-for-playing-fallout/"><u>Exploring the Necessary Hardware Configurations for Playing Fallout</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977411399-get-your-logitech-t630-up-and-running-on-win7810-download-the-right-driver/"><u>Get Your Logitech T630 Up and Running on Win7/8/10 - Download the Right Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-and-upgrade-your-canoscan-lide-220-driver-step-by-step-tutorial/"><u>How to Install & Upgrade Your CanoScan LiDE 220 Driver - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-y100i-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo Y100i? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-driver-problems-for-startech-hardware-in-windows-operating-systems-7810/"><u>Resolving Driver Problems for StarTech Hardware in Windows Operating Systems (7/8/10)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-rated-mp4-video-encoders-of-202n-a-comprehensive-guide-on-optimal-conversion-methods/"><u>Top Rated MP4 Video Encoders of 202N: A Comprehensive Guide on Optimal Conversion Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-how-to-backup-and-exchange-your-chatgpt-messages-using-apps/"><u>Ultimate Guide: How to Backup & Exchange Your ChatGPT Messages Using Apps</u></a></li>
 </ul></div>
 

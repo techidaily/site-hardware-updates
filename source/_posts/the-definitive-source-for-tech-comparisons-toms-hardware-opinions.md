@@ -1,7 +1,7 @@
 ---
 title: "The Definitive Source for Tech Comparisons: Tom's Hardware Opinions"
-date: 2024-09-05T20:08:57.673Z
-updated: 2024-09-06T20:08:57.673Z
+date: 2024-10-09T16:32:31.610Z
+updated: 2024-10-15T16:58:34.329Z
 tags:
   - desktop
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167b28e2d4a0f6ad0bbea5b61b.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Dive Into Tech with Tom's Hardware - The Ultimate Guide for Enthusiasts
 
 Mini PC specialist Minisforum has launched a new device, claiming several firsts. The new[AtomMan X7 Ti](https://www.minisforum.com/page/x7ti/index.html?lang=en) becomes the first in the firm's AtomMan line, described as a high-end cutting-edge marque by Minisforum. It is also claimed to be the “first Intel Ultra 9 AI Mini PC with a 4-inch Touchscreen.” With the rising popularity of[extra screens in PCs](https://www.tomshardware.com/pc-components/cooling/hands-on-lian-lis-lcd-screen-fans-turn-heads-and-are-surprisingly-affordable-but-not-as-configurable-as-id-like) , integrating one into a compact desktop might be a popular idea.
@@ -33,32 +21,14 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
  Moving inside, the star of the show is the new Intel Core Ultra 9 processor[185H](https://www.intel.com/content/www/us/en/products/sku/236849/intel-core-ultra-9-processor-185h-24m-cache-up-to-5-10-ghz/specifications.html) with a 16C/22T CPU running at up to 5.1 GHz, and onboard Arc GPU with eight Xe cores running at up to 2.35 GHz. This[Meteor Lake](https://www.tomshardware.com/news/intel-details-core-ultra-meteor-lake-architecture-launches-december-14) chip is cooled by the new Cold Wave cooling system featuring a large diameter fan, 3 copper heatpipes, and a phase-change module.
@@ -71,18 +41,6 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -91,14 +49,11 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -107,4 +62,33 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-essential-list-best-video-platforms-for-secure-businesses/"><u>2024 Approved Essential List Best Video Platforms for Secure Businesses</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-vivo-x100-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-printing-fresh-drivers-for-hp-officejet-pro-69n8-printers/"><u>Essential Printing: Fresh Drivers for HP OfficeJet Pro 69N8 Printers</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-insights-on-navigating-google-duo-and-its-capabilities/"><u>Expert Insights on Navigating Google Duo and Its Capabilities</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-repair-and-update-your-hp-monitor-driver-for-optimal-performance-on-windows-systems/"><u>How to Repair and Update Your HP Monitor Driver for Optimal Performance on Windows Systems</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-14-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your Apple iPhone 14</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976699229-install-asus-bt50n-bluetooth-50-usb-stick-driver-on-windows-pcs-latest-version-available-now/"><u>Install Asus BT50n Bluetooth 5.0 USB Stick Driver on Windows PCs – Latest Version Available Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-or-update-brother-mfc-j480dw-driver-software-compatible-with-windows-os/"><u>Install or Update Brother Mfc-J480dw Driver Software - Compatible with Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/konica-minolta-windows-111087-printer-driver-download-step-by-step-guide/"><u>Konica Minolta Windows 11/10/8/7 Printer Driver Download: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-fingerprint-driver-software-free-download-and-updates-for-pc/"><u>Latest Fingerprint Driver Software: Free Download and Updates for PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-subtle-sound-dimming-in-productions-for-2024/"><u>The Art of Subtle Sound Dimming in Productions for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-basics-of-biometric-identification-what-you-need-to-know/"><u>The Basics of Biometric Identification: What You Need To Know</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unleash-creativity-free-wacom-tablet-drivers-and-safe-os/"><u>Unleash Creativity - FREE Wacom Tablet Drivers & Safe OS</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Instructions: Updating or Downloading Lenovo Monitor Graphics Drivers"
-date: 2024-09-11T16:53:20.202Z
-updated: 2024-09-12T16:53:20.202Z
+date: 2024-10-13T16:00:09.431Z
+updated: 2024-10-15T16:55:48.408Z
 tags:
   - win11
   - win10
@@ -44,10 +44,10 @@ OR
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the Targus Docking Station driver for now, hit the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-361.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -57,13 +57,6 @@ OR
  If you’re interested in the benefits of Driver Easy, you can take a quick look at the demo video below:
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2: Manually update your Targus Docking Station driver
 
@@ -75,10 +68,10 @@ OR
 4. Type the**model name** or**serial number** of your Targus device into the search box to locate the corresponding drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-368.png) Alternatively, you may select**Category** and then**Product** to look for the drivers of your Docking Station.![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-160.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. After locating the corresponding driver for your product, click on the**Download** button below.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-372.png)
@@ -86,55 +79,35 @@ OR
 7. In the pop-up window, click**Browse…** and choose a destination folder where you want to decompress the file. Then, click**Extract** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-376.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Wait till the decompression process finishes. Then**copy** the full path of the destination folder. (The path will be different based on your choice in the last step. )![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-20_15-47-31.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9. On your keyboard, press the **Windows Logo Key** and **R**  at the same time to open the**Run**  box. Type **devmgmt.msc** and click **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap13-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 10. In the**Device Manager** window, locate your Targus Docking Station and then right-click on it to open the context menu. Select**Update driver** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap14-1.png)
 11. If prompted, click**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-384.png)
 12. **Paste** the full path copied in**Step 8** onto the address bar. Remember to check the **Include subfolders** box. Then hit the **Next** button.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-387.png)
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 13. Now Windows will search for the driver and install it automatically. When everything’s done, click**Finish** . Then **restart** your computer for the changes to take effect even if you’re not asked to.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -155,5 +128,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ideo-sharing-giants-clash-vimeo-vs-youtube/"><u>[New] Video Sharing Giants Clash Vimeo vs YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-innovative-stop-motion-cinema-ranking-the-best-15/"><u>[Updated] 2024 Approved Innovative Stop-Motion Cinema Ranking the Best 15</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-insider-secrets-of-incorporating-captions-and-titles-into-video-clips/"><u>2024 Approved The Insider Secrets of Incorporating Captions & Titles Into Video Clips</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/advanced-strategies-in-voice-memo-mastery-for-2024/"><u>Advanced Strategies in Voice Memo Mastery for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-default-the-10-upgrades-to-improve-chatgpt/"><u>Beyond Default: The 10 Upgrades to Improve ChatGPT</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-guide-effective-techniques-for-safely-cleansing-your-flat-panel-display/"><u>Expert Guide: Effective Techniques for Safely Cleansing Your Flat-Panel Display</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-picks-leading-roku-models-for-ultimate-home-entertainment-featured-by-zdnet/"><u>Expert Picks: Leading Roku Models for Ultimate Home Entertainment | Featured by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experts-rate-top-ranked-qled-tv-now-available-with-stunning-1000-off-for-the-holiday-weekend-zdnet-tech-review/"><u>Experts Rate Top-Ranked QLED TV Now Available with Stunning $1,000 Off for the Holiday Weekend | ZDNET Tech Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-most-innovative-tvs-unveiled-at-ces-2er-2024-a-review-by-zdnet/"><u>Exploring the Most Innovative TVs Unveiled at CES 2Er 2024 - A Review by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/flagship-features-face-off-selecting-the-superior-screen-with-lg-g4-and-g3-oled-models-tech-comparison-guide/"><u>Flagship Features Face-Off: Selecting the Superior Screen with LG G4 & G3 OLED Models | Tech Comparison Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-the-sony-a8no-tvs-smart-upscaling-technology-delivers-stunning-hd-visuals-for-under-2-grand-cnet-insider/"><u>How the Sony A8nO TV's Smart Upscaling Technology Delivers Stunning HD Visuals for Under 2 Grand | CNET Insider</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-keyboards-locked-function-buttons/"><u>How To Repair Keyboard's Locked Function Buttons</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-throw-a-memorable-labor-day-celebration-expert-advice-and-essentials-from-zdnet/"><u>How to Throw a Memorable Labor Day Celebration - Expert Advice and Essentials From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huge-discount-alert-save-150-on-the-amazing-amazon-fire-tv-omnia-qled-limited-time-offer/"><u>Huge Discount Alert: Save $150 on the Amazing Amazon Fire TV Omnia QLED - Limited Time Offer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-the-art-of-video-enhancement-from-sdr-basics-to-hdr-excellence/"><u>Mastering the Art of Video Enhancement From SDR Basics to HDR Excellence</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-ipad-video-editing-made-easy-top-5-apps/"><u>Updated In 2024, IPad Video Editing Made Easy Top 5 Apps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upgrading-your-tech-knowledge-with-toms-comprehensive-hardware-reviews/"><u>Upgrading Your Tech Knowledge with Tom's Comprehensive Hardware Reviews</u></a></li>
+</ul></div>
 

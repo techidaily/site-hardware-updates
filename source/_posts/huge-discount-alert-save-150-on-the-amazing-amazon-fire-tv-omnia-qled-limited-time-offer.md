@@ -1,7 +1,7 @@
 ---
 title: "Huge Discount Alert: Save $150 on the Amazing Amazon Fire TV Omnia QLED - Limited Time Offer"
-date: 2024-10-01T22:30:37.000Z
-updated: 2024-10-08T21:58:38.441Z
+date: 2024-10-10T17:02:32.464Z
+updated: 2024-10-15T16:19:06.685Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,22 +92,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/arn-online-via-youtube-how-reaching-500-subscribers-pays-off-for-2024/"><u>[New] Earn Online via YouTube How Reaching 500 Subscribers Pays Off for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-4-fastest-lenovo-record-methods/"><u>[New] In 2024, The 4 Fastest Lenovo Record Methods</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-structuring-vimeo-footage-chapter-creation-tips/"><u>[New] Structuring Vimeo Footage Chapter Creation Tips</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-premium-android-screenshot-and-video-tools-ranked-five-for-2024/"><u>[Updated] Premium Android Screenshot & Video Tools - Ranked Five for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-xiaomi-mix-fold-3-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Xiaomi Mix Fold 3 is off? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatible-and-up-to-date-hp-pagewide-pro-477dw-drivers-for-windows-operating-system-win11-win10-and-win8/"><u>Compatible and Up-to-Date HP PageWide PRO 477DW Drivers for Windows Operating System: Win11, Win10 & Win8</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-drivers-for-rtx-2070-super-on-windows-1011-step-by-step-guide/"><u>Download and Update Drivers for RTX 2070 Super on Windows 10/11: Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-exclusive-behringer-amplifier-drivers-at-no-cost-elevate-your-audio-experience/"><u>Download Exclusive Behringer Amplifier Drivers at No Cost - Elevate Your Audio Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-newest-tp-link-wifi-adapter-drivers-compatible-with-windows-1187/"><u>Download the Newest TP-Link WiFi Adapter Drivers Compatible with Windows 11/8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-insights-into-pc-components-by-tom-toms-gear-hub/"><u>Expert Insights Into PC Components by Tom - Tom's Gear Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-install-the-right-dell-network-adapter-utilities-for-windows-7-machines/"><u>Find and Install the Right Dell Network Adapter Utilities for Windows 7 Machines</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/free-ultimate-guide-simple-steps-to-transform-flac-files-into-pcm-format/"><u>Free Ultimate Guide: Simple Steps to Transform FLAC Files Into PCM Format</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-drivers-for-your-canon-mg3022-step-by-step-guide-to-download-and-update/"><u>Get the Newest Drivers for Your Canon MG3022 - Step-by-Step Guide to Download and Update</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/hassle-free-brother-printer-installation-expert-tips-and-tricks/"><u>Hassle-Free Brother Printer Installation: Expert Tips and Tricks</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-advanced-mac-toolkit-screenaudio-recording-feature/"><u>In 2024, Advanced Mac Toolkit Screen/Audio Recording Feature</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-epson-wf-3620-driver-updates-available-for-download-on-windows-1187/"><u>Latest Epson WF-3620 Driver Updates Available for Download on Windows 11/8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-way-to-get-the-latest-synaptics-drivers-for-windows-devices/"><u>Quick & Simple Way to Get the Latest Synaptics Drivers for Windows Devices</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-navigating-the-rainbow-skills-for-cinematic-tinting-for-2024/"><u>[New] Navigating the Rainbow Skills for Cinematic Tinting for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-innovative-5-web-video-capturing-technologies-for-2024/"><u>[Updated] Innovative 5 Web Video Capturing Technologies for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-maximizing-impact-with-instagrams-new-algorithm-insights/"><u>[Updated] Maximizing Impact with Instagram's New Algorithm Insights</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-supercharge-your-content-key-seo-elements-for-youtube/"><u>[Updated] Supercharge Your Content Key SEO Elements for YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fusion-functionality-combining-watch-mac-access/"><u>2024 Approved Fusion Functionality Combining Watch, Mac Access</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/bruno-mars-with-hits-like-uptown-funk-and-24k-magic-bruno-mars-music-is-always-filled-with-energy/"><u>Bruno Mars – With Hits Like Uptown Funk and 24K Magic, Bruno Mars' Music Is Always Filled with Energy</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-logitech-g510-gamepad-drivers-compatible-with-windows-7-8-and-10/"><u>Download the Latest Logitech G510 Gamepad Drivers: Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-download-of-epson-et-2750-drivers-for-windows-users-how-to-update-and-fix-printing-issues/"><u>Easy Download of Epson ET-2750 Drivers for Windows Users - How to Update and Fix Printing Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-download-and-setup-epson-wf-2750-printer-software/"><u>Easy Steps to Download & Setup Epson WF-2750 Printer Software</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-s17e-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo S17e Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ralink-drivers-download-and-update-for-windows-solved/"><u>Ralink Drivers Download & Update for Windows [SOLVED]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-windows-compatibility-issues-with-the-logitech-f710-controller-on-various-os-versions/"><u>Resolving Windows Compatibility Issues with the Logitech F710 Controller on Various OS Versions</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/seamless-dell-alienware-hdd-upgrade-ensure-your-data-remains-intact/"><u>Seamless Dell Alienware HDD Upgrade: Ensure Your Data Remains Intact</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-securing-new-samsung-usb-device-drivers-for-windows-11-users/"><u>Step-by-Step Tutorial: Securing New Samsung USB Device Drivers for Windows 11 Users</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>The Most Useful Tips for Pokemon Go Ultra League On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976101422-troubleshoot-and-improve-your-pcs-speed-get-the-updated-broadcom-ethernet-driver-for-windows-10-now/"><u>Troubleshoot and Improve Your PC's Speed: Get the Updated Broadcom Ethernet Driver for Windows 10 Now</u></a></li>
 </ul></div>
 

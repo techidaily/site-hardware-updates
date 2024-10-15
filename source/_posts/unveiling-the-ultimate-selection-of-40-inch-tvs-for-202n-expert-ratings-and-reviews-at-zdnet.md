@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Ultimate Selection of 40-Inch TVs for 202^[N]: Expert Ratings and Reviews at ZDNET"
-date: 2024-10-06T08:47:18.624Z
-updated: 2024-10-08T19:54:22.166Z
+date: 2024-10-11T17:01:28.846Z
+updated: 2024-10-15T17:03:06.035Z
 tags:
   - tvs
 categories:
@@ -22,16 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -73,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -98,21 +92,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-extensive-insights-deconstructing-the-dji-inspire-1/"><u>[New] 2024 Approved Extensive Insights Deconstructing the DJI Inspire 1</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-innovations-in-capturing-high-quality-facetime-calls/"><u>[New] 2024 Approved Innovations in Capturing High-Quality FaceTime Calls</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-ultimate-guide-to-iphone-7-screen-recording/"><u>[Updated] 2024 Approved Ultimate Guide to iPhone 7 Screen Recording</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-get-creative-and-cost-effective-with-a-stash-of-over-50-free-youtube-promo-artwork-for-2024/"><u>[Updated] Get Creative and Cost-Effective with a Stash of Over 50 Free YouTube Promo Artwork for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-screen-capturing-on-iphoneipad-updated-strategies/"><u>[Updated] Screen Capturing on iPhone/iPad Updated Strategies</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-radeon-driver-installation-guide-for-windows-7-users/"><u>AMD Radeon Driver Installation Guide for Windows 7 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-acer-monitor-drivers-complete-guide-and-step-by-step-instructions/"><u>Download Acer Monitor Drivers: Complete Guide & Step-by-Step Instructions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-remedies-for-the-missing-btballoondll-error-in-your-system/"><u>Effective Remedies for the Missing btballoon.dll Error in Your System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fast-track-your-pc-with-samsung-m2070fw-drivers-download-without-hassle/"><u>Fast Track Your PC with Samsung M2070FW Drivers - Download Without Hassle</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-set-up-corsair-hardware-drivers-for-windows-with-no-hassle/"><u>How to Download and Set Up Corsair Hardware Drivers for Windows with No Hassle</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-13-ultra-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi 13 Ultra Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-unlocking-the-full-spectrum-of-editing-power-in-polarr/"><u>In 2024, Unlocking the Full Spectrum of Editing Power in Polarr</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/lightning-loop-transferring-youtube-playlists-fast/"><u>Lightning Loop Transferring YouTube Playlists Fast</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722970407914-maintaining-genetic-diversity-requires-balancing-the-introduction-of-new-germplasm-with-the-selection-for-desired-traits/"><u>Maintaining Genetic Diversity Requires Balancing the Introduction of New Germplasm with the Selection for Desired Traits</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/master-your-pc-upgrades-at-toms-authoritative-hardware-source/"><u>Master Your PC Upgrades at Tom's Authoritative Hardware Source</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snapdragon-x-cpu-takes-off-in-performance-metrics-secures-65-of-geekbench-6-scores-benchmark-devs-take/"><u>Snapdragon X CPU Takes Off in Performance Metrics, Secures 6.5% of Geekbench 6 Scores - Benchmark Dev's Take</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-elevate-your-photography-with-polarrs-complete-features-for-2024/"><u>[New] Elevate Your Photography with Polarr's Complete Features for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-a-complete-tour-through-discords-capabilities/"><u>[Updated] In 2024, A Complete Tour Through Discord's Capabilities</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-boost-professional-look-adding-borders-to-instagram-content/"><u>[Updated] In 2024, Boost Professional Look Adding Borders to Instagram Content</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unleash-windowsmac-premium-pc-and-mac-screen-capture-tools/"><u>[Updated] Unleash Windows/Mac Premium PC and MAC Screen Capture Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-behind-the-curtain-detailed-guide-to-import-tasks-w11/"><u>2024 Approved Behind the Curtain Detailed Guide to Import Tasks W11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-14-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 14 After Forgetting the Passcode?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-canon-printer-drivers-for-windows-7-10-and-81-mf8500c-model/"><u>Download Canon Printer Drivers for Windows 7, 10 & 8.1 - MF8500C Model</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-techkey-usb-bluetooth-driver-compatible-with-windows-1078/"><u>Download TechKey USB Bluetooth Driver Compatible with Windows 10/7/8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-internet-speed-on-windows-11-with-the-newest-broadcom-ethernet-drivers-complete-guide/"><u>Enhance Internet Speed on Windows 11 with the Newest Broadcom Ethernet Drivers - Complete Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-guide-installing-conexant-drivers-on-windows-11-v2004-update/"><u>Essential Guide: Installing Conexant Drivers on Windows 11 v2004 Update</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/improved-device-management-essential-scanning-and-printing-drivers-now-included-with-windows-11/"><u>Improved Device Management: Essential Scanning & Printing Drivers Now Included with Windows 11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-break-down-barriers-streaming-google-meet-on-youtube-stepwise/"><u>In 2024, Break Down Barriers Streaming Google Meet on YouTube, Stepwise</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-vivo-t2-pro-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Vivo T2 Pro 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976758583-install-the-latest-nvidia-quadro-rtx-4000-drivers-for-enhanced-performance-start-here/"><u>Install the Latest NVIDIA Quadro RTX 4000 Drivers for Enhanced Performance: Start Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolve-lg-device-connection-problems-on-windows-1087/"><u>Resolve LG Device Connection Problems on Windows 10/8/7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/m2p-mpeg-movavi/"><u>오피스용 무세금 M2P MPEG 데이터를 자동으로 변환하는 Movavi - 단순한 방법</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tom's Computing World: Expert Reviews & Hardware Guides"
-date: 2024-09-05T20:08:38.973Z
-updated: 2024-09-06T20:08:38.973Z
+date: 2024-10-10T16:30:31.744Z
+updated: 2024-10-15T16:38:29.241Z
 tags:
   - cpu
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/0b2657385f18cc859d59520b24816f771e8e749f151532892ba053a97dc454cb.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Master the Latest Tech Trends with Tom's Hardware Reviews & Tips
 
 Intel has[announced that it has found the root](https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792) [cause](https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792) of the crashing issues plaguing its CPUs. The company will issue a microcode update to address the issues by mid-August, ostensibly ending the long-running saga that began when the first sporadic reports of CPU crashing errors surfaced in December 2022 and grew to a crescendo by the end of 2023\. Intel's response comes after complaints about the issue, which causes PCs to inexplicably crash/BSOD during gaming and other workloads,[reached a fever pitch](https://www.tomshardware.com/pc-components/cpus/game-publisher-claims-100-crash-rate-with-intel-cpus-alderon-games-says-company-sells-defective-13th-and-14th-gen-chips) in recent weeks. However, the microcode update will not repair impacted processors. Intel also confirmed a rumored issue with via oxidation in its 7nm node, but said those issues were corrected in 2023 and didn't contribute to the failures.
@@ -33,12 +27,6 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
 
  Intel isn't sharing many deep-dive details about the bug yet but says it will continue its validation process to ensure the microcode fully addresses the issues. The company will release more details about the bug itself in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -52,11 +40,12 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
  Intel has not issued a recall of its processors; sources close to the matter tell us that isn't expected. We have both of Intel's statements below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Intel statement on 13th- and 14th-Gen instability
 
  _"Based on extensive analysis of Intel Core 13th/14th Gen desktop processors returned to us due to instability issues, we have determined that elevated operating voltage is causing instability issues in some 13th/14th Gen desktop processors. Our analysis of returned processors confirms that the elevated operating voltage is stemming from a microcode algorithm resulting in incorrect voltage requests to the processor."_
@@ -66,17 +55,12 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
  _"Intel is committed to making this right with our customers, and we continue asking any customers currently experiencing instability issues on their Intel Core 13th/14th Gen desktop processors reach out to Intel Customer Support for further assistance."_
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Intel statement on via oxidation
 
 **Short answer:** We can confirm there was a via Oxidation manufacturing issue (addressed back in 2023) but it is not related to the instability issue.
@@ -85,14 +69,11 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
 
  _For the Instability issue, we are delivering a microcode patch which addresses exposure to elevated voltages which is a key element of the Instability issue. We are currently validating the microcode patch to ensure the instability issues for 13th/14th Gen are addressed. -_ Intel representative[via Reddit](https://www.reddit.com/r/intel/comments/1e9mf04/comment/lefz09c/) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -101,4 +82,26 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-ideal-8-support-systems-for-high-res-4k-cameras-for-2024/"><u>[New] Ideal 8 Support Systems for High Res 4K Cameras for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-apple-macbook-air-vs-pro-which-m1-laptop-is-better/"><u>[New] In 2024, Apple MacBook Air Vs. Pro Which M1 Laptop Is Better?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-effective-team-videos-boosting-channelnode-growth-rate/"><u>[New] In 2024, Effective Team Videos Boosting Channelnode Growth Rate</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-picart-strategies-for-stunning-image-purification/"><u>[New] PicArt Strategies for Stunning Image Purification</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-conversion-made-simple-learn-how-without-spending-a-dime/"><u>[New] YouTube Conversion Made Simple – Learn How Without Spending a Dime</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719164823498-amp-up-arcade-vibes-with-enlarged-frontend-frames/"><u>Amp Up Arcade Vibes with Enlarged Frontend Frames</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-toshiba-driver-support-download-and-update-software-for-windows-systems/"><u>Complete Toshiba Driver Support: Download & Update Software for Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-amd-gpu-drivers-for-blockchain-apps-on-windows/"><u>Download & Install AMD GPU Drivers for Blockchain Apps on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-driver-refresh-for-scansnap-ix500-a-step-by-step-tutorial-windows/"><u>Effortless Driver Refresh for ScanSnap iX500: A Step-by-Step Tutorial (Windows)</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/effortless-setup-for-a-brand-new-canon-printer/"><u>Effortless Setup for a Brand-New Canon Printer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-optimal-performance-downloading-updated-logitech-g35-drivers-for-windows-7-810/"><u>Ensure Optimal Performance: Downloading Updated Logitech G35 Drivers for Windows 7, 8/10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-smooth-performance-download-recent-amd-core-processor-drivers-for-windows/"><u>Ensure Smooth Performance: Download Recent AMD Core Processor Drivers for Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-repairing-cod-warzones-dev-error-6634-tips-and-techniques-for-a-smooth-gaming-experience/"><u>Expert Advice on Repairing COD: Warzone's Dev Error 6634 – Tips & Techniques for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-to-downloading-and-installing-webcam-drivers-on-various-windows-platforms-including-win11win10win8win7/"><u>Guide to Downloading & Installing WebCam Drivers on Various Windows Platforms, Including Win11/Win10/Win8/Win7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-set-up-your-hp-thunderbolt-dock-g2-with-120w-and-230w-options/"><u>How to Download & Set Up Your HP Thunderbolt Dock G2 with 120W and 230W Options</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-photos-at-a-click-top-captioning-software/"><u>In 2024, Perfect Photos at a Click Top Captioning Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-ac3160-wireless-networking-card-update-fast-and-simple-installation-steps/"><u>Intel AC3160 Wireless Networking Card Update: Fast and Simple Installation Steps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/one-ear-beats-troubleshoot-guide-for-2024/"><u>One-Ear Beats Troubleshoot Guide for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-audio-potential-free-download-and-installation-guide-for-m-audio-fast-track-ultradriver/"><u>Unleash Audio Potential: Free Download and Installation Guide for M-Audio Fast Track UltraDriver</u></a></li>
+</ul></div>
 

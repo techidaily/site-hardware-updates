@@ -1,7 +1,7 @@
 ---
 title: Non-Samsung, Non-LG Top Rated QLED TV Reviews | Tech Insights on ZDNet
-date: 2024-10-07T08:25:39.839Z
-updated: 2024-10-08T18:09:07.235Z
+date: 2024-10-10T16:20:43.086Z
+updated: 2024-10-15T16:07:51.453Z
 tags:
   - tvs
 categories:
@@ -52,11 +52,25 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 | Refresh rate     | 60Hz                                                                 |
 | Connectivity     | HDMI, HDMI eARC, Bluetooth, Wi-Fi, Ethernet, USB, AUX, Optical, Coax |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Pricing 
 
 **Also:** [**The 5 best budget TVs**](https://www.zdnet.com/home-and-office/home-entertainment/best-budget-tv/)
 
 As great as the new Omni Series QLED models are, price is a big sticking point for me, especially since I personally don't use Alexa or want an Amazon-centric streaming experience. However, Amazon is currently running a sale on the [65-inch Omni Series QLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-65-inch-omni-qled-series-smart-tv%2Fdp%2FB0BJMGB9RN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1), bringing the price down to $690 -- which is much more in line with what I think this TV should be retailing for -- making it a great, budget-friendly option if you're looking to upgrade. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Picture and sound 
 
@@ -95,10 +109,10 @@ Taylor Clemons/ZDNET
 If you decide to download Alexa Skills, you can play music, games, check the weather, get daily trivia, or even make and receive video calls. Skills are what really set the Omni QLED apart from similar smart TVs from competitors like TCL and Hisense. Without access to these features, the Omni QLED is reduced to a pretty bog-standard smart TV with better-than-expected picture and audio capabilities. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Gaming 
@@ -128,10 +142,10 @@ I usually play console games with a headset so I can better pick up on audio cue
 If you're in the market for a TV strictly for console gaming, I'd highly recommend the Omni QLED. Even at the full $800, it's still a solid option against competitors from brands like Sony and LG when it comes to picture quality and a smoother, more enjoyable gameplay experience. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Streaming 
@@ -176,23 +190,9 @@ The dedicated gaming picture mode lets colors and details pop while the integrat
 
 Many of the cool features are inextricably linked to Alexa functionality, so if you want to take full advantage of the Omni QLED, you'll have to invest in an Echo device and set up an Alexa account. And this reason alone is why I think the $800 price tag is just a touch on the high side for this TV, since without Alexa Skills, it's just a basic QLED model. 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Alternatives to consider 
 
 [Great for streaming Sony X77L The Sony X77L uses an LED panel to provide 4K resolution at a 60Hz refresh rate, which means that from sports and action movies to music videos and animated shorts, your media will have smooth motion, crisp details, and bold colors. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BZF2N3LM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)[Great budget option Amazon Fire TV 4-Series The Fire TV 4-Series from Amazon is a solid, budget-friendly option for anyone looking for a reliable second screen for their bedroom or affordable main TV. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-55-inch-4-series-4k-smart-tv%2Fdp%2FB0B3H6JPYZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -230,24 +230,19 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-step-by-step-method-for-changing-your-instagram-tone/"><u>[New] 2024 Approved Step-By-Step Method for Changing Your Instagram Tone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-smart-strategies-for-itunes-video-logging/"><u>[New] In 2024, The Smart Strategies for iTunes Video Logging</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-top-tiktok-edits-mastering-your-cut-lists/"><u>2024 Approved Top TikTok Edits Mastering Your Cut Lists</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/avimp4movmkv/"><u>AVIファイルの容易な変換：MP4、MOV、MKVへの転送ガイド</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-walkthrough-making-the-most-out-of-google-gemini/"><u>Comprehensive Walkthrough: Making The Most Out Of Google Gemini</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easily-update-to-the-latest-logitech-webcam-software-and-drivers-on-windows/"><u>Easily Update to the Latest Logitech Webcam Software & Drivers on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-download-newest-software-version-for-your-canon-pixma-mp250-all-in-one-printer/"><u>Find & Download Newest Software Version For Your Canon PIXMA MP250 All-in-One Printer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-for-optimal-performance-corsair-k70-driverssoftware-pack/"><u>Free Download for Optimal Performance: Corsair K70 Drivers/Software Pack</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-ultimate-guide-installing-the-latest-usb-c-drivers-for-windows-10/"><u>Free Ultimate Guide: Installing the Latest USB-C Drivers for Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-nvidia-drivers-for-your-windows-11-pc-with-ease/"><u>Get the Latest NVIDIA Drivers for Your Windows 11 PC with Ease</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-xiaomi-14-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Xiaomi 14 Safely | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-14-pro-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From Apple iPhone 14 Pro?</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-hitting-a-pixel-snag-a6400s-video-problems/"><u>In 2024, Hitting a Pixel Snag A6400's Video Problems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-and-updated-drivers-for-epson-v500-free-download-now/"><u>Latest and Updated Drivers for Epson V500 - Free Download Now!</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/mastering-video-capture-on-your-laptop-with-screenrec-for-2024/"><u>Mastering Video Capture on Your Laptop with ScreenRec for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/nvidia-driver-downloads-ensure-smooth-performance-by-upgrading-today/"><u>NVIDIA Driver Downloads – Ensure Smooth Performance by Upgrading Today</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/perfect-your-skills-applying-radial-blur-in-photoshop-easily-for-2024/"><u>Perfect Your Skills Applying Radial Blur in Photoshop Easily for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-the-hp-laserjet-pro-m4n2-driver-on-your-windows-pc/"><u>Step-by-Step Guide: Installing the HP LaserJet Pro M4n2 Driver on Your Windows PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-solving-hp-laserjet-p2035-driver-issues-on-windows-computers/"><u>Troubleshooting and Solving HP LaserJet P2035 Driver Issues on Windows Computers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-how-to-enhance-clarity-of-online-video-content/"><u>[New] 2024 Approved How to Enhance Clarity of Online Video Content</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-comprehensive-list-securing-monetized-youtube-content/"><u>[New] In 2024, Comprehensive List Securing Monetized YouTube Content</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-comprehensive-mp4-video-downloader-review/"><u>[New] In 2024, Comprehensive MP4 Video Downloader Review</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-where-can-i-find-crowd-cheering-effect/"><u>2024 Approved Where Can I Find Crowd Cheering Effect?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/broadcom-bluetooth-driver-downloads-for-enhanced-connectivity-in-windows-11-8-and-tldr7/"><u>Broadcom Bluetooth Driver Downloads for Enhanced Connectivity in Windows 11, 8 & Tldr;7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-epson-stylus-nx420-printer-driver-for-windows-7-8-and-10-latest-version/"><u>Download Epson Stylus NX420 Printer Driver for Windows 7, 8 & 10 - Latest Version</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installer-asus-screen-drivers-get-them-now/"><u>Easy Installer: ASUS Screen Drivers - Get Them Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-upgrade-your-hp-printer-software-on-windows-11-computers/"><u>Easy Steps to Upgrade Your HP Printer Software on Windows 11 Computers</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/essential-tips-and-tricks-for-creating-killer-short-videos-on-yt-for-2024/"><u>Essential Tips and Tricks for Creating Killer Short Videos on YT for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-resolving-non-functional-realtek-mic-situations/"><u>Expert Tips: Resolving Non-Functional Realtek Mic Situations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fix-rndis-driver-issues-and-update-for-windows-expert-solutions-available/"><u>How to Fix RNDIS Driver Issues & Update for Windows: Expert Solutions Available!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-and-update-your-brother-l2n6040d-trimmer-windows-drivers-and-support/"><u>How to Install and Update Your Brother L2n6040D Trimmer: Windows Drivers & Support</u></a></li>
+<li><a href="https://games-able.techidaily.com/silence-speakers-amplify-headphones-on-console/"><u>Silence Speakers, Amplify Headphones on Console</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-tiktok-watermark-removal-made-easy-top-online-options/"><u>Updated In 2024, TikTok Watermark Removal Made Easy Top Online Options</u></a></li>
 </ul></div>
 

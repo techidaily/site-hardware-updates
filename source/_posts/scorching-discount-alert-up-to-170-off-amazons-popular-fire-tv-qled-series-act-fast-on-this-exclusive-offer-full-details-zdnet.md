@@ -1,7 +1,7 @@
 ---
 title: "Scorching Discount Alert: Up to $170 Off Amazon's Popular Fire TV QLED Series! Act Fast on This Exclusive Offer - Full Details | ZDNet"
-date: 2024-10-08T02:00:33.332Z
-updated: 2024-10-08T21:01:41.050Z
+date: 2024-10-12T16:01:01.646Z
+updated: 2024-10-15T16:37:21.913Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,16 @@ Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
@@ -91,10 +97,10 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,19 +139,19 @@ Should you buy one if you're looking for a portable projector that doesn't have 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-essential-mac-tech-tips-5-snapshot-strategies/"><u>[New] In 2024, Essential Mac Tech Tips 5 Snapshot Strategies</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-learn-and-create-the-ultimate-youtube-trailer-blueprint-in-filmora/"><u>[New] Learn and Create The Ultimate YouTube Trailer Blueprint in Filmora</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-prime-windows-10-photoviewing-suite/"><u>[New] Prime Windows 10 Photoviewing Suite</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-rhythm-and-reels-instagram-music-secrets/"><u>[Updated] 2024 Approved Rhythm & Reels Instagram Music Secrets</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-retro-to-future-radeon-rebooted/"><u>2024 Approved Retro to Future Radeon Rebooted</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-newest-drivers-for-your-brother-mfc-j480dw-windows-printer/"><u>Download the Newest Drivers for Your Brother MFC-J480DW Windows Printer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-ralink-driver-downloads-and-updates-for-windows-pcs-complete-guide/"><u>Free Ralink Driver Downloads and Updates for Windows PCs - Complete Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975543696-get-your-official-asus-pce-ac68-drivers-free-here/"><u>Get Your Official ASUS PCE-AC68 Drivers Free Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-canon-eos-mf8200c-printer-drivers-windows-compatibility-guide/"><u>How to Download and Install Canon EOS MF8200C Printer Drivers: Windows Compatibility Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-install-latest-drivers-for-your-microsoft-surface-book-2/"><u>How to Find and Install Latest Drivers for Your Microsoft Surface Book 2</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-lenovo-t450-driver-downloads-for-a-smooth-computing-experience/"><u>Quick Lenovo T450 Driver Downloads for a Smooth Computing Experience</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-recorders-bible-for-clear-conversations-for-2024/"><u>The Ultimate Recorder's Bible for Clear Conversations for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-pc-video-editing-made-easy-a-review-of-vn-editor/"><u>Updated In 2024, PC Video Editing Made Easy A Review of VN Editor</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-a-guide-to-effective-hashtag-integration-on-facebook-platforms/"><u>[New] In 2024, A Guide to Effective Hashtag Integration on Facebook Platforms</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-precision-techniques-in-spinning-and-fusing-android-videography-for-2024/"><u>[Updated] Precision Techniques in Spinning & Fusing Android Videography for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-metaversal-journey-versus-omniverse-quest/"><u>2024 Approved Metaversal Journey Versus Omniverse Quest</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/australian-vernacular-essentials/"><u>Australian Vernacular Essentials</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-motorola-edge-2023-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Motorola Edge 2023</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-access-to-brother-hl-l2350dprinter-driver-updates-download-and-installation-tips/"><u>Easy Access to Brother HL-L2350D[Printer Driver Updates - Download & Installation Tips]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978230446-free-download-top-quality-behringer-audio-drivers-available-now/"><u>Free Download: Top-Quality Behringer Audio Drivers Available Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/gaming-marathon/"><u>Gaming Marathon</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-realteks-official-wifi-adapter-software-for-rtl8188cu-on-windows-operating-systems-xpvista710/"><u>Get Realtek's Official WiFi Adapter Software for RTL8188CU on Windows Operating Systems [XP/Vista/7/10]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-official-thrustmaster-t300-driver-software-updated-for-new-windows-versions-111n/"><u>Get the Official Thrustmaster T300 Driver Software - Updated for New Windows Versions (11/1N)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-sound-blaster-audigy-fx-drivers-here-free-download/"><u>Get Your Sound Blaster Audigy FX Drivers Here - Free Download</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-speaking-for-characters-the-screenwriters-challenge/"><u>In 2024, Speaking for Characters The Screenwriter's Challenge</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-unknown-speaker-configurations-in-windows-11-a-step-by-step-guide/"><u>Troubleshooting Unknown Speaker Configurations in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-inside-tips-from-toms-hardware-experts/"><u>Unlocking Performance: Inside Tips From Tom’s Hardware Experts</u></a></li>
 </ul></div>
 
