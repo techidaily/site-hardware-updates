@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Ultimate Selection of 40-Inch TVs for 202^[N]: Expert Ratings and Reviews at ZDNET"
-date: 2024-10-11T17:01:28.846Z
-updated: 2024-10-15T17:03:06.035Z
+date: 2024-10-17T01:38:54.804Z
+updated: 2024-10-20T20:51:18.170Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,21 +92,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-elevate-your-photography-with-polarrs-complete-features-for-2024/"><u>[New] Elevate Your Photography with Polarr's Complete Features for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-a-complete-tour-through-discords-capabilities/"><u>[Updated] In 2024, A Complete Tour Through Discord's Capabilities</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-boost-professional-look-adding-borders-to-instagram-content/"><u>[Updated] In 2024, Boost Professional Look Adding Borders to Instagram Content</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unleash-windowsmac-premium-pc-and-mac-screen-capture-tools/"><u>[Updated] Unleash Windows/Mac Premium PC and MAC Screen Capture Tools</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-behind-the-curtain-detailed-guide-to-import-tasks-w11/"><u>2024 Approved Behind the Curtain Detailed Guide to Import Tasks W11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-14-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 14 After Forgetting the Passcode?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-canon-printer-drivers-for-windows-7-10-and-81-mf8500c-model/"><u>Download Canon Printer Drivers for Windows 7, 10 & 8.1 - MF8500C Model</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-techkey-usb-bluetooth-driver-compatible-with-windows-1078/"><u>Download TechKey USB Bluetooth Driver Compatible with Windows 10/7/8</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-internet-speed-on-windows-11-with-the-newest-broadcom-ethernet-drivers-complete-guide/"><u>Enhance Internet Speed on Windows 11 with the Newest Broadcom Ethernet Drivers - Complete Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/essential-guide-installing-conexant-drivers-on-windows-11-v2004-update/"><u>Essential Guide: Installing Conexant Drivers on Windows 11 v2004 Update</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/improved-device-management-essential-scanning-and-printing-drivers-now-included-with-windows-11/"><u>Improved Device Management: Essential Scanning & Printing Drivers Now Included with Windows 11</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-break-down-barriers-streaming-google-meet-on-youtube-stepwise/"><u>In 2024, Break Down Barriers Streaming Google Meet on YouTube, Stepwise</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-vivo-t2-pro-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Vivo T2 Pro 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722976758583-install-the-latest-nvidia-quadro-rtx-4000-drivers-for-enhanced-performance-start-here/"><u>Install the Latest NVIDIA Quadro RTX 4000 Drivers for Enhanced Performance: Start Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolve-lg-device-connection-problems-on-windows-1087/"><u>Resolve LG Device Connection Problems on Windows 10/8/7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/m2p-mpeg-movavi/"><u>오피스용 무세금 M2P MPEG 데이터를 자동으로 변환하는 Movavi - 단순한 방법</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-key-to-attracting-views-youtube-image-marketing/"><u>[Updated] The Key to Attracting Views YouTube Image Marketing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-11-must-know-hues-for-professional-grading/"><u>2024 Approved 11 Must-Know Hues for Professional Grading</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862705640-apples-legendary-1994-powerbook-520c-redesigned-now-boasting-modern-technology-with-apple-ipad-displays-and-the-soul-of-a-core-i5-macbook-pro/"><u>Apple's Legendary 1994 PowerBook 520C Redesigned - Now Boasting Modern Technology With Apple iPad Displays & the Soul of a Core I5 MacBook Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862729599-discover-the-power-and-capabilities-of-the-new-asus-zenbook-s16-through-our-rigorous-testing-and-detailed-analysis-of-the-amd-ryzen-ai-9-hx-370-cpu/"><u>Discover the Power and Capabilities of the New Asus Zenbook S16 Through Our Rigorous Testing and Detailed Analysis of the AMD Ryzen AI 9 HX 370 CPU</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-realme-v30-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Realme V30 Data? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-advanced-techniques-for-capturing-high-quality-skype-calls/"><u>In 2024, Advanced Techniques for Capturing High-Quality Skype Calls</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-itel-p40plus-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Itel P40+ to Another | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-depth-look-at-computer-hardware-drivers-and-effective-strategies-to-address-windows-driver-errors/"><u>In-Depth Look at Computer Hardware Drivers and Effective Strategies to Address Windows Driver Errors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/introducing-the-latest-upgrade-microsofts-revamped-sticky-notes-in-windows-11/"><u>Introducing the Latest Upgrade: Microsoft's Revamped Sticky Notes in Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862693994-score-big-savings-on-your-next-pc-asus-rog-zephyrus-g14-rtx-deal-at-best-buy/"><u>Score Big Savings on Your Next PC - Asus ROG Zephyrus G14 RTX √ Deal at Best Buy</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862674914-snap-up-the-steal-asus-tuf-gaming-laptop-a15-for-a-low-cost-658-memorial-day-offer/"><u>Snap Up the Steal - Asus TUF Gaming Laptop (A15) for a Low-Cost $658 Memorial Day Offer!</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-5-alternatives-to-macrium-reflect-ideal-choices-for-efficient-disk-imaging-and-cloning/"><u>Top 5 Alternatives to Macrium Reflect: Ideal Choices for Efficient Disk Imaging & Cloning</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-conversion-roadmap-turning-sdr-into-hdr-cinema-for-2024/"><u>Ultimate Conversion Roadmap Turning SDR Into HDR Cinema for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-your-gaming-potential-with-the-powerful-acer-nitro-16-rtx-4070amd-cpu-at-a-steal-only-1129/"><u>Unleash Your Gaming Potential with the Powerful Acer Nitro 16 (RTX 4070/AMD CPU) at a Steal: Only $1,129</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862728633-unleash-your-inner-gamer-with-lenovo-legion-slim-5-a-steal-at-under-1100-from-newegg/"><u>Unleash Your Inner Gamer with Lenovo Legion Slim 5 – A Steal at Under $1,100 From Newegg!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-new-tech-marvels-the-toms-hardware-encyclopedia/"><u>Unveiling New Tech Marvels - The Tom's Hardware Encyclopedia</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Huge Sale Alert: Cutting-Edge Amazon Fire TV Omni Series QLED Now Just $150 Cheaper – Don't Miss Out!"
-date: 2024-10-14T16:18:35.981Z
-updated: 2024-10-15T16:58:31.102Z
+date: 2024-10-15T22:46:00.996Z
+updated: 2024-10-20T16:17:59.825Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,19 +92,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/download-now-official-amd-graphics-driver-for-radeon-rx-cu3i-6900-xt-supporting-win11win10win8win7/"><u>[Download Now] Official AMD Graphics Driver for Radeon RX Cu3i (6900 XT) Supporting Win11/Win10/Win8/Win7</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-instagrams-sequential-visual-showcase/"><u>[New] Instagram's Sequential Visual Showcase</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-no-money-down-mics-the-frugal-filmmakers-list/"><u>[New] No-Money-Down Mics The Frugal Filmmaker's List</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-best-20-anime-openers-anthems-in-order/"><u>[Updated] 2024 Approved Best 20 Anime Openers' Anthems in Order</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-indispensable-top-vr-movie-adventures/"><u>2024 Approved Indispensable Top VR Movie Adventures</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-rumored-to-revive-qi-wireless-charger-with-new-airpower-video-release-zdnet/"><u>Apple Rumored to Revive Qi Wireless Charger with New AirPower Video Release | ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-portable-computer-fresh-driver-downloads-and-updates-available/"><u>ASUS Portable Computer: Fresh Driver Downloads & Updates Available</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-evaluation-of-the-apple-ipad-air-2019-unmatched-performance-in-media-consumption/"><u>Comprehensive Evaluation of the Apple iPad Air (2019): Unmatched Performance in Media Consumption</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/cookiebot-enhanced-user-experience-a-recipe-for-successful-site-engagement/"><u>Cookiebot-Enhanced User Experience: A Recipe for Successful Site Engagement</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-intel-hd-graphics-drivers-for-windows-11-latest-updates-and-compatibility-guide/"><u>Download Intel HD Graphics Drivers for Windows 11: Latest Updates & Compatibility Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-download-epson-ds-530-printer-software-for-the-latest-windows-11-update/"><u>How to Find and Download Epson DS-530 Printer Software for the Latest Windows 11 Update</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-oppo-a78-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Oppo A78 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/newest-thunderbolt-3-dock-controllers-optimizing-your-lenovo-thinkpad-experience/"><u>Newest Thunderbolt 3 Dock Controllers: Optimizing Your Lenovo ThinkPad Experience</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/the-premier-selection-of-logic-pro-x-extensions-8-plugins-to-elevate-your-sound-design/"><u>The Premier Selection of Logic Pro X Extensions 8 Plugins to Elevate Your Sound Design</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-legal-tunes-collection-top-10-free-music-for-mindfulness/"><u>[New] 2024 Approved Legal Tunes Collection – Top 10 Free Music for Mindfulness</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-elevating-visuals-with-luminance-hdr-insight-for-2024/"><u>[New] Elevating Visuals with Luminance-HDR Insight for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-360-video-landscape-key-dos-and-donts-9/"><u>[New] Navigating the 360 Video Landscape Key Do's and Don'ts (9)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-compilation-budget-friendly-editing-tools/"><u>[Updated] The Ultimate Compilation Budget-Friendly Editing Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-how-to-turn-discord-livestreams-into-lasting-digital-memories/"><u>2024 Approved How to Turn Discord Livestreams Into Lasting Digital Memories</u></a></li>
+<li><a href="https://win-forum.techidaily.com/diy-file-security-master-the-art-of-password-protected-text-documents/"><u>DIY File Security: Master the Art of Password-Protected Text Documents</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-zte-nubia-flip-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your ZTE Nubia Flip 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-lenovos-revolutionary-thinkpad-t14s-unparalleled-battery-life-of-up-to-29-hours-and-top-of-the-line-x-elite-cpu/"><u>Introducing Lenovo's Revolutionary ThinkPad T14s: Unparalleled Battery Life of Up to 29 Hours & Top-of-the-Line X Elite CPU</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-the-next-gen-laptop-series-state-of-the-art-intel-and-amd-cpus-included/"><u>Introducing the Next-Gen Laptop Series - State-of-the-Art Intel and AMD CPUs Included</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/m1-powered-macbook-air-a-new-era-for-editors-in-2024/"><u>M1-Powered MacBook Air A New Era for Editors, In 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-the-game-save-your-wallet-best-gaming-notebook-bargains-in-24/"><u>Master the Game, Save Your Wallet: Best Gaming Notebook Bargains in '24</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-computer-gear-toms-in-depth-hardware-analysis/"><u>Mastering Computer Gear: Tom's In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-pc-gear-with-insights-from-toms-hardware/"><u>Mastering PC Gear with Insights From Tom’s Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-your-pc-build-insights-from-toms-hardware-reviews/"><u>Mastering Your PC Build - Insights From Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-gameplay-snag-a-discounted-lenovo-legion-laptop-packing-rtx-cu-and-rapid-refresh-at-240-hz/"><u>Maximize Your Gameplay: Snag a Discounted Lenovo Legion Laptop Packing RTX Cu and Rapid Refresh at 240 Hz</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigate-the-world-of-hardware-with-toms-guidance/"><u>Navigate the World of Hardware with Tom's Guidance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-hardware-innovations-with-tom-expert-reviews-and-guides/"><u>Navigating Hardware Innovations with Tom - Expert Reviews & Guides</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-fixes-for-smoothing-out-resident-evil-village-gameplay-on-pc-systems/"><u>The Ultimate Fixes for Smoothing Out Resident Evil Village Gameplay on PC Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Motorola Moto G14 | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Advice: Expert Gadget Guidance"
-date: 2024-09-05T20:06:12.711Z
-updated: 2024-09-06T20:06:12.711Z
+date: 2024-10-14T03:26:26.800Z
+updated: 2024-10-20T21:54:17.057Z
 tags:
   - cpu
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/b3153ec899dbcf21db1ce658bb4385472e45719d12072245775003aa8fbb377c.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Master the Latest Tech Trends with Tom's Hardware Reviews & Tips
 
 Intel has[announced that it has found the root](https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792) [cause](https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792) of the crashing issues plaguing its CPUs. The company will issue a microcode update to address the issues by mid-August, ostensibly ending the long-running saga that began when the first sporadic reports of CPU crashing errors surfaced in December 2022 and grew to a crescendo by the end of 2023\. Intel's response comes after complaints about the issue, which causes PCs to inexplicably crash/BSOD during gaming and other workloads,[reached a fever pitch](https://www.tomshardware.com/pc-components/cpus/game-publisher-claims-100-crash-rate-with-intel-cpus-alderon-games-says-company-sells-defective-13th-and-14th-gen-chips) in recent weeks. However, the microcode update will not repair impacted processors. Intel also confirmed a rumored issue with via oxidation in its 7nm node, but said those issues were corrected in 2023 and didn't contribute to the failures.
@@ -33,12 +27,6 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
 
  Intel isn't sharing many deep-dive details about the bug yet but says it will continue its validation process to ensure the microcode fully addresses the issues. The company will release more details about the bug itself in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -52,11 +40,12 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
  Intel has not issued a recall of its processors; sources close to the matter tell us that isn't expected. We have both of Intel's statements below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Intel statement on 13th- and 14th-Gen instability
 
  _"Based on extensive analysis of Intel Core 13th/14th Gen desktop processors returned to us due to instability issues, we have determined that elevated operating voltage is causing instability issues in some 13th/14th Gen desktop processors. Our analysis of returned processors confirms that the elevated operating voltage is stemming from a microcode algorithm resulting in incorrect voltage requests to the processor."_
@@ -66,11 +55,12 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
  _"Intel is committed to making this right with our customers, and we continue asking any customers currently experiencing instability issues on their Intel Core 13th/14th Gen desktop processors reach out to Intel Customer Support for further assistance."_
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Intel statement on via oxidation
 
 **Short answer:** We can confirm there was a via Oxidation manufacturing issue (addressed back in 2023) but it is not related to the instability issue.
@@ -79,14 +69,11 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
 
  _For the Instability issue, we are delivering a microcode patch which addresses exposure to elevated voltages which is a key element of the Instability issue. We are currently validating the microcode patch to ensure the instability issues for 13th/14th Gen are addressed. -_ Intel representative[via Reddit](https://www.reddit.com/r/intel/comments/1e9mf04/comment/lefz09c/) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -95,4 +82,24 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-boost-your-instagram-influence-5-key-tactics-for-enhanced-followers/"><u>[Updated] 2024 Approved Boost Your Instagram Influence 5 Key Tactics for Enhanced Followers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/add-background-scores-via-premiere-pro-for-2024/"><u>Add Background Scores via Premiere Pro for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-meizu-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Meizu?</u></a></li>
+<li><a href="https://windows11.techidaily.com/disabling-microsoft-store-failure-codes-x800704cf/"><u>Disabling Microsoft Store Failure Codes X800704CF</u></a></li>
+<li><a href="https://techtrends.techidaily.com/disabling-the-audio-navigation-feature-on-your-samsung-television/"><u>Disabling the Audio Navigation Feature on Your Samsung Television</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-setup-insignia-vga-to-usb-converter-include-full-device-drivers/"><u>Download and Setup Insignia VGA-to-USB Converter - Include Full Device Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-asus-atk0110-acpi-control-software-for-free/"><u>Download ASUS ATK0110 ACPI Control Software for Free</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-canon-mf8200c-printer-drivers-fully-updated-for-windows-users/"><u>Download Canon MF8200C Printer Drivers - Fully Updated for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-asus-atk0110-acpi-control-and-bios-files-at-no-cost/"><u>Download the Latest ASUS ATK0110 ACPI Control and BIOS Files at No Cost</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-the-latest-features-top-5-must-see-updates-in-the-ios-18-developer-preview-insights/"><u>Explore the Latest Features: Top 5 Must-See Updates in the iOS 18 Developer Preview - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fix-your-hp-monitors-display-driver-glitches-in-windows-operating-systems/"><u>Fix Your HP Monitor's Display Driver Glitches in Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-hp-laserjet-m506-printer-drivers-latest-version-and-downloads/"><u>Free HP LaserJet M506 Printer Drivers: Latest Version and Downloads</u></a></li>
+<li><a href="https://fox-links.techidaily.com/intro-to-radial-photo-distortion-ps-tutorial/"><u>Intro to Radial Photo Distortion PS Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977551187-latest-hp-laserjet-pro-m4amo-driver-software-get-it-here/"><u>Latest HP LaserJet Pro M4amo Driver Software - Get It Here</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-crashes-in-terraria-top-fixes-for-players-to-try-now/"><u>No More Crashes in Terraria – Top Fixes for Players to Try Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolved-microsoft-battery-driver-problems-ensuring-acpi-compliance/"><u>Resolved Microsoft Battery Driver Problems - Ensuring ACPI Compliance</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unveil-windows-xp-professional-for-video-production/"><u>Unveil Windows XP Professional for Video Production</u></a></li>
+</ul></div>
 

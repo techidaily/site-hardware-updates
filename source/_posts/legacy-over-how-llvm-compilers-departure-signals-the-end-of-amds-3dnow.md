@@ -1,7 +1,7 @@
 ---
 title: "Legacy Over: How LLVM Compiler's Departure Signals the End of AMD's 3DNow!"
-date: 2024-09-05T20:04:00.725Z
-updated: 2024-09-06T20:04:00.725Z
+date: 2024-10-16T16:23:24.590Z
+updated: 2024-10-21T00:57:24.965Z
 tags:
   - cpu
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6ed8b5f1e4a621d2eef1f390.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AMD's Ryzen 9000 Now Available on Best Buy: Prices Slashed Below Launch Rates of Previous Ryzen Models
 
 The launch of AMD’s highly anticipated[Ryzen 9000](https://www.tomshardware.com/pc-components/cpus/amd-announces-zen-5-ryzen-9000-processors-launches-in-july-four-new-ryzen-9-7-and-5-processors-with-a-16-ipc-improvement) series, which will rival the[best CPUs](https://www.tomshardware.com/reviews/best-cpus,3986.html) , has been pushed back by a couple of weeks, moving it from July 31 to August 8 for the Ryzen 7 9700X and Ryzen 5 9600X and August 15 for the Ryzen 9 9900X and Ryzen 9 9950X chips. Nevertheless, U.S. retailers have started listing these hot new processors with included pricing information.
@@ -47,12 +35,6 @@ The launch of AMD’s highly anticipated[Ryzen 9000](https://www.tomshardware.co
 
  Intel won't have an answer for Ryzen 9000 until later this year with the chipmaker's next-generation Core Ultra 200 (codenamed Arrow Lake) processors. With the whole[Raptor Lake and Raptor Lake Refresh instability](https://www.tomshardware.com/pc-components/intel-raptor-lake-instability-troubles-everything-you-need-to-know) drama and Ryzen 9000's attractive MSRP, Intel will not easily compete with Zen 5.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -67,8 +49,6 @@ The launch of AMD’s highly anticipated[Ryzen 9000](https://www.tomshardware.co
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -76,4 +56,29 @@ The launch of AMD’s highly anticipated[Ryzen 9000](https://www.tomshardware.co
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-creating-captivating-solo-content-that-strikes-gold/"><u>[New] Creating Captivating Solo Content that Strikes Gold</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2023-how-to-upload-tiktok-videos-on-chromeandroidiphone-for-2024/"><u>[Updated] 2023 | How to Upload Tiktok Videos on Chrome/Android/iPhone for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-live-streamer-audience-metrics-for-2024/"><u>[Updated] Live Streamer Audience Metrics for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-finding-and-installing-updates-for-hp-envy-5540/"><u>Complete Guide to Finding & Installing Updates for HP Envy 5540</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-how-to-install-the-epson-xp-400-printer-driver-step-by-step-instructions/"><u>Complete Guide: How to Install the Epson XP-400 Printer Driver - Step-by-Step Instructions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-realtek-chip-fe-driver-for-windows-11-systems-at-no-cost/"><u>Download the Latest Realtek Chip FE Driver for Windows 11 Systems at No Cost</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-smooth-performance-dell-inspiron-15-driver-guide-for-windows-10-users/"><u>Ensure Smooth Performance: Dell Inspiron 15 Driver Guide for Windows 10 Users</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-oppo-a56s-5g-by-drfone-android/"><u>How to Bypass FRP on Oppo A56s 5G?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-metaverse-comedy-crafting-memetic-gold/"><u>In 2024, Mastering Metaverse Comedy Crafting Memetic Gold</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installation-and-update-instructions-for-geforce-gtx-1660-super-drivers/"><u>Installation and Update Instructions for GeForce GTX 1660 SUPER Drivers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-pc-refreshes-how-to-perform-a-full-restore-on-windows-11-using-revouninstaller/"><u>Mastering PC Refreshes: How to Perform a Full Restore on Windows 11 Using RevoUninstaller</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/qualcomm-atheros-ar3011-bluetooth-30-drivers-free-download/"><u>Qualcomm Atheros AR3011 Bluetooth 3.0 Drivers - Free Download</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-motorola-razr-40-ultra-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Motorola Razr 40 Ultra Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-the-potential-of-virtual-backgrounds-in-webcasters-arsenal/"><u>Unlocking the Potential of Virtual Backgrounds in Webcasters' Arsenal</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-windows-device-with-the-newest-pl23n-usb-to-serial-converter-drivers/"><u>Update Your Windows Device with the Newest PL23n USB to Serial Converter Drivers</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

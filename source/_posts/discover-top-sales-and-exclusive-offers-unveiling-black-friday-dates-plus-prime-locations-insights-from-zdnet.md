@@ -1,7 +1,7 @@
 ---
 title: "Discover Top Sales & Exclusive Offers: Unveiling Black Friday Dates + Prime Locations - Insights From ZDNet"
-date: 2024-10-09T17:01:54.829Z
-updated: 2024-10-15T16:52:18.830Z
+date: 2024-10-16T19:55:39.029Z
+updated: 2024-10-21T00:08:15.773Z
 tags:
   - tvs
 categories:
@@ -52,18 +52,18 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 | Refresh rate     | 60Hz                                                                 |
 | Connectivity     | HDMI, HDMI eARC, Bluetooth, Wi-Fi, Ethernet, USB, AUX, Optical, Coax |
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Pricing 
 
 **Also:** [**The 5 best budget TVs**](https://www.zdnet.com/home-and-office/home-entertainment/best-budget-tv/)
 
 As great as the new Omni Series QLED models are, price is a big sticking point for me, especially since I personally don't use Alexa or want an Amazon-centric streaming experience. However, Amazon is currently running a sale on the [65-inch Omni Series QLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-65-inch-omni-qled-series-smart-tv%2Fdp%2FB0BJMGB9RN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1), bringing the price down to $690 -- which is much more in line with what I think this TV should be retailing for -- making it a great, budget-friendly option if you're looking to upgrade. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Picture and sound 
 
@@ -101,6 +101,13 @@ Taylor Clemons/ZDNET
 
 If you decide to download Alexa Skills, you can play music, games, check the weather, get daily trivia, or even make and receive video calls. Skills are what really set the Omni QLED apart from similar smart TVs from competitors like TCL and Hisense. Without access to these features, the Omni QLED is reduced to a pretty bog-standard smart TV with better-than-expected picture and audio capabilities. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Gaming 
 
 Where I was the most surprised with the Omni QLED is just how well it does with console gaming. I set up both my [PlayStation 5](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPlayStation-5-Console%2Fdp%2FB0BCNKKZ91%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1) and [Nintendo Switch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FNintendo-Switch-OLED-Model-White-Joy%2Fdp%2FB098RKWHHZ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1) and ran this TV through every test and challenge I could think of. And the Omni Series QLED is more than capable of delivering a quality console gaming experience. 
@@ -126,13 +133,6 @@ Taylor Clemons/ZDNET
 I usually play console games with a headset so I can better pick up on audio cues and dialogue, but the integrated speakers of the Omni QLED provide loud and clear audio that doesn't make you miss out on fine details like wind through trees, subtle music, and quiet character conversations. 
 
 If you're in the market for a TV strictly for console gaming, I'd highly recommend the Omni QLED. Even at the full $800, it's still a solid option against competitors from brands like Sony and LG when it comes to picture quality and a smoother, more enjoyable gameplay experience. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Streaming 
 
@@ -168,13 +168,6 @@ Animation is another area where this TV comes into its own. Whether you're watch
 
 [Amazon Fire TV Omni QLED $690 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09N6J7KJD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Bottom line 
 
 At the end of the day, the Amazon Fire TV Omni Series QLED is a run-of-the-mill smart, 4K TV that aims to provide a solid streaming experience for Amazon and Alexa users. If you're not an avid Alexa or Amazon fan, you can still get a lot of mileage out of this TV, especially if you're looking for a more affordable TV for console gaming. 
@@ -183,15 +176,34 @@ The dedicated gaming picture mode lets colors and details pop while the integrat
 
 Many of the cool features are inextricably linked to Alexa functionality, so if you want to take full advantage of the Omni QLED, you'll have to invest in an Echo device and set up an Alexa account. And this reason alone is why I think the $800 price tag is just a touch on the high side for this TV, since without Alexa Skills, it's just a basic QLED model. 
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Alternatives to consider 
 
 [Great for streaming Sony X77L The Sony X77L uses an LED panel to provide 4K resolution at a 60Hz refresh rate, which means that from sports and action movies to music videos and animated shorts, your media will have smooth motion, crisp details, and bold colors. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BZF2N3LM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)[Great budget option Amazon Fire TV 4-Series The Fire TV 4-Series from Amazon is a solid, budget-friendly option for anyone looking for a reliable second screen for their bedroom or affordable main TV. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-55-inch-4-series-4k-smart-tv%2Fdp%2FB0B3H6JPYZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -230,22 +242,18 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-innovative-game-recording-on-modern-win10-systems/"><u>[New] 2024 Approved Innovative Game Recording on Modern Win10 Systems</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-visual-snips-tool/"><u>[New] In 2024, Visual Snips Tool</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-kickstart-creative-video-editing-with-xp-edition/"><u>[Updated] Kickstart Creative Video Editing with Xp Edition</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatible-epson-wf-27n60-driver-software-for-windows-operating-systems-win-11-win-10-win-8/"><u>Compatible Epson WF-27n60 Driver Software for Windows Operating Systems (Win 11, Win 10, Win 8)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dell-wifi-card-software-update-free-access-here/"><u>Dell WiFi Card Software Update: FREE Access Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/downloading-and-updating-the-brother-mfc-7860dw-drivers-on-your-pc/"><u>Downloading and Updating the Brother MFC-#7860DW Drivers on Your PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhanced-visual-experience-improved-fps-and-bug-fixes-now-available-in-mass-effect-epic-collection/"><u>Enhanced Visual Experience: Improved FPS and Bug Fixes Now Available in Mass Effect Epic Collection</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-compatibility-with-newest-hp-officejet-pro-8610-drivers-for-windows-operating-systems-win11-win10/"><u>Ensure Compatibility with Newest HP Officejet Pro 8610 Drivers for Windows Operating Systems (Win11, Win10)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-optimal-performance-latest-version-of-corsair-k55-driver-software-available-to-download/"><u>Ensure Optimal Performance: Latest Version of Corsair K55 Driver Software Available to Download</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-fixes-for-a-broken-macbook-pro-keyboard-what-you-need-to-know/"><u>Essential Fixes for a Broken MacBook Pro Keyboard – What You Need to Know</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/focus-frameworks-key-tools-to-brighten-videos/"><u>Focus Frameworks Key Tools to Brighten Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-version-of-broadcoms-bluetooth-software-for-windows-1087-users/"><u>Get the Latest Version of Broadcom's Bluetooth Software for Windows 10/8/7 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722967335054-latest-hp-laserjet-pro-1006-driver-software-secure-your-free-copy/"><u>Latest HP LaserJet Pro 1006 Driver Software - Secure Your Free Copy</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/logitech-g933-headset-latest-driver-download/"><u>Logitech G933 Headset Latest Driver Download</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-guide-converting-your-mp4-files-into-sony-psp-format/"><u>Step-by-Step Guide: Converting Your MP4 Files Into Sony PSP Format</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-vivo-v29-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo V29 Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://win-unique.techidaily.com/two-effective-ways-to-perform-a-clean-restart-on-your-windows-11-machine-without-losing-data/"><u>Two Effective Ways to Perform a Clean Restart on Your Windows 11 Machine Without Losing Data</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-elevate-engagement-crafting-effective-youtube-shorts/"><u>[Updated] In 2024, Elevate Engagement Crafting Effective YouTube Shorts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-hardware-evaluations-with-toms-technological-digest/"><u>Expert Hardware Evaluations with Tom’s Technological Digest</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-end-games-and-the-debate-on-mt-integration/"><u>High-End Games and the Debate on MT Integration</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-poco-c65-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Poco C65</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-riches-with-best-hash-tags-tips/"><u>In 2024, YouTube Riches with Best Hash Tags Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/simplify-your-digital-image-management-with-google-photos-for-2024/"><u>Simplify Your Digital Image Management with Google Photos for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-best-deal-dell-s3222dgm-gaming-monitor-now-at-unbeatable-229-price/"><u>Snag the Best Deal: Dell S3222DGM Gaming Monitor Now at Unbeatable $229 Price</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transforming-visual-experience-meet-the-newly-upgraded-samsung-odyssey-smart-monitor-and-view-series-with-next-gen-ai-capabilities/"><u>Transforming Visual Experience: Meet the Newly Upgraded Samsung Odyssey, Smart Monitor & View Series with Next-Gen AI Capabilities</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-resolving-incorrect-media-detected-on-your-dvd-player/"><u>Troubleshooting Tips: Resolving 'Incorrect Media Detected' On Your DVD Player</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultra-wide-curved-display-with-quantum-dot-technology-wqhd-resolution/"><u>Ultra-Wide Curved Display with Quantum Dot Technology - WQHD Resolution</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-samsung-2nd-generation-55-oled-gaming-monitor-now-at-record-lifetime-low/"><u>Unbeatable Deal: Samsung 2Nd Generation 55 OLED Gaming Monitor Now at Record Lifetime Low!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-gadgets-and-pc-building-with-toms-hardware-experts/"><u>Unveiling Gadgets & PC Building with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrading-your-setup-with-toms-computer-components/"><u>Upgrading Your Setup with Tom's Computer Components</u></a></li>
 </ul></div>
 

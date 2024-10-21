@@ -1,7 +1,7 @@
 ---
 title: Amazon's Top-Notch Fire TV Omni QLED Series Up to 37%% Off Today - Exclusive Deal at ZDNET!
-date: 2024-10-10T16:13:32.583Z
-updated: 2024-10-15T16:43:54.950Z
+date: 2024-10-15T06:18:06.389Z
+updated: 2024-10-20T23:33:59.000Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,24 +92,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-blueprint-to-perpetual-snapstreaks/"><u>[New] 2024 Approved The Blueprint to Perpetual Snapstreaks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-video-subtitling-a-compreenhensive-review-of-key-online-tools/"><u>[Updated] Mastering Video Subtitling A Compreenhensive Review of Key Online Tools</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1728475916565-aomei/"><u>AOMEI一键系统恢复技术人员及个性化数据保存功能</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-usb-30-drivers-for-windows-pc/"><u>Download & Install USB 3.0 Drivers for Windows PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-toshiba-laptop-drivers-on-windows-easy-guide/"><u>Download and Update Toshiba Laptop Drivers on Windows - Easy Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-motorola-edge-40-pro-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Motorola Edge 40 Pro</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722977811354-genetic-diversity-is-essential-for-the-adaptability-and-resilience-of-crop-species/"><u>Genetic Diversity Is Essential for the Adaptability and Resilience of Crop Species.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-canon-imageclass-mf4800-driver-software-for-free/"><u>Get the Latest Canon ImageCLASS MF4800 Driver Software for Free!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-zexmt-bluetooth-device-up-and-running-with-updated-drivers-win1078/"><u>Get Your Zexmt Bluetooth Device Up and Running with Updated Drivers (Win10/7/8)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-easily-obtain-and-update-toshiba-dynamo-pad-control-drivers-for-windows-pcs/"><u>How to Easily Obtain & Update Toshiba Dynamo Pad Control Drivers for Windows PCs</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-a15-4g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Samsung Galaxy A15 4G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-emoji-mastery-for-engaging-youtube-discussions/"><u>In 2024, Emoji Mastery for Engaging YouTube Discussions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-youtubes-finest-unveiling-the-best-reaction-tricks/"><u>In 2024, YouTube's Finest Unveiling the Best Reaction Tricks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-the-latest-intel-me-drivers-for-windows-systems-w10-81-and-7/"><u>Install the Latest Intel ME Drivers for Windows Systems (W10, 8.1, & 7)</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/raft-community-image-bank-access-for-2024/"><u>Minecraft Community Image Bank Access for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/nvidia-quadro-rtx-4000-how-to-download-and-update-your-drivers-easily/"><u>Nvidia Quadro RTX 4000 - How to Download and Update Your Drivers Easily</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-elevated-processor-demand-in-windows-10-systems-a-comprehensive-guide/"><u>Resolving Elevated Processor Demand in Windows 10 Systems: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-downloading-and-installing-asus-touchpad-drivers-on-your-windows-11-device/"><u>Ultimate Guide to Downloading and Installing ASUS Touchpad Drivers on Your Windows 11 Device</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-effortless-fusion-of-youtube-audio-with-imovie-masterpieces/"><u>[New] In 2024, Effortless Fusion of YouTube Audio with iMovie Masterpieces</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-achieve-professional-grade-aesthetics-top-10-insta-grid-makers-for-2024/"><u>[Updated] Achieve Professional-Grade Aesthetics Top 10 Insta Grid Makers for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-methods-to-rectify-obs-fullscreen-crash/"><u>[Updated] In 2024, Methods to Rectify OBS Fullscreen Crash</u></a></li>
+<li><a href="https://win11.techidaily.com/command-center-chameleon-blend-in-with-win-1011/"><u>Command Center Chameleon: Blend in with Win 10/11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-altering-username-on-google-meet-via-pc-and-mobile/"><u>In 2024, Altering Username on Google Meet via PC & Mobile</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-pixiz-for-creating-dynamic-photo-videos-for-2024/"><u>Mastering Pixiz for Creating Dynamic Photo Videos for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/al-options-high-performance-laptops-for-videographers-for-2024/"><u>Optimal Options High-Performance Laptops for Videographers for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsungs-newest-smartphone-struggles-in-benchmarking-the-elite-chip-vs-apples-powerhouse/"><u>Samsung's Newest Smartphone Struggles in Benchmarking: The Elite Chip Vs. Apple's Powerhouse</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/sharpen-the-tongue-top-3-mental-workouts-for-easier-learning/"><u>Sharpen the Tongue: Top 3 Mental Workouts for Easier Learning</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-building-a-powerhouse-computer-by-toms-hardware/"><u>The Ultimate Guide to Building a Powerhouse Computer by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-resource-for-advanced-computer-hardware-by-toms-experts/"><u>The Ultimate Resource for Advanced Computer Hardware by Tom's Experts</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-lava-yuva-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Lava Yuva 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-advice-expert-insights-into-computer-components-and-gadgets/"><u>Tom's Tech Advice: Expert Insights Into Computer Components and Gadgets</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-gear-the-ultimate-guide-to-computers-and-peripherals/"><u>Tom's Tech Gear: The Ultimate Guide to Computers and Peripherals</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-unraveling-computer-components/"><u>Tom's Tech Hub - Unraveling Computer Components</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-comprehensive-guide/"><u>Tom's Tech Insights: Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-in-depth-reviews-and-comparisons/"><u>Tom's Tech Insights: In-Depth Reviews and Comparisons</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/trust-in-precision-tech-reviews-and-advice-from-toms-hardware-team/"><u>Trust in Precision Tech Reviews and Advice From Tom's Hardware Team</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/1728491002582-windows-os-111087/"><u>どうすれば、Windows OS (11/10/8/7) でクローンされたドライブが正常に機能するか?</u></a></li>
 </ul></div>
 

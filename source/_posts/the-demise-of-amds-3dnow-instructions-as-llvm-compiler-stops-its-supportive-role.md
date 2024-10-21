@@ -1,7 +1,7 @@
 ---
 title: The Demise of AMD's 3DNow! Instructions as LLVM Compiler Stops Its Supportive Role
-date: 2024-09-05T20:04:13.482Z
-updated: 2024-09-06T20:04:13.482Z
+date: 2024-10-19T01:35:59.085Z
+updated: 2024-10-20T21:29:33.829Z
 tags:
   - cpu
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/ev9GVkzRexbkM3qe5S5e3U-320-80.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AMD Takes the Lead with Fastest New Mobile Chip Against Apple's M3 Max - Multi-Core War Commences
 
 AMD’s next-generation mobile and desktop chips are expected to launch in July, and we’ve seen some benchmark results for the top-end [Ryzen AI 9 HX 370](https://www.tomshardware.com/pc-components/cpus/ryzen-ai-9-hx-370-delivers-intel-beating-single-core-performance) gradually appearing online. Hardware detective [HXL](https://twitter.com/9550pro/status/1813896531352953040) shared a photograph of a Cinebench R23 test showing AMD’s latest processor running Windows 10\. As with all leaks, treat the results with a pinch of salt. The Ryzen AI 9 HX 370 reportedly achieved a single-core score of 2,010 points, while its multi-core performance hit 23,302.
@@ -38,12 +32,6 @@ AMD’s next-generation mobile and desktop chips are expected to launch in July,
 
  With the launch just a few weeks away, many AMD fans would be excited to get their hands on its latest processors. But we recommend holding off on your purchases until tech reviewers get their hands on these laptops and run them through their paces. That way, you know which options to look at and can get your money’s worth on the new computer you’ll buy.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -52,14 +40,11 @@ AMD’s next-generation mobile and desktop chips are expected to launch in July,
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -68,4 +53,23 @@ AMD’s next-generation mobile and desktop chips are expected to launch in July,
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-secure-your-device-footage-with-mi-11-techniques/"><u>2024 Approved Secure Your Device Footage with Mi 11 Techniques</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Realme C67 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-logitech-speakers-on-your-pc-latest-driver-packs-for-win10win7win8/"><u>Install Logitech Speakers on Your PC: Latest Driver Packs for Win10/Win7/Win8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-toshiba-satellite-driver-updates-available-for-windows-users/"><u>Latest Toshiba Satellite Driver Updates Available for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-steps-update-your-msi-gpu-drivers-on-windows-107/"><u>Simple Steps: Update Your MSI GPU Drivers on Windows 10/7</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-lava-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Lava Phone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-laptop-audio-issues-a-comprehensive-guide/"><u>Troubleshoot and Fix Laptop Audio Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-nvidia-geforce-rtx-gtx-1650-super-drivers-on-windows-11-step-by-step-tutorial/"><u>Update Your Nvidia GeForce RTX GTX 1650 Super Drivers on Windows 11 - Step-by-Step Tutorial</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

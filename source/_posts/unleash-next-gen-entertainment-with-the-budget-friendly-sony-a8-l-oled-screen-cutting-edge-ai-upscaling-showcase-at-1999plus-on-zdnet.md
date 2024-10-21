@@ -1,7 +1,7 @@
 ---
 title: Unleash Next-Gen Entertainment with the Budget-Friendly Sony A8^ L OLED Screen | Cutting Edge AI Upscaling Showcase at $1,999+ on ZDNET
-date: 2024-10-12T16:31:46.690Z
-updated: 2024-10-15T16:31:52.799Z
+date: 2024-10-14T01:57:51.836Z
+updated: 2024-10-21T05:47:43.741Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,16 @@ Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
@@ -91,10 +97,16 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,24 +145,20 @@ Should you buy one if you're looking for a portable projector that doesn't have 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-15-premier-sci-tech-vloggers-for-enlightened-learning/"><u>[New] 2024 Approved 15 Premier Sci-Tech Vloggers for Enlightened Learning</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-screen-to-file-solutions-with-apowersoft/"><u>[New] 2024 Approved Screen-to-File Solutions with Apowersoft</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-avoid-facebooks-targeted-video-promotions/"><u>[New] In 2024, Avoid Facebook's Targeted Video Promotions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-optical-drive-drivers-secure-and-easy-download-options/"><u>ASUS Optical Drive Drivers - Secure & Easy Download Options</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/eliminating-sounds-issues-comprehensive-solutions-for-the-realtek-alc887-hd-audio-driver-in-windows/"><u>Eliminating Sounds Issues: Comprehensive Solutions for the Realtek ALC887 HD Audio Driver in Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722967147243-ensure-compatibility-download-new-drivers-for-your-brother-hl-l2370dw-printer-today/"><u>Ensure Compatibility: Download New Drivers for Your Brother HL-L2370DW Printer Today!</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-poco-c55-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Poco C55 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-started-with-updated-thinkpad-thunderbolt-3-dock-compatibility-and-setup-instructions/"><u>Get Started with Updated ThinkPad Thunderbolt 3 Dock - Compatibility and Setup Instructions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-official-toshiba-printer-drivers-on-your-pc/"><u>How to Install Official Toshiba Printer Drivers on Your PC</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-explore-cost-free-professional-cam-screen-recorders/"><u>In 2024, Explore Cost-Free, Professional Cam Screen Recorders</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-maximize-visuals-in-youtubespace-with-effective-tools/"><u>In 2024, Maximize Visuals in YouTubespace with Effective Tools</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-metaverse-mayhem-top-party-games-listed/"><u>In 2024, Metaverse Mayhem Top Party Games Listed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-recent-updates-for-your-lenovo-usb-c-3-dock-station/"><u>Installing Recent Updates for Your Lenovo USB-C 3 Dock Station</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/precision-in-reducing-image-size-the-essential-guide-to-thumbnails/"><u>Precision in Reducing Image Size The Essential Guide to Thumbnails</u></a></li>
-<li><a href="https://windows11.techidaily.com/preserving-default-time-on-windows-pcs/"><u>Preserving Default Time on Windows PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/supercharge-your-pc-gaming-upgrade-to-the-latest-asus-rx-5-new-best-seo-titles-suitable-for-google-search-engine-that-convey-similar-meanings-to-enhance-you112/"><u>Supercharge Your PC Gaming: Upgrade to the Latest Asus RX 5 New Best SEO Titles Suitable for Google Search Engine that Convey Similar Meanings to Enhance Your PC's Graphics with a New ASUS ROG Strix GeForce GTX 1660 Ti</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-importance-of-port-security-explain-the-role-of-vessel-tracking-systems-in-enhancing-port-security-by-preventing-unauthorized-access-ensuring-proper-car264/"><u>The Importance of Port Security: Explain the Role of Vessel Tracking Systems in Enhancing Port Security by Preventing Unauthorized Access, Ensuring Proper Cargo Handling, and Monitoring for Contraband or Illegal Activities Within Secure Areas</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975552110-update-your-pc-download-nvidias-latest-geforce-rtx-3080-driver-for-windows-users/"><u>Update Your PC: Download NVIDIA's Latest GeForce RTX 3080 Driver for Windows Users</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-best-lego-stop-motion-maker/"><u>Updated Best Lego Stop Motion Maker</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-share-the-laughter-mastering-kinemaster/"><u>[New] 2024 Approved Share the Laughter Mastering KineMaster</u></a></li>
+<li><a href="https://extra-information.techidaily.com/determining-peak-frames-per-second-for-superior-slow-moto-cinematography/"><u>Determining Peak Frames Per Second for Superior Slow Moto Cinematography</u></a></li>
+<li><a href="https://fox-making.techidaily.com/effective-remedies-if-youre-trapped-in-endless-synchronization-with-onedrive-fixing-persistent-folder-updates/"><u>Effective Remedies If You're Trapped in Endless Synchronization with OneDrive: Fixing Persistent Folder Updates</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-written-work-using-chatgpt-strategies-and-insights-for-success/"><u>Elevate Your Written Work Using ChatGPT: Strategies and Insights for Success</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-list-of-phone-editors-for-gopro-content/"><u>In 2024, Ultimate List of Phone Editors for GoPro Content</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-epson-wf-2630-driver-on-your-pc-windows-7-81-or-10-compatible-versions/"><u>Install Epson WF-2630 Driver on Your PC: Windows 7, 8.1 or 10 Compatible Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-hardware-unveiled-your-source-for-reliable-pc-and-peripherals-reviews/"><u>Tom’s Hardware Unveiled: Your Source for Reliable PC and Peripherals Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-expert-insights-on-computer-hardware/"><u>Tom's Tech Review: Expert Insights on Computer Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-in-depth-guides-and-advice/"><u>Tom's Tech Reviews: In-Depth Guides & Advice</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-the-ultimate-guide/"><u>Tom's Tech Reviews: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-ultimate-guide/"><u>Tom's Tech Reviews: Ultimate Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-snagging-fantastic-gaming-laptop-deals/"><u>Ultimate Guide to Snagging Fantastic Gaming Laptop Deals</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-ultra-gaming-power-on-a-budget-save-70n-with-alienwares-rtx-4090-m18-r2/"><u>Unleash Ultra-Gaming Power on a Budget – Save $70N With Alienware's RTX 4090 M18 R2</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/video-alchemy-on-a-pc-transforming-footage-into-youtube-gold-for-2024/"><u>Video Alchemy on a PC Transforming Footage Into YouTube Gold for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/wie-man-videodateien-von-dem-computer-auf-eine-iphone-kamera-kapselt/"><u>Wie Man Videodateien Von Dem Computer Auf Eine iPhone-Kamera Kapselt</u></a></li>
 </ul></div>
 

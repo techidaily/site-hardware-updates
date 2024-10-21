@@ -1,7 +1,7 @@
 ---
 title: "Scorching Deal Alert: Snag Your 85-Inch TCL Television for 25%% Less - Labor Day Countdown Begins | Find Exclusive Offers on ZDNET"
-date: 2024-10-08T17:00:32.473Z
-updated: 2024-10-15T16:25:46.928Z
+date: 2024-10-17T19:04:10.759Z
+updated: 2024-10-21T01:15:00.552Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,22 +105,18 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-art-of-facebook-video-coverage-standout-tips-and-tricks/"><u>[Updated] The Art of Facebook Video Coverage Standout Tips & Tricks</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-unleashing-creativity-with-aiseesofts-screencast-innovations/"><u>2024 Approved Unleashing Creativity with Aiseesoft's Screencast Innovations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-getting-the-newest-software-for-corsair-k7er-mouse/"><u>Complete Guide to Getting the Newest Software for Corsair K7er Mouse</u></a></li>
-<li><a href="https://win-blog.techidaily.com/conquer-the-dragon-resolved-dauntless-pc-stability-problems/"><u>Conquer The Dragon - Resolved Dauntless PC Stability Problems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-canon-pixma-mg2522-printer-drivers-latest-version/"><u>Download Canon PIXMA MG2522 Printer Drivers - Latest Version</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-download-and-use-logitech-g402-mouse-software-for-enhanced-play/"><u>Easy Steps to Download and Use Logitech G402 Mouse Software for Enhanced Play</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-canon-mx-series-printing-software-for-windows-free-download-and-update-tips/"><u>Get the Latest Canon MX Series Printing Software for Windows - Free Download & Update Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-epson-gt-s50-working-on-any-window-os-free-driver-download-for-win-7810/"><u>Get Your Epson GT-S50 Working on Any Window OS - Free Driver Download for Win 7/8/10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-deskjet-ink-advantage-3755-printer-software-update-download-drivers-for-windows-1187/"><u>HP Deskjet Ink Advantage 3755 Printer Software Update: Download Drivers for Windows 11/8/7</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Honor Magic Vs 2? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-itel-p40-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Itel P40</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/new-release-updating-lenovos-usb-c-dock-system-for-optimal-performance/"><u>New Release: Updating Lenovo's USB-C Dock System for Optimal Performance</u></a></li>
-<li><a href="https://extra-support.techidaily.com/panoramic-insights-digest-for-2024/"><u>Panoramic Insights Digest for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/review-and-insights-on-snappydriver-installers-update-to-v113/"><u>Review and Insights on SnappyDriver Installer's Update to V1.13</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/speech-to-script-top-apps-for-on-the-go-text-generation/"><u>Speech to Script Top Apps for On-the-Go Text Generation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722959218429-unlocking-the-free-qualcomm-atheros-ar938x-driver-download-painless-process/"><u>Unlocking the Free Qualcomm Atheros AR938X Driver Download - Painless Process</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-explore-online-communities-with-youtube-monetization-opportunities-for-2024/"><u>[New] Explore Online Communities with YouTube Monetization Opportunities for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-spaces-the-art-of-metaphysical-marketing/"><u>[New] Transforming Spaces The Art of Metaphysical Marketing</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ace-your-starfield-adventure-essential-tips-to-overcome-pc-crashing-problems/"><u>Ace Your Starfield Adventure: Essential Tips to Overcome PC Crashing Problems</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/discover-and-download-christian-music-for-ringtone-use/"><u>Discover & Download Christian Music for Ringtone Use</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-95-sharp-humor-in-tiktoks-best-joke-threads/"><u>In 2024, 95 Sharp Humor in TikTok's Best Joke Threads</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-infinix-smart-7-hd-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Infinix Smart 7 HD to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mac-maintenance-made-easy-with-stellar-file-eraser-5-smartly-organized-and-timed-file-and-folder-purging/"><u>Mac Maintenance Made Easy with Stellar File Eraser 5: Smartly Organized and Timed File & Folder Purging</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-tech-landscape-precision-reviews-from-toms-corner/"><u>Navigating the Tech Landscape: Precision Reviews From Tom's Corner</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-pc-gear-insights-from-toms-hardware/"><u>Navigating the World of PC Gear – Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/pioneering-pc-building-tips-and-tricks-wisdom-from-toms-hardware/"><u>Pioneering PC Building Tips and Tricks - Wisdom From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/portable-monitor-test-the-viewsonic-va1655-review-neither-here-nor-there-on-every-metric/"><u>Portable Monitor Test: The ViewSonic VA1655 Review – Neither Here nor There on Every Metric</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/step-by-step-perfecting-fbs-360-streams-for-2024/"><u>Step-by-Step Perfecting FB's 360 Streams for 2024</u></a></li>
 </ul></div>
 

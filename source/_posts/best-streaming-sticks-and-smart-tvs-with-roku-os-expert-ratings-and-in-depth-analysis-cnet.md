@@ -1,7 +1,7 @@
 ---
 title: Best Streaming Sticks and Smart TVs with Roku OS - Expert Ratings & In-Depth Analysis | CNET
-date: 2024-10-12T16:09:34.614Z
-updated: 2024-10-15T16:09:12.481Z
+date: 2024-10-15T06:10:18.043Z
+updated: 2024-10-20T18:32:27.622Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,16 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -105,22 +99,24 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/1722974674454-effortless-setup-targus-dock-compatibility-download-and-install-drivers-in-a-flash/"><u>[EFFORTLESS SETUP] Targus Dock Compatibility: Download & Install Drivers in a Flash</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-techniques-for-enhancing-game-stream-videos-with-ai-portrait-technology/"><u>[New] 2024 Approved Techniques for Enhancing Game Stream Videos with AI Portrait Technology</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-earn-online-via-youtube-how-reaching-500-subscribers-pays-off-for-2024/"><u>[Updated] Earn Online via YouTube How Reaching 500 Subscribers Pays Off for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/camera-buying-made-easy-for-film-novices-for-2024/"><u>Camera Buying Made Easy for Film Novices for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-canon-pixma-mg2520-driver-compatible-with-all-windows-versions/"><u>Download Canon PIXMA MG2520 Driver: Compatible with All Windows Versions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-logitech-brio-camera-software-for-windows-1087-users/"><u>Download Logitech Brio Camera Software for Windows 10/8/7 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-setup-guide-installing-brother-mfc-l2700dw-drivers-on-pc-windows-compatible/"><u>Easy Setup Guide: Installing Brother MFC-L2700DW Drivers on PC - Windows Compatible</u></a></li>
-<li><a href="https://fox-info.techidaily.com/explore-top-10-no-cost-digital-photography-tools/"><u>Explore Top 10 No-Cost Digital Photography Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-amd-radeon-hd-graphics-drivers-for-windows-8-users-install-now/"><u>Free AMD Radeon HD Graphics Drivers for Windows 8 Users – Install Now</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-monotonous-to-melodic-mastering-personalization-of-androids-audio-alerts-for-2024/"><u>From Monotonous to Melodic Mastering Personalization of Android's Audio Alerts for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/full-explainer-leveraging-google-docs-for-audio-to-text-conversion/"><u>Full Explainer Leveraging Google Docs for Audio to Text Conversion</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-to-fix-connectivity-issues-between-lg-peripherals-and-windows-versions-including-11-8-and-7/"><u>Guide to Fix Connectivity Issues Between LG Peripherals and Windows Versions Including 11, 8 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hassle-free-guide-to-finding-and-installing-lenovo-t430-drivers-for-pcs-with-windows-os/"><u>Hassle-Free Guide to Finding and Installing Lenovo T430 Drivers for PCs with Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instantaneous-live-speech-conversion-with-whisper-tech/"><u>Instantaneous Live Speech Conversion with Whisper Tech</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mpow-bluetooth-driver-software-update-compatible-with-windows-11-8-and-7/"><u>MPOW Bluetooth Driver Software Update: Compatible with Windows 11, 8, and 7</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-for-converting-windows-10-system-into-dlna-compatible-server/"><u>Step-by-Step Tutorial for Converting Windows 10 System Into DLNA Compatible Server</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-how-to-escape-the-far-cry-5-perpetual-load-screen-issue/"><u>Troubleshooting: How to Escape the Far Cry 5 Perpetual Load Screen Issue</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-mastering-creative-content-for-fb-video-advertising/"><u>[New] In 2024, Mastering Creative Content for Fb Video Advertising</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-virtual-victory-channel-over-a-hundred-heroes-rise/"><u>[New] Virtual Victory Channel Over a Hundred Heroes Rise</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-discover-10-amazing-world-wanderlust-channels/"><u>[Updated] In 2024, Discover 10 Amazing World Wanderlust Channels</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-art-of-dramatic-hdr-portraits-explained/"><u>[Updated] The Art of Dramatic HDR Portraits Explained</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-honor-magic-6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/access-bings-intelligent-search-features-across-both-android-and-ios-devices/"><u>Access Bing's Intelligent Search Features Across Both Android & iOS Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-docx-file-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .docx file document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Nokia 130 Music? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionize-your-pc-build-with-maxsuns-groundbreaking-backside-gpu-mini-itx-motherboard-design/"><u>Revolutionize Your PC Build with Maxsun's Groundbreaking Backside GPU Mini-ITX Motherboard Design</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-definitive-resource-for-selecting-top-tier-hardware-solutions-toms-insights/"><u>The Definitive Resource for Selecting Top-Tier Hardware Solutions - Tom's Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-next-generation-of-amgs-800-series-chipsets-for-the-powerhouse-ryzen-nines-mirroring-intels-naming-conventions/"><u>The Next Generation of AMG's 800 Series Chipsets for the Powerhouse Ryzen Nines, Mirroring Intel's Naming Conventions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-pros-guide-to-iphone-voice-memos-and-more-for-2024/"><u>The Pro's Guide to iPhone Voice Memos and More for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-insight-into-toms-digital-tools-and-components/"><u>The Ultimate Insight Into Tom's Digital Tools & Components</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-computing-comprehensive-guide-by-toms-hardware/"><u>Tom's Computing: Comprehensive Guide by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-guide-to-optimal-computer-components-the-ultimate-selection-process/"><u>Tom's Guide to Optimal Computer Components: The Ultimate Selection Process</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-comprehensive-guide-to-hardware/"><u>Tom's Tech Insights: Comprehensive Guide to Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-comprehensive-guide-by-toms-hardware/"><u>Tom's Tech Reviews: Comprehensive Guide by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-comprehensive-insights-on-computer-hardware/"><u>Tom's Tech Reviews: Comprehensive Insights on Computer Hardware</u></a></li>
+<li><a href="https://win-answers.techidaily.com/world-of-warcraft-players-rejoice-put-an-end-to-that-dreaded-screen-shimmer/"><u>World of Warcraft Players Rejoice: Put an End to That Dreaded Screen Shimmer</u></a></li>
 </ul></div>
 

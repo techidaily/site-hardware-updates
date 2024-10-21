@@ -1,7 +1,7 @@
 ---
 title: "Discover Intel's Latest Leaks: New Core Ultra Arrow Lake Chips to Power the Upcoming Z89 90 Motherboards"
-date: 2024-09-05T20:00:30.409Z
-updated: 2024-09-06T20:00:30.409Z
+date: 2024-10-20T01:15:50.218Z
+updated: 2024-10-21T00:52:49.074Z
 tags:
   - cpu
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/c556692b0a1b46bbb66857f1dcf736ab986ca8922706ba1c8b71876c558f69f9.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Water Cooling Unleashes Power: The Ryzen 9 9950X Secures 5Th Fastest CPU Title, Behind Xeon and Threadripper in Extreme Benchmarks
 
 AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best CPUs](https://www.tomshardware.com/reviews/best-cpus,3986.html) , is already breaking some world records with conventional liquid cooling. First discovered by[HXL on X](https://x.com/9550pro/status/1818987621689000000?t=lxpe4iE%5Fhxjl%5FoCGhGJr4w&s=31) , a Ryzen 9 9950X owner has already submitted several benchmark runs to HWBot, featuring some potent results, including a top-five placement in the Time Spy Extreme CPU benchmark.
@@ -25,12 +19,6 @@ AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best
 
 ![HWBot Ryzen 9 9950X 5th place score](https://cdn.mos.cms.futurecdn.net/7Bfw4CBh7fsfLC6gWq66nW-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 (Image credit: HWBot)
 
  The Zen 5 flagship also secured a 10th-place position in HWBot's 3DMark CPU Profile 1 Thread: Hall of Fame. The Ryzen 9 9950X achieved 1,393 marks flanked by unlocked 14th Gen, 13th Gen, 12th Gen, and 11th Gen parts, with all of these Intel chips running well over 6 GHz.
@@ -43,18 +31,6 @@ AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best
 
  The Ryzen 9 9950X's performance is impressive. The CPU leveraged AMD's PBO and Curve Optimizer technologies with speedy RAM. The system utilizes a custom loop to remain cool during the[benchmarks](https://www.tomshardware.com/tag/benchmark) . Extreme overclockers can break world records with this chip once they put it under liquid nitrogen.
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,14 +39,11 @@ AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -79,4 +52,26 @@ AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-top-10-effortless-steps-to-viral-tiktok-success/"><u>[New] 2024 Approved Top 10 Effortless Steps to Viral TikTok Success</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-core-asmr-platforms-explored-for-2024/"><u>[New] Core ASMR Platforms Explored for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-transforming-chat-dynamics-mastering-discords-text-styling-for-2024/"><u>[New] Transforming Chat Dynamics Mastering Discord's Text Styling for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-capturing-gotomeet-pc-and-mobile-recording-tutorial/"><u>2024 Approved Capturing GoToMeet PC & Mobile Recording Tutorial</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574058416-5-easy-ways-to-fix-canon-printer-wont-print-in-windows-10/"><u>5 Easy Ways to Fix Canon Printer Won’t Print in Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/brother-mfc-7360n-seamless-drivers-downloading-and-updating-on-windows-11-windows-8-and-7-systems/"><u>Brother MFC-7360N - Seamless Drivers Downloading and Updating on Windows 11, Windows 8 & 7 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-enhanced-performance-comprehensive-msi-z370-a-pro-drivers/"><u>Download Enhanced Performance: Comprehensive MSI Z370-A Pro Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-for-brother-hl-l2340dw-printer-secure-download-links-for-windows-users/"><u>Easy Setup for Brother HL-L2340DW Printer - Secure Download Links for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/gtx-1660-graphics-card-a-step-by-step-guide-to-updating-drivers-fast-and-easy/"><u>GTX 1660 Graphics Card: A Step-by-Step Guide to Updating Drivers Fast and Easy</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fix-persistent-war-thunder-game-crashes-expert-solutions/"><u>How To Fix Persistent War Thunder Game Crashes - Expert Solutions</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 To Others devices? | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

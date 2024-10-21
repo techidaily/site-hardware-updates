@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to the Most Effective Indoor TV Antenna in 2E+t4 - ZDNet's In-Depth Testing and Rankings
-date: 2024-10-13T16:08:56.165Z
-updated: 2024-10-15T16:42:19.940Z
+date: 2024-10-16T18:12:01.952Z
+updated: 2024-10-20T18:31:52.477Z
 tags:
   - tvs
 categories:
@@ -32,16 +32,16 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -61,16 +61,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -111,20 +105,22 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-exploring-classical-works-free-for-all/"><u>[New] 2024 Approved Exploring Classical Works Free for All</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-exploring-the-capabilities-of-bandicam-for-multimedia-creators-for-2024/"><u>[New] Exploring the Capabilities of Bandicam for Multimedia Creators for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-2023-shoppers-guide-to-innovative-360-cameras-and-systems/"><u>2024 Approved The 2023 Shopper’s Guide to Innovative 360 Cameras & Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-dell-wifi-driver-for-optimal-performance/"><u>Download and Install Dell Wifi Driver for Optimal Performance</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-honor-magic-6-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Honor Magic 6 Pattern Lock Screen</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-logitech-webcam-software-installs-at-no-cost-for-your-pc-or-laptop/"><u>Get Logitech Webcam Software Installs at No Cost for Your PC or Laptop</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722959201161-get-your-killer-e2500-gigabit-ethernet-driver-today/"><u>Get Your Killer E2500 Gigabit Ethernet Driver Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-techkey-bluetooth-device-driver-for-windows-operating-systems-windows-1178-download-now/"><u>Get Your Techkey Bluetooth Device Driver for Windows Operating Systems (Windows 11/7/8) - Download Now</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-disabling-windows-surrounders/"><u>Guide to Disabling Windows Surrounders</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-motorola-moto-g73-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Motorola Moto G73 5G Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-hp-thunderbolt-docking-station-g2-complete-guide-to-downloading-120w230w-drivers/"><u>Install HP Thunderbolt Docking Station G2: Complete Guide to Downloading 120W/230W Drivers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/minecraft-magic-crafting-unique-and-uneasy-elixirs-step-by-step/"><u>Minecraft Magic: Crafting Unique and Uneasy Elixirs Step by Step</u></a></li>
-<li><a href="https://program-issues.techidaily.com/say-goodbye-to-sudden-pc-shutdowns-with-our-6-trusted-solutions-for-recurring-crashes/"><u>Say Goodbye to Sudden PC Shutdowns with Our 6 Trusted Solutions for Recurring Crashes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-lenovo-x1-carbon-support-software-on-windows-10-and-7/"><u>Step-by-Step Guide: Installing Lenovo X1 Carbon Support Software on Windows 10 & 7</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-power-of-nvidias-artificial-intelligence-foundations-discover-its-uses-and-eligibility/"><u>Unveiling the Power of NVIDIA's Artificial Intelligence Foundations: Discover Its Uses and Eligibility</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-slide-into-style-instagrams-secrets-to-upside-down-visual-content/"><u>[New] 2024 Approved Slide Into Style Instagram's Secrets to Upside-Down Visual Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-extract-and-save-still-images-from-movies-in-windows-photos/"><u>[New] Extract and Save Still Images From Movies in Windows Photos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-step-by-step-approach-to-finding-youtube-collaborators-for-2024/"><u>[Updated] Step-by-Step Approach to Finding YouTube Collaborators for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-elite-5-youtube-channel-power-players/"><u>[Updated] The Elite 5 YouTube Channel Power Players</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-articulating-emotion-on-stage-through-words/"><u>2024 Approved Articulating Emotion on Stage Through Words</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-online-communication-fb-tw-ig-and-yt/"><u>Navigating the Giants of Online Communication: FB, TW, IG & YT</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-tech-maze-with-toms-guidebook/"><u>Navigating the Tech Maze with Tom's Guidebook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-through-performance-a-thorough-examination-of-101-inch-feelworld-portable-monitor/"><u>Navigating Through Performance - A Thorough Examination of 10.1-Inch Feelworld Portable Monitor</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/oculus-quest-gets-its-first-ever-language-app-mondly/"><u>Oculus Quest Gets Its First-Ever Language App: Mondly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionary-quad-dplus-oled-tech-unleashed-in-philips-evonia-49m2c8900-gaming-monitor-review-for-color-vibrance-and-butter-smooth-responsiveness/"><u>Revolutionary Quad D+ OLED Tech Unleashed in Philips Evonia 49M2C8900 - Gaming Monitor Review for Color Vibrance and Butter-Smooth Responsiveness</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-unveils-enhanced-odyssey-and-viewflex-series-revolutionary-ai-powered-display-technology/"><u>Samsung Unveils Enhanced Odyssey & ViewFlex Series: Revolutionary AI-Powered Display Technology</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/shop-now-and-save-big-on-the-ultimate-gaming-view-with-dells-alienware-32-inch-4k-aw3225qf/"><u>Shop Now & Save Big on the Ultimate Gaming View with Dell's Alienware 32-Inch 4K AW3225QF</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-epic-deal-this-amazing-sceptre-24-curved-gamers-monitor-for-only-79/"><u>Snag the Epic Deal: This Amazing Sceptre 24 Curved Gamer's Monitor for Only $79</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-repair-disk-errors-in-windows-os/"><u>Steps to Repair Disk Errors in Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-launch-of-lgs-tandem-oled-production-revolutionizing-screen-brilliance-with-a-victory-in-the-dell-xps-absolutely-here-are-five-alternative-seo-friendly-42/"><u>The Launch of LG's Tandem OLED Production: Revolutionizing Screen Brilliance with a Victory in the Dell XPS Absolutely, Here Are Five Alternative SEO-Friendly Titles that Convey Similar Meanings to Your Original Title</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-resource-for-understanding-top-tech-by-toms-hardware/"><u>The Ultimate Resource for Understanding Top Tech by Tom's Hardware</u></a></li>
 </ul></div>
 

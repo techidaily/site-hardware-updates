@@ -1,7 +1,7 @@
 ---
 title: Top Rated Smart Televisions - Expert Reviews & Comparisons | ZDNet
-date: 2024-10-13T16:09:18.098Z
-updated: 2024-10-15T16:28:49.817Z
+date: 2024-10-16T17:20:02.709Z
+updated: 2024-10-20T16:30:32.119Z
 tags:
   - tvs
 categories:
@@ -52,13 +52,6 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 | Refresh rate     | 60Hz                                                                 |
 | Connectivity     | HDMI, HDMI eARC, Bluetooth, Wi-Fi, Ethernet, USB, AUX, Optical, Coax |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Pricing 
 
 **Also:** [**The 5 best budget TVs**](https://www.zdnet.com/home-and-office/home-entertainment/best-budget-tv/)
@@ -66,10 +59,10 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 As great as the new Omni Series QLED models are, price is a big sticking point for me, especially since I personally don't use Alexa or want an Amazon-centric streaming experience. However, Amazon is currently running a sale on the [65-inch Omni Series QLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-65-inch-omni-qled-series-smart-tv%2Fdp%2FB0BJMGB9RN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1), bringing the price down to $690 -- which is much more in line with what I think this TV should be retailing for -- making it a great, budget-friendly option if you're looking to upgrade. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Picture and sound 
@@ -100,13 +93,6 @@ If you want a more elaborate audio setup, you can connect your TV to [Echo speak
 
 I would much rather see multi-device support for generic Bluetooth speakers and soundbars, since users might have audio equipment from different brands rather than a house full of Amazon-branded devices. You can set up non-Amazon speakers and soundbars with the TV but won't get that whole-home audio experience, which is a shame. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Alexa and Amazon features 
 
 As it's meant to be the centerpiece of your Amazon or Alexa-centered smart home network. the Omni QLED features native Alexa support via a voice-enabled remote, as well as a four-microphone array built into the unit itself. If you don't have an Alexa account already, you can use basic voice commands for turning the TV on and off or launching certain apps. And if you want expanded, hands-free controls as well as the ability to add Skills, you can either connect to an Echo device or the Alexa companion app. Though you will need an Amazon account to sign into the Alexa app as well as the TV itself to access many enhanced features. 
@@ -114,6 +100,13 @@ As it's meant to be the centerpiece of your Amazon or Alexa-centered smart home 
 Taylor Clemons/ZDNET
 
 If you decide to download Alexa Skills, you can play music, games, check the weather, get daily trivia, or even make and receive video calls. Skills are what really set the Omni QLED apart from similar smart TVs from competitors like TCL and Hisense. Without access to these features, the Omni QLED is reduced to a pretty bog-standard smart TV with better-than-expected picture and audio capabilities. 
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Gaming 
 
@@ -184,15 +177,28 @@ The dedicated gaming picture mode lets colors and details pop while the integrat
 Many of the cool features are inextricably linked to Alexa functionality, so if you want to take full advantage of the Omni QLED, you'll have to invest in an Echo device and set up an Alexa account. And this reason alone is why I think the $800 price tag is just a touch on the high side for this TV, since without Alexa Skills, it's just a basic QLED model. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider 
 
 [Great for streaming Sony X77L The Sony X77L uses an LED panel to provide 4K resolution at a 60Hz refresh rate, which means that from sports and action movies to music videos and animated shorts, your media will have smooth motion, crisp details, and bold colors. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BZF2N3LM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)[Great budget option Amazon Fire TV 4-Series The Fire TV 4-Series from Amazon is a solid, budget-friendly option for anyone looking for a reliable second screen for their bedroom or affordable main TV. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-55-inch-4-series-4k-smart-tv%2Fdp%2FB0B3H6JPYZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -230,24 +236,21 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-the-ultimate-guide-to-audacitys-professional-tracking/"><u>[New] In 2024, The Ultimate Guide to Audacity's Professional Tracking</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-direct-route-uploading-from-youtube-to-dailymotion/"><u>[Updated] 2024 Approved Direct Route Uploading From YouTube to Dailymotion</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-celebrating-masterpieces-top-15-outstanding-stop-motion-works-for-2024/"><u>[Updated] Celebrating Masterpieces Top 15 Outstanding Stop-Motion Works for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/capturing-moments-how-to-turn-videos-into-photos-with-10-easy-converters/"><u>Capturing Moments How to Turn Videos Into Photos with 10 Easy Converters</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-install-brother-mfc-7360n-printer-drivers-for-windows-10-8-and-eby-latest-updates-available/"><u>Easy Install: Brother MFC-7360N Printer Drivers for Windows 10, 8 & Eby | Latest Updates Available</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-tutorial-for-downloading-and-setting-up-hp-laserjet-pro-m402n-drivers-in-windows/"><u>Easy Tutorial for Downloading and Setting Up HP LaserJet Pro M402n Drivers in Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-guide-how-to-retrieve-the-newest-amd-graphics-drivers-instantly/"><u>Effortless Guide: How to Retrieve the Newest AMD Graphics Drivers Instantly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-new-driver-for-brother-hl-l2350dw-printer-free-download/"><u>Get the New Driver for Brother HL-L2350DW Printer - Free Download</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-meizu-21-pro-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Meizu 21 Pro 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-update-intel-uhd-graphics-drivers-on-windows-1011-computers/"><u>How to Download and Update Intel UHD Graphics Drivers on Windows 10/11 Computers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-or-update-your-microsoft-bluetooth-drivers-for-windows-11-10-8-and-7/"><u>How to Install or Update Your Microsoft Bluetooth Drivers for Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-lenovo-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Lenovo Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-realme-gt-5-pro-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Realme GT 5 Pro by Name | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-setup-fresh-printer-drivers-for-your-hp-officejet-3830-compatible-with-windows/"><u>Quick Setup: Fresh Printer Drivers for Your HP OfficeJet 3830 - Compatible with Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolved-troubleshoot-bcm2045a0-driver-problems-with-simple-steps/"><u>Resolved: Troubleshoot BCM2045A0 Driver Problems with Simple Steps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-your-systems-with-a-fast-download-of-amds-gpio-drivers-no-cost-involved/"><u>Secure Your Systems with a Fast Download of AMD's GPIO Drivers – No Cost Involved</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updating-your-sas-drivers-efficiently-on-microsofts-windows-platform/"><u>Updating Your SAS Drivers Efficiently on Microsoft's Windows Platform</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10dvd/"><u>Windows 10上のDVD再生 - 使いやすいガイド</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-melody-meets-momentum-harmonizing-sound-with-imagery/"><u>[New] Melody Meets Momentum Harmonizing Sound with Imagery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-prestigious-websites-elevating-youtube-content-for-2024/"><u>[New] Prestigious Websites Elevating YouTube Content for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-prime-tv-streaming-and-local-channel-bundles/"><u>[New] Prime TV Streaming & Local Channel Bundles</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-step-by-step-screenshot-procedures-for-hp-devices-for-2024/"><u>[New] Step-by-Step Screenshot Procedures for HP Devices for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-10-key-steps-for-basic-photo-color-correction/"><u>[Updated] 10 Key Steps for Basic Photo Color Correction</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-direct-pathway-iphone-media-to-pc-transfer/"><u>2024 Approved Direct Pathway IPhone Media to PC Transfer</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/erstellen-einer-windows-10-systemwiederherstellungstabelle-zwei-effiziente-methoden/"><u>Erstellen Einer Windows 10-Systemwiederherstellungstabelle: Zwei Effiziente Methoden</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-restore-windows-photo-viewer-in-windows-1111/"><u>How to Restore Windows Photo Viewer in Windows 11/11</u></a></li>
+<li><a href="https://win-news.techidaily.com/iphone-musik-schutzstrategien-entdecken-sie-4-effektive-losungen/"><u>IPhone-Musik Schutzstrategien: Entdecken Sie 4 Effektive Lösungen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-a-steal-with-savings-up-to-300-on-the-new-asus-rog-zephyrus-g14-equipped-with-stunning-oled-display-and-rtx-4060-2024-edition/"><u>Score a Steal with Savings Up to $300 on The New Asus ROG Zephyrus G14, Equipped With Stunning OLED Display and RTX 4060 - 2024 Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/stay-informed-on-modern-computing-dive-into-toms-computer-and-gadget-explorations/"><u>Stay Informed on Modern Computing - Dive Into Tom's Computer and Gadget Explorations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-definitive-guide-to-alienware-m18-r2-a-gamers-dream-machine-unveiled/"><u>The Definitive Guide to Alienware M18 R2 - A Gamer's Dream Machine Unveiled</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-computer-hardware-rundown-top-picks-for-enthusiasts/"><u>Tom's Computer Hardware Rundown: Top Picks for Enthusiasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-and-computer-components/"><u>Tom's Tech Insights and Computer Components</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-unraveling-computer-components/"><u>Tom's Tech Insights: Unraveling Computer Components</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-expert-insights-and-in-depth-analysis/"><u>Tom's Tech Review: Expert Insights and In-Depth Analysis</u></a></li>
 </ul></div>
 

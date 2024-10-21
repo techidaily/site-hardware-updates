@@ -1,7 +1,7 @@
 ---
 title: Zen 5 by AMD Revolutionizes Performance with 8.315 Billion Transistors and a Striking 28%% Rise in Compute Die Density
-date: 2024-09-05T20:07:41.105Z
-updated: 2024-09-06T20:07:41.105Z
+date: 2024-10-16T16:01:51.225Z
+updated: 2024-10-21T02:21:04.304Z
 tags:
   - cpu
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/a4dcf98f3406d7e5d0dc2d2c190aac822aae79b2e5cb3a27a5cb90894f8b169b.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Sticking to Plans: The Much-Awaited Ryzen 5000XT Series Drops This Month, as Promised by AMD
 
 Despite media reports that AMD has delayed its Ryzen 5000XT processors, AMD told_Tom's Hardware_ that the Ryzen 9 5900XT and the Ryzen 7 5800XT will launch as scheduled. The chipmaker had previously slated the[5000XT launch for July](https://www.tomshardware.com/pc-components/cpus/amd-announces-zen-5-ryzen-9000-processors-launches-in-july-four-new-ryzen-9-7-and-5-processors-with-a-16-ipc-improvement) , meaning the chips should be available at retail tomorrow.
@@ -33,12 +27,6 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
  The Ryzen 9 5900XT, on the other hand, should provide a significant upgrade over the current[Ryzen 9 5900X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) . Weirdly, AMD chose that model name since the Ryzen 9 5900XT is closer to the[Ryzen 9 5950X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) than the Ryzen 9 5900X. The Ryzen 9 5900XT wields the same 16 Zen 3 cores as the former in addition to the 64MB L3 cache and 105W TDP. The Ryzen 9 5900XT has a 100 MHz lower base and boost clock than the Ryzen 9 5950X.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,14 +37,11 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
  AMD has kept the pricing under wraps for the Ryzen 9 5900XT and the Ryzen 7 5800XT. However, we should know tomorrow how much the new refreshed chips cost. Don't forget to double back for our review of the two processors and two new 5000XT SKUs.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -65,4 +50,31 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-pinnacle-strategies-for-persuasive-client-centered-videography/"><u>[New] 2024 Approved The Pinnacle Strategies for Persuasive Client-Centered Videography</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-technique-to-implement-youtube-playlists-smoothly-into-web-pages/"><u>[Updated] 2024 Approved Technique to Implement YouTube Playlists Smoothly Into Web Pages</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-videography-6-tips-for-making-macro-video/"><u>[Updated] 2024 Approved Videography 6 Tips for Making Macro Video</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/become-a-pro-at-live-streaming-on-discord-with-our-simple-steps-for-2024/"><u>Become a Pro at Live Streaming on Discord with Our Simple Steps for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-nokia-g42-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Nokia G42 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/bluetooth-device-drivers-download-compatible-with-windows-11-and-10/"><u>Bluetooth Device Drivers Download: Compatible with Windows 11 & 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-solution-for-updating-broadcom-netlink-gigabit-ethernet-drivers-on-windows-10-systems/"><u>Complete Solution for Updating Broadcom NetLink Gigabit Ethernet Drivers on Windows 10 Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-new-reading-with-our-list-of-5-innovative-ai-book-recommenders/"><u>Explore New Reading with Our List of 5 Innovative AI Book Recommenders</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722966394637-free-canon-printer-driver-downloads-and-latest-updates-get-started-now/"><u>Free Canon Printer Driver Downloads and Latest Updates - Get Started Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/red-dead-redemption-2-performance-enhancement-resolving-graphics-glitches-and-frame-rate-problems/"><u>Red Dead Redemption 2 Performance Enhancement - Resolving Graphics Glitches & Frame Rate Problems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-issues-the-newest-fix-for-the-acpi-drivers-in-dells-smo8-cuisine/"><u>Resolving Issues: The Newest Fix for the ACPI Drivers in Dell's SMO8 Cuisine.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-driver-installation-for-brother-mfc-l2700dw-in-windows-environments/"><u>Step-by-Step Driver Installation for Brother MFC-L2700DW in Windows Environments</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-canon-mg3000-printing-system/"><u>Step-by-Step Guide: Updating Your Canon MG3000 Printing System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-errgfxstate-issue-in-red-dead-redemption-2-a-step-by-step-fix/"><u>Troubleshooting the ERR_GFX_STATE Issue in Red Dead Redemption 2: A Step-by-Step Fix</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-converting-wmv-files-to-crisp-clear-gifs/"><u>Ultimate Guide: Converting WMV Files to Crisp, Clear GIFs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-alert-lenovo-laptop-external-docking-station-firmware/"><u>Update Alert: Lenovo Laptop External Docking Station Firmware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722966629744-upgrade-your-audiophile-setup-with-free-gigabyte-audio-drivers-download-now/"><u>Upgrade Your Audiophile Setup with Free Gigabyte Audio Drivers - Download Now!</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Breaking News: Over Half a Million Roku Logins Exposed in Recent Hack – Protect Your Streaming Services Now! | ZDNET"
-date: 2024-10-14T16:49:12.182Z
-updated: 2024-10-15T16:14:29.775Z
+date: 2024-10-15T23:42:24.430Z
+updated: 2024-10-21T05:49:24.654Z
 tags:
   - tvs
 categories:
@@ -52,6 +52,13 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 | Refresh rate     | 60Hz                                                                 |
 | Connectivity     | HDMI, HDMI eARC, Bluetooth, Wi-Fi, Ethernet, USB, AUX, Optical, Coax |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Pricing 
 
 **Also:** [**The 5 best budget TVs**](https://www.zdnet.com/home-and-office/home-entertainment/best-budget-tv/)
@@ -59,10 +66,10 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 As great as the new Omni Series QLED models are, price is a big sticking point for me, especially since I personally don't use Alexa or want an Amazon-centric streaming experience. However, Amazon is currently running a sale on the [65-inch Omni Series QLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-65-inch-omni-qled-series-smart-tv%2Fdp%2FB0BJMGB9RN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1), bringing the price down to $690 -- which is much more in line with what I think this TV should be retailing for -- making it a great, budget-friendly option if you're looking to upgrade. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Picture and sound 
@@ -94,10 +101,16 @@ If you want a more elaborate audio setup, you can connect your TV to [Echo speak
 I would much rather see multi-device support for generic Bluetooth speakers and soundbars, since users might have audio equipment from different brands rather than a house full of Amazon-branded devices. You can set up non-Amazon speakers and soundbars with the TV but won't get that whole-home audio experience, which is a shame. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alexa and Amazon features 
@@ -168,13 +181,6 @@ Animation is another area where this TV comes into its own. Whether you're watch
 
 [Amazon Fire TV Omni QLED $690 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09N6J7KJD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Bottom line 
 
 At the end of the day, the Amazon Fire TV Omni Series QLED is a run-of-the-mill smart, 4K TV that aims to provide a solid streaming experience for Amazon and Alexa users. If you're not an avid Alexa or Amazon fan, you can still get a lot of mileage out of this TV, especially if you're looking for a more affordable TV for console gaming. 
@@ -183,16 +189,16 @@ The dedicated gaming picture mode lets colors and details pop while the integrat
 
 Many of the cool features are inextricably linked to Alexa functionality, so if you want to take full advantage of the Omni QLED, you'll have to invest in an Echo device and set up an Alexa account. And this reason alone is why I think the $800 price tag is just a touch on the high side for this TV, since without Alexa Skills, it's just a basic QLED model. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Alternatives to consider 
 
 [Great for streaming Sony X77L The Sony X77L uses an LED panel to provide 4K resolution at a 60Hz refresh rate, which means that from sports and action movies to music videos and animated shorts, your media will have smooth motion, crisp details, and bold colors. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BZF2N3LM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)[Great budget option Amazon Fire TV 4-Series The Fire TV 4-Series from Amazon is a solid, budget-friendly option for anyone looking for a reliable second screen for their bedroom or affordable main TV. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-55-inch-4-series-4k-smart-tv%2Fdp%2FB0B3H6JPYZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -230,16 +236,18 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-best-screen-replayer-for-high-impact-youtubing-experience/"><u>[New] 2024 Approved Best Screen Replayer for High-Impact YouTubing Experience</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-harmonizing-your-footage-a-color-grading-roadmap/"><u>[New] 2024 Approved Harmonizing Your Footage A Color Grading Roadmap</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-intense-action-iphone-tips-for-artistic-motion-blur-photos-for-2024/"><u>[Updated] Intense Action IPhone Tips for Artistic Motion-Blur Photos for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/5yuv55s744gl44kj44kq44o844oh44kj44kq44g444gu5asj5oplusb44ks44kk44oj77ya5oml6acg44go44os44oz44oi/"><u>動画からオーディオへの変換ガイド：手順とヒント</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722969511306-download-logitech-brio-camera-software-compatible-with-windows-11-8-and-7/"><u>Download Logitech BRIO Camera Software Compatible with Windows 11, 8 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-install-epson-xp-430-printer-drivers-on-windows-a-simple-walkthrough/"><u>Find & Install Epson XP-430 Printer Drivers on Windows: A Simple Walkthrough</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722978081495-get-your-intel-centrino-n-6205-wifi-card-drivers-here/"><u>Get Your Intel Centrino N 6205 WiFi Card Drivers Here!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-oneplus-nord-3-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide OnePlus Nord 3 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-device-connection-overcoming-casting-errors-on-windows-10/"><u>Mastering Device Connection: Overcoming Casting Errors on Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-fixes-for-your-presonus-audiobox-usb-drivers-a-comprehensive-guide/"><u>Quick Fixes for Your Presonus AudioBox USB Drivers - A Comprehensive Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-harmonizing-with-instagram-a-songwriters-legal-framework/"><u>[New] In 2024, Harmonizing with Instagram A Songwriter’s Legal Framework</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-mac-users-path-to-professional-audio-with-audacity/"><u>[New] In 2024, Mac Users' Path to Professional Audio with Audacity</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-effective-obs-transitions-to-facebook-live-for-2024/"><u>[Updated] Effective OBS Transitions to Facebook Live for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/access-instant-installation-for-the-latest-validity-fingerprint-scanning-software/"><u>Access Instant Installation for the Latest Validity Fingerprint Scanning Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-installing-new-broadcom-bluetooth-drivers-on-windows-1087-platforms/"><u>Easy Guide to Installing New Broadcom Bluetooth Drivers on Windows 10/8/7 Platforms</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-meta-descriptions-top-template-strategies/"><u>Elevate Meta Descriptions Top Template Strategies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-gaming-experience-how-to-update-graphics-drivers-on-acer-predator-helios-300/"><u>Elevate Your Gaming Experience: How to Update Graphics Drivers on Acer Predator Helios 300</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-displaying-your-pc-screen-on-tv-using-chromecast/"><u>Guide: Displaying Your PC Screen on TV Using Chromecast</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-definition-gaming-with-lg-27ud68-monitor-review/"><u>In 2024, High Definition Gaming with LG 27UD68 Monitor Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-windows-blue-snowball-driver-updates-improve-your-devices-performance/"><u>Latest Windows Blue Snowball Driver Updates: Improve Your Device's Performance</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/master-your-automotive-tunes-top-5-mac-friendly-music-mixing-software-selections/"><u>Master Your Automotive Tunes Top 5 Mac-Friendly Music Mixing Software Selections</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-the-art-of-diagnosing-and-resolving-logitech-c615-driver-issues/"><u>Mastering the Art of Diagnosing & Resolving Logitech C615 Driver Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/speeding-up-origin-expert-advice-on-improving-download-velocity-this-year/"><u>Speeding Up Origin: Expert Advice on Improving Download Velocity This Year</u></a></li>
 </ul></div>
 

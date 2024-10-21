@@ -1,7 +1,7 @@
 ---
 title: "Ace Your Workload: The Ryzen AI 9 HX ˈ370 Outshines Intel's Single-Core with Zen 5 Prowess - Leading Over Core Ultra 7 and Ryzen 9"
-date: 2024-09-05T20:01:58.628Z
-updated: 2024-09-06T20:01:58.628Z
+date: 2024-10-14T16:46:56.978Z
+updated: 2024-10-21T02:36:15.338Z
 tags:
   - cpu
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/ce0abe7bceafa506ef01b02e0cca98d1b8784a39806b1bd354e228c0f30acb54.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Turbocharge Ryzen 9 9950X to a Whopping 6GHz: Unleash Up to 27% More Core Power & Impress on the GeekBench Scale
 
 It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.com/pc-components/cpus/amd-announces-zen-5-ryzen-9000-processors-launches-in-july-four-new-ryzen-9-7-and-5-processors-with-a-16-ipc-improvement) samples early are continuing to test them, as an interesting new benchmark result has been shared online. Twitter’s [HXL,](https://x.com/9550pro/status/1816306680227062157) an Asus system packing an AMD Ryzen 9 9950X engineering sample (ES), was checked in Geekbench 6\. Moreover, this Zen 5 16C/32T consumer flagship was overclocked to 5.95 GHz. That’s a modest 300 MHz faster than the stock maximum clock.
@@ -48,24 +36,12 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
 
 ![Geekbench result for 9950X](https://cdn.mos.cms.futurecdn.net/tNUgRFEtXhcXGXaaJ92WwB-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Future)
 
  Another enlightening view of the AMD Ryzen 9 9950X came from an official source, the firm’s in-house Extreme Overclocking team. They cooled the upcoming Zen 5 flagship with LN2 to demonstrate impressive performance in popular benchmarks like Cinebench R23 and R15\. The team broke records along the way, thanks to the Zen 5 architecture IPC benefits and lashings of LN2 enabling[clock speeds up to 6.75 GHz](https://www.tomshardware.com/pc-components/cpus/ryzen-9-9950x-overclocked-to-67-ghz-with-ln2-liquid-nitrogen-helps-amds-newest-flagship-break-previous-world-records) .
 
  Sadly, we will have to wait a little longer than expected to get chips like the AMD Ryzen 9 9950X in Tom’s Hardware labs. Yesterday the news broke that these Zen 5 desktop chips would start to[roll out in August](https://www.tomshardware.com/pc-components/cpus/amd-delays-its-ryzen-9000-launch-due-to-unspecified-quality-issue-new-launch-in-august-chipmaker-pulls-back-all-units-shipped-globally-for-quality-checks) due to unspecified quality issue(s).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -74,14 +50,11 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -90,4 +63,30 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-excellence-in-image-making-via-premium-grid-makers/"><u>[New] 2024 Approved Excellence in Image Making via Premium Grid Makers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-avoid-washout-3-essential-tips-for-iphone-hd-video-enhancement-in-premiere-pro/"><u>[New] Avoid Washout 3 Essential Tips for iPhone HD Video Enhancement in Premiere Pro</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-win10s-best-practices-for-gaming-video-capture/"><u>[New] In 2024, Win10's Best Practices for Gaming Video Capture</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-unseen-windows-11-techniques/"><u>[New] The Unseen Windows 11 Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/broadcom-network-driver-download-get-your-windows-10s-gige-connection-up-to-date-repaird/"><u>Broadcom Network Driver Download: Get Your Windows 10'S GigE Connection Up-to-Date [REPAIRD]</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/conversion-de-fichier-video-en-ligne-changez-facilement-mkv-en-m2ts-gratuitement-avec-movavi/"><u>Conversion De Fichier Vidéo en Ligne - Changez Facilement MKV en M2TS Gratuitement Avec Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-latest-drivers-for-your-hp-laserjet-1320-printer-windows-compatible/"><u>Download & Install Latest Drivers for Your HP LaserJet 1320 Printer – Windows Compatible</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-controls-explained-buttons-for-android-devices/"><u>Gaming Controls Explained: Buttons for Android Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-insignia-usb-video-adapter-for-monitor-connection/"><u>How to Install the Insignia USB Video Adapter for Monitor Connection</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-motorola-g24-power-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Motorola G24 Power?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfecting-your-live-stream-our-picks-from-the-top-6-microphones-for-2024/"><u>Perfecting Your Live Stream Our Picks From the Top 6 Microphones for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/qualcomm-atheros-ar938x-free-driver-download-now/"><u>Qualcomm Atheros AR938X - FREE Driver Download Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/smart-texting-strategies-to-save-on-mobile-data/"><u>Smart Texting Strategies to Save on Mobile Data</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-walkthrough-for-refreshing-device-drivers-in-windows-on-the-dell-xps-15/"><u>The Ultimate Walkthrough for Refreshing Device Drivers in Windows on the Dell XPS 15</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-canon-pixma-ta3350-comprehensive-guide-to-downloading-the-latest-driver-software/"><u>Update Your Canon PIXMA TA3350: Comprehensive Guide to Downloading the Latest Driver Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-printer-software-get-the-latest-hp-deskjet-eall-in-one-driver-for-win10-8-and-7-instantly/"><u>Update Your Printer Software: Get the Latest HP DeskJet eAll-in-One Driver for Win10, 8 & 7 Instantly</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

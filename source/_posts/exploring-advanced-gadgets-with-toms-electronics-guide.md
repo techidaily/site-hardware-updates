@@ -1,7 +1,7 @@
 ---
 title: Exploring Advanced Gadgets with Tom's Electronics Guide
-date: 2024-09-05T20:08:06.087Z
-updated: 2024-09-06T20:08:06.087Z
+date: 2024-10-15T05:23:01.780Z
+updated: 2024-10-20T23:16:06.821Z
 tags:
   - cpu
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/3BWkJnfGaJn63AGXz9473o-320-80.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Reaching New Heights: Pushing an AMD Ryzen #7 9700X Up to a Stunning 5.8GHz with Advanced AIO Liquid Cooling, Plus a Surprising Peak at 6GHz Idle
 
 Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and the new[Ryzen 7 9700X](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-9600x-cpu-review) , which rivals the[best CPUs](https://www.tomshardware.com/reviews/best-cpus,3986.html) . Professional overclocker Skatterbencher has already figured out how to push the 9700X to 5.8 GHz in single-core workloads. Skatterbencher published a[highly in-depth overclocking tutorial](https://skatterbencher.com/2024/08/07/skatterbencher-78-ryzen-7-9700x-overclocked-to-5860-mhz/) showcasing the feat. But he's not done yet. The overclocker also revealed that he successfully hit 6 GHz on the 9700X with traditional AIO liquid cooling.
@@ -29,18 +23,6 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  Ryzen 7 9700X Undervolt & Overclock to 5860 MHz | SkatterBencher #78 - YouTube ![Ryzen 7 9700X Undervolt & Overclock to 5860 MHz | SkatterBencher #78 - YouTube](https://img.youtube.com/vi/3GV7q6CV7GY/maxresdefault.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Watch On](https://youtu.be/3GV7q6CV7GY)
 
  To get the core(s) to boost up to that frequency, SkatterBencher used a combination of AMD's Curve Optimizer and Curve Shaper to undervolt the CPU and enable PBO2, which increases the amount of power the CPU can consume. Undervolting on Ryzen CPUs gives them more headroom, allowing them to hit higher frequencies without running into other limitations such as voltage, power, or thermal limits.
@@ -49,18 +31,6 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  With all these technologies working in tandem, the overclocker achieved an idle frequency of 5.86 GHz. In stress testing, the maximum single-thread clock speed was 5.758 GHz, with a maximum multi-core frequency of 5.454 GHz operating at 95.2 degrees Celsius at a package power of 172.1 watts.
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -71,14 +41,11 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  SkatterBencher's 5.8 GHz and 6 GHz overclocks represent the highest on the new 9700X. Der8auer and Overclocking.com showcased their respective overclocks on the 9700X but could only eke out 5.4G Hz. The main difference was that both outlets did manual overclocks, whereas SkatterBencher used AMD's plethora of overclocking tools, enabling them to hit higher frequencies.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,4 +54,28 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-the-art-of-playstation-4-recording-for-2024/"><u>[New] Mastering the Art of PlayStation 4 Recording for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-enlarging-images-preserving-pixel-perfection/"><u>2024 Approved Enlarging Images Preserving Pixel Perfection</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-how-to-make-and-upload-360-video-to-facebook/"><u>2024 Approved How to Make and Upload 360 Video to Facebook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-hd-video-capture-secure-free-logiteche-webcam-drivers-for-winows-users/"><u>Effortless HD Video Capture: Secure Free Logiteche Webcam Drivers for Winows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-amd-radeon-hd-amzradeon-7870-drivers-and-upgrades-on-windows-10-system/"><u>How to Get the Newest AMD Radeon HD Amz Radeon 7870 Drivers & Upgrades on Windows 10 System</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-live-streaming-simplified-a-guide-to-using-onestream/"><u>In 2024, Live Streaming Simplified A Guide to Using OneStream</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977807121-obtain-your-eveo-bluetooth-device-drivers-here-instant-download-available/"><u>Obtain Your Eveo Bluetooth Device Drivers Here – Instant Download Available!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-wi-fi-connectivity-issues-on-ipad-and-iphone-discover-8-effective-solutions/"><u>Overcoming Wi-Fi Connectivity Issues on iPad and iPhone: Discover 8 Effective Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-stability-of-a-scaffold-involves-calculations-for-overturning-sliding-resistance-and-even-load-distribution/"><u>The Stability of a Scaffold Involves Calculations for Overturning, Sliding Resistance, and Even Load Distribution.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-y100i-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo Y100i Device</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-ultimate-guide-to-funny-image-memes-for-2024/"><u>The Ultimate Guide to Funny Image Memes for 2024</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/top-rated-free-software-convert-mkv-files-to-mp4-quickly-for-seamless-ipad-streaming/"><u>Top Rated Free Software: Convert MKV Files to MP4 Quickly for Seamless iPad Streaming</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-dell-computer-download-the-most-recent-win7-network-adapter-driver/"><u>Update Your Dell Computer: Download the Most Recent Win7 Network Adapter Driver</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-developing-a-security-focused-removal-applet/"><u>Windows 11: Developing a Security-Focused Removal Applet</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

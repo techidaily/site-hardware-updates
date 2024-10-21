@@ -1,7 +1,7 @@
 ---
 title: Exploring Technology with Tom's Hardware Guide
-date: 2024-09-05T20:05:23.391Z
-updated: 2024-09-06T20:05:23.391Z
+date: 2024-10-19T01:40:49.239Z
+updated: 2024-10-20T19:04:53.399Z
 tags:
   - cpu
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/oARsLevfnuo6pskEryBbem-320-80.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Maximize Efficiency with an AMD Ryzen 7 #9700X: Overclocked to 5.8GHz and Cooled by Innovative AIO Liquid Technology; Revealing a Hidden Talent for 6 GHz Idle
 
 Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and the new[Ryzen 7 9700X](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-9600x-cpu-review) , which rivals the[best CPUs](https://www.tomshardware.com/reviews/best-cpus,3986.html) . Professional overclocker Skatterbencher has already figured out how to push the 9700X to 5.8 GHz in single-core workloads. Skatterbencher published a[highly in-depth overclocking tutorial](https://skatterbencher.com/2024/08/07/skatterbencher-78-ryzen-7-9700x-overclocked-to-5860-mhz/) showcasing the feat. But he's not done yet. The overclocker also revealed that he successfully hit 6 GHz on the 9700X with traditional AIO liquid cooling.
@@ -35,12 +23,6 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  Ryzen 7 9700X Undervolt & Overclock to 5860 MHz | SkatterBencher #78 - YouTube ![Ryzen 7 9700X Undervolt & Overclock to 5860 MHz | SkatterBencher #78 - YouTube](https://img.youtube.com/vi/3GV7q6CV7GY/maxresdefault.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Watch On](https://youtu.be/3GV7q6CV7GY)
 
  To get the core(s) to boost up to that frequency, SkatterBencher used a combination of AMD's Curve Optimizer and Curve Shaper to undervolt the CPU and enable PBO2, which increases the amount of power the CPU can consume. Undervolting on Ryzen CPUs gives them more headroom, allowing them to hit higher frequencies without running into other limitations such as voltage, power, or thermal limits.
@@ -49,18 +31,6 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  With all these technologies working in tandem, the overclocker achieved an idle frequency of 5.86 GHz. In stress testing, the maximum single-thread clock speed was 5.758 GHz, with a maximum multi-core frequency of 5.454 GHz operating at 95.2 degrees Celsius at a package power of 172.1 watts.
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -71,14 +41,11 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  SkatterBencher's 5.8 GHz and 6 GHz overclocks represent the highest on the new 9700X. Der8auer and Overclocking.com showcased their respective overclocks on the 9700X but could only eke out 5.4G Hz. The main difference was that both outlets did manual overclocks, whereas SkatterBencher used AMD's plethora of overclocking tools, enabling them to hit higher frequencies.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,4 +54,30 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-exploring-the-core-inside-apples-m1-innovation/"><u>[New] Exploring the Core Inside Apple’s M1 Innovation</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-magix-acid-pros-successors-in-vector-editing/"><u>[New] Magix ACID Pro's Successors in Vector Editing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-eliminating-backlogged-videos-from-your-youtube-history/"><u>[Updated] In 2024, Eliminating Backlogged Videos From Your YouTube History</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-canon-mf4800-up-and-running-official-driver-downloads/"><u>Get Your Canon MF4800 Up and Running - Official Driver Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-how-to-fix-your-lg-printers-usb-driver-issues-in-windows-11-8-or-7/"><u>Guide: How to Fix Your LG Printer's USB Driver Issues in Windows 11, 8, or 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-correctly-update-hp-beats-audio-driver-issues-in-windows-operating-systems-10-8-and-7/"><u>How to Correctly Update HP Beats Audio Driver Issues in Windows Operating Systems (10, 8, and 7)</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-infinix-note-30-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Note 30 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-huawei-p60-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Huawei P60</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hp-notebook-trouble-heres-how-to-get-your-windows-11-audio-working-again/"><u>HP Notebook Trouble? Here's How to Get Your Windows 11 Audio Working Again!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-strategic-game-plays-with-top-casters/"><u>In 2024, Strategic Game Plays with Top Casters</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-the-newest-drivers-for-hid-mouse-support/"><u>Installing the Newest Drivers for HID Mouse Support</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-setup-for-microsoft-comfort-keyboard-4000-download-and-configure-the-right-drivers-now/"><u>Instant Setup for Microsoft Comfort Keyboard 4000: Download and Configure the Right Drivers Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-nuc-driver-update-streamlined-installation-process/"><u>Intel NUC Driver Update: Streamlined Installation Process</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mpow-bluetooth-driver-software-fresh-downloads-and-update-options-for-all-windows-versions/"><u>MPOW Bluetooth Driver Software - Fresh Downloads and Update Options for All Windows Versions</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

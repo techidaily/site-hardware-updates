@@ -1,7 +1,7 @@
 ---
 title: Dealing with DTS Audio Device Malfunction - Tips and Solutions
-date: 2024-09-05T20:03:38.792Z
-updated: 2024-09-06T20:03:38.792Z
+date: 2024-10-19T17:42:02.691Z
+updated: 2024-10-21T05:58:48.762Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-n-e1626924832289-1200x491.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This surround sound RGB gaming headset Arctis 5 provides an immersive gaming experience, but sometimes it can bump into issues. And when they do, you can follow[**this troubleshooting guide**](https://tools.techidaily.com/drivereasy/download/) to fix your mic issues, or you can update the Arctis 5 drivers directly.
 
 ## How to update Actis 5 drivers
@@ -40,28 +34,17 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 1: Manually update the sound driver
 
 1. On your keyboard, press the**Windows logo** key and**R** at the same time to open the Run box.  
 ![uninstall graphics driver](https://images.drivereasy.com/wp-content/uploads/2021/03/device-manager.jpg)
 2. Expand the**Sound, video and game controllers** . Then right-click the related devices, and select**Update driver** .
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click**Search automatically for drivers** .
 4. Windows will start searching for the latest drivers and install them for you.
 
@@ -69,12 +52,6 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 
  If Windows Device Manager fails to find a new driver for you, you need to source the driver directly from the device manufacturer or use a tool like ours, called **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  , to do it automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2: Automatically update all your device drivers
 
  One of the most common causes of sound issues is an outdated or faulty sound driver. Your SteelSeries Artis 5 is no exception.
@@ -85,8 +62,30 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the**Update** button next to your sound device or your Arctis 5 to download the latest and correct driver for it.  
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/audio-drivers.jpg)  
  Or you can also click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will have full tech support and a 30-day money-back guarantee.)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -97,31 +96,20 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
  In rare cases, updating your drivers won’t get your problem solved. If unfortunately, updating the SteelSeries Actis 5 drivers didn’t help, you can try the following troubleshooting steps:
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Set your Arctis 5 as the default
 
  Make sure you have set your SteelSeries Arctis 5 as the default output/input device. Also, select**Set as Default Communications** **Device** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Make sure you’ve set it up correctly
 
  Follow[**SteelSeries Actis 5 setup guide**](https://support.steelseries.com/hc/en-us/articles/115000022031-Setup-Arctis-5) to make sure you’ve done it right. Using the rear ports directly on your motherboard instead of any HUB ports or external hubs will ensure your drivers load correctly, and that the device receives adequate power.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Have the latest version of SteelSeries Engine installed
 
  In-app updates are supported so you will be prompted to update directly through the Engine. But if this doesn’t do the trick, you can uninstall the SteelSeries Engine, and download[**the latest SteelSeries Engine**](https://steelseries.com/engine) .
@@ -151,8 +139,6 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +146,24 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-effortless-image-capturing-on-chrome-devices-method-4/"><u>[New] 2024 Approved Effortless Image Capturing on Chrome Devices (Method #4)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-best-solutions-to-record-video-without-sound/"><u>[New] Best Solutions to Record Video Without Sound</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-essential-guide-to-implementing-filters-in-media-for-2024/"><u>[New] Essential Guide to Implementing Filters in Media for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-complete-untapped-potential-of-dji-phantom-4/"><u>[New] The Complete Untapped Potential of DJI Phantom 4</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-the-leading-free-stock-video-and-image-archives/"><u>[New] Unveiling the Leading Free Stock Video and Image Archives</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-breaking-ground-in-video-marketing-setting-up-a-review-chain/"><u>[Updated] In 2024, Breaking Ground in Video Marketing Setting Up a Review Chain</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970167574-behringer-usb-sound-card-software-get-the-latest-version-now/"><u>Behringer USB Sound Card Software - Get the Latest Version Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-download-of-asus-z170-a-drivers-for-windows-1187-get-the-right-support-now/"><u>Easy Download of ASUS Z170-A Drivers for Windows 11/8/7 – Get the Right Support Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixing-compatibility-errors-with-hp-monitors-and-microsoft-operating-systems/"><u>Fixing Compatibility Errors with HP Monitors and Microsoft Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-epson-wf-2750-ready-with-the-latest-drivers-free-download-instructions/"><u>Get Your Epson WF-2750 Ready with the Latest Drivers – Free Download Instructions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-c615-back-in-action-driver-fixes-explained/"><u>Get Your Logitech C615 Back in Action: Driver Fixes Explained</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-your-windows-pc-to-recognize-the-tl-wn722n-network-card/"><u>How to Get Your Windows PC to Recognize the TL-WN722N Network Card</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-x-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone X Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-xbox-wireless-connectivity-drivers-a-quick-and-easy-process/"><u>Install Xbox Wireless Connectivity Drivers – A Quick & Easy Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamping-the-basics-customizing-windows-11-for-you/"><u>Revamping the Basics: Customizing Windows 11 for You</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tp-link-wireless-n150-adaptor-setup-issue-resolved-making-your-device-detectable-on-windows/"><u>TP-LINK Wireless N150 Adaptor Setup: [Issue Resolved] Making Your Device Detectable on Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-limits-why-chatgpt-struggles-with-self-detection-of-text-generation/"><u>Unveiling the Limits: Why ChatGPT Struggles with Self-Detection of Text Generation</u></a></li>
+</ul></div>
 

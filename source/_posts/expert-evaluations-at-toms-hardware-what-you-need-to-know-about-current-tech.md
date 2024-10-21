@@ -1,7 +1,7 @@
 ---
 title: "Expert Evaluations at Tom's Hardware: What You Need to Know About Current Tech"
-date: 2024-09-05T20:02:00.010Z
-updated: 2024-09-06T20:02:00.010Z
+date: 2024-10-19T03:22:51.234Z
+updated: 2024-10-21T03:53:18.627Z
 tags:
   - cpu
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/052918d3e56b96021eca7b3225588078d8b2ee409e0b799bdcb8f9f006f59b01.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Are Dual-Core CPUs Over? Not with Intel's Latest 310 Leading Two P-Cores on Geekbench
 
 Intel is continuing the trend of replacing its entry-level processors with the generic "Intel Processor" nomenclature. A new[Geekbench](https://x.com/BenchLeaks/status/1811274720567853442) listing discovered by BenchLeaks on X reveals a new entry-level chip, dubbed the Intel Processor 310\. It will feature two performance cores and four threads, similar to Intel's Celeron and Pentium processors of old.
@@ -44,12 +38,6 @@ Intel is continuing the trend of replacing its entry-level processors with the g
 
  The 310's power rating is unknown, however based on the Intel Processor 300's base power of 46W, we suspect the 310 will be the same. If so, power consumption will also be a big differentiation between the two chips, with the i3-13100 able to suck down 60W at a minimum and up to 110W through Intel's modern PL1/PL2 system.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -60,14 +48,11 @@ Intel is continuing the trend of replacing its entry-level processors with the g
 
  Pricing and availability are unknown, but now that its existence has been revealed, we can expect this chip to debut soon.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -76,4 +61,29 @@ Intel is continuing the trend of replacing its entry-level processors with the g
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-learn-the-essential-steps-recording-youtube-live-with-ease-across-devices/"><u>[New] Learn the Essential Steps Recording YouTube Live with Ease Across Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-the-world-of-gopro-and-time-lapse-shooting/"><u>[New] Navigating the World of GoPro and Time-Lapse Shooting</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-efficient-tools-seamless-extraction-of-vimeo-media/"><u>[Updated] 2024 Approved Efficient Tools Seamless Extraction of Vimeo Media</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-ideal-soundscapes-for-editing-films-and-vids/"><u>[Updated] Ideal Soundscapes for Editing Films & Vids</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-the-digital-landscape-with-these-7-indispentic-devices/"><u>2024 Approved Master the Digital Landscape with These 7 Indispentic Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-rx-6800-xt-graphics-card-drivers-download-for-windows-11-10-8-and-7/"><u>AMD Radeon RX 6800 XT Graphics Card Drivers: Download for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-hp-laserjet-pro-p1006-printer-software/"><u>Download HP LaserJet Pro P1006 Printer Software</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ergodyne-topo-mat-analysis-your-solution-to-reducing-workplace-fatigue/"><u>Ergodyne Topo Mat Analysis: Your Solution to Reducing Workplace Fatigue</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-zexmte-universal-bluetooth-adapter-drivers-on-your-pc/"><u>How to Download and Install ZexMTE Universal Bluetooth Adapter Drivers on Your PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Samsung Galaxy S23+? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-system-with-new-nvidia-940mx-gpu-drivers-free-download/"><u>How to Update Your System with New NVIDIA 940MX GPU Drivers - Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-latest-graphic-card-drivers-on-your-hp-840g3-notebook-system/"><u>Installing Latest Graphic Card Drivers on Your HP 840/G3 Notebook System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-firmware-enhancement-for-dell-2330d2330dn-color-laser-printers/"><u>Latest Firmware Enhancement for Dell 2330D/2330DN Color Laser Printers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leading-edge-computers-for-your-office-for-2024/"><u>Leading-Edge Computers for Your Office for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solving-hp-beats-audio-issues-across-various-windows-versions-your-ultimate-fix/"><u>Solving HP Beats Audio Issues Across Various Windows Versions - Your Ultimate Fix</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

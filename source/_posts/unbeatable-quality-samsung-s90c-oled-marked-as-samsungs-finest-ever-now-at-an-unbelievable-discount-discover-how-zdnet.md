@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Quality: Samsung S90C OLED Marked as Samsung's Finest Ever, Now at an Unbelievable Discount – Discover How! [ZDNet]"
-date: 2024-10-10T16:21:57.989Z
-updated: 2024-10-15T16:03:41.835Z
+date: 2024-10-15T20:27:21.540Z
+updated: 2024-10-20T21:38:52.661Z
 tags:
   - tvs
 categories:
@@ -53,10 +53,10 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 | Connectivity     | HDMI, HDMI eARC, Bluetooth, Wi-Fi, Ethernet, USB, AUX, Optical, Coax |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Pricing 
@@ -66,10 +66,10 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 As great as the new Omni Series QLED models are, price is a big sticking point for me, especially since I personally don't use Alexa or want an Amazon-centric streaming experience. However, Amazon is currently running a sale on the [65-inch Omni Series QLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-65-inch-omni-qled-series-smart-tv%2Fdp%2FB0BJMGB9RN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1), bringing the price down to $690 -- which is much more in line with what I think this TV should be retailing for -- making it a great, budget-friendly option if you're looking to upgrade. 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Picture and sound 
@@ -100,6 +100,13 @@ If you want a more elaborate audio setup, you can connect your TV to [Echo speak
 
 I would much rather see multi-device support for generic Bluetooth speakers and soundbars, since users might have audio equipment from different brands rather than a house full of Amazon-branded devices. You can set up non-Amazon speakers and soundbars with the TV but won't get that whole-home audio experience, which is a shame. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Alexa and Amazon features 
 
 As it's meant to be the centerpiece of your Amazon or Alexa-centered smart home network. the Omni QLED features native Alexa support via a voice-enabled remote, as well as a four-microphone array built into the unit itself. If you don't have an Alexa account already, you can use basic voice commands for turning the TV on and off or launching certain apps. And if you want expanded, hands-free controls as well as the ability to add Skills, you can either connect to an Echo device or the Alexa companion app. Though you will need an Amazon account to sign into the Alexa app as well as the TV itself to access many enhanced features. 
@@ -107,13 +114,6 @@ As it's meant to be the centerpiece of your Amazon or Alexa-centered smart home 
 Taylor Clemons/ZDNET
 
 If you decide to download Alexa Skills, you can play music, games, check the weather, get daily trivia, or even make and receive video calls. Skills are what really set the Omni QLED apart from similar smart TVs from competitors like TCL and Hisense. Without access to these features, the Omni QLED is reduced to a pretty bog-standard smart TV with better-than-expected picture and audio capabilities. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Gaming 
 
@@ -140,13 +140,6 @@ Taylor Clemons/ZDNET
 I usually play console games with a headset so I can better pick up on audio cues and dialogue, but the integrated speakers of the Omni QLED provide loud and clear audio that doesn't make you miss out on fine details like wind through trees, subtle music, and quiet character conversations. 
 
 If you're in the market for a TV strictly for console gaming, I'd highly recommend the Omni QLED. Even at the full $800, it's still a solid option against competitors from brands like Sony and LG when it comes to picture quality and a smoother, more enjoyable gameplay experience. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Streaming 
 
@@ -190,6 +183,13 @@ The dedicated gaming picture mode lets colors and details pop while the integrat
 
 Many of the cool features are inextricably linked to Alexa functionality, so if you want to take full advantage of the Omni QLED, you'll have to invest in an Echo device and set up an Alexa account. And this reason alone is why I think the $800 price tag is just a touch on the high side for this TV, since without Alexa Skills, it's just a basic QLED model. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Alternatives to consider 
 
 [Great for streaming Sony X77L The Sony X77L uses an LED panel to provide 4K resolution at a 60Hz refresh rate, which means that from sports and action movies to music videos and animated shorts, your media will have smooth motion, crisp details, and bold colors. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BZF2N3LM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)[Great budget option Amazon Fire TV 4-Series The Fire TV 4-Series from Amazon is a solid, budget-friendly option for anyone looking for a reliable second screen for their bedroom or affordable main TV. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-55-inch-4-series-4k-smart-tv%2Fdp%2FB0B3H6JPYZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
@@ -230,24 +230,21 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-chuckling-chords-and-clever-cuts-10-parody-classics-for-2024/"><u>[New] Chuckling Chords & Clever Cuts 10 Parody Classics for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-convert-your-social-feeds-videos-into-listenable-audio-for-2024/"><u>[New] Convert Your Social Feed's Videos Into Listenable Audio for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-checklist-for-a-premium-4k-lens-buy/"><u>[New] The Ultimate Checklist for a Premium 4K Lens Buy</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-explore-greatest-vr-handhelds-listed/"><u>[Updated] Explore Greatest VR Handhelds Listed</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-nokia-c12-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Nokia C12 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-intel-wi-fi-ac-9560-drivers/"><u>Download and Update Intel Wi-Fi AC 9560 Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722976534768-download-intel-network-drivers-for-windows-pcs-free-and-fast/"><u>Download Intel Network Drivers for Windows PCs - Free and Fast</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-intels-top-z270-motherboard-for-gamers-carbon-series-with-enhanced-features-and-free-access/"><u>Download Intel's Top Z270 Motherboard for Gamers: Carbon Series with Enhanced Features & Free Access</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/efficient-vob-to-avi-transformation-ultimate-guide-for-seamless-video-format-conversion/"><u>Efficient VOB to AVI Transformation: Ultimate Guide for Seamless Video Format Conversion</u></a></li>
-<li><a href="https://win-data.techidaily.com/how-to-move-your-windows-upgrade-credit-from-old-laptop-to-new-desktop-a-step-by-step-guide/"><u>How to Move Your Windows Upgrade Credit From Old Laptop to New Desktop: A Step-by-Step Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-step-by-step-guide-to-using-instagram-filters-and-icons/"><u>In 2024, Step-by-Step Guide to Using Instagram Filters and Icons</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-and-utilizing-windows-11-auto-hdr-functionality/"><u>In 2024, Understanding and Utilizing Windows 11 Auto HDR Functionality</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/intel-wireless-network-drivers-for-pcs-secure-your-connection-with-latest-downloads-for-win11win10win7/"><u>Intel Wireless Network Drivers for PCs - Secure Your Connection with Latest Downloads for Win11/Win10/Win7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovo-x1-carbon-software-updates-secure-driver-downloads-for-win-10win-n7-systems/"><u>Lenovo X1 Carbon Software Updates – Secure Driver Downloads for Win 10/Win N7 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/overcome-troubles-the-complete-guide-to-repairing-igfxem-malfunctions/"><u>Overcome Troubles: The Complete Guide to Repairing IgfxEM Malfunctions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-way-to-find-and-download-your-dell-monitors-drivers/"><u>Quick & Easy Way to Find and Download Your Dell Monitor's Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722958323763-quick-and-simple-guide-installing-windows-7-keyboard-drivers/"><u>Quick & Simple Guide: Installing Windows 7 Keyboard Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722979129422-speedy-driver-downloads-for-targus-port-connectors-start-using-today/"><u>Speedy Driver Downloads for Targus Port Connectors - Start Using Today!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-drone-journey-full-phantom-4-features-explored/"><u>[New] The Ultimate Drone Journey Full Phantom 4 Features Explored</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-a-practical-approach-to-installing-obs-on-apple-systems/"><u>[Updated] A Practical Approach to Installing OBS on Apple Systems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-essential-tips-for-adding-visual-impact-in-google-meet-for-2024/"><u>[Updated] Essential Tips for Adding Visual Impact in Google Meet for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-bridging-the-visibility-gap-for-online-media/"><u>2024 Approved Bridging the Visibility Gap for Online Media</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-free-to-focused-financial-goals-the-journey-of-ajays-youtube-success/"><u>2024 Approved From Free to Focused Financial Goals The Journey of Ajay’s Youtube Success</u></a></li>
+<li><a href="https://common-error.techidaily.com/hp-laptop-keyboard-woes-heres-how-to-get-your-keys-working-again-in-no-time/"><u>HP Laptop Keyboard Woes? Here's How to Get Your Keys Working Again in No Time</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-advanced-presentation-techniques-youtube-in-slides/"><u>In 2024, Advanced Presentation Techniques YouTube in Slides</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-honor-x50i-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Honor X50i to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-11-proplus-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Realme 11 Pro+ Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/starfives-revolutionary-jh7110-soc-board-powered-by-risc-v-architecture-and-collaboration-with-deepcomputing/"><u>StarFive's Revolutionary JH7110 SoC Board: Powered by RISC-V Architecture and Collaboration with DeepComputing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/stylish-and-powerful-asus-combines-next-gen-intelamd-cpus-in-the-zenbook-s-and-tuf-a14/"><u>Stylish & Powerful: Asus Combines Next-Gen Intel/AMD CPUs in the Zenbook S & TUF A14</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/taking-down-cheats-in-digital-battles-microsofts-commitment-to-elevating-gamers-copilots/"><u>Taking Down Cheats in Digital Battles: Microsoft's Commitment to Elevating Gamer's Copilots</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/techwizards-review-innovative-gadgets-and-tools-explore-the-latest-tech-trends/"><u>TechWizards Review: Innovative Gadgets & Tools | Explore The Latest Tech Trends</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-apple-resurrection-project-upgraded-1994-powerbook-520c-now-boasts-an-ipad-display-and-cutting-edge-macbook-pro-components/"><u>The Ultimate Apple Resurrection Project: Upgraded 1994 PowerBook 520C Now Boasts an iPad Display & Cutting-Edge MacBook Pro Components</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-computer-review-in-depth-analysis-and-expert-insights/"><u>Tom's Computer Review: In-Depth Analysis and Expert Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-device-discoveries-in-depth-guides-for-savvy-consumers/"><u>Tom's Device Discoveries: In-Depth Guides for Savvy Consumers</u></a></li>
 </ul></div>
 

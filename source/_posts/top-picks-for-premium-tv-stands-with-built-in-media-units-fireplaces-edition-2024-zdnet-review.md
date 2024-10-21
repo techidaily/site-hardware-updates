@@ -1,7 +1,7 @@
 ---
 title: Top Picks for Premium TV Stands with Built-In Media Units - Fireplaces Edition, 2024 [ZDNet Review]
-date: 2024-10-13T16:59:33.234Z
-updated: 2024-10-15T16:24:03.218Z
+date: 2024-10-17T00:02:51.075Z
+updated: 2024-10-21T05:51:40.494Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,18 +92,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-discover-the-secrets-to-superior-scalability-in-roblox-worlds/"><u>[New] Discover the Secrets to Superior Scalability in Roblox Worlds</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-premium-android-screenshot-and-video-tools-ranked-five-for-2024/"><u>[New] Premium Android Screenshot & Video Tools - Ranked Five for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-game-on-mastering-the-art-of-play-with-kinemaster-on-android-for-2024/"><u>[Updated] Game On! Mastering the Art of Play with KineMaster on Android for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-nanofilm-whiz/"><u>[Updated] NanoFilm Whiz</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-unhindered-video-capture-app/"><u>[Updated] Unhindered Video Capture App</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1982-honkytonk-man-with-eastwood-as-red-boyle-an-ex-convict-who-finds-himself-riding-through-the-southwest-during-the-great-depression-the-film-was-based-on129/"><u>1982 - Honkytonk Man, with Eastwood as Red Boyle, an Ex-Convict Who Finds Himself Riding Through the Southwest During the Great Depression. The Film Was Based on Clancy Carlile'cuentero's 1974 Novel ''The Goodbye Look''</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-stay-ahead-in-the-metaverse-with-this-list-of-must-haves/"><u>2024 Approved Stay Ahead in the Metaverse with This List of Must-Haves</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/best-tricks-to-fix-constant-iphone-app-failures-learn-now/"><u>Best Tricks to Fix Constant iPhone App Failures - Learn Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-ricoh-printer-drivers-on-windows-easy-guide/"><u>Download & Install Ricoh Printer Drivers on Windows - Easy Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-auto-transcribe-for-enhanced-office-productivity-in-ms-word-for-2024/"><u>Harnessing the Power of Auto-Transcribe for Enhanced Office Productivity in MS Word for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-samsung-printer-drivers-on-windows-solutions-unveiled/"><u>Troubleshooting Samsung Printer Drivers on Windows: Solutions Unveiled</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updated-hp-deskjet-2700-printing-solutions-free-software-downloads-available-now/"><u>Updated HP DeskJet 2700 Printing Solutions - Free Software Downloads Available Now</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-16-innovative-ways-to-archive-web-based-podcasts/"><u>[New] 2024 Approved 16 Innovative Ways to Archive Web-Based Podcasts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-fastforward-lingertap-recording-for-2024/"><u>[New] FastForward LingerTap Recording for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-shopback-up-specialists-judgment/"><u>[New] ShopBack Up Specialists' Judgment</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-chronicles-of-youtube-the-ultimate-viral-list/"><u>[Updated] In 2024, Chronicles of YouTube The Ultimate Viral List</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/advanced-mac-video-logger/"><u>Advanced Mac Video Logger</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conversione-gratuita-da-mp2-ad-aac-su-internet-tramite-movavi/"><u>Conversione Gratuita Da MP2 Ad AAC Su Internet Tramite Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-through-circuitry-toms-in-depth-hardware-guides-and-comparisons/"><u>Navigating Through Circuitry: Tom's In-Depth Hardware Guides and Comparisons</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-through-toms-hardware-insights-and-reviews/"><u>Navigating Through Tom's Hardware Insights and Reviews</u></a></li>
+<li><a href="https://fox-that.techidaily.com/optimizing-photo-clarity-on-iphone-devices-with-less-megapixels/"><u>Optimizing Photo Clarity on iPhone Devices with Less MegaPixels</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/pushing-the-limits-of-overclocking-splave-and-asrocks-z790i-motherboard-set-unprecedented-world-records-together/"><u>Pushing the Limits of Overclocking: Splave and ASRock's Z790I Motherboard Set Unprecedented World Records Together</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-computer-tech-hub-your-ultimate-guide-to-hardware/"><u>Tom's Computer Tech Hub: Your Ultimate Guide to Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-the-ultimate-guide-by-toms-hardware/"><u>Tom's Tech Insights: The Ultimate Guide by Tom's Hardware</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tutorial-mirroring-mac-display-onto-a-television-via-apples-airplay-feature/"><u>Tutorial: Mirroring Mac Display Onto a Television via Apple's AirPlay Feature</u></a></li>
 </ul></div>
 

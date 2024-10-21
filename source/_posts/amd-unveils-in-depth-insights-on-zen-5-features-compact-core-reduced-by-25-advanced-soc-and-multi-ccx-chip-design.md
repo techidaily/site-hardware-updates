@@ -1,7 +1,7 @@
 ---
 title: "AMD Unveils In-Depth Insights on Zen 5: Features Compact Core Reduced by 25%%, Advanced SoC & Multi-CCX Chip Design"
-date: 2024-09-05T20:02:31.697Z
-updated: 2024-09-06T20:02:31.697Z
+date: 2024-10-14T03:46:59.346Z
+updated: 2024-10-21T06:07:51.503Z
 tags:
   - cpu
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/25348c47fef7e0c5d4c880e473042e01e47d5973d7a411956a452edb781f4e13.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## This Title Focuses on the Impressive Achievement of Scoring over 108,000 Points, While Also Explaining that It Is Achieved Through Multi-Threading Tests Using the CPU-Z Benchmark
 
 AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd-announces-3nm-epyc-turin-launching-with-192-cores-and-384-threads-in-second-half-of-2024-54x-faster-than-intel-xeon-in-ai-workload) (Turin) processor with 128 Zen 5 cores has set a new benchmark record. According to hardware leaker [YuuKi_AnS](https://x.com/yuuki%5Fans/status/1816185684753015066) , the EPYC 9755 scored 108,093 points in the CPU-Z multi-thread test, making it the fastest multi-threaded processor on the CPU-Z benchmark on the planet.
@@ -46,18 +34,6 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -66,14 +42,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -82,4 +55,23 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/updated-best-10-free-image-transformers-jpg-to-gif-edition/"><u>[Updated] Best 10 FREE Image Transformers JPG to GIF Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-fixes-for-effective-amd-radeon-graphics-card-updates/"><u>Comprehensive Fixes for Effective AMD Radeon Graphics Card Updates</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-to-activate-and-personalize-your-oculus-quest-or-quest-2-headset/"><u>Easy Steps to Activate and Personalize Your Oculus Quest or Quest 2 Headset</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-tips-for-upgrading-to-the-newest-amd-driver-versions-on-windows-11-10-and-7/"><u>Essential Tips for Upgrading to the Newest AMD Driver Versions on Windows 11, 10, and 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fix-your-monitor-issues-download-and-install-drivers-for-insignia-vga-adapter/"><u>Fix Your Monitor Issues: Download & Install Drivers for Insignia VGA Adapter!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-f54-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy F54 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-poco-c65-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-mfp-m42amfw-updated-printer-drivers-for-windows-11-10-and-7-systems/"><u>HP MFP M42amfw - Updated Printer Drivers for Windows 11, 10 & 7 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-connection-repairs-how-to-overcome-unable-to-connect-with-a-remote-server/"><u>Mastering Connection Repairs: How to Overcome 'Unable to Connect' With a Remote Server</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

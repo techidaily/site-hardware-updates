@@ -1,7 +1,7 @@
 ---
 title: "Limited Time Offer: Secure Your 85-Inch TCL TV at an Unbeatable Price of $900 This Labor Day Weekend!"
-date: 2024-10-13T17:05:56.672Z
-updated: 2024-10-15T16:42:29.912Z
+date: 2024-10-18T22:46:38.790Z
+updated: 2024-10-21T01:31:18.752Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,15 +92,14 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-boost-your-visual-language-with-premium-affects-extensions-for-2024/"><u>[Updated] Boost Your Visual Language with Premium Affects Extensions for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-best-10-action-ready-microphones-reviewed/"><u>[Updated] In 2024, Best 10 Action-Ready Microphones Reviewed</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-troubleshooting-obs-full-screen-malfunction/"><u>[Updated] Troubleshooting OBS Full Screen Malfunction</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-best-in-class-premium-screenshots-and-recorders/"><u>2024 Approved Best in Class Premium Screenshots & Recorders</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-instagram-reels-production-process/"><u>2024 Approved Step-by-Step Instagram Reels Production Process</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722970966650-achieve-optimal-gameplay-nvidia-geforce-driver-updates-tailored-for-windows-free-downloads-available/"><u>Achieve Optimal Gameplay: NVIDIA GeForce Driver Updates Tailored for Windows - Free Downloads Available!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722974686922-download-the-free-qualcomm-atheros-ar938x-drivers-without-hassle/"><u>Download the Free Qualcomm Atheros AR938X Drivers Without Hassle!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722969418987-effortless-hp-driver-downloads-and-setup-get-started-today/"><u>Effortless HP Driver Downloads and Setup - Get Started Today!</u></a></li>
-<li><a href="https://article-helps.techidaily.com/elevating-your-brand-key-tactics-for-testimonial-vids/"><u>Elevating Your Brand Key Tactics for Testimonial Vids</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-your-audio-experience-on-windows-11-10-and-81-with-the-latest-dolby-driver-updates-free/"><u>Enhance Your Audio Experience on Windows 11, 10 & 8.1 with the Latest Dolby Driver Updates - Free!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-ultimate-guide-sharing-your-private-youtube-snippets-via-email/"><u>[New] The Ultimate Guide Sharing Your Private YouTube Snippets via Email</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-rapid-growth-on-youtube-harnessing-the-potential-of-outros/"><u>[Updated] Rapid Growth on YouTube Harnessing the Potential of Outros</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/inners-tutorial-how-to-insert-on-screen-dialogue-in-video-formats-for-2024/"><u>A Beginner's Tutorial How to Insert On-Screen Dialogue in Video Formats for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/decoding-computer-systems-expert-tips-and-reviews-with-toms-hardware/"><u>Decoding Computer Systems: Expert Tips and Reviews with Tom's Hardware</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-for-managing-wdf-and-lowering-cpu-consumption/"><u>Effective Strategies for Managing WDF and Lowering CPU Consumption</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977805889-effortless-installation-of-hp-stream-drivers-available-now/"><u>Effortless Installation of HP Stream Drivers Available Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-and-install-your-hp-computers-network-card-drivers-on-windows/"><u>How to Get & Install Your HP Computer's Network Card Drivers on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-geforce-rtx-2070-drivers-latest-version-download-compatible-with-win-1087/"><u>NVIDIA Geforce RTX 2070 Drivers - Latest Version Download Compatible with Win 10/8/7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-guide-to-downloading-and-updating-rndis-usb-network-adapter-for-windows-now-resolved/"><u>Ultimate Guide to Downloading and Updating RNDIS USB Network Adapter for Windows - Now Resolved</u></a></li>
 </ul></div>
 

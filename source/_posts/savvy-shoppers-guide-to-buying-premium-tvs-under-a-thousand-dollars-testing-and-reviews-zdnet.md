@@ -1,7 +1,7 @@
 ---
 title: Savvy Shopper's Guide to Buying Premium TVs Under a Thousand Dollars | Testing and Reviews | ZDNet
-date: 2024-10-13T17:02:24.836Z
-updated: 2024-10-15T16:37:27.409Z
+date: 2024-10-14T05:34:45.797Z
+updated: 2024-10-21T01:51:52.387Z
 tags:
   - tvs
 categories:
@@ -32,16 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -61,16 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -111,22 +99,19 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-precise-procedure-for-fusing-gopro-footage-into-comprehensive-video-spheres/"><u>[Updated] In 2024, Precise Procedure for Fusing GoPro Footage Into Comprehensive Video Spheres</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-ultimate-snapchat-gif-steps-for-every-user/"><u>[Updated] The Ultimate Snapchat GIF Steps for Every User</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-oppo-a78-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Oppo A78 Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-realtek-audio-management-software-download-the-latest-version-gratis/"><u>ASUS Realtek Audio Management Software - Download the Latest Version Gratis</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-jailbreaks-gone-silent-unveiling-7-reasons-why-theyre-no-longer-viable/"><u>ChatGPT Jailbreaks Gone Silent: Unveiling 7 Reasons Why They're No Longer Viable</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-installation-steps-for-epson-xp-400-drivers-a-thorough-explanation/"><u>Download and Installation Steps for Epson XP 400 Drivers – A Thorough Explanation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-free-version-of-killer-network-drivers-compatible-with-win1087/"><u>Download the Latest Free Version of Killer Network Drivers Compatible with Win10/8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-updated-sas-drives-for-enhanced-performance-in-windows-os/"><u>Easy Installation of Updated SAS Drives for Enhanced Performance in Windows OS</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/experts-test-drive-the-best-bluetooth-fm-transmitter-meet-the-aphaca-bt69-compact-unit/"><u>Experts Test Drive the Best Bluetooth FM Transmitter: Meet the Aphaca BT69 Compact Unit</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/freshly-updated-bluetooth-usb-adapter-software-for-windows-operating-systems/"><u>Freshly Updated Bluetooth USB Adapter Software for Windows Operating Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-solve-the-netflix-ui-800-3-error-efficiently/"><u>How to Solve the Netflix UI-800-3 Error Efficiently</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c33-2023-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Realme C33 2023 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-logitech-g29-driver-on-windows-11-complete-guide-and-downloads/"><u>Install Logitech G29 Driver on Windows 11: Complete Guide and Downloads</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-your-logitech-m525-driver-and-software-download-options/"><u>Installing Your Logitech M525: Driver and Software Download Options</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-complex-projects-using-github-desktop-in-win-11/"><u>Navigating Complex Projects Using GitHub Desktop in Win 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-fix-for-asus-monitors-essential-drivers-download-tutorial/"><u>Quick Fix for ASUS Monitors: Essential Drivers Download Tutorial</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-reactivate-missing-windows-phone-link-notifications/"><u>Steps to Reactivate Missing Windows Phone Link Notifications</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-streamlined-language-translation-best-online-subtitle-manipulators-for-2024/"><u>[New] Streamlined Language Translation – Best Online Subtitle Manipulators for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/add-a-personal-touch-using-branded-graphic-elements-in-your-instagram-content/"><u>Add a Personal Touch Using Branded Graphic Elements in Your Instagram Content</u></a></li>
+<li><a href="https://win-bits.techidaily.com/best-techniques-for-recording-sound-with-your-chromebook/"><u>Best Techniques for Recording Sound with Your Chromebook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-downloading-and-setting-up-the-linksys-wusb6300-network-drivers-easy-tutorial/"><u>Complete Guide: Downloading and Setting Up the Linksys WUSB6300 Network Drivers | Easy Tutorial</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-and-share-on-major-networks-facebook-twitter-instagram-youtube/"><u>Connect and Share on Major Networks: Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-newest-epson-wf-3520-printer-drivers-on-windows-systems/"><u>Easy Installation of Newest Epson WF 3520 Printer Drivers on Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-compatible-drivers-for-epson-ds-530-on-64-bit-windows-10/"><u>Easy Installation: Compatible Drivers for Epson DS-530 on 64-Bit Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978269040-enhance-your-setup-with-the-latest-intel-z270-gaming-pro-carbon-free-download-available/"><u>Enhance Your Setup with the Latest Intel Z270 Gaming Pro Carbon - Free Download Available!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/exploring-the-depths-of-darkness-with-j5-tacticals-v1-pro-flashlight-a-review-on-its-robust-build-quality-and-high-performance-night-vision-technology/"><u>Exploring the Depths of Darkness with J5 Tactical's V1 Pro Flashlight - A Review on Its Robust Build Quality and High-Performance Night Vision Technology</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-netflix-adjust-speed-settings/"><u>Navigating Netflix Adjust Speed Settings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-download-microsoft-ergo-desktop-4000-drivers-get-started-now/"><u>Quick Download: Microsoft Ergo Desktop 4000 Drivers - Get Started Now!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-radiance-to-rugged-reality-views/"><u>Restoring Radiance to Rugged Reality Views</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/straightening-computer-border-lines/"><u>Straightening Computer Border Lines</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-walkthrough-to-obtain-hp-printers-m402n-software-for-windows-users/"><u>The Ultimate Walkthrough to Obtain HP Printer's M402n Software for Windows Users</u></a></li>
 </ul></div>
 

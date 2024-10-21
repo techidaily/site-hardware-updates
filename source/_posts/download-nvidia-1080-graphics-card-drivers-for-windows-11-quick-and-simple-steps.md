@@ -1,7 +1,7 @@
 ---
 title: "Download NVIDIA 1080 Graphics Card Drivers for Windows 11: Quick and Simple Steps"
-date: 2024-09-05T20:05:38.542Z
-updated: 2024-09-06T20:05:38.542Z
+date: 2024-10-15T17:12:02.760Z
+updated: 2024-10-20T17:09:27.126Z
 tags:
   - win11
   - win10
@@ -13,42 +13,12 @@ excerpt: "This Article Describes Download NVIDIA 1080 Graphics Card Drivers for 
 thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d23f758e0b8878fbb663f8a91.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Download Free ASRock AB350 Pro4 Graphics Card Drivers for Windows - Instantly
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-439.png)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It’s important to**keep the drivers for your ASRock AB350 Pro4 updated** to make sure the motherboard works properly. In this post, we’re showing you 2 easy ways to update your**ASRock AB350 Pro4** drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## To update**ASRock AB350 Pro4 drivers**
 
  There’re 2 options for you to download & update**ASRock AB350 Pro4** drivers in Windows.
@@ -58,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d2
 **OR**
 
 **[Option 2 – Manually](https://tools.techidaily.com/drivereasy/download/)**  – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Option 1 – Update**  ASRock AB350 Pro4 drivers automatically (Recommended)
 
@@ -73,24 +50,26 @@ thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-445.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to your audio driver to automatically download the correct version of its driver, then you can manually install it (you can do this with the **FREE** version).
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-446.png)
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Update ASRock AB350 Pro4 drivers manually
 
@@ -106,28 +85,17 @@ thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-442.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Download** as it shows up in the search results.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-443.png)
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Make sure the detected OS is right and then download the driver packages for your ASRock AB350 Pro4 motherboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-444-1024x401.png)
@@ -148,8 +116,6 @@ thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d2
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +123,23 @@ thumbnail: https://thmb.techidaily.com/a0ef80ac09da601c17c19d2364d2f47007347e6d2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fix-missing-advanced-display-settings/"><u>[Fix] Missing Advanced Display Settings</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-leading-mp4-to-facebook-video-processor/"><u>[New] 2024 Approved Leading MP4-to-Facebook Video Processor</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-mundane-interviews-into-memorable-experienrances/"><u>2024 Approved Transforming Mundane Interviews Into Memorable Experienrances</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unleashing-your-brand-potential-with-advanced-insights-on-instagram-data/"><u>2024 Approved Unleashing Your Brand Potential with Advanced Insights on Instagram Data</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-the-world-in-full-circle-experts-360-cams-review-2023-for-2024/"><u>Capturing the World in Full Circle - Expert's 360 Cams Review, 2023 for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-audio-experience-with-newly-released-sound-blaster-audigy-fx-drivers-download/"><u>Elevate Your Audio Experience with Newly Released Sound Blaster Audigy Fx Drivers Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-window-compatible-drivers-for-brother-hl-l2380dw-printer/"><u>Get the Latest Window Compatible Drivers for Brother HL-L2380DW Printer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-updated-nvidia-quadro-rtx-8000-graphics-card-drivers-for-windows-xp-vista-10-and-8/"><u>Get Updated Nvidia Quadro RTX #8000 Graphics Card Drivers for Windows XP, Vista, 10, and 8</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-tactical-timing-for-topic-tracking-via-instagram-story-polls/"><u>In 2024, Tactical Timing for Topic Tracking via Instagram Story Polls</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-your-brother-hl-228er-driver-on-windows-1110-easy-download-guide/"><u>Install Your Brother HL-228er Driver on Windows 11/10: Easy Download Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-hp-pagewide-477dw-printer-driver-software-for-modern-operating-systems/"><u>Latest HP PageWide 477DW Printer Driver Software for Modern Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-access-to-elgato-driver-downloads/"><u>Quick and Easy Access to Elgato Driver Downloads</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-lag-problems-steps-to-enhance-your-street-fighter-eb-experience/"><u>Troubleshooting Lag Problems - Steps to Enhance Your Street Fighter Eb Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-imessage-conversion-to-sms-is-this-a-sign-of-being-blocked/"><u>Understanding iMessage Conversion to SMS: Is This a Sign of Being Blocked?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-impact-of-artificial-intelligence-chatbot-moderation-on-users/"><u>Understanding the Impact of Artificial Intelligence Chatbot Moderation on Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-or-freshly-install-epson-tm-c88v-drivers-for-optimal-performance-windows-edition/"><u>Upgrade or Freshly Install EPSON TM-C88V Drivers for Optimal Performance - Windows Edition</u></a></li>
+</ul></div>
 

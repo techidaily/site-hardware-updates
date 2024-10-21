@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Deal: Score a 20%% Discount on an 85"
-date: 2024-10-09T16:03:45.626Z
-updated: 2024-10-15T16:30:06.442Z
+date: 2024-10-15T01:29:02.253Z
+updated: 2024-10-20T23:15:43.244Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
@@ -91,10 +91,10 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,18 +133,17 @@ Should you buy one if you're looking for a portable projector that doesn't have 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-complete-evaluation-the-dji-inspire-1-unveiled/"><u>[New] Complete Evaluation The DJI Inspire 1 Unveiled</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-banishing-unwanted-green-in-mac-recorded-youtube-content/"><u>[Updated] 2024 Approved Banishing Unwanted Green in Mac-Recorded YouTube Content</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-pioneering-televised-facebook-interactions-via-live-streams/"><u>[Updated] Pioneering Televised Facebook Interactions via Live Streams</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-social-media-visuals-aspect-ratio-decisions/"><u>[Updated] Social Media Visuals Aspect Ratio Decisions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-your-samsung-c460-drivers-instantly-and-effortlessly/"><u>Download Your Samsung C460 Drivers Instantly & Effortlessly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-guide-installing-latest-nvidia-display-drivers-for-windows-operating-systems/"><u>Free Guide: Installing Latest NVIDIA Display Drivers for Windows Operating Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-drivers-for-your-logitech-g933-gaming-headset-now/"><u>Get the Latest Drivers for Your Logitech G933 Gaming Headset Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-safely-get-and-install-lenovos-latest-bluetooth-drivers-for-pc-windows-710-edition/"><u>How to Safely Get & Install Lenovo's Latest Bluetooth Drivers for PC - Windows 7/10 Edition</u></a></li>
-<li><a href="https://fox-http.techidaily.com/implementing-look-up-tables-luts-to-elevate-design-work/"><u>Implementing Look-Up Tables (LUTs) to Elevate Design Work</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/keeping-your-lenovo-ideapad-100-running-smoothly-in-windows-11-driver-download-and-update-guide/"><u>Keeping Your Lenovo IdeaPad 100 Running Smoothly in Windows 11 - Driver Download & Update Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-persistent-green-display-issues-in-windows-10-computers/"><u>Overcoming Persistent Green Display Issues in Windows 10 Computers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computer-part-reviews-and-advice/"><u>Tom's Computer Part Reviews and Advice</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transformative-visual-experiences-with-tiktok-enhancements-for-2024/"><u>Transformative Visual Experiences with TikTok Enhancements for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-nubia-red-magic-8s-pro-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Nubia Red Magic 8S Pro Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-vivo-y27-4g-lock-screen-password-by-drfone-android/"><u>How to Reset your Vivo Y27 4G Lock Screen Password</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigate-the-tech-scene-with-guidance-from-toms-hardware/"><u>Navigate the Tech Scene with Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigate-the-world-of-electronics-the-ultimate-toms-hardware-resource/"><u>Navigate the World of Electronics: The Ultimate Tom's Hardware Resource</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-tech-trends-fresh-perspectives-from-toms-hardware-hub/"><u>Navigating Tech Trends: Fresh Perspectives From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-latest-gear-with-toms-hardware-guide/"><u>Navigating the Latest Gear with Tom's Hardware Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-computing-toms-hardware-expertise/"><u>Navigating the World of Computing: Tom's Hardware Expertise</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/cting-audio-rates-in-youtube-playback/"><u>Perfecting Audio Rates in YouTube Playback</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/subtitled-success-the-top-8-software-that-swiftly-converts-sub-to-srt-on-pcmacosx-for-2024/"><u>Subtitled Success! The Top 8 Software That Swiftly Converts SUB to SRT on PC/MacOSX for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/understanding-livestream-technology-explained/"><u>Understanding Livestream Technology Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unmatched-visual-transformation-toolkit-for-2024/"><u>Unmatched Visual Transformation Toolkit for 2024</u></a></li>
 </ul></div>
 

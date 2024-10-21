@@ -1,7 +1,7 @@
 ---
 title: Samsung's QN90B QLED - Ultimate Performance in Bright Rooms, Expert Reviews & Comparison
-date: 2024-10-11T16:02:49.128Z
-updated: 2024-10-15T16:39:37.300Z
+date: 2024-10-13T17:25:50.165Z
+updated: 2024-10-21T04:38:09.512Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,20 +99,22 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/download-now-enhance-your-pc-gaming-steelseries-engine-compatible-with-windows-10/"><u>[Download Now] Enhance Your PC Gaming: SteelSeries Engine Compatible with Windows 10</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-chapter-integration-guide-for-youtube-video-creators/"><u>[Updated] Chapter Integration Guide for YouTube Video Creators</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-for-mac-users-install-and-enjoy-for-2024/"><u>[Updated] Snapchat for MAC Users - Install and Enjoy for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-lenovo-bluetooth-driver-for-windows-710-a-complete-guide/"><u>Download and Install Lenovo Bluetooth Driver for Windows 7/10: A Complete Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/enrich-your-video-narratives-with-background-melodies-on-fb/"><u>Enrich Your Video Narratives with Background Melodies on FB</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-advice-how-to-securely-get-and-update-lenovo-thinkpad-drivers/"><u>Expert Advice: How to Securely Get & Update Lenovo ThinkPad Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-installation-files-find-and-secure-your-samsung-printer-driver-on-windows/"><u>Free Installation Files: Find & Secure Your Samsung Printer Driver on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-tp-link-wifi-card-driver-updates-compatible-with-windows-operating-systems-10-8-and-7/"><u>Get the Latest TP-Link WiFi Card Driver Updates Compatible with Windows Operating Systems 10, 8 & 7</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-infinix-smart-7-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Infinix Smart 7 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-14-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 14 Pro to Android | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-unified-iptv-streaming-services/"><u>In 2024, Unified IPTV Streaming Services</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/mario-vs-donkey-kong-the-ultimate-switch-fighting-series-for-2024/"><u>Mario Vs. Donkey Kong The Ultimate Switch Fighting Series for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-ways-to-overcome-elgato-hd60-driver-complications/"><u>Quick & Easy Ways to Overcome Elgato HD60 Driver Complications</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-your-laptops-touchpad-in-windows-1087-a-step-by-step-troubleshooting-guide-to-success/"><u>Reviving Your Laptop's Touchpad in Windows 10/8/7: A Step-by-Step Troubleshooting Guide to Success</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/steps-to-successfully-install-and-update-your-xp-pen-graphics-driver/"><u>Steps to Successfully Install and Update Your XP-Pen Graphics Driver</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-x-recorder-pc-version-capture-and-save-audio-for-2024/"><u>[New] X-Recorder Pc Version Capture & Save Audio for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-market-mastery-in-3-easy-steps-with-key-vocabulary-for-2024/"><u>[Updated] Market Mastery in 3 Easy Steps with Key Vocabulary for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-honor-90-pro-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Honor 90 Pro FRP</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beginners-roadmap-to-creating-your-perfect-home-sound-experience/"><u>Beginner's Roadmap to Creating Your Perfect Home Sound Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-imageclass-mf4800-printer-support-download-essential-drivers-now/"><u>Canon ImageCLASS MF4800 Printer Support: Download Essential Drivers Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehvew-keeping-your-audio-technica-equipment-up-to-date-with-new-drivers/"><u>Comprehvew: Keeping Your Audio-Technica Equipment Up-to-Date with New Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/downloading-and-installing-canon-mg2520-windows-drivers-a-comprehensive-walkthrough/"><u>Downloading & Installing Canon MG2520 Windows Drivers: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-ways-to-refresh-the-driver-software-of-your-dell-camera-unit/"><u>Effortless Ways to Refresh the Driver Software of Your Dell Camera Unit</u></a></li>
+<li><a href="https://extra-information.techidaily.com/engineering-marvel-building-a-fully-functional-1986-macintosh-plus-lookalike-by-a-skilled-professional/"><u>Engineering Marvel: Building a Fully Functional 1986 Macintosh Plus Lookalike by a Skilled Professional</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/epson-wf-2630-printer-drivers-compatible-with-latest-windows-versions-7-81-and-10-downloads/"><u>Epson WF-2630 Printer Drivers: Compatible with Latest Windows Versions - 7, 8.1 & 10 Downloads</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-manage-app-packages-using-wingetui-on-windows-11/"><u>How to Manage App Packages Using WingetUI on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-laserjet-5200-driver-download-for-optimal-printing-on-windows-108sx-systems/"><u>HP LaserJet 5200 Driver Download for Optimal Printing on Windows 10/8/SX Systems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-intel-iris-xe-drivers-download-for-windows-1011/"><u>Latest Intel Iris Xe Drivers: Download for Windows 10/11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simplified-download-and-update-for-dells-high-quality-audio-drivers/"><u>Simplified Download & Update for Dell's High-Quality Audio Drivers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-blend-of-style-meets-practicality-in-our-latest-acer-chromebook-r-11-review/"><u>The Blend of Style Meets Practicality in Our Latest Acer Chromebook R 11 Review</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlocking-your-potential-multiplatform-studio-use-for-profit-for-2024/"><u>Unlocking Your Potential Multiplatform Studio Use for Profit for 2024</u></a></li>
 </ul></div>
 

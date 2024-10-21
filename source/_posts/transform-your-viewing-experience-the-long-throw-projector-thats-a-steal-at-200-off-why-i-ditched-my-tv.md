@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Viewing Experience: The Long-Throw Projector That's a Steal at $200 Off – Why I Ditched My TV"
-date: 2024-10-08T16:07:39.801Z
-updated: 2024-10-15T16:17:30.507Z
+date: 2024-10-17T06:17:27.556Z
+updated: 2024-10-20T22:46:56.850Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,22 +92,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-a-step-by-step-guide-for-meet-custom-filters-and-effects/"><u>[New] 2024 Approved A Step-by-Step Guide for Meet Custom Filters & Effects</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-photos-to-feeds-selecting-the-best-9-gear-upgrades/"><u>[Updated] In 2024, From Photos to Feeds Selecting the Best 9 Gear Upgrades</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-quick-and-easy-gif-to-video-transition-tools-listed-for-2024/"><u>[Updated] Quick & Easy GIF-to-Video Transition Tools Listed for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-immersive-experiences-with-audio-in-canva/"><u>2024 Approved Crafting Immersive Experiences with Audio in Canva</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-vg248qe-display-effortless-downloading-and-updating-of-drivers-on-windows-computers/"><u>Asus VG248QE Display: Effortless Downloading & Updating of Drivers on Windows Computers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-the-blade-blh4100-the-ultimate-ready-to-fly-rc-helicopter-for-outdoor-adventures/"><u>Comprehensive Review of the Blade BLH4100 - The Ultimate Ready-to-Fly RC Helicopter for Outdoor Adventures</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/diy-fixes-from-lost-to-found-videos/"><u>DIY Fixes: From Lost to Found Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-securely-obtain-the-latest-easycap-drives-comprehensive-guide-and-downloads/"><u>How to Securely Obtain the Latest EasyCap Drives: Comprehensive Guide & Downloads</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-razer-blade-17-drivers-windows-111087/"><u>How to Update Razer Blade 17 Drivers | Windows 11/10/8/7</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-witness-the-power-of-4k-the-most-impressive-video-demos/"><u>In 2024, Witness the Power of 4K The Most Impressive Video Demos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-logitech-c525-high-definition-camera-drivers-in-windows-step-by-step/"><u>Installing Logitech C525 High Definition Camera Drivers in Windows (Step-by-Step)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/keep-your-device-updated-samsung-m2020-driver-download-now/"><u>Keep Your Device Updated: Samsung M2020 Driver Download Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/osha-requires-guardrails-and-fall-arrest-systems-when-workers-are-more-than-10-feet-above-lower-levels/"><u>OSHA Requires Guardrails and Fall Arrest Systems when Workers Are More than 10 Feet Above Lower Levels.</u></a></li>
-<li><a href="https://fox-where.techidaily.com/ruckkehr-zu-einem-vorherigen-wiederherstellungsschritt-auf-windows-10-eine-schnelle-anleitung/"><u>Rückkehr Zu Einem Vorherigen Wiederherstellungsschritt Auf Windows 10: Eine Schnelle Anleitung</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/speedy-deployment-of-samsung-m2070fw-drivers-click-for-download/"><u>Speedy Deployment of Samsung M2070FW Drivers - Click for Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-latest-wifi-drivers-for-windows-1110-users/"><u>Step-by-Step Guide: Installing Latest WiFi Drivers for Windows 11/10 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-updating-your-pcs-web-cam-driver-on-a-windows-10-system/"><u>Troubleshooting & Updating Your PC's Web Cam Driver on a Windows 10 System</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-dive-into-the-world-of-interactive-video-features-on-youtube/"><u>[New] 2024 Approved Dive Into the World of Interactive Video Features on YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-how-to-pick-a-youtube-channel-name/"><u>[New] 2024 Approved How To Pick a YouTube Channel Name</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-setting-the-stage-imovies-role-in-video-intro-magic/"><u>[New] 2024 Approved Setting the Stage IMovie's Role in Video Intro Magic</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-vector-insight-for-beginners-basic-forms-and-choice-tools/"><u>[Updated] 2024 Approved Vector Insight for Beginners Basic Forms and Choice Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-jumpstart-your-fitness-journey-essential-exercise-tunes/"><u>[Updated] Jumpstart Your Fitness Journey Essential Exercise Tunes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-top-notch-resources-for-downloading-desired-youtube-tones-for-2024/"><u>[Updated] Top-Notch Resources for Downloading Desired Youtube Tones for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-troubleshooting-steps-for-nero-advrcntr2dll-error-correction/"><u>Comprehensive Troubleshooting Steps for Nero Advrcntr2.dll Error Correction</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862712505-limited-offer-cut-costs-by-300-on-the-2024-asus-rog-zephyrus-g14-experience-vivid-oled-and-powerful-rtx-4060-graphics/"><u>Limited Offer: Cut Costs by $300 on the 2024 Asus ROG Zephyrus G14 - Experience Vivid OLED & Powerful RTX 4060 Graphics</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862733529-save-big-now-grab-the-m3-macbook-air-16gb-13-inch-for-a-steal-at-only-1149/"><u>Save Big Now: Grab the M3 MacBook Air - 16GB / 13-Inch for a Steal at Only $1,149!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862713894-tech-savvy-shoppers-rejoice-grab-the-upgraded-apple-macbook-pro-w-m3-chip-for-less-before-amazon-prime-day/"><u>Tech Savvy Shoppers Rejoice: Grab the Upgraded Apple MacBook Pro W/ M3 Chip for Less Before Amazon Prime Day</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-oppo-find-x6-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Oppo Find X6 Phone Hassle-Free</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-ultimate-trick-to-refresh-webcam-drivers-on-windows-10-systems/"><u>The Ultimate Trick to Refresh WebCam Drivers on Windows 10 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862672028-toms-tech-insights-the-ultimate-guide/"><u>Tom's Tech Insights: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-top-tech-picks-a-deep-dive-into-hardware-at-toms-equipment-evaluator/"><u>Unveiling Top Tech Picks: A Deep Dive Into Hardware at Tom's Equipment Evaluator</u></a></li>
 </ul></div>
 

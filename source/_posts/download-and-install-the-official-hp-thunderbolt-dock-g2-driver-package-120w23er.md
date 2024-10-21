@@ -1,7 +1,7 @@
 ---
 title: Download & Install the Official HP Thunderbolt Dock G2 Driver Package (120W/23er)
-date: 2024-09-05T20:02:13.781Z
-updated: 2024-09-06T20:02:13.781Z
+date: 2024-10-18T05:23:05.339Z
+updated: 2024-10-20T17:37:46.810Z
 tags:
   - win11
   - win10
@@ -13,54 +13,38 @@ excerpt: This Article Describes Download & Install the Official HP Thunderbolt D
 thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b87668f0c388f2d39f0ecdca.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Download Thunderbolt Driver Software for Windows PCs Now
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29ca92d165c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Thunderbolt port
 
 **Thunderbolt**is a fast and versatile hardware connection standard. If you want to keep the Thunderbolt connection on your computer in good condition, or if you want to fix its issues, you should keep the drivers related to your Thunderbolt connection up to date.
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## To update your Thunderbolt drivers
 
 1. [**Download the Thunderbolt drivers from your device manufacturer website**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Update your Thunderbolt drivers automatically**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 1: Download the Thunderbolt drivers from your device manufacturer website
 
 You can download your Thunderbolt drivers from your device manufacturer website or Intel, and then install it on your own. To do so:**1)**Go to the official website of your computer, your motherboard or Intel, then search “_thunderbolt driver_“.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29c6b4ddf40.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Go to the product driver download page, then download the correct and latest Thunderbolt drivers to your computer.
 
@@ -69,27 +53,29 @@ You can download your Thunderbolt drivers from your device manufacturer website 
 **3)**Open the downloaded file and follow the on-screen instructions to install it on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Update your Thunderbolt drivers automatically
 
 If you don’t have the time, patience or skills to update the Thunderbolt drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . **Driver Easy**  will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.  You can download and install your drivers by using either Free or **Pro**  version of Driver Easy. But with the Pro version it takes only **2**  clicks (and you get **full support** and a **30-day money back guarantee** ): **1)** [**Download**](https://tools.techidaily.com/drivereasy/download/) and install **Driver Easy** . **2)** Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a66b4a3dfe.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click the **Update**  button next to your _Thunderbolt device_ to download the latest and correct driver for it, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29c95e8c019.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’ve updated your driver with Driver Easy but your driver issues persist, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  for advice. You should attach the URL of this article so they can help you better.
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -100,8 +86,6 @@ If you don’t have the time, patience or skills to update the Thunderbolt drive
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +93,23 @@ If you don’t have the time, patience or skills to update the Thunderbolt drive
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-synchronize-speech-and-slide-show-the-voiceover-advantage/"><u>2024 Approved Synchronize Speech and Slide Show The Voiceover Advantage</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-atk011-0-motherboard-complimentary-acpi-and-bios-drivers-for-improved-stability/"><u>ASUS ATK011 0 Motherboard: Complimentary ACPI & BIOS Drivers for Improved Stability</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-xbox-wireless-controller-driets-with-one-click-simplicity/"><u>Download Xbox Wireless Controller Driets with One-Click Simplicity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-latest-hp-officejet-3830-printer-driver-for-microsoft-windows-systems/"><u>Easy Installation: Latest HP OfficeJet 3830 Printer Driver for Microsoft Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-instructions-to-downloading-the-latest-ftdi-drivers-for-your-windows-pc/"><u>Easy Instructions to Downloading the Latest FTDI Drivers for Your Windows PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fast-track-download-of-samsung-m2070fw-device-drivers-simple-and-speedy/"><u>Fast Track Download of Samsung M2070FW Device Drivers - Simple and Speedy</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/free-conversion-guide-changing-file-format-from-wlmp-to-avi/"><u>Free Conversion Guide: Changing File Format From WLMP to AVI</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-nubia-red-magic-8s-proplus-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-pc-ready-free-qualcomm-driver-download-for-all-windows-versions-111087/"><u>Get Your PC Ready: Free Qualcomm Driver Download for All Windows Versions (11/10/8/7)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-to-captivate-with-instagrams-live-feature/"><u>How to Captivate with Instagram's Live Feature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-realme-gt-5-240w-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Realme GT 5 (240W)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-speaker-distortion-in-windows-117-easy-steps-inside/"><u>How to Solve Speaker Distortion in Windows 11/7 – Easy Steps Inside</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-oppo-a78-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Oppo A78 by Name | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-windows-compatible-bluetooth-adapter-driver-downloads-available-now/"><u>Latest Windows-Compatible Bluetooth Adapter Driver Downloads Available Now</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Honor X7b? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-overview-vsco-creative-suite-for-2024/"><u>Ultimate Overview VSCO Creative Suite for 2024</u></a></li>
+</ul></div>
 

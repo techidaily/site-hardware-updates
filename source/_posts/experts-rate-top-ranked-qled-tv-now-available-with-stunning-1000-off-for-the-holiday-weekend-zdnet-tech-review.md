@@ -1,7 +1,7 @@
 ---
 title: Experts Rate Top-Ranked QLED TV Now Available with Stunning $1,000 Off for the Holiday Weekend | ZDNET Tech Review
-date: 2024-10-14T17:03:01.508Z
-updated: 2024-10-15T16:34:11.123Z
+date: 2024-10-15T00:57:50.192Z
+updated: 2024-10-21T00:31:06.902Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
@@ -91,16 +91,10 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -139,15 +133,20 @@ Should you buy one if you're looking for a portable projector that doesn't have 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-fresh-film-enthusiasts-primer-on-visual-quality/"><u>[New] In 2024, The Fresh Film Enthusiast’s Primer on Visual Quality</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-lenovo-bluetooth-software-safe-download-and-update-for-win7win10/"><u>Complete Guide to Lenovo Bluetooth Software: Safe Download & Update for Win7/Win10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-zexmte-bluetooth-adapter-driver-windows-1078/"><u>Download Zexmte Bluetooth Adapter Driver (Windows 10/7/8)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-necessary-hardware-configurations-for-playing-fallout/"><u>Exploring the Necessary Hardware Configurations for Playing Fallout</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722977411399-get-your-logitech-t630-up-and-running-on-win7810-download-the-right-driver/"><u>Get Your Logitech T630 Up and Running on Win7/8/10 - Download the Right Driver</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-and-upgrade-your-canoscan-lide-220-driver-step-by-step-tutorial/"><u>How to Install & Upgrade Your CanoScan LiDE 220 Driver - Step-by-Step Tutorial</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-y100i-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo Y100i? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolving-driver-problems-for-startech-hardware-in-windows-operating-systems-7810/"><u>Resolving Driver Problems for StarTech Hardware in Windows Operating Systems (7/8/10)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-rated-mp4-video-encoders-of-202n-a-comprehensive-guide-on-optimal-conversion-methods/"><u>Top Rated MP4 Video Encoders of 202N: A Comprehensive Guide on Optimal Conversion Methods</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-how-to-backup-and-exchange-your-chatgpt-messages-using-apps/"><u>Ultimate Guide: How to Backup & Exchange Your ChatGPT Messages Using Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-entrepreneurship-building-a-recognizable-brand/"><u>[New] YouTube Entrepreneurship Building a Recognizable Brand</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-art-of-live-action-sims-4-playback/"><u>2024 Approved The Art of Live-Action Sims 4 Playback</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-step-by-step-guide-to-installing-steelseries-drivers-on-windows-systems/"><u>Easy Step-by-Step Guide to Installing SteelSeries Drivers on Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fix-how-to-get-windows-11-to-detect-your-usb-drive/"><u>Fix: How To Get Windows 11 To Detect Your USB Drive</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-honor-x50iplus-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Honor X50i+ for Free? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-developing-multiple-variants-of-the-upcoming-panther-lake-processors-for-next-gen-laptops-post-lunar-lake-series/"><u>Intel Developing Multiple Variants of the Upcoming Panther Lake Processors for Next-Gen Laptops Post Lunar Lake Series</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210015030-no-more-windows-update-issues-solve-error-8007000e-in-minutes/"><u>No More Windows Update Issues - Solve Error 80#07000E in Minutes!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/securely-acquire-the-most-recent-broadcom-bluetooth-software-support-for-windows-systems-versions-10-8-and-7/"><u>Securely Acquire the Most Recent Broadcom Bluetooth Software Support for Windows Systems (Versions 10, 8 & 7)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/starting-out-on-youtube-top-gear-essentials/"><u>Starting Out on YouTube - Top Gear Essentials</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-for-amd-radeon-rx-query/"><u>Step-by-Step Tutorial for AMD Radeon RX # Query</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-y100-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Vivo Y100 Device</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-oneplus-nord-ce-3-lite-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to OnePlus Nord CE 3 Lite 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-targus-usb-monitor-adapter-on-windows-compatible-with-win11-8-and-7/"><u>Update Your Targus USB Monitor Adapter on Windows: Compatible with Win11, 8, and 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-11-ready-free-rtx-2060-super-graphics-card-driver-software/"><u>Windows 11 Ready – Free RTX 2060 Super Graphics Card Driver Software</u></a></li>
 </ul></div>
 
