@@ -1,7 +1,7 @@
 ---
 title: "LG Gram Pro Vs. MacBook Air Showdown: Top Three Surprises From a Tech Reviews Comparison"
-date: 2024-10-15T23:32:25.356Z
-updated: 2024-10-21T03:17:43.059Z
+date: 2024-10-21T22:58:29.031Z
+updated: 2024-10-26T23:38:32.109Z
 tags:
   - laptops
 categories:
@@ -43,10 +43,16 @@ There I was, with two relatively large-sized, ultraportable laptops and a digita
 The LG Gram Pro 16 2-in-1 had already set the mark at 3.04 pounds. Then came the 15-inch MacBook Air, clocking in at 3.51 pounds. A slight sigh of relief could be felt behind me. How exactly does LG achieve this weight? They're chalking it up to the nano-magnesium alloy construction, which feels more plasticky than the MacBook's all-aluminum build, but which is noticeably lighter in the hand, especially when I moved the laptops around for pictures.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. It's all about the use of space
@@ -60,10 +66,10 @@ The curvatures of the LG Gram Pro edges also mean that the company can fit more 
 As someone who still relies on legacy devices, such as hard drives, that have USB-A ports, the presence of the standard and added flexibility of the Gram makes it a better productivity laptop for me. It also helps to have the HDMI slot for when you're traveling and want to connect to a hotel TV or monitor.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. OLED makes all the difference
@@ -77,10 +83,10 @@ Don't get me wrong, the Liquid Retina (IPS) display on the 15-inch MacBook Air i
 LG offers the new Gram Pro laptops in IPS and OLED variants, but the latter versions that I tested at the venue were noticeably sharper and more color-accurate. It helped that LG had set black wallpapers on the demo units, which made the individual icons and self-emissive pixels pop a little more.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -119,16 +125,22 @@ LG prices its [OLED Gram Pro laptops](https://shop-links.co/link/?exclusive=1&pu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-the-ultimate-global-earning-creator/"><u>[New] 2024 Approved The Ultimate Global Earning Creator</u></a></li>
-<li><a href="https://win-tips.techidaily.com/beginners-roadmap-setting-up-a-vmware-esxi-and-vcenter-connection/"><u>Beginner's Roadmap: Setting Up a VMware ESXi and vCenter Connection</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/chinas-telecom-giants-overhaul-infrastructure-switching-to-native-processor-platforms-for-servers/"><u>China's Telecom Giants Overhaul Infrastructure: Switching to Native Processor Platforms for Servers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-selection-of-prime-day-savings-leading-laptops-by-hp-apple-and-razer-at-unprecedented-prices-gadgetguru-blog/"><u>Discover the Ultimate Selection of Prime Day Savings: Leading Laptops by HP, Apple, and Razer at Unprecedented Prices | GadgetGuru Blog</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722966752971-effortless-setup-for-your-samsung-m2nano-driver-get-them-now/"><u>Effortless Setup for Your Samsung M2nano Driver | Get Them Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hassle-free-download-and-update-guide-for-dell-monitor-drivers/"><u>Hassle-Free Download & Update Guide for Dell Monitor Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-your-epson-xp-330-with-official-updated-drivers-today/"><u>Install Your Epson XP-330 with Official, Updated Drivers Today</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/secrets-of-youtube-link-driven-growth-for-content-creators-for-2024/"><u>Secrets of YouTube Link-Driven Growth for Content Creators for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/two-p-core-powerhouse-emerges-with-intels-dual-core-cpu-310-see-why-its-not-dead-yet/"><u>Two P-Core Powerhouse Emerges with Intel's Dual-Core CPU 310 - See Why It's Not Dead Yet</u></a></li>
-<li><a href="https://article-tips.techidaily.com/unlocking-potential-effective-use-of-zoom-on-win11-pcs-for-2024/"><u>Unlocking Potential Effective Use of Zoom on Win11 PCs for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/your-fast-and-easy-guide-to-downloading-free-qualcomm-atheros-ar938x-drivers/"><u>Your Fast and Easy Guide to Downloading Free Qualcomm Atheros AR938X Drivers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-10-unique-video-reaction-strategies-for-online-enthusiasts/"><u>[New] 2024 Approved 10 Unique Video Reaction Strategies for Online Enthusiasts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-from-still-to-story-the-art-of-adding-text-to-photos-os-style-for-2024/"><u>[New] From Still to Story The Art of Adding Text to Photos, OS Style for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-tagging-elevate-your-youtube-content/"><u>[Updated] Mastering Tagging Elevate Your YouTube Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726225550323-3gpp-gif-movavi/"><u>3GPP GIF 이미지를 원격으로 무료로 바꾸기 - Movavi 도구</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-instructions-for-downloading-and-installing-samsung-960-evo-m2-ssd-drivers-on-windows/"><u>Complete Instructions for Downloading & Installing Samsung 960 EVO M.2 SSD Drivers on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/corsair-k70-full-software-bundle-easy-installation-and-downloads/"><u>Corsair K70 Full Software Bundle – Easy Installation and Downloads</u></a></li>
+<li><a href="https://win-dash.techidaily.com/dell-printer-drivers-download-and-update-easily/"><u>Dell Printer Drivers Download & Update Easily</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-sign-in-excel-2021-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert sign in Excel 2021 files</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-razer-blade-17-drivers-windows-111087/"><u>How to Update Razer Blade 17 Drivers | Windows 11/10/8/7</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-clip-ppt-deck-to-digital-movie/"><u>In 2024, Clip PPT Deck to Digital Movie</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-updated-nvidia-quadro-display-adapters-drivers-on-windows-11-with-dch-technology/"><u>Install Updated Nvidia Quadro Display Adapters' Drivers on Windows 11 with DCH Technology</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-logitech-c525-high-definition-camera-drivers-in-windows-step-by-step/"><u>Installing Logitech C525 High Definition Camera Drivers in Windows (Step-by-Step)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/magicard-rio-pro-driver-fresh-release-optimized-for-windows-os-versions/"><u>Magicard Rio Pro Driver - Fresh Release: Optimized for Windows OS Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-deployment-of-samsung-m2070fw-drivers-click-for-download/"><u>Speedy Deployment of Samsung M2070FW Drivers - Click for Download</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/streamers-picks-top-5-noise-canceling-headsets/"><u>Streamer's Picks Top 5 Noise-Canceling Headsets</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-drivers-available-now-enhance-performance-of-your-gtx-1ebx-1660super-with-fresh-software/"><u>Updated Drivers Available Now - Enhance Performance of Your GTX 1Ebx-1660SUPER with Fresh Software</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win10-printer-setup-guide-hp-connection-fixes/"><u>Win10 Printer Setup Guide - HP Connection Fixes</u></a></li>
 </ul></div>
 

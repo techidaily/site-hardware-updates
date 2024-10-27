@@ -1,7 +1,7 @@
 ---
 title: Samsung Galaxy Book 3 Range Outperforms Older Model with Doubled Sales Figures - The Key Reasons Explained
-date: 2024-10-15T22:12:32.936Z
-updated: 2024-10-20T18:16:10.605Z
+date: 2024-10-21T02:20:54.081Z
+updated: 2024-10-26T18:38:41.251Z
 tags:
   - laptops
 categories:
@@ -73,10 +73,10 @@ To maintain performance and reduce heat, Asus has equipped the Vivobook S14 with
 Another thing to note is that the machine's battery life is just passable. I tested the laptop by running a non-stop YouTube video at 720p and 50% brightness until it died. The Vivobook S14 lasted about six hours before it went completely dark. So don't expect the laptop to last you through a full day of tasks without needing to charge it in between. I should mention that this test took place without Battery Saver. Having that feature turned on will extend the battery life, even if it's only by a little.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -115,18 +115,22 @@ You can purchase the Vivobook S14 off [Best Buy for $1,200](https://shop-links.c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-crafting-youtube-masterpieces-with-powerful-hashtag-strategies/"><u>[New] 2024 Approved Crafting YouTube Masterpieces with Powerful Hashtag Strategies</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevating-your-youtube-content-selecting-professional-gear/"><u>[New] In 2024, Elevating Your YouTube Content Selecting Professional Gear</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-maximize-learning-free-tools-for-online-video-texts/"><u>[New] In 2024, Maximize Learning Free Tools for Online Video Texts</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-spin-original-web-jokes-for-sharing/"><u>[New] Spin Original Web Jokes for Sharing</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-social-media-ingenuity-how-to-develop-captivating-facebook-slideshows/"><u>[Updated] 2024 Approved Social Media Ingenuity How to Develop Captivating Facebook SlideShows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amds-zen-5-innovation-tested-in-fire-how-does-the-prototype-ryzen-9-9950x-hold-up-under-maximum-load/"><u>AMD's Zen 5 Innovation Tested in Fire: How Does the Prototype Ryzen 9 9950X Hold Up Under Maximum Load?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-clarity-back-in-photos-how-to-repair-iphone-camera-focusing-problems/"><u>Get Clarity Back in Photos: How To Repair iPhone Camera Focusing Problems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-acer-monitor-software/"><u>Get the Latest Acer Monitor Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-soundmax-driver-software-for-a-seamless-windows-experience/"><u>Get the Latest SoundMAX Driver Software for a Seamless Windows Experience</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-epson-wf-7620-printer-drivers-on-windows/"><u>Step-by-Step Guide: Updating Your Epson WF-#7620 Printer Drivers on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-toms-computer-hardware-reviews/"><u>The Ultimate Guide to Tom's Computer Hardware Reviews</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleash-your-creativity-develop-compelling-story-archetypes-via-11-must-try-chatgpt-suggestions/"><u>Unleash Your Creativity: Develop Compelling Story Archetypes via 11 Must-Try ChatGPT Suggestions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-comprehensive-guide-to-recording-fb-video-calls-for-2024/"><u>[New] The Comprehensive Guide to Recording FB Video Calls for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-cutting-edge-4k-tools-for-optimal-video-quality/"><u>[Updated] In 2024, Cutting-Edge 4K Tools for Optimal Video Quality</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-peculiar-picasso-creating-quirky-quick-memes/"><u>2024 Approved Peculiar Picasso Creating Quirky, Quick Memes</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/best-no-cost-movies-download-apps-top-free-pick/"><u>Best No-Cost Movies Download Apps: Top Free Pick</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-bargain-finds-on-amazons-oct-2024-prime-day-bonanza-grab-your-discounted-treasures-before-theyre-gone/"><u>Exclusive Bargain Finds on Amazon's Oct 2024 Prime Day Bonanza: Grab Your Discounted Treasures Before They're Gone!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-deal-alert-asus-notebook-slash-to-99-during-last-minute-best-buy-blowout-discover-more/"><u>Exclusive Deal Alert: ASUS Notebook Slash to $99 During Last-Minute Best Buy Blowout | Discover More</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-guide-top-october-black-friday-laptop-offers-dont-miss-out/"><u>Exclusive Guide: Top October Black Friday Laptop Offers - Don't Miss Out!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-the-best-of-cyber-monday-savings-at-costco-ultimate-guide-to-deals-on-tvs-computers-and-tablets-insights-by-zdnet/"><u>Experience the Best of Cyber Monday Savings at Costco: Ultimate Guide to Deals on TVs, Computers & Tablets | Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-the-future-with-lenovos-premium-thinkpad-x13s-unveiling-arm-powered-ultraportable-tech-enhanced-by-5g-and-extended-battery-life-insights/"><u>Experience the Future with Lenovo's Premium ThinkPad X13s - Unveiling Arm Powered Ultraportable Tech Enhanced by 5G and Extended Battery Life Insights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/hartelijk-dank-voor-jouw-inspanningen-en-hulpverlening/"><u>Hartelijk Dank Voor Jouw Inspanningen En Hulpverlening!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/photo-poetry-top-10-writing-tools-for-image-capture-on-iosandroid-for-2024/"><u>Photo Poetry Top 10 Writing Tools for Image Capture on iOS/Android for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/prime-day-2024s-hottest-bargains-at-best-buy-exclusive-offers-remain-open-technews/"><u>Prime Day 2024'S Hottest Bargains at Best Buy - Exclusive Offers Remain Open! | TechNews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quest-odyssey-get-your-hands-on-a-stellar-512gb-at-unbeatable-prices-this-october-prime-day-edition/"><u>Quest Odyssey: Get Your Hands on a Stellar 512GB at Unbeatable Prices This October - Prime Day Edition!</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/quick-guide-to-downloading-youtube-clips-with-user-friendly-apps-and-websites/"><u>Quick Guide to Downloading YouTube Clips with User-Friendly Apps and Websites</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-completely-removing-wsl-in-win-11/"><u>Step-by-Step: Completely Removing WSL in Win 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-mac-computers-expert-picks/"><u>Top Mac Computers : Expert Picks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-x-fold-2-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Vivo X Fold 2 Users</u></a></li>
 </ul></div>
 

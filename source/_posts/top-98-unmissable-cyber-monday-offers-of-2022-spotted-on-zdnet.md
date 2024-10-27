@@ -1,7 +1,7 @@
 ---
 title: Top 98 Unmissable Cyber Monday Offers of 2022 - Spotted on ZDNet!
-date: 2024-10-15T21:53:31.697Z
-updated: 2024-10-20T18:27:43.884Z
+date: 2024-10-23T16:22:38.442Z
+updated: 2024-10-27T01:20:01.279Z
 tags:
   - laptops
 categories:
@@ -49,10 +49,10 @@ Please refer to the table of contents to quickly navigate our categories**.**
 * [Fire HD 10 tablet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08XMBMW3H%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca049366f-1b42-42a0-b7b8-610e8b49e8eb%7Cdtp&dtb=1) for $220 (save $50) at Amazon
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Best Cyber Monday TV deals**
@@ -136,13 +136,6 @@ Image: Best Buy
 * [ASUS TUF Gaming 27" Gaming Monitor](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-TUF-Gaming-27-LED-Gaming-Monitor-1080P-Full-HD-165Hz-Supports-144Hz-IPS-1ms%2F1544229980&subId1=zd-__COM_CLICK_ID__-dtp) for $159 (save $140) at Walmart
 * [HP V223ve FHD Monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-V223ve-21-5-inch-certified-Ergonomic%2Fdp%2FB09GKZ71PJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca049366f-1b42-42a0-b7b8-610e8b49e8eb%7Cdtp&dtb=1) for $105 (save $145) at Amazon
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Best Cyber Monday home deals**
 
 We found the deepest discounts you can get now on top-rated smart thermostats, video doorbells, security cameras, robot vacuums, and smart kitchen tech like Instant Pots. You will want to kit out your home/ office with these hot products all on sale. 
@@ -195,13 +188,6 @@ Sony
 * [Sony WH-CH510 wireless headphones](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSony-WH-CH510-Wireless-Headphones-WHCH510%2Fdp%2FB07WSKKYPR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca049366f-1b42-42a0-b7b8-610e8b49e8eb%7Cdtp&dtb=1) for $38 (save $22) at Amazon
 * [Beats Fit Pro](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fbeats-by-dr-dre-beats-fit-pro-true-wireless-noise-cancelling-in-ear-earbuds-black%2F6397391.p%3F&publisher_slug=itechdaily19598&exclusive=1) for $180 (save $20) at Best Buy
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Best Cyber Monday smartphone deals**
 
 If you held off on upgrading your smartphone until the holiday shopping season, your patience is finally being rewarded. These are the best Black Friday deals that will save you hundreds on prime-time handsets. We've scoured the digital catalogs of the most popular retailers to gather the best mobile deals below. Read on and start saving. 
@@ -214,6 +200,13 @@ Samsung
 
 * [Samsung Galaxy S21 FE (128GB) smartphone](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09BFSTTNK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca049366f-1b42-42a0-b7b8-610e8b49e8eb%7Cdtp&dtb=1) for $400 (save $300) at Amazon
 * [Google Pixel 6a](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-6a-Smartphone-Megapixel%2Fdp%2FB0B3PQPNKS%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca049366f-1b42-42a0-b7b8-610e8b49e8eb%7Cdtp&dtb=1) for $360 (save $89) at Amazon
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Best Cyber Monday smartwatch deals**
 
@@ -230,13 +223,6 @@ Apple
 * [Restored Apple Watch Series 3- 42 mm](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FRestored-Apple-Watch-Series-3-42mm-Space-Gray-Aluminum-Case-Gray-Sport-Band-Refurbished%2F346346528&subId1=zd-__COM_CLICK_ID__-dtp) for $79 (save $40) at Walmart
 * [Citizen CZ Smart Hybrid smartwatch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCitizen-smartwatch-Continuous-Notifications-Connection%2Fdp%2FB09FFQFFRB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca049366f-1b42-42a0-b7b8-610e8b49e8eb%7Cdtp&dtb=1) for $262 (save $88) at Amazon
 * [Samsung Galaxy Watch 5 Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B2HXJZ98%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca049366f-1b42-42a0-b7b8-610e8b49e8eb%7Cdtp&dtb=1) for $399 (save $49) at Amazon
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Best Cyber Monday speaker deals**
 
@@ -282,13 +268,6 @@ June Wan
 * [Blink Outdoor weather-resistant camera kit](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB086DKGCFP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca049366f-1b42-42a0-b7b8-610e8b49e8eb%7Cdtp&dtb=1) for $190 (save $190) at Amazon
 * [Aventure Step-Over Ebike](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Faventon-aventure-step-over-ebike-w-45-mile-max-operating-range-and-28-mph-max-speed-socal-sand%2F6487148.p%3FskuId%3D6487148&publisher_slug=itechdaily19598&exclusive=1) for $1,700 (save $300) at Best Buy
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How did we choose these deals?
 
 ZDNET editors have experience tracking prices and hunting down deals 365 days a year. Take a peek at our Deals hub -- we know how to find bargains. Our process starts by identifying the hottest and most popular products of the year, whether it's the AirPods or the latest iPad, and then we conduct a painstaking process that involves checking major retailers and others you may have never heard about (but are still trusted stores). 
@@ -302,15 +281,22 @@ We've shopped online just as much as you, but we're experts at finding tech deal
 **\*** Except for Apple products and other devices that seldom go on sale.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When was Black Friday 2022?
 
 Black Friday takes place every year on the day after Thanksgiving. This year, Black Friday 2022 fell on Friday, Nov. 25\. But, honestly, Black Friday is no longer just a 24-hour event. It's morphed into weeks of early bird deals, doorbusters, and even sales that start in October. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When was Cyber Monday 2022?
 
@@ -324,6 +310,13 @@ ZDNET scoured Cyber Monday sales to find the best deals this year, and many are 
 
 Our experts split out the best deals by retailer, brand, and category, which you can see below. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Cyber Monday deals still available by retailer**
 
 * [The best Cyber Monday 2022 deals at Amazon](https://www.zdnet.com/article/amazon-cyber-monday-deals-still-available-november-30-2022/)
@@ -334,10 +327,10 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [Top early Cyber Monday 2022 deals at Best Buy](https://www.zdnet.com/article/best-buy-cyber-monday-deals-still-available-november-30-2022/)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Cyber Monday deals still available by brand**
@@ -372,6 +365,13 @@ Our experts split out the best deals by retailer, brand, and category, which you
  Here are some of the cheapest deals we found that are still available:
 
 * [The best Cyber Monday 2022 deals under $30](https://www.zdnet.com/home-and-office/best-cyber-monday-deals-under-30-still-available-november-30-2022/)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Cyber Monday live blog deals still available**
 
@@ -419,22 +419,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-cinematic-clarity-choices-best-4k-monitors-for-filmmakers-for-2024/"><u>[New] Cinematic Clarity Choices Best 4K Monitors for Filmmakers for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-a-comprehensive-manual-on-motion-detection-systems/"><u>[New] In 2024, A Comprehensive Manual on Motion Detection Systems</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-cadence-in-clips-the-guide-to-musical-integration-on-ig/"><u>[Updated] Cadence in Clips The Guide to Musical Integration on IG</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-speedy-video-rendering-for-effective-ppt-deliveries/"><u>[Updated] Speedy Video Rendering for Effective PPT Deliveries</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-streamlined-techniques-for-ios-image-sharing/"><u>[Updated] Streamlined Techniques for iOS Image Sharing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/decoding-technology-trends-essential-guidance-from-toms-hardware/"><u>Decoding Technology Trends: Essential Guidance From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-best-cpus-in-depth-benchmarking-and-rankings-insight/"><u>Discover the Best CPUs : In-Depth Benchmarking & Rankings Insight</u></a></li>
-<li><a href="https://win-net.techidaily.com/download-tmz-celeb-gossip-in-high-quality-formats-mp4-mov-avi-with-easy-tmz-video-extractor/"><u>Download TMZ Celeb Gossip in High-Quality Formats (MP4, MOV, AVI) with Easy TMZ Video Extractor</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-driver-software-setup-for-your-lenovo-legion-ebook-the-professional-guide-model-16ach6h/"><u>Easy Driver Software Setup for Your Lenovo Legion eBook: The Professional Guide [Model 16ACH6H]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-updated-rtx-2080-graphics-card-drivers-for-win11-win7-and-win8/"><u>Get Updated RTX 2080 Graphics Card Drivers for Win11, Win7 & Win8</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-securely-obtain-the-latest-version-of-intels-hd-graphics-driver-55-groovycats-5500/"><u>How to Securely Obtain the Latest Version of Intel's HD Graphics Driver 55 Groovy_cats 5500</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722977066451-hp-envy-5055-driver-downloads-made-easy-and-quick-follow-these-tips/"><u>HP ENVY 5055 Driver Downloads Made Easy & Quick – Follow These Tips!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-y28-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo Y28 5G FRP</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-elevating-audience-excitement-with-top-ideas/"><u>In 2024, Elevating Audience Excitement with Top Ideas</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-intel-wireless-network-drivers-download-for-windows-pcs/"><u>Latest Intel Wireless Network Drivers Download for Windows PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-lenovo-ideapad-lenovo-idea-pad-100-drivers-windows-10-update-tutorial/"><u>Latest Lenovo IdeaPad 지원(lenovo-Idea-Pad-100-Drivers) - Windows 10 Update Tutorial</u></a></li>
-<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-14-pro-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-fbx-free-gametime-tracking/"><u>[Updated] 2024 Approved The Ultimate Guide FBX-Free Gametime Tracking</u></a></li>
+<li><a href="https://article-files.techidaily.com/acid-pro-overview-plus-best-software-match-ups-for-2024/"><u>ACID Pro Overview + Best Software Match-Ups for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-graphics-and-sound-quality-the-key-to-updating-your-dell-gupdate-the-driver-software-of-your-dell-g3-for-enhanced-gaming-performance/"><u>Boost Graphics and Sound Quality: The Key to Updating Your Dell GUpdate the Driver Software of Your Dell G3 for Enhanced Gaming Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-tutorial-keyspan-usa-1er-device-driver-compatibility-with-windows-environments/"><u>Easy Setup Tutorial: Keyspan USA-1er Device Driver Compatibility with Windows Environments</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-hp-color-laserjet-pro-mfp-m477-all-in-one-printer-driver-pack/"><u>Free Download: HP Color Laserjet Pro MFP M477 All-in-One Printer Driver Pack</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-top-game-graphics-by-updating-to-the-newest-geforce-gtx-1660-ti-software/"><u>Get Top Game Graphics by Updating to the Newest GeForce GTX 1660 Ti Software</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-dell-wd19-print-drivers-comprehensive-tutorial-for-seamless-setup/"><u>Installing Dell WD19 Print Drivers - Comprehensive Tutorial for Seamless Setup</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/peering-into-the-heart-of-4k-vision-with-benqs-ultra-hd-model-bl2711u-for-2024/"><u>Peering Into the Heart of 4K Vision with BenQ’s Ultra HD Model, BL2711U for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-case-for-taking-a-social-media-hiatus-as-suggested-by-instagram/"><u>The Case for Taking a Social Media Hiatus as Suggested by Instagram</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-realme-c33-2023-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Realme C33 2023 Phone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/0-ios-and-android-beginner-video-makers/"><u>Top 10 iOS & Android Beginner Video-Makers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tutorial-on-enabling-shared-printer-functionality-across-different-electronics/"><u>Tutorial on Enabling Shared Printer Functionality Across Different Electronics</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-device-list-for-chilling-by-water/"><u>Ultimate Device List for Chilling by Water</u></a></li>
 </ul></div>
 

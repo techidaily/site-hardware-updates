@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Discounted Laptops for Black Friday & Cyber Monday 2023: Exclusive Offers | TechRadar"
-date: 2024-10-20T00:58:07.622Z
-updated: 2024-10-21T02:01:19.513Z
+date: 2024-10-25T01:08:46.827Z
+updated: 2024-10-26T20:34:25.585Z
 tags:
   - laptops
 categories:
@@ -101,13 +101,6 @@ As one of our favorite [gaming laptops](https://www.zdnet.com/article/best-budge
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FOctaCore-GeForce-Display-Backlit-AN16-41-R4CY%2Fdp%2FB0CY3SS4VL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb7360070-ce7e-4010-a54b-6a79917c49ba%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best laptops for students
 
 Dell/ZDNET
@@ -117,6 +110,13 @@ Dell/ZDNET
 * [Acer Chromebook 314](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChromebook-CB314-4HT-32X6-i3-N305-Processor-Display%2Fdp%2FB0CMRRFGVN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb7360070-ce7e-4010-a54b-6a79917c49ba%7Cdtp&dtb=1) for $344 (24% off) - For a Chromebook with a little bit more storage and a full HD display, this 14-inch Acer machine is a solid campus companion.
 * [Lenovo V15 Essential Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Essential-Quad-core-Processor-Ethernet%2Fdp%2FB0D8524KVL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb7360070-ce7e-4010-a54b-6a79917c49ba%7Cdtp&dtb=1) for $399 ($100 off) - Lenovo's V15 laptop is a well-rounded machine with a full 1TB of storage, which is enough for multiple years' worth of documents and files.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best gaming laptops under $1,000
 
 Asus/ZDNET
@@ -124,6 +124,19 @@ Asus/ZDNET
 * [Acer Nitro V Gaming Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fi5-13420H-Processor-GeForce-Display-ANV15-51-51H9%2Fdp%2FB0CMM1QSST%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb7360070-ce7e-4010-a54b-6a79917c49ba%7Cdtp&dtb=1) for $665 ($85 off) - Acer's Nitro V comes with a more accessible hardware loadout that keeps the price much lower than its more expensive big brother. You've still got an Intel Core i5 processor and Nvidia GeForce RTX 2050 and blazing fast 144Hz display for a great cloud gaming setup.
 * [MSI Thin 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMSI-Thin-144Hz-Gaming-Laptop%2Fdp%2FB0BT3CD75G%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb7360070-ce7e-4010-a54b-6a79917c49ba%7Cdtp&dtb=1) (2023) for $930 ($68 off) - As its name implies, the Thin 15 is an ultraportable gaming machine with an Intel Core i7 processor and Nvidia RTX 4050 graphics card along with a 15.6-inch, 144Hz display. Last year's version is a solid gaming option under that $1,000 price point.
 * [Asus TUF Gaming A15 (2024)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-NVIDIA%C2%AE-GeForce-FA506NF-ES51%2Fdp%2FB0CRDF25TQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb7360070-ce7e-4010-a54b-6a79917c49ba%7Cdtp&dtb=1) for $599 ($100 off) - The TUF line of laptops feature solid gaming hardware along with military-grade durability. The A15 is a solid gaming laptop that fits this description to a T, marked way down to a competitive price for 8GB of RAM and 512GB of storage, and an Nvidia GeForce RTX 2050 graphics card.
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best laptops for photo editing
 
@@ -142,6 +155,13 @@ Kyle Kucharski/ZDNET
 * [Acer Swift Go 14](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Facer-Display-Experiences-Processor-SFG14-72T-718K%2Fdp%2FB0CNDTGC77%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb7360070-ce7e-4010-a54b-6a79917c49ba%7Cdtp&dtb=1) for $700 (save $300): This lightweight laptop features an Intel Core Ultra 7 155H CPU, Intel Arc graphics, 16GB of RAM, and a 512GB SSD.
 * [HP 17-inch Touch Laptop](https://qvc.uikc.net/c/159047/565130/9368?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.qvc.com%2Fhp-17-touch-laptop-intel-n200-4gb-ram-128gb-ssd-w-hp-mouse-%2526-ms365.product.E324465.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for $479 (Save $80): For a large-screen laptop with touch capabilities, HP's 17-inch Touch comes in a variety of bold colorways, and is bundled with a mouse in this QVC deal. This is a solid choice for users that want a large screen to play media, but only need a basic hardware configuration.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best Buy laptop deals
 
 * [Asus ROG Strix Scar 17](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-rog-strix-scar-17-3-240hz-gaming-laptop-wqhd-amd-ryzen-9-x3d-with-32gb-memory-nvidia-geforce-rtx-4090-2tb-ssd-off-black%2F6564531.p%3FskuId%3D6564531&publisher_slug=itechdaily19598&exclusive=1) for $3,000 (save $700): This high-end gaming laptop is built with an AMD Ryzen 9 X3D processor, 32GB of RAM, a 2TB SSD, and Nvidia GeForce RTX 4090 graphics card.
@@ -155,43 +175,17 @@ Kyle Kucharski/ZDNET
 * [Acer Chromebook Spin 714](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-chromebook-spin-714-intel-evo-laptop-14-1610-wuxga-1920-x-1200-touch-intel-core-i5-1335u-8gb-ram-256gb-ssd-steel-gray%2F6541841.p%3FskuId%3D6541841&publisher_slug=itechdaily19598&exclusive=1) for $450 (save $250): A budget-friendly 2-in-1 laptop that's perfect for students with a 14-inch touchscreen display, 8GB of RAM, and 256GB SSD.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### When is Amazon's October Prime Day 2024?
 
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals both before and after those days. 
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Are laptops really cheaper on Prime Day?
 
@@ -274,22 +268,17 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-choosing-the-right-display-elevate-your-xbox-series-x-experience/"><u>[New] 2024 Approved Choosing the Right Display - Elevate Your Xbox Series X Experience</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-a-deep-dive-into-zdsoft-recorder-features-for-2024/"><u>[New] A Deep Dive Into ZDSoft Recorder Features for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-capture-and-captivate-creating-incredible-slow-motion-video-masterpieces-on-instagram/"><u>[New] Capture and Captivate Creating Incredible Slow-Motion Video Masterpieces on Instagram</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-instagram-story-mastery-controlling-your-video-speed-for-2024/"><u>[New] Instagram Story Mastery Controlling Your Video Speed for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-turn-on-google-meet-grids-to-see-all-attendees/"><u>[Updated] In 2024, Turn On Google Meet Grids to See All Attendees</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-rx-6800-xt-graphics-card-drivers-for-windows-11-10-8-and-7-free-download/"><u>AMD RX 6800 XT Graphics Card Drivers for Windows 11, 10, 8 & 7 - Free Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-ryzen-secure-and-straightforward-driver-installation-guide/"><u>AMD Ryzen: Secure & Straightforward Driver Installation Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722977362393-download-and-setup-microsofts-comfort-optimized-keyboard-4000-driver-pack-fast-track-guide/"><u>Download & Setup Microsoft's Comfort-Optimized Keyboard 4000 Driver Pack – Fast Track Guide!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-version-of-sm-bus-controller-for-windows-systems-111087/"><u>Download the Latest Version of SM Bus Controller for Windows Systems (11/10/8/7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/elan-smbus-driver-for-pcs-how-to-download-and-update-correctly-for-optimal-performance/"><u>ELAN SMBus Driver for PCs - How to Download and Update Correctly for Optimal Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-laserjet-m506-printer-driver-update-and-download-guide-enhance-printing/"><u>HP LaserJet M506 Printer Driver Update & Download Guide | Enhance Printing</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/propella-7s-40-overview-effortlessly-portable-swiftly-operational-affordably-priced/"><u>Propella 7S 4.0 Overview: Effortlessly Portable, Swiftly Operational, Affordably Priced</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/save-big-with-remobell-a-comprehebevealed-inspection-of-affordable-video-doorbells-under-100/"><u>Save Big with RemoBell: A Comprehebevealed Inspection of Affordable Video Doorbells Under $100</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/mlining-content-delivery-the-definitive-youtube-video-upload-guide-for-2024/"><u>Streamlining Content Delivery The Definitive YouTube Video Upload Guide for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/transition-from-lunar-to-panther-intel-gears-up-three-new-laptop-cpu-configurations-in-its-latest-silicon-evolution/"><u>Transition From Lunar to Panther: Intel Gears up Three New Laptop CPU Configurations in Its Latest Silicon Evolution</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-reno-10-proplus-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo Reno 10 Pro+ 5G FRP Bypass</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/usb-driver-setup-tutorial-connecting-and-configuring-a-wd-ses-device-on-windows-10-or-later-versions/"><u>USB Driver Setup Tutorial: Connecting and Configuring a WD SES Device on Windows 10 or Later Versions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-guide-perfecting-pics-with-facetune/"><u>[New] Ultimate Guide Perfecting Pics with Facetune</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-ultimate-guide-to-instagrams-new-features/"><u>[Updated] 2024 Approved The Ultimate Guide to Instagram's New Features</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-accelerating-expertise-in-social-media-strategies-with-reddit-guidance/"><u>[Updated] Accelerating Expertise in Social Media Strategies with Reddit Guidance</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-tailoring-content-creating-ideal-instagram-video-experiences/"><u>[Updated] In 2024, Tailoring Content Creating Ideal Instagram Video Experiences</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-the-perfect-samsung-printer-driver-for-your-windows-pc/"><u>Find & Install the Perfect Samsung Printer Driver for Your Windows PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-download-the-right-hp-printer-drivers-for-your-device/"><u>Find and Download the Right HP Printer Drivers for Your Device</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-navigating-your-way-to-the-perfect-4k-lens-purchase/"><u>In 2024, Navigating Your Way to the Perfect 4K Lens Purchase</u></a></li>
+<li><a href="https://win11.techidaily.com/master-quick-change-of-windows-dashboard-background/"><u>Master Quick Change of Window's Dashboard Background</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-your-zebra-zp450-a-step-by-step-downloading-and-updating-manual-for-drivers/"><u>Master Your Zebra ZP450: A Step-by-Step Downloading and Updating Manual for Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-persistence-and-even-growth-in-inequality-within-liberal-democracies-challenge-the-notion-that-they-represent-an-end-state-ideal-for-all-societies/"><u>The Persistence and Even Growth in Inequality Within Liberal Democracies Challenge the Notion that They Represent an End-State Ideal for All Societies.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-tips-for-latest-radeon-driver-enhancements-fixed/"><u>Troubleshooting Tips for Latest Radeon Driver Enhancements [FIXED]</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/wallpaper-engine-stability-fixes-for-windows-1110-users/"><u>Wallpaper Engine Stability Fixes for Windows 11/10 Users</u></a></li>
 </ul></div>
 

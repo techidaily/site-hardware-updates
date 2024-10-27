@@ -1,7 +1,7 @@
 ---
 title: Last Minute Deals on Top Games in October Prime Day 202지 - Save Now Before It’s Too Late with Savings up to $1K | ZDNET
-date: 2024-10-14T01:01:51.643Z
-updated: 2024-10-20T22:52:19.092Z
+date: 2024-10-20T22:52:15.947Z
+updated: 2024-10-27T00:00:51.996Z
 tags:
   - laptops
 categories:
@@ -119,6 +119,13 @@ ZDNET
 * [AMD Ryzen 9 5900X for $215 (save $355)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-5900X-24-Thread-Processor%2Fdp%2FB08164VTWH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a026785-49e5-4e22-855b-e7c6f4fddcc2%7Cdtp&dtb=1): A high-end gaming CPU with 12 cores, 24 threads, and a maximum clock speed of 4.8GHz.
 * [Arcade1Up Mortal Kombat head-to-head cabinet for $300 (save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FArcade-Arcade1Up-Mortal-Kombat-Head-Head%2Fdp%2FB09B1DB76H%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a026785-49e5-4e22-855b-e7c6f4fddcc2%7Cdtp&dtb=1): A seated, head-to-head competition format cabinet for the popular Mortal Kombat arcade games.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## October Prime Day PlayStation 5 deals
 
 ZDNET
@@ -146,6 +153,13 @@ ZDNET
 * [Razer universal quick charging stand for $19 (save $31)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Universal-Quick-Charging-Stand-x%2Fdp%2FB09J1LMVW9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a026785-49e5-4e22-855b-e7c6f4fddcc2%7Cdtp&dtb=1): A USB charging stand for your Xbox controllers to keep them at-the-ready.
 * [Starfield standard edition for $40 (save $30)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FStarfield-Standard-Xbox-X%2Fdp%2FB0C7PN2L5V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a026785-49e5-4e22-855b-e7c6f4fddcc2%7Cdtp&dtb=1): Bethesda's latest action RPG has players exploring more than 1,000 planets to gather resources and allies.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## October Prime Day Nintendo deals
 
 Nintendo/ZDNET
@@ -164,10 +178,10 @@ Nintendo/ZDNET
 * [Pokemon Shining Pearl for $44 (save $16)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all-new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming PC deals
@@ -183,10 +197,10 @@ Kyle Kucharski/ZDNET
 * [Alienware Aurora R16 for $1,780 (save $420)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAlienware-Aurora-R16-Gaming-Desktop%2Fdp%2FB0CKLYZHTF%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a026785-49e5-4e22-855b-e7c6f4fddcc2%7Cdtp&dtb=1): A high-end gaming PC with a GeForce RTX 4070 graphics card, 32GB of RAM, a 1TB SSD, and 13th generation Intel Core i9 CPU.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming laptop deals
@@ -216,16 +230,10 @@ Samsung/ZDNET
 * [HyperX QuadCast USB mic for $90 (save $50)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHyperX-QuadCast-Condenser-Microphone-Anti-Vibration%2Fdp%2FB07NZZZ746%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a026785-49e5-4e22-855b-e7c6f4fddcc2%7Cdtp&dtb=1): This USB microphone has an integrated shock mount and is certified for use with Discord.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## October Prime Day graphics card deals
@@ -238,13 +246,6 @@ Samsung/ZDNET
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. That's great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
@@ -256,13 +257,6 @@ Games, consoles, and accessories can and do go on sale during Prime Day, though 
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -329,22 +323,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-soundsnatcher-recorder-software-overview/"><u>[New] In 2024, SoundSnatcher Recorder Software Overview</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-accelerated-adventures-fastest-flash-games-on-devices/"><u>[Updated] In 2024, Accelerated Adventures Fastest Flash Games on Devices</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-saving-instagram-content-easy-no-frill-methods-exposed/"><u>[Updated] In 2024, Saving Instagram Content Easy, No-Frill Methods Exposed</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-experts-approach-to-inserting-subtitlescc-on-youtube-videos/"><u>[Updated] In 2024, The Expert's Approach to Inserting Subtitles/CC on YouTube Videos</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-magicard-rio-pro-driver-updated-version-compatible-with-windows-10817/"><u>Download Magicard Rio Pro Driver: Updated Version Compatible with Windows 10/8.1/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-download-and-setup-bcm20702a0-windows-drivers-quickly/"><u>Easy Steps: Download & Setup BCM20702A0 Windows Drivers Quickly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-drivers-for-realteks-rtl8188cu-wireless-network-adapter-in-compatibility-mode-for-windows-10-and-7/"><u>Get the Latest Drivers for Realtek's RTL8188CU Wireless Network Adapter in Compatibility Mode for Windows 10 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-zexmte-usb-bluetooth-adapter-driver-here-for-windows-10-7-and-8-users/"><u>Get Your ZEXMTE USB Bluetooth Adapter Driver Here - For Windows 10, 7, and 8 Users</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor X50i? | Dr.fone</u></a></li>
-<li><a href="https://win-great.techidaily.com/initiate-automated-backup-processes-after-predefined-incidents/"><u>Initiate Automated Backup Processes After Predefined Incidents</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/network-free-methods-to-update-your-windows-devices-drivers/"><u>Network-Free Methods to Update Your Windows Device's Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722970766052-optimize-your-system-performance-with-new-nvidia-display-driver-for-win-1078/"><u>Optimize Your System Performance with New Nvidia Display Driver for Win 10/7/8</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/nting-total-loss-of-image-in-streaming-videos-on-youtube/"><u>Preventing Total Loss of Image in Streaming Videos on YouTube</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/qualcomm-executive-announces-launch-of-700-snapdragon-powered-desktops-in-upcoming-year/"><u>Qualcomm Executive Announces Launch of $700 Snapdragon-Powered Desktops in Upcoming Year</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/speedy-download-of-microsofts-ergonomic-keyboard-4000-secure-the-newest-software-today/"><u>Speedy Download of Microsoft's Ergonomic Keyboard 4000 - Secure the Newest Software Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-tips-effortless-download-of-sandisk-ssd-drives/"><u>Troubleshooting Tips: Effortless Download of SanDisk SSD Drives</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/wi-fi-calling-defined-uncovering-what-it-entails/"><u>Wi-Fi Calling Defined: Uncovering What It Entails</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-backswing-crafting-bundle/"><u>[New] Backswing Crafting Bundle</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1985-pale-rider-with-eastwood-as-a-mysterious-preacher-who-is-hired-to-work-in-a-gold-mine-during-the-california-gold-rush-the-film-was-based-on-dashiell-ha330/"><u>1985 - Pale Rider, with Eastwood as a Mysterious Preacher Who Is Hired to Work in a Gold Mine During the California Gold Rush. The Film Was Based on Dashiell Hammett's Short Story, Told in the Hills</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/boosting-engagement-and-followers-in-igtv-with-smart-hash-tagging/"><u>Boosting Engagement and Followers in IGTV with Smart Hash Tagging</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/brother-hl-l2350dw-printer-software-downloader-latest-drivers-and-updates/"><u>Brother HL-L2350DW Printer Software Downloader: Latest Drivers and Updates</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-a-strong-network-how-to-form-effective-youtube-partner-relationships-for-2024/"><u>Building a Strong Network How to Form Effective YouTube Partner Relationships for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-repairs-how-to-restore-functionality-on-tiktok/"><u>DIY Repairs: How to Restore Functionality on TikTok</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-guide-logitech-g510-mouse-drivers-for-windows-users-versions-7-8-and-10/"><u>Easy Setup Guide: Logitech G510 Mouse Drivers for Windows Users (Versions 7, 8 & 10)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-of-hp-deskjet-2755e-printer-driver-for-windows-pcs/"><u>Free Download of HP DeskJet 2755E Printer Driver for Windows PCs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-enhancing-reels-perfecting-sound-in-instagram-videos/"><u>In 2024, Enhancing Reels Perfecting Sound in Instagram Videos</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-oppo-a1-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Oppo A1 5G Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-logitech-mx-anywhere-2s-keyboard-driver-and-custom-settings-tool-for-windows-pcs-free-download/"><u>Latest Logitech MX Anywhere 2S Keyboard Driver & Custom Settings Tool for Windows PCs – Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-rtx-3080-drivers-download-now-for-windows-10-8-and-7/"><u>Latest NVIDIA RTX 3080 Drivers: Download Now for Windows 10, 8 & 7</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/magical-on-device-image-creation-with-apples-latest-ai-tool-surpasses-dall-e-discover-the-next-generation-of-visual-tech/"><u>Magical On-Device Image Creation with Apple's Latest AI Tool Surpasses DALL-E: Discover the Next Generation of Visual Tech</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-i2c-hid-driver-fixes-a-step-by-step-guide/"><u>Mastering I2C HID Driver Fixes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-send-unforgettable-invites-with-these-best-video-apps-for-ios-and-android/"><u>New Send Unforgettable Invites with These Best Video Apps for iOS & Android</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidias-top-performance-enhancer-download-gtx-980-ti-drivers-today/"><u>NVIDIA's Top Performance Enhancer: Download GTX 980 Ti Drivers Today!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-chatgpt-plus-is-worth-the-price-tag-despite-free-access-to-revolutionary-gpt-4-ai/"><u>Why ChatGPT Plus Is Worth the Price Tag Despite FREE Access to Revolutionary GPT-4 AI</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Behind the Glass: Testing Lenovo's Innovative Transparent Display Tech at Mobile World Congress, According to ZDNET"
-date: 2024-10-16T23:27:59.387Z
-updated: 2024-10-21T01:30:56.990Z
+date: 2024-10-19T22:06:24.567Z
+updated: 2024-10-27T00:33:01.786Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,10 +60,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -77,10 +77,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -123,19 +123,24 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevated-viewership-status-symbolized-by-buttons/"><u>[New] In 2024, Elevated Viewership Status Symbolized by Buttons</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-streamlining-your-creative-process-with-vsco-app/"><u>[New] Streamlining Your Creative Process with VSCO App</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-turning-pics-into-time-capsules-with-videos/"><u>[New] Turning Pics Into Time Capsules With Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unveiling-youtubes-shorts-investment-plan/"><u>[New] Unveiling YouTube's Shorts Investment Plan</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/constraint-a-the-segment-must-be-titled-cooking-with-care-saving-money-and-the-planet-one-dish-at-a-time/"><u>Constraint A: The Segment Must Be Titled Cooking with Care: Saving Money & the Planet One Dish at a Time</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-your-msi-computer-sound-card-drivers-for-optimal-performance-in-windows/"><u>Download and Update Your MSI Computer Sound Card Drivers for Optimal Performance in Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-updating-your-broadcom-bluetooth-driver-on-windows-windows-10-8-and-7/"><u>Easy Guide to Updating Your Broadcom Bluetooth Driver on Windows (Windows 10, 8 & 7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-windows-drivers-for-amd-radeon-r9-chipsets-easy-guide/"><u>Get the Latest Windows Drivers for AMD Radeon R9 Chipsets - Easy Guide!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-samsung-galaxy-a25-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Samsung Galaxy A25 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Infinix GT 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-epson-xp-310-driver-version-get-it-here-for-free/"><u>Latest Epson XP 310 Driver Version – Get It Here for Free!</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-unleash-your-creativity-how-to-edit-video-files-on-mac-os-x-yosemite/"><u>New 2024 Approved Unleash Your Creativity How to Edit Video Files on Mac OS X Yosemite</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/troubleshooting-tips-overcoming-microsoft-flight-simulator-2020-updating-challenges/"><u>Troubleshooting Tips: Overcoming Microsoft Flight Simulator 2020 Updating Challenges</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unveil-clarity-the-finest-10-online-editing-utilities-ranked/"><u>Unveil Clarity The Finest 10 Online Editing Utilities Ranked</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-dividing-footage-top-splitcams-worth-in-review-in-2024/"><u>[New] Dividing Footage Top SplitCam's Worth in Review, In 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeo-insight-where-streaming-meets-originality/"><u>[Updated] In 2024, Vimeo Insight Where Streaming Meets Originality</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/abbyy-jay-parkai/"><u>ABBYY アジア太平洋地�^分営業担当副社長就任：Jay Park氏がドキュメントAI・プロセスインテリジェンスの未来を形作る</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-rx-6800-drivers-step-by-step-download-instructions-tailored-for-windows-11-10-8-and-windows-7-users/"><u>Amd Rx 6800 Drivers - Step-by-Step Download Instructions Tailored for Windows 11, 10, 8 and Windows 7 Users</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/complete-walkthrough-navigating-and-winning-in-diablo-immortal-for-mac-users/"><u>Complete Walkthrough: Navigating and Winning in Diablo Immortal for Mac Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-the-dynamics-eyesight-and-errors-in-pimax-crystal-headset/"><u>Dive Into the Dynamics - Eyesight and Errors in Pimax Crystal Headset</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-latest-evga-graphics-card-drivers-on-windows-pcs/"><u>Download & Install Latest EVGA Graphics Card Drivers on Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-hp-officejet-pro-8740-driver-update-for-windows-users-version-11108/"><u>Free HP Officejet Pro 8740 Driver Update for Windows Users: Version 11/10/8!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-solve-startech-device-driver-issues-in-various-windows-versions/"><u>How to Solve StarTech Device Driver Issues in Various Windows Versions</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-google-pixel-7a-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Google Pixel 7a without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-canoscan-lide-220-software-version-how-to-get-it-downloaded/"><u>Latest CanoScan LiDE 220 Software Version: How to Get It Downloaded?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-x220-drivers-fast-and-easy-guide-to-update-your-system/"><u>Lenovo X220 Drivers - Fast and Easy Guide to Update Your System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978581081-msi-b350-toms-tomahawk-driver-software-for-pcs-running-on-windows-117-download-now/"><u>MSI B350 TOM'S TOMAHAWK Driver Software for PCs Running on Windows 11/7 – Download Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-definitive-source-how-to-update-and-install-superior-wireless-drivers/"><u>The Definitive Source: How to Update and Install Superior Wireless Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/toshiba-dynabook-drivers-for-windows-download-update-and-compatibility-check/"><u>Toshiba Dynabook Drivers for Windows - Download, Update and Compatibility Check</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-graphics-card-rtx-2070-super-drivers-for-pcs-running-windows-1011-download-and-install/"><u>Update Your Graphics Card: RTX 2070 Super Drivers for PCs Running Windows 10/11 (Download & Install)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-video-legends-youtubed-for-millions/"><u>Viral Video Legends YouTubed for Millions</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-workspace-wonders-top-8-notetaking-apps-no-pen/"><u>Windows Workspace Wonders: Top 8 Notetaking Apps (No Pen)</u></a></li>
 </ul></div>
 

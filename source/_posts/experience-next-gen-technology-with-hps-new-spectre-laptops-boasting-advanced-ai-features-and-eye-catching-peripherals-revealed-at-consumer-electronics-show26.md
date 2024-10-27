@@ -1,7 +1,7 @@
 ---
 title: Experience Next-Gen Technology with HP's New Spectre Laptops Boasting Advanced AI Features & Eye-Catching Peripherals, Revealed at Consumer Electronics Show - ZDNET Insights
-date: 2024-10-16T00:16:25.245Z
-updated: 2024-10-20T22:04:06.406Z
+date: 2024-10-20T16:26:40.401Z
+updated: 2024-10-26T18:12:10.151Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,10 +60,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -77,10 +77,16 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -123,17 +129,22 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-irecorder-pro-in-depth-analysis/"><u>2024 Approved IRecorder Pro In-Depth Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-dslr-530-driver-download-how-to-update-and-install-latest-version/"><u>Canon DSLR-530 Driver Download: How to Update & Install Latest Version</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-tutorial-for-updating-windows-10-version-2004-with-compatible-conexant-drivers/"><u>Comprehensive Tutorial for Updating Windows 10 (Version 2004) with Compatible Conexant Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-brother-hl-l2300d-printer-up-to-date-with-these-updated-drivers/"><u>Get Your Brother HL-L2300D Printer Up to Date with These Updated Drivers!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-through-windows-camera-saving-errors/"><u>Guiding Through Windows Camera Saving Errors</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-securely-download-and-update-your-epson-scanner-driver/"><u>How to Securely Download & Update Your Epson Scanner Driver</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-up-to-date-drivers-for-your-gigabyte-gc-wb867d-motherboard-here/"><u>Install Up-to-Date Drivers for Your GIGABYTE GC-WB867D Motherboard Here</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-x-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone X Properly | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ing-the-pathway-for-engaging-youtube-content/"><u>Plotting the Pathway for Engaging YouTube Content</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/razer-blackwidow-drivers-latest-updates-and-compatibility-checks/"><u>Razer BlackWidow Drivers - Latest Updates & Compatibility Checks</u></a></li>
-<li><a href="https://win-blog.techidaily.com/top-tipos-de-ferramentas-melhores-para-identificar-musica-em-computador-e-smartphone/"><u>Top Tipos De Ferramentas Melhores Para Identificar Música Em Computador E Smartphone</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/1728470585116-windows-1011/"><u>Windows 10/11におけるディスクパーティショニング削除手順</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-premium-multi-device-video-talks-solutions-for-2024/"><u>[New] Premium Multi-Device Video Talks Solutions for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/wmvmp45/"><u>【使用方法簡単！】WMVとMP4変換サイトトップ5選芞: コツを学ぶべき最高のサービスリスト</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-screencast-guide-to-flawless-presentations-and-demos/"><u>2024 Approved The Screencast Guide to Flawless Presentations and Demos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-amd-vega-graphics-card-updates-get-the-latest-driver-downloads-now/"><u>Easy AMD Vega Graphics Card Updates: Get the Latest Driver Downloads Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-gaming-setup-the-essential-driver-refresh-for-the-acer-predator-helios/"><u>Elevate Your Gaming Setup: The Essential Driver Refresh for the Acer Predator Helios</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-download-and-setup-your-dell-wd1e-hardware-drivers-with-ease/"><u>Find, Download, and Setup Your Dell WD1e Hardware Drivers with Ease</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-m-audio-fast-track-driver-downloads-compatible-with-windows-107881/"><u>Free M-Audio Fast Track Driver Downloads Compatible with Windows 10/7/8/8.1</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-ensure-your-logitech-m510-performs-optimally-drivers-update-guide/"><u>How To Ensure Your Logitech M510 Performs Optimally: Drivers Update Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-y17s-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo Y17s to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-update-of-magicard-rio-pro-driver-available-now-for-windows-enthusiasts-compatible-with-win-11-81-and-7/"><u>Latest Update of Magicard Rio Pro Driver Available Now for Windows Enthusiasts | Compatible with Win 11, 8.1 and 7</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/protecting-sensitive-information-how-to-perform-a-thorough-wipe-of-your-windows/"><u>Protecting Sensitive Information: How To Perform a Thorough Wipe of Your Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-how-to-resolve-dns-server-not-responding-issues/"><u>Quick Solutions: How to Resolve 'DNS Server Not Responding' Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722963997404-randd-investments-and-their-role-in-maintaining-hahron-spices-competitive-edge/"><u>R&D Investments and Their Role in Maintaining HAHRON SPICE's Competitive Edge</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-revamping-ati-driver-software-in-microsoft-windows-environment/"><u>Step-by-Step Tutorial: Revamping ATI Driver Software in Microsoft Windows Environment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-six-strategies-for-leveraging-chatgpt-in-crafting-engaging-video-game-narratives/"><u>Top Six Strategies for Leveraging ChatGPT in Crafting Engaging Video Game Narratives</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/unveiling-the-secrets-to-viral-tiktok-with-these-best-captions-for-2024/"><u>Unveiling the Secrets to Viral TikTok with These Best Captions for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-best-android-video-editor-apps-for-chromebook/"><u>Updated 2024 Approved Best Android Video Editor Apps for Chromebook</u></a></li>
 </ul></div>
 

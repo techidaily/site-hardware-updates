@@ -1,7 +1,7 @@
 ---
 title: Edit Like a Pro with 50%% Off Top-Tier Samsung Monitors for Photo/Video Work at Best Buy | Exclusive ZDNet Deal Inside
-date: 2024-10-19T16:34:17.055Z
-updated: 2024-10-21T06:45:07.049Z
+date: 2024-10-20T20:20:55.381Z
+updated: 2024-10-26T17:44:16.423Z
 tags:
   - laptops
 categories:
@@ -47,10 +47,10 @@ The Duex Plus works on both Windows and Mac laptops and getting a display output
 June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Usability and performance
@@ -66,10 +66,10 @@ June Wan/ZDNET
 The biggest question I had going into testing was how battery-consuming the additional monitor would be. With the Duex Plus constantly on and its brightness set to the max, I saw a 6%-7% battery drop every hour, which is comparable to the numbers I've gotten with other portable monitors. Keep in mind that this is with the [16-inch M1 Pro MacBook Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-16-inch-10%E2%80%91core-16%E2%80%91core%2Fdp%2FB09JQKBQSB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbc4819c9-8716-47e7-bf2e-6e62775e6d14%7Cdtp&dtb=1), so your numbers may vary.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -106,19 +106,22 @@ Portable monitors come in all shapes and sizes, but the Mobile Pixels Duex Plus'
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-highlighting-the-finest-video-grabbers-in-windows-10/"><u>[New] 2024 Approved Highlighting the Finest Video Grabbers in Windows 10</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-ultimate-meme-list-social-media-giants-clash/"><u>2024 Approved The Ultimate Meme List Social Media Giants Clash</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/break-new-ground-in-cpu-performance-with-an-amd-ryzen-9700x-overclocked-to-an-impressive-58ghz-and-chilled-by-premium-aio-liquid-cooling-plus-a-surprising-i69/"><u>Break New Ground in CPU Performance with an AMD Ryzen #9700X: Overclocked to an Impressive 5.8GHz and Chilled by Premium AIO Liquid Cooling – Plus, a Surprising Idle Speed of 6 GHz Achieved!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-cutting-edge-tech-toms-comprehensive-reviews/"><u>Discover Cutting-Edge Tech: Tom’s Comprehensive Reviews</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-canon-printer-mf4695mf4695s-driver-for-windows-11-8-and-7-full-version/"><u>Download Canon Printer MF4695/MF4695S Driver for Windows 11, 8 & 7 – Full Version</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-latest-hp-deskjet-printing-drivers-for-windows-os-versions-7810/"><u>Download Latest HP Deskjet Printing Drivers for Windows OS Versions 7/8/10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722959139755-get-the-latest-surface-driver-software-effortlessly-downloaded-here/"><u>Get the Latest Surface Driver Software Effortlessly Downloaded Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-deskjet-all-in-one-printer-model-3755-updated-drivers-for-modern-windows-versions-including-11-10-8-and-7/"><u>HP DeskJet All-in-One Printer Model 3755 - Updated Drivers for Modern Windows Versions Including 11, 10, 8 & 7</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-huawei-nova-y71-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-infinix-note-30-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Infinix Note 30 Devices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-creativity-fast-windows-10-photo-edits-made-simple/"><u>In 2024, Unleash Creativity Fast Windows 10 Photo Edits Made Simple</u></a></li>
-<li><a href="https://extra-support.techidaily.com/leading-srs-tuning-methods-for-macwin-users-for-2024/"><u>Leading SRS Tuning Methods for Mac/Win Users for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-msmpengexe-high-cpu-usage-in-windows-11/"><u>Resolved! MsMpEng.exe High CPU Usage in Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-upgrading-the-lenovo-thunderbolt-3-portable-dock-drivers/"><u>Step by Step: Upgrading the Lenovo Thunderbolt 3 Portable Dock Drivers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-best-of-the-best-10-leading-video-call-apps-for-iphones-and-android-for-2024/"><u>[New] Best of the Best 10 Leading Video Call Apps for iPhones & Android for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-top-minded-channels-ultimate-yt-educational-guide/"><u>[New] In 2024, Top Minded Channels Ultimate YT Educational Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-streaming-success-easily-convert-srt-formats/"><u>[New] Streaming Success Easily Convert SRT Formats</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-youtube-thumbnails-saving-guide/"><u>[Updated] 2024 Approved Free YouTube Thumbnails Saving Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-boosting-your-youtube-shorts-profits-key-requirements-and-earning-potential-for-2024/"><u>[Updated] Boosting Your Youtube Shorts Profits Key Requirements & Earning Potential for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-ultimate-how-to-for-multi-snapping-with-snapchat-for-2024/"><u>[Updated] The Ultimate How-To for Multi-Snapping with Snapchat for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-13-in-1-multiport-adapter-dual-4k-hdmi-ports-for-under-50-featured-on-zdnet/"><u>Affordable 13-in-1 Multiport Adapter: Dual 4K HDMI Ports for Under $50 - Featured on ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/air-entraining-agents-improve-freeze-thaw-resistance-and-durability-of-concrete-in-cold-climates/"><u>Air-Entraining Agents Improve Freeze-Thaw Resistance and Durability of Concrete in Cold Climates.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/anticipating-innovations-in-tech-spotlight-on-apples-new-product-launches-this-october-including-m4-powered-mac-mini-and-next-gen-ipads-expert-analysis-by-z118/"><u>Anticipating Innovations in Tech: Spotlight on Apple's New Product Launches This October – Including M4 Powered Mac Mini and Next-Gen iPads | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-ipad-hacks-and-configurations-a-must-know-guide-for-beginners-and-experts-discover-secrets/"><u>Essential iPad Hacks & Configurations: A Must-Know Guide for Beginners & Experts - Discover Secrets</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-top-pc-manufacturers-revolutionize-gaming-through-chromebook-innovation-insights/"><u>How Top PC Manufacturers Revolutionize Gaming Through Chromebook Innovation - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-bargain-get-your-hands-on-an-apple-m2-macbook-air-for-only-749-this-amazon-prime-day-october-insights-by-zdnet/"><u>Snag the Bargain: Get Your Hands on an Apple M2 MacBook Air for Only $749 This Amazon Prime Day (October) | Insights by ZDNET</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/speichern-von-notizzetteln-im-neuen-betriebssystem-windows-11-anleitung-und-tipps/"><u>Speichern Von Notizzetteln Im Neuen Betriebssystem Windows 11 - Anleitung Und Tipps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-non-dell-non-lenovo-business-laptops-the-ideal-picks-for-your-workspace-insights/"><u>Top Non-Dell, Non-Lenovo Business Laptops: The Ideal Picks for Your Workspace - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-notch-october-2024-cyber-monday-computers-exclusive-black-friday-sales-guide/"><u>Top-Notch October 2024 Cyber Monday Computers: Exclusive Black Friday Sales Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-productivity-laptop-recommendation-beyond-thinkpads-and-macbooks-available-now-with-300-prime-day-discount/"><u>Unbeatable Productivity Laptop Recommendation: Beyond ThinkPads and MacBooks, Available Now with $300 Prime Day Discount!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-nvidias-revolutionary-studio-laptop-range-ultimate-speed-and-graphic-excellence-backed-by-top-tier-gpu-technology-featured/"><u>Unveiling Nvidia's Revolutionary Studio Laptop Range: Ultimate Speed & Graphic Excellence Backed by Top-Tier GPU Technology | Featured</u></a></li>
 </ul></div>
 

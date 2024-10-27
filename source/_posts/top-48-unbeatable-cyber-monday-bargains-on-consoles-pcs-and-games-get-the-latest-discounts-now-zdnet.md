@@ -1,7 +1,7 @@
 ---
 title: Top 48 Unbeatable Cyber Monday Bargains on Consoles, PCs & Games – Get the Latest Discounts Now! | ZDNet
-date: 2024-10-13T21:55:11.652Z
-updated: 2024-10-21T06:43:07.745Z
+date: 2024-10-21T20:54:53.772Z
+updated: 2024-10-27T00:08:49.706Z
 tags:
   - laptops
 categories:
@@ -37,6 +37,19 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [LaCie 2TB rugged external SSD](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1503994-REG%2Flacie%5Fsthr2000800%5F2tb%5Frugged%5Fssd%5Fusb%5Fc.html): $210 (save $290 at B&H Photo)
 * [WD My Passport 4TB portable SSD](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1624288-REG%2Fwd%5Fwdbagf0040bgy%5Fwesn%5F4tb%5Fmy%5Fpassport%5Fssd.html): $250 (save $430 at B&H Photo)
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best holiday flash drive deals
 
 * [PNY Duo Link 128GB iOS flash drive](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fpny-duo-link-128gb-usb-3-0-otg-flash-drive-for-ios-devices-and-computers-gray%2F6033400.p%3FskuId%3D6033400&publisher_slug=itechdaily19598&exclusive=1): $38 (save $42 at Best Buy)
@@ -44,13 +57,6 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [Kingston DataTraveler Max 256GB 2-pack](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1720837-REG%2Fkingston%5F256gb%5Fdatatraveler%5Fmax%5Fusb.html): $50 (save $26 at B&H Photo)
 * [SanDisk iXpand 256GB lightning/USB-C](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsandisk-256gb-ixpand-phone-drive-luxe-for-iphone-lightning-and-type-c-devices-black%2F6459403.p%3FskuId%3D6459403&publisher_slug=itechdaily19598&exclusive=1): $61 (save $38 at Best Buy)
 * [Corsair Survivor Stealth 256GB](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCorsair-Flash-Survivor-Stealth-256GB%2Fdp%2FB00YHL1RJG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8b374681-1263-4883-912d-10353e26bc7d%7Cdtp&dtb=1): $55 (save $29 at Amazon)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Best holiday SD card deals
 
@@ -72,13 +78,6 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [WD Black P40 2TB Game Drive](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fwd-black-p40-game-drive-for-pc-ps4-ps5-and-xbox-2tb-external-usb-3-2-gen-2x2-portable-ssd-black%2F6512127.p%3FskuId%3D6512127&publisher_slug=itechdaily19598&exclusive=1): $160 (save $170)
 * [Seagate 2TB expansion card for Xbox Series X|S](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fseagate-2tb-storage-expansion-card-for-xbox-series-xs-internal-nvme-ssd-black%2F6477864.p%3FskuId%3D6477864&publisher_slug=itechdaily19598&exclusive=1): $280 (save $120)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best holiday storage and SSD deals at B&H Photo
 
 * [SanDisk Pro G40 4TB SSD](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1760344-REG%2Fsandisk%5Fprofessional%5Fsdps31h%5F004t%5Fgbcnd%5F2tb%5Fpro%5Fg40%5Fusb%5Fc%5Fthunderbolt.html): $400 (save $400)
@@ -93,6 +92,13 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [WD Black SN770 2TB](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1702060-REG%2Fwd%5Fwdbbdl0020bnc%5Fwrsn%5F2tb%5Fwd%5Fblack%5Fsn770%5Fnvme.html): $118 (save $152)
 * [Crucial T700 4TB SSD](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1766243-REG%2Fcrucial%5Fct4000t700ssd3%5Ft700%5Fgen5%5Fnvme%5Fm%5F2.html): $450 (save $150)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best holiday storage and SSD deals at Newegg
 
 * [Samsung T7 2TB portable SSD](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fsamsung-t7-2tb%252Fp%252FN82E16820147762): $150 (save $60)
@@ -103,10 +109,10 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [KingSpec 4TB 3D NAND SSD](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fkingspec-4tb-2-5-sata%252Fp%252F0D9-000D-00159): $140 (save $130)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did we choose these holiday deals?
@@ -115,16 +121,16 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the best SSD?
 
 My pick for the [best SSD](https://www.zdnet.com/article/best-ssd/) is the WD My Passport for its affordability, even at higher capacities, 256-bit AES encryption, compatibility with both Windows and macOS devices, and variety of capacities. It also features a drop and shock resistant chassis to help prevent data loss and corruption due to accidents. You can even set up a password to access the drive itself or specific folders and files to help prevent unauthorized use of your SSD. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the best holiday deals right now?
 
@@ -194,24 +200,19 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-iphones-voice-memo-functionality/"><u>[New] Mastering iPhone's Voice Memo Functionality</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-discover-the-best-insta-grid-creators-our-leading-ten-picks/"><u>[Updated] Discover the Best Insta Grid Creators Our Leading Ten Picks</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-full-review-exploring-hero4-black-functions-for-2024/"><u>[Updated] Full Review Exploring Hero4 Black Functions for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-revolutionizing-video-sharing-alternatives-to-youtube/"><u>[Updated] In 2024, Revolutionizing Video Sharing Alternatives to YouTube</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-foundations-of-facebook-video-marketing/"><u>[Updated] In 2024, The Foundations of Facebook Video Marketing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-your-speakers-swiftly-update-acers-sound-drivers-today/"><u>Boost Your Speakers Swiftly - Update Acer's Sound Drivers Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-complete-guide-to-the-behringer-usb-audio-interface-drivers/"><u>Free Download: Complete Guide to the Behringer USB Audio Interface Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-epson-v39-scanner-and-printer-drivers-for-pcs-running-windows-7-8-and-10/"><u>Free Download: Epson V39 Scanner and Printer Drivers for PCs Running Windows 7, 8 & 10</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-corsair-k55-ready-download-and-apply-latest-drivers-here/"><u>Get Your Corsair K55 Ready: Download and Apply Latest Drivers Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-oculus-headset-ready-drivers-for-windows-11-10-8-and-7-download-links-here/"><u>Get Your Oculus Headset Ready: Drivers for Windows 11, 10, 8 & 7 Download Links Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-or-update-your-epson-l3150-driver-on-windows-1187/"><u>How to Install or Update Your Epson L3150 Driver on Windows 11/8/7</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-optimal-vr-headset-choice-embracing-the-freedom-of-mobile-or-the-tethered-experience/"><u>In 2024, Optimal VR Headset Choice Embracing the Freedom of Mobile Or The Tethered Experience?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/keep-your-computer-connected-with-the-latest-microsoft-bluetooth-driver-downloads-windows-11-10-8-and/"><u>Keep Your Computer Connected with the Latest Microsoft Bluetooth Driver Downloads (Windows 11, 10, 8 &</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-walkthrough-fresh-amd-graphics-card-drivers-installation-across-various-windows-editions/"><u>The Ultimate Walkthrough: Fresh AMD Graphics Card Drivers Installation Across Various Windows Editions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-pick-5-premier-software-solutions-for-on-screen-drawing-and-animation/"><u>Ultimate Pick: 5 Premier Software Solutions for On-Screen Drawing & Animation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-unmatched-power-ryzen-ai-9-hx-370-surpasses-intel-in-single-core-jumps-past-core-ultra-and-ryzen-models-with-zen-5-tech/"><u>Unleash Unmatched Power: Ryzen AI 9 HX 370 Surpasses Intel in Single-Core, Jumps Past Core Ultra & Ryzen Models with Zen 5 Tech</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-dell-pc-with-the-latest-bluetooth-drivers-designed-for-windows-users/"><u>Update Your Dell PC with the Latest Bluetooth Drivers Designed for Windows Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windows-10-and-mac-cprm/"><u>Windows 10 & Macにおすすめ! CPRM解除済みの地上デジタル録画ファイル。無料で再生方法を学ぶ！</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-11-boosts-instant-acer-driver-tweaks/"><u>Windows 11 Boosts - Instant Acer Driver Tweaks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-viral-video-ventures-crafting-addictive-loops-on-ig/"><u>[New] 2024 Approved Viral Video Ventures Crafting Addictive Loops on IG</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-6-social-sites-boosting-biz-success/"><u>[New] Prime 6 Social Sites Boosting Biz Success</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-nokia-g42-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Nokia G42 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-how-to-resolve-when-red-dead-redemption-2-fails-to-start/"><u>Fixing the Issue: How to Resolve When Red Dead Redemption 2 Fails to Start</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-surface-pro-ebx4-drivers-installed-in-windows-step-by-step/"><u>Get the Latest Surface Pro Ebx4 Drivers Installed in Windows: Step-by-Step</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-efficiently-find-and-update-the-hp-laserjet-pro-m402n-printer-driver-for-windows-computers/"><u>How to Efficiently Find and Update the HP LaserJet Pro M402n Printer Driver for Windows Computers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-honor-x7b-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Honor X7b online without jailbreak</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1728470952606-iphone/"><u>IPhone用ドライバをダウンロード、更新、再インストール手順</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keeping-your-displays-clean-update-and-install-nvidiaamd-gpu-drivers-for-windows/"><u>Keeping Your Displays Clean: Update and Install Nvidia/AMD GPU Drivers for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-arduino-nano-driver-installation-a-simple-guide-for-windows-users/"><u>Mastering Arduino Nano Driver Installation: A Simple Guide for Windows Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/optimize-your-pc-comprehensive-guide-to-clear-cache-on-windows-10/"><u>Optimize Your PC: Comprehensive Guide to Clear Cache on Windows 10</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-nokia-130-music-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-performance-secrets-in-toms-equipment-reviews/"><u>Unveiling Performance Secrets in Tom's Equipment Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-lenovo-ideapad-100-to-the-latest-drivers-compatible-with-windows-11/"><u>Update Your Lenovo IdeaPad 100 to the Latest Drivers Compatible with Windows 11</u></a></li>
 </ul></div>
 

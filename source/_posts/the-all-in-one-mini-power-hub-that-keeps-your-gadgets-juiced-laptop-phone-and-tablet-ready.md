@@ -1,7 +1,7 @@
 ---
 title: The All-in-One Mini Power Hub That Keeps Your Gadgets Juiced - Laptop, Phone & Tablet Ready
-date: 2024-10-20T04:16:11.026Z
-updated: 2024-10-21T04:51:20.327Z
+date: 2024-10-23T22:15:26.635Z
+updated: 2024-10-26T23:51:02.888Z
 tags:
   - laptops
 categories:
@@ -69,10 +69,10 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,16 +111,20 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-top-10-youtube-download-apps-best-in-class-compatibility/"><u>[Updated] In 2024, Top 10 YouTube Download Apps - Best in Class Compatibility</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-maintain-peaceful-posting-dismiss-ig-recommendations-for-2024/"><u>[Updated] Maintain Peaceful Posting Dismiss IG Recommendations for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1-upgrade-to-smart-home-security-replace-your-ring-doorbell-now/"><u>1. Upgrade to Smart Home Security: Replace Your Ring Doorbell Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/affordable-kiddo-timekeeper-t-mobile-launches-monthly-12-childrens-smartwatch/"><u>Affordable Kiddo Timekeeper: T-Mobile Launches Monthly $12 Children's Smartwatch</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amazing-sonos-ace-wireless-bluetooth-earbuds-premium-audio-experience-that-captivates/"><u>Amazing Sonos ACE Wireless Bluetooth Earbuds - Premium Audio Experience That Captivates</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/bridging-the-gap-detailed-procedures-for-connecting-ps-vr-to-your-personal-computers/"><u>Bridging the Gap: Detailed Procedures for Connecting PS VR to Your Personal Computers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/buy-premium-1tb-microsd-cards-from-samsung-ultimate-storage-solution/"><u>Buy Premium 1TB MicroSD Cards From Samsung: Ultimate Storage Solution!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/eradicating-virtual-queasiness-unexpected-remedies-for-vr-induced-nausea-spotlighted-by-experts-at-zdnet/"><u>Eradicating Virtual Queasiness: Unexpected Remedies for VR-Induced Nausea, Spotlighted by Experts at ZDNET</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-of-the-best-top-5-free-mod-video-editing-software/"><u>New Best of the Best Top 5 Free MOD Video Editing Software</u></a></li>
-<li><a href="https://extra-information.techidaily.com/optimizing-visuals-aspect-ratio-alteration/"><u>Optimizing Visuals Aspect Ratio Alteration</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-gopros-latest-camera-face-off/"><u>[New] 2024 Approved GoPro's Latest Camera Face-Off</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-mastering-the-art-of-video-discovery-on-facebook/"><u>[New] 2024 Approved Mastering the Art of Video Discovery on Facebook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-youtube-live-imagery-a-comprehensive-overview/"><u>[New] Mastering YouTube Live Imagery A Comprehensive Overview</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-secrets-of-seamless-video-and-picture-upload-w11/"><u>[New] Unlocking the Secrets of Seamless Video & Picture Upload W11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-pc-building-tips-by-tom-unlocking-performance-secrets/"><u>Advanced PC Building Tips by Tom - Unlocking Performance Secrets</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/debunking-photoshake-is-it-essential-or-excessive-for-2024/"><u>Debunking PhotoShake Is It Essential or Excessive for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-access-to-brother-hl-l2350dprinter-driver-updates-download-and-installation-tips/"><u>Easy Access to Brother HL-L2350D[Printer Driver Updates - Download & Installation Tips]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978230446-free-download-top-quality-behringer-audio-drivers-available-now/"><u>Free Download: Top-Quality Behringer Audio Drivers Available Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-official-thrustmaster-t300-driver-software-updated-for-new-windows-versions-111n/"><u>Get the Official Thrustmaster T300 Driver Software - Updated for New Windows Versions (11/1N)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-sound-blaster-audigy-fx-drivers-here-free-download/"><u>Get Your Sound Blaster Audigy FX Drivers Here - Free Download</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 15 Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-epson-wf-3620-printer-driver-downloads-available-for-windows-users-windows-10-8-and-7/"><u>Latest Epson WF-3620 Printer Driver Downloads Available for Windows Users (Windows 10, 8 & 7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722965252469-latest-nvidia-rtx-2060-super-drivers-update-for-windows-11-systems-get-them-now/"><u>Latest Nvidia RTX 2060 Super Drivers Update for Windows 11 Systems - Get Them Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-fixes-for-intel-hd-graphics-driver-conflicts-in-windows-environment/"><u>Troubleshooting and Fixes for Intel HD Graphics Driver Conflicts in Windows Environment</u></a></li>
 </ul></div>
 

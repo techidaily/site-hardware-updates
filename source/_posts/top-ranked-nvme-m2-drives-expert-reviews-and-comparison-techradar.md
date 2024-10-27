@@ -1,7 +1,7 @@
 ---
 title: "Top-Ranked NVMe M.2 Drives : Expert Reviews & Comparison - TechRadar"
-date: 2024-10-19T00:17:13.973Z
-updated: 2024-10-20T22:16:04.043Z
+date: 2024-10-22T17:57:25.051Z
+updated: 2024-10-26T19:24:30.610Z
 tags:
   - laptops
 categories:
@@ -26,13 +26,6 @@ As a hybrid option for those who want the best of both worlds, a smart notebook 
 
 To help you decide which smart notebooks are worth the investment, we tested and researched the best ones on the market, considering notebook feel, storage capabilities and options, special features, and price. Based on our hands-on experience, our pick for the best smart notebook overall is the [Boox Note Air 3 C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBOOX-Tablet-Note-Air-ePaper%2Fdp%2FB0CHF423CP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a53bec5-2b9f-43a0-871e-682398b75945%7Cdtp&dtb=1) thanks to its note-taking and productivity features and smooth color display. We also included notebooks from brands like Kindle, Rocketbook, and others that ZDNET staff use and recommend. 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best smart notebooks of 2024
 
 Show less 
@@ -47,21 +40,7 @@ Pros
 Cons 
 * Screen can lag when browsing web or watching videos
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Boox Note Air 3 C
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best smart notebook overall
 
@@ -91,7 +70,21 @@ Pros
 Cons 
 * No hardcover option
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Rocketbook Fusion Smart Notebook
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best budget smart notebook
 
@@ -184,13 +177,6 @@ Cons
 
 ## reMarkable 2
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best smart notebook splurge
 
 Those diligent note-takers looking to really splurge on a smart reusable notebook should consider the reMarkable 2\. This notebook is more of a [large-screen tablet](https://www.zdnet.com/article/best-large-tablet/) with a low-latency E-Ink writing experience that makes you feel like you're writing on paper rather than on a tablet screen. In addition, with reMarkable's cloud app called Connect, you get access to standout features like screen share, handwriting conversion, unlimited cloud storage, and more.
@@ -204,13 +190,6 @@ The reMarkable 2 comes with the option of either the Marker or Marker Plus pen t
 **reMarkable 2 features: Color options:** Black, blue, red, gray, and white | **Storage:** 8GB internal storage | **Pages:** Stores about 100,000 pages | **Resolution:** 1872 x 1404 
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Digital notebooks, compared
 
@@ -226,6 +205,13 @@ The best smart notebook is the Boox Note Air 3 C. I made this pick based on its 
 
 \*MSRP at the time of writing. Please note that actual prices may vary depending on available sales, deals, discounts, and coupons. 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is a smart notebook just a fancy way of saying tablet?
 
 If you're on the fence about buying your first tablet:
@@ -238,10 +224,10 @@ A tablet, usually runs on a mobile operating system and offers a wider range of 
 You can find a digital notebook for well under $20, making it a pretty budget-friendly option for students or anyone looking to organize their notes without breaking the bank. But, if you like for all your devices to be consistent in terms of software, then you might be better off spending a little more for a tablet.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which smart notebook is right for you?
@@ -255,13 +241,6 @@ While any of these smart notebooks are great options, it ultimately comes down t
 | Kindle Scribe                     | A smart notebook that's also a great reading tablet. You can easily make notes inside the books you're reading.                                                      |
 | Moleskine Pen+ Smart Writing Set  | A stylish smart notebook from a classic brand. You can even record audio notes.                                                                                      |
 | reMarkable 2                      | A smart notebook packed with plenty of features worth the splurge. You'll feel like you're writing on real paper thanks to the low-latency E-Ink writing experience. |
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Factors to consider when choosing the best smart notebook
 
@@ -282,7 +261,21 @@ A lot of these digital notebooks can also be categorized as tablets. When we tes
 
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Frequently Asked Questions:
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's the best smart pen for my electronic notebook?
 
@@ -296,6 +289,13 @@ Our best pick for smart pens would have to be the [Apple Pencil](https://www.zdn
 
 Most smart notebooks already include a smart pen, but it will also depend on the manufacturer and specific model. Smart notebooks such as reMarkable 2 and Wacom Bamboo Slate include the smart pen with their notebook. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Would I recommend a smart notebook for students?
 
 Keeping your notes and reminders organized on a single device for school is the best way to improve your productivity in and outside of class. That is why we recommend all students look into our best list of smart notebooks and find which is right for their needs. The Boox is a great option since you can connect it to many third-party apps through the Android store and transfer any files onto it, like essays or notes from class. 
@@ -306,22 +306,16 @@ Keeping your notes and reminders organized on a single device for school is the 
 
 That depends on the specific product. For example, Rocketbook's lineup of smart notebooks are made with real paper, as is the Moleskine smart notebook. However, other options like the Kindle Scribe and the ReMarkable 2 have low-latency, e-ink screens that feel paper-like, but you can still definitely tell they are more of a tablet than an actual notebook with paper. 
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Can you use an iPad as a smart notebook?
 
 While you won't get the "feel" of real paper with an iPad, you can use an iPad as a way to take notes digitally, especially if you have a quality stylus like the Apple Pencil. iOS apps like Noteflow allow you to take notes, annotate PDFs, sketch and doodle, and more while syncing to the cloud.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are there alternative smart notebooks to consider?
 
@@ -369,18 +363,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-elevate-your-skill-discovering-the-top-10-budget-friendly-video-artists-on-youtube/"><u>[New] 2024 Approved Elevate Your Skill Discovering the Top 10 Budget-Friendly Video Artists on YouTube</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-nine-crucial-methods-to-log-computer-speakers-and-microphones-for-2024/"><u>[New] Nine Crucial Methods to Log Computer Speakers and Microphones for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-a-step-by-step-approach-to-ad-revenue-in-youtube-videos-for-2024/"><u>[Updated] A Step-by-Step Approach to Ad Revenue in YouTube Videos for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-mobile-youtube-watching-iphone-and-android-edition/"><u>[Updated] Mobile YouTube Watching IPhone & Android Edition</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-voice-logging-access-and-evaluation-for-2024/"><u>[Updated] Voice Logging Access & Evaluation for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-sound-blaster-z-drivers-a-step-by-step-guide-for-windows-11-users/"><u>Download the Sound Blaster Z Drivers: A Step-by-Step Guide for Windows 11 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-get-your-webcam-up-and-running-across-windows-editions/"><u>Easy Steps to Get Your Webcam Up and Running Across Windows Editions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-ensure-optimal-performance-of-lenovo-ideapad-100-by-updating-drivers-on-windows-10/"><u>How To Ensure Optimal Performance of Lenovo IdeaPad 100 by Updating Drivers on Windows 10</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-vimeos-edge-over-youtube-what-the-data-says/"><u>In 2024, Vimeo’s Edge Over YouTube? What the Data Says</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ct-your-presence-with-solo-video-setups-and-techniques-for-2024/"><u>Perfect Your Presence with Solo Video Setups and Techniques for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/realtek-alc892aic7380-driver-download-and-installation-steps-for-new-windows-11-users/"><u>Realtek ALC892/AIC7380 Driver Download and Installation Steps for New Windows 11 Users</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-discover-9-free-whole-film-festive-movie-gems-on-youtube/"><u>[Updated] In 2024, Discover 9 Free, Whole-Film Festive Movie Gems on Youtube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-pixma-ts3322-printer-software-download-and-latest-firmware-updates/"><u>Canon PIXMA TS3322 Printer Software Download & Latest Firmware Updates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/direct-download-link-to-rtx-2080-super-nvidia-drivers-up-to-date-for-windows-11/"><u>Direct Download Link to RTX 2080 Super NVIDIA Drivers - Up-to-Date for Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-considerations-before-investing-in-a-secondhand-ios-slate/"><u>Essential Considerations Before Investing in a Secondhand iOS Slate</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/hiding-identity-on-instagram-live-secure-viewing-tips-for-2024/"><u>Hiding Identity on Instagram Live Secure Viewing Tips for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-15-pro-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone 15 Pro Space | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-wirelessnetwork-adapters-updated-driver-software-for-windows-operating-systems/"><u>HP Wireless/Network Adapters: Updated Driver Software for Windows Operating Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-samsung-galaxy-s23-tactical-edition-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Samsung Galaxy S23 Tactical Edition? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-instructions-transferring-your-pc-view-to-tv-using-a-chromecast-adapter/"><u>Simple Instructions: Transferring Your PC View to TV Using a Chromecast Adapter</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-download-and-install-of-samsung-m2070fw-printing-software/"><u>Speedy Download & Install of Samsung M2070FW Printing Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-msi-speaker-and-headset-drivers-for-windows-users/"><u>Updated MSI Speaker and Headset Drivers for Windows Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Adjustment of Corticosteroid Therapy with Careful Assessment to Reduce Their Use, Balancing Anti-Inflammatory Needs and Minimizing Immunosuppression
-date: 2024-09-05T19:56:43.221Z
-updated: 2024-09-06T19:56:43.221Z
+date: 2024-10-21T01:14:27.345Z
+updated: 2024-10-26T17:56:11.668Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes Adjustment of Corticosteroid Therapy with Carefu
 thumbnail: https://thmb.techidaily.com/e7b4c7d026fb9a820758c805a32df2a4b6a1efba9319850eda25937764e730c5.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Adjustment of Corticosteroid Therapy with Careful Assessment to Reduce Their Use, Balancing Anti-Inflammatory Needs and Minimizing Immunosuppression
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap535-300x262.png)
@@ -35,12 +29,6 @@ thumbnail: https://thmb.techidaily.com/e7b4c7d026fb9a820758c805a32df2a4b6a1efba9
 
 [**Method 2 – Automatically:**](https://tools.techidaily.com/drivereasy/download/) This option is**much quicker and easier** .**All** you need to do is**just a couple of mouse clicks** !
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Download and update the drivers for your HP Elitebook 8460p manually
 
  You can download the updated driver files from the official website of HP. Then install them on your laptop on your own. Here is how to do it:
@@ -51,60 +39,50 @@ thumbnail: https://thmb.techidaily.com/e7b4c7d026fb9a820758c805a32df2a4b6a1efba9
 2. On the top of the web page, click**Support** . Then click**Software & drivers** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap539.png)
 3. Select**Laptop** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap543-1.png)
 4. Click**Let HP detect your product** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap544.png)
 5. If HP detected your product, follow the on-screen instructions to download the drivers for your HP Elitebook 8460p. If it failed, then click**Find out more** next to**Let HP detect your product** .  
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap545-1.png)
 6. In the search bar, type **HP Elitebook 8460p** and click**the search button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap546.png)
 7. Click**Software and Drivers** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap547-1.png)
 8. **Select your operating system and version** . If you don’t know the version of your Windows operating system, see[ How to check Windows version \[Easily\]](https://tools.techidaily.com/drivereasy/download/) . Then click**Change** . HP will list all the drivers available for your HP EliteBook 8460p.  
+
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap548.png)
 9. If you want to download a single driver, just click the**Download** button next to that driver; if you want to download multiple drivers, you need to click**the add-to-download-list button** to add then to the download list first. After that, click**Open download list** view the download list.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap549.png)
 10. Click**Download files** to download the drivers in the list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap550.png)
@@ -120,14 +98,16 @@ thumbnail: https://thmb.techidaily.com/e7b4c7d026fb9a820758c805a32df2a4b6a1efba9
 2. Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap551.png)
 3. Click **Update**  next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap552.png)  
  You can do it for free if you like, but it’s partly manual.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 Please leave your comment below if you have any questions or suggestions.
@@ -142,8 +122,6 @@ Please leave your comment below if you have any questions or suggestions.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +129,26 @@ Please leave your comment below if you have any questions or suggestions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-exploring-new-realms-of-thought-30plus-vr-metaphysical-messages/"><u>[Updated] 2024 Approved Exploring New Realms of Thought 30+ VR Metaphysical Messages</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-harmonizing-your-browsing-experience-with-automatic-youtube-playback-on-facebook/"><u>[Updated] 2024 Approved Harmonizing Your Browsing Experience with Automatic YouTube Playback on Facebook</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-a-step-by-step-walkthrough-to-change-profile-pictorials/"><u>[Updated] A Step-by-Step Walkthrough to Change Profile Pictorials</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-5-tactics-from-experts-a-journey-of-online-brand-growth/"><u>2024 Approved Top 5 Tactics From Experts A Journey of Online Brand Growth</u></a></li>
+<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-s17-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-top-pick-find-my-preferred-macbooks-usb-c-charging-cable-under-70-on-amazon-detailed-reviews-and-deals-featured/"><u>Affordable Top Pick: Find My Preferred MacBook's USB-C Charging Cable Under $70 on Amazon - Detailed Reviews & Deals Featured</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/behind-closed-doors-how-microsofts-revolutionary-chip-could-outshine-the-iconic-macbook-zdnet-report/"><u>Behind Closed Doors: How Microsoft's Revolutionary Chip Could Outshine the Iconic MacBook | ZDNET Report</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhance-your-iphone-pics-in-minutes/"><u>Enhance Your iPhone Pics in Minutes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-a-discounted-acer-nitro-5-for-your-gaming-needs-save-250-deal/"><u>Get a Discounted Acer Nitro 5 for Your Gaming Needs | Save $250 Deal!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-an-underestimated-laptop-add-on-transformed-my-device-into-a-powerhouse-the-ultimate-tech-upgrade/"><u>How an Underestimated Laptop Add-On Transformed My Device Into a Powerhouse - The Ultimate Tech Upgrade</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-motorola-edge-40-neo-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-exploring-aerial-photos-a-deep-dive-into-dji-sparks-mini-marvel/"><u>In 2024, Exploring Aerial Photos A Deep Dive Into DJI Spark's Mini Marvel</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximizing-your-impact-on-chromeos-development-the-ultimate-guide-to-submitting-valuable-feedback-and-its-importance/"><u>Maximizing Your Impact on ChromeOS Development: The Ultimate Guide to Submitting Valuable Feedback and Its Importance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/protect-your-privacy-research-reveals-risks-of-unauthorized-access-by-computer-techs/"><u>Protect Your Privacy: Research Reveals Risks of Unauthorized Access by Computer Techs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-5-exciting-new-copilotplus-powered-laptops-unveiled-at-ifa-202n4-featuring-a-special-selection-for-gamers/"><u>Top 5 Exciting New Copilot+ Powered Laptops Unveiled at IFA 202N4, Featuring a Special Selection for Gamers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-the-power-of-play-huge-savings-alert-on-asuss-rog-zephyrus-now-only-550-cheaper-dive-into-details-at-zdnet/"><u>Unleash the Power of Play: Huge Savings Alert on Asus's ROG Zephyrus, Now Only $550 Cheaper! Dive Into Details at ZDNET.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/witty-wordsmiths-war-chatgpt-vs-the-wise-bard/"><u>Witty Wordsmiths' War: ChatGPT Vs. The Wise Bard</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnets-insider-tip-score-the-samsung-odyssey-neo-g8-at-a-steep-550-off-limited-time-offer-from-best-buy-for-prime-shoppers/"><u>ZDNET's Insider Tip: Score the Samsung Odyssey Neo G8 at a Steep $550 Off - Limited Time Offer From Best Buy for Prime Shoppers!</u></a></li>
+</ul></div>
 

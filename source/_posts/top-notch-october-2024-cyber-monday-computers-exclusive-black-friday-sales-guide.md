@@ -1,7 +1,7 @@
 ---
 title: "Top-Notch October 2024 Cyber Monday Computers: Exclusive Black Friday Sales Guide"
-date: 2024-10-17T03:44:28.589Z
-updated: 2024-10-20T19:56:56.816Z
+date: 2024-10-24T01:30:11.315Z
+updated: 2024-10-26T16:42:48.732Z
 tags:
   - laptops
 categories:
@@ -76,13 +76,6 @@ Microsoft's 2024 Surface Laptop is a fast, lightweight laptop with a fantastic b
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXKQYNPD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07196d14-0ec8-40f7-b05f-cbfc092288f2%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best laptops for students
 
 Dell/ZDNET
@@ -108,10 +101,16 @@ Asus/ZDNET
 * [Microsoft Surface Laptop Snapdragon X Elite](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXL68236%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07196d14-0ec8-40f7-b05f-cbfc092288f2%7Cdtp&dtb=1) for $1,560 ($139 off): The higher-end Copilot+ certified laptop with the 12-core Snapdragon X Elite chip and 1TB of storage is also still on sale following October Prime Day.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## More October Prime Day 2024 laptop deals
@@ -123,6 +122,13 @@ Kyle Kucharski/ZDNET
 * [Acer Nitro 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHexa-Core-GeForce-Display-Backlit-AN16-41-R148%2Fdp%2FB0D3VJXSWK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07196d14-0ec8-40f7-b05f-cbfc092288f2%7Cdtp&dtb=1) for $799 (save $200): This mid-range gaming laptop has a 16-inch display with a 165Hz refresh rate and is built with an Nvidia GeForce RTX 4050 graphics card.
 * [Acer Swift Go 14](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Facer-Display-Experiences-Processor-SFG14-72T-718K%2Fdp%2FB0CNDTGC77%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07196d14-0ec8-40f7-b05f-cbfc092288f2%7Cdtp&dtb=1) for $699 (save $300): This lightweight laptop features an Intel Core Ultra 7 155H CPU, Intel Arc graphics, 16GB of RAM, and a 512GB SSD.
 * [HP 17-inch Touch Laptop](https://qvc.uikc.net/c/159047/565130/9368?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.qvc.com%2Fhp-17-touch-laptop-intel-n200-4gb-ram-128gb-ssd-w-hp-mouse-%2526-ms365.product.E324465.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for $479 (Save $80): For a large-screen laptop with touch capabilities, HP's 17-inch Touch comes in a variety of bold colorways, and is bundled with a mouse in this QVC deal. This is a solid choice for users who want a large screen to play media, but only need a basic hardware configuration.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best Buy laptop deals
 
@@ -142,15 +148,22 @@ Kyle Kucharski/ZDNET
 
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals before and after those days as well. 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Are laptops really cheaper on Prime Day?
 
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
@@ -164,13 +177,6 @@ When compiling the list of the best deals, we considered the following:
 * **Price**: Naturally, the price point of our recommended laptops has to include a worthwhile discount. While some discounts are small in relation to an overall price tag - for example, $30 off a $150 device - and other discounts are in the hundreds of dollars, we wanted to ensure that in any case, it's value for money.
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What are the best October Prime Day 2024 deals?
 
@@ -238,19 +244,16 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-tips-for-adding-personalized-audio-effects-to-windows-10-photos/"><u>[New] 2024 Approved Tips for Adding Personalized Audio Effects to Windows 10 Photos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-leading-android-and-ios-timer-tools-reviewed-your-big-day-planners-must-haves-for-2024/"><u>[New] Leading Android & iOS Timer Tools Reviewed Your Big Day Planner's Must-Haves for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-original-visual-storytelling-appraisal-and-substitutions/"><u>[Updated] 2024 Approved Original Visual Storytelling Appraisal & Substitutions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-top-pick-windows-10s-cutting-edge-apps-and-games/"><u>[Updated] 2024 Approved Top Pick Windows 10’S Cutting-Edge Apps & Games</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/bring-your-favorite-tunes-to-the-social-network-iphoneandroid/"><u>Bring Your Favorite Tunes to the Social Network (iPhone/Android)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-6s-plus-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone 6s Plus</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/chromecasts-decline-how-google-let-down-its-popular-streaming-device/"><u>Chromecast's Decline: How Google Let Down Its Popular Streaming Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-evaluation-of-fujifilm-instax-mini-99-the-ultimate-guide-to-an-iconic-polaroid-alternative/"><u>Comprehensive Evaluation of Fujifilm Instax Mini 99 – The Ultimate Guide to an Iconic Polaroid Alternative</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-govee-triad-led-floor-lights-assessment-versatile-illumination-solutions-with-premium-costs/"><u>Comprehensive Govee Triad LED Floor Lights Assessment: Versatile Illumination Solutions with Premium Costs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-reveiw-by-oladance-evaluating-the-sound-performance-of-popular-open-ear-headphone-models/"><u>Comprehensive Reveiw by Oladance: Evaluating the Sound Performance of Popular Open-Ear Headphone Models</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/creating-a-smarter-living-space-how-this-prime-day-marks-the-start-of-my-intelligent-home-journey/"><u>Creating a Smarter Living Space: How This Prime Day Marks the Start of My Intelligent Home Journey</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/creme-brulee/"><u>Crème Brûlée</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-vivo-v27e-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Vivo V27e</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-turn-on-or-off-comments-on-youtube/"><u>[Updated] In 2024, How to Turn on or Off Comments on YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-launching-joining-and-scheduling-zoom-calls-made-simple-for-android-users/"><u>[Updated] Launching, Joining, and Scheduling Zoom Calls Made Simple for Android Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974584286-bluetooth-compatibility-upgrade-premium-msi-driver-software-tailored-for-windows-11-and-10-free-download/"><u>Bluetooth Compatibility Upgrade: Premium MSI Driver Software Tailored for Windows 11 & 10 - Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/como-actualizar-manualmente-los-drivers-en-windows-cuando-no-hay-conexion-a-internet-disponible/"><u>Cómo Actualizar Manualmente Los Drivers en Windows Cuando No Hay Conexión a Internet Disponible</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1725289556160-dvd-pc/"><u>DVDへのダビング : PCで初めての手順を探る</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-sm-bus-controller-program-downloads-for-windows-users-versions-11-10-8-and-s/"><u>Easy Installation: SM Bus Controller Program Downloads for Windows Users (Versions 11, 10, 8 & S)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-meizu-21-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Meizu 21 Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-intel-nuc-revision-user-friendly-steps-for-immediate-driver-update/"><u>Speedy Intel NUC Revision | User-Friendly Steps for Immediate Driver Update</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-amd-rx-580-driver-with-ease-and-speed/"><u>Step-by-Step Guide: Updating Your AMD RX 580 Driver with Ease & Speed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-typewriter-troubles-solving-non-responsive-keys-in-windows-os/"><u>Troubleshooting Typewriter Troubles: Solving Non-Responsive Keys in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-remedying-windows-11-app-error-afc/"><u>Understanding and Remedying Windows 11 APP Error AFC</u></a></li>
 </ul></div>
 

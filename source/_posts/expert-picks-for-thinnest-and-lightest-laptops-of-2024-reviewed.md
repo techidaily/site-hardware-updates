@@ -1,7 +1,7 @@
 ---
 title: Expert Picks for Thinnest & Lightest Laptops of 2024 Reviewed
-date: 2024-10-15T04:01:24.560Z
-updated: 2024-10-20T22:07:46.071Z
+date: 2024-10-20T02:13:03.866Z
+updated: 2024-10-26T19:16:36.372Z
 tags:
   - laptops
 categories:
@@ -48,10 +48,10 @@ Cons
 ## Apple MacBook Air M3
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best lightweight laptop overall
@@ -82,14 +82,14 @@ Cons
 * Generic design
 * Loud fans
 
-## Acer Swift Go 14
-
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Acer Swift Go 14
 
 ### Best lightweight laptop for AI
 
@@ -116,19 +116,6 @@ Pros
 Cons 
 * Compact size means it can run hot
 * Comes pre-loaded with bloatware
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Asus ROG Zephyrus G14
 
@@ -163,6 +150,13 @@ Cons
 
 ## LG Gram Pro 17
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best lightweight laptop with a 17" display
 
 The LG Gram Pro 17 takes portability to the extreme. At just half an inch thick and weighing barely over three pounds, the Gram Pro 17 not only holds a Guinness record, but achieved something that at one time was thought to be impossible for a 17" laptop.
@@ -195,10 +189,10 @@ Cons
 ## Lenovo ThinkPad X1 Carbon
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best lightweight laptop for work
@@ -214,13 +208,6 @@ It also comes with an 8MP webcam that can shoot in 4K, perfect for presenting a 
 **Lenovo ThinkPad X1 Carbon t** **ech specs:** Intel Core Ultra 7 155H processor | Integrated Intel graphics card | 16GB memory, 1TB SSD | 14-inch OLED display | Up to 8 hours of battery life | 2.47 lbs 
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is the best lightweight laptop?
 
@@ -246,6 +233,19 @@ The best lightweight laptop for you depends on what you want to get out of it. L
 | LG Gram Pro 17                      | The lightest, thinnest 17-inch laptop on the market, no matter the cost.                 |
 | Lenovo X1 Carbon                    | A durable, powerful laptop for work.                                                     |
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How we test lightweight laptops
 
 Kyle Kucharski/ZDNET
@@ -261,13 +261,6 @@ We use a combination of methods to test laptops here at ZDNET. First, we acquire
 * **The human element:**  As we mentioned earlier, metrics and system data is important, but numbers alone don't give you the full picture. This is where we weave in our personal experience with the device and tap into the practical use cases that consumers actually care about.
 
 Ultimately, our goal is to break down the capabilities of each and every laptop we test into digestible terms that real people can find useful. There is a lot of noise and confusion when it comes to navigating the laptop and computer consumer market, so we hope to bring an intuitive element to the whole process by leveraging our team's decades of experience. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Factors to consider when choosing a lightweight laptop
 
@@ -293,6 +286,13 @@ Most laptops today weigh between two and a half and five pounds, with a five-pou
 
 The heaviest laptops on this list are the Asus ROG Zephyrus G14 and the 15-inch MacBook Air M3, each weighing just 3.3 pounds. In the laptop world, that's light. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What slim laptop backpack do we recommend?
 
 We love lightweight laptops because they're easy to carry around. But the backpack you carry it in is just as important. There are many great backpacks out there for transporting your laptop, but here are a few we recommend.
@@ -301,13 +301,6 @@ We love lightweight laptops because they're easy to carry around. But the backpa
 
 [ZDNET RECOMMENDS Matein Travel Laptop Backpack Packed with travel-friendly features like a luggage strap and an anti-theft back pocket that protects your valuables, the Matein travel laptop is an inexpensive and solid travel backpack for your laptop. A bonus feature is an external USB charging port for easy charging on the go. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBackpack-Business-Charging-Resistant-Computer%2Fdp%2FB06XZTZ7GB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8589d0e2-8331-4290-b852-f74426c3cd72%7Cdtp&dtb=1)[ZDNET RECOMMENDS Herschel Little America Backpack Herschel backpacks have a timeless design that's comfortable to wear thanks to the contoured padded back straps. It comes in two sizes which can hold up to a 13-inch laptop or a 15-inch laptop. Its drawstring closure expands to create extra storage space while the magnetic front straps secure what's inside. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB00838TCGO%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8589d0e2-8331-4290-b852-f74426c3cd72%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which operating system should you choose: Windows, MacOS, Chrome OS, or Linux?
 
 While every computing platform has its loyal supporters, most people end up using a particular operating system because of key applications running on it, employer preferences, or budgetary constraints. Windows, which ranges from budget to premium, and Apple's MacOS, which is exclusive to premium devices, cover a broad spectrum. Chrome OS is mostly limited to mid-range devices.
@@ -315,6 +308,13 @@ While every computing platform has its loyal supporters, most people end up usin
 **Also:** **[Comparing the best Macs: Is a MacBook or Mac Studio right for you?](https://www.zdnet.com/article/best-mac/)** 
 
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are there alternative lightweight laptops worth considering?
 
@@ -362,16 +362,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-step-into-the-world-of-incredible-ig-filmmaking/"><u>[New] 2024 Approved Step Into the World of Incredible IG Filmmaking</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-mobilesync-facebook-video-grabber-for-2024/"><u>[New] Mobilesync Facebook Video Grabber for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-streamlining-your-creative-process-with-vsco-app/"><u>[New] Streamlining Your Creative Process with VSCO App</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-melody-to-video-quick-sound-import-tricks/"><u>2024 Approved Melody to Video Quick Sound Import Tricks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/building-your-own-chatai-with-gpt-foundations/"><u>Building Your Own ChatAI with GPT Foundations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-installation-and-updates-hid-keyboard-drivers-downloaded-in-a-snap/"><u>Effortless Installation & Updates: HID Keyboard Drivers Downloaded in a Snap</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722966486511-fixing-network-issues-install-the-latest-broadcom-ethernet-driver-on-your-windows-solved-machine/"><u>Fixing Network Issues? Install the Latest Broadcom Ethernet Driver on Your Windows ^[SOLVED]^ Machine</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fresh-update-how-to-download-and-install-hp-laserjet-pro-p3015-drivers-for-windows-devices/"><u>Fresh Update: How to Download & Install HP LaserJet Pro P3015 Drivers for Windows Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722958281835-get-your-hp-designjet-500-up-and-running-free-updated-drivers-for-download-now/"><u>Get Your HP Designjet 500 Up and Running: Free, Updated Drivers for Download Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-elgato-drivers-in-no-time-step-by-step-tutorial/"><u>How to Get Elgato Drivers in No Time - Step-by-Step Tutorial</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-shuffle-youtube-playlist-for-2024/"><u>[Updated] How to Shuffle YouTube Playlist for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-founders-flowchart-for-launching-a-review-video-channel/"><u>[Updated] The Founder's Flowchart for Launching a Review Video Channel</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-innovative-strategies-for-revamping-your-video-covers-on-fb/"><u>2024 Approved Innovative Strategies for Revamping Your Video Covers on FB</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-video-recording-titans-obs-studio-vs-fraps-face-off/"><u>2024 Approved Video Recording Titans OBS Studio vs Fraps Face-Off</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/arctis-9-series-troubleshooting-steps-for-non-functioning-mic-fixes/"><u>Arctis 9 Series: Troubleshooting Steps for Non-Functioning Mic Fixes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722966240150-download-nvidia-1080-graphics-driver-for-windows-10-quick-and-simple-steps/"><u>Download NVIDIA 1080 Graphics Driver for Windows 10: Quick & Simple Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-update-hp-officejet-5255-printer-drivers-download-now/"><u>Easy Guide to Update HP Officejet 5255 Printer Drivers - Download Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-pc-gaming-on-dell-g3-by-refreshing-core-system-drivers/"><u>Elevate Your PC Gaming on Dell G3 by Refreshing Core System Drivers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhance-your-windows-experience-with-simple-video-trimming-tips/"><u>Enhance Your Windows Experience with Simple Video Trimming Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-compatible-realtek-drivers-for-windows-10/"><u>Free Download: Compatible Realtek Drivers for Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-killer-e2500-gigabit-ethernet-drivers-here/"><u>Get the Latest Killer E2500 Gigabit Ethernet Drivers Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-updated-pci-device-software-for-multiple-windows-versions-here/"><u>Get Your Updated PCI Device Software for Multiple Windows Versions Here!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Vivo V27e? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-transform-your-instagram-footage-with-the-leading-video-conversion-apps-of-the-year/"><u>How To Transform Your Instagram Footage With The Leading Video Conversion Apps of the Year</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-pinpointing-video-picks-s-social-landscape-facebook/"><u>In 2024, Pinpointing Video Picks 'S Social Landscape (Facebook)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-access-downloading-the-essential-amd-gpio-drivers/"><u>Instant Access: Downloading the Essential AMD GPIO Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-installation-guide-for-acer-wireless-network-drivers-no-cost-easy-download/"><u>Quick Installation Guide for Acer Wireless Network Drivers | No Cost, Easy Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-audio-setup-freshly-released-focusrite-scarlett-18i20-drivers-for-windows-systems-available-here/"><u>Upgrade Your Audio Setup: Freshly Released Focusrite Scarlett 18I20 Drivers for Windows Systems Available Here</u></a></li>
 </ul></div>
 

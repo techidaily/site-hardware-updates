@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Reconfiguring Your Mac's Command Key - Tips From ZDNet"
-date: 2024-10-19T21:24:25.542Z
-updated: 2024-10-20T22:24:47.979Z
+date: 2024-10-24T18:58:15.247Z
+updated: 2024-10-26T18:29:01.853Z
 tags:
   - laptops
 categories:
@@ -54,13 +54,6 @@ That means you either just don't have enough RAM (which means you need to upgrad
 
 If you've just bought a new system and it feels sluggish right out of the box, my advice is to send it back. It's not going to get better, and chances are that even if you could upgrade it to make it faster, it's going to cost you more than buying a decent system to begin with.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Can you even upgrade your laptop?
 
 Over the past decade, we've seen a shift (initially driven by Apple's MacBook lines) to systems where the RAM can't be upgraded. This is often justified by manufacturers as a way to make systems thinner and lighter, but it also means that people can't upgrade these laptops, so they become prematurely obsolete.
@@ -77,10 +70,10 @@ There are two ways to tell if your system's RAM can be upgraded:
 2. Let the RAM experts tell you – both [Crucial](https://www.crucial.com/products/memory/laptop-dram) and [Kingston](https://www.kingston.com/en/memory/desktop-laptop) have tools to help you locate this information (this is what I use -- don't just guess!)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Information you need to know
@@ -92,13 +85,6 @@ Here are things you need to know before pulling the trigger on an upgrade:
 * What kind of RAM does your system take?
 
 RAM comes in modules -- boards with chips on them -- that slip into slots in your laptop. There are a few variables -- different modules, different RAM capacities, and different speeds – that you need to know about to find the right RAM for your system.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How much RAM do you have?
 
@@ -112,6 +98,13 @@ Here's how to find out how much RAM is in your system:
 Checking how much RAM on a Windows 11 PC
 
 Adrian Kingsley-Hughes/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much RAM do you need to buy?
 
@@ -134,13 +127,6 @@ Another thing to be aware of is that if there are two RAM slots, these will be o
 If there's only one slot, then the RAM in that slot can't be used.
 
 The best way to tell how RAM is organized in your system is to open it up and take a look (we'll get to this shortly).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tools you need
 
@@ -179,6 +165,19 @@ OK, here are the steps for getting inside your laptop to change your RAM:
 
 There will be parts and screws that are easier to keep track of if there's no other clutter for them to mix with. 
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Power down and unplug your laptop
 
 Don't poke around inside a laptop that's plugged in!
@@ -186,13 +185,6 @@ Don't poke around inside a laptop that's plugged in!
 ## 3\. Remove the battery (if you can)
 
 If the battery is removable, remove it. If not, you can disconnect the battery from the motherboard after you've taken the back cover off (carefully, as these connectors and cables can be quite fragile).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Get at the RAM
 
@@ -212,6 +204,13 @@ RAM module popped up once clips are released
 
 stock.adobe.com
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Refit the new RAM
 
 Slot the RAM in at the same angle that it popped up to, then press it down into place -- you'll hear it click into place. If it doesn't feel like it's going into place easily, stop, check that the orientation is correct and try again.
@@ -224,6 +223,13 @@ stock.adobe.com
 
 Disconnect your ESD strap and refit the hatch or base of the laptop, and make sure that there are no parts left over. Don't force anything into place and take care not to trap any cables. If anything doesn't feel right, undo what you're doing and check.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Test that everything works
 
 If your laptop fires up, check that the extra RAM is seen by the system.
@@ -231,6 +237,13 @@ If your laptop fires up, check that the extra RAM is seen by the system.
 You're done!
 
 ## FAQ
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can increasing RAM improve performance?
 
@@ -246,13 +259,6 @@ A computer is the sum of its parts, and for a fast PC you need a good balance of
 
 **Also:** [**What graphics card do I have? How to check your GPU and drivers**](https://www.zdnet.com/article/what-graphics-card-do-i-have-how-to-check-your-gpu-and-drivers/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which brand of RAM is best for laptop?
 
 I generally stick with Crucial or Kingston RAM. These are the brands that I've had the best success with.
@@ -262,10 +268,10 @@ I generally stick with Crucial or Kingston RAM. These are the brands that I've h
 Not really -- an [8GB module for a typical laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCrucial-DDR4-Laptop-Memory-CT8G4SFRA32A%2Fdp%2FB08C4Z69LN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C23f7bd3b-420e-4228-9f33-9c87b4acd319%7Cdtp&dtb=1) is around $25\. A 32GB RAM module [costs less than $100](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCrucial-DDR4-Laptop-Memory-CT8G4SFRA32A%2Fdp%2FB08C4X9VR5%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C23f7bd3b-420e-4228-9f33-9c87b4acd319%7Cdtp&dtb=1).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is 64GB of RAM overkill?
@@ -274,18 +280,18 @@ Unless you are running some really heavy, specialist workloads -- such as render
 
 But you'll never run into a situation of not having enough RAM!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What can you do with 1TB of RAM?
 
 Waste a LOT of money!
 
 Truth is, you won't find a laptop that has anywhere near 1TB of RAM.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How much RAM can you add to a 4GB laptop?
 
@@ -323,24 +329,24 @@ For some laptops, 4GB is the maximum and the end of the road, for other laptops,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-celebrity-fleeting-frame-study-for-2024/"><u>[New] Celebrity Fleeting Frame Study for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-top-9-sites-for-accessing-cutting-edge-3d-font-art/"><u>[New] Unveiling the Top 9 Sites for Accessing Cutting-Edge 3D Font Art</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-ultimate-rule-book-on-instagram-video-length/"><u>[Updated] In 2024, The Ultimate Rule Book on Instagram Video Length</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-top-end-video-refresher-resolution-renaissance-for-2024/"><u>[Updated] Top-End Video Refresher Resolution Renaissance for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-samsung-galaxy-f15-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Samsung Galaxy F15 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/brother-hl-2280dw-driver-installation-guide-compatible-with-windows-111087/"><u>Brother HL 2280DW Driver Installation Guide: Compatible with Windows 11/10/8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatible-with-xbox-series-xs-and-xbox-one-free-download-insigh-usb-to-ethernet-converter-driver/"><u>Compatible with Xbox Series X/S and Xbox One, Free Download: Insigh USB to Ethernet Converter Driver</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-tutorial-on-successfully-installing-new-ralink-drivers-for-windows-users/"><u>Comprehensive Tutorial on Successfully Installing New Ralink Drivers for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-drivers-hp-officejet-pro-8610-compatible-with-windows-1087xpvista/"><u>Download & Update Drivers: HP Officejet Pro 8610 Compatible with Windows 10/8/7/XP/Vista</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-download-of-intels-latest-nvme-controller-drivers/"><u>Effortless Download of Intel's Latest NVMe Controller Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-your-pcs-audio-with-asus-realtek-drivers-for-free/"><u>Enhance Your PC's Audio with ASUS Realtek Drivers for Free!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-epson-wf-2630-printer-drivers-on-windows-7-81-and-10-free-download/"><u>Install Epson WF 2630 Printer Drivers on Windows 7, 8.1 & 10 - Free Download</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Infinix Smart 8? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/stay-connected-secure-the-newest-tp-link-usb-400-bluetooth-adapter-drivers-here/"><u>Stay Connected: Secure the Newest TP-Link USB 400 Bluetooth Adapter Drivers Here!</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-tecno-pop-8-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Tecno Pop 8 Screen | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/ultimate-guide-top-ranking-photo-techniques-for-e-commerce-in-2n23/"><u>Ultimate Guide: Top-Ranking Photo Techniques for E-Commerce in 2N23</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722973089618-updated-and-secure-access-the-new-wireless-driver-software-today/"><u>Updated & Secure: Access the New Wireless Driver Software Today!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/your-ultimate-walkthrough-for-accessing-fandango-films-via-firestick-at-home/"><u>Your Ultimate Walkthrough for Accessing Fandango Films via Firestick at Home</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-save-your-gameplay-moments-with-xbox-screen-recordings/"><u>[New] In 2024, Save Your Gameplay Moments with Xbox Screen Recordings</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-installing-snapchat-a-mac-owners-handbook-for-2024/"><u>[Updated] Installing Snapchat A Mac Owner's Handbook for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-copyright-concern-unscheduled-video-displacement/"><u>2024 Approved Copyright Concern Unscheduled Video Displacement</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/arduino-and-windows-synchronization-the-latest-driver-updates-unveiled/"><u>Arduino and Windows Synchronization: The Latest Driver Updates Unveiled</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-downloading-and-installing-logitech-g35-drivers-on-windows-windows-7810/"><u>Complete Guide to Downloading and Installing Logitech G35 Drivers on Windows (Windows 7/8/10)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-tutorial-revamping-usb-audio-device-drivers-in-windows-11107-systems/"><u>Comprehensive Tutorial: Revamping USB Audio Device Drivers in Windows 11/10/7 Systems</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/delving-deep-into-gestural-interfaces-for-2024/"><u>Delving Deep Into Gestural Interfaces for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-enhance-your-windows-7-wifi-connection-with-updated-drivers/"><u>Download & Enhance Your Windows 7 WiFi Connection with Updated Drivers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guia-paso-a-paso-para-cambiar-imagenes-desde-raw-a-jpg-sin-coste-mediante-movavi/"><u>Guía Paso a Paso Para Cambiar Imágenes Desde RAW a JPG Sin Coste Mediante Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Huawei Nova Y71? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-officejet-pro-8600-printer-software-for-windows/"><u>HP OfficeJet Pro 8600 Printer Software for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-the-fix-for-seamless-neat-scanner-operation-on-windows-devices-guide/"><u>Mastering the Fix for Seamless Neat Scanner Operation on Windows Devices [Guide]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/microsoft-windows-latest-patches-and-service-packs-jul-24-overview/"><u>Microsoft Windows Latest Patches and Service Packs - Jul '24 Overview</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/msi-sound-card-software-get-your-latest-drivers-instantly/"><u>MSI Sound Card Software: Get Your Latest Drivers Instantly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nexiq-usb-bridge-drivers-compatible-download-and-install-steps-guide/"><u>NEXIQ USB Bridge Drivers: Compatible Download and Install Steps Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-download-of-corsair-drivers-for-optimal-performance-in-windows/"><u>Quick Download of Corsair Drivers for Optimal Performance in Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-made-simple-ensuring-safe-and-effective-driver-updates-on-amd-ryzen-systems/"><u>Troubleshooting Made Simple: Ensuring Safe and Effective Driver Updates on AMD Ryzen Systems</u></a></li>
+<li><a href="https://article-tips.techidaily.com/tune-sharing-compliance-instagram-ip-codex-for-2024/"><u>Tune-Sharing Compliance Instagram IP Codex for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-to-w7-lenovo-y470-driver-support-guide/"><u>Upgrade to W7 - Lenovo Y470 Driver Support Guide</u></a></li>
 </ul></div>
 

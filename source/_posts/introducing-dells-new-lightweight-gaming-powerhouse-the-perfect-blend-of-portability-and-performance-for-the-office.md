@@ -1,7 +1,7 @@
 ---
 title: Introducing Dell's New Lightweight Gaming Powerhouse - The Perfect Blend of Portability & Performance for the Office
-date: 2024-10-14T02:07:32.044Z
-updated: 2024-10-21T00:41:42.156Z
+date: 2024-10-24T22:36:03.664Z
+updated: 2024-10-26T23:51:59.974Z
 tags:
   - laptops
 categories:
@@ -71,10 +71,10 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -113,17 +113,20 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-pinnacle-performance-comparison-hero5-black-and-hero4-silver-for-2024/"><u>[New] Pinnacle Performance Comparison Hero5 Black and Hero4 Silver for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-weekly-webinar-strategies-timing-and-coordination-tips/"><u>[Updated] Weekly Webinar Strategies Timing and Coordination Tips</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-solutions-to-samsung-printer-driver-issues-in-windows-fixed/"><u>Easy Solutions to Samsung Printer Driver Issues in Windows - Fixed!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-online-converter-convert-flv-to-avi-with-movavi-fast-and-easy/"><u>Free Online Converter: Convert FLV to AVI with Movavi - Fast and Easy!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-modern-technology-in-depth-evaluations-from-toms-hardware-insider/"><u>Mastering Modern Technology: In-Depth Evaluations From Tom's Hardware Insider</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On OnePlus Nord N30 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-usb-30-driver-updates-for-multiple-windows-versions/"><u>Step-by-Step Guide: USB 3.0 Driver Updates for Multiple Windows Versions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/surface-book-2-driver-downloads-and-updates-made-simple-for-you/"><u>Surface Book 2 Driver Downloads and Updates Made Simple for You</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-shooting-top-10-high-definition-dslr-stands/"><u>Ultimate Shooting Top 10 High-Definition DSLR Stands</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-hp-officejet-pro-vee-6970-printer-software-for-windows-pcs/"><u>Update Your HP OfficeJet Pro Vee 6970 Printer Software for Windows PCs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-simplified-methods-to-screen-record-instagrams-story-feature-for-2024/"><u>[New] Simplified Methods to Screen Record Instagram's Story Feature for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-next-big-thing-10-games-that-inspire-gta-v/"><u>[Updated] 2024 Approved Next Big Thing 10 Games That Inspire GTA V</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-smart-spending-on-action-cams-find-your-bargains-under-100/"><u>[Updated] 2024 Approved Smart Spending on ACTION Cams Find Your Bargains Under $100</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-splitting-screens-evaluating-splitcams-video-quality/"><u>[Updated] In 2024, Splitting Screens Evaluating SplitCam's Video Quality</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/complete-guide-eliminating-gosearchesgg-redirects-with-malwarefox/"><u>Complete Guide: Eliminating GoSearches.gg Redirects with MalwareFox</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/diy-solutions-to-the-common-problems-with-realteks-rtl8723be-driver/"><u>DIY Solutions to the Common Problems with Realtek's RTL8723BE Driver</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-updated-thunderbolt-support-software-for-windows-computers-here/"><u>Get Updated Thunderbolt Support Software for Windows Computers Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-officejet-pro-8720-driver-installation-find-download-and-apply-updates-made-simple-on-your-windows-device/"><u>HP OfficeJet Pro 8720 Driver Installation: Find, Download & Apply Updates Made Simple on Your Windows Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969790031-install-updates-for-your-hp-m404n-laserjet-printer-today/"><u>Install Updates for Your HP M404n Laserjet Printer Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-canon-mg3120-driver-updates-for-windows-7-8-and-10-users/"><u>Latest Canon MG3120 Driver Updates for Windows 7, 8 & 10 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-the-quick-fix-tackling-your-logitech-c615-drivers-seamlessly/"><u>Mastering the Quick-Fix: Tackling Your Logitech C615 Drivers Seamlessly</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-starfield-freezing-issues-optimizing-game-performance-on-windows-computers/"><u>Overcome Starfield Freezing Issues: Optimizing Game Performance on Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722964610154-speedy-setup-obtain-your-linksys-ae1200-drivers-with-these-simple-tips/"><u>Speedy Setup: Obtain Your Linksys AE1200 Drivers with These Simple Tips!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-art-of-track-blending-simplifying-the-music-splicing-process/"><u>The Art of Track Blending: Simplifying the Music Splicing Process</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-scansnap-ix500-wireless-printer-driver-for-optimal-windows-performance-a-step-by-step-tutorial/"><u>Update ScanSnap iX500 Wireless Printer Driver for Optimal Windows Performance - A Step-by-Step Tutorial</u></a></li>
 </ul></div>
 

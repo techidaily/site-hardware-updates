@@ -1,7 +1,7 @@
 ---
 title: "Inside Tom's Gear Hub: The Definitive Guide to Hardware Specs"
-date: 2024-09-05T19:59:39.566Z
-updated: 2024-09-06T19:59:39.566Z
+date: 2024-10-19T16:16:28.266Z
+updated: 2024-10-26T18:42:41.834Z
 tags:
   - cpu
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/3a153ca8f2151a31f0bfcdf6fa8070d85fd583f87560d1faafe457040c6fd984.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Turbocharge Ryzen 9 9950X to a Whopping 6GHz: Unleash Up to 27% More Core Power & Impress on the GeekBench Scale
 
 It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.com/pc-components/cpus/amd-announces-zen-5-ryzen-9000-processors-launches-in-july-four-new-ryzen-9-7-and-5-processors-with-a-16-ipc-improvement) samples early are continuing to test them, as an interesting new benchmark result has been shared online. Twitter’s [HXL,](https://x.com/9550pro/status/1816306680227062157) an Asus system packing an AMD Ryzen 9 9950X engineering sample (ES), was checked in Geekbench 6\. Moreover, this Zen 5 16C/32T consumer flagship was overclocked to 5.95 GHz. That’s a modest 300 MHz faster than the stock maximum clock.
@@ -42,30 +36,12 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
 
 ![Geekbench result for 9950X](https://cdn.mos.cms.futurecdn.net/tNUgRFEtXhcXGXaaJ92WwB-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Future)
 
  Another enlightening view of the AMD Ryzen 9 9950X came from an official source, the firm’s in-house Extreme Overclocking team. They cooled the upcoming Zen 5 flagship with LN2 to demonstrate impressive performance in popular benchmarks like Cinebench R23 and R15\. The team broke records along the way, thanks to the Zen 5 architecture IPC benefits and lashings of LN2 enabling[clock speeds up to 6.75 GHz](https://www.tomshardware.com/pc-components/cpus/ryzen-9-9950x-overclocked-to-67-ghz-with-ln2-liquid-nitrogen-helps-amds-newest-flagship-break-previous-world-records) .
 
  Sadly, we will have to wait a little longer than expected to get chips like the AMD Ryzen 9 9950X in Tom’s Hardware labs. Yesterday the news broke that these Zen 5 desktop chips would start to[roll out in August](https://www.tomshardware.com/pc-components/cpus/amd-delays-its-ryzen-9000-launch-due-to-unspecified-quality-issue-new-launch-in-august-chipmaker-pulls-back-all-units-shipped-globally-for-quality-checks) due to unspecified quality issue(s).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -74,14 +50,11 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -90,4 +63,35 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-auditory-ambience-finder-for-film-and-video-sets/"><u>[New] Auditory Ambience Finder For Film and Video Sets</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-digital-duel-how-jake-paul-triumphed-on-youtube/"><u>[New] In 2024, The Digital Duel How Jake Paul Triumphed on YouTube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/act-fast-to-secure-200-off-the-latest-m1-macbook-air-exclusive-deal-alert/"><u>Act Fast to Secure $200 Off the Latest M1 MacBook Air - Exclusive Deal Alert!</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/comment-resoudre-les-problemes-de-boot-camp-lorsque-la-copie-des-fichiers-damorcage-echoue-apprenez-ces-trois-techniques/"><u>Comment Résoudre Les Problèmes De Boot Camp Lorsque La Copie Des Fichiers D'Amorçage Échoue - Apprenez Ces Trois Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-deal-alert-apples-latest-m2-macbook-air-now-at-an-unbeatable-price-of-799-before-prime-day-reveals/"><u>Exclusive Deal Alert: Apple's Latest M2 MacBook Air Now at an Unbeatable Price of $799 Before Prime Day Reveals</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-deal-alert-get-your-dream-content-creation-laptop-for-half-off-spotted-on-zdnet/"><u>Exclusive Deal Alert! Get Your Dream Content Creation Laptop for Half Off - Spotted on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-offer-alert-metas-512gb-quest-3-the-ultimate-bargain-on-vr-gear-today/"><u>Exclusive Offer Alert: Meta's 512GB Quest 3 - The Ultimate Bargain on VR Gear Today!</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-itel-s23-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-music-service-migration-keeping-playlists-intact/"><u>In 2024, Music Service Migration Keeping Playlists Intact</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-15-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone 15</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tecnicas-expertas-para-recortar-cuadro-en-video-con-movavi/"><u>Técnicas Expertas Para Recortar Cuadro en Video Con Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-processors-for-gamers-insights-from-zdnet/"><u>Top-Ranking Processors for Gamers - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbelievable-price-cuts-during-hp-cyber-week-save-up-to-71-on-computers-and-monitors-s-inside-look/"><u>Unbelievable Price Cuts During HP Cyber Week: Save Up to 71% on Computers & Monitors 'S Inside Look</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-potential-how-lenovo-tab-extreme-challenges-apples-ipad-pro-the-overlooked-rivals/"><u>Unlocking Potential: How Lenovo Tab Extreme Challenges Apple's iPad Pro - The Overlooked Rivals</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-realme-gt-5-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Realme GT 5</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

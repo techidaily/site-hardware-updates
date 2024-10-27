@@ -1,7 +1,7 @@
 ---
 title: ZDNet's In-Depth Look at The Framework Chromebook – Revolutionizing Repairability & Longevity for Future Tech Enthusiasts
-date: 2024-10-18T23:00:20.522Z
-updated: 2024-10-20T17:46:54.914Z
+date: 2024-10-23T22:30:30.958Z
+updated: 2024-10-26T18:48:34.347Z
 tags:
   - laptops
 categories:
@@ -45,16 +45,10 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -81,10 +75,10 @@ The ability to run two external monitors with the lid closed is one of the M3 Ma
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How I tested the M3 MacBook Air
@@ -149,19 +143,6 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What are the best features of M3 MacBook Air?
 
 **Features and form factor make it a light "pro" laptop:** The thin, light, and compact design of the M3 MacBook Air makes it a great ultraportable laptop that is easy to carry and slip into virtually any bag or backpack. And with the fact that the M3 chip now packs more power than ever makes this a machine that is as powerful as the fastest pro laptops from just a couple of years ago. Case in point, take a look at the benchmark scores above of the M3 MacBook Air compared to the MacBook Pro with M1 Pro. It essentially matches or exceeds most of the numbers of that MacBook Pro, which was an absolute performance beast in recent years.
@@ -192,6 +173,13 @@ Jason Hiner/ZDNET
 
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccd8f9078-4e77-496d-a208-fe808b070d0c%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccd8f9078-4e77-496d-a208-fe808b070d0c%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Final thought
 
 At first glance, it may seem odd that Apple is releasing the upgraded [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) lineup just nine months after the 15-inch M2 version was [first unveiled at Apple WWDC in June 2023](https://www.zdnet.com/video/apple-wwdc-2023-every-product-revealed-vision-pro-15-inch-macbook-air-more/). But, this is a good thing. For the 13-inch and 15-inch MacBook Air models, this is an incremental upgrade that brings them up to date with [the new M3 processors that Apple announced last fall](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/) and continues them on their trajectory to be more capable and more of the light professional-grade laptops that many people can use to handle all of their work. 
@@ -203,10 +191,10 @@ Up close with the M3 MacBook Air 15-inch in Midnight.
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -255,22 +243,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-from-camera-roll-to-feed-adding-photos-on-instagram/"><u>[New] 2024 Approved From Camera Roll to Feed Adding Photos on Instagram</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-accurate-and-efficient-video-frame-grabber/"><u>[Updated] Accurate and Efficient Video Frame Grabber</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-discover-the-premier-5-ios-podcast-clients/"><u>2024 Approved Discover the Premier 5 iOS Podcast Clients</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/usb-ssd/"><u>推荐的 USB 外置 SSD 自动备份软件 - 选型与功能全面</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-hp-sound-card-drivers-for-free-fast-and-simple/"><u>Download HP Sound Card Drivers For Free – Fast & Simple</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-focusrite-scarlett-2i2-windows-audio-interface-software/"><u>Download the Latest Focusrite Scarlett 2I2 Windows Audio Interface Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-ultimate-guide-to-behringer-audio-drivers/"><u>Free Download: Ultimate Guide to Behringer Audio Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-logitech-g29-racing-wheel-software-setup-guide-and-downloads-compatible-with-windows-7-8-and-10/"><u>Free Logitech G29 Racing Wheel Software Setup Guide & Downloads Compatible with Windows 7, 8, and 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722978673735-get-the-latest-gigabyte-wb867d-i-graphics-card-drivers-here/"><u>Get the Latest Gigabyte WB867D-I Graphics Card Drivers Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-correctly-address-and-solve-microsofts-battery-drivers-issues-with-acpi-compliance/"><u>How to Correctly Address and Solve Microsoft’s Battery Drivers Issues with ACPI Compliance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-canon-imageclass-mf2742-printer-driver-on-your-window-machine/"><u>How to Get the Newest Canon ImageCLASS MF2742 Printer Driver on Your Window Machine</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo Y56 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-instantly-top-rated-driver-software-for-arduino-mega-2560-download-today/"><u>Install Instantly: Top-Rated Driver Software for Arduino Mega 2560 - Download Today!</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/key-tips-to-enhance-your-experience-with-tiktok-macos/"><u>Key Tips to Enhance Your Experience with TikTok (macOS)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pixelpipe-pro-discovering-freepaid-editors-for-2024/"><u>PixelPipe Pro Discovering Free/Paid Editors for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-effortless-install-of-acer-predator-xb271hu-graphics-drivers-get-started-now/"><u>Quick & Effortless Install of Acer Predator XB271HU Graphics Drivers – Get Started Now</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-best-wake-up-time-miraris-childrener-alarm-clock-unboxed-and-tested/"><u>The Best Wake-Up Time: Mirari's Children'er Alarm Clock Unboxed and Tested</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-streamline-your-youtube-experience-creating-custom-subscription-bar-with-filmora/"><u>[New] 2024 Approved Streamline Your YouTube Experience Creating Custom Subscription Bar with Filmora</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-enhancing-roku-experience-for-facebook-live-broadcasts/"><u>[New] Enhancing Roku Experience for Facebook Live Broadcasts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-apeaksoft-scrutiny-mastering-the-art-of-screen-capture-review/"><u>[New] In 2024, Apeaksoft Scrutiny – Mastering the Art of Screen Capture Review</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-speedy-video-processing-for-youtube-tricks-to-render-and-upload-fast/"><u>[New] In 2024, Speedy Video Processing for YouTube Tricks to Render & Upload Fast</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-source-to-get-dell-network-adapter-driver-for-win7-operating-system/"><u>Best Source to Get Dell Network Adapter Driver for Win7 Operating System</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-mp2-files-to-wav-format-for-free-with-movavi-online-tools/"><u>Convert MP2 Files to WAV Format for Free with Movavi Online Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/diagnosing-and-repairing-your-usb-device-connection-in-windows-10/"><u>Diagnosing and Repairing Your USB Device Connection in Windows 10</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-realme-gt-5-pro-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Realme GT 5 Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722965986762-get-your-hands-on-the-latest-version-of-amds-general-purpose-inputoutput-gpio-drivers-free/"><u>Get Your Hands on the Latest Version of AMD's General Purpose Input/Output (GPIO) Drivers - Free</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-corsair-icue-interface-for-enhanced-pc-setup-windows-10-and-11-supported/"><u>Install Corsair iCUE Interface for Enhanced PC Setup - Windows 10 and 11 Supported</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-techkey-bluetooth-dongle-on-your-pc-supported-by-windows-versions-781011/"><u>Install Techkey Bluetooth Dongle on Your PC - Supported by Windows Versions 7,8,10,11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-steelseries-software-update-for-seamless-windows-11-gaming-experience-free-download/"><u>Latest SteelSeries Software Update for Seamless Windows 11 Gaming Experience - Free Download</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fixes-for-the-persistent-fortnite-freeze-problems-on-pc/"><u>Ultimate Fixes for the Persistent Fortnite Freeze Problems on PC</u></a></li>
 </ul></div>
 

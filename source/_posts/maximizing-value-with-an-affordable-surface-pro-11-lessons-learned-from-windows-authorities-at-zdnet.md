@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Value with an Affordable Surface Pro 11: Lessons Learned From Windows Authorities at ZDNet"
-date: 2024-10-16T20:07:04.188Z
-updated: 2024-10-21T03:39:26.877Z
+date: 2024-10-20T21:30:08.773Z
+updated: 2024-10-27T02:06:45.322Z
 tags:
   - laptops
 categories:
@@ -44,6 +44,13 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 
 How did this happen? Let's dive in.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The experience is familiar
 
 This laptop is a radical shift in the Windows ecosystem, but it doesn't feel all that different from its predecessors. In fact, it's almost indistinguishable from the Intel-powered Surface Pro 9 that's sitting on my desk alongside it. The slim bezels around the displays of the two devices are nearly the same dimensions. The new device, at 1.9 pounds, is the same weight as the Surface Pro 9 and is a few ounces heavier than the Surface Pro X, although that's not something you really notice until you have to lug it through an airport as you rush to make a connection. The Type Cover from the older Surface Pro clicked into place on the Surface Pro 11, exactly as expected.
@@ -57,10 +64,16 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -80,10 +93,10 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -122,13 +135,6 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The AI story is incomplete
 
 Every PC in the Copilot+ line includes a powerful neural processing unit designed to accelerate AI-based activities. Because I didn't spring for Microsoft's pricey new [Flex Keyboard](https://www.microsoft.com/en-us/d/surface-pro-flex-keyboard-with-slim-pen/93fzrmtgj6jw) and stuck with my old Type Cover, I didn't get a dedicated Copilot key. Instead, I had to run the [Copilot app](https://www.zdnet.com/article/microsoft-is-turning-windows-copilot-into-a-regular-app-and-heres-why-youll-like-it/), which works exactly like it does on any other Windows 11 PC. If it was chatting faster, I didn't notice.
@@ -150,16 +156,10 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -206,19 +206,16 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-capture-every-pixel-of-pc-gaming-bliss-6-ways/"><u>[New] 2024 Approved Capture Every Pixel of PC Gaming Bliss (6 Ways)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-quick-recovery-of-twitch-broadcasts/"><u>[New] 2024 Approved The Quick Recovery of Twitch Broadcasts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-olympic-rush-short-track-speed-skating-saga/"><u>2024 Approved Olympic Rush Short-Track Speed Skating Saga</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-u23-pro-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does U23 Pro has native MOV support?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-epson-es-400-scandriver-downloads-and-installation-guide-for-windows-users/"><u>Free Epson ES-400 ScanDriver Downloads & Installation Guide for Windows Users</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/from-casual-gamer-to-pro-elevating-your-minecraft-recordings-with-a-mac/"><u>From Casual Gamer to Pro Elevating Your Minecraft Recordings with a Mac</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-apple-iphone-12-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>How to Change GPS Location on Apple iPhone 12 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/improve-your-dell-xps-15-experience-a-comprehensive-guide-to-installing-the-latest-windows-drivers/"><u>Improve Your Dell XPS 15 Experience: A Comprehensive Guide to Installing the Latest Windows Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/perfectly-sync-your-devices-with-the-newest-m-audio-fast-track-driver-downloads-for-all-windows-editions/"><u>Perfectly Sync Your Devices with the Newest M-Audio Fast Track Driver Downloads for All Windows Editions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-on-driver-installation-for-lenovo-portable-docks/"><u>Step-by-Step Tutorial on Driver Installation for Lenovo Portable Docks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-securing-optimal-performance-of-amd-gpus-for-ethereum-and-bitcoin-mining-on-windows-systems/"><u>Step-by-Step Tutorial: Securing Optimal Performance of AMD GPUs for Ethereum and Bitcoin Mining on Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/thrustmaster-t300-controller-driver-downloads-compatible-with-windows-11-and-windows-10/"><u>Thrustmaster T300 Controller Driver Downloads Compatible with Windows 11 & Windows 10</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/transferencia-segura-del-disco-duro-mantenga-sus-datos-protegidos/"><u>Transferencia Segura Del Disco Duro - Mantenga Sus Datos Protegidos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-how-to-fix-a-computer-that-wont-boot-up/"><u>Troubleshooting Tips: How to Fix a Computer That Won't Boot Up</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-microsoft-screen-recorder/"><u>[Updated] In 2024, Microsoft Screen Recorder</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971233449-boost-your-pcs-gaming-potential-with-updated-geforce-rtx-3080-drivers-for-all-windows-versions/"><u>Boost Your PC's Gaming Potential with Updated GeForce RTX 3080 Drivers - For All Windows Versions!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-sm-bus-controllers-on-win1011/"><u>Fixing SM Bus Controllers on WIN10/11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-iphone-8-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked iPhone 8</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/persona-4-golden-fixes-resolving-game-crashes-effectively/"><u>Persona 4 Golden Fixes - Resolving Game Crashes Effectively</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-guide-scansnap-software-installation-for-windows/"><u>Quick & Simple Guide: ScanSnap Software Installation for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975798615-seamless-installation-how-to-get-the-latest-synaptics-touchpad-software-on-windows/"><u>Seamless Installation: How to Get the Latest Synaptics Touchpad Software on Windows</u></a></li>
+<li><a href="https://win-bits.techidaily.com/step-by-step-tutorial-capturing-flawless-video-broadcasts-on-ustream-made-easy/"><u>Step-by-Step Tutorial: Capturing Flawless Video Broadcasts on Ustream Made Easy</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-tesla-phone-latest-updates-on-launch-date-pricing-and-feature-speculations/"><u>Unveiling the Tesla Phone - Latest Updates on Launch Date, Pricing, and Feature Speculations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-and-update-on-the-fly-with-free-killer-network-driver-for-windows-10-8-and-7-users/"><u>Upgrade and Update on the Fly with Free Killer Network Driver for Windows 10, 8 & 7 Users</u></a></li>
 </ul></div>
 

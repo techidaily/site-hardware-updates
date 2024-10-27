@@ -1,7 +1,7 @@
 ---
 title: Experience the Future with Lenovo's Premium ThinkPad X13s - Unveiling Arm Powered Ultraportable Tech Enhanced by 5G and Extended Battery Life Insights
-date: 2024-10-15T00:15:07.276Z
-updated: 2024-10-20T21:09:07.847Z
+date: 2024-10-24T18:31:02.469Z
+updated: 2024-10-26T19:35:03.566Z
 tags:
   - laptops
 categories:
@@ -66,10 +66,10 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Features
@@ -83,10 +83,16 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -118,10 +124,10 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -175,10 +181,10 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -226,21 +232,20 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-how-to-convert-facebook-video-to-mp4-720p1080phd-online-and-free/"><u>[New] How to Convert Facebook Video to MP4 720P/1080p/HD Online and Free?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-how-to-perfectly-capture-audio-remotely/"><u>[New] In 2024, How to Perfectly Capture Audio Remotely</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-professional-photo-editing-blur-or-eliminate-unwanted-borders/"><u>[Updated] Professional Photo Editing Blur or Eliminate Unwanted Borders</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-camstudio-live-streaming-and-screen-capturing-review/"><u>2024 Approved CamStudio Live Streaming & Screen Capturing Review</u></a></li>
-<li><a href="https://win-lab.techidaily.com/diy-image-gallery-maker-craft-stunning-slideshows-with-soundtrack/"><u>DIY Image Gallery Maker: Craft Stunning Slideshows With Soundtrack!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-most-recent-printer-driver-software-for-your-brother-hl-2240-on-windows/"><u>Download the Most Recent Printer Driver Software for Your Brother HL-2240 on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/elevate-your-cpu-game-with-an-amd-ryzen-9700x-overclocking-to-58ghz-and-beyond-using-cutting-edge-aio-liquid-coolers-surpassing-expectations-at-a-steady-idl32/"><u>Elevate Your CPU Game with an AMD Ryzen #9700X: Overclocking to 5.8GHz and Beyond Using Cutting-Edge AIO Liquid Coolers, Surpassing Expectations at a Steady Idle Speed of 6 GHz</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975842946-get-the-most-out-of-your-epson-printer-by-updating-its-drivers-a-windows-easily-accessible-guide/"><u>Get the Most Out of Your Epson Printer by Updating Its Drivers – A Windows Easily Accessible Guide.</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-se-2020-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone SE (2020) Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/in-depth-guide-to-setting-up-windows-11-calendar/"><u>In-Depth Guide to Setting Up Windows 11 Calendar</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolved-the-issue-with-the-igfx-em-module-no-longer-functioning/"><u>Resolved: The Issue with the iGFX EM Module No Longer Functioning</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/successfully-installing-rndis-drivers-on-windows-a-step-by-step-solution/"><u>Successfully Installing RNDIS Drivers on Windows - A Step-by-Step Solution</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-technique-to-upgrade-graphics-card-software-on-windows-11-computers/"><u>The Ultimate Technique to Upgrade Graphics Card Software on Windows 11 Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-strategies-for-eliminating-latency-issues-in-fallout-4/"><u>Top Strategies for Eliminating Latency Issues in Fallout 4</u></a></li>
-<li><a href="https://fox-place.techidaily.com/top-strategies-for-managing-your-iphone-via-laptop-or-desktop/"><u>Top Strategies for Managing Your iPhone via Laptop or Desktop</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-hp-workstation-z440-compatible-driver-releases-and-download-links/"><u>Update Your HP Workstation Z440: Compatible Driver Releases and Download Links</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-top-editors-for-youtube-writers-and-creators-all-free/"><u>[New] 2024 Approved Top Editors for YouTube' Writers and Creators - All Free</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-digital-domination-how-videos-rule-twitter-for-2024/"><u>[New] Digital Domination How Videos Rule Twitter for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-rise-above-the-crowd-how-to-amass-over-a-million-video-views/"><u>[New] Rise Above the Crowd How to Amass Over a Million Video Views</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-epson-gt-s50-driver-compatible-with-windows-os-versions-7-8-and-10/"><u>Download & Install Epson GT S50 Driver: Compatible with Windows OS Versions 7, 8 & 10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-honor-magic-5-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Honor Magic 5? Try These Fixes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-infinix-hot-40-pro-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Infinix Hot 40 Pro Phone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-logitech-racing-steering-wheel-drivers-on-your-windows-computer-for-win-11107-free/"><u>Install Logitech Racing Steering Wheel Drivers on Your Windows Computer (For Win 11/10/7) - Free</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigate-through-asus-pce-ac56-drivers-issues-on-windows-operating-systems-solutions-for-windows-11-8-and-7/"><u>Navigate Through ASUS PCE-AC56 Drivers Issues on Windows Operating Systems: Solutions for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/roccat-gaming-tech-mouse-driver-download-elevate-your-control-precision/"><u>Roccat Gaming Tech | Mouse Driver Download - Elevate Your Control Precision</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scam-redefined-new-meta-signature-era/"><u>Scam Redefined: New Meta Signature Era</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/unleashing-virtual-reality-the-ultimate-iphone-experience/"><u>Unleashing Virtual Reality The Ultimate IPhone Experience</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-the-secrets-to-personal-brand-reformation-on-social-media/"><u>Unveiling the Secrets to Personal Brand Reformation on Social Media</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-the-latest-printing-driver-for-your-epson-wf-2650-on-windows-systems/"><u>Update to the Latest Printing Driver for Your Epson WF-2650 on Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-epson-xp-nano-printing-device-with-these-simple-steps-for-downloading-new-drivers/"><u>Update Your Epson XP-Nano Printing Device with These Simple Steps for Downloading New Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973071455-windows-7-intel-bluetooth-driver/"><u>Windows 7에서 Intel Bluetooth Driver를 쉽게 다운로드하는 루틴: 제가 도와주세요!</u></a></li>
 </ul></div>
 

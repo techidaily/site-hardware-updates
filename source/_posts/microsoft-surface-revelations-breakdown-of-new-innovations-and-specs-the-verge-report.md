@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Surface Revelations: Breakdown of New Innovations and Specs – The Verge Report"
-date: 2024-10-16T21:46:38.164Z
-updated: 2024-10-20T20:43:54.922Z
+date: 2024-10-23T19:47:39.924Z
+updated: 2024-10-26T22:27:06.799Z
 tags:
   - laptops
 categories:
@@ -71,13 +71,6 @@ Michael Gariffo/ZDNET
 
 **More: [The best laptops: Does Apple take the crown?](https://www.zdnet.com/article/best-laptop/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Features and ports
 
 That one on the top is the Surface Connect Port, not an SD card reader slot, which it so closely resembles.
@@ -85,6 +78,13 @@ That one on the top is the Surface Connect Port, not an SD card reader slot, whi
 Michael Gariffo/ZDNET
 
 Microsoft's port selection on the Surface Laptop 5 is very middle-of-the-road. That's a good thing. It acknowledges that plenty of USB-A peripherals still exist, so it includes a single USB-A port. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -139,10 +139,10 @@ This might be forgivable in a budget model. But even the base config [Surface La
 **More: [The 10 best webcams: Join your next Zoom call in HD](https://www.zdnet.com/article/best-webcam/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Performance and battery life
@@ -168,10 +168,10 @@ Overall, I'd have no qualms about leaving my charger at home and expecting to ge
 [Microsoft Surface Laptop 5 $1,095 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1738938556&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -181,10 +181,10 @@ I may seem like I had high standards for this review, and I did. This is a flags
 If you never videoconference or if wasted space around your display doesn't bother you, you're looking at the best Windows laptop you could buy right now. Even if those things do irk a bit, I'd recommend balancing them against the exceptional performance, build, and aesthetics. The Surface Laptop 5 is frustratingly close to being that universal leader among Windows portables that Microsoft wants it to be. But, if Microsoft wants that crown, I hope it updates the components that held this generation back when it comes time to design the Surface Laptop 6.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -235,21 +235,24 @@ Dell's latest entry in the XPS 13 lineup looks like it comes from further down t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-comprehensive-scrutiny-of-xstream-video-hubs-features/"><u>[New] 2024 Approved Comprehensive Scrutiny of XStream Video Hub's Features</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-mitigating-high-bitrate-in-obs-outputs/"><u>[New] 2024 Approved Mitigating High-Bitrate in OBS Outputs</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-finest-9-mic-recording-devices-compared/"><u>[Updated] 2024 Approved The Finest 9 Mic Recording Devices Compared</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-skype-meeting-recording-made-easy-for-both-oses/"><u>[Updated] Skype Meeting Recording Made Easy for Both OSes</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/1728492201910-cf/"><u>【レビュー付き】ご利用に耐えるCFカード情報回収ソフトウェア二択：使い勝手と機能比較</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/sive-access-to-premium-playlists-on-mobile-devices/"><u>Exclusive Access to Premium Playlists on Mobile Devices</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-fine-tune-music-for-stunning-canva-clips/"><u>How to Fine-Tune Music for Stunning Canva Clips</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, All You Need To Know About Mega Greninja For Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/samsung-unveils-revolutionary-2d-to-3d-conversion-in-their-latest-monitor-technology/"><u>Samsung Unveils Revolutionary 2D to 3D Conversion in Their Latest Monitor Technology</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/still-on-your-old-ipad-snag-the-cheapest-offer-yet-with-the-apple-pencil-2/"><u>Still on Your Old iPad? Snag the Cheapest Offer Yet with the Apple Pencil 2!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-challenge-of-managing-the-sleek-new-google-pixel-9-pro-with-small-hands/"><u>The Challenge of Managing the Sleek New Google Pixel 9 Pro with Small Hands</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-essential-benefits-of-owning-multiple-power-banks-a-must-have-accessory/"><u>The Essential Benefits of Owning Multiple Power Banks: A Must-Have Accessory!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-five-key-benefits-we-anticipate-with-nvidias-innovative-arm-processor-design/"><u>The Five Key Benefits We Anticipate with NVIDIA's Innovative Arm Processor Design</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-smart-shoppers-guide-choosing-cost-effective-motherboards-wisely/"><u>The Smart Shopper's Guide: Choosing Cost-Effective Motherboards Wisely</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-runners-guide-top-rated-earphones-for-your-workouts-a-tech-reviewers-picks/"><u>The Ultimate Runner's Guide: Top-Rated Earphones for Your Workouts - A Tech Reviewer's Picks</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-s24plus-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy S24+ Phone Network-Ready</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-pros-and-cons-of-virtual-reality/"><u>[New] Pros and Cons of Virtual Reality</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtubes-copyright-rules-simplified-a-non-legal-guide/"><u>[Updated] In 2024, YouTube's Copyright Rules Simplified A Non-Legal Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-comparative-look-at-samsung-photo-tools/"><u>A Comparative Look at Samsung Photo Tools</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/best-techniques-and-software-for-saving-episodes-from-hbo-go-using-screen-recorder-applications/"><u>Best Techniques and Software for Saving Episodes From HBO GO Using Screen Recorder Applications</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-improve-linksys-ae2500-drivers-fast-setup-for-better-connectivity/"><u>Download and Improve: Linksys AE2500 Drivers - Fast Setup for Better Connectivity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-ftdi-ft232r-usb-to-uart-converter-with-speedy-and-simplified-process/"><u>Download FTDI FT232R USB to UART Converter with Speedy and Simplified Process</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-drivers-for-universal-bluetooth-devices-on-your-pc/"><u>Download the Newest Drivers for Universal Bluetooth Devices on Your PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-gameplay-update-dell-inspiron-n3070n3110-graphics-drivers/"><u>Enhance Your Gameplay: Update Dell Inspiron N3070/N3110 Graphics Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-scanjet-drivers-installed-on-windows-systems/"><u>Get the Latest HP Scanjet Drivers Installed on Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-intel-centrino-ah73ah74-wireless-networking-card-drivers-here/"><u>Get Your Intel Centrino AH73/AH74 Wireless Networking Card Drivers Here!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hassle-free-downloading-of-epson-et-4550-drivers-for-windows-systems/"><u>Hassle-Free Downloading of Epson ET-4550 Drivers for Windows Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-infinix-smart-8-pro-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Infinix Smart 8 Pro Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Realme GT Neo 5 SE? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-5-iphone-x87-photoshoot-background-swappers/"><u>In 2024, Ultimate 5 iPhone X/8/7 Photoshoot Background Swappers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-guide-for-hp-thunderbolt-port-replicator-g2-with-120230w-adapter-driver-packs-download/"><u>Install Guide for HP Thunderbolt Port Replicator G2 with 120/230W Adapter - Driver Packs Download</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-issues-with-third-party-iphone-extras-not-supported-by-apple/"><u>Overcoming Issues with Third-Party iPhone Extras Not Supported by Apple</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revamp-your-system-effortlessly-expert-tips-on-windows-driver-upgrades/"><u>Revamp Your System Effortlessly - Expert Tips on Windows Driver Upgrades</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/successfully-repairing-samsung-universal-print-driver-glitches-on-windows-systems/"><u>Successfully Repairing Samsung Universal Print Driver Glitches on Windows Systems</u></a></li>
 </ul></div>
 

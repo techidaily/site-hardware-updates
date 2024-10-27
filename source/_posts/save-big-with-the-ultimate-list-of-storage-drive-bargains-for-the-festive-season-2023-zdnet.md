@@ -1,7 +1,7 @@
 ---
 title: Save Big with the Ultimate List of Storage Drive Bargains for the Festive Season, 2023 | ZDNET
-date: 2024-10-19T06:29:37.840Z
-updated: 2024-10-20T20:05:49.334Z
+date: 2024-10-22T02:18:25.153Z
+updated: 2024-10-26T19:44:00.390Z
 tags:
   - laptops
 categories:
@@ -38,16 +38,10 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [WD My Passport 4TB portable SSD](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1624288-REG%2Fwd%5Fwdbagf0040bgy%5Fwesn%5F4tb%5Fmy%5Fpassport%5Fssd.html): $250 (save $430 at B&H Photo)
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best holiday flash drive deals
@@ -59,16 +53,10 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [Corsair Survivor Stealth 256GB](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCorsair-Flash-Survivor-Stealth-256GB%2Fdp%2FB00YHL1RJG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C74382757-e7f6-4c91-aed4-ab1de073c773%7Cdtp&dtb=1): $55 (save $29 at Amazon)
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best holiday SD card deals
@@ -105,13 +93,6 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [WD Black SN770 2TB](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1702060-REG%2Fwd%5Fwdbbdl0020bnc%5Fwrsn%5F2tb%5Fwd%5Fblack%5Fsn770%5Fnvme.html): $118 (save $152)
 * [Crucial T700 4TB SSD](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1766243-REG%2Fcrucial%5Fct4000t700ssd3%5Ft700%5Fgen5%5Fnvme%5Fm%5F2.html): $450 (save $150)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best holiday storage and SSD deals at Newegg
 
 * [Samsung T7 2TB portable SSD](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fsamsung-t7-2tb%252Fp%252FN82E16820147762): $150 (save $60)
@@ -121,28 +102,41 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [Corsair MP600 Pro XT Hydro Edition M.2 4TB](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fcorsair-4tb-mp600-pro-xt-hydro-x-edition%252Fp%252FN82E16820236814): $289 (save $146)
 * [KingSpec 4TB 3D NAND SSD](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fkingspec-4tb-2-5-sata%252Fp%252F0D9-000D-00159): $140 (save $130)
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How did we choose these holiday deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the best SSD?
 
 My pick for the [best SSD](https://www.zdnet.com/article/best-ssd/) is the WD My Passport for its affordability, even at higher capacities, 256-bit AES encryption, compatibility with both Windows and macOS devices, and variety of capacities. It also features a drop and shock resistant chassis to help prevent data loss and corruption due to accidents. You can even set up a password to access the drive itself or specific folders and files to help prevent unauthorized use of your SSD. 
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the best holiday deals right now?
 
@@ -212,18 +206,20 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-stand-out-strong-tailoring-templates-for-video-gaming-logos/"><u>[New] Stand Out Strong Tailoring Templates for Video Gaming Logos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-navigating-digital-content-in-pedagogic-contexts/"><u>[Updated] In 2024, Navigating Digital Content in Pedagogic Contexts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-xsplit-collection-direct-download-guide-and-review/"><u>2024 Approved XSplit Collection Direct Download Guide & Review</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1728481967122-windows-10/"><u>如何利用 Windows 10 自由軟件進行有效作業系統及資料遷移: 最新指南</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/corsair-k55-controller-drivers-latest-version-available-now/"><u>Corsair K55 Controller Drivers - Latest Version Available Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-brother-dcp-l2540dw-printer-software-for-windows-easy-guide/"><u>Download and Install Brother DCP-L2540DW Printer Software for Windows - Easy Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-epson-stylus-nx420-drivers-compatible-with-windows-7-8-and-10/"><u>Download Epson Stylus NX420 Drivers: Compatible with Windows 7, 8 & 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/epson-wf-2630-inkjet-printer-drivers-compatible-with-win-78110-free-download/"><u>Epson WF-2630 Inkjet Printer Drivers: Compatible with Win 7/8.1/10 - Free Download</u></a></li>
-<li><a href="https://extra-information.techidaily.com/full-review-for-bublcam-360-camera/"><u>Full Review for Bublcam 360 Camera</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722974964324-get-your-gigabyte-audio-software-for-free-today/"><u>Get Your Gigabyte Audio Software for Free Today</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-persistent-enter-network-credentials-message-on-windows/"><u>How to Fix a Persistent Enter Network Credentials Message on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/practices-like-crop-rotation-intercropping-organic-amendments-and-biological-pest-control-decrease-reliance-on-chemical-fertilizers-and-pesticides-while-pro446/"><u>Practices Like Crop Rotation, Intercropping, Organic Amendments, and Biological Pest Control Decrease Reliance on Chemical Fertilizers and Pesticides While Promoting Natural Soil Fertility and Plant Health</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-gt-neo-5-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - GT Neo 5</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-gopro-spectrum-an-intensive-feature-by-feature-comparison/"><u>[New] 2024 Approved GoPro Spectrum An Intensive Feature-By-Feature Comparison</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-navigating-subtitle-files-like-a-pro-in-macos/"><u>[New] Navigating Subtitle Files Like a Pro in macOS</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-gopro-hero5-black-vs-gopro-hero4-silver/"><u>[Updated] 2024 Approved GoPro Hero5 Black vs GoPro Hero4 Silver</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-stepwise-approach-to-mastering-vimeo-recording/"><u>2024 Approved Stepwise Approach to Mastering Vimeo Recording</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/choosing-the-ultimate-2024-smart-television-check-out-our-expert-picks-at-zdnet/"><u>Choosing the Ultimate 2024 Smart Television? Check Out Our Expert Picks at ZDNet!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-why-sonys-bravia-series-is-a-top-choice-for-savvy-shoppers-seeking-quality-at-bargain-prices-limited-time-offer/"><u>Discover Why Sony's Bravia Series Is a Top Choice for Savvy Shoppers Seeking Quality at Bargain Prices - Limited Time Offer!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-review-uncovering-the-ultimate-non-vizio-non-jbl-soundbar-for-ultimate-audio-experience/"><u>Exclusive Review: Uncovering the Ultimate Non-Vizio, Non-JBL Soundbar for Ultimate Audio Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experts-picks-highly-rated-qled-televisions-slashed-by-1000-for-labor-day-blowout-find-your-perfect-model-smarthomeguide/"><u>Experts' Picks: Highly Rated QLED Televisions Slashed by $1,000 for Labor Day Blowout - Find Your Perfect Model | SmartHomeGuide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-vivo-y77t-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Vivo Y77t to iPod | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-13c-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Xiaomi Redmi 13C 5G Phone without Google Account?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huge-discount-on-amazons-top-tier-fire-tv-omnistream-qled-save-150-today-with-zdnet/"><u>Huge Discount on Amazon's Top-Tier Fire TV Omnistream QLED - Save $150 Today with ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/improving-audio-clarity-how-tvos-18-upgrades-transform-apple-tv-conversations/"><u>Improving Audio Clarity: How tvOS 18 Upgrades Transform Apple TV Conversations</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Why does the pokemon go battle league not available On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prime-performance-best-windows-player-apps-reviewed/"><u>Prime Performance Best Windows Player Apps Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/soluzioni-per-la-riproduzione-dei-file-mkv-su-sistemi-operativi-windows-e-mac/"><u>Soluzioni per La Riproduzione Dei File MKV Su Sistemi Operativi Windows E Mac</u></a></li>
 </ul></div>
 

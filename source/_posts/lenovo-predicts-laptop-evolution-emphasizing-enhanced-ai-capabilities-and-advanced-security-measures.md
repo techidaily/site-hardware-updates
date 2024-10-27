@@ -1,7 +1,7 @@
 ---
 title: "Lenovo Predicts Laptop Evolution: Emphasizing Enhanced AI Capabilities & Advanced Security Measures"
-date: 2024-10-20T02:54:32.403Z
-updated: 2024-10-20T19:00:15.939Z
+date: 2024-10-23T16:04:40.366Z
+updated: 2024-10-26T23:28:49.085Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -60,13 +60,6 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 | Price                 | Starting at [$1,980](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-12-Core-i7-1360P-Fingerprint-Thunderbolt4%2Fdp%2FB0CR9S1KFL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7720f040-ecee-4f18-b2a4-d4eddb365f24%7Cdtp&dtb=1) |
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
 
@@ -89,16 +82,10 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How does it perform?
@@ -121,6 +108,13 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Evaluating Lenovo's dual-screen software
 
 With such unique hardware, Lenovo had to build unique software for Windows 11 so that it behaves properly and gives you extra functionality.
@@ -141,13 +135,6 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## One thing to keep in mind
 
 Having a laptop with two screens means you'll have to lug around a separate keyboard, mouse, and kickstand, all three of which (plus a stylus) come in the box. It's a lot of separate things you have to remember to bring, and I'm going to be honest with you, it can be inconvenient.
@@ -157,6 +144,13 @@ Max Buondonno/ZDNET
 When I'm working on my MacBook or -- quite frankly -- any other laptop in my arsenal, all I have to do is close the lid and load it into my backpack when I'm finished. With the Yoga Book 9i, I have to close the laptop > collapse the kickstand > place the keyboard inside the collapsed kickstand > stack the keyboard/kickstand combo, mouse, and stylus on top of the laptop > shove it all in my bag and pray I can find it later when it's time to go back to work.
 
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -196,19 +190,20 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-is-splitcam-the-premier-choice-for-video-capture-in-2024/"><u>[New] Is SplitCam the Premier Choice for Video Capture, In 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-key-steps-to-enhance-real-time-sports-viewership-for-2024/"><u>[Updated] Key Steps to Enhance Real-Time Sports Viewership for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-motorola-edge-2023-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Motorola Edge 2023 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-updated-drivers-for-hp-officejet-t4500-printer-release/"><u>Download Updated Drivers for HP Officejet T4500 Printer, Release</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/enhancing-collaboration-whiteboard-tactics-for-all-zoom-users/"><u>Enhancing Collaboration Whiteboard Tactics for All Zoom Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-epson-wf-2630-driver-update-compatible-with-windows-78110/"><u>Get the Latest Epson WF-2630 Driver Update: Compatible with Windows 7/8.1/10</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-f14-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Samsung Galaxy F14 5G</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-iphone-13-pro-max-by-drfone-ios/"><u>How to Bypass iCloud Lock from iPhone 13 Pro Max</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-effortlessly-install-latest-updates-for-your-surface-drivers/"><u>How to Effortlessly Install Latest Updates for Your Surface Drivers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-zte-phone-by-drfone-android/"><u>How to Reset a Locked ZTE Phone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-drivers-for-logitech-gaming-steering-wheel-compatible-with-modern-windows-os-versions/"><u>Latest Drivers for Logitech Gaming Steering Wheel - Compatible with Modern Windows OS Versions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/official-nvidia-rtx-3070-ti-graphics-card-driver-free-download-for-windows-1187-users/"><u>Official NVIDIA RTX 3070 Ti Graphics Card Driver: Free Download for Windows 11/8/7 Users</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-reno-9a-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Reno 9A</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/tech-giant-intel-under-scrutiny-uncovering-the-details-of-a-recent-cpu-stability-lawsuit/"><u>Tech Giant Intel Under Scrutiny: Uncovering the Details of a Recent CPU Stability Lawsuit</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-effective-webinar-logging-tips-avoiding-common-pitfalls-windows-macos/"><u>[New] In 2024, Effective Webinar Logging Tips Avoiding Common Pitfalls (Windows, macOS)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/eamlessly-download-youtube-thumbnails-online/"><u>[New] Seamlessly Download YouTube Thumbnails Online</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-instagram-success-4-looping-video-strategies-for-2024/"><u>[New] Unlocking Instagram Success 4 Looping Video Strategies for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-tech-savvy-ways-to-record-mac-lectures/"><u>[Updated] In 2024, Tech-Savvy Ways to Record Mac Lectures</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-mastering-youtube-video-capture-techniques-for-2024/"><u>[Updated] Mastering YouTube Video Capture Techniques for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/affordable-action-camera-deals-top-6-for-less-than-100-only-for-2024/"><u>Affordable Action Camera Deals Top 6 for Less Than $100 Only for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-overview-of-the-galaxy-line-up-introduced-at-samsung-unpacked-insights/"><u>Exclusive Overview of the Galaxy Line-Up Introduced at Samsung Unpacked: Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fast-fixes-for-continuously-running-pc-fans-essential-guide-techradar/"><u>Fast Fixes for Continuously Running PC Fans - Essential Guide | TechRadar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-review-why-i-love-the-new-dell-xps-series-top-picks-for-tech-savvy-users/"><u>In-Depth Review: Why I Love the New Dell XPS Series - Top Picks for Tech Savvy Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/last-minute-opportunities-on-oct-2024-prime-day-top-gaming-discounts-and-savings-up-to-1k-dont-miss-out/"><u>Last-Minute Opportunities on Oct. 2024 Prime Day: Top Gaming Discounts & Savings Up to $1K - Don't Miss Out!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/remote-working-made-effortless-with-the-best-lightweight-laptops-on-the-market-according-to-a-seasoned-tech-guru-reviews/"><u>Remote Working Made Effortless with the Best Lightweight Laptops on the Market, According to a Seasoned Tech Guru Reviews</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/slovak-in-a-flash-online-learning-for-busy-lives/"><u>Slovak in a Flash - Online Learning for Busy Lives</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-your-savings-why-this-highly-endorsed-windows-notebook-outperforms-macbook-air-at-lower-prices-exclusive-zdnet-deal-alert/"><u>Snag Your Savings: Why This Highly Endorsed Windows Notebook Outperforms MacBook Air at Lower Prices, Exclusive ZDNet Deal Alert!</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-reverse-audio-best-audio-reversers/"><u>Updated Reverse Audio Best Audio Reversers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-laptop-to-dual-ultra-hd-screens-no-matter-the-original-specs-zdnet-insights/"><u>Upgrade Your Laptop to Dual Ultra HD Screens, No Matter the Original Specs | ZDNet Insights</u></a></li>
 </ul></div>
 

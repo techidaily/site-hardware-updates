@@ -1,7 +1,7 @@
 ---
 title: "Last-Minute October Deals for Gamers: Save Up to $1K During the Prime Day Sale | ZDNET Newsletter"
-date: 2024-10-14T20:15:44.447Z
-updated: 2024-10-21T01:16:53.793Z
+date: 2024-10-21T23:14:38.423Z
+updated: 2024-10-26T23:55:39.969Z
 tags:
   - laptops
 categories:
@@ -33,10 +33,16 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## More Dell holiday deals
@@ -96,6 +102,13 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best Dell laptop holiday deals
 
 * [Dell G15 gaming laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-G15-5535-Gaming-Laptop%2Fdp%2FB0CJGBMD42%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1): $1,000 (save $150)
@@ -105,10 +118,10 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell XPS 13 9310 13.4-inch touch laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-XPS-9310-Laptop-Touchscreen%2Fdp%2FB09PR52BHK%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) for $1,071 (save $429)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best Dell desktop holiday deals
@@ -126,13 +139,6 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell SE2422HX 24-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-inch-Monitor-1920-1080%2Fdp%2FB096MXR34N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1): $100 (save $30)
 * [Dell 27-inch 4K FreeSync monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721QS-Ultra-Thin-DisplayPort-Certified%2Fdp%2FB08DQWG3JG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) for $297 (save $33)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How did we choose these holiday deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
@@ -140,10 +146,10 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the best holiday deals?
@@ -218,20 +224,14 @@ Here are the top deals by category we've found so far:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-latest-techniques-for-ios-iphoneipad-screen-capture-2023-update-for-2024/"><u>[New] Latest Techniques for iOS (iPhone/iPad) Screen Capture - 2023 Update for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-hidden-pathway-to-logging-in-depth-whatsapp-chats/"><u>[Updated] 2024 Approved The Hidden Pathway to Logging In-Depth WhatsApp Chats</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-elevate-your-discussions-mastering-google-meet-dialogue/"><u>[Updated] Elevate Your Discussions Mastering Google Meet Dialogue</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-navigating-the-best-the-ultimate-7-android-adblockers-guide-for-2024/"><u>[Updated] Navigating the Best The Ultimate 7 Android AdBlockers Guide for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-vega-64-drivers-download-and-update-for-windowssolved/"><u>AMD Vega 64 Drivers Download & Update for Windows[SOLVED]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-asus-touchpad-support-software-for-windows-10-fast-and-simple-steps/"><u>Download ASUS Touchpad Support Software for Windows 10 – Fast & Simple Steps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-brother-mfc-7360n-printer-drivers-for-windows-10-8-and-7/"><u>Easy Installation: Brother MFC-7360N Printer Drivers for Windows 10, 8, and 7</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/energetic-public-speaker-review-8th-edition/"><u>Energetic Public Speaker Review 8Th Edition</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-logitech-mouse-drivers-and-software-for-windows-systems/"><u>Get the Latest Logitech Mouse Drivers & Software for Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-the-epson-workforce-ds30-printer-driver-on-microsoft-windows-systems/"><u>How to Download and Install the Epson WorkForce DS30 Printer Driver on Microsoft Windows Systems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-vivo-y27s-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Vivo Y27s to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/optimizing-your-video-capture-with-screencastify-for-2024/"><u>Optimizing Your Video Capture with Screencastify for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ryzen-processor-driver-download-latest-version-and-compatible-options/"><u>Ryzen Processor Driver Download - Latest Version & Compatible Options</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlocking-comfort-in-gaming-the-complete-breakdown-of-mavix-m9-chair-experience/"><u>Unlocking Comfort in Gaming: The Complete Breakdown of Mavix M9 Chair Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-windows-laptop-with-the-newest-pl2303-drivers-available-now/"><u>Update Your Windows Laptop with the Newest PL2303 Drivers Available Now!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-how-can-i-share-youtube-videos-on-facebook/"><u>[New] In 2024, How Can I Share YouTube Videos on Facebook?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-apple-iphone-14-plus-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On Apple iPhone 14 Plus? How to Fix it?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dell-wifi-card-software-update-free-access-here/"><u>Dell WiFi Card Software Update: FREE Access Here!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-look-the-10-best-countdown-clock-apps-for-your-big-event-androidios/"><u>In 2024, Exclusive Look The 10 Best Countdown Clock Apps for Your Big Event (Android/iOS)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-googles-portal-for-efficient-podcast-submission/"><u>In 2024, Google's Portal for Efficient Podcast Submission</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oppo-a18-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Oppo A18 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-g933-headset-latest-driver-download/"><u>Logitech G933 Headset Latest Driver Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-the-arduino-nano-driver-installation-process-for-windows-users-no-more-headaches/"><u>Mastering the Arduino Nano Driver Installation Process for Windows Users: No More Headaches</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-realtek-alc887-hd-audio-driver-problems-on-windows-systems/"><u>Resolving Realtek ALC887 HD Audio Driver Problems on Windows Systems</u></a></li>
 </ul></div>
 

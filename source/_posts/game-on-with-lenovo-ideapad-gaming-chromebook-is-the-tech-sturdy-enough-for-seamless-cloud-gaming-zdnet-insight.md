@@ -1,7 +1,7 @@
 ---
 title: Game On with Lenovo IdeaPad Gaming Chromebook - Is the Tech Sturdy Enough for Seamless Cloud Gaming? | ZDNet Insight
-date: 2024-10-14T02:25:57.259Z
-updated: 2024-10-20T20:21:09.944Z
+date: 2024-10-21T01:28:19.954Z
+updated: 2024-10-27T02:22:13.178Z
 tags:
   - laptops
 categories:
@@ -54,16 +54,10 @@ Honestly, the differences in that comparison will be mostly razor thin. My testi
 | Dimensions and weight | 19.95mm (H) x 356.5mm (W) x 253mm (D) (0.79 x 14.03 x 9.96 inches) \| 4.01lbs                                              |
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Build and ports
@@ -99,16 +93,10 @@ Unusually, for a Lenovo device, I didn't love the keyboard. The individual keys 
 Of course, you'll eventually get used to this layout, but I'm not certain it was necessary to begin with. Very few gamers make use of a full numpad for anything short of custom real-time strategy layouts or unusual MMORPG control schemes. Even then, they'd likely be better served by something like the [SteelSeries Aerox 9 Wireless](https://www.zdnet.com/home-and-office/home-entertainment/steelseries-aerox-9-wireless-review/), or another MMO/MOBA mouse that does the same job as a numpad.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Performance
@@ -134,10 +122,10 @@ As a last note, I should mention that the battery life of the IdeaPad Gaming Chr
 [Lenovo IdeaPad Gaming Chromebook $600 at Lenovo](https://lenovo.vzew.net/c/5597632/218864/3808?sharedId=zdnet&u=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fideapad%2Fideapad-gaming-laptops%2Fideapad-5i-gaming-chromebook-gen-7-%2816-inch-intel%29%2F82v8000hux&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -153,10 +141,10 @@ This Chromebook and others like it are already more than capable enough to handl
 Thankfully, progress is constantly being made. In the short few weeks between the Acer review and this one, Xbox Cloud Gaming has seen noticeable performance enhancements. But then again, it also continues to stop me dead when trying to play some games. I believe cloud gaming really will fulfill its potential...eventually. If you want an excellent way of joining in what will surely be a wild ride on the way there, Lenovo's take on a gaming Chromebook is one of the best options available. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -207,17 +195,20 @@ Would you rather dabble in cloud gaming, but maintain the ability to locally ins
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-unlocking-the-secrets-to-successful-360-streaming-on-fb-for-2024/"><u>[Updated] Unlocking the Secrets to Successful 360 Streaming on FB for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/espons-studio-es-400-driver-installation-steps-for-windows-users/"><u>ESPONS STUDIO ES-400 Driver Installation Steps for Windows Users</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/generate-memes-for-free-meme-creator-kit/"><u>Generate Memes for Free - Meme Creator Kit</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/high-quality-console-gameplay-capture-using-pcs/"><u>High-Quality Console Gameplay Capture Using PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-update-hp-scanjet-drivers-on-your-windows-computer-windows-10-87/"><u>How to Successfully Update HP Scanjet Drivers on Your Windows Computer (Windows 10, 8/7)</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-samsung-galaxy-a54-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Samsung Galaxy A54 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-rejuvenated-interview-framework-for-auditory-appeal/"><u>In 2024, Rejuvenated Interview Framework for Auditory Appeal</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mobility-boosted-video-stability-device-for-2024/"><u>Mobility Boosted Video Stability Device for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/smooth-running-grand-theft-auto-v-solutions-to-eliminate-gameplay-hiccups/"><u>Smooth Running Grand Theft Auto V: Solutions to Eliminate Gameplay Hiccups</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-for-samsung-960-evo-m2-driver-downloads-and-windows-installation-process/"><u>Step-by-Step Instructions for Samsung 960 EVO M.2 Driver Downloads & Windows Installation Process</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-made-simple-updating-your-intel-gpus-drivers-with-minimum-fuss/"><u>Troubleshooting Made Simple: Updating Your Intel GPU's Drivers with Minimum Fuss</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/uncover-previously-missed-messages-on-your-iphone-with-these-simple-steps/"><u>Uncover Previously Missed Messages on Your iPhone with These Simple Steps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/slr-vs-mirrorless-optimal-choice-for-video-production/"><u>[New] DSLR vs Mirrorless Optimal Choice for Video Production</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-best-twitter-tools-for-purifying-and-personalizing-your-timeline/"><u>[New] In 2024, Best Twitter Tools for Purifying & Personalizing Your Timeline</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-slideshow-feature/"><u>[New] Instagram Slideshow Feature</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pixel-perfect-viewing-comparing-worlds-top-8k-televisions/"><u>[New] Pixel-Perfect Viewing Comparing World's Top 8K Televisions</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-restricted-settings-due-to-user-level-administrator-controls/"><u>Eliminating Restricted Settings Due to User-Level Administrator Controls</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/excellence-in-viewing-10-preeminent-iphoneipad-videos-for-2024/"><u>Excellence in Viewing 10 Preeminent iPhone/iPad Videos for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-compatible-intel-usb-30-driver-software-for-windows-10-systems/"><u>Free Download: Compatible Intel USB 3.0 Driver Software for Windows 10 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-logitech-rx250-mouse-software-and-drivers-for-windows-7-8-and-10/"><u>Free Logitech RX250 Mouse Software & Drivers for Windows 7, 8 & 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hp-laserjet-pro-m452dn-printing-software-installed-now/"><u>Get Your HP LaserJet Pro M452dn Printing Software Installed Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975860705-get-your-logitech-g29-steering-wheel-drivers-for-pcs-running-windows-10117-now/"><u>Get Your Logitech G29 Steering Wheel Drivers for PCs Running Windows 10/11/7 Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-install-the-latest-brother-mfc-9130cw-device-drivers/"><u>How To Find and Install The Latest Brother MFC-9130CW Device Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-logitech-streamcam-hd-driver-on-your-pc-with-windows-10-or-11/"><u>Install Logitech StreamCam HD Driver on Your PC with Windows 10 or 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-mobile-direct-download-for-authentic-adb-drivers/"><u>Samsung Mobile: Direct Download for Authentic ADB Drivers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-strategies-to-stop-maplestory-from-crashing-on-windows-10-latest-tips/"><u>Top Strategies to Stop MapleStory From Crashing on Windows 10 [Latest Tips]</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/windows-11-compatible-nvidia-quadro-drivers-download-installation-and-troubleshooting-guide/"><u>Windows 11 Compatible NVIDIA Quadro Drivers – Download, Installation, and Troubleshooting Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Highlights From Apple's Fall Showcase: New M4 Mac Mini & Advanced iPad Models - Insights From ZDNet"
-date: 2024-10-14T22:45:41.216Z
-updated: 2024-10-20T19:03:35.964Z
+date: 2024-10-24T22:09:03.066Z
+updated: 2024-10-26T22:24:13.804Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,10 +60,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -77,10 +77,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -123,22 +123,24 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/download-mastering-windows-installation-of-your-new-focusrite-scarlett-2i2-audio-interface/"><u>[Download]: Mastering Windows Installation of Your New Focusrite Scarlett 2I2 Audio Interface!</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/xplore-the-best-apps-for-effortless-youtube-to-webm-conversion/"><u>[New] Explore the Best Apps for Effortless YouTube to WebM Conversion</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-v30-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo V30</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-gpio-driver-download-get-your-free-drivers-now/"><u>AMD GPIO Driver Download - Get Your Free Drivers Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-your-windows-experience-zexmte-bluetooth-adapter-software-now-available-for-11-7-and-8-users/"><u>Enhance Your Windows Experience - Zexmte Bluetooth Adapter Software, Now Available for 11, 7 & 8 Users</u></a></li>
-<li><a href="https://win-forum.techidaily.com/free-online-avi-converter-moveavi/"><u>Free Online AVI Converter - MoveAVI</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-effortless-realtek-device-drivers-installation-for-windows-operating-system/"><u>Guide: Effortless RealTek Device Drivers Installation for Windows Operating System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-enable-the-latest-hid-standard-mouse-support-on-your-pc/"><u>How to Enable the Latest HID Standard Mouse Support on Your PC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-huawei-p60-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Huawei P60? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-frame-it-up-right-insta-ready-video-edits-for-final-cut-pro-x/"><u>In 2024, Frame It Up Right Insta-Ready Video Edits for Final Cut Pro X</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-nanovid-recorder-analysis-with-replacements/"><u>In 2024, NanoVid Recorder Analysis with Replacements</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-wacom-intuos-pro-driver-download-for-windows-10-users/"><u>Quick & Simple Wacom Intuos Pro Driver Download for Windows 10 Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/recognizing-artificial-intelligence-illusions-identifying-and-understanding-ai-hallucinations/"><u>Recognizing Artificial Intelligence Illusions: Identifying & Understanding AI 'Hallucinations'</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-for-hp-envy-easy-driver-update-and-installation/"><u>Step-by-Step Instructions for HP Envy Easy Driver Update & Installation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-comprehensive-guides-and-in-depth-analysis/"><u>Tom's Tech Review - Comprehensive Guides and In-Depth Analysis</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-resolving-constant-kodi-crash-issues/"><u>Troubleshooting and Resolving Constant Kodi Crash Issues</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/virtual-camera-innovation-with-manycam-unleash-your-live-broadcast-potential/"><u>Virtual Camera Innovation with ManyCam: Unleash Your Live Broadcast Potential</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-mastering-iphone-video-playback-cycles/"><u>[New] 2024 Approved Mastering iPhone Video Playback Cycles</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-the-ultimate-guide-to-effective-youtube-banners/"><u>[New] 2024 Approved The Ultimate Guide to Effective YouTube Banners</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-illuminating-pathways-through-mixed-realitys-domain/"><u>[New] In 2024, Illuminating Pathways Through Mixed Reality's Domain</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-unleash-your-creative-potential-with-zooms-step-by-step-filter-guide/"><u>2024 Approved Unleash Your Creative Potential with Zoom's Step-by-Step Filter Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/coding-chaos-into-order-procedural-world-formation/"><u>Coding Chaos Into Order: Procedural World Formation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-nearly-1000-off-lenovo-business-laptops-for-prime-day-early-bird-savings-on-amazon/"><u>Don't Miss Out! Nearly $1,000 Off Lenovo Business Laptops for Prime Day Early Bird Savings on Amazon</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-nord-ce-3-5g-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Nord CE 3 5G?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-securely-delete-all-data-from-your-windows-pc-a-step-by-step-guide-cost-free-techtips/"><u>How to Securely Delete All Data From Your Windows PC: A Step-by-Step Guide (Cost-Free) | TechTips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-screen-mirroring-apple-iphone-xr-to-tv-or-pc-drfone-by-drfone-ios/"><u>In 2024, How Screen Mirroring Apple iPhone XR to TV or PC? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macxdvd-brand-new-upgrade-ultimate-macx-youtube-download-tool-with-record-breaking-4k-speed-performance-for-mac-users/"><u>MacXDVD Brand New Upgrade: Ultimate MacX YouTube Download Tool with Record-Breaking 4K Speed Performance for Mac Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-your-discounted-apple-m2-macbook-air-now-for-only-749-during-the-exclusive-october-prime-day-event-zdnet-news/"><u>Secure Your Discounted Apple M2 MacBook Air Now for Only $749 During the Exclusive October Prime Day Event | ZDNET News</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-a-steep-discount-save-36-on-the-impressive-8tb-samsung-t5-ssd-post-amazon-prime-day-exclusives/"><u>Snag a Steep Discount: Save 36% on the Impressive 8TB Samsung T5 SSD Post-Amazon Prime Day Exclusives</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-surprises-10-androidios-audio-twisters-for-2024/"><u>Sound Surprises 10 Android/iOS Audio Twisters for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-reconfiguring-your-macs-command-key-tips-from-zdnet/"><u>Step-by-Step Guide: Reconfiguring Your Mac's Command Key - Tips From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-complete-guide-to-assembling-a-top-tier-gaming-system-with-insights-from-zdnet/"><u>The Complete Guide to Assembling a Top-Tier Gaming System with Insights From ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-fixing-lego-star-wars-the-skywalker-saga-pc-game-freezes-in-202/"><u>Troubleshooting Steps for Fixing Lego Star Wars: The Skywalker Saga PC Game Freezes in 202^</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-alert-dive-into-ultimate-game-sound-with-a-64-discounted-speaker-system-on-amazon-discover-more/"><u>Unbeatable Deal Alert: Dive Into Ultimate Game Sound with a 64% Discounted Speaker System on Amazon - Discover More</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-dells-innovative-concept-luna-the-disassemblable-laptop-that-builds-tomorrow/"><u>Unveiling Dell's Innovative Concept Luna: The Disassemblable Laptop That Builds Tomorrow</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-workstation-for-less-grab-our-sale-on-the-multifunctional-10-in-1-docking-station-now-at-35-off-zdnet/"><u>Upgrade Your Workstation for Less: Grab Our Sale on the Multifunctional 10-in-1 Docking Station Now at 35% Off | ZDNet</u></a></li>
 </ul></div>
 

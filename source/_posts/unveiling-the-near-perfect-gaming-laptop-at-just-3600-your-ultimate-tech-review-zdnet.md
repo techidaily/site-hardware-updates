@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Near-Perfect Gaming Laptop at Just $3,600 - Your Ultimate Tech Review | ZDNet
-date: 2024-10-16T18:00:30.900Z
-updated: 2024-10-20T21:04:29.329Z
+date: 2024-10-21T16:13:55.787Z
+updated: 2024-10-26T18:43:30.883Z
 tags:
   - laptops
 categories:
@@ -75,10 +75,10 @@ Lenovo/ZDNET
 * [HP Omen 17](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1792500-REG%2Fhp%5F8r7u2ua%5Faba%5F17%5F3%5Fomen%5F17%5Fck2059nr%5Flaptop.html): $2499 (save $720)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best holiday laptop deals at Walmart
@@ -90,10 +90,16 @@ Lenovo/ZDNET
 * [XPG Xenia 15G](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FXPG-Xenia-15G-15-6-FHD-Gaming-Laptop-Intel-Core-i7-13700H-16-GB-DDR5-NVIDIA-GeForce-RTX-4060-1-TB-SSD-Windows-11-Home-Black-75260049%2F2130763084%3Fathbdg%3DL1700&subId1=zd-__COM_CLICK_ID__-dtp): $1149 (save $551)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best holiday gaming laptop deals at Newegg
@@ -123,19 +129,19 @@ Lenovo/ZDNET
 * [Razer Barracuda X wireless](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FRazer-Barracuda-X-Wireless-Stereo-Gaming-and-Mobile-Headset-for-PC-PS5-Nintendo-Switch-Android-2-4Ghz-Black%2F513768484%3Fathbdg%3DL1300&subId1=zd-__COM_CLICK_ID__-dtp): $69 (save $30 at Walmart)
 * [Corsair HS55 Surround wired](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FCORSAIR-HS55-Stereo-Gaming-Headset-Carbon-Multi-Platform-Compatible-Most-Devices-Including-PC-Mac-PS5-PS4-Xbox-Series-X-Nintendo-Switch-Mobile-Device%2F974565238&subId1=zd-__COM_CLICK_ID__-dtp): $39 (save $20 at Walmart)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best holiday gaming monitor deals
 
 * [Samsung Odyssey G85SB 34-inch curved OLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-DisplayHDR-FreeSync-Streaming-LS34BG850SNXZA%2Fdp%2FB0BLF2RWNV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0cd0bcf2-28d2-4d8e-9797-ef0cf5b06a34%7Cdtp&dtb=1): $900 (save $600 at Amazon)
 * [Samsung Odyssey Neo G9 49-inch curved gaming monitor](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-odyssey-49-1000r-curved-dual-qhd-freesync-g-sync-gaming-monitor-black%2F6468857.p%3FskuId%3D6468857&publisher_slug=itechdaily19598&exclusive=1): $1300 (save $900 at Best Buy)
 * [ViewSonic Elite XG 32-inch 4K LED](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fviewsonic-elite-xg320u-32-ips-led-4k-uhd-freesync-gaming-monitor-displayport-hdmi-usb-black%2F6487590.p%3FskuId%3D6487590&publisher_slug=itechdaily19598&exclusive=1): $600 (save $300 at Best Buy)
 * [LG 34-inch curved 1440p](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLG-34-144-Hz-OC-180-Hz-Nano-IPS-UWQHD-Gaming-Monitor-NVIDIA-G-SYNC-ULTIMATE-3440-x-1440-2K-DCI-P3-98-CIE1976-HDMI-DisplayPort-USB-UltraGear-34GP950G%2F388961716&subId1=zd-__COM_CLICK_ID__-dtp): $699 (save $598 at Walmart)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best holiday digital PC game deals
 
@@ -146,6 +152,13 @@ Lenovo/ZDNET
 * [Madden NFL 23](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmadden-nfl-23-windows-digital%2F6508468.p%3FskuId%3D6508468&publisher_slug=itechdaily19598&exclusive=1): $19 (save $41 at Best Buy)
 * [XCOM: Enemy Unknown](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16832205142): $7 (save $23 at Newegg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How did we choose these holiday gaming laptop deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
@@ -153,10 +166,10 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the best gaming laptop?
@@ -170,13 +183,6 @@ I chose the Asus TUF A15 (which happens to be on sale at several retailers) as t
 ## How much should a gaming laptop cost?
 
 A gaming laptop is one of those things where you can spend as little or as much as you want; it all depends on what you want to get out of it. If you're looking for your kids, or are an adult just starting to get into PC gaming, it's best to go with a laptop that's under $1000\. You'll still get a great build that's capable of handling most triple-A and indie titles, but you won't have broken the bank getting into a new hobby. However, if you're a content creator or PC gaming veteran, about $1500 will get you a solid gaming laptop that can handle just about anything in your library or wishlist.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best holiday tech deals right now?
 
@@ -243,15 +249,15 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-elevate-your-mac-experience-with-these-5-snippers/"><u>[New] 2024 Approved Elevate Your Mac Experience with These 5 Snippers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/op-10-student-friendly-history-yt-series-for-2024/"><u>[New] Top 10 Student-Friendly History YT Series for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-cutting-edge-video-playback-on-windows-mobile/"><u>[Updated] Cutting-Edge Video Playback on Windows Mobile</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-abletons-guide-to-softening-transition-endings/"><u>2024 Approved Ableton's Guide to Softening Transition Endings</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-asus-pce-ac68-driver-directly-from-our-site/"><u>Get Your ASUS PCE-AC68 Driver Directly From Our Site</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-asus-laptop-graphics-card-driver/"><u>How to Get the Latest ASUS Laptop Graphics Card Driver</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-plus-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Plus To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovo-thinkpad-t430-compatible-drivers-and-downloads-for-windows-10-8-and-7/"><u>Lenovo ThinkPad T430 - Compatible Drivers & Downloads for Windows 10, 8, and 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/scansnap-s510-driver-compatibility-update-quick-and-easy-setup/"><u>ScanSnap S510 Driver Compatibility Update - Quick & Easy Setup</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-harnessing-tech-acquiring-fb-status-video-content/"><u>[New] 2024 Approved Harnessing Tech Acquiring FB Status Video Content</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-passive-to-active-earnings-with-instagram-expertise/"><u>[Updated] From Passive to Active Earnings with Instagram Expertise</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-master-list-saving-your-favorite-ringtone-files/"><u>[Updated] In 2024, Master List Saving Your Favorite Ringtone Files</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-z170-a-driver-update-windows-11-8-and-7-compatible-downloads/"><u>ASUS Z170-A Driver Update: Windows 11, 8, and 7 Compatible Downloads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/corrective-measures-for-virtual-disks-not-starting/"><u>Corrective Measures for Virtual Disks Not Starting</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-version-of-epson-xp-420-printer-driver-for-optimal-performance-and-compatibility/"><u>Get the Newest Version of Epson XP 420 Printer Driver for Optimal Performance and Compatibility</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/optimizing-your-pcs-sound-settings-by-removing-enhancements-in-windows-11/"><u>Optimizing Your PC's Sound Settings by Removing Enhancements in Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/role-of-coast-guards-in-monitoring-vmsais-discuss-how-coast-guard-authorities-use-this-information-to-monitor-maritime-traffic-ensure-compliance-with-intern259/"><u>Role of Coast Guards in Monitoring VMS/AIS: Discuss How Coast Guard Authorities Use This Information to Monitor Maritime Traffic, Ensure Compliance with International Regulations, Detect Anomalies, and Respond Effectively to Emergencies or Threats.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974678441-ultimate-guide-to-installing-steelseries-keyboard-software-start-here/"><u>Ultimate Guide to Installing SteelSeries Keyboard Software – Start Here</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ready for the New Semester? Unlock Exclusive Discounts on Tech Gadgets for Students - Samsung Deals From ZDNet!
-date: 2024-10-16T18:11:03.631Z
-updated: 2024-10-20T19:38:55.322Z
+date: 2024-10-25T19:36:30.994Z
+updated: 2024-10-27T00:00:14.607Z
 tags:
   - laptops
 categories:
@@ -158,10 +158,10 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple accessory deals
@@ -178,16 +178,16 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Can I buy an iPhone without a plan?
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is the cheapest Apple product?
 
@@ -213,10 +213,10 @@ Factors influencing our recommendations include:
 * **Availability**: If we come across a great Apple deal but only a few units are in stock unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the best deals right now?
@@ -241,10 +241,10 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will these deals expire?
@@ -291,19 +291,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-the-youtube-comeback-kid-jake-pauls-story/"><u>[New] 2024 Approved The YouTube Comeback Kid Jake Paul’s Story</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-interweaving-art-and-science-in-colors/"><u>[Updated] Interweaving Art and Science in Colors</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-igtv-to-fb-broadcast-optimal-sharing-strategies/"><u>2024 Approved IGTV to FB Broadcast Optimal Sharing Strategies</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-understanding-the-transformations-in-vegaspro-19/"><u>2024 Approved Understanding the Transformations in VegasPro '19</u></a></li>
-<li><a href="https://driver-download.techidaily.com/epson-artisan-1430-eprints-find-and-download-the-latest-drivers-for-win-11-10-and-8/"><u>Epson Artisan 1430 ePrints: Find and Download the Latest Drivers for Win 11, 10 & 8</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/maximize-productivity-with-the-best-cost-effective-high-performance-laptops-for-your-smb/"><u>Maximize Productivity with the Best Cost-Effective, High-Performance Laptops for Your SMB</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/onyx-boox-poke-5-assessment-a-reliable-note-taking-companion/"><u>Onyx Boox Poke 5 Assessment: A Reliable Note-Taking Companion</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/predicting-the-future-of-your-androids-software-updates-how-long-can-you-expect/"><u>Predicting the Future of Your Android's Software Updates - How Long Can You Expect?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resizing-fonts-and-icons-on-your-android-device-a-comprehensive-guide/"><u>Resizing Fonts & Icons on Your Android Device: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/save-big-phones-under-1000-dont-compromise-on-quality/"><u>Save Big: Phones Under $1,000 Don’t Compromise on Quality</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-your-power-the-ultimate-guide-to-preventing-charger-cord-pilferage-with-a-simple-plug-lock/"><u>Secure Your Power: The Ultimate Guide to Preventing Charger Cord Pilferage with a Simple Plug Lock</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/should-you-protect-your-android-smartphone-with-antivirus-software/"><u>Should You Protect Your Android Smartphone with Antivirus Software?</u></a></li>
-<li><a href="https://games-able.techidaily.com/thriving-in-gameplay-understanding-macs-fortnite-limits/"><u>Thriving in Gameplay: Understanding Mac's Fortnite Limits</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-rated-no-cost-blu-ray-movie-software-compatible-with-windows-11-get-your-free-download-now/"><u>Top Rated No Cost Blu-Ray Movie Software Compatible with Windows 11: Get Your FREE Download Now!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-discovering-the-ultimate-10-free-youtube-artist-collaborators-for-2024/"><u>[Updated] Discovering the Ultimate 10 Free YouTube Artist Collaborators for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleashing-media-prime-video-players-on-windows-mobile/"><u>[Updated] Unleashing Media Prime Video Players on Windows Mobile</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-capture-excellence-prime-phone-compatible-tripods/"><u>2024 Approved Capture Excellence Prime Phone-Compatible Tripods</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-virtual-frontiers-five-incredible-upcoming-psvr-games/"><u>2024 Approved Virtual Frontiers Five Incredible Upcoming PSVR Games</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-oneplus-open-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General OnePlus Open Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-dolby-sound-enhancement-drivers-for-windows-11-10-and-81/"><u>Download the Newest Dolby Sound Enhancement Drivers for Windows 11, 10, and 8.1</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-hd-video-capture-secure-free-logiteche-webcam-drivers-for-winows-users/"><u>Effortless HD Video Capture: Secure Free Logiteche Webcam Drivers for Winows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-amd-radeon-hd-amzradeon-7870-drivers-and-upgrades-on-windows-10-system/"><u>How to Get the Newest AMD Radeon HD Amz Radeon 7870 Drivers & Upgrades on Windows 10 System</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-depth-examination-of-xcreative-vision-studio-a-complete-guide-for-2024/"><u>In-Depth Examination of XCreative Vision Studio - A Complete Guide for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-updated-drivers-for-your-hp-all-in-one-deskjet-3755-supports-win-111087-platforms/"><u>Install Updated Drivers for Your HP All-in-One DeskJet #3755 - Supports Win 11/10/8/7 Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977807121-obtain-your-eveo-bluetooth-device-drivers-here-instant-download-available/"><u>Obtain Your Eveo Bluetooth Device Drivers Here – Instant Download Available!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-internal-power-error-issue-in-windows-11-a-comprehensive-guide/"><u>Resolving the 'Internal Power Error' Issue in Windows 11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-stability-of-a-scaffold-involves-calculations-for-overturning-sliding-resistance-and-even-load-distribution/"><u>The Stability of a Scaffold Involves Calculations for Overturning, Sliding Resistance, and Even Load Distribution.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-dell-computer-download-the-most-recent-win7-network-adapter-driver/"><u>Update Your Dell Computer: Download the Most Recent Win7 Network Adapter Driver</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-best-options-top-live-streaming-platforms-according-to-types-for-2024/"><u>Updated Best Options Top Live Streaming Platforms According to Types for 2024</u></a></li>
 </ul></div>
 

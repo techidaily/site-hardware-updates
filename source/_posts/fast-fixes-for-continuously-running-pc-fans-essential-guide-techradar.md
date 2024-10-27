@@ -1,7 +1,7 @@
 ---
 title: Fast Fixes for Continuously Running PC Fans - Essential Guide | TechRadar
-date: 2024-10-18T23:46:32.978Z
-updated: 2024-10-20T17:12:25.034Z
+date: 2024-10-25T23:45:08.354Z
+updated: 2024-10-26T21:21:48.839Z
 tags:
   - laptops
 categories:
@@ -38,6 +38,13 @@ If you're running a resource-heavy application such as Photoshop, or have a brow
 
 Another heavy load for MacBooks is using [external monitors](https://www.zdnet.com/article/best-monitor/), because these stress the GPU, which in turn means that the fans need to run more often. Not reassured? Keep reading. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Is your Mac hot or not?
 
 I recommend installing a temperature monitor. The app that I recommend is [TG Pro](https://www.tunabellysoftware.com/tgpro/). This app not only logs the temperatures of various components, but also allows you to take control of the system fans manually. 
@@ -50,6 +57,19 @@ The TG Pro Mac software in action.
 
 Adrian Kingsley-Hughes/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Reboot
 
 Still worried? Then I'd suggest a reboot.
@@ -57,10 +77,10 @@ Still worried? Then I'd suggest a reboot.
 It's possible that an application -- or maybe even the operating system -- has crashed and is going rogue. The quickest way to fix this is with a reboot.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Reset your Intel-based Mac
@@ -70,10 +90,10 @@ If you're still experiencing this problem and you don't think that it's normal (
 Don't worry, it's a lot easier than it sounds -- oh, and you won't lose any data doing this!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Reset SMC (System Management Controller)
@@ -86,13 +106,6 @@ This one tip can fix a whole raft of Mac issues. However, how you go about doing
 
 **Also:** [**How to make your MacBook battery run all day**](https://www.zdnet.com/article/how-to-make-your-macbook-battery-last-all-day/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Reset PRAM (Parameter RAM)
 
 To reset the PRAM you need to hold down COMMAND and OPTION and P and R while powering on the system. Here's another of those times when a spare arm (or an assistant) comes in handy! Keep holding down the four buttons for about 20 seconds, and you'll hear [the "WALL-E" startup chime](https://www.youtube.com/watch?v=bBmM4VM8Bv8) or see the Apple logo a couple of times. 
@@ -100,13 +113,6 @@ To reset the PRAM you need to hold down COMMAND and OPTION and P and R while pow
 ## 4\. Restart your Apple Silicon Mac
 
 For these newer M1- and M2-powered Macs, resetting the SMC and PRAM doesn't work, and all Apple recommends doing is restarting the computer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Oh, one more thing ... dust!
 
@@ -148,21 +154,22 @@ Hold the nozzle an inch or so away from the vents and only use the suction brief
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-embed-youtube-in-google-slides-presentations/"><u>[Updated] In 2024, How to Embed YouTube in Google Slides Presentations</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/el-identity-made-simple-discover-the-10-best-banner-maker-apps-for-2024/"><u>Channel Identity Made Simple Discover the 10 Best Banner Maker Apps for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/cyber-solutions-coverage/"><u>Cyber Solutions Coverage</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-setup-hp-printer-scanner-drivers-on-your-windows-pc/"><u>Download & Setup HP Printer Scanner Drivers on Your Windows PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723004340396-dying-light-2-fps-optimization-techniques-get-smooth-gameplay-on-your-pc-without-the-hiccups/"><u>Dying Light 2 FPS Optimization Techniques - Get Smooth Gameplay on Your PC Without the Hiccups</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-download-and-install-epson-v700-software-for-windows-users/"><u>Easy Guide to Download and Install Epson V700 Software for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-install-m-audio-fast-track-dac-software-setup-for-multiple-windows-versions-10788n/"><u>Easy Install: M-Audio Fast Track DAC Software Setup for Multiple Windows Versions (10/7/8/8.n)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-entry-into-microsofts-smart-bing-search-engine-a-comprehensive-setup-guide/"><u>Effortless Entry Into Microsoft's Smart Bing Search Engine - A Comprehensive Setup Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-optimal-performance-with-newly-updated-asus-laptop-drivers/"><u>Ensure Optimal Performance with Newly Updated ASUS Laptop Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-graphics-card-drivers-for-nvidia-gtx-1650-super-on-windows-systems/"><u>Get the Most Recent Graphics Card Drivers for Nvidia GTX 1650 Super on Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-keep-your-epson-xp-640-printer-updated-on-a-windows-machine/"><u>How to Keep Your Epson XP-640 Printer Updated on a Windows Machine</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-samsung-galaxy-s23-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Samsung Galaxy S23 Through Google Earth?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-oneplus-11r-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change OnePlus 11R Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-downloading-and-updating-your-canoscan-lide-220-printer-software/"><u>Step-by-Step Instructions: Downloading and Updating Your CanoScan LiDE 220 Printer Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-best-alternatives-to-gmail-top-picks-of-2024/"><u>The Best Alternatives to Gmail: Top Picks of 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-unlocking-the-potential-of-valheims-seed-varieties/"><u>[New] 2024 Approved Unlocking the Potential of Valheim's Seed Varieties</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-how-to-solve-facebook-videos-are-partially-muted/"><u>[Updated] In 2024, How to Solve Facebook Videos Are Partially Muted?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leading-brands-for-budget-friendly-high-definition-projectors/"><u>[Updated] Leading Brands for Budget-Friendly, High-Definition Projectors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/360-degree-panoramic-shot-systems-for-2024/"><u>360 Degree Panoramic Shot Systems for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-unmatched-versattile-performance-of-dells-latest-gaming-laptop-ideal-for-office-use-too-exclusive-review-by-zdnet/"><u>Discover the Unmatched Versattile Performance of Dell's Latest Gaming Laptop - Ideal For Office Use Too! Exclusive Review by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-picks-for-ultimate-portable-monitors-of-2024-in-depth-analysis-and-ratings-zdnet/"><u>Expert Picks for Ultimate Portable Monitors of 2024: In-Depth Analysis and Ratings | ZDNet</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-iphone-15-pro-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off iPhone 15 Pro without Password</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-iphone-6s-plus-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on iPhone 6s Plus Safe and Legal</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mark-your-calendar-for-best-buys-anniversary-event-exclusive-blowout-prices-on-computers-and-wearables/"><u>Mark Your Calendar for Best Buy’s Anniversary Event - Exclusive Blowout Prices on Computers and Wearables!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/microsoft-surface-laptop-5-analysis-expectations-vs-reality-a-critical-insight/"><u>Microsoft Surface Laptop 5 Analysis: Expectations vs Reality - A Critical Insight</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004036022-samurai-warriors-5-pc-stability-issues-heres-what-you-need-to-know/"><u>Samurai Warriors 5 PC Stability Issues? Here's What You Need to Know!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-future-is-now-with-lenovos-innovative-tablet-laptop-combo-windows-and-android-in-one-insights-from-zdnet/"><u>The Future Is Now with Lenovo's Innovative Tablet-Laptop Combo - Windows and Android in One | Insights From ZDNET</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-cheat-sheet-for-using-movie-maker-on-win11/"><u>The Ultimate Cheat Sheet for Using Movie Maker on Win11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-pick-affordable-15-inch-macbook-air-for-everyone-save-250-now-on-zdnet/"><u>Top Pick: Affordable 15-Inch MacBook Air for Everyone - Save $250 Now on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-value-how-this-compact-laptop-delivers-top-notch-visual-performance-at-an-unbelievably-low-price-digital-gadgets-review/"><u>Unbeatable Value: How This Compact Laptop Delivers Top-Notch Visual Performance at an Unbelievably Low Price | Digital Gadgets Review</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unshackled-earning-on-youtube-pioneering-a-non-ad-profit-pathway-for-2024/"><u>Unshackled Earning on YouTube Pioneering a Non-Ad Profit Pathway for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-chromebooks-reign-supreme-the-ultimate-guide-to-why-theyre-ideal-for-the-majority-expert-analysis-by-zdnet/"><u>Why Chromebooks Reign Supreme: The Ultimate Guide to Why They're Ideal for the Majority | Expert Analysis by ZDNet</u></a></li>
 </ul></div>
 

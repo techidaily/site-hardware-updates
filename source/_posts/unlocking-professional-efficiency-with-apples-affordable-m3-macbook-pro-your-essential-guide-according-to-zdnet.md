@@ -1,7 +1,7 @@
 ---
 title: Unlocking Professional Efficiency with Apple's Affordable M3 MacBook Pro – Your Essential Guide, According to ZDNet
-date: 2024-10-14T21:02:10.212Z
-updated: 2024-10-20T18:59:32.519Z
+date: 2024-10-19T23:49:15.273Z
+updated: 2024-10-27T01:37:01.605Z
 tags:
   - laptops
 categories:
@@ -79,10 +79,16 @@ Cesar Cadenas/ZDNET
 And for one of the best qualities of this laptop: battery life is absolutely phenomenal. I [performed our usual test](https://www.zdnet.com/article/how-we-test-laptops/) of running a YouTube livestream at 720p and 50% brightness. At its peak, the Surface Pro lasted just under 13 hours on a single charge. That's just shy of Microsoft's purported 14-hour battery life. In practical usage, this is a device that will easily last multiple days on a single charge. 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,22 +127,22 @@ Prices for the device start at $999.99\. My review unit with the 12-core Snapdra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-building-your-brand-as-a-reviewer-of-cars-and-automotive-gear-for-2024/"><u>[New] Building Your Brand as a Reviewer of Cars and Automotive Gear for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-enabling-dynamic-hdr-in-windows-11-os-for-2024/"><u>[Updated] Enabling Dynamic HDR in Windows 11 OS for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-capturing-fluidity-in-iphone-photography/"><u>[Updated] In 2024, Capturing Fluidity in iPhone Photography</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-nurturing-nature-in-valheim-top-seed-selection-tips-for-2024/"><u>[Updated] Nurturing Nature in Valheim Top Seed Selection Tips for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-lightweight-vehicle-energy-boosters-2024/"><u>Best Lightweight Vehicle Energy Boosters 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/diagnosing-and-restoring-your-malfunctioning-samsung-blu-ray-player/"><u>Diagnosing and Restoring Your Malfunctioning Samsung Blu-Ray Player</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-hp-officejet-pro-8740-driver-for-pc-windows-11108-supported-version/"><u>Download HP OfficeJet Pro #8740 Driver for PC: Windows 11/10/8 Supported Version</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-your-logitech-k350-drivers-with-this-guide/"><u>Download Your Logitech K350 Drivers with This Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-updating-thunderbolt-3-drivers-on-windows-1187/"><u>Easy Guide to Downloading & Updating Thunderbolt 3 Drivers on Windows 11/8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-latest-logitech-c92c-webcam-software-for-windows-10-and-8/"><u>How to Get Latest Logitech C92C Webcam Software for Windows 10 & 8</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/how-to-use-a-whiteboard-in-google-meet-for-2024/"><u>How to Use a Whiteboard in Google Meet for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Xiaomi 14 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/inside-the-world-of-apeaksofts-screens-recorder-update-2023/"><u>Inside the World of Apeaksoft's Screens Recorder Update 2023</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovo-t500-drivers-download-and-upadte-easily/"><u>Lenovo T500 Drivers Download & Upadte Easily</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-microsoft-driver-management-download-and-update-tutorial-for-windows-10-8-and-n7/"><u>Mastering Microsoft Driver Management: Download & Update Tutorial for Windows 10, 8 & N7</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-pink-screens-with-ease-and-speed/"><u>Overcoming Windows Pink Screens with Ease and Speed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-process-easily-upgrade-your-microsoft-drivers-in-windows-operating-systems-7810/"><u>Step-by-Step Process: Easily Upgrade Your Microsoft Drivers in Windows Operating Systems (7/8/10)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-probing-into-youtube-discussions/"><u>[Updated] In 2024, Probing Into YouTube Discussions</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-understanding-the-meta-and-omni-spaces-for-2024/"><u>[Updated] Understanding the Meta and Omni Spaces for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-master-the-art-of-sowing-and-cultivation-in-valheim/"><u>2024 Approved Master the Art of Sowing and Cultivation in Valheim</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-revolutionize-your-posts-with-automated-story-and-video-captions/"><u>2024 Approved Revolutionize Your Posts with Automated Story and Video Captions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-ultimate-collection-of-holiday-discounts-for-dell-systems-in-depth-deal-analysis-at-walmart-target-ebay-and-more-expert-insights/"><u>Discover the Ultimate Collection of Holiday Discounts for Dell Systems: In-Depth Deal Analysis at Walmart, Target, eBay & More | Expert Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-extraordinary-how-lenovos-innovative-thinkpad-x1-fold-redefines-laptops-a-unique-review-by-zdnet/"><u>Exploring the Extraordinary: How Lenovo's Innovative ThinkPad X1 Fold Redefines Laptops - A Unique Review by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-to-know-your-gpu-understanding-the-specs-of-amds-radeon-xt/"><u>Get to Know Your GPU: Understanding the Specs of AMD's Radeon XT</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-chromebook-simplifies-tech-use-how-going-without-windows-was-easier-than-anticipated/"><u>HP Chromebook Simplifies Tech Use: How Going Without Windows Was Easier than Anticipated</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-of-panasonic-toughbook-g2-durable-and-versatile-laptop-reviewed-by-tech-expert/"><u>In-Depth Analysis of Panasonic Toughbook G2: Durable & Versatile Laptop Reviewed by Tech Expert</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/modern-mobile-maximizing-vr360-video-on-android-update-2023-for-2024/"><u>Modern Mobile Maximizing VR/360 Video on Android (Update 2023) for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/new-tech-woes-blacked-out-screens/"><u>New Tech Woes: Blacked-Out Screens</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/say-goodbye-to-bulky-cameras-opal-reveals-ultra-compact-effortless-clip-on-webcam-upgrade-for-your-laptops-photography-woes-digital-trends/"><u>Say Goodbye to Bulky Cameras: Opal Reveals Ultra-Compact, Effortless Clip-On Webcam Upgrade for Your Laptop's Photography Woes | Digital Trends</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/top-15-trends-in-snappy-storytelling-and-sharing-for-2024/"><u>Top 15 Trends in Snappy Storytelling and Sharing for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbelievable-cyber-monday-savings-snag-a-microsoft-surface-pro/"><u>Unbelievable Cyber Monday Savings: Snag a Microsoft Surface Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbelievable-value-high-performance-m3-macbook-pro-for-under-10k-the-ultimate-tech-find/"><u>Unbelievable Value: High-Performance M3 MacBook Pro for Under $10K - The Ultimate Tech Find</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/workflow-game-changer-my-experience-with-lenovos-innovative-dual-screen-laptop-features-as-reviewed-by-zdnet/"><u>Workflow Game Changer: My Experience with Lenovo's Innovative Dual-Screen Laptop Features, as Reviewed by ZDNET</u></a></li>
 </ul></div>
 

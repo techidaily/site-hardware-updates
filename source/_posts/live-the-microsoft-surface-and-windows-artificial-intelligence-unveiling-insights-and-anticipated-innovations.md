@@ -1,7 +1,7 @@
 ---
 title: "Live the Microsoft Surface & Windows Artificial Intelligence Unveiling : Insights & Anticipated Innovations"
-date: 2024-10-16T05:36:30.105Z
-updated: 2024-10-21T03:52:43.495Z
+date: 2024-10-24T18:04:02.385Z
+updated: 2024-10-27T02:15:45.603Z
 tags:
   - laptops
 categories:
@@ -66,6 +66,13 @@ You can also use the pen within the Snipping Tool to copy and paste the equation
 
 Copilot on Windows can also obtain information from your connected smartphone so that you can ask Copilot any questions about what's on-device, like text message summaries. An example that was demoed included the presenter asking Copilot about an upcoming flight. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bing Chat updates
 
 Sabrina Ortiz/ZDNET
@@ -99,10 +106,10 @@ The Microsoft Shopping Experience will be a standalone site that can be accessed
 There is also a suite of new tools coming to Bing Chat Enterprise including the incorporation with mobile. Bing Chat Enterprise also supports images within the enterprise with multimodal search powered by [GPT-4](https://www.zdnet.com/article/what-is-gpt-4-heres-everything-you-need-to-know/) and Bing Image Generator. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft 365 Copilot and Microsoft 365 Chat
@@ -128,20 +135,19 @@ Microsoft Designer will also be integrated into Microsoft 365 Copilot to help ge
 Microsoft 365 Copilot is currently in preview with a select number of users and small businesses. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's new with hardware?
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Surface Laptop Go 3
 
@@ -156,13 +162,6 @@ Other new additions include iCloud Photos Integration and Clipchamp on Windows 1
 As far as hardware and design go, the Surface Laptop Go 3 looks just about, if not the same, as the previous version, meaning you're still getting a sleek, portable form factor that's ultralight (just under 2.5 pounds) with a 12.4-inch PixelSense touchscreen at the helm.
 
 The laptop will start at $799 and be available in four colors, including Ice Blue, Sage, Sandstone, and Platinum.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Surface Laptop Studio 2
 
@@ -181,6 +180,19 @@ The Laptop Studio 2 also features a new haptic touchpad with a "perfect-feeling 
 Microsoft is also introducing adaptive pen tips, adding to the accessibility tools that were introduced last year for Surface laptops.
 
 Preorders start today for the Laptop Studio 2, which starts at $1,999, and Surface Laptop Go 3, and both devices will be available on October 3.
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Surface Hub 3
 
@@ -232,20 +244,20 @@ AI is also integrated with the Surface Hub 3\. In a post-event demo, a Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/lawless-offline-viewing-your-guide-to-mobile-video-downloads-for-idevices/"><u>[New] Flawless Offline Viewing Your Guide to Mobile Video Downloads for iDevices</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-essential-knowledge-recording-google-voice-calls/"><u>[Updated] In 2024, Essential Knowledge Recording Google Voice Calls</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-fix-shaky-gopro-videos/"><u>2024 Approved How to Fix Shaky GoPro Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-ace-video-capturers-guide/"><u>2024 Approved Unveiling Ace Video Capturers Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722858315525-5-amazing-tiny-powerhouses-perfect-for-gamers-buyers-choice/"><u>5 Amazing Tiny Powerhouses Perfect for Gamers - Buyer's Choice!</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-latest-epson-wf-3620-printer-driver-for-windows-11-8-and-7/"><u>Download & Install the Latest Epson WF-3620 Printer Driver for Windows 11, 8 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-guide-downloading-and-using-the-hp-officejet-pro-8715-drivers-on-various-windows-versions/"><u>Easy Installation Guide: Downloading and Using the HP OfficeJet Pro 8715 Drivers on Various Windows Versions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722962850479-fast-track-to-connectivity-download-your-wi-fi-adapter-drivers-today/"><u>Fast Track to Connectivity: Download Your Wi-Fi Adapter Drivers Today!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-elgato-driver-software-installation-guide/"><u>Quick and Easy Elgato Driver Software Installation Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-steam-connection-issues-overcoming-could-not-connect-to-steam-network-errors/"><u>Resolving Steam Connection Issues: Overcoming 'Could Not Connect to Steam Network' Errors</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-common-problems-with-kodi-how-to-fix-mkv-file-playback-errors/"><u>Solving Common Problems with Kodi: How to Fix MKV File Playback Errors</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/successful-installation-downloading-the-epson-xp-830-printer-driver-step-by-step/"><u>Successful Installation: Downloading the Epson XP-830 Printer Driver Step by Step</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-guide-to-cutting-edge-computer-components-and-systems/"><u>Tom's Guide to Cutting-Edge Computer Components and Systems</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/econstructing-the-revenue-stream-of-tseries-in-youtube-economy/"><u>[New] Deconstructing the Revenue Stream of TSeries in YouTube Economy</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-simplifying-the-process-of-watching-fb-live-on-roku-for-2024/"><u>[New] Simplifying the Process of Watching FB Live on Roku for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-guide-effective-techniques-for-safely-cleansing-your-flat-panel-display/"><u>Expert Guide: Effective Techniques for Safely Cleansing Your Flat-Panel Display</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-picks-leading-roku-models-for-ultimate-home-entertainment-featured-by-zdnet/"><u>Expert Picks: Leading Roku Models for Ultimate Home Entertainment | Featured by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experts-rate-top-ranked-qled-tv-now-available-with-stunning-1000-off-for-the-holiday-weekend-zdnet-tech-review/"><u>Experts Rate Top-Ranked QLED TV Now Available with Stunning $1,000 Off for the Holiday Weekend | ZDNET Tech Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-most-innovative-tvs-unveiled-at-ces-2er-2024-a-review-by-zdnet/"><u>Exploring the Most Innovative TVs Unveiled at CES 2Er 2024 - A Review by ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fast-charging-made-cool-esr-unveils-qi2-magsafe-series-supercharges-iphone-16-in-no-time-with-cryoboost-technology-insights/"><u>Fast-Charging Made Cool: ESR Unveils Qi2 MagSafe Series, Supercharges iPhone 16 in No Time with CryoBoost Technology – Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/flagship-features-face-off-selecting-the-superior-screen-with-lg-g4-and-g3-oled-models-tech-comparison-guide/"><u>Flagship Features Face-Off: Selecting the Superior Screen with LG G4 & G3 OLED Models | Tech Comparison Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-the-sony-a8no-tvs-smart-upscaling-technology-delivers-stunning-hd-visuals-for-under-2-grand-cnet-insider/"><u>How the Sony A8nO TV's Smart Upscaling Technology Delivers Stunning HD Visuals for Under 2 Grand | CNET Insider</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-throw-a-memorable-labor-day-celebration-expert-advice-and-essentials-from-zdnet/"><u>How to Throw a Memorable Labor Day Celebration - Expert Advice and Essentials From ZDNet</u></a></li>
+<li><a href="https://discover-great.techidaily.com/keine-sorge-weggefundene-dateien-wiederhergestellt-und-gesichert/"><u>Keine Sorge: Weggefundene Dateien Wiederhergestellt Und Gesichert</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-voice-transcription-tools-for-optimal-efficiency/"><u>Leading Voice Transcription Tools for Optimal Efficiency</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-top-song-lyrics-remover-create-your-own-backing-tracks/"><u>New 2024 Approved Top Song Lyrics Remover Create Your Own Backing Tracks</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-ultimate-imovie-strategy-to-eliminate-unwanted-sounds-in-your-projects-for-2024/"><u>Updated The Ultimate iMovie Strategy to Eliminate Unwanted Sounds in Your Projects for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/use-bass-drops/"><u>Use Bass Drops</u></a></li>
 </ul></div>
 

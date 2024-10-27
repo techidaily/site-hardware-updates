@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Workplace Efficiency: An In-Depth Look at This Year's Hidden Gem Among 2-In-1 Laptops | ZDNET Insights"
-date: 2024-10-13T18:50:09.216Z
-updated: 2024-10-20T22:34:46.452Z
+date: 2024-10-22T20:42:40.972Z
+updated: 2024-10-27T00:30:55.038Z
 tags:
   - laptops
 categories:
@@ -32,6 +32,13 @@ Samsung's new Galaxy Book 3 Pro 360 is a classic 360-degree convertible and succ
 
 In this article, I've compared the specifications of this pair of 2-in-1s, both of which offer 5G connectivity, and given three reasons why each one could be the right fit for certain types of mobile professionals. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | | **Galaxy Book 3 Pro 360** | **Microsoft Surface Pro 9**                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                          |
@@ -57,6 +64,13 @@ In this article, I've compared the specifications of this pair of 2-in-1s, both 
 
 Samsung
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. You need a 'proper' keyboard' and a 'lappable' device
 
 As a convertible 2-in-1, the Galaxy Book 3 Pro 360 has a standard laptop keyboard – an island-type layout with a separate numeric keypad in the case of this 16-inch device – and works in conventional laptop mode. Microsoft's Surface Pro Signature Keyboard for the Surface Pro 9, on the other hand, is a less sturdy affair that attaches to the tablet magnetically via the Surface Type Cover port and cannot be used comfortably on your lap due to the lack of a hinge and the need to engage the tablet's kickstand. 
@@ -64,10 +78,10 @@ As a convertible 2-in-1, the Galaxy Book 3 Pro 360 has a standard laptop keyboar
 Microsoft sells the keyboard as an optional accessory, [starting at $180](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmicrosoft-surface-pro-signature-keyboard-for-pro-x-pro-8-and-pro-9-ice-blue-alcantara-material%2F6478001.p%3F&publisher_slug=itechdaily19598&exclusive=1), or [$280 with a Slim Pen 2 stylus](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmicrosoft-surface-pro-signature-keyboard-for-pro-x-pro-8-and-pro-9-with-surface-slim-pen-2-black%2F6477999.p%3F&publisher_slug=itechdaily19598&exclusive=1) in its wireless recharging slot. Fortunately, both are on sale more frequently now that the Surface Pro 9's been out for some time. On the other hand, the Galaxy Book 3 Pro 360 comes with a Samsung S Pen in the box, as well as an integrated keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. You want the latest-generation Intel Core processors
@@ -77,13 +91,6 @@ Samsung's Galaxy Book 3 Pro 360 runs on Intel's [13th-generation Core i5 and i7 
 **More: [Samsung Galaxy Book 3 Ultra vs MacBook Pro](https://www.zdnet.com/article/samsung-galaxy-book3-ultra-vs-apple-macbook-pro-a-premium-laptop-showdown/)**
 
 The Galaxy Book 3 Pro 360 should outperform the Intel-based Surface Pro 9 with mainstream productivity workloads, but we'll have to wait for reviewers to supply the benchmarks to get the full picture.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. You want a large OLED screen
 
@@ -97,13 +104,6 @@ The Surface Pro 9's PixelSense Flow screen has a similar pixel count (2880 x 192
 
 June Wan/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. You need a sleek, lightweight 2-in-1
 
 If portability is your main requirement, the 13-inch Surface Pro 9 is the way to go. It's a slim (9.3mm/0.37in.) tablet weighing under a kilogram (2lbs), or 1.16kg (2.55lbs) with a Signature Keyboard. By contrast, the 16-inch Galaxy Book 3 Pro 360 is a bulkier device that's considerably thicker (12.8mm/0.5in.) and heavier (1.66kg/3.7lbs, Wi-Fi only). 
@@ -112,18 +112,18 @@ If portability is your main requirement, the 13-inch Surface Pro 9 is the way to
 
 The Intel version of the Surface Pro 9 is also available in a range of colours (Platinum, Graphite, Sapphire, Forest), although you're restricted to Platinum if you choose the Arm-based model.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. You need maximum battery life
 
 We don't have battery life claims or benchmarks for the Galaxy Book 3 Pro 360 yet, but they're unlikely to better the figures for the Arm-based Surface Pro 9, for which Microsoft claims up to 19 hours of 'typical device usage'. [In practice](https://www.cnet.com/tech/computing/surface-pro-9-review-flipping-to-5g/), you're likely to see around 11 hours with a mix of mainstream workloads – and more if you restrict the screen refresh rate to 60Hz and turn down the brightness. 
 
 If battery life is paramount that's a big draw, although it will have to be balanced against performance and app compatibility issues that currently persist with Windows on Arm. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. You want a webcam with IR support for face recognition
 
@@ -182,24 +182,17 @@ Based on 11th-generation Intel Core (i3/i5/i7) processors, the Surface Pro 8 is 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-live-and-record-flawlessly-find-the-best-conference-tech-today-for-2024/"><u>[New] Live and Record Flawlessly - Find the Best Conference Tech Today for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-unveiling-the-top-10-cost-free-gaming-recorders-for-2024/"><u>[New] Unveiling the Top 10 Cost-Free Gaming Recorders for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-all-star-software-selecting-best-bdr-players-for-pcmac/"><u>2024 Approved All-Star Software Selecting Best BDR Players for PC/Mac</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/advanced-tech-reviews-by-toms-hardware-specialists/"><u>Advanced Tech Reviews by Tom's Hardware Specialists</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-mf8200c-printer-drivers-optimized-downloads-for-win-78110-users/"><u>Canon MF8200C Printer Drivers: Optimized Downloads for Win 7/8.1/10 Users</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/expand-your-gaming-library-5-best-xbox-hdds/"><u>Expand Your Gaming Library 5 Best Xbox HDDs</u></a></li>
-<li><a href="https://win-forum.techidaily.com/free-online-converter-change-mp4-videos-to-gif-format-using-movavi/"><u>Free Online Converter: Change MP4 Videos to GIF Format Using Movavi</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-fix-lg-display-problems-with-easy-driver-updates-on-various-windows-systems/"><u>How to Fix LG Display Problems with Easy Driver Updates on Various Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-amd-vega-grook-56-drivers-on-your-windows-pc-step-by-step-walkthrough/"><u>How to Get the Newest AMD Vega Grook 56 Drivers on Your Windows PC: Step-by-Step Walkthrough</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-infinix-smart-8-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Infinix Smart 8 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-depth-assessment-how-does-googles-pixel-navigate-photography-challenges/"><u>In-Depth Assessment: How Does Google's Pixel Navigate Photography Challenges?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-driver-updates-for-zebra-printing-devices-in-windows-os/"><u>Latest Driver Updates for Zebra Printing Devices in Windows OS</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-edit-flv-files-with-ease-top-windows-8-video-editing-software/"><u>New In 2024, Edit FLV Files with Ease Top Windows 8 Video Editing Software</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/peering-behind-the-scenes-of-youtube-reviews/"><u>Peering Behind the Scenes of YouTube Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolving-startech-device-drivers-problems-on-windows-10-8-and-7-complete-guide/"><u>Resolving StarTech Device Drivers Problems on Windows 10, 8 & 7 - Complete Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/streamline-access-to-your-device-validity-sensor-driver-available-for-immediate-download/"><u>Streamline Access to Your Device: Validity Sensor Driver Available for Immediate Download</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-art-of-saving-chatgpt-messages-incognito/"><u>The Art of Saving ChatGPT Messages Incognito</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/17256525522481-toms-tech-hub-in-depth-reviews-and-guides/"><u>Tom's Tech Hub: In-Depth Reviews & Guides</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-resolving-realtek-graphics-card-driver-errors-easily/"><u>Troubleshooting and Resolving Realtek Graphics Card Driver Errors Easily</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-impeccable-photo-editing-using-the-virtual-background-effect-on-instagram-for-2024/"><u>[New] Impeccable Photo Editing Using the Virtual Background Effect on Instagram for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-a-backward-glance-proven-strategies-for-pinpointing-picture-sources-on-instagram-for-2024/"><u>[Updated] A Backward Glance Proven Strategies for Pinpointing Picture Sources on Instagram for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-streamlining-virtual-screen-display-in-google-meet-chats/"><u>[Updated] In 2024, Streamlining Virtual Screen Display in Google Meet Chats</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/320-for-a-high-quality-used-128gb-microsoft-surface-laptop-exclusive-offer-covered/"><u>$320 for a High-Quality Used 128GB Microsoft Surface Laptop | Exclusive Offer Covered</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-premier-windows-video-chat-apps-7-1/"><u>2024 Approved Premier Windows Video Chat Apps #7-#1</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fast-fix-handling-constant-on-state-of-laptop-fans-mac-expert-advice/"><u>Fast Fix: Handling Constant On-State of Laptop Fans - Mac Expert Advice</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/guide-to-the-best-no-cost-email-archiving-software-for-google-microsoft-and-yahoo-users-enhance-your-online-security/"><u>Guide to the Best No-Cost EMail Archiving Software for Google, Microsoft and Yahoo Users - Enhance Your Online Security!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-top-facebook-song-videos-unveiled-a-making-of-chronicle/"><u>In 2024, Top Facebook Song Videos Unveiled A Making-Of Chronicle</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-predicts-laptop-evolution-emphasizing-enhanced-ai-capabilities-and-advanced-security-measures/"><u>Lenovo Predicts Laptop Evolution: Emphasizing Enhanced AI Capabilities & Advanced Security Measures</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-s23-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy S23 Phone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-display-quality-at-a-bargain-discover-the-latest-laptops-with-top-notch-visuals-exclusive-sale-alert/"><u>Unbeatable Display Quality at a Bargain: Discover the Latest Laptops With Top-Notch Visuals - Exclusive Sale Alert!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upcoming-highlights-from-apples-fall-showcase-new-m4-mac-mini-and-advanced-ipad-models-insights-from-zdnet/"><u>Upcoming Highlights From Apple's Fall Showcase: New M4 Mac Mini & Advanced iPad Models - Insights From ZDNet</u></a></li>
 </ul></div>
 

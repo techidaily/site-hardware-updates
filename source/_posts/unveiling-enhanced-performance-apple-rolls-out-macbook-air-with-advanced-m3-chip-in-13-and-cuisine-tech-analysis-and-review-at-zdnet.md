@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Enhanced Performance: Apple Rolls Out MacBook Air with Advanced M3 Chip in 13 and Cuisine | Tech Analysis & Review at ZDNet"
-date: 2024-10-18T00:32:10.193Z
-updated: 2024-10-20T22:15:15.957Z
+date: 2024-10-25T20:02:28.273Z
+updated: 2024-10-26T17:46:29.877Z
 tags:
   - laptops
 categories:
@@ -49,10 +49,10 @@ The [new 2022 model](https://www.apple.com/shop/buy-mac/macbook-air/with-m2-chip
 Storage upgrades are equally expensive, costing an additional $200/£200 for 1TB, or $600/£600 for 2TB. There's one other option available too, as the standard 30W power adapter can be upgraded to a fast-charging 67W unit, or to a 35W adapter with two USB-C ports, with both options costing $20/£30\. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Design & features
@@ -72,10 +72,10 @@ The magnetic MagSafe power connector has returned to the MacBook Air, alongside 
 Image: Cliff Joseph / ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Performance & battery life
@@ -91,16 +91,16 @@ You are paying for that extra performance, of course, so the M1 version of the M
 [Apple MacBook Air (M2, 2022) View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2Fwith-m2-chip&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusions
@@ -143,10 +143,10 @@ Image: Apple
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -190,18 +190,19 @@ Image: Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-explore-the-finest-ios-solutions-for-psp-emulation/"><u>[New] 2024 Approved Explore the Finest iOS Solutions for PSP Emulation</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-enabling-seamless-facebook-video-playbacks-for-2024/"><u>[New] Enabling Seamless Facebook Video Playbacks for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-perfecting-webp-conversion-to-jpeg-format/"><u>[Updated] 2024 Approved Perfecting WebP Conversion to JPEG Format</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-network-performance-by-refreshing-the-driver-for-your-usb-30-ethernet-adapter-windows/"><u>Boost Network Performance by Refreshing the Driver for Your USB 3.0 Ethernet Adapter (Windows)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/direct-download-techkey-bluetooth-driver-for-win-10-7-and-8-pcs/"><u>Direct Download: Techkey Bluetooth Driver for Win 10, 7 & 8 PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-amd-ryzen-5-2400g-graphics-card-drivers-download-now/"><u>Easy Installation: AMD Ryzen 5 2400G Graphics Card Drivers - Download Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/generating-conversational-genius-who-will-excel/"><u>Generating Conversational Genius - Who Will Excel?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hassle-free-download-of-wacom-intuos-pro-drivers-specifically-for-windows-11-users/"><u>Hassle-Free Download of Wacom Intuos Pro Drivers Specifically for Windows 11 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quiet-your-ps4-identifying-the-reasons-behind-fan-loudness-and-how-to-address-them/"><u>Quiet Your PS4: Identifying the Reasons Behind Fan Loudness & How to Address Them</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-the-latest-drivers-for-scansnap-ix5e-on-windows-computers/"><u>Step-by-Step Guide: Installing the Latest Drivers for ScanSnap iX5e on Windows Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/the-leap-from-w10-to-w11-major-os-overhauls-revealed/"><u>The Leap From W10 to W11: Major OS Overhauls Revealed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-comprehensive-computer-system-guide/"><u>Tom's Tech Insights: Comprehensive Computer System Guide</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-audio-flair-for-video-production-techniques-for-smooth-addition-of-effects/"><u>Updated 2024 Approved Audio Flair for Video Production Techniques for Smooth Addition of Effects</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-get-verified-on-instagram-6-tips-to-grow-followers/"><u>[Updated] How to Get Verified on Instagram 6 Tips to Grow Followers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-audio-streams-apple-podcasts-downloading/"><u>[Updated] Mastering Audio Streams Apple Podcasts Downloading</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/advancing-google-meet-sessions-implementing-effects-and-masks/"><u>Advancing Google Meet Sessions Implementing Effects & Masks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-installing-intel-iris-xe-lp-graphics-655-drivers-on-pcs-with-windows-10-or-11/"><u>Comprehensive Guide: Installing Intel Iris Xe LP Graphics 655 Drivers on PCs with Windows 10 or 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-drivers-for-rtx-2080-on-windows-10-7-and-8-get-them-now/"><u>Download the Newest Drivers for RTX 2080 on Windows 10, 7 & 8 - Get Them Now</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-guide-fixing-crashes-in-dauntless-for-smooth-gaming-on-your-computer/"><u>Expert Guide: Fixing Crashes in Dauntless for Smooth Gaming on Your Computer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-geforce-rtx-3080-drivers-downloaded-compatible-with-windows-10-8-and-7/"><u>Free GeForce RTX 3080 Drivers Downloaded - Compatible with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-amd-radeon-vega-64-up-to-date-download-and-install-drivers-easily-on-windows-pcs/"><u>Get Your AMD Radeon VEGA 64 Up to Date - Download & Install Drivers Easily on Windows PCs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/guide-to-downloading-and-installing-lenovo-x1-carbon-drivers-compatible-with-older-and-newer-windows-versions/"><u>Guide to Downloading & Installing Lenovo X1 Carbon Drivers: Compatible with Older and Newer Windows Versions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-motorola-razr-40-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Motorola Razr 40</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-secure-to-use-chatgpt-exploring-6-key-cybersecurity-issues-you-should-know-about/"><u>Is It Secure to Use ChatGPT? Exploring 6 Key Cybersecurity Issues You Should Know About</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-shockwave-flash-errors-within-google-chrome-a-comprehensive-guide/"><u>Overcoming Shockwave Flash Errors Within Google Chrome: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-download-for-intels-wireless-ac-7260-card-get-the-latest-driver-here/"><u>Quick Download for Intel's Wireless AC 7260 Card - Get the Latest Driver Here!</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-s17-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S17 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 </ul></div>
 

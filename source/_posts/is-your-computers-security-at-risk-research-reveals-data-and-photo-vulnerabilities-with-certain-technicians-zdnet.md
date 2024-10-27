@@ -1,7 +1,7 @@
 ---
 title: Is Your Computer's Security at Risk? Research Reveals Data and Photo Vulnerabilities with Certain Technicians | ZDNet
-date: 2024-10-19T06:11:55.937Z
-updated: 2024-10-20T21:29:49.270Z
+date: 2024-10-26T00:44:14.643Z
+updated: 2024-10-26T17:53:13.450Z
 tags:
   - laptops
 categories:
@@ -43,10 +43,10 @@ A simple solution is to use a USB-C to dual-HDMI dongle, such as the [Plugable U
 [ZDNET RECOMMENDS Plugable USB-C Dual HDMI adapter Some laptops only support a single external display, but this HDMI dual monitor adapter makes use of a DL-6950 chipset and DisplayLink drivers to bypass these limitations. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPlugable-DisplayLink-Multiple-Thunderbolt-USBC-6950M%2Fdp%2FB0CS8D3KF2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdb492a6c-6547-4006-a9a9-c6c6133d5799%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Plugable USB-C Dual HDMI adapter tech specs
@@ -86,16 +86,10 @@ While the target market for this adapter includes owners of Macs with the base M
 I've tested this adapter with dual 4K displays attached, and it works reliably on both macOS and Windows -- the sort of reliability that I'd expect from a Plugable device.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -132,21 +126,21 @@ Not everyone needs dual 4K displays connected to their laptop, but if you're amo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-social-stunt-planters-handbook-meme-mastery-at-9gag/"><u>[New] The Social Stunt Planters' Handbook Meme Mastery at 9GAG</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/nifying-your-musical-journey-converting-spotify-plays-into-youtube-music-lists/"><u>[New] Unifying Your Musical Journey Converting Spotify Plays Into YouTube Music Lists</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-inside-the-new-windows-11-innovations/"><u>2024 Approved Inside the New Windows 11 Innovations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/affordable-prices-for-trustworthy-anker-noise-cancelling-in-ear-headphones-shop-now/"><u>Affordable Prices for Trustworthy Anker Noise-Cancelling In-Ear Headphones - Shop Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-your-photography-skills-why-upgrading-your-phones-camera-is-a-game-changer/"><u>Boost Your Photography Skills: Why Upgrading Your Phone's Camera Is a Game Changer!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/evaluating-the-journey-swiv-multi-use-charger-ideal-for-on-the-go-power-solutions-but-not-just-for-travel/"><u>Evaluating the Journey Swiv Multi-Use Charger: Ideal for On-the-Go Power Solutions, But Not Just for Travel</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/evaluating-the-multi-functional-baseus-mini-powerstrip-with-5-outlets-and-67-watts-a-detailed-insight/"><u>Evaluating the Multi-Functional Baseus Mini PowerStrip with 5 Outlets & 67 Watts: A Detailed Insight</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-tech-bargains-await-secure-the-latest-apple-pencil-get-hands-on-with-samsung-galaxy-s24-and-upgrade-to-crystal-clear-4k-tvs/"><u>Exclusive Tech Bargains Await - Secure the Latest Apple Pencil, Get Hands-On with Samsung Galaxy S24, and Upgrade to Crystal Clear 4K TVs!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-the-power-of-oversized-capacity-terramasters-impressive-128tb-raid-enclosure-explained/"><u>Experience the Power of Oversized Capacity: TerraMaster's Impressive 128TB RAID Enclosure Explained</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-vibrant-display-with-galaxy-book-4-edges-amoled-screen-and-powerful-snapdragon-processor/"><u>Experience Vibrant Display with Galaxy Book 4 Edge's AMOLED Screen & Powerful Snapdragon Processor</u></a></li>
-<li><a href="https://games-able.techidaily.com/experts-pick-for-ultimate-choices-top-40-inch-tvs-to-buy-zdnet-insights/"><u>Experts' Pick for Ultimate Choices: Top 40-Inch TVs to Buy | ZDNET Insights</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-iphone-14-plus-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 14 Plus Passcode Easily Video Inside | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/picdistort-a-comprehensive-guide-to-image-alteration/"><u>PicDistort A Comprehensive Guide to Image Alteration</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-oppo-find-x7-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Oppo Find X7 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/top-strategies-for-high-quality-adobe-recordings/"><u>Top Strategies for High-Quality Adobe Recordings</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/transform-your-youtube-views-with-smart-zoom-practices/"><u>Transform Your YouTube Views with Smart Zoom Practices</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-hunters-top-5-video-tools-of-today-for-2024/"><u>[New] Hunters' Top 5 Video Tools of Today for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-innovative-tips-for-multisnap-creation-on-snapchat/"><u>[New] Innovative Tips for Multisnap Creation on Snapchat</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-top-5-captivating-visual-journeys-on-fb/"><u>[Updated] Top 5 Captivating Visual Journeys on FB</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-maximizing-collaboration-with-zoom-meeting-recordings/"><u>2024 Approved Maximizing Collaboration with Zoom Meeting Recordings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-nocturnal-nexus-versus-daylight-dominion/"><u>2024 Approved Nocturnal Nexus Versus Daylight Dominion</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-final-verdict-on-screen-capture-obs-vs-twitch-studio/"><u>2024 Approved The Final Verdict on Screen Capture OBS vs Twitch Studio</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/access-the-newest-drivers-for-your-hp-officejet-975c-all-in-one-printer/"><u>Access the Newest Drivers for Your HP OfficeJet 975C All-in-One Printer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-installing-razer-drivers-across-windows-vista-xp-7-8-and-10/"><u>Complete Guide: Installing Razer Drivers Across Windows Vista, XP, 7, 8 & 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971488664-effortless-intel-nvme-driver-update-secure-and-swift-downloads-ready/"><u>Effortless Intel NVME Driver Update - Secure & Swift Downloads Ready</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/empower-your-windows-experience-with-ai-through-vivetool/"><u>Empower Your Windows Experience with AI Through ViveTool</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-guide-to-downloading-and-installing-hp-printer-drivers/"><u>Hassle-Free Guide to Downloading and Installing HP Printer Drivers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-samsung-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Samsung Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-lava-yuva-2-pro-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Lava Yuva 2 Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-hd-graphics-driver-troubleshooting-for-windows-users-now-fixed/"><u>Intel HD Graphics Driver Troubleshooting for Windows Users - Now Fixed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/successful-huion-tablet-installation-find-download-and-keep-your-windows-drivers-updated-today/"><u>Successful Huion Tablet Installation: Find, Download, and Keep Your Windows Drivers Updated Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-usb-to-serial-communication-ch340g-drivers-for-windows-11/"><u>Update Your USB-to-Serial Communication: CH340g Drivers for Windows 11</u></a></li>
 </ul></div>
 

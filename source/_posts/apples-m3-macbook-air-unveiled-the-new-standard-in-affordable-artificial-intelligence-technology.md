@@ -1,7 +1,7 @@
 ---
 title: "Apple's M3 MacBook Air Unveiled: The New Standard in Affordable Artificial Intelligence Technology"
-date: 2024-10-18T20:17:04.404Z
-updated: 2024-10-20T17:32:02.965Z
+date: 2024-10-21T23:30:44.518Z
+updated: 2024-10-26T23:19:40.044Z
 tags:
   - laptops
 categories:
@@ -70,10 +70,10 @@ However, just because you've had a MacBook Pro in the past doesn't necessarily m
 | Price        | $1,599 to $7,199                                                                                                                                                          |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
@@ -91,6 +91,13 @@ I measured the performance of the 14-inch MacBook Pro (M3 Max) running one of th
 Here's the Space Black MacBook Pro (M3 Max) in a fully lit room and in comparison to my black shirt and the silver Apple Studio Display in the background.
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the best features of MacBook Pro (M3 Max)?
 
@@ -119,6 +126,13 @@ And it's a great bonus that Apple has introduced a new anodization process that 
 Left to right: 13-inch MacBook Air (Midnight), 14-inch MacBook Pro (Space Black), 16-inch MacBook Pro (Space Gray).
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## My real-world AI test, plus a Cinebench comparison
 
@@ -178,13 +192,6 @@ The 14-inch MacBook Pro (M3 Max) in Space Black running a MacOS Sonoma wallpaper
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What I'd like to see in the next model
 
 **16GB RAM minimum for base model 14-inch MacBook Pro:** Apple has finally retired the ancient 13-inch MacBook Pro with Touchbar and replaced it with a base M3 version of the 14-inch MacBook Pro. The drawback is that the old 13-inch MacBook Pro started at $1,299 while the new M3 MacBook Pro 14-inch starts at $1,599\. The other challenge is that the base configuration of the new M3 MacBook Pro starts with 8GB of RAM, the same amount as its predecessor from the last decade. At the higher price, this new 14-inch M3 MacBook Pro should start at 16GB of RAM if it wants to be a truly pro machine. Otherwise, it doesn't make much sense to buy it instead of the M2 MacBook Air. 
@@ -197,13 +204,6 @@ In full light and next to the black iPhone 15 Plus, the true gray of the Space B
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Final thought
 
 From the upgraded graphics power to the ability to run at full speed when unplugged to the excellent 120Hz display that goes up 1,600 nits of brightness to the new Space Black color option, the [MacBook Pro (M3 Max)](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch-m3-max&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the other laptops in the new lineup have delivered more breakthrough speed and power to professionals who need the highest levels of performance to build the next-generation of AI and AR/VR experiences. 
@@ -211,10 +211,10 @@ From the upgraded graphics power to the ability to run at full speed when unplug
 Artists, designers, animators, multimedia editors, engineers, developers, researchers, and other creative professionals will no doubt put these machines to excellent use and push them to the limits. For everyone else, the [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) now looks even more pro, more portable, and more affordable than ever. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -265,14 +265,24 @@ View at Bhphotovideo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-inquiring-into-the-benefit-of-verified-online-self-portraits/"><u>[New] 2024 Approved Inquiring Into the Benefit of Verified Online Self-Portraits</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-quick-steps-for-capturing-cs-go-sessions/"><u>[New] In 2024, Quick Steps for Capturing CS GO Sessions</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-the-art-of-transcribing-top-4-tactics-for-fb-chat-recordings/"><u>[New] In 2024, The Art of Transcribing Top 4 Tactics for FB Chat Recordings</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-innovative-approaches-to-fb-video-sharing-pcandroid-platforms/"><u>[Updated] 2024 Approved Innovative Approaches to FB Video Sharing PC/Android Platforms</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-high-definition-vision-saving-tech/"><u>[Updated] In 2024, High Definition Vision Saving Tech</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-asus-z370-e-drivers-download-streamlined-setup-process/"><u>Complete Guide to ASUS Z370-E Drivers Download – Streamlined Setup Process</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-new-nvidia-video-card-drivers-on-windows-10-effortless-guide-and-download-links/"><u>Install New NVIDIA Video Card Drivers on Windows 10 - Effortless Guide and Download Links</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-easy-way-installing-newest-versions-of-intel-hd-graphics-5500-drivers/"><u>The Easy Way: Installing Newest Versions of Intel HD Graphics 5500 Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-resource-for-finding-and-updating-toshiba-software-on-windows/"><u>Ultimate Resource for Finding and Updating Toshiba Software on Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-from-capture-to-share-a-quick-guide-to-instagram-video-uploads-on-desktop/"><u>[New] In 2024, From Capture to Share A Quick Guide to Instagram Video Uploads on Desktop</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-instant-ideas-recording-ppts-with-ease/"><u>[New] Instant Ideas Recording PPTs with Ease</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-tweets-unfolded-yearly-guide-to-social-reactions/"><u>2024 Approved Tweets Unfolded Yearly Guide to Social Reactions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-top-quality-display-on-this-compact-laptop-a-must-see-find-for-savvy-shoppers/"><u>Affordable Top-Quality Display on This Compact Laptop: A Must-See Find for Savvy Shoppers!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/anker-737-battery-sale-slash-30-off-with-this-compact-charger-exclusive-offer-from-zdnet/"><u>Anker 737 Battery Sale: Slash $30 Off with This Compact Charger - Exclusive Offer From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-your-browsers-efficiency-activating-energy-saving-features-in-google-chrome-insights-and-tips/"><u>Boost Your Browser's Efficiency: Activating Energy Saving Features in Google Chrome - Insights and Tips</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ing-your-course-in-the-world-of-youtube-tracking-success-and-monetary-value/"><u>Charting Your Course in the World of YouTube Tracking Success & Monetary Value</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-game-sound-quality-with-these-stellar-speakers-at-a-huge-discount-on-amazon-recommended-gaming-specialists/"><u>Elevate Your Game Sound Quality with These Stellar Speakers at a Huge Discount on Amazon – Recommended Gaming Specialists</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-essential-macbook-usb-c-charger-for-less-than-70-on-amazon-now-insider-tips-from-zdnet/"><u>Get Your Essential MacBook USB-C Charger for Less Than $70 on Amazon Now | Insider Tips From ZDNet!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-p55plus-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel P55+ to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-honor-100-pro-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Honor 100 Pro?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superb-online-stores-where-to-find-and-purchase-youtube-ringtones/"><u>In 2024, Superb Online Stores Where to Find & Purchase YouTube Ringtones?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-troubleshooting-a-non-operational-policy-monitoring-tool/"><u>Successfully Troubleshooting a Non-Operational Policy Monitoring Tool</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-garmin-vivosmart-4s-body-battery-and-stress-management-capabilities/"><u>The Ultimate Guide to Garmin Vivosmart 4'S Body Battery and Stress Management Capabilities</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-98-unmissable-cyber-monday-offers-of-2022-spotted-on-zdnet/"><u>Top 98 Unmissable Cyber Monday Offers of 2022 - Spotted on ZDNet!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-affordable-webcams-our-expert-review-by-zdnet/"><u>Top Affordable Webcams : Our Expert Review by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-versatile-laptop-proves-its-mettle-in-comprehensive-hardware-analysis-insider-info-from-zdnet/"><u>Top Rated Versatile Laptop Proves Its Mettle in Comprehensive Hardware Analysis - Insider Info From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-hidden-in-built-radios-are-your-mac-or-ipad-equipped/"><u>Unlocking the Hidden In-Built Radios: Are Your Mac or iPad Equipped?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnets-exclusive-guide-to-budget-friendly-2-in-1-laptops-alternatives-to-lenovo-and-dell-perfect-for-pre-prime-day-savings/"><u>ZDNet's Exclusive Guide to Budget-Friendly 2-in-1 Laptops: Alternatives to Lenovo and Dell, Perfect for Pre-Prime Day Savings!</u></a></li>
 </ul></div>
 

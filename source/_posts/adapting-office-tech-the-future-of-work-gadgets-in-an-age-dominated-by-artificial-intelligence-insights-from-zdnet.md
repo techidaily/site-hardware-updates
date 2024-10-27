@@ -1,7 +1,7 @@
 ---
 title: "Adapting Office Tech: The Future of Work Gadgets in an Age Dominated by Artificial Intelligence - Insights From ZDNet"
-date: 2024-10-16T23:30:04.249Z
-updated: 2024-10-20T18:37:29.921Z
+date: 2024-10-23T02:29:58.201Z
+updated: 2024-10-26T23:54:08.711Z
 tags:
   - laptops
 categories:
@@ -65,10 +65,10 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -80,10 +80,10 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -136,24 +136,18 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unlocking-igtvs-potential-a-video-resizing-primer/"><u>[New] In 2024, Unlocking IGTV's Potential A Video Resizing Primer</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unlocking-the-power-of-in-stream-ads-on-facebook-a-comprehensive-handbook/"><u>[New] In 2024, Unlocking the Power of In-Stream Ads on Facebook A Comprehensive Handbook</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-youtube-shorts-mastery-quick-thumbnail-updates-made-simple/"><u>[New] In 2024, YouTube Shorts Mastery Quick Thumbnail Updates Made Simple</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-financial-overview-total-investment-for-music-clip-shootings/"><u>[Updated] 2024 Approved Financial Overview Total Investment for Music Clip Shootings</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-best-camcorders-featuring-direct-faceviewing/"><u>[Updated] In 2024, Best Camcorders Featuring Direct FaceViewing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-tale-of-two-botms-mistral-and-chatgpt-showdown/"><u>A Tale of Two Botms: Mistral and ChatGPT Showdown</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/cost-efficiency/"><u>Cost Efficiency:</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-access-to-updated-drivers-for-epsons-xp-310-download-here/"><u>Easy Access to Updated Drivers for Epson's XP 310 - Download Here!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721474437829-experiencing-late-text-alerts-on-ios-devices-discover-our-9-key-fixes/"><u>Experiencing Late Text Alerts on iOS Devices? Discover Our 9 Key Fixes!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-new-microsoft-bluetooth-driver-version-compatible-with-win-11-10-8-and-7-free-download/"><u>Get the New Microsoft Bluetooth Driver Version: Compatible with Win 11, 10, 8 & 7 – Free Download!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-iphone-13-pro-max-by-drfone-ios/"><u>How to Bypass iCloud Lock on iPhone 13 Pro Max</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-logitech-g602-headset-on-your-windows-computer/"><u>How to Install Logitech G602 Headset on Your Windows Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/improve-your-sound-experience-with-updated-audio-technica-drivers-a-tutorial/"><u>Improve Your Sound Experience with Updated Audio Technica Drivers - A Tutorial</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instant-installation-of-the-canon-pro-100-driver-on-your-pc-with-windows/"><u>Instant Installation of the Canon PRO 100 Driver on Your PC with Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-driver-pack-for-the-hp-m506-laser-printer-downloads-and-installation-tips/"><u>Latest Driver Pack for the HP M506 Laser Printer: Downloads and Installation Tips</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-oppo-find-x6-pro-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Oppo Find X6 Pro</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-download-and-activate-your-brother-l2540dw-printer-driver-on-windows/"><u>Step-by-Step Guide to Download and Activate Your Brother L25^40DW Printer Driver on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-game-collision-problems-addressing-crashes-by-super-people/"><u>Troubleshooting Game Collision Problems: Addressing 'Crashes by Super People'</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updated-guide-downloading-and-installing-hp-ethernet-drivers-for-various-windows-versions/"><u>Updated Guide: Downloading and Installing HP Ethernet Drivers for Various Windows Versions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-adjusting-google-meet-display-mobile-and-laptop-focus/"><u>[New] Adjusting Google Meet Display Mobile and Laptop Focus</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-leading-10-in-ultra-hd-top-4k-mirrorless-photo-journals/"><u>[New] Leading 10 in Ultra-HD Top 4K Mirrorless Photo Journals</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-the-art-of-instagram-video-bordering/"><u>2024 Approved Mastering the Art of Instagram Video Bordering</u></a></li>
+<li><a href="https://win-unique.techidaily.com/choosing-the-best-file-format-html-zip-exe-or-disc-creation-with-flipbuilder/"><u>Choosing the Best File Format: HTML, ZIP, EXE, or Disc Creation with FlipBuilder</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-hp-laserjet-p1006-printer-driver-free-and-easy-installation-guide/"><u>Download the HP LaserJet P1006 Printer Driver - Free & Easy Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-download-and-install-brother-l2340dw-color-printer-software-on-windows-operating-system/"><u>Easy Setup: Download & Install Brother L2340DW Color Printer Software on Windows Operating System</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-tutorial-applying-computer-vhs-filters/"><u>In 2024, Step-by-Step Tutorial Applying Computer VHS Filters</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-painless-synaptics-driver-updates-for-windows-pc-users/"><u>Quick and Painless Synaptics Driver Updates for Windows PC Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/seamless-access-watching-fb-videos-on-apple-tv-explained/"><u>Seamless Access Watching FB Videos on Apple TV Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-next-evolution-in-wearables-apple-watch-series-8s-release-info-specifications-and-cost-breakdown/"><u>The Next Evolution in Wearables: Apple Watch Series 8'S Release Info, Specifications & Cost Breakdown</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/trusted-source-free-download-of-sades-headset-drivers-for-a-hassle-free-windows-experience/"><u>Trusted Source: Free Download of Sades Headset Drivers for a Hassle-Free Windows Experience</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/windows-11-mirrorfolder/"><u>Windows 11 影像抽取器 MirrorFolder: 簡易版複製解決方案</u></a></li>
 </ul></div>
 

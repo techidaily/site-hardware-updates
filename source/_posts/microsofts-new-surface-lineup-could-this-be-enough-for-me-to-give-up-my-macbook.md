@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's New Surface Lineup: Could This Be Enough for Me to Give Up My MacBook?"
-date: 2024-10-19T02:18:37.643Z
-updated: 2024-10-20T19:21:03.615Z
+date: 2024-10-24T18:02:45.537Z
+updated: 2024-10-27T01:59:12.504Z
 tags:
   - laptops
 categories:
@@ -37,6 +37,13 @@ Here's everything that the company announced during its October event.
 
 **Also: [How did Microsoft manage to get it right with Surface?](https://www.zdnet.com/article/how-did-microsoft-manage-to-get-it-right-with-surface/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Surface Laptop 5 gets a splash of color
 
 Microsoft Surface Laptop 5 in Sage.
@@ -54,10 +61,10 @@ What's different about the new Surface Laptop starts with the 12th-generation In
 The Surface Laptop 5 will be available in select markets beginning on Oct. 25 with a [starting price of $999](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?) for the i5, 8GB of RAM, and 256GB model. The laptop will be available in classic Platinum, Black, and Sandstone colorways, as well as a new leafy "Sage" option. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Goodbye Surface Pro X, hello Surface Pro 9
@@ -79,10 +86,16 @@ Not-so-big news: The rest is a standard Surface Pro affair; 2-in-1 design with a
 As far as pricing goes, the Intel-based Surface Pro 9 starts at [$999](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (i5, 8GB RAM, 128GB), and the ARM-based model starts at [$1,299](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (SQ3, 8GB RAM, 128GB). The former comes in Platinum, Graphite, Forest, and Sapphire, while the latter only comes in Platinum. Preorders start today. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The aptly-named Surface Studio 2+
@@ -100,10 +113,10 @@ For all the performance gains that you're getting, Microsoft is making you pay t
 [Buy the Surface Studio 2+ View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Studio-2/8VLFQC3597K4?)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Presenter+ and Audio Dock
@@ -117,13 +130,6 @@ Releasing alongside the new Surface products are the Microsoft Presenter+ and Mi
 **More: [Microsoft's new accessories are geared toward the hybrid era of work](https://www.zdnet.com/article/microsofts-new-accessories-are-geared-toward-the-hybrid-era-of-work/)**
 
 The Microsoft Audio Dock is both a docking station with four ports (HDMI, 2x USB-C, and USB-A) and a speaker for audio input and output. For $249, which is not cheap for either of its two functions, Microsoft promises "premium sound" and noise-reducing microphones that will help you "be heard clearly in your next online meeting."
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Microsoft Designer takes on Canva
 
@@ -171,20 +177,20 @@ Microsoft officials say that Designer is targeted at consumers more than anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-editing-skills-for-professional-facebook-reels-for-2024/"><u>[Updated] Mastering Editing Skills for Professional Facebook Reels for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-twitch-revival-tactics-for-forgotten-sessions-for-2024/"><u>[Updated] Twitch Revival Tactics for Forgotten Sessions for 2024</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/huawei/"><u>動画をHuawei機器上でうまく操作できないときのトラブルシューティング手順</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1723808345852-effortless-optimization-get-a-faster-google-chrome-now/"><u>Effortless Optimization: Get a Faster Google Chrome Now</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/te-youtube-presence-ideal-release-windows/"><u>Elevate Youtube Presence Ideal Release Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-motorola-moto-g73-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Motorola Moto G73 5G to New Phone | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-samsung-galaxy-a05-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Samsung Galaxy A05 Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/samsung-galaxy-z-flip-5d-teardown-analysis-a-leap-forward-in-design-excellence/"><u>Samsung Galaxy Z Flip 5D Teardown Analysis: A Leap Forward in Design Excellence</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-android-device-data-transfer-guide-to-connecting-with-an-external-hard-drive/"><u>Seamless Android Device Data Transfer: Guide to Connecting with an External Hard Drive</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/securing-privacy-expert-tips-for-hiding-picsvids-on-samsung-devices/"><u>Securing Privacy: Expert Tips for Hiding Pics/Vids on Samsung Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-adding-widgets-to-your-android-devices-lock-screen/"><u>Step-by-Step Guide: Adding Widgets to Your Android Device's Lock Screen</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-capturing-images-using-your-android-devices-screen/"><u>Step-by-Step Guide: Capturing Images Using Your Android Device's Screen</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-mirroring-images-on-your-android-device/"><u>Step-by-Step Guide: Mirroring Images on Your Android Device</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-10-youtube-video-in-mp3-konverter-software-vs-online-optionen/"><u>Top 10 Youtube-Video-in-MP3-Konverter: Software Vs. Online Optionen</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unfreeze-your-chromebook-in-8-easy-steps-for-smooth-performance/"><u>Unfreeze Your Chromebook in 8 Easy Steps for Smooth Performance</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-perfect-pace-essential-strategies-to-create-engaging-slow-motion-videos-and-images-for-instagram-audiences/"><u>[New] Perfect Pace Essential Strategies to Create Engaging Slow Motion Videos and Images for Instagram Audiences</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitters-guide-adding-videos/"><u>[Updated] In 2024, Twitter's Guide Adding Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-advanced-movie-file-management-six-tips-for-the-modern-user-in-windows-11/"><u>2024 Approved Advanced Movie File Management - Six Tips for the Modern User in Windows 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-expert-choice-list-ultimate-streaming-audio-gear/"><u>2024 Approved Expert Choice List Ultimate Streaming Audio Gear</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-iphone-12-pro-max-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your iPhone 12 Pro Max for Free</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-nvidia-quadro-drivers-for-windows-11-latest-compatible-versions-and-installation-guide/"><u>Download Nvidia Quadro Drivers for Windows 11: Latest Compatible Versions and Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-atheros-driver-software-for-your-windows-system-installed-easily/"><u>Get the Latest Atheros Driver Software for Your Windows System Installed Easily</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-to-fixing-ralink-rt3290-wifi-drivers-in-windows-1187-step-by-step-solutions/"><u>Guide to Fixing Ralink RT3290 WiFi Drivers in Windows 11/8/7: Step-by-Step Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-obtain-the-most-recent-usb-to-hdmi-drivers-instructions-guide/"><u>How to Obtain the Most Recent USB to HDMI Drivers - Instructions Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Itel P55T? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-eveos-updated-bluetooth-adapter-support-software-for-optimal-performance/"><u>Install EVEO's Updated Bluetooth Adapter Support Software for Optimal Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/no-hassle-comprehensive-guide-to-refresh-lenovo-ideapad-100s-device-drivers/"><u>No Hassle! Comprehensive Guide to Refresh Lenovo IdeaPad 100S Device Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/tl-wn722n-detection-troubleshooting-guide-for-windows-users/"><u>TL-WN722N Detection Troubleshooting Guide for Windows Users</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/travel-through-time-on-instagram-the-reverse-video-guide-for-2024/"><u>Travel Through Time on Instagram The Reverse Video Guide for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-now-the-efficient-way-to-install-new-surface-dock-driver/"><u>Update Now! The Efficient Way to Install New Surface Dock Driver</u></a></li>
 </ul></div>
 

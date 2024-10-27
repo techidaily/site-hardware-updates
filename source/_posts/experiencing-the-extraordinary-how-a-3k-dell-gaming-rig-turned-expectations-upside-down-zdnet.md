@@ -1,7 +1,7 @@
 ---
 title: "Experiencing the Extraordinary: How a $3K Dell Gaming Rig Turned Expectations Upside Down | ZDNet"
-date: 2024-10-15T16:28:11.177Z
-updated: 2024-10-21T00:22:29.940Z
+date: 2024-10-24T17:15:36.179Z
+updated: 2024-10-26T21:28:09.777Z
 tags:
   - laptops
 categories:
@@ -95,16 +95,10 @@ There are a total of five vents on the m18 R2, allowing for maximum internal air
 In fact, one thing I noticed about the m18 R2 is that it never really felt hot to the touch at all. Both the keyboard and the wrist rest (above where the battery is housed) remained only slightly warm, suggesting that the fans were in fact doing their job effectively, which I'm glad for, given the sound they generate. 
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -143,18 +137,22 @@ However, this is also quite a large laptop, so although it's portable, it isn't 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-create-digital-humor-kapwings-meme-builder/"><u>[New] 2024 Approved Create Digital Humor Kapwing's Meme Builder</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-mastering-the-art-of-partial-youtube-extraction/"><u>[New] 2024 Approved Mastering the Art of Partial YouTube Extraction</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-4-effective-methods-for-slide-embedding-from-youtube/"><u>[New] 4 Effective Methods for Slide Embedding From YouTube</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-cutting-edge-top-20-anime-song-intros/"><u>[Updated] 2024 Approved Cutting-Edge Top 20 Anime Song Intros</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-sweets-and-snacks-tiktoks-top-food-trends/"><u>[Updated] Sweets & Snacks TikTok's Top Food Trends</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-finding-and-installing-dell-inspiron-15-hardware-compatibility-on-windows-10/"><u>Comprehensive Guide: Finding and Installing Dell Inspiron 15 Hardware Compatibility on Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-techniques-to-troubleshoot-and-repair-your-i2c-hid-driver-problems/"><u>Effortless Techniques to Troubleshoot and Repair Your I2C HID Driver Problems</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enjoy-your-favorite-films-and-shows-anywhere-with-step-by-step-tips-on-securely-downloading-content-for-offline-use/"><u>Enjoy Your Favorite Films and Shows Anywhere with Step-by-Step Tips on Securely Downloading Content for Offline Use</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-epson-printerscanner-drivers-free-and-secure-access/"><u>Get the Latest Epson Printer/Scanner Drivers - Free and Secure Access!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-samsung-galaxy-s24plus-by-fonelab-android-recover-music/"><u>How to restore wiped music on Samsung Galaxy S24+</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-the-latest-usb-30-drivers-for-windows-systems/"><u>Installing the Latest USB 3.0 Drivers for Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/nvidia-driver-installation-guide-best-picks-for-windows-1178-users/"><u>Nvidia Driver Installation Guide: Best Picks for Windows 11/7/8 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722964640226-quick-and-painless-setup-of-your-samsung-m2070-drivers-a-comprehensive-guide/"><u>Quick and Painless Setup of Your Samsung M2070 Drivers - A Comprehensive Guide!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-game-changers-discovering-top-tier-gaming-webcam-technology/"><u>[New] Game Changers Discovering Top-Tier Gaming Webcam Technology</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-step-by-step-obs-studio-setup-for-android-users/"><u>[Updated] 2024 Approved Step-by-Step OBS Studio Setup for Android Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-affordable-overseas-vr-headsets-china/"><u>[Updated] Affordable Overseas VR Headsets (China)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-free-visual-treasury-select-10-sites-included/"><u>[Updated] Free Visual Treasury – Select 10 Sites Included</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-handling-live-stream-halt-a-guide-for-fb-users-for-2024/"><u>[Updated] Handling Live Stream Halt A Guide for FB Users for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mx490-software-downloads-find-the-most-recent-version-compatible-with-windows-os/"><u>Canon MX490 Software Downloads: Find the Most Recent Version Compatible with Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-corsairs-windows-driver-software-without-a-glitch/"><u>Download & Install Corsair's Windows Driver Software Without a Glitch</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-lenovo-laptop-model-t430-drivers-for-windows-11-8-or-7/"><u>Download and Install Lenovo Laptop Model T430 Drivers for Windows 11, 8, or 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-canons-mf4500-driver-step-by-step-guide-and-links/"><u>Download Canon's MF4500 Driver - Step-by-Step Guide & Links</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-update-guide-latest-sata-ahci-controller-drivers/"><u>Effortless Update Guide: Latest SATA AHCI Controller Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-asus-dvd-driver-step-by-step-tutorial-and-download-links/"><u>Get the Latest ASUS DVD Driver: Step-by-Step Tutorial and Download Links</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-officejet-pro-8620-driver-upgrade-step-by-step-for-windows-users/"><u>HP OfficeJet Pro 8620 Driver Upgrade - Step by Step for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-samsung-mobile-adb-driver-installation-guide/"><u>Latest Samsung Mobile ADB Driver Installation Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-no-cost-video-editors-for-rookies-top-picks/"><u>New In 2024, No-Cost Video Editors for Rookies Top Picks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-gamer-oriented-smartphones-expert-reviews-by-zdnet/"><u>Top 5 Gamer-Oriented Smartphones - Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-fixing-windows-7-network-card-drivers-solution/"><u>Troubleshooting and Fixing Windows 7 Network Card Drivers - SOLUTION</u></a></li>
 </ul></div>
 

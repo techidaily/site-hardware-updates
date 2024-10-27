@@ -1,7 +1,7 @@
 ---
 title: "Dive Into the Best Deals of October's Prime Shopping Event: Must-Have Discounts Still Up for Grabs | CNET Insights"
-date: 2024-10-14T05:08:33.572Z
-updated: 2024-10-21T04:10:19.376Z
+date: 2024-10-24T01:20:58.484Z
+updated: 2024-10-26T17:48:35.428Z
 tags:
   - laptops
 categories:
@@ -104,10 +104,16 @@ ZDNET
 * [Amazon eero Pro 6E mesh Wi-Fi router 3-pack for $350 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-eero-Wi-Fi-router-newest%2Fdp%2FB091G64GVK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc374554d-d091-4290-a659-880524a47e24%7Cdtp&dtb=1): This mesh Wi-Fi system is rated for up to 2,000 square feet of coverage and supports both wireless and hardwired Ethernet connectivity at 1.6 Gbps and 2.5Gbps, respectively.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## October Prime Day PlayStation 5 deals
@@ -186,6 +192,13 @@ Kyle Kucharski/ZDNET
 * [HP Victus 15L desktop for $480 (save $370 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-15l-gaming-desktop-tg02-0325m-59a32av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-level gaming desktop built with an AMD Ryzen 5 5600G processor, AMD Radeon RX 6400 GPU, 8GB of RAM, and a 256GB SSD.
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming laptop deals
 
 Lenovo
@@ -197,6 +210,13 @@ Lenovo
 * [HP Omen Transcend for $1,130 (save $470 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fomen-transcend-gaming-laptop-14t-fb000-14-8x1h0av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mid-range gaming laptop with a 14-inch 2K OLED display, Intel Core Ultra 7 CPU, 512GB SSD, 16GB of RAM, and a GeForce RTX 4050 GPU.
 * [HP Victus 16 laptop for $850 (save $450 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-gaming-laptop-16t-r100-161-91c59av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-grade gamign laptop with a 16-inch 1080p IPS display, 144Hz refresh rate, 14th gen Intel Core i5 CPU, 16GB of RAM, GeForce RTX 4050 GPU, and a 512GB SSD.
 * [Alienware m18 R2 for $3,200 (save $800 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Falienware-m18-r2-gaming-laptop%2Fspd%2Falienware-m18-r2-laptop%2Fuseashctom18r204&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming laptop with an Nvidia GeForce RTX 4090 GPU, Intel Core i9-14900K CPU, 64GB of RAM, 4TB of storage, and an 18-inch QHD+ display.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## October Prime Day gaming monitor deals
 
@@ -216,10 +236,10 @@ Samsung/ZDNET
 * [Roccat Vulcan II Mini Air for $64 (save $116 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Froccat-vulcan-ii-mini-air-65-wireless-optical-mechanical-gaming-keyboard-with-rgb-illumination-black%2F6547284.p%3FskuId%3D6547284&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less mechanical keyboard with optical switches, RGB backlighting, and USB-C charging.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## October Prime Day graphics card deals
@@ -230,22 +250,15 @@ Samsung/ZDNET
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Are games, consoles, and accessories really cheaper on Prime Day?
@@ -255,13 +268,6 @@ Games, consoles, and accessories can and do go on sale during Prime Day, though 
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -328,21 +334,24 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook.techidaily.com/eco-friendly-total-renewable-energy-for-fb/"><u>Eco-Friendly: Total Renewable Energy for FB</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-tech-savings-alert-snag-your-beats-studio-pro-wireless-earbuds-cutting-edge-lenovo-yoga/"><u>Exclusive Tech Savings Alert! Snag Your Beats Studio Pro Wireless Earbuds, Cutting-Edge Lenovo Yoga</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-hands-free-3d-discover-how-samsungs-new-monitors-transform-your-viewing-with-glasses-free-innovation/"><u>Experience Hands-Free 3D: Discover How Samsung's New Monitors Transform Your Viewing with Glasses-Free Innovation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-the-sonos-bluetooth-ace-headphones-honest-feedback-from-a-dedicated-testing-enthusiast/"><u>Experience the Sonos Bluetooth ACE Headphones: Honest Feedback From a Dedicated Testing Enthusiast</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-kobo-clara-colour-effortless-reading-with-stunning-displays/"><u>Exploring the Kobo Clara Colour: Effortless Reading with Stunning Displays</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-hot-electronics-at-low-prices-pixel-phone-8-pro-super-sharp-tvs-and-compact-tablets/"><u>Get Your Hands-On Hot Electronics at Low Prices: Pixel Phone 8 Pro, Super Sharp TVs & Compact Tablets</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-samsung-galaxy-f34-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Samsung Galaxy F34 5G</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-nubia-z50-ultra-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Nubia Z50 Ultra to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-cricket-apple-iphone-6-plus-for-free-by-drfone-ios/"><u>In 2024, How To Unlock Cricket Apple iPhone 6 Plus for Free</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-of-gamesir-x2s-type-c-controller-a-perfect-fit-for-adult-gamers/"><u>In-Depth Analysis of GameSir X2s Type-C Controller: A Perfect Fit for Adult Gamers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/insights-into-logitechs-newest-addition-the-keys-to-go-2-reviewed-for-simplicity-and-functionality/"><u>Insights Into Logitech's Newest Addition - The Keys-To-Go 2 Reviewed for Simplicity and Functionality</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/iphone-screen-recording-made-simple-for-2024/"><u>Iphone Screen Recording Made Simple for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/is-viber-out-the-best-for-international-calls-an-in-depth-review/"><u>Is Viber Out the Best for International Calls? An In-Depth Review</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/say-goodbye-to-persistent-glaring-asus-fix-guide/"><u>Say Goodbye to Persistent Glaring: ASUS Fix Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stabilize-your-gaming-experience-expert-tips-for-resolving-state-of-decay-2-glitches/"><u>Stabilize Your Gaming Experience: Expert Tips for Resolving State of Decay 2 Glitches</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-file-funneling-transfer-techniques-for-your-computer/"><u>[New] 2024 Approved File Funneling Transfer Techniques for Your Computer</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ovice-net-worth-increase-budget-friendly-profitable-channel-buys/"><u>[New] Novice Net Worth Increase Budget-Friendly, Profitable Channel Buys</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rategies-for-boosting-your-youtube-visibility-for-2024/"><u>10 Strategies for Boosting Your YouTube Visibility for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-roundup-of-best-game-casting-apps/"><u>2024 Approved Expert Roundup of Best Game Casting Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/converti-gratuitamente-i-tuoi-gif-in-formato-3gp-con-ease-soluzione-on-line-di-movavi/"><u>Converti Gratuitamente I Tuoi GIF in Formato 3GP Con Ease: Soluzione On-Line Di Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-instructions-for-installing-the-latest-drivers-on-your-epson-wf-7600-series-using-windows-operating-system/"><u>Easy Instructions for Installing the Latest Drivers on Your Epson WF-7600 Series Using Windows Operating System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-visual-experience-by-upgrading-amd-drivers-in-supported-windows-systems/"><u>Enhance Visual Experience by Upgrading AMD Drivers in Supported Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-new-geforce-rtx-3080-ti-drivers-for-your-win-10-8-or-7-pc-today/"><u>Get the New GeForce RTX 3080 Ti Drivers for Your Win 10, 8 or 7 PC Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-windows-system-upgraded-free-msi-auditory-device-drivers-available-now/"><u>Get Your Windows System Upgraded: Free MSI Auditory Device Drivers Available Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fetch-and-set-up-new-hp-officejet-pro-8620-driver-versions-for-windows-computers/"><u>How to Fetch and Set Up New HP OfficeJet Pro 8620 Driver Versions for Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-or-install-geforce-gtx-710-drivers-on-a-windows-machine/"><u>How to Update or Install GeForce GTX 710 Drivers on a Windows Machine</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Xiaomi Redmi A2? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-access-get-your-samsung-m2070fw-drivers-now/"><u>Instant Access: Get Your Samsung M2070FW Drivers Now!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reimagining-coding-with-non-chatgpt-ai-innovations/"><u>Reimagining Coding with Non-ChatGPT AI Innovations</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-loadlibrary-failure-error-understanding-and-fixing-code-1114/"><u>Solving the LoadLibrary Failure Error - Understanding and Fixing Code 1114</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1715701125640-the-ultimate-cut-for-quality-offline-ipad-gaming/"><u>The Ultimate Cut for Quality Offline iPad Gaming!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-typing-game-on-android-with-bing-ai-chat-integration/"><u>Transform Your Typing Game on Android with Bing AI Chat Integration</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshoot-and-fix-hewlett-packard-monitor-driver-compatibility-with-windows-1187/"><u>Troubleshoot and Fix Hewlett-Packard Monitor Driver Compatibility with Windows 11/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-updating-logitech-m510-mouse-drivers-made-easy/"><u>Troubleshooting and Updating Logitech M510 Mouse Drivers Made Easy</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Future of Work Gadgets in an AI-Powered World: Perspectives"
-date: 2024-10-13T23:45:50.540Z
-updated: 2024-10-21T05:47:38.883Z
+date: 2024-10-19T19:20:48.884Z
+updated: 2024-10-27T00:19:26.148Z
 tags:
   - laptops
 categories:
@@ -65,10 +65,16 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -80,10 +86,10 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -136,19 +142,24 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/4-printer-driver-installed-in-minutes/"><u>4 Printer Driver Installed in Minutes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/boost-your-pcs-speed-solutions-for-optimizing-windows-11-performance/"><u>Boost Your PC's Speed - Solutions for Optimizing Windows 11 Performance</u></a></li>
-<li><a href="https://article-tips.techidaily.com/comprehensive-guide-to-simplified-hdr-techniques/"><u>Comprehensive Guide to Simplified HDR Techniques</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-install-canon-mg3620-drivers-safely-and-efficiently/"><u>Find and Install Canon MG3620 Drivers Safely & Efficiently</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-xs-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone XS</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-grassroots-video-marketing-strategies/"><u>In 2024, Grassroots Video Marketing Strategies</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-you-cast-your-apple-iphone-15-plus-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>In 2024, How Can You Cast Your Apple iPhone 15 Plus to Windows PC With Ease? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-motorola-moto-g34-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Motorola Moto G34 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/next-years-anticipated-release-high-performance-snapdragon-x-computers-for-700/"><u>Next Year's Anticipated Release: High-Performance Snapdragon X Computers for $700</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revive-your-hps-sound-quality-a-definitive-fix-for-beats-audio-driver-challenges-on-windows-operating-systems/"><u>Revive Your HP's Sound Quality: A Definitive Fix for Beats Audio Driver Challenges on Windows Operating Systems</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-right-platform-for-content-creation-podcast-or-video/"><u>The Right Platform for Content Creation? Podcast or Video?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tips-and-tricks-to-tell-if-your-iphone-15-plus-is-unlocked-by-drfone-ios/"><u>Tips And Tricks To Tell if Your iPhone 15 Plus Is Unlocked</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-steps-for-perfect-setup-of-your-steelseries-arctis/"><u>Ultimate Steps for Perfect Setup of Your SteelSeries Arctis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-now-step-by-step-tutorial-for-qualcomm-atheros-ar3011-bluetooth-30-driver-setup/"><u>[Get Now] Step-by-Step Tutorial for Qualcomm Atheros AR3011 Bluetooth 3.0 Driver Setup</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-essential-insights-into-using-discord/"><u>[Updated] 2024 Approved Essential Insights Into Using Discord</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-vivid-visionary-views-premium-4k-screen-choices/"><u>[Updated] In 2024, Vivid Visionary Views Premium 4K Screen Choices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970964289-arbitration-proceedings-are-private-and-confidential-unlike-court-cases-they-do-not-become-part-of-the-public-record/"><u>Arbitration Proceedings Are Private and Confidential; Unlike Court Cases, They Do Not Become Part of the Public Record</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-steps-to-successfully-install-sandisk-ssd-drivers/"><u>Complete Guide: Steps to Successfully Install SanDisk SSD Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-newest-brush-pen-pro-software-version-from-wacom/"><u>Download & Install Newest Brush Pen Pro Software Version From Wacom</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-official-geforce-rtx-3060-ti-driver-set-for-optimal-performance-on-windows-11/"><u>Download Official GeForce RTX 3060 Ti Driver Set for Optimal Performance on Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exploring-variations-panoramic-and-virtual-reality-films/"><u>Exploring Variations Panoramic & Virtual Reality Films</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fix-and-improve-your-canon-mx492-printer-official-drivers-download-and-update-for-windows-users/"><u>Fix and Improve Your Canon MX492 Printer: Official Drivers Download & Update for Windows Users</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-top-choice-for-capturing-quality-content-on-youtube/"><u>In 2024, Top Choice for Capturing Quality Content on YouTube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-fresh-driver-updates-for-brother-hl-2240-series-enhance-your-windows-printing-experience/"><u>Install Fresh Driver Updates for Brother HL-2240 Series - Enhance Your Windows Printing Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-access-free-downloads-for-arduino-mega-2560-board-drivers/"><u>Quick Access! Free Downloads for Arduino Mega 2560 Board Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722966230555-seamless-setup-fetch-the-latest-hp-stream-printing-drivers-instantly/"><u>Seamless Setup: Fetch the Latest HP Stream Printing Drivers Instantly!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-guide-installing-the-usb-to-serial-converter-drivers-on-windows/"><u>Simple Guide: Installing the USB to Serial Converter Drivers on Windows</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/tailoring-content-for-snapchats-luminaries-for-2024/"><u>Tailoring Content for Snapchat's Luminaries for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-se-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-realme-gt-3-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Realme GT 3 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/troubleshoot-fix-connectivity-issues-when-your-network-pc-is-invisible-on-windows-10/"><u>Troubleshoot: Fix Connectivity Issues When Your Network PC Is Invisible on Windows 10</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/underwater-worlds-unseen-pro-tips-for-capturing-vivid-gopro-footage-underwater/"><u>Underwater Worlds Unseen Pro Tips for Capturing Vivid GoPro Footage Underwater</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Latest in Hardware - Trustworthy Insights by Tom
-date: 2024-09-05T19:54:54.584Z
-updated: 2024-09-06T19:54:54.584Z
+date: 2024-10-19T23:50:22.368Z
+updated: 2024-10-27T00:36:44.433Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/o7JDGJ3vFPTEXsUWQCjyNY-320-80.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bridging the Past and Present: The Ongoing Appeal of AGP Slot Modifications to Support New Graphics Cards & Networking Enhancements - Spotlight on Two Adaptors
 
 Strangely enough, the past few months of 2024 have seen prominent discussions of a few modern-day AGP (Accelerated Graphics Port) mods — the first is a mod of questionable practicality to get a GTX 960 working on an AGP board, which took considerable gymnastics. The second involves repurposing an AGP port on a Super Socket 7 motherboard for faster, more modern networking speeds.
@@ -25,12 +19,6 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 ![Photograph of the AGP-to-PCI mod attached to the PCI-to-PCIe mod needed to install a GTX 960 in an old Athlon XP 2400+ PC.](https://cdn.mos.cms.futurecdn.net/QYgYq7hUqARXB4fFQkNQ84-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Photograph of the AGP-to-PCI mod attached to the PCI-to-PCIe mod needed to install a GTX 960 in an old Athlon XP 2400+ PC.  (Image credit: Christian Rudewig on FB (via @tercio\_miranda on Twitter))
 
  For instance, back in August of 2009, Don Woligroski,[writing for_Tom's Hardware_](https://www.tomshardware.com/reviews/agp-radeon-overclocking,2395-4.html) , used an OC'd CPU and a powerful native AGP card[to get Crysis running at 65 FPS](https://www.tomshardware.com/reviews/agp-radeon-overclocking,2395-4.html) on Low Physics on an AGP board originally released in November 2005\. PCIe debuted in 2003, so this was well after many faster boards with newer standards were already on the market. This means that, yes, AGP could run Crysis while it was still common, and it remained one of the most demanding games on PC for several years after its 2007 release.
@@ -43,12 +31,6 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,14 +45,11 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
  As you can see, the modding community is still hard at work wringing more functionality out of old gear, either for entertainment or out of necessity.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -79,4 +58,23 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-exploring-best-video-grabbers-for-win11/"><u>[Updated] In 2024, Exploring Best Video Grabbers for Win11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/acer-aspire-e15-compatible-drivers-for-windows-11-get-them-here/"><u>Acer Aspire E15 Compatible Drivers for Windows 11 – Get Them Here!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/advanced-tips-and-solutions-for-fixing-photo-8-on-windows-inside-the-ultimate-user-manual/"><u>Advanced Tips and Solutions for Fixing Photo 8 on Windows - Inside the Ultimate User Manual</u></a></li>
+<li><a href="https://facebook.techidaily.com/creating-a-cloaked-space-for-online-dialogues/"><u>Creating a Cloaked Space for Online Dialogues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-to-addressing-challenges-encountered-in-pci-cipher-suite-management-drivers/"><u>Guide to Addressing Challenges Encountered in PCI Cipher Suite Management Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-to-securely-obtain-the-most-recent-logitech-k350-keyboard-drivers-for-smooth-operation/"><u>Guide to Securely Obtain the Most Recent Logitech K350 Keyboard Drivers for Smooth Operation</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, Where Is the Best Place to Catch Dratini On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-varied-commitment-of-pc-manufactureb-to-intels-long-term-warranty-on-defective-processors-survey-findings/"><u>Navigating the Varied Commitment of PC Manufactureb to Intel's Long-Term Warranty on Defective Processors – Survey Findings</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/pro-iphone-tips-for-capturing-the-perfect-landscape-moments-for-2024/"><u>Pro iPhone Tips for Capturing the Perfect Landscape Moments for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

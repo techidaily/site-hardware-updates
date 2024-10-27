@@ -1,7 +1,7 @@
 ---
 title: "Inside the Dichotomy: Samsung's Enigmatic Galaxy Book 3 Pro 360 Analyzed | Insights"
-date: 2024-10-19T20:22:01.743Z
-updated: 2024-10-21T06:43:09.624Z
+date: 2024-10-24T00:55:08.490Z
+updated: 2024-10-26T18:44:58.137Z
 tags:
   - laptops
 categories:
@@ -59,13 +59,6 @@ There's a lot to like about the Book 3 Pro 360, at least when it comes to the ha
 
 Jason Cipriani/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Design
 
 Arguably, the Galaxy Book 3 Pro 360's headlining feature is its 16-inch display. It's the first thing you notice when opening the lid, and for good reason. It's big, bright, and crystal-clear. Samsung used a 3K 16-inch AMOLED touchscreen display here -- that's the same kind of screen tech used in all of [Samsung's high-end smartphones](https://www.zdnet.com/article/best-samsung-phone/). AMOLED displays are known for deeper blacks and more precise color saturation, and the Book 3 Pro 360 delivers on those promises. 
@@ -109,10 +102,10 @@ Over the last few weeks I've used the Book 3 Pro 360 for my normal computing nee
 The Geekbench 6 benchmarking tool was recently released; it helps measure the performance of a computer or smartphone when doing daily tasks. I ran it three times on the Book 3 Pro 360 and averaged the scores. The single-core score was 2,219, with a multicore score of 8,916\. I also ran the same tool on my 2020 M1 Apple MacBook Pro, and it had an average score of 2,300 for single-core and 8,025 for multicore. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Laptops
@@ -129,13 +122,6 @@ All that is to say -- with the Book 3 Pro 360, you're getting a laptop that offe
 Using the S Pen on the Book 3 Pro 360 felt smooth and responsive, with a Samsung twist. As the pen nears the laptop's screen, you can bring up the Air Commands menu by pressing the pen's lone button. Options included in the menu include creating a new note in Samsung's Notes app, Samsung's Smart Select tool for capturing screenshots, and adding your own shortcuts. I don't often use a stylus on any computer, but if I owned a Book 3 Pro 360, I'd use this one. 
 
 Jason Cipriani/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Software
 
@@ -154,16 +140,10 @@ If you have a Samsung phone or tablet and a Galaxy Book 3, you can use the mouse
 But do you need a Samsung version of a Live Wallpaper app? Or the Samsung Gallery app? Or what about Samsung Studio Plus? Quick Search? There are good versions of those features built into Windows already. 
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Battery life
@@ -178,11 +158,31 @@ Running that test on the Book 3 Pro 360, the battery powered through 9 hours and
 
 [Samsung Galaxy Book 3 Pro 360 $1,699.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-book3-pro-360-2-in-1-16-3k-amoled-touch-screen-laptop-intel-13th-gen-evo-core-i7-1360p-16gb-memory-1tb-ssd-graphite%2F6531073.p%3FskuId%3D6531073&publisher_slug=itechdaily19598&exclusive=1)
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Bottom line
 
 Samsung's Galaxy Book 3 Pro 360 is a respectable 2-in-1 laptop that's fast, with an amazing screen and enough battery life to get through a full day of work, and a price that matches its features. 
 
 Even if you're someone who's heavily invested in Samsung's ecosystem, the abundance of Samsung apps and services on the Book 3 can be frustrating to navigate. That said, die-hard Samsung fans will appreciate the access and tight integration with Samsung's overall platform.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -228,22 +228,18 @@ If you're not sold on a Windows laptop, the 16-inch MacBook Pro is one of the [b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unlocking-past-mysteries-top-10-historical-channels-for-learners/"><u>[Updated] 2024 Approved Unlocking Past Mysteries Top 10 Historical Channels for Learners</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-how-to-download-youtube-tunes-without-risk-for-free-for-2024/"><u>[Updated] How to Download YouTube Tunes Without Risk for Free for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snapchat-boomerangs-demystified-your-comprehensive-guide/"><u>2024 Approved Snapchat Boomerangs Demystified Your Comprehensive Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-xiaomi-redmi-note-12-pro-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Xiaomi Redmi Note 12 Pro 5G</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/game-on-anywhere-with-asuss-sleek-ultra-portable-14-fighter-the-perfect-blend-of-size-and-strength/"><u>Game On Anywhere with ASUS's Sleek, Ultra-Portable 14 Fighter – The Perfect Blend of Size and Strength!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-ceases-sales-of-exclusive-cloud-based-printing-solutions/"><u>HP Ceases Sales of Exclusive Cloud-Based Printing Solutions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Realme C67 4G? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-funnyframefactory-imggigglesworkshop/"><u>In 2024, FunnyFrameFactory ImgGigglesWorkshop</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-poco-c51-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Poco C51 Android SIM Unlock APK</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximize-your-television-value-invest-in-previous-generation-premium-models/"><u>Maximize Your Television Value: Invest in Previous Generation Premium Models</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximizing-kitchen-efficiency-opt-for-separate-fridge-and-ipad-over-smart-fridge-technology/"><u>Maximizing Kitchen Efficiency: Opt for Separate Fridge and iPad Over Smart Fridge Technology</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-xiaomi-mix-fold-3-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Xiaomi Mix Fold 3 – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/oladance-ows-sports-analysis-a-critical-look-at-the-audio-quality-of-open-ear-headphones/"><u>Oladance Ows Sports Analysis: A Critical Look at the Audio Quality of Open-Ear Headphones</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/pixel-watch-series-3-the-ultimate-timepiece-that-monitors-your-heart-rhythm/"><u>Pixel Watch Series 3: The Ultimate Timepiece That Monitors Your Heart Rhythm</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/protect-your-privacy-effective-ways-to-prevent-surveillance-from-brands-like-lg-samsung-sony-and-vizio-smart-tvs/"><u>Protect Your Privacy: Effective Ways to Prevent Surveillance From Brands Like LG, Samsung, Sony & Vizio Smart TVs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/recent-cybersecurity-incident-at-tile-understanding-the-impact-and-response/"><u>Recent Cybersecurity Incident at Tile: Understanding the Impact and Response</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-free-mkv-editor-top-10-programs-to-split-and-trim-videos/"><u>Updated In 2024, Free MKV Editor Top 10 Programs to Split and Trim Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-how-to-edit-youtube-videos-by-the-youtube-video-editor/"><u>[New] How to Edit Youtube Videos by the YouTube Video Editor</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-master-screen-recording-capturing-and-preserving-snaps-efficiently/"><u>[New] Master Screen Recording Capturing and Preserving Snaps Efficiently</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-comprehensive-review-of-premium-pc-cameras-in-win-11/"><u>[Updated] Comprehensive Review of Premium PC Cameras in Win 11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-step-by-step-harnessing-instagram-filters/"><u>[Updated] Step-by-Step Harnessing Instagram Filters</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-guide-to-downloading-the-newest-nvidia-1080-drivers-on-windows-10/"><u>Effortless Guide to Downloading the Newest NVIDIA 1080 Drivers on Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-guide-to-updating-and-downloading-dell-screen-drivers/"><u>Effortless Guide to Updating and Downloading Dell Screen Drivers</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-realme-gt-neo-5-se-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme GT Neo 5 SE Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-magix-movie-editor-secrets-perfecting-audio-fusion-in-your-clips/"><u>New Magix Movie Editor Secrets Perfecting Audio Fusion in Your Clips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722979093894-obtain-updated-amd-ryzen-system-drivers-at-no-cost-start-here/"><u>Obtain Updated AMD Ryzen System Drivers at No Cost – Start Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-download-of-intels-ultra-fast-usb-30-drivers-for-windows-11-users/"><u>Quick and Easy Download of Intel's Ultra-Fast USB 3.0 Drivers for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quickly-install-your-corsair-void-pro-drivers-with-our-step-by-step-tutorial/"><u>Quickly Install Your Corsair Void Pro Drivers with Our Step-by-Step Tutorial!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/securing-gmail-with-extra-protection-a-how-to-for-two-step-verification/"><u>Securing Gmail with Extra Protection: A How-To for Two-Step Verification</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-dell-g1cuity-drivers-for-windows-systems/"><u>Step-by-Step Guide: Installing Dell G1cuity Drivers for Windows Systems</u></a></li>
 </ul></div>
 

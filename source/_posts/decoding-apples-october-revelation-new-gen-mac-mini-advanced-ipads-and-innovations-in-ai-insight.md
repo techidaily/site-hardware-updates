@@ -1,7 +1,7 @@
 ---
 title: "Decoding Apple’s October Revelation: New-Gen Mac Mini, Advanced iPads and Innovations in AI Insight"
-date: 2024-10-19T05:49:44.394Z
-updated: 2024-10-21T03:30:16.183Z
+date: 2024-10-22T18:18:34.193Z
+updated: 2024-10-26T22:49:40.349Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,10 +60,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -77,10 +77,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -123,15 +123,18 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-frame-your-photos-right-with-top-tools-editors/"><u>[Updated] 2024 Approved Frame Your Photos Right with Top Tools Editors</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-best-ios-video-streaming-tools-for-iphones-ipads/"><u>[Updated] Best iOS Video Streaming Tools for iPhones, iPads</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatible-driver-update-for-lenovo-photographic-equipment-on-microsofts-operating-system-7/"><u>Compatible Driver Update for Lenovo Photographic Equipment on Microsoft's Operating System 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-latest-driver-for-your-amd-rx-6800-on-windows-111087-step-by-step-tutorial/"><u>How to Install the Latest Driver for Your AMD RX 6800 on Windows 11/10/8/7 – Step-by-Step Tutorial</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-top-10-most-affordable-cloud-vendors-listed/"><u>In 2024, Top 10 Most Affordable Cloud Vendors Listed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/launch-of-chinas-latest-self-designed-ai-processor-45-tops-arm-based-begins-full-scale-manufacture/"><u>Launch of China’s Latest Self-Designed AI Processor: 45 TOPS, Arm-Based, Begins Full Scale Manufacture</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/logitech-g29-driver-setup-instructions-and-download-links-for-windows-users-windows-11-10-and-7/"><u>Logitech G29 Driver Setup Instructions and Download Links for Windows Users (Windows 11, 10 & 7)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-disabled-tone-playback-issue-in-windows/"><u>Overcoming Disabled Tone Playback Issue in Windows</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-repair-damaged-pdf-files-by-stellar-guide/"><u>Quickly Repair Damaged PDF Files</u></a></li>
-<li><a href="https://win-able.techidaily.com/spellbreak-pc-woes-heres-your-ultimate-guide-to-uninterrupted-gaming/"><u>Spellbreak PC Woes? Here's Your Ultimate Guide to Uninterrupted Gaming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-historys-high-scorers-on-reddit-top-10-list/"><u>[New] History's High Scorers on Reddit - Top 10 List</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-stars-quick-visibility-check/"><u>[New] In 2024, Star's Quick Visibility Check</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-youtube-mastery-screen-recording-unveiled/"><u>[New] In 2024, YouTube Mastery Screen Recording Unveiled</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-enveloped-by-shadow-adobe-technique/"><u>[Updated] 2024 Approved Enveloped by Shadow Adobe Technique</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-nokia-g22-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Nokia G22</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-keyboard-shortcuts-why-winplusshiftpluss-is-unresponsive-in-windows-11-and-10/"><u>Fixing Keyboard Shortcuts: Why Win+Shift+S Is Unresponsive in Windows 11 & 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuita-conversor-online-de-imagens-em-formato-jpg-movavi/"><u>Gratuita: Conversor Online De Imagens Em Formato JPG - Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-silence-your-xbox-series-xs-or-one-console-and-controller/"><u>How to Silence Your Xbox Series X|S or One Console and Controller</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-color-correction-mastery-blending-video-clips-seamlessly-in-powerdirector/"><u>New In 2024, Color Correction Mastery Blending Video Clips Seamlessly in PowerDirector</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/non-samsung-non-lg-top-rated-qled-tv-reviews-tech-insights-on-zdnet/"><u>Non-Samsung, Non-LG Top Rated QLED TV Reviews | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resurgence-in-european-market-fuels-lgs-profitable-venture-into-television-industry-and-enhances-streaming-solutions-insights-from-zdnet/"><u>Resurgence in European Market Fuels LG's Profitable Venture Into Television Industry and Enhances Streaming Solutions, Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionize-your-backyard-bashes-with-these-essential-gadgets-according-to-zdnet/"><u>Revolutionize Your Backyard Bashes with These Essential Gadgets, According to ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/save-150-on-the-stellar-amazon-fire-tv-omnia-qled-set-unbeatable-deal-alert/"><u>Save $150 on the Stellar Amazon Fire TV Omnia QLED Set – Unbeatable Deal Alert!</u></a></li>
 </ul></div>
 

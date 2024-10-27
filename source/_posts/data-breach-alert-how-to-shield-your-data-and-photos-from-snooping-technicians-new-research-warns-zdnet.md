@@ -1,7 +1,7 @@
 ---
 title: Data Breach Alert! How to Shield Your Data and Photos From Snooping Technicians, New Research Warns | ZDNET
-date: 2024-10-13T21:44:01.840Z
-updated: 2024-10-21T01:24:07.254Z
+date: 2024-10-22T01:30:47.792Z
+updated: 2024-10-26T20:24:56.657Z
 tags:
   - laptops
 categories:
@@ -71,10 +71,10 @@ Of course, I can't forget the speaker system. Dell's Inspiron 14 2-in-1 has a ni
 For the battery, I performed ZDNET's usual test of running a medium load on the laptop. This consists of playing a YouTube livestream nonstop at 720p and 50% brightness. I clocked the Inspiron 2-in-1 at about eight hours max while on Best Power Efficiency mode. Not too shabby; that's enough to last you a whole day, although it would've been nice if it lasted 10 or 12 hours. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -113,24 +113,20 @@ I also recommend picking Midnight Blue as your laptop color. The Ice Blue option
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-10-parody-songs-that-totally-crack-you-up-for-2024/"><u>[Updated] 10 Parody Songs That Totally Crack You Up for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-average-playback-period-in-high-res-20mb-content/"><u>[Updated] Average Playback Period in High-Res 20MB Content</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-brilliant-setups-top-17-gear-for-online-videographers/"><u>2024 Approved Brilliant Setups Top 17 Gear for Online Videographers</u></a></li>
-<li><a href="https://win-able.techidaily.com/beating-nba-2k24s-error-code-727e66ac-tips-and-tricks-to-enhance-your-gameplay/"><u>Beating NBA 2K24's Error Code 727E66ac - Tips and Tricks to Enhance Your Gameplay</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/beyond-popularity-ten-truths-you-need-to-know-about-instagram-reels-for-2024/"><u>Beyond Popularity Ten Truths You Need to Know About Instagram Reels for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-netgears-budget-friendly-wireless-6e-router-collection/"><u>Discover Netgear's Budget-Friendly Wireless 6E Router Collection</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/elevate-your-editing-game-incorrances-and-tips-for-using-luts-in-adobe-after-effects-for-2024/"><u>Elevate Your Editing Game Incorrances and Tips for Using LUTs in Adobe After Effects for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/elite-selection-worlds-leading-smart-spectacles-in-2hren/"><u>Elite Selection: World's Leading Smart Spectacles in 2Hren</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhancing-productivity-the-benefits-of-choosing-an-arm-powered-copilotplus-computer/"><u>Enhancing Productivity: The Benefits of Choosing an ARM-Powered Copilot+ Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expand-your-memory-with-samsungs-new-1tb-microsd-card-shop-today/"><u>Expand Your Memory with Samsung's New 1TB MicroSD Card – Shop Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fast-track-guide-monitoring-your-gaming-rigs-fps-in-under-60-seconds/"><u>Fast Track Guide: Monitoring Your Gaming Rig's FPS in Under 60 Seconds</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-reno-9a-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/high-end-alienware-pro-wireless-keyboard-assessment-an-elite-option-for-gamers/"><u>High-End Alienware Pro Wireless Keyboard Assessment: An Elite Option for Gamers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/immersive-audio-with-sony-bravia-theater-unit-an-unexpected-delight-for-home-cinema-lovers/"><u>Immersive Audio with Sony Bravia Theater Unit – An Unexpected Delight for Home Cinema Lovers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-discover-the-top-15-free-web-based-editing-solutions/"><u>In 2024, Discover the Top 15 FREE Web-Based Editing Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-of-govee-triad-multi-colored-floodlights-highly-adaptable-outdoor-lighting-at-a-considerable-price-point/"><u>In-Depth Analysis of Govee Triad Multi-Colored Floodlights: Highly Adaptable Outdoor Lighting at a Considerable Price Point</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-of-the-anker-maggo-mag6600-power-bank-6600mah-the-heftier-companion-to-your-iphone/"><u>In-Depth Analysis of the Anker MagGo MAG6600 Power Bank (6600mAh): The Heftier Companion to Your iPhone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-tools-for-sharing-your-conversations-with-chatgpt/"><u>Top 5 Tools for Sharing Your Conversations with ChatGPT</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/dvdsoft-dvd/"><u>윈엑스 DVDSoft 공식 웹사이트: 기꺼이 하는 DVD 리퍼, 비디오 컨버터, 아이폰 전송을 위한 단일 해결책</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhancing-video-content-through-effective-use-of-cardsannotations/"><u>[New] 2024 Approved Enhancing Video Content Through Effective Use of Cards/Annotations</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-complete-guide-to-final-cut-pro-for-film-professionals/"><u>[New] Complete Guide to Final Cut Pro for Film Professionals</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-a-full-overview-of-adobe-cloud-workflow-and-alternative-methods/"><u>[Updated] A Full Overview of Adobe Cloud Workflow & Alternative Methods</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-dslr-or-mirrorless-the-ultimate-question-for-videographers/"><u>2024 Approved DSLR or Mirrorless? The Ultimate Question for Videographers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-enjoy-optimal-performance-with-insignia-drivers-for-windows/"><u>Download and Enjoy Optimal Performance with Insignia Drivers for Windows!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-setup-for-samsung-m207eus-download-the-latest-printer-drivers-today/"><u>Effortless Setup for Samsung M207eus: Download the Latest Printer Drivers Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-gameplay-with-the-premier-gaming-mice/"><u>Elevate Your Gameplay with the Premier Gaming Mice</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhancing-visual-detail-in-videoleap-videos/"><u>Enhancing Visual Detail in Videoleap Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-hp-z440-workstation-graphics-card-drivers-free-downloads-available-now/"><u>Get the Newest HP Z440 Workstation Graphics Card Drivers – Free Downloads Available Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-amd-radeon-r9-series-drivers-on-your-pc-with-windows-os/"><u>How to Get the Newest AMD Radeon R9 Series Drivers on Your PC with Windows OS</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-fix-how-to-swiftly-install-the-newest-intel-dual-band-ac-3160-wi-fi-driver/"><u>Instant Fix: How to Swiftly Install the Newest Intel Dual Band AC 3160 Wi-Fi Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-setup-download-drivers-for-brother-mfc-7360n-on-pcs-running-windows-1187/"><u>Quick and Simple Setup: Download Drivers for Brother MFC-7360N on PCs Running Windows 11/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/realtek-wireless-lan-driver-issue-in-windows-11107-fixed/"><u>Realtek Wireless LAN Driver Issue in Windows 11/10/7 [Fixed]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-best-free-email-services-to-try-today/"><u>Top 10 Best Free Email Services to Try Today!</u></a></li>
 </ul></div>
 

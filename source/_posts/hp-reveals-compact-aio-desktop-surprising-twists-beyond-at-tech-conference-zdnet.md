@@ -1,7 +1,7 @@
 ---
 title: "HP Reveals Compact AIO Desktop: Surprising Twists Beyond at Tech Conference | ZDNet"
-date: 2024-10-19T20:35:48.636Z
-updated: 2024-10-21T06:32:11.655Z
+date: 2024-10-20T00:26:30.944Z
+updated: 2024-10-26T22:13:56.040Z
 tags:
   - laptops
 categories:
@@ -63,10 +63,16 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -105,17 +111,18 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-visualvault-overview-in-depth-assessment/"><u>[Updated] 2024 Approved VisualVault Overview – In-Depth Assessment</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-guide-to-shooting-phenomenal-igtv-with-dslrsmartphone/"><u>[Updated] The Ultimate Guide to Shooting Phenomenal IGTV with DSLR/Smartphone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-future-unfurled-an-insight-into-benq-sw320s-4k-display/"><u>2024 Approved The Future Unfurled An Insight Into BenQ SW320's 4K Display</u></a></li>
-<li><a href="https://win11.techidaily.com/break-free-from-stagnant-windows-update-status/"><u>Break Free From Stagnant Windows Update Status</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-access-to-epson-scanner-drivers-download-today/"><u>Easy Access to Epson Scanner Drivers - Download Today!</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/expediting-the-engagement-of-instagram-videos/"><u>Expediting the Engagement of Instagram Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-canon-mf8200c-driver-software-for-windows-users-versions-71081/"><u>Get the Latest Canon MF8200C Driver Software for Windows Users (Versions 7/10/8.1)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-scanjet-driver-update-for-windows-users-windows-10-8-and-7-download-instantly/"><u>HP Scanjet Driver Update for Windows Users (Windows 10, 8, and 7) - Download Instantly</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-a-hackers-guide-to-scoring-cool-images-at-pexels/"><u>In 2024, A Hacker's Guide to Scoring Cool Images at Pexels</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-realistic-movement-rendering-for-images/"><u>In 2024, Realistic Movement Rendering for Images</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/production-delays-for-amds-ryzen-9000-typo-troubles-and-unexpected-impact-on-ryzen-5-9600x/"><u>Production Delays for AMD's Ryzen 9000 - Typo Troubles and Unexpected Impact on Ryzen 5 9600X</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revitalize-your-acer-nitro-5-comprehensive-guide-to-updating-key-drivers/"><u>Revitalize Your Acer Nitro 5: Comprehensive Guide to Updating Key Drivers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-real-time-film-extractor/"><u>[New] 2024 Approved Real-Time Film Extractor</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-algorithm-advantage-tips-for-achieving-instagram-video-fame-for-2024/"><u>[New] The Algorithm Advantage Tips for Achieving Instagram Video Fame for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sprint-through-time-uncovering-discarded-reddit-content/"><u>[Updated] Sprint Through Time Uncovering Discarded Reddit Content</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/arduino-mega-eb-2560-driver-download-fast-simple-steps-for-seamless-integration/"><u>Arduino Mega Eb-2560 Driver Download - Fast, Simple Steps for Seamless Integration</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-pixma-ts3322-printer-drivers-free-download-and-latest-updates/"><u>Canon PIXMA TS3322 Printer Drivers - Free Download & Latest Updates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-instructions-for-downloading-and-setting-up-toshiba-print-software-in-windows/"><u>Easy Instructions for Downloading and Setting Up Toshiba Print Software in Windows</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/efficiently-shifting-videos-youtube-to-dailymotion-strategy-for-2024/"><u>Efficiently Shifting Videos YouTube to Dailymotion Strategy for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-geforce-rtx-3070-ti-drivers-windows-11-8-and-7-compatibility-included/"><u>Get the Latest GeForce RTX 3070 Ti Drivers: Windows 11, 8 and 7 Compatibility Included</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-intel-82579v-graphics-card-up-to-date-free-driver-download-now/"><u>Get Your Intel 82579V Graphics Card Up-to-Date: Free Driver Download Now</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-moto-g73-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Moto G73 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-art-of-creating-shareable-content-on-fb/"><u>In 2024, The Art of Creating Shareable Content on Fb</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-updating-your-pcs-motherboard-drivers-in-windows/"><u>Ultimate Guide: Updating Your PC's Motherboard Drivers in Windows</u></a></li>
 </ul></div>
 

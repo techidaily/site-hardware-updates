@@ -1,7 +1,7 @@
 ---
 title: "The Battle of Portables: When LG Gram Pro Surpasses Apple's MacBook Air Review"
-date: 2024-10-17T21:10:07.174Z
-updated: 2024-10-21T04:32:46.641Z
+date: 2024-10-25T21:53:53.445Z
+updated: 2024-10-26T16:50:13.904Z
 tags:
   - laptops
 categories:
@@ -43,10 +43,10 @@ There I was, with two relatively large-sized, ultraportable laptops and a digita
 The LG Gram Pro 16 2-in-1 had already set the mark at 3.04 pounds. Then came the 15-inch MacBook Air, clocking in at 3.51 pounds. A slight sigh of relief could be felt behind me. How exactly does LG achieve this weight? They're chalking it up to the nano-magnesium alloy construction, which feels more plasticky than the MacBook's all-aluminum build, but which is noticeably lighter in the hand, especially when I moved the laptops around for pictures.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. It's all about the use of space
@@ -60,10 +60,16 @@ The curvatures of the LG Gram Pro edges also mean that the company can fit more 
 As someone who still relies on legacy devices, such as hard drives, that have USB-A ports, the presence of the standard and added flexibility of the Gram makes it a better productivity laptop for me. It also helps to have the HDMI slot for when you're traveling and want to connect to a hotel TV or monitor.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. OLED makes all the difference
@@ -77,10 +83,10 @@ Don't get me wrong, the Liquid Retina (IPS) display on the 15-inch MacBook Air i
 LG offers the new Gram Pro laptops in IPS and OLED variants, but the latter versions that I tested at the venue were noticeably sharper and more color-accurate. It helped that LG had set black wallpapers on the demo units, which made the individual icons and self-emissive pixels pop a little more.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -119,19 +125,21 @@ LG prices its [OLED Gram Pro laptops](https://shop-links.co/link/?exclusive=1&pu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/mplify-content-with-free-audio-samples/"><u>[New] Amplify Content with Free Audio Samples!</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-embracing-the-commons-digital-access-to-classics-for-2024/"><u>[New] Embracing the Commons Digital Access to Classics for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722960017247-amd-rx-560-graphics-card-driver-fix-for-all-windows-users-solutions-included/"><u>AMD RX 560 Graphics Card Driver Fix for All Windows Users - Solutions Included!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-80211n-wi-fi-drivers-compatible-with-windows-111087-download-now/"><u>Get the Newest 802.11N Wi-Fi Drivers Compatible with Windows 11/10/8/7 - Download Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-samsung-printer-up-and-running-on-windows-with-our-easy-to-install-drivers/"><u>Get Your Samsung Printer Up and Running on Windows with Our Easy-to-Install Drivers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/handy-amazon-basics-tablet-stand-evaluation-compact-convenience-in-your-backpack/"><u>Handy Amazon Basics Tablet Stand Evaluation: Compact Convenience in Your Backpack</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-toshiba-copiers-drivers-in-windows-os/"><u>How to Download & Install Toshiba Copiers' Drivers in Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-easily-update-intel-video-chip-drivers-a-step-by-step-tutorial/"><u>How to Easily Update Intel Video Chip Drivers: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-review-of-facetunes-latest-updates/"><u>In 2024, Comprehensive Review of Facetune's Latest Updates</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-honor-x9b-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Honor X9b Is Unlocked</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/optimal-earnings-scaling-your-youtube-channels-revenue-on-mobile-devices-for-2024/"><u>Optimal Earnings Scaling Your YouTube Channel's Revenue on Mobile Devices for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-correct-the-missing-binkw32dll-error/"><u>Step-by-Step Guide to Correct the 'Missing binkw32.dll' Error</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-securing-the-latest-hp-laserjet-1018-printing-drivers/"><u>Step-by-Step Guide: Securing the Latest HP LaserJet 1018 Printing Drivers</u></a></li>
-<li><a href="https://win-dash.techidaily.com/windows-11-tackles-printing-woes-with-in-built-printer-driver-updates/"><u>Windows 11 Tackles Printing Woes with In-Built Printer Driver Updates</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-transform-your-old-vhs-with-new-online-techniques/"><u>[New] 2024 Approved Transform Your Old VHS with New Online Techniques</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-147-quotes-to-make-your-tiktok-content-stand-out-and-go-viral/"><u>[New] In 2024, 147 Quotes to Make Your TikTok Content Stand Out and Go Viral</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-instantly-retire-your-digital-diaries-fb/"><u>[New] In 2024, Instantly Retire Your Digital Diaries (FB)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-tactics-for-securing-royalty-free-creative-pieces/"><u>[Updated] 2024 Approved Tactics for Securing Royalty-Free Creative Pieces</u></a></li>
+<li><a href="https://win11.techidaily.com/5-ways-to-repair-the-net-framework-on-windows/"><u>5 Ways to Repair the .NET Framework on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mx492-drivers-download-and-update-in-windows-mx-series-printer-drivers/"><u>Canon MX492 Drivers Download & Update in Windows - MX Series Printer Drivers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-4s-performance-why-is-it-not-as-fast-as-its-predecessor/"><u>ChatGPT-4's Performance: Why Is It Not As Fast As Its Predecessor?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-to-get-your-corsair-keyboard-up-and-running-on-windows/"><u>Easy Guide to Get Your Corsair Keyboard Up & Running on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-guide-quickly-refresh-your-lenovo-devices-energy-control-software/"><u>Effortless Guide: Quickly Refresh Your Lenovo Device's Energy Control Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-seamless-bluetooth-connectivity-download-microsofts-drivers-for-win-10-11-8-and-7/"><u>Ensure Seamless Bluetooth Connectivity: Download Microsoft's Drivers for Win 10, 11, 8 & 7</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-oppo-find-x7-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Oppo Find X7 Quickly | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-razer-mamba-drivers-fast-instant-downloads-available/"><u>Get Your Razer Mamba Drivers Fast: Instant Downloads Available</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apps-on-iphone-12-pro-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apps on iPhone 12 Pro?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-setup-rapid-installation-of-rs232-usb-drivers/"><u>Speedy Setup: Rapid Installation of RS232 USB Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-updating-epson-wf-3620-printer-drivers-on-windows-operating-systems-10-8-and-7/"><u>Step by Step Guide to Updating Epson WF-3620 Printer Drivers on Windows Operating Systems (10, 8, and 7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-epson-xp-n410-driver-setup-and-download-for-windows-users/"><u>Step-By-Step Tutorial: Epson XP-N410 Driver Setup & Download for Windows Users</u></a></li>
 </ul></div>
 

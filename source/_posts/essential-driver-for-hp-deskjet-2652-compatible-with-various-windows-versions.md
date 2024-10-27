@@ -1,7 +1,7 @@
 ---
 title: Essential Driver for HP DeskJet 2652 - Compatible with Various Windows Versions
-date: 2024-09-05T19:59:20.176Z
-updated: 2024-09-06T19:59:20.176Z
+date: 2024-10-23T22:03:06.892Z
+updated: 2024-10-26T21:05:57.237Z
 tags:
   - win11
   - win10
@@ -17,18 +17,6 @@ thumbnail: https://thmb.techidaily.com/381275c18c5ffabfab194a612a1683e1ab2c627fa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/HP-Deskjet-2652.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Nothing is more frustrating than a non-working printer when you hurry to print a document. This is a common problem for many users and is likely related to the printer driver issues.
 
  Simply put, a driver is a software component that enables your device to communicate with the operating system. So, if the driver for HP DeskJet 2652 is outdated, incorrect, or corrupt, your printer may stop working and run into errors. In this post, we’ll introduce three ways to update HP DeskJet 2652 driver on Windows PC quickly and easily.
@@ -39,12 +27,6 @@ thumbnail: https://thmb.techidaily.com/381275c18c5ffabfab194a612a1683e1ab2c627fa
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Option 1 – Update your driver manually
 
  Printer manufacturers will keep updating drivers to fix bugs or improve stability. You can download the latest printer driver from their websites and install it manually, but this requires some patience and computer skills. Follow the steps below to update the HP DeskJet 2652 driver manually.
@@ -53,22 +35,10 @@ thumbnail: https://thmb.techidaily.com/381275c18c5ffabfab194a612a1683e1ab2c627fa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Type**HP DeskJet 2652** in the search box, and click**Submit** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/1-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Make sure the**Detected operating system** is correct. Then, download the correct driver based on your needs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/2-1.jpg)
@@ -80,11 +50,12 @@ thumbnail: https://thmb.techidaily.com/381275c18c5ffabfab194a612a1683e1ab2c627fa
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Option 2 – Automatically update your HP DeskJet 2652 driver (recommended)
 
  If you don’t have the time, patience or computer skills to update your printer driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -99,12 +70,6 @@ thumbnail: https://thmb.techidaily.com/381275c18c5ffabfab194a612a1683e1ab2c627fa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click the**Update** button next to the HP DeskJet 2600 series driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -135,18 +100,33 @@ thumbnail: https://thmb.techidaily.com/381275c18c5ffabfab194a612a1683e1ab2c627fa
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Right-click**HP DeskJet 2652** , and click**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Select**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If there is any new update, Windows will directly download and install it. Then, reboot your computer for the changes to take effect. Otherwise, it will show you that the best drivers for your device are already installed.
 
@@ -163,8 +143,6 @@ thumbnail: https://thmb.techidaily.com/381275c18c5ffabfab194a612a1683e1ab2c627fa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +150,24 @@ thumbnail: https://thmb.techidaily.com/381275c18c5ffabfab194a612a1683e1ab2c627fa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-immersive-insight-amd-radeon-update/"><u>[New] 2024 Approved Immersive Insight AMD Radeon Update</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-live-subscriber-count-meters/"><u>[New] Live Subscriber Count Meters</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-navigating-the-complexities-of-facebooks-copyright-enforcement/"><u>[New] Navigating the Complexities of Facebook's Copyright Enforcement</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-maximizing-your-footage-the-importance-of-correct-tripod-placement-in-vlogging/"><u>2024 Approved Maximizing Your Footage The Importance of Correct Tripod Placement in Vlogging</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-gemini-and-chatgpt-plus-for-top-tier-conversational-experience-who-wins/"><u>Comparing Gemini and ChatGPT Plus for Top-Tier Conversational Experience – Who Wins?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-hidden-gems-unveiling-the-stealthy-trackpoint-and-more-on-this-compact-lenovo-notebook-explore-with-zdnet/"><u>Discover the Hidden Gems: Unveiling the Stealthy TrackPoint and More on This Compact Lenovo Notebook - Explore with ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-black-friday-offer-secure-lenovos-top-of-the-line-thinkpad-x1-extreme-gen-4-for-just-half-the-price-shop-smart/"><u>Exclusive Black Friday Offer: Secure Lenovo's Top-of-the-Line ThinkPad X1 Extreme Gen 4 for Just Half the Price | Shop Smart</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-unprecedented-cinematic-brilliance-with-hps-revolutionary-imax-certified-envy-x360-discover-what-sets-it-apart/"><u>Experience Unprecedented Cinematic Brilliance with HP's Revolutionary IMAX-Certified Envy X360: Discover What Sets It Apart</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-nubia-z50s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/french-novel-selections-top-picks-for-new-language-learners/"><u>French Novel Selections: Top Picks for New Language Learners</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ideal-first-linux-os-options-thoroughly-tested-and-critiqued-by-professionals-zdnet-insights/"><u>Ideal First Linux OS Options: Thoroughly Tested & Critiqued by Professionals – ZDnet Insights</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-visual-storytelling-with-online-wallpaper-swap/"><u>In 2024, Mastering Visual Storytelling with Online Wallpaper Swap</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-meme-crafters-den/"><u>In 2024, Meme Crafter's Den</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-productivity-with-the-ultimate-16-port-hub-for-creative-professionals-featured/"><u>Maximize Productivity with the Ultimate 16-Port Hub for Creative Professionals, Featured</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionizing-workstations-can-lenovos-yoga-book-9i-propel-the-rise-of-dual-screen-laptops/"><u>Revolutionizing Workstations: Can Lenovo's Yoga Book 9I Propel the Rise of Dual-Screen Laptops?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-deal-samsung-8tb-portable-ssd-t5-holds-a-steady-36-discount-on-amazon-insights/"><u>Snag the Deal: Samsung 8TB Portable SSD T5 Holds a Steady 36% Discount on Amazon, Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-performing-adaptable-laptop-wins-fans-and-praise-for-its-strong-tech-specs-insights/"><u>Top Performing, Adaptable Laptop Wins Fans and Praise for Its Strong Tech Specs - Insights</u></a></li>
+</ul></div>
 

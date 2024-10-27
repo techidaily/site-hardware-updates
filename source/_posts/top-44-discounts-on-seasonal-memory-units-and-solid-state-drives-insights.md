@@ -1,7 +1,7 @@
 ---
 title: Top 44 Discounts on Seasonal Memory Units & Solid-State Drives - Insights
-date: 2024-10-18T19:46:00.931Z
-updated: 2024-10-21T00:20:51.340Z
+date: 2024-10-26T01:14:09.325Z
+updated: 2024-10-26T17:29:06.360Z
 tags:
   - laptops
 categories:
@@ -38,10 +38,10 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [WD My Passport 4TB portable SSD](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1624288-REG%2Fwd%5Fwdbagf0040bgy%5Fwesn%5F4tb%5Fmy%5Fpassport%5Fssd.html): $250 (save $430 at B&H Photo)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best holiday flash drive deals
@@ -60,6 +60,13 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [Sony 256GB Tough Series SDXC](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1736000-REG%2Fsony%5Fsfg256t%5Ft1%5F256gb%5Fsf%5Fg%5Ftough%5Fseries.html): $298 (save $100 at B&H Photo)
 * [SanDisk 256GB microSD for Nintendo Switch](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fsandisk-256gb-microsdxc%252Fp%252FN82E16820173622): $33 (save $17 at Newegg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best holiday storage and SSD deals at Best Buy
 
 * [WD My Passport 2TB](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fwd-my-passport-2tb-external-usb-type-c-portable-ssd-space-gray%2F6427611.p%3FskuId%3D6427611&publisher_slug=itechdaily19598&exclusive=1): $130 (save $150)
@@ -71,13 +78,6 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [WD Red Pro 18TB SATA HDD](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fwd-red-pro-18tb-internal-sata-nas-hard-drive-for-desktops%2F6523108.p%3FskuId%3D6523108&publisher_slug=itechdaily19598&exclusive=1): $350 (save $170)
 * [WD Black P40 2TB Game Drive](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fwd-black-p40-game-drive-for-pc-ps4-ps5-and-xbox-2tb-external-usb-3-2-gen-2x2-portable-ssd-black%2F6512127.p%3FskuId%3D6512127&publisher_slug=itechdaily19598&exclusive=1): $160 (save $170)
 * [Seagate 2TB expansion card for Xbox Series X|S](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fseagate-2tb-storage-expansion-card-for-xbox-series-xs-internal-nvme-ssd-black%2F6477864.p%3FskuId%3D6477864&publisher_slug=itechdaily19598&exclusive=1): $280 (save $120)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Best holiday storage and SSD deals at B&H Photo
 
@@ -92,6 +92,13 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [Samsung T7 Shield 4TB portable SSD](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1742972-REG%2Fsamsung%5Fmu%5Fpe4t0s%5Fam%5F4tb%5Ft7%5Fshield%5Fportable.html): $270 (save $110)
 * [WD Black SN770 2TB](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1702060-REG%2Fwd%5Fwdbbdl0020bnc%5Fwrsn%5F2tb%5Fwd%5Fblack%5Fsn770%5Fnvme.html): $118 (save $152)
 * [Crucial T700 4TB SSD](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1766243-REG%2Fcrucial%5Fct4000t700ssd3%5Ft700%5Fgen5%5Fnvme%5Fm%5F2.html): $450 (save $150)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best holiday storage and SSD deals at Newegg
 
@@ -109,22 +116,21 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the best SSD?
 
 My pick for the [best SSD](https://www.zdnet.com/article/best-ssd/) is the WD My Passport for its affordability, even at higher capacities, 256-bit AES encryption, compatibility with both Windows and macOS devices, and variety of capacities. It also features a drop and shock resistant chassis to help prevent data loss and corruption due to accidents. You can even set up a password to access the drive itself or specific folders and files to help prevent unauthorized use of your SSD. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best holiday deals right now?
 
@@ -194,22 +200,18 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-supercharged-communication-advanced-features-in-whatsapp/"><u>[New] 2024 Approved Supercharged Communication Advanced Features in WhatsApp</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-swift-strategies-to-beat-instagrams-video-blues/"><u>[New] Swift Strategies to Beat Instagram's Video Blues</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-humor-hierarchy-ranking-10-memes-in-order-of-delight/"><u>2024 Approved Humor Hierarchy Ranking #10 Memes in Order of Delight</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/chinese-telecommunication-firms-transition-to-domestic-processors-a-major-move-for-local-technology/"><u>Chinese Telecommunication Firms Transition to Domestic Processors: A Major Move for Local Technology</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-hp-printer-drivers-on-windows-1011-step-by-step-guide/"><u>Download & Update HP Printer Drivers on Windows 10/11 - Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-guide-protecting-your-privacy-with-a-vpn-in-vision-pro-and-similar-xr-devices-insights/"><u>Essential Guide: Protecting Your Privacy with a VPN in Vision Pro and Similar XR Devices Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-mediatek-usb-vcom-driver-for-seamless-device-integration/"><u>Get the Latest MediaTek USB VCOM Driver for Seamless Device Integration</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-your-pcdevice-needs-to-be-repaired/"><u>How to Fix Your PC/Device Needs to Be Repaired</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-logiteche-driving-force-pro-drivers-for-your-gaming-setup-windows-compatibility-explained/"><u>How to Get the Latest Logiteche Driving Force Pro Drivers for Your Gaming Setup: Windows Compatibility Explained</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-nokia-c22-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Nokia C22? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-apple-iphone-8-plus-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On Apple iPhone 8 Plus</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-nubia-red-magic-9-proplus-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Nubia Red Magic 9 Pro+ Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/intel-battlemage-release-insights-enhanced-performance-with-100w-lower-power-usage-compared-to-ice-lake-and-stable-overclocking-despite-new-raptor-lake-firm18/"><u>Intel Battlemage Release Insights: Enhanced Performance with 100W Lower Power Usage Compared to Ice Lake, and Stable Overclocking Despite New Raptor Lake Firmware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-logitech-g-pro-driver-version-available-compatible-with-windows-os/"><u>Latest Logitech G PRO Driver Version Available: Compatible with Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/newly-released-gigabit-ethernet-adapter-software-for-usb-30-on-windows/"><u>Newly Released Gigabit Ethernet Adapter Software for USB 3.0 on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-in-depth-analysis-of-latest-gadgets/"><u>Tom's Tech Reviews: In-Depth Analysis of Latest Gadgets</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/ultimate-guide-5-advanced-webcams-for-video-calls-for-2024/"><u>Ultimate Guide 5 Advanced Webcams for Video Calls for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-nikons-d500-takes-on-4k-clarity-and-quality/"><u>[Updated] Nikon's D500 Takes on 4K Clarity and Quality</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-enhance-real-time-broadcasts-our-picks-for-9-prime-filters/"><u>2024 Approved Enhance Real-Time Broadcasts Our Picks for 9 Prime Filters</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/eargasm-high-fidelity-earplugs-review-beautiful-effective-earplugs-for-concerts/"><u>Eargasm High Fidelity Earplugs Review: Beautiful, Effective Earplugs for Concerts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhancing-aural-experience-fading-techniques-in-lumafusion-for-2024/"><u>Enhancing Aural Experience Fading Techniques in Lumafusion for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/expert-guide-to-optimizing-solo-play-in-apex-legends-for-2024/"><u>Expert Guide to Optimizing Solo Play in Apex Legends for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-lenovos-innovative-thinkbook-plus-the-top-2023-2-in-1-convertible-laptop-reviewed/"><u>Exploring Lenovo's Innovative ThinkBook Plus - The Top 2023 2-in-1 Convertible Laptop Reviewed</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-honor-magic-5-lite-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Honor Magic 5 Lite Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-honor-90-gt-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Honor 90 GT? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/june-2024s-ultimate-best-buy-savings-insider-picks-featured-by-zdnet/"><u>June 2024'S Ultimate Best Buy Savings - Insider Picks Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mackeyboard-guide-steps-to-change-your-command-key-functionality/"><u>MacKeyboard Guide: Steps to Change Your Command Key Functionality</u></a></li>
+<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oneplus-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snap-up-the-deal-8tb-samsung-t5-ssd-discounted-by-36-on-amazon-exclusive-coverage/"><u>Snap Up the Deal: 8TB Samsung T5 SSD Discounted by 36% on Amazon - Exclusive Coverage</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-review-how-well-does-the-zmi-powerpack-20000-meet-expectations/"><u>Top Review: How Well Does the ZMI PowerPack 20000 Meet Expectations?</u></a></li>
 </ul></div>
 

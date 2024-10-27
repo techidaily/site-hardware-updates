@@ -1,7 +1,7 @@
 ---
 title: "Embracing the Split Design: An Enlightening Week of Typing on a Dedicated Ergonomic Keyboard"
-date: 2024-10-16T20:39:02.595Z
-updated: 2024-10-20T22:23:21.358Z
+date: 2024-10-23T18:38:20.537Z
+updated: 2024-10-26T18:31:41.971Z
 tags:
   - laptops
 categories:
@@ -107,16 +107,10 @@ The cost of these products might be a barrier for some, especially when combined
 Additionally, the $99 price tag for the pair of magnetic keyboard stands seems a little hard for me to justify. But if you're committed to a premium take on innovative ergonomics, Nuio's lineup is one of the best on the market. 
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -155,20 +149,18 @@ The price point for these peripherals is a little steep, particularly when you c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-audiovisual-pro-perfect-ppt-presentation-recording-for-2024/"><u>[Updated] Audiovisual Pro Perfect PPT Presentation Recording for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-make-facebook-video-ads-in-an-creative-way-in-2024/"><u>[Updated] How to Make Facebook Video Ads in An Creative Way, In 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-best-of-the-best-android-calls-with-more-than-just-two/"><u>[Updated] In 2024, Best of the Best Android Calls with More Than Just Two</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unveiling-inauthentic-accounts-on-brand-pages-for-2024/"><u>[Updated] Unveiling Inauthentic Accounts on Brand Pages for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/digital-display-upgrade-anticipate-advertisements-on-amazons-new-160-picture-in-picture-screen/"><u>Digital Display Upgrade: Anticipate Advertisements on Amazon's New $160 Picture-in-Picture Screen</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-classic-apple-ii-machines-using-an-hdmi-output-adapter-for-modern-connectivity/"><u>Enhance Classic Apple II Machines Using an HDMI Output Adapter for Modern Connectivity</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhanced-viewing-jbls-latest-earphones-feature-larger-display-panels/"><u>Enhanced Viewing: JBL's Latest Earphones Feature Larger Display Panels</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/essential-tech-tools-top-7-must-have-devices-for-modern-digital-wanderers/"><u>Essential Tech Tools: Top 7 Must-Have Devices for Modern Digital Wanderers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-acers-newly-released-vero-series-unmatched-simplicity-meets-luxury-in-laser-projection/"><u>Experience Acer's Newly Released Vero Series: Unmatched Simplicity Meets Luxury in Laser Projection</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-enhanced-mobile-charging-with-nomads-latest-portable-stand-and-max-capacity-for-qi2-devices/"><u>Experience Enhanced Mobile Charging with Nomad's Latest Portable Stand and Max Capacity for Qi2 Devices</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 12 Pro Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-e-readers-buying-ebooks-through-apples-books-app-on-ios-devices/"><u>Mastering E-Readers: Buying Ebooks Through Apple's Books App on iOS Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-unresponsive-spotify-windows-errors/"><u>Overcoming Unresponsive Spotify Windows Errors</u></a></li>
-<li><a href="https://win-tips.techidaily.com/1728505200837-windows1011/"><u>Windows10/11で欠落したユーザーディレクトリを回復する効果的な手順</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/be-channels-for-filmmakers-to-learn-filmmaking-tips-and-tutorials-for-2024/"><u>YouTube Channels for Filmmakers to Learn Filmmaking Tips and Tutorials for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/1728479025545-windows-server/"><u>修正完了：Windows Serverバックアップへの接続が拒否される問題と回避策</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/artificial-intelligence-for-dynamic-frame-synthesis-elevating-graphics-fluidity-and-frames-per-second-fps-performance/"><u>Artificial Intelligence for Dynamic Frame Synthesis: Elevating Graphics Fluidity and Frames Per Second (FPS) Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-usb-webcam-drivers-now-fast-and-simple-installation-guide/"><u>Download USB Webcam Drivers Now – Fast and Simple Installation Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-tecno-spark-10-pro-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Tecno Spark 10 Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-samsung-galaxy-f54-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Samsung Galaxy F54 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enablingdisabling-pip-on-youtube-for-ios-devices-step-by-step-guide/"><u>Enabling/Disabling PIP on YouTube for iOS Devices Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-nvidia-gtx-student-what-is-the-value-of-x-if-log3xplus7-6/"><u>Get the Newest Nvidia GTX # Student: What Is the Value of $X$ if $ Log(3x+7) = 6$?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-soundmax-audio-device-drivers-on-your-windows-machine/"><u>How To Install SoundMax Audio Device Drivers On Your Windows Machine</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-breathe-easy-with-knowledge-of-asmr-advantages/"><u>In 2024, Breathe Easy with Knowledge of ASMR Advantages</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-snippets-from-cinema-to-skillful-editors-arsenal/"><u>In 2024, Snippets From Cinema to Skillful Editors' Arsenal</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-walkthrough-revamping-motherboard-drivers-with-windows-operating-system/"><u>The Ultimate Walkthrough: Revamping Motherboard Drivers with Windows Operating System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-logitech-gaming-headset-g602-to-the-latest-windows-compatible-version/"><u>Update Logitech Gaming Headset G602 to the Latest Windows-Compatible Version</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-create-unforgettable-moments-video-editing-essentials-for-home-movie-enthusiasts/"><u>Updated 2024 Approved Create Unforgettable Moments Video Editing Essentials for Home Movie Enthusiasts</u></a></li>
 </ul></div>
 

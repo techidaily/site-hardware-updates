@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Insights: Unveiling the New M4 Mac Mini, Latest iPads & Advancements at Apple's September Showcase – Detailed Coverage"
-date: 2024-10-15T21:16:20.431Z
-updated: 2024-10-20T19:41:36.589Z
+date: 2024-10-24T01:33:16.336Z
+updated: 2024-10-27T00:50:56.277Z
 tags:
   - laptops
 categories:
@@ -41,16 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -66,16 +60,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -89,10 +77,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -135,24 +123,24 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-mastering-the-art-of-selecting-premium-free-srt-translation-services/"><u>[New] In 2024, Mastering the Art of Selecting Premium Free SRT Translation Services</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/advanced-animators-toolkit-samples-for-2024/"><u>Advanced Animator's Toolkit Samples for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amazon-fire-tablets-navigating-google-play-store-performance-and-features/"><u>Amazon Fire Tablets: Navigating Google Play Store Performance and Features</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/classic-cellphones-the-perfect-gateway-for-childrens-musical-exploration-and-audio-adventures/"><u>Classic Cellphones: The Perfect Gateway for Children's Musical Exploration & Audio Adventures</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/creating-your-own-basic-smartphone-experience-a-diy-project-using-open-source-tools/"><u>Creating Your Own Basic Smartphone Experience: A DIY Project Using Open-Source Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/diy-video-chatting-with-precision-a-guide-on-converting-your-android-smartphone-into-an-hd-webcam/"><u>DIY Video Chatting with Precision: A Guide on Converting Your Android Smartphone Into an HD Webcam</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-xiaomi-redmi-note-13-pro-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Xiaomi Redmi Note 13 Pro 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-surface-tablets-that-wont-charge-while-plugged-in/"><u>Effective Fixes for Surface Tablets That Won't Charge While Plugged In</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-one-handed-access-to-android-alerts-on-your-google-pixel-device/"><u>Effortless One-Handed Access to Android Alerts on Your Google Pixel Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/essential-screen-guarding-tips-for-the-new-google-pixel-7-pro/"><u>Essential Screen Guarding Tips for the New Google Pixel 7 Pro</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/estimating-24-hour-films-data-footprint/"><u>Estimating 24-Hour Film's Data Footprint</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exciting-news-unveiling-of-the-latest-google-tech-marvel-pixel-9-august-13th-release/"><u>Exciting News! Unveiling of the Latest Google Tech Marvel - Pixel #9, August 13Th Release</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-nfc-technology-utilizing-androids-built-in-feature/"><u>Exploring NFC Technology: Utilizing Android's Built-In Feature</u></a></li>
-<li><a href="https://win-dash.techidaily.com/fast-downloads-of-ft232r-usb-to-uart-drivers-get-them-now/"><u>Fast Downloads of FT232R USB to UART Drivers - Get Them Now</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/flawless-cross-sound-mixing-in-audacity-pro-for-2024/"><u>Flawless Cross-Sound Mixing in Audacity Pro for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-connecting-with-people-on-your-phone-even-when-youre-off-the-grid/"><u>Guide: Connecting with People on Your Phone Even When You're Off the Grid</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-securely-update-your-windows-computers-pl23-3-to-usb-driver-free-download-available/"><u>How to Securely Update Your Windows Computer's PL23 3-To-USB Driver: Free Download Available</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-the-guardian-of-gifs-saving-memorable-moments-from-twitter/"><u>In 2024, The Guardian of GIFs Saving Memorable Moments From Twitter</u></a></li>
-<li><a href="https://fox-that.techidaily.com/what-if-iphones-hide-images-even-when-theyre-gone-learn-how-to-restore-storage-with-ease/"><u>What If iPhones Hide Images Even When They're Gone? Learn How to Restore Storage with Ease</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-essential-ios-psp-emulation-tools-top-5-for-2024/"><u>[Updated] Essential iOS PSP Emulation Tools, Top 5 for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-instant-social-interaction-tweetplusfb-guide/"><u>2024 Approved Instant Social Interaction Tweet+FB Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-rx-6800-xt-driver-updates-for-enhanced-gaming-performance-windows-11-10-8-and-7/"><u>AMD Radeon RX 6800 XT Driver Updates for Enhanced Gaming Performance (Windows 11, 10, 8 & 7)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-iphone-users-disable-or-delete-stock-apps-purchased-with-itunes-money/"><u>Can iPhone Users Disable or Delete Stock Apps Purchased with iTunes Money?</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/comprehveillance-of-creating-virtual-machines-using-vmware-esxi-a-stepwise-approach/"><u>Comprehveillance of Creating Virtual Machines Using VMware ESXi - A Stepwise Approach</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-windows-compatible-zexmte-bluetooth-dongle-driver-software/"><u>Download Windows Compatible Zexmte Bluetooth Dongle Driver Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-your-logitech-m525-mouse-driver-and-compatible-programs/"><u>Download Your Logitech M525 Mouse Driver and Compatible Programs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-conversion-made-simple-latest-upgrade-for-the-scansnap-s1100s-software/"><u>Effortless Conversion Made Simple - Latest Upgrade for the Scansnap S1100's Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-official-hp-deskjet-printer-software-updates-for-windows-7-8-and-10/"><u>Get Official HP Deskjet Printer Software Updates for Windows 7, 8 & 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974496871-hassle-free-download-and-installation-of-the-epson-et-4550-driver-on-your-windows-computer-get-started-now/"><u>Hassle-Free Download & Installation of the Epson ET-4550 Driver on Your Windows Computer – Get Started Now!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-not-to-use-chatgpt-avoiding-common-errors-in-digital-writing/"><u>How Not to Use ChatGPT: Avoiding Common Errors in Digital Writing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-detect-and-handle-illegitimate-chatgpt-sites/"><u>How to Detect and Handle Illegitimate ChatGPT Sites</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-asus-mousepad-drivers-on-your-windows-computer-a-step-by-step-guide/"><u>How to Install ASUS Mousepad Drivers on Your Windows Computer: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-luts-explained-enhancing-images-through-color-grading/"><u>In 2024, LUTs Explained Enhancing Images Through Color Grading</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Xiaomi 14 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-updated-amd-radeon-driver-version-on-your-windows-7-pc-today/"><u>Install Updated AMD Radeon Driver Version on Your Windows 7 PC Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-t430-drivers-download-for-windows-11-8-7-easily/"><u>Lenovo T430 Drivers Download for Windows 11 / 8 /7 [Easily]</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-giants-unveiled-how-to-excel-on-facebook-twitter-instagram-and-youtube/"><u>Social Giants Unveiled: How to Excel on Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://video-capture.techidaily.com/superior-screen-reporter-optimal-chromebook-choice/"><u>Superior Screen Reporter Optimal Chromebook Choice</u></a></li>
 </ul></div>
 

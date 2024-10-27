@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Revolutionary Technology Breakthroughs in 2N23: How They're Reshaping Our Future | ZDNet"
-date: 2024-10-19T19:24:13.500Z
-updated: 2024-10-20T16:42:33.518Z
+date: 2024-10-24T00:34:49.375Z
+updated: 2024-10-27T02:28:30.879Z
 tags:
   - laptops
 categories:
@@ -43,10 +43,10 @@ Running AI applications locally yields four major advantages: 1) All information
 "The idle power consumption of a single fully populated AI-accelerated server can approach one kilowatt of power while the peak power consumption can approach several kilowatts of power. This number multiplies by the number of servers required to run a generative AI model and the number of times a model is run, which is increasing exponentially," says Jim McGregor, Principal Analyst at [TIRIAS Research](https://www.tiriasresearch.com/). On-device AI solves this problem by keeping most, if not all, of the friction within our devices -- which will be plenty capable come next year.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Generative AI for professional workflows
@@ -62,10 +62,10 @@ Some tools include [Wix's AI Site Generator](https://www.zdnet.com/article/this-
 Such workloads, especially as companies fine-tune these large language models, often require pushing the GPUs (graphics processing units) and RAM in computers and servers to the max, setting a precedent for an AI arms race between the world's largest semiconductor companies -- Intel, AMD, Nvidia, and Qualcomm included. Expect more "for AI" computers, chipsets, and fancy comparison charts in 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Wireless TVs take cord-cutting to the extreme
@@ -83,10 +83,10 @@ Naturally, one of the big questions with wireless TVs is how latency factors int
 That said, wireless TVs are certainly not priced for the mainstream; the Displace TV lists for $4,499, and the LG OLED M will run you upwards of $35,000\. But for your closest look at a future without cords and cables dangling off walls, this may well be the best place to start.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A Copilot for every PC user
@@ -102,10 +102,10 @@ The vision was straightforward; with a single click from the taskbar, more than 
 At the base level, Copilot on Windows 11 can save users dozens of clicks every day, now that the AI assistant can help navigate those sophisticated location paths to tweak display resolutions, set dark theme timers, and do other mundane tasks. For businesses and enterprises, Copilot will be capable of [tackling cybersecurity threats](https://www.zdnet.com/article/boosting-cybersecurity-microsofts-ai-driven-security-copilot-unveiled-at-ignite-2023/), from risk identification with machine learning algorithms to automated response mechanisms for near-instant defense.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Pinching the air will become normal
@@ -150,24 +150,15 @@ The big question with pinching is how multidimensional such a basic gesture can 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-pioneering-image-editing-with-toolwiz-a-compre-written-review/"><u>[Updated] 2024 Approved Pioneering Image Editing with Toolwiz – A Compre Written Review</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-expert-tips-for-smooth-win11-meetings-via-zoom/"><u>[Updated] Expert Tips for Smooth Win11 Meetings via Zoom</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enhancing-video-tracking-adding-timestamps-in-youtube/"><u>[Updated] In 2024, Enhancing Video Tracking Adding Timestamps in YouTube</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-master-techniques-for-live-sport-broadcast-recording/"><u>[Updated] In 2024, Master Techniques for Live Sport Broadcast Recording</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-quick-steps-for-saving-your-macs-desktop/"><u>[Updated] In 2024, Quick Steps for Saving Your Mac's Desktop</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/approach-discuss-the-role-of-aggregates-in-determining-the-properties-of-concrete/"><u>Approach: Discuss the Role of Aggregates in Determining the Properties of Concrete.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-finding-and-installing-newest-hp-laptop-drivers-for-windows-operating-system/"><u>Comprehensive Guide: Finding and Installing Newest HP Laptop Drivers for Windows Operating System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-canon-mf743cdw-printer-drivers-compatible-with-windows-os/"><u>Download & Install Canon MF743CDW Printer Drivers Compatible with Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-setup-for-your-logitech-m1-cu-2023-with-updated-driver-downloads/"><u>Effortless Setup for Your Logitech M1 Cu 2023 with Updated Driver Downloads</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-install-the-right-toshiba-driver-your-ultimate-windows-solution/"><u>Find & Install the Right Toshiba Driver: Your Ultimate Windows Solution</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/free-conversion-of-jpeg2-pdfs-effortless-online-file-transformation-with-movavi/"><u>Free Conversion of JPEG2 PDFs: Effortless Online File Transformation with Movavi</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-details-with-intimate-filming-techniques/"><u>In 2024, Capturing Details with Intimate Filming Techniques</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-channel-identity-constructing-memorable-templates-for-gamers/"><u>In 2024, Channel Identity Constructing Memorable Templates for Gamers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-the-newest-nvidia-drivers-for-your-geforce-rtx-3080-on-windows-1187-systems/"><u>Install the Newest NVIDIA Drivers for Your GeForce RTX 3080 on Windows 11/8/7 Systems</u></a></li>
-<li><a href="https://facebook.techidaily.com/is-it-smart-to-tie-all-your-app-access-through-a-single-social-sign-in/"><u>Is It Smart to Tie All Your App Access Through a Single Social Sign-In?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-hp-officejet-pro-8610-drivers-free-downloads-for-win10win8win7xpvista/"><u>Latest HP Officejet Pro 8610 Drivers: Free Downloads for Win10/Win8/Win7/XP/Vista</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/preserving-periscope-content-tips-from-the-pros-for-2024/"><u>Preserving Periscope Content Tips From the Pros for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/rtx-2060-super-graphics-card-drivers-compatible-with-windows-11/"><u>RTX 2060 Super Graphics Card Drivers - Compatible with Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-hp-display-drivers-in-windows-11-8-and-7-a-step-by-step-guide/"><u>Troubleshooting HP Display Drivers in Windows 11, 8 & 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-essential-tips-for-instagrams-query-tagging/"><u>[New] In 2024, Essential Tips for Instagram's Query Tagging</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-explore-how-you-can-do-speech-to-text-in-powerpoint/"><u>2024 Approved Explore How You Can Do Speech-To-Text in Powerpoint</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-installing-sony-vaio-drivers-on-your-pc-with-windows-os/"><u>Easy Guide: Installing Sony Vaio Drivers on Your PC with Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-guide-downloading-and-installing-the-epson-wf-3540-driver-on-windows-computers/"><u>Essential Guide: Downloading & Installing the Epson WF-3540 Driver on Windows Computers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-stills-to-movement-examining-the-action-potential-of-camplus-for-2024/"><u>From Stills to Movement Examining the Action Potential of Cam+ for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-the-newest-canon-mx492-printer-drivers-on-pc-step-by-step/"><u>How to Install the Newest Canon MX492 Printer Drivers on PC - Step by Step</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/make-a-plan-and-set-goals/"><u>Make A Plan & Set Goals</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mp4-to-mpeg-transformation-made-simple-convert-for-free-on-the-web/"><u>MP4 to MPEG Transformation Made Simple - Convert for Free on the Web!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-software-upgrade-for-scansnap-s1300i-begin-download-immediately/"><u>Seamless Software Upgrade for ScanSnap S1300i - Begin Download Immediately!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969544459-upgrade-your-pc-now-fast-track-guide-for-intel-driver-download/"><u>Upgrade Your PC Now: Fast Track Guide for Intel Driver Download</u></a></li>
 </ul></div>
 
