@@ -1,7 +1,7 @@
 ---
 title: "Build the Ultimate PC Gaming Rig: Top Strategies and Must-Have Components - The ZDNet Guide to Gamers’ Setups"
-date: 2024-10-19T22:12:17.887Z
-updated: 2024-10-26T17:02:52.226Z
+date: 2024-10-31T19:24:47.024Z
+updated: 2024-11-01T17:39:26.903Z
 tags:
   - laptops
 categories:
@@ -27,10 +27,10 @@ Dell's XPS 14 is seeing some big discounts at Best Buy right now for the higher-
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -74,10 +74,10 @@ Even with this upgraded card, this is not a [gaming laptop](https://www.zdnet.co
 The lack of an HDMI port and full-sized SD card reader is a strange design choice as both would further carve out an identity as a premium-looking laptop for visual creatives. Luckily, the XPS 14 does come with a USB-C dongle that helps get most creative jobs done.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications comparison
@@ -106,10 +106,10 @@ I've talked a little about messing around with the [function keys in other machi
 On the Dell XPS 14, the function row is so minimal that it doesn't even have physical keys at all; there is no haptic feedback or physical indication of a key being pressed, you're just interacting with a little LED icon, and that is a design choice that certainly won't be for everyone. While working with the XPS 14, I never really got used to having the Home, End, and Delete keys associated with these "lights" and found myself preferring simply having these attached to physical inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,10 +121,10 @@ This is not a scrappy, unpretentious workhorse, but rather a premium, ultra-mode
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -161,24 +161,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-disabling-youtubes-quick-video-peek-feature/"><u>[New] 2024 Approved Disabling YouTube's Quick Video Peek Feature</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-engage-in-enlightening-youtube-exchanges/"><u>[New] 2024 Approved Engage in Enlightening YouTube Exchanges</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-best-assortment-professional-webcam-supports/"><u>2024 Approved Best Assortment Professional Webcam Supports</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-insiders-guide-to-snapchats-spotlight-feature/"><u>2024 Approved The Insider's Guide to Snapchat's Spotlight Feature</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722094417310-best-free-alternatives-to-openais-sora-try-them-out-now/"><u>Best Free Alternatives to OpenAI's Sora: Try Them Out Now</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-free-movie-picks-from-youtube-the-ultimate-list-for-july-2024/"><u>Best Free Movie Picks From YouTube: The Ultimate List for July 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-hp-laserjet-1320-printer-drivers-on-windows/"><u>Download & Update HP LaserJet 1320 Printer Drivers on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-hp-officejet-3830-printer-driver-installation-for-windows-pcs/"><u>Free HP OfficeJet 3830 Printer Driver Installation for Windows PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-dell-audio-drivers-quick-and-easy-download-options/"><u>Get the Newest Dell Audio Drivers - Quick and Easy Download Options!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722963257284-get-your-nvidia-geforce-rtx-20-series-and-gtx-10-series-drivers-today/"><u>Get Your Nvidia GeForce RTX 20 Series and GTX 10 Series Drivers Today</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-a58-4g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo A58 4G</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-the-latest-hp-pagewide-pro-477dw-printer-drivers-on-windows-11108-systems/"><u>Installing the Latest HP PageWide Pro 477DW Printer Drivers on Windows 11/10/8 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-brother-mfc-j480dw-windows-printer-software-upgrade-guide/"><u>Latest Brother MFC-J480DW Windows Printer Software Upgrade Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722965307472-latest-nvidia-rtx-2060-graphics-card-drivers-for-windows-11-10-8-and-7-download-now/"><u>Latest NVIDIA RTX 2060 Graphics Card Drivers for Windows 11, 10, 8 & 7 - Download Now!</u></a></li>
-<li><a href="https://video-capture.techidaily.com/non-gta-worlds-a-list-of-comparable-mega-hits-for-2024/"><u>Non-GTA Worlds A List of Comparable Mega-Hits for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/nvidia-drivers-downloading-find-and-install-for-optimal-performance/"><u>NVIDIA Drivers Downloading: Find & Install for Optimal Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-insightful-computer-and-gadget-analysis/"><u>Tom's Tech Review: Insightful Computer & Gadget Analysis</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-iphone-14-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your iPhone 14</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/activating-built-in-recorders-on-mate-and-p-series-phones-mate-1020-p2010/"><u>Activating Built-In Recorders on Mate and P Series Phones (Mate 10/20; P20/10)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/arlo-pro-5s-unveiled-near-perfect-surveillance-meets-irresistible-discounts-tech-deals-blog/"><u>Arlo Pro 5S Unveiled: Near-Perfect Surveillance Meets Irresistible Discounts | Tech Deals Blog</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/build-your-brand-memes-with-kinemaster/"><u>Build Your Brand Memes with KineMaster</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-why-samsung-galaxy-note-9-leads-in-phablet-innovation/"><u>Comprehensive Review: Why Samsung Galaxy Note 9 Leads in Phablet Innovation</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/how-to-resolve-unsuccessful-system-reserve-partition-modifications-in-windows-1110/"><u>How to Resolve Unsuccessful System Reserve Partition Modifications in Windows 11/10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-v29-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo V29?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/marketing-meets-technology-amazon-unveils-ad-supported-digital-photo-frame-priced-at-160/"><u>Marketing Meets Technology: Amazon Unveils Ad-Supported Digital Photo Frame Priced at $160</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/massive-savings-in-tech-gadgets-grab-the-new-ipad-10gen-for-just-334-enjoy-ultra-hd-with-roku-4k-and-charge-smartly-with-anker-deals/"><u>Massive Savings in Tech Gadgets: Grab the New iPad 10Gen for Just $334, Enjoy Ultra HD with Roku 4K, and Charge Smartly With Anker Deals!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/meet-lenovos-compact-powerhouse-the-mini-pc-with-amd-ryzen/"><u>Meet Lenovo's Compact Powerhouse: The Mini PC with AMD Ryzen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-obstacles-in-repairing-your-galaxy-phone-expert-insights-and-tips/"><u>New Obstacles in Repairing Your Galaxy Phone – Expert Insights and Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/newly-released-kubuntu-laptop-collection-featuring-14-and-16-models-with-enhanced-concentration-capabilities/"><u>Newly Released Kubuntu Laptop Collection Featuring 14 & 16 Models with Enhanced Concentration Capabilities</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/next-gen-eyewear-advanced-camera-features-in-smart-glasses-independent-of-augmented-reality-or-social-platforms/"><u>Next-Gen Eyewear - Advanced Camera Features in Smart Glasses, Independent of Augmented Reality or Social Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/next-gen-performance-on-a-budget-unveiling-the-power-of-snapdragon-7-plus-gen-3-in-economy-phones/"><u>Next-Gen Performance on a Budget: Unveiling the Power of Snapdragon 7 Plus Gen 3 in Economy Phones</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/side-by-side-comparison-iphone-15-pro-max-vs-samsung-s24-ultra-a-deep-dive-into-specs-and-performance/"><u>Side-by-Side Comparison: IPhone 15 Pro Max Vs. Samsung S24 Ultra - A Deep Dive Into Specs and Performance</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/step-by-step-guide-saving-your-favorite-vgtv-shows-as-mp4-downloads-for-offline-viewing-on-pc-or-mac/"><u>Step-by-Step Guide: Saving Your Favorite VGTV Shows as MP4 Downloads for Offline Viewing on PC or Mac</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-solutions-for-laptops-with-no-sound-output-diagnose-and-repair/"><u>Ultimate Solutions for Laptops with No Sound Output - Diagnose & Repair</u></a></li>
 </ul></div>
 

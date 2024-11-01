@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Surface Laptop 5 Reviewed Up Close: Exploring the Familiar Yet Innovative Features | TechInsights"
-date: 2024-10-23T02:33:27.735Z
-updated: 2024-10-26T23:58:59.462Z
+date: 2024-10-29T19:51:09.800Z
+updated: 2024-11-01T19:44:51.540Z
 tags:
   - laptops
 categories:
@@ -47,10 +47,10 @@ Having a dedicated Copilot key certainly adds to this burdenless experience. As 
 Perhaps the most important aspect of these new Copilot+ AI features is that they operate [on-device](https://www.zdnet.com/article/5-top-mobile-trends-in-2024-on-device-ai-the-new-smartphone-and-more/#:~:text=to%20take%20shape.-,1.%20On%2Ddevice%20AI%20puts%20the%20%27smart%27%20in%20smartphone,-The%20new%20Samsung) \-- based on local data, providing more private, secure, and faster processing capabilities. To everyday users, this may not be as significant. If, however, keeping your personal data protected (and away from any [remote cloud servers](https://www.zdnet.com/article/ai-is-changing-cybersecurity-and-businesses-must-wake-up-to-the-threat/)) is a priority, you'll feel a little better using the AI features on these new Copilot+ PCs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Windows Hello feels faster than ever
@@ -66,10 +66,10 @@ Comparing my M3 MacBook Air with the Surface Laptop is not exactly an apples-to-
 The best part is that Windows Hello automatically triggers when I lift the laptop lid open, and it's able to scan my face even in dimmer environments thanks to the IR camera.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Touchscreen support
@@ -85,10 +85,10 @@ For example, the new Cocreator tool in Paint requires you to both write a prompt
 While I've always found touchscreen functionality to be more beneficial on larger screens, using the smaller [13.8-inch Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdce94952-9462-4f8b-a8a9-5180b078bf69%7Cdtp&dtb=1) feels more like a 2-in-1 tablet. When my typing space is confined, like on a bus, plane, or crowded café, being able to simply reach over and tap, swipe, and drag elements on the screen is very helpful and intuitive. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus: Benchmarks (for now)
@@ -130,22 +130,19 @@ For the following benchmark tests, the higher the score, the better.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-unleash-the-full-potential-in-the-metaverse-with-this-list/"><u>[New] In 2024, Unleash the Full Potential in the Metaverse with This List</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-zenbook-duo-faces-potential-competitor-with-teaser-of-gpds-latest-dual-display-oled-laptop-innovation/"><u>ASUS ZenBook Duo Faces Potential Competitor with Teaser of GPD's Latest Dual-Display OLED Laptop Innovation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/beyond-the-surface-unveiling-superior-performance-of-ubuntu-on-gigabyte-aero-15-predator-with-ryzen-7/"><u>Beyond the Surface: Unveiling Superior Performance of Ubuntu on Gigabyte Aero 15 Predator with Ryzen 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/breaking-down-the-latest-tech-with-copilotplus-live-blog-of-snapdragon-laptops-test-run/"><u>Breaking Down the Latest Tech with Copilot+: Live Blog of Snapdragon Laptops Test Run</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discount-alert-shop-m3-macbook-air-with-16gb-ram-and-sleek-13-screen-for-under-1200/"><u>Discount Alert: Shop M3 MacBook Air with 16GB RAM & Sleek 13 Screen for Under $1,200!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-cutting-edge-hardware-on-toms-digital-workshop/"><u>Discover Cutting-Edge Hardware on Tom's Digital Workshop</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-ultimate-dual-screen-experience-with-acemagics-revolutionary-x1-laptop/"><u>Discover the Ultimate Dual-Screen Experience with Acemagic's Revolutionary X1 Laptop</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-latest-hp-deskjet-2652-printer-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download the Latest HP Deskjet 2652 Printer Drivers: Compatible with Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/elevating-your-game-how-prism-enhancements-and-new-anti-cheat-tech-are-boosting-copilotplus-gaming-experience-according-to-microsoft/"><u>Elevating Your Game: How Prism Enhancements & New Anti-Cheat Tech Are Boosting Copilot+ Gaming Experience According to Microsoft</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-next-level-performance-shop-the-alienware-m18-r2-with-rtx-4090-for-less-grab-your-savings-now/"><u>Experience Next-Level Performance: Shop the Alienware M18 R2 with RTX 4090 for Less - Grab Your Savings Now!</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-print-to-pdf-feature-issues-on-windows-10-and-11/"><u>Fixing 'Print to PDF' Feature Issues on Windows 10 & 11</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-can-you-selectively-print-specific-pages-from-your-ebooks-with-flipbuilder/"><u>How Can You Selectively Print Specific Pages From Your eBooks with FlipBuilder?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-oneplus-nord-n30-se-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from OnePlus Nord N30 SE to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-leading-edge-quick-frame-gatherer-5/"><u>In 2024, Leading Edge Quick Frame Gatherer #5</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-optimal-energy-packs-for-black-gopro-hero5-certified-and-imposters/"><u>In 2024, Optimal Energy Packs for Black GoPro Hero5 – Certified & Imposters</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-b200-pc-error/"><u>Resolved: B200 PC Error</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/things-you-must-know-for-screen-mirroring-apple-iphone-se-drfone-by-drfone-ios/"><u>Things You Must Know for Screen Mirroring Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-for-superior-4k-visual-quality-with-gear/"><u>2024 Approved Expert Tips for Superior 4K Visual Quality with Gear</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/5-must-know-elements-of-influential-titles/"><u>5 Must-Know Elements of Influential Titles</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevating-android-borrowing-key-iphone-elements-for-an-improved-interface/"><u>Elevating Android: Borrowing Key iPhone Elements for an Improved Interface</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-mobile-security-the-case-against-relying-on-pattern-locks-for-your-android-device/"><u>Enhance Mobile Security: The Case Against Relying on Pattern Locks for Your Android Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ai-chatbot-restrictions-and-personal-repercussions/"><u>Exploring AI Chatbot Restrictions & Personal Repercussions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-reasons-behind-the-pixel-6s-sluggish-biometric-authentication/"><u>Exploring the Reasons Behind the Pixel 6'S Sluggish Biometric Authentication</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/galaxy-z-fold-5-and-z-flip-n5-unveiled-shop-now-for-latest-foldable-phones/"><u>Galaxy Z Fold 5 & Z Flip N5 Unveiled: Shop Now for Latest Foldable Phones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-connecting-and-using-a-usb-flash-drive-on-android-devices/"><u>Guide: Connecting and Using a USB Flash Drive on Android Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-resolve-lg-device-usb-connection-problems-on-windows-10-8-and-7/"><u>How to Resolve LG Device USB Connection Problems on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://extra-information.techidaily.com/masterclass-in-cutting-edge-windows-11-apps/"><u>Masterclass in Cutting-Edge Windows 11 Apps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-pc-with-amd-rx-200-series-firmware/"><u>Optimize PC with AMD RX 200 Series Firmware</u></a></li>
+<li><a href="https://windows11.techidaily.com/reboot-to-reconnect-reviving-ethernet-net-access/"><u>Reboot to Reconnect: Reviving Ethernet Net Access</u></a></li>
+<li><a href="https://win11.techidaily.com/tech-savvy-bootable-media-generate-an-efficient-win-11-usb-quickly/"><u>Tech-Savvy Bootable Media: Generate an Efficient Win 11 USB Quickly</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-11-pro-max-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 11 Pro Max Passcode without a Computer | Dr.fone</u></a></li>
 </ul></div>
 

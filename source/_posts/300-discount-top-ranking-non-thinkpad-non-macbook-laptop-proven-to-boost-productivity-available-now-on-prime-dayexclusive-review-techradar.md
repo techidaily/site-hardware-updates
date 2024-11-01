@@ -1,7 +1,7 @@
 ---
 title: "$300 Discount: Top-Ranking Non-ThinkPad, Non-MacBook Laptop Proven to Boost Productivity - Available Now on Prime Day![Exclusive Review] | TechRadar"
-date: 2024-10-24T20:40:53.079Z
-updated: 2024-10-26T17:35:58.225Z
+date: 2024-10-25T20:41:07.741Z
+updated: 2024-11-01T16:19:33.204Z
 tags:
   - laptops
 categories:
@@ -29,10 +29,16 @@ Amazon's October Prime Day event is here, and with its arrival, many laptops are
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -106,10 +112,10 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -148,20 +154,17 @@ All things considered, the [sale price of $1,099](https://www.awin1.com/awclick.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-expert-schematic-designing-stopwatches-for-streaming-software/"><u>[New] Expert Schematic Designing Stopwatches for Streaming Software</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-elite-insight-engine-highest-chart-tracker/"><u>[Updated] 2024 Approved Elite Insight Engine Highest Chart Tracker</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/blu-raydvd-rip-comparison-handbrake-or-makemkv-which-tool-wins-for-efficient-backup/"><u>Blu-Ray/DVD Rip Comparison - HandBrake or MakeMKV, Which Tool Wins for Efficient Backup?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-mx492-driver-update-and-download-enhance-your-printers-performance-on-windows-systems/"><u>Canon MX492 Driver Update & Download: Enhance Your Printer's Performance on Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hassle-free-downloads-of-official-hp-wifi-card-drivers-for-windows-users/"><u>Hassle-Free Downloads of Official HP WiFi Card Drivers for Windows Users</u></a></li>
-<li><a href="https://techidaily.com/how-does-one-qualify-as-an-ai-whisperer-and-is-it-the-right-fit-for-your-skill-set/"><u>How Does One Qualify as an AI Whisperer, and Is It the Right Fit for Your Skill Set?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/logitech-momo-racing-wheel-download-the-latest-pc-game-drivers-now/"><u>Logitech MOMO Racing Wheel - Download the Latest PC Game Drivers Now!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-xs-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone XS Backup Unlocker Top 4 Alternatives</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/performance-based-seismic-design-pbsd-focuses-on-achieving-specific-performance-objectives-using-nonlinear-analysis-to-predict-damage-levels/"><u>Performance-Based Seismic Design (PBSD) Focuses on Achieving Specific Performance Objectives, Using Nonlinear Analysis to Predict Damage Levels.</u></a></li>
-<li><a href="https://extra-information.techidaily.com/quip-collection-event-specific-jest-compilation/"><u>Quip Collection Event-Specific Jest Compilation</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/say-hello-to-uninterrupted-online-surfing-with-the-advanced-amplifi-hd-mesh-system/"><u>Say Hello to Uninterrupted Online Surfing with the Advanced Amplifi HD Mesh System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/successful-installation-guide-huion-tablet-drivers-update-on-windows/"><u>Successful Installation Guide: Huion Tablet Drivers Update on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-solutions-for-hp-officejet-pro-6978-printer-drivers/"><u>Troubleshooting & Solutions for HP OfficeJet Pro 6978 Printer Drivers</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/unlock-the-power-of-podcasts-15-task-filled-activities-to-do-while-listening-to-your-favorite-talk-shows-for-2024/"><u>Unlock the Power of Podcasts 15 Task-Filled Activities to Do While Listening to Your Favorite Talk Shows for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/xbox-accessory-driver-troubles-heres-how-you-can-fix-it-in-windows-1187-systems/"><u>Xbox Accessory Driver Troubles? Here's How You Can Fix It in Windows 11/8/7 Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-success-with-effective-video-praise-techniques/"><u>[New] Unlocking Success with Effective Video Praise Techniques</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-crafting-youtube-trailers-a-filmora-guide-for-2024/"><u>[Updated] Crafting YouTube Trailers A Filmora Guide for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-complete-guide-to-samsungs-comprehensive-picture-editing-tools-2023/"><u>[Updated] In 2024, The Complete Guide to Samsung’s Comprehensive Picture Editing Tools, 2023</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-tips-for-speeding-up-your-tiktok-videos/"><u>[Updated] Tips for Speeding Up Your TikTok Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mg3600-printer-firmware-update-latest-driver-versions-available-now/"><u>Canon MG3600 Printer Firmware Update: Latest Driver Versions Available Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-intels-new-frontier-a-detailed-look-at-their-e-core-free-overclocking-flagship-core-14th-generation-chips-leading-with-i9-14901ke/"><u>Discover Intel’s New Frontier: A Detailed Look at Their E-Core-Free, Overclocking Flagship Core 14Th Generation Chips, Leading with I9-14901KE</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-free-qualcomm-atheros-ar3011-bluetooth-version-30-drivers-here/"><u>Get Your Free [Qualcomm Atheros] AR3011 Bluetooth Version 3.0 Drivers Here</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-nokia-c12-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Nokia C12 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-usb-camera-drivers-easily-secure-and-immediate-access-downloads/"><u>Install USB Camera Drivers Easily - Secure and Immediate Access Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/safe-and-fast-installation-of-sadeheadset-drivers-for-windows-enhance-your-listening-experience-now/"><u>Safe and Fast Installation of SadeHeadset Drivers for Windows: Enhance Your Listening Experience Now!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-cartoon-video-creation-made-easy-10-best-mobile-apps-for-2024/"><u>Updated Cartoon Video Creation Made Easy 10 Best Mobile Apps for 2024</u></a></li>
 </ul></div>
 

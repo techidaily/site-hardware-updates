@@ -1,7 +1,7 @@
 ---
 title: "Uncovering the Top Rated Dual-Function Device of the Year with a Hidden Workplace Perk: A ZDNet Review"
-date: 2024-10-20T22:04:26.682Z
-updated: 2024-10-26T19:07:49.533Z
+date: 2024-10-30T18:17:10.884Z
+updated: 2024-11-01T17:48:09.725Z
 tags:
   - laptops
 categories:
@@ -63,10 +63,10 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -105,18 +105,24 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-10-expert-suggestions-to-make-your-yt-shorts-stand-out/"><u>[New] In 2024, 10 Expert Suggestions to Make Your YT Shorts Stand Out</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exquisite-stop-motion-cinema-top-15-picks/"><u>[Updated] Exquisite Stop-Motion Cinema - Top 15 Picks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-youtube-to-studio-quality-free-converters-for-wav-format-for-2024/"><u>[Updated] From YouTube to Studio Quality Free Converters for WAV Format for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/9-essential-steps-for-windows-hello-fingerprint-woes/"><u>9 Essential Steps for Windows Hello Fingerprint Woes</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/create-a-personalized-broadcasting-experience-record-webcam-with-vlc/"><u>Create a Personalized Broadcasting Experience Record Webcam with VLC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-analysis-on-gadgets-by-tom-comprehensive-hardware-overview/"><u>Expert Analysis on Gadgets by Tom - Comprehensive Hardware Overview</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-hints-and-tips-from-toms-computer-world/"><u>Expert Hints & Tips From Tom’s Computer World</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-insights-from-toms-computing-world/"><u>Expert Insights From Tom's Computing World</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-insights-on-gadgets-and-pc-hardware-from-toms-hq/"><u>Expert Insights on Gadgets and PC Hardware From Tom's HQ</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/explore-advanced-gadgetry-through-toms-comprehensive-guides/"><u>Explore Advanced Gadgetry Through Tom's Comprehensive Guides</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-se-2020-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone SE (2020) Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-iphone-and-android-sharp-portraits-soft-backdrops/"><u>In 2024, IPhone & Android Sharp Portraits, Soft Backdrops</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-learn-the-free-and-easy-way-to-edit-videos-shot-by-your-gopro/"><u>Updated 2024 Approved Learn the Free and Easy Way to Edit Videos Shot by Your GoPro</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-empowering-videos-with-your-cellphones-camera-function/"><u>[New] 2024 Approved Empowering Videos with Your Cellphone's Camera Function</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-redefining-visual-storytelling-with-virtual-reality/"><u>[New] Redefining Visual Storytelling with Virtual Reality</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nlocking-youtube-videos-a-guide-to-sequential-viewing/"><u>[New] Unlocking YouTube Videos A Guide to Sequential Viewing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-flavorful-follows-top-food-vloggers-to-track/"><u>[Updated] Flavorful Follows Top Food Vloggers to Track</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1-unveiling-the-secrets-of-google-discover-a-comprehensive-guide-for-mobile-users/"><u>1. Unveiling the Secrets of Google Discover: A Comprehensive Guide for Mobile Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/6-from-just-599/"><u>6 - From Just $599</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazon-canada-launches-ryzen-5-9600x-pre-order-evaluating-the-cost-effectiveness/"><u>Amazon Canada Launches Ryzen 5 9600X Pre-Order – Evaluating the Cost Effectiveness</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/android-device-longevities-forecasting-update-support-duration/"><u>Android Device Longevities: Forecasting Update Support Duration</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/choose-versatility-over-gimmicks-opt-for-a-separate-refrigerator-and-ipad-rather-than-a-smart-fridge/"><u>Choose Versatility Over Gimmicks: Opt for a Separate Refrigerator and iPad Rather than a Smart Fridge</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-tutorial-on-powering-off-any-android-smartphone/"><u>Complete Tutorial on Powering Off Any Android Smartphone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-8-plus-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-most-effective-non-google-solutions-available-for-android-users/"><u>Discover the Most Effective Non-Google Solutions Available for Android Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-reasons-behind-my-preference-for-microsoft-edge-on-my-android-device/"><u>Discover the Reasons Behind My Preference for Microsoft Edge on My Android Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-updating-your-android-device-successfully/"><u>Easy Steps: Updating Your Android Device Successfully</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-to-use-android-uis-strategies-for-adapting-mobile-interfaces-for-seniors/"><u>Easy-to-Use Android UIs: Strategies for Adapting Mobile Interfaces for Seniors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-realme-gt-5-240w-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Realme GT 5 (240W)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-edge-2023-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Edge 2023 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-eliminating-frame-drops-in-obs-broadcasts/"><u>In 2024, Eliminating Frame Drops in OBS Broadcasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-velocity-vision-speed-up-videos-on-android/"><u>In 2024, Velocity Vision Speed Up Videos on Android</u></a></li>
 </ul></div>
 

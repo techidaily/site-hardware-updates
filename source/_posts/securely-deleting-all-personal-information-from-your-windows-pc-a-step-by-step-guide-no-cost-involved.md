@@ -1,7 +1,7 @@
 ---
 title: "Securely Deleting All Personal Information From Your Windows PC: A Step-by-Step Guide - No Cost Involved"
-date: 2024-10-20T19:07:36.954Z
-updated: 2024-10-27T01:31:22.123Z
+date: 2024-10-31T21:35:26.036Z
+updated: 2024-11-01T21:19:08.655Z
 tags:
   - laptops
 categories:
@@ -53,10 +53,10 @@ Check the volume.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Go to sound settings
@@ -76,6 +76,19 @@ Screenshot by Lance Whitney/ZDNET
 ## 3\. Check external speakers
 
 If you use external speakers, double-check for loose wires, unseated connections, and similar physical ailments. (Yes, try unplugging and plugging them in again.) If those all pass the test, then it's time to ask for help from Windows.
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Turn to a Windows troubleshooter
 
@@ -105,13 +118,6 @@ Confirm the device.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Go to sound settings to run troubleshooter in another way
 
 Another way to run the troubleshooter in both versions of Windows is through sound settings. In either version, right-click the System Tray audio icon and select **Open Sound settings** or **Sound settings**. 
@@ -136,13 +142,6 @@ Check the Volume mixer in Windows 11.
 
 Screenshot by Lance Whitney
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Click the Reset button
 
 Both versions of Windows show you the volume levels for different devices and applications. Review each level to make sure it's set properly. If all looks good and you're still unable to hear any sound, click the **Reset** button at the bottom. That will reset all the devices and apps to their recommended Microsoft defaults.
@@ -150,13 +149,6 @@ Both versions of Windows show you the volume levels for different devices and ap
 Reset the devices and apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Check the sound control panel
 
@@ -170,6 +162,13 @@ Check sound settings.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Uncheck Enable audio enhancements
 
 At the Properties window, click the **Advanced** tab and uncheck the box for **Enable audio enhancements**. Then click the **Test** button. Next, click the tab for **Spatial sound** and made sure this option is off.
@@ -177,13 +176,6 @@ At the Properties window, click the **Advanced** tab and uncheck the box for **E
 Turn off audio enhancements.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Find the audio driver in Device Manager
 
@@ -201,6 +193,13 @@ Update the driver.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 12\. If this doesn't work, try uninstalling the driver
 
 Still no luck? You can try uninstalling and then reinstalling the driver. Click the **Uninstall Device** button. Confirm that you want to uninstall it.
@@ -208,6 +207,13 @@ Still no luck? You can try uninstalling and then reinstalling the driver. Click 
 Uninstall the driver.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 13\. Reinstall the audio driver
 
@@ -270,20 +276,15 @@ Hopefully, by going through these different Windows troubleshooting steps, you'l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-advanced-ai-for-professional-photography/"><u>[New] Advanced AI for Professional Photography</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-the-secrets-to-lengthy-exposure-with-iphone/"><u>[New] Unlock the Secrets to Lengthy Exposure with iPhone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-from-roots-to-refined-rogues-journey-through-genres-for-2024/"><u>[Updated] From Roots to Refined Rogue's Journey Through Genres for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/captivate-and-conquer-with-customized-content-shorts-for-2024/"><u>Captivate and Conquer with Customized Content Shorts for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-updates-for-your-toshiba-dynamic-pcs-with-windows-driver-downloads/"><u>Get the Newest Updates for Your Toshiba Dynamic PCs with Windows Driver Downloads</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oneplus-nord-3-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from OnePlus Nord 3 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862712505-limited-offer-cut-costs-by-300-on-the-2024-asus-rog-zephyrus-g14-experience-vivid-oled-and-powerful-rtx-4060-graphics/"><u>Limited Offer: Cut Costs by $300 on the 2024 Asus ROG Zephyrus G14 - Experience Vivid OLED & Powerful RTX 4060 Graphics</u></a></li>
-<li><a href="https://games-able.techidaily.com/methods-to-stop-unintended-xbox-joystick-shifts/"><u>Methods to Stop Unintended Xbox Joystick Shifts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-no-sound-devices-found-in-audacity-top-5-fixes/"><u>Resolving 'No Sound Devices Found' In Audacity: Top 5 Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-issue-why-does-my-iphones-screen-time-reflect-unfamiliar-sites/"><u>Solving the Issue: Why Does My iPhone's Screen Time Reflect Unfamiliar Sites?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862672028-toms-tech-insights-the-ultimate-guide/"><u>Tom's Tech Insights: The Ultimate Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-secrets-of-tomcups-hardware-a-complete-overview/"><u>Unveiling the Secrets of Tom'cups Hardware: A Complete Overview</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-world-of-ai-personal-computers-do-you-really-need-one/"><u>Unveiling the World of AI Personal Computers – Do You Really Need One?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-top-performers-in-depth-reviews-by-toms-hardware-expert/"><u>Unveiling Top Performers: In-Depth Reviews by Tom's Hardware Expert</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-top-tech-picks-a-deep-dive-into-hardware-at-toms-equipment-evaluator/"><u>Unveiling Top Tech Picks: A Deep Dive Into Hardware at Tom's Equipment Evaluator</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-mastering-the-art-of-sandbox-gaming/"><u>[New] In 2024, Mastering the Art of Sandbox Gaming</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-visioncapture-x-high-quality-edition/"><u>[New] VisionCapture X High-Quality Edition</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-from-laughter-to-devices-downloading-twitters-animated-fun-for-2024/"><u>[Updated] From Laughter to Devices Downloading Twitter's Animated Fun for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/aromatic-hydrocarbons-have-a-conjugated-pi-electron-system-that-confers-stability-through-resonance-energy/"><u>Aromatic Hydrocarbons Have a Conjugated Pi Electron System that Confers Stability Through Resonance Energy</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-guide-connecting-your-android-device-with-your-television/"><u>Seamless Guide: Connecting Your Android Device with Your Television</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-trick-alert-enlarge-your-google-map-experience-with-a-single-tap/"><u>Simple Trick Alert: Enlarge Your Google Map Experience with a Single Tap!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-activating-wi-fi-voice-calls-on-your-android-device/"><u>Step-by-Step Guide: Activating Wi-Fi Voice Calls on Your Android Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-preventing-anonymous-calls-on-your-android-device/"><u>Step-by-Step Guide: Preventing Anonymous Calls on Your Android Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/under-300-and-exceptional-sound-quality-an-in-depth-review-of-the-sonos-one-gen-2-techradar/"><u>Under $300 and Exceptional Sound Quality – An In-Depth Review of the Sonos One (Gen 2) | TechRadar</u></a></li>
 </ul></div>
 

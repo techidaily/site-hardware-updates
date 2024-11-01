@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Workhorse Laptops Arrive: Discover Why Lenovo's Newly Released AI ThinkPads Are a Game-Changer for Businesses Tech Analysis"
-date: 2024-10-23T21:11:32.708Z
-updated: 2024-10-26T17:21:12.506Z
+date: 2024-10-28T19:29:43.955Z
+updated: 2024-11-01T16:43:42.313Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -60,6 +60,13 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 | Price                 | Starting at [$1,980](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-12-Core-i7-1360P-Fingerprint-Thunderbolt4%2Fdp%2FB0CR9S1KFL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc08720ce-1e8e-49e1-91a2-65be0e5c098b%7Cdtp&dtb=1) |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
 
@@ -82,10 +89,10 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How does it perform?
@@ -108,19 +115,6 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Evaluating Lenovo's dual-screen software
 
 With such unique hardware, Lenovo had to build unique software for Windows 11 so that it behaves properly and gives you extra functionality.
@@ -141,6 +135,13 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## One thing to keep in mind
 
 Having a laptop with two screens means you'll have to lug around a separate keyboard, mouse, and kickstand, all three of which (plus a stylus) come in the box. It's a lot of separate things you have to remember to bring, and I'm going to be honest with you, it can be inconvenient.
@@ -150,13 +151,6 @@ Max Buondonno/ZDNET
 When I'm working on my MacBook or -- quite frankly -- any other laptop in my arsenal, all I have to do is close the lid and load it into my backpack when I'm finished. With the Yoga Book 9i, I have to close the laptop > collapse the kickstand > place the keyboard inside the collapsed kickstand > stack the keyboard/kickstand combo, mouse, and stylus on top of the laptop > shove it all in my bag and pray I can find it later when it's time to go back to work.
 
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -196,24 +190,22 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-iobit-screen-recorder-review-and-alternative/"><u>[New] IObit Screen Recorder Review and Alternative</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-share-tunes-mp3-from-fb-for-2024/"><u>[New] Share Tunes MP3 From FB for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-top-5-chromebook-sniping-apps-essential-clients-reviewed/"><u>[New] Top 5 Chromebook Sniping Apps Essential Clients Reviewed</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-unveiling-the-dji-phantom-3-professional-drones-secrets/"><u>[Updated] In 2024, Unveiling the DJI Phantom 3 Professional Drone's Secrets</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harness-canons-power-explore-10-basic-free-luts-and-more/"><u>2024 Approved Harness Canon's Power Explore 10 Basic Free LUTs and More</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/cod-vanguard-solve-your-voice-chat-troubles-today-expert-advice/"><u>COD: Vanguard - Solve Your Voice Chat Troubles Today - Expert Advice</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-explore-the-best-9-online-platforms-featuring-advanced-3d-typography/"><u>In 2024, Explore the Best 9 Online Platforms Featuring Advanced 3D Typography</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-maximizing-video-channels-earning-with-new-policies/"><u>In 2024, Maximizing Video Channels Earning with New Policies</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/quelles-sont-les-meilleures-alternatives-au-lecteur-de-dvd-powerdvd-sur-un-ordinateur-mac-des-suggestions-de-telechargement/"><u>Quelles Sont Les Meilleures Alternatives Au Lecteur De DVD PowerDVD Sur Un Ordinateur Mac ? Des Suggestions De Téléchargement !</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-mastering-graphics-with-the-pixio-px277-oled-monitor-for-gamers/"><u>The Ultimate Guide to Mastering Graphics with the Pixio PX277 OLED Monitor for Gamers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-tech-at-toms-gadgets-and-hw-review/"><u>The Ultimate Guide to Tech at Tom's Gadgets and HW Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-list-best-pc-gaming-monitors-4k-144hz-and-beyond-unveiled-for-2amoons2024/"><u>The Ultimate List: Best PC Gaming Monitors (4K, 144Hz and Beyond) Unveiled for 2Amoons2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-computer-components-expert-reviews-and-insights/"><u>Tom's Computer Components: Expert Reviews & Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-hardware-unpacked-the-definitive-gadget-review-destination/"><u>Tom's Hardware Unpacked: The Definitive Gadget Review Destination</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-expert-reviews-and-guides/"><u>Tom's Tech Hub: Expert Reviews & Guides</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-4k-and-gaming-monitors-unbeatable-discounts/"><u>Top-Rated 4K & Gaming Monitors - Unbeatable Discounts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-computer-screens-of-2024-a-comprehensive-guide/"><u>Top-Rated Computer Screens of 2024: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/transform-your-workstation-the-highly-rated-samsung-pixel-dense-viewfinity-s9-monitor-27-ips-display-and-integrated-4k-camera-at-an-unmatchable-899-price-se59/"><u>Transform Your Workstation: The Highly Rated Samsung Pixel-Dense ViewFinity S9 Monitor - 27 IPS Display & Integrated 4K Camera at an Unmatchable $899 Price – Secure 44% Off Today</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-avs-video-editor-review/"><u>Updated The Ultimate AVS Video Editor Review</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-10-must-see-vr-videos-on-youtube-for-deep-immersion/"><u>[New] 10 Must-See VR Videos on YouTube for Deep Immersion</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-budget-friendly-ultra-panoramic-video-cameras/"><u>[Updated] Budget-Friendly Ultra-Panoramic Video Cameras</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-dissecting-your-profit-share-in-youtube-short-creation/"><u>[Updated] Dissecting Your Profit Share in YouTube Short Creation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-aspect-ratio-guidelines-for-twitter-videos/"><u>2024 Approved Aspect Ratio Guidelines for Twitter Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-keyword-mastery-unlocking-the-potential-of-youtube-tags/"><u>2024 Approved Keyword Mastery Unlocking the Potential of YouTube Tags</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-finding-and-downloading-ricoh-mp-c3003-drivers-online/"><u>Complete Guide to Finding and Downloading Ricoh MP C3003 Drivers Online</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-set-of-hp-network-driver-installers-for-microsoft-windows-win10pluswin8pluswin7/"><u>Complete Set of HP Network Driver Installers for Microsoft Windows (Win10+Win8+Win7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-lenovo-x230-driver-download-now/"><u>Easy Installation: Lenovo X230 Driver Download Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/focusrite-scarlett-2i2-windows-install-your-studio-audio-interface-today/"><u>Focusrite Scarlett 2I2 (Windows) - Install Your Studio Audio Interface Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-linux-update-snapdragon-xs-elite-gpu-deactivated-potential-issues-due-to-unavailable-oem-key-signature/"><u>Latest Linux Update: Snapdragon X's Elite GPU Deactivated - Potential Issues Due to Unavailable OEM Key Signature</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsofts-recent-patch-might-escalate-evening-tech-woes-experts-at-zdnet-caution/"><u>Microsoft's Recent Patch Might Escalate Evening Tech Woes, Experts at ZDNet Caution</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/no-more-pins-for-you-mastering-windows-11-security-feature-deactivation/"><u>No More PINs for You! Mastering Windows 11 Security Feature Deactivation</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-samsung-galaxy-a05-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Samsung Galaxy A05 has been deleted</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolved-windows-11-bluetooth-connectivity-problems-and-fixes/"><u>Resolved: Windows 11 Bluetooth Connectivity Problems and Fixes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722966142827-step-by-step-instructions-for-downloading-targus-docking-station-drivers-effortless-installation/"><u>Step-by-Step Instructions for Downloading Targus Docking Station Drivers - Effortless Installation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-accessing-and-upgrading-asus-bluetooth-drivers-with-minimal-hassle/"><u>Step-by-Step: Accessing & Upgrading ASUS Bluetooth Drivers with Minimal Hassle</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175675593-transform-your-pc-construction-routine-save-time-with-corsairs-easy-one-turn-assembly-screw/"><u>Transform Your PC Construction Routine: Save Time with Corsair's Easy One-Turn Assembly Screw</u></a></li>
 </ul></div>
 

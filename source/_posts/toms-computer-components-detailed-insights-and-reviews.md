@@ -1,7 +1,7 @@
 ---
 title: Tom's Computer Components - Detailed Insights and Reviews
-date: 2024-09-05T19:54:55.118Z
-updated: 2024-09-06T19:54:55.118Z
+date: 2024-10-25T16:44:51.079Z
+updated: 2024-11-01T19:32:58.533Z
 tags:
   - cpu
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/hCkLJctSSicufPLB47JpXf-320-80.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unveiling Cutting-Edge Gadgets with Tom's Hardware Review
 
 Intel has[announced that it has found the root](https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792) [cause](https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792) of the crashing issues plaguing its CPUs. The company will issue a microcode update to address the issues by mid-August, ostensibly ending the long-running saga that began when the first sporadic reports of CPU crashing errors surfaced in December 2022 and grew to a crescendo by the end of 2023\. Intel's response comes after complaints about the issue, which causes PCs to inexplicably crash/BSOD during gaming and other workloads,[reached a fever pitch](https://www.tomshardware.com/pc-components/cpus/game-publisher-claims-100-crash-rate-with-intel-cpus-alderon-games-says-company-sells-defective-13th-and-14th-gen-chips) in recent weeks. However, the microcode update will not repair impacted processors. Intel also confirmed a rumored issue with via oxidation in its 7nm node, but said those issues were corrected in 2023 and didn't contribute to the failures.
@@ -33,12 +27,6 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
 
  Intel isn't sharing many deep-dive details about the bug yet but says it will continue its validation process to ensure the microcode fully addresses the issues. The company will release more details about the bug itself in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -52,11 +40,12 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
  Intel has not issued a recall of its processors; sources close to the matter tell us that isn't expected. We have both of Intel's statements below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Intel statement on 13th- and 14th-Gen instability
 
  _"Based on extensive analysis of Intel Core 13th/14th Gen desktop processors returned to us due to instability issues, we have determined that elevated operating voltage is causing instability issues in some 13th/14th Gen desktop processors. Our analysis of returned processors confirms that the elevated operating voltage is stemming from a microcode algorithm resulting in incorrect voltage requests to the processor."_
@@ -66,11 +55,12 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
  _"Intel is committed to making this right with our customers, and we continue asking any customers currently experiencing instability issues on their Intel Core 13th/14th Gen desktop processors reach out to Intel Customer Support for further assistance."_
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Intel statement on via oxidation
 
 **Short answer:** We can confirm there was a via Oxidation manufacturing issue (addressed back in 2023) but it is not related to the instability issue.
@@ -79,14 +69,11 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
 
  _For the Instability issue, we are delivering a microcode patch which addresses exposure to elevated voltages which is a key element of the Instability issue. We are currently validating the microcode patch to ensure the instability issues for 13th/14th Gen are addressed. -_ Intel representative[via Reddit](https://www.reddit.com/r/intel/comments/1e9mf04/comment/lefz09c/) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -95,4 +82,16 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-windows-10-new-features-at-a-glance/"><u>[New] In 2024, Windows 10 New Features at a Glance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-leading-windows-pcs-of-2024-in-depth-analysis-and-ratings-insights/"><u>Discover the Leading Windows PCs of 2024: In-Depth Analysis and Ratings | Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-future-of-computing-how-googles-newly-released-chromebookplus-and-its-stunning-generative-ai-features-left-me-in-awe-zdnet/"><u>Exploring the Future of Computing: How Google's Newly Released Chromebook+ and Its Stunning Generative AI Features Left Me in Awe | ZDNET</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-asus-rog-phone-7-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Asus ROG Phone 7 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-nubia-red-magic-9-proplus-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Nubia Red Magic 9 Pro+ to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-prime-day-electronics-bargains-exclusive-october-2024-shopping-guide/"><u>Top Prime Day Electronics Bargains: Exclusive October 2024 Shopping Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-smart-security-a-thorough-analysis-of-the-ring-video-doorbell-plus/"><u>Top Rated Smart Security: A Thorough Analysis of the Ring Video Doorbell Plus</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-a-steep-discount-on-asus-rog-strix-g15-gaming-pc-save-600-now/"><u>Unlock a Steep Discount on ASUS ROG STRIX G15 Gaming PC - Save $600 Now!</u></a></li>
+</ul></div>
 

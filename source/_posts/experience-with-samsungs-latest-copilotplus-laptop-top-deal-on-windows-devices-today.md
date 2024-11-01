@@ -1,7 +1,7 @@
 ---
 title: Experience with Samsung’s Latest Copilot+ Laptop – Top Deal on Windows Devices Today
-date: 2024-10-22T21:47:59.574Z
-updated: 2024-10-27T01:26:11.923Z
+date: 2024-10-30T16:36:24.278Z
+updated: 2024-11-01T19:37:35.457Z
 tags:
   - laptops
 categories:
@@ -27,10 +27,10 @@ Save $450 on a [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=http
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -118,10 +118,10 @@ Lastly, the battery on the Edge is indeed impressive. [I recently tested HP's Om
 During the standard ZDNET benchmark testing of running a 4K YouTube livestream streamed over Wi-Fi at 50% brightness, I got over 13 hours of playback, way more than what is considered "good" for a laptop, and more than enough for a few days worth of standard work. Even better, while this laptop is idle, its battery life decay drops to a trickle.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -131,16 +131,10 @@ The [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=https%3A%2F%2Fw
 If neither of these apply to you, the Galaxy Book 4 Edge is still a phenomenal choice for its sheer star power and impressive performance alone. However, if you're on the fence about the price but still want a Copilot+ PC, you might consider the [Microsoft Surface Pro](https://www.zdnet.com/article/i-went-hands-on-with-microsofts-surface-pro-and-laptop-and-im-ready-to-ditch-my-macbook/) or the [Asus Vivobook S15](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/) \-- both are Snapdragon laptops with OLED displays available for quite a bit less.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -177,22 +171,16 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-multitasking-media-mastery-proficient-use-of-netflixs-pip-functionality/"><u>[New] In 2024, Multitasking Media Mastery Proficient Use of Netflix’s PIP Functionality</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-step-by-step-building-time-lapse-shots-on-samsung-gear-for-2024/"><u>[New] Step-by-Step Building Time Lapse Shots on Samsung Gear for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-grandmaster-gaming-evaluating-the-best-7-total-war-experiences-for-2024/"><u>[Updated] Grandmaster Gaming Evaluating the Best 7 Total War Experiences for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-onestepcams-evaluation-are-we-overlooking-gems/"><u>[Updated] In 2024, OneStepCams Evaluation Are We Overlooking Gems?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-premium-free-srt-translation-websites-for-business-use/"><u>[Updated] Unveiling Premium Free SRT Translation Websites for Business Use</u></a></li>
-<li><a href="https://article-posts.techidaily.com/ai-powered-frame-refactoring-suite/"><u>AI-Powered Frame Refactoring Suite</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-pce-ac56-driver-troubleshooting-guide-for-windows-users-improved-solutions/"><u>ASUS PCE-AC56 Driver Troubleshooting Guide for Windows Users [IMPROVED SOLUTIONS]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/blender-software-not-working-discover-solutions-to-end-persistent-pc-freezing-and-crashing/"><u>Blender Software Not Working? Discover Solutions to End Persistent PC Freezing & Crashing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-download-and-install-insignia-usb-ethernet-adapter-drivers/"><u>Easy Guide: Download & Install Insignia USB-Ethernet Adapter Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-canon-mf4500-driver-free-download-steps/"><u>Get Your Canon MF4500 Driver - Free Download Steps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-your-canon-ip110-working-on-windows-101187-download-drivers-here/"><u>How to Get Your Canon iP110 Working on Windows 10/11/8/7 - Download Drivers Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-compatible-nvidia-quadro-graphics-drivers-for-windows-11-with-direct-clipboard-handling-dch-free-download/"><u>Latest Compatible NVIDIA Quadro Graphics Drivers for Windows 11 with Direct Clipboard Handling (DCH) - Free Download</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-networking-on-giants-of-digital-age-facebook-twitter-instagram-and-youtub/"><u>Mastering Networking on Giants of Digital Age: Facebook, Twitter, Instagram & YouTub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-microsoft-driver-installation-on-windows-1187/"><u>Step-by-Step Guide: Microsoft Driver Installation on Windows 11/8/7</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updated-and-complete-guide-downloading-the-epson-xp-420-printer-driver-update/"><u>Updated & Complete Guide: Downloading the Epson XP-420 Printer Driver Update</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/winx-download-hub-premium-software-for-free-dvd-ripping-and-hd-video-transformation/"><u>WinX Download Hub: Premium Software for FREE DVD Ripping and HD Video Transformation!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-innovative-photo-display-solutions/"><u>[Updated] 2024 Approved Innovative Photo Display Solutions</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-ace-list-of-low-cost-youtube-caption-tools/"><u>[Updated] Ace List of Low-Cost YouTube Caption Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-effective-solutions-to-address-photos-app-issues-in-w10/"><u>[Updated] Effective Solutions to Address Photos App Issues in W10</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-unveiling-the-best-zero-price-videochat-services/"><u>2024 Approved Unveiling the Best Zero-Price Videochat Services</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/benchmarking-leaders-the-ultimate-2e24-cpu-comparative-analysis-chart/"><u>Benchmarking Leaders: The Ultimate 2E24 CPU Comparative Analysis Chart</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-amd-ryzen-itwrkzn-thri-sntikwnditizdrivers/"><u>Get the Latest AMD Ryzen ˈiːtwɜrkzɪn Θriː ˈsɛntiːkwʌnˌdʒiːtizdrivers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-motorola-moto-g13-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Motorola Moto G13 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 Pro with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-access-how-to-get-the-latest-thrustmaster-t150-driver-software/"><u>Instant Access - How to Get the Latest Thrustmaster T150 Driver Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-m705-driver-download-and-update-easily/"><u>Logitech M705 - Driver Download and Update Easily</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-7-iosandroid-apps-for-mobile-friendly-youtube-streaming-for-2024/"><u>Top 7 iOS/Android Apps for Mobile-Friendly YouTube Streaming for 2024</u></a></li>
 </ul></div>
 

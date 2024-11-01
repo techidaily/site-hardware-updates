@@ -1,7 +1,7 @@
 ---
 title: Top 40 Unbeatable Christmas Tech Specials on MacBooks, Dell, HP & Others - Features
-date: 2024-10-22T02:05:33.762Z
-updated: 2024-10-26T20:49:02.437Z
+date: 2024-10-28T16:01:23.105Z
+updated: 2024-11-01T16:08:14.695Z
 tags:
   - laptops
 categories:
@@ -34,6 +34,13 @@ Here are the best holiday laptop deals we've found so far. We'll continue updati
 * [Asus ZenBook Pro Duo 15 OLED 4K](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-i7-12700H-ScreenPad-Celestial-UX582ZW-AB76T%2Fdp%2FB09TPTNZLG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca47b1172-8130-46ae-943e-7c98279973b1%7Cdtp&dtb=1): $1689 (save $811 at Amazon)
 * [LG Gram 17](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-gram-17-laptop-wqxga-intel-13th-gen-core-i7-with-16gb-memory-nvidia-geforce-rtx-3050-1tb-ssd-black%2F6540475.p%3FskuId%3D6540475&publisher_slug=itechdaily19598&exclusive=1): $1300 (save $700 at Best Buy)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Top Amazon holiday laptop deals
 
 MSI/ZDNET
@@ -43,13 +50,6 @@ MSI/ZDNET
 * [Apple MacBook Air 13 M1 (2020)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-13-inch-256GB-Storage%2Fdp%2FB08N5LNQCX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca47b1172-8130-46ae-943e-7c98279973b1%7Cdtp&dtb=1): $750 (save $250)
 * [Acer Swift Go](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLaptop-1920x1200-Display-i7-1355U-SFG14-71T-72QV%2Fdp%2FB0BTQWR77M%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca47b1172-8130-46ae-943e-7c98279973b1%7Cdtp&dtb=1): $650 (save $250)
 * [Lenovo IdeaPad 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-IdeaPad-Processor-i5-1035G7-Accessories%2Fdp%2FB0CNGV8C34%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca47b1172-8130-46ae-943e-7c98279973b1%7Cdtp&dtb=1): $350 (save $350)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Top Best Buy holiday laptop deals
 
@@ -68,10 +68,10 @@ Dell/ZDNET
 * [Asus Zenbook 14X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-zenbook-14x-14-5-2-8k-oled-touch-laptop-intel-evo-platform-i7-13700h-16gb-memory-512gb-ssd-inkwell-gray%2F6543526.p%3FskuId%3D6543526&publisher_slug=itechdaily19598&exclusive=1): $700 (save $300)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Top Walmart holiday laptop deals
@@ -85,10 +85,10 @@ HP/ZDNET
 * [Lenovo IdeaPad Slim 5i](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLenovo-IdeaPad-Slim-5i-Laptop-82XF002SUS-Intel-i7-1355U-16GB-RAM-1TB-SSD-16-0-Windows-11-Home-Intel-Iris-Xe-Graphics%2F3634632586%3Fathbdg%3DL1700&subId1=zd-__COM_CLICK_ID__-dtp): $680 (save $270)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Top B&H Photo holiday laptop deals
@@ -103,6 +103,13 @@ Best Buy/ZDNET
 * [LG UltraPC 15](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1767091-REG%2Flg%5F15u50q%5Fg%5Fapb5u1%5F15%5Fultra%5Flaptop%5Fi5%5F1240p.html): $799 (save $300)
 * [Asus Vivobook 16X](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1762299-REG%2Fasus%5Fk3605vv%5Fbb74%5F16%5Fvivobook%5Fnotebook%5Fi7%5F13700h.html): $929 (save $470)
 * [Microsoft Surface Laptop 5](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1729196-REG%2Fmicrosoft%5Frkl%5F00001%5F15%5Fsurface%5Flaptop%5F4.html): $1899 (save $400)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## More holiday laptop deals
 
@@ -144,13 +151,6 @@ The Lenovo Yoga 7 is a 2-in-1 laptop, which means you can use it either as a tab
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is the best laptop?
 
@@ -221,20 +221,24 @@ If you're in the market for a new laptop and want the best of the best, you shou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-optimal-video-sizes-on-instagram-explained/"><u>[New] Optimal Video Sizes on Instagram Explained</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-solvedhow-to-blur-faces-or-objects-in-youtube-videos/"><u>[Updated] In 2024, Solved How to Blur Faces or Objects in YouTube Videos</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-prestige-pickers-top-ranked-websites-for-snapping-alert-songs-for-2024/"><u>[Updated] Prestige Pickers Top-Ranked Websites for Snapping Alert Songs for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-video-platform-profiles-vimeo-vs-youtube-comparison-for-2024/"><u>[Updated] Video Platform Profiles Vimeo vs YouTube Comparison for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-maximize-your-youtube-impact-mastering-the-art-of-influential-channels-branding/"><u>2024 Approved Maximize Your YouTube Impact Mastering the Art of Influential Channels' Branding</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-motorola-g24-power-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Motorola G24 Power FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://video-capture.techidaily.com/excellent-video-capture-tools-android-edition-five-picks-for-2024/"><u>Excellent Video Capture Tools Android Edition - Five Picks for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-gadgets-with-tom-comprehensive-guides-on-hardware-technology/"><u>Exploring Gadgets with Tom: Comprehensive Guides on Hardware Technology</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-technology-with-tom-a-deep-dive-into-cutting-edge-hardware/"><u>Exploring Technology with Tom: A Deep Dive Into Cutting-Edge Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-mystery-of-alleged-ban-dodging-memory-chips-in-huawei-smartphones-the-sk-hynix-inquiry/"><u>Exploring the Mystery of Alleged Ban-Dodging Memory Chips in Huawei Smartphones: The SK Hynix Inquiry</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/gskill-unveils-high-speed-ddr5-8600-memory-modules-compatible-with-intels-raptor-lake-refresh-processors/"><u>G.SKILL Unveils High-Speed DDR5-8600 Memory Modules Compatible with Intel's Raptor Lake Refresh Processors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-fix-team-share-on-pc/"><u>Guide to Fix Team Share on PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-of-tech-gadgets-on-toms-hardware-review-site/"><u>In-Depth Analysis of Tech Gadgets on Tom's Hardware Review Site</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-windows-exclusive-silence-extraction-software-reviews/"><u>New 2024 Approved Windows-Exclusive Silence Extraction Software Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-in-depth-guides-on-latest-gadgets-and-hardware/"><u>Tom's Tech Reviews: In-Depth Guides on Latest Gadgets and Hardware</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-short-vid-star-spotlight-check/"><u>[Updated] In 2024, Short Vid Star Spotlight Check</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-quest-for-optimal-video-viewing-vlcs-stand-against-mpc/"><u>[Updated] The Quest for Optimal Video Viewing VLC's Stand Against MPC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-your-epson-xp-440-printer-driver-with-simple-steps/"><u>Download and Update Your Epson XP-440 Printer Driver with Simple Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-install-free-realtek-audio-driver-download-for-windows-11/"><u>Effortless Install: Free Realtek Audio Driver Download for Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-optimal-performance-with-fresh-nvidia-geforce-mx150-driver-downloads-for-windows-systems/"><u>Ensure Optimal Performance with Fresh Nvidia GeForce MX150 Driver Downloads for Windows Systems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-sonys-xbr49x900f-the-pinnacle-of-4k-uhd-display-technology-on-a-49-screen/"><u>Exploring Sony's XBR49X900F: The Pinnacle of 4K UHD Display Technology on a 49 Screen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-world-of-pc-parts-and-gadgets-guided-by-tom/"><u>Exploring the World of PC Parts and Gadgets - Guided by Tom</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-logitech-speakers-installation-files-compatible-with-windows-11-7-and-8/"><u>Free Logitech Speakers Installation Files Compatible with Windows 11, 7 & 8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-techkey-bluetooth-device-driver-for-windows-10-7-or-8-free-of-charge/"><u>Get the Latest Techkey Bluetooth Device Driver for Windows 10, 7 or 8 Free of Charge</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-m477-printer-drivers-free-downloads-and-installation-guide/"><u>HP M477 Printer Drivers: Free Downloads & Installation Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-zte-axon-40-lite-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked ZTE Axon 40 Lite Phone?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-recovery-techniques-no-need-for-itunes/"><u>IPhone Recovery Techniques: No Need for iTunes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/modelfarms-game-development-soars-with-intel-and-unreal-engine-embracing-amd-ryzen-9-9950x-for-enhanced-multi-core-efficiency/"><u>ModelFarm's Game Development Soars with Intel and Unreal Engine - Embracing AMD Ryzen 9 9950X for Enhanced Multi-Core Efficiency</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigate-through-technology-trends-with-toms-hardware-innovations/"><u>Navigate Through Technology Trends with Tom's Hardware Innovations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/showdown-can-llama-3-outperform-gpt-evolution-the-ultimate-language-model/"><u>Showdown: Can Llama 3 Outperform GPT-Evolution, The Ultimate Language Model?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-your-iphones-contacts-app-tackle-this-common-issue-in-just-3-steps/"><u>Struggling with Your iPhone's Contacts App? Tackle This Common Issue in Just 3 Steps</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-12-pro-max-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone 12 Pro Max</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-require-promotion-windows-error-how-to-guide/"><u>Unraveling 'Require Promotion' Windows Error: How-To Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
 </ul></div>
 

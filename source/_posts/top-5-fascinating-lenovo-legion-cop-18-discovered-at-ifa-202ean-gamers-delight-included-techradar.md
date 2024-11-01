@@ -1,7 +1,7 @@
 ---
 title: Top 5 Fascinating Lenovo Legion COP-18 Discovered at IFA 202Ean, Gamer's Delight Included! | TechRadar
-date: 2024-10-24T21:02:32.884Z
-updated: 2024-10-26T18:40:54.905Z
+date: 2024-10-31T17:15:22.303Z
+updated: 2024-11-01T20:23:14.917Z
 tags:
   - laptops
 categories:
@@ -73,16 +73,10 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,17 +115,22 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-uncharted-territories-discovering-hidden-vlc-capabilities/"><u>[New] Uncharted Territories Discovering Hidden VLC Capabilities</u></a></li>
-<li><a href="https://win-popular.techidaily.com/1728483725296-windows-11/"><u>簡單方法儲存Windows 11用戶設定檔</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-xlsx-files-electronically-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i sign a .xlsx files electronically</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-x100-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Vivo X100 Pro Lock Screen Password?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-analysis-the-vida-video-editor-experience/"><u>In 2024, In-Depth Analysis The Vida Video Editor Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-hardware-essentials-insights-from-toms-computer-chronicles/"><u>Mastering Hardware Essentials - Insights From Tom's Computer Chronicles</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-tech-picks-the-ultimate-source-for-hardware-advice-toms-resource/"><u>Mastering Tech Picks: The Ultimate Source for Hardware Advice - Tom's Resource</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/msi-leads-the-charge-with-camm2-compatible-z79n-zero-project-motherboards-transforming-the-landscape-of-desktop-ram-technology/"><u>MSI Leads the Charge with CAMM2-Compatible Z79n Zero Project Motherboards – Transforming the Landscape of Desktop RAM Technology</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-computer-components-and-software-tips-from-toms-hardware/"><u>Navigating Computer Components and Software - Tips From Tom's Hardware</u></a></li>
-<li><a href="https://win-net.techidaily.com/step-by-step-guide-reactivate-a-locked-iphone-without-using-itunes/"><u>Step-by-Step Guide: Reactivate a Locked iPhone Without Using iTunes</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-comprehensive-buying-guide-for-computer-enthusiasts-by-toms-hardware/"><u>The Comprehensive Buying Guide for Computer Enthusiasts by Tom's Hardware</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/uncover-these-essential-strategies-for-detecting-hidden-seagate-hard-disks-on-windows-11/"><u>Uncover These Essential Strategies for Detecting Hidden Seagate Hard Disks on Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-edit-youtube-videos-ultimate-guide/"><u>[Updated] 2024 Approved How To Edit YouTube Videos [Ultimate Guide]</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-setting-up-your-zone-for-top-notch-oculus-vr-experience/"><u>[Updated] 2024 Approved Setting Up Your Zone for Top-Notch Oculus VR Experience</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-ultimate-mobile-cinema-showcase-apples-best-freepluspaid-film-watchers-guide/"><u>[Updated] 2024 Approved The Ultimate Mobile Cinema Showcase Apple's Best FREE+Paid Film Watchers Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-boost-engagement-stream-live-from-twitch-embed-on-fb-for-2024/"><u>[Updated] Boost Engagement Stream Live From Twitch, Embed on FB for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-ultimate-guide-to-cost-effective-media-providers-online/"><u>2024 Approved The Ultimate Guide to Cost-Effective Media Providers Online</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-vivo-v30-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo V30 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-your-pcs-gaming-potential-update-dell-studio-xps-graphics-drivers-now/"><u>Boost Your PC's Gaming Potential: Update Dell Studio XPS Graphics Drivers Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-with-windows-71011-get-brother-hl-2280dw-printer-software-here/"><u>Compatible with Windows 7/10/11 – Get Brother HL-2280DW Printer Software Here</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/easy-steps-to-update-specific-pages-in-your-website-using-flipbuilder-no-need-for-a-full-rebuild/"><u>Easy Steps to Update Specific Pages in Your Website Using FlipBuilder - No Need for a Full Rebuild</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-ways-to-refresh-graphics-drivers-in-windows-11-os/"><u>Easy Ways to Refresh Graphics Drivers in Windows 11 OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-best-sound-on-your-pc-with-free-audigy-fx-driver-software/"><u>Get the Best Sound on Your PC with Free Audigy FX Driver Software!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-install-or-update-ralink-drivers-on-a-windows-system-efficiently/"><u>How to Successfully Install or Update Ralink Drivers on a Windows System Efficiently</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Circle Everything You Need to Know On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-sound-card-drivers-for-microsoft-windows-systems/"><u>Latest Sound Card Drivers For Microsoft Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-setup-guide-for-your-new-scansnap-s1100-scanner-drivers/"><u>Quick Setup Guide for Your New Scansnap S1100 Scanner Drivers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-movie-color-correction-through-luts-application-for-2024/"><u>Streamlining Movie Color Correction Through Luts Application for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977768067-the-arbitration-process-can-be-tailored-to-fit-the-needs-of-the-parties-involved-allowing-for-flexibility-in-scheduling-and-procedural-rules/"><u>The Arbitration Process Can Be Tailored to Fit the Needs of the Parties Involved, Allowing for Flexibility in Scheduling and Procedural Rules</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Value Meets Performance: Unpacking the Affordable Surface Pro 11 Experience with Expert Analysis | ZDNET News"
-date: 2024-10-22T21:53:30.816Z
-updated: 2024-10-26T23:11:53.740Z
+date: 2024-10-31T18:24:20.074Z
+updated: 2024-11-01T20:09:34.560Z
 tags:
   - laptops
 categories:
@@ -79,10 +79,10 @@ I also need to mention a couple of things that may be dealbreakers for you. Firs
 Also, be aware the IdeaPad Pro 5i comes with a bunch of bloatware. The laptop's 1TB of storage is more like 880GB, if you take into account all the apps Lenovo preinstalled.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -92,16 +92,16 @@ Also, be aware the IdeaPad Pro 5i comes with a bunch of bloatware. The laptop's 
 If you're looking for a less expensive 16-inch laptop, [Lenovo's Yoga 7i](https://www.zdnet.com/article/this-699-lenovo-laptop-made-me-a-believer-in-the-2-in-1-form-factor-and-its-on-sale-for-memorial-day/) is several hundred dollars cheaper, although you're trading in the impressive OLED screen for one that's much more low-key. If you want an OLED laptop in a slightly less expensive package, check out the [Acer Swift X 14](https://www.zdnet.com/article/i-tested-acers-swift-x-laptop-and-its-performance-surprised-me-in-3-ways/). 
 
 <!-- affiliate ads begin -->
-<span id="1993654">
+<span id="1977004">
 					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -148,19 +148,20 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-swiftclick-retrorecall-video/"><u>[New] In 2024, SwiftClick RetroRecall Video</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-demystifying-data-a-beginners-guide-to-facebook-insights/"><u>[Updated] 2024 Approved Demystifying Data A Beginner's Guide to Facebook Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723964469716-amd-quality-computer-system-builders-race-event-q4-2015-competitive-price-at-just-912/"><u>AMD Quality Computer System Builders Race Event, Q4 2015 - Competitive Price at Just $912!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-hardware-insights-with-toms-gear-guides-in-depth-product-evaluations/"><u>Exploring Hardware Insights with Tom's Gear Guides: In-Depth Product Evaluations</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-the-top-10-apple-iphone-12-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>In 2024, The Top 10 Apple iPhone 12 Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-7-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone 7 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-the-art-of-pro-modding-top-tips-from-industry-leaders/"><u>Mastering the Art of Pro Modding: Top Tips From Industry Leaders</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/real-time-streaming-with-manycam-top-virtual-camera-and-screen-recording-tool/"><u>Real-Time Streaming with ManyCam: Top Virtual Camera and Screen Recording Tool</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-chronologically-watching-harry-potter-series/"><u>Step-by-Step Instructions for Chronologically Watching Harry Potter Series</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/supersonic-phenomenon-how-a-common-can-of-compressed-air-reaches-sonic-velocity/"><u>Supersonic Phenomenon: How a Common Can of Compressed Air Reaches Sonic Velocity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-cyberspace-quest-hackers-and-chatgpt/"><u>The Cyberspace Quest: Hackers and ChatGPT</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-escape-constructing-a-silent-water-chilled-gaming-rig-for-endless-exploration/"><u>The Ultimate Escape: Constructing a Silent, Water-Chilled Gaming Rig for Endless Exploration</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-6-best-4k-full-frame-camera/"><u>Top 6 Best 4K Full Frame Camera</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-elite-car-beat-merging-software-for-mac-platforms/"><u>Updated 2024 Approved Elite Car Beat Merging Software for Mac Platforms</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-key-to-smooth-auditory-transitions/"><u>[New] 2024 Approved The Key to Smooth Auditory Transitions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/eginners-essential-guide-to-youtube-video-editing-magic-for-2024/"><u>[New] Beginner’s Essential Guide to YouTube Video Editing Magic for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-subtlety-in-sound-decreasing-decibels-in-logic-pro-projects/"><u>[New] Subtlety in Sound Decreasing Decibels in Logic Pro Projects</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-test-in-cinematography-gopro-vs-x1000v-action-cam-in-2024/"><u>[Updated] The Ultimate Test in Cinematography GoPro Vs. X1000V Action Cam, In 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/capturing-moments-in-gaming-the-ultimate-how-to-for-taking-screenshots-on-xbox-one/"><u>Capturing Moments in Gaming: The Ultimate How-To for Taking Screenshots on Xbox One</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-hp-officejet-pro-8610-driver-download-package-for-multiple-windows-platforms/"><u>Comprehensive HP Officejet Pro 8610 Driver Download Package for Multiple Windows Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-dell-network-adapter-driver-for-windows-7/"><u>Download Dell Network Adapter Driver for Windows 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-updating-netgear-wireless-network-adaptor-drivers/"><u>Easy Guide to Downloading & Updating NETGEAR Wireless Network Adaptor Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-hp-officejet-pro-6968-drivers-secure-download-now/"><u>Easy Installation of HP OfficeJet Pro 6968 Drivers - Secure Download Now!</u></a></li>
+<li><a href="https://article-files.techidaily.com/expressive-faces-with-motion-blur-in-picsart/"><u>Expressive Faces with Motion Blur in Picsart</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-dell-wireless-network-card-up-and-running-download-the-latest-drivers/"><u>Get Your Dell Wireless Network Card Up and Running: Download the Latest Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-version-of-nvidia-quadro-rtx-ns-drivers-for-win-11107-free-download-available/"><u>Latest Version of Nvidia Quadro RTX N's Drivers for Win 11/10/7 - Free Download Available!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976197846-lenovo-x220-driver-software-quick-easy-and-safe-to-download-now/"><u>Lenovo X220 Driver Software - Quick, Easy, and Safe to Download Now!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/streamers-guide-sharing-your-twitch-channel-on-fb/"><u>Streamer's Guide Sharing Your Twitch Channel on FB</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-selection-of-christian-streaming-sites-for-2024/"><u>The Ultimate Selection of Christian Streaming Sites for 2024</u></a></li>
 </ul></div>
 

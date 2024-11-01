@@ -1,7 +1,7 @@
 ---
 title: Mastering Screen Clipping Techniques for Dell/Lenovo/Mac Laptops as Revealed
-date: 2024-10-19T22:59:19.559Z
-updated: 2024-10-26T18:52:07.317Z
+date: 2024-10-30T21:58:41.045Z
+updated: 2024-11-01T17:18:45.984Z
 tags:
   - laptops
 categories:
@@ -28,34 +28,13 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 
 ## How to take screenshots on any laptop
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Screenshotting on Windows-based laptops
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Option 1: The old fashioned way**
 
@@ -81,6 +60,19 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 2: The Snipping Tool and Win+Shift+S**
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
@@ -99,6 +91,13 @@ Michael Gariffo/ZDNET
 
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Press Shift+Cmd+3
 
 To take a screenshot on any Mac, including MacBook laptops, just press Shift+Cmd+3\. Unlike Windows, this won't copy the screen to your clipboard, it will actually save the capture as an image file on your desktop using the format "Screen Shot \[date\] at \[time\].png."
@@ -110,10 +109,10 @@ These are the three keys you'll need to press at once on a mac to take a standar
 Michael Gariffo/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -122,15 +121,22 @@ Michael Gariffo/ZDNET
 
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What's a good, free image editing software to use on my screenshots?
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
@@ -172,17 +178,17 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-split-screen-audio-logging/"><u>[New] 2024 Approved Split Screen Audio Logging</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722974143741-amd-smbus-driver-upgrades-made-simple-quick-downloads-available-here/"><u>AMD SMBus Driver Upgrades Made Simple – Quick Downloads Available Here!</u></a></li>
-<li><a href="https://discover-community.techidaily.com/conversione-libera-e-gratuita-di-file-gif-al-formato-jpeg-su-internet-guida-completa-di-movavi/"><u>Conversione Libera E Gratuita Di File GIF Al Formato JPEG Su Internet - Guida Completa Di Movavi</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/leading-the-way-in-iphonecomputer-video-format-conversion/"><u>Leading the Way in iPhone/Computer Video Format Conversion</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/must-have-specifications-in-a-gamers-laptop/"><u>Must-Have Specifications in a Gamers' Laptop</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722697852221-paws-itively-fun-game-time-together/"><u>Paws-Itively Fun: Game Time Together!</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/reigning-supreme-top-techniques-for-innovative-youtube-end-screens/"><u>Reigning Supreme Top Techniques for Innovative YouTube End Screens</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-lenovo-thinkpad-p1-gen-7-a-revolutionary-leap-with-groundbreaking-lpcamm2-memory-ultimate-efficiency-meets-enhanced-speed/"><u>Unveiling Lenovo ThinkPad P1 Gen 7: A Revolutionary Leap with Groundbreaking LPCAMM2 Memory – Ultimate Efficiency Meets Enhanced Speed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-new-innovations-on-toms-hardware-blog/"><u>Unveiling New Innovations on Tom's Hardware Blog</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-tech-secrets-with-toms-hardware-analysis/"><u>Unveiling Tech Secrets with Tom's Hardware Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-computing-toms-hardware-guide/"><u>Unveiling the Latest in Computing - Tom's Hardware Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nderstanding-and-resolving-the-issue-of-missing-shorts-thumbnails-for-2024/"><u>[New] Understanding & Resolving the Issue of Missing Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-pioneering-sites-for-downloading-text-aesthetics-for-2024/"><u>[Updated] Pioneering Sites for Downloading Text Aesthetics for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-your-blueprint-to-top-ranked-business-youtube-channels/"><u>2024 Approved Your Blueprint to Top-Ranked Business YouTube Channels</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/handy-brake-and/"><u>手間なく安心できるHANDY Brakeの公式アップデートを簡単にダウンロード & セットアップガイド</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/graphics-genesis-radeon-reclaimed/"><u>Graphics Genesis Radeon Reclaimed</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-assessment-of-microsoft-surface-keyboard-superior-ergonomics-tested/"><u>In-Depth Assessment of Microsoft Surface Keyboard - Superior Ergonomics Tested</u></a></li>
+<li><a href="https://media-tips.techidaily.com/leading-zero-fee-converters-from-mp4-to-wmv-simplify-your-video-format-switching/"><u>Leading Zero Fee Converters From MP4 to WMV: Simplify Your Video Format Switching</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-mirroring-images-on-your-android-device/"><u>Step-by-Step Guide: Mirroring Images on Your Android Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-tracking-lost-airtags-on-your-android-device/"><u>Step-By-Step Guide: Tracking Lost AirTags on Your Android Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-6-android-time-management-applications-enhance-your-productivity/"><u>Top 6 Android Time Management Applications: Enhance Your Productivity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-protective-covers-for-google-pixel-7a/"><u>Top-Rated Protective Covers for Google Pixel 7A</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-solving-connection-problems-on-your-google-pixel-6-and-6-pro-with-simple-tricks/"><u>Ultimate Guide: Solving Connection Problems on Your Google Pixel 6 & 6 Pro with Simple Tricks</u></a></li>
 </ul></div>
 

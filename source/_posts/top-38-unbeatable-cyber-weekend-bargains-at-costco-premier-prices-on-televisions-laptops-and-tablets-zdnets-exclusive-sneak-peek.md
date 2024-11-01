@@ -1,7 +1,7 @@
 ---
 title: "Top 38 Unbeatable Cyber Weekend Bargains at Costco: Premier Prices on Televisions, Laptops & Tablets - ZDNet's Exclusive Sneak Peek"
-date: 2024-10-24T00:00:26.871Z
-updated: 2024-10-26T21:56:07.913Z
+date: 2024-10-25T19:36:11.873Z
+updated: 2024-11-01T20:45:54.183Z
 tags:
   - laptops
 categories:
@@ -31,10 +31,10 @@ Keep in mind that you can only access these online deals and Costco's warehouse 
 * [Executive Members:](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/QuickMembershipApplicationView?catalogId=10701&langId=-1&storeId=10301&krypto=h1OXv6tU3UkMLZWjDFxv%2FQCkaCGx65GC4BFsg8cXQfxkOkvgo6ALO%2Bl6ejb71sRxEBtFqB1SJq%2F1gW68DYBbGEzOo84201p4iK0Cyq%2FU3NaO%2BI0oWIsB%2B2v2xwjhURsu8Y0R2K685otVKnbYQ6fcPQNT%2FY1UhiqNBzuKDHglFjo7zSgvD8Yh6M%2F5J0XOECfkfaKZ%2FUphCOFrecBhX%2FrYipxztA0naD%2FeVuf9ykUqYl6grkgrx93XzMWi7Qs238bZK%2BgNSeyxdXBi0r18zamgB%2BAkpSuQQlNza4qXd3eJk7Q%3D&ddkey=http%3AManageShoppingCartCmd) $120 annual fee, valid at all Costco locations worldwide, annual 2% cash back on Costco purchases
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Latest Costco Cyber Monday deals still available**
@@ -124,6 +124,13 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [MSI Aegis RS Gaming Desktop for $3,600 (Save $400) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/msi-aegis-rs-gaming-desktop---intel-core-i9-12900kf----geforce-rtx-3080ti.product.100847630.html)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Costco Cyber Monday streaming device deals still available**
 
 [Chromecast (2-Pack) for $70 (Save $10) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/chromecast-with-google-tv-%284k%29%2c-2-pack.product.4000032491.html)
@@ -138,13 +145,6 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [Samsung Galaxy 10.4-inch S6 Lite Tab + Book cover for $260 (save $120) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/samsung-galaxy-10.4%22-tab-s6-lite-64gb---oxford-gray---includes-book-cover.product.100660228.html)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Costco Cyber Monday headphone deals still available**
 
 [Samsung Galaxy Buds2 Pro for $170 (Save $50) plus get $20 Google Play gift code View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/samsung-galaxy-buds2-pro-with-%2420-google-gift-code.product.4000037682.html)
@@ -155,9 +155,23 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [Apple AirPods (2nd Gen) for $100 (save $20) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/apple-airpods-wireless-headphones-with-charging-case-%282nd-generation%29.product.100487204.html)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Costco Cyber Monday smartwatch deals still available**
 
 [Apple Watch Series 8 GPS (in Silver or Midnight) for $350 (Save $40) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/apple-watch-series-8-gps.product.100813018.html)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Costco Cyber Monday camera deals still available**
 
@@ -174,13 +188,6 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 [iRobot Roomba j8+ for $600 (Save $100) View now at Irobot](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.irobot.com/en%5FUS/roomba%5Fi8%5Fplus/I855020.html)
 
 [Ring Security 14-pc Kit for $230 (Save $120) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/ring-security-alarm-14-piece-kit-%28gen-2%29-with-stick-up-cam%2c-smokeco-listener-and-range-extender.product.100849368.html)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How did we choose these Cyber Monday Costco deals?
 
@@ -208,10 +215,10 @@ Costco opened at 9:00 am on Black Friday, November 25, 2022\.
 Though most warehouses open at 10:00am Monday through Friday, Cyber Monday deals at Costco were online-only, as is the tradition for the Cyber Monday sale.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When was Cyber Monday 2022?
@@ -223,10 +230,10 @@ Cyber Monday takes place on the next Monday following the Thanksgiving holiday a
 Black Friday 2022 was on November 25th, 2022; the day after Thanksgiving.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the best holiday deals 2022?
@@ -247,10 +254,16 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [Top early holiday 2022 deals at Best Buy](https://www.zdnet.com/article/best-buy-holiday-deals-2022/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Holiday deals by brand**
@@ -259,13 +272,6 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best holiday 2022 Samsung deals](https://www.zdnet.com/article/samsung-best-holiday-deals-2022/)
 * [The best holiday 2022 Dell deals](http://zdnet.com/article/dell-best-holiday-deals-2022/)
 * [The best holiday 2022 HP deals](https://www.zdnet.com/home-and-office/hp-best-holiday-deals-2022/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Holiday deals by category**
 
@@ -341,20 +347,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-humor-on-the-go-iphones-edition/"><u>[New] In 2024, Humor on the Go IPhones Edition</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-analyzing-video-success-self-vs-rivals-in-the-youtube-arena/"><u>[Updated] Analyzing Video Success Self Vs. Rivals in the YouTube Arena</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-clearing-up-audio-in-skype-conferences-for-2024/"><u>[Updated] Clearing Up Audio in Skype Conferences for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-high-fidelity-remote-call-software-beyond-zoom/"><u>2024 Approved High-Fidelity Remote Call Software (Beyond Zoom)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-radeon-hd-6350-driver-downloads-and-updates-how-to-optimize-your-windows-experience/"><u>AMD Radeon HD 6350 Driver Downloads & Updates: How to Optimize Your Windows Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-nvidia-geforce-rtx-30-series-drivers-for-windows-11-quick-and-secure/"><u>Download NVIDIA GeForce RTX 30 Series Drivers for Windows 11 - Quick & Secure</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-download-and-install-official-sony-vaio-drivers-for-your-windows-system/"><u>Easy Steps to Download and Install Official Sony Vaio Drivers for Your Windows System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722979130044-get-your-thrustmaster-t150-stealth-plus-gamepad-up-and-running-fast-driver-downloads/"><u>Get Your Thrustmaster T150 Stealth Plus Gamepad Up and Running - Fast Driver Downloads!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-iphone-13-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About iPhone 13 Unlock Chip You Need to Know</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-oppo-find-x7-ultra-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Oppo Find X7 Ultra Phone? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Itel P40+? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/inside-look-at-the-value-packaged-with-the-hisense-40h5590f-smart-tv-a-budget-buyers-guide/"><u>Inside Look at the Value Packaged with the Hisense 40H5590F Smart TV - A Budget Buyer's Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-your-logitech-sound-card-drivers-today-supports-win-11-7-and-8-systems/"><u>Install Your Logitech Sound Card Drivers Today! Supports Win 11, 7, and #8 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-setup-secure-the-latest-focusrite-scarlett-2i2-drivers-made-for-windows-users/"><u>Seamless Setup: Secure the Latest Focusrite Scarlett 2I2 Drivers Made For Windows Users</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-dji-mavic-air-2s-unmanned-aerial-vehicle-evaluation/"><u>Top DJI Mavic Air 2S Unmanned Aerial Vehicle Evaluation</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-safe-online-video-conversion-from-youtube-to-mp4/"><u>[New] 2024 Approved Safe Online Video Conversion - From YouTube to MP4</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/fficient-hashtag-use-for-skyrocketing-youtube-audience-for-2024/"><u>[New] Efficient Hashtag Use for Skyrocketing YouTube Audience for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-complete-sphere-unveiled-in-film-tech-for-2024/"><u>[New] The Complete Sphere Unveiled in Film Tech for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-prime-time-podcasting-release-patterns/"><u>2024 Approved Prime Time Podcasting Release Patterns</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-iphone-13-mini-device-from-icloud-by-drfone-ios/"><u>How to Remove iPhone 13 mini Device from iCloud</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-visual-storytelling-with-online-wallpaper-swap-for-2024/"><u>Mastering Visual Storytelling with Online Wallpaper Swap for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-runners-guide-top-rated-earphones-for-your-workouts-a-tech-reviewers-picks/"><u>The Ultimate Runner's Guide: Top-Rated Earphones for Your Workouts - A Tech Reviewer's Picks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-7-fond-memories-of-dial-up-internet-a-blast-from-the-past/"><u>Top 7 Fond Memories of Dial-Up Internet: A Blast From the Past</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-pick-for-outdoor-audio-in-depth-analysis-of-sony-ult-field-1-the-ideal-compact-bluetooth-speaker/"><u>Top Pick for Outdoor Audio: In-Depth Analysis of Sony ULT Field 1 - The Ideal Compact Bluetooth Speaker</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-one-chip-solutions-the-ultimate-list-of-single-board-computers/"><u>Top Rated One-Chip Solutions: The Ultimate List of Single-Board Computers</u></a></li>
 </ul></div>
 

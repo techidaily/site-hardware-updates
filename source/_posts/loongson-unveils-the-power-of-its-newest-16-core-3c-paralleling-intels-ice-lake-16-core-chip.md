@@ -1,7 +1,7 @@
 ---
 title: Loongson Unveils the Power of Its Newest 16-Core 3C, Paralleling Intel's Ice Lake 16-Core Chip
-date: 2024-09-05T19:54:55.744Z
-updated: 2024-09-06T19:54:55.744Z
+date: 2024-10-30T17:40:30.882Z
+updated: 2024-11-01T17:36:51.686Z
 tags:
   - cpu
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/3BWkJnfGaJn63AGXz9473o-320-80.png
 ---
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Consumer Challenges Intel's RMA Protocol, Accuses Retailers of Selling Fake Core I9-14900K Processors
 
 Reddit user[jerubedo](https://www.reddit.com/r/hardware/comments/1ei1zvm/intel%5Fhas%5Fdenied%5Ftwo%5Fof%5Fmy%5F14900k%5Frmas/) took to the r/hardware subreddit to share a story on an Intel RMA nightmare. The individual said the company claimed that the two[Core i9-14900K](https://www.tomshardware.com/news/intel-core-i9-14900k-cpu-review) processors suffering from the [instability issues](https://www.tomshardware.com/pc-components/intel-raptor-lake-instability-troubles-everything-you-need-to-know) plaguing 13th- and 14th-generation Intel chips were fraudulent. The company reportedly said in its response, “Intel reserves the rights to retain the product and/or destroy such product as appropriate.”
@@ -53,22 +41,10 @@ Reddit user[jerubedo](https://www.reddit.com/r/hardware/comments/1ei1zvm/intel%5
 
 ![Intel email](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: jerubedo)
 
 ![Intel email](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: jerubedo)
 
 ![Intel threat](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -85,22 +61,10 @@ Reddit user[jerubedo](https://www.reddit.com/r/hardware/comments/1ei1zvm/intel%5
 
 ![Intel Core i9-14900K RMA](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: jerubedo)
 
 ![Intel retail box](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: jerubedo)
 
 ![Intel Core i9-14900K serial number](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -109,12 +73,6 @@ Reddit user[jerubedo](https://www.reddit.com/r/hardware/comments/1ei1zvm/intel%5
 
 ![Intel receipt](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: jerubedo)
 
 ![Intel email](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -125,12 +83,6 @@ Reddit user[jerubedo](https://www.reddit.com/r/hardware/comments/1ei1zvm/intel%5
 
  While this would give Intel users peace of mind, if similar RMA stories emerge, many Intel loyalists could potentially switch to AMD systems. It would further compound the giant corporation’s troubles, with Intel having just announced a[15% reduction of its workforce and suspending dividends for its investors](https://www.tomshardware.com/pc-components/cpus/intel-to-layoff-more-than-15-of-workforce-almost-20000-employees-encountered-meteor-lake-yield-issues-suspends-dividend) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -139,14 +91,11 @@ Reddit user[jerubedo](https://www.reddit.com/r/hardware/comments/1ei1zvm/intel%5
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -155,4 +104,27 @@ Reddit user[jerubedo](https://www.reddit.com/r/hardware/comments/1ei1zvm/intel%5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-innovations-in-balancing-exposures-for-perfect-pictures/"><u>[New] Innovations in Balancing Exposures for Perfect Pictures</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-pick-for-retro-gaming-top-5-android-tools-for-ps2-titles/"><u>[Updated] Essential Pick for Retro Gaming Top 5 Android Tools for PS2 Titles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-recordcast-review/"><u>[Updated] In 2024, RecordCast Review</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-monetize-your-youtube-shorts-essentials-possible-income/"><u>2024 Approved Monetize Your Youtube Shorts Essentials, Possible Income</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-black-friday-bargain-secure-the-79-lenovo-chromebook-now-before-its-gone-shop-smart-this-cyber-monday/"><u>Exclusive Black Friday Bargain! Secure the $79 Lenovo Chromebook Now Before It's Gone - Shop Smart This Cyber Monday</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-microsofts-latest-innovations-introducing-the-surface-pro-10-and-laptop/"><u>Exploring Microsoft's Latest Innovations: Introducing the Surface Pro 10 & Laptop</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-best-asus-laptop-that-outperforms-apples-macbook-a-must-read-for-tech-enthusiasts/"><u>Exploring the Best Asus Laptop That Outperforms Apple's MacBook - A Must-Read for Tech Enthusiasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-will-microsofts-windows-copilot-compete-against-googles-latest-innovation-the-new-chromebook-plus-with-advanced-ai-integration-exploring-industry-perspe79/"><u>How Will Microsoft's Windows Copilot Compete Against Google's Latest Innovation: The New Chromebook Plus With Advanced AI Integration? Exploring Industry Perspectives at ZDNET</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-motorola-moto-g34-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Motorola Moto G34 5G Device</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/samsung-t7-versus-sandisk-extreme-an-in-depth-analysis-of-superior-speed-and-durability-in-ssds/"><u>Samsung T7 Versus SanDisk Extreme: An In-Depth Analysis of Superior Speed and Durability in SSDs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-big-in-the-game-arena-secure-a-steal-on-acer-nitro-5-slash-costs-by-250-as-revealed-insiders/"><u>Score Big in the Game Arena: Secure a Steal on Acer Nitro 5, Slash Costs by $250 as Revealed Insiders!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722987330334-sketch-out-your-design-on-paper-before-painting-directly-onto-the-tile-this-helps-prevent-mistakes-and-allows-for-planning-of-color-transitions/"><u>Sketch Out Your Design on Paper Before Painting Directly Onto the Tile. This Helps Prevent Mistakes and Allows for Planning of Color Transitions.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranked-mac-computers-a-comprehensive-guide/"><u>Top-Ranked Mac Computers : A Comprehensive Guide</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

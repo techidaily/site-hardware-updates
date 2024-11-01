@@ -1,7 +1,7 @@
 ---
 title: Advanced Micro Devices Announces Powerful Zen Cu Chips with 8.3 Billion Transistors and Unmatched 28%% Die Size Increase
-date: 2024-09-05T19:54:55.166Z
-updated: 2024-09-06T19:54:55.166Z
+date: 2024-10-26T20:44:18.487Z
+updated: 2024-11-01T18:54:09.503Z
 tags:
   - cpu
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/d04592384de68d589b01721c4dc554252c1ab00caea55a88bfd5d394c85530ff.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AMD Ryzen Nine-9950X Surprises with Top Five Performance, Trails Behind Xeon and Threadripper in Watercooled Benchmark Trials
 
 AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best CPUs](https://www.tomshardware.com/reviews/best-cpus,3986.html) , is already breaking some world records with conventional liquid cooling. First discovered by[HXL on X](https://x.com/9550pro/status/1818987621689000000?t=lxpe4iE%5Fhxjl%5FoCGhGJr4w&s=31) , a Ryzen 9 9950X owner has already submitted several benchmark runs to HWBot, featuring some potent results, including a top-five placement in the Time Spy Extreme CPU benchmark.
@@ -31,12 +19,6 @@ AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best
 
 ![HWBot Ryzen 9 9950X 5th place score](https://cdn.mos.cms.futurecdn.net/7Bfw4CBh7fsfLC6gWq66nW-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 (Image credit: HWBot)
 
  The Zen 5 flagship also secured a 10th-place position in HWBot's 3DMark CPU Profile 1 Thread: Hall of Fame. The Ryzen 9 9950X achieved 1,393 marks flanked by unlocked 14th Gen, 13th Gen, 12th Gen, and 11th Gen parts, with all of these Intel chips running well over 6 GHz.
@@ -49,12 +31,6 @@ AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best
 
  The Ryzen 9 9950X's performance is impressive. The CPU leveraged AMD's PBO and Curve Optimizer technologies with speedy RAM. The system utilizes a custom loop to remain cool during the[benchmarks](https://www.tomshardware.com/tag/benchmark) . Extreme overclockers can break world records with this chip once they put it under liquid nitrogen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,14 +39,11 @@ AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -79,4 +52,27 @@ AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-streamlining-song-selection-for-youtube-playlist-curation/"><u>[New] Streamlining Song Selection for YouTube Playlist Curation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-laptop-steal-of-the-show-at-best-buys-flash-deal-just-99-on-zdnet/"><u>Asus Laptop Steal of the Show at Best Buy's Flash Deal - Just $99 on ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cipher-games-with-ai-twists-engage-in-4-intriguing-puzzles/"><u>Cipher Games with AI Twists: Engage in 4 Intriguing Puzzles</u></a></li>
+<li><a href="https://games-able.techidaily.com/craftsmads-and-fun-try-larger-arcade-cabinet-framing/"><u>Craftsmads and Fun: Try Larger Arcade Cabinet Framing!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-logitech-hd-pro-webcam-c930e-drivers-and-software-for-windows-10-and-11/"><u>Download Logitech HD Pro Webcam C930e Drivers & Software for Windows 10 and 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-poco-f5-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Poco F5 5G Phone | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-cutting-edge-approaches-for-secure-and-precise-call-logging/"><u>In 2024, Cutting-Edge Approaches for Secure and Precise Call Logging</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-depth-dive-perfecting-the-art-of-green-screen-with-kinemaster-for-2024/"><u>In-Depth Dive Perfecting the Art of Green Screen with Kinemaster for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/long-lasting-and-eye-catching-in-depth-testing-reveals-why-this-laptop-stands-out-in-performance-and-display-quality/"><u>Long Lasting & Eye Catching: In-Depth Testing Reveals Why This Laptop Stands Out in Performance and Display Quality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/microsoft-resolves-camera-issues-with-quick-patch-on-surface-pro-learn-more-inside/"><u>Microsoft Resolves Camera Issues with Quick Patch on Surface Pro – Learn More Inside</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-t5-ssd-massive-discount-on-amazon-up-to-50-savings-before-the-big-prime-event-insider-deal/"><u>Samsung T5 SSD Massive Discount on Amazon: Up to 50% Savings Before the Big Prime Event - Insider Deal</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-tutorial-migrating-dvd-content-to-digital-files-across-pc-mac-and-mobile-devices/"><u>Step-by-Step Tutorial: Migrating DVD Content to Digital Files Across PC, Mac, and Mobile Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/surpassing-expectations-in-ruggedness-and-customizability-a-deep-dive-into-the-laptop-that-stands-out-from-getacs-zdnet/"><u>Surpassing Expectations in Ruggedness & Customizability: A Deep Dive Into the Laptop That Stands Out From Getacs | ZDNet</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

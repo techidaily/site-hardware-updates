@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Productivity: How Lenovo’s Innovative Dual-Screen Laptop Transformed My Daily Routine - Insights From a Tech Pro at ZDNet"
-date: 2024-10-22T19:16:52.776Z
-updated: 2024-10-26T18:32:21.476Z
+date: 2024-10-30T21:39:24.320Z
+updated: 2024-11-01T16:53:21.397Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -62,10 +62,10 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
@@ -87,13 +87,6 @@ Max Buondonno/ZDNET
 There's a lot that the dual-screen design of the Yoga Book 9i enables, and the versatility of it all is simply unmatched by more [conventional laptops](https://www.zdnet.com/article/best-laptop/). It's like a blank canvas made of OLED screens -- you can literally do whatever you want with them, orient them the way you want, and it can all be packed up and taken on the go.
 
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How does it perform?
 
@@ -135,6 +128,13 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## One thing to keep in mind
 
 Having a laptop with two screens means you'll have to lug around a separate keyboard, mouse, and kickstand, all three of which (plus a stylus) come in the box. It's a lot of separate things you have to remember to bring, and I'm going to be honest with you, it can be inconvenient.
@@ -146,10 +146,10 @@ When I'm working on my MacBook or -- quite frankly -- any other laptop in my ars
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -190,18 +190,24 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-enjoy-a-seamless-streaming-experience-unveiling-the-potential-of-pip-on-netflix-for-2024/"><u>[Updated] Enjoy a Seamless Streaming Experience Unveiling the Potential of PIP on Netflix for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-from-verbal-to-written-an-intensive-guide-to-google-document-voice-functionality/"><u>[Updated] From Verbal to Written An Intensive Guide to Google Document Voice Functionality</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-ultimate-selection-of-6-pioneering-instagram-reel-apps/"><u>[Updated] The Ultimate Selection of 6 Pioneering Instagram Reel Apps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-imageclass-mf4800-printer-drivers-download-and-installation-guide/"><u>Canon ImageCLASS MF4800 Printer Drivers: Download & Installation Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-samsung-galaxy-s24-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Samsung Galaxy S24.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/downloadmicrosoft-wireless-mouse-5000-drivereasily-and-quickly/"><u>Download|Microsoft Wireless Mouse 5000 Driver|Easily & Quickly</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/exploring-the-basics-of-mov-format-in-digital-videos/"><u>Exploring the Basics of MOV Format in Digital Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-your-call-of-duty-mw3-up-and-running-again-after-not-working-issues/"><u>How to Get Your Call of Duty: MW3 Up and Running Again After Not Working Issues</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-apple-iphone-14-fixed-drfone-by-drfone-virtual-ios/"><u>iSpoofer is not working On Apple iPhone 14? Fixed | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/streamline-video-analytics-a-guide-to-youtube-statistics-with-social-blade-for-2024/"><u>Streamline Video Analytics A Guide to YouTube Statistics with Social Blade for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-6-benefits-of-owning-an-apple-watch-insights-from-a-tech-guru-digital-innovations/"><u>Top 6 Benefits of Owning an Apple Watch: Insights From a Tech Guru | Digital Innovations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updating-your-canon-pixma-mg2530-how-to-get-the-newest-driver-version/"><u>Updating Your Canon PIXMA MG2530: How To Get The Newest Driver Version</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrading-your-epson-wf-7720-the-ultimate-guide-to-installing-latest-printer-drivers-in-windows/"><u>Upgrading Your Epson WF-7720: The Ultimate Guide to Installing Latest Printer Drivers in Windows</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-mozilla-screen-recording-hacks/"><u>[New] 2024 Approved Mozilla Screen Recording Hacks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-precision-polishing-insights-from-vlle-on-apps-for-2024/"><u>[Updated] Precision Polishing Insights From VLLE on Apps for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quirky-quotes-iphone-laughs-galore/"><u>2024 Approved Quirky Quotes IPhone Laughs Galore</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978319424-asus-vg248qe-monitor-driver-downloads-and-updates-made-easy/"><u>Asus VG248QE Monitor Driver Downloads and Updates Made Easy</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976471608-effortless-installation-of-microsoft-comfortkey-4000-fetch-those-drivers-here/"><u>Effortless Installation of Microsoft ComfortKey 4000 - Fetch Those Drivers Here</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/exclusive-hats-review-best-action-cameras-on-two-wheels/"><u>Exclusive Hats Review Best Action Cameras on Two Wheels</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-sapphire-graphics-card-drivers-for-your-pc-compatible-with-windows/"><u>Get the Newest Sapphire Graphics Card Drivers for Your PC - Compatible with Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-vivo-t2-pro-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Vivo T2 Pro 5G Phone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-access-how-to-get-your-targus-docking-station-drivers/"><u>Instant Access: How to Get Your Targus Docking Station Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/investigating-intel-the-launch-of-a-major-class-action-lawsuit-over-cpu-malfunctions/"><u>Investigating Intel: The Launch of a Major Class-Action Lawsuit Over CPU Malfunctions</u></a></li>
+<li><a href="https://win-special.techidaily.com/iphone-16/"><u>IPhone 16における「データ転送完了失敗の理由と解決策」</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-installation-download-the-official-samsung-m2070fw-printer-drivers/"><u>Quick and Easy Installation: Download the Official Samsung M2070FW Printer Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-fix-for-straighten-laptop-display/"><u>Quick Fix for Straighten Laptop Display</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-process-of-requesting-a-steam-game-refund-online/"><u>Step-by-Step Process of Requesting a Steam Game Refund Online</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/tech-savvy-fix-reversing-macs-system-failure/"><u>Tech Savvy Fix: Reversing Mac's System Failure</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-how-to-manual-for-equipping-your-pc-with-the-latest-epson-xp-430-printer-drivers-windows-focus/"><u>The Ultimate How-To Manual for Equipping Your PC with the Latest Epson XP-430 Printer Drivers (Windows Focus)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshoot-and-update-hp-elitebook-8460p-driver-on-windows-the-ultimate-fix-guide/"><u>Troubleshoot & Update HP EliteBook 8460P Driver on Windows - The Ultimate Fix Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-pc-with-gigabytes-gc-wb867d-drivers-direct-download-link-inside/"><u>Update Your PC with Gigabyte's GC-WB867D Drivers - Direct Download Link Inside!</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-deciphering-the-prowess-of-magix-samplitude-in-modern-music-production/"><u>Updated 2024 Approved Deciphering the Prowess of MAGIX Samplitude in Modern Music Production</u></a></li>
 </ul></div>
 

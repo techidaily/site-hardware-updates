@@ -1,7 +1,7 @@
 ---
 title: "Exploring New Frontiers in Technology: Microsoft Unpacks Surface, Azure, and Cortana Developments"
-date: 2024-10-25T17:23:57.070Z
-updated: 2024-10-26T16:41:04.647Z
+date: 2024-10-29T18:39:41.738Z
+updated: 2024-11-01T19:38:02.541Z
 tags:
   - laptops
 categories:
@@ -38,10 +38,10 @@ Here's everything that the company announced during its October event.
 **Also: [How did Microsoft manage to get it right with Surface?](https://www.zdnet.com/article/how-did-microsoft-manage-to-get-it-right-with-surface/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Surface Laptop 5 gets a splash of color
@@ -61,10 +61,10 @@ What's different about the new Surface Laptop starts with the 12th-generation In
 The Surface Laptop 5 will be available in select markets beginning on Oct. 25 with a [starting price of $999](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?) for the i5, 8GB of RAM, and 256GB model. The laptop will be available in classic Platinum, Black, and Sandstone colorways, as well as a new leafy "Sage" option. 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Goodbye Surface Pro X, hello Surface Pro 9
@@ -100,10 +100,10 @@ For all the performance gains that you're getting, Microsoft is making you pay t
 [Buy the Surface Studio 2+ View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Studio-2/8VLFQC3597K4?)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Presenter+ and Audio Dock
@@ -119,16 +119,10 @@ Releasing alongside the new Surface products are the Microsoft Presenter+ and Mi
 The Microsoft Audio Dock is both a docking station with four ports (HDMI, 2x USB-C, and USB-A) and a speaker for audio input and output. For $249, which is not cheap for either of its two functions, Microsoft promises "premium sound" and noise-reducing microphones that will help you "be heard clearly in your next online meeting."
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Designer takes on Canva
@@ -177,20 +171,22 @@ Microsoft officials say that Designer is targeted at consumers more than anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-advanced-photoshop-overlay-methods/"><u>[New] Advanced Photoshop Overlay Methods</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-video-to-animation-easy-youtube-gif-creation-tips/"><u>[New] In 2024, From Video to Animation Easy YouTube GIF Creation Tips</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-boost-your-channels-a-guide-to-best-youtube-seo-resources/"><u>[Updated] Boost Your Channels A Guide to Best YouTube SEO Resources</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-elevate-your-videos-advanced-recording-in-adobe-presenter/"><u>[Updated] In 2024, Elevate Your Videos Advanced Recording in Adobe Presenter</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-viral-videos-creating-engaging-memes-for-fbinsta/"><u>[Updated] In 2024, Mastering Viral Videos Creating Engaging Memes for FB/Insta</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-extended-multi-day-battery-life-on-the-latest-laptops-from-acer-dell-hp-and-lenovo-new-1-099-snapdragon-x-and-windows-copilotplus-pcs-available-n14/"><u>Experience Extended 'Multi-Day Battery Life' On the Latest Laptops From Acer, Dell, HP & Lenovo: New $1, 099 Snapdragon X and Windows Copilot+ PCs Available Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-insights-into-top-tier-hardware-by-toms-reviews/"><u>Expert Insights Into Top-Tier Hardware by Tom's Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-electronics-with-toms-hardware-insights/"><u>Exploring Electronics with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-hardware-with-tom-top-picks-and-reviews/"><u>Exploring Hardware with Tom: Top Picks & Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-latest-in-technology-with-toms-gear/"><u>Exploring the Latest in Technology with Tom's Gear</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/forged-from-laptop-to-desktop-the-ultimate-sustainable-aio-workstation-by-flying-lotus-powered-by-battery-assembled-through-3d-printing/"><u>Forged From Laptop to Desktop: The Ultimate, Sustainable AIO Workstation by Flying Lotus - Powered by Battery, Assembled Through 3D Printing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-ready-to-play-unleash-epic-gaming-with-lenovos-legion-slim-5-and-a-potent-rtx-ntegrated-4060-at-an-amazing-price-of-899/"><u>Get Ready to Play! Unleash Epic Gaming with Lenovo's Legion Slim 5 and a Potent RTX Ntegrated 4060 at an Amazing Price of $899.</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-visionary-filmmaker-blending-clips-and-chords/"><u>In 2024, Visionary Filmmaker Blending Clips & Chords</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-find-n3-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Find N3.</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/xpert-picks-best-7-video-streaming-apps-to-take-your-youtube-game-upward-iosandroid/"><u>[New] Expert Picks Best 7 Video Streaming Apps to Take Your YouTube Game Upward (iOS/Android)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-remedying-pixelated-youtube-footage/"><u>[New] Remedying Pixelated YouTube Footage</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-micro-movie-plot-draft/"><u>[Updated] Micro-Movie Plot Draft</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-action-sequels-the-best-games-like-grand-theft-auto/"><u>2024 Approved Action Sequels The Best Games Like Grand Theft Auto</u></a></li>
+<li><a href="https://fox-access.techidaily.com/fabulous-critique-and-diverse-suggestions-for-2024/"><u>Fabulous Critique & Diverse Suggestions for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/failed-to-create-a-graphics-device-on-windows-fixed/"><u>Failed to Create a Graphics Device on Windows [Fixed]</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-reno-8t-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo Reno 8T Safely | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/professional-photography-tips-capturing-stunning-images-with-your-phone/"><u>Professional Photography Tips: Capturing Stunning Images with Your Phone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsungs-anticipated-one-ui-6-the-impending-arrival-of-the-android-14-update/"><u>Samsung's Anticipated One UI 6: The Impending Arrival of the Android 14 Update</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/setting-up-weather-notifications-keep-track-of-outside-temperatures-directly-from-your-smartphone/"><u>Setting Up Weather Notifications: Keep Track of Outside Temperatures Directly From Your Smartphone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-tips-for-launching-camera-on-samsung-galaxy-devices/"><u>Speedy Tips for Launching Camera on Samsung Galaxy Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-activating-call-forwarding-on-your-mobile-device/"><u>Step-by-Step Guide: Activating Call Forwarding on Your Mobile Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-downloading-and-setting-up-android-13-beta-version-on-your-device/"><u>Step-by-Step Guide: Downloading and Setting Up Android 13 Beta Version on Your Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-locating-the-unique-serial-number-on-your-android-smartphone/"><u>Step-by-Step Guide: Locating the Unique Serial Number on Your Android Smartphone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-monitoring-your-android-devices-usage-duration/"><u>Step-by-Step Guide: Monitoring Your Android Device's Usage Duration</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlock-hidden-hardware-on-win-1011-pcs/"><u>Unlock Hidden Hardware on WIN 10/11 PCs</u></a></li>
 </ul></div>
 

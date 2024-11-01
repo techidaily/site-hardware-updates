@@ -1,7 +1,7 @@
 ---
 title: "Top Picks: Most Affordable Computers in July 2024 - Insights From ZDNet"
-date: 2024-10-22T16:54:06.873Z
-updated: 2024-10-26T16:35:31.702Z
+date: 2024-10-30T17:54:29.968Z
+updated: 2024-11-01T20:51:25.328Z
 tags:
   - laptops
 categories:
@@ -97,6 +97,13 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 ## Alternative laptop deals
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Amazon laptop deals
 
 [Asus Chromebook Flip C434 2-In-1 laptop deal for $355 (save $150) $355 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChromebook-Touchscreen-Processor-All-Metal-C434TA-DSM4T%2Fdp%2FB07Q2RB6BY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8df53e6c-279d-4d2d-9af5-b7060d4bb394%7Cdtp&dtb=1)
@@ -110,13 +117,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Acer Aspire 3 laptop deal for $300 (save $22) $300 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FA315-24P-R7VH-Display-Quad-Core-Processor-Graphics%2Fdp%2FB0BS4BP8FB%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8df53e6c-279d-4d2d-9af5-b7060d4bb394%7Cdtp&dtb=1)
 
 [ASUS ROG Strix Scar 15 gaming laptop deal for $1749 (save $250) $1,749 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RMW1L7Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8df53e6c-279d-4d2d-9af5-b7060d4bb394%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Walmart laptop deals
 
@@ -139,6 +139,13 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Lenovo Flex 5i 14-inch FHD touchscreen 2-in-1 laptop deal for $380 (save $170) $380 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-flex-5i-14-fhd-touchscreen-2-in-1-laptop-intel-core-i3-1215u-with-8gb-memory-intel-uhd-graphics-256gb-ssd-storm-grey%2F6571566.p%3FskuId%3D6571566&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 [ASUS Zenbook 14-inch OLED touchscreen laptop deal for $1,300 (save $200) $1,300 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-zenbook-14-120hz-oled-touch-laptop-evo-intel-13-gen-core-i9-with-32gb-memory-nvidia-geforece-rtx-3050-1tb-ssd-gray%2F6548463.p%3FskuId%3D6548463&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Apple MacBook deals
 
@@ -178,10 +185,16 @@ The right specs depend on your needs and how you intend to use your new laptop -
 Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular laptop with high specs, but content creators or those who work with heavy editing software should opt for a designer's laptop or a gaming laptop. Not because, of course, you want to have the best gaming specs on the side, but because those laptops come with powerful CPUs, GPUs, and high RAM to handle the heavy requirements that software needs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much should I pay for a good laptop?
@@ -191,22 +204,15 @@ When you're considering your budget for a new laptop, you have to consider what 
 If you're a gamer who needs a high-spec laptop with a decent graphics card, top-of-the-range display and high refresh rate, you should expect to pay more than $500 - $600 -- and potentially beyond $1,000\. However, if you need a laptop for basic tasks, studying, and streaming, you can easily get away with a basic laptop for a few hundred dollars. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best deals by retailer
 
@@ -265,24 +271,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-best-collection-sites-for-quick-access-to-youtube-vids/"><u>[Updated] In 2024, Best Collection Sites for Quick Access to YouTube Vids</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-live-thumbnails-for-effective-branding/"><u>[Updated] Mastering Live Thumbnails for Effective Branding</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-beginners-pathway-photos-transformed-into-videos-via-pixiz/"><u>2024 Approved Beginner's Pathway Photos Transformed Into Videos via Pixiz</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-enhance-performance-with-macos-sierra-upgrade/"><u>2024 Approved Enhance Performance with MacOS Sierra Upgrade</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-live-stream-heroes-face-off-xsplit-vs-obs-showcase/"><u>2024 Approved Live Stream Heroes Face Off – XSplit Vs. OBS Showcase</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-strategies-for-thriving-in-creator-studio/"><u>2024 Approved Strategies for Thriving in Creator Studio</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/advanced-hardware-breakdown-by-toms-electronic-wisdom/"><u>Advanced Hardware Breakdown by Tom's Electronic Wisdom</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862669015-amazon-prime-day-deal-alert-save-500-on-the-new-apple-macbook-pro-with-m3-pro/"><u>Amazon Prime Day Deal Alert: Save $500 on the New Apple MacBook Pro with M3 Pro!</u></a></li>
-<li><a href="https://games-able.techidaily.com/enjoy-seamless-play-with-a-self-fixing-xbox-d-pad/"><u>Enjoy Seamless Play with a Self-Fixing Xbox D-Pad</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Will iSpoofer update On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/kickstarting-a-vlog-key-hardware-and-apps-for-2024/"><u>Kickstarting a Vlog Key Hardware & Apps for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-alert-grab-the-power-of-rtx-4080-in-lenovo-legion-gaming-laptops-for-750-less-plus-a-240hz-display/"><u>Unbeatable Deal Alert! Grab the Power of RTX 4080 in Lenovo Legion Gaming Laptops for $750 Less – Plus a 240Hz Display!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-productivity-with-the-intel-infused-acemagix-x1-2-x-14-fhd-displays-for-an-unmatched-view-available-from-899/"><u>Unleash Productivity with the Intel-Infused Acemagix X1: 2 X 14 FHD Displays for an Unmatched View - Available From $899</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-tech-secrets-the-toms-hardware-showdown/"><u>Unveiling Tech Secrets: The Tom's Hardware Showdown</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-future-with-microsofts-ai-copilotplus-what-happens-to-your-shiny-2024-laptop/"><u>Unveiling the Future with Microsoft's AI Copilot+: What Happens to Your Shiny 2024 Laptop?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-hardware-technology-with-tom/"><u>Unveiling the Latest in Hardware Technology with Tom</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-wonders-of-technology-with-toms-hardware-insights/"><u>Unveiling the Wonders of Technology with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-toms-hardware-wisdom-your-go-to-source-for-pc-specs-and-reviews/"><u>Unveiling Tom's Hardware Wisdom: Your Go-To Source for PC Specs and Reviews</u></a></li>
-<li><a href="https://fox-access.techidaily.com/vintage-voices-top-websites-for-classical-ringtone-acquisition-for-2024/"><u>Vintage Voices Top Websites for Classical Ringtone Acquisition for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-best-8-youtube-editing-software-for-linux/"><u>[New] 2024 Approved Best 8 YouTube Editing Software for Linux</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-step-by-step-guide-how-to-watch-social-media-videos-on-your-apple-tv/"><u>[New] 2024 Approved Step by Step Guide How to Watch Social Media Videos on Your Apple TV</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-mastering-podcast-beginnings-eye-catching-strategies/"><u>[New] Mastering Podcast Beginnings Eye-Catching Strategies</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-strategic-marketing-websites-for-youtube-videos-for-2024/"><u>[New] Strategic Marketing Websites for YouTube Videos for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-from-wanderlusts-to-web-presence-your-strategy-for-professional-blogging-success/"><u>[Updated] From Wanderlusts To Web Presence Your Strategy for Professional Blogging Success</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-find-your-custom-box-top-10-online-stores-offering-tailored-packaging/"><u>2024 Approved Find Your Custom Box Top 10 Online Stores Offering Tailored Packaging</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/gaming-curved-ultrawide-display-and-immersion/"><u>Gaming, Curved Ultrawide Display, and Immersion.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hold-onto-your-current-ipad-and-save-big-exclusive-deal-on-apple-pencil-ns-at-unbeatable-prices/"><u>Hold Onto Your Current iPad and Save Big - Exclusive Deal on Apple Pencil N's at Unbeatable Prices!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/implications-of-microsofts-latest-artificial-intelligence-advancements-on-portable-gaming-pc-markets/"><u>Implications of Microsoft's Latest Artificial Intelligence Advancements on Portable Gaming PC Markets</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-of-the-ugreen-300w-portable-charger-with-48000mah-battery-the-ultimate-compact-energy-reservoir/"><u>In-Depth Analysis of the Ugreen 300W Portable Charger with 48,000mAh Battery - The Ultimate Compact Energy Reservoir</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-of-the-ultimate-ears-everboom-powerful-sonic-performance-with-cool-extras/"><u>In-Depth Analysis of the Ultimate Ears Everboom: Powerful Sonic Performance with Cool Extras!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-decides-against-issuing-product-recalls-for-faulty-processors/"><u>Intel Decides Against Issuing Product Recalls for Faulty Processors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-home-fixes-top-strategies-to-launch-your-at-home-repair-skills/"><u>Mastering Home Fixes: Top Strategies to Launch Your At-Home Repair Skills</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/meme-mastery-strategies-for-engaging-audiences-with-fb-and-instagram-videos-for-2024/"><u>Meme Mastery Strategies for Engaging Audiences with FB & Instagram Videos for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/will-generative-ai-supersede-human-roles-exploring-the-future-of-work/"><u>Will Generative AI Supersede Human Roles: Exploring the Future of Work</u></a></li>
 </ul></div>
 

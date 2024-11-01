@@ -1,7 +1,7 @@
 ---
 title: Top 49 Unmissable Black Friday Offers on Newegg - Your Complete Guide | ZDNet
-date: 2024-10-25T23:59:44.730Z
-updated: 2024-10-26T18:03:35.772Z
+date: 2024-10-30T20:11:53.874Z
+updated: 2024-11-01T17:09:50.216Z
 tags:
   - laptops
 categories:
@@ -87,6 +87,13 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## More October Prime Day 2024 gaming deals
 
 ZDNET
@@ -118,13 +125,6 @@ ZDNET
 * [God of War Ragnarok standard edition for $40 (save $29 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGod-of-War-Ragnar-k-Standard-Edition-Playstation-5%2F1336533270%3FclassType%3DVARIANT%26athbdg%3DL1102&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): The sequel to the hit GoW 2018 follows Kratos and his son Atreus as they traverse the realms to gather allies and stop the gods from going to war.
 * [The Last of Us Part 1 standard edition for $46 (save $24 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FThe-Last-of-Us-Part-I-PlayStation-5%2F1643604134%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Experience the award-winning story of Ellie and Joel as they make their way to Denver and the Fireflies through hordes of dangerous, fungus-infected zombies.
 * [Corsair Void RGB Elite wireless gaming headset for $80 (save $30 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCorsair-Wireless-Premium-Headset-Surround%2Fdp%2FB07X8SJ8HM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cec8ea711-28a3-4d6c-a3f0-6ad7ae6dae73%7Cdtp&dtb=1): With 7.1CH surround sound, an omnidirectional mic, and up to a 40-foot range, the Void RGB Elite gives you immersive game music and sound cues, clear chat, and freedom of movement.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals
 
@@ -171,13 +171,6 @@ Nintendo/ZDNET
 * [Lego Star Wars: The Skywalker Saga for $25 (save $26 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLEGO-Star-Wars-The-Skywalker-Saga-Nintendo-Switch%2F182278850%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Play as iconic characters like Luke Skywalker, Qui-Gon Jin, and Darth Vader through the stories of both the original and prequel Star Wars trilogies.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $55 (save $25 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming PC deals
 
 Kyle Kucharski/ZDNET
@@ -193,13 +186,6 @@ Kyle Kucharski/ZDNET
 * [HP Victus 15L desktop for $480 (save $370 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-15l-gaming-desktop-tg02-0325m-59a32av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-level gaming desktop built with an AMD Ryzen 5 5600G processor, AMD Radeon RX 6400 GPU, 8GB of RAM, and a 256GB SSD.
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming laptop deals
 
 Lenovo
@@ -213,10 +199,10 @@ Lenovo
 * [Alienware m18 R2 for $3,200 (save $800 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Falienware-m18-r2-gaming-laptop%2Fspd%2Falienware-m18-r2-laptop%2Fuseashctom18r204&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming laptop with an Nvidia GeForce RTX 4090 GPU, Intel Core i9-14900K CPU, 64GB of RAM, 4TB of storage, and an 18-inch QHD+ display.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming monitor deals
@@ -242,21 +228,35 @@ Samsung/ZDNET
 * [Asus Nvidia GeForce RTX 4070 Overclock for $580 (save $100 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6540002.p%3FskuId%3D6540002&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This Nvidia-based GPU offers 12GB of DDR6 VRAM, a base clock speed of 2.55GHz that can be overclocked to 2.58GHz, 8K video output support, and support for up to 4 displays.
 * [Asus TUF Nvidia GeForce RTX 3080 Ti for $925 (save $472 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FTUF-NVIDIA-GeForce-RTX-3080-TI-Graphic-Card-12-GB-GDDR6-384-bit-Bus-Width-PCI-Express-4-0-DisplayPort-HDMI%2F994157887%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) Nvidia's high-end 30 Series graphics card offers 12GB of VRAM, military-grade capacitors for better power efficiency, and support for up to 4 displays.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs
 
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
@@ -328,20 +328,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-fast-techniques-for-reordering-youtube-video-queues/"><u>[New] 2024 Approved Fast Techniques for Reordering YouTube Video Queues</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-use-of-analytics/"><u>[New] 2024 Approved Use of Analytics</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ring-imagination-to-life-self-animated-artistry-for-2024/"><u>[New] Bring Imagination to Life Self-Animated Artistry for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-select-20-humorous-incarceration-posts-to-infuse-positivity-into-facebook-feeds-for-2024/"><u>[New] Select 20 Humorous Incarceration Posts to Infuse Positivity Into Facebook Feeds for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-understanding-tiktoks-profile-picture-language-pfp-for-2024/"><u>[New] Understanding TikTok's Profile Picture Language (PFP) for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-top-5-elite-slow-camera-systems/"><u>2024 Approved Unveiling the Top 5 Elite Slow Camera Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975778174-enhance-performance-now-get-the-latest-rtx-2080-super-drivers-for-windows-users/"><u>Enhance Performance Now: Get the Latest RTX 2080 Super Drivers for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-devices-ready-on-windows-11-with-official-usb-c-driver-downloads/"><u>Get Your Devices Ready on Windows 11 with Official USB-C Driver Downloads</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/how-to-craft-contagious-instagram-visuals/"><u>How to Craft Contagious Instagram Visuals</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-m477-printer-driver-installation-the-ultimate-guide-to-download-and-setup/"><u>HP M477 Printer Driver Installation: The Ultimate Guide to Download and Setup</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-12-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi 12 to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-asus-dvdcd-rom-driver-installers-available-now/"><u>Latest ASUS DVD/CD-ROM Driver Installers Available Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/solutions-for-arduino-uno-driver-errors-under-windows-environment/"><u>Solutions for Arduino Uno Driver Errors Under Windows Environment</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016433174-the-ultimate-guide-to-fixing-soundless-facebook-videos-on-pc-latest-tips-and-tricks/"><u>The Ultimate Guide to Fixing Soundless Facebook Videos on PC - Latest Tips & Tricks!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/windows-11-bluetooth-driver-issues-solved/"><u>Windows 11 Bluetooth Driver Issues [SOLVED]</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/avigating-through-top-10-youtube-mp3-extractors/"><u>[New] Navigating Through Top 10 YouTube Mp3 Extractors</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unfollowers-alert-on-your-instagram-map/"><u>[New] Unfollowers Alert on Your Instagram Map</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expertise-in-easel-alterations-color-command/"><u>[Updated] Expertise in Easel Alterations - Color Command</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-your-gtx-1660-ti-enhance-gaming-quality-through-updated-drivers/"><u>Boost Your GTX 1660 Ti: Enhance Gaming Quality Through Updated Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-nvidia-drivers-for-the-powerful-rtx-1650-supers-graphics-card-compatible-with-windows-11/"><u>Download Updated NVIDIA Drivers for the Powerful RTX 1650 Supers Graphics Card Compatible with Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-frequent-freezes-solutions-for-recurrent-tribes-of-midgard-software-breakdowns/"><u>Fixing Frequent Freezes - Solutions for Recurrent 'Tribes of Midgard' Software Breakdowns</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-best-printing-results-fresh-drivers-for-epson-xp-420/"><u>Get the Best Printing Results: Fresh Drivers for Epson XP-420</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-experience-obtain-and-setup-acers-advanced-bluetooth-drivers-instantly/"><u>Hassle-Free Experience: Obtain and Setup Acer’s Advanced Bluetooth Drivers Instantly</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-tecno-pova-5-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Tecno Pova 5 Phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-masterful-video-text-techniques-ranked/"><u>In 2024, Masterful Video Text Techniques - Ranked</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-intel-raid-drive-support-software-updates-for-windows-111087-users-download-now/"><u>Latest Intel RAID Drive Support Software Updates for Windows 11/10/8/7 Users: Download Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/launch-of-amds-advanced-ryzen-9000-processor-range-shop-the-latest-series-today/"><u>Launch of AMD's Advanced Ryzen 9000 Processor Range – Shop the Latest Series Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mpow-bluetooth-driver-software-download-update-options-for-windows-11-8-and-7-devices/"><u>MPOW Bluetooth Driver Software: Download, Update Options for Windows 11, 8, and 7 Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revamp-your-visual-experience-in-windows-11-with-updated-graphics-driver-instructions/"><u>Revamp Your Visual Experience in Windows 11 with Updated Graphics Driver Instructions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-steps-to-convert-your-avi-videos-into-hevc-codec-compatible-with-iphone-ipad-imovie-and-other-apple-tools/"><u>Ultimate Steps to Convert Your AVI Videos Into HEVC Codec Compatible with iPhone, iPad, iMovie & Other Apple Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-powerhouse-performance-with-new-z270-gaming-pro-carbon-order-now/"><u>Unleash Powerhouse Performance with New Z270 Gaming Pro Carbon - Order Now!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-best-split-screen-video-editor-online-and-offline/"><u>Updated In 2024, Best Split Screen Video Editor Online & Offline</u></a></li>
 </ul></div>
 

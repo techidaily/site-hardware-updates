@@ -1,7 +1,7 @@
 ---
 title: ZDNet Tests Acer's Exceptional Screen and Webcam Combo - An Unexpectedly Superior Choice in Latest Laptops
-date: 2024-10-19T22:11:03.486Z
-updated: 2024-10-26T16:23:39.700Z
+date: 2024-10-27T19:00:47.875Z
+updated: 2024-11-01T19:44:05.075Z
 tags:
   - laptops
 categories:
@@ -71,10 +71,10 @@ Cesar Cadenas/ZDNET
 Additionally, I'm not a fan of the backlighting. Only if you sit in a reclined position can you can see the lights more clearly. But that would mean forcing you to sit in a position that may not be all that comfortable. No amount of switching between the modes fixes this. You could make the lights less dim, but it doesn't solve the problem. Also, the backspace key lacks lighting.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -113,18 +113,24 @@ You can buy my review unit in Black on [Costco's website for $999](https://www.a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-comprehensive-blueprint-for-capturing-whatsapp-calls/"><u>[New] In 2024, The Comprehensive Blueprint for Capturing WhatsApp Calls</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-harness-the-hype-tactics-to-supercharge-your-social-media-status/"><u>[Updated] Harness the Hype Tactics to Supercharge Your Social Media Status</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/como-transferir-archivos-iso-a-disco-duro-con-un-grabador-de-dvd-para-windows/"><u>Cómo Transferir Archivos ISO a Disco Duro Con Un Grabador De DVD Para Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862771512-experience-next-level-display-the-new-low-latency-high-resolution-120n-modos-paper-monitor-unveiled-all-in-open-source/"><u>Experience Next-Level Display: The New Low-Latency, High-Resolution 120N Modos Paper Monitor Unveiled - All in Open Source!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-crafting-inspiring-interview-experiences/"><u>In 2024, Crafting Inspiring Interview Experiences</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oppo-a2-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Oppo A2 Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-expert-advice-on-eradicating-the-vexing-red-screen-dilemma-once-and-for-all/"><u>Resolved: Expert Advice on Eradicating the Vexing Red Screen Dilemma Once and For All</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-performance-and-precision-asus-rog-strix-xg27acs-qhd-monitor-evaluated-for-gamers/"><u>Top Performance and Precision: Asus Rog Strix XG27ACS QHD Monitor Evaluated for Gamers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-mobile-screens-in-202-cuisine-best-for-gaming-performance-and-office-use/"><u>Ultimate Guide to Mobile Screens in 202 Cuisine: Best for Gaming Performance and Office Use</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unboxing-the-spectacle-comprehensive-insights-into-the-gigabyte-aorus-co49dqs-vibrant-display-quality/"><u>Unboxing the Spectacle: Comprehensive Insights Into the Gigabyte Aorus CO49DQ's Vibrant Display Quality</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-innovations-with-toms-hardware-your-guide-to-cutting-edge-pc-components/"><u>Unveiling Innovations with Tom's Hardware - Your Guide to Cutting-Edge PC Components</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-new-tech-secrets-at-toms-hardware-review-site/"><u>Unveiling New Tech Secrets at Tom's Hardware Review Site</u></a></li>
-<li><a href="https://blog-min.techidaily.com/windows-1011mp43/"><u>Windows 10/11でMP4動画連結手順入門：3つのシンプルな方法</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-charting-the-peak-1-shorter-videos-downloader-hub/"><u>[New] Charting the Peak #1 Shorter Videos Downloader Hub</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-blending-past-and-present-film-aesthetics/"><u>[Updated] 2024 Approved Blending Past and Present Film Aesthetics</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-managing-bitrate-in-obs-broadcasts/"><u>[Updated] 2024 Approved Managing Bitrate in OBS Broadcasts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-ultra-hd-graphics-selection-top-picks/"><u>2024 Approved Ultra HD Graphics Selection Top Picks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mx490-driver-download-and-update-for-windows/"><u>Canon MX490 Driver Download & Update for Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/community-disappointment-in-upgrading-iphones-to-ios-18-a-collective-experience/"><u>Community Disappointment in Upgrading iPhones to iOS 18 – A Collective Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-fixes-for-your-hp-envy-eprinting-woes-driver-troubleshooting-guide/"><u>Easy Fixes for Your HP ENVY ePrinting Woes: Driver Troubleshooting Guide</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/film-team-dynamics-how-every-crew-member-contributes-to-the-final-product/"><u>Film Team Dynamics How Every Crew Member Contributes to the Final Product</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-motorola-edge-2023-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Motorola Edge 2023 FRP Locks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-system-upgraded-swift-download-of-intel-chip-drivers/"><u>Get Your System Upgraded: Swift Download of Intel Chip Drivers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-to-mp4-for-xiaomi-redmi-note-12t-pro-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD MTS to MP4 for Xiaomi Redmi Note 12T Pro?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-insider-tips-the-best-5-cameras-for-extended-zoom/"><u>In 2024, Insider Tips The Best 5 Cameras for Extended Zoom</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-logitechs-brio-webcam-driver-software-for-windows-10-8-and-7-versions/"><u>Installing Logitech's BRIO Webcam Driver Software for Windows 10, 8 & 7 Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-core-i7-14700k-arrow-lake-processor-edge-a-steady-7-advantage-over-core-ultras-265kf-in-solo-core-performance-testing/"><u>Intel Core I7-14700K Arrow Lake Processor Edge: A Steady 7% Advantage Over Core Ultra's 265KF in Solo-Core Performance Testing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-intel-network-drivers-available-for-windows-11-10-and-7-get-yours-today/"><u>Latest Intel Network Drivers Available for Windows 11, 10 & 7 – Get Yours Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ryzens-triumph-the-ryzen-9-9950x-delivers-a-stunning-18-speed-edge-over-intels-i9-14900k/"><u>Ryzen's Triumph: The Ryzen 9 9950X Delivers a Stunning 18% Speed Edge over Intel’s I9-14900K</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-your-pioneer-dj-ddj-sx2-driver-in-just-minutes-download-today/"><u>Secure Your Pioneer DJ DDJ-SX2 Driver in Just Minutes – Download Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/streamlined-setup-expert-tips-for-quickly-downloading-and-installing-your-hp-driver-needs/"><u>Streamlined Setup: Expert Tips for Quickly Downloading & Installing Your HP Driver Needs!</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/understanding-viewports-in-web-design-and-seo-strategies-a-comprehensive-guide/"><u>Understanding Viewports in Web Design and SEO Strategies – A Comprehensive Guide</u></a></li>
 </ul></div>
 

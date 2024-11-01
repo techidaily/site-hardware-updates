@@ -1,7 +1,7 @@
 ---
 title: "AMD Ryzen 9 9950X: Revolutionary Speed Enhancement Reaches New Peaks at 6.7 GHz with Liquid Nitrogen Cooling"
-date: 2024-09-05T19:54:54.787Z
-updated: 2024-09-06T19:54:54.787Z
+date: 2024-10-28T16:50:42.974Z
+updated: 2024-11-01T21:06:39.275Z
 tags:
   - cpu
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/32a49341dcd2e3ff58b1a58ec7c331011d71244cd7c801847e191382a9daca3a.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Break New Ground in CPU Performance with an AMD Ryzen #9700X: Overclocked to an Impressive 5.8GHz and Chilled by Premium AIO Liquid Cooling – Plus, a Surprising Idle Speed of 6 GHz Achieved
 
 Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and the new[Ryzen 7 9700X](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-9600x-cpu-review) , which rivals the[best CPUs](https://www.tomshardware.com/reviews/best-cpus,3986.html) . Professional overclocker Skatterbencher has already figured out how to push the 9700X to 5.8 GHz in single-core workloads. Skatterbencher published a[highly in-depth overclocking tutorial](https://skatterbencher.com/2024/08/07/skatterbencher-78-ryzen-7-9700x-overclocked-to-5860-mhz/) showcasing the feat. But he's not done yet. The overclocker also revealed that he successfully hit 6 GHz on the 9700X with traditional AIO liquid cooling.
@@ -35,12 +23,6 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  Ryzen 7 9700X Undervolt & Overclock to 5860 MHz | SkatterBencher #78 - YouTube ![Ryzen 7 9700X Undervolt & Overclock to 5860 MHz | SkatterBencher #78 - YouTube](https://img.youtube.com/vi/3GV7q6CV7GY/maxresdefault.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Watch On](https://youtu.be/3GV7q6CV7GY)
 
  To get the core(s) to boost up to that frequency, SkatterBencher used a combination of AMD's Curve Optimizer and Curve Shaper to undervolt the CPU and enable PBO2, which increases the amount of power the CPU can consume. Undervolting on Ryzen CPUs gives them more headroom, allowing them to hit higher frequencies without running into other limitations such as voltage, power, or thermal limits.
@@ -49,12 +31,6 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  With all these technologies working in tandem, the overclocker achieved an idle frequency of 5.86 GHz. In stress testing, the maximum single-thread clock speed was 5.758 GHz, with a maximum multi-core frequency of 5.454 GHz operating at 95.2 degrees Celsius at a package power of 172.1 watts.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -65,14 +41,11 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  SkatterBencher's 5.8 GHz and 6 GHz overclocks represent the highest on the new 9700X. Der8auer and Overclocking.com showcased their respective overclocks on the 9700X but could only eke out 5.4G Hz. The main difference was that both outlets did manual overclocks, whereas SkatterBencher used AMD's plethora of overclocking tools, enabling them to hit higher frequencies.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -81,4 +54,23 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-silent-blades-and-righteous-honor-your-next-game-adventure-awaits-for-2024/"><u>[New] Silent Blades & Righteous Honor Your Next Game Adventure Awaits for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-bridging-music-sections-advanced-audacity-techniques/"><u>[Updated] In 2024, Bridging Music Sections Advanced Audacity Techniques</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/a79-5g-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>A79 5G support - Forgotten screen lock.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatibility-tips-for-classic-films-on-new-m-series-apple-computers-expert-advice/"><u>Compatibility Tips for Classic Films on New M-Series Apple Computers - Expert Advice</u></a></li>
+<li><a href="https://os-tips.techidaily.com/dont-panic-if-your-iphone-calendars-vanish-restore-them-quickly-using-our-top-6-tips/"><u>Don't Panic If Your Iphone Calendars Vanish! Restore Them Quickly Using Our Top 6 Tips</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-find-x6-pro-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find X6 Pro Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-t5-ssd-huge-discount-save-nearly-half-the-price-on-amazon-prior-to-octobers-prime-day-deals/"><u>Samsung T5 SSD Huge Discount: Save Nearly Half the Price on Amazon Prior to October's Prime Day Deals</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-m2-ssds-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranking M.2 SSDs : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-scoring-amazing-holiday-bargains-for-your-tech-wishlist-exclusive-offers-from-newegg/"><u>Ultimate Guide to Scoring Amazing Holiday Bargains for Your Tech Wishlist: Exclusive Offers From Newegg</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Is McAfee's New AI-Based Solution to Detect Deepfake Voices a Game Changer? ZDNet Explores Reliability
-date: 2024-10-22T20:15:50.014Z
-updated: 2024-10-26T22:59:27.428Z
+date: 2024-10-26T21:57:03.536Z
+updated: 2024-11-01T20:42:24.989Z
 tags:
   - laptops
 categories:
@@ -64,10 +64,10 @@ Cons
 ## Mac Studio
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tiny computer, big performance
@@ -92,14 +92,14 @@ Cons
 * Very, very expensive
 * Very large and heavy
 
-## Mac Pro
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Mac Pro
 
 ### A serious workstation for serious professionals
 
@@ -109,27 +109,33 @@ The Mac Pro with the M2 Ultra chipset is one of the most powerful desktops that 
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is it worth upgrading to a new MacBook Air 15, Mac Studio, or Mac Pro?
 
 If you recently made the switch from an Intel-based Mac to one with an M1 or M2 chipset, you might want to hold off on upgrading to these latest models. The M2 Ultra is a brand-new chip from Apple, and will have some growing pains as driver updates get released to smooth over bugs and other performance issues real-world users may have. These new devices are also on the more expensive side, so you might want to wait for a promotional sale or for when your M1/M2 Mac starts to have serious issues. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's the difference between the M2 Max and M2 Ultra?
 
 The biggest difference comes down to how many cores each chip has as well as the maximum amount of supported memory. The M2 Max supports up to 96GB of unified RAM and features an 8-core CPU and 10-core CPU. The M2 Ultra supports up to 192GB of unified memory and features a 24-core CPU, 60-core GPU, and 32-core Neural Engine. This means that the M2 Ultra can perform more processes per second, giving you higher performance over Intel and M1-based Apple models.
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will these be available?
 
@@ -175,18 +181,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-compile-of-the-most-beautiful-wedding-videos-youtube-and-vimeo-edition/"><u>[New] 2024 Approved Compile of the Most Beautiful Wedding Videos - Youtube & Vimeo Edition</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-assessing-the-real-benefits-of-paying-for-youtube-premium/"><u>[New] In 2024, Assessing the Real Benefits of Paying for YouTube Premium</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-essential-3-step-copywriting-blueprint-for-effective-fb-campaigns/"><u>2024 Approved Essential 3-Step Copywriting Blueprint for Effective FB Campaigns</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-to-boost-visual-impact-aes-10-text-sets/"><u>2024 Approved Expert Tips to Boost Visual Impact AE's 10 Text Sets</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-make-a-video-from-photo-with-music/"><u>2024 Approved Make a Video From Photo with Music</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/chinese-semiconductor-firm-cxmt-addresses-us-compliance-concerns-by-operating-its-185nm-dram-node-refuting-past-accusations-of-violating-export-laws-on-the-29/"><u>Chinese Semiconductor Firm CXMT Addresses U.S. Compliance Concerns by Operating Its 18.5Nm DRAM Node, Refuting Past Accusations of Violating Export Laws on the 17Nm Process</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/eco-conscious-speedsters-unveiled-in-depth-analysis-of-teamgroups-t-force-vulcan-ddr5-6000-2x16gb-stick-set-a-comprehensive-review/"><u>Eco-Conscious Speedsters Unveiled: In-Depth Analysis of TeamGroup's T-Force Vulcan DDR5-6000, 2X16GB Stick Set - A Comprehensive Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-digital-frontiers-with-toms-gear-a-comprehensive-review-hub-for-enthusiasts-and-professionals/"><u>Exploring Digital Frontiers with Tom's Gear: A Comprehensive Review Hub for Enthusiasts and Professionals</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-gadgets-with-toms-insights-a-detailed-guide-on-modern-hardware/"><u>Exploring Gadgets with Tom's Insights: A Detailed Guide on Modern Hardware</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-realme-10t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-digital-landscape-with-toms-hardware-experts/"><u>Navigating the Digital Landscape with Tom’s Hardware Experts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-6-best-coupons-and-deals-sites-for-maximum-savings/"><u>Top 6 Best Coupons & Deals Sites for Maximum Savings</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-wonders-of-technology-with-toms-hardware-insights-t17239724902144/"><u>Unveiling the Wonders of Technology with Tom's Hardware Insights</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-dive-into-the-world-of-customized-ringtones-with-tiktok-beats/"><u>[Updated] In 2024, Dive Into the World of Customized Ringtones with TikTok Beats</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-navigate-to-success-the-insiders-guide-to-adding-times/"><u>[Updated] Navigate to Success The Insider's Guide to Adding Times</u></a></li>
+<li><a href="https://blog-min.techidaily.com/download-the-top-rated-fifa-world-cup-anthems-at-no-cost-get-your-list-now/"><u>Download the Top-Rated FIFA World Cup Anthems at No Cost – Get Your List Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722963642445-get-instant-access-to-newest-usb-camera-drivers-click-to-download-now/"><u>Get Instant Access to Newest USB Camera Drivers - Click to Download Now</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Motorola Defy 2? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-leading-9-free-logo-design-software-for-youtube-channels/"><u>In 2024, Leading 9 Free Logo Design Software for YouTube Channels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/linux-alone-ditching-wsl/"><u>Linux Alone: Ditching WSL</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-computing-a-look-inside-toms-hardware-selection/"><u>Navigating the World of Computing: A Look Inside Tom’s Hardware Selection</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/overcoming-driver-compatibility-concerns-with-your-260ci-keyless-entry-system/"><u>Overcoming Driver Compatibility Concerns with Your 260Ci Keyless Entry System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/rtx-2060-super-graphics-card-windows-11-drivers-download/"><u>RTX 2060 Super Graphics Card Windows 11 Drivers Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-how-to-get-the-latest-surface-book-operating-system-and-drivers-up-to-date-smoothly/"><u>Step-by-Step: How to Get the Latest Surface Book # Operating System and Drivers Up-to-Date Smoothly!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/troubleshooting-guide-successfully-adding-xvid-codec-support-to-your-vlc-experience/"><u>Troubleshooting Guide: Successfully Adding Xvid Codec Support to Your VLC Experience</u></a></li>
 </ul></div>
 

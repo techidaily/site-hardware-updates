@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary M3 MacBook Air Unveiled: The New Accessible, AI-Powered Laptop From Apple - Comprehensive Review on ZDNet"
-date: 2024-10-20T16:28:18.821Z
-updated: 2024-10-27T02:43:50.919Z
+date: 2024-10-30T21:43:14.888Z
+updated: 2024-11-01T16:18:21.759Z
 tags:
   - laptops
 categories:
@@ -68,10 +68,10 @@ The ability to run two external monitors with the lid closed is one of the M3 Ma
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How I tested the M3 MacBook Air
@@ -79,6 +79,13 @@ Jason Hiner/ZDNET
 In terms of qualitative testing, I wrote this article on the M3 MacBook Air and used my daily work applications -- Slack, Microsoft Outlook, Google Drive, and ZDNET's CMS. I also used Adobe Lightroom for processing photos, including AI features. I fired up YouTube in Safari to play the song Eclipse from the Dune 2 soundtrack as a way to test the audio quality of the built-in speakers. I also played the 2021 Dune movie in 4K from my library in the Apple TV Plus app to test the display quality of the M3 MacBook Air. I expect there will be a lot more AI testing to do after WWDC 2024 in June when Apple is likely to unveil its generative AI tools.
 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
 
@@ -109,10 +116,16 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Cinebench CPU/GPU benchmark (higher is better)
@@ -158,10 +171,10 @@ Jason Hiner/ZDNET
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -189,13 +202,6 @@ That keeps mainstream Mac laptops at a more approachable price and allows the Ma
 Up close with the M3 MacBook Air 15-inch in Midnight.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -243,20 +249,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/reating-your-own-path-on-youtube-a-course-guide/"><u>[New] Creating Your Own Path on YouTube A Course Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-refining-your-tiktok-profile-age-with-ease/"><u>[Updated] Refining Your TikTok Profile Age with Ease</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-review-of-amds-latest-leap-delving-into-zen-5-architecture-ryzen-9000-performance-and-radeon-enhancements/"><u>Comprehensive Review of AMD's Latest Leap – Delving Into Zen 5 Architecture, Ryzen 9000 Performance & Radeon Enhancements</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/digital-filmmaking-6-key-color-techniques-for-2024/"><u>Digital Filmmaking 6 Key Color Techniques for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-install-the-latest-razer-blackwidow-driver-update/"><u>Easy Steps to Install the Latest Razer BlackWidow Driver Update</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/enable-vlcs-webcam-recording-for-high-quality-footage-for-2024/"><u>Enable VLC's Webcam Recording for High-Quality Footage for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/evaluating-effectiveness-of-german-and-french-in-communication/"><u>Evaluating Effectiveness of German & French in Communication</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-epson-wf-2630-printer-drivers-compatible-with-windows-7-81-and-10/"><u>Free Epson WF-2630 Printer Drivers: Compatible with Windows 7, 8.1 & 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-optimal-graphics-card-functionality-with-updated-geforce-210-nvidia-drivers-for-win-10/"><u>Get Optimal Graphics Card Functionality with Updated GeForce 210 Nvidia Drivers for Win 10</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-subscribers-guide-to-effective-dialogue-on-youtube/"><u>In 2024, The Subscriber's Guide to Effective Dialogue on YouTube</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-scoop-on-cutting-edge-gadgets-by-tech-expert-tom/"><u>Inside Scoop on Cutting-Edge Gadgets by Tech Expert, Tom</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-version-of-thrustmaster-t300-driver-for-windows-11-and-10-free-download-guide/"><u>Latest Version of Thrustmaster T300 Driver for Windows 11 & 10 - Free Download Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/see-clearly-now-the-leading-online-tools-for-flawless-photos-for-2024/"><u>See Clearly Now The Leading Online Tools for Flawless Photos for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/step-by-step-guide-reviving-your-iphone-without-using-a-previous-backup/"><u>Step-by-Step Guide: Reviving Your iPhone Without Using a Previous Backup</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/trailblaze-with-our-list-of-the-top-9-resources-for-dynamic-3d-fonts/"><u>Trailblaze with Our List of The Top 9 Resources for Dynamic 3D Fonts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-economical-skydrive-vault-mass-file-management-on-a-dime-for-2024/"><u>[New] Economical Skydrive Vault Mass File Management on a Dime for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-swipe-to-enhance-turning-videos-upside-down/"><u>[New] In 2024, Swipe to Enhance Turning Videos Upside Down</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-discovering-your-youtube-comments-on-various-devices-for-2024/"><u>[Updated] Discovering Your YouTube Comments on Various Devices for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-youtubes-virality-secrets-effective-hashtag-strategies/"><u>[Updated] YouTube's Virality Secrets Effective Hashtag Strategies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/44cm44k544oe44ox44op44og44o844ot44o844ki44ox44oq44cn44gl44kj5rai44gi44kl44kz44oz44og44oz44oe77ya5b6p5ywd44gz44kl5oml6acg44go44os44oz44oi/"><u>「スマプラムービーアプリ」から消えるコンテンツ：復元する手順とヒント</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/drivers-for-epson-download-and-update-for-windows-easily/"><u>Drivers for Epson Download & Update for Windows EASILY!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-thunderbolt-driver-downloads-compatible-with-windows/"><u>Free Thunderbolt Driver Downloads: Compatible with Windows</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-pickup-vs-competitors-unveiling-the-best-android-photo-editor/"><u>In 2024, PickUp Vs. Competitors Unveiling the Best Android Photo Editor</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-vivo-y78t-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Vivo Y78t to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/maximize-learning-mac-methods-to-document-lectures/"><u>Maximize Learning Mac Methods to Document Lectures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-bluetooth-functionality-on-your-windows-nx-device/"><u>Restore Bluetooth Functionality on Your Windows nX Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-process-to-download-and-update-your-dell-latitude-e6430s-driver-on-a-windows-computer-fixed/"><u>Step-by-Step Process to Download & Update Your Dell Latitude E6430's Driver on a Windows Computer [FIXED]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-best-in-electronics-insights-from-toms-hardware/"><u>Unveiling the Best in Electronics: Insights From Tom’s Hardware</u></a></li>
 </ul></div>
 

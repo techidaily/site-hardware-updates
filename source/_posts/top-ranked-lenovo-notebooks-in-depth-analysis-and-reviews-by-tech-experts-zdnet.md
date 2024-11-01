@@ -1,7 +1,7 @@
 ---
 title: "Top-Ranked Lenovo Notebooks : In-Depth Analysis & Reviews by Tech Experts - ZDNet"
-date: 2024-10-20T23:47:13.977Z
-updated: 2024-10-26T23:04:09.694Z
+date: 2024-10-29T18:30:44.372Z
+updated: 2024-11-01T17:20:57.750Z
 tags:
   - laptops
 categories:
@@ -45,21 +45,7 @@ Cons
 * 8GB of RAM on base model is limiting
 * Built-in speakers could be stronger
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple MacBook Air M3
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best lightweight laptop overall
 
@@ -91,13 +77,6 @@ Cons
 
 ## Acer Swift Go 14
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best lightweight laptop for AI
 
 The Acer Swift Go 14 is one of the first portable laptops to come with Intel's new "Meteor Lake" processor, which has a dual-core neural processing unit (NPU) designed to take on AI workloads. This makes the Acer Swift Go 14 well-positioned to handle AI technology as it becomes increasingly more ubiquitous, giving it an edge that makes it our pick for best lightweight AI laptop.
@@ -124,13 +103,20 @@ Cons
 * Compact size means it can run hot
 * Comes pre-loaded with bloatware
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Asus ROG Zephyrus G14
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best lightweight laptop for gaming
@@ -193,6 +179,13 @@ Cons
 * Battery life is not the best
 * Expensive
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Lenovo ThinkPad X1 Carbon
 
 ### Best lightweight laptop for work
@@ -208,6 +201,13 @@ It also comes with an 8MP webcam that can shoot in 4K, perfect for presenting a 
 **Lenovo ThinkPad X1 Carbon t** **ech specs:** Intel Core Ultra 7 155H processor | Integrated Intel graphics card | 16GB memory, 1TB SSD | 14-inch OLED display | Up to 8 hours of battery life | 2.47 lbs 
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is the best lightweight laptop?
 
@@ -234,10 +234,10 @@ The best lightweight laptop for you depends on what you want to get out of it. L
 | Lenovo X1 Carbon                    | A durable, powerful laptop for work.                                                     |
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How we test lightweight laptops
@@ -264,6 +264,13 @@ These laptops all offer solid performance in their own right, but paired with th
 * **Battery life:** In order to be considered for this list, I considered machines with better-than-average battery life. This is one metric that will vary significantly based on use case, but all of these laptops will easily last an entire workday (eight hours) on one charge, even while undergoing demanding workloads
 * **Price:** Cost is an important factor and will make or break many consumers' choices. The reality is that ultraportability does come at a cost, as none of these laptops would be considered "budget" by any rate. The Acer Swift Go 14, however, is still quite affordable, starting at $800, though upgrades will move that number more in line with the others on this list.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why does having a lightweight laptop matter?
 
 The answer to this question is simple: laptops are made to be carried around, and no one wants to carry a heavy computer. Having a thin, lightweight machine opens up its usability and lets you take it places you normally wouldn't consider possible. 
@@ -289,10 +296,10 @@ We love lightweight laptops because they're easy to carry around. But the backpa
 [ZDNET RECOMMENDS Matein Travel Laptop Backpack Packed with travel-friendly features like a luggage strap and an anti-theft back pocket that protects your valuables, the Matein travel laptop is an inexpensive and solid travel backpack for your laptop. A bonus feature is an external USB charging port for easy charging on the go. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBackpack-Business-Charging-Resistant-Computer%2Fdp%2FB06XZTZ7GB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8589d0e2-8331-4290-b852-f74426c3cd72%7Cdtp&dtb=1)[ZDNET RECOMMENDS Herschel Little America Backpack Herschel backpacks have a timeless design that's comfortable to wear thanks to the contoured padded back straps. It comes in two sizes which can hold up to a 13-inch laptop or a 15-inch laptop. Its drawstring closure expands to create extra storage space while the magnetic front straps secure what's inside. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB00838TCGO%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8589d0e2-8331-4290-b852-f74426c3cd72%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which operating system should you choose: Windows, MacOS, Chrome OS, or Linux?
@@ -302,19 +309,6 @@ While every computing platform has its loyal supporters, most people end up usin
 **Also:** **[Comparing the best Macs: Is a MacBook or Mac Studio right for you?](https://www.zdnet.com/article/best-mac/)** 
 
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Are there alternative lightweight laptops worth considering?
 
@@ -362,22 +356,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-navigating-and-leveraging-siri-for-tiktok-content-creation/"><u>[New] 2024 Approved Navigating and Leveraging Siri for TikTok Content Creation</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-vsco-editors-handbook/"><u>2024 Approved The Ultimate VSCO Editor's Handbook</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/advanced-reviewing-of-gear-by-tom-in-depth-computer-and-electronics-analysis/"><u>Advanced Reviewing of Gear by Tom: In-Depth Computer and Electronics Analysis</u></a></li>
-<li><a href="https://driver-download.techidaily.com/brother-l2690dw-all-in-one-printer-drivers-install-and-upgrade/"><u>Brother L2690dw All-in-One Printer Drivers: Install and Upgrade</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/could-vince-lucidos-edgy-evga-rtx-3090-kingpin-dethrone-dominant-rtx-gpus-in-gaming-realms/"><u>Could Vince Lucido's Edgy EVGA RTX 3090 'Kingpin' Dethrone Dominant RTX GPUs in Gaming Realms?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-analysis-on-electronics-by-toms-hardware-specialist/"><u>Expert Analysis on Electronics by Tom's Hardware Specialist</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016254034-get-your-sound-back-fix-voice-chat-and-microphone-malfunctions-on-pc-and-consoles-for-call-of-dutys-battle-royale-game/"><u>Get Your Sound Back: Fix Voice Chat and Microphone Malfunctions on PC & Consoles for Call of Duty's Battle Royale Game.</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/guide-to-cloning-disk-drives-between-two-storage-units-on-windows-11/"><u>Guide to Cloning Disk Drives Between Two Storage Units on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-honor-play-40c-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor Play 40C without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-mastering-audible-content-conversion-into-slide-ready-format-with-powerpoint/"><u>In 2024, Mastering Audible Content Conversion Into Slide-Ready Format with PowerPoint</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mindful-interaction-gpt-powered-counseling-practices/"><u>Mindful Interaction: GPT-Powered Counseling Practices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/reaching-new-heights-with-overclocking-how-i-pushed-a-ryzen-9-3900xt-beyond-world-records/"><u>Reaching New Heights with Overclocking: How I Pushed a Ryzen 9 3900XT Beyond World Records</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-computer-enthusiasts-toms-technological-breakdown/"><u>The Ultimate Resource for Computer Enthusiasts – Tom's Technological Breakdown</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-comprehensive-gadget-analysis-and-reviews/"><u>Tom's Tech Review: Comprehensive Gadget Analysis and Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-in-depth-hardware-analysis-t17239718691776/"><u>Tom's Tech Review: In-Depth Hardware Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-the-full-potential-of-your-intel-core-i7-7700k-processor-with-expert-overclocking-techniques-and-lid-removal-modifications/"><u>Unlock the Full Potential of Your Intel Core I7-^7700K Processor with Expert Overclocking Techniques and Lid Removal Modifications</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723964461761-world-record-shattered-by-intel-core-i9-14900kf-approaching-the-speed-of-91ghz/"><u>World Record Shattered by Intel Core I9-14900KF: Approaching the Speed of 9.1GHz!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-youtube-collabs-how-to-find-youtube-collaboration-partners/"><u>[Updated] In 2024, YouTube Collabs How to Find YouTube Collaboration Partners?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-epson-perfection-v600-driver-setup-pack/"><u>Download the Newest Epson Perfection V600 Driver Setup Pack</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-access-asus-dvd-hardware-driver-installation-guide/"><u>Easy Access: ASUS DVD Hardware Driver Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971895143-easy-and-quick-download-your-asus-monitor-drivers-without-hassle/"><u>Easy and Quick: Download Your ASUS Monitor Drivers Without Hassle</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722963133011-fix-and-download-wireless-device-model-1eb-1535-system-driver-issue-solved/"><u>Fix & Download Wireless Device Model 1Eb-1535 System Driver - Issue Solved!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-tutorial-for-updating-windows-battery-management-drivers/"><u>Hassle-Free Tutorial for Updating Windows Battery Management Drivers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-building-your-virtual-persona-with-minimal-hassle/"><u>In 2024, Building Your Virtual Persona with Minimal Hassle</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Lava Blaze 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/integrating-linktree-in-your-tiktok-bio-for-maximum-impact-for-2024/"><u>Integrating Linktree in Your TikTok Bio for Maximum Impact for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-honor-x50-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor X50 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/stream-with-style-hacks-to-keep-your-daily-video-game-engaging-for-2024/"><u>Stream with Style Hacks to Keep Your Daily Video Game Engaging for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-acquiring-and-maintaining-the-newest-sas-driver-for-windows-users/"><u>The Ultimate Guide to Acquiring & Maintaining the Newest SAS Driver for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-top-tech-picks-a-journey-through-toms-hardware-world/"><u>Unveiling Top Tech Picks: A Journey Through Tom's Hardware World</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-8-best-free-video-game-sound-effects-you-need-to-know/"><u>Updated In 2024, 8 Best Free Video Game Sound Effects You Need to Know</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/zooming-into-success-a-complete-guide-to-podcast-audio-capture-for-2024/"><u>Zooming Into Success A Complete Guide to Podcast Audio Capture for 2024</u></a></li>
 </ul></div>
 

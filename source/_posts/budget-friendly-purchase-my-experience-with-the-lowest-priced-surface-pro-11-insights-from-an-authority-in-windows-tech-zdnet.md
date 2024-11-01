@@ -1,7 +1,7 @@
 ---
 title: "Budget-Friendly Purchase: My Experience with the Lowest-Priced Surface Pro 11 - Insights From an Authority in Windows Tech (ZDNet)"
-date: 2024-10-21T20:41:36.774Z
-updated: 2024-10-26T18:09:15.672Z
+date: 2024-10-25T21:57:11.626Z
+updated: 2024-11-01T20:52:18.171Z
 tags:
   - laptops
 categories:
@@ -45,10 +45,10 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 How did this happen? Let's dive in.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The experience is familiar
@@ -62,13 +62,6 @@ And as for the software, well … It's Windows 11, which looks and acts the same
 The big difference is that this next-gen device is extremely cool and quiet. After a three-hour Zoom call the other day, the chassis was barely warm; on an Intel-based machine, it would have been uncomfortably hot. There's a fan inside the Surface Pro 11, but I have yet to hear it run, even under the most demanding conditions. It's also extremely responsive, with none of the hesitation I occasionally noticed on the Surface Pro X. If you've used an M2-equipped MacBook Air, the feeling will be familiar.
 
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Battery life is a huge win
 
@@ -87,10 +80,10 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -129,6 +122,13 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The AI story is incomplete
 
 Every PC in the Copilot+ line includes a powerful neural processing unit designed to accelerate AI-based activities. Because I didn't spring for Microsoft's pricey new [Flex Keyboard](https://www.microsoft.com/en-us/d/surface-pro-flex-keyboard-with-slim-pen/93fzrmtgj6jw) and stuck with my old Type Cover, I didn't get a dedicated Copilot key. Instead, I had to run the [Copilot app](https://www.zdnet.com/article/microsoft-is-turning-windows-copilot-into-a-regular-app-and-heres-why-youll-like-it/), which works exactly like it does on any other Windows 11 PC. If it was chatting faster, I didn't notice.
@@ -150,10 +150,10 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -200,21 +200,18 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-audience-centric-approaches-to-voiceover-on-slides/"><u>[New] Audience-Centric Approaches to Voiceover on Slides</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-crafting-immersive-brand-experiences-in-metaverse/"><u>[New] Crafting Immersive Brand Experiences in Metaverse</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-rhythm-reversal-top-10-audio-distortors-for-devices/"><u>[Updated] 2024 Approved Rhythm Reversal Top 10 Audio Distortors for Devices</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-overcoming-sync-issues-ensuring-smooth-video-sharing-on-mobile-messengers/"><u>[Updated] Overcoming Sync Issues Ensuring Smooth Video Sharing on Mobile Messengers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-definitive-vivacut-video-editing-manual-for-24/"><u>[Updated] The Definitive VivaCut Video Editing Manual for '24</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/a-user-friendly-walkthrough-seamless-driver-rejuvenation-for-your-dell-g7s-gpu/"><u>A User-Friendly Walkthrough: Seamless Driver Rejuvenation for Your Dell G7's GPU</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-upgrade-amd-vega-graphics-card-drivers-optimized-gaming-experience/"><u>Download and Upgrade AMD Vega Graphics Card Drivers: Optimized Gaming Experience!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-and-free-updated-sound-blaster-audigy-fx-drivers-for-superior-audio-performance/"><u>Easy & Free: Updated Sound Blaster Audigy Fx Drivers for Superior Audio Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-the-latest-hp-deskjet-ink-advantage-3520-drivers-for-your-computer/"><u>Find the Latest HP Deskjet Ink Advantage 3520 Drivers for Your Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fixing-the-hp-beats-audio-driver-glitch-for-optimal-performance-on-your-pc-running-windows-1187/"><u>Fixing the HP Beats Audio Driver Glitch for Optimal Performance on Your PC Running Windows 11/8/7</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-xiaomi-redmi-note-12-4g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Xiaomi Redmi Note 12 4G Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-safely-acquire-corsair-keyboard-software-and-drivers-for-windows-free-download/"><u>How to Safely Acquire Corsair Keyboard Software & Drivers for Windows - FREE Download</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-places-to-go-the-best-online-hubs-for-text-effects/"><u>In 2024, Places to Go The Best Online Hubs for Text Effects</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-your-device-uninterrupted-revealing-the-top-7-android-adblockers/"><u>In 2024, Your Device, Uninterrupted Revealing the Top 7 Android AdBlockers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/insightful-analysis-the-dji-inspire-2-story-for-2024/"><u>Insightful Analysis - The DJI Inspire 2 Story for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instant-access-to-the-ft232r-uart-driver-free-easy-download/"><u>Instant Access to the FT232R UART Driver - Free, Easy Download!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-budget-friendly-pc-screen-capture-software/"><u>[New] Budget-Friendly PC Screen Capture Software</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-tactics-for-trimming-outside-fb-ads/"><u>[New] In 2024, Tactics for Trimming Outside FB Ads</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-seamless-social-integration-twitter-and-facebook-connections/"><u>[Updated] 2024 Approved Seamless Social Integration Twitter & Facebook Connections</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/content-originality-challenges-artificial-intelligence/"><u>Content Originality Challenges Artificial Intelligence</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/critical-fixes-implemented-for-pci-encryption-decoding-system-driver-challenges/"><u>Critical Fixes Implemented for PCI Encryption Decoding System Driver Challenges</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-latest-version-comprehensive-guide-to-epson-et-3760-printer-drivers-on-windows/"><u>Download and Install the Latest Version: Comprehensive Guide to Epson ET-3760 Printer Drivers on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-setup-corsair-void-pro-drivers-on-windows-with-quick-steps-get-started-now/"><u>Download and Setup Corsair Void Pro Drivers on Windows with Quick Steps - Get Started Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-brother-hl-3170cdw-drivers-instant-downloads-and-steps-for-smooth-operation/"><u>Get Brother HL-3170CDW Drivers: Instant Downloads and Steps for Smooth Operation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-best-options-ultimate-guide-to-macs-video-capturing-tools/"><u>In 2024, Best Options Ultimate Guide to Mac's Video Capturing Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-key-techniques-for-smooth-screen-sharing-on-mobiledesktop/"><u>In 2024, Key Techniques for Smooth Screen Sharing on Mobile/Desktop</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/offline-methods-to-update-and-install-windows-hardware-drivers/"><u>Offline Methods to Update and Install Windows Hardware Drivers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210411314-9781722527006-the-law-and-the-promise/"><u>The Law and the Promise | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zen-daddy/"><u>Zen Daddy</u></a></li>
 </ul></div>
 

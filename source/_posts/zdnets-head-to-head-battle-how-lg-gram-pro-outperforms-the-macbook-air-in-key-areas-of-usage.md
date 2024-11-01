@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Head-to-Head Battle: How LG Gram Pro Outperforms the MacBook Air in Key Areas of Usage"
-date: 2024-10-25T16:49:14.549Z
-updated: 2024-10-26T21:50:47.498Z
+date: 2024-10-31T20:21:31.743Z
+updated: 2024-11-01T19:34:48.047Z
 tags:
   - laptops
 categories:
@@ -43,10 +43,10 @@ There I was, with two relatively large-sized, ultraportable laptops and a digita
 The LG Gram Pro 16 2-in-1 had already set the mark at 3.04 pounds. Then came the 15-inch MacBook Air, clocking in at 3.51 pounds. A slight sigh of relief could be felt behind me. How exactly does LG achieve this weight? They're chalking it up to the nano-magnesium alloy construction, which feels more plasticky than the MacBook's all-aluminum build, but which is noticeably lighter in the hand, especially when I moved the laptops around for pictures.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. It's all about the use of space
@@ -60,10 +60,10 @@ The curvatures of the LG Gram Pro edges also mean that the company can fit more 
 As someone who still relies on legacy devices, such as hard drives, that have USB-A ports, the presence of the standard and added flexibility of the Gram makes it a better productivity laptop for me. It also helps to have the HDMI slot for when you're traveling and want to connect to a hotel TV or monitor.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. OLED makes all the difference
@@ -77,10 +77,16 @@ Don't get me wrong, the Liquid Retina (IPS) display on the 15-inch MacBook Air i
 LG offers the new Gram Pro laptops in IPS and OLED variants, but the latter versions that I tested at the venue were noticeably sharper and more color-accurate. It helped that LG had set black wallpapers on the demo units, which made the individual icons and self-emissive pixels pop a little more.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -119,17 +125,18 @@ LG prices its [OLED Gram Pro laptops](https://shop-links.co/link/?exclusive=1&pu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-asmr-production-101-essential-strategies-for-cutting-edge-video-making/"><u>[New] In 2024, ASMR Production 101 Essential Strategies for Cutting-Edge Video Making</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-chic-and-stylish-beauty-videos/"><u>[Updated] 2024 Approved Chic and Stylish Beauty Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-quickly-transform-sluggish-videos-on-android/"><u>[Updated] Quickly Transform Sluggish Videos on Android</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-historical-knowledge-at-your-fingertips-best-yt-history-channels/"><u>2024 Approved Historical Knowledge at Your Fingertips Best YT History Channels</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/2024s-finest-a-curated-list-of-premium-ultralight-laptops-and-elite-computers/"><u>2024'S Finest - A Curated List of Premium Ultralight Laptops & Elite Computers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-an-in-depth-performance-breakdown-of-the-cutting-edge-asus-zenbook-s16-with-amds-top-of-the-line-ryzen-ai-echnology-the-ryzen-ai-9-hx-370/"><u>Get an In-Depth Performance Breakdown of the Cutting-Edge Asus Zenbook S16 with AMD's Top-of-the-Line Ryzen AI Echnology: The Ryzen AI 9 HX 370.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/glimpse-into-the-new-era-of-laptops-leaked-visuals-reveal-ai-powered-qualcomm-snapdragon-inside-next-gen-dell-xps-and-inspiron-notebooks-expected-this-fall.1/"><u>Glimpse Into the New Era of Laptops – Leaked Visuals Reveal AI-Powered Qualcomm Snapdragon Inside Next-Gen Dell XPS & Inspiron Notebooks, Expected This Fall</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-to-restore-ntfs-partition-on-windows-11-and-windows-10/"><u>How to Restore NTFS Partition on Windows 11 and Windows 10</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Vivo Y78 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-toms-electronics-a-comprehensive-guide-to-todays-devices/"><u>Inside Tom's Electronics: A Comprehensive Guide to Today's Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/is-a-machine-with-minds-essential-for-digital-enthusiasts-unveiling-the-reality/"><u>Is a Machine with Minds Essential for Digital Enthusiasts? Unveiling the Reality!</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-guide-to-resolving-windows-http-too-many-requests-issue/"><u>Mastery Guide to Resolving Windows' HTTP Too Many Requests Issue</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-crafting-the-perfect-tiktok-image-with-simple-hacks/"><u>[New] 2024 Approved Crafting the Perfect TikTok Image with Simple Hacks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-efficiently-applying-luts-in-video-editing-premiere-for-2024/"><u>[Updated] Efficiently Applying LUTs in Video Editing Premiere for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-examining-youtubes-noteworthy-chats/"><u>2024 Approved Examining YouTube's Noteworthy Chats</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-tales-of-timeless-togetherness-this-seasons-top-10/"><u>2024 Approved Tales of Timeless Togetherness This Season's Top 10</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/discovering-the-best-in-class-9-microphone-recorders-reviewed-for-2024/"><u>Discovering the Best in Class 9 Microphone Recorders Reviewed for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a25-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Galaxy A25 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-webcam-and-monitor-recording-how-to-combine/"><u>In 2024, Webcam & Monitor Recording How to Combine</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-restoring-audio-functionality-in-windows-amoled-with-conexants-smartaudio-hd/"><u>Troubleshooting Steps: Restoring Audio Functionality in Windows Amoled with Conexant's SmartAudio HD</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-vintage-apple-ii-computer-with-a-high-definition-media-extension/"><u>Upgrade Your Vintage Apple II Computer with a High-Definition Media Extension</u></a></li>
+<li><a href="https://facebook.techidaily.com/what-lies-within-the-world-of-facebook-dating/"><u>What Lies Within the World of Facebook Dating?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-actual-performance-outshines-factory-specs-uncover-the-truth-behind-real-world-results/"><u>Why Actual Performance Outshines Factory Specs: Uncover the Truth Behind Real-World Results</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-are-gaming-communities-divided-over-this-cutting-edge-anti-cheating-software/"><u>Why Are Gaming Communities Divided Over This Cutting-Edge Anti-Cheating Software?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-hasnt-this-smart-technology-revolutionized-every-home-yet/"><u>Why Hasn't This Smart Technology Revolutionized Every Home Yet?</u></a></li>
 </ul></div>
 

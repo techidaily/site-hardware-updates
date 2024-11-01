@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Editor's Choice: Highlights From CES 2024 You Can't Miss"
-date: 2024-10-19T19:25:54.996Z
-updated: 2024-10-26T23:05:20.429Z
+date: 2024-10-28T17:35:44.847Z
+updated: 2024-11-01T21:51:21.295Z
 tags:
   - laptops
 categories:
@@ -26,6 +26,13 @@ The ZDNET team scoured CES 2024 to find the most innovative new tech and the mos
 
 But we also wanted to give you a list of our absolute top picks from CES that we think will be most worth your hard-earned money when they launch in 2024\. And naturally, we also wanted to highlight the best innovations -- products that you may not buy but are worth knowing about because they could influence other products that you may want to bring into your life in the future. So here they are. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Samsung S95D OLED: Best TV
 
 TV innovation was everywhere at CES 2024 with transparent TVs, over 100-inch QLEDs, folding TVs, and 8K projectors. But the best TV of the show had a more subtle upgrade that will have a much bigger impact on the quality of the everyday viewing experience. The Samsung S95D OLED TV unveiled a glare-free display that offers the best qualities of anti-reflective screens while maintaining the intense colors and excellent dynamic range that make OLED the top technology for picture quality. We tested the glare-free display with an intense phone camera flash and were amazed at how well it dispersed the light. This means that you can now use this TV in the brightest rooms -- one of the biggest challenges for OLED TVs. I'm confident [that will give this the TV with the best picture quality on the market](https://www.zdnet.com/home-and-office/home-entertainment/best-tv-of-ces-2024-samsung-s95d-oled/) when it launches this spring. It will likely cost around $2,500, until it gets discounted around Black Friday. 
@@ -34,13 +41,6 @@ Samsung S95D
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Lenovo ThinkBook Plus Gen 5 Hybrid: Best laptop
 
 We've tested and seen plenty of 2-in-1 computers at ZDNET, but there's none quite like Lenovo's new ThinkBook Plus Gen 5 Hybrid. That's because this is the world's first 2-in-1 Windows PC and Android tablet, meaning as you detach the 14-inch OLED display from the keyboard, the device automatically converts into the Android operating system. On top of that, you can still connect the bottom keyboard portion of the 2-in-1 to an external monitor, giving you, essentially, two computers to work with. 
@@ -48,6 +48,19 @@ We've tested and seen plenty of 2-in-1 computers at ZDNET, but there's none quit
 Lenovo ThinkBook Plus Gen 5 Hybrid
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## TimeKettle X1 Interpreter Hub: Best AI device
 
@@ -58,10 +71,10 @@ TimeKettle X1 Interpreter Hub
 Sabrina Ortiz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MSI Claw: Best gaming device
@@ -88,13 +101,6 @@ Holoconnect Holobox
 
 ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## TCL 115-inch QD-MiniLED TV: Best TV innovation
 
 The recent trend in Laser TV and ultra short throw (UST) projectors has spawned a wave of interest in 100-inch and 120-inch screens to create a more cinema-like experience at home. At CES, Samsung even unveiled an 8K projector that goes up to 150 inches. The challenge with these projectors is that they're never going to have the same level of dynamic range, brightness, or color intensity as today's best OLED and QLED TVs. TCL had an answer to that at CES with the announcement of its 115-inch QD-MiniLED TV. We were highly impressed with the picture quality of this QLED display in a private demo. It's an extension of [TCL's QM8 series](https://www.zdnet.com/home-and-office/home-entertainment/best-tv/), which ZDNET and others have rated as one of the best TVs on the market. The TCL 115QM891G (the official product name) kicks it up a notch with 5,000 nits of brightness and 20,000 local dimming zones to drive excellent dynamic range and sharp colors. Pricing wasn't announced but it will likely cost around $20,000 and it will be available at Best Buy. That makes it an ultra-premium purchase, but if you have the space and the budget then you can now get a projector-level screen size with the benefits of the latest advances in QLED picture quality. 
@@ -104,10 +110,10 @@ TCL 115-inch QD-MiniLED TV
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Rabbit: Best AI innovation
@@ -166,22 +172,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-best-practices-selecting-among-top-9-free-logo-designers/"><u>[Updated] 2024 Approved Best Practices Selecting Among Top 9 Free Logo Designers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-alight-motion-comprehensive-review-2023/"><u>[Updated] Alight Motion Comprehensive Review 2023</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-ions-innovation-showcased-action-camera-review-of-pro-3-model/"><u>2024 Approved ION's Innovation Showcased Action Camera Review of Pro 3 Model</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-graphics-cards-a-complete-guide-to-the-new-benchmarks-hierarchy/"><u>Best Graphics Cards : A Complete Guide to the New Benchmarks Hierarchy</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/budget-friendly-high-speed-storage-solution-from-kingston-experience-the-nv3-m2-ssd-featuring-pcie-40-for-6gbsplus-performance/"><u>Budget-Friendly High Speed Storage Solution From Kingston: Experience the NV3 M.2 SSD, Featuring PCIe 4.0 for 6GB/S+ Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discounted-deal-amds-ryzen-5-8600g-apu-now-available-at-just-181-from-amazon/"><u>Discounted Deal: AMD's Ryzen 5 8600G APU Now Available at Just $181 From Amazon</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-analysis-by-tom-on-cutting-edge-computing-equipment/"><u>Expert Analysis by Tom on Cutting-Edge Computing Equipment</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-latest-gear-with-toms-hardware-experts-comprehensive-guides-and-comparisons/"><u>Exploring the Latest Gear with Tom’s Hardware Experts: Comprehensive Guides and Comparisons</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/facebook-alternatives-connecting-on-messenger-without-an-official-account/"><u>Facebook Alternatives: Connecting on Messenger without an Official Account</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How to Change/Add Location Filters on Snapchat For your Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-drone-footage-a-step-by-step-guide-for-2024/"><u>Mastering Drone Footage A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-the-issue-start-up-problems-with-call-of-duty-black-ops-4-demystified/"><u>Solving the Issue: Start-Up Problems with Call of Duty: Black Ops 4 Demystified</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-gpu-performance-leaders-of-2024-comprehensive-graphics-card-rating-chart/"><u>Top GPU Performance Leaders of 2024: Comprehensive Graphics Card Rating Chart</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-processor-promotions-exclusive-discounts-on-amd-and-intel-models/"><u>Top Processor Promotions : Exclusive Discounts on AMD & Intel Models</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-complete-guide-to-overcome-windows-error-0x80244010-during-updates/"><u>Troubleshooting Complete Guide to Overcome Windows Error 0X80244010 During Updates</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-reno-11-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo Reno 11 5G FRP Bypass</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-gadgets-with-toms-hardware-experts/"><u>Unveiling the Latest Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-unveiling-magixs-image-organizer-insights/"><u>[New] 2024 Approved Unveiling MAGIX's Image Organizer Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-downloading-and-updating-hp-officejet-pro-6970-drivers-on-pc/"><u>Easy Steps to Downloading and Updating HP OfficeJet Pro 6970 Drivers on PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-enhanced-audio-with-a-free-m-audio-ultratrack-pro-get-yours-now/"><u>Experience Enhanced Audio with a Free M-Audio UltraTrack Pro - Get Yours Now</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-health-communication-winning-on-social-networks/"><u>In 2024, Health Communication Winning on Social Networks</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-maximize-screen-tv-playback-for-youtube-clips/"><u>In 2024, Maximize Screen TV Playback for YouTube Clips</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-pro-photographers-choices-ranking-the-top-6-4k-dslrs/"><u>In 2024, Pro Photographers’ Choices Ranking the Top 6 4K DSLRs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-updated-samsung-ubd-k8500-analysis/"><u>In 2024, Updated Samsung UBD-K8500 Analysis</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-install-kinemaster-on-mac-a-comprehensive-tutorial/"><u>New Install KineMaster on Mac A Comprehensive Tutorial</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/solving-the-blu-ray-disc-error-screen-during-dvd-extraction-process/"><u>Solving the Blu-Ray Disc Error Screen During DVD Extraction Process</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshoot-and-fix-hp-audio-driver-errors-for-windows-operating-systems/"><u>Troubleshoot and Fix HP Audio Driver Errors for Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-resolving-intel-csr8510a10-driver-errors-in-windows-os/"><u>Troubleshooting and Resolving Intel CSR8510/A10 Driver Errors in Windows OS</u></a></li>
 </ul></div>
 

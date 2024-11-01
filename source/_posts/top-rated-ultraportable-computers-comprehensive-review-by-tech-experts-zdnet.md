@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Ultraportable Computers : Comprehensive Review by Tech Experts | ZDNet"
-date: 2024-10-24T01:33:30.373Z
-updated: 2024-10-26T17:49:36.409Z
+date: 2024-10-31T16:22:16.973Z
+updated: 2024-11-01T20:56:11.456Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,13 @@ All of the ultraportable laptops on this list sport cutting-edge form factors, a
 
 Our overall top pick for the best lightweight laptop has to go to the [Apple MacBook Air M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24JRLR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc28a4431-b46d-4003-a2c6-d93fc1ef5396%7Cdtp&dtb=1). In terms of portability, sleek form factor, solid battery life, and AI-capabilities, the MacBook Air M3 reigns supreme among the lightest of the light. It might not be the best pick for you, however, so we included other options that round out the spectrum of common use cases. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The best ultraportable laptops of 2024
 
 Show less 
@@ -46,6 +53,13 @@ Cons
 * Built-in speakers could be stronger
 
 ## Apple MacBook Air M3
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best lightweight laptop overall
 
@@ -75,13 +89,6 @@ Cons
 * Generic design
 * Loud fans
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Acer Swift Go 14
 
 ### Best lightweight laptop for AI
@@ -109,13 +116,6 @@ Pros
 Cons 
 * Compact size means it can run hot
 * Comes pre-loaded with bloatware
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Asus ROG Zephyrus G14
 
@@ -149,10 +149,10 @@ Cons
 * Expensive
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## LG Gram Pro 17
@@ -203,16 +203,10 @@ It also comes with an 8MP webcam that can shoot in 4K, perfect for presenting a 
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the best lightweight laptop?
@@ -239,13 +233,6 @@ The best lightweight laptop for you depends on what you want to get out of it. L
 | LG Gram Pro 17                      | The lightest, thinnest 17-inch laptop on the market, no matter the cost.                 |
 | Lenovo X1 Carbon                    | A durable, powerful laptop for work.                                                     |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How we test lightweight laptops
 
 Kyle Kucharski/ZDNET
@@ -262,6 +249,13 @@ We use a combination of methods to test laptops here at ZDNET. First, we acquire
 
 Ultimately, our goal is to break down the capabilities of each and every laptop we test into digestible terms that real people can find useful. There is a lot of noise and confusion when it comes to navigating the laptop and computer consumer market, so we hope to bring an intuitive element to the whole process by leveraging our team's decades of experience. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Factors to consider when choosing a lightweight laptop
 
 These laptops all offer solid performance in their own right, but paired with their lightweight design, bring a new level of convenience with their portability. Keep in mind that the differences in their weight here are broken down to tenths of a pound, while most people won't even notice much of a difference between two and three pounds. These other factors went into the decision making process: 
@@ -269,6 +263,13 @@ These laptops all offer solid performance in their own right, but paired with th
 * **Display:** All of the laptops evaluated here are the 14" versions, except the Gram Pro 17 of course, which is 17-inches and still one of the lightest.
 * **Battery life:** In order to be considered for this list, I considered machines with better-than-average battery life. This is one metric that will vary significantly based on use case, but all of these laptops will easily last an entire workday (eight hours) on one charge, even while undergoing demanding workloads
 * **Price:** Cost is an important factor and will make or break many consumers' choices. The reality is that ultraportability does come at a cost, as none of these laptops would be considered "budget" by any rate. The Acer Swift Go 14, however, is still quite affordable, starting at $800, though upgrades will move that number more in line with the others on this list.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why does having a lightweight laptop matter?
 
@@ -287,10 +288,10 @@ Most laptops today weigh between two and a half and five pounds, with a five-pou
 The heaviest laptops on this list are the Asus ROG Zephyrus G14 and the 15-inch MacBook Air M3, each weighing just 3.3 pounds. In the laptop world, that's light. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What slim laptop backpack do we recommend?
@@ -308,13 +309,6 @@ While every computing platform has its loyal supporters, most people end up usin
 **Also:** **[Comparing the best Macs: Is a MacBook or Mac Studio right for you?](https://www.zdnet.com/article/best-mac/)** 
 
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Are there alternative lightweight laptops worth considering?
 
@@ -362,24 +356,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-how-to-quietly-dismiss-youtube-video-teasers/"><u>[New] In 2024, How to Quietly Dismiss YouTube Video Teasers</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-building-a-stylish-tiktok-closing-credits-bar/"><u>[Updated] 2024 Approved Building A Stylish TikTok Closing Credits Bar</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-decoding-the-mystery-of-smooth-iphone-images-four-ways/"><u>[Updated] In 2024, Decoding the Mystery of Smooth iPhone Images (Four Ways)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/2024s-ultimate-guide-to-free-password-management-tools-professional-insights-and-ratings/"><u>2024'S Ultimate Guide to Free Password Management Tools: Professional Insights & Ratings</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-rx-6700-xt-windows-11107-drivers-get-your-downloads-here/"><u>AMD RX ‌6700 XT Windows 11/10/7 Drivers: Get Your Downloads Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-gaming-performance-free-rtx-2080-super-driver-downloads-for-windows-11-systems/"><u>Enhance Gaming Performance: Free RTX 2080 Super Driver Downloads for Windows 11 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-smooth-performance-free-sas-drivers-for-windows-users-compatible-with-windows-10-8-and-7/"><u>Ensure Smooth Performance: Free SAS Drivers for Windows Users - Compatible with Windows 10, 8 & 7</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-benefits-of-mechanical-keyboards-are-they-right-for-apple-enthusiasts/"><u>Exploring the Benefits of Mechanical Keyboards: Are They Right for Apple Enthusiasts?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-logitech-webcam-driver-installation-guide-for-windows-pcs/"><u>Free Logitech Webcam Driver Installation Guide for Windows PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-intel-hd-graphics-440-download-and-install-drivers/"><u>Get the Latest Intel HD Graphics 440: Download & Install Drivers</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-ultimate-ai-experience-download-nvidia-geforce-rtx-3090-drivers-compatible-with-windows-1187/"><u>Get Your Ultimate AI Experience: Download NVIDIA GeForce RTX 3090 Drivers Compatible with Windows 11/8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-easily-update-your-lenovo-t450-with-new-drivers-quick-solutions-shared-here/"><u>How to Easily Update Your Lenovo T450 with New Drivers – Quick Solutions Shared Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-and-install-epson-xtremeprecision-xp-310-printer-drivers-step-by-step-guide/"><u>How to Update & Install Epson XtremePrecision XP 310 Printer Drivers - Step by Step Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/e-imagination-crafting-engaging-content-for-channels/"><u>Ignite Imagination Crafting Engaging Content for Channels</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-6s-plus-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 6s Plus In Different Conditionsin</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-maximize-browser-functionality-chromes-full-screen-video-playback/"><u>In 2024, Maximize Browser Functionality Chrome's Full-Screen Video Playback</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-hardware-guides-by-toms-electronics-experts/"><u>In-Depth Hardware Guides by Tom's Electronics Experts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/sony-wh-1000xm4-headphones-microphone-repair-solutions-for-non-functioning-mic-on-windows-computers/"><u>Sony WH-1000XM4 Headphones Microphone Repair: Solutions for Non-Functioning Mic on Windows Computers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-driver-setup-for-hp-color-laserjet-pro-m4n-printer-easy-installation-instructions-and-download-links/"><u>Ultimate Driver Setup for HP Color LaserJet Pro M4n Printer - Easy Installation Instructions and Download Links</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-professionals-insights-into-ios-recording/"><u>2024 Approved Professionals' Insights Into iOS Recording</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-the-animators-guide-to-elite-3d-design-and-rendering-applications/"><u>2024 Approved The Animator's Guide to Elite 3D Design and Rendering Applications</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-rhythm-rulebook-seamlessly-mixing-music-into-instagram-posts/"><u>2024 Approved The Rhythm Rulebook Seamlessly Mixing Music Into Instagram Posts</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-free-app-seamlessly-cast-your-windows-media-on-apple-tv-using-airplay-technology/"><u>Best Free App: Seamlessly Cast Your Windows Media on Apple TV Using AirPlay Technology</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-extended-review-uncomplicated-hdr-approach/"><u>In 2024, Extended Review Uncomplicated HDR Approach</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-of-the-anker-maggo-mag6600-power-bank-6600mah-the-heftier-companion-to-your-iphone/"><u>In-Depth Analysis of the Anker MagGo MAG6600 Power Bank (6600mAh): The Heftier Companion to Your iPhone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-sony-ult-field-7-examination-your-go-to-bassy-festival-sound-system/"><u>In-Depth Sony ULT Field 7 Examination: Your Go-To Bassy Festival Sound System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-the-budget-friendly-walmart-4k-smart-box-now-available-for-50/"><u>Introducing the Budget-Friendly Walmart 4K Smart Box, Now Available for $50!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-the-new-beats-pill-how-apple-is-revolutionizing-the-bluetooth-speaker-arena-again/"><u>Introducing The New Beats Pill: How Apple Is Revolutionizing the Bluetooth Speaker Arena Again</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-chromebook-models-offer-free-2tb-cloud-storage-annually/"><u>New Chromebook Models Offer Free 2TB Cloud Storage Annually</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-reliability-intels-solution-to-cpu-malfunction-issues/"><u>Resolving Reliability: Intel's Solution to CPU Malfunction Issues</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210197569-9781782407133-secrets-of-numerology/"><u>Secrets of Numerology | Free Book</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-power-of-preview-a-complete-user-guide-for-mac-for-2024/"><u>Unlocking the Power of Preview A Complete User Guide for Mac for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-potential-of-smart-homes-a-thorough-assessment-of-the-linksys-velop-mesh-network-capabilities/"><u>Unveiling the Potential of Smart Homes: A Thorough Assessment of the Linksys Velop Mesh Network Capabilities</u></a></li>
 </ul></div>
 

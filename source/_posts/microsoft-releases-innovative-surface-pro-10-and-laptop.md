@@ -1,7 +1,7 @@
 ---
 title: Microsoft Releases Innovative Surface Pro 10 & Laptop
-date: 2024-10-20T21:32:17.054Z
-updated: 2024-10-26T23:56:17.462Z
+date: 2024-10-26T18:44:39.817Z
+updated: 2024-11-01T19:09:38.680Z
 tags:
   - laptops
 categories:
@@ -38,13 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 ## What's new with software and AI?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Copilot
 
 June Wan/ZDNET
@@ -56,6 +49,19 @@ Copilot will be available on Windows 11 devices, across Microsoft 365 services i
 On September 26, Copilot will begin rollout as part of a new Windows 11 release, the most ambitious update to Windows 11 since it was first released, according to Yusuf Mehdi, Corporate Vice President of Microsoft. 
 
 This is Microsoft's answer to [Google's Duet AI](https://www.zdnet.com/article/google-workspaces-ai-facelift-is-finally-here-meet-duet-ai-for-workspace/), which is another generative AI assistant that works across the Google Workspace.
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Windows 11 AI integration
 
@@ -72,6 +78,13 @@ Windows Ink Anywhere is another new Windows 11 feature that will work with Copil
 You can also use the pen within the Snipping Tool to copy and paste the equation into Copilot and have it solved. 
 
 Copilot on Windows can also obtain information from your connected smartphone so that you can ask Copilot any questions about what's on-device, like text message summaries. An example that was demoed included the presenter asking Copilot about an upcoming flight. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bing Chat updates
 
@@ -106,10 +119,10 @@ The Microsoft Shopping Experience will be a standalone site that can be accessed
 There is also a suite of new tools coming to Bing Chat Enterprise including the incorporation with mobile. Bing Chat Enterprise also supports images within the enterprise with multimodal search powered by [GPT-4](https://www.zdnet.com/article/what-is-gpt-4-heres-everything-you-need-to-know/) and Bing Image Generator. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft 365 Copilot and Microsoft 365 Chat
@@ -134,20 +147,14 @@ Microsoft Designer will also be integrated into Microsoft 365 Copilot to help ge
 
 Microsoft 365 Copilot is currently in preview with a select number of users and small businesses. 
 
-## What's new with hardware?
-
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## What's new with hardware?
 
 ## Surface Laptop Go 3
 
@@ -162,13 +169,6 @@ Other new additions include iCloud Photos Integration and Clipchamp on Windows 1
 As far as hardware and design go, the Surface Laptop Go 3 looks just about, if not the same, as the previous version, meaning you're still getting a sleek, portable form factor that's ultralight (just under 2.5 pounds) with a 12.4-inch PixelSense touchscreen at the helm.
 
 The laptop will start at $799 and be available in four colors, including Ice Blue, Sage, Sandstone, and Platinum.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Surface Laptop Studio 2
 
@@ -238,22 +238,18 @@ AI is also integrated with the Surface Hub 3\. In a post-event demo, a Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-great.techidaily.com/3-outils-efficaces-pour-la-recuperation-de-donnees-sur-disques-durs-externes-wd/"><u>3 Outils Efficaces Pour La Récupération De Données Sur Disques Durs Externes WD</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminate-asus-lcd-glitches-today/"><u>Eliminate ASUS LCD Glitches Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-next-gen-portability-and-potent-performance-how-lenovos-thoughtpad-p1-gen-achieves-the-impossible-with-cutting-edge-lpcamm2-memory/"><u>Experience Next-Gen Portability & Potent Performance - How Lenovo's ThoughtPad P1 Gen ^ Achieves the Impossible With Cutting-Edge LPCAMM2 Memory</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-next-level-gaming-the-lenovo-legion-slim-5-boosted-by-the-powerful-rtx-4060-gpu-all-for-only-899/"><u>Experience Next-Level Gaming: The Lenovo Legion Slim 5, Boosted by the Powerful RTX 4060 GPU - All For Only $899!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-the-next-gen-ryzen-ai-300-laptops-available-july-28-at-best-buy-pre-order-now/"><u>Experience the Next-Gen Ryzen AI 300 Laptops: Available July 28 at Best Buy - Pre-Order Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-analysis-microsoft-surface-pro-with-copilot-stunning-design-meets-mixed-ai-performance/"><u>Expert Analysis: Microsoft Surface Pro with Copilot - Stunning Design Meets Mixed AI Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-advanced-gadgets-with-toms-device-discoveries/"><u>Exploring Advanced Gadgets with Tom's Device Discoveries</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-digital-universe-with-toms-hardware/"><u>Exploring the Digital Universe with Tom's Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-toms-computer-review-top-tech-insights/"><u>Exploring Tom's Computer Review: Top Tech Insights</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-underpowered-systems-for-intel-drivers-success/"><u>Fixing Underpowered Systems for Intel Drivers Success</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-an-avid-fan-transformed-their-lenovo-into-a-high-performance-machine-with-titanium-chassis-and-mechanical-switches/"><u>How an Avid Fan Transformed Their Lenovo Into a High-Performance Machine with Titanium Chassis & Mechanical Switches</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/how-to-use-ibooks-for-a-seamless-experience-of-downloading-and-enjoying-the-acsm-textbook-on-an-apple-tablet/"><u>How to Use iBooks for a Seamless Experience of Downloading and Enjoying the ACSM Textbook on an Apple Tablet</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-best-audio-modification-methods-for-youtube-stars/"><u>In 2024, Best Audio Modification Methods for YouTube Stars</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unlocking-visual-potential-a-step-by-step-guide-to-video-enhancer-22/"><u>Unlocking Visual Potential A Step-by-Step Guide to Video Enhancer 2.2</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ling-the-must-have-gear-for-new-youtubers/"><u>Unveiling the Must-Have Gear for New YouTubers</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-mp4-reimagined-effortlessly-adding-srt/"><u>[Updated] MP4 Reimagined Effortlessly Adding SRT</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-download-official-canon-mf8200c-driver-software-for-windows-users-78110/"><u>Easy Download: Official Canon MF8200C Driver Software for Windows Users (7/8.1/10)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-honor-v-purse-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Honor V Purse FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/first-steps-with-windows-canary-channel-for-security/"><u>First Steps with Windows Canary Channel for Security</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/huawei-nova-y91-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Huawei Nova Y91 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-troubleshooting-revive-your-corsair-hs50-microphone-with-these-effective-techniques/"><u>Mastering the Art of Troubleshooting: Revive Your Corsair HS50 Microphone with These Effective Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/pixel-9-pro-xl-vs-iphone-15-pro-photography-battle-the-unexpected-outcome-revealed-tech-innovations/"><u>Pixel 9 Pro XL Vs. IPhone 15 Pro Photography Battle: The Unexpected Outcome Revealed | Tech Innovations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-reasons-to-switch-to-firefox-browser-app-on-android-smartphones-and-tablets/"><u>Top Reasons to Switch to Firefox Browser App on Android Smartphones and Tablets</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-strategies-for-identifying-bulky-android-applications-and-saving-device-storage/"><u>Top Strategies for Identifying Bulky Android Applications and Saving Device Storage</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-complete-steps-for-performing-a-full-hard-reset-on-your-android-device/"><u>Ultimate Guide: Complete Steps for Performing a Full Hard Reset on Your Android Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-play-mobile-music-through-a-windows-eos-10-system/"><u>Ultimate Guide: Play Mobile Music Through a Windows eOS 10 System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-lenovo-tab-excellence-assessment-dominating-the-tablet-world-like-a-titan/"><u>Ultimate Lenovo Tab Excellence Assessment: Dominating the Tablet World Like a Titan</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-essential-windows-audio-production-tools-selecting-top-8-daws-with-various-pricing-models-for-2024/"><u>Updated Essential Windows Audio Production Tools Selecting Top 8 DAWs with Various Pricing Models for 2024</u></a></li>
 </ul></div>
 

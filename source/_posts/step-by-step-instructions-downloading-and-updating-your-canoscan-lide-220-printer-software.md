@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Instructions: Downloading and Updating Your CanoScan LiDE 220 Printer Software"
-date: 2024-09-05T19:54:55.637Z
-updated: 2024-09-06T19:54:55.637Z
+date: 2024-10-27T19:20:50.601Z
+updated: 2024-11-01T19:05:44.669Z
 tags:
   - win11
   - win10
@@ -19,12 +19,6 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
 
  This surround sound RGB gaming headset Arctis 5 provides an immersive gaming experience, but sometimes it can bump into issues. And when they do, you can follow[**this troubleshooting guide**](https://tools.techidaily.com/drivereasy/download/) to fix your mic issues, or you can update the Arctis 5 drivers directly.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to update Actis 5 drivers
 
  Actually, you don’t have to install the specific driver to make SteelSeries Arctis 5 work or be recognized successfully. It comes with a plug-and-play feature.
@@ -39,17 +33,19 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 1: Manually update the sound driver
 
 1. On your keyboard, press the**Windows logo** key and**R** at the same time to open the Run box.  
 ![uninstall graphics driver](https://images.drivereasy.com/wp-content/uploads/2021/03/device-manager.jpg)
 2. Expand the**Sound, video and game controllers** . Then right-click the related devices, and select**Update driver** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click**Search automatically for drivers** .
 4. Windows will start searching for the latest drivers and install them for you.
 
@@ -67,12 +63,6 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the**Update** button next to your sound device or your Arctis 5 to download the latest and correct driver for it.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/audio-drivers.jpg)  
  Or you can also click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will have full tech support and a 30-day money-back guarantee.)
 4. Restart your computer for the changes to take effect.
@@ -80,52 +70,49 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Still have audio issues?
 
  In rare cases, updating your drivers won’t get your problem solved. If unfortunately, updating the SteelSeries Actis 5 drivers didn’t help, you can try the following troubleshooting steps:
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Set your Arctis 5 as the default
 
  Make sure you have set your SteelSeries Arctis 5 as the default output/input device. Also, select**Set as Default Communications** **Device** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Make sure you’ve set it up correctly
 
  Follow[**SteelSeries Actis 5 setup guide**](https://support.steelseries.com/hc/en-us/articles/115000022031-Setup-Arctis-5) to make sure you’ve done it right. Using the rear ports directly on your motherboard instead of any HUB ports or external hubs will ensure your drivers load correctly, and that the device receives adequate power.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Have the latest version of SteelSeries Engine installed
 
  In-app updates are supported so you will be prompted to update directly through the Engine. But if this doesn’t do the trick, you can uninstall the SteelSeries Engine, and download[**the latest SteelSeries Engine**](https://steelseries.com/engine) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Disable audio enhancements
 
 1. In the bottom right corner, right-click the Volume icon, and select**Sounds** .
 2. Under the**Playback** tab, right-click your headphone, and select**Properties** .
 3. Switch to the**Enhancements** tab, check the**Disable all enhancements** option, and click**OK** to apply.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Select different formats
 
  If you’re still unable to get anything, try selecting a different input/output format in the**Properties** \>**Advanced** window (use the headset steps above).
@@ -145,8 +132,6 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +139,18 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-veiled-vocal-keepers-ios-and-android-secretive-sound-tools/"><u>[New] 2024 Approved Veiled Vocal Keepers IOS & Android Secretive Sound Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-frame-it-right-selecting-the-perfect-borders-for-social-media-photos/"><u>[New] In 2024, Frame It Right Selecting the Perfect Borders for Social Media Photos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/beyond-hp-and-lenovo-discover-the-best-performing-2-in-1-laptops-tested-by-experts-at-zdnet/"><u>Beyond HP & Lenovo: Discover the Best Performing 2-in-1 Laptops Tested by Experts at ZDNet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/compreehing-movavis-progress-an-in-depth-look-at-the-2024-edition/"><u>Compreehing Movavi's Progress An In-Depth Look at the 2024 Edition</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/up-beats-easy-audio-posting-to-youtubes-for-2024/"><u>Dial-Up Beats Easy Audio Posting to YouTubes for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-score-amazing-discounts-on-the-ultimate-list-of-70-prime-day-2024-gaming-deals-curated/"><u>Don't Miss Out: Score Amazing Discounts on the Ultimate List of 70 Prime Day 2024 Gaming Deals - Curated</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-preserving-your-periscope-content-a-detailed-process/"><u>In 2024, Preserving Your Periscope Content A Detailed Process</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-screen-clipping-techniques-for-delllenovomac-laptops-as-revealed/"><u>Mastering Screen Clipping Techniques for Dell/Lenovo/Mac Laptops as Revealed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-release-alert-upgrade-your-movie-collection-with-the-updated-winx-dvd-ripper-software-for-macos-users/"><u>New Release Alert: Upgrade Your Movie Collection with the Updated WinX DVD Ripper Software for macOS Users!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-prime-day-blowout-sales-premium-laptops-at-unbeatable-prices-october-2024-edition-zdnet/"><u>Top Prime Day Blowout Sales: Premium Laptops at Unbeatable Prices - October 2024 Edition | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-an-unexpected-marvel-for-designers-the-simple-looking-high-powered-asus-laptop-review-on-zdnet/"><u>Unveiling an Unexpected Marvel for Designers: The Simple-Looking, High-Powered Asus Laptop Review on ZDNet</u></a></li>
+</ul></div>
 

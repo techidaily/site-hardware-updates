@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Hidden Charge: Discover the Special Thunderbolt Dock's Secret Windows Benefit | ZDNet Insider"
-date: 2024-10-23T21:21:37.727Z
-updated: 2024-10-27T02:32:45.037Z
+date: 2024-10-30T17:03:31.448Z
+updated: 2024-11-01T19:35:06.867Z
 tags:
   - laptops
 categories:
@@ -73,10 +73,16 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -115,22 +121,18 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-5-ways-to-record-vr-gameplay-for-2024/"><u>[New] 5 Ways to Record VR Gameplay for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ow-to-create-a-sports-highlight-video-a-simple-guide-for-2024/"><u>[New] How to Create a Sports Highlight Video - a Simple Guide for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-digital-domination-diaries/"><u>[Updated] 2024 Approved Digital Domination Diaries</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-master-your-message-memes-on-kapwing-pro/"><u>[Updated] 2024 Approved Master Your Message Memes on Kapwing Pro</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-effective-methods-share-twitch-stream-on-facebook/"><u>[Updated] Effective Methods | Share Twitch Stream on Facebook?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-ultimate-guide-top-15-innovative-snapchat-ideas-for-2024/"><u>[Updated] The Ultimate Guide Top 15 Innovative Snapchat Ideas for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-toshiba-satellite-graphics-card-drivers-on-windows-pc/"><u>Download & Update Toshiba Satellite Graphics Card Drivers on Windows PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/handheld-pc-pioneer-gpd-unveils-teaser-for-groundbreaking-dual-screen-oled-notebook-a-formidable-challenge-to-the-asus-zenbook-duo/"><u>Handheld PC Pioneer GPD Unveils Teaser for Groundbreaking Dual-Screen OLED Notebook - A Formidable Challenge to the Asus ZenBook Duo</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-mandatory-firmware-update-leads-to-black-screen-issues-on-hp-probook-devices/"><u>How Mandatory Firmware Update Leads to Black Screen Issues on HP ProBook Devices</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/limited-time-offer-snag-the-cutting-edge-1amoelpmacbookprowithm3chip-for-500-less-prime-day-deal-awaits/"><u>Limited Time Offer: Snag the Cutting-Edge 1amoelpMacBookProWithM3Chip For $500 Less – Prime Day Deal Awaits!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/limited-time-sale-on-the-m3-macbook-air-speedy-16gb-and-elegant-13-for-just-1149-dont-miss-out/"><u>Limited Time Sale on the M3 MacBook Air: Speedy 16GB & Elegant 13 for Just $1,149 - Don't Miss Out!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-gadgets-with-toms-hardware-reviews/"><u>Mastering Gadgets with Tom’s Hardware Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-mobile-efficiency-an-in-depth-review-of-the-hp-omnibook-xs-extended-snapdragon-x-power-and-long-lasting-battery/"><u>Mastering Mobile Efficiency: An In-Depth Review of the HP OmniBook X's Extended Snapdragon X Power and Long-Lasting Battery</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-tech-choices-toms-detailed-hardware-guides/"><u>Mastering Tech Choices - Tom's Detailed Hardware Guides</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-technology-insights-the-essential-guide-to-hardware-by-tom/"><u>Mastering Technology Insights: The Essential Guide to Hardware by Tom</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-downloading-and-installing-latest-ios-software-upgrades/"><u>Step-by-Step Guide: Downloading & Installing Latest iOS Software Upgrades</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apple-discontinues-finewoven-series-introducing-the-new-era-of-beats-branded-cases-insights-from-zdnet/"><u>Apple Discontinues FineWoven Series: Introducing the New Era of Beats Branded Cases - Insights From ZDNet</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/how-to-edit-videos-with-quicktime-on-mac-step-by-step-guide-for-2024/"><u>How to Edit Videos with QuickTime on Mac Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-honor-90-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-streamlining-silence-simplified-guide-to-extracting-background-noise-from-music-tracks-using-audacity/"><u>In 2024, Streamlining Silence Simplified Guide to Extracting Background Noise From Music Tracks Using Audacity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-professional-editing-techniques-in-fcp/"><u>In 2024, Unlock Professional Editing Techniques in FCP</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/next-gen-editing-excellence-perfect-for-vimeo-content-for-2024/"><u>Next-Gen Editing Excellence Perfect for Vimeo Content for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simplify-your-mobile-security-how-to-enable-auto-removal-of-otp-codes-in-android-messages/"><u>Simplify Your Mobile Security: How to Enable Auto Removal of OTP Codes in Android Messages</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-recording-calls-with-your-android-device/"><u>Step-by-Step Guide to Recording Calls with Your Android Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-transferring-files-between-usb-flash-drives-and-android-phonestablets/"><u>Step-by-Step Instructions: Transferring Files Between USB Flash Drives & Android Phones/Tablets</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-adjusting-button-layout-and-swipe-actions-for-enhanced-android-interaction/"><u>Step-by-Step Tutorial: Adjusting Button Layout & Swipe Actions for Enhanced Android Interaction</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-total-number-of-vehicles-is-already-given-as-8-times-106/"><u>The Total Number of Vehicles Is Already Given as $8 Times 10^6$.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-live-stream-the-2022-unpacked-showcase-of-samsung-devices-and-predictions-for-new-releases/"><u>The Ultimate Guide to Live-Stream the 2022 Unpacked Showcase of Samsung Devices and Predictions for New Releases</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-against-delays-effective-strategies-to-halt-minecrafts-load-screen-woes/"><u>Winning Against Delays: Effective Strategies to Halt Minecraft's Load Screen Woes</u></a></li>
 </ul></div>
 

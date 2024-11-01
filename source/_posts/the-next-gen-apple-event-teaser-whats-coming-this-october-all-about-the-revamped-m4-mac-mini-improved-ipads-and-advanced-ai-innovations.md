@@ -1,7 +1,7 @@
 ---
 title: "The Next-Gen Apple Event Teaser: What's Coming This October - All About the Revamped M4 Mac Mini, Improved iPads, and Advanced AI Innovations"
-date: 2024-10-21T22:27:25.434Z
-updated: 2024-10-26T23:24:05.760Z
+date: 2024-10-26T17:24:27.960Z
+updated: 2024-11-01T16:21:45.288Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,10 +60,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -77,10 +77,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -123,24 +123,24 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-a-swift-journey-to-using-ez-grabber-like-a-pro-for-2024/"><u>[New] A Swift Journey to Using EZ Grabber Like a Pro for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-superior-workplace-data-cloud-hubs/"><u>[New] Superior Workplace Data Cloud Hubs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-economical-choice-high-performance-asmr-mic-picks/"><u>2024 Approved Best Economical Choice High-Performance ASMR Mic Picks</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oppo-a38-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dell-xps-13-shines-with-lgs-newly-released-oled-display-successful-mass-production-achieved/"><u>Dell XPS 13 Shines with LG's Newly Released OLED Display – Successful Mass Production Achieved!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-jdi-cuisine-with-the-new-2vd-screen-two-touch-displays-tailored-viewing-experience-and-smart-touch-identification-capability/"><u>Discover JDI' Cuisine with the New 2VD Screen: Two Touch Displays, Tailored Viewing Experience & Smart Touch Identification Capability</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ting-your-contents-reach-without-breaching-laws-for-2024/"><u>Elevating Your Content's Reach Without Breaching Laws for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ending-dell-display-rapid-flashes/"><u>Ending Dell Display Rapid Flashes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/essential-hardware-upgrades-and-selections-curated-by-toms-gear-experts/"><u>Essential Hardware Upgrades and Selections Curated by Tom's Gear Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-crystal-clear-vision-at-a-bargain-get-the-pixel-dense-samsung-viewfinity-s9-monitor-for-899-featuring-5k-resolution-and-built-in-webcam-limited-t44/"><u>Experience Crystal Clear Vision at a Bargain: Get the Pixel-Dense Samsung ViewFinity S9 Monitor for $899, Featuring 5K Resolution and Built-In Webcam - Limited Time Offer, Save 44%!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-analysis-by-tom-on-pc-hardware-solutions/"><u>Expert Analysis by Tom on PC Hardware Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-review-the-cutting-edge-performance-and-extreme-curvature-of-aoc-agon-pro-ag456uczd-45-gaming-monitor-unveiled/"><u>Expert Review: The Cutting-Edge Performance & Extreme Curvature of AOC Agon PRO AG456UCZD 45 Gaming Monitor Unveiled</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-advanced-hardware-insights-by-toms-experts/"><u>Exploring Advanced Hardware Insights by Tom’s Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-computer-components-with-tom-insights-from-toms-hardware/"><u>Exploring Computer Components with Tom - Insights From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-toms-equipment-guide-in-depth-hardware-analysis/"><u>Exploring Tom's Equipment Guide - In-Depth Hardware Analysis</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/get-your-iphone-upgraded-ios-18-release-and-compatibility-guide-detailed-downloading-instructions-and-eligible-device-list-techinsights/"><u>Get Your iPhone Upgraded: IOS 18 Release & Compatibility Guide - Detailed Downloading Instructions and Eligible Device List | TechInsights</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/setting-up-your-youtube-studio-essential-equipment-list-for-2024/"><u>Setting Up Your YouTube Studio Essential Equipment List for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-top-5-pioneering-tools-for-crafting-ideal-ai-prompts-across-various-ai-applications/"><u>Unveiling the Top 5 Pioneering Tools for Crafting Ideal AI Prompts Across Various AI Applications</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-all-about-color-grading/"><u>[New] In 2024, All About Color Grading</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rofessionalizing-your-youtube-income-with-universal-tech-tips/"><u>[New] Professionalizing Your YouTube Income with Universal Tech Tips</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-auditory-evolution-at-your-fingertips-the-leading-5-chrome-extension-apps/"><u>[Updated] 2024 Approved Auditory Evolution at Your Fingertips The Leading 5 Chrome Extension Apps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-basic-techniques-for-effective-color-grading-in-ps/"><u>2024 Approved Basic Techniques for Effective Color Grading in PS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-duration-decoded-a-guide-to-editing-youtube-videos/"><u>2024 Approved Duration Decoded A Guide to Editing YouTube Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-modern-photography-editing-with-polarr-insights/"><u>2024 Approved Mastering Modern Photography Editing with Polarr Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apples-ai-resurgence-promises-innovation-but-challenges-persist-an-inside-look/"><u>Apple's AI Resurgence Promises Innovation, but Challenges Persist – An Inside Look</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ch340-driver-update-guide-compatibility-with-windows-10/"><u>CH340 Driver Update Guide: Compatibility with Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-wi-fi-drivers-for-windows-7-simple-steps/"><u>Download and Update Wi-Fi Drivers for Windows 7 – Simple Steps!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensuring-optimal-performance-amd-driver-upgrade-instructions-for-windows-os/"><u>Ensuring Optimal Performance: AMD Driver Upgrade Instructions for Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722955311584-get-your-graphics-up-to-speed-instant-geforce-gtx-460-windows-drivers/"><u>Get Your Graphics Up to Speed: Instant GeForce GTX 460 Windows Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-update-your-samsung-960-evo-ssd-driver-on-windows-pcs/"><u>How to Download and Update Your Samsung 960 EVO SSD Driver on Windows PCs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/imaginative-inspirations-for-virtual-explorers-the-best-metaverse-moments-for-2024/"><u>Imaginative Inspirations for Virtual Explorers The Best Metaverse Moments for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-s17t-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/raphic-mind-numbing-youtube-factsfigures-and-statistics/"><u>Infographic - Mind Numbing YouTube Facts,Figures and Statistics</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723262260720-leak-alert-intel-releases-core-ultra-series-cpu-and-supporting-z890-chip-setnew-era-of-desktop-computing-awaits/"><u>Leak Alert: Intel Releases Core Ultra Series CPU and Supporting Z890 Chip Set—New Era of Desktop Computing Awaits</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-downloading-the-latest-version-of-epson-ds-n-series-software/"><u>Step-by-Step Tutorial: Downloading the Latest Version of Epson DS-N Series Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-unveiling-the-latest-in-hardware/"><u>Tom's Tech Insights: Unveiling the Latest in Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-toms-computer-components-a-deep-dive/"><u>Ultimate Guide to Tom's Computer Components: A Deep Dive</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How the New LG Gram Pro Outperforms Apple's MacBook Air in Key Aspects | Insights by ZDNet
-date: 2024-10-24T17:30:52.545Z
-updated: 2024-10-26T23:03:58.216Z
+date: 2024-10-25T19:05:32.501Z
+updated: 2024-11-01T17:17:54.593Z
 tags:
   - laptops
 categories:
@@ -43,10 +43,10 @@ There I was, with two relatively large-sized, ultraportable laptops and a digita
 The LG Gram Pro 16 2-in-1 had already set the mark at 3.04 pounds. Then came the 15-inch MacBook Air, clocking in at 3.51 pounds. A slight sigh of relief could be felt behind me. How exactly does LG achieve this weight? They're chalking it up to the nano-magnesium alloy construction, which feels more plasticky than the MacBook's all-aluminum build, but which is noticeably lighter in the hand, especially when I moved the laptops around for pictures.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. It's all about the use of space
@@ -60,10 +60,10 @@ The curvatures of the LG Gram Pro edges also mean that the company can fit more 
 As someone who still relies on legacy devices, such as hard drives, that have USB-A ports, the presence of the standard and added flexibility of the Gram makes it a better productivity laptop for me. It also helps to have the HDMI slot for when you're traveling and want to connect to a hotel TV or monitor.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. OLED makes all the difference
@@ -77,10 +77,16 @@ Don't get me wrong, the Liquid Retina (IPS) display on the 15-inch MacBook Air i
 LG offers the new Gram Pro laptops in IPS and OLED variants, but the latter versions that I tested at the venue were noticeably sharper and more color-accurate. It helped that LG had set black wallpapers on the demo units, which made the individual icons and self-emissive pixels pop a little more.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -119,22 +125,19 @@ LG prices its [OLED Gram Pro laptops](https://shop-links.co/link/?exclusive=1&pu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-pioneering-success-a-guide-to-prolific-youtubers-growth/"><u>[Updated] 2024 Approved Pioneering Success A Guide to Prolific Youtubers' Growth</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-simple-techniques-for-downloading-youtube-content/"><u>[Updated] In 2024, Simple Techniques for Downloading YouTube Content</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-truth-behind-your-instagram-selfie/"><u>[Updated] In 2024, The Truth Behind Your Instagram Selfie</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unlocking-video-content-potential-integrating-interactive-features-in-youtube-cards/"><u>[Updated] Unlocking Video Content Potential Integrating Interactive Features in Youtube Cards</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/1-how-to-sync-a-network-file-on-onedrive-across-windows-versions/"><u>1. How to Sync a Network File on OneDrive Across Windows Versions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-advanced-equipment-with-toms-technology-hub-in-depth-guides-on-modern-hardware/"><u>Exploring Advanced Equipment with Tom’s Technology Hub: In-Depth Guides on Modern Hardware</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/exploring-the-features-of-your-objects-settings-menu/"><u>Exploring the Features of Your Object's Settings Menu</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-world-of-hardware-with-tom-a-deep-dive-into-technology/"><u>Exploring the World of Hardware with Tom - A Deep Dive Into Technology</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-toms-electronics-in-depth-analysis-by-toms-hardware-experts/"><u>Exploring Tom's Electronics: In-Depth Analysis by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-toms-hardware-your-comprehensive-guide-to-latest-tech-innovations/"><u>Exploring Tom's Hardware: Your Comprehensive Guide to Latest Tech Innovations</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-tecno-pop-7-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/insiders-look-at-top-earning-instagram-tactics/"><u>Insider's Look at Top Earning Instagram Tactics</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/master-your-game-with-gamertechs-thermal-control-gloves-built-for-the-pro-player/"><u>Master Your Game with GamerTech's Thermal Control Gloves - Built for the Pro Player</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/media-campaigns-utilizing-media-to-highlight-issues-of-importance-to-their-districts-that-require-fiscal-action-by-congress-as-a-whole/"><u>Media Campaigns – Utilizing Media to Highlight Issues of Importance to Their Districts that Require Fiscal Action by Congress as a Whole.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/optimizing-your-pc-insights-from-toms-tech-experts/"><u>Optimizing Your PC: Insights From Tom's Tech Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-comprehensive-guides-and-reviews-on-the-latest-gadgets/"><u>Tom's Tech Hub: Comprehensive Guides & Reviews on the Latest Gadgets</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-v1607-update-installed-incorrectly-steps-for-resolution/"><u>Windows 11 v1607 Update Installed Incorrectly – Steps for Resolution</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-gonetflixgo-master-screenrecording-on-mac-with-ease-and-excellence-for-2024/"><u>[Updated] GoNetflixGo Master ScreenRecording on Mac, With Ease & Excellence for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-tools-for-creating-animation-with-models/"><u>[Updated] Ideal Tools for Creating Animation with Models</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-hero-black-vs-keymission-for-the-ultimate-cinematographer/"><u>[Updated] In 2024, HERO Black vs Keymission For the Ultimate Cinematographer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975121669-access-the-newest-compatible-gigabyte-network-drivers-download-now/"><u>Access the Newest Compatible Gigabyte Network Drivers – Download Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/achieve-stunning-visuals-in-world-of-warcraft-expert-tips-to-tackle-low-fps/"><u>Achieve Stunning Visuals in World of Warcraft - Expert Tips to Tackle Low FPS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-techniques-for-refreshing-lenovo-system-management-software/"><u>Effortless Techniques for Refreshing Lenovo System Management Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-ensure-peak-performance-with-updated-audio-technica-sound-card-drivers/"><u>How To: Ensure Peak Performance with Updated Audio Technica Sound Card Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-ethernet-driver-downloads-optimized-for-windows-11107-systems/"><u>Intel Ethernet Driver Downloads: Optimized for Windows 11/10/7 Systems</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-samsung-galaxy-a23-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Samsung Galaxy A23 5G FRP Without Computer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-geforce-exclusive-fresh-windows-compatible-drivers-for-gamers-on-win11-and-win10/"><u>Nvidia GeForce Exclusive: Fresh Windows-Compatible Drivers for Gamers on Win11 & Win10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-download-and-installation-of-updated-geforce-gtx-amoledsrtx1650superdrivers-for-windows-11-computers/"><u>Step-by-Step Download and Installation of Updated GeForce GTX Amoleds_rtx_1650_super_drivers for Windows 11 Computers</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-y78-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo Y78 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-pros-and-cons-of-viber-out-calls-a-detailed-analysis/"><u>Unveiling the Pros & Cons of Viber Out Calls - A Detailed Analysis</u></a></li>
 </ul></div>
 

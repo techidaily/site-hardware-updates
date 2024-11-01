@@ -1,7 +1,7 @@
 ---
 title: Experience Next-Level Game Sounds with Elite Speakers on Sale at Best Buy – Exclusive Review by ZDNet
-date: 2024-10-24T02:18:23.504Z
-updated: 2024-10-27T02:09:59.797Z
+date: 2024-10-28T18:52:09.161Z
+updated: 2024-11-01T20:50:19.814Z
 tags:
   - laptops
 categories:
@@ -77,10 +77,10 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -92,10 +92,16 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -132,16 +138,19 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-discovering-vector-images-a-beginners-overview-of-categories/"><u>[New] 2024 Approved Discovering Vector Images A Beginner’s Overview of Categories</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fundamental-equipment-for-channel-foundations/"><u>[New] In 2024, Fundamental Equipment for Channel Foundations</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-cutting-edge-video-communities-eclipsing-youtube/"><u>2024 Approved Cutting-Edge Video Communities Eclipsing Youtube</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-hp-thunderbolt-dock-g2-hardware-driver-downloads-for-120w-and-230w-units/"><u>Easy Installation of HP Thunderbolt Dock G2 Hardware: Driver Downloads for 120W and 230W Units</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722969547533-easy-steps-for-downloading-your-acer-predator-xb271hu-essential-drivers/"><u>Easy Steps for Downloading Your Acer Predator XB271HU Essential Drivers!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-y27-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Vivo Y27 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-simplify-your-collaboration-with-easy-steps-to-use-a-virtual-board-on-all-zoom-devices/"><u>In 2024, Simplify Your Collaboration with Easy Steps to Use a Virtual Board on All Zoom Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-updated-nvidia-drivers-on-windows-computers-1178/"><u>Install Updated Nvidia Drivers on Windows Computers: 11/7/8</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722962172620-latest-nvidia-geforce-210-driver-upgrade-compatible-with-windows-10/"><u>Latest Nvidia GeForce 210 Driver Upgrade Compatible with Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-supported-drivers-for-nvidias-geforce-rtx-2060-on-windows-operating-systems-download-here/"><u>Latest Supported Drivers for Nvidia's GeForce RTX 2060 on Windows Operating Systems - Download Here</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tutorial-keeping-youtube-like-tweets-in-android-cache/"><u>Tutorial Keeping YouTube-Like Tweets in Android Cache</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-effective-techniques-for-b-cutting-and-cutaways/"><u>[Updated] 2024 Approved Effective Techniques for B-Cutting and Cutaways</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-asus-unboxing-special-the-mg28uq-monitor-a-high-res-journey/"><u>[Updated] ASUS Unboxing Special The MG28UQ Monitor - A High-Res Journey</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-captivate-viewers-create-success-a-strategy-for-gamers-channels/"><u>[Updated] In 2024, Captivate Viewers, Create Success A Strategy for Gamers' Channels</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-discovering-best-steadicams-for-enhanced-dslr-shooting-experience/"><u>2024 Approved Discovering Best Steadicams for Enhanced DSLR Shooting Experience</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-free-windows-dvd-players-top-picks-for-windows-7-8-and-10-users/"><u>Best Free Windows DVD Players: Top Picks for Windows 7, 8 & 10 Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/comical-creations-no-cost-memes-available-for-2024/"><u>Comical Creations No Cost Memes Available for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-hp-sound-card-drivers-for-free-fast-and-simple/"><u>Download HP Sound Card Drivers For Free – Fast & Simple</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-knacks-uniqueness-a-rare-lead-in-a-standardized-gaming-world/"><u>Exploring Knack's Uniqueness - A Rare Lead in a Standardized Gaming World</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-logitech-g29-racing-wheel-software-setup-guide-and-downloads-compatible-with-windows-7-8-and-10/"><u>Free Logitech G29 Racing Wheel Software Setup Guide & Downloads Compatible with Windows 7, 8, and 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978673735-get-the-latest-gigabyte-wb867d-i-graphics-card-drivers-here/"><u>Get the Latest Gigabyte WB867D-I Graphics Card Drivers Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-msi-sound-card-drivers-on-your-windows-system-today/"><u>Get the Latest MSI Sound Card Drivers on Your Windows System Today</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722971852129-international-law/"><u>International Law:</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-the-lifespan-of-your-android-smartphone-proven-strategies-and-tips/"><u>Maximizing the Lifespan of Your Android Smartphone: Proven Strategies and Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-guide-downloading-realtek-card-reader-drivers-for-windows/"><u>Quick & Easy Guide: Downloading RealTek Card Reader Drivers for Windows</u></a></li>
 </ul></div>
 

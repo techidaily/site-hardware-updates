@@ -1,7 +1,7 @@
 ---
 title: Introducing the Perfect Blend of Weightless Design & Powerful Specs - A Formidable Contender to MacBook Air | ZDNet
-date: 2024-10-21T16:13:00.523Z
-updated: 2024-10-26T22:21:05.017Z
+date: 2024-10-27T21:17:44.636Z
+updated: 2024-11-01T16:27:53.312Z
 tags:
   - laptops
 categories:
@@ -71,10 +71,10 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -113,19 +113,24 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-stepwise-guide-to-smoothing-out-audio-dynamics/"><u>[New] Stepwise Guide to Smoothing Out Audio Dynamics</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-tv-shutdown-procedure/"><u>[Updated] 2024 Approved Instagram TV Shutdown Procedure</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comparing-best-processor-driven-tablets-a-comprehensive-guide/"><u>Comparing Best Processor-Driven Tablets: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/csr8510-a10-nvidia-gpu-driver-solutions-for-windows-users-fixed/"><u>CSR8510 A10 Nvidia GPU Driver Solutions for Windows Users [FIXED]</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-realme-narzo-n55-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Realme Narzo N55 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-to-the-newest-dell-wi-fi-driver-for-optimal-performance/"><u>Download and Update to the Newest Dell Wi-Fi Driver for Optimal Performance</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/essential-instagram-video-and-photo-downloads-guide-for-2024/"><u>Essential Instagram Video & Photo Downloads Guide for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-fixes-for-playstation-owners-start-up-woes-in-monster-hunter-stories-2-wings-of-ruin-no-more/"><u>Expert Fixes for PlayStation Owners: Start Up Woes in Monster Hunter Stories 2: Wings of Ruin No More</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-dolby-audio-driver-updates-for-your-windows-pc-version-111081/"><u>Get the Latest Dolby Audio Driver Updates for Your Windows PC (Version 11/10/8.1)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/instant-social-interaction-tweetplusfb-guide-for-2024/"><u>Instant Social Interaction Tweet+FB Guide for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-your-acer-aspire-e15-with-newest-windows-amo-drivers-download-now/"><u>Secure Your Acer Aspire E15 with Newest Windows Amo Drivers - Download Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-download-and-effortlessly-install-corsair-void-pro-drivers-windows/"><u>Step-by-Step: Download and Effortlessly Install Corsair Void Pro Drivers (Windows)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-user-friendly-approach-to-update-lenovos-energy-control-drivers/"><u>The User-Friendly Approach to Update Lenovo's Energy Control Drivers</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-techniques-for-audio-free-editing-of-filmed-material-for-2024/"><u>Updated Techniques for Audio-Free Editing of Filmed Material for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-essential-tutorial-navigating-mobizen-recording-features/"><u>[New] 2024 Approved Essential Tutorial Navigating Mobizen Recording Features</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-unveiling-the-hidden-potential-of-earnings-on-vimeo-platforms/"><u>[New] In 2024, Unveiling the Hidden Potential of Earnings on Vimeo Platforms</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-superior-video-editing-software-for-online-sessions/"><u>[New] Superior Video Editing Software for Online Sessions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unlocking-full-screen-with-chrome-pip-on-any-platform/"><u>[Updated] 2024 Approved Unlocking Full Screen with Chrome PIP on Any Platform</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-accelerated-aesthetics-rapid-revamping-of-images-on-windows-photo-editor/"><u>2024 Approved Accelerated Aesthetics Rapid Revamping of Images on Windows Photo Editor</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-ryzen-3-2200g-graphics-card-freshest-driver-update-available-here/"><u>AMD Ryzen 3 2200G Graphics Card – Freshest Driver Update Available Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/brother-hl-l2300d-find-and-download-updated-printing-drivers-easily/"><u>Brother HL-L2300D: Find and Download Updated Printing Drivers Easily</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mg3022-drivers-downloading-and-updating-finding-the-latest-version-for-smooth-printing-experience/"><u>Canon MG3022 Drivers Downloading & Updating: Finding the Latest Version for Smooth Printing Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-an-elite-home-computer-for-professional-4k-editing/"><u>Crafting an Elite Home Computer for Professional 4K Editing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/delve-into-deliberate-speed-creating-slow-motion-videos-from-photos-online/"><u>Delve Into Deliberate Speed Creating Slow Motion Videos From Photos Online</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976519172-download-realtek-asio-driver-for-windows-11-in-minutes-step-by-step-instructions-inside/"><u>Download Realtek Asio Driver for Windows 11 in Minutes – Step-by-Step Instructions Inside</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-advice-on-pcs-and-peripherals-by-toms-hardware-team/"><u>Expert Advice on PCs and Peripherals by Tom's Hardware Team</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-downloads-acquire-pioneer-dj-ddj-sx2-driver-with-ease-and-speed/"><u>Hassle-Free Downloads: Acquire Pioneer DJ DDJ-SX2 Driver with Ease and Speed</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-12-proipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone 12 Pro/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/inside-the-ambient-weather-ws-1002-wifi-unit-balancing-excellence-and-expense-in-climate-monitoring-tech/"><u>Inside the Ambient Weather WS-1002 WiFi Unit – Balancing Excellence and Expense in Climate Monitoring Tech.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-hp-officejet-4500-software-upgrade-free-downloads-and-installation-guide/"><u>Latest HP OfficeJet 4500 Software Upgrade: Free Downloads and Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974986626-milestones-in-research-development-and-market-expansion/"><u>Milestones in Research, Development, and Market Expansion.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolved-power-management-driver-problems-with-microsofts-battery-acpi-compliance/"><u>Resolved: Power Management Driver Problems with Microsoft's Battery ACPI Compliance</u></a></li>
+<li><a href="https://fox-where.techidaily.com/strategie-efficaci-per-ripristinare-documenti-eliminati-permanentemente-nel-sistema-operativo-windows-11/"><u>Strategie Efficaci per Ripristinare Documenti Eliminati Permanentemente Nel Sistema Operativo Windows 11</u></a></li>
 </ul></div>
 

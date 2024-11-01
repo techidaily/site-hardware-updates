@@ -1,7 +1,7 @@
 ---
 title: Exploring the New Features in Samsung'er Copilot+ PC with Cutting-Edge AI | Spotlight by ZDNET
-date: 2024-10-22T17:52:57.042Z
-updated: 2024-10-26T18:44:48.309Z
+date: 2024-10-28T18:12:33.073Z
+updated: 2024-11-01T20:38:27.289Z
 tags:
   - laptops
 categories:
@@ -63,19 +63,6 @@ I've been testing the base [$2,200 variant](https://shop-links.co/link/?url=http
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Textbook design, period.
 
 The design of the Galaxy Book 3 Ultra doesn't move the needle; hide the Samsung logo on the cover and it can easily pass as just another large-screen laptop that's stacked up during Black Friday. Fortunately, the sturdy aluminum build of the Galaxy Book feels much more premium than that of a discount laptop, and thanks to subtle wedges and seamless curves throughout the chassis, the 16-inch size gives off a better impression of portability than a MacBook Pro of similar size. If I had to lug around a laptop throughout a workday, I'd pick the Samsung without hesitation.
@@ -93,16 +80,10 @@ Doing so also exposes two flaws of the Galaxy Book 3 Ultra: the wobbliness and g
 Will you notice the shaking when you're laser-focused on what's being displayed? Probably not. Would a matte display have served better for viewing comfort? Absolutely.
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Live by the display…
@@ -116,6 +97,13 @@ For content creation and multitasking, the wider 16:10 dimension here is ideal. 
 The thin bezels make the 16-inch display a little more manageable.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The best use of space?
 
@@ -132,16 +120,10 @@ June Wan/ZDNET
 Another thing that I don't love is the trackpad. While massive, the new trackpad is not only off-centered but doesn't register presses on the upper half of it. As a result, there were plenty of times when the laptop would register a double tap as a single tap and vice versa. Keep in mind that I was coming from the MacBook Pro and have been absolutely spoiled by its Force Touch trackpad.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A dedicated graphics card matters
@@ -182,16 +164,16 @@ In fact, all the product photos in this review were captured by the [Galaxy S23 
 
 [Buy the Samsung Galaxy Book 3 Ultra $2,200 at Samsung](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-book3-ultra%2Fbuy%2F%3F&publisher_slug=itechdaily19598&exclusive=1)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 Ultimately, the Galaxy Book 3 Ultra [starts at $2,200](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-book3-ultra%2Fbuy%2F%3F&publisher_slug=itechdaily19598&exclusive=1) for the Intel Core i7, Nvidia GeForce RTX 4050, 16GB of RAM, and 512GB of storage configuration. That's a big price for a big laptop, but if we're comparing it with its closest Apple alternative, then Samsung is undercutting the [16-inch MacBook Pro (M2)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BSHF7LLL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07697e1f-c06e-4c15-b2ea-0f8024c04589%7Cdtp&dtb=1) by about $300\. And in Samsung's defense, it's giving you a lot for the money, including a dedicated graphics card, one of the best-looking laptop displays on the market, and an uncompromising keyboard experience. The only notable shortcomings are the glossy screen, the obnoxiously large trackpad, and the moderate battery life.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -245,22 +227,24 @@ While the two alternatives above are more subtle by design, the Asus ZenBook 14 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-expert-video-extractor-fb-and-firefox-enhanced-experience/"><u>[New] In 2024, Expert Video Extractor FB & Firefox Enhanced Experience</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-step-by-step-craft-your-viral-story-in-online-videos/"><u>[New] Step by Step, Craft Your Viral Story in Online Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-revolutionizing-imaging-with-quantum-hdrs-potential/"><u>[Updated] In 2024, Revolutionizing Imaging with Quantum HDR's Potential</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862816833-189-for-power-and-performance-minisforums-new-laptop-boasts-a-156-inch-144hz-1440p-screen-gaming-at-its-best/"><u>$189 for Power & Performance: Minisforum's New Laptop Boasts a 15.6 Inch, 144Hz, 1440P Screen - Gaming at Its Best</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-ultimate-selection-budget-friendly-4k-cameras-(1k/"><u>2024 Approved Ultimate Selection Budget-Friendly 4K Cameras <$1K</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/advanced-device-evaluations-trustworthy-advice-from-tomhardware/"><u>Advanced Device Evaluations - Trustworthy Advice From TomHardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862803339-alienware-34-ultra-hd-curved-monitor-unbeatable-deal-at-best-buy-for-just-749/"><u>Alienware 34'' Ultra HD Curved Monitor - Unbeatable Deal at Best Buy For Just $749!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/aoc-unveils-premium-445-240hz-oled-gaming-monitor-agon-pro-ag45email-protected/"><u>AOC Unveils Premium 44.5 240Hz OLED Gaming Monitor - Agon Pro AG45([email Protected])</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862840485-elevate-your-gaming-setup-with-the-latest-asus-innovation-rog-strix-xg227-wcs-a-superior-27-va-panel-at-a-whopping-180hz/"><u>Elevate Your Gaming Setup with the Latest Asus Innovation: ROG Strix XG2^27 WCS – A Superior 27 VA Panel at a Whopping 180Hz</u></a></li>
-<li><a href="https://fox-access.techidaily.com/exploring-all-windows-movie-maker-editions-for-2024/"><u>Exploring All Windows Movie Maker Editions for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862799178-get-your-game-on-acer-nitro-27-monitor-at-just-149-smooth-170hz-display/"><u>Get Your Game On: Acer Nitro 27 Monitor at Just $149 - Smooth 170Hz Display</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-sweeping-the-audio-board-top-strategies-for-sound-excellence-at-home-film-edition-2023/"><u>In 2024, Sweeping the Audio Board Top Strategies for Sound Excellence at Home (Film Edition, 2023)</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-the-ultimate-guide-to-sony-vegas-alternatives-for-windows/"><u>New The Ultimate Guide to Sony Vegas Alternatives for Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/retain-gpt-conversations-easily/"><u>Retain GPT Conversations Easily</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862775926-revolutionary-offer-get-a-156-inch-1080p-ips-monitor-at-record-low-price-of-6599/"><u>Revolutionary Offer: Get a 15.6-Inch 1080P IPS Monitor at Record Low Price of $65.99!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862827375-upgrade-to-a-new-level-of-productivity-with-the-premium-lg-34-inch-ultragear-screen-at-an-unbeatable-price-of-499/"><u>Upgrade to a New Level of Productivity With the Premium LG 34-Inch UltraGear Screen at an Unbeatable Price of $499</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-optimizing-latency-for-real-time-obs-viewing/"><u>2024 Approved Optimizing Latency for Real-Time OBS Viewing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-fancy-filter-fest-snapping-with-snapchats-colorful-cartoons/"><u>2024 Approved The Fancy Filter Fest Snapping with Snapchat's Colorful Cartoons</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-guide-to-higher-youtube-viewership/"><u>2024 Approved The Ultimate Guide to Higher YouTube Viewership</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-epyc-5-cpu-unleashed-featuring-innovative-zen-tech-and-an-enormous-128-core-512mb-l3-cache-configuration-for-ultimate-performance/"><u>AMD EPYC 5 CPU Unleashed – Featuring Innovative Zen Tech and an Enormous 128-Core, 512MB L3 Cache Configuration for Ultimate Performance</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-guide-to-downloading-and-installing-ricoh-mp-c3003-printer-software/"><u>Complete Guide to Downloading and Installing Ricoh MP C3003 Printer Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-driver-set-for-pci-devices-on-various-windows-platforms-windows-111087/"><u>Comprehensive Driver Set for PCI Devices on Various Windows Platforms: Windows 11/10/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-corsair-keyboard-drivers-for-windows-get-your-free-secure-update-now/"><u>Download CORSAIR Keyboard Drivers for Windows - Get Your Free, Secure Update Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-latest-bluetooth-version-3e-support-qualcomm-atheros-ar3011-driver/"><u>Download Latest Bluetooth Version 3.e Support: Qualcomm Atheros AR3011 Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-update-guide-obtaining-and-installing-the-newest-windows-drivers-for-your-epson-wf-3520-printer/"><u>Easy Update Guide - Obtaining & Installing the Newest Windows Drivers for Your Epson WF 3520 Printer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723262302924-get-your-hands-on-euros-latest-processor-craze-amd-ryzen-9-price-drop-to-750-in-france/"><u>Get Your Hands on Euro's Latest Processor Craze: AMD Ryzen 9 Price Drop to €750 in France</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-iphone-8-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on Apple iPhone 8 or iPad?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-infinix-gt-10-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Infinix GT 10 Pro Through Google Earth?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-whistleblower-information-exposes-multi-faceted-causes-of-intels-cpu-instabilities-voltage-fluctuations-just-the-tip-of-the-iceberg/"><u>Latest Whistleblower Information Exposes Multi-Faceted Causes of Intel's CPU Instabilities - Voltage Fluctuations Just the Tip of the Iceberg</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-snapdragon-x-devices-outperform-securing-over-65-share-on-geekbench-6-benchmarks/"><u>New Snapdragon X Devices Outperform, Securing Over 6.5% Share on Geekbench 6 Benchmarks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ps4-hitches-no-more-expert-tips-and-steps-to-restore-performance/"><u>PS4 Hitches No More: Expert Tips and Steps to Restore Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-connectivity-with-tp-link-ub400-secure-your-driver-download-and-upgrade/"><u>Seamless Connectivity with TP-Link UB400: Secure Your Driver Download and Upgrade</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/tournez-gratuitement-un-fichier-avi-en-format-aac-avec-online-converter-movavi/"><u>Tournez Gratuitement Un Fichier AVI en Format AAC Avec Online Converter - Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/your-pathway-to-personalized-apple-assistance-appointment-procedures-revealed/"><u>Your Pathway to Personalized Apple Assistance: Appointment Procedures Revealed</u></a></li>
 </ul></div>
 

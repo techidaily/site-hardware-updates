@@ -1,7 +1,7 @@
 ---
 title: "Best Bargains Before the Big Sale: Top Finds in Advance of Amazon's Prime Day 2024 - Insights"
-date: 2024-10-25T00:26:50.344Z
-updated: 2024-10-27T01:43:57.474Z
+date: 2024-10-30T17:28:32.035Z
+updated: 2024-11-01T18:43:39.214Z
 tags:
   - laptops
 categories:
@@ -103,6 +103,13 @@ ZDNET
 * [MSI Claw 512GB for $642 (save $108)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMSI-Claw-Gaming-Handheld-Thunderbolt%2Fdp%2FB0CXG3DBQV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc5d38d9c-5a11-4c52-9140-9dfe512747c8%7Cdtp&dtb=1): Built with an Intel Core Ultra 7 CPU, 16GB of RAM, a 512GB SSD, and a 7-inch display, the MSI Claw rivals the Steam Deck handheld gaming PC in power and performance.
 * [Amazon eero Pro 6E mesh Wi-Fi router 3-pack for $350 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-eero-Wi-Fi-router-newest%2Fdp%2FB091G64GVK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc5d38d9c-5a11-4c52-9140-9dfe512747c8%7Cdtp&dtb=1): This mesh Wi-Fi system is rated for up to 2,000 square feet of coverage and supports both wireless and hardwired Ethernet connectivity at 1.6 Gbps and 2.5Gbps, respectively.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## October Prime Day PlayStation 5 deals
 
 ZDNET
@@ -164,6 +171,13 @@ Nintendo/ZDNET
 * [Lego Star Wars: The Skywalker Saga for $25 (save $26 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLEGO-Star-Wars-The-Skywalker-Saga-Nintendo-Switch%2F182278850%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Play as iconic characters like Luke Skywalker, Qui-Gon Jin, and Darth Vader through the stories of both the original and prequel Star Wars trilogies.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $55 (save $25 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming PC deals
 
 Kyle Kucharski/ZDNET
@@ -202,10 +216,10 @@ Samsung/ZDNET
 * [Acer Predator X27U for $680 (save $320 at B&H Photo)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1772478-REG%2Facer%5Fum%5Fhxxaa%5F001%5Fpredator%5Fx27u%5F27%5Fgaming.html%2Fspecs): A 27-inch gaming monitor with a 240Hz refresh rate, 1440p resolution, a 0.03ms response time, and support for AMD FreeSync Premium Pro VRR.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## October Prime Day PC gaming accessories deals
@@ -215,49 +229,41 @@ Samsung/ZDNET
 * [Razer DeathStalker V2 Pro TKL wireless keybaord for $145 (save $75 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-deathstalker-v2-pro-tkl-wireless-optical-linear-switch-gaming-keyboard-with-low-profile-design-black%2F6512382.p%3FskuId%3D6512382&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less keyboard with optical linear switches and a low-profile design.
 * [Roccat Vulcan II Mini Air for $64 (save $116 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Froccat-vulcan-ii-mini-air-65-wireless-optical-mechanical-gaming-keyboard-with-rgb-illumination-black%2F6547284.p%3FskuId%3D6547284&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less mechanical keyboard with optical switches, RGB backlighting, and USB-C charging.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## October Prime Day graphics card deals
 
 * [Asus TUF Nvidia GeForce RTX 4070 Ti for $750 (save $110 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-ti-tuf-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6529351.p%3FskuId%3D6529351&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This GPU offers 12GB of VRAM, support for up to 4 displays, and 8K video output.
 * [Asus Nvidia GeForce RTX 4070 Overclock for $580 (save $100 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6540002.p%3FskuId%3D6540002&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This Nvidia-based GPU offers 12GB of DDR6 VRAM, a base clock speed of 2.55GHz that can be overclocked to 2.58GHz, 8K video output support, and support for up to 4 displays.
 * [Asus TUF Nvidia GeForce RTX 3080 Ti for $925 (save $472 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FTUF-NVIDIA-GeForce-RTX-3080-TI-Graphic-Card-12-GB-GDDR6-384-bit-Bus-Width-PCI-Express-4-0-DisplayPort-HDMI%2F994157887%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) Nvidia's high-end 30 Series graphics card offers 12GB of VRAM, military-grade capacitors for better power efficiency, and support for up to 4 displays.
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -328,21 +334,17 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-streamline-your-social-experience-with-mobile-music-files/"><u>[New] In 2024, Streamline Your Social Experience with Mobile Music Files</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-ultimate-top-5-list-ps3-games-on-windows-platforms-for-2024/"><u>[New] Ultimate Top 5 List PS3 Games on Windows Platforms for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-optimize-video-views-with-these-top-5-link-shrinkers/"><u>[Updated] Optimize Video Views with These Top 5 Link Shrinkers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/a-comprehensive-look-at-merging-youtube-content-into-instagrams-story-feature-for-2024/"><u>A Comprehensive Look at Merging YouTube Content Into Instagram's Story Feature for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-closes-critical-zenbleed-hole-update-your-pc-with-msis-latest-agesa-120-bios-now/"><u>AMD Closes Critical 'Zenbleed' Hole: Update Your PC With MSI's Latest AGESA 1.2.0 BIOS Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862876562-amd-closes-critical-zenbleed-hole-update-your-pc-with-msis-latest-agesa-120-bios-now/"><u>AMD Closes Critical 'Zenbleed' Hole: Update Your PC With MSI's Latest AGESA 1.2.0 BIOS Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862869302-buy-the-asus-prime-x670-p-wifi-am5-mobo-at-an-unbeatable-price-of-just-135/"><u>Buy the ASUS Prime X670-P WiFi (AM5) Mobo at an Unbeatable Price of Just $135!</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/csrssexe-threat-analysis-identifying-trojans-vs-viruses-and-comprehensive-removal-guide/"><u>CSRSS.exe Threat Analysis: Identifying Trojans Vs. Viruses & Comprehensive Removal Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862872569-expert-reviews-at-toms-pc-parts-store-find-what-you-need-here/"><u>Expert Reviews at Tom's PC Parts Store - Find What You Need Here</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-facts-with-chatgpt-trustworthiness-and-veracity/"><u>Navigating the Facts with ChatGPT: Trustworthiness and Veracity</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862850057-pastel-colored-intel-icraft-b760m-motherboard-perfect-for-anime-enthusiasts/"><u>Pastel-Colored Intel iCraft B760M Motherboard – Perfect for Anime Enthusiasts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/quick-guide-identifying-the-bios-version-in-windows-11-without-hassle/"><u>Quick Guide: Identifying the BIOS Version in Windows 11 Without Hassle</u></a></li>
-<li><a href="https://windows11.techidaily.com/solutions-for-storing-error-during-new-app-installation/"><u>Solutions for Storing Error During New App Installation</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-5-mice-you-need-to-try-with-your-ipad-for-seamless-navigation/"><u>Top 5 Mice You Need to Try with Your iPad for Seamless Navigation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleashing-performance-insider-secrets-at-toms-computer-corner/"><u>Unleashing Performance: Insider Secrets at Tom's Computer Corner</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleashing-speed-how-asrocks-z790i-wifi-board-pushed-splave-into-the-record-books-for-oc-achievements/"><u>Unleashing Speed: How ASRock’s Z790I WiFi Board Pushed Splave Into the Record Books for OC Achievements</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/behind-the-shoot-spots-seeking-budget-friendly-stunning-tiktok-backdrops-for-2024/"><u>Behind-the-Shoot Spots Seeking Budget-Friendly, Stunning TikTok Backdrops for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-of-both-worlds-racing-simulation-with-logitechs-momo-wheel-free-software-trial-and-download-on-pc/"><u>Best of Both Worlds: Racing Simulation with Logitech's MOMO Wheel – Free Software Trial and Download on PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-epson-perfection-v500-driver/"><u>Download Epson Perfection V500 Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-steps-to-update-your-pcs-sound-card-windows-n-11-support/"><u>Effortless Steps to Update Your PC's Sound Card - Windows N 11 Support</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-interactive-boundaries-the-vision-of-mixed-reality/"><u>Exploring Interactive Boundaries The Vision of Mixed Reality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-amd-rx-6800-xt-drivers-for-your-windows-system-compatible-with-win11win10win8win7/"><u>Get the Latest AMD RX 6800 XT Drivers for Your Windows System – Compatible with Win11/Win10/Win8/Win7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-connect-your-western-digital-ses-drive-using-updated-usb-software-on-windows-computers-2011-onwards/"><u>How to Successfully Connect Your Western Digital SES Drive Using Updated USB Software on Windows Computers (2011 Onwards)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-effortless-pc-sound-logging-with-x-recorder-software/"><u>In 2024, Effortless PC Sound Logging with X-Recorder Software</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Huawei Nova Y91? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/keep-it-hot-ideas-for-uninterrupted-snapchat-connections/"><u>Keep It Hot - Ideas for Uninterrupted Snapchat Connections</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-up-your-game-obtain-latest-windows-graphics-driver-support-from-nvidia/"><u>Step Up Your Game: Obtain Latest Windows Graphics Driver Support From NVIDIA</u></a></li>
+<li><a href="https://blog-min.techidaily.com/uberspielen-von-musik-auf-ihr-iphone-mp3-dateien-songs-und-playlist-transfer/"><u>Überspielen Von Musik Auf Ihr iPhone - MP3-Dateien, Songs Und Playlist Transfer</u></a></li>
 </ul></div>
 

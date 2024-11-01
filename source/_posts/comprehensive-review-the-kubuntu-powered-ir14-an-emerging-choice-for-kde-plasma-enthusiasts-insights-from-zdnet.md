@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Review: The Kubuntu-Powered IR14, An Emerging Choice for KDE Plasma Enthusiasts - Insights From ZDNet"
-date: 2024-10-24T02:11:59.524Z
-updated: 2024-10-26T20:55:37.683Z
+date: 2024-10-30T17:04:17.307Z
+updated: 2024-11-01T16:15:51.267Z
 tags:
   - laptops
 categories:
@@ -48,6 +48,13 @@ Show less
 
 ## Nothing Phone 1
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best innovative smartphone of 2022
 
 **Tech specs: Display:** 6.55-inch OLED with 120Hz refresh rate | **Processor:** Qualcomm Snapdragon 778G Plus | **Storage:** 8GB/12GB RAM with 128/256GB storage | **Camera:** 50MP wide, 50MP ultra-wide, and 16MP front camera | **Weight:** 6.82 ounces
@@ -78,21 +85,7 @@ Headphone Type  Wireless Earbuds
 
 Water-Resistant  Yes (IPX4 -- Splash-Proof)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bose QuietComfort II Earbuds
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best earbuds of 2022
 
@@ -114,6 +107,13 @@ Show less
 
 ## Apple Watch Ultra
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best smartwatch of 2022
 
 **Tech specs: Display:** 49mm 410x502 LTPO OLED sapphire glass touchscreen | **Storage:** 32GB | **Durability:** IP6X dust resistance and 100 meters of water resistance | **Connectivity:** LTE, WiFi, Bluetooth, ANT+, multi-band and dual frequency GNSS | **Sensors:** Optical HR, barometer, compass, altimeter, Pulse Ox, skin and water temperature, depth gauge | **Battery:** Up to 36 hours
@@ -133,13 +133,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at Oura Ring](https://ouraring.sjv.io/c/159047/1408413/16760?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fouraring.com%2Fproduct%2Fhorizon-silver&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Oura Ring Gen 3 Horizon
 
@@ -167,13 +160,6 @@ Show less
 
 ## Samsung Galaxy Tab S8 Plus
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best tablet of 2022
 
 **Tech specs: Display:** 12.4'' Super AMOLED (2,800 x 1,752) at 120Hz | **Processor:** Qualcomm Snapdragon 8 Gen 1 | **OS:** One UI Tab 4 based on Android 12 | **Memory:** 8GB RAM with 128GB/256GB (expandable via MicroSD) | **Camera:** 13MP wide, 6MP ultra-wide, and a 12MP front | **Connection ports:** 1x USB-C 3.2, 1x MicroSD card slot, keyboard pins | **Weight:** 1.26lbs
@@ -192,14 +178,14 @@ Show less
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FIntroducing-Kindle-Scribe-the-first-Kindle-for-reading-and-writing%2Fdp%2FB09BSGFTHY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C784cc1cd-b602-41a3-9a72-a33e2151c1b9%7Cdtp&dtb=1)
 
-## Amazon Kindle Scribe
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Amazon Kindle Scribe
 
 ### Best e-reader of 2022
 
@@ -275,6 +261,19 @@ Show less
 
 ## Kasa Smart Plug Mini
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best smart plug of 2022
 
 **Tech specs: Connection:** 2.4GHz Wi-Fi | **Interoperability:** Google Home, Amazon Alexa, Samsung SmartThings | **Voice control:** Amazon Alexa and Google Home | **Weight:** 3.2 ounces
@@ -296,13 +295,6 @@ Show less
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B9HY3614%2Fref%3Dasc%5Fdf%5FB0B9HY36141728558000000%3Fcreative%3D395261%26creativeASIN%3DB0B9HY3614%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C784cc1cd-b602-41a3-9a72-a33e2151c1b9%7Cdtp&dtb=1)
 
 ## Yale Assure Lock 2
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best smart lock of 2022
 
@@ -346,6 +338,13 @@ Show less
 
 ## Drop + EPOS PC38X Gaming Headset
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best gaming headset of 2022
 
 **Tech specs: Form factor:** Open-backed, over-ear | **Drivers:** Dynamic, open | **Frequency response:** 10Hz-30,000Hz | **Impedance:** 28-ohm | **Microphone type:** Noise-cancelling, bi-directional electret condenser | **Connectors:** Interchangeable 2.5 m PC cable with 3.5 mm microphone and headphone connectors and 1.5 m console cable with 1 x 3.5 mm TRRS connector | **Weight:** 10.2 ounces
@@ -365,13 +364,6 @@ Show less
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09HM94VDS%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C784cc1cd-b602-41a3-9a72-a33e2151c1b9%7Cdtp&dtb=1)
 
 ## Logitech MX Master 3S
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best wireless mouse of 2022
 
@@ -415,14 +407,14 @@ Show less
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Firobot%2Froomba-j7-j7plus%2Fpcmcat1633095696173.c%3Fid%3Dpcmcat1633095696173&publisher_slug=itechdaily19598&exclusive=1)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Roomba j7+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best robot vacuum of 2022
 
@@ -439,6 +431,13 @@ The Roomba j7+ doesn't have mopping capabilities, but it does pair beautifully w
 **Read the review:** [**Braava Jet m6 review: A must-have robot mop**](https://www.zdnet.com/home-and-office/kitchen-household/braava-jet-m6-review/)
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are some other top tech products of 2022?
 
@@ -457,6 +456,19 @@ While we think the above devices are the best of the best, we do have some honor
 ## How did we choose these best tech products of 2022?
 
 We asked ZDNET writers and editors what their favorite products they reviewed/purchased were in 2022 to compile this list. We also considered new and groundbreaking products that gained popularity over the year, as well as technology that is bringing something new to the sector. 
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Were all these products released in 2022?
 
@@ -502,15 +514,20 @@ And ambient computing-the technology we see in smart home devices-is getting bet
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-that.techidaily.com/accurate-monitoring-of-online-usage-fixing-erratic-results-in-apples-screen-time-for-iphones/"><u>Accurate Monitoring of Online Usage: Fixing Erratic Results in Apple's Screen Time for iPhones</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-latest-insignia-bluetooth-adapter-drivers-on-windows/"><u>Download & Install Latest Insignia Bluetooth Adapter Drivers on Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-configuring-safe-area-mode-and-pip-in-modern-macos/"><u>In 2024, Configuring Safe Area Mode & PIP in Modern MacOS</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-poco-x5-pro-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Poco X5 Pro Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722977477058-master-mbox-2-driver-management-free-downloads-and-effortless-update-processes-for-windows-users/"><u>Master MBox 2 Driver Management: Free Downloads & Effortless Update Processes for Windows Users</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/navigating-your-idevice-how-to-download-episodes-with-swiftness/"><u>Navigating Your iDevice - How to Download Episodes with Swiftness</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-guide-to-fostering-viewer-commitment-in-youtube-videos-for-2024/"><u>The Ultimate Guide to Fostering Viewer Commitment in YouTube Videos for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-acer-sound-card-drivers-fast-and-simple-steps/"><u>Update Your Acer Sound Card Drivers - Fast and Simple Steps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-your-pc-with-the-newest-nvidia-geforce-drivers-designed-for-gaming-on-windows/"><u>Upgrade Your PC with the Newest NVIDIA GeForce Drivers Designed for Gaming on Windows</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/key-to-creative-advertising-access-all-50-free-youtube-banner-designs/"><u>Your Key to Creative Advertising Access All 50 FREE YouTube Banner Designs!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-from-gamer-to-filmmaker-sims-gameplay-recording-for-2024/"><u>[New] From Gamer to Filmmaker Sims Gameplay Recording for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-step-into-the-world-of-modified-snapchat-speeches-two-simple-steps/"><u>[New] In 2024, Step Into the World of Modified Snapchat Speeches Two Simple Steps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-masterful-content-creation-with-these-top-editing-tools-for-2024/"><u>[Updated] Masterful Content Creation with These Top Editing Tools for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-your-first-steps-in-video-content-creation/"><u>[Updated] Your First Steps in Video Content Creation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boosting-aux-outputs-made-simple-with-nahimics-new-driver-update/"><u>Boosting AUX Outputs Made Simple with Nahimic's New Driver Update</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-geforce-rtx-ebytes-2070-drivers-for-enhanced-gaming-on-windows-11-8-and-7-systems/"><u>Download Updated GeForce RTX Ebytes 2070 Drivers for Enhanced Gaming on Windows 11, 8 and 7 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-guide-to-downloading-and-updating-epson-wf-3520-drivers-on-pcs-and-laptops/"><u>Essential Guide to Downloading & Updating Epson WF-3520 Drivers on PCs and Laptops</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722957445863-flame-propagation-speed-is-critical-for-efficient-combustion-in-gasoline-engines/"><u>Flame Propagation Speed Is Critical for Efficient Combustion in Gasoline Engines.</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-frame-by-frame-mastery-in-youtube-no-cost-required/"><u>In 2024, Frame by Frame Mastery in YouTube - No Cost Required</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-depth-analysis-of-green-screen-technology-in-kinemaster/"><u>In-Depth Analysis of Green Screen Technology in Kinemaster</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-the-newest-hp-scanjet-software-compatible-with-win11win8win7-get-it-here/"><u>Install the Newest HP Scanjet Software: Compatible with Win11/Win8/Win7 - Get It Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-xe-graphics-driver-installation-guide-for-windows-users/"><u>Intel Xe Graphics Driver Installation Guide for Windows Users</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-nokia-c32-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Nokia C32 Phone? Unlock It Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-hp-wi-fi-and-ethernet-drivers-installation-instructions-for-windows-users-windows-1078/"><u>Updated HP Wi-Fi & Ethernet Drivers: Installation Instructions for Windows Users (Windows 10/7/8)</u></a></li>
 </ul></div>
 

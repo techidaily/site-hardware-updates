@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Hidden Gem: Discover Asus's Surprisingly Compact Design with High-Performance Capabilities for Creative Professionals - ZDNet"
-date: 2024-10-19T18:44:26.329Z
-updated: 2024-10-26T18:21:49.069Z
+date: 2024-10-29T16:01:39.114Z
+updated: 2024-11-01T20:12:00.965Z
 tags:
   - laptops
 categories:
@@ -69,10 +69,10 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,16 +111,18 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-boosting-youtube-interaction-with-emojis-for-2024/"><u>[New] Boosting YouTube Interaction with Emojis for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-capture-gameplay-prowess-on-android-screens/"><u>[New] In 2024, Capture Gameplay Prowess on Android Screens</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/untangling-the-mystery-of-freezing-falls-in-fallout-3-for-windows-users/"><u>Untangling the Mystery of Freezing Falls in Fallout 3 for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-gadgets-and-components-a-look-inside-toms-hardware-realm/"><u>Unveiling Gadgets and Components - A Look Inside Tom's Hardware Realm</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-new-tech-treasures-at-toms-hardware-hub/"><u>Unveiling New Tech Treasures at Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-new-tech-the-ultimate-resource-from-toms-hardware-insights/"><u>Unveiling New Tech: The Ultimate Resource From Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-tech-secrets-the-ultimate-resource-by-tom/"><u>Unveiling Tech Secrets - The Ultimate Resource by Tom</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-infinix-note-30-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Infinix Note 30 5G? Here is How | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-eliminating-fisheye-lens-distortions-with-gopro/"><u>[New] Eliminating Fisheye Lens Distortions with GoPro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-premium-apps-for-capturing-crystal-clear-android-screenshots-for-2024/"><u>[New] Premium Apps for Capturing Crystal Clear Android Screenshots for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-crafting-professional-level-sessions-utilizing-mask-and-filter-techniques/"><u>[Updated] Crafting Professional-Level Sessions Utilizing Mask & Filter Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/m4a-to-flv-movavi-audiovideo-converter/"><u>「無料で使えるオンライン M4A to FLV コンバータ - Movavi Audio/Video Converter」</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/extended-playtime-with-googles-pixel/"><u>Extended Playtime with Google's Pixel</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/galaxy-s22-upgraded-experience-the-latest-with-android-13-and-one-ui-5/"><u>Galaxy S22 Upgraded: Experience the Latest with Android 13 & One UI 5</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/has-another-smartphone-mimicked-the-iphone-14-pros-groundbreaking-dynamic-island-design/"><u>Has Another Smartphone Mimicked the iPhone 14 Pro's Groundbreaking Dynamic Island Design?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-do-you-use-your-android-phone-as-a-car-remote-control-with-carkey-feature/"><u>How Do You Use Your Android Phone as a Car Remote Control with CarKey Feature?</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-g310-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia G310 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-manually-adjust-screen-brightness-and-deactivate-auto-brightness-feature-in-android/"><u>How to Manually Adjust Screen Brightness and Deactivate Auto-Brightness Feature in Android</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-insiders-guide-to-leveraging-spotify-ads-effectively/"><u>In 2024, The Insider's Guide to Leveraging Spotify Ads Effectively</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-accessing-and-using-system-information-in-windows-11/"><u>Step-by-Step Guide: Accessing and Using System Information in Windows 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-unveils-comprehensive-ai-skills-handbook-for-singapore-smb-employees/"><u>ZDNet Unveils Comprehensive AI Skills Handbook for Singapore SMB Employees</u></a></li>
 </ul></div>
 

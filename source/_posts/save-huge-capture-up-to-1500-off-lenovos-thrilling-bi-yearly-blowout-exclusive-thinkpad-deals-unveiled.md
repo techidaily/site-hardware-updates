@@ -1,7 +1,7 @@
 ---
 title: "Save Huge: Capture Up To $1,500 Off Lenovo's Thrilling Bi-Yearly Blowout - Exclusive ThinkPad Deals Unveiled!"
-date: 2024-10-19T23:16:49.896Z
-updated: 2024-10-26T23:02:22.148Z
+date: 2024-10-27T16:24:52.188Z
+updated: 2024-11-01T21:30:05.899Z
 tags:
   - laptops
 categories:
@@ -71,10 +71,10 @@ Cesar Cadenas/ZDNET
 I should also mention that I ran into some bugs. This may have been relegated to my review unit only, but the cursor would sometimes jitter back and forth without direct input. Certain key presses were registered even though I hadn't pushed them. The snipping tool, for example, came up without direct interaction. And the Windows Copilot key didn't work at all. The only thing it would do is sometimes make the screen turn momentarily black.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ZDNET's Buying Advice
@@ -117,18 +117,24 @@ There are other options out there that can do the same thing, if not better. One
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-removing-unneeded-podcast-advice-from-spotify/"><u>2024 Approved Removing Unneeded Podcast Advice From Spotify</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/effortlessly-convert-and-import-mtsm2ts-videos-into-adobe-premiere-pro-for-smooth-editing-flow/"><u>Effortlessly Convert and Import MTS/M2TS Videos Into Adobe Premiere Pro for Smooth Editing Flow</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722139440323-embrace-multilingualism-effortlessly-mastering-chatgpt-written-in-the-stars-but-for-now-it-remains-an-enigma-a-testament-to-human-curiosity-and-ambition/"><u>Embrace Multilingualism Effortlessly: Mastering ChatGPT’ Written in the Stars, but for Now, It Remains an Enigma - a Testament to Human Curiosity and Ambition</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-brother-mfc-l2700dw-ready-on-windows-with-official-drivers-free-download/"><u>Get Your Brother MFC-L2700DW Ready on Windows with Official Drivers - Free Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-amd-graphics-drivers-for-crypto-mining-platforms-on-windows-pcs/"><u>How to Get the Newest AMD Graphics Drivers for Crypto-Mining Platforms on Windows PCs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-nokia-g310-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Nokia G310 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/keep-your-asus-computer-running-smoothly-with-updated-drivers/"><u>Keep Your ASUS Computer Running Smoothly with Updated Drivers</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/mac-powered-iphone-recovery-program-safeguard-your-deleted-visual-content-and-personal-connections-with-ease/"><u>Mac-Powered iPhone Recovery Program: Safeguard Your Deleted Visual Content & Personal Connections with Ease</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rapid-recovery-fixing-apex-crashes-effortlessly/"><u>Rapid Recovery: Fixing Apex Crashes Effortlessly</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/tailoring-your-videography-with-personalized-instagram-captions/"><u>Tailoring Your Videography with Personalized Instagram Captions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-easy-way-to-get-latest-d-link-driver-software-installed-on-windows-computers/"><u>The Easy Way to Get Latest D-Link Driver Software Installed on Windows Computers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-8-photo-montage-synthesizer-online-for-2024/"><u>Ultimate 8 Photo Montage Synthesizer Online for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-your-iphone-might-not-receive-texts-and-how-to-fix-it-in-7-ways/"><u>Why Your iPhone Might Not Receive Texts and How to Fix It in 7 Ways</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exquisite-talent-in-vr-content-development/"><u>[Updated] Exquisite Talent in VR Content Development</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-dividedimage-synopsis/"><u>[Updated] In 2024, DividedImage Synopsis</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-navigate-through-group-sharing-options-on-messenger/"><u>[Updated] In 2024, Navigate Through Group Sharing Options on Messenger</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/engaging-audiences-how-twitch-stacks-up-against-youtube-for-2024/"><u>Engaging Audiences How Twitch Stacks Up Against YouTube for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-basic-to-bold-installing-unique-customizable-ringtones-and-sounds-on-android/"><u>In 2024, From Basic to Bold Installing Unique, Customizable Ringtones & Sounds on Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/locating-steam-screenshot-archives/"><u>Locating Steam Screenshot Archives</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/prolactinomas-somatotropinomas-and-corticotroph-adenomas-are-common-secreting-pituitary-tumors/"><u>Prolactinomas, Somatotropinomas, and Corticotroph Adenomas Are Common Secreting Pituitary Tumors.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-galaxy-book-4-edge-enjoy-stunning-visuals-on-its-amoled-panel-and-seamless-performance-from-the-qualcomm-snapdragon-cpu/"><u>Samsung Galaxy Book #4 Edge: Enjoy Stunning Visuals on Its AMOLED Panel and Seamless Performance From the Qualcomm Snapdragon CPU.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-popularity-of-subpar-rear-projection-televisions-a-look-back-at-our-misguided-longing/"><u>The Popularity of Subpar Rear-Projection Televisions: A Look Back at Our Misguided Longing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-the-timelessly-stylish-beats-solo-4-audio-experience/"><u>The Ultimate Guide to the Timelessly Stylish Beats Solo 4 Audio Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/to-construct-or-purchase-your-pc-the-ultimate-guide-to-making-the-ideal-decision/"><u>To Construct or Purchase Your PC: The Ultimate Guide to Making the Ideal Decision</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-4-enduring-benefits-of-investing-in-hard-disk-drives-hdd/"><u>Top 4 Enduring Benefits of Investing in Hard Disk Drives (HDD)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-honor-magic-5-pro-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Honor Magic 5 Pro Phone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-compact-digital-cameras/"><u>Top Rated Compact Digital Cameras</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-smart-eyewear-innovations/"><u>Top-Ranking Smart Eyewear Innovations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-cloud-hosting-solutions/"><u>Top-Rated Cloud Hosting Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-laptop-picks-for-your-2024-tech-upgrade/"><u>Top-Rated Laptop Picks for Your 2024 Tech Upgrade</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-advanced-secure-chats-with-duckduckgos-artificial-intelligence-compete-or-surpass-chatgpt/"><u>Unlock Advanced Secure Chats with DuckDuckGo's Artificial Intelligence: Compete or Surpass ChatGPT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-the-full-potential-of-your-device-expert-guide-to-jailbreaking-ios-17/"><u>Unlocking the Full Potential of Your Device: Expert Guide to Jailbreaking iOS 17</u></a></li>
 </ul></div>
 

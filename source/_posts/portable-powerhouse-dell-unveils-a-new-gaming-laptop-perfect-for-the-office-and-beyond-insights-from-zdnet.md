@@ -1,7 +1,7 @@
 ---
 title: "Portable Powerhouse: Dell Unveils a New Gaming Laptop Perfect for the Office and Beyond - Insights From ZDNet"
-date: 2024-10-21T18:16:36.008Z
-updated: 2024-10-26T16:42:00.052Z
+date: 2024-10-31T17:05:18.997Z
+updated: 2024-11-01T16:41:38.365Z
 tags:
   - laptops
 categories:
@@ -71,10 +71,10 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -113,18 +113,22 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-youtube-mastery-screen-recording-unveiled/"><u>[New] In 2024, YouTube Mastery Screen Recording Unveiled</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cerebral-channels-top-educational-yt-networks/"><u>[Updated] 2024 Approved Cerebral Channels Top Educational YT Networks</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-optimizing-video-visibility-with-strategic-tag-selection/"><u>[Updated] In 2024, Optimizing Video Visibility with Strategic Tag Selection</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1-transfer-your-tunes-top-techniques-for-syncing-iphone-music-with-your-computer/"><u>1. Transfer Your Tunes: Top Techniques for Syncing iPhone Music with Your Computer</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-apple-iphone-6s-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>How To Fake GPS On Apple iPhone 6s For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-poco-m6-pro-4g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Poco M6 Pro 4G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-toms-tech-expert-insights-on-latest-gadgets/"><u>Inside Tom's Tech: Expert Insights on Latest Gadgets</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/introducing-the-elite-gigabyte-intel-z790-aorus-xtreme-x-gold-cpu-socket-and-impressive-misty-theme-with-a-massive-m2-heatsink/"><u>Introducing the Elite Gigabyte Intel Z790 Aorus XTreme X: Gold CPU Socket & Impressive Misty Theme with a Massive M.2 Heatsink</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/master-your-gadgets-with-expert-tips-from-toms-hardware/"><u>Master Your Gadgets with Expert Tips From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-electronics-critical-insights-and-assessments-by-toms-review-team/"><u>Mastering Electronics: Critical Insights and Assessments by Tom's Review Team</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/msi-accepts-responsibility-fixing-the-issues-with-defective-cooler-systems-in-z790-motherboards/"><u>MSI Accepts Responsibility: Fixing the Issues with Defective Cooler Systems in Z790 Motherboards</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-new-technologies-with-toms-hardware-guides/"><u>Navigating New Technologies with Tom's Hardware Guides</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-compreeved-tips-on-using-vlcs-video-tools-for-2024/"><u>[New] Compreeved Tips on Using VLC's Video Tools for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-elevate-and-accelerate-vimeo-videos/"><u>[Updated] 2024 Approved Elevate and Accelerate Vimeo Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-expert-tips-for-crafting-intricate-photo-mosaics/"><u>[Updated] 2024 Approved Expert Tips for Crafting Intricate Photo Mosaics</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-best-9-free-youtube-logo-makers/"><u>[Updated] Best 9 Free YouTube Logo Makers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-lightning-leap-fame-mastering-instagram-with-these-15-essential-easy-tips-for-overnight-success/"><u>[Updated] In 2024, Lightning Leap Fame Mastering Instagram with These 15 Essential, Easy Tips for Overnight Success</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-premier-updates-facebooks-latest-gems-unearthed-for-2024/"><u>[Updated] Premier Updates Facebook's Latest Gems Unearthed for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/acer-aspire-5100-driver-download-complete-guide/"><u>Acer Aspire 5100 Driver Download: Complete Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-official-nvidia-940mx-graphics-card-drivers/"><u>Download and Install Official Nvidia 940MX Graphics Card Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722967083012-get-the-latest-hp-officejet-pro-product-model-number-drivers-for-your-pc-now/"><u>Get the Latest HP OfficeJet Pro ([Product Model Number]) Drivers for Your PC Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969797074-get-your-epson-es-400-compatible-software-installed-in-windows-now/"><u>Get Your Epson ES-400 Compatible Software Installed in Windows Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/google-meet-camera-error-heres-how-you-can-get-it-working-again/"><u>Google Meet Camera Error? Here’s How You Can Get It Working Again!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-repair-a-malfunctioning-samsung-blu-ray-media-device/"><u>How To Repair A Malfunctioning Samsung Blu Ray Media Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-repair-your-logitech-g13-controller-using-official-drivers/"><u>How to Repair Your Logitech G13 Controller Using Official Drivers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/investigating-allegations-againnst-intel-class-action-over-processor-performance-failures-begins/"><u>Investigating Allegations Againnst Intel: Class Action Over Processor Performance Failures Begins</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/obtain-new-nvidia-rtx-2060-driver-software-compatible-with-all-windows-os-windows-11-10-8e/"><u>Obtain New NVIDIA RTX 2060 Driver Software - Compatible with All Windows OS (Windows 11, 10, 8/E)</u></a></li>
 </ul></div>
 

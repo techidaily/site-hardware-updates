@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reveals the Ultimate Selection: Sturdy Laptops Dominating 2024 Market"
-date: 2024-10-21T00:01:27.468Z
-updated: 2024-10-26T20:09:09.369Z
+date: 2024-10-29T20:54:14.812Z
+updated: 2024-11-01T19:51:39.738Z
 tags:
   - laptops
 categories:
@@ -30,6 +30,13 @@ ZDNET's favorite security key is the [Yubico YubiKey 5 NFC](https://buy.geni.us/
 
 ZDNET has tested many security keys throughout the years and frequently tracks market developments and changes. We often use security keys ourselves and lean upon our personal experience to shape our recommendations. Below, you will find our top picks for security keys today. 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Best security keys of 2024
 
 Show less 
@@ -43,13 +50,6 @@ Pros
 Cons 
 * Expensive, especially if you need two
 * Technical knowledge may be required
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Yubico YubiKey 5 NFC
 
@@ -80,7 +80,21 @@ Cons
 * No NFC so no support for iPhone and Android
 * Doesn't support macOS logins
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Thetis Fido U2F Security Key
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best security key for durability
 
@@ -109,14 +123,14 @@ Cons
 * Expensive
 * No NFC compatibility
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Yubico YubiKey 5 Nano
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best security key for travel
 
@@ -143,13 +157,6 @@ Pros
 
 Cons 
 * Only supports FIDO protocols
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Yubico Security Key C NFC
 
@@ -182,13 +189,6 @@ Cons
 
 ## Kensington Verimark Fingerprint Key
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### The best security key for biometrics
 
 The Kensington Verimark Fingerprint Key utilizes advanced biometric technology, offering excellent performance, 360-degree readability, and anti-spoofing protection.
@@ -215,14 +215,14 @@ Pros
 Cons 
 * No biometrics
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Google Titan security key
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### The best multi-platform security key
 
@@ -268,13 +268,6 @@ However, investing in a higher-end brand may be wise if you already use security
 | Kensington Verimark Fingerprint Key | A simple USB-A security key with built-in biometrics. This key is discreet, compact, and user-friendly, although it has limited compatibility.                   |
 | Google Titan security key           | An affordable, multi-platform key suitable for Chrome-supporting services, Android, and iOS apps that can store up to 250 passkeys.                              |
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Factors to consider when choosing a security key
 
 Security keys are an investment in time and money and so it is best to select the right one for you before you begin the process of connecting one to your online accounts. While you're deciding what security key is right for you, consider the following factors:
@@ -303,22 +296,35 @@ Our main criteria for selecting these security keys are:
 
 A security key is a physical device that generates a unique code used with a password to authenticate your identity when logging into a website or application. It uses public-key cryptography and is more secure than traditional 2FA methods.
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What does FIDO mean?
 
 The FIDO Alliance consortium has developed open standards for authentication protocols. The authentication standard is based on public key cryptography. 
 
 Devices that are FIDO certified allow users to quickly sign into their accounts using physical keys or biometric passkeys, and have also achieved FIDO protection and security standards. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why are security keys better than SMS-based 2FA?
 
 SMS is open to SIM hijacking, while a physical key cannot be copied or the data intercepted. Think about it this way: 2FA verification codes sent via SMS messaging may be intercepted if your smartphone has been infected with malware, including spyware, but unless an attacker has your physical security key in their hand, they cannot grab the code required to access your account.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How many security keys do I need?
 
@@ -329,10 +335,10 @@ We recommend purchasing at least two -- one that you use day-to-day and one to k
 Security keys are one of the best authentication methods on the market today and they have very little exploitable attack surface, making them difficult to 'hack' in any way. While there are cases of keys being cloned for academic purposes, as security keys are not constantly connected to the Internet, you don't have to worry about the most common attack vectors having any impact on them. Just keep your key in a safe place.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do security keys prevent phishing?
@@ -387,22 +393,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-trends-that-triumph-making-your-instagram-content-viral/"><u>[New] Trends That Triumph Making Your Instagram Content Viral</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-youtubes-copyright-rules-simplified-a-non-legal-guide/"><u>[Updated] 2024 Approved YouTube's Copyright Rules Simplified A Non-Legal Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-expert-calls-merging-youtube-and-sustainable-backgrounds-for-2024/"><u>[Updated] Expert Calls Merging YouTube & Sustainable Backgrounds for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-exploring-10-innovative-affordable-video-call-apps-iosandroid/"><u>[Updated] Exploring 10 Innovative, Affordable Video Call Apps - iOS/Android</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-enhance-presentations-with-proper-screenshotting-via-ezvid/"><u>[Updated] In 2024, Enhance Presentations with Proper Screenshotting via Ezvid</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-notebook-driver-downloads-latest-updates-and-installation-guide/"><u>ASUS Notebook Driver Downloads: Latest Updates and Installation Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-resource-for-downloading-and-upgrading-canons-mx492-and-mx-series-printer-drivers-on-windows-pcs/"><u>Comprehensive Resource for Downloading and Upgrading Canon's MX492 & MX Series Printer Drivers on Windows PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effective-fixes-for-samsung-blu-ray-players-that-refuse-to-function/"><u>Effective Fixes for Samsung Blu-Ray Players That Refuse To Function</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-ways-to-find-and-install-new-asus-bluetooth-drivers-today/"><u>Effortless Ways to Find & Install New ASUS Bluetooth Drivers Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-solutions-for-fixing-your-windows-11s-bluetooth-driver-issues-today/"><u>Expert Solutions for Fixing Your Windows 11'S Bluetooth Driver Issues Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/geforce-rtx-3080-windows-1187-drivers-update-now-and-enjoy-improved-performance/"><u>GeForce RTX 3080 Windows 11/8/7 Drivers: Update Now & Enjoy Improved Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-usb-30-and-gigabit-network-card-drivers-to-boost-your-pcs-network-performance-on-windows/"><u>Get the Latest USB 3.0 & Gigabit Network Card Drivers to Boost Your PC's Network Performance on Windows</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/get-the-latest-winx-media-player-for-free-with-our-comprehensive-downloads-and-support/"><u>Get the Latest WinX Media Player for Free with Our Comprehensive Downloads and Support</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-nokia-c12-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Nokia C12 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-updated-canon-mx922-drivers-on-your-windows-device/"><u>Install Updated Canon MX922 Drivers on Your Windows Device</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/resolved-reducing-excessive-cpu-consumption-in-google-chrome/"><u>Resolved: Reducing Excessive CPU Consumption in Google Chrome</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-lenovo-mouse-pad-issues-on-windows-11-8-and-7-solutions-included/"><u>Troubleshooting Lenovo Mouse Pad Issues on Windows 11, 8 & 7 - Solutions Included</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-echoes-of-unity-combining-tracks-in-digital-performer/"><u>[New] 2024 Approved Echoes of Unity Combining Tracks in Digital Performer</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-efficient-obs-adjustments-on-cost-effective-computers-for-2024/"><u>[New] Efficient OBS Adjustments on Cost-Effective Computers for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-expert-strategies-obs-streams-to-facebook-success/"><u>[New] Expert Strategies OBS Streams to Facebook Success</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-copycatting-charisma-making-ingenious-parodies/"><u>[New] In 2024, Copycatting Charisma Making Ingenious Parodies</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-drone-editors-playbook-a-comprehensive-guide/"><u>[Updated] In 2024, The Drone Editor's Playbook A Comprehensive Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-transform-your-tiktok-experience-with-new-user-numbers/"><u>[Updated] Transform Your TikTok Experience with New User Numbers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-kinemaster-editors-roadmap-for-flawless-transitions-for-2024/"><u>A Kinemaster Editor's Roadmap for Flawless Transitions for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mg2900-driver-downloads-find-the-newest-update-here/"><u>Canon MG2900 Driver Downloads: Find the Newest Update Here</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/crafting-visual-impact-a-guide-to-color-balancing-mastery/"><u>Crafting Visual Impact A Guide to Color Balancing Mastery</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-asus-touchpad-drivers-fast-compatible-with-windows-11-systems/"><u>Download ASUS Touchpad Drivers Fast - Compatible with Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-new-nvidia-geforce-rtx-2070-drivers-optimized-performance-on-windows-systems/"><u>Download the New NVIDIA GeForce RTX 2070 Drivers: Optimized Performance on Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-and-download-for-upgraded-epson-v600-driver-software/"><u>Easy Guide & Download for Upgraded Epson V600 Driver Software</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/effective-techniques-for-screen-display-on-google-meet-for-2024/"><u>Effective Techniques for Screen Display on Google Meet for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-techniques-to-resolve-missing-osetupdll-issues/"><u>Effective Techniques to Resolve 'Missing oSetup.dll' Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-driver-update-for-samsung-c460-start-now/"><u>Effortless Driver Update for Samsung C460 - Start Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-thunderbolt-driver-downloads-for-windows-computers/"><u>Free Thunderbolt Driver Downloads for Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-logitech-m525-mouse-driver-softwares-for-free/"><u>Get the Latest Logitech M525 Mouse Driver Softwares for Free</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-driver-downloads-for-surface-book-2-effortlessly-enhance-performance/"><u>Seamless Driver Downloads for Surface Book 2 - Effortlessly Enhance Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tech-insights-from-tom-a-deep-dive-into-advanced-hardware/"><u>Tech Insights From Tom: A Deep Dive Into Advanced Hardware</u></a></li>
 </ul></div>
 

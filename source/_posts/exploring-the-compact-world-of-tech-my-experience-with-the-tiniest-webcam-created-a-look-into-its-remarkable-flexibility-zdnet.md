@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Compact World of Tech: My Experience with the Tiniest Webcam Created - A Look Into Its Remarkable Flexibility | ZDNet"
-date: 2024-10-20T02:09:56.978Z
-updated: 2024-10-26T18:52:42.704Z
+date: 2024-10-28T17:38:32.823Z
+updated: 2024-11-01T16:18:46.326Z
 tags:
   - laptops
 categories:
@@ -63,6 +63,13 @@ I've been testing the base [$2,200 variant](https://shop-links.co/link/?url=http
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Textbook design, period.
 
 The design of the Galaxy Book 3 Ultra doesn't move the needle; hide the Samsung logo on the cover and it can easily pass as just another large-screen laptop that's stacked up during Black Friday. Fortunately, the sturdy aluminum build of the Galaxy Book feels much more premium than that of a discount laptop, and thanks to subtle wedges and seamless curves throughout the chassis, the 16-inch size gives off a better impression of portability than a MacBook Pro of similar size. If I had to lug around a laptop throughout a workday, I'd pick the Samsung without hesitation.
@@ -79,13 +86,6 @@ Doing so also exposes two flaws of the Galaxy Book 3 Ultra: the wobbliness and g
 
 Will you notice the shaking when you're laser-focused on what's being displayed? Probably not. Would a matte display have served better for viewing comfort? Absolutely.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Live by the display…
 
 Believe it or not, I still consider the Galaxy Book 3 Ultra's display to be one of its key selling points. You're looking at a 16-inch, 120Hz, 3K, AMOLED display, with [most of its tech carried over](https://www.zdnet.com/article/samsung-display-brings-advanced-smartphone-oled-touch-tech-to-notebooks/) from the sharp, great-looking panels from Samsung's high-end smartphones. The colors on the laptop are, to say the least, punchy, visually distinctive, and plenty bright for most environments. Gaming and multimedia consumption are an absolute treat on the Galaxy Book.
@@ -97,6 +97,13 @@ For content creation and multitasking, the wider 16:10 dimension here is ideal. 
 The thin bezels make the 16-inch display a little more manageable.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The best use of space?
 
@@ -113,10 +120,10 @@ June Wan/ZDNET
 Another thing that I don't love is the trackpad. While massive, the new trackpad is not only off-centered but doesn't register presses on the upper half of it. As a result, there were plenty of times when the laptop would register a double tap as a single tap and vice versa. Keep in mind that I was coming from the MacBook Pro and have been absolutely spoiled by its Force Touch trackpad.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A dedicated graphics card matters
@@ -135,13 +142,6 @@ With a discrete GPU, the Galaxy Book absolutely breezes through my usual photo a
 
 On a standard workday, I averaged about six and a half hours of usage per charge, which is not bad but not great either. On days that involved more video editing, downloading files, and a bit of gaming (because that's what you do when you have a dedicated GPU in a laptop), I watched as the battery percentage dropped 20% every hour.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The benchmark results are in...
 
 For those who live by benchmarks, here's how the Galaxy Book 3 Ultra fared in Geekbench 6 and Cinebench R23 tests compared to 16-inch MacBook Pros (M1 Pro and M2 Max).
@@ -151,6 +151,13 @@ June Wan/ZDNET
 By the numbers, the Galaxy Book 3 Ultra is neck and neck with Apple's older [M1 Pro-equipped MacBook](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-16-inch-10%E2%80%91core-16%E2%80%91core%2Fdp%2FB09JQKBQSB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07697e1f-c06e-4c15-b2ea-0f8024c04589%7Cdtp&dtb=1), but the [M2 Max](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BSHF1YSR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07697e1f-c06e-4c15-b2ea-0f8024c04589%7Cdtp&dtb=1) variant is still levels above the competition when it comes to multi-core performance. 
 
 While your Twitter feed isn't going to load any faster because one laptop scored higher than the other, we're looking at seconds (or even minutes) of faster speeds when it comes to graphics-intensive applications like exporting 4K videos and loading AAA games.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## An ecosystem of its own
 
@@ -167,13 +174,6 @@ In fact, all the product photos in this review were captured by the [Galaxy S23 
 ## Bottom line
 
 Ultimately, the Galaxy Book 3 Ultra [starts at $2,200](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-book3-ultra%2Fbuy%2F%3F&publisher_slug=itechdaily19598&exclusive=1) for the Intel Core i7, Nvidia GeForce RTX 4050, 16GB of RAM, and 512GB of storage configuration. That's a big price for a big laptop, but if we're comparing it with its closest Apple alternative, then Samsung is undercutting the [16-inch MacBook Pro (M2)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BSHF7LLL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07697e1f-c06e-4c15-b2ea-0f8024c04589%7Cdtp&dtb=1) by about $300\. And in Samsung's defense, it's giving you a lot for the money, including a dedicated graphics card, one of the best-looking laptop displays on the market, and an uncompromising keyboard experience. The only notable shortcomings are the glossy screen, the obnoxiously large trackpad, and the moderate battery life.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -227,21 +227,15 @@ While the two alternatives above are more subtle by design, the Asus ZenBook 14 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-navigating-the-realm-of-sponsorships-on-instagram-influencer-edition/"><u>[New] Navigating the Realm of Sponsorships on Instagram Influencer Edition</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/op-content-pioneers-assembly/"><u>[New] Top Content Pioneers Assembly</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-insiders-take-top-9-digital-mic-recorder-selections/"><u>[Updated] 2024 Approved Insider's Take Top 9 Digital Mic Recorder Selections</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/1716069736677-updated-in-2024-activating-built-in-recorders-on-mate-and-p-series-phones-mate-1020-p2010/"><u>[Updated] In 2024, Activating Built-In Recorders on Mate and P Series Phones (Mate 10/20; P20/10).</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-monetary-value-of-each-youtube-brand-partnership/"><u>[Updated] The Monetary Value of Each YouTube Brand Partnership?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-skilled-uav-operation-tips-for-filmmakers/"><u>2024 Approved Skilled UAV Operation Tips for Filmmakers</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-motorola-moto-e13withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Motorola Moto E13with/without a PC</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/how-to-download-vlc-player-for-free-and-safe-on-macstep-by-step-for-2024/"><u>How to Download VLC Player for Free and Safe on Mac?[Step-by-Step] for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-enhance-your-sound-system-explore-the-best-5-car-audio-mixers-compatible-with-mac-computers/"><u>New In 2024, Enhance Your Sound System Explore the Best 5 Car Audio Mixers Compatible with Mac Computers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-in-depth-reviews-and-comparisons-of-the-latest-hardware/"><u>Tom's Tech Insights: In-Depth Reviews & Comparisons of the Latest Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-expert-insights-on-hardware-and-gadgets/"><u>Tom's Tech Review: Expert Insights on Hardware & Gadgets</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-testing-the-high-performance-corsair-mp600-1tb-sdd-in-e27t-format-a-must-have-for-ssd-enthusiasts/"><u>Ultimate Guide: Testing the High-Performance Corsair MP600 1TB SDD in E27T Format – A Must-Have for SSD Enthusiasts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-savings-leading-ssd-and-hdd-deals-for-the-current-year/"><u>Unbeatable Savings: Leading SSD and HDD Deals for the Current Year</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-portable-gaming-power-nextorage-releases-pcie-40-m2-blisteringly-fast-2230-ssd-with-7400-mbs-speed/"><u>Unleash Portable Gaming Power: Nextorage Releases PCIe 4.0 M.2 Blisteringly Fast 2230 SSD with 7,400 MB/S Speed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-gadgets-with-tom/"><u>Unveiling Gadgets with Tom</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-world-of-tech-with-toms-hardware-in-depth-reviews-and-analysis/"><u>Unveiling the World of Tech with Tom's Hardware: In-Depth Reviews and Analysis</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-quintessential-browsers-screen-recorder-guide-for-professionals/"><u>[New] The Quintessential Browsers' Screen Recorder Guide for Professionals</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-crafting-the-podcast-intros-captivating-your-audience-from-the-start/"><u>2024 Approved Crafting the Podcast Intros Captivating Your Audience From the Start</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-top-tier-tools-transforming-remote-discussions/"><u>2024 Approved Top-Tier Tools Transforming Remote Discussions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ditch-frustration-discover-open-source-solutions-streaming-seamlessly-with-moonlight-and-sunshine/"><u>Ditch Frustration: Discover Open-Source Solutions - Streaming Seamlessly with Moonlight & Sunshine</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-oppo-a56s-5g-easily-by-drfone-android/"><u>How To Unlock a Oppo A56s 5G Easily?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-canon-pixma-ts3322-printer-drivers-free-download-and-installation-guide/"><u>Latest Canon PIXMA TS3322 Printer Drivers - Free Download & Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-technology-trends-with-toms-hardware-experts/"><u>Navigating Technology Trends with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-fixes-for-elgato-hd6-groovers-driver-troubles-an-experts-methods-uncovered/"><u>Quick Fixes for Elgato HD6 Groovers Driver Troubles – An Expert's Methods Uncovered</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-obtaining-the-logitech-mx-master-drivers-for-optimal-performance/"><u>Step-by-Step Instructions: Obtaining the Logitech MX Master Drivers for Optimal Performance</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-oppo-reno-8t-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Oppo Reno 8T 5G Phone Hassle-Free</u></a></li>
 </ul></div>
 

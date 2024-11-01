@@ -1,7 +1,7 @@
 ---
 title: Unleashing Efficiency with Lenovo's Game-Changing Dual-Display Laptop | Exclusive Review by ZDNet
-date: 2024-10-19T22:08:32.327Z
-updated: 2024-10-26T20:49:38.843Z
+date: 2024-10-30T20:17:59.635Z
+updated: 2024-11-01T18:06:25.287Z
 tags:
   - laptops
 categories:
@@ -41,16 +41,10 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -66,19 +60,6 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 | Price                 | Starting at [$1,980](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-12-Core-i7-1360P-Fingerprint-Thunderbolt4%2Fdp%2FB0CR9S1KFL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2bb27470-3aa9-4b54-b4b3-9b78eddc5a5f%7Cdtp&dtb=1) |
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
 
@@ -99,13 +80,6 @@ Max Buondonno/ZDNET
 There's a lot that the dual-screen design of the Yoga Book 9i enables, and the versatility of it all is simply unmatched by more [conventional laptops](https://www.zdnet.com/article/best-laptop/). It's like a blank canvas made of OLED screens -- you can literally do whatever you want with them, orient them the way you want, and it can all be packed up and taken on the go.
 
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How does it perform?
 
@@ -128,16 +102,10 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
@@ -160,6 +128,13 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## One thing to keep in mind
 
 Having a laptop with two screens means you'll have to lug around a separate keyboard, mouse, and kickstand, all three of which (plus a stylus) come in the box. It's a lot of separate things you have to remember to bring, and I'm going to be honest with you, it can be inconvenient.
@@ -169,6 +144,13 @@ Max Buondonno/ZDNET
 When I'm working on my MacBook or -- quite frankly -- any other laptop in my arsenal, all I have to do is close the lid and load it into my backpack when I'm finished. With the Yoga Book 9i, I have to close the laptop > collapse the kickstand > place the keyboard inside the collapsed kickstand > stack the keyboard/kickstand combo, mouse, and stylus on top of the laptop > shove it all in my bag and pray I can find it later when it's time to go back to work.
 
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -208,19 +190,19 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-how-to-achieve-professional-level-audio-quality-on-youtube/"><u>[Updated] 2024 Approved How to Achieve Professional-Level Audio Quality on YouTube</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-realme-v30-by-drfone-android/"><u>Full Guide to Unlock Your Realme V30</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722967193983-get-the-latest-creative-audigy-mb-audio-drivers-for-windows-10-free-downloads-available/"><u>Get the Latest Creative Audigy MB Audio Drivers for Windows 10 - Free Downloads Available!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-insignia-devices-up-and-running-effortless-windows-driver-downloads/"><u>Get Your Insignia Devices Up and Running - Effortless Windows Driver Downloads!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-update-your-standard-sata-achi-controllers-driver/"><u>How to Seamlessly Update Your Standard SATA ACHI Controller's Driver</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-x-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone X | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/inside-the-immersive-evolution-vrs-present-state-and-foreseen-obstacles/"><u>Inside the Immersive Evolution VR's Present State and Foreseen Obstacles</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/master-your-pc-builds-with-toms-hardware-essentials/"><u>Master Your PC Builds with Tom's Hardware Essentials</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-update-a-comprehensive-guide-to-personalizing-your-iphones-control-center-on-ios-18-tips/"><u>Mastering the Update: A Comprehensive Guide to Personalizing Your iPhone's Control Center on iOS 18 - Tips</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mega-gaming-experience-custom-raspberry-pi-5-upgraded-giant-game-boy-xl-featuring-fully-operational-buttons/"><u>Mega Gaming Experience: Custom Raspberry Pi 5 Upgraded Giant Game Boy XL Featuring Fully Operational Buttons</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/secure-your-asrock-ab350-pro4-with-free-windows-drivers-download-made-easy/"><u>Secure Your ASRock AB350 Pro4 with Free Windows Drivers – Download Made Easy!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-the-full-potential-of-your-amd-ryzen-7-9700x-overclocked-to-an-impressive-58-ghz-using-high-performance-liquid-cooling-achieving-a-6-ghz-milestone-at50/"><u>Unlock the Full Potential of Your AMD Ryzen 7 #9700X: Overclocked to an Impressive 5.8 GHz Using High-Performance Liquid Cooling, Achieving a 6 GHz Milestone at Idle!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722967801610-your-fast-and-easy-guide-to-downloading-free-qualcomm-atheros-ar938x-drivers/"><u>Your Fast and Easy Guide to Downloading Free Qualcomm Atheros AR938X Drivers.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonizing-audio-quality-top-10-blenders-for-podcasting/"><u>[Updated] Harmonizing Audio Quality Top 10 Blenders for Podcasting</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unveiling-simple-smooth-gaming-video-editors-for-starters-for-2024/"><u>[Updated] Unveiling Simple, Smooth Gaming Video Editors for Starters for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-hp-840-g3-drivers-download-guide-step-by-step-installation/"><u>Complete HP 840 G3 Drivers Download Guide - Step-by-Step Installation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/conquer-the-canvas-of-nature-mastering-iphone-sky-photography/"><u>Conquer the Canvas of Nature Mastering iPhone Sky Photography</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-latest-graphics-drivers-for-your-pc-nvidias-rtx-cards-and-windows-support-11-10-8-7/"><u>Download Latest Graphics Drivers for Your PC: NVIDIA's RTX Cards & Windows Support (11, 10, 8, 7)</u></a></li>
+<li><a href="https://win11.techidaily.com/echoes-of-the-past-amplifying-vintage-games-with-shaders/"><u>Echoes of the Past: Amplifying Vintage Games with Shaders</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-cpu-game-with-an-amd-ryzen-9700x-overclocking-to-58ghz-and-beyond-using-cutting-edge-aio-liquid-coolers-surpassing-expectations-at-a-steady-idl33/"><u>Elevate Your CPU Game with an AMD Ryzen #9700X: Overclocking to 5.8GHz and Beyond Using Cutting-Edge AIO Liquid Coolers, Surpassing Expectations at a Steady Idle Speed of 6 GHz!</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-get-your-hp-laptop-keys-working-again-immediately/"><u>Expert Tips to Get Your HP Laptop Keys Working Again Immediately</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/fast-and-easy-way-to-save-your-flipboard-settings-as-a-custom-theme/"><u>Fast & Easy Way to Save Your FlipBoard Settings As a Custom Theme</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-modern-tech-in-depth-analysis-and-reviews-at-tome-hardware-hub/"><u>Navigating Modern Tech: In-Depth Analysis & Reviews at Tom'e Hardware Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-updating-your-lenovo-t450-device-drivers-swiftly/"><u>Step-by-Step Guide to Updating Your Lenovo T450 Device Drivers Swiftly</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-5-superior-ps2-android-gaming-simulators-reviewed-for-2024/"><u>The 5 Superior PS2 Android Gaming Simulators Reviewed for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/universal-vmix-adapter-for-2024/"><u>Universal VMix Adapter for 2024</u></a></li>
 </ul></div>
 
