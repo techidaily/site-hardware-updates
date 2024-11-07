@@ -1,7 +1,7 @@
 ---
 title: "Samsung's Top-of-the-Line Laptop Challenges Apple's MacBook Pro in Performance: A Comprehensive Review on ZDNet"
-date: 2024-10-25T16:25:08.398Z
-updated: 2024-11-01T18:17:40.147Z
+date: 2024-11-06T16:37:16.765Z
+updated: 2024-11-07T16:44:28.241Z
 tags:
   - laptops
 categories:
@@ -42,19 +42,6 @@ The Ultra laptop still suffers from similar setbacks as its predecessor, [which 
 
 You can expect to pay between $2,400 to $3,000 for the Galaxy Book 4 Ultra, which is a big ask, but the performance and hardware package you're getting in return justifies the price point. My buying advice is to wait for one of Samsung's sales events (usually during major holidays) and take advantage of its trade-in program, which can deduct up to $600 more. Case in point: you can pick up the highest configuration, which comes with an Intel Core Ultra 9, Nvidia GeForce RTX 4070, and 32GB of RAM, for [$500 off](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-books%2Fgalaxy-book4-series%2Fbuy%2Fgalaxy-book4-ultra-16-intel-core-ultra-9-1tb-moonstone-gray-np960xgl-xg1us%2F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing.
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | Display     | 16-inch 3K AMOLED (2,800 x 1,800, 16:10) with 120Hz, 400 nits                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
@@ -80,6 +67,19 @@ Kerry Wan/ZDNET
 Most of the time, the laptop is either hooked to an external monitor (meaning I try to run as many windows of apps and services at the same time as possible) or used in tandem with my [Samsung Galaxy S24 Ultra](https://www.zdnet.com/article/samsung-galaxy-s24-ultra-review/) with the help of Quick Share and Second Screen. Both cross-platform features worked very smoothly, though they're mainly compatible with Samsung devices and Samsung devices only.
 
 For performance testing, I ran Cinebench 2024 to calculate the single, multi, and GPU scores of the laptop, while also taking notes on day-to-day aspects like fan speed and loudness, system temperature, frame rate drops, and more.
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What are the Samsung Galaxy Book 4 Ultra's best features?
 
@@ -130,10 +130,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -149,10 +149,10 @@ Kerry Wan/ZDNET
 The trackpad is also a physical one, meaning it presses down instead of mimicking the feel of it via haptic motors like on the [MacBook Pro](https://www.zdnet.com/article/macbook-pro-m3-max-review/) and [Dell XPS](https://www.zdnet.com/article/i-tested-dells-2024-xps-14-laptop-and-cant-recommend-it-enough/). As a result, when I did want to click, drag, or tap on something, I had to find the "sweet spot" on the trackpad to register it properly. Otherwise, pressing too close to the corners and edges would oftentimes not register anything at all.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Final thought
@@ -160,10 +160,10 @@ The trackpad is also a physical one, meaning it presses down instead of mimickin
 While it's easy to recommend the [Samsung Galaxy Book 4 Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-books%2Fgalaxy-book4-series%2Fbuy%2Fgalaxy-book4-ultra-16-intelcore-ultra-7-1tb-moonstone-gray-np960xgl-xg2us%2F&publisher_slug=itechdaily19598&exclusive=1) as the "MacBook Pro for Samsung users," several upgrades this year, including the Intel Core Ultra chip for AI applications, touchscreen display, and improved battery life, make the laptop a formidable pickup for just about every Windows user. Just note that if you're a content creator who relies on full-sized SD cards to transfer photos and videos, you'll want to pick up a [dongle or docking station](https://www.zdnet.com/article/best-laptop-docking-station/) to work with the Galaxy Book. There's also no charging port on the laptop's right side, so you'll want to think twice when situating near an outlet.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -200,19 +200,22 @@ While it's easy to recommend the [Samsung Galaxy Book 4 Ultra](https://shop-link
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-initiating-meetings-on-the-move-tech-advice/"><u>[Updated] Initiating Meetings on the Move Tech Advice</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-audio-options-dilemma-podcasts-against-youtube/"><u>2024 Approved Audio Options Dilemma Podcasts Against YouTube</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-realtek-audio-management-software-download-the-latest-version-gratis/"><u>ASUS Realtek Audio Management Software - Download the Latest Version Gratis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-lenovo-bluetooth-driver-for-windows-710-a-complete-guide/"><u>Download and Install Lenovo Bluetooth Driver for Windows 7/10: A Complete Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-free-version-of-killer-network-drivers-compatible-with-win1087/"><u>Download the Latest Free Version of Killer Network Drivers Compatible with Win10/8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-advice-how-to-securely-get-and-update-lenovo-thinkpad-drivers/"><u>Expert Advice: How to Securely Get & Update Lenovo ThinkPad Drivers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/immediate-troubleshooting-steps-for-astro-a50s-lack-of-sounds/"><u>Immediate Troubleshooting Steps for Astro A50's Lack of Sounds</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/language-lessons-in-long-term-relationships/"><u>Language Lessons in Long-Term Relationships</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-ways-to-overcome-elgato-hd60-driver-complications/"><u>Quick & Easy Ways to Overcome Elgato HD60 Driver Complications</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-to-get-the-scroll-wheel-working-again-on-your-logitech-mouse/"><u>Quick Fixes to Get the Scroll Wheel Working Again on Your Logitech Mouse</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-puzzle-a-step-by-step-guide-on-correcting-cmos-checksum-mismatches/"><u>Solving the Puzzle: A Step-by-Step Guide on Correcting CMOS Checksum Mismatches</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/steps-to-successfully-install-and-update-your-xp-pen-graphics-driver/"><u>Steps to Successfully Install and Update Your XP-Pen Graphics Driver</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-complete-fixing-the-memory-shortage-in-god-of-war-gameplay/"><u>Troubleshooting Complete: Fixing the Memory Shortage in God of War Gameplay</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-oppo-a59-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Oppo A59 5G</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-cinematic-capture-top-picks-from-video-experts/"><u>[New] 2024 Approved Cinematic Capture Top Picks From Video Experts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unveiling-high-definition-with-lgs-31mu97-b-digital-cinema-screen/"><u>[New] Unveiling High Definition with LG's 31MU97-B Digital Cinema Screen</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-complete-evaluation-of-camstudio-screen-recorder/"><u>[Updated] Complete Evaluation of CamStudio Screen Recorder</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-review-of-advanced-parrot-ar-drone/"><u>2024 Approved Expert Review of Advanced Parrot AR Drone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/comment-reinitialiser-un-ordinateur-avec-des-hardware-echanges/"><u>Comment Réinitialiser Un Ordinateur Avec Des Hardware Échangés ?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-deal-on-your-go-to-photography-gear-save-500-on-samsungs-top-display-at-best-buy-according-to-zdnet/"><u>Discover the Deal on Your Go-To Photography Gear: Save $500 on Samsung's Top Display at Best Buy, According to ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-perfect-combination-of-portability-and-power-zdnets-go-to-laptop-for-all-day-endurance/"><u>Discover the Perfect Combination of Portability and Power: ZDNet's Go-To Laptop for All-Day Endurance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-cause-of-window-10s-screen-tremors-a-step-by-step-guide/"><u>Fixing the Cause of Window 10'S Screen Tremors: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-guide-to-sns-hdr-pro-and-similar-software/"><u>In 2024, Comprehensive Guide to SNS HDR Pro and Similar Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-film-editing-made-easy-with-fcps-top-10-tools/"><u>In 2024, Expert Film Editing Made Easy with FCP's Top 10 Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-m3-macbook-air-unveiled-how-apples-latest-entry-in-affordable-ai-computing-stacks-up-insights-from-a-comprehensive-review/"><u>The M3 MacBook Air Unveiled: How Apple's Latest Entry in Affordable AI Computing Stacks Up - Insights From a Comprehensive Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-the-best-lenovo-notebooks-in-202-in-depth-analysis-and-comparisons-zdnet/"><u>Ultimate Guide to the Best Lenovo Notebooks in 202지 - In-Depth Analysis and Comparisons | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-savings-guide-for-pre-prime-day-2024-shopping-best-deals-curated/"><u>Ultimate Savings Guide for Pre-Prime Day 2024 Shopping | Best Deals Curated</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-apple-bargains-in-july-2024-iphones-apple-watches-and-ipads-at-steep-discounts-detailed-roundup/"><u>Unbeatable Apple Bargains in July 2024: IPhones, Apple Watches & iPads at Steep Discounts - Detailed Roundup</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-offer-on-apples-macbook-pro-16-inch-m1-max-grab-the-discounted-price-of-just-890-at-bandh-featured-by-zdnet-news/"><u>Unbeatable Offer on Apple's MacBook Pro 16-Inch M1 Max - Grab the Discounted Price of Just $890 at B&H, Featured by ZDNet News</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-the-asus-laptop-outperforms-apples-macbook-in-key-areas-a-detailed-review/"><u>Why the ASUS Laptop Outperforms Apple's MacBook in Key Areas – A Detailed Review</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Experience the Power Shift: Microsoft's New Surface Laptop Copilot+ PC Triumphs over MacBook Air | Insights From ZDNET"
-date: 2024-10-25T16:50:09.279Z
-updated: 2024-11-01T20:27:41.322Z
+date: 2024-11-03T16:15:29.590Z
+updated: 2024-11-07T16:15:44.316Z
 tags:
   - laptops
 categories:
@@ -47,10 +47,10 @@ Having a dedicated Copilot key certainly adds to this burdenless experience. As 
 Perhaps the most important aspect of these new Copilot+ AI features is that they operate [on-device](https://www.zdnet.com/article/5-top-mobile-trends-in-2024-on-device-ai-the-new-smartphone-and-more/#:~:text=to%20take%20shape.-,1.%20On%2Ddevice%20AI%20puts%20the%20%27smart%27%20in%20smartphone,-The%20new%20Samsung) \-- based on local data, providing more private, secure, and faster processing capabilities. To everyday users, this may not be as significant. If, however, keeping your personal data protected (and away from any [remote cloud servers](https://www.zdnet.com/article/ai-is-changing-cybersecurity-and-businesses-must-wake-up-to-the-threat/)) is a priority, you'll feel a little better using the AI features on these new Copilot+ PCs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Windows Hello feels faster than ever
@@ -66,16 +66,10 @@ Comparing my M3 MacBook Air with the Surface Laptop is not exactly an apples-to-
 The best part is that Windows Hello automatically triggers when I lift the laptop lid open, and it's able to scan my face even in dimmer environments thanks to the IR camera.
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Touchscreen support
@@ -91,10 +85,10 @@ For example, the new Cocreator tool in Paint requires you to both write a prompt
 While I've always found touchscreen functionality to be more beneficial on larger screens, using the smaller [13.8-inch Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80779a74-dcf0-4cae-9afc-7e1a9921a8d6%7Cdtp&dtb=1) feels more like a 2-in-1 tablet. When my typing space is confined, like on a bus, plane, or crowded café, being able to simply reach over and tap, swipe, and drag elements on the screen is very helpful and intuitive. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus: Benchmarks (for now)
@@ -136,20 +130,21 @@ For the following benchmark tests, the higher the score, the better.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-maximize-your-iphone-xs-selfie-potential-top-free-apps/"><u>[Updated] In 2024, Maximize Your iPhone X's Selfie Potential - Top Free Apps</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/a-review-of-sonys-unusual-design-in-ws623/"><u>A Review of Sonys Unusual Design in WS623</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-ultimate-work-travel-companer-an-exceptional-tablet-thats-not-from-microsoft-or-lenovo-insights-and-analysis-zdnet/"><u>Discover the Ultimate Work Travel Companer: An Exceptional Tablet That's Not From Microsoft or Lenovo – Insights & Analysis | ZDNET</u></a></li>
-<li><a href="https://discover-best.techidaily.com/embracing-change-in-finance-the-power-of-automating-accounts-payable-processes/"><u>Embracing Change in Finance: The Power of Automating Accounts Payable Processes</u></a></li>
-<li><a href="https://article-posts.techidaily.com/how-to-make-picture-in-picture-video-on-macos-sierra-for-2024/"><u>How to Make Picture in Picture Video on macOS Sierra for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-repair-a-non-functioning-windows-10-search-feature-top-methods/"><u>How to Repair a Non-Functioning Windows 10 Search Feature - Top Methods</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/leading-cross-platform-vr-viewing-software-for-android-ios-windows-and-mac-os-x-users/"><u>Leading Cross-Platform VR Viewing Software for Android, iOS, Windows, and Mac OS X Users</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-ios-image-loading-issues-a-step-by-step-guide-with-9-tricks-for-safari-users/"><u>Mastering iOS Image Loading Issues: A Step-by-Step Guide with 9 Tricks for Safari Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/microsoft-introduces-the-latest-generation-surface-pro-10-and-laptop-e-6-equipped-with-innovative-ai-capabilities-tech-news/"><u>Microsoft Introduces the Latest Generation: Surface Pro 10 & Laptop E 6, Equipped with Innovative AI Capabilities | Tech News</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/prairie-dogs-using-sophisticated-alarm-calls-to-warn-their-colony-of-specific-predator-threats-with-vocalizations-that-vary-based-on-the-type-size-and-speed84/"><u>Prairie Dogs Using Sophisticated Alarm Calls to Warn Their Colony of Specific Predator Threats with Vocalizations that Vary Based on the Type, Size, and Speed of the Approaching Danger.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revamp-your-surfing-experience-why-upgrading-google-chrome-soon-matters-insights/"><u>Revamp Your Surfing Experience: Why Upgrading Google Chrome Soon Matters - Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/score-a-steal-with-the-asus-14-inch-rog-zephyrus-slash-your-price-by-550-and-more-special-gaming-laptop-deals-on-zdnet/"><u>Score a Steal with the Asus 14-Inch ROG Zephyrus: Slash Your Price by $550 & More - Special Gaming Laptop Deals on ZDNET!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/surprisingly-versatile-and-compact-the-ultimate-guide-to-the-undervalued-8-in-1-adapter-featured/"><u>Surprisingly Versatile and Compact: The Ultimate Guide to the Undervalued 8-in-1 Adapter Featured</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-exclusive-tech-bargains-find-the-best-gaming-deals-during-prime-day-in-october-2024-with-zdnet/"><u>Unlock Exclusive Tech Bargains: Find the Best Gaming Deals During Prime Day in October 2024 with ZDNet</u></a></li>
-<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-apple-iphone-6s-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your Apple iPhone 6s? How to Fix</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-crafting-irresistible-profile-videos/"><u>[New] 2024 Approved Crafting Irresistible Profile Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-optimal-low-cost-screen-recording-options-for-chromebook-for-2024/"><u>[New] Optimal Low-Cost Screen Recording Options for Chromebook for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-recipe-for-success-video-styling-in-gastronomy-for-2024/"><u>[New] Recipe for Success Video Styling in Gastronomy for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-approach-to-mastering-the-art-of-morphvox-sound-alteration/"><u>[New] Step-by-Step Approach to Mastering the Art of MorphVOX Sound Alteration</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-thorough-review-easy-approach-to-hdr-enhancement-for-2024/"><u>[New] Thorough Review Easy Approach to HDR Enhancement for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-prime-mobile-camera-apps-iphone-and-android-comparison-for-2024/"><u>[Updated] Prime Mobile Camera Apps IPhone & Android Comparison for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-complete-checklist-for-capturing-flawless-ppts/"><u>2024 Approved The Complete Checklist for Capturing Flawless PPTs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/diy-apple-device-repair-how-the-new-self-service-initiative-empowers-users/"><u>DIY Apple Device Repair: How the New Self-Service Initiative Empowers Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978265303-download-and-update-netgear-wna3100-drivers-with-simple-steps/"><u>Download & Update Netgear WNA3100 Drivers with Simple Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-for-installing-soundmax-audio-drivers-on-your-pc-with-windows-os/"><u>Easy Steps for Installing SoundMAX Audio Drivers on Your PC with Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-seamless-networking-downloading-the-revamped-wireless-driver-set/"><u>Experience Seamless Networking: Downloading the Revamped Wireless Driver Set</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-to-address-lg-display-driver-concerns-across-windows-11-8-and-7-systems/"><u>Expert Tips to Address LG Display Driver Concerns Across Windows 11, 8, and 7 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-set-up-your-amd-graphics-card-for-cryptocurrency-mining/"><u>How to Set Up Your AMD Graphics Card for Cryptocurrency Mining</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-pcs-potential-with-the-latest-nvidia-geforce-210-driver-upgrade-on-windows-10/"><u>Maximize Your PC's Potential with the Latest NVIDIA GeForce 210 Driver Upgrade on Windows 10</u></a></li>
+<li><a href="https://facebook.techidaily.com/silencing-the-world-keep-photos-off-public-scope/"><u>Silencing the World: Keep Photos Off Public Scope</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-for-upgrading-your-nvidia-graphics-drivers/"><u>Step-by-Step Instructions for Upgrading Your NVIDIA Graphics Drivers</u></a></li>
 </ul></div>
 

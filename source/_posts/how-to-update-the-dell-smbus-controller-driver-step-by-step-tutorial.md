@@ -1,7 +1,7 @@
 ---
 title: "How to Update the Dell SMBus Controller Driver: Step-by-Step Tutorial"
-date: 2024-09-01T05:50:23.063Z
-updated: 2024-09-02T05:50:23.063Z
+date: 2024-11-01T16:26:57.635Z
+updated: 2024-11-07T16:10:49.669Z
 tags:
   - win11
   - win10
@@ -36,8 +36,12 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 1 – Automatically update the driver
 
  If you don’t have the time, patience or computer skills to update your Intel Iris Plus Graphics 640 driver manually,**you can do it automatically with** **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -49,13 +53,21 @@ OR
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-19_18-00-07-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update Intel Iris Plus Graphics 640 driver, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-24_12-24-30.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at**<support@drivereasy.com>** . We are always here to help.
@@ -63,8 +75,12 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2 – Update the driver manually
 
 If you opt for updating the driver manually, here’s the procedure:
@@ -72,14 +88,8 @@ If you opt for updating the driver manually, here’s the procedure:
 1. Click **[here](https://downloadcenter.intel.com/product/98911/Intel-Iris-Plus-Graphics-640)**  to visit the download page of Intel Iris Plus Graphics 640 driver.
 2. Click**Intel® Graphics – Windows® 10 DCH Drivers** .![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-24_12-31-07.jpg)
 3. Pay attention to the left section and click the**download** button below the**EXE** file available for download. (You can otherwise download the ZIP file. Note that it’s compressed so you’ll need to extract it before installing the driver on PC.)  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Also, if you want to download a certain version of drivers, you can click the desired one beneath**Other Versions** .![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-24_12-33-59.jpg)
 4. Once you’ve downloaded the correct file, double-click on it and follow the onscreen instructions to install the driver.
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. **Reboot** your PC for the changes to take effect.
 
 ---
@@ -96,8 +106,6 @@ If you opt for updating the driver manually, here’s the procedure:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +113,22 @@ If you opt for updating the driver manually, here’s the procedure:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-how-to-prevent-and-mend-streaming-hiccups-in-fb-livestran/"><u>[New] 2024 Approved How to Prevent and Mend Streaming Hiccups in FB Livestran</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-breakdown-of-earnings-how-much-does-a-clicky-make-in-2024/"><u>[New] Breakdown of Earnings How Much Does a Clicky Make, In 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-paint-your-paradigm-the-8-essential-drawing-apps-for-iphone-users/"><u>[New] In 2024, Paint Your Paradigm The 8 Essential Drawing Apps for iPhone Users</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-insightful-analysis-of-modifying-photographic-genders-on-social-platforms/"><u>[Updated] 2024 Approved Insightful Analysis of Modifying Photographic Genders on Social Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726030096952-mp3-5/"><u>「無料」MP3音源のカット・トリミングができる人気のフリーアプリケーション ベスト5選択肢</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-ai-explained-in-simple-terms/"><u>Artificial Intelligence (AI) Explained in Simple Terms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-deal-alert-secure-your-new-asus-notebook-for-only-99-at-best-buy/"><u>Exclusive Deal Alert: Secure Your New Asus Notebook for Only $99 at Best Buy!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expertly-selected-leading-security-devices-for-202e-comprehensive-analysis/"><u>Expertly Selected Leading Security Devices for 202E: Comprehensive Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-best-asus-laptop-that-outperforms-apples-macbook-a-must-read-for-tech-enthusiasts-zdnet/"><u>Exploring the Best Asus Laptop That Outperforms Apple's MacBook - A Must-Read for Tech Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-the-era-of-streaming-find-facebooks-video-treasure/"><u>In the Era of Streaming, Find Facebook's Video Treasure</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-productivity-with-teamgees-portable-duo-monitors-save-an-extra-120-on-zdnet-exclusive-deal/"><u>Maximize Productivity with TeamGee's Portable Duo Monitors – Save an Extra $120 on ZDNet Exclusive Deal!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210282248-9781737092490-the-ultimate-journey-2nd-edition-2nd-ed/"><u>The Ultimate Journey (2nd Edition) (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-building-your-dream-gaming-rig-with-top-tips-and-tricks-insights-from-zdnet/"><u>Ultimate Guide: Building Your Dream Gaming Rig with Top Tips & Tricks - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-prep-list-unbeatable-amazon-offers-before-the-big-prime-event-insights-from-zdnet/"><u>Ultimate Prep List: Unbeatable Amazon Offers Before the Big Prime Event - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-36-discount-on-8tb-samsung-portable-ssd-post-prime-day-spotted-by-zdnet/"><u>Unbeatable Deal: 36% Discount on 8TB Samsung Portable SSD Post-Prime Day - Spotted by ZDNet</u></a></li>
+</ul></div>
 

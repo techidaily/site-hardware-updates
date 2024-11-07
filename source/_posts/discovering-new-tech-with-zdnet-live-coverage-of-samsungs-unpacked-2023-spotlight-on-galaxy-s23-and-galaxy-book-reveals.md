@@ -1,7 +1,7 @@
 ---
 title: "Discovering New Tech with ZDnet: Live Coverage of Samsung's Unpacked 2023, Spotlight on Galaxy S23 and Galaxy Book Reveals"
-date: 2024-10-26T19:58:52.061Z
-updated: 2024-11-01T17:56:52.480Z
+date: 2024-11-02T16:01:52.760Z
+updated: 2024-11-07T16:47:27.535Z
 tags:
   - laptops
 categories:
@@ -75,10 +75,10 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -90,10 +90,10 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -130,18 +130,22 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-breath-control-and-articulation-for-clear-ppt-speaking/"><u>[New] Breath Control and Articulation for Clear PPT Speaking</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-enriching-meta-descriptions-a-template-transformation-journey/"><u>[Updated] In 2024, Enriching Meta Descriptions A Template Transformation Journey</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-efficiency-boost-editing-on-magix-video-pro-x/"><u>2024 Approved The Efficiency Boost Editing on Magix Video Pro X</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amazon-prime-day-sale-extravaganza-features-stealthy-apple-macbook-air-with-m2-chip-for-a-bargain-price-of-749-the-latest/"><u>Amazon Prime Day Sale Extravaganza Features Stealthy Apple MacBook Air with M2 Chip for a Bargain Price of $749 – The Latest</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/t-download-and-mp3-creation-for-streaming-video-files-for-2024/"><u>Direct Download & MP3 Creation for Streaming Video Files for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-metas-newly-discounted-51-2gb-quest-3-headset-best-vr-savings-showcased/"><u>Get Your Hands on Meta’s Newly Discounted 51 2GB Quest 3 Headset | Best VR Savings Showcased</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-restoring-sound-output-dealing-with-no-installed-audio-device-warning-in-windows/"><u>Guide to Restoring Sound Output: Dealing with No Installed Audio Device Warning in Windows</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-compreeved-guide-youtube-to-mp3mpeg-transcoding/"><u>In 2024, Compreeved Guide YouTube to MP3/MPEG Transcoding</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximize-performance-with-minimal-power-use-a-guide-to-enabling-chromes-energy-saver-mode-why-it-matters/"><u>Maximize Performance with Minimal Power Use: A Guide to Enabling Chrome's Energy Saver Mode - Why It Matters</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-journey-of-netflix-from-physical-discs-to-streaming-giant/"><u>The Journey of Netflix: From Physical Discs to Streaming Giant</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-microsofts-game-changing-ai-chip-a-direct-challenge-to-apple-macbook/"><u>Unveiling Microsoft's Game-Changing AI Chip - A Direct Challenge to Apple MacBook</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-hidden-intelligent-communication-device-in-your-mac-and-ipad-is-it-present-on-yours-too-techinsights/"><u>Unveiling the Hidden Intelligent Communication Device in Your Mac and iPad: Is It Present on Yours Too? | TechInsights</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y78plus-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y78+ Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-navigating-youtube-submission-with-imovie-files/"><u>[New] In 2024, Navigating YouTube Submission with iMovie Files</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-influencing-instagram-step-by-step-tutorial-for-2024/"><u>[New] Influencing Instagram Step-by-Step Tutorial for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-a-journey-through-time-best-history-youtubes-for-scholars-and-enthusiasts/"><u>[Updated] 2024 Approved A Journey Through Time Best History YouTubes for Scholars & Enthusiasts</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-nokia-c12-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-video-chats-fresh-logitech-camera-drivers-for-windows-available-for-free/"><u>Enhance Your Video Chats: Fresh Logitech Camera Drivers for Windows, Available for Free!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-criteria-for-selecting-a-college-ready-laptop-discover-4-key-considerations-and-our-picks-of-10-best-options-zdnet-tips/"><u>Essential Criteria for Selecting a College-Ready Laptop: Discover 4 Key Considerations & Our Picks of 10 Best Options | ZDNet Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/freelancers-ai-decision-guide-weighing-bing-chat-and-chatgpt/"><u>Freelancer's AI Decision Guide: Weighing Bing Chat & ChatGPT</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-quickly-update-the-driver-for-microsofts-ergonomic-keyboard/"><u>How to Quickly Update the Driver for Microsoft's Ergonomic Keyboard</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-color-laserjet-pro-m452dn-printer-drivers-free-download-and-installation-guide/"><u>HP Color LaserJet Pro M452dn Printer Drivers: Free Download & Installation Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/huge-savings-alert-secure-an-8tb-samsung-t5-ssd-at-a-steal-for-36-off-after-october-prime-deals-ends-insiders-guide/"><u>Huge Savings Alert! Secure an 8TB Samsung T5 SSD at a Steal for 36% Off After October Prime Deals Ends | Insider's Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-epson-workforce-ds-series-ds-30-driver-on-windows-11-8-and-7-systems/"><u>Install Epson WorkForce DS Series (DS-30) Driver on Windows 11, 8 & 7 Systems</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-behind-the-scenes-10-successful-movies-that-owe-their-success-to-final-cut-pro/"><u>New Behind the Scenes 10 Successful Movies That Owe Their Success to Final Cut Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-detection-issues-with-the-tl-wn722n-wireless-network-card-on-windows-systems/"><u>Resolving Detection Issues with the TL-WN7^22N Wireless Network Card on Windows Systems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/sony-dsc-w800-a-comprehensive-review-of-reliability-and-economy/"><u>Sony DSC-W800: A Comprehensive Review of Reliability and Economy</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-installation-guide-get-your-epson-et-4550-printer-up-and-running-on-windows/"><u>Speedy Installation Guide: Get Your Epson ET-4550 Printer Up & Running on Windows!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-setup-secure-microsoft-wireless-mouse-5000-drivers-with-a-simple-download/"><u>Speedy Setup: Secure Microsoft Wireless Mouse 5000 Drivers with a Simple Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-installing-the-official-epson-es-400-scandriver-on-your-window-machine/"><u>Ultimate Guide to Installing the Official Epson ES-400 ScanDriver on Your Window Machine</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The M3 MacBook Air Unveiled: How Apple's Latest Entry in Affordable AI Computing Stacks Up - Insights From a Comprehensive Review"
-date: 2024-10-25T17:04:30.373Z
-updated: 2024-11-01T19:56:56.403Z
+date: 2024-11-02T16:08:05.910Z
+updated: 2024-11-07T16:18:34.209Z
 tags:
   - laptops
 categories:
@@ -43,10 +43,10 @@ There I was, with two relatively large-sized, ultraportable laptops and a digita
 The LG Gram Pro 16 2-in-1 had already set the mark at 3.04 pounds. Then came the 15-inch MacBook Air, clocking in at 3.51 pounds. A slight sigh of relief could be felt behind me. How exactly does LG achieve this weight? They're chalking it up to the nano-magnesium alloy construction, which feels more plasticky than the MacBook's all-aluminum build, but which is noticeably lighter in the hand, especially when I moved the laptops around for pictures.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. It's all about the use of space
@@ -60,16 +60,10 @@ The curvatures of the LG Gram Pro edges also mean that the company can fit more 
 As someone who still relies on legacy devices, such as hard drives, that have USB-A ports, the presence of the standard and added flexibility of the Gram makes it a better productivity laptop for me. It also helps to have the HDMI slot for when you're traveling and want to connect to a hotel TV or monitor.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. OLED makes all the difference
@@ -83,16 +77,10 @@ Don't get me wrong, the Liquid Retina (IPS) display on the 15-inch MacBook Air i
 LG offers the new Gram Pro laptops in IPS and OLED variants, but the latter versions that I tested at the venue were noticeably sharper and more color-accurate. It helped that LG had set black wallpapers on the demo units, which made the individual icons and self-emissive pixels pop a little more.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -131,15 +119,24 @@ LG prices its [OLED Gram Pro laptops](https://shop-links.co/link/?exclusive=1&pu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-secret-life-of-a-designer-canvas-hidden-edits/"><u>[New] In 2024, The Secret Life of a Designer Canva's Hidden Edits</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-boost-your-income-with-effective-vimeo-monetization-techniques-for-2024/"><u>[Updated] Boost Your Income with Effective Vimeo Monetization Techniques for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-top-10-budget-friendly-cloud-service-providers/"><u>2024 Approved Top 10 Budget-Friendly Cloud Service Providers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-updating-and-downloading-atheros-drivers-on-windows/"><u>Complete Guide to Updating and Downloading Atheros Drivers on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-latest-firmware-netgear-wna3100/"><u>Download & Install Latest Firmware: Netgear WNA3100</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-get-your-hands-on-free-gpt-3-technology/"><u>How To Get Your Hands On Free GPT-3 Technology</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-or-install-hp-wifi-drivers-on-windows-computers-and-laptops/"><u>How to Update or Install HP Wifi Drivers on Windows Computers and Laptops</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-cricket-iphone-15-pro-max-for-free-by-drfone-ios/"><u>In 2024, How To Unlock Cricket iPhone 15 Pro Max for Free</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/new-release-lenovos-thunderbolt-3-usb-c-hub-driver-updates/"><u>New Release: Lenovo's Thunderbolt 3 USB-C Hub Driver Updates</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ultimate-guide-complete-steps-on-how-to-wipe-all-information-from-your-iphone/"><u>Ultimate Guide: Complete Steps on How to Wipe All Information From Your iPhone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hypervision-pro-all-in-one-4k-screen-desks/"><u>[New] HyperVision Pro All-in-One 4K Screen Desks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-hdr-experience-with-asuss-4k-monitor/"><u>[New] The Ultimate HDR Experience with Asus's 4K Monitor</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazon-exclusive-save-150-on-the-ultimate-game-enhancing-speakers-top-reviews-by-zdnet/"><u>Amazon Exclusive: Save $150 on the Ultimate Game-Enhancing Speakers – Top Reviews by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-buys-hidden-promotion-to-win-a-free-macbook-air-m3-learn-how-in-this-easy-guide/"><u>Best Buy’s Hidden Promotion to Win a Free MacBook Air M3! Learn How in This Easy Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convertissez-vos-fichiers-musicaux-et-video-flac-au-format-wav-gratuitement-via-la-plateforme-dassistance-en-ligne-de-movavi/"><u>Convertissez Vos Fichiers Musicaux Et Vidéo FLAC Au Format WAV Gratuitement via La Plateforme D'assistance en Ligne De Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-unmatched-sound-quality-in-gaming-with-these-discounted-speakers-at-amazon-spotted-by-zdnet/"><u>Experience Unmatched Sound Quality in Gaming with These Discounted Speakers at Amazon, Spotted by ZDNET!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/get-ultimate-hdtv-reception-with-1byones-amplified-indoor-antenna-a-bargain-for-your-broadcast-needs/"><u>Get Ultimate HDTV Reception with 1Byone's Amplified Indoor Antenna - A Bargain for Your Broadcast Needs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/immersive-experience-unveiled-testing-lenovos-revolutionary-auto-swiveling-laptop-at-ifa-202nce-a-detailed-review/"><u>Immersive Experience Unveiled: Testing Lenovo's Revolutionary Auto-Swiveling Laptop at IFA 202Nce - A Detailed Review</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-lava-blaze-2-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Lava Blaze 2 5G</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-expert-strategies-for-finding-no-cost-art/"><u>In 2024, Expert Strategies for Finding No-Cost Art</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionizing-the-music-creation-process-through-magix-mentor-x/"><u>In 2024, Revolutionizing the Music Creation Process Through Magix Mentor X</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-unveiling-colors-top-11-grading-and-correction-techniques/"><u>In 2024, Unveiling Colors Top 11 Grading & Correction Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-rising-star-of-ultraportables-a-lightweight-laptop-that-surpasses-the-iconic-macbook-air/"><u>The Rising Star of Ultraportables: A Lightweight Laptop That Surpasses the Iconic MacBook Air.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-enhancements-required-for-siri-ai-closing-the-gap-with-google-assistant-and-microsofts-cortana/"><u>Top 10 Enhancements Required for Siri AI: Closing the Gap with Google Assistant and Microsoft's Cortana</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/standing-your-profit-revenue-per-thousand-from-youtubes-adsense-income/"><u>Understanding Your Profit Revenue Per Thousand From YouTube's AdSense Income</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unexpected-top-performers-in-the-tech-world-do-they-include-a-laptop-find-out-with-insights/"><u>Unexpected Top-Performers in the Tech World: Do They Include a Laptop? Find Out with Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-the-best-prime-day-savings-exclusive-gaming-deals-for-oct-2024-featured/"><u>Unlocking the Best Prime Day Savings: Exclusive Gaming Deals for Oct 2024 Featured</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-google-chrome-now-why-you-need-the-latest-version-weekend-alert-insights/"><u>Upgrade Your Google Chrome Now: Why You Need the Latest Version (Weekend Alert!) - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnet-picks-the-most-sought-after-lightweight-laptops-ideal-for-telecommuters-in-depth-analysis/"><u>ZDNet Picks: The Most Sought-After Lightweight Laptops Ideal for Telecommuters - In-Depth Analysis</u></a></li>
 </ul></div>
 

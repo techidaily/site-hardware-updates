@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Review: The Ultra-Compact and Incredibly Flexible New Chromebook on Test"
-date: 2024-10-31T20:33:35.639Z
-updated: 2024-11-01T18:10:19.342Z
+date: 2024-10-31T16:10:24.251Z
+updated: 2024-11-07T16:01:42.333Z
 tags:
   - laptops
 categories:
@@ -91,10 +91,10 @@ You can also navigate any element of the OS like you would a browser, by swiping
 Finally, the battery life is quite good. Lenovo advertises over 12 hours of use, but I got a little over 10 in my testing. The physical size of the device is going to prevent the 29WHr battery from going much beyond the 10- to 12-hour mark. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -131,24 +131,16 @@ The [Lenovo Chromebook Duet 11-inch](https://shop-links.co/link/?url=https%3A%2F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-unlocking-the-seo-puzzle-strategies-that-elevate-your-podcasts/"><u>[New] 2024 Approved Unlocking the SEO Puzzle Strategies That Elevate Your Podcasts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-securely-store-and-download-linkedin-videos-heres-the-top-6-list/"><u>[New] In 2024, Securely Store & Download LinkedIn Videos - Here's the Top 6 List</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-in-depth-study-of-audafreedomaudiotools/"><u>[New] The In-Depth Study of AudaFreedomAudioTools</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-cutting-edge-accessories-reviewing-the-best-in-vr/"><u>[Updated] Cutting-Edge Accessories Reviewing the Best in VR</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-maximize-monetization-the-step-by-step-for-youtube-profiles/"><u>[Updated] In 2024, Maximize Monetization The Step-by-Step for YouTube Profiles</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-reflect-and-record-capture-your-window-world/"><u>[Updated] Reflect & Record Capture Your Window World</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ace-the-game-with-hp-victus-15-at-450-from-best-buy-prime-deals-on-zdnet/"><u>Ace the Game with HP Victus 15 at $450 From Best Buy | Prime Deals on ZDNET!</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/advanced-editing-guide-for-creating-compelling-360-degree-videos-using-premiere-pro-for-2024/"><u>Advanced Editing Guide for Creating Compelling 360-Degree Videos Using Premiere Pro for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/affordable-and-reliable-why-the-299-laptop-is-ideal-for-college-goers-zdnet/"><u>Affordable & Reliable: Why the $299 Laptop Is Ideal for College-Goers | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-your-remote-work-efficiency-with-the-hp-copilotplus-laptop-a-comprehensive-review/"><u>Boost Your Remote Work Efficiency with the HP Copilot+ Laptop – A Comprehensive Review</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/essential-ae-text-enhancers-guide-for-2024/"><u>Essential AE Text Enhancers Guide for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/essential-tricks-for-mac-users-handling-persistent-cooling-fan-activity-tips/"><u>Essential Tricks for Mac Users: Handling Persistent Cooling Fan Activity, Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/macbook-air-now-available-at-an-incredible-280-deal-find-out-more/"><u>MacBook Air Now Available at an Incredible $280 Deal - Find Out More !</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/premier-touchscreen-computers-unveiled-by-tech-experts-comprehensive-reviews-on-zdnet/"><u>Premier Touchscreen Computers Unveiled by Tech Experts - Comprehensive Reviews on ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revolutionary-apples-m2-macbook-air-hits-surprising-low-of-799-beating-out-octobers-anticipated-discount-event/"><u>Revolutionary Apple's M2 MacBook Air Hits Surprising Low of $799, Beating Out October's Anticipated Discount Event</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revolutionary-office-companion-discovering-a-remarkable-and-underappreciated-feature-of-the-best-new-2-in-1-tech-this-year/"><u>Revolutionary Office Companion: Discovering a Remarkable and Underappreciated Feature of the Best New 2-in-1 Tech This Year</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-nokia-c110-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Nokia C110 Device</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-calming-chorus-proven-voices-aid-sleep-for-2024/"><u>The Calming Chorus Proven Voices Aid Sleep for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-deal-unveiled-grab-your-8tb-samsung-t5-ssd-now-with-36-off-highlighted-on-amazon/"><u>Top Deal Unveiled: Grab Your 8TB Samsung T5 SSD Now with 36% Off, Highlighted on Amazon!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-lava-agni-2-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Lava Agni 2 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-solution-for-realtek-hd-chipset-drives-issues/"><u>Comprehensive Solution for Realtek HD Chipset Drives Issues</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/crafting-a-compelling-narrative-with-voiceover-and-visuals/"><u>Crafting a Compelling Narrative with Voiceover and Visuals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-opinion-on-slomo-recording-softwares-latest-version/"><u>Expert Opinion on SloMo Recording Software's Latest Version</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-canon-printer-software-mp280-compatible-with-windows-10-8-and-7/"><u>Free Download: Canon Printer Software MP280 Compatible with Windows 10, 8 & #7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-csr-bluetooth-devices-official-drivers-here/"><u>Get Your CSR Bluetooth Device's Official Drivers Here!</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-free-tv-streaming-9-sites-you-need-to-know/"><u>In 2024, Free TV Streaming 9 Sites You Need To Know</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-stability-overcoming-arma-3s-crash-issues-with-advanced-fixes-insider-knowledge/"><u>Mastering Stability: Overcoming Arma 3'S Crash Issues with Advanced Fixes - Insider Knowledge</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-to-finding-and-installing-hp-envy-5660-model-drivers/"><u>Quick Guide to Finding and Installing HP Envy 5660 Model Drivers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/skys-finest-cameras-clash-dji-air-2-vs-gopro-hero9-k4/"><u>Sky's Finest Cameras Clash DJi Air 2 VS GoPro HERO9 K4</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-reno-8t-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo Reno 8T Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

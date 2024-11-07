@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Cyber Monday Deals for Gamers: Exclusive Discounts on Consoles, Computers & Video Games"
-date: 2024-10-30T22:05:06.793Z
-updated: 2024-11-01T16:33:42.620Z
+date: 2024-10-31T16:36:15.095Z
+updated: 2024-11-07T16:49:18.531Z
 tags:
   - laptops
 categories:
@@ -72,13 +72,6 @@ Artie Beaty/ZDNET
 * [Sonic Origins Plus, PlayStation 5](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSonic-Origins-Plus-PlayStation-5%2Fdp%2FB0BZFCRLDW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce52bf94f-12cc-47b2-9d7e-5299454cfdfa%7Cdtp&dtb=1): $28 (save $12 at Amazon)
 * [Fossil Men's Ingram Leather RFID-Blocking Bifold Wallet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FFossil-Mens-Bifold-Wallet-Black%2Fdp%2FB018ZMVPQC%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce52bf94f-12cc-47b2-9d7e-5299454cfdfa%7Cdtp&dtb=1): $30 (save $30 at Amazon)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best holiday deals under $100
 
 June Wan/ZDNET
@@ -92,10 +85,10 @@ June Wan/ZDNET
 * [Canon Ivy 2 Mini Photo Printer](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BGM5XPQZ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce52bf94f-12cc-47b2-9d7e-5299454cfdfa%7Cdtp&dtb=1): $69 (save $30 at Amazon)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best holiday deals under $200
@@ -125,6 +118,13 @@ Jason Cipriani/ZDNET
 * [Nest Learning Thermostat](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNest-Learning-Thermostat-3rd-Generation-White%2F120823467&subId1=zd-__COM_CLICK_ID__-dtp): $215 (save $34 at Walmart)
 * [Google Next x Yale Smart Lock](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FNest-Yale-Satin-Nickel-Connect%2Fdp%2FB07BH6K3NT%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce52bf94f-12cc-47b2-9d7e-5299454cfdfa%7Cdtp&dtb=1): $261 (save $39 at Amazon)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best holiday Apple deals
 
 Jason Hiner/ZDNET
@@ -139,13 +139,6 @@ Jason Hiner/ZDNET
 * [Apple iPad Mini (A15 chip, 8.3-inch, 256GB):](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9DQDDQ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce52bf94f-12cc-47b2-9d7e-5299454cfdfa%7Cdtp&dtb=1) $540 (save $110 at Amazon with coupon)
 * [Apple iPad Air (M1 chip, 10.9-inch, 64GB, Wi-Fi + Cellular):](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Air-5th-Generation%2Fdp%2FB09V3JWQKB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce52bf94f-12cc-47b2-9d7e-5299454cfdfa%7Cdtp&dtb=1) $650 (save $100 at Amazon)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best holiday robot vacuum deals
 
 Beth Mauder/ZDNET
@@ -158,6 +151,13 @@ Beth Mauder/ZDNET
 * [Shark IQ Robot Vacuum](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FShark-IQ-Robot-Self-Empty-XL-Vacuum-with-Self-Empty-Base-Home-Mapping-RV1002AE-New%2F875128326&subId1=zd-__COM_CLICK_ID__-dtp): $249 (save $351 at Walmart)
 * [iRobot Roomba 694 robot vacuum](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FiRobot-Vacuum-Wi-Fi-Connectivity-Carpets-Self-Charging%2Fdp%2FB08SP5GYJP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce52bf94f-12cc-47b2-9d7e-5299454cfdfa%7Cdtp&dtb=1): $159 (save $116 at Amazon)
 * [Shark AI Ultra Self-Empty Robot Vacuum](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FShark-AI-Ultra-Self-Empty-Robot-Vacuum-Bagless-60-Day-Capacity-Base-Precision-Home-Mapping-Perfect-for-Pet-Hair-Wi-Fi-AV2511AE%2F1883965277&subId1=zd-__COM_CLICK_ID__-dtp): $298 (save $301 at Walmart)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best holiday TV deals
 
@@ -182,6 +182,13 @@ Matthew Miller/ZDNET
 * [Fitbit Versa 4 + Fitbit Premium](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Ffitbit-versa-4-fitness-smartwatch-graphite%2F6514032.p%3FskuId%3D6514032&publisher_slug=itechdaily19598&exclusive=1): $150 (save $50 at Best Buy)
 * [Samsung Galaxy Watch 5 Pro](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-watch5-pro-titanium-smartwatch-45mm-bt-black%2F6510873.p%3FskuId%3D6510873&publisher_slug=itechdaily19598&exclusive=1): $370 (save $80 at Best Buy)
 * [Amazfit Bip 3 Urban Edition Smartwatch](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FAmazfit-Bip-3-Urban-Edition-Smart-Watch-Health-Fitness-Tracker-Black%2F1499566467&subId1=zd-__COM_CLICK_ID__-dtp): $35 (save $27 at Walmart)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best holiday headphones deals
 
@@ -219,13 +226,6 @@ Jason Hiner/ZDNET
 * [Lenovo Legion Pro 7i](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1745684-REG%2Flenovo%5F82wq002tus%5F16%5Flegion%5Fpro%5F7.html): $2,599 (save $700 at B&H Photo)
 * [Lenovo LOQ Tower Intel Edition](https://go.shopyourlikes.com/pi/bc82422a965d3574bb1afda3dd1ab5b7fb336893?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2): $650 (save $380 at Lenovo)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best holiday tablet deals
 
 Maria Diaz/ZDNET
@@ -237,18 +237,18 @@ Maria Diaz/ZDNET
 * [Samsung Galaxy Tab A8](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-tab-a8-10-5-64gb-wi-fi-gray%2F6492905.p%3FskuId%3D6492905&publisher_slug=itechdaily19598&exclusive=1): $200 (save $80 at Best Buy)
 * [Samsung Galaxy Tab S6 Lite](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Android-Lasting-Included-Speakers%2Fdp%2FB09WYWJ46K%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce52bf94f-12cc-47b2-9d7e-5299454cfdfa%7Cdtp&dtb=1): $200 (save $150 at Amazon)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How did we choose these holiday deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the best holiday deals?
 
@@ -318,21 +318,16 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-elite-photo-backup-networks/"><u>[New] 2024 Approved Elite Photo Backup Networks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-how-to-choose-vr-headset-mobile-vr-or-tethered-vr/"><u>[New] How to Choose VR Headset? Mobile VR or Tethered VR?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-core-elements-of-kinetic-visual-storytelling/"><u>[Updated] 2024 Approved The Core Elements of Kinetic Visual Storytelling</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-webcam-capture-basics-for-hp-and-chromebook-owners/"><u>[Updated] Webcam Capture Basics for HP and Chromebook Owners</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-canon-pixma-mx925-printer-software-for-pc/"><u>Download Canon PIXMA MX925 Printer Software for PC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-insignia-usbhdd-drives-swift-setup-for-windows-users/"><u>Get Your Hands on Insignia USB/HDD Drives - Swift Setup for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-windows-10-or-11-bluetooth-driver-from-msi-free-download/"><u>Get Your Windows 10 or 11 Bluetooth Driver From MSi - Free Download</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-x8b-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/improved-compatibility-essential-scanning-and-printing-hardware-drivers-added-to-windows-1/"><u>Improved Compatibility: Essential Scanning & Printing Hardware Drivers Added to Windows 1</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-realme-12-proplus-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Realme 12 Pro+ 5G Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-logitech-momo-trackmania-wheel-on-pc-first-time-driver-setup-guide-and-download-link/"><u>Install Logitech MOMO TrackMania Wheel on PC – First-Time Driver Setup Guide and Download Link</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-logitech-f710-driver-support-across-multiple-windows-platforms-windows-111087-solutions/"><u>Mastering Logitech F710 Driver Support Across Multiple Windows Platforms: Windows 11/10/8/7 Solutions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/prime-18-webcam-recorders-your-ultimate-tech-companion/"><u>Prime 18 Webcam Recorders Your Ultimate Tech Companion</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rewind-to-richness-a-guide-to-gaming-glory-past/"><u>Rewind to Richness: A Guide to Gaming Glory Past</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/simple-steps-to-refresh-your-asus-pcs-usb-driver-software/"><u>Simple Steps to Refresh Your ASUS PC's USB Driver Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-character-choreography-compendiums/"><u>[Updated] Character Choreography Compendiums</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-remove-red-eye-from-photos-on-iphone-free/"><u>2024 Approved How to Remove Red Eye From Photos on iPhone [Free]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/swfflvmovavi/"><u>自由免費的線上SWF與FLV媒體間適配工具，以Movavi為主打</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-full-functionality-of-your-epson-v39-by-downloading-the-correct-drivers-for-windows-systems-v7-10/"><u>Ensure Full Functionality of Your Epson V39 by Downloading the Correct Drivers for Windows Systems (V7-10)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-deals-on-verizon-device-upgrades-dont-miss-out/"><u>Exclusive Deals on Verizon Device Upgrades – Don’t Miss Out!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-epson-ds-530-printer-drivers-on-a-64-bit-windows-10-machine/"><u>How to Install Epson DS-530 Printer Drivers on a 64-Bit Windows 10 Machine</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-talking-the-talk-mastering-viewer-communication/"><u>In 2024, Talking the Talk Mastering Viewer Communication</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-the-newest-logitech-brio-webcam-driver-for-seamless-integration-with-windows-systems-w11-w8-w7/"><u>Install the Newest Logitech Brio Webcam Driver for Seamless Integration with Windows Systems (W11, W8, W7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solved-how-to-restore-functionality-of-a-non-working-logitech-g433-mic/"><u>Solved! How to Restore Functionality of a Non-Working Logitech G433 Mic</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-pc-with-the-newest-intel-wi-fi-ac-9560-drivers-for-optimal-performance/"><u>Update Your PC with the Newest Intel Wi-Fi AC 9560 Drivers for Optimal Performance</u></a></li>
 </ul></div>
 

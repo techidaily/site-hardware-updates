@@ -1,7 +1,7 @@
 ---
 title: "Unbelievable Deal: Top-Ranked Gaming Speakers Now Just $150 Less on Amazon - Find Out Why They Took My Breath Away | ZDNet"
-date: 2024-10-27T20:06:51.976Z
-updated: 2024-11-01T20:57:10.006Z
+date: 2024-11-01T16:17:58.583Z
+updated: 2024-11-07T16:39:42.476Z
 tags:
   - laptops
 categories:
@@ -77,10 +77,10 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -92,10 +92,16 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -132,20 +138,24 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-live-streaming-on-mac-os-costless-option/"><u>[New] 2024 Approved Live Streaming on Mac OS - Costless Option</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-classic-fanfare-fix/"><u>[New] Classic Fanfare Fix</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-cutting-edge-tools-for-instagrams-most-trendy-reels-for-2024/"><u>[Updated] Cutting-Edge Tools for Instagram's Most Trendy Reels for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-unseen-dos-and-donts-of-instagram-reels/"><u>[Updated] In 2024, The Unseen Dos & Don'ts of Instagram Reels</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-multitasker-of-the-year-a-sneak-peek-at-overlooked-benefits-for-professionals-digital-gear-guides/"><u>Best Multitasker of the Year: A Sneak Peek at Overlooked Benefits for Professionals | Digital Gear Guides</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-startup-issues-solutions-for-successful-boot-up/"><u>Cyberpunk 2077 Startup Issues – Solutions for Successful Boot-Up</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-best-laptops-of-my-life-lg-gram-pro-17-and-beyond-now-at-irresistible-prices-for-prime-day-zdnet-insights/"><u>Discover the Best Laptops of My Life: LG Gram Pro 17 and Beyond, Now at Irresistible Prices for Prime Day | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-unbeatable-gaming-discounts-from-walmart-target-and-more-your-guide-to-the-ultimate-prime-day-deals-in-oct-24/"><u>Discover Unbeatable Gaming Discounts From Walmart, Target & More: Your Guide to the Ultimate Prime Day Deals in Oct '24</u></a></li>
-<li><a href="https://blog-min.techidaily.com/effortless-methods-for-addressing-plex-media-player-video-file-troubleshooting/"><u>Effortless Methods for Addressing Plex Media Player Video File Troubleshooting</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-nubia-red-magic-8s-proplus-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nubia Red Magic 8S Pro+ If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-aural-archive-discussion-and-judgment/"><u>In 2024, Aural Archive Discussion & Judgment</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/setting-up-voice-assistant-chatgpt-for-android-a-step-by-step-guide/"><u>Setting Up Voice Assistant ChatGPT for Android: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-quality-budget-friendly-laptop-unveiled-best-screen-experience-for-the-price/"><u>Top Quality, Budget-Friendly Laptop Unveiled: Best Screen Experience for the Price</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-lenovos-upgraded-thinkpad-x1-in-depth-analysis-and-news-coverage/"><u>Unveiling Lenovo's Upgraded ThinkPad X1: In-Depth Analysis and News Coverage</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-secrets-behind-my-budget-friendly-surface-pro-ebyte-valuable-lessons-from-a-windows-specialist-zdnet/"><u>Unveiling the Secrets Behind My Budget-Friendly Surface Pro Ebyte: Valuable Lessons From a Windows Specialist | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974674454-effortless-setup-targus-dock-compatibility-download-and-install-drivers-in-a-flash/"><u>[EFFORTLESS SETUP] Targus Dock Compatibility: Download & Install Drivers in a Flash</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-your-daily-diary-staying-fresh-and-avoiding-common-mistakes/"><u>[New] 2024 Approved Your Daily Diary Staying Fresh & Avoiding Common Mistakes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-miniature-film-script-sketch/"><u>2024 Approved Miniature Film Script Sketch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoid-pitfalls-in-gpt-engagement/"><u>Avoid Pitfalls in GPT Engagement</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/create-professional-fb-ad-videos-leverage-free-creative-toolkit-for-2024/"><u>Create Professional FB Ad Videos Leverage Free Creative Toolkit for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-broadcom-bluetooth-drivers-for-windows-10-8-and-7/"><u>Download Broadcom Bluetooth Drivers for Windows 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-canon-pixma-mg2520-driver-compatible-with-all-windows-versions/"><u>Download Canon PIXMA MG2520 Driver: Compatible with All Windows Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-guide-installing-brother-mfc-l2700dw-drivers-on-pc-windows-compatible/"><u>Easy Setup Guide: Installing Brother MFC-L2700DW Drivers on PC - Windows Compatible</u></a></li>
+<li><a href="https://extra-information.techidaily.com/excellent-apps-to-keep-your-data-on-the-go-androids-cloud-keeper-list/"><u>Excellent Apps to Keep Your Data on the Go - Android's Cloud Keeper List</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-oneplus-ace-2-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my OnePlus Ace 2 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-updated-msi-gs65-drivers-on-windows-a-step-by-step-guide/"><u>How to Install Updated MSI GS65 Drivers on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/improve-your-gaming-experience-with-new-rtx-2060-super-driver-downloads-on-windows-1011/"><u>Improve Your Gaming Experience with New RTX 2060 Super Driver Downloads on Windows 10/11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-realities-redefined-the-metaverse-vs-omniverse-showdown-explained/"><u>In 2024, Realities Redefined The Metaverse Vs. Omniverse Showdown Explained</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-latest-compatible-realtek-bluetooth-drivers-with-your-windows-computer/"><u>Installing Latest Compatible Realtek Bluetooth Drivers with Your Windows Computer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977127094-microsoft-wireless-mouse-5000-driver-download-made-simple-and-swift-for-optimal-performance/"><u>Microsoft Wireless Mouse 5000 Driver Download Made Simple and Swift for Optimal Performance</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-cut-avi-files-with-ease-top-16-video-cutter-software-for-windows-mac-and-android/"><u>New In 2024, Cut AVI Files with Ease Top 16 Video Cutter Software for Windows, MAC, and Android</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-realme-gt-3-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Realme GT 3 Device</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-lava-yuva-3-pro-by-fonelab-android-recover-music/"><u>Undelete lost music from Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-7-ready-download-the-latest-amd-radeon-graphics-card-drivers/"><u>Windows 7-Ready: Download the Latest AMD Radeon Graphics Card Drivers</u></a></li>
 </ul></div>
 

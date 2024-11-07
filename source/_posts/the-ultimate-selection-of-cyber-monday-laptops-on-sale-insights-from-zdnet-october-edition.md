@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Selection of Cyber Monday Laptops on Sale - Insights From ZDNet, October Edition
-date: 2024-10-30T18:56:38.392Z
-updated: 2024-11-01T20:05:57.928Z
+date: 2024-11-02T16:04:03.514Z
+updated: 2024-11-07T16:12:40.857Z
 tags:
   - laptops
 categories:
@@ -34,6 +34,19 @@ Here are the best holiday laptop deals we've found so far. We'll continue updati
 * [Asus ZenBook Pro Duo 15 OLED 4K](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-i7-12700H-ScreenPad-Celestial-UX582ZW-AB76T%2Fdp%2FB09TPTNZLG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C15aec2d9-77d0-4d20-a5e1-8b29d55767a1%7Cdtp&dtb=1): $1689 (save $811 at Amazon)
 * [LG Gram 17](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-gram-17-laptop-wqxga-intel-13th-gen-core-i7-with-16gb-memory-nvidia-geforce-rtx-3050-1tb-ssd-black%2F6540475.p%3FskuId%3D6540475&publisher_slug=itechdaily19598&exclusive=1): $1300 (save $700 at Best Buy)
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Top Amazon holiday laptop deals
 
 MSI/ZDNET
@@ -45,10 +58,10 @@ MSI/ZDNET
 * [Lenovo IdeaPad 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-IdeaPad-Processor-i5-1035G7-Accessories%2Fdp%2FB0CNGV8C34%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C15aec2d9-77d0-4d20-a5e1-8b29d55767a1%7Cdtp&dtb=1): $350 (save $350)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Top Best Buy holiday laptop deals
@@ -67,13 +80,6 @@ Dell/ZDNET
 * [Lenovo Slim 3 Chromebook](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-slim-3-chromebook-14-fhd-touch-screen-laptop-mediatek-kompanio-520-4gb-memory-64gb-emmc-abyss-blue%2F6531742.p%3FskuId%3D6531742&publisher_slug=itechdaily19598&exclusive=1): $149 (save $170)
 * [Asus Zenbook 14X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-zenbook-14x-14-5-2-8k-oled-touch-laptop-intel-evo-platform-i7-13700h-16gb-memory-512gb-ssd-inkwell-gray%2F6543526.p%3FskuId%3D6543526&publisher_slug=itechdaily19598&exclusive=1): $700 (save $300)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Top Walmart holiday laptop deals
 
 HP/ZDNET
@@ -83,13 +89,6 @@ HP/ZDNET
 * [HP 15 laptop](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-15-15-6-FHD-Windows-11-Pro-Touchscreen-Business-Laptop-11th-Gen-Intel-4-core-i7-1165G7-32GB-RAM-2TB-PCIe-SSD-Iris-Xe-Graphic-Natural-Silver-w-Offi%2F5031672716&subId1=zd-__COM_CLICK_ID__-dtp): $873 (save $376)
 * [HP Envy x360 2-in-1](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-ENVY-x360-Convertible-15-6-FDH-Touch-Laptop-AMD-Ryzen-5-12GB-256GB-Windows-11-15-ey1077wm%2F1090379885%3Fathbdg%3DL1800&subId1=zd-__COM_CLICK_ID__-dtp): $449 (save $350)
 * [Lenovo IdeaPad Slim 5i](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLenovo-IdeaPad-Slim-5i-Laptop-82XF002SUS-Intel-i7-1355U-16GB-RAM-1TB-SSD-16-0-Windows-11-Home-Intel-Iris-Xe-Graphics%2F3634632586%3Fathbdg%3DL1700&subId1=zd-__COM_CLICK_ID__-dtp): $680 (save $270)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Top B&H Photo holiday laptop deals
 
@@ -105,10 +104,10 @@ Best Buy/ZDNET
 * [Microsoft Surface Laptop 5](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1729196-REG%2Fmicrosoft%5Frkl%5F00001%5F15%5Fsurface%5Flaptop%5F4.html): $1899 (save $400)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## More holiday laptop deals
@@ -151,6 +150,13 @@ The Lenovo Yoga 7 is a 2-in-1 laptop, which means you can use it either as a tab
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is the best laptop?
 
@@ -221,22 +227,20 @@ If you're in the market for a new laptop and want the best of the best, you shou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-mastering-adsense-on-youtube-a-beginners-guide/"><u>[New] 2024 Approved Mastering AdSense on YouTube A Beginner's Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-simplified-techniques-for-using-the-io-screener/"><u>[New] In 2024, Simplified Techniques for Using the IO Screener</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-transform-your-social-media-experience-livestream-fb-flawlessly/"><u>[New] In 2024, Transform Your Social Media Experience Livestream FB Flawlessly</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-unleash-creativity-exclusive-free-youtube-banner-templates/"><u>[New] In 2024, Unleash Creativity - Exclusive Free YouTube Banner Templates</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/2023s-ultimate-tech-wishlist-fulfilled-with-top-picks-from-best-buy-featured-on-zdnet/"><u>2023'S Ultimate Tech Wishlist Fulfilled with Top Picks From Best Buy | Featured on ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/beyond-apple-and-lenovo-discovering-superior-travel-tablets-for-professionals-expert-choice/"><u>Beyond Apple and Lenovo: Discovering Superior Travel Tablets for Professionals Expert Choice</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-latest-chromeos-upgrade-seamless-windows-11-integration-now-on-chromebooks-the-zdnet-tech-report/"><u>Discover the Latest ChromeOS Upgrade: Seamless Windows 11 Integration Now on Chromebooks - The ZDNET Tech Report</u></a></li>
-<li><a href="https://techidaily.com/enhance-your-digital-strategy-using-cookiebot-technology/"><u>Enhance Your Digital Strategy Using Cookiebot Technology</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-high-end-luxury-of-dells-new-3k-gaming-laptop-a-game-changer-in-tech-zdnet/"><u>Exploring the High-End Luxury of Dell's New $3K Gaming Laptop - A Game Changer in Tech | ZDNet</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-lava-agni-2-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Lava Agni 2 5G? Try These Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-wont-connect-a-step-by-step-guide-for-bluetooth-on-windows-10/"><u>How to Fix Won't Connect: A Step-by-Step Guide for Bluetooth on Windows 10</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-poco-c65-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Poco C65 Devices</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-iphone-se-2020-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On iPhone SE (2020)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-the-mini-marvel-of-tech-unveiling-the-smallest-webcam-ever-a-surprisingly-multifaceted-device/"><u>Inside the Mini Marvel of Tech: Unveiling the 'Smallest Webcam Ever' – A Surprisingly Multifaceted Device!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lock-in-the-win-snag-your-dream-machine-with-the-hp-victus-n15-gaming-laptop-for-a-steal-at-515-your-next-big-save-with-this-best-buy-deal/"><u>Lock in the Win: Snag Your Dream Machine with the HP Victus N15 Gaming Laptop for a Steal at $515 - Your Next Big Save With This Best Buy Deal.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/stunning-display-and-exceptional-durability-a-top-reviewed-long-lasting-laptop/"><u>Stunning Display and Exceptional Durability - A Top Reviewed Long-Lasting Laptop</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-exclusive-savings-score-a-complimentary-macbook-air-m3-from-best-buy-with-this-clever-hack/"><u>Unlock Exclusive Savings: Score a Complimentary MacBook Air M3 From Best Buy with This Clever Hack</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-earnings-demystified-youtube-shorts-revenue-split-explained/"><u>[New] In 2024, Earnings Demystified YouTube Shorts Revenue Split Explained</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-jake-paul-unveiled-charting-the-path-of-youtube-stardom/"><u>2024 Approved Jake Paul Unveiled Charting the Path of YouTube Stardom</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-psd-saturation-tweaks/"><u>2024 Approved Master PSD Saturation Tweaks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/diy-techniques-for-addressing-and-repairing-the-realtek-rtl811au-driver-malfunctions/"><u>DIY Techniques for Addressing and Repairing the Realtek RTL8^11AU Driver Malfunctions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-hp-deskjet-3755-inkjet-all-in-one-printer-driver-compatible-with-windows-10-8-and-ebx/"><u>Download the Newest HP DeskJet 3755 Inkjet All-In-One Printer Driver Compatible with Windows 10, 8 & Ebx</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-download-updated-m-audio-drivers-supporting-windows-11-7-8-and-81/"><u>Easy Download: Updated M-Audio Drivers Supporting Windows 11, 7, 8 & 8.1</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratuit-online-verwerpt-webp-images-naar-jpeg-professionele-service-door-movavi/"><u>Gratuit Online Verwerpt WEBP-Images Naar JPEG - Professionele Service Door Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-update-your-sata-ahci-controllers-software/"><u>How to Seamlessly Update Your SATA AHCI Controller's Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-install-atheros-network-device-drivers-for-windows-users/"><u>How to Successfully Install Atheros Network Device Drivers for Windows Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-acquire-excellent-images-at-no-cost-essential-strategies/"><u>In 2024, Acquire Excellent Images at No Cost Essential Strategies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-drivers-for-your-canon-pixma-mg2522-free-download-and-installation-instructions/"><u>Latest Drivers for Your Canon PIXMA MG2522 - Free Download and Installation Instructions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-writes-your-stories-with-custom-gpt-solutions/"><u>OpenAI' Writes Your Stories with Custom GPT Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-apple-iphone-xr-and-browser-drfone-by-drfone-virtual-ios/"><u>Prevent Cross-Site Tracking on Apple iPhone XR and Browser | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-solutions-to-resolve-unresponsive-audio-on-windows-10-devices/"><u>Top Solutions to Resolve Unresponsive Audio on Windows 10 Devices</u></a></li>
 </ul></div>
 

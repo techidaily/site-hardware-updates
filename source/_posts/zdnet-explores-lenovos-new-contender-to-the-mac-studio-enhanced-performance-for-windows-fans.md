@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Explores Lenovo's New Contender to the Mac Studio: Enhanced Performance for Windows Fans"
-date: 2024-10-30T20:35:37.312Z
-updated: 2024-11-01T19:07:28.835Z
+date: 2024-11-01T16:30:31.761Z
+updated: 2024-11-07T16:13:13.579Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -60,6 +60,13 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 | Price                 | Starting at [$1,980](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-12-Core-i7-1360P-Fingerprint-Thunderbolt4%2Fdp%2FB0CR9S1KFL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C46c4a23a-e363-4547-b075-3e302f59ee07%7Cdtp&dtb=1) |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
 
@@ -81,19 +88,6 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How does it perform?
 
 The twin 13.3-inch OLED displays look exceptional with deep black levels, vibrant colors, and 400 nits of brightness (a.k.a. enough for most lighting situations). They each sport 2.8K resolutions, so everything looks crisp, and Lenovo even includes 16:10 aspect ratios so you get a bit extra vertical room. They're also Dolby Vision certified. I have zero complaints about these screens, besides the fact they only have 60Hz refresh rates.
@@ -113,13 +107,6 @@ The verdict? It's a speedy machine. The Core Ultra processor feels snappier than
 To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about seven to eight hours of usage on a full charge. [In my testing](https://www.zdnet.com/article/how-we-test-laptops/), I was able to get to about seven hours of usage before it conked out, which is perfectly fine since 1.) this laptop has two screens and 2.) some pricier laptops like the [Surface Laptop Studio 2](https://www.zdnet.com/article/microsoft-surface-laptop-studio-2-review/) can't get anywhere near that.
 
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
 
@@ -142,10 +129,10 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## One thing to keep in mind
@@ -157,6 +144,13 @@ Max Buondonno/ZDNET
 When I'm working on my MacBook or -- quite frankly -- any other laptop in my arsenal, all I have to do is close the lid and load it into my backpack when I'm finished. With the Yoga Book 9i, I have to close the laptop > collapse the kickstand > place the keyboard inside the collapsed kickstand > stack the keyboard/kickstand combo, mouse, and stylus on top of the laptop > shove it all in my bag and pray I can find it later when it's time to go back to work.
 
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -196,22 +190,17 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-vampire-vignette-virtuoso/"><u>[New] Vampire Vignette Virtuoso</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-selfie-snaps-to-skincare-specials-establishing-your-youtube-brand-for-2024/"><u>[Updated] From Selfie Snaps to Skincare Specials Establishing Your YouTube Brand for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/1715860513575-2024-approved-leveraging-huaweis-inbuilt-screen-capture-tech-on-its-phones/"><u>2024 Approved Leveraging Huawei's Inbuilt Screen Capture Tech on Its Phones.</u></a></li>
-<li><a href="https://win-dash.techidaily.com/approach-discuss-the-advantages-over-linear-methods/"><u>Approach: Discuss the Advantages over Linear Methods.</u></a></li>
-<li><a href="https://games-able.techidaily.com/atlasos-for-the-unconventional-gamer/"><u>AtlasOS for the Unconventional Gamer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/claude-pro-vs-chatgpt-plus-a-compreran-analysis/"><u>Claude Pro Vs. ChatGPT Plus: A Compreran Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-secure-your-lenovo-thinkpad-l14-gen-3-today-for-a-stunning-77-discount-in-this-cyber-monday-exclusive-offer/"><u>Don't Miss Out! Secure Your Lenovo ThinkPad L14 Gen 3 Today for a Stunning 77% Discount in This Cyber Monday Exclusive Offer .</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-deal-alert-top-picks-now-cheaper-by-500-before-prime-day-starts-shop-smart/"><u>Exclusive Deal Alert: Top Picks Now Cheaper by $500 Before Prime Day Starts - Shop Smart!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-your-movies-how-to-convert-dvds-to-digital-video-formats/"><u>Free Your Movies How to Convert DVDs to Digital Video Formats</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/huge-sale-alert-secure-up-to-1000-off-on-lenovo-business-laptops-before-octobers-amazon-prime-day-zdnet-exclusive/"><u>Huge Sale Alert: Secure Up To $1,000 Off On Lenovo Business Laptops Before October's Amazon Prime Day - ZDNet Exclusive</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-oneplus-ace-2-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track OnePlus Ace 2 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/samsung-t5-8tb-solid-state-drive-deeply-discounted-save-36-now-on-amazon-insights-from-zdnet/"><u>Samsung T5 8TB Solid State Drive Deeply Discounted: Save 36% Now on Amazon - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-gaming-discounts-during-cyber-monday-2024-exclusive-offers-you-dont-want-to-miss/"><u>Top Gaming Discounts During Cyber Monday 2024: Exclusive Offers You Don't Want to Miss</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-ranked-audio-respeeders-mobile-desktop-for-2024/"><u>Top-Ranked Audio Respeeders (Mobile, Desktop) for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-the-fastest-msds-of-2024-in-depth-testing-and-analysis-by-pc-world/"><u>Ultimate Guide to the Fastest M.S.D.s of 2024: In-Depth Testing and Analysis by PC World</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-the-power-of-playing-snag-an-unbeatable-deal-for-asus-rog-strix-g15-at-600-off-spotted-by-zdnet/"><u>Unleash the Power of Playing: Snag an Unbeatable Deal for Asus Rog Strix G15 at $600 Off – Spotted by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/zdnets-ultimate-guide-to-the-highest-quality-streaming-mic-options-for-2025/"><u>ZDNet's Ultimate Guide to the Highest Quality Streaming Mic Options for 202ˈ5</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-video-quality-edge-mirrorless-versus-dslr-cameras/"><u>[New] 2024 Approved Video Quality Edge Mirrorless Versus DSLR Cameras</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-customizable-instagram-ringtones-made-easy/"><u>[New] Customizable Instagram Ringtones Made Easy</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-increase-your-social-media-impact-hot-tiktok-hashtags-for-growth/"><u>[New] Increase Your Social Media Impact Hot TikTok Hashtags for Growth</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-now-instant-setup-of-nahimic-enhanced-sound-experience/"><u>[Update Now] Instant Setup of Nahimic: Enhanced Sound Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-style-meets-function-essential-sj4000-gear-selection/"><u>[Updated] Style Meets Function Essential SJ4000 Gear Selection</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-msi-z370-a-pro-drivers-for-optimal-performance-download-now/"><u>Get the Latest MSI Z370-A Pro Drivers for Optimal Performance – Download Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-deskjet-3520-driver-installation-step-by-step-guide-and-download-links/"><u>HP Deskjet 3520 Driver Installation: Step-by-Step Guide and Download Links</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-10-industry-leading-audio-editing-solutions-for-professionals/"><u>In 2024, 10 Industry-Leading Audio Editing Solutions for Professionals</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-grab-tailor-made-cost-free-outro-videos/"><u>In 2024, Grab Tailor-Made, Cost-Free Outro Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-dell-bios-update-for-enhanced-sm-bus-controller-performance/"><u>Latest Dell BIOS Update for Enhanced SM Bus Controller Performance</u></a></li>
+<li><a href="https://extra-information.techidaily.com/win11s-quickest-image-viewing-experience/"><u>Win11's Quickest Image Viewing Experience</u></a></li>
 </ul></div>
 

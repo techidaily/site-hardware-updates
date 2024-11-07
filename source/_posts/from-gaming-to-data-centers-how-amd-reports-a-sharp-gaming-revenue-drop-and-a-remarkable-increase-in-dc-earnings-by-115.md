@@ -1,7 +1,7 @@
 ---
 title: "From Gaming to Data Centers: How AMD Reports a Sharp Gaming Revenue Drop and a Remarkable Increase in DC Earnings by 115%%"
-date: 2024-09-01T05:46:46.910Z
-updated: 2024-09-02T05:46:46.910Z
+date: 2024-11-02T16:37:53.282Z
+updated: 2024-11-07T16:15:44.707Z
 tags:
   - cpu
 categories:
@@ -41,14 +41,11 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  SkatterBencher's 5.8 GHz and 6 GHz overclocks represent the highest on the new 9700X. Der8auer and Overclocking.com showcased their respective overclocks on the 9700X but could only eke out 5.4G Hz. The main difference was that both outlets did manual overclocks, whereas SkatterBencher used AMD's plethora of overclocking tools, enabling them to hit higher frequencies.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -57,8 +54,28 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-faces-under-scrutiny-how-iphone-x-and-galaxy-unlock-tech-compare/"><u>[New] Faces Under Scrutiny How iPhone X and Galaxy Unlock Tech Compare</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-get-acquainted-with-the-10-best-sketching-apps-for-chrome-os/"><u>[New] Get Acquainted with The 10 Best Sketching Apps for Chrome OS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-secure-your-conversations-on-the-go-with-top-10-mobile-chat-apps/"><u>[New] Secure Your Conversations on the Go with Top 10 Mobile Chat Apps</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-which-vimeo-e-sy-option-suits-your-needs/"><u>[New] Which Vimeo E-Sy Option Suits Your Needs?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-maximizing-video-quality-in-steam-game-recording/"><u>[Updated] In 2024, Maximizing Video Quality in Steam Game Recording</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-powerhouse-why-experts-prefer-this-laptop-over-macbook-air-a-comparison-you-dont-want-to-miss/"><u>Affordable Powerhouse: Why Experts Prefer This Laptop Over MacBook Air - A Comparison You Don't Want to Miss!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/modmp4/"><u>MODファイルを効果的にMP4へ変換する自由ソフトの紹介</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-top-5-free-m4a-file-editors-you-need-for-2024/"><u>New The Top 5 Free M4A File Editors You Need for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-connectivity-problems-a-comprehensive-fix-for-high-latency-in-street-fighter-n-gameplay/"><u>Overcoming Connectivity Problems: A Comprehensive Fix for High Latency in Street Fighter N Gameplay</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/power-your-devices-like-never-before-grab-the-ultimate-docking-station-deal-of-35-off-today/"><u>Power Your Devices Like Never Before - Grab the Ultimate Docking Station Deal of 35% Off Today</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quantum-realms-unraveling-new-worlds-with-10-sci-fi-titles-for-2024/"><u>Quantum Realms Unraveling New Worlds with 10 Sci-Fi Titles for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-prime-day-pre-sale-game-bargains-exclusive-offers-ahead-of-october-2024-insights-from-zdnet/"><u>Top Prime Day Pre-Sale Game Bargains: Exclusive Offers Ahead of October 2024 - Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transform-your-workstation-experience-with-the-ultimate-12-port-docking-station-a-game-changer-for-windows-pc-owners/"><u>Transform Your Workstation Experience with the Ultimate 12-Port Docking Station - A Game Changer for Windows PC Owners</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-power-of-portability-how-the-huawei-matebook-x-pro-challenges-elite-laptops-review/"><u>Unveiling the Power of Portability: How the Huawei MateBook X Pro Challenges Elite Laptops Review</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

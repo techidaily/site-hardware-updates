@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate Best Buy Bargains for October's Prime Day, 2024 - Live Savings Spotlight on ZDNET
-date: 2024-10-31T22:03:22.871Z
-updated: 2024-11-01T18:13:57.289Z
+date: 2024-11-05T17:00:43.508Z
+updated: 2024-11-07T16:41:05.788Z
 tags:
   - laptops
 categories:
@@ -88,13 +88,6 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## More October Prime Day 2024 gaming deals
 
 ZDNET
@@ -123,13 +116,6 @@ ZDNET
 * [Razer quick charging station for PS5 controllers in blue for $25 (save $15 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-quick-charging-stand-for-ps5-controllers-blue%2F6520072.p%3FskuId%3D6520072&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A USB-C charging stand for keeping your extra controllers powered up and at-the-ready.
 * [God of War Ragnarok standard edition for $40 (save $29 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGod-of-War-Ragnar-k-Standard-Edition-Playstation-5%2F1336533270%3FclassType%3DVARIANT%26athbdg%3DL1102&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): The sequel to the hit GoW 2018 follows Kratos and his son Atreus as they traverse the realms to gather allies and stop the gods from going to war.
 * [The Last of Us Part 1 standard edition for $46 (save $24 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FThe-Last-of-Us-Part-I-PlayStation-5%2F1643604134%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Experience the award-winning story of Ellie and Joel as they make their way to Denver and the Fireflies through hordes of dangerous, fungus-infected zombies.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals
 
@@ -190,6 +176,13 @@ Kyle Kucharski/ZDNET
 * [HP Victus 15L desktop for $480 (save $370 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-15l-gaming-desktop-tg02-0325m-59a32av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-level gaming desktop built with an AMD Ryzen 5 5600G processor, AMD Radeon RX 6400 GPU, 8GB of RAM, and a 256GB SSD.
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming laptop deals
 
 Lenovo
@@ -203,10 +196,10 @@ Lenovo
 * [Alienware m18 R2 for $3,400 (save $600 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Falienware-m18-r2-gaming-laptop%2Fspd%2Falienware-m18-r2-laptop%2Fuseashctom18r204&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming laptop with an Nvidia GeForce RTX 4090 GPU, Intel Core i9-14900K CPU, 64GB of RAM, 4TB of storage, and an 18-inch QHD+ display.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming monitor deals
@@ -226,6 +219,13 @@ Samsung/ZDNET
 * [Razer DeathStalker V2 Pro TKL wireless keybaord for $145 (save $75 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-deathstalker-v2-pro-tkl-wireless-optical-linear-switch-gaming-keyboard-with-low-profile-design-black%2F6512382.p%3FskuId%3D6512382&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less keyboard with optical linear switches and a low-profile design.
 * [Roccat Vulcan II Mini Air for $64 (save $116 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Froccat-vulcan-ii-mini-air-65-wireless-optical-mechanical-gaming-keyboard-with-rgb-illumination-black%2F6547284.p%3FskuId%3D6547284&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less mechanical keyboard with optical switches, RGB backlighting, and USB-C charging.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## October Prime Day graphics card deals
 
 * [Asus TUF Nvidia GeForce RTX 4070 Ti for $750 (save $110 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-ti-tuf-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6529351.p%3FskuId%3D6529351&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This GPU offers 12GB of VRAM, support for up to 4 displays, and 8K video output.
@@ -234,32 +234,26 @@ Samsung/ZDNET
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
@@ -296,24 +290,19 @@ I only chose deals on games that have been critically and commercially well-rece
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-a-complete-breakdown-lg-bp350-monitors-specifications-and-reviews/"><u>[Updated] A Complete Breakdown LG BP350 Monitor's Specifications and Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/breaking-sound-barriers-a-revolutionary-speaker-experience-that-outshines-bose-and-sonos-reviewed/"><u>Breaking Sound Barriers: A Revolutionary Speaker Experience that Outshines Bose & Sonos Reviewed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-savings-up-to-1700-off-on-samsungs-innovative-the-frame-tv-exclusive-offer-spotted-by-zdnet/"><u>Discover Savings: Up To $1,700 Off On Samsung’s Innovative 'The Frame' TV - Exclusive Offer Spotted by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-prime-day-bargain-with-the-99-fire-tv-stick-on-amazon-your-guide-to-the-best-deal-available-today/"><u>Get Prime Day Bargain with the $99 Fire TV Stick on Amazon - Your Guide to the Best Deal Available Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-lg-is-reaping-profits-in-tv-sector-with-boosted-demand-in-europe-and-expansion-into-streaming-services-analysis-by-zdnet/"><u>How LG Is Reaping Profits in TV Sector with Boosted Demand in Europe and Expansion Into Streaming Services - Analysis by ZDNet</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-poco-x5-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Poco X5 FRP Bypass Instantly</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On OnePlus Ace 2? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/limited-offer-high-definition-85/"><u>Limited Offer: High-Definition 85</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/massive-800-discount-on-top-rated-lg-oled-television-celebrate-labor-day-with-unbeatable-savings-tech-insights/"><u>Massive $800 Discount on Top-Rated LG OLED Television - Celebrate Labor Day with Unbeatable Savings! | Tech Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/massive-labor-day-discount-top-tier-samsung-television-now-just-43-cheaper-a-detailed-review-techradar/"><u>Massive Labor Day Discount: Top-Tier Samsung Television Now Just 43% Cheaper – A Detailed Review | TechRadar</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mini-led-or-oled-understanding-their-disparities-to-help-select-your-next-tv-purchase/"><u>Mini LED or OLED - Understanding Their Disparities to Help Select Your Next TV Purchase</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/money-saving-lg-mini-led-takes-on-my-g2-oled-how-it-triumphs-in-quality-design-and-price-for-holiday-deals-digital-trends/"><u>Money-Saving LG Mini LED Takes on My G2 OLED - How It Triumphs in Quality, Design & Price for Holiday Deals! | Digital Trends</u></a></li>
-<li><a href="https://discover-able.techidaily.com/online-caf-bestand-omzetting-zonder-kosten-behaalpun-movavis-expertise/"><u>Online CAF-Bestand Omzetting Zonder Kosten - Behaalpun Movavi's Expertise</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-5-premier-vpn-choices-for-a-safer-youtube-browsing-adventure/"><u>The 5 Premier VPN Choices for a Safer YouTube Browsing Adventure</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-low-light-guru-writes-for-iphone-users/"><u>The Low Light Guru' Writes for iPhone Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-4-must-have-mobile-apps-for-diy-home-paint-projects/"><u>Top 4 Must-Have Mobile Apps for DIY Home Paint Projects</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-resolving-saints-row-pc-startup-issues/"><u>Troubleshooting Steps: Resolving Saints Row PC Startup Issues</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-free-screen-recorder-for-androids-seamless-use-for-2024/"><u>[New] Free Screen Recorder for Android's Seamless Use for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-heard-words-spoken-ideas-no-price/"><u>[Updated] 2024 Approved Heard Words, Spoken Ideas – No Price</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-boosting-views-top-14-gaming-video-ideas-that-work-for-2024/"><u>[Updated] Boosting Views Top 14 Gaming Video Ideas That Work for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-find-your-ideal-wedding-timer-on-android-and-ios-platforms-here/"><u>[Updated] Find Your Ideal Wedding Timer on Android & iOS Platforms Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-tutorial-on-updating-and-installing-zebras-zp450-printer-drivers/"><u>Comprehensive Tutorial on Updating & Installing Zebra's ZP450 Printer Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-connection-intel-wifi-6-ax200-drivers-latest-version-compatible-with-win-11-and-10/"><u>Enhance Your Connection: Intel Wifi 6 AX200 Drivers - Latest Version Compatible with Win 11 & 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722962159669-fast-track-your-files-download-the-latest-lexar-usb-driver-today/"><u>Fast Track Your Files: Download the Latest Lexar USB Driver Today!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Xiaomi Redmi Note 12 Pro 4G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Xiaomi 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-your-epson-xp-330-with-official-drivers/"><u>Install Your Epson XP-330 with Official Drivers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/leading-workout-journal-apps-of-2024-you-cant-miss-out-on/"><u>Leading Workout Journal Apps of 2024 You Can't Miss Out On!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-hardware-optimization-quick-and-simple-power-management-drivers-refresh/"><u>Lenovo Hardware Optimization: Quick & Simple Power Management Drivers Refresh</u></a></li>
+<li><a href="https://techtrends.techidaily.com/los-peligros-de-copiar-un-dvd-al-disco-duro-sin-rehacerlo-por-que-evitar-esta-practica/"><u>Los Peligros De Copiar Un DVD Al Disco Duro Sin Rehacerlo: Por Qué Evitar Esta Práctica</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-installing-your-epson-wf-2630-drivers-on-windows-operating-systems-78110/"><u>Ultimate Guide to Installing Your Epson WF-2630 Drivers on Windows Operating Systems 7/8.1/10</u></a></li>
 </ul></div>
 

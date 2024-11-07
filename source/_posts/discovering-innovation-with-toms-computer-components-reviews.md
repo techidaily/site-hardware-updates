@@ -1,7 +1,7 @@
 ---
 title: Discovering Innovation with Tom's Computer Components Reviews
-date: 2024-09-05T19:54:58.827Z
-updated: 2024-09-06T19:54:58.827Z
+date: 2024-11-06T16:21:25.306Z
+updated: 2024-11-07T16:43:34.848Z
 tags:
   - cpu
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/G393SGdCQMnxfBxCp2F26P-320-80.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Master the Latest Tech Trends with Tom's Hardware Reviews & Tips
 
 Intel has[announced that it has found the root](https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792) [cause](https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792) of the crashing issues plaguing its CPUs. The company will issue a microcode update to address the issues by mid-August, ostensibly ending the long-running saga that began when the first sporadic reports of CPU crashing errors surfaced in December 2022 and grew to a crescendo by the end of 2023\. Intel's response comes after complaints about the issue, which causes PCs to inexplicably crash/BSOD during gaming and other workloads,[reached a fever pitch](https://www.tomshardware.com/pc-components/cpus/game-publisher-claims-100-crash-rate-with-intel-cpus-alderon-games-says-company-sells-defective-13th-and-14th-gen-chips) in recent weeks. However, the microcode update will not repair impacted processors. Intel also confirmed a rumored issue with via oxidation in its 7nm node, but said those issues were corrected in 2023 and didn't contribute to the failures.
@@ -33,12 +27,6 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
 
  Intel isn't sharing many deep-dive details about the bug yet but says it will continue its validation process to ensure the microcode fully addresses the issues. The company will release more details about the bug itself in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -52,11 +40,12 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
  Intel has not issued a recall of its processors; sources close to the matter tell us that isn't expected. We have both of Intel's statements below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Intel statement on 13th- and 14th-Gen instability
 
  _"Based on extensive analysis of Intel Core 13th/14th Gen desktop processors returned to us due to instability issues, we have determined that elevated operating voltage is causing instability issues in some 13th/14th Gen desktop processors. Our analysis of returned processors confirms that the elevated operating voltage is stemming from a microcode algorithm resulting in incorrect voltage requests to the processor."_
@@ -66,11 +55,12 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
  _"Intel is committed to making this right with our customers, and we continue asking any customers currently experiencing instability issues on their Intel Core 13th/14th Gen desktop processors reach out to Intel Customer Support for further assistance."_
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Intel statement on via oxidation
 
 **Short answer:** We can confirm there was a via Oxidation manufacturing issue (addressed back in 2023) but it is not related to the instability issue.
@@ -79,14 +69,11 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
 
  _For the Instability issue, we are delivering a microcode patch which addresses exposure to elevated voltages which is a key element of the Instability issue. We are currently validating the microcode patch to ensure the instability issues for 13th/14th Gen are addressed. -_ Intel representative[via Reddit](https://www.reddit.com/r/intel/comments/1e9mf04/comment/lefz09c/) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -95,4 +82,19 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-leveraging-xbox-ones-zoom-features-effectively/"><u>[New] 2024 Approved Leveraging Xbox One's Zoom Features Effectively</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-sleeksky-saver-the-frugal-file-nest/"><u>[New] 2024 Approved SleekSky Saver - The Frugal File Nest</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/mp4-to-mp32024/"><u>「安全」保証のMP4 to MP3変換ツール、2024新バージョン無料ダウンロード</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-choosing-between-apples-macbook-air-and-pro-m1-performance-showdown/"><u>2024 Approved Choosing Between Apple's MacBook Air & Pro M1 Performance Showdown</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-choices-purchasing-your-dreams-in-youtube-ringtones/"><u>2024 Approved Prime Choices Purchasing Your Dreams in YouTube Ringtones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-powerhouse-why-experts-prefer-this-laptop-over-macbook-air-a-comparison-you-dont-want-to-miss/"><u>Affordable Powerhouse: Why Experts Prefer This Laptop Over MacBook Air - A Comparison You Don't Want to Miss!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-the-years-finest-tech-marvels-leading-gizmos-and-tools-of-2e23-spotlighted/"><u>Explore the Year's Finest Tech Marvels: Leading Gizmos and Tools of 2E23 Spotlighted</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-light-the-flame-the-best-inspiring-movie-list/"><u>In 2024, Light the Flame The Best Inspiring Movie List</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-dells-compact-performance-beast-the-ultimate-gamer-laptop-that-takes-workplaces-by-storm-zdnet/"><u>Introducing Dell's Compact Performance Beast: The Ultimate Gamer Laptop That Takes Workplaces by Storm | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-100-unbeatable-walmart-christmas-bargains-explore-the-hottest-savings-of-the-season/"><u>Top 100 Unbeatable Walmart Christmas Bargains - Explore the Hottest Savings of the Season!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-code-0x80070570-file-corruption-in-windows-11/"><u>Troubleshooting Code 0X80070570 File Corruption in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-audio-outage-addressed-and-fixed/"><u>Windows 11 Audio Outage Addressed & Fixed</u></a></li>
+</ul></div>
 

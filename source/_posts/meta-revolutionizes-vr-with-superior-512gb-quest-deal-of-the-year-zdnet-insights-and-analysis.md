@@ -1,7 +1,7 @@
 ---
 title: Meta Revolutionizes VR with Superior 512GB Quest Deal of the Year | ZDNet Insights and Analysis
-date: 2024-10-27T19:39:36.988Z
-updated: 2024-11-01T21:54:35.007Z
+date: 2024-11-02T16:31:32.570Z
+updated: 2024-11-07T16:36:32.886Z
 tags:
   - laptops
 categories:
@@ -65,16 +65,10 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -86,10 +80,10 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -142,20 +136,22 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-efficient-cost-strategies-for-cloud-space-usage/"><u>[New] In 2024, Efficient Cost Strategies for Cloud Space Usage</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-enhancing-youtube-watching-with-list-rearrangement-for-2024/"><u>[Updated] Enhancing YouTube Watching with List Rearrangement for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-reno-10-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-transform-your-ideas-into-actionable-steps-idevice-screenshots-for-video-sharing/"><u>2024 Approved Transform Your Ideas Into Actionable Steps IDevice Screenshots for Video Sharing</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/camera-restored-obs-problem-fixed-for-2024/"><u>Camera Restored - OBS Problem Fixed for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-crashes-in-valorant-on-your-windows-or-mac-computer/"><u>How to Fix Persistent Crashes in Valorant on Your Windows or Mac Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-revive-your-dead-macbook-pro-charger-cost-free-solutions-and-expert-tips/"><u>How to Revive Your Dead MacBook Pro Charger - Cost-Free Solutions and Expert Tips</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-tecno-spark-20-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Tecno Spark 20</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-vivo-v30-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Vivo V30 FRP Without Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/score-big-savings-with-the-black-friday-blowout-gigabytes-a5-k1-gaming-laptop-at-an-exclusive-40-off-zdnet-insider-tips/"><u>Score Big Savings with the Black Friday Blowout: Gigabyte's A5 K1 Gaming Laptop at an Exclusive 40% Off | ZDNET Insider Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-mini-chromebooks-reviewed-for-ultimate-flexibility-in-a-small-package/"><u>Top Mini Chromebooks Reviewed for Ultimate Flexibility in a Small Package</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-correcting-missing-d3dx924dll-errors/"><u>Troubleshooting Steps: Correcting Missing d3dx9_24.dll Errors</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-newbies-choice-in-linux-a-complete-breakdown-of-the-most-user-friendly-distros-as-verified-by-tech-gurus/"><u>Ultimate Newbie's Choice in Linux: A Complete Breakdown of the Most User-Friendly Distros, as Verified by Tech Gurus</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-unbeatable-deals-on-the-premium-hp-156-touch-display-laptop-save-a-whopping-230-now/"><u>Unlock Unbeatable Deals on the Premium HP 15.6 Touch Display Laptop - Save a Whopping $230 Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-hidden-charge-discover-the-special-thunderbolt-docks-secret-windows-benefit-zdnet-insider/"><u>Unveiling the Hidden Charge: Discover the Special Thunderbolt Dock's Secret Windows Benefit | ZDNet Insider</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-calm-clicks-the-ideal-screen-free-puzzles/"><u>[New] 2024 Approved Calm Clicks The Ideal Screen-Free Puzzles</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-pixelpress-mastering-the-art-of-screen-recording-for-2024/"><u>[Updated] 'PixelPress' Mastering the Art of Screen Recording for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-switch-off-guide-instagrams-igtv/"><u>[Updated] In 2024, Switch-Off Guide Instagram's IGTV</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-finest-gopro-complementary-items/"><u>[Updated] In 2024, The Finest Gopro Complementary Items</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlining-tech-upgrade-go-big-sur-on-your-mac/"><u>2024 Approved Streamlining Tech Upgrade Go Big Sur! On Your Mac</u></a></li>
+<li><a href="https://program-issues.techidaily.com/anthem-startup-stuck-break-free-from-the-infinite-load-screen-error/"><u>Anthem Startup Stuck? Break Free From the Infinite Load Screen Error.</u></a></li>
+<li><a href="https://games-able.techidaily.com/discontinuation-new-horizons-for-apsplus-gameplay/"><u>Discontinuation: New Horizons for APS+ Gameplay</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-nvidia-geforce-rtx-3070-drivers-on-windows-11/"><u>Download and Install NVIDIA GeForce RTX 3070 Drivers on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-downloading-and-installing-kyocera-printer-software-for-windows-users/"><u>Easy Setup: Downloading & Installing KYOCERA Printer Software for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-install-and-update-your-canon-mp250-printers-latest-drivers-online/"><u>How to Easily Install and Update Your Canon MP250 Printer's Latest Drivers Online</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-official-samsung-phone-drivers-for-pc-and-mac/"><u>How to Install Official Samsung Phone Drivers for PC and Mac</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-software-download-for-hp-deskjet-3755-inkjet-all-in-one-printer-compatible-with-windows-os-10-8-and-7/"><u>Latest Software Download for HP DeskJet 3755 Inkjet All-In-One Printer - Compatible with Windows OS (10, 8 & 7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722968582740-the-rise-of-alternative-ideologies-such-as-islamist-theocracy-and-nationalism-suggest-that-liberal-democracy-is-not-universally-accepted-or-desirable/"><u>The Rise of Alternative Ideologies Such as Islamist Theocracy and Nationalism Suggest that Liberal Democracy Is Not Universally Accepted or Desirable.</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-secrets-of-seamless-zoom-communication-hacks-for-productive-remote-engagement/"><u>The Secrets of Seamless ZOOM Communication Hacks for Productive Remote Engagement</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-msi-b3ns-with-the-newest-drivers-for-windows-10-and-7-get-the-tomahawk-edition/"><u>Update Your MSI B3n's with the Newest Drivers for Windows 10 and 7 - Get the Tomahawk Edition</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-what-is-an-ai-artist-for-2024/"><u>Updated What Is an AI Artist for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-to-the-latest-version-of-hp-scanjet-drivers-now-available-for-windows-users/"><u>Upgrade to the Latest Version of HP Scanjet Drivers Now Available for Windows Users</u></a></li>
 </ul></div>
 

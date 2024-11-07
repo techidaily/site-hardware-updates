@@ -1,7 +1,7 @@
 ---
 title: "Game Revolution: Leading Computer Brands Pivot to Chromebook Gaming Experiences Exclusive"
-date: 2024-10-25T18:49:13.378Z
-updated: 2024-11-01T21:25:54.469Z
+date: 2024-10-31T16:55:46.005Z
+updated: 2024-11-07T16:25:14.684Z
 tags:
   - laptops
 categories:
@@ -49,10 +49,10 @@ Acer's Chromebook 516 GE aims to be the ideal device for those cloud services by
 **Also:** [**The 5 best Chromebooks for students**](https://www.zdnet.com/article/best-chromebook-for-students/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -69,10 +69,10 @@ Acer's Chromebook 516 GE aims to be the ideal device for those cloud services by
 | Dimensions and weight | 356.58 (W) x 249.67 (D) x 21.3 (H) mm (14.04 x 9.83 x 0.84 inches) \| 3.75lbs                                                    |
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Build and ports
@@ -106,6 +106,13 @@ The included charger is on the large side for a Chromebook power supply.
 Michael Gariffo/ZDNET
 
 While everything else about the Chromebook felt premium, the charger was contrastingly generic. It did its job of topping up the 65Wh, 9-hour battery well and quickly, but it's larger than you'd expect, and looked a bit dated compared with most other high-end Chromebook models. I opted to use a more compact 140W entry in the [Ugreen GaN charger line](https://www.zdnet.com/home-and-office/smart-office/ugreens-gan-chargers-are-smaller-mightier-and-cooler-than-yours/) during most of my testing. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Performance
 
@@ -151,13 +158,6 @@ Hopefully future updates will bring the performance of Xbox cloud gaming closer 
 
 [Acer Chromebook 516 GE $559.95 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1414639532&subId1=zd-__COM_CLICK_ID__-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 You're looking at pretty much all you need for a very compelling gaming experience.
@@ -171,10 +171,10 @@ Just like all Chromebooks, gaming Chromebooks live or die on the quality of clou
 The saving grace here is that Acer and Nvidia have proven that cloud-based gaming is at the point where relatively inexpensive devices, like a high-end Chromebook, can compete with $1,000-plus machines, at least for just about everyone aside from ultra-competitive, first-person shooter fans. Now we just have to see how long it takes everyone else to catch up or surpass them.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -221,21 +221,19 @@ Perhaps an odd fit as an alternative, but Valve's Steam Deck is a different take
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-gastronomy-in-action-a-guide-to-high-quality-food-videos-for-2024/"><u>[New] Gastronomy in Action A Guide to High-Quality Food Videos for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-explore-the-highest-rated-virtual-reality-games/"><u>[New] In 2024, Explore the Highest-Rated Virtual Reality Games</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-share-tweets-whatsapp-video-broadcasting/"><u>[New] In 2024, Share Tweets WhatsApp Video Broadcasting</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-inside-metaverse-how-to-build-memes-that-pop-online/"><u>[Updated] In 2024, Inside Metaverse How to Build Memes That Pop Online</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726030013254-table/"><u>/Table</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-mastery-in-making-essential-gear-for-yi-4k-enthusiasts/"><u>2024 Approved Mastery in Making - Essential Gear for YI 4K Enthusiasts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/anticipated-announcements-at-apples-upcoming-october-showcase-the-new-m4-mac-mini-advanced-ipads-and-latest-innovations-in-siri-technology-insights-by-zdnet25/"><u>Anticipated Announcements at Apple's Upcoming October Showcase: The New M4 Mac Mini, Advanced iPads, and Latest Innovations in Siri Technology - Insights by ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-the-lens-top-techniques-for-a-sharp-iphone-photo-experience/"><u>Fixing the Lens: Top Techniques for a Sharp iPhone Photo Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hunt-for-the-best-unlocking-spectacular-savings-on-newest-laptops-during-octobers-prime-deals-bonanza-gadgetguru/"><u>Hunt for the Best: Unlocking Spectacular Savings on Newest Laptops During October's Prime Deals Bonanza | GadgetGuru</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ideal-slide-show-tools-for-iphone-series-10-13-upgrades-for-2024/"><u>Ideal Slide Show Tools For iPhone Series 10-13 Upgrades for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lg-gram-pro-vs-macbook-air-surprising-victory-of-the-lightweight-champion-tech-insights-by-zdnet/"><u>LG Gram Pro Vs. MacBook Air: Surprising Victory of the Lightweight Champion | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/recovering-your-lost-windows-pro-license-after-a-system-restore-techadvice/"><u>Recovering Your Lost Windows Pro License After a System Restore | TechAdvice</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleashing-productivity-how-the-hp-copilotplus-notebook-empowers-distance-working-a-real-life-test-by-zdnet/"><u>Unleashing Productivity: How the HP Copilot+ Notebook Empowers Distance Working - A Real-Life Test by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-apple-m3-macbook-air-top-3-impressive-upgrades-explored-techspot/"><u>Unveiling the Apple M3 MacBook Air - Top 3 Impressive Upgrades Explored | TechSpot</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-reasons-behind-purchasing-damaged-macbook-pro-displays-an-insightful-analysis/"><u>Unveiling the Reasons Behind Purchasing Damaged MacBook Pro Displays: An Insightful Analysis</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208088497-why-is-my-chrome-not-responding-expert-tricks-to-launch-fresh-and-fast/"><u>Why Is My Chrome Not Responding? Expert Tricks To Launch Fresh and Fast</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-voice-memo-essentials-a-complete-reference-guide/"><u>[New] 2024 Approved Voice Memo Essentials A Complete Reference Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-frozen-frenzy-2022s-ultimate-showdown-on-snowy-olympic-rivers/"><u>[Updated] Frozen Frenzy 2022'S Ultimate Showdown on Snowy Olympic Rivers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-unlock-the-power-of-time-lapse-with-gopro-hero5/"><u>2024 Approved Unlock the Power of Time-Lapse with GoPro Hero5</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-ryzen-5-2400g-driver-download-fast-and-simple-installation-guide/"><u>AMD Ryzen 5 2400G Driver Download: Fast and Simple Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978559855-download-nvidia-geforce-gtx-980-ti-drivers-latest-version/"><u>Download Nvidia GeForce GTX 980 Ti Drivers - Latest Version</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969024539-ensure-seamless-iphone-connectivity-update-your-windows-10-drivers-today/"><u>Ensure Seamless iPhone Connectivity - Update Your Windows 10 Drivers Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-latest-mpow-bluetooth-driver-update-for-windows-download-now/"><u>Get Latest MPOW Bluetooth Driver Update for Windows - Download Now</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-safely-extract-and-backup-music-from-your-ipod-device-to-a-desktop-computer-guide/"><u>How to Safely Extract & Backup Music From Your iPod Device to a Desktop Computer Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Honor Magic 6? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-infinix-hot-30i-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Infinix Hot 30i? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/incredible-virtual-films-to-explore-for-2024/"><u>Incredible Virtual Films to Explore for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/next-gen-camera-innovations-2024-exploration/"><u>Next-Gen Camera Innovations - 2024 Exploration</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-downloading-and-installation-of-dell-wd1g-device-drivers-expert-advice/"><u>Seamless Downloading & Installation of Dell WD1g Device Drivers: Expert Advice</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722961192898-surface-book-driver-update-made-simple-get-started-here/"><u>Surface Book Driver Update Made Simple – Get Started Here</u></a></li>
 </ul></div>
 

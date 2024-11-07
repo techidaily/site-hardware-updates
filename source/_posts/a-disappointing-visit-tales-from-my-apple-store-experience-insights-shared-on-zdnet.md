@@ -1,7 +1,7 @@
 ---
 title: "A Disappointing Visit: Tales From My Apple Store Experience - Insights Shared on ZDNet"
-date: 2024-10-25T19:40:57.393Z
-updated: 2024-11-01T19:12:35.974Z
+date: 2024-11-05T16:08:16.914Z
+updated: 2024-11-07T16:24:18.026Z
 tags:
   - laptops
 categories:
@@ -48,13 +48,6 @@ Show less
 
 ## Nothing Phone 1
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best innovative smartphone of 2022
 
 **Tech specs: Display:** 6.55-inch OLED with 120Hz refresh rate | **Processor:** Qualcomm Snapdragon 778G Plus | **Storage:** 8GB/12GB RAM with 128/256GB storage | **Camera:** 50MP wide, 50MP ultra-wide, and 16MP front camera | **Weight:** 6.82 ounces
@@ -85,21 +78,7 @@ Headphone Type  Wireless Earbuds
 
 Water-Resistant  Yes (IPX4 -- Splash-Proof)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bose QuietComfort II Earbuds
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best earbuds of 2022
 
@@ -165,13 +144,6 @@ Show less
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B7Y1ZC9L%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C784cc1cd-b602-41a3-9a72-a33e2151c1b9%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy Tab S8 Plus
 
 ### Best tablet of 2022
@@ -193,13 +165,6 @@ Show less
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FIntroducing-Kindle-Scribe-the-first-Kindle-for-reading-and-writing%2Fdp%2FB09BSGFTHY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C784cc1cd-b602-41a3-9a72-a33e2151c1b9%7Cdtp&dtb=1)
 
 ## Amazon Kindle Scribe
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best e-reader of 2022
 
@@ -231,14 +196,14 @@ Processor tested  Apple M2 8‑core
 
 Graphics tested  Apple M2 8‑core
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple MacBook Air M2
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best laptop of 2022
 
@@ -262,6 +227,13 @@ Show less
 
 ## Samsung Neo QLED 8K QN800B TV
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best TV of 2022
 
 **Tech specs: Screen size:** 65-, 75- or 85-inch | **Resolution:** 7,680 x 4,320 | **Picture processor:** Neural Quantum Processor 8K | **Color:** 100% Color Volume with Quantum Dot | **Adaptive picture:** Optimized/EyeComfort | **Refresh rate:** 120Hz | Ports: (4) HDMI, (2) USB 2 ports
@@ -280,7 +252,21 @@ Show less
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F731543167&subId1=zd-__COM_CLICK_ID__-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Kasa Smart Plug Mini
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best smart plug of 2022
 
@@ -344,14 +330,14 @@ Show less
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09Q7SZHKG%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C784cc1cd-b602-41a3-9a72-a33e2151c1b9%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Drop + EPOS PC38X Gaming Headset
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best gaming headset of 2022
 
@@ -370,6 +356,13 @@ Show Expert Take Show less
 Show less 
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09HM94VDS%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C784cc1cd-b602-41a3-9a72-a33e2151c1b9%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Logitech MX Master 3S
 
@@ -392,6 +385,13 @@ Show Expert Take Show less
 Show less 
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FFITURE-Compact-Workout-Real-Time-Feedback%2Fdp%2FB0BLSQB6YS%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C784cc1cd-b602-41a3-9a72-a33e2151c1b9%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fiture Mini
 
@@ -433,13 +433,6 @@ The Roomba j7+ doesn't have mopping capabilities, but it does pair beautifully w
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What are some other top tech products of 2022?
 
 While we think the above devices are the best of the best, we do have some honorable mentions of products that grabbed our attention throughout the year. 
@@ -453,6 +446,13 @@ While we think the above devices are the best of the best, we do have some honor
 [Amazon Kindle 11th Generation: Another great e-reader in 2022 $68.18 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09SWW583J%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C784cc1cd-b602-41a3-9a72-a33e2151c1b9%7Cdtp&dtb=1)
 
 [Pulsar Xlite V2 Mini Wireless Mouse $69.96 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09X1654RY%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C784cc1cd-b602-41a3-9a72-a33e2151c1b9%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How did we choose these best tech products of 2022?
 
@@ -502,22 +502,22 @@ And ambient computing-the technology we see in smart home devices-is getting bet
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-navigating-the-cross-platform-exchange-of-tweets-and-vids-on-whatsapp-for-2024/"><u>[New] Navigating the Cross-Platform Exchange of Tweets and Vids on WhatsApp for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-quick-srt-text-conversion-a-modern-how-to/"><u>[Updated] Quick SRT Text Conversion A Modern How-To</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essentials-of-using-azures-voice-recognition/"><u>[Updated] The Essentials of Using Azure's Voice Recognition</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-unveiling-the-magic-crafting-animated-gifs-with-ease/"><u>[Updated] Unveiling the Magic Crafting Animated GIFs with Ease</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-troubleshooting-for-windows-11-top-fixes-and-tips/"><u>Audio Troubleshooting for Windows 11: Top Fixes and Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-your-pcs-performance-with-intel-usb-30-drivers-for-windows-10-free-software-download-here/"><u>Boost Your PC's Performance with Intel USB 3.0 Drivers for Windows 10: Free Software Download Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-epson-wf-2750-drivers-complete-guide/"><u>Download & Install Epson WF-2750 Drivers – Complete Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-download-and-setup-for-the-latest-graphics-drivers-on-your-amd-ryzen-5-2400g/"><u>Effortless Download & Setup for the Latest Graphics Drivers on Your AMD Ryzen 5 2400G</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-repair-and-update-your-hp-monitor-driver-for-optimal-performance-on-windows-systems/"><u>How to Repair and Update Your HP Monitor Driver for Optimal Performance on Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-or-update-brother-mfc-j480dw-driver-software-compatible-with-windows-os/"><u>Install or Update Brother Mfc-J480dw Driver Software - Compatible with Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/konica-minolta-windows-111087-printer-driver-download-step-by-step-guide/"><u>Konica Minolta Windows 11/10/8/7 Printer Driver Download: Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-asus-vg248qe-graphics-card-drivers-for-windows-free-and-fast-downloads/"><u>Latest Asus VG248QE Graphics Card Drivers for Windows: Free and Fast Downloads</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/premier-5-time-lapse-camera-apps-for-2024/"><u>Premier 5 Time-Lapse Camera Apps for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/scarlett-solo-driver-windows-download-improve-your-audio-quality/"><u>Scarlett Solo Driver Windows Download - Improve Your Audio Quality</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/the-complete-blueprint-integrating-real-time-video-on-sites-for-2024/"><u>The Complete Blueprint Integrating Real-Time Video on Sites for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-airpods-pro-gear-and-cases-ultimate-guide-2023-techradar/"><u>Top Rated AirPods Pro Gear & Cases - Ultimate Guide 2023 | TechRadar</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-motorola-moto-g24-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Motorola Moto G24 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-crafting-instagram-magic-with-professional-edits/"><u>[New] In 2024, Crafting Instagram Magic with Professional Edits</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-direct-engagement-syncing-instagram-with-facebook-for-2024/"><u>[Updated] Direct Engagement Syncing Instagram with Facebook for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-high-quality-audio-collections-a-youtube-creators-guidebook/"><u>[Updated] High-Quality Audio Collections A YouTube Creator's Guidebook</u></a></li>
+<li><a href="https://blog-min.techidaily.com/128kbps-mp3/"><u>高音質128kbps MP3への変換ガイド</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/a-guide-to-profitable-animated-fb-advertising-techniques-for-2024/"><u>A Guide to Profitable, Animated FB Advertising Techniques for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/blackout-blitz-a-moments-work-for-2024/"><u>Blackout Blitz A Moment's Work for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975875418-boosting-gaming-and-work-fast-track-to-updating-your-intel-iris-plus-gpu-drivers/"><u>Boosting Gaming & Work – Fast Track to Updating Your Intel Iris Plus GPU Drivers!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974686922-download-the-free-qualcomm-atheros-ar938x-drivers-without-hassle/"><u>Download the Free Qualcomm Atheros AR938X Drivers Without Hassle!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969418987-effortless-hp-driver-downloads-and-setup-get-started-today/"><u>Effortless HP Driver Downloads and Setup - Get Started Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-install-download-hp-officejet-5740-printer-drivers/"><u>Effortless Install: [DOWNLOAD] HP OfficeJet 5740 Printer Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-audio-experience-on-windows-11-10-and-81-with-the-latest-dolby-driver-updates-free/"><u>Enhance Your Audio Experience on Windows 11, 10 & 8.1 with the Latest Dolby Driver Updates - Free!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-nvidia-gpu-drivers-for-rtx-1650-super-running-on-windows-os/"><u>Get the Newest NVIDIA GPU Drivers for RTX™ 1650 SUPER Running on Windows OS</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-efficiently-manage-and-update-microsoft-drivers-in-windows-10-8-and-earlier-editions/"><u>How to Efficiently Manage and Update Microsoft Drivers in Windows 10, 8, and Earlier Editions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-lenovo-thunderbolt-3-portable-hub-firmware/"><u>How to Update Your Lenovo Thunderbolt 3 Portable Hub Firmware</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-zte-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your ZTE</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/form-your-short-form-video-content-top-strategies-revealed/"><u>Transform Your Short-Form Video Content - Top Strategies Revealed</u></a></li>
 </ul></div>
 

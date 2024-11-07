@@ -1,7 +1,7 @@
 ---
 title: "Manufacturing Typo Causes Potential Shift in AMD's Ryzen 90E Launch Calendar: Emergence of Unplanned Ryzen 7 Component"
-date: 2024-09-05T19:54:59.188Z
-updated: 2024-09-06T19:54:59.188Z
+date: 2024-11-03T16:13:55.476Z
+updated: 2024-11-07T16:20:02.769Z
 tags:
   - cpu
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/4fe1c562a7e3ab45c8b1f68d5fb5d836545aa73283e591a5a7261febdc4cbc2c.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unlock the Full Potential of Your AMD Ryzen 7 #9700X: Overclocked to an Impressive 5.8 GHz Using High-Performance Liquid Cooling, Achieving a 6 GHz Milestone at Idle
 
 Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and the new[Ryzen 7 9700X](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-9600x-cpu-review) , which rivals the[best CPUs](https://www.tomshardware.com/reviews/best-cpus,3986.html) . Professional overclocker Skatterbencher has already figured out how to push the 9700X to 5.8 GHz in single-core workloads. Skatterbencher published a[highly in-depth overclocking tutorial](https://skatterbencher.com/2024/08/07/skatterbencher-78-ryzen-7-9700x-overclocked-to-5860-mhz/) showcasing the feat. But he's not done yet. The overclocker also revealed that he successfully hit 6 GHz on the 9700X with traditional AIO liquid cooling.
@@ -29,12 +23,6 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  Ryzen 7 9700X Undervolt & Overclock to 5860 MHz | SkatterBencher #78 - YouTube ![Ryzen 7 9700X Undervolt & Overclock to 5860 MHz | SkatterBencher #78 - YouTube](https://img.youtube.com/vi/3GV7q6CV7GY/maxresdefault.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Watch On](https://youtu.be/3GV7q6CV7GY)
 
  To get the core(s) to boost up to that frequency, SkatterBencher used a combination of AMD's Curve Optimizer and Curve Shaper to undervolt the CPU and enable PBO2, which increases the amount of power the CPU can consume. Undervolting on Ryzen CPUs gives them more headroom, allowing them to hit higher frequencies without running into other limitations such as voltage, power, or thermal limits.
@@ -43,18 +31,6 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  With all these technologies working in tandem, the overclocker achieved an idle frequency of 5.86 GHz. In stress testing, the maximum single-thread clock speed was 5.758 GHz, with a maximum multi-core frequency of 5.454 GHz operating at 95.2 degrees Celsius at a package power of 172.1 watts.
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -65,14 +41,11 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  SkatterBencher's 5.8 GHz and 6 GHz overclocks represent the highest on the new 9700X. Der8auer and Overclocking.com showcased their respective overclocks on the 9700X but could only eke out 5.4G Hz. The main difference was that both outlets did manual overclocks, whereas SkatterBencher used AMD's plethora of overclocking tools, enabling them to hit higher frequencies.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -81,4 +54,27 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-unveiling-the-secrets-of-facebook-lives-dual-display/"><u>[Updated] 2024 Approved Unveiling the Secrets of Facebook Live's Dual Display</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-cutting-edge-methods-to-reduce-youtube-video-size/"><u>[Updated] In 2024, Cutting-Edge Methods to Reduce YouTube Video Size</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-exclusive-list-of-leading-free-video-editing-programs/"><u>[Updated] In 2024, Exclusive List of Leading Free Video Editing Programs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-leading-productivity-laptop-thats-not-from-lenovo-or-apple-exclusive-review/"><u>Discover the Leading Productivity Laptop That's Not From Lenovo or Apple: Exclusive Review</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-xs-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone XS Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/mastering-timeline-controls-a-step-by-step-tutorial-for-changing-fps-values-in-davinci-resolve/"><u>Mastering Timeline Controls: A Step-by-Step Tutorial for Changing FPS Values in DaVinci Resolve</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/picking-perfect-portability-or-power-macbook-air-versus-macbook-pro-find-your-ideal-apple-device-zdnet/"><u>Picking Perfect Portability or Power: MacBook Air Versus MacBook Pro – Find Your Ideal Apple Device | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/prime-day-countdown-unbeatable-deals-and-tips-to-score-on-amazons-shopping-fiesta-zdnet-analysis/"><u>Prime Day Countdown: Unbeatable Deals & Tips to Score on Amazon's Shopping Fiesta | ZDNET Analysis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-werfuelexe-malfunction-top-6-strategies-for-windows-users/"><u>Resolving the 'werfuel.exe' Malfunction: Top 6 Strategies for Windows Users</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782762-9781620551592-the-secret-life-of-lady-liberty/"><u>The Secret Life of Lady Liberty | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-picks-for-gaming-laptop-powerhouses-comparing-razer-acer-and-msi-on-zdnet/"><u>Top Picks for Gaming Laptop Powerhouses - Comparing Razer, Acer & MSI on ZDNet</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

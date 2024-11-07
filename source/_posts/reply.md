@@ -1,7 +1,7 @@
 ---
 title: Reply
-date: 2024-10-30T22:18:20.227Z
-updated: 2024-11-01T19:14:00.645Z
+date: 2024-11-06T16:47:23.952Z
+updated: 2024-11-07T16:02:02.042Z
 tags:
   - laptops
 categories:
@@ -95,13 +95,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Low-Blue-Processor-Ethernet-Bluetooth%2Fdp%2FB0CVN88CFX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C93628f7b-a009-4bc9-b640-f130cd1466b3%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Alternative laptop deals
 
 ### Amazon laptop deals
@@ -140,6 +133,13 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [ASUS Zenbook 14-inch OLED touchscreen laptop deal for $1,300 (save $200) $1,300 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-zenbook-14-120hz-oled-touch-laptop-evo-intel-13-gen-core-i9-with-32gb-memory-nvidia-geforece-rtx-3050-1tb-ssd-gray%2F6548463.p%3FskuId%3D6548463&publisher_slug=itechdaily19598&exclusive=1)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Apple MacBook deals
 
 [Apple MacBook Air, 15-inch, M2 chip, 1TB deal for $1,599 (save $300) $1,599 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-macbook-air-15-laptop-m2-chip-16gb-memory-1tb-ssd-midnight%2F6382794.p%3FskuId%3D6382794&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -174,21 +174,28 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Do I need a gaming laptop or a "regular" laptop?
 
 Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular laptop with high specs, but content creators or those who work with heavy editing software should opt for a designer's laptop or a gaming laptop. Not because, of course, you want to have the best gaming specs on the side, but because those laptops come with powerful CPUs, GPUs, and high RAM to handle the heavy requirements that software needs.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much should I pay for a good laptop?
 
@@ -196,16 +203,16 @@ When you're considering your budget for a new laptop, you have to consider what 
 
 If you're a gamer who needs a high-spec laptop with a decent graphics card, top-of-the-range display and high refresh rate, you should expect to pay more than $500 - $600 -- and potentially beyond $1,000\. However, if you need a laptop for basic tasks, studying, and streaming, you can easily get away with a basic laptop for a few hundred dollars. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best deals by retailer
 
@@ -213,13 +220,6 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Apple deals](https://www.zdnet.com/article/apple-deals/)
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best deals by category
 
@@ -271,22 +271,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-beyondbasics-the-futurepost-mycam-cameras-for-2024/"><u>[New] BeyondBasics The FuturePost-MyCam Cameras for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-diving-deep-into-your-twitter-archive/"><u>[New] Diving Deep Into Your Twitter Archive</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1-massive-discount-on-asus-vivobook-pro-save-300-now-shop-smart-with-zdnets-exclusive-deal/"><u>1. Massive Discount on ASUS VivoBook Pro: Save $300 Now - Shop Smart with ZDNet's Exclusive Deal</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/editing-instagram-videos-on-windows-10-a-step-by-step-guide-using-the-advanced-winx-hd-video-converter/"><u>Editing Instagram Videos on Windows 10: A Step-by-Step Guide Using the Advanced WinX HD Video Converter</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/game-on-with-lenovo-ideapad-gaming-chromebook-decoding-the-impact-of-hardware-on-enhanced-cloud-gaming-experience-a-comprehensive-zdnet-review/"><u>Game On with Lenovo IdeaPad Gaming Chromebook: Decoding the Impact of Hardware on Enhanced Cloud Gaming Experience - A Comprehensive ZDNet Review</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-easy-process-extracting-youtube-media-directly/"><u>In 2024, Easy Process Extracting YouTube Media Directly</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-optimizing-data-preservation-top-5-cloud-storage-providers/"><u>In 2024, Optimizing Data Preservation Top 5 Cloud Storage Providers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/innovative-blend-of-laptop-and-tablet-our-review-of-the-cleverest-device-by-lenovo-on-zdnet/"><u>Innovative Blend of Laptop and Tablet: Our Review of the Cleverest Device by Lenovo on ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-the-web-with-ease-using-ms-edge-gestures-windows-11/"><u>Navigate the Web with Ease Using MS Edge Gestures (Windows 11)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-photos-during-transfer-from-iphone-11-pro-to-pc-or-mac-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Lost Photos during Transfer from iPhone 11 Pro to PC or Mac | Stellar</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revolutionize-your-viewing-no-vrar-needed-to-appreciate-3d-art-with-new-asus-laptops-a-zdnet-exploration/"><u>Revolutionize Your Viewing: No VR/AR Needed to Appreciate 3D Art with New Asus Laptops – A ZDNET Exploration</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-showdown-where-lgs-new-gram-pro-laptops-surpass-the-macbook-air-zdnet/"><u>The Ultimate Showdown: Where LG's New Gram Pro Laptops Surpass the MacBook Air | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-16-technology-presents-available-at-walmart-insights-from-zdnet/"><u>Top 16 Technology Presents Available at Walmart - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-black-friday-2022-dates-and-hunt-down-top-bargains-insights-from-zdnet/"><u>Unlocking Black Friday 2022 Dates & Hunt Down Top Bargains – Insights From ZDNet!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-samsung-galaxy-chromebook-an-in-depth-review-and-why-its-a-top-bargain-for-windows-users-insights-from-zdnet/"><u>Unveiling Samsung Galaxy Chromebook: An In-Depth Review & Why It's a Top Bargain for Windows Users - Insights From ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-faster-footage-in-powerpoint-filters/"><u>[Updated] Faster Footage in PowerPoint Filters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-quality-sky-images-leading-sites-listed/"><u>[Updated] High-Quality Sky Images Leading Sites Listed</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-discover-the-7-most-wanted-apps-to-boost-your-youtube-live-quality/"><u>[Updated] In 2024, Discover the 7 Most Wanted Apps to Boost Your YouTube LIVE Quality</u></a></li>
+<li><a href="https://network-issues.techidaily.com/configuration-retention-display-saving-complete/"><u>Configuration Retention: Display Saving Complete</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-logitech-drivers-for-windows-fast-and-simple/"><u>Download Logitech Drivers for Windows - Fast and Simple</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-update-to-your-epson-wf-3520-compatible-windows-drivers-download/"><u>Easy Update to Your Epson WF-3520: Compatible Windows Drivers Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-download-get-your-latest-wireless-nic-drivers-now/"><u>Effortless Download: Get Your Latest Wireless NIC Drivers Now</u></a></li>
+<li><a href="https://win-guides.techidaily.com/emeditor-upgrades-master-text-management-using-mymacros-featuring-hierarchical-folder-support-and-comprehensive-macro-options/"><u>EmEditor Upgrades: Master Text Management Using MyMacros, Featuring Hierarchical Folder Support and Comprehensive Macro Options</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-features-and-functionality-in-apple-books-a-readers-perspective/"><u>Exploring Features and Functionality in Apple Books - A Reader's Perspective</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-samsung-galaxy-a05-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Samsung Galaxy A05 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/master-your-typing-experience-with-drop-cstm65-a-fully-customizable-mechanical-keyboard/"><u>Master Your Typing Experience with Drop CSTM65 - A Fully Customizable Mechanical Keyboard</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mastering-screenshots-on-windows/"><u>Mastering Screenshots on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-newest-hp-network-driver-software-on-windows-11-7-and-8-systems/"><u>Update to Newest HP Network Driver Software on Windows 11, 7, and 8 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-broadcom-bluetooth-device-drivers-for-windows-operating-systems-windows-1187/"><u>Updated Broadcom Bluetooth Device Drivers for Windows Operating Systems - Windows 11/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-compatible-logitech-hd-webcam-software-and-drivers-downloads/"><u>Windows Compatible Logitech HD Webcam Software and Drivers Downloads</u></a></li>
 </ul></div>
 

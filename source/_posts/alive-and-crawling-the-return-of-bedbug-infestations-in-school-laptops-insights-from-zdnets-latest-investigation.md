@@ -1,7 +1,7 @@
 ---
 title: "Alive and Crawling: The Return of Bedbug Infestations in School Laptops - Insights From ZDNet's Latest Investigation"
-date: 2024-10-31T20:48:45.220Z
-updated: 2024-11-01T20:46:43.097Z
+date: 2024-11-01T16:23:43.981Z
+updated: 2024-11-07T16:59:28.106Z
 tags:
   - laptops
 categories:
@@ -69,10 +69,10 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,19 +111,16 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-beyond-youtube-elite-video-sharing-hubs-revealed/"><u>[New] Beyond YouTube Elite Video Sharing Hubs Revealed</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-harmonic-highlights-the-right-song-for-your-ig-video-for-2024/"><u>[New] Harmonic Highlights The Right Song for Your IG Video for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-insightful-analysis-of-modifying-photographic-genders-on-social-platforms/"><u>[New] Insightful Analysis of Modifying Photographic Genders on Social Platforms</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-screen-recorder-pro-a-beginners-handbook-for-mac/"><u>[New] Screen Recorder Pro A Beginner's Handbook for Mac</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamlined-tactics-for-scrolling-through-popular-youtube-reactions/"><u>2024 Approved Streamlined Tactics for Scrolling Through Popular YouTube Reactions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/anticipating-the-arrival-of-apples-next-gen-macbook-air-and-ipads-by-march-what-you-need-to-know-exclusive-report-on-zdnet/"><u>Anticipating the Arrival of Apple's Next-Gen MacBook Air and iPads by March - What You Need to Know | Exclusive Report on ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/elevate-your-pcs-performance-with-this-hidden-laptop-perk-unleashing-untapped-potential/"><u>Elevate Your PC's Performance with This Hidden Laptop Perk - Unleashing Untapped Potential!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-vivo-y78-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo Y78 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/huge-savings-alert-secure-zdnets-favorite-laptops-for-50-off-on-amazon-pre-prime-day-sale/"><u>Huge Savings Alert: Secure ZDNet's Favorite Laptops for 50% Off on Amazon Pre Prime Day Sale!</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-meme-magic-unleashed-top-humorous-creations-for-the-metaverse-world/"><u>In 2024, Meme Magic Unleashed Top Humorous Creations for the Metaverse World</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/professional-grau-gmbh-hardware-and-software-fixes-for-seamless-video-recovery/"><u>Professional Grau GmbH Hardware & Software Fixes for Seamless Video Recovery</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unmissable-meta-quest-3-offer-512gb-storage-at-great-value-exclusive-october-sale-and-prime-day-savings-zdnet/"><u>Unmissable Meta Quest 3 Offer - 512GB Storage at Great Value! Exclusive October Sale & Prime Day Savings | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/work-meets-play-dell-unveils-a-game-changing-ultraportable-laptop-to-revolutionize-your-workday-and-after-hours-gaming-sessions/"><u>Work Meets Play: Dell Unveils a Game-Changing Ultraportable Laptop to Revolutionize Your Workday and After-Hours Gaming Sessions!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-concealed-chorus-capturers-6-discreet-audio-recorders-for-devices/"><u>[New] 2024 Approved Concealed Chorus Capturers 6 Discreet Audio Recorders for Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-unleash-potential-in-online-engagement-through-zoom-screenshares/"><u>[New] Unleash Potential in Online Engagement Through Zoom Screenshares</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-the-latest-hp-officejet-pro-8740-drivers-for-windows-11-10-and-8-compatible-versions/"><u>Find and Install the Latest HP Officejet Pro #8740 Drivers for Windows: 11, 10 & 8 Compatible Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-download-and-install-broadcom-wifi-drivers-with-these-simple-instructions/"><u>Find, Download, and Install Broadcom WiFi Drivers with These Simple Instructions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-intel-82579-chipset-drivers-for-free-fast-installation-guide/"><u>Get Intel 82579 Chipset Drivers for Free: Fast Installation Guide</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/navigating-the-housing-market-effective-strategies-for-online-property-exploration/"><u>Navigating the Housing Market: Effective Strategies for Online Property Exploration</u></a></li>
+<li><a href="https://review-topics.techidaily.com/poco-m6-5g-music-recovery-recover-deleted-music-from-poco-m6-5g-by-fonelab-android-recover-music/"><u>Poco M6 5G Music Recovery - Recover Deleted Music from Poco M6 5G</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/successful-installation-of-mouse-drivers-on-windows-7-step-by-step-guide/"><u>Successful Installation of Mouse Drivers on Windows 7: Step-by-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transformation-de-fichiers-hevc-en-mp4-garantir-une-haute-qualite-avec-le-detail/"><u>Transformation De Fichiers HEVC en MP4 : Garantir Une Haute Qualité Avec Le Détail !</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-graphics-card-rtx-2080-drivers-for-windows-1011-secure-installs-available-now/"><u>Update Your Graphics Card: RTX 2080 Drivers for Windows 10/11 - Secure Installs Available Now</u></a></li>
 </ul></div>
 

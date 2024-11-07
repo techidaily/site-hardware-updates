@@ -1,7 +1,7 @@
 ---
 title: Top Gaming Discounts on Prime Day Sale - October 2024 Edition | ZDNet
-date: 2024-10-31T17:20:03.203Z
-updated: 2024-11-01T21:59:49.553Z
+date: 2024-11-06T16:06:56.112Z
+updated: 2024-11-07T16:28:07.334Z
 tags:
   - laptops
 categories:
@@ -77,10 +77,10 @@ Microsoft's 2024 Surface Laptop is a fast, lightweight laptop with a fantastic b
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXKQYNPD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce97504a5-f34e-46c0-b253-965f68f29139%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best laptops for students
@@ -118,10 +118,10 @@ Kyle Kucharski/ZDNET
 * [HP 17-inch Touch Laptop](https://qvc.uikc.net/c/159047/565130/9368?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.qvc.com%2Fhp-17-touch-laptop-intel-n200-4gb-ram-128gb-ssd-w-hp-mouse-%2526-ms365.product.E324465.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for $479 (Save $80): For a large-screen laptop with touch capabilities, HP's 17-inch Touch comes in a variety of bold colorways, and is bundled with a mouse in this QVC deal. This is a solid choice for users who want a large screen to play media, but only need a basic hardware configuration.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best Buy laptop deals
@@ -142,22 +142,15 @@ Kyle Kucharski/ZDNET
 
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals before and after those days as well. 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Are laptops really cheaper on Prime Day?
 
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
@@ -171,6 +164,13 @@ When compiling the list of the best deals, we considered the following:
 * **Price**: Naturally, the price point of our recommended laptops has to include a worthwhile discount. While some discounts are small in relation to an overall price tag - for example, $30 off a $150 device - and other discounts are in the hundreds of dollars, we wanted to ensure that in any case, it's value for money.
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What are the best October Prime Day 2024 deals?
 
@@ -238,22 +238,24 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-closing-credits-creations-affordable-premium-and-more/"><u>[New] Closing Credits Creations Affordable, Premium & More</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-crafting-captivating-content-the-power-of-hashtagging-in-gaming-yt/"><u>[New] In 2024, Crafting Captivating Content The Power of Hashtagging in Gaming YT</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-jaunt-vr-uncovered-a-comprehensive-look/"><u>[New] Jaunt VR Uncovered A Comprehensive Look</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-sound-seekers-sanctuary-download-and-listen-to-songs/"><u>[Updated] In 2024, Sound Seeker's Sanctuary Download & Listen To Songs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1-exclusive-deals-save-on-iogear-notebook-gear-during-amazons-big-discount-event-insights/"><u>1. Exclusive Deals: Save on IOGEAR Notebook Gear During Amazon's Big Discount Event - Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/back-to-school-bargains-await-unveiling-samsungs-student-deals-on-laptops-and-tablets-spotted/"><u>Back-to-School Bargains Await! Unveiling Samsung's Student Deals on Laptops & Tablets, Spotted</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dive-into-the-best-deals-of-octobers-prime-shopping-event-must-have-discounts-still-up-for-grabs-cnet-insights/"><u>Dive Into the Best Deals of October's Prime Shopping Event: Must-Have Discounts Still Up for Grabs | CNET Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-release-discover-the-enhanced-features-of-samsungs-latest-copilotplus-computer-now-powered-by-advanced-ai-technology/"><u>Exclusive Release: Discover the Enhanced Features of Samsung's Latest Copilot+ Computer, Now Powered by Advanced AI Technology</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-versatility-a-comprehensive-review-of-microsofts-surface-pro-and-laptop-is-it-time-for-a-switch-from-my-macbook-zdnet/"><u>Exploring the Versatility: A Comprehensive Review of Microsoft's Surface Pro and Laptop – Is It Time for a Switch From My MacBook? | ZDNET</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/external-hard-drives-for-mac/"><u>External Hard Drives for Mac</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-googles-chromebook-plus-with-advanced-ai-capabilities-poses-serious-competition-to-windows-copilot-insights-and-impact-tech-news-by-zdnet/"><u>How Google's Chromebook Plus with Advanced AI Capabilities Poses Serious Competition to Windows Copilot: Insights and Impact | Tech News by ZDNet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-oppo-a78-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Oppo A78 without App | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/microsoft-surface-revelations-breakdown-of-new-innovations-and-specs-the-verge-report/"><u>Microsoft Surface Revelations: Breakdown of New Innovations and Specs – The Verge Report</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-mac-video-editing-made-easy-download-splice-now-for-2024/"><u>New Mac Video Editing Made Easy Download Splice Now for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/prime-day-prep-unveiling-the-ultimate-best-buy-offers-tips-and-tricks-by-zdnet/"><u>Prime Day Prep: Unveiling the Ultimate Best Buy Offers – Tips & Tricks by ZDNET</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unboxing-and-testing-the-latest-samsung-galaxy-budsplus-wireless-earphones/"><u>Unboxing & Testing the Latest Samsung Galaxy Buds+ Wireless Earphones</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-inspiration-tales-of-overcoming-challenges-for-2024/"><u>Youth Inspiration Tales of Overcoming Challenges for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-narrative-nexus-honor-roll-hindsight/"><u>[New] 2024 Approved Narrative Nexus – Honor Roll Hindsight</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ideal-interactive-interface-for-podcasters/"><u>[New] Ideal Interactive Interface for Podcasters</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-streamlining-and-organizing-your-itunes-video-files/"><u>[New] Streamlining and Organizing Your iTunes Video Files</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-agriculture-amalgamations-best-friendly-farmers-game-roster/"><u>2024 Approved Agriculture Amalgamations Best Friendly Farmer's Game Roster</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-vega-64-driver-downloads-and-updates-for-windows-easy-installation/"><u>AMD Radeon Vega 64 Driver Downloads & Updates for Windows – Easy Installation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-mousepad-software-upgrade-free-download-for-windows-operating-systems/"><u>ASUS Mousepad Software Upgrade – Free Download for Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-compatible-driver-software-for-brother-hl-l2340dw-and-windows-os/"><u>Easy Setup: Compatible Driver Software for Brother HL-L2340DW and Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortlessly-manage-your-windows-update-settings/"><u>Effortlessly Manage Your Windows Update Settings!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ring-8-superior-youtube-to-avi-software/"><u>Exploring 8 Superior YouTube-to-AVI Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-your-multiversus-issues-discover-the-ultimate-8-hacks/"><u>Fix Your MultiVersus Issues - Discover the Ultimate 8 Hacks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-laptop-drivers-download-installation-and-updates-tutorial-for-windows-os/"><u>HP Laptop Drivers: Download, Installation & Updates Tutorial for Windows OS</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-f04-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Samsung Galaxy F04 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/infinite-inspiration-cost-free-youtube-theming-for-2024/"><u>Infinite Inspiration Cost-Free YouTube Theming for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installation-guide-canon-mp280mg2800-printer-drivers-on-windows-operating-systems/"><u>Installation Guide: Canon MP280/MG2800 Printer Drivers on Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-updates-available-for-canon-mg3000-printing-software-download/"><u>Latest Updates Available for Canon MG3000 Printing Software Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/offline-driver-setup-for-windows-systems-no-internet-required/"><u>Offline Driver Setup for Windows Systems - No Internet Required!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-guide-steelseries-driver-installation-on-windows/"><u>Quick and Easy Guide: SteelSeries Driver Installation on Windows</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/top-10-free-youtube-subtitle-extractors-and-downloaders/"><u>Top 10 Free YouTube Subtitle Extractors & Downloaders</u></a></li>
+<li><a href="https://win-news.techidaily.com/1728494844420-windows-11/"><u>Windows 11 ファイル履歴: '要素が見つからない' エラー解消し方</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Key Highlights From Microsoft's Latest Surface Unveil: An Inside Look - Tech News"
-date: 2024-10-26T18:41:27.296Z
-updated: 2024-11-01T20:52:20.349Z
+date: 2024-10-31T16:18:26.823Z
+updated: 2024-11-07T16:18:22.105Z
 tags:
   - laptops
 categories:
@@ -37,6 +37,13 @@ Here's everything that the company announced during its October event.
 
 **Also: [How did Microsoft manage to get it right with Surface?](https://www.zdnet.com/article/how-did-microsoft-manage-to-get-it-right-with-surface/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Surface Laptop 5 gets a splash of color
 
 Microsoft Surface Laptop 5 in Sage.
@@ -54,10 +61,16 @@ What's different about the new Surface Laptop starts with the 12th-generation In
 The Surface Laptop 5 will be available in select markets beginning on Oct. 25 with a [starting price of $999](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?) for the i5, 8GB of RAM, and 256GB model. The laptop will be available in classic Platinum, Black, and Sandstone colorways, as well as a new leafy "Sage" option. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Goodbye Surface Pro X, hello Surface Pro 9
@@ -78,13 +91,6 @@ Not-so-big news: The rest is a standard Surface Pro affair; 2-in-1 design with a
 
 As far as pricing goes, the Intel-based Surface Pro 9 starts at [$999](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (i5, 8GB RAM, 128GB), and the ARM-based model starts at [$1,299](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (SQ3, 8GB RAM, 128GB). The former comes in Platinum, Graphite, Forest, and Sapphire, while the latter only comes in Platinum. Preorders start today. 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The aptly-named Surface Studio 2+
 
 The Surface Studio 2+ looks nearly identical to the Surface Studio 2.
@@ -100,10 +106,10 @@ For all the performance gains that you're getting, Microsoft is making you pay t
 [Buy the Surface Studio 2+ View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Studio-2/8VLFQC3597K4?)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Presenter+ and Audio Dock
@@ -119,10 +125,16 @@ Releasing alongside the new Surface products are the Microsoft Presenter+ and Mi
 The Microsoft Audio Dock is both a docking station with four ports (HDMI, 2x USB-C, and USB-A) and a speaker for audio input and output. For $249, which is not cheap for either of its two functions, Microsoft promises "premium sound" and noise-reducing microphones that will help you "be heard clearly in your next online meeting."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Designer takes on Canva
@@ -171,20 +183,16 @@ Microsoft officials say that Designer is targeted at consumers more than anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-shorts-fix-completed-no-more-anxiety/"><u>[New] 2024 Approved Shorts Fix Completed – No More Anxiety</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-pinnacle-programs-for-peak-webcam-video-quality/"><u>[New] In 2024, Pinnacle Programs for Peak Webcam Video Quality</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-navigating-networked-video-streams-with-precision-using-vlc/"><u>[New] Navigating Networked Video Streams with Precision Using VLC</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-direct-capture-tool-for-chrome-systems/"><u>[Updated] In 2024, Direct Capture Tool for Chrome Systems</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-master-2-screen-grab-tools/"><u>[Updated] In 2024, Master 2 Screen Grab Tools</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/15-pioneering-youtube-tutorials-for-flawless-product-reviews-for-2024/"><u>15 Pioneering YouTube Tutorials for Flawless Product Reviews for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-unmatched-performance-with-nvidias-newest-studio-notebook-lineup-featuring-cutting-edge-high-speed-graphics-processing-units-tech-news/"><u>Experience Unmatched Performance with Nvidia's Newest Studio Notebook Lineup Featuring Cutting-Edge, High-Speed Graphics Processing Units | Tech News</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximize-connectivity-ultimate-guide-to-expanding-port-options-on-macbook-and-ipad-pro-tips-from-zdnet/"><u>Maximize Connectivity: Ultimate Guide to Expanding Port Options on MacBook & iPad Pro - Tips From ZDNet</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/navigating-the-art-of-360-live-on-facebook/"><u>Navigating the Art of 360 Live on Facebook</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/on-the-go-charging-solutions-one-small-car-adapter-powers-your-laptop-tablet-and-smartphone/"><u>On-The-Go Charging Solutions: One Small Car Adapter Powers Your Laptop, Tablet & Smartphone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-your-dual-graphics-powerhouse-the-hp-victus-15-laptop-for-a-steal-at-only-515-during-the-best-buy-prime-deals-event-zdnet-insights/"><u>Secure Your Dual Graphics Powerhouse: The HP Victus #15 Laptop for a Steal at Only $515 During the Best Buy Prime Deals Event | ZDNet Insights</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/textual-brilliance-in-media-exploring-the-best-effects/"><u>Textual Brilliance in Media Exploring the Best Effects</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-affordable-windows-laptop-picks-comparing-brands-like-acer-and-dell-expert-review/"><u>Top Affordable Windows Laptop Picks: Comparing Brands Like Acer & Dell - Expert Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unboxing-the-apple-m3-macbook-air-the-three-key-improvements-that-impressed-us-most/"><u>Unboxing the Apple M3 MacBook Air: The Three Key Improvements That Impressed Us Most</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unmatched-screen-quality-in-an-ultra-portable-laptop-at-great-discount-prices-exclusive-review-by-zdnet/"><u>Unmatched Screen Quality in an Ultra-Portable Laptop at Great Discount Prices – Exclusive Review by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/warning-known-issues-with-graphics-driver-how-to-fix/"><u>'Warning: Known Issues with Graphics Driver' | How to Fix</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-quest-for-perfect-playback-aps4-capturing-essentials-for-enthusiasts/"><u>[Updated] In 2024, The Quest for Perfect Playback APS4 Capturing Essentials for Enthusiasts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-saving-youtube-videos-a-legal-overview/"><u>2024 Approved Saving YouTube Videos A Legal Overview</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-vivo-t2x-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Vivo T2x 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-mouse-drivers-on-windows-7-a-comprehensive-solution/"><u>Download & Install Mouse Drivers on Windows 7: A Comprehensive Solution</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/explore-creativity-best-drawing-software-for-ipados-for-2024/"><u>Explore Creativity Best Drawing Software for iPadOS for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-officejet-pro-9015-drivers-download-now/"><u>Get the Latest HP OfficeJet Pro 9015 Drivers - Download Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-new-update-how-to-install-canoscan-lide-220-drivers-for-optimal-performance/"><u>Get the New Update: How to Install CanoScan LiDE 220 Drivers for Optimal Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-updated-epson-wf-352nwf-3540-driver-software-for-your-windows-pc-now/"><u>Get the Updated Epson WF 352N/WF 3540 Driver Software for Your Windows PC Now</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-fix-handbrake-malfunctions-in-windows-10-or-11-effective-tips-and-alternatives/"><u>How to Fix Handbrake Malfunctions in Windows 10 or 11: Effective Tips & Alternatives</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unleash-virtual-reality-to-the-fullest-with-htc-vive-review-for-2024/"><u>Unleash Virtual Reality to the Fullest with HTC Vive Review for 2024</u></a></li>
 </ul></div>
 

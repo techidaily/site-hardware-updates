@@ -1,7 +1,7 @@
 ---
 title: "Workflow Game Changer: My Experience with Lenovo's Innovative Dual-Screen Laptop Features, as Reviewed"
-date: 2024-10-29T20:21:34.950Z
-updated: 2024-11-01T18:19:14.298Z
+date: 2024-11-02T16:49:53.326Z
+updated: 2024-11-07T16:31:50.101Z
 tags:
   - laptops
 categories:
@@ -40,19 +40,6 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Specifications (as reviewed)
 
 | Dimensions            | 11.78 x 8.03 x 0.63 inches                                                                                                                                                                                                                                                                            |
@@ -68,10 +55,10 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
@@ -95,10 +82,10 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How does it perform?
@@ -121,13 +108,6 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Evaluating Lenovo's dual-screen software
 
 With such unique hardware, Lenovo had to build unique software for Windows 11 so that it behaves properly and gives you extra functionality.
@@ -148,6 +128,13 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## One thing to keep in mind
 
 Having a laptop with two screens means you'll have to lug around a separate keyboard, mouse, and kickstand, all three of which (plus a stylus) come in the box. It's a lot of separate things you have to remember to bring, and I'm going to be honest with you, it can be inconvenient.
@@ -157,6 +144,13 @@ Max Buondonno/ZDNET
 When I'm working on my MacBook or -- quite frankly -- any other laptop in my arsenal, all I have to do is close the lid and load it into my backpack when I'm finished. With the Yoga Book 9i, I have to close the laptop > collapse the kickstand > place the keyboard inside the collapsed kickstand > stack the keyboard/kickstand combo, mouse, and stylus on top of the laptop > shove it all in my bag and pray I can find it later when it's time to go back to work.
 
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -196,20 +190,22 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-record-to-remember-top-5-best-tools-for-virtual-meeting-capture/"><u>[Updated] 2024 Approved Record to Remember Top 5 Best Tools for Virtual Meeting Capture</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-synthesizing-waterway-content-with-impact/"><u>[Updated] 2024 Approved Synthesizing Waterway Content with Impact</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-buys-prime-day-exclusive-save-on-hp-victus-aentipram-offer-at-450-gaming-laptop-steals/"><u>Best Buy's Prime Day Exclusive: Save on HP Victus ˈæntiːpraɪmデイ Offer at $450 - Gaming Laptop Steals!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/de-jelling-drone-mobility-captures/"><u>De-Jelling Drone Mobility Captures</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/diversify-your-finances-in-forex-markets-a-guide-to-assembling-robust-portfolios-using-trade-copier-on-metatrader-4-and-5/"><u>Diversify Your Finances in Forex Markets - A Guide to Assembling Robust Portfolios Using Trade Copier on MetaTrader 4 & 5</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/diy-electronics-repair-how-apples-new-self-service-program-empowers-users-to-fix-broken-iphones-and-macbooks-at-home/"><u>DIY Electronics Repair: How Apple's New Self-Service Program Empowers Users to Fix Broken iPhones and MacBooks at Home</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-gaming-with-hps-new-price-drop-the-victus-15-laptop-for-only-530-at-best-buy-revealed-by-zdnet/"><u>Get Gaming with HP's New Price Drop: The Victus 15 Laptop for Only $530 at Best Buy, Revealed by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-this-ultra-light-laptop-outshone-my-expectations-making-macbook-air-a-forgotten-memory/"><u>How This Ultra-Light Laptop Outshone My Expectations, Making MacBook Air a Forgotten Memory</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-iphone-14-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your iPhone 14 Pro Max and iPad</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-a05-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy A05 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Realme C55? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/my-heartfelt-journey-using-apples-latest-m2-macbook-air-unveiled-at-zdnet/"><u>My Heartfelt Journey Using Apple's Latest M2 MacBook Air, Unveiled at ZDNet</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-top-5-online-stop-motion-animation-tools-free-and-paid-options/"><u>New Top 5 Online Stop Motion Animation Tools Free and Paid Options</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revitalizing-vision-pro-requires-apples-strategic-move-in-three-essential-areas-zdnet-insight/"><u>Revitalizing Vision Pro Requires Apple's Strategic Move in Three Essential Areas | ZDNet Insight</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-samsungs-latest-offer-the-ultimate-guide-to-copilotplus-top-windows-laptop-bargain-on-zdnet/"><u>Unveiling Samsung's Latest Offer: The Ultimate Guide to Copilot+ - Top Windows Laptop Bargain on ZDNet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-streamlined-process-altering-video-direction-in-vlc/"><u>[New] In 2024, Streamlined Process Altering Video Direction in VLC</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-insiders-choice-the-best-fb-video-tools/"><u>[New] Insider's Choice The Best FB Video Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-penning-engaging-vlogger-scripts/"><u>[Updated] Expert Tips for Penning Engaging Vlogger Scripts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-essential-checklist-for-creating-stellar-titles/"><u>[Updated] In 2024, The Essential Checklist for Creating Stellar Titles</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-brother-ql-7800nw-printer-driver-for-free-today/"><u>Download the Brother QL-7800NW Printer Driver for Free Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-fixes-for-logitech-c615-mouse-driver-errors-a-comprehensive-guide/"><u>Effortless Fixes for Logitech C615 Mouse Driver Errors - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tutorial-on-upgrading-and-downloading-hp-laserjet-p3015-printer-software-for-windows-machines/"><u>Expert Tutorial on Upgrading and Downloading HP LaserJet P3015 Printer Software for Windows Machines</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-software-upgrades-for-your-hp-2540-all-in-one-printer/"><u>Get the Latest Software Upgrades for Your HP 2540 All-in-One Printer</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-navigating-new-skies-with-syma-x5c-an-experts-take-for-novices/"><u>In 2024, Navigating New Skies with Syma X5C – An Expert’s Take for Novices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-the-latest-logitech-c52eb-pc-webcam-drivers-for-optimal-performance-in-windows/"><u>Installing the Latest Logitech C52eb PC Webcam Drivers for Optimal Performance in Windows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/iphone-video-tips-trim-to-size-with-precision-cutting-for-2024/"><u>IPhone Video Tips Trim to Size with Precision Cutting for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/newest-software-upgrades-for-hp-p1606dn-laser-jet-free-driver-installation-guide/"><u>Newest Software Upgrades for HP P1606DN Laser Jet - Free Driver Installation Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-shockwave-flash-crashes-tips-for-google-chrome-users/"><u>Overcoming Shockwave Flash Crashes: Tips for Google Chrome Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolve-your-asus-pce-ac56-driver-problems-in-windows-windows-1087/"><u>Resolve Your ASUS PCE-AC56 Driver Problems in Windows (Windows 10/8/7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-integration-updating-the-software-interface-for-your-serial-to-usb-adapter/"><u>Seamless Integration: Updating the Software Interface for Your Serial-to-USB Adapter</u></a></li>
 </ul></div>
 

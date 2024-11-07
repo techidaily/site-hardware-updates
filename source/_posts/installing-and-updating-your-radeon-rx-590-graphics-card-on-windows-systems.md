@@ -1,7 +1,7 @@
 ---
 title: Installing and Updating Your Radeon RX 590 Graphics Card on Windows Systems
-date: 2024-09-01T05:49:10.309Z
-updated: 2024-09-02T05:49:10.309Z
+date: 2024-11-03T16:12:39.687Z
+updated: 2024-11-07T16:35:11.881Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ OR
 
  It’s always easy and time-saving to update your device drivers with Driver Easy. If you’re familiar with computer hardware, you could also try the manual method below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 2 – Download and install the driver manually
 
  AMD keeps updating its GPU drivers for general improvements, bug fixes and compatibility with the latest games like Cyberpunk 2077 and CoD Black Ops Cold War. To get them manually, simply follow the instruction below:
@@ -56,8 +63,23 @@ OR
 2. Scroll to the search section. Then, select**Graphics** \>**AMD Radeon 6000 Series** \>**AMD Radeon 6900 Series** \>**AMD Radeon RX 6900 XT** , and click**Submit** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6900xt-1.jpg)
 3. Choose the correct operating system and click the**Download** button next to your desired driver.  
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6900xt-2.jpg)
 4. After the download finishes, double-click the file and follow the wizard to install the driver.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart your computer and test the powerhouse performance of AMD RX 6900 XT with an up-to-date driver.
 
@@ -75,8 +97,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,8 +104,19 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-making-memorable-impressions-with-fb-slideshow-features-for-2024/"><u>[New] Making Memorable Impressions with FB Slideshow Features for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-prime-video-picks-the-extreme-favorites-for-2024/"><u>[New] Prime Video Picks The Extreme Favorites for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-free-capture-precision-best-apps-for-windows-desktop-recording/"><u>[Updated] Free Capture Precision Best Apps for Windows Desktop Recording</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/bargain-hunters-gem-snag-a-30-discount-on-the-durable-anker-er-737-power-bank-deals-curated-by-zdnet/"><u>Bargain Hunter’s Gem: Snag a $30 Discount on the Durable Anker Er 737 Power Bank | Deals Curated by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-laptop-with-superior-performance-and-stunning-screen-quality-insights-from-zdnet-testing/"><u>Exploring the Laptop with Superior Performance and Stunning Screen Quality - Insights From ZDNet Testing</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/free-online-tool-transform-mp4-videos-into-mov-format-by-using-movavis-services/"><u>Free Online Tool: Transform MP4 Videos Into MOV Format by Using Movavi's Services</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-itel-a05s-by-fonelab-android-recover-video/"><u>How to recover old videos from your Itel A05s</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-lenovo-thinkphone-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Lenovo ThinkPhone online without jailbreak</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/is-this-lenovo-thinkpad-your-ideal-choice-for-an-unbeatable-ultra-portable-laptop-insights-from-zdnet/"><u>Is This Lenovo ThinkPad Your Ideal Choice for an Unbeatable Ultra-Portable Laptop? - Insights From ZDNet</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-unify-your-visuals-a-step-by-step-color-matching-tutorial-for-powerdirector-for-2024/"><u>New Unify Your Visuals A Step-by-Step Color Matching Tutorial for PowerDirector for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfecting-picture-in-picture-setup-with-youtube-on-ios/"><u>Perfecting Picture-in-Picture Setup with YouTube on iOS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/slash-the-price-secure-your-lenovo-business-laptop-before-prime-day-with-up-to-975-off-now-available-on-amazon/"><u>Slash the Price: Secure Your Lenovo Business Laptop Before Prime Day with Up to $975 Off – Now Available on Amazon</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

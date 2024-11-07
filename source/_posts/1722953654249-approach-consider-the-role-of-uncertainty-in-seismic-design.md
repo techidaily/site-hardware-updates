@@ -1,7 +1,7 @@
 ---
 title: "Approach: Consider the Role of Uncertainty in Seismic Design"
-date: 2024-09-05T19:54:58.142Z
-updated: 2024-09-06T19:54:58.142Z
+date: 2024-11-03T16:03:39.057Z
+updated: 2024-11-07T16:38:34.416Z
 tags:
   - win11
   - win10
@@ -13,22 +13,10 @@ excerpt: "This Article Describes Approach: Consider the Role of Uncertainty in S
 thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3ba69f4885da8723ba49d2002.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Approach: Discuss the Concept of Multiple Load Paths
 
 It’s always important to **keep your GTX 1660 driver** up-to-date to make sure the graphics card is working in tip-top shape, prevent issues like low FPS, stuttering, or even crashes. In this post, we’re showing you 2 methods to download and install the latest **GTX 1660** **Ti driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## To update your GTX 1660 Ti driver
 
  There are two ways to**update your GTX 1660 Ti drivers in Windows 10, 8.1 and 7** :
@@ -40,11 +28,12 @@ OR
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Option 1 – Update GTX 1660 Ti drivers automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update your GTX 1660 Ti driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -59,17 +48,25 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-317.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-318.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2 – Update GTX 1660 Ti drivers manually
 
@@ -97,28 +94,23 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-326.png)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Click DOWNLOAD again to start the download.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-327.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  5) Double-click on the downloaded file and follow the on-screen instructions to finish the install.
 
  6) Restart your computer for the changes to take effect even if you’re not asked to.
@@ -137,8 +129,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +136,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-viral-vortex-a-guide-to-powerful-social-media-tags/"><u>[New] 2024 Approved Viral Vortex A Guide to Powerful Social Media Tags</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-secrecy-in-posts-how-to-oc/"><u>[New] In 2024, Secrecy in Posts How to Oc</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-architects-of-unique-virtual-environments/"><u>[Updated] 2024 Approved Architects of Unique Virtual Environments</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-ways-to-watch-facebook-live-on-tv/"><u>[Updated] 2024 Approved Ways To Watch Facebook Live On TV</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-make-videos-play-swiftly-for-2024/"><u>[Updated] Instagram Make Videos Play Swiftly for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazing-display-low-price-uncover-the-secrets-of-our-top-pick-for-best-value-lightweight-laptops/"><u>Amazing Display, Low Price: Uncover the Secrets of Our Top Pick for Best Value Lightweight Laptops</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazon-prime-day-oct-event-get-the-apple-m2-macbook-air-for-749-insider-info-and-bargains-s-latest-report/"><u>Amazon Prime Day Oct Event: Get the Apple M2 MacBook Air for $749 - Insider Info & Bargains ’S Latest Report</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elite-touchscreen-laptop-picks-in-depth-analysis-and-ratings-from-industry-specialists-zdnet/"><u>Elite Touchscreen Laptop Picks: In-Depth Analysis & Ratings From Industry Specialists | ZDNet</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/engineering-unique-tiktok-outro-animations-for-2024/"><u>Engineering Unique TikTok Outro Animations for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-avi-to-wav-transformation-online-effortless-audio-converting-by-movavi/"><u>Free AVI to WAV Transformation Online - Effortless Audio Converting by Movavi!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/full-disclosure-inside-djis-next-gen-drone-inspire-2-for-2024/"><u>Full Disclosure Inside DJI's Next Gen Drone - Inspire 2 for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-15-plus-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionize-your-workflow-with-a-single-charge-the-secret-power-function-in-a-versatile-12-in-1-thunderbolt-station-reviewed-by-zdnet/"><u>Revolutionize Your Workflow with a Single Charge: The Secret Power Function in a Versatile 12-in-1 Thunderbolt Station Reviewed by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-mechanical-keyboard-picks-zdnets-expert-roundup/"><u>Top Rated Mechanical Keyboard Picks – ZDNet's Expert Roundup</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-500-cyber-monday-computer-bargains-plus-a-steal-at-99-top-picks/"><u>Unbeatable $500 Cyber Monday Computer Bargains + A Steal at $99 - Top Picks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unmissable-black-friday-offer-save-big-on-hp-envy-x360-touchscreen-laptop-up-to-40-off-just-499-available-only-today/"><u>Unmissable Black Friday Offer! Save Big on HP Envy X360 Touchscreen Laptop - Up to 40% Off, Just $499 Available Only Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-googles-newly-enhanced-chrome-browser-faster-smarter-with-a-twist-explore-on-zdnet/"><u>Unveiling Google's Newly Enhanced Chrome Browser: Faster, Smarter (with a Twist) | Explore on ZDNet</u></a></li>
+</ul></div>
 

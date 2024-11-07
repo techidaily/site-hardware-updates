@@ -1,7 +1,7 @@
 ---
 title: "Unboxing & Testing the 2022 Upgraded Apple MacBook Air with M2 Chip: Enhanced Performance, Slimmer Build - But Is It Worth the Price Hike? | GadgetGurus"
-date: 2024-10-27T20:00:22.999Z
-updated: 2024-11-01T16:10:40.218Z
+date: 2024-11-03T16:43:17.505Z
+updated: 2024-11-07T16:47:46.062Z
 tags:
   - laptops
 categories:
@@ -49,10 +49,10 @@ The [new 2022 model](https://www.apple.com/shop/buy-mac/macbook-air/with-m2-chip
 Storage upgrades are equally expensive, costing an additional $200/£200 for 1TB, or $600/£600 for 2TB. There's one other option available too, as the standard 30W power adapter can be upgraded to a fast-charging 67W unit, or to a 35W adapter with two USB-C ports, with both options costing $20/£30\. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Design & features
@@ -72,10 +72,10 @@ The magnetic MagSafe power connector has returned to the MacBook Air, alongside 
 Image: Cliff Joseph / ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Performance & battery life
@@ -91,10 +91,10 @@ You are paying for that extra performance, of course, so the M1 version of the M
 [Apple MacBook Air (M2, 2022) View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2Fwith-m2-chip&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusions
@@ -137,10 +137,10 @@ Image: Apple
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -184,16 +184,18 @@ Image: Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-decoding-metaverse-and-multimetase-distinctions-expert-perspective-for-2024/"><u>[New] Decoding Metaverse & Multimetase Distinctions (Expert Perspective) for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-recommended-6-online-apps-to-delete-background-perfectly/"><u>[New] Expert-Recommended 6 Online Apps to Delete Background Perfectly</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-closing-with-panache-free-youtubes-1-six/"><u>2024 Approved Closing with Panache Free YouTube's #1 Six!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-bargains-on-amazon-for-octoprime-2024-exclusive-deals-that-are-still-going-on-techradar/"><u>Best Bargains on Amazon for OctoPrime 2024 - Exclusive Deals That Are Still Going On! | TechRadar</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/capturing-conversations-on-messenger-a-comprehensive-how-to/"><u>Capturing Conversations on Messenger A Comprehensive How-To</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-ultimate-work-travel-tablet-a-leading-contender-beyond-microsoft-and-lenovo-revealed-in-our-in-depth-analysis-zdnet-tech-news/"><u>Discover the Ultimate Work Travel Tablet: A Leading Contender Beyond Microsoft and Lenovo Revealed in Our In-Depth Analysis | ZDNet Tech News</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-xiaomi-redmi-k70-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Xiaomi Redmi K70 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-retain-and-protect-your-chatgpt-dialogues/"><u>How to Retain and Protect Your ChatGPT Dialogues</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/score-big-with-last-chance-savings-top-38-must-have-costco-cyber-monday-offers-for-electronics/"><u>Score Big with Last Chance Savings: Top 38 Must-Have Costco Cyber Monday Offers for Electronics</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-apple-savings-and-offers-in-july-2024-iphone-discounts-apple-watch-bargains-affordable-ipad-deals-find-them-all-on-zdnet/"><u>Top Apple Savings & Offers in July 2024: IPhone Discounts, Apple Watch Bargains, Affordable iPad Deals – Find Them All on ZDNet!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleashing-the-power-of-high-end-pcs-my-experience-with-dells-3000-beast-insights-for-gamers-zdnet/"><u>Unleashing the Power of High-End PCs: My Experience with Dell's $3,000 Beast - Insights for Gamers | ZDNET</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/arnessing-youtubes-power-for-profit-mastering-short-video-earnings-for-2024/"><u>[New] Harnessing YouTube's Power for Profit Mastering Short Video Earnings for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-comprehensive-approach-to-video-assisted-instruction/"><u>[Updated] A Comprehensive Approach to Video-Assisted Instruction</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-5-innovative-multimedia-collaboration-services/"><u>2024 Approved Top 5 Innovative Multimedia Collaboration Services</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-easy-fixes-for-when-hey-siri-isnt-working-correctly-on-iphones/"><u>7 Easy Fixes for When Hey Siri Isn’t Working Correctly on iPhones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-insignia-ns-pcy5bma2-drivers-for-pcs-on-windows-1087-systems/"><u>Download the Latest Insignia NS-PCY5BMA2 Drivers for PCs on Windows 10/8/7 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-started-installing-hp-wifi-drivers-on-windows-systems/"><u>Getting Started: Installing HP Wifi Drivers on Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-effortlessly-solve-logitech-c615-sound-problems-a-step-by-step-guide/"><u>How To Effortlessly Solve Logitech C615 Sound Problems | A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-canon-mg290er-driver-software-complete-guide/"><u>How to Get the Newest Canon MG290er Driver Software - Complete Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-spark-10-4g-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Spark 10 4G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/master-the-art-of-like-a-dragon-achieving-limitless-riches-in-pc-gaming/"><u>Master the Art of 'Like a Dragon': Achieving Limitless Riches in PC Gaming</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/mastering-visual-storytelling-captioning-for-tiktok-videos/"><u>Mastering Visual Storytelling Captioning for TikTok Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/official-logitech-k350-driver-setup-for-seamless-typing-experience/"><u>Official Logitech K350 Driver Setup for Seamless Typing Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/z270-gaming-pro-carbon-mobo-download-and-enhance-your-pc-performance/"><u>Z270 Gaming Pro Carbon Mobo: Download and Enhance Your PC Performance</u></a></li>
 </ul></div>
 

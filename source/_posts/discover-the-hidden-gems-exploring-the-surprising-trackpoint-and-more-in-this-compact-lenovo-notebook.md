@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hidden Gems: Exploring the Surprising TrackPoint and More in This Compact Lenovo Notebook"
-date: 2024-10-28T20:33:19.925Z
-updated: 2024-11-01T17:45:02.224Z
+date: 2024-11-04T16:06:46.181Z
+updated: 2024-11-07T16:05:46.835Z
 tags:
   - laptops
 categories:
@@ -63,10 +63,16 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -105,18 +111,18 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-investigating-ffmpeg-for-intact-audio-preservation/"><u>[New] Investigating FFmpeg for Intact Audio Preservation</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-minuscule-cinematic-design/"><u>[Updated] In 2024, Minuscule Cinematic Design</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-spotting-a-block-snapchat-notifications-gone-mute/"><u>[Updated] Spotting a Block Snapchat Notifications Gone Mute</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-leading-windows-pcs-of-2024-in-depth-analysis-and-ratings-insights/"><u>Discover the Leading Windows PCs of 2024: In-Depth Analysis and Ratings | Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-future-of-computing-how-googles-newly-released-chromebookplus-and-its-stunning-generative-ai-features-left-me-in-awe-zdnet/"><u>Exploring the Future of Computing: How Google's Newly Released Chromebook+ and Its Stunning Generative AI Features Left Me in Awe | ZDNET</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ground-rules-of-e-storytelling-techniques-for-2024/"><u>Ground Rules of E-Storytelling Techniques for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-most-innovative-voice-altering-mobile-apps/"><u>In 2024, Most Innovative Voice-Altering Mobile Apps</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-100-pro-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after 100 Pro has been deleted</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-prime-day-electronics-bargains-exclusive-october-2024-shopping-guide/"><u>Top Prime Day Electronics Bargains: Exclusive October 2024 Shopping Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-a-steep-discount-on-asus-rog-strix-g15-gaming-pc-save-600-now/"><u>Unlock a Steep Discount on ASUS ROG STRIX G15 Gaming PC - Save $600 Now!</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/1726029533885-vob/"><u>VOBファイルから素早く部分データを抽出する手転技</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/why-this-amazing-laptop-outperforms-macbook-air-while-offering-exceptional-value-a-top-picks-guide/"><u>Why This Amazing Laptop Outperforms MacBook Air While Offering Exceptional Value: A Top Picks Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-essential-tips-for-picking-leading-free-srt-translation-tools/"><u>[New] Essential Tips for Picking Leading Free SRT Translation Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-inside-out-essential-vr-dictionary-words/"><u>[New] Inside Out Essential VR Dictionary Words</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-itop-reviewed-leading-pc-screen-recorders-face-off/"><u>[New] ITop Reviewed Leading PC Screen Recorders Face Off</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/299-apple-ipad-10th-generation-prime-day-special-offer/"><u>$299 Apple iPad (10Th Generation) - Prime Day Special Offer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dell-wifi-card-software-update-free-access-here/"><u>Dell WiFi Card Software Update: FREE Access Here!</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/dhcpwindows-server-202/"><u>DHCPサービスが機能しないWindows Server 202</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-compatibility-with-newest-hp-officejet-pro-8610-drivers-for-windows-operating-systems-win11-win10/"><u>Ensure Compatibility with Newest HP Officejet Pro 8610 Drivers for Windows Operating Systems (Win11, Win10)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-optimal-performance-latest-version-of-corsair-k55-driver-software-available-to-download/"><u>Ensure Optimal Performance: Latest Version of Corsair K55 Driver Software Available to Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722967335054-latest-hp-laserjet-pro-1006-driver-software-secure-your-free-copy/"><u>Latest HP LaserJet Pro 1006 Driver Software - Secure Your Free Copy</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-g933-headset-latest-driver-download/"><u>Logitech G933 Headset Latest Driver Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-the-arduino-nano-driver-installation-process-for-windows-users-no-more-headaches/"><u>Mastering the Arduino Nano Driver Installation Process for Windows Users: No More Headaches</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pinnacle-visuals-for-the-modern-broadcaster-for-2024/"><u>Pinnacle Visuals for the Modern Broadcaster for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-shift-to-portable-gaming-unpacking-the-reasons-behind-my-iphones-dominance-in-my-game-library/"><u>The Shift to Portable Gaming: Unpacking the Reasons Behind My iPhone's Dominance in My Game Library</u></a></li>
 </ul></div>
 

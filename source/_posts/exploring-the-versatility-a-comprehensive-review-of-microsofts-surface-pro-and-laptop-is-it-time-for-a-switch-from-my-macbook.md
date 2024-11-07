@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Versatility: A Comprehensive Review of Microsoft's Surface Pro and Laptop – Is It Time for a Switch From My MacBook?"
-date: 2024-10-28T21:07:28.956Z
-updated: 2024-11-01T19:21:43.929Z
+date: 2024-11-02T16:07:01.894Z
+updated: 2024-11-07T16:45:18.213Z
 tags:
   - laptops
 categories:
@@ -48,6 +48,13 @@ Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
@@ -86,13 +93,6 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## But can it replace an iPad Pro?
 
 Jason Cipriani/ZDNet
@@ -102,10 +102,16 @@ Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 p
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Microsoft
@@ -144,10 +150,10 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
@@ -162,6 +168,13 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 After a few months of the Surface Pro 8 sitting on a shelf, I have gone back to using it as my main device. I'm once again enjoying using multiple windows for multitasking, not having to worry about any extra workarounds, and I still have complete and total portability.
@@ -173,13 +186,6 @@ So, iPad or Surface Pro 8? With so much uncertainty over the future of iPadOS, I
 If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro, I'll say this: you can't go wrong with either device, as long as you know what you're getting yourself into. The iPad Pro can do a lot of things, but only a few things really well. Whereas the Surface Pro 8 can do a lot of things really well, but it has its fair share of hiccups and gotchas as well.
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -220,21 +226,18 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-top-pioneers-making-waves-in-digital-av-creation/"><u>[New] In 2024, Top Pioneers Making Waves in Digital AV Creation</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-pinnacle-choices-top-30-mac-videograbbers-reviewed/"><u>[Updated] 2024 Approved Pinnacle Choices Top 30 Mac Videograbbers Reviewed</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-no-longer-a-mystery-shorts-now-showing-up/"><u>[Updated] No Longer a Mystery Shorts Now Showing Up</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-your-guide-to-50-creative-free-youtube-advertising-options/"><u>[Updated] Your Guide to 50 Creative, Free YouTube Advertising Options</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-becoming-an-expert-broadcaster-streaming-high-quality-video-online/"><u>2024 Approved Becoming an Expert Broadcaster Streaming High-Quality Video Online</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-best-practices-of-successful-ai-prompts-insightful-guide-with-7-tips/"><u>Discover the Best Practices of Successful AI Prompts - Insightful Guide with 7 Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-nearly-1000-off-lenovo-business-laptops-for-prime-day-early-bird-savings-on-amazon/"><u>Don't Miss Out! Nearly $1,000 Off Lenovo Business Laptops for Prime Day Early Bird Savings on Amazon</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-resolve-lag-and-hitching-in-fortnite-on-your-pc/"><u>How to Resolve Lag and Hitching in Fortnite on Your PC</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Infinix Hot 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-your-discounted-apple-m2-macbook-air-now-for-only-749-during-the-exclusive-october-prime-day-event-zdnet-news/"><u>Secure Your Discounted Apple M2 MacBook Air Now for Only $749 During the Exclusive October Prime Day Event | ZDNET News</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-a-steep-discount-save-36-on-the-impressive-8tb-samsung-t5-ssd-post-amazon-prime-day-exclusives/"><u>Snag a Steep Discount: Save 36% on the Impressive 8TB Samsung T5 SSD Post-Amazon Prime Day Exclusives</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-reconfiguring-your-macs-command-key-tips-from-zdnet/"><u>Step-by-Step Guide: Reconfiguring Your Mac's Command Key - Tips From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-complete-guide-to-assembling-a-top-tier-gaming-system-with-insights-from-zdnet/"><u>The Complete Guide to Assembling a Top-Tier Gaming System with Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-pp-playbook-for-silent-scene-transitions-for-2024/"><u>The Ultimate PP Playbook for Silent Scene Transitions for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-dells-innovative-concept-luna-the-disassemblable-laptop-that-builds-tomorrow/"><u>Unveiling Dell's Innovative Concept Luna: The Disassemblable Laptop That Builds Tomorrow</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-your-workstation-for-less-grab-our-sale-on-the-multifunctional-10-in-1-docking-station-now-at-35-off-zdnet/"><u>Upgrade Your Workstation for Less: Grab Our Sale on the Multifunctional 10-in-1 Docking Station Now at 35% Off | ZDNet</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-8-cutting-edge-skins-perfect-for-your-laptop-for-2024/"><u>[New] 8 Cutting-Edge Skins Perfect for Your Laptop for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-art-of-engaging-crafting-compelling-reddit-content/"><u>[New] In 2024, The Art of Engaging Crafting Compelling Reddit Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-visual-excellence-leveraging-enhancer-22/"><u>[New] The Art of Visual Excellence - Leveraging Enhancer 2.2</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-enhancing-your-fb-video-experience-with-1080p-quality/"><u>2024 Approved Enhancing Your FB Video Experience with 1080P Quality</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-ensure-seamless-pubg-gameplay-a-must-read-launch-optimization-guide/"><u>How to Ensure Seamless PUBG Gameplay: A Must-Read Launch Optimization Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-techniques-for-transforming-mp4-files-with-vlc/"><u>In 2024, Expert Techniques for Transforming MP4 Files with VLC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-dell-thunderbolt-tb16-docking-station-driver-software-how-to-install/"><u>Latest Dell Thunderbolt TB16 Docking Station Driver Software – How to Install!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mrs-provides-metabolic-profiles-that-help-differentiate-between-types-of-brain-lesions-including-tumors-and-neurodegenerative-diseases/"><u>MRS Provides Metabolic Profiles that Help Differentiate Between Types of Brain Lesions, Including Tumors and Neurodegenerative Diseases.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-installation-the-speedy-path-to-new-surface-dock-drivers/"><u>Seamless Installation: The Speedy Path to New Surface Dock Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/sm-bus-controller-driver-download-windows-11-10-8-and-7/"><u>SM Bus Controller Driver Download - Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-when-your-hp-screen-goes-black/"><u>Solution Found: When Your HP Screen Goes Black</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-downloading-and-installing-hp-deskjet-3520-drivers/"><u>Step-by-Step Guide to Downloading and Installing HP Deskjet 3520 Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-resource-for-canon-mg2900-driver-download-and-update-information/"><u>Ultimate Resource for Canon MG2900 Driver Download and Update Information</u></a></li>
 </ul></div>
 

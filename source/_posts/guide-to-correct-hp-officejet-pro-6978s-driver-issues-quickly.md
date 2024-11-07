@@ -1,7 +1,7 @@
 ---
 title: Guide to Correct HP OfficeJet Pro 6978'S Driver Issues Quickly
-date: 2024-09-01T05:47:40.341Z
-updated: 2024-09-02T05:47:40.341Z
+date: 2024-10-31T16:20:13.243Z
+updated: 2024-11-07T16:26:01.725Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ It’s very important to**keep your Qualcomm Atheros AR938X driver up-to-date** 
 
 **[Option 2 – Manually](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 1 – Update**Qualcomm Atheros AR938X** drivers automatically
 
 **If you don’t have Internet access** , make sure to connect your computer to a wired network in order for a quick and smooth Wi-Fi driver download & update. **But if you do have Internet access** , follow the steps on the same (target) computer.
@@ -45,17 +52,41 @@ It’s very important to**keep your Qualcomm Atheros AR938X driver up-to-date** 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1143.png)
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1144.png)
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  Now congrats – you’ve successfully updated the**Qualcomm Atheros AR938X driver** .
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Option 2 – Update**Qualcomm Atheros AR938X** drivers manually
 
  According to Qualcomm Atheros’s official website, Atheros no longer provide driver releases to its end customers. So to manually update your Qualcomm Atheros AR938X driver, you need to go to your PC manufacturer’s website, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
@@ -74,8 +105,6 @@ It’s very important to**keep your Qualcomm Atheros AR938X driver up-to-date** 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -83,4 +112,22 @@ It’s very important to**keep your Qualcomm Atheros AR938X driver up-to-date** 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-updates.techidaily.com/400-bundle-offer-high-performance-hp-touchscreen-laptop-with-ergonomic-wireless-mouse-and-complimentary-microsoft-office-365-access-limited-time-deal/"><u>$400 Bundle Offer: High-Performance HP Touchscreen Laptop with Ergonomic Wireless Mouse & Complimentary Microsoft Office 365 Access - Limited Time Deal!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-strategic-vr-marketing-manifesto/"><u>2024 Approved Strategic VR Marketing Manifesto</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-pro-drone-experience-a-thorough-look-at-dji-phantom-4/"><u>2024 Approved The Pro Drone Experience A Thorough Look at DJI Phantom 4</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dissecting-dells-cutting-edge-luna-laptop-a-breakthrough-in-user-centric-building-block-technology-exclusive/"><u>Dissecting Dell's Cutting-Edge Luna Laptop: A Breakthrough in User-Centric, Building Block Technology Exclusive</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-reconnect-your-samsung-galaxy-device-when-you-get-the-not-registered-on-network-error/"><u>How to Reconnect Your Samsung Galaxy Device When You Get the 'Not Registered on Network' Error</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-getting-started-with-obs-on-apple-a-comprehensive-guide/"><u>In 2024, Getting Started with OBS on Apple A Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-vivo-v27e-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Vivo V27e? Fixed | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-selection-of-home-theater-pcs-for-an-immersive-media-journey/"><u>The Ultimate Selection of Home Theater Pcs for an Immersive Media Journey</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-oppo-find-x7-ultra-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Oppo Find X7 Ultra Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-6-advantages-of-choosing-a-chromebook-over-traditional-laptops-insights-from-zdnet/"><u>Top 6 Advantages of Choosing a Chromebook Over Traditional Laptops: Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-budget-laptops-under-1000-comprehensive-reviews-and-tests-by-tech-experts-zdnet/"><u>Top-Ranking Budget Laptops (Under $1,000) - Comprehensive Reviews & Tests by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-laptops-comprehensive-reviews-by-tech-experts-insights-from-zdnet/"><u>Top-Rated Laptops : Comprehensive Reviews by Tech Experts - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-premium-17-inch-notebooks-as-chosen/"><u>Ultimate Guide: Premium 17-Inch Notebooks as Chosen</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unveiling-first-episode-footage-examination-for-2024/"><u>Unveiling First-Episode Footage Examination for 2024</u></a></li>
+</ul></div>
 

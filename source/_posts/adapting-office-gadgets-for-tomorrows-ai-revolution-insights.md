@@ -1,7 +1,7 @@
 ---
 title: Adapting Office Gadgets for Tomorrow's AI Revolution - Insights
-date: 2024-10-27T16:52:33.464Z
-updated: 2024-11-01T20:16:01.478Z
+date: 2024-11-05T16:39:41.693Z
+updated: 2024-11-07T16:35:28.347Z
 tags:
   - laptops
 categories:
@@ -65,10 +65,10 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -80,10 +80,10 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -136,17 +136,24 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-top-30-beginner-pro-facebook-strategies-for-boosting-sales/"><u>[New] 2024 Approved Top 30 Beginner-Pro Facebook Strategies for Boosting Sales</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-prime-steadicam-devices-for-drones-in-filmmaking/"><u>[New] Prime Steadicam Devices for Drones in Filmmaking</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-top-spots-for-classic-ringtone-downloads-for-2024/"><u>[New] Top Spots for Classic Ringtone Downloads for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-x-sync-studio-platform-personal-computing/"><u>[Updated] In 2024, X-Sync Studio Platform, Personal Computing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-choices-twitter-video-conversion-software/"><u>2024 Approved Best Choices Twitter Video Conversion Software</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-vivo-y36i-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-realme-note-50-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Realme Note 50 Phone When You Forget the Password</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximizing-value-expert-tips-for-elevating-the-cheapest-98-inch-tv-to-elite-quality/"><u>Maximizing Value: Expert Tips for Elevating the Cheapest 98-Inch TV to Elite Quality!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/must-watch-tv-series-and-films-on-hulu-disneyplus-and-more-this-march-our-expert-guide-by-zdnet/"><u>Must-Watch TV Series and Films on Hulu, Disney+, and More This March: Our Expert Guide by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigate-the-future-of-television-with-our-pros-guide-to-premium-32-inch-screens-zdnet-insights/"><u>Navigate the Future of Television with Our Pros' Guide to Premium 32-Inch Screens | ZDNET Insights</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/should-my-machine-leap-to-macos-sonomas-version/"><u>Should My Machine Leap to macOS Sonoma's Version?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/sony-bravia-the-most-affordable-top-quality-television-in-regular-sales-recommended-by-zdnet/"><u>Sony Bravia: The Most Affordable Top-Quality Television in Regular Sales – Recommended by ZDNet</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-artisans-blueprint-achieving-3d-text-mastery/"><u>[New] 2024 Approved The Artisan's Blueprint Achieving 3D Text Mastery</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-auditory-nexus-studio-mac-essentials/"><u>[New] 2024 Approved The Auditory Nexus Studio Mac Essentials</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/becoming-a-video-virtuoso-essential-tips-for-upside-down-youtube-livestreams/"><u>Becoming a Video Virtuoso Essential Tips for Upside-Down Youtube Livestreams</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-getting-the-brother-mfc-l27e0dw-installed-on-your-pc/"><u>Easy Guide to Getting the Brother MFC-L27e0DW Installed on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enable-windows-10-to-recognize-dual-screens/"><u>Enable Windows 10 to Recognize Dual Screens</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-obtaining-printer-and-scanner-drivers-that-are-not-preinstalled-on-windows-nt-os/"><u>Guide: Obtaining Printer and Scanner Drivers that Are Not Preinstalled on Windows nT OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-updating-and-downloading-latest-epson-driver-software-on-windows-11/"><u>Guide: Updating and Downloading Latest Epson Driver Software on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-install-updated-toshiba-satellite-graphics-card-drivers-in-windows/"><u>How to Find and Install Updated Toshiba Satellite Graphics Card Drivers in Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-15-pro-max-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 15 Pro Max using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-officejet-5255-driver-download-and-update/"><u>HP OfficeJet 5255 Driver Download & Update</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-historical-deep-dives-from-youtubes-most-impactful-creators/"><u>In 2024, Historical Deep Dives From YouTube's Most Impactful Creators</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-tecno-spark-20-proplus-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Tecno Spark 20 Pro+ Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Lava Phone without Any Data Loss</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-newest-msi-audio-software-for-pcs-with-windows-os-secure-download-now/"><u>Install Newest MSI Audio Software for PCs with Windows OS – Secure Download Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-hp-pagewide-pro-eb477dw-driver-software-for-win11win10win8-platforms-safe-to-download-now/"><u>Latest HP PageWide Pro Eb477dw Driver Software for Win11/Win10/Win8 Platforms – Safe to Download Now</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-on-downloading-windows-7-compatible-keyboard-drivers/"><u>Step-by-Step Tutorial on Downloading Windows 7 Compatible Keyboard Drivers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultra-reliable-tt560-flash-photography-made-simple/"><u>Ultra-Reliable TT560: Flash Photography Made Simple</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/usb-camera-software-support-fast-download-options-available/"><u>USB Camera Software Support - Fast Download Options Available</u></a></li>
 </ul></div>
 

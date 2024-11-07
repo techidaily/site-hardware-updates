@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Refresh: How Apple Covertly Enhanced Last Year's 13-Inch MacBook Pro for Future Success | ZDNET"
-date: 2024-10-31T18:28:38.175Z
-updated: 2024-11-01T20:47:54.663Z
+date: 2024-11-01T16:32:38.548Z
+updated: 2024-11-07T16:42:34.188Z
 tags:
   - laptops
 categories:
@@ -44,6 +44,13 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications
 
 ---
@@ -72,13 +79,6 @@ Jason Hiner/ZDNET
 In terms of qualitative testing, I wrote this article on the M3 MacBook Air and used my daily work applications -- Slack, Microsoft Outlook, Google Drive, and ZDNET's CMS. I also used Adobe Lightroom for processing photos, including AI features. I fired up YouTube in Safari to play the song Eclipse from the Dune 2 soundtrack as a way to test the audio quality of the built-in speakers. I also played the 2021 Dune movie in 4K from my library in the Apple TV Plus app to test the display quality of the M3 MacBook Air. I expect there will be a lot more AI testing to do after WWDC 2024 in June when Apple is likely to unveil its generative AI tools.
 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
 
@@ -137,10 +137,10 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the best features of M3 MacBook Air?
@@ -158,10 +158,10 @@ Jason Hiner/ZDNET
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -180,13 +180,6 @@ Jason Hiner/ZDNET
 
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a59d7ad-a472-4505-abd5-734590cf967e%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a59d7ad-a472-4505-abd5-734590cf967e%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Final thought
 
 At first glance, it may seem odd that Apple is releasing the upgraded [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) lineup just nine months after the 15-inch M2 version was [first unveiled at Apple WWDC in June 2023](https://www.zdnet.com/video/apple-wwdc-2023-every-product-revealed-vision-pro-15-inch-macbook-air-more/). But, this is a good thing. For the 13-inch and 15-inch MacBook Air models, this is an incremental upgrade that brings them up to date with [the new M3 processors that Apple announced last fall](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/) and continues them on their trajectory to be more capable and more of the light professional-grade laptops that many people can use to handle all of their work. 
@@ -196,6 +189,13 @@ That keeps mainstream Mac laptops at a more approachable price and allows the Ma
 Up close with the M3 MacBook Air 15-inch in Midnight.
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -243,14 +243,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/acer-wireless-driver-downloads-at-your-fingertps-fast-track-online-setup-for-free/"><u>Acer Wireless Driver Downloads at Your Fingertps: Fast Track Online Setup for Free!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/banish-kurtzpel-downfall-errors-once-and-for-all-effective-troubleshooting-steps-unveiled/"><u>Banish KurtzPel Downfall Errors Once and For All - Effective Troubleshooting Steps Unveiled</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210676297-9781398464094-brains-got-the-shts-again/"><u>Brain's Got the Sh*ts Again | Free Book</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-intel-usb3-ethernet-controller-driver/"><u>Download & Install Intel USB3 Ethernet Controller Driver</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-seamless-connectivity-with-tp-link-ub400-bluetooth-stick-download-latest-firmware/"><u>Ensure Seamless Connectivity with TP-Link UB400 Bluetooth Stick - Download Latest Firmware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-your-printer-works-latest-canoscan-lide-220-driver-downloads-and-updates/"><u>Ensure Your Printer Works: Latest CanoScan LiDE 220 Driver Downloads and Updates</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-beyond-imagination-vr-powered-movies/"><u>In 2024, Beyond Imagination VR-Powered Movies</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oppo-a2-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Oppo A2 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://win-online.techidaily.com/lange-ladezeiten-bei-ihrem-iphone-backup-ursachenanalyse-and-effizienzsteigerungsstrategien/"><u>Lange Ladezeiten Bei Ihrem iPhone Backup: Ursachenanalyse & Effizienzsteigerungsstrategien</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-customize-and-captivate-thumbnail-magic-for-shorts/"><u>[New] 2024 Approved Customize & Captivate Thumbnail Magic for Shorts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-from-raw-recordings-to-professional-vids-webcam-edition/"><u>[New] 2024 Approved From Raw Recordings to Professional Vids - Webcam Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-5-exceptional-4k-gaming-screens/"><u>[New] 5 Exceptional 4K Gaming Screens</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-sci-fis-virtual-frontiers-top-10-metaverse-escapes/"><u>[Updated] 2024 Approved Sci-Fi's Virtual Frontiers Top 10 Metaverse Escapes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-visual-tale-telling-for-the-small-screen-vertical-ig-videos-with-fcpx/"><u>[Updated] 2024 Approved Visual Tale-Telling for the Small Screen Vertical IG Videos with FCPX</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/acer-monitor-drivers-find-download-and-install-correctly-today/"><u>Acer Monitor Drivers - Find, Download & Install Correctly Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-finding-and-installing-updates-for-hp-envy-5540/"><u>Complete Guide to Finding & Installing Updates for HP Envy 5540</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-realtek-chip-fe-driver-for-windows-11-systems-at-no-cost/"><u>Download the Latest Realtek Chip FE Driver for Windows 11 Systems at No Cost</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-smooth-performance-dell-inspiron-15-driver-guide-for-windows-10-users/"><u>Ensure Smooth Performance: Dell Inspiron 15 Driver Guide for Windows 10 Users</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/exploring-macaus-linguistic-mosaic-cantonese-macanese-and-portuguese-languages/"><u>Exploring Macau’s Linguistic Mosaic: Cantonese, Macanese, and Portuguese Languages</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-your-intel-optane-driver-up-to-date-made-simple-a-how-to-guide-for-windows-users/"><u>Getting Your Intel Optane Driver Up-to-Date Made Simple - A How-To Guide for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reset-failed-steam-ui-module-on-pc/"><u>How To Reset Failed Steam UI Module on PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-oneplus-ace-3-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On OnePlus Ace 3? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/qualcomm-atheros-ar3011-bluetooth-30-drivers-free-download/"><u>Qualcomm Atheros AR3011 Bluetooth 3.0 Drivers - Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/techkey-bluetooth-adapter-software-downloads-supported-by-windows-10-7-and-8-systems/"><u>Techkey Bluetooth Adapter Software Downloads – Supported by Windows 10, 7, and 8 Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-3-essential-pc-gaming-analytics-apps-for-enhanced-in-game-tracking/"><u>Top 3 Essential PC Gaming Analytics Apps for Enhanced In-Game Tracking</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-windows-device-with-the-newest-pl23n-usb-to-serial-converter-drivers/"><u>Update Your Windows Device with the Newest PL23n USB to Serial Converter Drivers</u></a></li>
 </ul></div>
 

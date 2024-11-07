@@ -1,7 +1,7 @@
 ---
 title: Score Big Savings with an Enormous 8TB Samsung T5 Drive at Just 36%% Off on Amazon Following Prime Day, According to ZDNET
-date: 2024-10-25T19:43:08.321Z
-updated: 2024-11-01T17:24:50.435Z
+date: 2024-10-31T16:22:43.899Z
+updated: 2024-11-07T16:10:27.537Z
 tags:
   - laptops
 categories:
@@ -71,10 +71,10 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -86,10 +86,16 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -126,17 +132,20 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-top-5-ios-platforms-for-experiencing-classic-psp-games/"><u>[New] 2024 Approved Top 5 iOS Platforms for Experiencing Classic PSP Games</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-diving-deep-the-intricacies-of-the-mukbang-phenomenon-for-2024/"><u>[New] Diving Deep The Intricacies of the Mukbang Phenomenon for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-guide-to-add-motion-blur-to-photos-in-adobe-illustrator/"><u>[New] Guide to Add Motion Blur to Photos in Adobe Illustrator</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-expert-techniques-for-flawless-adobe-audio-for-2024/"><u>[Updated] Expert Techniques for Flawless Adobe Audio for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-visionary-voices-top-10-most-engaged-internet-creators/"><u>2024 Approved Visionary Voices Top 10 Most Engaged Internet Creators</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/2024s-highest-ranking-ssds-in-depth-analysis-and-reviews-from-zdnet/"><u>2024'S Highest Ranking SSDs: In-Depth Analysis & Reviews From ZDNet</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-ultimate-hd-lens-guide-for-pro-level-cinematography/"><u>In 2024, Ultimate HD Lens Guide for Pro-Level Cinematography</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/simple-repair-techniques-for-astro-a20-microphone-connectivity-problems/"><u>Simple Repair Techniques for Astro A20 Microphone Connectivity Problems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-cyber-monday-computers-bargains-exclusive-october-2024-guide/"><u>Top-Rated Cyber Monday Computers Bargains: Exclusive October 2024 Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-scoring-amazing-savings-on-laptops-for-the-october-premier-shopping-extravaganza-exclusive/"><u>Ultimate Guide to Scoring Amazing Savings on Laptops for the October Premier Shopping Extravaganza Exclusive</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-next-level-gaming-sounds-for-less-score-amazing-deals-on-high-performance-speakers-at-a-steep-60-off-zdnets-pick/"><u>Unlock Next-Level Gaming Sounds for Less: Score Amazing Deals on High-Performance Speakers at a Steep 60% Off - ZDNet's Pick!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/zdnets-ultimate-guide-to-the-premier-portable-monitors-expert-analysis-and-selection/"><u>ZDNet's Ultimate Guide to the Premier Portable Monitors : Expert Analysis and Selection</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-10-best-apps-for-editing-igtv-vertical-videos/"><u>[New] In 2024, 10 Best Apps for Editing IGTV Vertical Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-shadow-scribes-compendium-best-kept-voice-apps-iosandroid/"><u>2024 Approved Shadow Scribes' Compendium Best-Kept Voice Apps (iOS/Android)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/crafting-your-dream-gaming-pc-for-2e24-affordable-choices-starting-at-500-to-high-end-setups-exceeding-4000/"><u>Crafting Your Dream Gaming PC for 2E24: Affordable Choices Starting at $500 to High-End Setups Exceeding $4,000</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/dissecting-the-best-youtube-music-troupes-for-2024/"><u>Dissecting the Best YouTube Music Troupes for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-realtek-ethernet-controller-driver-on-windows-710/"><u>Download Realtek Ethernet Controller Driver on Windows 7/10</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-xiaomi-redmi-k70e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-best-performance-from-your-logitech-brio-webcam-with-updated-drivers-for-win-1187/"><u>Get the Best Performance From Your Logitech Brio Webcam with Updated Drivers for Win 11/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-epson-wf-2760-driver-software-for-your-pc-on-windows-11108/"><u>Get the Latest Epson WF-2760 Driver Software for Your PC on Windows 11/10/8</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-address-unexpected-shutdowns-in-grand-theft-auto-5/"><u>How To Address Unexpected Shutdowns in Grand Theft Auto 5</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-your-hands-on-the-latest-corsair-void-pro-drivers-for-windows-machines/"><u>How to Get Your Hands on the Latest Corsair Void Pro Drivers for Windows Machines</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-keep-your-razer-blade-17-up-to-date-with-driver-support-for-windows-systems/"><u>How to Keep Your Razer Blade 17 Up-to-Date with Driver Support for Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-the-update-a-comprehensive-guide-to-microsoft-driver-installation-on-windows-11-and-older-versions/"><u>Mastering the Update: A Comprehensive Guide to Microsoft Driver Installation on Windows 11, ^and Older Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-get-your-amd-radeon-rx-6800-driver-up-and-running-for-windows-os-11-10-8-and-7/"><u>Step-by-Step: Get Your AMD Radeon RX 6800 Driver Up and Running for Windows OS (11, 10, 8 & 7)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-poco-x5-pro-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Poco X5 Pro Phones</u></a></li>
 </ul></div>
 

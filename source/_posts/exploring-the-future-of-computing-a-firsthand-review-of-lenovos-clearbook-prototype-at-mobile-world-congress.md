@@ -1,7 +1,7 @@
 ---
 title: Exploring the Future of Computing - A Firsthand Review of Lenovo's Clearbook Prototype at Mobile World Congress
-date: 2024-10-27T21:20:40.021Z
-updated: 2024-11-01T17:59:09.085Z
+date: 2024-11-06T16:46:22.175Z
+updated: 2024-11-07T16:32:40.006Z
 tags:
   - laptops
 categories:
@@ -39,10 +39,10 @@ Jason Hiner/ZDNET
 There's no actual new functionality in these chips; it's like comparing a Lamborghini (or a Tesla Model S "Plaid") from a few years ago with 600HP to one with 1000HP. Impressive performance boost, yes, but what's the actual impact for the average end-user? We can still only legally drive 65 mph/105 kph on most crowded highways in North America -- we need the application autobahn to fully take advantage of them.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPU optimization and AI improvements, but where are the apps?
@@ -54,16 +54,16 @@ The enhancements in GPU optimization and improved and increased AI cores in the 
 In the long term, these improvements will also likely trickle down into the [Vision Pro headset](https://www.zdnet.com/article/i-tried-apple-vision-pro-and-its-far-ahead-of-where-i-expected/) and, potentially, [iPad Pro](https://www.zdnet.com/article/ipad-pro-2022-review/). However, where do the apps take advantage of these on the consumer side? Yes, some Pro apps and some 3D games can today, but that's a relatively small part of Apple's target market today. And let's face it, the PC is still the gaming king, for now.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Generative AI question
@@ -81,10 +81,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Don't discount the low-end Macbook as an industry disruptor
@@ -98,10 +98,16 @@ I know of many professionals who aren't content creation types who spend a lot o
 We should also consider what impact the lower-end M3 systems are going to have on an already weakened Wintel market. Firstly, any M1 and M2 Mac machines already in the retail channel that were already very competitive with the Intel machines being offered by other manufacturers will drop in price significantly and will apply even more pressure, additionally decimating Intel's relevancy in many market segments.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## This is ultimately an Intel-killing play
@@ -146,17 +152,16 @@ The M3 chips aren't merely a product release; they are Apple's bold statement of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-aerial-autonomy-groups/"><u>[New] Aerial Autonomy Groups</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-dont-overlook-tags-in-video-description/"><u>[Updated] In 2024, Don't Overlook Tags in Video Description</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/breaking-down-the-new-microsoft-surface-pro-9-is-it-time-for-windows-users-to-switch-from-mac-insights/"><u>Breaking Down the New Microsoft Surface Pro 9 - Is It Time for Windows Users to Switch From Mac? | Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-analysis-the-downside-of-dells-latest-xps-14-laptop-revealed/"><u>Expert Analysis: The Downside of Dell's Latest XPS 14 Laptop Revealed</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-motorola-moto-g-stylus-5g-2023-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Motorola Moto G Stylus 5G (2023)</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-gamers-choice-best-alternatives-to-official-recorder/"><u>In 2024, Gamer's Choice Best Alternatives to Official Recorder</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-how-to-add-a-countdown-timer-in-obs/"><u>In 2024, How To Add a Countdown Timer in OBS</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-lenovo-notebook-choice-at-a-1k-discount-ideal-tech-for-remote-and-office-tasks-this-prime-day-picks/"><u>Top Lenovo Notebook Choice at a $1K Discount: Ideal Tech for Remote and Office Tasks This Prime Day Picks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-the-potential-of-m3-macbook-pro-exceptional-performance-for-less-than-10k-insights/"><u>Unlock the Potential of M3 MacBook Pro: Exceptional Performance for Less Than $10K - Insights</u></a></li>
-<li><a href="https://fox-that.techidaily.com/update-your-way-through-correcting-iphone-mail-sync-errors/"><u>Update Your Way Through: Correcting iPhone Mail Sync Errors</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-vivo-y78t-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo Y78t Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-hidden-gems-top-purchasers-of-youtube-creators/"><u>[New] Unveiling Hidden Gems Top Purchasers of YouTube Creators</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-audiovisual-alchemy-formulating-your-youtube-playlist-for-2024/"><u>[Updated] Audiovisual Alchemy Formulating Your YouTube Playlist for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-solution-for-hp-beat-sound-drivers-malfunctioning-on-windows-1087/"><u>Comprehensive Solution for HP Beat Sound Drivers Malfunctioning on Windows 10/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-startech-vga-drivers-now-direct-links-available/"><u>Get Your StarTech VGA Drivers Now - Direct Links Available</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-camon-20-pro-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Tecno Camon 20 Pro 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-complete-critique-unmasking-the-bublcam-360-experience/"><u>In 2024, Complete Critique Unmasking the Bublcam 360 Experience</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revive-flawed-movies-quickly-stellar-phoenix-for-mac/"><u>Revive Flawed Movies Quickly: Stellar Phoenix for Mac</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/revolutionize-your-sleep-routine-with-the-heimvision-morning-light-wake-up-clock-a80s-an-insightful-review/"><u>Revolutionize Your Sleep Routine with the HeimVision Morning Light Wake-Up Clock A80S: An Insightful Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-compatibility-get-the-newest-scansnap-driver-updates-for-windows-devices/"><u>Seamless Compatibility: Get the Newest ScanSnap Driver Updates for Windows Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-conversion-from-dall-es-webp-images-to-png-jpg/"><u>Seamless Conversion From DALL-E's WebP Images to PNG, JPG</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/thrustmaster-t150-steering-wheel-controller-fast-driver-software-downloads/"><u>Thrustmaster T150 Steering Wheel Controller - Fast Driver Software Downloads</u></a></li>
 </ul></div>
 

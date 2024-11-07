@@ -1,7 +1,7 @@
 ---
 title: "Installing Canon Printer Drivers: MX340 Supported by Windows 10/8/7 Systems"
-date: 2024-09-01T05:49:45.470Z
-updated: 2024-09-02T05:49:45.470Z
+date: 2024-11-05T16:09:25.088Z
+updated: 2024-11-07T16:07:33.492Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ It’s essential to keep the drivers for your Canon products up to date so as to
 1. [**Update your Canon driver automatically (Recommended)**](https://www.drivereasy.com/knowledge/canon-drivers-download-update-for-windows-easily/#O1)
 2. [**Update your Canon driver manually**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1: Update your Canon driver automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -38,15 +45,28 @@ It’s essential to keep the drivers for your Canon products up to date so as to
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa3c58d6f96.jpg)
 3. Click **Update All** to automatically download and install the correct version of **_ALL_**  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa45fe434fd.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ### **Option 2: Update your Canon driver manually**
 
  Canon keeps updating drivers. To get them, you need to go to Canon’s official website, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
@@ -60,19 +80,18 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
 3. Type**the name** of your Canon product and click**Go** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa46ed741fe.jpg)
 4. Click**DRIVERS & DOWNLOADS** under your model name. (Here I take PIXMA PRO-10 as an example.)  
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa47aad220c.jpg)
 5. Make sure **the detected Windows version is the right variant of your Windows OS** and click**SELECT** in**the first** result to make sure to download the latest driver release.  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa4841af5d5.jpg)
 6. Click**DOWNLOAD** .
+
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 7. Run the downloaded file and follow the on-screen instructions to finish the install. You might want to consult the download & install manual executable file if needed.
 8. Restart your computer for the changes to take effect.
 
@@ -88,8 +107,6 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -97,4 +114,24 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-discover-the-leading-no-cost-film-enhancement-platforms/"><u>[Updated] In 2024, Discover the Leading No-Cost Film Enhancement Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tips-for-kickstarting-a-social-philanthropy-blitz/"><u>[Updated] Tips for Kickstarting a Social Philanthropy Blitz</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/250-asus-laptop-deal-enjoy-15-inches-of-power-with-essential-hdmi-and-usb-ports-from-walmart/"><u>$250 ASUS Laptop Deal: Enjoy 15 Inches of Power with Essential HDMI and USB Ports From Walmart!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/450-away-with-hp-victus-15-gaming-laptop-this-prime-day-top-deals-on-tech-discovered/"><u>$450 Away with HP Victus 15 Gaming Laptop This Prime Day – Top Deals on Tech | Discovered</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/can-the-msi-steam-deck-dominate-portable-gaming-and-challenge-competitors-insights-from-zdnet/"><u>Can the MSI Steam Deck Dominate Portable Gaming and Challenge Competitors? - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-ultimate-guide-to-49-amazing-christmas-savings-at-newegg-insights/"><u>Discover the Ultimate Guide to 49 Amazing Christmas Savings at Newegg Insights</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/from-basic-to-powerhouse-win11-home-to-pro-guide/"><u>From Basic to Powerhouse: Win11 Home to Pro Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huge-savings-alert-on-black-friday-secure-lenovos-high-performance-thinkpad-x1-extreme-gen-4-laptop-for-an-unbelievable-discount-tech-experts-at-zdnet-revea126/"><u>Huge Savings Alert on Black Friday! Secure Lenovo's High-Performance ThinkPad X1 Extreme Gen 4 Laptop for an Unbelievable Discount | Tech Experts at ZDNET Reveal How.</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-masterful-multiplatform-apps-for-dynamic-media-collage/"><u>In 2024, Masterful Multiplatform Apps for Dynamic Media Collage</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-and-utilizing-phantoms-time-dilation/"><u>In 2024, Understanding and Utilizing Phantom’s Time-Dilation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/last-chance-for-octobers-best-amazon-prime-deals-premium-discounted-products-ready-to-shop-gadgetgurus/"><u>Last Chance for October's Best Amazon Prime Deals: Premium Discounted Products Ready to Shop | GadgetGurus</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/resolving-chatgpt-full-capacity-error-in-windows-os/"><u>Resolving ChatGPT Full Capacity Error in Windows OS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/singapore-starbucks-reports-unauthorized-access-of-customer-information-due-to-security-breach-insights-from-zdnet/"><u>Singapore Starbucks Reports Unauthorized Access of Customer Information Due to Security Breach: Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-top-picks-for-ultra-portable-productive-powerhouses-a-telecommuters-must-have-techradar/"><u>Ultimate Guide: Top Picks for Ultra-Portable, Productive Powerhouses - A Telecommuter’s Must-Have! | TechRadar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-differences-level-1-2-and-3-ev-chargers-demystified/"><u>Understanding Differences: Level 1, 2 & 3 EV Chargers Demystified</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleash-creativity-in-memes-genrator-assistance/"><u>Unleash Creativity in Memes Gen'rator Assistance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-the-secret-of-seamless-iphone-file-transfer-with-lenovos-new-laptops-dont-miss-out-digital-gadget-news/"><u>Unlocking the Secret of Seamless iPhone File Transfer with Lenovo's New Laptops - Don't Miss Out! | Digital Gadget News</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: ZDNet's Guide to Top Travel Work Laptops that Aren't Dell XPS or MacBook Models (13 Inches)
-date: 2024-10-25T20:32:36.564Z
-updated: 2024-11-01T18:15:13.617Z
+date: 2024-11-06T16:39:11.485Z
+updated: 2024-11-07T16:16:05.914Z
 tags:
   - laptops
 categories:
@@ -89,16 +89,10 @@ In my testing, I got well over 10 hours in PCMark 10's battery test, and slightl
 The last thing that surprised me about this laptop was the sound quality. The Harman Kardon speakers have impressive bass and volume, particularly for such a small machine, adding further to its versatility.
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -137,20 +131,17 @@ If you want a 13-inch laptop with similar specs but is a little easier on the bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-vivo-t2-pro-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo T2 Pro 5G Fingerprint Lock</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-unmatched-versattile-performance-of-dells-latest-gaming-laptop-ideal-for-office-use-too-exclusive-review-by-zdnet/"><u>Discover the Unmatched Versattile Performance of Dell's Latest Gaming Laptop - Ideal For Office Use Too! Exclusive Review by ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-picks-for-ultimate-portable-monitors-of-2024-in-depth-analysis-and-ratings-zdnet/"><u>Expert Picks for Ultimate Portable Monitors of 2024: In-Depth Analysis and Ratings | ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-oppo-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Oppo using Video Repair Utility on Windows?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-build-your-dreamy-oriental-villas-in-minecraft/"><u>In 2024, Build Your Dreamy Oriental Villas in Minecraft</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revolutionizing-productivity-lenovo-enhances-key-functionality-in-latest-2-in-1-thinkpad-for-professionals-insights-by-zdnet/"><u>Revolutionizing Productivity: Lenovo Enhances Key Functionality in Latest 2-in-1 ThinkPad for Professionals - Insights by ZDNet</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/snapchat-emojis-explained-more-than-meets-the-eye-for-2024/"><u>Snapchat Emojis Explained More Than Meets the Eye for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-5-editoras-mais-populares-de-filmes-mov-em-2024-acesso-completamente-livre/"><u>Top 5 Editoras Mais Populares De Filmes MOV Em 2024 - Acesso Completamente Livre</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranked-non-microsoft-non-lenovo-tablet-triumphs-as-ideal-companion-for-business-travelers-insights-from-a-comprehensive-review/"><u>Top-Ranked Non-Microsoft, Non-Lenovo Tablet Triumphs as Ideal Companion for Business Travelers – Insights From a Comprehensive Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranking-student-notebooks-a-comprehensive-test-and-analysis-by-experts/"><u>Top-Ranking Student Notebooks: A Comprehensive Test & Analysis by Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-ultimate-gaming-audio-bliss-top-rated-sound-systems-now-discounted-at-best-buy/"><u>Unleash Ultimate Gaming Audio Bliss: Top-Rated Sound Systems Now Discounted at Best Buy!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-unmatched-value-with-the-newly-discounted-apple-m2-macbook-air-for-799-pre-prime-day-beating-octobers-big-sales-event-insider-info/"><u>Unlock Unmatched Value with the Newly Discounted Apple M2 MacBook Air for $799 Pre-Prime Day, Beating October's Big Sales Event Insider Info!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/usb-audio-driver-updating-guide-compatible-with-windows-11107/"><u>USB Audio Driver Updating Guide: Compatible With Windows 11/10/7</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-visuals-brush-up-your-youtube-beauty-videos-for-2024/"><u>Vivid Visuals Brush up Your YouTube Beauty Videos for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/windows-11-anniversary-update-download-easily/"><u>Windows 11 Anniversary Update Download Easily</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-primepickings-top-twitters-and-top-viewers-favorites/"><u>[New] In 2024, PrimePickings Top Twitters & Top Viewers’ Favorites</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-ultimate-list-innovative-youtube-channel-names-for-modern-vloggers-maximum-length-156-characters/"><u>[Updated] 2024 Approved Ultimate List Innovative Youtube Channel Names For Modern Vloggers (Maximum Length 156 Characters)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-top-3-strategies-for-clear-online-interaction-4/"><u>[Updated] In 2024, Top 3 Strategies for Clear Online Interaction (#4)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-strategies-for-igtv-on-facebook-integration-for-2024/"><u>[Updated] Strategies for IGTV on Facebook Integration for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-invisible-scrutiny-unlocking-ig-selfie-verification-secrets/"><u>[Updated] The Invisible Scrutiny Unlocking IG Selfie Verification Secrets</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/avoid-hassles-with-our-simple-guide-to-installing-the-arduino-nano-driver-on-windows/"><u>Avoid Hassles with Our Simple Guide to Installing the Arduino Nano Driver on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-enjoy-optimal-performance-with-insignia-drivers-for-windows/"><u>Download and Enjoy Optimal Performance with Insignia Drivers for Windows!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-display-link-experience-update-to-the-most-recent-drivers-on-windows-7-8-and-10/"><u>Enhance Your Display Link Experience - Update to the Most Recent Drivers on Windows 7, 8 & 10</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-location-on-facebook-dating-for-your-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-samsung-galaxy-s23-ultra-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Samsung Galaxy S23 Ultra Phones? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-pairing-find-the-eveo-bluetooth-driver-you-need/"><u>Seamless Pairing - Find the EVEO Bluetooth Driver You Need</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-secrets-to-discreetly-fading-out-sounds-using-audacity/"><u>The Secrets to Discreetly Fading Out Sounds Using Audacity</u></a></li>
 </ul></div>
 

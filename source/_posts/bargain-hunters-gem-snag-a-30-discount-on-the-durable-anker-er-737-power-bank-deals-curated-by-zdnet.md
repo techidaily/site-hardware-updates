@@ -1,7 +1,7 @@
 ---
 title: "Bargain Hunter’s Gem: Snag a $30 Discount on the Durable Anker Er 737 Power Bank | Deals Curated by ZDNET"
-date: 2024-10-26T16:08:30.619Z
-updated: 2024-11-01T21:32:35.309Z
+date: 2024-11-03T16:47:36.241Z
+updated: 2024-11-07T16:57:35.426Z
 tags:
   - laptops
 categories:
@@ -62,13 +62,6 @@ Maria Diaz/ZDNET
 * [Kasa Smart Plug Ultra Mini (2 pack)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FKasa-Smart-Required-Certified-EP10P2%2Fdp%2FB091FXQQMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $12 (save $8 at Amazon)
 * [Windows 11 Pro](https://www.stacksocial.com/sales/microsoft-windows-11-pro?utm%5Fsource%3Dzdnet.com%26utm%5Fmedium%3Dreferral%26utm%5Fcampaign%3Dmicrosoft-windows-11-pro%26utm%5Fterm%3Dscsf-572750%26utm%5Fcontent%3Da0x1P000004Im9wQAC%26scsonar%3D1%26aid%3Da-ceempx7z&sa=D&source=docs&ust=1686856045303167&usg=AOvVaw3GdVuYpgozg%5FgfSi8QlrTM): $25 (save $175 at Stack Social)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best holiday deals under $50
 
 Artie Beaty/ZDNET
@@ -78,6 +71,13 @@ Artie Beaty/ZDNET
 * [Anker Nano Power Bank (30W)](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=43469&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https%3A%2F%2Fwww.anker.com%2Fproducts%2Fa1259-built-in-cable-power-bank-10000mah): $40 (save $10 with on-site coupon)
 * [Sonic Origins Plus, PlayStation 5](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSonic-Origins-Plus-PlayStation-5%2Fdp%2FB0BZFCRLDW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $28 (save $12 at Amazon)
 * [Fossil Men's Ingram Leather RFID-Blocking Bifold Wallet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FFossil-Mens-Bifold-Wallet-Black%2Fdp%2FB018ZMVPQC%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $30 (save $30 at Amazon)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best holiday deals under $100
 
@@ -132,13 +132,6 @@ Jason Hiner/ZDNET
 * [Apple iPad Mini (A15 chip, 8.3-inch, 256GB):](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9DQDDQ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1) $540 (save $110 at Amazon with coupon)
 * [Apple iPad Air (M1 chip, 10.9-inch, 64GB, Wi-Fi + Cellular):](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Air-5th-Generation%2Fdp%2FB09V3JWQKB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1) $650 (save $100 at Amazon)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best holiday robot vacuum deals
 
 Beth Mauder/ZDNET
@@ -167,6 +160,13 @@ June Wan/ZDNET
 * [TCL 55-inch Q6 QLED Fire TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FTCL-55-Inch-55Q650F-Streaming-Television%2Fdp%2FB0C1J581SJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $350 (save $150 at Amazon)
 * [Amazon Fire TV Omni QLED 55-inch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fintroducing-amazon-fire-tv-55-inch-omni-qled-series-smart-tv%2Fdp%2FB09N6ZRH6C%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $450 (save $150 at Amazon)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best holiday smartwatch deals
 
 Matthew Miller/ZDNET
@@ -175,6 +175,13 @@ Matthew Miller/ZDNET
 * [Fitbit Versa 4 + Fitbit Premium](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Ffitbit-versa-4-fitness-smartwatch-graphite%2F6514032.p%3FskuId%3D6514032&publisher_slug=itechdaily19598&exclusive=1): $150 (save $50 at Best Buy)
 * [Samsung Galaxy Watch 5 Pro](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-watch5-pro-titanium-smartwatch-45mm-bt-black%2F6510873.p%3FskuId%3D6510873&publisher_slug=itechdaily19598&exclusive=1): $370 (save $80 at Best Buy)
 * [Amazfit Bip 3 Urban Edition Smartwatch](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FAmazfit-Bip-3-Urban-Edition-Smart-Watch-Health-Fitness-Tracker-Black%2F1499566467&subId1=zd-__COM_CLICK_ID__-dtp): $35 (save $27 at Walmart)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best holiday headphones deals
 
@@ -213,10 +220,16 @@ Jason Hiner/ZDNET
 * [Lenovo LOQ Tower Intel Edition](https://go.shopyourlikes.com/pi/bc82422a965d3574bb1afda3dd1ab5b7fb336893?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2): $650 (save $380 at Lenovo)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best holiday tablet deals
@@ -231,10 +244,10 @@ Maria Diaz/ZDNET
 * [Samsung Galaxy Tab S6 Lite](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Android-Lasting-Included-Speakers%2Fdp%2FB09WYWJ46K%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $200 (save $150 at Amazon)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did we choose these holiday deals?
@@ -242,13 +255,6 @@ Maria Diaz/ZDNET
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best holiday deals?
 
@@ -318,15 +324,20 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-professional-editing-edge-discover-the-leading-15-gopro-color-grads/"><u>[Updated] 2024 Approved Professional Editing Edge Discover the Leading 15 GOPRO Color Grads</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-leading-streaming-programs-for-live-content/"><u>[Updated] Leading Streaming Programs for Live Content</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/adapting-office-technology-for-artificial-intelligence-the-future-of-working-devices-insights-from-zdnet/"><u>Adapting Office Technology for Artificial Intelligence: The Future of Working Devices - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-bargains-before-prime-day-2024-exclusive-offers-unveiled-by-zdnet/"><u>Best Bargains Before Prime Day 2024: Exclusive Offers Unveiled by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exceptional-longevity-and-breathtaking-display-discover-the-best-long-lasting-laptop-reviewed-by-zdnet/"><u>Exceptional Longevity and Breathtaking Display: Discover the Best Long-Lasting Laptop Reviewed by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-enhanced-performance-of-the-new-macbook-air-with-m2-chip-in-depth-review/"><u>Exploring the Enhanced Performance of the New MacBook Air with M2 Chip In-Depth Review</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-vivo-x100-pro-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Vivo X100 Pro Phone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/techniques-for-swiftly-cleaning-your-youtube-buffered-queue/"><u>Techniques for Swiftly Cleaning Your YouTube Buffered Queue</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-6-nft-platforms-unlocking-creativity-for-artists/"><u>Top 6 NFT Platforms Unlocking Creativity for Artists</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-structuring-complex-topics-in-youtube-content-a-chapter-by-chapter-approach/"><u>[New] 2024 Approved Structuring Complex Topics in YouTube Content A Chapter by Chapter Approach</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-quintessential-toptiktok-tweets-in-popularity/"><u>[New] 2024 Approved The Quintessential #TopTikTok Tweets in Popularity</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tech-support-unsuccessful-print-driver-installation-across-windows-versions/"><u>[Tech Support] Unsuccessful Print Driver Installation Across Windows Versions</u></a></li>
+<li><a href="https://win-special.techidaily.com/comment-rechercher-et-recuperer-les-photographies-supprimees-en-mises-a-jour-de-windows-11-guide-etape-par-etape/"><u>Comment Rechercher Et Récupérer Les Photographies Supprimées en Mises À Jour De Windows 11 : Guide Étape Par Étape</u></a></li>
+<li><a href="https://windows11.techidaily.com/configuring-win11-remote-storage-paths/"><u>Configuring Win11 Remote Storage Paths</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/direct-links-available-download-the-most-recent-vga-driver-updates/"><u>Direct Links Available! Download the Most Recent VGA Driver Updates</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exclusive-offers-unmissable-samsung-products-at-steep-discount-rates-this-prime-day/"><u>Exclusive Offers: Unmissable Samsung Products at Steep Discount Rates This Prime Day!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fresh-install-of-logitech-g910-drivers-enhance-your-pc-experience/"><u>Fresh Install of Logitech G910 Drivers: Enhance Your PC Experience</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-infinix-note-30-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Infinix Note 30 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-chuckle-combat-top-20-tiktok-jokes-and-riddles-for-laughter-lovers/"><u>In 2024, Chuckle Combat Top 20 TikTok Jokes & Riddles for Laughter Lovers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-canon-mx340-software-updates-for-windows-operating-systems-win-1087/"><u>Latest Canon MX340 Software Updates for Windows Operating Systems (Win 10/8/7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-fix-for-techies-seamless-installation-of-targus-portable-docks/"><u>Quick Fix for Techies: Seamless Installation of Targus Portable Docks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-solving-xbox-controller-drivers-in-microsoft-windows-systems/"><u>Troubleshooting and Solving Xbox Controller Drivers in Microsoft Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-addressing-and-solving-realtek-alc887-hd-audio-driver-errors-in-windows-os/"><u>Ultimate Guide to Addressing and Solving Realtek ALC887 HD Audio Driver Errors in Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-hp-officejet-pro-9015-drivers-available-for-immediate-download/"><u>Updated HP OfficeJet Pro 9015 Drivers Available for Immediate Download</u></a></li>
 </ul></div>
 

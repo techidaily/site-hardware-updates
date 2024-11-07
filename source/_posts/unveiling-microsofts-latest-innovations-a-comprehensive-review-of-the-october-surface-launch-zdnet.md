@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Microsoft's Latest Innovations: A Comprehensive Review of the October Surface Launch - ZDNet"
-date: 2024-10-27T20:24:08.886Z
-updated: 2024-11-01T19:43:30.398Z
+date: 2024-10-31T16:11:25.010Z
+updated: 2024-11-07T16:58:52.444Z
 tags:
   - laptops
 categories:
@@ -60,10 +60,10 @@ I've been using the Surface Laptop Studio 2 for just under a week, and I can con
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A much-needed performance upgrade
@@ -107,10 +107,10 @@ Max Buondonno/ZDNET
 The Intel NPU also powers Microsoft's Windows Studio effects, which help to improve the quality of video and audio during calls. This includes keeping your head centered in the frame as you move around, blurring the background, maintaining eye contact with adaptive corrections to your eyes, and minimizing background noise. All of these features worked well in my testing, and made for a more enjoyable video chatting experience. You'll just have to live with a sub-par webcam: while the field of view is nice and wide for automatic framing, the Full HD resolution doesn't feel very sharp and generally looks blurry, even in good lighting.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Gorgeous hardware and a unique screen
@@ -145,16 +145,16 @@ It's also what Microsoft calls the "most inclusive" trackpad ever thanks to Adap
 
 In addition, there are more ports on the Surface Laptop Studio 2, including a USB-A port and a microSD card slot. They sit alongside the dual Thunderbolt 4 ports, Surface Connector, and a 3.5mm headphone jack. I would've liked to see a full-size SD card reader as well, but any extra IO is welcome in my book.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Battery life is…fine
 
 Microsoft says it improved the battery life on the Surface Laptop Studio 2, but it's not very noticeable. I didn't run any endless 4K video loops or scroll a webpage until it died, but I did use the machine for my everyday workload on a full charge, and all I got was just under six hours of use. This was after writing the copy for a variety of reviews and news pieces in Google Chrome, playing Spotify, using Photoshop and Lightroom occasionally, and watching YouTube.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -165,10 +165,10 @@ That being said, no laptop can do what the Studio 2 can and flex the screen down
 [ZDNET RECOMMENDS Microsoft Surface Laptop Studio 2 Microsoft delivers a solid experience with the Studio 2, one that's still as unique as it was the first time around. View at Microsoft](https://www.microsoft.com/en-us/store/configure/surface-laptop-studio-2/8rqr54krf1dz)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -190,20 +190,22 @@ That being said, no laptop can do what the Studio 2 can and flex the screen down
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-engage-viewers-directly-tips-for-live-video-screen-share/"><u>[New] Engage Viewers Directly Tips for Live Video Screen-Share</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-essential-tips-for-choosing-tiktok-screenshots/"><u>[New] Essential Tips for Choosing TikTok Screenshots</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-secrets-to-splendid-windows-11-backdrops/"><u>[New] Secrets to Splendid Windows 11 Backdrops</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amazingly-clear-display-at-an-unbeatable-price-discover-this-budget-friendly-ultrabook-on-zdnet/"><u>Amazingly Clear Display at an Unbeatable Price: Discover This Budget-Friendly Ultrabook on ZDNet</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/comparative-analysis-of-american-spelling-versus-british/"><u>Comparative Analysis of American Spelling Versus British</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discovering-my-all-time-favorites-how-the-hp-spectre-x360-stands-out-amongst-competitors-zdnet-exclusive-insights/"><u>Discovering My All-Time Favorites - How the HP Spectre X360 Stands Out Amongst Competitors | ZDNet Exclusive Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/huge-discount-alert-snag-the-acer-porsche-design-notebook-at-only-600-originally-800-offers-now-available-on-zdnet/"><u>Huge Discount Alert: Snag the Acer Porsche Design Notebook at Only $600, Originally $800 Offers Now Available on ZDNET</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-poco-f5-pro-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Poco F5 Pro 5G Phone When You Forget the Password</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovo-predicts-laptop-evolution-emphasizing-enhanced-ai-capabilities-and-advanced-security-measures/"><u>Lenovo Predicts Laptop Evolution: Emphasizing Enhanced AI Capabilities & Advanced Security Measures</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/strategies-for-effective-conversion-optimization-boosting-engagement-and-revenue/"><u>Strategies for Effective Conversion Optimization: Boosting Engagement and Revenue</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-tecno-pova-6-pro-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Tecno Pova 6 Pro 5G Location | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-display-quality-at-a-bargain-discover-the-latest-laptops-with-top-notch-visuals-exclusive-sale-alert/"><u>Unbeatable Display Quality at a Bargain: Discover the Latest Laptops With Top-Notch Visuals - Exclusive Sale Alert!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-workplace-efficiency-an-in-depth-look-at-this-years-hidden-gem-among-2-in-1-laptops-zdnet-insights/"><u>Unlocking Workplace Efficiency: An In-Depth Look at This Year's Hidden Gem Among 2-In-1 Laptops | ZDNET Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-9-reasons-to-think-twice-before-opting-for-an-ai-mental-health-professional/"><u>Unveiling 9 Reasons to Think Twice Before Opting for an AI Mental Health Professional</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/vlc-challenge-against-mx-player-for-2024/"><u>VLC Challenge Against MX Player for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-primer-to-perfect-hdr-cameras-the-definitive-list/"><u>[New] A Primer to Perfect HDR Cameras The Definitive List</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-enhancing-content-visibility-slug-line-tactics-for-2024/"><u>[New] Enhancing Content Visibility Slug Line Tactics for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-depth-analysis-of-altering-facial-gender-on-social-platforms/"><u>[Updated] In-Depth Analysis of Altering Facial Gender on Social Platforms</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-digital-duo-dynamics-joining-instagram-and-tiktok-powerfully/"><u>2024 Approved Digital Duo Dynamics Joining Instagram and TikTok Powerfully</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-instructions-to-downloading-and-setting-up-epson-wf-3540-drivers-on-windows-computers/"><u>Complete Instructions to Downloading and Setting Up Epson WF-3540 Drivers on Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/diagnosis/"><u>Diagnosis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-instructions-for-installing-latest-ati-radeon-driver-updates-in-windows-os/"><u>Easy Instructions for Installing Latest ATI Radeon Driver Updates in Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-download-and-update-for-your-dell-printer-software/"><u>Effortless Download and Update for Your Dell Printer Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-peak-performance-with-new-amd-radeon-rx-6800-xt-driver-downloads-for-windows-operating-systems/"><u>Ensure Peak Performance with New AMD Radeon RX 6800 XT Driver Downloads for Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixing-ralink-rt3290-drivers-troubleshooting-on-windows-10-8-and-7/"><u>Fixing Ralink RT3290 Drivers: Troubleshooting on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-xiaomi-redmi-a2-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Xiaomi Redmi A2 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-tecno-phantom-v-flip-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Tecno Phantom V Flip to Protect Your Individual Information</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6-plus-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6 Plus Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-fixes-for-your-devices-bcm2045a0-driver-problems-step-by-step/"><u>Quick Fixes for Your Device's Bcm2045a0 Driver Problems – Step by Step</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-metrics-of-mastery-assessing-luminances-hdr-capabilities-for-2024/"><u>The Metrics of Mastery Assessing Luminance's HDR Capabilities for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-optimal-gaming-performance-on-nvidias-gtx-1660-ti-with-driver-upgrades/"><u>Unlock Optimal Gaming Performance on NVIDIA's GTX 1660 Ti with Driver Upgrades</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-editing-mastery-leveraging-youtube-then-expanding-beyond-for-2024/"><u>Video Editing Mastery Leveraging YouTube, Then Expanding Beyond for 2024</u></a></li>
 </ul></div>
 

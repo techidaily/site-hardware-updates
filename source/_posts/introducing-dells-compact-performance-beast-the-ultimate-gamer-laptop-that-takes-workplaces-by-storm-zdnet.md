@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's Compact Performance Beast: The Ultimate Gamer Laptop That Takes Workplaces by Storm | ZDNet"
-date: 2024-10-30T19:12:37.478Z
-updated: 2024-11-01T16:38:43.826Z
+date: 2024-11-04T16:30:15.098Z
+updated: 2024-11-07T16:50:12.892Z
 tags:
   - laptops
 categories:
@@ -95,10 +95,10 @@ A total of five vents on the m18 R2 allow for maximum internal airflow. Addition
 In fact, one thing I noticed about the m18 R2 is that it never really felt hot to the touch at all. Both the keyboard and the wrist rest (above where the battery is housed) remained only slightly warm, suggesting that the fans were in fact doing their job effectively, which I'm glad for, given the sound they generate. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -108,10 +108,10 @@ In fact, one thing I noticed about the m18 R2 is that it never really felt hot t
 However, this is also quite a large laptop, so although it's portable, it isn't exactly carry-and-go, and it isn't a machine that you can leave unplugged for hours at a time. Pricing can easily rise toward the higher end too, but the cutting-edge technology solidifies the m18 R2 as something that will be near the top of the laptop market for a while. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -148,17 +148,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-boost-stories-interaction-with-peculiar-creative-questions/"><u>[New] 2024 Approved Boost Stories Interaction with Peculiar Creative Questions</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-how-to-safeguard-your-live-streams-on-periscope/"><u>[Updated] 2024 Approved How To Safeguard Your Live Streams on Periscope</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-pinnacle-performances-in-figure-skate-22-for-2024/"><u>[Updated] Pinnacle Performances in Figure Skate '22 for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-4-ways-to-record-internal-android-audio-no-rooting/"><u>2024 Approved 4 Ways to Record Internal Android Audio (No Rooting)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-ryzen-chipset-updates-secure-and-simple-guide/"><u>AMD Ryzen Chipset Updates: Secure and Simple Guide</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/best-free-youtube-intro-makers-to-create-awesome-intros/"><u>Best Free YouTube Intro Makers to Create Awesome Intros</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-latest-lenovo-webcam-drivers-for-windows-7-users/"><u>How to Install the Latest Lenovo Webcam Drivers for Windows 7 Users</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-huawei-nova-y91-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Huawei Nova Y91 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-tips-for-quicker-periscope-livestreams/"><u>In 2024, Tips for Quicker Periscope Livestreams</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-for-updatinginstalling-windows-huion-graphics-tablet-software/"><u>Step-by-Step Instructions for Updating/Installing Windows Huion Graphics Tablet Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-computing-companion-unveiling-latest-hardware-innovations/"><u>Tom's Computing Companion: Unveiling Latest Hardware Innovations</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-streamline-your-viewing-experience-youtube-ad-block-strategies/"><u>[New] 2024 Approved Streamline Your Viewing Experience - YouTube Ad-Block Strategies</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-share-laughter-easily-use-kapwing-to-make-memes/"><u>[Updated] 2024 Approved Share Laughter Easily - Use Kapwing to Make Memes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-8-best-sketch-tools-for-digital-illustrators/"><u>[Updated] 2024 Approved The 8 Best Sketch Tools for Digital Illustrators</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-strategies-to-enhance-testimonial-credibility-and-impact/"><u>[Updated] Strategies to Enhance Testimonial Credibility and Impact</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/5yaz55yf44gu44gn44km44ge44gq6z2s56m644g4ic0g44gf44gh44gplus44gh44cm5pif44gu5lplusu5b6p5rov44cn5ywl5oml5pa55rov/"><u>写真のきれいな青空へ - たちまち「星の修復法」入手方法</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978576736-a-reference-population-with-known-phenotypes-and-genotypes-is-essential-for-genomic-prediction-models/"><u>A Reference Population with Known Phenotypes and Genotypes Is Essential for Genomic Prediction Models</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-practices-installing-focusrite-scarlett-2i4-audio-drivers-on-windows-pc/"><u>Best Practices: Installing Focusrite Scarlett 2I4 Audio Drivers on Windows PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/bluetooth-usb-adapter-support-guide-asus-bt400/"><u>Bluetooth USB Adapter Support Guide - Asus BT400</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/direct-links-to-download-drivers-for-xbox-360-controllers-trusted-sources/"><u>Direct Links to Download Drivers for Xbox 360 Controllers (Trusted Sources)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-download-updated-mpow-bluetooth-drivers-and-compatibility-with-win-1087-enhance-your-connectivity/"><u>Easy Download: Updated MPOW Bluetooth Drivers & Compatibility with Win 10/8/7 - Enhance Your Connectivity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-download-of-wacom-intuos-pro-driver-compatible-with-windows-11/"><u>Effortless Download of Wacom Intuos Pro Driver Compatible with Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-downloads-for-hp-officejet-pro-6968-drive-compatibility-ensured/"><u>Essential Downloads for HP OfficeJet Pro 6968 – Drive Compatibility Ensured</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-optimal-performance-free-dell-wireless-network-drivers-compatible-with-windows-groovy-7/"><u>Get Optimal Performance: Free Dell Wireless Network Drivers Compatible with Windows Groovy 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-focusrite-scarlett-2i4-windows-device-drivers-here/"><u>Get Your Focusrite Scarlett 2I4 Windows Device Drivers Here!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Realme C53? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-phone-with-funimate-the-ultimate-apk-guide/"><u>In 2024, Transform Your Phone with Funimate - The Ultimate APK Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Oppo Reno 8T | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 2023'S Most Impactful Tech Innovations Unveiled | How They Transformed the Game - Featured
-date: 2024-10-29T22:06:27.207Z
-updated: 2024-11-01T20:17:28.990Z
+date: 2024-11-05T16:30:53.098Z
+updated: 2024-11-07T16:09:11.089Z
 tags:
   - laptops
 categories:
@@ -43,10 +43,10 @@ Running AI applications locally yields four major advantages: 1) All information
 "The idle power consumption of a single fully populated AI-accelerated server can approach one kilowatt of power while the peak power consumption can approach several kilowatts of power. This number multiplies by the number of servers required to run a generative AI model and the number of times a model is run, which is increasing exponentially," says Jim McGregor, Principal Analyst at [TIRIAS Research](https://www.tiriasresearch.com/). On-device AI solves this problem by keeping most, if not all, of the friction within our devices -- which will be plenty capable come next year.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Generative AI for professional workflows
@@ -62,10 +62,10 @@ Some tools include [Wix's AI Site Generator](https://www.zdnet.com/article/this-
 Such workloads, especially as companies fine-tune these large language models, often require pushing the GPUs (graphics processing units) and RAM in computers and servers to the max, setting a precedent for an AI arms race between the world's largest semiconductor companies -- Intel, AMD, Nvidia, and Qualcomm included. Expect more "for AI" computers, chipsets, and fancy comparison charts in 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Wireless TVs take cord-cutting to the extreme
@@ -83,10 +83,10 @@ Naturally, one of the big questions with wireless TVs is how latency factors int
 That said, wireless TVs are certainly not priced for the mainstream; the Displace TV lists for $4,499, and the LG OLED M will run you upwards of $35,000\. But for your closest look at a future without cords and cables dangling off walls, this may well be the best place to start.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A Copilot for every PC user
@@ -102,10 +102,10 @@ The vision was straightforward; with a single click from the taskbar, more than 
 At the base level, Copilot on Windows 11 can save users dozens of clicks every day, now that the AI assistant can help navigate those sophisticated location paths to tweak display resolutions, set dark theme timers, and do other mundane tasks. For businesses and enterprises, Copilot will be capable of [tackling cybersecurity threats](https://www.zdnet.com/article/boosting-cybersecurity-microsofts-ai-driven-security-copilot-unveiled-at-ignite-2023/), from risk identification with machine learning algorithms to automated response mechanisms for near-instant defense.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Pinching the air will become normal
@@ -150,22 +150,14 @@ The big question with pinching is how multidimensional such a basic gesture can 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-fine-tune-your-cinematography-mastering-kinemaster-zoom-features/"><u>[New] Fine-Tune Your Cinematography Mastering Kinemaster Zoom Features</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-spectrum-of-virtuality-from-meta-to-omniverse-explored-for-2024/"><u>[New] The Spectrum of Virtuality From Meta to Omniverse Explored for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-accessing-audio-at-no-cost-the-ultimate-list-of-8-mp3-seekers-android/"><u>[Updated] 2024 Approved Accessing Audio at No Cost The Ultimate List of 8 MP3 Seekers (Android)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1717714323044-updated-2024-approved-how-to-fix-the-green-screen-on-youtube-on-mac/"><u>[Updated] 2024 Approved How to Fix the Green Screen on YouTube on Mac</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/400-bargain-hp-latest-laptop-compatible-mouse-and-all-access-to-ms-365-exclusive-offer/"><u>$400 Bargain: HP Latest Laptop, Compatible Mouse, and All-Access to MS 365 - Exclusive Offer !</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-xr-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone XR to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/astonishing-combination-top-tier-oled-display-and-webcam-on-acer-laptop-the-latest-test-results-revealed/"><u>Astonishing Combination: Top-Tier OLED Display & Webcam on Acer Laptop - The Latest Test Results Revealed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-prime-day-shopping-discounts-for-gamers-in-octo/"><u>Best Prime Day Shopping Discounts for Gamers in Octo</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/capture-your-games-in-stunning-detail-on-windows-11/"><u>Capture Your Games in Stunning Detail on Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-lenovos-innovative-tech-seamlessly-transfers-files-from-iphones-with-latest-laptop-models-why-you-shouldnt-miss-out/"><u>Discover Lenovo's Innovative Tech: Seamlessly Transfers Files From iPhones with Latest Laptop Models - Why You Shouldn't Miss Out!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discovering-the-hidden-gems-how-dell-delivers-innovative-functionality-on-a-budget-as-reviewed/"><u>Discovering the Hidden Gems: How Dell Delivers Innovative Functionality on a Budget, as Reviewed</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Passcode without Computer?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/live-streaming-mastery-discover-the-top-features-of-manycam-virtual-webcam-and-screen-recording-app/"><u>Live Streaming Mastery: Discover the Top Features of ManyCam, Virtual Webcam, and Screen Recording App</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximizing-connectivity-a-step-by-step-strategy-for-adding-additional-ports-to-your-macbook-or-ipad-pro-expert-advice/"><u>Maximizing Connectivity: A Step-by-Step Strategy for Adding Additional Ports to Your MacBook or iPad Pro | Expert Advice</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-your-digital-queries-embrace-perplexity-ai/"><u>Revolutionize Your Digital Queries – Embrace Perplexity AI</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-black-friday-bargain-snag-the-hp-envy-x360-with-a-stunning-40-discount-just-499/"><u>Unbeatable Black Friday Bargain! Snag the HP Envy X360 with a Stunning 40% Discount - Just $499</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-october-prime-day-offer-on-metas-latest-512gb-quest-3-top-virtual-reality-sale-by-zdnet/"><u>Unbeatable October Prime Day Offer on Meta’s Latest 512GB Quest 3 – Top Virtual Reality Sale by ZDNet!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-screen-saving-snapchat-memories-on-phone/"><u>2024 Approved Screen Saving Snapchat Memories on Phone</u></a></li>
+<li><a href="https://discover-best.techidaily.com/cookiebot-enhanced-experience-unleashing-personalized-user-engagement/"><u>Cookiebot-Enhanced Experience: Unleashing Personalized User Engagement</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-acer-paddriver-pro-the-ultimate-guide-for-windows-11-users/"><u>How to Download and Install Acer PadDriver Pro: The Ultimate Guide for Windows 11 Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-a-comprehensive-guide-to-climbing-the-facebook-rankings-ladder/"><u>In 2024, A Comprehensive Guide to Climbing the Facebook Rankings Ladder</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-release-universal-bluetooth-adapter-software-update-for-pcs/"><u>New Release: Universal Bluetooth Adapter Software Update for PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-and-fast-corsair-keyboard-support-downloads-for-windows-no-cost-involved/"><u>Secure and Fast CORSAIR Keyboard Support Downloads for Windows - No Cost Involved</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-solving-beats-audio-driver-problems-in-hp-devices-on-windows-1187/"><u>Step-by-Step Guide to Solving Beats Audio Driver Problems in HP Devices on Windows 11/8/7</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-saving-and-storing-your-gpt-conversations/"><u>Step-by-Step: Saving and Storing Your GPT Conversations</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-issues-with-a-nonfunctional-paradox-launcher/"><u>Troubleshooting Guide: Resolving Issues with a Nonfunctional Paradox Launcher</u></a></li>
 </ul></div>
 

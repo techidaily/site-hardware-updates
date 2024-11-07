@@ -1,7 +1,7 @@
 ---
 title: Top Prime Day Cyber Monday Bargains on Computers - Find the Best October Offers!
-date: 2024-10-28T17:57:49.119Z
-updated: 2024-11-01T16:29:59.151Z
+date: 2024-11-02T16:29:00.530Z
+updated: 2024-11-07T16:57:52.220Z
 tags:
   - laptops
 categories:
@@ -70,13 +70,6 @@ LG
 * [Westinghouse 24-inch smart Roku TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fwestinghouse-24-hd-smart-roku-tv%2F6488966.p%3FskuId%3D6488966&publisher_slug=itechdaily19598&exclusive=1) for $90 (save $70) at Best Buy
 * [Toshiba 65-inch smart Fire TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Ftoshiba-65-class-c350-series-led-4k-uhd-smart-fire-tv%2F6458646.p%3FskuId%3D6458646&publisher_slug=itechdaily19598&exclusive=1) for $430 (save $170) at Best Buy
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Best Cyber Monday laptop deals**
 
 It's November, which, among other things, means Black Friday and Cyber Monday deals and discounts on laptops of all kinds from retailers and laptop manufacturers. Black Friday started weeks ago, so the sales engine has long been up and running. There are some excellent deals to be had throughout the month. ZDNET is rounding up its top picks for the best laptop deals. 
@@ -137,10 +130,10 @@ Image: Best Buy
 * [HP V223ve FHD Monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-V223ve-21-5-inch-certified-Ergonomic%2Fdp%2FB09GKZ71PJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C02c6a691-cb7f-4260-9fef-f0ae6aeb6788%7Cdtp&dtb=1) for $105 (save $145) at Amazon
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Best Cyber Monday home deals**
@@ -176,10 +169,10 @@ Sherin Shibu
 * [Apple TV HD 32GB](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-TV-HD-32GB-2nd-Generation%2F525801397&subId1=zd-__COM_CLICK_ID__-dtp) for $59 (save $40) at Walmart
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Best Cyber Monday headphone deals**
@@ -215,6 +208,13 @@ Samsung
 * [Samsung Galaxy S21 FE (128GB) smartphone](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09BFSTTNK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C02c6a691-cb7f-4260-9fef-f0ae6aeb6788%7Cdtp&dtb=1) for $400 (save $300) at Amazon
 * [Google Pixel 6a](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-6a-Smartphone-Megapixel%2Fdp%2FB0B3PQPNKS%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C02c6a691-cb7f-4260-9fef-f0ae6aeb6788%7Cdtp&dtb=1) for $360 (save $89) at Amazon
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Best Cyber Monday smartwatch deals**
 
 Sometimes relying on your phone to see what time it is, how many steps you took, and what the weather will look like tomorrow can get a little annoying. But with smartwatches, you can get access to all those features and so much more. Check out these deals on smartwatches from the comfort of your own home this holiday season. 
@@ -230,6 +230,13 @@ Apple
 * [Restored Apple Watch Series 3- 42 mm](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FRestored-Apple-Watch-Series-3-42mm-Space-Gray-Aluminum-Case-Gray-Sport-Band-Refurbished%2F346346528&subId1=zd-__COM_CLICK_ID__-dtp) for $79 (save $40) at Walmart
 * [Citizen CZ Smart Hybrid smartwatch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCitizen-smartwatch-Continuous-Notifications-Connection%2Fdp%2FB09FFQFFRB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C02c6a691-cb7f-4260-9fef-f0ae6aeb6788%7Cdtp&dtb=1) for $262 (save $88) at Amazon
 * [Samsung Galaxy Watch 5 Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B2HXJZ98%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C02c6a691-cb7f-4260-9fef-f0ae6aeb6788%7Cdtp&dtb=1) for $399 (save $49) at Amazon
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Best Cyber Monday speaker deals**
 
@@ -250,13 +257,6 @@ Target
 * [Bose Smart Sound bar with Dolby Atmos and Voice Assistant](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fbose-smart-soundbar-900-with-dolby-atmos-and-voice-assistant-black%2F6470267.p%3F&publisher_slug=itechdaily19598&exclusive=1) for $749 (save $150) at Best Buy
 * [LG 2.1- Channel Soundbar](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-2-1-channel-soundbar-with-wireless-subwoofer-and-dts-virtualx-black%2F6479130.p%3F&publisher_slug=itechdaily19598&exclusive=1) for $119 (save $160) at Best Buy
 * [JBL PartyBox 100 High Power Portable Wireless Bluetooth Speaker](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FJBL-PartyBox-100-High-Power-Portable-Wireless-Bluetooth-Speaker-Black%2F691892469%3F&subId1=zd-__COM_CLICK_ID__-dtp) for $199 (save $100) at Walmart
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **More Cyber Monday tech deals**
 
@@ -298,6 +298,19 @@ We've shopped online just as much as you, but we're experts at finding tech deal
 
 Black Friday takes place every year on the day after Thanksgiving. This year, Black Friday 2022 fell on Friday, Nov. 25\. But, honestly, Black Friday is no longer just a 24-hour event. It's morphed into weeks of early bird deals, doorbusters, and even sales that start in October. 
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When was Cyber Monday 2022?
 
 Black Friday and Cyber Monday are synonymous with big sales that kick off the holiday shopping season. While Black Friday deals started in October this year and can include brick-and-mortar stores and online retailers, Cyber Monday sales are primarily online and can extend Black Friday an entire week -- ultimately turning into Cyber Week. Cyber Monday is always the Monday after Thanksgiving, so this year it falls on Nov. 28.
@@ -310,13 +323,6 @@ ZDNET scoured Cyber Monday sales to find the best deals this year, and many are 
 
 Our experts split out the best deals by retailer, brand, and category, which you can see below. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Cyber Monday deals still available by retailer**
 
 * [The best Cyber Monday 2022 deals at Amazon](https://www.zdnet.com/article/amazon-cyber-monday-deals-still-available-november-30-2022/)
@@ -326,19 +332,6 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best Cyber Monday 2022 deals at Walmart](https://www.zdnet.com/article/walmart-cyber-monday-deals-still-available-november-30-2022/)
 * [Top early Cyber Monday 2022 deals at Best Buy](https://www.zdnet.com/article/best-buy-cyber-monday-deals-still-available-november-30-2022/)
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Cyber Monday deals still available by brand**
 
 * [The best Cyber Monday 2022 Apple deals](https://www.zdnet.com/article/apple-cyber-monday-deals-still-available-november-30-2022/)
@@ -347,10 +340,10 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best Cyber Monday 2022 HP deals](https://www.zdnet.com/home-and-office/hp-cyber-monday-deals-still-available-november-30-2022/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Cyber Monday deals still available by category**
@@ -378,6 +371,13 @@ Our experts split out the best deals by retailer, brand, and category, which you
  Here are some of the cheapest deals we found that are still available:
 
 * [The best Cyber Monday 2022 deals under $30](https://www.zdnet.com/home-and-office/best-cyber-monday-deals-under-30-still-available-november-30-2022/)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Cyber Monday live blog deals still available**
 
@@ -425,22 +425,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-how-to-fix-no-video-on-sony-a6400-camera/"><u>[Updated] 2024 Approved How to Fix No Video On Sony A6400 Camera</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-optimized-broadcast-sharing-live-streams-from-twitch-for-2024/"><u>[Updated] Optimized Broadcast Sharing Live Streams From Twitch for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/dark-souls-eboot-fixes-how-to-stop-game-crashes-once-and-for-all/"><u>Dark Souls Eboot Fixes: How to Stop Game Crashes Once and for All!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-fixes-how-to-install-the-latest-webcam-software-on-windows-10/"><u>Easy Fixes: How to Install the Latest Webcam Software on Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effective-fixes-for-ralink-rt3290-driver-issues-on-various-windows-versions/"><u>Effective Fixes for Ralink RT3290 Driver Issues on Various Windows Versions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-compatible-nvidia-drivers-for-gaming-on-windows-11-and-10/"><u>Free Download: Compatible Nvidia Drivers for Gaming on Windows 11 & 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-dell-g15-drivers-easy-setup-guide-for-windows-users/"><u>Get the Latest Dell G15 Drivers: Easy Setup Guide for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-logitech-g29-racing-wheel-driver-support-for-windows-11107-users/"><u>Get the Latest Logitech G29 Racing Wheel Driver Support for Windows 11/10/7 Users</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-free-up-iphone-12-mini-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up iPhone 12 mini Space | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-keep-your-hp-laserjet-1320-running-smoothly-with-fresh-windows-driver-downloads/"><u>How to Keep Your HP LaserJet 1320 Running Smoothly with Fresh Windows Driver Downloads</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-samsung-galaxy-m34-to-mac-drfone-by-drfone-android/"><u>How to Mirror Samsung Galaxy M34 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-essentials-checklist-for-evaluating-vidma-recorder/"><u>In 2024, Essentials Checklist for Evaluating Vidma Recorder</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-look-at-toms-hardware-breakdowns-and-comparisons/"><u>Inside Look at Tom's Hardware Breakdowns and Comparisons</u></a></li>
-<li><a href="https://driver-install.techidaily.com/integrate-canon-mx870-in-diverse-windows-ecosystems/"><u>Integrate Canon MX870 in Diverse Windows Ecosystems</u></a></li>
-<li><a href="https://win-guides.techidaily.com/microsoft-reveals-pricing-plan-for-future-windows-10-updates-understanding-the-new-changes-and-potential-impacts/"><u>Microsoft Reveals Pricing Plan for Future Windows 10 Updates - Understanding the New Changes and Potential Impacts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-xbox-game-pass-error-0x800700e9-on-windows-11/"><u>Overcoming Xbox Game Pass Error: 0X800700E9 on Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-guide-fixing-unrecognized-usb-devices-on-windows-10/"><u>Troubleshooting Guide: Fixing Unrecognized USB Devices on Windows 10</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/mass-1000-visionary-supporters-fast-track-style-for-2024/"><u>[New] Amass 1,000 Visionary Supporters Fast-Track Style for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-clearer-streams-youtube-video-borderless-adjustment/"><u>[Updated] Clearer Streams YouTube Video Borderless Adjustment</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-how-can-you-improve-zoom-video-resolution-quality-for-2024/"><u>[Updated] How Can You Improve Zoom Video Resolution Quality for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-explore-uncharted-territories-with-these-iphone-vr-apps/"><u>[Updated] In 2024, Explore Uncharted Territories with These iPhone VR Apps</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-fusion-of-video-and-melody-adding-music-to-vimeo-projects/"><u>[Updated] In 2024, Fusion of Video & Melody Adding Music to Vimeo Projects</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/efficient-printing-in-windows-7810-epson-gt-s50-drivers-available-here/"><u>Efficient Printing in Windows 7/8/10: Epson GT S50 Drivers Available Here!</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-system-issues-of-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/immune-evasion/"><u>Immune Evasion</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722962784493-improve-your-bluetooth-connectivity-on-windows-latest-microsoft-drivers-for-win-7810-and-11-download-today/"><u>Improve Your Bluetooth Connectivity on Windows: Latest Microsoft Drivers for Win 7/8/10 & 11 - Download Today!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-xiaomi-redmi-k70-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-ideapad-100-drivers-download-and-update-on-windows-10/"><u>Lenovo IdeaPad 100 Drivers Download & Update on Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-installing-latest-graphics-drivers-on-windows-focus-on-amd-radeon-r9/"><u>Step-by-Step Tutorial: Installing Latest Graphics Drivers on Windows - Focus on AMD Radeon R9</u></a></li>
 </ul></div>
 

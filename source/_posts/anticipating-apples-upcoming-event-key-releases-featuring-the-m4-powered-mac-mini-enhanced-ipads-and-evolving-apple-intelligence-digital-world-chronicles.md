@@ -1,7 +1,7 @@
 ---
 title: "Anticipating Apple's Upcoming Event: Key Releases Featuring the M4 Powered Mac Mini, Enhanced iPads and Evolving Apple Intelligence | Digital World Chronicles"
-date: 2024-10-29T20:04:32.343Z
-updated: 2024-11-01T19:22:15.173Z
+date: 2024-11-06T16:16:38.250Z
+updated: 2024-11-07T16:19:11.831Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,16 +60,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -83,10 +77,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -129,24 +123,21 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mobile-security-focused-the-leading-10-free-video-calling-applications/"><u>[Updated] In 2024, Mobile Security-Focused The Leading 10 Free Video Calling Applications</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-solutions-for-balancing-iphone-hdr-footage-with-advanced-premiere-pro-tools/"><u>2024 Approved Solutions for Balancing iPhone HDR Footage with Advanced Premiere Pro Tools</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-asus-rog-phone-8-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Asus ROG Phone 8 Phone</u></a></li>
-<li><a href="https://discover-data.techidaily.com/1728468296967-iphone/"><u>如何簡單地更新/下載和重新安裝你的iPhone驅動程式</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-value-buys-why-this-windows-laptop-outperforms-macbook-air-and-is-currently-discounted-insider-picks/"><u>Best Value Buys: Why This Windows Laptop Outperforms MacBook Air and Is Currently Discounted | Insider Picks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-evaluation-of-lenovo-ideapad-gaming-chromebook-analyzing-the-impact-of-hardware-on-cloud-based-gaming-performance/"><u>Comprehensive Evaluation of Lenovo IdeaPad Gaming Chromebook: Analyzing the Impact of Hardware on Cloud-Based Gaming Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/elite-video-editors-ultimate-laptop-selection-for-professionals-in-depth-analysis-and-ratings-experts/"><u>Elite Video Editors Ultimate Laptop Selection for Professionals - In-Depth Analysis and Ratings Experts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/essential-5-online-video-capture-apps-for-2024/"><u>Essential 5 Online Video Capture Apps for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-the-power-of-upgrading-to-a-desktop-with-this-stealthy-dock-insights-from-zdnet/"><u>Experience the Power of Upgrading to a Desktop with This Stealthy Dock - Insights From ZDNet</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-nvidia-rtx-3090-drivers-compatible-with-windows-11-8-and-s/"><u>Latest NVIDIA RTX 3090 Drivers - Compatible With Windows 11, 8 & S</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pro-fishing-visionaries-discovering-our-5-best-cameras-for-2024/"><u>Pro-Fishing Visionaries Discovering Our 5 Best Cameras for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-savings-and-serenity-the-9-reasons-to-be-online-for-life/"><u>Social Savings & Serenity: The 9 Reasons to Be Online for Life</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-streaming-mkv-video-formats-on-your-ios-device/"><u>Step-by-Step Guide: Streaming MKV Video Formats on Your iOS Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-secret-advantages-of-dells-budget-friendly-laptop-revealed-by-tech-expert/"><u>The Secret Advantages of Dell's Budget-Friendly Laptop Revealed by Tech Expert</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranking-student-laptops-comprehensive-testing-and-reviews-by-tech-experts/"><u>Top-Ranking Student Laptops: Comprehensive Testing & Reviews by Tech Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/transform-your-laptop-with-upgraded-4k-introducing-a-device-that-enables-dual-screen-support-on-unsupported-hardware-techradar/"><u>Transform Your Laptop with Upgraded 4K: Introducing a Device That Enables Dual Screen Support on Unsupported Hardware | TechRadar</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleashing-power-and-play-the-definitive-rankings-of-2024s-elite-gaming-laptops-by-leading-brands-like-razer-acer-msi-zdnet-analysis/"><u>Unleashing Power and Play: The Definitive Rankings of 2024'S Elite Gaming Laptops by Leading Brands Like Razer, Acer, MSI | ZDNET Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/value-meets-performance-unpacking-the-affordable-surface-pro-11-experience-with-expert-analysis-zdnet-news/"><u>Value Meets Performance: Unpacking the Affordable Surface Pro 11 Experience with Expert Analysis | ZDNET News</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Tecno Spark 10 4G? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-clear-youtube-watch-later-playlist/"><u>[New] 2024 Approved How to Clear YouTube Watch Later Playlist</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-audioextractorproxs-new-era-insights-from-the-2024-update/"><u>[New] AudioExtractorProX's New Era Insights From the 2024 Update</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-windows-11-gamers-top-5-techniques-for-perfect-snapshots/"><u>[New] Windows 11 Gamers Top 5 Techniques for Perfect Snapshots</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-top-live-broadcast-tech-for-industry-experts/"><u>[Updated] In 2024, Top Live Broadcast Tech for Industry Experts</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-top-gif-creators-from-tiktok-to-graphics-for-2024/"><u>[Updated] Top GIF Creators From TikTok to Graphics for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfect-harmony-in-canvas-cropping-adding-music-to-video/"><u>2024 Approved Perfect Harmony in Canvas Cropping, Adding Music to Video</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-your-new-amd-radeon-drivers-optimized-for-windows-operating-system/"><u>Download Your New AMD Radeon Drivers: Optimized for Windows Operating System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-epson-wf-3620-driver-update-for-pcs-running-windows-1087-free-download/"><u>Get the Newest Epson WF-3620 Driver Update for PCs Running Windows 10/8/7 - Free Download!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-g-pro-drivers-for-windows-now-supports-windows-111087/"><u>Get Your Logitech G Pro Drivers for Windows Now - Supports Windows 11/10/8/7</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-honor-x8b-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Honor X8b Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://win-dash.techidaily.com/resolve-network-issues-access-improved-wireless-drivers-download-now/"><u>Resolve Network Issues: Access Improved Wireless Drivers - Download Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-issues-with-microsofts-compliant-battery-driver-under-the-acpi-framework/"><u>Resolving Issues with Microsoft's Compliant Battery Driver Under the ACPI Framework</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restore-normal-operation-win10-screensaver/"><u>Restore Normal Operation Win10 Screensaver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-integration-download-and-setup-for-top-tier-intel-thunderbolt-controller-drivers/"><u>Seamless Integration: Download & Setup for Top-Tier Intel Thunderbolt Controller Drivers!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974274506-secure-your-asrock-ab350-pro4-with-free-windows-drivers-download-made-easy/"><u>Secure Your ASRock AB350 Pro4 with Free Windows Drivers – Download Made Easy</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976986837-tp-link-ac-wireless-network-card-drivers-updated-for-windows-operating-systems-11-8-and-groove-download-now/"><u>TP-Link AC Wireless Network Card Drivers Updated | For Windows Operating Systems (11, 8 & Groove) Download Now!</u></a></li>
 </ul></div>
 
