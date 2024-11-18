@@ -1,7 +1,7 @@
 ---
 title: "Essential Tricks: Handling Constant On-Off of Mac's Cooling Fans | ZDNet"
-date: 2024-11-01T16:53:43.812Z
-updated: 2024-11-07T16:14:37.519Z
+date: 2024-11-14T22:37:37.509Z
+updated: 2024-11-17T18:17:39.149Z
 tags:
   - laptops
 categories:
@@ -39,10 +39,16 @@ If you're running a resource-heavy application such as Photoshop, or have a brow
 Another heavy load for MacBooks is using [external monitors](https://www.zdnet.com/article/best-monitor/), because these stress the GPU, which in turn means that the fans need to run more often. Not reassured? Keep reading. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Is your Mac hot or not?
@@ -58,10 +64,10 @@ The TG Pro Mac software in action.
 Adrian Kingsley-Hughes/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Reboot
@@ -75,19 +81,6 @@ It's possible that an application -- or maybe even the operating system -- has c
 If you're still experiencing this problem and you don't think that it's normal (that is, you've rebooted and you're not running anything that's hammering at the CPU or GPU that much) and you have an Intel-based Mac, then I recommend that you try resetting the SMC and PRAM. (This does not work on the new Apple Silicon Macs -- I'll get to those in a bit.)
 
 Don't worry, it's a lot easier than it sounds -- oh, and you won't lose any data doing this!
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Reset SMC (System Management Controller)
 
@@ -103,15 +96,22 @@ This one tip can fix a whole raft of Mac issues. However, how you go about doing
 
 To reset the PRAM you need to hold down COMMAND and OPTION and P and R while powering on the system. Here's another of those times when a spare arm (or an assistant) comes in handy! Keep holding down the four buttons for about 20 seconds, and you'll hear [the "WALL-E" startup chime](https://www.youtube.com/watch?v=bBmM4VM8Bv8) or see the Apple logo a couple of times. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Restart your Apple Silicon Mac
 
 For these newer M1- and M2-powered Macs, resetting the SMC and PRAM doesn't work, and all Apple recommends doing is restarting the computer.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Oh, one more thing ... dust!
@@ -154,24 +154,21 @@ Hold the nozzle an inch or so away from the vents and only use the suction brief
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-instagram-videos-understanding-time-constraints/"><u>[Updated] 2024 Approved Mastering Instagram Videos Understanding Time Constraints</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-calls-recorded-and-saved-iphone-24-sound-guide/"><u>2024 Approved Calls Recorded & Saved IPhone '24 Sound Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/capture-and-share-the-world-in-high-definition-with-mi-11s-screenshot-capabilities-for-2024/"><u>Capture and Share the World in High Definition with Mi 11'S Screenshot Capabilities for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/common-problems-and-fixes-for-a-malfunctioning-logitech-g230-microphone-resolved/"><u>Common Problems and Fixes for a Malfunctioning Logitech G230 Microphone - Resolved</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723013010964-efficient-loading-tactics-for-faster-and-easier-loot-in-dayz-pvp/"><u>Efficient Loading Tactics for Faster & Easier Loot in DayZ PvP</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-latest-in-technology-with-toms-hardware-insights/"><u>Exploring the Latest in Technology with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/frameworks-cutting-edge-how-switching-to-ubuntu-elevates-the-new-amd-ryzen-7-laptop-beyond-windows-11-capabilities/"><u>Framework's Cutting Edge: How Switching to Ubuntu Elevates the New AMD Ryzen 7 Laptop Beyond Windows 11 Capabilities</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/gamers-dream-deal-save-hundreds-on-the-razer-blade-15-laptop-in-2n3-best-offer-ever/"><u>Gamer's Dream Deal! Save Hundreds on the Razer Blade 15 Laptop in 2N3 - Best Offer Ever!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-asus-2024-rog-zephyrus-g14-with-oled-display-and-nvidias-rtx-4060-at-a-discounted-price-save-300-now/"><u>Get the Asus 2024 ROG Zephyrus G14 with OLED Display and NVIDIA's RTX 4060 at a Discounted Price - Save $300 Now!</u></a></li>
-<li><a href="https://win-bits.techidaily.com/how-to-download-music-and-movies-from-godtube-in-high-quality-mp3-and-mp4-format-compatible-with-pcs-and-macs/"><u>How to Download Music & Movies From Godtube in High Quality - MP3 & MP4 Format Compatible with PCs and Macs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/huge-savings-opportunity-snag-an-alienware-m18-r2-laptop-powered-by-rtx-4090-for-700-less/"><u>Huge Savings Opportunity: Snag an Alienware M18 R2 Laptop Powered by RTX 4090 for $700 Less!</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-online-video-editing-essentials-download-edit-and-publish-like-a-pro/"><u>In 2024, Online Video Editing Essentials Download, Edit, and Publish Like a Pro</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-11-pro-max-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone 11 Pro Max You Should Try Out</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-of-latest-hardware-by-toms-tech-experts/"><u>In-Depth Analysis of Latest Hardware by Tom's Tech Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-the-gadgets-tips-and-reviews-from-toms-equipment-digest/"><u>Inside the Gadgets: Tips & Reviews From Tom’s Equipment Digest</u></a></li>
-<li><a href="https://win-dash.techidaily.com/logitech-g600-driver-download-for-windows/"><u>Logitech G600 Driver Download for Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/master-the-art-of-linux-gameplay-on-the-all-amd-tuxedo-sirius-gen2-stunning-visuals-and-lightning-fast-response-time-with-an-incredible-165hz-display-from-j2/"><u>Master the Art of Linux Gameplay on the All-AMD Tuxedo Sirius Gen2 - Stunning Visuals & Lightning Fast Response Time with an Incredible 165Hz Display From Just 1,699€</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-pc-gear-selection-through-toms-hardware-guidance/"><u>Mastering PC Gear Selection Through Tom's Hardware Guidance</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/top-10-mobile-nature-sound-experiences-ios-and-android-edition-for-2024/"><u>Top 10 Mobile Nature Sound Experiences IOS & Android Edition for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-free-video-chat-alternatives-for-windowsmac-os-users/"><u>[New] Free Video Chat Alternatives for Windows/Mac OS Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-quick-guide-to-quashing-facebooks-flashy-feed-for-2024/"><u>[New] The Quick Guide to Quashing Facebook's Flashy Feed for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-boosting-instagram-videos-online-strategies-for-faster-views-for-2024/"><u>[Updated] Boosting Instagram Videos Online Strategies for Faster Views for 2024</u></a></li>
+<li><a href="https://techidaily.com/75-discount-and-10-off-nordvpn-coupon/"><u>75% Discount & $10 Off - NordVPN Coupon</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/a-stepwise-approach-to-youtube-caption-addition/"><u>A Stepwise Approach to YouTube Caption Addition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-driver-upgrade-tips-for-the-asus-maximus-x-hero-system/"><u>Effortless Driver Upgrade Tips for the ASUS Maximus X Hero System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/epson-gt-s50-printer-software-for-windows-users-version-compatible-with-windows-7-8-and-10/"><u>Epson GT-S50 Printer Software for Windows Users: Version Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-motorola-moto-g24withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Motorola Moto G24with/without a PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-obtain-the-brother-hl-l2380dw-print-driver-software-for-seamless-windows-compatibility/"><u>How to Obtain the Brother HL-L2380DW Print Driver Software for Seamless Windows Compatibility</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-12-mini-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone 12 mini when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-g510-controller-driver-download-guide-for-windows-users-7810/"><u>Logitech G510 Controller Driver Download Guide for Windows Users (7/8/10)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/navigate-the-future-of-meetings-a-win11-and-zoom-guide/"><u>Navigate the Future of Meetings A Win11 and Zoom Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-through-cutting-edge-technology-at-toms-computer-hub/"><u>Navigating Through Cutting-Edge Technology at Tom's Computer Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-install-of-corsair-void-pro-drives-on-windows-systems-your-step-by-step-guide/"><u>Quick and Easy Install of Corsair Void Pro Drives on Windows Systems – Your Step-by-Step Guide!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-update-your-pc-with-new-toshiba-copier-drivers-on-a-windows-platform/"><u>Step-by-Step: Update Your PC with New Toshiba Copier Drivers on a Windows Platform</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tech-support-qanda-winx-dvd-copy-software-troubleshooting-guide/"><u>Tech Support Q&A: WinX DVD Copy Software Troubleshooting Guide</u></a></li>
 </ul></div>
 

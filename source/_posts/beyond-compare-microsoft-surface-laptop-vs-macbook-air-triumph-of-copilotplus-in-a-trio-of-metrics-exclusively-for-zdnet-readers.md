@@ -1,7 +1,7 @@
 ---
 title: "Beyond Compare: Microsoft Surface Laptop vs MacBook Air – Triumph of Copilot+ in a Trio of Metrics | Exclusively for ZDNet Readers"
-date: 2024-11-02T16:58:45.102Z
-updated: 2024-11-07T16:21:23.535Z
+date: 2024-11-12T16:00:22.449Z
+updated: 2024-11-17T19:26:59.944Z
 tags:
   - laptops
 categories:
@@ -60,10 +60,10 @@ I've been using the Surface Laptop Studio 2 for just under a week, and I can con
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A much-needed performance upgrade
@@ -106,13 +106,6 @@ Max Buondonno/ZDNET
 
 The Intel NPU also powers Microsoft's Windows Studio effects, which help to improve the quality of video and audio during calls. This includes keeping your head centered in the frame as you move around, blurring the background, maintaining eye contact with adaptive corrections to your eyes, and minimizing background noise. All of these features worked well in my testing, and made for a more enjoyable video chatting experience. You'll just have to live with a sub-par webcam: while the field of view is nice and wide for automatic framing, the Full HD resolution doesn't feel very sharp and generally looks blurry, even in good lighting.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Gorgeous hardware and a unique screen
 
 All of this power is wrapped in what can only be described as a gorgeous design. The Surface Laptop Studio 2 is one of the most premium-feeling Windows laptops I've used, with a strong resemblance to that of Apple's MacBook Pro line and the silver aluminum to prove it. This generation is a bit thicker and heavier than the last one, weighing in at 4.37 pounds with Nvidia's graphics card. That's a difference of 0.37 pounds compared to the older model, so get ready for a shoulder exercise when carrying this thing around in your backpack.
@@ -145,15 +138,22 @@ It's also what Microsoft calls the "most inclusive" trackpad ever thanks to Adap
 
 In addition, there are more ports on the Surface Laptop Studio 2, including a USB-A port and a microSD card slot. They sit alongside the dual Thunderbolt 4 ports, Surface Connector, and a 3.5mm headphone jack. I would've liked to see a full-size SD card reader as well, but any extra IO is welcome in my book.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery life is…fine
 
 Microsoft says it improved the battery life on the Surface Laptop Studio 2, but it's not very noticeable. I didn't run any endless 4K video loops or scroll a webpage until it died, but I did use the machine for my everyday workload on a full charge, and all I got was just under six hours of use. This was after writing the copy for a variety of reviews and news pieces in Google Chrome, playing Spotify, using Photoshop and Lightroom occasionally, and watching YouTube.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -165,10 +165,10 @@ That being said, no laptop can do what the Studio 2 can and flex the screen down
 [ZDNET RECOMMENDS Microsoft Surface Laptop Studio 2 Microsoft delivers a solid experience with the Studio 2, one that's still as unique as it was the first time around. View at Microsoft](https://www.microsoft.com/en-us/store/configure/surface-laptop-studio-2/8rqr54krf1dz)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -190,20 +190,24 @@ That being said, no laptop can do what the Studio 2 can and flex the screen down
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-secrets-to-perfecting-snapchats-playback-speed-settings-for-2024/"><u>[New] Secrets to Perfecting Snapchat's Playback Speed Settings for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-downloadfacebookcontent-the-premiere-addons-and-browser-plugins-for-facebook-videos-firefox-edition-for-2024/"><u>[Updated] DownloadFacebookContent! - The Premiere Addons and Browser Plugins for Facebook Videos, FireFox Edition for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-upgrade-playstation-10-best-hard-drive-mods-for-2024/"><u>[Updated] Upgrade PlayStation #10 Best Hard Drive Mods for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-elevate-viewer-connection-mastering-the-art-of-square-footage-in-videos/"><u>2024 Approved Elevate Viewer Connection Mastering the Art of Square Footage in Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-top-10-best-4k-gaming-laptops/"><u>2024 Approved TOP 10 Best 4K Gaming Laptops</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/clonezilla-fehlerbehebung-fur-nicht-ubereinstimmende-gpt-and-mbr-partitions-beim-klonen/"><u>ClonEZilla-Fehlerbehebung Für Nicht Übereinstimmende GPT & MBR Partitions Beim Klonen</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decode-the-rumors-speculated-pricing-launch-window-and-detailed-spec-list-for-the-next-gen-samsung-galaxy-z-flip/"><u>Decode The Rumors: Speculated Pricing, Launch Window & Detailed Spec List for the Next-Gen Samsung Galaxy Z Flip</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-x-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock iPhone X Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-gt-neo-5-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme GT Neo 5</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-computer-components-analysis-and-expert-reviews/"><u>Tom's Computer Components Analysis & Expert Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-ultimate-gadget-guide/"><u>Tom's Tech Hub: Ultimate Gadget Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-in-depth-computer-and-hardware-reviews/"><u>Tom's Tech Insights: In-Depth Computer and Hardware Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-in-depth-guides-on-the-latest-gadgets/"><u>Tom's Tech Insights: In-Depth Guides on the Latest Gadgets</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-cutting-edge-hardware-insights/"><u>Tom's Tech Reviews: Cutting-Edge Hardware Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-expert-insights-on-latest-hardware/"><u>Tom's Tech Reviews: Expert Insights on Latest Hardware</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-expert-tips-to-master-camera-snap-in-zoom-calls-for-2024/"><u>[New] Expert Tips to Master Camera Snap in Zoom Calls for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-streaming-fb-video-content-on-television-devices/"><u>[Updated] In 2024, Streaming FB Video Content On Television Devices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premier-virtual-classrooms-a-selection-without-udemy/"><u>[Updated] Premier Virtual Classrooms A Selection without Udemy</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-voice-over-mastery-for-engaging-powerpoint-slides/"><u>[Updated] Voice-Over Mastery for Engaging PowerPoint Slides</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/44cm44k344k544og44og44oh44kj44k544kv5yan5qel56plusj44ks44kk44oj77ya5yip55so5yplusv6io944gq44oq44od44kv44ki44od44ox44oh44kj44k544kv44ks6kal44gk44gr44kj44km44109/"><u>「システムディスク再構築ガイド：利用可能なバックアップディスクを見つけられずに困った時の解決法」</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-cosmic-comforts-top-10-starry-night-accessories-for-sj4000/"><u>2024 Approved Cosmic Comforts Top 10 Starry Night Accessories for SJ4000</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-apple-iphone-14-pro-max-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>In 2024, Change Location on Yik Yak For your Apple iPhone 14 Pro Max to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-of-boox-tab-mini-a-compact-and-vibrant-colored-e-reader-alternative-for-amazon-kindle-users/"><u>Review of Boox Tab Mini: A Compact and Vibrant Colored E-Reader Alternative for Amazon Kindle Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-the-budget-friendly-amazon-fire-tablet-for-a-steal-just-30-ahead-of-prime-day-event/"><u>Score the Budget-Friendly Amazon Fire ^Tablet for a Steal - Just $30 Ahead of Prime Day Event</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-guide-connecting-your-android-device-with-your-television/"><u>Seamless Guide: Connecting Your Android Device with Your Television</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-trick-alert-enlarge-your-google-map-experience-with-a-single-tap/"><u>Simple Trick Alert: Enlarge Your Google Map Experience with a Single Tap!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-activating-wi-fi-voice-calls-on-your-android-device/"><u>Step-by-Step Guide: Activating Wi-Fi Voice Calls on Your Android Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-preventing-anonymous-calls-on-your-android-device/"><u>Step-by-Step Guide: Preventing Anonymous Calls on Your Android Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/steps-to-install-retired-applications-on-your-mobile-device-without-official-stores/"><u>Steps to Install Retired Applications on Your Mobile Device Without Official Stores</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/struggling-with-image-downloads-in-gmail-app-for-android-learn-easy-fixes-today/"><u>Struggling with Image Downloads in Gmail App for Android? Learn Easy Fixes Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-10-ways-samsung-dex-outshines-traditional-desktops-a-compelling-alternative/"><u>Top 10 Ways Samsung DeX Outshines Traditional Desktops: A Compelling Alternative</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-7-iphone-innovations-that-would-enhance-the-android-experience/"><u>Top 7 iPhone Innovations That Would Enhance the Android Experience</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
 </ul></div>
 

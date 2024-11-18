@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Capturing Screenshots Seamlessly on Dell, Lenovo, and Mac"
-date: 2024-11-05T16:33:06.980Z
-updated: 2024-11-07T16:26:11.305Z
+date: 2024-11-10T16:19:01.801Z
+updated: 2024-11-17T16:57:37.485Z
 tags:
   - laptops
 categories:
@@ -32,17 +32,31 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Screenshotting on Windows-based laptops
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1: The old fashioned way**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Use your Print Screen key
@@ -54,13 +68,6 @@ In any case, it should be easy to find by looking for the key marked **Prt**, **
 The button can be just about anywhere, so just look for something that looks as similar as possible to the legend on this one.
 
 Michael Gariffo/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Paste your screenshot
 
@@ -76,13 +83,6 @@ Michael Gariffo/ZDNET
 
 ### **Option 2: The Snipping Tool and Win+Shift+S**
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open the Snipping Tool or press Win+Shift+S
 
 Windows also includes a [one-stop tool for taking screenshots](https://www.zdnet.com/article/how-to-screenshot-on-windows/) or capturing individual windows or portions of windows. It's called the Snipping Tool and its full menu can be accessed by opening your start menu and typing in "snip." Alternatively, you can skip directly to the capture functionality it offers by pressing **Win+Shift+S.**
@@ -94,6 +94,19 @@ The main difference in using Windows+Shift+S is that windows won't automatically
 The Windows 11 version of the basic Snipping Tool menu and its icon.
 
 Michael Gariffo/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Screenshotting on Macs
 
@@ -109,25 +122,18 @@ These are the three keys you'll need to press at once on a mac to take a standar
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Is there an easy way to record video of my laptop screen too?
 
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What's a good, free image editing software to use on my screenshots?
 
@@ -172,22 +178,24 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-top-ranked-drones-synced-seamlessly-with-gopros/"><u>[New] 2024 Approved Top-Ranked Drones Synced Seamlessly With GoPros</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-how-to-post-a-picture-on-youtube/"><u>[Updated] How to Post a Picture on YouTube</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-comprehensive-examination-of-lg-27ud68-display-tech/"><u>A Comprehensive Examination of LG 27UD68 Display Tech</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-rallies-to-ensure-top-notch-performance-ryzen-9000-launch-delayed-until-all-shipments-pass-thorough-quality-scrutiny-by-august/"><u>AMD Rallies to Ensure Top-Notch Performance: Ryzen 9000 Launch Delayed Until All Shipments Pass Thorough Quality Scrutiny by August</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-package-download-focusrite-scarlett-2i2-driver-and-plugins-for-windows/"><u>Complete Package: Download Focusrite Scarlett 2I2 Driver & Plugins for Windows</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/dji-spark-ultimate-portable-camera-uav-guide-for-2024/"><u>DJI Spark Ultimate Portable Camera UAV Guide for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-magicard-rio-pro-driver-new-version-compatible-with-windows-11-81-and-7/"><u>Download Magicard Rio Pro Driver - New Version Compatible with Windows 11, 8.1 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-today-top-performing-killer-e2500-network-adapter-drivers-for-peak-speed-and-reliability/"><u>Download Today: Top-Performing Killer E2500 Network Adapter Drivers for Peak Speed and Reliability</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-the-best-display-driver-updates-and-quick-setup-tips-for-windows-users/"><u>Find the Best Display Driver Updates and Quick Setup Tips for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-epson-wf-2750-ready-free-printer-drivers-available/"><u>Get Your Epson WF-2750 Ready - FREE Printer Drivers Available!</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-instructions-for-legit-free-vlc-player-download-on-macos/"><u>In 2024, Instructions for Legit Free VLC Player Download on macOS</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-lava-blaze-2-pro-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Lava Blaze 2 Pro Device</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-infinix-hot-40-pro-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Infinix Hot 40 Pro</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/solution-the-most-basic-non-destructive-testing-ndt-method-for-assessing-weld-quality-is-visual-inspection/"><u>Solution: The Most Basic Non-Destructive Testing (NDT) Method for Assessing Weld Quality Is Visual Inspection</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-download-of-updated-displaylink-drivers-for-windows-11-8-and-7-systems/"><u>Step-by-Step Download of Updated DisplayLink Drivers for Windows 11, 8 & 7 Systems</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/top-10-fixes-for-itunes-connection-issues-with-your-iphone/"><u>Top 10 Fixes for iTunes Connection Issues with Your iPhone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975223325-upgrade-your-hp-deskjet-3050-printer-on-windows-secure-the-free-latest-drivers-now/"><u>Upgrade Your HP DeskJet 3050 Printer on Windows - Secure the Free Latest Drivers Now!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-culinary-kings-and-queens-youtube-food-experts/"><u>[New] In 2024, Culinary Kings & Queens YouTube Food Experts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-a-guide-to-unwavering-visual-captures/"><u>[Updated] A Guide to Unwavering Visual Captures</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-visual-upgrades-top-apps-to-transform-your-photos/"><u>[Updated] In 2024, Visual Upgrades Top Apps to Transform Your Photos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-depth-review-picsart-features-and-use/"><u>[Updated] In-Depth Review PicsArt Features and Use</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-game-on-steps-for-crafting-an-influential-online-gamers-channel/"><u>2024 Approved Game On Steps for Crafting an Influential Online Gamers' Channel</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-how-to-download-and-convert-youtube-twittersongs-videos-to-mp3/"><u>2024 Approved How to Download and Convert YouTube Twittersongs (Videos) to MP3</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-dell-network-drivers-compatible-with-windows-7/"><u>Download the Latest Dell Network Drivers Compatible with Windows 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/high-stakes-and-high-costs-assessing-the-performance-of-the-ambient-weather-ws-1002-wifi-station/"><u>High Stakes & High Costs: Assessing the Performance of the Ambient Weather WS-1002 WiFi Station</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-boosting-like-counts-tips-for-tiktok-unboxings/"><u>In 2024, Boosting Like Counts Tips for TikTok Unboxings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-proven-methods-for-snappy-signature-bg-removal/"><u>In 2024, Proven Methods for Snappy Signature Bg Removal</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/phase-diagrams-are-essential-for-predicting-mineral-stability-under-varying-p-t-conditions/"><u>Phase Diagrams Are Essential for Predicting Mineral Stability Under Varying P-T Conditions.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/powering-ahead-pugets-report-shows-lower-failure-rates-for-intel-cpus-vs-amd-ryzen-insights-from-a-system-builder/"><u>Powering Ahead: Puget's Report Shows Lower Failure Rates for Intel CPUs Vs. AMD Ryzen – Insights From a System Builder</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-painless-upgrade-instructions-for-scansnap-ix500-on-a-windows-operating-system/"><u>Quick and Painless Upgrade Instructions for ScanSnap iX500 on a Windows Operating System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-fixes-with-new-intel-nuc-driver-software-enhance-your-pcs-potential-now/"><u>Quick Fixes with New Intel NUC Driver Software - Enhance Your PC's Potential Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-corsair-h115i-compatibility-problems-on-windows-8-10-and-11/"><u>Resolving Corsair H115i Compatibility Problems on Windows 8, 10 & 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-definitive-source-for-hardware-reviews-by-tech-visionary-tom/"><u>The Definitive Source for Hardware Reviews by Tech Visionary, Tom</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-impressive-ipad-air-reviewed-by-zdnet-a-stunning-device-that-challenges-the-worth-of-an-ipad-pro-investment/"><u>The Impressive iPad Air Reviewed by ZDNet: A Stunning Device that Challenges the Worth of an iPad Pro Investment</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-asus-rog-phone-8-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Asus ROG Phone 8 Pro Reset Code | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-downloading-and-installing-your-killer-e2200-controller-drivers/"><u>Ultimate Guide to Downloading and Installing Your Killer E2200 Controller Drivers</u></a></li>
 </ul></div>
 

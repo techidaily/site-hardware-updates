@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Surface Laptop 5 Insights: Content, Not Angered, Just Underwhelmed Expert Review"
-date: 2024-11-03T16:41:11.416Z
-updated: 2024-11-07T16:48:09.251Z
+date: 2024-11-15T17:52:49.557Z
+updated: 2024-11-17T17:41:41.737Z
 tags:
   - laptops
 categories:
@@ -39,10 +39,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 ## What's new with software and AI?
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Copilot
@@ -72,6 +72,13 @@ Windows Ink Anywhere is another new Windows 11 feature that will work with Copil
 You can also use the pen within the Snipping Tool to copy and paste the equation into Copilot and have it solved. 
 
 Copilot on Windows can also obtain information from your connected smartphone so that you can ask Copilot any questions about what's on-device, like text message summaries. An example that was demoed included the presenter asking Copilot about an upcoming flight. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bing Chat updates
 
@@ -127,20 +134,13 @@ Microsoft Designer will also be integrated into Microsoft 365 Copilot to help ge
 
 Microsoft 365 Copilot is currently in preview with a select number of users and small businesses. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What's new with hardware?
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Surface Laptop Go 3
@@ -156,6 +156,13 @@ Other new additions include iCloud Photos Integration and Clipchamp on Windows 1
 As far as hardware and design go, the Surface Laptop Go 3 looks just about, if not the same, as the previous version, meaning you're still getting a sleek, portable form factor that's ultralight (just under 2.5 pounds) with a 12.4-inch PixelSense touchscreen at the helm.
 
 The laptop will start at $799 and be available in four colors, including Ice Blue, Sage, Sandstone, and Platinum.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Surface Laptop Studio 2
 
@@ -174,13 +181,6 @@ The Laptop Studio 2 also features a new haptic touchpad with a "perfect-feeling 
 Microsoft is also introducing adaptive pen tips, adding to the accessibility tools that were introduced last year for Surface laptops.
 
 Preorders start today for the Laptop Studio 2, which starts at $1,999, and Surface Laptop Go 3, and both devices will be available on October 3.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Surface Hub 3
 
@@ -232,16 +232,24 @@ AI is also integrated with the Surface Hub 3\. In a post-event demo, a Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-innovative-solutions-made-simple-using-ez-grabber/"><u>[New] 2024 Approved Innovative Solutions Made Simple Using EZ Grabber</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mastering-quick-snapchat-lens-creation-two-simple-techniques/"><u>[New] In 2024, Mastering Quick Snapchat Lens Creation Two Simple Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-snapshot-elite-windows-vista2008/"><u>[Updated] In 2024, SnapShot Elite Windows Vista/2008</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-your-poetic-craft-using-chatgpt-wisdom/"><u>Elevate Your Poetic Craft Using ChatGPT Wisdom</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-pc-innovation-with-toms-hardware-insights-and-advice/"><u>Exploring PC Innovation with Tom's Hardware Insights & Advice</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/klevvs-cras-c930-2tb-ssd-analyzed-excellence-shortcomings-and-average-features/"><u>KLEVV's CRAS C930-2TB SSD Analyzed: Excellence, Shortcomings & Average Features</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-digital-world-with-tom-in-depth-computer-insights/"><u>Navigating the Digital World with Tom: In-Depth Computer Insights</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-mac-users-rejoice-top-3-mkv-trimming-solutions-2023-for-2024/"><u>New Mac Users Rejoice Top 3 MKV Trimming Solutions 2023 for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/nextorage-unveils-lightning-quick-pcie-40-m2-2230-ssd-up-to-7400mbs-for-gaming-handhelds/"><u>Nextorage Unveils Lightning-Quick PCIe 4.0 M.2 2230 SSD: Up to 7,400MB/S for Gaming Handhelds</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/retro-gaming-revived-top-5-emulators-to-play-your-favorite-ps1-titles-for-2024/"><u>Retro Gaming Revived - Top 5 Emulators to Play Your Favorite PS1 Titles for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-finding-the-perfect-recorders-outside-microsofts-ecosystem/"><u>[New] 2024 Approved Finding the Perfect Recorders Outside Microsoft's Ecosystem</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-from-concept-to-completion-producing-a-viral-facebook-reel/"><u>[New] From Concept to Completion Producing a Viral Facebook Reel</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/op-10-recruiting-gems-amp-up-engagement-for-2024/"><u>[New] Top 10 Recruiting Gems Amp Up Engagement for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-download-powerhouse-top-free-quick-vids-extraction-for-pinterest-for-2024/"><u>[Updated] Download Powerhouse Top Free, Quick Vids Extraction for Pinterest for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-get-ready-to-download-best-ios-apps-transforming-fb-videos/"><u>[Updated] Get Ready to Download Best iOS Apps Transforming FB Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-def-streaming-cameras-for-social-media-giants/"><u>[Updated] High-Def Streaming Cameras for Social Media Giants</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-leading-ipad-voice-recorders-1-2-3/"><u>[Updated] Leading iPad Voice Recorders #1, #2, #3</u></a></li>
+<li><a href="https://win11.techidaily.com/assess-if-your-system-qualifies-for-new-windows-11/"><u>Assess if Your System Qualifies for New Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-for-upgrading-microsofts-windows-11-to-version-2004-with-conexant-support/"><u>Easy Guide for Upgrading Microsoft's Windows 11 to Version 2004 with Conexant Support</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-get-your-hands-on-thrustmaster-t150-driver-software/"><u>Easy Steps to Get Your Hands on Thrustmaster T150 Driver Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-to-use-bluetooth-driver-software-for-zexmt-device-compatible-with-all-windows-os/"><u>Easy-to-Use Bluetooth Driver Software for Zexmt Device - Compatible with All Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976806013-fast-and-easy-ft232r-usb-to-serial-converter-drivers-get-them-now/"><u>Fast & Easy FT232R USB to Serial Converter Drivers - Get Them Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-all-in-one-printer-model-3755-latest-driver-download-for-windows-users/"><u>HP All-in-One Printer Model 3755: Latest Driver Download for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-or-amd-comparing-processor-performance-and-benchmarks/"><u>Intel or AMD: Comparing Processor Performance and Benchmarks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-the-art-of-quickly-repairing-presonus-audiobox-usb-drivers-a-step-by-step-approach/"><u>Master the Art of Quickly Repairing Presonus AudioBox USB Drivers – A Step-by-Step Approach!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tech-showdown-deciding-between-the-latest-wrist-tech-a-comprehensive-review-of-google-pixel-watch-2-and-apple-watch-series-9-zdnet-insights/"><u>Tech Showdown: Deciding Between The Latest Wrist Tech - A Comprehensive Review of Google Pixel Watch 2 and Apple Watch Series 9 | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-tips-successfully-obtaining-the-correct-dell-mouse-driver-software/"><u>Troubleshooting Tips: Successfully Obtaining the Correct Dell Mouse Driver Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-compatibility-list-logiteche-g27-supported-by-windows-versions-11-10-and-7/"><u>Ultimate Compatibility List: Logiteche G27 Supported by Windows Versions 11, 10 & 7</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-triumphs-how-to-turn-your-cell-phone-into-an-editing-machine-for-2024/"><u>YouTube Triumphs How to Turn Your Cell Phone Into an Editing Machine for 2024</u></a></li>
 </ul></div>
 

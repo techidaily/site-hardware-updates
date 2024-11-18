@@ -1,7 +1,7 @@
 ---
 title: "Inside the Asus Zenbook Pro 14 Duo UX8402: OLED Experience Meets Performance Challenges - Comprehensive Review by ZDNet"
-date: 2024-11-02T16:22:42.945Z
-updated: 2024-11-07T16:09:41.270Z
+date: 2024-11-12T22:56:59.163Z
+updated: 2024-11-17T19:32:36.633Z
 tags:
   - laptops
 categories:
@@ -43,10 +43,10 @@ The Ultra laptop still suffers from similar setbacks as its predecessor, [which 
 You can expect to pay between $2,400 to $3,000 for the Galaxy Book 4 Ultra, which is a big ask, but the performance and hardware package you're getting in return justifies the price point. My buying advice is to wait for one of Samsung's sales events (usually during major holidays) and take advantage of its trade-in program, which can deduct up to $600 more. Case in point: you can pick up the highest configuration, which comes with an Intel Core Ultra 9, Nvidia GeForce RTX 4070, and 32GB of RAM, for [$500 off](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-books%2Fgalaxy-book4-series%2Fbuy%2Fgalaxy-book4-ultra-16-intel-core-ultra-9-1tb-moonstone-gray-np960xgl-xg1us%2F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -63,13 +63,6 @@ You can expect to pay between $2,400 to $3,000 for the Galaxy Book 4 Ultra, whic
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How I tested the Samsung Galaxy Book 4 Ultra
 
 I've used the Samsung Galaxy Book 4 Ultra as my daily driver for the past two weeks. My normal usage includes browsing the web, answering emails, writing articles like this, watching videos on YouTube and Netflix, and editing photos and videos for work and leisure. 
@@ -81,6 +74,13 @@ Kerry Wan/ZDNET
 Most of the time, the laptop is either hooked to an external monitor (meaning I try to run as many windows of apps and services at the same time as possible) or used in tandem with my [Samsung Galaxy S24 Ultra](https://www.zdnet.com/article/samsung-galaxy-s24-ultra-review/) with the help of Quick Share and Second Screen. Both cross-platform features worked very smoothly, though they're mainly compatible with Samsung devices and Samsung devices only.
 
 For performance testing, I ran Cinebench 2024 to calculate the single, multi, and GPU scores of the laptop, while also taking notes on day-to-day aspects like fan speed and loudness, system temperature, frame rate drops, and more.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What are the Samsung Galaxy Book 4 Ultra's best features?
 
@@ -143,10 +143,10 @@ Kerry Wan/ZDNET
 The trackpad is also a physical one, meaning it presses down instead of mimicking the feel of it via haptic motors like on the [MacBook Pro](https://www.zdnet.com/article/macbook-pro-m3-max-review/) and [Dell XPS](https://www.zdnet.com/article/i-tested-dells-2024-xps-14-laptop-and-cant-recommend-it-enough/). As a result, when I did want to click, drag, or tap on something, I had to find the "sweet spot" on the trackpad to register it properly. Otherwise, pressing too close to the corners and edges would oftentimes not register anything at all.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Final thought
@@ -154,10 +154,10 @@ The trackpad is also a physical one, meaning it presses down instead of mimickin
 While it's easy to recommend the [Samsung Galaxy Book 4 Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-books%2Fgalaxy-book4-series%2Fbuy%2Fgalaxy-book4-ultra-16-intelcore-ultra-7-1tb-moonstone-gray-np960xgl-xg2us%2F&publisher_slug=itechdaily19598&exclusive=1) as the "MacBook Pro for Samsung users," several upgrades this year, including the Intel Core Ultra chip for AI applications, touchscreen display, and improved battery life, make the laptop a formidable pickup for just about every Windows user. Just note that if you're a content creator who relies on full-sized SD cards to transfer photos and videos, you'll want to pick up a [dongle or docking station](https://www.zdnet.com/article/best-laptop-docking-station/) to work with the Galaxy Book. There's also no charging port on the laptop's right side, so you'll want to think twice when situating near an outlet.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -194,18 +194,17 @@ While it's easy to recommend the [Samsung Galaxy Book 4 Ultra](https://shop-link
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-expert-strategies-for-decoding-instagram-metrics-and-trends-for-2024/"><u>[New] Expert Strategies for Decoding Instagram Metrics and Trends for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-developing-intriguing-video-segments-for-channels/"><u>[Updated] In 2024, Developing Intriguing Video Segments for Channels</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-pickup-or-something-else-unveiling-best-android-photo-editor-for-2024/"><u>[Updated] PickUp or Something Else? Unveiling Best Android Photo Editor for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unifying-media-files-from-desktop-to-iphone/"><u>[Updated] Unifying Media Files From Desktop to iPhone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/899-intelligent-dual-monitor-laptop-by-acemagic-meet-the-x1-model/"><u>$899 Intelligent Dual Monitor Laptop by Acemagic: Meet the X1 Model.</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/20-ultimate-kodi-addons-to-access-professional-combat-sports-live-get-your-fix-of-ufc-wwe-and-mixed-martial-arts-at-no-cost/"><u>20 Ultimate Kodi Addons to Access Professional Combat Sports Live: Get Your Fix of UFC, WWE, and Mixed Martial Arts at No Cost</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862718889-acemagix-x1-your-new-intel-powered-workstation-with-two-14-inch-fhd-displays-for-only-899/"><u>AceMagix X1: Your New Intel-Powered Workstation with Two 14-Inch FHD Displays for Only $899!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862714665-exploring-computing-power-at-toms-hardware-hub-discover-top-gear/"><u>Exploring Computing Power at Tom's Hardware Hub - Discover Top Gear</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-critical-missing-components-alert-in-windows-os/"><u>Overcoming Critical Missing Components Alert in Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862720138-razers-exclusive-offer-steep-1000-discount-on-the-newest-2023-razer-blade-15-grab-it-before-it-ends/"><u>Razer's Exclusive Offer: Steep $1,000 Discount on the Newest 2023 Razer Blade 15 - Grab It Before It Ends</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-method-for-facetime-screen-record/"><u>The Ultimate Method for FaceTime Screen Record</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-xiaomi-redmi-note-13-proplus-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Xiaomi Redmi Note 13 Pro+ 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-new-standard-in-business-laptops-an-in-depth-review-of-the-thinkpad-x1-carbon-gen-12/"><u>Unveiling the New Standard in Business Laptops: An In-Depth Review of the ThinkPad X1 Carbon (Gen 12)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/direct-link-latest-epson-l3110-driver-software-downloads-for-win11win10win7-compatibility/"><u>[Direct Link]: Latest Epson L3110 Driver Software Downloads for Win11/Win10/Win7 Compatibility</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-delving-into-the-world-of-asmr-soundscapes/"><u>[Updated] Delving Into the World of ASMR Soundscapes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-startup-to-success-skyrocketing-youtube-subs/"><u>[Updated] From Startup to Success Skyrocketing Youtube Subs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-learn-how-to-optimize-your-screen-record-with-screencastify/"><u>[Updated] Learn How to Optimize Your Screen Record with Screencastify</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-10-top-ios-players-elevating-video-watching-on-devices/"><u>2024 Approved 10 Top iOS Players Elevating Video Watching on Devices</u></a></li>
+<li><a href="https://solve-news.techidaily.com/enhancing-job-satisfaction-with-ai-three-strategies-for-a-happy-team-at-work/"><u>Enhancing Job Satisfaction with AI: Three Strategies for a Happy Team at Work</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixes-and-solutions-how-to-restore-synaptic-touchpad-functionality-in-windows-10/"><u>Fixes & Solutions: How to Restore Synaptic Touchpad Functionality in Windows 10</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-x50i-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor X50i Location by Number | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722959875898-improve-your-pcs-performance-with-free-gigabyte-ethernet-card-driver-downloads/"><u>Improve Your PC's Performance with Free Gigabyte Ethernet Card Driver Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-essential-software-for-epson-scanners-download-drivers-now/"><u>Install Essential Software for Epson Scanners - Download Drivers Now!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-modern-obstacles-dealing-with-ambiguous-results-and-faulty-accuracy-in-artificial-intelligence-analysis-by-zdnet/"><u>Mastering Modern Obstacles: Dealing with Ambiguous Results and Faulty Accuracy in Artificial Intelligence | Analysis by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-download-get-your-lexar-usb-driver-installed-in-a-flash/"><u>Quick Download: Get Your Lexar USB Driver Installed in a Flash!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlock Massive Savings During Prime Day: Get the Microsoft Surface Pro 8 for Just $460 Less! Learn How With This Ultimate Guide From ZDNet"
-date: 2024-11-04T16:47:19.901Z
-updated: 2024-11-07T16:25:17.788Z
+date: 2024-11-10T17:02:48.405Z
+updated: 2024-11-17T21:49:29.517Z
 tags:
   - laptops
 categories:
@@ -47,6 +47,13 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -120,10 +127,10 @@ The ability to connect a tablet to an external display and have it actually work
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -137,10 +144,10 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
@@ -156,16 +163,10 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -181,13 +182,6 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
 ## FAQ
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -226,22 +220,16 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-prime-picks-best-photo-displayers/"><u>[Updated] 2024 Approved Prime Picks Best Photo Displayers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-dive-into-gaming-how-to-build-and-prosper-on-youtube/"><u>[Updated] Dive Into Gaming How to Build and Prosper on YouTube</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-pantheon-of-praise-celebrating-ten-superstar-posts-for-2024/"><u>[Updated] The Pantheon of Praise Celebrating Ten Superstar Posts for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/9-best-gif-recorders-for-for-capturing-animated-gifs-on-windows/"><u>9 Best GIF Recorders for for Capturing Animated GIFs on Windows</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/a-backward-glance-proven-strategies-for-pinpointing-picture-sources-on-instagram-for-2024/"><u>A Backward Glance Proven Strategies for Pinpointing Picture Sources on Instagram for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-install-or-update-the-tp-link-ub40n-wifi-bluetooth-receiver-software/"><u>Download, Install, or Update the TP-Link UB40n WiFi Bluetooth Receiver Software</u></a></li>
-<li><a href="https://win-tips.techidaily.com/freier-datenschutz-fur-ihr-iphone-sms-keine-abhangigkeit-von-apple-services-verwenden-sie-stattdessen-fonetool/"><u>Freier Datenschutz Für Ihr iPhone SMS – Keine Abhängigkeit Von Apple Services, Verwenden Sie Stattdessen FoneTool</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-declutter-and-optimize-performance-on-windows-11-by-uninstalling-extras/"><u>How to Declutter and Optimize Performance on Windows 11 by Uninstalling Extras</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-fix-elite-dangerous-continuously-freezing-or-crashing-on-your-computer/"><u>How to Fix Elite Dangerous Continuously Freezing or Crashing on Your Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-download-and-update-your-asus-bluetooth-driver-a-step-by-step-tutorial/"><u>How to Seamlessly Download & Update Your ASUS Bluetooth Driver - A Step by Step Tutorial</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-officejet-4650-driver-software-for-windows-installation-guide-and-download/"><u>HP OfficeJet 4650 Driver Software for Windows - Installation Guide & Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/keeping-up-to-date-essential-driver-downloads-and-installers-for-the-hp-deskjet-3700-printer/"><u>Keeping Up-to-Date: Essential Driver Downloads and Installers for the HP DeskJet 3700 Printer</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pondering-the-plodding-progress-chatgpt-4-versus-35/"><u>Pondering the Plodding Progress: ChatGPT-4 Versus 3.5</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-7-plus-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 7 Plus Data From iOS iCloud | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-downloading-the-asus-clickpad-driver-for-your-windows-machine/"><u>Step-by-Step Guide to Downloading the ASUS Clickpad Driver for Your Windows Machine</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-fresh-lenovo-monitor-driver-download-for-optimal-performance/"><u>Step-by-Step: Fresh Lenovo Monitor Driver Download for Optimal Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722973199619-update-your-hp-wireless-adapter-drivers-for-optimal-performance-on-windows-10-7-and-8-free-downloads-available/"><u>Update Your HP Wireless Adapter Drivers for Optimal Performance on Windows 10, 7 & 8 - Free Downloads Available</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-troubleshooting-why-are-your-shorts-thumbnails-hiding/"><u>[New] In 2024, Troubleshooting Why Are Your Shorts' Thumbnails Hiding?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-these-innovative-5-iphone-apps-transforming-podcasts/"><u>[Updated] Explore These Innovative 5 iPhone Apps Transforming Podcasts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-infinix-note-30-vip-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Infinix Note 30 VIP to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/decoding-gopros-recording-systems-insights-into-their-specialized-video-codecs/"><u>Decoding GoPro's Recording Systems: Insights Into Their Specialized Video Codecs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-intel-nvme-driver-update-secure-and-swift-downloads-ready/"><u>Effortless Intel NVME Driver Update - Secure & Swift Downloads Ready!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-repair-smbus-connectivity-issues-with-synaptics-devices-under-windows-10/"><u>How to Repair SMBus Connectivity Issues with Synaptics Devices Under Windows 10</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-best-8-value-video-communication-programs-for-pc-and-mac/"><u>In 2024, The Best 8 Value Video Communication Programs for PC and MAC</u></a></li>
+<li><a href="https://os-tips.techidaily.com/save-money-with-smart-locks-ditch-the-high-prices-of-locksmith-visits/"><u>Save Money with Smart Locks - Ditch the High Prices of Locksmith Visits</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-toms-comprehensive-gadget-reviews/"><u>Unveiling the Latest: Tom's Comprehensive Gadget Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updating-your-razer-naga-the-ultimate-guide-to-downloading-new-drivers-on-pc/"><u>Updating Your Razer Naga: The Ultimate Guide to Downloading New Drivers on PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Investigating Intel: The Launch of a Major Class-Action Lawsuit Over CPU Malfunctions"
-date: 2024-08-28T02:18:43.228Z
-updated: 2024-08-29T02:18:43.228Z
+date: 2024-11-14T22:09:53.124Z
+updated: 2024-11-17T16:47:55.372Z
 tags:
   - cpu
 categories:
@@ -42,14 +42,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -58,8 +55,33 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-shared-surface-video-chronicling/"><u>[New] 2024 Approved Shared Surface Video Chronicling</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-essential-5-backdrops-alternator-for-iphones-x87/"><u>[New] In 2024, Essential 5 Backdrops Alternator for iPhones X/8/7</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/op-picks-for-phone-based-asmr-enthusiasts-for-2024/"><u>[New] Top Picks for Phone-Based ASMR Enthusiasts for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-unlocking-visual-appeal-making-top-tier-video-banner-templates/"><u>[Updated] In 2024, Unlocking Visual Appeal Making Top-Tier Video Banner Templates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/arduino-mastery-secure-your-mega-2560-drivers-in-a-flash/"><u>Arduino Mastery: Secure Your Mega 2560 Drivers in a Flash</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boosting-efficiency-with-updated-intel-82579lm-drivers-on-windows/"><u>Boosting Efficiency with Updated Intel 82579LM Drivers on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-brother-mfc-l2740dw-printer-drivers-for-pc-free-and-easy-setup/"><u>Download Brother MFC-L2740DW Printer Drivers for PC - Free & Easy Setup</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/effortless-spotify-to-youtube-playlist-conversion-5-must-have-apps-for-2024/"><u>Effortless Spotify-to-YouTube Playlist Conversion 5 Must-Have Apps for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722967281568-get-the-newest-mpow-bluetooth-software-for-windows-update-now/"><u>Get the Newest MPOW Bluetooth Software for Windows - Update Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-finding-and-downloading-the-right-toshiboa-copierprinter-drivers-for-windows-machines/"><u>Guide: Finding & Downloading the Right Toshiboa Copier/Printer Drivers for Windows Machines</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-enable-usb-c-connectivity-in-windows-nx-professional-driver-packs-available-here/"><u>How to Enable USB-C Connectivity in Windows nX: Professional Driver Packs Available Here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-se-2022-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone SE (2022) Lock Screen with Notifications?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v29-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo V29 Phone Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-vivo-y28-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Vivo Y28 5G</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-now-csr-bluetooth-interface-drivers-available-for-download/"><u>Install Now: CSR Bluetooth Interface Drivers Available for Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-setup-get-your-acer-bluetooth-device-drivers-here/"><u>Instant Setup: Get Your Acer Bluetooth Device Drivers Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-downloading-and-installing-intel-hduhd-drivers-on-windows-11/"><u>Step-by-Step Guide to Downloading and Installing Intel HD/UHD Drivers on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722963755523-step-by-step-solution-for-intels-dynamic-platform-and-thermal-framework-driver-error/"><u>Step-by-Step Solution for Intel's Dynamic Platform & Thermal Framework Driver Error!</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

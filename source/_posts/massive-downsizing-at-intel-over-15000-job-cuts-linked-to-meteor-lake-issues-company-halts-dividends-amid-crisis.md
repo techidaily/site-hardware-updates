@@ -1,7 +1,7 @@
 ---
 title: "Massive Downsizing at Intel: Over 15,000 Job Cuts Linked to Meteor Lake Issues; Company Halts Dividends Amid Crisis"
-date: 2024-08-28T02:21:45.566Z
-updated: 2024-08-29T02:21:45.566Z
+date: 2024-11-13T17:56:26.273Z
+updated: 2024-11-17T20:32:41.487Z
 tags:
   - cpu
 categories:
@@ -37,14 +37,11 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
  AMD has kept the pricing under wraps for the Ryzen 9 5900XT and the Ryzen 7 5800XT. However, we should know tomorrow how much the new refreshed chips cost. Don't forget to double back for our review of the two processors and two new 5000XT SKUs.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -53,8 +50,30 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-youtube-feedback-a-user-guide/"><u>[New] Navigating YouTube Feedback A User Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-optimal-metaverse-displays-the-ultimate-8-picks/"><u>[Updated] In 2024, Optimal Metaverse Displays The Ultimate 8 Picks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-is-insta-snap-verification-worth-it/"><u>[Updated] Is Insta-Snap Verification Worth It?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-ttml-xml-and-beyond-creating-flawless-srts-for-audio-files/"><u>[Updated] TTML, XML & Beyond Creating Flawless SRTs for Audio Files</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-innovate-your-farming-journey-with-these-stardews-top-7-mods/"><u>2024 Approved Innovate Your Farming Journey with These Stardew's Top 7 Mods</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-portable-laptops-for-the-mobile-professional-beyond-dell-xps-and-macbook/"><u>Best Portable Laptops for the Mobile Professional, Beyond Dell XPS & MacBook</u></a></li>
+<li><a href="https://program-issues.techidaily.com/chrome-optimization-overcoming-high-cpu-usage-issues-successfully/"><u>Chrome Optimization - Overcoming High CPU Usage Issues Successfully</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvd-imovie/"><u>DVDへのダウンロード変換: IMovieを使って安全に作成する手順</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/embracing-change-how-a-week-of-using-a-split-ergonomic-keyboard-revolutionized-my-tech-setup-zdnet/"><u>Embracing Change: How a Week of Using a Split Ergonomic Keyboard Revolutionized My Tech Setup | ZDNet</u></a></li>
+<li><a href="https://win-data.techidaily.com/enviro-tutsplus-course-access-securely-download-educational-video-content-and-lessons/"><u>Enviro Tuts+ Course Access: Securely Download Educational Video Content and Lessons</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/making-cutting-edge-3d-tech-mainstream-acers-innovative-new-lineup-for-monitors-and-notebooks/"><u>Making Cutting-Edge 3D Tech Mainstream: Acer's Innovative New Lineup for Monitors and Notebooks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/protect-your-privacy-new-research-reveals-risks-of-personal-data-theft-by-computer-fix-experts-zdnet/"><u>Protect Your Privacy: New Research Reveals Risks of Personal Data Theft by Computer Fix Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/rugged-tech-face-off-the-high-end-4k-powerhouse-that-exceeds-dell-latitudes-benchmark/"><u>Rugged Tech Face-Off: The High-End, $4K Powerhouse That Exceeds Dell Latitude's Benchmark</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tech-bargain-alert-get-the-high-end-m3-macbook-pro-under-10000-expert-insights-from-zdnet/"><u>Tech Bargain Alert! Get the High-End M3 MacBook Pro Under $10,000 | Expert Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-m2-ssds-comprehensive-reviews-by-tech-experts-guide/"><u>Top-Rated M.2 SSDs : Comprehensive Reviews by Tech Experts Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/uploading-h265-content-is-it-possible-on-youtube-platform/"><u>Uploading H.265 Content: Is It Possible on YouTube Platform?</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

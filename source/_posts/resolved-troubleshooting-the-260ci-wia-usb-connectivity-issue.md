@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting the 260Ci WIA USB Connectivity Issue"
-date: 2024-08-28T02:18:20.926Z
-updated: 2024-08-29T02:18:20.926Z
+date: 2024-11-13T19:38:45.939Z
+updated: 2024-11-17T20:56:03.228Z
 tags:
   - win11
   - win10
@@ -47,6 +47,14 @@ thumbnail: https://thmb.techidaily.com/9e54865f3f57ec57dc69d69631538169245afb52f
 2. Type **devmgmt.msc** and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-2.jpg)
 3. Double click **Imaging devices** to expand the category.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Right-click on your **260ci WIA driver** (it may be displayed as **Unknown device** ), and click **Update** **driver** .
 5. Choose **Search automatically for updated driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be13cd36976a.jpg)
@@ -55,8 +63,12 @@ thumbnail: https://thmb.techidaily.com/9e54865f3f57ec57dc69d69631538169245afb52f
  This requires time and computer skills. If this method doesn’t work for you, don’t worry. There’s something else to try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Download and update 260ci WIA driver automatically (Recommended)
 
  If you don’t have time or patience, you can update the driver for 260ci WIA automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -67,16 +79,23 @@ thumbnail: https://thmb.techidaily.com/9e54865f3f57ec57dc69d69631538169245afb52f
 2. Open Driver Easy and click **Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/11.jpg)
 3. Click the **Update** button next to the flagged CSR8510 A10 device to automatically download the correct version of their driver (you can do this with the **FREE** version). Then install it in your computer.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** and get a 30-day money back guarantee).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/csr.jpg)
 4. Restart your computer to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -91,8 +110,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +117,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-10-missing-iphone-x-tips-and-tricks-for-you-to-pick-up-for-2024/"><u>[New] 10 Missing iPhone X Tips and Tricks For You to Pick Up for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-legally-safe-chants-and-tunes-the-ultimate-meditation-list/"><u>[New] Legally Safe Chants & Tunes - The Ultimate Meditation List</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-snap-with-precision-essential-camera-angles-for-images-for-2024/"><u>[New] Snap with Precision Essential Camera Angles for Images for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/a-comprehensive-walkthrough-mastering-the-art-of-uploading-content-to-twitch/"><u>A Comprehensive Walkthrough: Mastering the Art of Uploading Content to Twitch</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-apples-latest-enhancements-explore-the-most-impressive-new-features-of-apple-carplay-unveiled-at-wwdc-2024-read-all-on-zdnet/"><u>Discover Apple's Latest Enhancements: Explore the Most Impressive New Features of Apple CarPlay Unveiled at WWDC 2024 - Read All on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-drivers-geforce-gtx-1660-super-graphics-card/"><u>Download & Update Drivers: GeForce GTX 1660 Super Graphics Card</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-setup-accessing-official-canon-mg3620-driver-download-links/"><u>Effortless Setup: Accessing Official Canon MG3620 Driver Download Links</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevating-online-presence-how-to-flawlessly-transmit-upside-down-videos-on-youtube/"><u>Elevating Online Presence How to Flawlessly Transmit Upside-Down Videos on Youtube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-printing-experience-latest-hp-scanjet-driver-update-for-windows-download/"><u>Enhance Your Printing Experience: Latest HP Scanjet Driver Update for Windows [Download]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-advice-for-upgrading-your-rig-tips-from-toms-hardware-experts/"><u>Expert Advice for Upgrading Your Rig - Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/exploring-the-basics-of-isoiec-19770-22e09-essential-information-on-software-identification-markers/"><u>Exploring the Basics of ISO/IEC 19770-2:2E09 – Essential Information on Software Identification Markers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-asus-dvd-playerwriter-drivers-fast-and-easy-download/"><u>Free ASUS DVD Player/Writer Drivers: Fast and Easy Download</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/is-active-setting-new-standards-in-screen-recording-for-2024/"><u>Is Active Setting New Standards in Screen Recording for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-msi-bluetooth-drivers-download-to-upgrade-and-secure-your-windows-111n-systems-now/"><u>Latest MSI Bluetooth Drivers - Download to Upgrade and Secure Your Windows 11/1N Systems Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovos-thunderbolt-3-dock-latest-driver-installation-instructions/"><u>Lenovo's Thunderbolt 3 Dock - Latest Driver Installation Instructions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-installing-logitech-webcam-c920ehd-drivers-on-a-windows-machine/"><u>Step-by-Step Tutorial: Installing Logitech Webcam C920EHD Drivers on a Windows Machine</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-affordable-portable-propella-7s-4/"><u>The Ultimate Guide to the Affordable, Portable Propella 7S 4.</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Screenshots on Your Laptop (Dell/Lenovo/Mac) with Expert Advice
-date: 2024-11-05T16:50:30.103Z
-updated: 2024-11-07T16:47:08.467Z
+date: 2024-11-14T17:13:43.955Z
+updated: 2024-11-17T16:15:19.552Z
 tags:
   - laptops
 categories:
@@ -28,13 +28,6 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 
 ## How to take screenshots on any laptop
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
@@ -42,6 +35,13 @@ You'll need your laptop and, in some cases, basic image editing software. The en
 ### Screenshotting on Windows-based laptops
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Option 1: The old fashioned way**
 
@@ -70,10 +70,10 @@ Michael Gariffo/ZDNET
 ### **Option 2: The Snipping Tool and Win+Shift+S**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
@@ -103,19 +103,19 @@ These are the three keys you'll need to press at once on a mac to take a standar
 Michael Gariffo/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Is there an easy way to record video of my laptop screen too?
@@ -123,10 +123,10 @@ Michael Gariffo/ZDNET
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What's a good, free image editing software to use on my screenshots?
@@ -172,19 +172,20 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-reverting-to-classic-from-sierra-to-os-x-1010/"><u>[New] Reverting to Classic From Sierra To OS X 10.10</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unleashing-youtube-potential-the-best-shortcuts-to-higher-views/"><u>[Updated] Unleashing YouTube Potential The Best Shortcuts to Higher Views</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/a-step-by-step-guide-creating-and-setting-custom-iphone-ringtone-on-iphone-6-plus/"><u>A Step-by-Step Guide: Creating and Setting Custom iPhone Ringtone on iPhone 6 Plus</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/anthem-game-sound-issues-solved-fix-no-audio-on-windows-11/"><u>Anthem Game Sound Issues Solved: Fix No Audio on Windows 11</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ct-premium-audio-for-video-editors-for-2024/"><u>Collect Premium Audio for Video Editors for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-motorola-edge-2023-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Motorola Edge 2023.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862809580-experience-next-level-gaming-alienwares-stunning-34-curved-oled-display-for-only-749-at-best-buy/"><u>Experience Next-Level Gaming: Alienware's Stunning 34 Curved OLED Display for Only $749 at Best Buy!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862784764-experience-next-level-gaming-review-of-aoc-agon-pro-ag456uczd-the-45-ultra-wide-oled-monitor-featuring-extreme-curve-tech-and-high-speed-action/"><u>Experience Next-Level Gaming: Review of AOC Agon Pro AG456UCZD, the 45 Ultra-Wide OLED Monitor Featuring Extreme Curve Tech and High-Speed Action</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862810923-huge-discount-alert-600-off-on-the-incredible-samsung-49-inch-oled-monitor-limited-time-offer/"><u>Huge Discount Alert: $600 Off on the Incredible Samsung 49-Inch OLED Monitor - Limited Time Offer</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/instructions-windows-movie-maker-version-6-installation/"><u>Instructions Windows Movie Maker Version 6 Installation</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/optimizing-latency-for-real-time-obs-viewing/"><u>Optimizing Latency for Real-Time OBS Viewing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862788384-samsungs-new-odyssey-ark-the-ultimate-bargain-on-a-4k-gaming-display-for-enthusiasts/"><u>Samsung's New Odyssey Ark - The Ultimate Bargain on a 4K Gaming Display for Enthusiasts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/srt-and-mp4-synergy-a-comprehensive-guide-edition-for-2024/"><u>SRT & MP4 Synergy A Comprehensive Guide Edition for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/vaio-takes-portability-to-new-heights-the-worlds-lightest-screen-the-visionplus-n/"><u>Vaio Takes Portability to New Heights: The World’s Lightest Screen, the Vision+ N</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-shining-up-your-android-videos-effortlessly/"><u>[New] Shining Up Your Android Videos Effortlessly</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ips-to-perfectly-integrate-jump-cuts-into-videos-for-2024/"><u>[New] Tips to Perfectly Integrate Jump Cuts Into Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-vanguard-audio-visual-makers-virtual-showcase/"><u>2024 Approved The Vanguard Audio-Visual Makers' Virtual Showcase</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-honor-magic-6-lite-frp-bypass-by-drfone-android/"><u>About Honor Magic 6 Lite FRP Bypass</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/efficient-methods-for-locating-your-lost-android-device/"><u>Efficient Methods for Locating Your Lost Android Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortlessly-distribute-and-run-android-applications-across-various-devices-in-one-go/"><u>Effortlessly Distribute and Run Android Applications Across Various Devices in One Go!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/embracing-less-with-tech-why-i-chose-the-minimalist-vintage-aesthetic-of-the-light-phone-3-before-its-launch/"><u>Embracing Less with Tech: Why I Chose the Minimalist, Vintage Aesthetic of the Light Phone 3 Before Its Launch</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-unbeatable-savings-hp-victus-cuin-for-just-350-less-at-best-buys-labor-day-sale-event-gadgetflow/"><u>Experience Unbeatable Savings: HP Victus Cuin for Just $350 Less at Best Buy's Labor Day Sale Event | GadgetFlow</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-picks-for-superior-saddle-companions-the-leading-bike-cell-phone-clasps-of-2ntoy/"><u>Expert Picks for Superior Saddle Companions: The Leading Bike Cell Phone Clasps of 2Ntoy</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-for-updating-dns-configuration-on-android-phones-and-tablets/"><u>Expert Tips for Updating DNS Configuration on Android Phones and Tablets</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-apks-ensuring-safety-when-acquiring-applications/"><u>Exploring APKs: Ensuring Safety When Acquiring Applications</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/galax-unveils-advanced-overclocking-motherboards-equipped-with-ddr5-memory-and-enhanced-voltage-regulation-systems/"><u>Galax Unveils Advanced Overclocking Motherboards - Equipped with DDR5 Memory and Enhanced Voltage Regulation Systems!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-the-rise-of-new-titans-against-vlc/"><u>In 2024, The Rise of New Titans Against VLC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-samsung-galaxy-m34-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Samsung Galaxy M34</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-ultimate-guide-to-selecting-facebook-live-capturers-for-2024/"><u>The Ultimate Guide to Selecting Facebook Live Capturers for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: ZDNet Reveals Exceptional Alternative to MacBook and Lenovo ThinkPad for College Use at a Shocking Discount
-date: 2024-11-06T16:18:21.294Z
-updated: 2024-11-07T17:05:25.136Z
+date: 2024-11-14T22:41:34.397Z
+updated: 2024-11-17T16:19:45.871Z
 tags:
   - laptops
 categories:
@@ -44,6 +44,13 @@ Cons
 
 ## HP Dragonfly Pro Chromebook
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best Chromebook for students overall
 
 Chromebooks have come a long way since the early years of prioritizing value above all else. That's not to say that the HP Dragonfly Pro Chromebook doesn't pack a lot of value; it's just built differently than any other Google-powered laptop we've tested to date... and we mean that in a good way. 
@@ -76,20 +83,13 @@ Cons
 * Trackpad is naturally smaller
 * Top-firing speakers are not as clear when laptop is folded
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Lenovo Flex 3i
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best ultraportable Chromebook for students
@@ -120,13 +120,20 @@ Cons
 * Doesn't have a touchscreen display (or option for one)
 * Have to buy the laptop and its parts à la carte
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Framework Chromebook
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best sustainable Chromebook for students
@@ -189,13 +196,6 @@ Cons
 
 ## Lenovo Flex 5i Chromebook Plus
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best Chromebook for creative students
 
 Lenovo's flexible Chromebook Plus has all the hallmarks of a solid student laptop, with some features that creatives will love as well. First, you have the 14-inch touchscreen display that can be flipped a full 180 degrees, turning the Chromebook into a tablet. Images look great on the screen as it can output a resolution of 1,920 x 1,200 pixels.
@@ -238,13 +238,6 @@ Personally, just like with any computer, I'll take all the power and screen real
 | Acer Chromebook Plus 516 GE    | A Chromebook that's ideal for classwork and cloud gaming. It's packed with hardware and a wide display that works well with the usual responsibilities of school while also catering to entertainment and after-school gaming needs.                                            |
 | Lenovo Flex 5i Chromebook Plus | A Chromebook with a flexible form factor that comes with a solid set of hardware designed for creatives.                                                                                                                                                                        |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How did we choose these Chromebooks?
 
 Along with selecting based on hands-on, expert testing, ZDNET selected these Chromebooks for students based on CrXRPT 2.0 benchmarks. This test tells you how fast a Chromebook handles things you do every day, including playing video games, watching movies, and editing photos and provides an overall score. The higher the score, the better. 
@@ -263,13 +256,6 @@ This benchmark consists of six scenario tests: photo effects, face detection, of
 
 All tests were run using ChromeOS 89\. Wi-Fi was on, but Bluetooth was disabled during the benchmarking. The screens were set to 80% brightness.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How we test laptops
 
 Kyle Kucharski/ZDNET
@@ -286,18 +272,18 @@ We use a combination of methods to test laptops here at ZDNET. First, we acquire
 
 Ultimately, our goal is to break down the capabilities of each and every laptop we test into digestible terms that real people can find useful. There is a lot of noise and confusion when it comes to navigating the laptop and computer consumer market, so we hope to bring an intuitive element to the whole process by leveraging our team's decades of experience. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why use a Chromebook?
 
 Chromebooks are good for almost any job. But they're _great_ for students. If a student can use a web browser, they can use a Chromebook. 
 
 For teachers and school administrators, Google also provides [G Suite for Education](https://edu.google.com/products/gsuite-for-education/?modal%5Factive=none) and [Google Classroom](https://classroom.google.com/h) to help them make remote learning as easy as possible.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How secure are Chromebooks?
 
@@ -305,11 +291,31 @@ You can argue that thanks to ChromeOS's built-in security, even out-of-support C
 
 The main point is that if you're short on cash, a cheap used or older model Chromebook will work just fine. And, since it's [trivial to erase a Chromebook and then reset it to your account](https://support.google.com/chromebook/answer/183084?hl=en), it's much safer than buying a used Windows laptop.
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Are Chromebooks good for students?
 
 A Chromebook can be a great laptop choice for students of all ages. They're more basic than their Windows-based counterparts, which means even very young children will be able to use them. They also have less powerful processors and graphics capabilities, reducing the temptation to play games all night rather than finish up homework. 
 
 A Chromebook's battery life is its biggest selling point, with many models sporting at least 10 hours of use on a full charge. This means your kids won't have to keep track of charging cables in order to use their Chromebook throughout the school day.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are there alternative Chromebooks for students worth considering?
 
@@ -357,21 +363,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-lost-legacies-found-revelations-from-the-canon-of-classical-works/"><u>[New] In 2024, Lost Legacies Found Revelations From the Canon of Classical Works</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-become-a-successful-smm-in-10-steps-for-2024/"><u>[Updated] Become a Successful SMM in 10 Steps for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/bright-ideas-for-android-video-mastery-for-2024/"><u>Bright Ideas for Android Video Mastery for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-ultra-fast-data-transfer-with-raid-card-technology-reach-speeds-of-56-gbs-via-dual-setups-of-pcie-50-and-40-nvme-ssds/"><u>Experience Ultra-Fast Data Transfer with RAID Card Technology - Reach Speeds of 56 GB/S via Dual Setups of PCIe 5.0 and 4.0 NVMe SSDs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-analysis-on-computing-equipment-trustworthy-reviews-by-toms-hardware/"><u>Expert Analysis on Computing Equipment – Trustworthy Reviews by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-analysis-on-new-gadgets-by-tom-your-go-to-guide-for-hardware-information/"><u>Expert Analysis on New Gadgets by Tom - Your Go-To Guide for Hardware Information</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-computer-gear-with-toms-hardware-guides-comprehensive-evaluations-and-advice/"><u>Exploring Computer Gear with Tom's Hardware Guides - Comprehensive Evaluations and Advice</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-toms-hardware-a-comprehensive-guide/"><u>Exploring Tom's Hardware: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-toms-tech-insights-a-comprehensive-guide/"><u>Exploring Tom's Tech Insights: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/first-ever-release-of-sabrents-unique-single-sided-rocket-nvme-gen5-1tb2tb-ssds-optimized-dram-free-storage-solutions-perfect-for-laptops-and-gaming-console2/"><u>First Ever Release of Sabrent's Unique Single-Sided Rocket NVMe Gen5 1TB/2TB SSDs: Optimized DRAM-Free Storage Solutions Perfect for Laptops & Gaming Consoles</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-nokia-g42-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Nokia G42 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-taking-control-advanced-techniques-for-gaming-capture-on-windows-11/"><u>In 2024, Taking Control Advanced Techniques for Gaming Capture on Windows 11</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-top-5-premium-hd-webcams-featuring-sound/"><u>In 2024, Top 5 Premium HD Webcams Featuring Sound</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-essential-websites-to-access-pristine-free-audio-fx/"><u>New Essential Websites to Access Pristine Free Audio FX</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/revive-the-experience-essential-tips-for-lost-iphone-x-users/"><u>Revive the Experience Essential Tips for Lost iPhone X Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-correct-msvcr70dll-file-absence/"><u>Step-by-Step Guide to Correct MSVCR70.DLL File Absence</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-earnings-spectrum-unveiling-the-financial-power-of-dailymovement-and-youtube/"><u>[Updated] In 2024, Earnings Spectrum Unveiling the Financial Power of DailyMovement and YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-guide-how-to-stop-fall-guys-from-freezing-in-windows-gameplay/"><u>Complete Guide: How to Stop 'Fall Guys' From Freezing in Windows Gameplay</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-tutorial-how-to-install-latest-ati-driver-for-windows-users/"><u>Easy Tutorial: How to Install Latest ATI Driver for Windows Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-infinix-hot-30-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Infinix Hot 30 5G</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-se-2022-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone SE (2022)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-navigating-through-instagrams-new-trends/"><u>In 2024, Navigating Through Instagram's New Trends</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masteringdarkmodesettingforwindowstexteditor/"><u>MasteringDarkModeSettingForWindowsTextEditor</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-new-tech-trends-with-toms-hardware-guidance/"><u>Navigating New Tech Trends with Tom's Hardware Guidance</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/quick-and-easy-methods-for-converting-mp4-files-to-hevch265-codec/"><u>Quick & Easy Methods for Converting MP4 Files to HEVC/H.265 Codec</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ryzen-suffering-capturing-the-aftermath-of-the-initial-zen-5-die-failures-due-to-cracked-dice-and-solder-residue/"><u>Ryzen Suffering: Capturing the Aftermath of the Initial Zen 5 Die Failures Due to Cracked Dice & Solder Residue</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-12-tools-for-extracting-sound-from-videos-across-pc-mac-mobile-and-online-platforms/"><u>Top 12 Tools for Extracting Sound From Videos Across PC, Mac, Mobile & Online Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-windrive-problems-neat-scanner-driver-fixes-revealed/"><u>Troubleshooting WinDrive Problems: Neat Scanner Driver Fixes Revealed</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-samsung-galaxy-z-fold-5-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Samsung Galaxy Z Fold 5 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-convenience-how-to-get-and-install-a-samsung-usb-driver-on-your-windows-10-pc/"><u>Ultimate Convenience: How to Get and Install a Samsung USB Driver on Your Windows 10 PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/wacom-intuos-3-drivers-download-in-windows-work-100/"><u>Wacom Intuos 3 Drivers Download in Windows – [Work 100%]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-1087-driver-update-process-easy-download-and-installation-for-usb-bluetooth-adapters/"><u>Windows 10/8/7 Driver Update Process - Easy Download and Installation for USB Bluetooth Adapters</u></a></li>
 </ul></div>
 

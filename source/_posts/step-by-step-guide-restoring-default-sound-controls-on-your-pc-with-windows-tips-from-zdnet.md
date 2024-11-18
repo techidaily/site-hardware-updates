@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Restoring Default Sound Controls on Your PC with Windows - Tips From ZDNet"
-date: 2024-11-02T16:12:37.844Z
-updated: 2024-11-07T16:37:43.173Z
+date: 2024-11-16T20:56:10.410Z
+updated: 2024-11-17T21:50:22.228Z
 tags:
   - laptops
 categories:
@@ -42,6 +42,13 @@ And with a snafu like no sound, there are a few ways to troubleshoot the issue, 
 
 Here's how to pull this off in both Windows 10 and 11.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to reset your audio settings in Windows
 
 ## 1\. Check your audio and sound source
@@ -67,10 +74,10 @@ Check the audio sources.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Check external speakers
@@ -105,13 +112,6 @@ Confirm the device.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Go to sound settings to run troubleshooter in another way
 
 Another way to run the troubleshooter in both versions of Windows is through sound settings. In either version, right-click the System Tray audio icon and select **Open Sound settings** or **Sound settings**. 
@@ -136,6 +136,13 @@ Check the Volume mixer in Windows 11.
 
 Screenshot by Lance Whitney
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Click the Reset button
 
 Both versions of Windows show you the volume levels for different devices and applications. Review each level to make sure it's set properly. If all looks good and you're still unable to hear any sound, click the **Reset** button at the bottom. That will reset all the devices and apps to their recommended Microsoft defaults.
@@ -143,13 +150,6 @@ Both versions of Windows show you the volume levels for different devices and ap
 Reset the devices and apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Check the sound control panel
 
@@ -163,6 +163,13 @@ Check sound settings.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Uncheck Enable audio enhancements
 
 At the Properties window, click the **Advanced** tab and uncheck the box for **Enable audio enhancements**. Then click the **Test** button. Next, click the tab for **Spatial sound** and made sure this option is off.
@@ -170,13 +177,6 @@ At the Properties window, click the **Advanced** tab and uncheck the box for **E
 Turn off audio enhancements.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Find the audio driver in Device Manager
 
@@ -202,6 +202,13 @@ Uninstall the driver.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 13\. Reinstall the audio driver
 
 To bring back the driver, either reboot your PC or right-click on the entry for **Audio inputs and outputs** and select **Scan for hardware changes**. The audio driver is then reinstalled.
@@ -209,13 +216,6 @@ To bring back the driver, either reboot your PC or right-click on the entry for 
 Reinstall the audio driver.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 14\. Try stopping and restarting the Windows Audio service
 
@@ -270,19 +270,19 @@ Hopefully, by going through these different Windows troubleshooting steps, you'l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-cheerful-account-creation-handbook/"><u>[Updated] In 2024, Cheerful Account Creation Handbook</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-step-by-step-the-ultimate-guide-to-borders-on-insta-pics-for-2024/"><u>[Updated] Step-By-Step The Ultimate Guide to Borders on Insta Pics for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-capture-brilliance-in-canon-photos-with-free-and-premium-luts/"><u>2024 Approved Capture Brilliance in Canon Photos with Free and Premium LUTs</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-5-hand-drawing-whiteboard-animation-makers/"><u>2024 Approved Top 5 Hand Drawing Whiteboard Animation Makers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/best-practices-for-saving-screen-and-webcam-chats-for-2024/"><u>Best Practices for Saving Screen and Webcam Chats for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-your-pcs-speed-a-step-by-nstep-tutorial-for-intel-12th-gen-alder-lake-cpu-overclocking/"><u>Boost Your PC's Speed: A Step-by-nStep Tutorial for Intel 12Th Gen Alder Lake CPU Overclocking</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/diy-tutorial-crafting-your-own-bootable-usb-for-easy-pc-troubleshooting-and-restoration/"><u>DIY Tutorial: Crafting Your Own Bootable USB for Easy PC Troubleshooting and Restoration</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/overcoming-the-limits-why-intels-i9-chips-reign-supreme-in-comet-lake-s-enthusiasts-world-insights-from-msi-data/"><u>Overcoming the Limits: Why Intel's I9 Chips Reign Supreme in Comet Lake-S Enthusiasts' World – Insights From MSI Data</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/ru-cyrillic-sounds-mastery-guide/"><u>RU Cyrillic Sounds Mastery Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-expert-gadget-reviews-and-specs/"><u>Tom's Tech Insights: Expert Gadget Reviews and Specs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-in-depth-insights-into-computer-components/"><u>Tom's Tech Review: In-Depth Insights Into Computer Components</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-in-depth-analysis-of-cutting-edge-equipment/"><u>Tom's Tech Reviews: In-Depth Analysis of Cutting-Edge Equipment</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-5-libradora-de-dvd-sin-coste-para-macos-big-sur-ranking-2020/"><u>Top 5 Libradora De DVD Sin Coste Para MacOS Big Sur: Ranking 2020</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unraveling-the-world-of-gadgets-with-toms-hardware-insights/"><u>Unraveling the World of Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-apples-m1-pro-versus-the-powerhouse-m1-max-what-to-note-in-2024/"><u>[Updated] Apple's M1 Pro Versus the Powerhouse M1 Max - What to Note, In 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-top-facebook-song-videos-unveiled-a-making-of-chronicle/"><u>[Updated] In 2024, Top Facebook Song Videos Unveiled A Making-Of Chronicle</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leveraging-azures-voice-recognition-for-advanced-solutions/"><u>[Updated] Leveraging Azure's Voice Recognition for Advanced Solutions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-secure-swift-airdrop-connections-on-all-apple-devices-fix-guide/"><u>[Updated] Secure Swift Airdrop Connections on All Apple Devices - Fix Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-canon-scanners-driver-downloads-for-windows-simple-installation-guide/"><u>Free Canon Scanners Driver Downloads for Windows - Simple Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-new-canon-pixma-ts322-driver-downloads-here/"><u>Get the New Canon PIXMA TS322 Driver Downloads Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-latest-software-for-your-epson-xp-640-on-windows/"><u>How to Install the Latest Software for Your Epson XP-640 on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/iphone-driver-update-for-windows-11-quick-tutorial-and-downloading-instructions/"><u>IPhone Driver Update for Windows 11: Quick Tutorial & Downloading Instructions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-avimpeg2t0/"><u>Movavi - シェア可能なウェブ上のAvi/Mpeg2Tストリームに対して0円で変換</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-guide-to-download-and-deploy-llama-2/"><u>Quick Guide to Download & Deploy Llama 2</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-setup-get-your-acer-bluetooth-connectivity-going-with-our-easy-to-install-drivers/"><u>Quick Setup: Get Your Acer Bluetooth Connectivity Going with Our Easy-to-Install Drivers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/selecting-microsoft-copilot-the-superior-option-for-4-critical-aspects-over-chatgpt/"><u>Selecting Microsoft Copilot - The Superior Option for 4 Critical Aspects Over ChatGPT</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/stay-ahead-in-the-tech-world-with-toms-hardware-insights/"><u>Stay Ahead in the Tech World with Tom's Hardware Insights</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ltimate-compilation-of-15-most-engaging-youtube-themes-for-2024/"><u>The Ultimate Compilation of 15 Most Engaging YouTube Themes for 2024</u></a></li>
 </ul></div>
 

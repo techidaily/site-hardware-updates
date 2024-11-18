@@ -1,7 +1,7 @@
 ---
 title: Uncovered! The Underappreciated Workplace Asset Amongst This Year's Premier 2-in-1 Innovations | ZDNET
-date: 2024-11-04T16:44:19.641Z
-updated: 2024-11-07T16:00:19.794Z
+date: 2024-11-15T17:22:26.433Z
+updated: 2024-11-17T20:28:47.944Z
 tags:
   - laptops
 categories:
@@ -69,16 +69,10 @@ The ThinkPad X1 2-in-1 performs well in most cases, although it's not necessaril
 It also did well on the benchmark tests I ran, even outperforming the Intel Core i9-9880H. I'm very familiar with the Ultra 7, so I expected solid performance. Indeed, it is because of this familiarity that I was surprised to see this model's price. 
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -117,22 +111,17 @@ Additionally, keep in mind that adding options like an OLED screen and hardware 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-how-to-make-a-gif-from-vimeo-video/"><u>[Updated] In 2024, How to Make a GIF From Vimeo Video</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-top-10-drones-for-dynamic-cinematic-creations/"><u>[Updated] Top 10 Drones for Dynamic Cinematic Creations</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/effiziente-ssd-bereitstellung-professionelle-tipps-fur-schnelles-betriebssystem-klonen/"><u>Effiziente SSD-Bereitstellung: Professionelle Tipps Für Schnelles Betriebssystem-Klonen</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/elevate-your-gaming-high-end-nvidia-rtx-graphics-on-a-budget-get-the-msi-bravo-for-under-1k/"><u>Elevate Your Gaming: High-End NVIDIA RTX Graphics on a Budget – Get the MSI Bravo for Under $1K</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Additional Tips About Sinnoh Stone For Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-conquer-the-vr-world-your-first-vr-adventure/"><u>In 2024, Conquer the VR World Your First VR Adventure</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Honor Magic 5 Lite? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-securely-connecting-your-android-to-wi-fi-networks/"><u>Mastering the Art of Securely Connecting Your Android to Wi-Fi Networks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-toms-hardware-informed-reviews-for-savvy-gadget-enthusiasts/"><u>Navigating Tom's Hardware: Informed Reviews for Savvy Gadget Enthusiasts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862671752-own-an-rtx-4070-equipped-hp-omen-save-300-today-with-limited-offer/"><u>Own an RTX 4070-Equipped HP Omen, Save $300 Today with Limited Offer!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/smart-choice-selecting-the-top-5-webcams-for-clear-audio/"><u>Smart Choice Selecting the Top 5 Webcams for Clear Audio</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-iphones-auto-brightness-feature-discover-7-quick-fixes-here/"><u>Struggling With iPhone's Auto-Brightness Feature? Discover 7 Quick Fixes Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-in-depth-reviews-of-cutting-edge-hardware/"><u>Tom's Tech Insights | In-Depth Reviews of Cutting-Edge Hardware 🖥️</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-value-packed-gaming-laptops-available-for-under-a-grand/"><u>Top Value-Packed Gaming Laptops Available for Under a Grand</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-performance-secrets-a-deep-dive-by-toms-hardware-team/"><u>Unlocking Performance Secrets - A Deep Dive by Tom's Hardware Team</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-performance-secrets-a-deep-dive-into-toms-hardware-recommendations/"><u>Unlocking Performance Secrets - A Deep Dive Into Tom's Hardware Recommendations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-your-game-with-the-new-tuxedo-sirius-16-gen2-premium-linux-gaming-laptop-featuring-amd-and-ips-display-available-from-1699/"><u>Upgrade Your Game with The New Tuxedo Sirius 16 Gen2 – Premium Linux Gaming Laptop Featuring AMD & IPS Display, Available From €1699</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-launching-into-the-world-of-vlogging/"><u>[New] Launching Into the World of Vlogging</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-perfect-chat-harmony-how-to-download-and-tailor-whatsapp-tones/"><u>[Updated] 2024 Approved Perfect Chat Harmony How to Download and Tailor WhatsApp Tones</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-modern-techniques-record-idevice-screen-effortlessly-for-2024/"><u>[Updated] Modern Techniques Record iDevice Screen Effortlessly for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-gamers-blueprint-techniques-to-record-virtual-realms-for-2024/"><u>[Updated] The Gamer's Blueprint Techniques to Record Virtual Realms for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-financial-potential-how-to-earn-with-youtube-shorts-for-2024/"><u>[Updated] Unlocking Financial Potential How to Earn with YouTube Shorts for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fundamentals-for-newcomers-on-screen-quality-measures/"><u>2024 Approved Fundamentals for Newcomers on Screen Quality Measures</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/add-an-authentic-retro-touch-choose-the-perfect-numerical-panel-for-classic-mechanical-keyboards/"><u>Add an Authentic Retro Touch: Choose the Perfect Numerical Panel for Classic Mechanical Keyboards</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compact-and-mighty-the-expressvpn-aircove-go-review-ultimate-mobile-internet-safety/"><u>Compact & Mighty - The ExpressVPN Aircove Go Review: Ultimate Mobile Internet Safety</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808204180-how-to-start-windows-10-in-safe-mode-4-different-methods-with-screenshots/"><u>How to Start Windows 10 in Safe Mode - 4 Different Methods (with Screenshots)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/immediate-access-to-8-unique-gpt-models-perfectly-suited-for-your-needs/"><u>Immediate Access to 8 Unique GPT Models, Perfectly Suited for Your Needs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-bottleneck-estimators-may-lack-precision-my-reasons-for-continuing-their-use/"><u>Why Bottleneck Estimators May Lack Precision: My Reasons for Continuing Their Use</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-samsung-favors-professional-over-diy-phone-fixes/"><u>Why Samsung Favors Professional Over DIY Phone Fixes</u></a></li>
 </ul></div>
 

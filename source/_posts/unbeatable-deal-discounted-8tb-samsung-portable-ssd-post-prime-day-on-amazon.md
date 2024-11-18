@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Deal: Discounted 8TB Samsung Portable SSD Post-Prime Day on Amazon"
-date: 2024-11-02T16:15:44.468Z
-updated: 2024-11-07T16:28:03.384Z
+date: 2024-11-16T21:20:30.764Z
+updated: 2024-11-17T21:59:37.514Z
 tags:
   - laptops
 categories:
@@ -75,16 +75,10 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -96,10 +90,10 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -136,22 +130,18 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/kof-xv-on-pc-how-to-enjoy-seamless-gameplay-after-fixing-the-notorious-bugs/"><u>'KOF XV on PC': How to Enjoy Seamless Gameplay After Fixing the Notorious Bugs</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-nurturing-partnerships-with-top-brands-the-famebit-blueprint/"><u>[New] 2024 Approved Nurturing Partnerships with Top Brands The FameBit Blueprint</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-a-peek-at-the-cutting-edge-features-for-windows-users/"><u>[New] A Peek at the Cutting-Edge Features for Windows Users</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-engage-viewers-with-powerful-channel-building-stories/"><u>[Updated] In 2024, Engage Viewers with Powerful Channel-Building Stories</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/apple-macbook-pro-m1-2e-16-inch-laptop-review-why-its-the-ultimate-choice-for-professionals/"><u>Apple MacBook Pro (M1, 2E) 16-Inch Laptop Review: Why It's The Ultimate Choice for Professionals!</u></a></li>
-<li><a href="https://article-helps.techidaily.com/comprehensive-analysis-of-directed-motion-tracking-for-2024/"><u>Comprehensive Analysis of Directed Motion Tracking for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-the-best-front-row-activities-that-arent-games/"><u>In 2024, The Best Front-Row Activities That Aren't Games</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-digital-innovations-with-guidance-from-toms-tech-corner/"><u>Navigating Digital Innovations with Guidance From Tom's Tech Corner</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-new-gadgets-a-guide-from-toms-tech-corner/"><u>Navigating New Gadgets: A Guide From Tom's Tech Corner</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-technology-trends-at-toms-computer-wisdom/"><u>Navigating Technology Trends at Tom's Computer Wisdom</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-gadgets-with-toms-expertise/"><u>Navigating the World of Gadgets with Tom's Expertise</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-through-networking-and-hardware-tips-from-toms-electronics-reviews/"><u>Navigating Through Networking and Hardware Tips From Tom’s Electronics Reviews</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/patience-pays-off-the-art-of-slow-motion-video-crafting/"><u>Patience Pays Off The Art of Slow-Motion Video Crafting</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/samsungs-high-res-5k-ips-screen-with-integrated-cu4k-camera-hits-899-save-44-on-pixel-dense-viewfinity-s9/"><u>Samsung's High-Res 5K IPS Screen with Integrated Cu4k Camera Hits $899 – Save 44% on Pixel-Dense ViewFinity S9!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/save-200-on-alienwares-spectacular-32-4k-240hz-oled-gaming-display-aw3225qf/"><u>Save $200 on Alienware’s Spectacular 32 4K, 240Hz OLED Gaming Display: AW3225QF</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/tecnica-simple-para-extraer-archivos-desde-la-imagen-del-sistema-en-windows-10/"><u>Técnica Simple Para Extraer Archivos Desde La Imagen Del Sistema en Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-leading-ultrawide-screens-dominating-gamers-picks/"><u>The Leading Ultrawide Screens Dominating Gamers' Picks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-essential-insights-into-valheim-planting-methods/"><u>[New] Essential Insights Into Valheim Planting Methods</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1-easy-guide-retrieving-text-from-your-android-devices-clipboard/"><u>1. Easy Guide: Retrieving Text From Your Android Device's Clipboard</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-elevate-your-digital-presence-with-this-top-7-gear-list/"><u>2024 Approved Elevate Your Digital Presence with This Top 7 Gear List</u></a></li>
+<li><a href="https://blog-min.techidaily.com/goolge/"><u>整理されたガイド：Goolgeクラスルームの録画手順</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-comprehensive-tutorial-how-to-modify-regional-settings-in-google-play-store/"><u>A Comprehensive Tutorial: How to Modify Regional Settings in Google Play Store</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/automating-night-mode-how-to-adjust-your-androids-screen-brightness-for-better-sleep/"><u>Automating Night Mode: How to Adjust Your Android's Screen Brightness for Better Sleep</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-to-restore-functionality-eliminating-windows-error-code-0xa0abba-from-camcorders-and-webcams-in-os-1011/"><u>Expert Tips to Restore Functionality: Eliminating Windows Error Code 0XA0^ABBA From Camcorders and Webcams in OS 10/11</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-way-to-indicate-yourself-safe/"><u>Facebook's Way to Indicate Yourself Safe</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/screenplay-basics-penning-dynamic-characters-speeches/"><u>Screenplay Basics Penning Dynamic Characters' Speeches</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-oneplus-nord-n30-se-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track OnePlus Nord N30 SE Location | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-tech-bargains-grab-the-latest-google-pixel-7a-high-quality-anker-buds-and-top-tier-robot-vacuums/"><u>Unbeatable Tech Bargains: Grab the Latest Google Pixel 7a, High-Quality Anker Buds & Top-Tier Robot Vacuums</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-android-potential-with-these-10-dev-setup-tips-and-tweaks/"><u>Unlocking Android Potential with These 10 Dev Setup Tips and Tweaks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-active-status-of-the-darksky-app-for-android-users-tips-and-tricks-for-optimal-usage/"><u>Unveiling the Active Status of the DarkSky App for Android Users: Tips and Tricks for Optimal Usage</u></a></li>
 </ul></div>
 

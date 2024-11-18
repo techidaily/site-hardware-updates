@@ -1,7 +1,7 @@
 ---
 title: "Best Lenovo Laptops for Hybrid Professionals: Save Big with Current Deals - Insights From ZDNet"
-date: 2024-11-04T16:48:10.588Z
-updated: 2024-11-07T16:44:26.396Z
+date: 2024-11-15T17:09:43.966Z
+updated: 2024-11-17T18:36:18.468Z
 tags:
   - laptops
 categories:
@@ -69,10 +69,10 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,21 +111,18 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-assessing-photoshop-sway-reduction-a-necessity-debate-for-2024/"><u>[New] Assessing Photoshop Sway Reduction A Necessity Debate for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-tecno-camon-20-premier-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Tecno Camon 20 Premier 5G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/clear-audio-communication-on-discord-diagnosing-and-repairing-common-problems/"><u>Clear Audio Communication on Discord: Diagnosing and Repairing Common Problems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/get-ready-to-play-updated-windows-11-driver-for-amd-radeon-hd-6950/"><u>Get Ready to Play: Updated Windows 11 Driver for AMD Radeon HD 6950</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-6-essential-tips-to-create-instas-most-attractive-unboxings/"><u>In 2024, 6 Essential Tips to Create Insta's Most Attractive Unboxings</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-maximize-your-media-influence-with-10-effortless-steps/"><u>In 2024, Maximize Your Media Influence with 10 Effortless Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transformacion-gratuita-de-ppm-a-bmp-online-con-herramientas-de-movavi/"><u>Transformación Gratuita De PPM a BMP Online Con Herramientas De Movavi</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-your-full-potential-in-gaming-for-just-1199-with-the-stellar-combination-of-a-156-msi-katana-and-nvidia-geforce-rtx-cu-4070-gpu/"><u>Unleash Your Full Potential in Gaming for Just $1,199 – With the Stellar Combination of a 15.6 MSI Katana & NVIDIA GeForce RTX Cu-4070 GPU</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-ultimate-savings-with-razers-monumental-deal-up-to-67-off-their-top-gaming-laptop/"><u>Unlock Ultimate Savings with Razer's Monumental Deal: Up to 67% Off Their Top Gaming Laptop</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-gadgets-insights-from-toms-hardware-expertise/"><u>Unveiling Gadgets: Insights From Tom's Hardware Expertise</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-lenovo-thinkpad-p1-gen-7-a-revolutionary-leap-with-groundbreaking-lpcamm2-memory-ultimate-efficiency-meets-enhanced-speed/"><u>Unveiling Lenovo ThinkPad P1 Gen 7: A Revolutionary Leap with Groundbreaking LPCAMM2 Memory – Ultimate Efficiency Meets Enhanced Speed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-new-innovations-on-toms-hardware-blog/"><u>Unveiling New Innovations on Tom's Hardware Blog</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-tech-secrets-with-toms-hardware-analysis/"><u>Unveiling Tech Secrets with Tom's Hardware Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-computing-toms-hardware-guide/"><u>Unveiling the Latest in Computing - Tom's Hardware Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-beginners-guide-to-zoom-webinars-for-2024/"><u>[New] Beginner’s Guide to Zoom Webinars for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-creating-captivating-vimeo-video-content/"><u>[New] Creating Captivating Vimeo Video Content</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-geforce-rtx-ebytes-2070-drivers-for-enhanced-gaming-on-windows-11-8-and-7-systems/"><u>Download Updated GeForce RTX Ebytes 2070 Drivers for Enhanced Gaming on Windows 11, 8 and 7 Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/energy-bill-management-through-schneider-electric-solutions-insights-from-zdnet/"><u>Energy Bill Management Through Schneider Electric Solutions - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-officejet-pro-efi-driver-for-windows-11108-users-free-download/"><u>Get the Latest HP OfficeJet Pro eFi Driver for Windows 11/10/8 Users Free Download</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-after-deleting-from-recently-deleted-on-iphone-xr-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover deleted photos after deleting from Recently Deleted on iPhone XR | Stellar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-logitech-g35-microphone-drivers-for-optimal-performance-on-windows-7810-systems/"><u>Install Logitech G35 Microphone Drivers for Optimal Performance on Windows 7/8/10 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-xe-graphics-driver-installation-guide-for-windows-users/"><u>Intel Xe Graphics Driver Installation Guide for Windows Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximizing-your-post-a-step-by-step-guide-to-fitting-the-full-image-in-an-instagram-story/"><u>Maximizing Your Post: A Step-by-Step Guide to Fitting the Full Image in an Instagram Story</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/perfect-pairings-beachpool-essentials-reviewed/"><u>Perfect Pairings: Beach/Pool Essentials Reviewed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pros-list-17-leading-apps-for-easy-image-transformation-for-2024/"><u>Pro's List 17 Leading Apps for Easy Image Transformation for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speak-understand-thrive-6-paths-to-fluent-mastery/"><u>Speak, Understand, Thrive: 6 Paths to Fluent Mastery</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-hp-wi-fi-and-ethernet-drivers-installation-instructions-for-windows-users-windows-1078/"><u>Updated HP Wi-Fi & Ethernet Drivers: Installation Instructions for Windows Users (Windows 10/7/8)</u></a></li>
 </ul></div>
 

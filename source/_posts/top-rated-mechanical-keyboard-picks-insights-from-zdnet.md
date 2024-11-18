@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Mechanical Keyboard Picks - Insights From ZDNet
-date: 2024-11-03T16:35:31.524Z
-updated: 2024-11-07T16:38:45.310Z
+date: 2024-11-16T17:28:05.919Z
+updated: 2024-11-17T21:11:20.957Z
 tags:
   - laptops
 categories:
@@ -43,10 +43,10 @@ Cons
 * Loud fans
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacBook Pro (M3 Max)
@@ -85,13 +85,26 @@ Cons
 * Pricey
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## LG Gram Pro 16 2-in-1
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best lightweight laptop
 
@@ -153,13 +166,6 @@ Cons
 * Heavy and bulky
 * Best while plugged in
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Alienware m18 R2
 
 ### Best gaming laptop
@@ -189,27 +195,7 @@ Cons
 * A little bulky
 * Limited by its lower-end RAM
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Acer Aspire Go 15
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best laptop under $500
 
@@ -240,6 +226,13 @@ Cons
 * Can run warm
 
 ## Asus Vivobook Pro 15 (2024)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best laptop for content creators
 
@@ -288,6 +281,13 @@ Here's a well-researched (and tested) list of our favorite laptops for a wide ar
 | Asus Vivobook Pro 15                    | A laptop designed specifically for content creators with a brilliant OLED display and solid hardware that doesn't break the bank.                                                  |
 | |                                       |                                                                                                                                                                                    |
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How we test laptops
 
 Kyle Kucharski/ZDNET
@@ -303,13 +303,6 @@ We use a combination of methods to test laptops here at ZDNET. First, we acquire
 * **The human element:**  As we mentioned earlier, metrics and system data is important, but numbers alone don't give you the full picture. This is where we weave in our personal experience with the device and tap into the practical use cases that consumers actually care about.
 
 Ultimately, our goal is to break down the capabilities of each and every laptop we test into digestible terms that real people find useful. There is a lot of noise and confusion when it comes to navigating the laptop and computer consumer market, so we hope to bring an intuitive element to the whole process by leveraging our team's decades of experience.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are some factors to consider when choosing the best laptops?
 
@@ -333,13 +326,6 @@ While every computing platform has its loyal supporters, most people end up usin
 
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What brand of laptop is best?
 
 In general, the leading PC vendors have the most extensive range of offerings and the best-documented track records for product development and customer relations. Therefore, if you do not have a specialized use case or budgetary constraints, you will typically consider vendors such as Lenovo, HP, Dell, Apple, or Asus. These vendors currently lead the PC market in terms of shipments, along with several other well-known brands.
@@ -351,6 +337,13 @@ The good news is that you don't need to have the biggest, best, newest component
 **A** **lso: [Best gaming laptops you can buy right now](https://www.zdnet.com/article/best-gaming-laptop/)**
 
 And if you want to try your hand at content creation, something like the Corsair Voyager a1600 is a sure bet. You might also want to consider equipping with accessories. An Elgato Steam Deck integration, for example, can offer streamlined workflows when editing videos, livestreaming, and even setting up video calls with channel moderators or collaborators.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the best laptops for students?
 
@@ -367,10 +360,10 @@ Whether you're looking for a single laptop for yourself or a fleet for your busi
 You'll want to look for a model that has at least 8GB of RAM, a 512GB storage drive, a quad-core CPU, and a display that is large enough to work on without being too bulky to travel with. You'll also want a model with, at least, 8 hours of battery life to get through a typical shift without needing to plug in.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the best laptops for video editing?
@@ -380,6 +373,13 @@ We strongly recommend getting a [MacBook Pro (M3 Max)](https://www.apple.com/sho
 **Review:** [**Apple 16-inch MacBook Pro (M2 Max, 2023): A content creator's dream machine**](https://www.zdnet.com/article/apple-macbook-pro-m2-max-review/)
 
 Therefore, Apple MacBook Pros are a popular choice as are any laptops with powerful processors, dedicated graphics cards, and high-resolution displays such as the Dell XPS 13 and 15\. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Other laptops we've tested
 
@@ -429,22 +429,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/2024-approved-boost-your-meeting-management-syncing-zoom-with-gmail-emails/"><u>2024 Approved Boost Your Meeting Management Syncing Zoom with Gmail Emails</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-closes-critical-zenbleed-hole-update-your-pc-with-msis-latest-agesa-120-bios-now/"><u>AMD Closes Critical 'Zenbleed' Hole: Update Your PC With MSI's Latest AGESA 1.2.0 BIOS Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862876562-amd-closes-critical-zenbleed-hole-update-your-pc-with-msis-latest-agesa-120-bios-now/"><u>AMD Closes Critical 'Zenbleed' Hole: Update Your PC With MSI's Latest AGESA 1.2.0 BIOS Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/analyzing-the-maxsun-terminator-z790m-d5-a-stylish-white-micro-atx-motherboard-packed-with-five-pcie-m2-slots/"><u>Analyzing the MaxSun Terminator Z790M D5 - A Stylish White Micro ATX Motherboard Packed With Five PCIe M.2 Slots</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-implements-new-bios-upgrade-with-microsofts-dynamic-led-management-streamlining-performance/"><u>Asus Implements New BIOS Upgrade with Microsoft's Dynamic LED Management, Streamlining Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-pci-express-pcie-gen-7-proposal-ready-eyes-set-on-official-release/"><u>Complete PCI Express (PCIe) Gen 7 Proposal Ready - Eyes Set On Official Release</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/cutting-edge-msi-motherboard-hits-market-unveiling-the-first-with-innovative-camm2-memory-for-gamers-rig-performance-boost/"><u>Cutting-Edge MSI Motherboard Hits Market: Unveiling the First with Innovative CAMM2 Memory for Gamers' Rig Performance Boost</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discovering-innovation-with-toms-hardware-review-guide/"><u>Discovering Innovation with Tom's Hardware Review Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-huawei-nova-y91-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Huawei Nova Y91 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862872569-expert-reviews-at-toms-pc-parts-store-find-what-you-need-here/"><u>Expert Reviews at Tom's PC Parts Store - Find What You Need Here</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-realme-11-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Realme 11 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-synchronized-device-tutorial-for-efficient-movie-logging/"><u>In 2024, Synchronized Device Tutorial for Efficient Movie Logging</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-the-viewsonic-xg2njoyx272-oled-240hz-monitor-a-perfect-match-for-gamers/"><u>In-Depth Review of the ViewSonic XG2njoyX272 OLED 240Hz Monitor - A Perfect Match for Gamers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/starting-vlogging-right-the-top-equipmentsoftware/"><u>Starting Vlogging Right The Top Equipment/Software</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-rated-wireless-routers-with-extended-range-2024-edition/"><u>Top Rated Wireless Routers with Extended Range - 2024 Edition</u></a></li>
-<li><a href="https://techtrends.techidaily.com/twitter-growth-hacks-secrets-to-expanding-your-social-reach-and-building-a-loyal-following/"><u>Twitter Growth Hacks: Secrets to Expanding Your Social Reach and Building a Loyal Following</u></a></li>
-<li><a href="https://some-tips.techidaily.com/understanding-movie-storage-space-needs-over-24-hours-for-2024/"><u>Understanding Movie Storage Space Needs Over 24 Hours for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleash-the-power-of-split-window-on-netflix-platform/"><u>[New] Unleash the Power of Split Window on Netflix Platform</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-6-networks-transforming-how-firms-connect-and-engage/"><u>2024 Approved Top 6 Networks Transforming How Firms Connect and Engage</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/enhancing-viewer-experience-with-immersive-360-video-content-for-youtube/"><u>Enhancing Viewer Experience with Immersive 360 Video Content for YouTube</u></a></li>
+<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-field-photography-frenzy-samsung-vs-lg-cameras-collide/"><u>In 2024, Field Photography Frenzy Samsung VS LG Cameras Collide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-itel-p40plus-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Itel P40+ to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionizing-childhood-entertainment-old-school-mobile-devices-as-ideal-music-and-podcast-hubs-for-youngsters/"><u>Revolutionizing Childhood Entertainment: Old-School Mobile Devices as Ideal Music and Podcast Hubs for Youngsters</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/silencing-ringtones-mastering-the-art-of-call-muting-on-android-devices/"><u>Silencing Ringtones: Mastering the Art of Call Muting on Android Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-pubg-non-loading-buildings-fix/"><u>Step-by-Step Solution for PUBG Non-Loading Buildings Fix</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-what-to-inspect-when-acquiring-secondhand-android-smartphones/"><u>Ultimate Guide: What to Inspect When Acquiring Secondhand Android Smartphones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/understanding-and-maintaining-optimal-battery-performance-on-your-android-smartphone/"><u>Understanding and Maintaining Optimal Battery Performance on Your Android Smartphone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-efficiency-how-home-screen-shortcuts-revolutionize-your-android-experience/"><u>Unlocking Efficiency: How Home Screen Shortcuts Revolutionize Your Android Experience</u></a></li>
 </ul></div>
 

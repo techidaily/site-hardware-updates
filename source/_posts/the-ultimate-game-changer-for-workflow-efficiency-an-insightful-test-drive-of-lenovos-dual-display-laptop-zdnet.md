@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Game Changer for Workflow Efficiency: An Insightful Test Drive of Lenovo's Dual-Display Laptop | ZDNET"
-date: 2024-11-02T16:53:17.673Z
-updated: 2024-11-07T16:05:03.816Z
+date: 2024-11-11T19:57:04.904Z
+updated: 2024-11-17T19:52:04.973Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -60,6 +60,13 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 | Price                 | Starting at [$1,980](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-12-Core-i7-1360P-Fingerprint-Thunderbolt4%2Fdp%2FB0CR9S1KFL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca8e1fb25-770f-412f-9572-4bd2e6048e4c%7Cdtp&dtb=1) |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
 
@@ -82,10 +89,10 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How does it perform?
@@ -107,13 +114,6 @@ The verdict? It's a speedy machine. The Core Ultra processor feels snappier than
 To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about seven to eight hours of usage on a full charge. [In my testing](https://www.zdnet.com/article/how-we-test-laptops/), I was able to get to about seven hours of usage before it conked out, which is perfectly fine since 1.) this laptop has two screens and 2.) some pricier laptops like the [Surface Laptop Studio 2](https://www.zdnet.com/article/microsoft-surface-laptop-studio-2-review/) can't get anywhere near that.
 
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
 
@@ -146,10 +146,10 @@ When I'm working on my MacBook or -- quite frankly -- any other laptop in my ars
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -190,18 +190,16 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-essential-free-editing-software-rankings/"><u>[New] 2024 Approved Essential Free Editing Software Rankings</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-download-and-relive-a-compreran-review-of-top-youtube-playlist-extractors/"><u>[New] In 2024, Download and Relive A Compreran Review of Top YouTube Playlist Extractors</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-stop-real-time-footage-gathering-quickstep-guide/"><u>[New] In 2024, Stop Real-Time Footage Gathering QuickStep Guide</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-top-20-tiktok-anthems-discovering-todays-hip-hop-stars-for-2024/"><u>[New] Top 20 TikTok Anthems Discovering Today’s Hip-Hop Stars for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-smart-snap-strategies-insta-story-zoom-101/"><u>2024 Approved Smart Snap Strategies Insta Story Zoom 101</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-top-5-budget-friendly-pinterest-video-grabs/"><u>2024 Approved Top 5 Budget-Friendly Pinterest Video Grabs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/beyond-the-surface-unveiling-superior-performance-of-ubuntu-on-gigabyte-aero-15-predator-with-ryzen-7/"><u>Beyond the Surface: Unveiling Superior Performance of Ubuntu on Gigabyte Aero 15 Predator with Ryzen 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/breaking-down-the-latest-tech-with-copilotplus-live-blog-of-snapdragon-laptops-test-run/"><u>Breaking Down the Latest Tech with Copilot+: Live Blog of Snapdragon Laptops Test Run</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convertir-archivos-rmvb-sin-problemas-por-medios-libres-soluciones-de-movavi-para-usuarios-inteligentes/"><u>Convertir Archivos RMVB Sin Problemas Por Medios Libres: Soluciones De Movavi Para Usuarios Inteligentes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discount-alert-shop-m3-macbook-air-with-16gb-ram-and-sleek-13-screen-for-under-1200/"><u>Discount Alert: Shop M3 MacBook Air with 16GB RAM & Sleek 13 Screen for Under $1,200!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-cutting-edge-hardware-on-toms-digital-workshop/"><u>Discover Cutting-Edge Hardware on Tom's Digital Workshop</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-vivo-v27e-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Vivo V27e Without PUK Codes</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-application-setup-on-windows-11/"><u>Mastering the Art of Application Setup on Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unheard-film-footage-appraisal-and-parallel-projects/"><u>[Updated] Unheard Film Footage Appraisal and Parallel Projects</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximize-space-free-20plus-storage-options-with-limits-up-to-1tb/"><u>2024 Approved Maximize Space Free 20+ Storage Options With Limits (Up To 1TB)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-techkey-bluetooth-dongle-driver-compatible-with-windows-11-7-and-8/"><u>Download Techkey Bluetooth Dongle Driver: Compatible with Windows 11, 7 & 8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-synaptics-driver-management-for-windows-pcs-get-started-now/"><u>Effortless Synaptics Driver Management for Windows PCs - Get Started Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-superior-sound-performance-on-pc-download-compatible-realtek-drivers-for-win11win10win7/"><u>Ensure Superior Sound Performance on PC - Download Compatible Realtek Drivers for Win11/Win10/Win7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/freshly-updated-evga-gpu-drivers-available-for-seamless-windows-installation/"><u>Freshly Updated EVGA GPU Drivers Available For Seamless Windows Installation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-xiaomi-redmi-k70-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Xiaomi Redmi K70 Device</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learn-new-tongues-faster-with-mondlys-ar-technology/"><u>Learn New Tongues Faster With Mondly's AR Technology</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1728482188562-pc/"><u>PC重置:恢复删除后的游戏数据和文件</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unlocking-affordable-sky-adventures-with-the-syma-jellyfish-68-rc-helicopter-reviewed-here/"><u>Unlocking Affordable Sky Adventures with the Syma Jellyfish 68 RC Helicopter Reviewed Here</u></a></li>
 </ul></div>
 

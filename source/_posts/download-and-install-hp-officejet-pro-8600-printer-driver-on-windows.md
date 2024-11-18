@@ -1,7 +1,7 @@
 ---
 title: Download & Install HP OfficeJet Pro 8600 Printer Driver on Windows
-date: 2024-08-28T02:25:49.496Z
-updated: 2024-08-29T02:25:49.496Z
+date: 2024-11-13T22:19:02.104Z
+updated: 2024-11-17T21:07:02.992Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ Wondering whether or not to update the driver for your **HP OfficeJet Pro 8720**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb955c3ee3c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a171125168.jpg)
@@ -47,8 +54,12 @@ Wondering whether or not to update the driver for your **HP OfficeJet Pro 8720**
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2: Update your HP OfficeJet Pro 8720 **printer**  driver manually
 
 **Warning** : Downloading the wrong driver or installing it incorrectly can compromise our PC’s stability and even cause the whole system to crash. So please proceed at your own peril.
@@ -56,19 +67,32 @@ Wondering whether or not to update the driver for your **HP OfficeJet Pro 8720**
 1. Go to **[HP’s official website for driver downloads](https://support.hp.com/hk-en/drivers)**  , and click **Printer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17620c2da6d.jpg)
 2. Type **HP OfficeJet Pro 8720** into the box and click **Submit** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a01155946b.png)
 3. Make sure the selected operating system is **the right version for your Windows OS** (Windows 10, 64-bit in my example) and click **Download** in**the first result** .  
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a0206ca291.jpg)
 4. Run the wizard and follow the onscreen instructions to finish the install.
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Restart your computer for the changes to take effect.
 
 ---
@@ -83,8 +107,6 @@ Wondering whether or not to update the driver for your **HP OfficeJet Pro 8720**
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +114,19 @@ Wondering whether or not to update the driver for your **HP OfficeJet Pro 8720**
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-hero-5-black-evaluated-against-nikkors-km-170/"><u>[New] 2024 Approved HERO 5 Black Evaluated Against Nikkor's KM-170</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-record-powerpoint-presentation-with-webcam-for-2024/"><u>[New] How to Record PowerPoint Presentation with Webcam for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-tweeted-to-fame-identifying-2023s-most-shared-content/"><u>[Updated] Tweeted to Fame Identifying 2023'S Most Shared Content</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-step-by-step-guide-to-facebook-mastery-pro-and-novice-edition/"><u>2024 Approved Step-by-Step Guide to Facebook Mastery Pro & Novice Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-alternatives-to-lenovo-and-dell-2-in-1s-unveiled-score-a-bargain-before-the-prime-day-rush-expert-advice/"><u>Affordable Alternatives to Lenovo & Dell 2-In-1s Unveiled: Score a Bargain Before the Prime Day Rush | Expert Advice</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-review-reveals-innovation-worthy-of-attention-the-disruptive-2023-acer-laptop-for-just-749/"><u>Exclusive Review Reveals Innovation Worthy of Attention: The Disruptive 2023 Acer Laptop for Just $749</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-infinix-smart-8-hd-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Infinix Smart 8 HD Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-display-duplication-on-lg-smart-tvs-a-comprehensive-tutorial/"><u>Mastering Display Duplication on LG Smart TVs – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximizing-lifespan-effective-tips-to-extend-your-windows-laptop-battery-duration/"><u>Maximizing Lifespan: Effective Tips to Extend Your Windows Laptop Battery Duration</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-expert-reviews-and-guides-for-high-performance-computing/"><u>Tom's Tech: Expert Reviews and Guides for High-Performance Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/up-to-8-discount-on-new-apple-m3-macbook-pro-in-prime-day-offerings-at-amazon-shop-now/"><u>Up to 8% Discount on New Apple M3 MacBook Pro in Prime Day Offerings at Amazon - Shop Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-savvy-users-choose-these-high-performance-windows-notebooks-over-the-macbook-air/"><u>Why Savvy Users Choose These High-Performance Windows Notebooks Over the MacBook Air</u></a></li>
+</ul></div>
 

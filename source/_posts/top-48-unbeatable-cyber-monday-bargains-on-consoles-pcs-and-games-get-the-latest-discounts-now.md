@@ -1,7 +1,7 @@
 ---
 title: Top 48 Unbeatable Cyber Monday Bargains on Consoles, PCs & Games – Get the Latest Discounts Now!
-date: 2024-10-31T16:04:43.530Z
-updated: 2024-11-07T16:01:58.713Z
+date: 2024-11-16T19:03:38.678Z
+updated: 2024-11-17T16:06:50.643Z
 tags:
   - laptops
 categories:
@@ -40,10 +40,10 @@ The last time this page received an update, these were the latest Cyber Monday g
 * [MSI Clutch MG41 for $40 (save $15) at B&H Photo](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1657724-REG%2Fmsi%5Fclutch%5Fgm41%5Flightweight%5Fgaming.html)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Games**
@@ -61,13 +61,6 @@ The last time this page received an update, these were the latest Cyber Monday g
 * [HP Omen 25L desktop for $1200 (save $300) at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-omen-25l-gaming-desktop-amd-ryzen-7-5700g-hyperx-16gb-memory-nvidia-geforce-rtx-3060-ti-512gb-ssd-1tb-hdd-ceramic-white%2F6504331.p%3FskuId%3D6504331&publisher%5Fslug=zdnet&article%5Fname=48%20best%20cyber%20monday%20gaming%20deals%20still%20available%3A%20console%2C%20pc%2C%20laptop%2C%20and%20game%20sales&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-holiday-gaming-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 * [Gigabyte Aero 16 YE5 for $2349 (save $1650) at Newegg](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=44583&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https%3A%2F%2Fwww.newegg.com%2Fp%2FN82E16834233528%3FItem%3DN82E16834233528)
 * [MSI Aegis ZS desktop for $1125 (save $475) at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmsi-aegis-zs-gaming-desktop-amd-ryzen-r7-5700g-16gb-memory-rx-6700xt-1tb-ssd-black%2F6498290.p%3FskuId%3D6498290&publisher%5Fslug=zdnet&article%5Fname=48%20best%20cyber%20monday%20gaming%20deals%20still%20available%3A%20console%2C%20pc%2C%20laptop%2C%20and%20game%20sales&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-holiday-gaming-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Hardware
 
@@ -87,6 +80,13 @@ The last time this page received an update, these were the latest Cyber Monday g
 ### **Gaming consoles**
 
 * [Xbox Series S 512GB for $250 (save $50) at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmicrosoft-xbox-series-s-512-gb-all-digital-disc-free-gaming-holiday-console-white%2F6510817.p%3FskuId%3D6510817&publisher%5Fslug=zdnet&article%5Fname=48%20best%20cyber%20monday%20gaming%20deals%20still%20available%3A%20console%2C%20pc%2C%20laptop%2C%20and%20game%20sales&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-holiday-gaming-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **VR headsets for gaming**
 
@@ -130,6 +130,13 @@ Here are some other gaming Cyber Monday deals happening right now at Amazon:
 
 [Razer DeathAdder V2 Pro Wireless for $58 (save $72) $58 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-DeathAdder-Wireless-Gaming-Mouse%2Fdp%2FB08FQMBKQG%3Fref%5F%3DOct%5FDLandingS%5FD%5F9309fac0%5F63%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7e5976d4-e756-4974-ac5f-3c41065fd380%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Cyber Monday gaming deals at Walmart**
 
 Here are some other gaming Cyber Monday deals happening right now at Walmart: 
@@ -143,13 +150,6 @@ Here are some other gaming Cyber Monday deals happening right now at Walmart:
 [HyperX Alloy Origins Core for $62 (save $27) $62 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHyperX-Alloy-Origins-Core-Tenkeyless-Mechanical-Gaming-Keyboard-Software-Controlled-Light-Macro-Customization-Compact-Form-Factor-RGB-LED-Backlit-Tac%2F741562691&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 [Kingston Fury Beast RGB RAM 16GB for $64 (save $46) $64 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FKingston-FURY-Beast-RGB-16GB-KIT-2x8GB-3200MHz-DDR4-Desktop-Memory-KF432C16BBAK2-16-Kit-of-2%2F450574725&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Cyber Monday gaming deals at Best Buy**
 
@@ -180,10 +180,10 @@ Here are some other gaming Cyber Monday deals happening right now at B&H:
 I did my best to choose deals that had at least a 20% discount since gaming laptops and consoles can be quite expensive. I also tried to have a good mix of PC and console gaming deals to appeal to all gamers. And I've made sure to include PC components like CPUs and hard drives for PC gamers looking to build new rigs or update current setups.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When is Black Friday 2022?
@@ -191,22 +191,15 @@ I did my best to choose deals that had at least a 20% discount since gaming lapt
 This year, Black Friday is on Nov. 25\. And while this is a traditional day for sales and deals at many brick-and-mortar retailers like Walmart and Target, you can find excellent deals online all month long to get a jump on your Christmas list.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When is Cyber Monday 2022?
 
 Cyber Monday 2022 is on Nov. 28\. And while many of the best deals happen day-of, you can also snag great discounts all month long at online retailers like Amazon and Newegg.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best holiday deals 2022?
 
@@ -215,13 +208,6 @@ ZDNET scoured holiday sales to find the best deals this year:
 * [The best holiday 2022 deals](https://www.zdnet.com/article/best-early-black-friday-deals-amazon-walmart-best-buy-and-more/)
 
 Our experts split out the best deals by retailer, brand, and category, which you can see below. 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Holiday deals by retailer**
 
@@ -232,12 +218,26 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best holiday 2022 deals at Walmart](https://www.zdnet.com/article/walmart-best-holiday-deals-2022/)
 * [Top early holiday 2022 deals at Best Buy](https://www.zdnet.com/article/best-buy-holiday-deals-2022/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Holiday deals by brand**
 
 * [The best holiday 2022 Apple deals](https://www.zdnet.com/article/apple-best-holiday-deals-2022/)
 * [The best holiday 2022 Samsung deals](https://www.zdnet.com/article/samsung-best-holiday-deals-2022/)
 * [The best holiday 2022 Dell deals](http://zdnet.com/article/dell-best-holiday-deals-2022/)
 * [The best holiday 2022 HP deals](https://www.zdnet.com/home-and-office/hp-best-holiday-deals-2022/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Holiday deals by category**
 
@@ -311,24 +311,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-navigating-devices-for-google-meet-session/"><u>[New] Navigating Devices for Google Meet Session</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-hit-the-jackpot-of-humor-craft-top-tier-youtube-reaction-videos-3-techniques/"><u>2024 Approved Hit the Jackpot of Humor – Craft Top-Tier YouTube Reaction Videos (3 Techniques)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-microrecorder-assessment-onscreen-snaps/"><u>2024 Approved MicroRecorder Assessment Onscreen Snaps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-sony-s6500-revisited-fresh-take-on-media-playback/"><u>2024 Approved Sony S6500 Revisited Fresh Take on Media Playback</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/clear-views-combating-fog-in-gopro-photos-for-2024/"><u>Clear Views Combating Fog in GoPro Photos for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-smooth-running-sm-bus-controllers-on-any-window-os-versions-111087/"><u>Download and Install Smooth-Running SM Bus Controllers on Any Window OS (Versions 11/10/8/7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-toshiba-bluetooth-driver/"><u>Download Toshiba Bluetooth Driver</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/t-tips-on-jump-cuts-for-dynamic-video-editing/"><u>Expert Tips on Jump Cuts for Dynamic Video Editing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-steelseries-driver-software-downloads-and-easy-setup-guide-for-pcs/"><u>Free SteelSeries Driver Software Downloads & Easy Setup Guide for PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-most-out-of-your-epson-xp-330-the-ultimate-driver-download-guide/"><u>Get the Most Out of Your Epson XP-330: The Ultimate Driver Download Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/high-refresh-rate-monitor-for-smooth-gameplay-180-hz/"><u>High Refresh Rate Monitor for Smooth Gameplay - 180 Hz</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/igfxem-module-errors-troubleshooting-and-fixes-explored-in-depth/"><u>IgfxEM Module Errors: Troubleshooting and Fixes Explored in Depth</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-your-new-amd-rx-6800-xt-driver-downloads-for-windows-111087-users/"><u>Installing Your New AMD RX 6800 XT - Driver Downloads for Windows 11/10/8/7 Users</u></a></li>
-<li><a href="https://fox-place.techidaily.com/modify-conditional-display-settings-guide-to-editing-the-condition-window/"><u>Modify Conditional Display Settings: Guide to Editing the Condition Window</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-fortnites-video-memory-issues-a-step-by-step-guide/"><u>Resolve Fortnite's Video Memory Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-obtaining-your-bcm2-growers-driver-for-pc-user-friendly-download-process/"><u>Step-by-Step Guide to Obtaining Your BCM2 Grower's Driver for PC | User-Friendly Download Process</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-samsung-phones-usb-drivers/"><u>Step-by-Step Guide: Updating Your Samsung Phone's USB Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/thinkpad-thunderbolt-3-connector-driver-recent-upgrade-info/"><u>ThinkPad Thunderbolt 3 Connector Driver - Recent Upgrade Info</u></a></li>
-<li><a href="https://win-lab.techidaily.com/transformez-votre-fichier-en-ogg-gratuitement-via-internet-avec-movavi-conversion-fluide-et-facile/"><u>Transformez Votre Fichier en Ogg Gratuitement via Internet Avec Movavi - Conversion Fluide Et Facile</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-from-pixels-to-power-the-ultra-hd-world-of-samsung-ue590/"><u>[Updated] 2024 Approved From Pixels to Power The Ultra HD World of Samsung UE590</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-premier-emulator-titles-simulating-playstation-2-on-ios/"><u>[Updated] 2024 Approved Premier Emulator Titles Simulating PlayStation 2 on iOS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-tips-for-enabling-grid-on-google-meet/"><u>[Updated] 2024 Approved Tips for Enabling Grid on Google Meet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-capturing-motion-setting-up-a-timelapse-on-an-ipad/"><u>[Updated] In 2024, Capturing Motion Setting up a Timelapse on an iPad</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-youtube-conclusion-handbook-creators-choice/"><u>[Updated] The Ultimate YouTube Conclusion Handbook [Creators' Choice]</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-errors-with-proper-use-of-winservicesexe/"><u>Avoiding Errors with Proper Use of Winservices.exe</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-fixes-for-common-problems-with-the-realtek-wireless-lan-card-driver/"><u>Comprehensive Fixes for Common Problems with the Realtek Wireless LAN Card Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortlessly-upgrade-to-the-latest-intel-dual-band-wifi-ac-3160-driver/"><u>Effortlessly Upgrade to the Latest Intel Dual Band WiFi AC 3160 Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-optimal-performance-nvidia-rtx-2060-driver-downloads-for-windows-11-10-8-and-7/"><u>Ensure Optimal Performance: NVIDIA RTX 2060 Driver Downloads for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evolving-digital-safety-navigating-through-7-trends/"><u>Evolving Digital Safety: Navigating Through 7 Trends</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-hp-deskjet-ink-advantage-3050a-printer-drivers-downloaded-updates-for-windows-users/"><u>Free HP DeskJet Ink Advantage 3050A Printer Drivers Downloaded: Updates for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-z270-carbon-series-motherboard-ultimate-downloads-for-speed-demons/"><u>Get the Z270 Carbon Series Motherboard – Ultimate Downloads for Speed Demons</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-install-hp-laserjet-pro-m402n-printing-software-on-your-windows-computer/"><u>How to Successfully Install HP LaserJet Pro M402n Printing Software on Your Windows Computer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-lava-yuva-3-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Lava Yuva 3 FRP?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977745314-quick-fix-for-graphics-enthusiasts-download-and-update-amd-rx-80-drivers/"><u>Quick Fix for Graphics Enthusiasts - Download and Update AMD RX 지오80 Drivers!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-and-optimize-your-windows-with-new-nvme-drivers-download-and-setup-instructions/"><u>Secure & Optimize Your Windows with New NVMe Drivers - Download and Setup Instructions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/securing-a-spot-in-the-future-with-windows-11/"><u>Securing a Spot in the Future with Windows 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-professional-animation-software-8-best-creator-for-mac-and-windows/"><u>Updated In 2024, Professional Animation Software 8 Best Creator for Mac and Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-connectivity-with-official-zexmo-bluetooth-driver-suite-windows-11-7-and-8/"><u>Upgrade Your Connectivity with Official Zexmo Bluetooth Driver Suite (Windows 11, 7, & 8)</u></a></li>
 </ul></div>
 

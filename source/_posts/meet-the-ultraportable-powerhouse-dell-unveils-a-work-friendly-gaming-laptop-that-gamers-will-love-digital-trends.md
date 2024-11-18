@@ -1,7 +1,7 @@
 ---
 title: "Meet the Ultraportable Powerhouse: Dell Unveils a Work-Friendly Gaming Laptop That Gamers Will Love | Digital Trends"
-date: 2024-11-05T16:23:51.669Z
-updated: 2024-11-07T16:33:59.167Z
+date: 2024-11-11T18:14:22.497Z
+updated: 2024-11-17T23:05:11.263Z
 tags:
   - laptops
 categories:
@@ -71,10 +71,10 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -113,18 +113,14 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-easy-steps-to-screen-record-on-macbook-air/"><u>[New] Easy Steps to Screen Record on Macbook Air</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-gold-class-selection-of-unseen-video-extractors/"><u>[New] Gold-Class Selection of Unseen Video Extractors</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-action-plan-seamless-transcoding-from-xmlssattml-to-srt/"><u>[New] In 2024, Action Plan Seamless Transcoding From XML/SSA/TTML to SRT</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-top-5-ps3-emulation-software-pc-edition-2023-for-2024/"><u>[New] Top 5 Ps3 Emulation Software - PC Edition, 2023 for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-best-screen-replayer-for-high-impact-youtubing-experience/"><u>2024 Approved Best Screen Replayer for High-Impact YouTubing Experience</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-seamless-download-experience-top-8-fb-film-extractors/"><u>2024 Approved Seamless Download Experience Top 8 FB Film Extractors</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-honor-x9a-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Honor X9a to Another | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximize-your-chinese-processor-asus-new-overclocking-board-amplifies-the-power-of-the-kx-amo-7000-series-by-25/"><u>Maximize Your Chinese Processor: Asus' New Overclocking Board Amplifies the Power of the KX-Amo 7000 Series by 25%</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-technology-trends-with-insights-from-toms-hardware/"><u>Navigating Technology Trends with Insights From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-computer-equipment-with-toms-expertise/"><u>Navigating the World of Computer Equipment with Tom's Expertise</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-gadgets-with-toms-technology-review/"><u>Navigating the World of Gadgets with Tom’s Technology Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/new-arrow-lake-mb-range-from-asrock-hits-shelves-the-upgraded-taichi-board-redefining-memory-capabilities-with-camm2-technology/"><u>New Arrow Lake M/B Range From ASROCK Hits Shelves - The Upgraded Taichi Board Redefining Memory Capabilities with CAMM2 Technology</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-tecno-camon-20-premier-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Camon 20 Premier 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-expert-tips-for-clearer-zoomed-snapshots-on-snapchat-for-2024/"><u>[New] Expert Tips for Clearer Zoomed Snapshots on Snapchat for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-best-start-streamlined-tools-for-novice-game-editors-for-2024/"><u>[Updated] The Best Start Streamlined Tools for Novice Game Editors for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/enhance-conversations-with-custom-whatsapp-ringtones-for-2024/"><u>Enhance Conversations with Custom WhatsApp Ringtones for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-free-download-wacom-intuos-pro-software-for-windows-10-made-simple/"><u>Get Your [Free Download]: Wacom Intuos Pro Software for Windows 10 Made Simple</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-full-potential-of-canon-cams-with-gratuitous-and-fee-based-luts/"><u>In 2024, Unlock Full Potential of Canon Cams with Gratuitous & Fee-Based LUTs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-new-tech-trends-with-toms-hardware-experts/"><u>Navigating New Tech Trends with Tom's Hardware Experts</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-best-video-editing-software-to-remove-audio-from-video-for-windows/"><u>New Best Video Editing Software to Remove Audio From Video For Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-guide-installing-the-latest-version-of-your-epson-xp-440-printer-driver/"><u>Quick and Easy Guide: Installing the Latest Version of Your Epson XP-440 Printer Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-printer-difficulties-effective-fixes-for-the-hp-laserjet-p2035-on-windows-pcs/"><u>Resolving Printer Difficulties: Effective Fixes for the HP Laserjet P2035 on Windows PCs</u></a></li>
 </ul></div>
 

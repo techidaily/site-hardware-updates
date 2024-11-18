@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Score Amazing Discounts on Games in October's Prime Deal Extravaganza | Insights From ZDNet
-date: 2024-10-31T16:27:47.217Z
-updated: 2024-11-07T16:21:05.776Z
+date: 2024-11-11T23:08:00.732Z
+updated: 2024-11-17T17:32:34.424Z
 tags:
   - laptops
 categories:
@@ -77,10 +77,10 @@ Microsoft's 2024 Surface Laptop is a fast, lightweight laptop with a fantastic b
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXKQYNPD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb3611028-58ae-48b5-bfb2-0711ac2fbc82%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best laptops for students
@@ -100,6 +100,13 @@ Asus/ZDNET
 * [Asus ROG Strix G17](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B2HV382D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb3611028-58ae-48b5-bfb2-0711ac2fbc82%7Cdtp&dtb=1) (2022) for $949 ($250 off) - The ROG Strix G17 from Asus' 2022 lineup is marked down significantly to make room for the 2024 models, but that doesn't mean this machine can't handle high-end gaming. It's got 16GB of RAM and an Nvidia GeForce RTX 3050 GPU and bold design, all for under $1,000\.
 * [MSI Thin 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMSI-Thin-144Hz-Gaming-Laptop%2Fdp%2FB0BT3CD75G%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb3611028-58ae-48b5-bfb2-0711ac2fbc82%7Cdtp&dtb=1) (2023) for $920 ($79 off) - As its name implies, the Thin 15 is an ultraportable gaming machine with an Intel Core i7 processor and Nvidia RTX 4050 graphics card along with a 15.6-inch, 144Hz display. Last year's version is a solid gaming option under that $1,000 price point.
 * [Asus TUF Gaming A15 (2024)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-NVIDIA%C2%AE-GeForce-FA506NF-ES51%2Fdp%2FB0CRDF25TQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb3611028-58ae-48b5-bfb2-0711ac2fbc82%7Cdtp&dtb=1) for $599 ($100 off) - The TUF line of laptops features solid gaming hardware along with military-grade durability. The A15 is a solid gaming laptop that fits this description to a T, marked way down to a competitive price for 8GB of RAM, 512GB of storage, and an Nvidia GeForce RTX 2050 graphics card.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best laptops for photo editing
 
@@ -129,41 +136,28 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Pro 16 M3 Max](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-macbook-pro-16-laptop-m3-max-chip-built-for-apple-intelligence-36gb-memory-30-core-gpu-1tb-ssd-space-black%2F6534635.p%3FskuId%3D6534635&publisher_slug=itechdaily19598&exclusive=1) for $2,999 (save $500): Apple's flagship content creation and workstation laptop has 36GB of RAM, a 1TB SSD, and M3 Max chip with integrated graphics processors.
 * [Acer Chromebook Spin 714](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-chromebook-spin-714-intel-evo-laptop-14-1610-wuxga-1920-x-1200-touch-intel-core-i5-1335u-8gb-ram-256gb-ssd-steel-gray%2F6541841.p%3FskuId%3D6541841&publisher_slug=itechdaily19598&exclusive=1) for $499 (save $200): A budget-friendly 2-in-1 laptop that's perfect for students with a 14-inch touchscreen display, 8GB of RAM, and 256GB SSD.
 
-## FAQs
-
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## FAQs
 
 ### When is Amazon's October Prime Day 2024?
 
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals before and after those days as well. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Are laptops really cheaper on Prime Day?
 
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
@@ -244,24 +238,20 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-direct-lineup-for-iphone-images-flawless-snapchat-backup/"><u>[New] Direct Lineup for iPhone Images Flawless Snapchat Backup</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-insta-unfollow-a-path-towards-a-lasting-account-discontinuation-for-2024/"><u>[New] Insta Unfollow A Path Towards a Lasting Account Discontinuation for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-ultimate-solution-pack-6-best-apps-for-signature-erasure-for-2024/"><u>[New] Ultimate Solution Pack - 6 Best Apps for Signature Erasure for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-upside-down-world-of-instagram-videos/"><u>[Updated] Exploring the Upside-Down World of Instagram Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-apples-podcast-submission-requirements-clearly/"><u>[Updated] Navigating Apple's Podcast Submission Requirements Clearly</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-seamless-background-extraction-in-picsart-editing/"><u>[Updated] Seamless Background Extraction in Picsart Editing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-your-productivity-with-hps-latest-professional-monitor-a-premium-ips-screen-in-a-non-oled-package-for-less-than-400/"><u>Boost Your Productivity with HP's Latest Professional Monitor - A Premium IPS Screen in a Non-OLED Package for Less than $400</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/breaking-down-the-ultra-wide-oled-gameplay-experience-on-aocs-agon-pro-ag456uczd-our-in-depth-45-inch-monitor-review/"><u>Breaking Down the Ultra Wide OLED Gameplay Experience on AOC's Agon Pro AG456UCZD – Our In-Depth 45 Inch Monitor Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-latest-in-electronics-through-toms-experts-eyes/"><u>Discover the Latest in Electronics Through Tom's Experts Eyes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-top-notch-hardware-solutions-from-toms-experts/"><u>Discover Top-Notch Hardware Solutions From Tom's Experts</u></a></li>
-<li><a href="https://review-topics.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-xiaomi-14-ultra-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Xiaomi 14 Ultra in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/elevate-your-visual-and-connectivity-game-discover-asrocks-top-tier-32-oled-screen-with-impeccable-480-hz-performance-and-network-support/"><u>Elevate Your Visual and Connectivity Game: Discover ASROCK’s Top-Tier 32” OLED Screen with Impeccable 480 Hz Performance and Network Support</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/historical-insights-from-youtubes-top-10-vlogs-for-2024/"><u>Historical Insights From YouTube's Top 10 Vlogs for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/huge-screen-high-performance-a-comprehensive-review-of-the-crystal-pro-gaming-display-by-monoprice-for-only-285/"><u>Huge Screen, High Performance: A Comprehensive Review of the Crystal Pro Gaming Display by Monoprice for Only $285</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-reviews-by-tom-your-guide-to-cutting-edge-hardware-solutions/"><u>In-Depth Reviews by Tom: Your Guide to Cutting-Edge Hardware Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-viewsonic-xg2n352-2k-oled-display-analysis-a-top-pick-for-enthusiastic-gamers/"><u>In-Depth ViewSonic XG2n352-2K OLED Display Analysis: A Top Pick for Enthusiastic Gamers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/innovative-hardware-discussions-and-advice-by-toms-experts/"><u>Innovative Hardware Discussions and Advice by Tom's Experts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-evolution-from-discs-to-streaming-unveiling-netflixs-dvd-offering-phase/"><u>The Evolution From Discs to Streaming: Unveiling Netflix's DVD Offering Phase</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-ultimate-guide-to-enhancing-learning-one-talk-show-at-a-time/"><u>The Ultimate Guide to Enhancing Learning, One Talk Show at a Time</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-insider-guide-to-listening-to-podcasts-on-your-iphone/"><u>[Updated] 2024 Approved The Insider Guide to Listening to Podcasts on Your iPhone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-social-blades-role-in-deciphering-the-dynamics-of-youtube-statistics/"><u>[Updated] Social Blade's Role in Deciphering the Dynamics of YouTube Statistics</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-reveiw-by-oladance-evaluating-the-sound-performance-of-popular-open-ear-headphone-models/"><u>Comprehensive Reveiw by Oladance: Evaluating the Sound Performance of Popular Open-Ear Headphone Models</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-troubleshooting-tips-eliminating-game-crashes-in-house-flipper-2-for-windows-users/"><u>Comprehensive Troubleshooting Tips: Eliminating Game Crashes in House Flipper 2 for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/creating-a-smarter-living-space-how-this-prime-day-marks-the-start-of-my-intelligent-home-journey/"><u>Creating a Smarter Living Space: How This Prime Day Marks the Start of My Intelligent Home Journey</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/creme-brulee/"><u>Crème Brûlée</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-logitechs-latest-affordable-mouse-with-7-playful-design-options/"><u>Discover Logitech's Latest Affordable Mouse with 7 Playful Design Options</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/displayport-vs-hdmi-showdown-determining-the-optimal-video-interface-for-you/"><u>DisplayPort Vs. HDMI Showdown: Determining the Optimal Video Interface for You.</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/editing-like-a-pro-a-comprehensive-online-video-guide/"><u>Editing Like a Pro A Comprehensive Online Video Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-strategies-for-addressing-access-denied-messages-on-windows-devices/"><u>Effective Strategies for Addressing 'Access Denied' Messages on Windows Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elite-defenders-for-your-device-discovering-the-finest-11-inch-ipad-air-cases-of-this-year/"><u>Elite Defenders for Your Device: Discovering the Finest 11-Inch iPad Air Cases of This Year</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-proven-methods-for-boosting-video-watchers/"><u>In 2024, Proven Methods for Boosting Video Watchers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-corsair-mouse-drivers-and-features-a-complete-step-by-step-guide/"><u>Installing Corsair Mouse Drivers & Features: A Complete Step-by-Step Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-y02t-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo Y02T Unresponsive Screen | Dr.fone</u></a></li>
 </ul></div>
 

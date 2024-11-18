@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Deal Alert: Top-Rated Gaming Speakers Now 30%% Discounted on Amazon - Exclusive Review by ZDNet"
-date: 2024-11-02T16:07:51.578Z
-updated: 2024-11-07T16:03:02.668Z
+date: 2024-11-16T17:49:29.208Z
+updated: 2024-11-17T22:48:26.006Z
 tags:
   - laptops
 categories:
@@ -71,16 +71,10 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -92,10 +86,10 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -132,20 +126,20 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-ios-video-experience-the-10-most-excellent-players/"><u>[Updated] In 2024, IOS Video Experience The 10 Most Excellent Players</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/adding-audio-magic-music-and-voiceovers-for-instagram-reels-for-2024/"><u>Adding Audio Magic Music & Voiceovers for Instagram Reels for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/bigger-capacity-but-lagging-in-little-pcs-mp60/"><u>Bigger Capacity but Lagging in Little PCs (MP60)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-download-and-setup-lenovo-ideapad-100-drivers-compatible-with-windows-11/"><u>Easy Download and Setup: Lenovo IdeaPad 100 Drivers Compatible with Windows 11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-15-pro-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 15 Pro In Different Conditionsin</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-instagram-storytelling-mastery-crafting-a-dynamic-marketing-plan/"><u>In 2024, Instagram Storytelling Mastery Crafting a Dynamic Marketing Plan</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-technology-with-toms-hardware-experts/"><u>Mastering Technology with Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-your-setup-a-detailed-look-at-toms-pc-hardware-recommendations/"><u>Mastering Your Setup - A Detailed Look at Tom's PC Hardware Recommendations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/microsofts-ai-revolution-how-copilotplus-is-redefining-modern-computing-and-outpacing-2024-laps/"><u>Microsoft's AI Revolution: How Copilot+ Is Redefining Modern Computing & Outpacing 2024 Laps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/microsofts-copilot-takes-on-your-pc-check-out-the-new-lineup-of-snapdragon-elite-x-laptops-on-offer-today/"><u>Microsoft's Copilot Takes On Your PC - Check Out the New Lineup of Snapdragon Elite X Laptops on Offer Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/next-level-computing-with-a-twist-discover-the-astonishing-features-and-subtle-quirks-in-our-review-of-the-latest-dell-xps-models-16-9640-and-14-9440/"><u>Next-Level Computing with a Twist: Discover the Astonishing Features & Subtle Quirks in Our Review of the Latest Dell XPS Models - 16 (9640) and 14 (9440)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/post-qualcomm-mediatek-announces-arrival-of-arm-processors-in-windows-powered-laptops-a-strategic-move/"><u>Post Qualcomm, MediaTek Announces Arrival of Arm Processors in Windows-Powered Laptops - A Strategic Move</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revolutionize-your-computing-experience-with-acer-dell-hp-and-lenovos-latest-offerings-affordable-snapdragon-x-windows-copilot-pcs-with-impressive-battery-l37/"><u>Revolutionize Your Computing Experience with Acer, Dell, HP and Lenovo's Latest Offerings: Affordable Snapdragon X Windows Copilot PCs With Impressive Battery Life!</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-s-top-picks-android-video-editor-apps-compatible-with-chromebook/"><u>Updated S Top Picks Android Video Editor Apps Compatible with Chromebook</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-generative-ai-breaking-it-down/"><u>What Is Generative AI? Breaking It Down</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-preserving-the-pulse-of-internet-radio-waves/"><u>[Updated] 2024 Approved Preserving the Pulse of Internet Radio Waves</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-solved-muted-youtube-shorts-appearance/"><u>[Updated] 2024 Approved Solved Muted YouTube Shorts Appearance</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-future-of-televising-social-media-for-2024/"><u>[Updated] The Future of Televising Social Media for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/essentials-for-optimal-zoom-use-on-win10-for-2024/"><u>Essentials for Optimal Zoom Use on WIN10 for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 11 Pro Max</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-8-plus-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 8 Plus Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/massive-savings-in-tech-gadgets-grab-the-new-ipad-10gen-for-just-334-enjoy-ultra-hd-with-roku-4k-and-charge-smartly-with-anker-deals/"><u>Massive Savings in Tech Gadgets: Grab the New iPad 10Gen for Just $334, Enjoy Ultra HD with Roku 4K, and Charge Smartly With Anker Deals!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/meet-lenovos-compact-powerhouse-the-mini-pc-with-amd-ryzen/"><u>Meet Lenovo's Compact Powerhouse: The Mini PC with AMD Ryzen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-obstacles-in-repairing-your-galaxy-phone-expert-insights-and-tips/"><u>New Obstacles in Repairing Your Galaxy Phone – Expert Insights and Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/newly-released-kubuntu-laptop-collection-featuring-14-and-16-models-with-enhanced-concentration-capabilities/"><u>Newly Released Kubuntu Laptop Collection Featuring 14 & 16 Models with Enhanced Concentration Capabilities</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/next-gen-eyewear-advanced-camera-features-in-smart-glasses-independent-of-augmented-reality-or-social-platforms/"><u>Next-Gen Eyewear - Advanced Camera Features in Smart Glasses, Independent of Augmented Reality or Social Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/next-gen-performance-on-a-budget-unveiling-the-power-of-snapdragon-7-plus-gen-3-in-economy-phones/"><u>Next-Gen Performance on a Budget: Unveiling the Power of Snapdragon 7 Plus Gen 3 in Economy Phones</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-ultimate-guide-to-designing-powerful-youtube-logos/"><u>The Ultimate Guide to Designing Powerful YouTube Logos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlocking-the-secrets-of-your-personalized-youtube-playlists-for-2024/"><u>Unlocking the Secrets of Your Personalized Youtube Playlists for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top Apple Bargains in July 2024: IPhone Specials, Sleek Apple Watch Discounts, Affordable iPads & Extras | ZDNet"
-date: 2024-11-02T16:31:25.282Z
-updated: 2024-11-07T16:15:00.399Z
+date: 2024-11-12T16:30:24.211Z
+updated: 2024-11-17T22:25:53.478Z
 tags:
   - laptops
 categories:
@@ -157,6 +157,13 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple accessory deals
 
 [Apple Pencil (1st-gen) deal for $79 (save $20) $79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Pencil-1st-Generation-Adapter%2Fdp%2FB0BJLG69QR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea6e66ee-5e0c-4994-abd7-15d28d1bc292%7Cdtp&dtb=1)
@@ -172,10 +179,10 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can I buy an iPhone without a plan?
@@ -186,18 +193,18 @@ Yes, but you must ensure that your new iPhone is not locked to a specific carrie
 
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is there a monthly fee for Apple iPads?
 
 This depends on the type of iPad you decide to purchase. If you opt for a Wi-Fi-only iPad -- regardless of whether you have bought a classic iPad, iPad mini, or iPad Pro -- then there will be no monthly fee or subscription. 
 
 However, if you choose an iPad with Wi-Fi and cellular connectivity, then you will need to pay for a mobile data plan to take advantage of the iPad's cellular features. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How did we choose these Apple deals?
 
@@ -211,13 +218,6 @@ Factors influencing our recommendations include:
 * **Use cases**: We have included a range of Apple devices on sale suitable for different uses, including work, study, entertainment, and sports.
 * **Variety**: Here at ZDNET, we want to provide you with various products and accessories in the Apple ecosystem. We've selected deals spanning laptops and smartphones to smartwatches and more.
 * **Availability**: If we come across a great Apple deal but only a few units are in stock unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
@@ -241,16 +241,10 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will these deals expire?
@@ -297,24 +291,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-share-audio-waves-with-followers-on-instagram/"><u>[New] Share Audio Waves with Followers on Instagram</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-windows-edition-filmmaking-essentials-expert-editor-suggestions/"><u>[New] Windows Edition Filmmaking Essentials Expert Editor Suggestions</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-leading-ios-emulators-virtual-ps2-world/"><u>[Updated] In 2024, Leading iOS Emulators Virtual PS2 World</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-unleashing-your-financial-potential-on-snapchat-for-2024/"><u>[Updated] Unleashing Your Financial Potential on Snapchat for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/android-guide-inverting-video-playback-for-2024/"><u>Android Guide Inverting Video Playback for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discover-the-best-cell-phone-contracts-for-elders-this-year/"><u>Discover the Best Cell Phone Contracts for Elders This Year</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/el-mejor-programa-de-respaldos-continuos-para-windows-server-201/"><u>El Mejor Programa De Respaldos Continuos Para Windows Server 201</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/is-active-presenter-8-the-champion-of-screen-capture-for-2024/"><u>Is Active Presenter 8 the Champion of Screen Capture for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/laptop-mod-alert-communicate-in-morse-by-closing-the-lid-with-all-liabilities-written-off/"><u>Laptop Mod Alert: Communicate in Morse by Closing the Lid - With All Liabilities Written Off</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/master-your-gadgets-with-toms-authoritative-hardware-tips/"><u>Master Your Gadgets with Tom's Authoritative Hardware Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-tech-specs-with-toms-hardware-your-ultimate-computer-comparison-tool/"><u>Mastering Tech Specs with Tom's Hardware: Your Ultimate Computer Comparison Tool</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/millions-in-marketing-qualcomm-boosts-copilotplus-pc-sales-with-enhanced-battery-life/"><u>Millions in Marketing: Qualcomm Boosts Copilot+ PC Sales with Enhanced Battery Life</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/msi-bravo-gaming-laptop-packed-with-rtx-nvidias-4060-save-over-1k/"><u>MSI Bravo Gaming Laptop Packed with RTX Nvidia's 4060 - Save Over $1K!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/onboard-hazard-laptop-fire-forces-immediate-disembarkation-of-american-airlines-passenger-plane/"><u>Onboard Hazard: Laptop Fire Forces Immediate Disembarkation of American Airlines Passenger Plane</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/sale-alert-save-big-on-m3-macbook-air-16gb-ram-and-slim-13-display-for-1149/"><u>Sale Alert: Save Big on M3 MacBook Air – 16GB RAM and Slim 13 Display for $1,149</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-gigabyte-g6x-on-testing-grounds-delivering-decent-gameplay-without-distinct-features/"><u>The Gigabyte G6X on Testing Grounds: Delivering Decent Gameplay Without Distinct Features</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-tech-phoenix-apples-historic-powerbook-of-94-revived-equipped-with-an-ipad-display-and-2015-macbook-pro-core-internals-for-the-ultimate-vintage-modern-h17/"><u>The Tech Phoenix: Apple's Historic PowerBook of '94 Revived, Equipped with an iPad Display & 2015 MacBook Pro Core Internals for the Ultimate Vintage-Modern Hybrid Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-at-toms-hardware/"><u>Unveiling the Latest in Technology at Tom's Hardware</u></a></li>
-<li><a href="https://discover-data.techidaily.com/unveiling-the-mechanics-of-adware-exploring-its-structure-and-profit-driving-schemes/"><u>Unveiling the Mechanics of Adware: Exploring Its Structure & Profit-Driving Schemes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-zipping-and-textifying-a-guide-to-crafting-srt-from-zip/"><u>[Updated] 2024 Approved Zipping and Textifying A Guide to Crafting Srt From Zip</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harnessing-digital-artistry-top-6-nft-makers-reviewed/"><u>[Updated] Harnessing Digital Artistry - Top 6 NFT Makers Reviewed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-deal-grab-your-focusrite-scarlett-solo-driver-installer-for-windows-today/"><u>Best Deal: Grab Your Focusrite Scarlett Solo Driver Installer for Windows Today!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/efficient-remedies-for-corsair-icue-connectivity-problems-in-windows-11-environments/"><u>Efficient Remedies for Corsair iCUE Connectivity Problems in Windows 11 Environments</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-complete-guide-to-lenovo-t430-drivers-for-wndows-1187-users/"><u>Effortless Installation: Complete Guide to Lenovo T430 Drivers for Wndows 11/8/7 Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/elevate-viewer-response-crafting-engaging-ig-story-qandas/"><u>Elevate Viewer Response Crafting Engaging IG Story Q&As</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Samsung Galaxy A24? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-epson-wf-2540-drivers-on-your-pc-win7win10win81/"><u>Install Epson WF-2540 Drivers on Your PC: Win7/Win10/Win8.1</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-geforce-drivers-for-win-11-enhance-performance-of-rtx-3080-ti-on-your-pc-or-laptop-with-this-free-download/"><u>Latest GeForce Drivers for Win 11: Enhance Performance of RTX 3080 Ti on Your PC or Laptop with This Free Download</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-savings-discover-how-to-claim-a-free-macbook-air-m3-through-these-insider-best-buy-hacks-exclusive-guide/"><u>Maximize Savings! Discover How to Claim a Free MacBook Air M3 Through These Insider Best Buy Hacks - Exclusive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-driver-update-tutorial-compatible-with-microsofts-surface-book-series/"><u>NVIDIA Driver Update Tutorial – Compatible with Microsoft's Surface Book Series</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-easy-update-of-your-surface-devices-drives-and-drivers/"><u>Step-by-Step: Easy Update of Your Surface Device's Drives and Drivers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme GT Neo 5 SE | Dr.fone</u></a></li>
 </ul></div>
 

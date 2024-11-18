@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix: How To Easily Install Latest Drivers For Your Lenovo's Power Unit"
-date: 2024-08-28T02:21:22.704Z
-updated: 2024-08-29T02:21:22.704Z
+date: 2024-11-15T16:56:30.209Z
+updated: 2024-11-17T20:42:46.167Z
 tags:
   - win11
   - win10
@@ -44,18 +44,26 @@ OR
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-19_18-00-07-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the audio driver, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-7-1.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at**<support@drivereasy.com>** . We are always here to help.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2 – Update the driver manually
 
@@ -64,21 +72,25 @@ If you opt for updating the driver manually, here’s the procedure:
 1. Click **[here](https://www.acer.com/ac/en/US/content/drivers)**  to visit the support page of Acer.
 2. Identify your Acer device using the two ways provided.![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-26_18-11-59.jpg)
 3. On the next page, select your operating system. Then you’ll see the available downloads for the product below.![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-26_18-16-18.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Click**Driver** to expand the list of drivers you can download. If you spot the**Audio Driver** item, click**Download** .![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-26_18-19-55.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 5. If you get a compressed file (with**.zip** extension),**extract** it first. Then in the extracted file, double-click**Setup.exe** to start the installation process. Just follow the onscreen wizard to install your driver step by step.![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-26_18-25-07.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6. **Reboot** your computer for the changes to take effect.
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -94,8 +106,6 @@ If you opt for updating the driver manually, here’s the procedure:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -103,4 +113,26 @@ If you opt for updating the driver manually, here’s the procedure:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/aster-the-art-of-recording-youtube-videos-without-spending-for-2024/"><u>[New] Master the Art of Recording YouTube Videos Without Spending for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-enhancing-immersion-prepping-for-oculus/"><u>[Updated] In 2024, Enhancing Immersion Prepping for Oculus</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-value-picks-raspberry-pi-bargains-for-this-year/"><u>Best Value Picks: Raspberry Pi Bargains for This Year</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-hardware-analysis-by-toms-technical-hub/"><u>Expert Hardware Analysis by Tom's Technical Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/full-utilization-of-raspberry-pi-picos-26-pin-board-with-a-tailored-capacitive-touch-interface/"><u>Full Utilization of Raspberry Pi Pico's 26-Pin Board with a Tailored Capacitive Touch Interface</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-does-a-smart-tv-with-internet-access-work/"><u>How Does a Smart TV with Internet Access Work?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-se-2020-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone SE (2020)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-cinematic-treasures-15-incredible-stop-motion-films/"><u>In 2024, Cinematic Treasures 15 Incredible Stop-Motion Films</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/incorporate-speaking-abilities-into-your-raspberry-pi-venture-using-textymcspeechy/"><u>Incorporate Speaking Abilities Into Your Raspberry Pi Venture Using TextyMcSpeechy</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723964503618-introducing-the-ai-enabled-raspberry-pi-robot-your-new-sentient-stuffed-koala-sidekick/"><u>Introducing the AI-Enabled Raspberry Pi Robot: Your New Sentient Stuffed Koala Sidekick!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210936352-9780717157693-irish-superstitions/"><u>Irish Superstitions | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/pocket-z-redefines-retro-tech-with-raspberry-pi-zero-2w-core-a-modern-take-on-the-iconic-pocket-pc-form-factor/"><u>Pocket Z Redefines Retro Tech with Raspberry Pi Zero 2W Core - A Modern Take on the Iconic Pocket PC Form Factor</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steps-to-rectify-mic-issues-on-the-steelseries-arctis-prime-sound-headset-solutions-found/"><u>Steps to Rectify Mic Issues on the SteelSeries Arctis Prime Sound Headset – Solutions Found!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-computer-review-a-comprehensive-guide/"><u>Tom's Computer Review: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-hardware/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-your-ultimate-guide-to-computer-hardware/"><u>Tom's Tech Review: Your Ultimate Guide to Computer Hardware</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-review-of-the-tp-link-re305-your-guide-to-enhancing-home-wi-fi-with-an-ac1200-repeater/"><u>Ultimate Review of the TP-Link RE305: Your Guide to Enhancing Home Wi-Fi with an AC1200 Repeater</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unseen-marvels-of-vr-elite-headset-comparisons/"><u>Unseen Marvels of VR Elite Headset Comparisons</u></a></li>
+</ul></div>
 

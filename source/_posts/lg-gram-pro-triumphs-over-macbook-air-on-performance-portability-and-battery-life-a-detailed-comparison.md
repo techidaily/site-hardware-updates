@@ -1,7 +1,7 @@
 ---
 title: "LG Gram Pro Triumphs Over MacBook Air on Performance, Portability & Battery Life: A Detailed Comparison"
-date: 2024-11-02T16:58:34.063Z
-updated: 2024-11-07T16:58:49.091Z
+date: 2024-11-13T17:06:44.914Z
+updated: 2024-11-17T21:59:41.987Z
 tags:
   - laptops
 categories:
@@ -43,16 +43,10 @@ There I was, with two relatively large-sized, ultraportable laptops and a digita
 The LG Gram Pro 16 2-in-1 had already set the mark at 3.04 pounds. Then came the 15-inch MacBook Air, clocking in at 3.51 pounds. A slight sigh of relief could be felt behind me. How exactly does LG achieve this weight? They're chalking it up to the nano-magnesium alloy construction, which feels more plasticky than the MacBook's all-aluminum build, but which is noticeably lighter in the hand, especially when I moved the laptops around for pictures.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. It's all about the use of space
@@ -66,10 +60,10 @@ The curvatures of the LG Gram Pro edges also mean that the company can fit more 
 As someone who still relies on legacy devices, such as hard drives, that have USB-A ports, the presence of the standard and added flexibility of the Gram makes it a better productivity laptop for me. It also helps to have the HDMI slot for when you're traveling and want to connect to a hotel TV or monitor.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. OLED makes all the difference
@@ -83,10 +77,10 @@ Don't get me wrong, the Liquid Retina (IPS) display on the 15-inch MacBook Air i
 LG offers the new Gram Pro laptops in IPS and OLED variants, but the latter versions that I tested at the venue were noticeably sharper and more color-accurate. It helped that LG had set black wallpapers on the demo units, which made the individual icons and self-emissive pixels pop a little more.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -125,24 +119,21 @@ LG prices its [OLED Gram Pro laptops](https://shop-links.co/link/?exclusive=1&pu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-elevate-your-channel-identity-essential-youtube-naming-strategies-for-2024/"><u>[Updated] Elevate Your Channel Identity Essential YouTube Naming Strategies for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-frame-it-right-mastering-instagram-video-edges-for-2024/"><u>[Updated] Frame It Right Mastering Instagram Video Edges for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-talent-acquisition-treasure-trove-top-10-video-series/"><u>[Updated] In 2024, Talent Acquisition Treasure Trove - Top 10 Video Series</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-streamlining-your-approach-to-downloading-large-amounts-on-tiktok/"><u>[Updated] Streamlining Your Approach to Downloading Large Amounts on TikTok</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/blender-software-not-working-discover-solutions-to-end-persistent-pc-freezing-and-crashing/"><u>Blender Software Not Working? Discover Solutions to End Persistent PC Freezing & Crashing</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Nokia C110 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-canon-mf4500-driver-free-download-steps/"><u>Get Your Canon MF4500 Driver - Free Download Steps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-effortlessly-update-your-nvidia-rtx-1080-graphics-drivers-on-a-windows-10-system/"><u>How to Effortlessly Update Your NVIDIA RTX 1080 Graphics Drivers on a Windows 10 System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-your-canon-ip110-working-on-windows-101187-download-drivers-here/"><u>How to Get Your Canon iP110 Working on Windows 10/11/8/7 - Download Drivers Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/immediate-imaging-studies-such-as-mri-can-be-critical-in-identifying-acute-brain-pathologies/"><u>Immediate Imaging Studies Such as MRI Can Be Critical in Identifying Acute Brain Pathologies.</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-iphones-alphabetical-album-setup-and-its-integration-with-icloud-services/"><u>In 2024, IPhone's Alphabetical Album Setup and Its Integration with iCloud Services</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-compatible-nvidia-quadro-graphics-drivers-for-windows-11-with-direct-clipboard-handling-dch-free-download/"><u>Latest Compatible NVIDIA Quadro Graphics Drivers for Windows 11 with Direct Clipboard Handling (DCH) - Free Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-fix-hp-officejet-pro-6978-printer-driver-malfunctions/"><u>Step-by-Step Guide to Fix HP OfficeJet Pro 6978 Printer Driver Malfunctions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-microsoft-driver-installation-on-windows-1187/"><u>Step-by-Step Guide: Microsoft Driver Installation on Windows 11/8/7</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-restoring-defaults-in-mac-os-network-preferences/"><u>Step-by-Step Guide: Restoring Defaults in Mac OS Network Preferences</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updated-and-complete-guide-downloading-the-epson-xp-420-printer-driver-update/"><u>Updated & Complete Guide: Downloading the Epson XP-420 Printer Driver Update</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/zd-soft-screen-recorder-key-features-and-review-for-2024/"><u>ZD Soft Screen Recorder Key Features and Review for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-dynamic-dialogues-animated-text-for-instagram-storytellers-for-2024/"><u>[Updated] Dynamic Dialogues Animated Text for Instagram Storytellers for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-free-youtube-earning-predictors/"><u>[Updated] In 2024, Free YouTube Earning Predictors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-nokia-c22-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Nokia C22 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-latest-hp-laptop-driver-updates-for-windows-operating-systems/"><u>Download and Install Latest HP Laptop Driver Updates for Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722961097524-download-corsair-keyboard-software-for-windows-free-and-secure/"><u>Download CORSAIR Keyboard Software for Windows: Free and Secure</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/mical-mic-options-for-youtube-vloggers/"><u>Economical Mic Options for YouTube Vloggers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-dell-display-driver-installation-guide/"><u>Effortless Dell Display Driver Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-g35-onboarded-on-windows-systems-windows-7810/"><u>Get Your Logitech G35 Onboarded on Windows Systems (Windows 7/8/10)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-iphone-12-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or iPhone 12 without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-and-update-for-optimal-performance-steelseries-arctis-5-headset-drivers/"><u>How to Install and Update for Optimal Performance: SteelSeries Arctis 5 Headset Drivers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-digital-photo-management-incorporating-dates-seamlessly/"><u>In 2024, Digital Photo Management Incorporating Dates Seamlessly</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oppo-reno-11-pro-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Oppo Reno 11 Pro 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keeping-your-lenovo-thinkpad-in-top-shape-secure-and-up-to-date-drivers-downloaded/"><u>Keeping Your Lenovo ThinkPad in Top Shape: Secure & Up-to-Date Drivers Downloaded</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-startech-driver-conflicts-on-windows-10-8-and-7-solutions-exposed/"><u>Resolving StarTech Driver Conflicts on Windows 10, 8 & 7 - Solutions Exposed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-device-failure-to-power-up-a-comprehensive-guide-to-troubleshooting-error-code-10/"><u>Resolving the 'Device Failure to Power Up': A Comprehensive Guide to Troubleshooting Error Code 10</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionize-your-entryway-with-the-eufeb-t8200-smart-secure-and-free-from-hidden-costs/"><u>Revolutionize Your Entryway with the Eufeb T8200 - Smart, Secure & Free From Hidden Costs</u></a></li>
 </ul></div>
 

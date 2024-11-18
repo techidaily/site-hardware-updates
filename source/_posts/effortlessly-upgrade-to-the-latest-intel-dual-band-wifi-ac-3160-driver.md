@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Upgrade to the Latest Intel Dual Band WiFi AC 3160 Driver
-date: 2024-08-28T02:17:40.267Z
-updated: 2024-08-29T02:17:40.267Z
+date: 2024-11-11T17:06:37.732Z
+updated: 2024-11-17T17:11:37.235Z
 tags:
   - win11
   - win10
@@ -120,6 +120,13 @@ Wait for the download process to be complete.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 2 – Update the driver manually
 
  Intel keeps updating the Dual Band Wireless-AC 3160 drivers. To get the one you need, you should visit the download center of Intel, find the driver corresponding with your specific flavor of Windows version (for example, Windows 10 of 64 bit) and download the driver manually. Here’re the details (network connectivity is required):
@@ -130,13 +137,40 @@ Wait for the download process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-658-1024x326.png)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) On the next page, pay attention to the left section and find the EXE file corresponding to your Windows version. Once you’ve found the correct one, click the**Download** button below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-661.png)
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**I accept the terms in the license agreement** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-662.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) After the file has been downloaded, double-click on it and follow the onscreen instructions to install the driver.
 
@@ -159,8 +193,6 @@ Wait for the download process to be complete.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,8 +200,26 @@ Wait for the download process to be complete.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-top-10-best-action-cameras-for-diving-or-snorkelling/"><u>[Updated] 2024 Approved Top 10 Best Action Cameras For Diving Or Snorkelling</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-begin-with-no-cost-video-intro-tools/"><u>[Updated] Begin with No-Cost Video Intro Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-mp4-reimagined-effortlessly-adding-srt-for-2024/"><u>[Updated] MP4 Reimagined Effortlessly Adding SRT for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-premier-ios-choice-best-emulators-of-psp-games-for-2024/"><u>[Updated] Premier iOS Choice Best Emulators of PSP Games for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-solution-for-twitter-videos-not-playing-in-chrome/"><u>2024 Approved Solution for Twitter Videos Not Playing in Chrome</u></a></li>
+<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-iphone-11-pro-max-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off iPhone 11 Pro Max without Password</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722955740258-boost-your-msi-gs65-experience-free-download-of-optimized-windows-drivers-here/"><u>Boost Your MSI GS65 Experience - Free Download of Optimized Windows Drivers Here</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-the-impressive-endurance-and-reliable-functionality-of-the-moto-g-play/"><u>Comprehensive Review: The Impressive Endurance and Reliable Functionality of the Moto G Play</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-optimal-performance-with-the-latest-steelseries-driver-software-on-windows-devices/"><u>Ensure Optimal Performance with the Latest SteelSeries Driver Software on Windows Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fast-and-simple-driver-update-for-your-acer-predator-xb271h-display/"><u>Fast & Simple Driver Update for Your Acer Predator XB271H Display</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fast-and-simple-guide-downloading-dell-latitude-e6420-device-drivers/"><u>Fast and Simple Guide: Downloading Dell Latitude E6420 Device Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722955816327-get-the-newest-amd-graphics-driver-for-win-11107-free-downloads-now/"><u>Get the Newest AMD Graphics Driver for Win 11/10/7 - Free Downloads Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-microsoft-wireless-mouse-5000-up-and-running-fast-download-of-drivers/"><u>Get Your Microsoft Wireless Mouse 5000 Up and Running - Fast Download of Drivers!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huion-h610-pro-drawing-tablet-driver-download/"><u>Huion H610 Pro Drawing Tablet Driver Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keep-your-data-analysis-tools-updated-download-and-update-sas-driver-in-windows-10-or-older-versions/"><u>Keep Your Data Analysis Tools Updated - Download & Update SAS Driver in Windows 10 or Older Versions</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-error-code-0xc00ce556/"><u>Navigating Windows Error Code: 0XC00CE556</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nvidia-quadro-rtx-saft-8000-driver-for-windows-free-download-win-10-8-7-supported/"><u>NVIDIA Quadro RTX ˈsaɪft 8000 Driver for Windows - Free Download | Win 10, 8, 7 Supported</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-securing-fresh-updates-and-downloads-for-your-amd-ati-radeon-hd-3450/"><u>Ultimate Guide: Securing Fresh Updates & Downloads for Your AMD ATI Radeon HD 3450</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-guide-to-free-flv-video-editing-tools-for-2024/"><u>Updated The Ultimate Guide to Free FLV Video Editing Tools for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->

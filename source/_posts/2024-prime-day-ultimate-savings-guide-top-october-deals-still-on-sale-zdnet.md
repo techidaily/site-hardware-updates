@@ -1,7 +1,7 @@
 ---
 title: "2024 Prime Day Ultimate Savings Guide: Top October Deals Still on Sale | ZDNET"
-date: 2024-10-31T16:56:49.302Z
-updated: 2024-11-07T16:05:31.329Z
+date: 2024-11-14T19:11:05.839Z
+updated: 2024-11-17T19:53:14.521Z
 tags:
   - laptops
 categories:
@@ -101,16 +101,10 @@ The Zenbook Duo challenged what a laptop could look like with its dual-screen fo
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CRD1QRF4%2Fref%3Dasc%5Fdf%5FB0CRD1QRF41728212400000%3Fcreative%3D395261%26creativeASIN%3DB0CRD1QRF4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc34b6acc-3832-4b0e-9dab-d701edd3f355%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## More October Prime Day 2024 laptop deals
@@ -122,10 +116,10 @@ Kyle Kucharski/ZDNET
 * [Asus Chromebook CM14 Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Chromebook-Anti-Glare-1366x768-CM1402CM2A-DS44%2Fdp%2FB0CJS1399P%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc34b6acc-3832-4b0e-9dab-d701edd3f355%7Cdtp&dtb=1) for $168 ($110 off) - Asus' CM14 is a sleek and lightweight Chromebook that comes loaded with the streamlined ChromeOS to get the basics done on an efficient machine. And for this price, you can't ask for a more affordable device.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs
@@ -134,15 +128,22 @@ Kyle Kucharski/ZDNET
 
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals both before and after those days. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Are laptops really cheaper on Prime Day?
 
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
@@ -156,13 +157,6 @@ When compiling the list of the best deals, we considered the following:
 * **Price**: Naturally, the price point of our recommended laptops has to include a worthwhile discount. While some discounts are small in relation to an overall price tag - for example, $30 off a $150 device - and other discounts are in the hundreds of dollars, we wanted to ensure that in any case, it's value for money.
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -229,20 +223,15 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-prime-android-space-savers-compendium/"><u>[New] 2024 Approved Prime Android Space-Savers Compendium</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-hp-and-chromebook-guide-to-live-video-capture/"><u>[New] In 2024, HP & Chromebook Guide to Live Video Capture</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-understanding-online-video-platforms-vimeo-and-youtube/"><u>[Updated] Understanding Online Video Platforms Vimeo & YouTube</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725286832883-dvdmacand/"><u>DVDのデュービングをMacで実行！品質向上&成功率アップのキーポイント</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-gadgets-the-ultimate-resource-from-toms-hardware/"><u>Mastering Gadgets: The Ultimate Resource From Tom's Hardware</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ring-youtube-stat-tracking-essentials/"><u>Mastering YouTube Stat Tracking Essentials</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-high-performance-systems-at-toms-equipment-forum/"><u>Navigating High-Performance Systems at Tom's Equipment Forum</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-tech-detailed-reviews-by-tom/"><u>Navigating the World of Tech: Detailed Reviews by Tom</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/pioneering-hardware-analysis-by-toms-digital-experts/"><u>Pioneering Hardware Analysis by Tom's Digital Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-the-best-deal-dell-s3222dgm-gaming-monitor-now-at-unbeatable-229-price/"><u>Snag the Best Deal: Dell S3222DGM Gaming Monitor Now at Unbeatable $229 Price</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-apple-iphone-12-pro-max-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on Apple iPhone 12 Pro Max</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/transforming-visual-experience-meet-the-newly-upgraded-samsung-odyssey-smart-monitor-and-view-series-with-next-gen-ai-capabilities/"><u>Transforming Visual Experience: Meet the Newly Upgraded Samsung Odyssey, Smart Monitor & View Series with Next-Gen AI Capabilities</u></a></li>
-<li><a href="https://article-tips.techidaily.com/ultimate-glossary-for-googles-voice-to-text-feature/"><u>Ultimate Glossary for Google's Voice-to-Text Feature</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultra-wide-curved-display-with-quantum-dot-technology-wqhd-resolution/"><u>Ultra-Wide Curved Display with Quantum Dot Technology - WQHD Resolution</u></a></li>
-<li><a href="https://win-able.techidaily.com/win-against-bugs-expert-fixes-to-stop-among-us-from-crashing-this-year/"><u>Win Against Bugs: Expert Fixes to Stop Among Us From Crashing This Year</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-red-carpet-rollouts-top-picks-for-iphone-filmmakers-choices/"><u>[New] Red Carpet Rollouts Top Picks for iPhone Filmmakers' Choices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-5-critical-equipment-items-to-start-your-channel-right/"><u>[Updated] In 2024, 5 Critical Equipment Items to Start Your Channel Right</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-glare-free-guide-to-stellar-gopro-videos-for-2024/"><u>[Updated] The Glare-Free Guide to Stellar GoPro Videos for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-virtual-producer-duel/"><u>2024 Approved Virtual Producer Duel</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-poco-x6-pro-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Poco X6 Pro for Free? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-ace-your-phone-the-ios-podcast-downloading-guidebook/"><u>In 2024, Ace Your Phone The iOS Podcast Downloading Guidebook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/kid-friendly-amazon-fire-hd-10-tablet-evaluation-a-device-that-combines-learning-with-entertainment/"><u>Kid-Friendly Amazon Fire HD 10 Tablet Evaluation: A Device That Combines Learning with Entertainment</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-android-alert-personalization-how-to-set-unique-sounds-for-each-app/"><u>Mastering Android Alert Personalization: How to Set Unique Sounds for Each App</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-the-vintage-technique-transferring-data-from-your-pc-to-mobile-device/"><u>Mastering the Vintage Technique: Transferring Data From Your PC to Mobile Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/newly-released-galaxy-a35-budget-friendly-smartphone-offering-extended-5-year-safety-updates-for-american-consumers/"><u>Newly Released Galaxy A35: Budget-Friendly Smartphone Offering Extended 5-Year Safety Updates for American Consumers</u></a></li>
 </ul></div>
 

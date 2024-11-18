@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Lack of Fundamental Printer and Scanner Software on Windows 11"
-date: 2024-08-28T02:20:53.160Z
-updated: 2024-08-29T02:20:53.160Z
+date: 2024-11-16T16:32:18.604Z
+updated: 2024-11-17T20:53:21.574Z
 tags:
   - win11
   - win10
@@ -21,6 +21,13 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
 
  That is to say, if you install the operating system with the Windows 10 1809 ISO file, Windows 10 doesn’t include the set of default drivers for printers and scanners as it used to do. This is said to  reduce the Windows footprint and provide more storage space, according to the statement from **[Microsoft Tech Community](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/What-s-new-in-printing-in-Windows-10-version-1809/ba-p/267182)**  .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to install the drivers for printers and scanners?
 
  But don’t worry. We’ll help you fix this problem. Try these methods to download and install the full feature drivers in your computer.
@@ -28,9 +35,6 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
 1. [**Download the printer and scanner drivers manually**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Download the printer and scanner drivers automatically**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Download the printer and scanner drivers manually
 
  Though Windows stops providing printer and scanner drivers in the installation file, you can still manually download the corresponding drivers via Windows Update or from the manufacturer website. In this case, you’ll need to connect to the Internet after installing the OS.
@@ -50,8 +54,12 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
  If this method doesn’t work for you, don’t worry. There is something else to try.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Download the printer and scanner drivers automatically
 
  If you don’t have time, patience, or computer skills to update the drivers, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -64,14 +72,23 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbc7ea60b4d7.jpg)
 3. Click the**Update** button next to the printer/scanner to automatically download the driver (You can do this with the**Free** version), then install it in your computer.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click**Update** **All** to automatically download and install the drivers that are missing or outdated in your system (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – You’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbc7f3ec36ee.jpg)
 4. Restart your computer to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note: If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -91,8 +108,6 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +115,24 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-undead-unleashed-discovering-the-ultimate-zombie-games/"><u>[New] 2024 Approved Undead Unleashed Discovering the Ultimate Zombie Games</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-securing-skype-conversations-via-obs/"><u>[New] In 2024, Securing Skype Conversations via OBS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-holographic-horizons-reimagined-movies/"><u>[Updated] Holographic Horizons Reimagined Movies</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-apex-alternatives-social-networks-beyond-twitter/"><u>2024 Approved Apex Alternatives Social Networks Beyond Twitter</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/detailed-analysis-of-amd-ryzen-9-9950x-engineering-sample-benchmarked-using-blender-at-multiple-thermal-design-power-configurations-evidence-of-improved-per7/"><u>Detailed Analysis of AMD Ryzen 9 9950X 'Engineering Sample' Benchmarked Using Blender at Multiple Thermal Design Power Configurations - Evidence of Improved Performance Efficiency</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-logitech-g920-lightspeed-wireless-mouse-for-all-windows-users-win11-win10/"><u>Download and Install Logitech G920 Lightspeed Wireless Mouse for All Windows Users (Win11, Win10)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/drive-like-a-pro-with-logitech-g29-racing-wheels-get-your-free-software-download-now/"><u>Drive Like a Pro with Logitech G29 Racing Wheels - Get Your Free Software Download Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-media-quality-with-minimal-lag-in-vlc/"><u>Elevating Media Quality with Minimal Lag in VLC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-volume-amplification-in-win11s-bluetooth/"><u>Enhance Volume Amplification in Win11's Bluetooth</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-gigabit-ethernet-driver-for-your-usb-30-on-windows-os/"><u>Get the Most Recent Gigabit Ethernet Driver for Your USB 3.0 on Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-lexar-portable-usb-driver-instantly-free-downloads-here/"><u>Get Your Lexar Portable USB Driver Instantly - Free Downloads Here</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-overloaded-tiktok-saves-a-guide-to-editing-and-streamlining/"><u>In 2024, Mastering Overloaded TikTok Saves A Guide to Editing and Streamlining</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-logitech-t630-software-downloads-for-windows-7-8-and-10-users/"><u>Latest Logitech T630 Software Downloads for Windows 7, 8 & 10 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-setup-steps-fresh-installs-for-the-wacom-intuos-art-pad-driver/"><u>Seamless Setup Steps - Fresh Installs for the Wacom Intuos Art Pad Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unraveling-technology-mysteries-at-toms-equipment-central/"><u>Unraveling Technology Mysteries at Tom's Equipment Central</u></a></li>
+</ul></div>
 

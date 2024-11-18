@@ -1,7 +1,7 @@
 ---
 title: "Experts' Picks: The Most Innovative Travel Gadgets Featured on ZDNet"
-date: 2024-11-04T17:14:38.715Z
-updated: 2024-11-07T16:11:30.333Z
+date: 2024-11-13T18:45:36.841Z
+updated: 2024-11-17T21:25:41.117Z
 tags:
   - laptops
 categories:
@@ -79,10 +79,10 @@ Cesar Cadenas/ZDNET
 And for one of the best qualities of this laptop: battery life is absolutely phenomenal. I [performed our usual test](https://www.zdnet.com/article/how-we-test-laptops/) of running a YouTube livestream at 720p and 50% brightness. At its peak, the Surface Pro lasted just under 13 hours on a single charge. That's just shy of Microsoft's purported 14-hour battery life. In practical usage, this is a device that will easily last multiple days on a single charge. 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,22 +121,24 @@ Prices for the device start at $999.99\. My review unit with the 12-core Snapdra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-boosting-bank-balance-effective-tactics-for-mobile-video-money-making/"><u>[New] Boosting Bank Balance Effective Tactics for Mobile Video Money-Making</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-channel-name-wizardry-brainstorm-and-create/"><u>[New] Channel Name Wizardry Brainstorm & Create</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-from-play-to-watch-recording-with-a-nintendo-switch/"><u>2024 Approved From Play to Watch Recording with a Nintendo Switch</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-future-is-virtual-making-and-sharing-immersive-footage-for-fb/"><u>2024 Approved The Future Is Virtual Making and Sharing Immersive Footage for FB</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-tricks-for-enhanced-video-quality-via-nvidia/"><u>2024 Approved Tricks for Enhanced Video Quality via NVIDIA</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/boost-your-email-campaigns-expert-strategies-to-captivate-subscribers-using-massmail-tools-and-tips-3-favorites/"><u>Boost Your Email Campaigns: Expert Strategies to Captivate Subscribers Using MassMail Tools and Tips #3 Favorites</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-best-value-deal-top-rated-5-star-fractal-design-north-tower-case-for-your-pc-now-only-1ebn/"><u>Discover the Best Value Deal: Top-Rated 5 Star Fractal Design North Tower Case for Your PC, Now Only $1Ebn</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/engaging-insight-featuring-fractals-minute-terra-pc-case-with-charming-wood-finish-and-ergonomic-spine-adjustment/"><u>Engaging Insight: Featuring Fractal's Minute Terra PC Case with Charming Wood Finish and Ergonomic Spine Adjustment</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-picks-the-most-efficient-combo-of-cable-modems-and-routers-for-this-year/"><u>Expert Picks: The Most Efficient Combo of Cable Modems & Routers for This Year</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-advanced-computing-with-toms-systems-analysis/"><u>Exploring Advanced Computing with Tom's Systems Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-computer-gadgets-with-tom-in-depth-hardware-analysis/"><u>Exploring Computer Gadgets with Tom: In-Depth Hardware Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-digital-innovations-with-toms-hardware-guide/"><u>Exploring Digital Innovations with Tom's Hardware Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-cougar-gaming-chassis-showcases-stunning-rgb-turning-stand-for-collectible-figurines-unveiled-at-computex/"><u>Latest Cougar Gaming Chassis Showcases Stunning RGB Turning Stand for Collectible Figurines - Unveiled at Computex</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lowest-price-on-pure-base-500dx-midi-tower-computer-case-just-84-available-now/"><u>Lowest Price on Pure Base 500DX Midi-Tower Computer Case: Just $84 Available Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/save-big-high-quality-corsair-4000d-atx-mid-tower-with-850w-power-supply-unit-just-139/"><u>Save Big: High-Quality Corsair 4000D ATX Mid Tower with 850W Power Supply Unit - Just $139!</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/out-sites-that-connect-you-to-youtube-revenue-models-for-2024/"><u>Seek Out Sites That Connect You to YouTube Revenue Models for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/troubleshooting-errors-with-apples-itunes-content/"><u>Troubleshooting Errors with Apple's iTunes Content</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-frolic-in-fun-the-best-comedy-centric-concepts-for-shorter-videos/"><u>[Updated] 2024 Approved Frolic in Fun The Best Comedy-Centric Concepts for Shorter Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-acclaimed-storytellers-with-photo-audio-symphony-for-2024/"><u>[Updated] Acclaimed Storytellers with Photo-Audio Symphony for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-revolutionizes-device-maintenance-with-expanded-at-home-repair-services-for-iphone-and-macbook-learn-more/"><u>Apple Revolutionizes Device Maintenance with Expanded At-Home Repair Services for iPhone & MacBook - Learn More</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-why-chatgpt-skyrockets-to-global-audience-favorite-in-minutes/"><u>Discover Why ChatGPT Skyrockets to Global Audience Favorite in Minutes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-drivers-for-nvidia-rtx-2060-super-on-windows-10-and-11-systems/"><u>Download Updated Drivers for NVIDIA RTX 2060 Super on Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-zebra-gk420d-drivers-instantly-simple-steps/"><u>Download Zebra GK420D Drivers Instantly - Simple Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-downloading-guide-get-sound-blaster-z-drivers-compatible-with-windows-10/"><u>Effortless Downloading Guide: Get Sound Blaster Z Drivers Compatible with Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixing-amd-vega-64-graphics-card-issues-with-the-newest-windows-drivers-your-solution-here/"><u>Fixing AMD Vega 64 Graphics Card Issues with the Newest Windows Drivers – Your Solution Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-canon-mp280-printer-software-installation-packages-for-windows-11-8-and-7/"><u>Free Canon MP280 Printer Software Installation Packages for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-quadro-graphics-drivers-from-nvidia-for-windows-10-systems/"><u>Get the Newest Quadro Graphics Drivers From Nvidia for Windows 10 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-focusrite-scarlett-2i2-installed-on-windows-free-download/"><u>Get Your Focusrite Scarlett 2I2 Installed on Windows - Free Download</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-hardware-regains-functionality/"><u>Graphics Hardware Regains Functionality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-connect-your-western-digital-ses-drive-using-updated-usb-software-on-windows-computers-2011-onwards/"><u>How to Successfully Connect Your Western Digital SES Drive Using Updated USB Software on Windows Computers (2011 Onwards)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-wave-of-mobile-cpu-problems-emerge-in-14th-and-15th-gen-intel-attributes-to-different-root-cause-than-inherent-flaw-in-desktops/"><u>New Wave of Mobile CPU Problems Emerge in 14Th and 15Th Gen: Intel Attributes to Different Root Cause than Inherent Flaw in Desktops</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionize-online-sharing-with-these-top-18-webcam-devices-for-2024/"><u>Revolutionize Online Sharing with These Top 18 Webcam Devices for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-typical-issues-a-step-by-step-guide-to-repairing-your-television/"><u>Solving Typical Issues: A Step-by-Step Guide to Repairing Your Television</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-solving-your-surface-pros-screen-tremors-and-flutter/"><u>Ultimate Guide: Solving Your Surface Pro's Screen Tremors & Flutter</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-innovation-in-desktop-computers/"><u>Ultimate Innovation in Desktop Computers</u></a></li>
 </ul></div>
 

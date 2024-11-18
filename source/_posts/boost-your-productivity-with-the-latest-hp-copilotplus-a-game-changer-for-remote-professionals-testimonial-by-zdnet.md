@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity with the Latest HP Copilot+: A Game-Changer for Remote Professionals - Testimonial by ZDNet"
-date: 2024-10-31T16:57:55.902Z
-updated: 2024-11-07T16:25:02.728Z
+date: 2024-11-11T16:34:03.197Z
+updated: 2024-11-17T21:12:42.253Z
 tags:
   - laptops
 categories:
@@ -40,6 +40,13 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications (as reviewed)
 
 | Dimensions            | 11.78 x 8.03 x 0.63 inches                                                                                                                                                                                                                                                                            |
@@ -53,13 +60,6 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 | Price                 | Starting at [$1,980](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-12-Core-i7-1360P-Fingerprint-Thunderbolt4%2Fdp%2FB0CR9S1KFL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca8e1fb25-770f-412f-9572-4bd2e6048e4c%7Cdtp&dtb=1) |
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
 
@@ -82,10 +82,10 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How does it perform?
@@ -109,10 +109,16 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
@@ -146,16 +152,10 @@ When I'm working on my MacBook or -- quite frankly -- any other laptop in my ars
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -196,24 +196,22 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-elevate-your-metadata-management-unveiling-the-best-7-affordable-online-tags-extractors-for-2024/"><u>[New] Elevate Your Metadata Management Unveiling the Best 7 Affordable Online Tags Extractors for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-pushing-the-boundaries-in-depth-review-of-benq-sw320s-4k-display-for-2024/"><u>[New] Pushing the Boundaries In-Depth Review of BenQ SW320's 4K Display for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-elucidating-techniques-in-user-motion-detection/"><u>[Updated] In 2024, Elucidating Techniques in User Motion Detection</u></a></li>
-<li><a href="https://win-unique.techidaily.com/effective-remedies-for-correcting-visual-and-auditory-glitches-with-apowerrec/"><u>Effective Remedies for Correcting Visual and Auditory Glitches with ApowerREC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-infinix-zero-30-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Infinix Zero 30 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-n3-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find N3 to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-mac-preview-with-ease-ultimate-guide/"><u>In 2024, Navigating Mac Preview with Ease Ultimate Guide</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/stepwise-integration-technique-for-youtube-playlists-on-web/"><u>Stepwise Integration Technique for YouTube Playlists on Web</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-gear-expert-insights-on-hardware/"><u>Tom's Tech Gear: Expert Insights on Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-expert-guides-on-hardware-and-gadgets/"><u>Tom's Tech Hub: Expert Guides on Hardware and Gadgets</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-in-depth-reviews-and-comparisons-of-the-latest-hardware/"><u>Tom's Tech Insights: In-Depth Reviews & Comparisons of the Latest Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-expert-insights-on-hardware-and-gadgets/"><u>Tom's Tech Review: Expert Insights on Hardware & Gadgets</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-testing-the-high-performance-corsair-mp600-1tb-sdd-in-e27t-format-a-must-have-for-ssd-enthusiasts/"><u>Ultimate Guide: Testing the High-Performance Corsair MP600 1TB SDD in E27T Format – A Must-Have for SSD Enthusiasts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-savings-leading-ssd-and-hdd-deals-for-the-current-year/"><u>Unbeatable Savings: Leading SSD and HDD Deals for the Current Year</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-portable-gaming-power-nextorage-releases-pcie-40-m2-blisteringly-fast-2230-ssd-with-7400-mbs-speed/"><u>Unleash Portable Gaming Power: Nextorage Releases PCIe 4.0 M.2 Blisteringly Fast 2230 SSD with 7,400 MB/S Speed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-gadgets-with-tom/"><u>Unveiling Gadgets with Tom</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-world-of-tech-with-toms-hardware-in-depth-reviews-and-analysis/"><u>Unveiling the World of Tech with Tom's Hardware: In-Depth Reviews and Analysis</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-there-are-two-different-ways-to-install-linux-on-a-chromebook-you-can-either-do-it-using-gallium-os-or-chrubuntu-or-in-a-chroot-environment-using-cr/"><u>Updated There Are Two Different Ways to Install Linux on a Chromebook, You Can Either Do It Using Gallium OS or ChrUbuntu or in a Chroot Environment Using Crouton. Lets Check How</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-video-to-audio-quickly-create-mp3-from-youtube-on-mac/"><u>[Updated] 2024 Approved From Video to Audio Quickly Create MP3 From YouTube on Mac</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-creative-reactors-the-10-premier-video-responses-for-2024/"><u>[Updated] Creative Reactors The 10 Premier Video Responses for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-amplifying-video-clarity-on-youtube/"><u>[Updated] In 2024, Amplifying Video Clarity on YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-can-image-smoothing-simplify-photo-editing/"><u>2024 Approved Can Image Smoothing Simplify Photo Editing?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722895111916-do-you-really-need-a-dac-for-superior-sound-quality-find-out-here/"><u>Do You Really Need a DAC for Superior Sound Quality? Find Out Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-essential-software-packages-and-drivers-for-hp-elitebook-x360-1030-g2/"><u>Download the Essential Software Packages & Drivers for HP EliteBook X360 1030 G2</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/finding-the-right-retailers-for-new-releases-ryzen-7-9700x-and-ryzen-5-9600x-from-amd/"><u>Finding the Right Retailers for New Releases: Ryzen 7 9700X & Ryzen 5 9600X From AMD</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-non-elevated-command-window-a-comprehensive-tutorial/"><u>Fixing Non-Elevated Command Window: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-downloader-tool-install-epson-printer-drivers-on-windows/"><u>Free Downloader Tool - Install Epson Printer Drivers on Windows</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-nokia-c32-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Nokia C32 Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-refresh-cpu-drivers-for-better-performance-on-windows-computers/"><u>How to Easily Refresh CPU Drivers for Better Performance on Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-envy-7640-driver-problems-heres-how-to-fix-them-fast/"><u>HP ENVY 7640 Driver Problems? Here's How to Fix Them Fast</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-intel-network-drivers-available-for-windows-11-10-and-7-get-yours-today/"><u>Latest Intel Network Drivers Available for Windows 11, 10 & 7 – Get Yours Today!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/miui-screen-recorder-review-and-alternatives-for-2024/"><u>MIUI Screen Recorder Review and Alternatives for 2024</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/recuperation-des-donnees-a-partir-dun-disque-dur-au-format-raw-methodes-et-conseils/"><u>Récupération Des Données À Partir D'un Disque Dur Au Format RAW : Méthodes Et Conseils</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-the-current-hp-laserjet-pro-m404n-drivers-direct-download-links-available/"><u>Update to the Current HP LaserJet Pro M404N Drivers – Direct Download Links Available!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-brother-printer-driver-on-windows-a-comprehensive-guide/"><u>Update Your Brother Printer Driver on Windows: A Comprehensive Guide</u></a></li>
 </ul></div>
 

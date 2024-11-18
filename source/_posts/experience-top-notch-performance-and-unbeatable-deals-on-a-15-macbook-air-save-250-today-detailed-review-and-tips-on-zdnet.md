@@ -1,7 +1,7 @@
 ---
 title: Experience Top-Notch Performance and Unbeatable Deals on a 15 MacBook Air - Save $250 Today | Detailed Review & Tips on ZDNet.
-date: 2024-11-03T16:37:10.881Z
-updated: 2024-11-07T16:34:29.191Z
+date: 2024-11-15T21:31:42.946Z
+updated: 2024-11-17T22:15:09.202Z
 tags:
   - laptops
 categories:
@@ -75,10 +75,10 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -90,10 +90,10 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -130,24 +130,15 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-creators-profit-from-youtube-shorts/"><u>[New] 2024 Approved How Creators Profit From YouTube Shorts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-amplifying-viewership-strategies-for-unboxing-tiktoks/"><u>[New] Amplifying Viewership Strategies for Unboxing TikToks</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-unleash-creativity-with-the-right-camera-lenses/"><u>[New] In 2024, Unleash Creativity with the Right Camera Lenses</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-efficiently-transfer-vids-from-premiere-to-youtube-for-2024/"><u>[Updated] Efficiently Transfer Vids From Premiere to YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-chuckle-chronicles-top-10-humoristic-youtube-video-plans/"><u>[Updated] In 2024, Chuckle Chronicles Top 10 Humoristic YouTube Video Plans</u></a></li>
-<li><a href="https://win-blog.techidaily.com/6-steps-to-bypass-palworlds-eos-login-hurdle-quick-fix-techniques-revealed/"><u>6 Steps to Bypass PalWorld's EOS Login Hurdle: Quick Fix Techniques Revealed</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-nubia-red-magic-9-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Nubia Red Magic 9 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/conversion-illimitee-de-flv-vers-m4v-outils-en-ligne-sans-frais-movavi/"><u>Conversion Illimitée De FLV Vers M4V : Outils en Ligne Sans Frais - Movavi</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/pcie-gen-asterisk-6-standard-finalized-preparing-for-comprehensive-launch/"><u>PCIe Gen Asterisk) 6 Standard Finalized: Preparing for Comprehensive Launch</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/pioneering-pcs-and-systems-by-toms-hardware-analysis/"><u>Pioneering PCs & Systems by Tom's Hardware Analysis</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/starting-off-as-an-innovator-in-conversational-systems/"><u>Starting Off as an Innovator in Conversational Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-digital-workshop-inside-tips-and-tricks-by-toms-computer-chronicles/"><u>The Digital Workshop: Inside Tips and Tricks by Tom's Computer Chronicles</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-evolution-of-memory-exploring-the-benefits-of-cam-speedy-tiny-and-improve-friendly-standard/"><u>The Evolution of Memory: Exploring the Benefits of CAM# - Speedy, Tiny & Improve-Friendly Standard</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-source-for-cutting-edge-pc-components-at-toms-site/"><u>The Ultimate Source for Cutting-Edge PC Components at Tom's Site</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-comprehensive-computer-hardware-reviews/"><u>Tom's Tech Insights - Comprehensive Computer Hardware Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-comprehensive-guide-on-the-latest-hardware/"><u>Tom's Tech Review: Comprehensive Guide on the Latest Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-unprecedented-speed-with-asrocks-z890-taichi-aqua-motherboard-includes-10x-superfast-usb-type-c-and-2x-cutting-edge-thunderbolt-ports/"><u>Unleash Unprecedented Speed with ASRock's Z890 Taichi Aqua Motherboard – Includes 10X Superfast USB Type-C & 2X Cutting-Edge Thunderbolt Ports</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleashing-next-gen-gaming-and-computing-power-asrocks-extensive-range-of-arrow-lake-boards-now-features-a-groundbreaking-taichi-design-with-state-of-the-ar95/"><u>Unleashing Next-Gen Gaming and Computing Power: ASROCK's Extensive Range of Arrow Lake Boards Now Features a Groundbreaking Taichi Design With State-of-the-Art CAMM^2 RAM Options</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-effortless-mp4-editing-on-windows-8-expert-video-editor/"><u>Updated Effortless MP4 Editing on Windows 8 Expert Video Editor</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-premier-pro-essentials-accessible-for-all-editors/"><u>[New] The Premier Pro Essentials - Accessible for All Editors</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-unlock-the-full-potential-of-your-youtube-videos-with-these-tips/"><u>[Updated] 2024 Approved Unlock the Full Potential of Your YouTube Videos with These Tips</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-72-amusing-tiktok-joke-threads/"><u>[Updated] In 2024, 72 Amusing TikTok Joke Threads</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unveiling-canvas-power-10-pro-editor-techniques-for-2024/"><u>[Updated] Unveiling Canva's Power 10 Pro Editor Techniques for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-to-get-your-samsung-blu-ray-player-up-and-running-again/"><u>Expert Tips to Get Your Samsung Blu Ray Player Up & Running Again</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-to-installing-the-latest-webcam-driver-for-a-smooth-windows-11-experience/"><u>Guide to Installing the Latest Webcam Driver for a Smooth Windows 11 Experience</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/o-sculpt-the-perfect-youtube-moniker-tips-and-tricks/"><u>How to Sculpt the Perfect YouTube Moniker Tips & Tricks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-of-computer-components-by-toms-tech-experts/"><u>In-Depth Analysis of Computer Components by Tom's Tech Experts</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210850964-9781398832169-moon-signs/"><u>Moon Signs | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/pioneering-computer-gear-insights-by-toms-electronics/"><u>Pioneering Computer Gear Insights by Tom's Electronics</u></a></li>
 </ul></div>
 

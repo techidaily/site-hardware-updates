@@ -1,7 +1,7 @@
 ---
 title: "How Apple’s Next-Gen M4 Chips Integrate AI in Every Mac: Timelines for the Innovative Upgrade"
-date: 2024-11-04T16:02:46.504Z
-updated: 2024-11-07T16:33:58.264Z
+date: 2024-11-11T20:17:42.435Z
+updated: 2024-11-17T19:57:11.621Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,16 +60,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -83,10 +77,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -129,22 +123,20 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-elevate-your-facebook-profile-choosing-top-apps-for-like-growth/"><u>[Updated] In 2024, Elevate Your Facebook Profile Choosing Top Apps for Like Growth</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-maximizing-your-youtube-income-understanding-adsense-payments-for-every-1k-watch/"><u>[Updated] Maximizing Your Youtube Income Understanding AdSense Payments for Every 1K Watch</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-premium-asmr-microphones-that-dont-break-the-bank/"><u>[Updated] Premium ASMR Microphones That Don't Break the Bank</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-official-nvidia-geforce-rtx-3070-ti-drivers-for-windows-1087-get-them-now/"><u>Download the Official NVIDIA GeForce RTX 3070 Ti Drivers for Windows 10/8/7 – Get Them Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-download-of-hp-deskjet-3520-software-ensure-compatible-operation-with-any-pc/"><u>Easy Download of HP DeskJet 3520 Software - Ensure Compatible Operation with Any PC.</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-vivo-y200e-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Vivo Y200e 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-nvidia-geforce-rtx-3080-drivers-compatible-with-windows-10-8-and-7/"><u>Free Download: NVIDIA GeForce RTX 3080 Drivers Compatible with Windows 10, 8 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-rtx-3nvidia-geforce-3070-ti-driver-compatible-with-win-10-8-and-7/"><u>Get the Latest RTX 3Nvidia GeForce 3070 Ti Driver - Compatible with Win 10, 8 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-your-call-of-duty-mw3-up-and-running-again-after-not-working-issues/"><u>How to Get Your Call of Duty: MW3 Up and Running Again After Not Working Issues</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/improve-gaming-experience-with-new-updates-on-amd-rx-amoledr-480-drivers/"><u>Improve Gaming Experience with New Updates on AMD RX Amoled(R) 480 Drivers</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-best-10-text-presets-for-after-effects/"><u>In 2024, Best 10 Text Presets for After Effects</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/rectifying-igfxem-module-problems-expert-guidelines-and-solutions/"><u>Rectifying igfxEM Module Problems - Expert Guidelines and Solutions</u></a></li>
-<li><a href="https://fox-http.techidaily.com/seamless-blending-of-voice-and-text-in-powerpoint-decks-for-2024/"><u>Seamless Blending of Voice and Text in PowerPoint Decks for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-key-factors-you-must-evaluate-before-using-chatgpt-as-a-mental-health-tool/"><u>The Key Factors You Must Evaluate Before Using ChatGPT as a Mental Health Tool</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-best-10-animated-text-software-for-stunning-visuals/"><u>Updated Discover the Best 10 Animated Text Software for Stunning Visuals</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrading-your-epson-wf-7720-the-ultimate-guide-to-installing-latest-printer-drivers-in-windows/"><u>Upgrading Your Epson WF-7720: The Ultimate Guide to Installing Latest Printer Drivers in Windows</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-viewer-growth-strategy-dynamic-description-templates-for-youtube-success/"><u>[New] In 2024, Viewer Growth Strategy Dynamic Description Templates for YouTube Success</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-discovering-the-basics-of-streaming-via-discord-for-2024/"><u>[Updated] Discovering the Basics of Streaming via Discord for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-a-practical-guide-to-applying-creative-commons-rights/"><u>[Updated] In 2024, A Practical Guide To Applying Creative Commons Rights</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensively-guide-to-collecting-visual-backgrounds/"><u>2024 Approved Comprehensively Guide to Collecting Visual Backgrounds</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-leveraging-the-power-of-creative-commons-rights/"><u>2024 Approved Leveraging the Power of Creative Commons Rights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-processor-benchmarks-and-comparisons-for-2-amd-vs-intel/"><u>Best Processor Benchmarks & Comparisons for 2# AMD vs Intel</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971908825-boost-your-gaming-experience-secure-your-latest-steelseries-keyboard-driver-today/"><u>Boost Your Gaming Experience - Secure Your Latest SteelSeries Keyboard Driver Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-hp-officejet-pro-8600-printer-driver-on-windows/"><u>Download & Install HP OfficeJet Pro 8600 Printer Driver on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-pcs-soundscape-download-creative-sound-blaster-drivers-for-windows-11-systems/"><u>Enhance Your PC's Soundscape: Download Creative Sound Blaster Drivers for Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-insights-into-pc-components-by-tom-toms-gear-hub/"><u>Expert Insights Into PC Components by Tom - Tom's Gear Hub</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-a-frozen-or-white-screen-on-your-laptop-expert-tips-and-solutions/"><u>Fix a Frozen or White Screen on Your Laptop - Expert Tips & Solutions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-zero-to-hero-youtube-intro-wonders-with-imovie-for-2024/"><u>From Zero to Hero YouTube Intro Wonders with iMovie for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970730524-nvidia-driver-downloads-and-upgrades-enhance-your-gpu-performance-today/"><u>Nvidia Driver Downloads & Upgrades: Enhance Your GPU Performance Today!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-galaxy-f34-5g-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Galaxy F34 5G</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-way-to-get-the-latest-synaptics-drivers-for-windows-devices/"><u>Quick & Simple Way to Get the Latest Synaptics Drivers for Windows Devices</u></a></li>
 </ul></div>
 

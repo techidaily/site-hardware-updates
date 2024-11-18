@@ -1,7 +1,7 @@
 ---
 title: "Find the Perfect Present: Best Buy's Final Hours Flash Sale Featuring All Your Gifting Essentials"
-date: 2024-11-06T16:50:57.018Z
-updated: 2024-11-07T16:16:26.404Z
+date: 2024-11-13T17:01:36.422Z
+updated: 2024-11-17T19:27:39.709Z
 tags:
   - laptops
 categories:
@@ -103,6 +103,13 @@ One of the problems with Craigslist, eBay, and Facebook sellers is they often wo
 
 If a seller doesn't give you any details before you see the machine, avoid them.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The sweet spot(s) for Mac model years
 
 Depending on your budget, we recommend a 2014 or 2015 MacBook Pro or -- if you have the budget -- a 2020 or 2021 machine with Apple's renewed [M1 chipset](https://www.zdnet.com/article/first-look-at-apple-m1-pro-and-m1-max/). As mentioned, the older machines are Intel-based and are become more and more obsolete. But that also means they're getting much cheaper. So, given what we discussed above and your budget, you'll have to decide whether you want a new-generation Apple Silicon-based machine or an obsolete Intel-based machine. The price differential could be considerable.
@@ -146,10 +153,10 @@ So, let's say you decide to ignore our advice and buy a machine from a local sel
 As mentioned above (and as you should know if you're braving buying a used Mac locally), About This Mac is a small screen located under the Apple menu. Have the seller take a photo of that screen and send it to you. That should give you the model number, serial number, amount of RAM, OS currently running, and type of storage. If any of those specs bother you, stop right here.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 2\. Make a bootable USB drive
@@ -162,6 +169,19 @@ If possible, use [an external SSD drive](https://www.zdnet.com/article/we-tested
 
 Here's a quick note: if you don't have a Mac already to make this external boot drive, that's OK. You'll just have fewer backup tests you can run when considering the Mac you're looking at buying. 
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 3\. Pack your bootable USB drive, an SD card, a set of headphones, a CD, and a DVD
 
 You'll want to bring a basic test kit with you when you go to see the device you're considering. First, bring the external drive with a pre-configured version of MacOS. Next, bring a set of headphones (preferably with a headphone jack, rather than a USB connection). This will allow you to test external audio. Pack an SD card to test the internal SD card slot, if one exists. Finally, if you're looking at a 2008 to 2012 MacBook Pro, bring a CD and DVD with you to test the internal drive.
@@ -169,6 +189,13 @@ You'll want to bring a basic test kit with you when you go to see the device you
 ## Step 4\. Once you arrive, carefully look over the machine
 
 Here's where you're going to do a thorough physical inspection of the machine before booting it up. You want to notice any dents, scratches, and, especially, any obvious damage. Look at each of the ports to see if any is out of alignment or crushed. Examine the screen for scratches or damage. Some MacBook Pros have visible screws. Check to make sure they're all in place and not stripped or missing. If the machine looks too beaten up, you might want to give it a pass. That said, some scratched up Macs still work great, and the scratches could well save you some bucks.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 5\. Check the power adapter and boot the beast
 
@@ -184,13 +211,6 @@ If you're testing an Intel-based Mac, hold down the Option key (and keep holding
 
 If you can't boot the machine using either approach, walk away. This deal is a bust. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 6\. Check network and display
 
 The simplest way to make sure the network is running is to go to YouTube. Don't worry about running Chrome here. Just launch Safari to make sure you can get to YouTube. If the seller says there's no available network connection (or if you're in a public location), try setting up Wi-Fi. If you can't test the network, period, then walk away.
@@ -203,48 +223,34 @@ We like using the keyboard viewer, but you can also open Notes or TextEdit. Type
 
 **Also:** [**The best keyboards: Our top pick integrates a helpful ChatGPT shortcut**](https://www.zdnet.com/home-and-office/smart-office/best-keyboard/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 8\. Check drive, ports, and camera
 
 If there's an optical drive, take your test disk, insert it to see if it plays. Plug in your SD card to see if the machine reads it. Test your external drive in each of the USB ports. Try your headset to make sure it works. Fire up FaceTime or Photo Booth to make sure the MacBook's camera works.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 9\. Check drive status
 
 It used to be that you could check the SMART (Self-Monitoring, Analysis and Reporting Technology) status of hard drives. With Apple's new APFS and SSDs, SMART is pretty much obsolete. We prefer to use Disk Utility to run First Aid on a drive to see if any errors show up. Errors on the drive could be caused by a bad drive (which is replaceable) or bad drive controller chips (which are not). We recommend walking away from any machine that fails the First Aid scan. If the seller doesn't want you to run a scan, run away.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 10\. Check the health condition of the battery
 
 Apple details [a series of simple steps](https://support.apple.com/en-us/HT201585) for making sure the battery still has life in it. This series of steps includes a look at the Mac's perception of the battery's condition and its cycle count. Pay attention to the max cycle count listed for [each model on this page](https://support.apple.com/en-us/HT201585), and then the cycle count you find on the machine you're considering. If they're too close, don't buy the machine. You'll need a costly battery replacement sooner rather than later.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 11\. Run Apple Diagnostics or Apple Hardware Test
 
 Depending on how old the machine is you're looking at, you should consider running Apple Hardware Test or Apple Diagnostics. David wrote [an article on how to do that here](https://www.zdnet.com/article/how-to-use-apples-hardware-diagnostics-to-find-and-fix-troublesome-mac-glitches/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 12\. Be sure you have an Administrative login, and the Firmware password is disabled
@@ -291,14 +297,16 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-prime-acoustic-collectors-at-schools-for-2024/"><u>[New] Prime Acoustic Collectors at Schools for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-broadcasting-with-a-history-live-transmission-of-pre-recorded-videos-for-2024/"><u>[Updated] Broadcasting with a History LIVE Transmission of Pre-Recorded Videos for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-windows-10-enhances-the-update-download-experience/"><u>How Windows 10 Enhances the Update Download Experience</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-of-gadgets-and-components-by-toms-experts/"><u>In-Depth Analysis of Gadgets and Components by Tom's Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-the-world-of-pc-and-laptop-hardware-toms-expert-take/"><u>Inside the World of PC and Laptop Hardware - Tom's Expert Take</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-toms-electronic-emporium-unlocking-hardware-secrets/"><u>Inside Tom's Electronic Emporium: Unlocking Hardware Secrets</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/insider-knowledge-for-your-pc-the-toms-hardware-experience/"><u>Insider Knowledge for Your PC: The Tom's Hardware Experience</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-oneplus-open-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for OnePlus Open Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-elevate-your-edm-game-with-free-state-of-the-art-beat-detectors/"><u>[New] In 2024, Elevate Your EDM Game with FREE, State-of-the-Art Beat Detectors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-essential-dvd-tools-compatible-with-sierra-for-2024/"><u>[Updated] Essential DVD Tools Compatible with Sierra for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-manipulating-media-with-mastery-tools/"><u>2024 Approved Manipulating Media with Mastery Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-applying-luts-in-obs-streaming/"><u>2024 Approved The Ultimate Guide to Applying LUTs in OBS Streaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoidance-techniques-stop-random-disconnections-from-ps4-pad-on-windows/"><u>Avoidance Techniques: Stop Random Disconnections From PS4 Pad on Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/bestpractiken-zum-kopieren-von-dvds-unter-windows-10-mit-top-qualitats-brennern/"><u>Bestpractiken Zum Kopieren Von DVDs Unter Windows 10 Mit Top-Qualitäts-Brennern</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-perform-an-amd-graphics-driver-update-for-windows-operating-systems/"><u>How to Perform an AMD Graphics Driver Update for Windows Operating Systems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-honor-play-40c-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Honor Play 40C? Try These Fixes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-update-for-magicard-rio-pro-driver-available-for-windows-1011-81-and-previous-versions/"><u>Latest Update for Magicard Rio Pro Driver - Available for Windows 10/11, 8.1 & Previous Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-the-corsair-h115i-on-latest-windows-systems-win-8-10-and-11-solutions/"><u>Troubleshooting the Corsair H115i on Latest Windows Systems - Win 8, 10 & 11 Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-fixes-for-startech-driver-problems-across-windows-versions-including-win-11-8-and-7/"><u>Ultimate Fixes for StarTech Driver Problems Across Windows Versions Including Win 11, 8 and 7</u></a></li>
 </ul></div>
 

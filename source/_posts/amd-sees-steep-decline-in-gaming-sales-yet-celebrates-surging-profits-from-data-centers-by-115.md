@@ -1,7 +1,7 @@
 ---
 title: AMD Sees Steep Decline in Gaming Sales, Yet Celebrates Surging Profits From Data Centers by 115%%
-date: 2024-08-28T02:20:27.529Z
-updated: 2024-08-29T02:20:27.529Z
+date: 2024-11-14T17:44:15.633Z
+updated: 2024-11-17T17:56:45.133Z
 tags:
   - cpu
 categories:
@@ -91,14 +91,11 @@ Reddit user[jerubedo](https://www.reddit.com/r/hardware/comments/1ei1zvm/intel%5
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -107,8 +104,26 @@ Reddit user[jerubedo](https://www.reddit.com/r/hardware/comments/1ei1zvm/intel%5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-comparing-streamlabs-with-obs-for-professional-broadcasts/"><u>[New] 2024 Approved Comparing Streamlabs with OBS for Professional Broadcasts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-enhancing-googles-speech-to-text-capabilities-effectively/"><u>[New] 2024 Approved Enhancing Google's Speech-to-Text Capabilities Effectively</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-simplify-your-story-instagram-collage-techniques/"><u>[New] Simplify Your Story Instagram Collage Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-unveiling-techniques-for-effective-display-saving-on-dell/"><u>[Updated] In 2024, Unveiling Techniques for Effective Display Saving on Dell</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-a-bundle-of-nine-premium-holiday-treasures-watch-for-free-on-youtube/"><u>2024 Approved A Bundle of Nine Premium Holiday Treasures Watch for Free on YouTube</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-8-plus-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-installing-camera-drivers-for-windows-users-win111087/"><u>Easy Guide to Downloading & Installing Camera Drivers for Windows Users (Win11/10/8/7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-geforce-rtx-2070-driver-for-your-pc-on-windows-11-8-or-7/"><u>Get the Newest Geforce RTX 2070 Driver for Your PC on Windows 11, 8 or 7</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-apple-iphone-15-pro-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your Apple iPhone 15 Pro without Security Questions?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-new-drivers-how-to-optimize-amd-radeon-r9-360-graphics-on-windows-11/"><u>Install New Drivers: How to Optimize AMD Radeon R9 360 Graphics on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722972799499-no-charge-free-nvidia-3d-vision-driver-update-for-windows-users/"><u>No Charge: Free Nvidia 3D Vision Driver Update for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ricoh-mp-c3003-driver-download-step-by-step-tutorial-for-smooth-setup/"><u>Ricoh Mp C3003 Driver Download - Step-by-Step Tutorial for Smooth Setup</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

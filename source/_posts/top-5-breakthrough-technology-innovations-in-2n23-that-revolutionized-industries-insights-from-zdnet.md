@@ -1,7 +1,7 @@
 ---
 title: Top 5 Breakthrough Technology Innovations in 2N'23 That Revolutionized Industries - Insights From ZDNet
-date: 2024-11-04T16:03:22.831Z
-updated: 2024-11-07T16:13:43.748Z
+date: 2024-11-10T21:01:50.667Z
+updated: 2024-11-17T22:00:06.590Z
 tags:
   - laptops
 categories:
@@ -43,16 +43,10 @@ Running AI applications locally yields four major advantages: 1) All information
 "The idle power consumption of a single fully populated AI-accelerated server can approach one kilowatt of power while the peak power consumption can approach several kilowatts of power. This number multiplies by the number of servers required to run a generative AI model and the number of times a model is run, which is increasing exponentially," says Jim McGregor, Principal Analyst at [TIRIAS Research](https://www.tiriasresearch.com/). On-device AI solves this problem by keeping most, if not all, of the friction within our devices -- which will be plenty capable come next year.
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Generative AI for professional workflows
@@ -68,10 +62,16 @@ Some tools include [Wix's AI Site Generator](https://www.zdnet.com/article/this-
 Such workloads, especially as companies fine-tune these large language models, often require pushing the GPUs (graphics processing units) and RAM in computers and servers to the max, setting a precedent for an AI arms race between the world's largest semiconductor companies -- Intel, AMD, Nvidia, and Qualcomm included. Expect more "for AI" computers, chipsets, and fancy comparison charts in 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Wireless TVs take cord-cutting to the extreme
@@ -89,10 +89,10 @@ Naturally, one of the big questions with wireless TVs is how latency factors int
 That said, wireless TVs are certainly not priced for the mainstream; the Displace TV lists for $4,499, and the LG OLED M will run you upwards of $35,000\. But for your closest look at a future without cords and cables dangling off walls, this may well be the best place to start.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A Copilot for every PC user
@@ -108,10 +108,10 @@ The vision was straightforward; with a single click from the taskbar, more than 
 At the base level, Copilot on Windows 11 can save users dozens of clicks every day, now that the AI assistant can help navigate those sophisticated location paths to tweak display resolutions, set dark theme timers, and do other mundane tasks. For businesses and enterprises, Copilot will be capable of [tackling cybersecurity threats](https://www.zdnet.com/article/boosting-cybersecurity-microsofts-ai-driven-security-copilot-unveiled-at-ignite-2023/), from risk identification with machine learning algorithms to automated response mechanisms for near-instant defense.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Pinching the air will become normal
@@ -156,17 +156,20 @@ The big question with pinching is how multidimensional such a basic gesture can 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-reap-endless-visual-resources-via-four-prime-youtube-sites/"><u>[New] In 2024, Reap Endless Visual Resources via Four Prime YouTube Sites</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-effortless-enchantment-make-your-mark-with-striking-templates-for-tiktok-for-2024/"><u>[Updated] Effortless Enchantment Make Your Mark with Striking Templates for TikTok for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-breaking-boundaries-coordinated-video-watch-across-channels/"><u>[Updated] In 2024, Breaking Boundaries Coordinated Video Watch Across Channels</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-radeon-hd-6350-driver-downloads-and-updates-how-to-optimize-your-windows-experience/"><u>AMD Radeon HD 6350 Driver Downloads & Updates: How to Optimize Your Windows Experience</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discovering-the-best-features-of-the-versatile-samsung-galaxy-tab-s4-in-this-detailed-review/"><u>Discovering the Best Features of the Versatile Samsung Galaxy Tab S4 in This Detailed Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-nvidia-geforce-rtx-30-series-drivers-for-windows-11-quick-and-secure/"><u>Download NVIDIA GeForce RTX 30 Series Drivers for Windows 11 - Quick & Secure</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722979130044-get-your-thrustmaster-t150-stealth-plus-gamepad-up-and-running-fast-driver-downloads/"><u>Get Your Thrustmaster T150 Stealth Plus Gamepad Up and Running - Fast Driver Downloads!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/maximize-your-online-interactions-with-these-5-devices/"><u>Maximize Your Online Interactions with These 5 Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-setup-secure-the-latest-focusrite-scarlett-2i2-drivers-made-for-windows-users/"><u>Seamless Setup: Secure the Latest Focusrite Scarlett 2I2 Drivers Made For Windows Users</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-brighten-up-techniques-for-improving-video-lighting-on-youtube/"><u>[New] Brighten Up Techniques for Improving Video Lighting on YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-turboupload-the-ultimate-guide-to-fast-youtube-video-rendering/"><u>[New] TurboUpload The Ultimate Guide to Fast YouTube Video Rendering</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-to-evaluating-tablets-based-on-their-physical-characteristics-size-and-weight/"><u>Comprehensive Guide to Evaluating Tablets Based on Their Physical Characteristics: Size & Weight</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/cost-efficiency/"><u>Cost Efficiency:</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-access-to-updated-drivers-for-epsons-xp-310-download-here/"><u>Easy Access to Updated Drivers for Epson's XP 310 - Download Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-new-microsoft-bluetooth-driver-version-compatible-with-win-11-10-8-and-7-free-download/"><u>Get the New Microsoft Bluetooth Driver Version: Compatible with Win 11, 10, 8 & 7 – Free Download!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-logitech-g602-headset-on-your-windows-computer/"><u>How to Install Logitech G602 Headset on Your Windows Computer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/improve-your-dell-xps-15-experience-a-comprehensive-guide-to-installing-the-latest-windows-drivers/"><u>Improve Your Dell XPS 15 Experience: A Comprehensive Guide to Installing the Latest Windows Drivers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-rise-of-a-marketer-top-5-tips-from-the-prosphere/"><u>In 2024, Rise of a Marketer Top 5 Tips From the Prosphere</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-installation-of-the-canon-pro-100-driver-on-your-pc-with-windows/"><u>Instant Installation of the Canon PRO 100 Driver on Your PC with Windows</u></a></li>
+<li><a href="https://fox-links.techidaily.com/reigning-titans-unveiling-reddits-ultimate-10-threads-for-2024/"><u>Reigning Titans Unveiling Reddit's Ultimate 10 Threads for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/simplify-your-screen-with-smart-edits-on-heavy-duty-tiktoks/"><u>Simplify Your Screen with Smart Edits on Heavy-Duty TikToks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-covert-community-top-5-anonymous-viewers/"><u>The Covert Community Top 5 Anonymous Viewers</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-7-must-see-sites-for-upcoming-film-previews/"><u>Top 7 Must-See Sites for Upcoming Film Previews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-guide-downloading-and-installing-hp-ethernet-drivers-for-various-windows-versions/"><u>Updated Guide: Downloading and Installing HP Ethernet Drivers for Various Windows Versions</u></a></li>
 </ul></div>
 

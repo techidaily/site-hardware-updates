@@ -1,7 +1,7 @@
 ---
 title: Charge All Your Gadgets with a Single 140W Portable Battery – Review on ZDNet
-date: 2024-11-03T16:07:42.325Z
-updated: 2024-11-07T16:54:19.123Z
+date: 2024-11-11T16:53:04.002Z
+updated: 2024-11-17T21:56:42.162Z
 tags:
   - laptops
 categories:
@@ -77,10 +77,10 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -92,10 +92,10 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -132,20 +132,20 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-dive-deep-into-stardews-heart-with-our-guide-to-ginger-isle/"><u>[New] Dive Deep Into Stardew's Heart with Our Guide to Ginger Isle</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-gopro-hero5-black-vs-yi-4k-action-camera-which-is-better-2023-update/"><u>[Updated] 2024 Approved GoPro Hero5 Black Vs. Yi 4K Action Camera Which Is Better? -2023 Update</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-introduction-to-soft-starting-sounds-in-audition/"><u>[Updated] 2024 Approved Introduction to Soft-Starting Sounds in Audition</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-streamlining-your-creative-process-with-windows-10-video-tools/"><u>[Updated] Streamlining Your Creative Process with Windows 10 Video Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1199-msi-katana-stealth-156-inch-gaming-laptop-with-nvidia-geforce-rtx-30-series-gpu/"><u>$1,199 MSI Katana Stealth 15.6-Inch Gaming Laptop with NVIDIA GeForce RTX ^30 Series GPU</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-daily-mobile-decor-the-irresistible-habit-of-changing-wallpapers/"><u>1. Daily Mobile Decor: The Irresistible Habit of Changing Wallpapers</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/2009s-essential-guide-to-protecting-your-blog-from-fraudulent-schemes-mastering-safe-email-campaigns-with-massmail-tools/"><u>2009'S Essential Guide to Protecting Your Blog From Fraudulent Schemes: Mastering Safe Email Campaigns with MassMail Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862740342-breaking-down-first-benchmark-scores-the-debate-over-snapdragon-x-elite-and-iphone-12-speed-battle/"><u>Breaking Down First Benchmark Scores: The Debate Over Snapdragon X Elite and iPhone 12 Speed Battle.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-programming-skills-integrating-microsofts-gpt-n-language-model-into-python-applications/"><u>Elevate Your Programming Skills: Integrating Microsoft's GPT-N Language Model Into Python Applications</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-tech-secrets-tom-dissects-and-discusses-cutting-edge-hardware/"><u>Unveiling Tech Secrets: Tom Dissects and Discusses Cutting-Edge Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-future-of-power-storage-massless-and-ultra-durable-carbon-hewn-battery-innovations-for-sleek-devices/"><u>Unveiling the Future of Power Storage: Massless and Ultra-Durable Carbon Hewn Battery Innovations for Sleek Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-pc-gear-on-toms-platform/"><u>Unveiling the Latest in PC Gear on Tom’s Platform</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-technology-wisdom-from-toms-hardware/"><u>Unveiling the Latest in Technology: Wisdom From Tom's Hardware</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-free-and-flexible-the-top-10-online-video-editors-without-watermark-for-2024/"><u>Updated Free and Flexible The Top 10 Online Video Editors without Watermark for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/year-on-year-analysis-reveals-laptop-ram-allocation-expected-to-jump-to-118gb-a-12-increase/"><u>Year-on-Year Analysis Reveals Laptop Ram Allocation Expected to Jump to 11.8GB, a 12% Increase</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-online-tutorial-adding-youtube-playlists-to-your-site/"><u>[New] Online Tutorial Adding YouTube Playlists to Your Site</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unlocked-design-potential-100-free-pp-templates/"><u>[New] Unlocked Design Potential 100% Free PP Templates</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-vehicular-vitality-ranking-10-top-turbo-mods-for-os-x-and-windows/"><u>[Updated] Vehicular Vitality Ranking 10 Top Turbo Mods for OS X and Windows</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-streamlining-post-editing-the-art-of-vimeos-final-screens/"><u>2024 Approved Streamlining Post-Editing The Art of Vimeo's Final Screens</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/buggy-software-postpones-release-of-new-sonos-devices/"><u>Buggy Software Postpones Release of New Sonos Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-gamesir-x2s-type-c-evaluation-ideal-hand-size-irrelevant/"><u>Comprehensive GameSir X2s Type-C Evaluation: Ideal Hand Size Irrelevant</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/cooler-master-elevates-psu-game-with-new-lineup-offering-up-to-2000w-of-power/"><u>Cooler Master Elevates PSU Game with New Lineup Offering Up to 2000W of Power!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/diagnosing-ram-issues-a-comprehensive-guide-on-how-to-check-your-pcs-memory/"><u>Diagnosing RAM Issues: A Comprehensive Guide on How to Check Your PC's Memory</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dial-back-the-dazzle-a-close-look-at-our-astoundingly-bright-mini-led-tv-display/"><u>Dial Back the Dazzle: A Close Look at Our Astoundingly Bright Mini LED TV Display</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-new-8bitdo-replica-a-tribute-to-classic-ibm-model-m-keyboards/"><u>Discover the New 8BitDo Replica: A Tribute to Classic IBM Model M Keyboards</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/embracing-a-smarter-home-key-considerations-and-actionable-steps-for-transformation/"><u>Embracing a Smarter Home: Key Considerations & Actionable Steps for Transformation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-phantom-v-fold-phone-without-pin-by-drfone-android/"><u>How to Unlock Tecno Phantom V Fold Phone without PIN</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-gamers-guide-to-lgs-360-degree-vr-experience/"><u>In 2024, A Gamer's Guide to LG's 360-Degree VR Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/must-watch-live-games-top-nine-sites-for-2024/"><u>Must-Watch Live Games Top Nine Sites for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-vlc-for-mov-files-ultimate-guide-and-free-conversion-tools/"><u>Troubleshooting VLC for MOV Files: Ultimate Guide & Free Conversion Tools</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Black Friday Bargain: Score a Steep Discount on Lenovo ThinkPad X1 Extreme Gen 4 - Now Under $500"
-date: 2024-11-04T16:56:53.358Z
-updated: 2024-11-07T17:03:20.606Z
+date: 2024-11-12T18:05:32.335Z
+updated: 2024-11-17T22:55:19.008Z
 tags:
   - laptops
 categories:
@@ -73,10 +73,10 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -115,24 +115,22 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-rise-and-reality-of-magix-paintbox/"><u>[New] The Rise and Reality of MAGIX Paintbox</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-vrecorder-integration-from-download-to-deployment-for-2024/"><u>[Updated] VRecorder Integration From Download to Deployment for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/affordable-wired-vs-wireless-gaming-tools-guide/"><u>Affordable Wired vs Wireless Gaming Tools Guide</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/effective-techniques-for-customizing-headers-and-footers-in-pdfs-prior-to-flipbook-transformation/"><u>Effective Techniques for Customizing Headers & Footers in PDFs Prior to Flipbook Transformation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/empowered-learning-via-python-plus-gpt-3/"><u>Empowered Learning via Python + GPT-3</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-an-avid-fan-transformed-their-lenovo-into-a-high-performance-machine-with-titanium-chassis-and-mechanical-switches/"><u>How an Avid Fan Transformed Their Lenovo Into a High-Performance Machine with Titanium Chassis & Mechanical Switches</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-omen-transcend-14-up-to-300-discount-on-rtx-amoled-display-and-powerful-gpu/"><u>HP Omen Transcend 14 - Up To $300 Discount on RTX Amoled Display and Powerful GPU</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-expert-advice-on-iphone-landscape-imaging-for-killer-photos/"><u>In 2024, Expert Advice on iPhone Landscape Imaging for Killer Photos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-techniques-for-streamers-on-macos/"><u>In 2024, Expert Techniques for Streamers on macOS</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-of-high-performance-hardware-by-toms-tech-experts/"><u>In-Depth Analysis of High-Performance Hardware by Tom's Tech Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-look-at-cutting-edge-hardware-by-team-tom/"><u>Inside Look at Cutting-Edge Hardware by Team Tom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/lead-detected-in-barrow-dabel-radiators-prompting-caseking-to-halt-sales-post-aio-test-results/"><u>Lead Detected in Barrow Dabel Radiators, Prompting CaseKing to Halt Sales Post-AIO Test Results</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/master-your-electronics-tips-and-tricks-from-tomwartzs-hardware-reviews/"><u>Master Your Electronics: Tips and Tricks From Tom'wartz's Hardware Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-gadgets-and-components-through-toms-insights/"><u>Mastering Gadgets & Components Through Tom's Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-tech-inside-knowledge-from-toms-comprehensive-reviews/"><u>Mastering Tech: Inside Knowledge From Tom’s Comprehensive Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-your-devices-insider-secrets-from-toms-computer-chronicles/"><u>Mastering Your Devices: Insider Secrets From Tom's Computer Chronicles</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/msi-bravo-with-rtx-4060-gpu-unbeatable-gaming-performance-under-1000/"><u>MSI Bravo with RTX 4060 GPU: Unbeatable Gaming Performance Under $1,000</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/protect-your-home-for-free-top-security-camera-software/"><u>Protect Your Home for Free Top Security Camera Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-from-mundane-to-marvelous-proven-methods-to-record-everyday-life-and-adventures-in-sims-4-for-2024/"><u>[New] From Mundane to Marvelous Proven Methods to Record Everyday Life and Adventures in Sims 4 for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-ultimate-screen-recorder-unleash-potential-on-win11/"><u>[New] In 2024, Ultimate Screen Recorder - Unleash Potential on Win11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-sims-4-recording-techniques-for-2024/"><u>[New] Mastering Sims 4 Recording Techniques for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-secrets-of-earning-big-reddits-13-money-makers/"><u>[New] Secrets of Earning Big Reddit's 13 Money Makers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-artificnial-intelligence-be-your-wilderness-guardian-the-role-of-chatgpt/"><u>Can Artificnial Intelligence Be Your Wilderness Guardian? – The Role of ChatGPT</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-laptops-absence-of-signal-for-tv-display/"><u>Fixing Laptop's Absence of Signal for TV Display</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-honor-90-lite-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Honor 90 Lite Fingerprint Lock</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-oppo-f25-pro-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Oppo F25 Pro 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-the-new-era-in-smartphones-samsungs-galaxy-z-flip-problem/"><u>Introducing the New Era in Smartphones: Samsung's Galaxy Z Flip # Problem</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lamptron-exposed-misuse-of-fake-aida64-keysets-in-their-latest-lcd-device-line/"><u>Lamptron Exposed: Misuse of Fake AIDA64 Keysets in Their Latest LCD Device Line</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/leading-portable-short-throw-projection-systems-the-2024-edition/"><u>Leading Portable Short Throw Projection Systems: The 2024 Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-power-bank-longevity-discover-essential-strategies-in-our-8-tip-guide/"><u>Maximize Power Bank Longevity: Discover Essential Strategies in Our 8-Tip Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximizing-efficiency-uncovering-the-benefits-of-using-a-compact-workspace/"><u>Maximizing Efficiency: Uncovering the Benefits of Using a Compact Workspace</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximizing-efficiency-why-having-two-screens-beats-an-ultrawide-monitor/"><u>Maximizing Efficiency: Why Having Two Screens Beats an UltraWide Monitor</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nas-vs-das-deciding-on-the-perfect-data-storage-solution-for-your-needs/"><u>NAS Vs. DAS: Deciding on the Perfect Data Storage Solution for Your Needs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-affordable-2gb-ram-version-of-the-popular-raspberry-pi-5-released/"><u>New Affordable 2GB RAM Version of the Popular Raspberry Pi 5 Released</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-feature-alert-pause-your-fitness-trackers-activity-rings-with-apple-watch/"><u>New Feature Alert: Pause Your Fitness Tracker's Activity Rings with Apple Watch</u></a></li>
 </ul></div>
 
