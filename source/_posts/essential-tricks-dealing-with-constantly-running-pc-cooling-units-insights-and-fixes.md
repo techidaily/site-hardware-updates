@@ -1,7 +1,7 @@
 ---
 title: "Essential Tricks: Dealing with Constantly Running PC Cooling Units - Insights & Fixes"
-date: 2024-11-12T20:26:46.312Z
-updated: 2024-11-17T19:11:05.547Z
+date: 2024-11-20T18:25:00.546Z
+updated: 2024-11-27T19:16:01.000Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,10 @@ Here are a few simple things you can try that might save you a trip to the Apple
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best Macs Apple's Mac lineup can be confusing as the company transitions from Intel processors to its own Apple Silicon processors. But we're here to help.  Read now](https://www.zdnet.com/article/best-mac/)
@@ -37,6 +41,10 @@ But first, consider: It might be normal. Laptops get hot, and MacBooks are no ex
 If you're running a resource-heavy application such as Photoshop, or have a browser with loads of tabs open, then the fans might very well be just doing their job. After all, without them, your Mac could quickly wither and die. 
 
 Another heavy load for MacBooks is using [external monitors](https://www.zdnet.com/article/best-monitor/), because these stress the GPU, which in turn means that the fans need to run more often. Not reassured? Keep reading. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Is your Mac hot or not?
 
@@ -51,10 +59,7 @@ The TG Pro Mac software in action.
 Adrian Kingsley-Hughes/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Reboot
@@ -64,16 +69,7 @@ Still worried? Then I'd suggest a reboot.
 It's possible that an application -- or maybe even the operating system -- has crashed and is going rogue. The quickest way to fix this is with a reboot.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Reset your Intel-based Mac
@@ -81,13 +77,6 @@ It's possible that an application -- or maybe even the operating system -- has c
 If you're still experiencing this problem and you don't think that it's normal (that is, you've rebooted and you're not running anything that's hammering at the CPU or GPU that much) and you have an Intel-based Mac, then I recommend that you try resetting the SMC and PRAM. (This does not work on the new Apple Silicon Macs -- I'll get to those in a bit.)
 
 Don't worry, it's a lot easier than it sounds -- oh, and you won't lose any data doing this!
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Reset SMC (System Management Controller)
 
@@ -99,6 +88,10 @@ This one tip can fix a whole raft of Mac issues. However, how you go about doing
 
 **Also:** [**How to make your MacBook battery run all day**](https://www.zdnet.com/article/how-to-make-your-macbook-battery-last-all-day/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reset PRAM (Parameter RAM)
 
 To reset the PRAM you need to hold down COMMAND and OPTION and P and R while powering on the system. Here's another of those times when a spare arm (or an assistant) comes in handy! Keep holding down the four buttons for about 20 seconds, and you'll hear [the "WALL-E" startup chime](https://www.youtube.com/watch?v=bBmM4VM8Bv8) or see the Apple logo a couple of times. 
@@ -106,19 +99,6 @@ To reset the PRAM you need to hold down COMMAND and OPTION and P and R while pow
 ## 4\. Restart your Apple Silicon Mac
 
 For these newer M1- and M2-powered Macs, resetting the SMC and PRAM doesn't work, and all Apple recommends doing is restarting the computer.
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Oh, one more thing ... dust!
 
@@ -160,19 +140,22 @@ Hold the nozzle an inch or so away from the vents and only use the suction brief
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-capturing-the-illusion-iphone-tricks-for-reflection-photography/"><u>[New] Capturing the Illusion IPhone Tricks for Reflection Photography</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-expert-tips-for-youtube-channel-aesthetics-finding-optimal-sizes/"><u>[Updated] 2024 Approved Expert Tips for YouTube Channel Aesthetics Finding Optimal Sizes</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-streamline-your-audio-content-with-googles-tools/"><u>[Updated] In 2024, Streamline Your Audio Content with Google’s Tools</u></a></li>
-<li><a href="https://techtrends.techidaily.com/como-usar-correctamente-el-programa-de-grabador-de-dvd-winxdvd-guia-practica-how-to-properly-use-the-winxdvd-dvd-burner-software-practical-guide/"><u>Cómo Usar Correctamente El Programa De Grabador De DVD WinXDVD - Guía Práctica (How to Properly Use the WinXDVD DVD Burner Software – Practical Guide)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatible-sm-bus-controller-software-downloads-for-windows-operating-systems-win11-to-win7/"><u>Compatible SM Bus Controller Software Downloads for Windows Operating Systems: Win11 to Win7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-power-of-ai-in-computing-with-amds-brand-new-ryzen-processors-featuring-strix-halo-and-kraken-point-upgrades/"><u>Discover the Power of AI in Computing with AMD's Brand-New Ryzen Processors Featuring Strix Halo & Kraken Point Upgrades</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-set-up-your-epson-wf-3540-printer-with-windows-drivers-quick-and-easy-steps/"><u>How to Set Up Your Epson WF-3540 Printer with Windows Drivers: Quick and Easy Steps</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-manipulating-photography-captions/"><u>In 2024, Manipulating Photography Captions</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-proven-strategies-for-device-screening/"><u>In 2024, Proven Strategies for Device Screening</u></a></li>
-<li><a href="https://article-posts.techidaily.com/meme-generator-zombodroid/"><u>MEME Generator Zombodroid</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/risc-v-cpu-vulnerability-unveiled-the-ghostwrite-bug-enables-hackers-to-gain-elevated-privileges/"><u>RISC-V CPU Vulnerability Unveiled: The GhostWrite Bug Enables Hackers to Gain Elevated Privileges</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-installing-realtek-alc-network-adapter-drivers-in-windows-10/"><u>Step-by-Step Tutorial: Installing Realtek ALC Network Adapter Drivers in Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-downloading-and-updating-thunderbolt-drivers-for-windows-computers/"><u>Ultimate Guide to Downloading and Updating Thunderbolt Drivers for Windows Computers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-tech-innovator-point-of-view-unveiling-the-best-fb-video-downloaders-on-android/"><u>[New] Tech Innovator' Point of View Unveiling the Best FB Video Downloaders on Android</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-fundamentals-of-successful-instagram-video-promotion-planning/"><u>[New] The Fundamentals of Successful Instagram Video Promotion Planning</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-complete-review-and-tips-for-enhancing-images-with-facetune-2024/"><u>[Updated] Complete Review and Tips for Enhancing Images with Facetune 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-instagram-video-a-complete-guide-to-content-posting/"><u>[Updated] Instagram Video A Complete Guide to Content Posting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-movavi-plus-review-a-detailed-look-at-its-version/"><u>[Updated] Movavi Plus Review – A Detailed Look at Its Version</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cambiar-archivo-mp3-a-formato-mov-en-internet-de-manera-gratuita-movavi-solucion-simple/"><u>Cambiar Archivo MP3 a Formato Mov en Internet De Manera Gratuita - Movavi Solución Simple</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-solutions-addressing-the-synaptics-smbus-driver-conflict-on-windows-11-systems/"><u>Comprehensive Solutions: Addressing the Synaptics SMBus Driver Conflict on Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-your-lenovo-ideapad-100s-drivers-easy-tutorial-for-windows-10-operating-system/"><u>Download and Update Your Lenovo IdeaPad 100'S Drivers: Easy Tutorial for Windows 10 Operating System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-epson-v700-driver-for-windows-download-guide-for-win78110-systems/"><u>Get Your Epson V700 Driver for Windows - Download Guide for Win7/8.1/10 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-bluetooth-mouse-setup-tools-for-pc-operating-systems/"><u>Get Your Logitech Bluetooth Mouse Setup Tools for PC Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-download-and-update-toshiba-laptop-drivers-in-windows-1087/"><u>How to Seamlessly Download and Update Toshiba Laptop Drivers in Windows 10/8/7</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-ultimate-live-streaming-selection-guide/"><u>In 2024, Ultimate Live Streaming Selection Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-the-latest-sound-device-driver-on-your-updated-windows-10-version-2004/"><u>Installing the Latest Sound Device Driver on Your Updated Windows 10 Version 2004</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphones-data-connection-failing-here-are-10-proven-ways-to-rectify-it/"><u>IPhone's Data Connection Failing? Here Are 10 Proven Ways to Rectify It</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/overcoming-window-updates-a-guide-to-solving-your-hp-laserjet-p2035-driver-glitches/"><u>Overcoming Window Updates: A Guide to Solving Your HP LaserJet P2035 Driver Glitches</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/top-obs-recording-software-unveiled-in-our-latest-study/"><u>Top OBS Recording Software Unveiled in Our Latest Study</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-solving-universal-print-driver-errors-for-samsung-devices-windows/"><u>Troubleshooting and Solving Universal Print Driver Errors for Samsung Devices (Windows)</u></a></li>
 </ul></div>
 

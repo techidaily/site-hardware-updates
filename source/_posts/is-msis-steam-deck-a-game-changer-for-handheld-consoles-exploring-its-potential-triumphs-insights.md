@@ -1,7 +1,7 @@
 ---
 title: Is MSI's Steam Deck a Game-Changer for Handheld Consoles? Exploring Its Potential Triumphs | Insights
-date: 2024-11-15T20:39:53.198Z
-updated: 2024-11-17T16:02:12.334Z
+date: 2024-11-26T17:31:05.530Z
+updated: 2024-11-27T19:18:42.621Z
 tags:
   - laptops
 categories:
@@ -18,6 +18,10 @@ June Wan/ZDNET
 The handheld gaming space grew by one as MSI unveiled their [Steam Deck](https://www.zdnet.com/home-and-office/home-entertainment/valves-steam-deck-turned-this-40-year-old-dad-into-a-gamer-again/) competitor, the Claw A1M. The portable gaming console is the first to be built with Intel's new Core Ultra chipset, which uses advanced AI algorithms and on-chip video codec support for enhanced video quality while streaming games as well as improving performance under heavy workloads. And while some first-look specs are impressive, a few of MSI's decisions leave me scratching my head. 
 
 **Also: [What do you get for the gamer who has everything?](https://www.zdnet.com/home-and-office/home-entertainment/gaming-gift/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -88,22 +92,20 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-beginners-guide-to-seo-skyrocket-your-view-count/"><u>[Updated] 2024 Approved A Beginner’s Guide to SEO Skyrocket Your View Count</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-kids-earning-big-the-success-story-of-young-ryan-kaji/"><u>[Updated] Kids Earning Big The Success Story of Young Ryan Kaji</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-pioneering-the-way-with-innovative-approaches-to-youtube-banners/"><u>[Updated] Pioneering the Way with Innovative Approaches to YouTube Banners</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1-massive-discount-on-asus-vivobook-pro-save-300-now-shop-smart-with-zdnets-exclusive-deal/"><u>1. Massive Discount on ASUS VivoBook Pro: Save $300 Now - Shop Smart with ZDNet's Exclusive Deal</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-meizu-21-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Meizu 21 Pro FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-vivo-s17-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Vivo S17 FRP Locks</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/problematik-des-gefrorenen-laptops-und-mogliche-losungen-fur-reaktivierung/"><u>Problematik Des Gefrorenen Laptops Und Mögliche Lösungen Für Reaktivierung</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revolutionize-your-viewing-no-vrar-needed-to-appreciate-3d-art-with-new-asus-laptops-a-zdnet-exploration/"><u>Revolutionize Your Viewing: No VR/AR Needed to Appreciate 3D Art with New Asus Laptops – A ZDNET Exploration</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-black-friday-2022-dates-and-hunt-down-top-bargains-insights-from-zdnet/"><u>Unlocking Black Friday 2022 Dates & Hunt Down Top Bargains – Insights From ZDNet!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-samsung-galaxy-chromebook-an-in-depth-review-and-why-its-a-top-bargain-for-windows-users-insights-from-zdnet/"><u>Unveiling Samsung Galaxy Chromebook: An In-Depth Review & Why It's a Top Bargain for Windows Users - Insights From ZDNet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-optimizing-video-creation-in-obs-studio/"><u>[New] In 2024, Optimizing Video Creation in OBS Studio</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-transform-your-igtv-backgrounds-with-style/"><u>[New] In 2024, Transform Your IGTV Backgrounds with Style</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-best-of-country-top-20-tunes-for-dancing-stress-free-vibes-tiktok/"><u>2024 Approved Best of Country Top 20 Tunes for Dancing, Stress-Free Vibes (TikTok)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-evaluation-of-the-acer-chromebook-n516-ge-ideal-for-immersive-cloud-based-gaming-experience-zdnet/"><u>Comprehensive Evaluation of the Acer Chromebook N516 GE: Ideal for Immersive Cloud-Based Gaming Experience | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-power-and-savings-apples-latest-macbook-air-featuring-the-m2-processor-slashed-to-just-799-in-pre-prime-time-sale/"><u>Discover the Power and Savings: Apple's Latest MacBook Air Featuring the M2 Processor Slashed to Just $799 in Pre-Prime Time Sale!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-on-unbeatable-octobr-prime-day-deals-in-gaming-save-big-now-before-it-ends-insider-tips-from-zdnet/"><u>Don't Miss Out on Unbeatable Octobr Prime Day Deals in Gaming: Save Big Now Before It Ends! - Insider Tips From ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experiencing-lenovos-revolutionary-auto-swivel-design-a-first-look-at-ifa-2024-insights-and-impressions-tech/"><u>Experiencing Lenovo's Revolutionary Auto-Swivel Design: A First Look at IFA 2024 - Insights & Impressions Tech</u></a></li>
+<li><a href="https://facebook.techidaily.com/fb-ceo-welcomes-new-chief-after-everson-departs/"><u>FB CEO Welcomes New Chief After Everson Departs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xr-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone XR Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-honor-90-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Honor 90 FRP</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/microsoft-elevates-business-user-experience-with-copilotplus-integration-into-surface-lineup-explore-the-new-features-cnet-news/"><u>Microsoft Elevates Business User Experience with Copilot+ Integration Into Surface Lineup; Explore the New Features | CNET News</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-defective-usb-connections-expert-tips/"><u>Quick Fixes for Defective USB Connections - Expert Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-5-pc-emulators-bringing-ps1-to-life/"><u>Top 5 PC Emulators Bringing PS1 to Life</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-pinnacle-of-laptop-graphics-nvidias-enhanced-studio-series-outperforms-competitors-featured-on-zdnet/"><u>Unveiling the Pinnacle of Laptop Graphics: Nvidia's Enhanced Studio Series Outperforms Competitors, Featured on ZDNet</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-top-video-resume-creators-free-templates-and-reviews/"><u>Updated 2024 Approved Top Video Resume Creators Free Templates and Reviews</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

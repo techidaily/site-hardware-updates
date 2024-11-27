@@ -1,7 +1,7 @@
 ---
 title: "Beyond ThinkPad and MacBook: Discover the Ultimate Prime Day Deal for Unmatched Productivity at 30%% Off"
-date: 2024-11-10T17:33:03.551Z
-updated: 2024-11-17T23:12:39.617Z
+date: 2024-11-20T18:42:03.972Z
+updated: 2024-11-27T19:49:53.611Z
 tags:
   - laptops
 categories:
@@ -20,6 +20,10 @@ Kyle Kucharski/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the Amazon Prime Day deal?
 
 Amazon's October Prime Day event has officially ended, but many laptops are still on sale. The [Asus Vivobook S 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Snapdragon-X1E-78-100-Processor-S5507QAD-PS96%2Fdp%2FB0CWJY4YWF%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3c141e49-0680-49aa-952d-3085fa3ad72b%7Cdtp&dtb=1) in particular is seeing a $310 discount, dropping from $1,300 to $989\. It's the first Asus Copilot Plus PC and comes highly recommended for its performance.
@@ -29,10 +33,7 @@ Amazon's October Prime Day event has officially ended, but many laptops are stil
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -106,16 +107,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -154,16 +146,20 @@ All things considered, the [sale price of $989](https://www.awin1.com/awclick.ph
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-unveiling-my-lost-followers-insta-unfollow-check/"><u>[New] Unveiling My Lost Followers Insta Unfollow Check</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-enhancing-video-quality-editing-tips-for-published-content/"><u>[Updated] Enhancing Video Quality Editing Tips for Published Content</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-spark-ars-full-potential-with-personalized-lut-implementations/"><u>2024 Approved Unlock Spark AR's Full Potential with Personalized LUT Implementations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722962952533-complete-toshiba-bluetooth-drivers-set-secure-download-now/"><u>Complete Toshiba Bluetooth Drivers Set - Secure Download Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-geforce-rtx-3070-drivers-latest-version-compatible-with-windows-11-and-10/"><u>Download & Install GeForce RTX 3070 Drivers: Latest Version Compatible with Windows 11 and 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-tips-and-tricks-to-refresh-and-optimize-your-motherboard-drivers-for-windows-users/"><u>Easy Tips & Tricks to Refresh and Optimize Your Motherboard Drivers for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-superior-sound-download-logitechs-most-recent-driver-software-for-windows-operating-systems-11-7-and-n/"><u>Ensure Superior Sound: Download Logitech's Most Recent Driver Software for WINDOWS Operating Systems (11, 7 & N)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y100-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y100 Phone without PIN</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-unveiling-the-secrets-of-excellent-interview-and-journey-audio-recordings/"><u>In 2024, Unveiling the Secrets of Excellent Interview and Journey Audio Recordings</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/multithreading-vs-single-threading-battle-how-amds-zen-technology-triumphs-over-intel-lunar-lake/"><u>Multithreading vs Single-Threading Battle: How AMD’s Zen Technology Triumphs Over Intel Lunar Lake</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/successful-fix-for-the-elder-scrolls-online-starting-problems/"><u>Successful Fix for 'The Elder Scrolls Online' Starting Problems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-budget-friendly-recording-software-for-windows-users/"><u>[Updated] 2024 Approved Budget-Friendly Recording Software for Windows Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-experiential-business-the-vr-revolution/"><u>[Updated] Experiential Business The VR Revolution</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-lava-storm-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Lava Storm 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-logitech-brio-webcam-driver-downloads-for-windows-11-8-and-7-with-step-by-step-setup/"><u>Best Logitech Brio Webcam Driver Downloads for Windows 11, 8 & 7 with Step-by-Step Setup</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-canon-mg3000-printer-drivers-latest-version/"><u>Download and Install Canon MG3000 Printer Drivers - Latest Version</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-creative-sound-blaster-driver-updates-for-windows-10/"><u>Download the Latest Creative Sound Blaster Driver Updates for Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-instructions-for-downloading-and-setting-up-toshiba-printer-drivers-on-windows/"><u>Easy Instructions for Downloading and Setting Up Toshiba Printer Drivers on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/freshly-updated-logitech-brio-webcam-drivers-for-windows-10-8-and-7-systems/"><u>Freshly Updated - Logitech Brio Webcam Drivers for Windows 10, 8 & 7 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-effortlessly-update-your-scansnap-s1100-with-the-new-driver-release/"><u>How to Effortlessly Update Your ScanSnap S1100 with the New Driver Release</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-x3daudio17dll-missing-or-not-found-errors-easily/"><u>How to Fix X3DAudio1_7.dll Missing or Not Found Errors Easily</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-k11-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo K11 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-elegant-darkening-premieres-touch/"><u>In 2024, Elegant Darkening Premiere's Touch</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/ios-data-backup-and-restore/"><u>iOS Data Backup and Restore</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-top-5-free-mov-video-rotators/"><u>New Top 5 Free MOV Video Rotators</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-how-to-install-usb-c-drivers-on-windows-10-system/"><u>Quick Guide: How To Install USB-C Drivers On Windows 10 System</u></a></li>
 </ul></div>
 

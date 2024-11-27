@@ -1,7 +1,7 @@
 ---
 title: "Key Developments From CES 2023 Day 3: Announcements by HTC and Google, Featuring Top News Coverage | ZDNET Insights"
-date: 2024-11-14T22:37:50.995Z
-updated: 2024-11-17T19:12:53.043Z
+date: 2024-11-20T19:00:34.527Z
+updated: 2024-11-27T17:15:08.959Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,10 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. M4 Macs
 
 Kerry Wan/ZDNET
@@ -41,10 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,10 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -77,10 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -123,17 +118,22 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-apeaksoft-scrutiny-mastering-the-art-of-screen-capture-review/"><u>[New] In 2024, Apeaksoft Scrutiny – Mastering the Art of Screen Capture Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-watermark-free-stock-image-sources/"><u>2024 Approved Exploring Watermark-Free Stock Image Sources</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-the-fiscal-footprint-of-a-gigantism-icon/"><u>2024 Approved The Fiscal Footprint of a Gigantism Icon</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/diy-creating-captivating-image-based-collage/"><u>DIY Creating Captivating Image-Based Collage</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/do-i-really-need-a-blu-ray-player-in-the-age-of-streaming-services/"><u>Do I Really Need a Blu-Ray Player in the Age of Streaming Services?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-honor-90-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/huge-sale-alert-secure-up-to-1000-off-on-lenovo-business-laptops-before-octobers-amazon-prime-day-zdnet-exclusive/"><u>Huge Sale Alert: Secure Up To $1,000 Off On Lenovo Business Laptops Before October's Amazon Prime Day - ZDNet Exclusive</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-transformative-tales-a-compendium-of-the-best-inspirational-movies/"><u>In 2024, Transformative Tales A Compendium of the Best Inspirational Movies</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-the-mini-marvel-of-tech-unveiling-the-smallest-webcam-ever-a-surprisingly-multifaceted-device/"><u>Inside the Mini Marvel of Tech: Unveiling the 'Smallest Webcam Ever' – A Surprisingly Multifaceted Device!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/samsung-t5-8tb-solid-state-drive-deeply-discounted-save-36-now-on-amazon-insights-from-zdnet/"><u>Samsung T5 8TB Solid State Drive Deeply Discounted: Save 36% Now on Amazon - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-for-fixing-stop-code-stop-0x0000007b-bsod-errors/"><u>Step-by-Step Solutions for Fixing Stop Code STOP 0X0000007B BSOD Errors</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-exclusive-savings-score-a-complimentary-macbook-air-m3-from-best-buy-with-this-clever-hack/"><u>Unlock Exclusive Savings: Score a Complimentary MacBook Air M3 From Best Buy with This Clever Hack</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-thorough-breakdown-the-dji-inspire-1-features/"><u>[New] 2024 Approved Thorough Breakdown The DJI Inspire 1 Features</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-copyright-clearance-for-creative-uploads-on-tiktok/"><u>[New] Copyright Clearance for Creative Uploads on TikTok</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-enhancing-closeup-photography-with-videography-tips-for-2024/"><u>[New] Enhancing Closeup Photography with Videography Tips for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-quick-convert-guide-transforming-gifs-into-telegram-and-whatsapp-emojis/"><u>[New] In 2024, The Quick-Convert Guide Transforming Gifs Into Telegram and WhatsApp Emojis</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-innovative-srt-conversion-tactics-for-pc-and-mac/"><u>[Updated] 2024 Approved Innovative SRT Conversion Tactics for PC and Mac</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-critical-review-of-samsungs-digital-photography-advancements/"><u>[Updated] In 2024, Critical Review of Samsung's Digital Photography Advancements</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-videotwit-grabber-capture-tweets-visuals-for-ios/"><u>[Updated] In 2024, VideoTwit Grabber Capture Tweets' Visuals for iOS</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unveiling-the-tricks-for-flawless-file-imports-on-windows-10/"><u>[Updated] Unveiling the Tricks for Flawless File Imports on Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-powerful-performer-that-outshines-your-macbook-the-ideal-asus-laptop/"><u>Discover the Powerful Performer That Outshines Your MacBook - The Ideal Asus Laptop</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huge-discount-alert-samsungs-4tb-portable-ssd-now-available-at-amazon-for-nearly-half-price-technews/"><u>Huge Discount Alert: Samsung's 4TB Portable SSD Now Available at Amazon for Nearly Half Price - TechNews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lg-gram-pro-vs-macbook-air-showdown-top-three-surprises-from-a-tech-reviews-comparison-on-zdnet/"><u>LG Gram Pro Vs. MacBook Air Showdown: Top Three Surprises From a Tech Reviews Comparison on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/prime-days-finest-discover-the-best-laptop-deals-of-the-season-with-leading-brands-like-hp-and-apple/"><u>Prime Day's Finest: Discover the Best Laptop Deals of the Season with Leading Brands Like HP and Apple</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/redefining-efficiency-with-lenovos-new-dual-display-laptop-a-game-changer-in-computing-expert-review-by-zdnet/"><u>Redefining Efficiency with Lenovo's New Dual-Display Laptop - A Game Changer in Computing | Expert Review by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-unpacked-2023-coverage-discover-the-new-galaxy-s23-and-galaxy-book-with-zdnets-expert-insights/"><u>Samsung Unpacked 2023 Coverage: Discover the New Galaxy S23 & Galaxy Book with ZDNet's Expert Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/to-trust-or-not-to-trust-in-local-llm-heres-the-scoop/"><u>To Trust or Not to Trust in Local LLM? Here's the Scoop</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-test-picks-the-ultimate-all-rounder-laptop-wowing-users-and-boasting-strong-hardware/"><u>Top Test Picks: The Ultimate All-Rounder Laptop Wowing Users and Boasting Strong Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transform-your-laptop-into-a-multi-monitor-powerhouse-with-our-innovative-4k-display-adapter-regardless-of-original-hardware-specifications-cnet-gadgets/"><u>Transform Your Laptop Into a Multi-Monitor Powerhouse with Our Innovative 4K Display Adapter, Regardless of Original Hardware Specifications | CNET Gadgets</u></a></li>
 </ul></div>
 

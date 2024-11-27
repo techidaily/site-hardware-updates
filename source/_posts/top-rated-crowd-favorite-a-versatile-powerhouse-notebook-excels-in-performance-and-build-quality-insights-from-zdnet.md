@@ -1,7 +1,7 @@
 ---
 title: "Top Rated Crowd Favorite: A Versatile Powerhouse Notebook Excels in Performance and Build Quality - Insights From ZDNet"
-date: 2024-11-13T20:46:42.732Z
-updated: 2024-11-17T20:32:47.936Z
+date: 2024-11-24T20:20:07.117Z
+updated: 2024-11-27T19:36:57.510Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -71,10 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -113,19 +114,16 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-incorporating-yt-music-streams-into-videos/"><u>[New] 2024 Approved Incorporating YT Music Streams Into Videos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-advanced-techniques-sending-subtitles-to-instagram-linkedin/"><u>[New] In 2024, Advanced Techniques Sending Subtitles to Instagram, LinkedIn</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-understanding-livestream-technology-explained-for-2024/"><u>[New] Understanding Livestream Technology Explained for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-top-free-sources-discovering-copyright-free-soundtracks/"><u>[Updated] The Top Free Sources Discovering Copyright-Free Soundtracks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-bargain-finds-on-amazons-oct-2024-prime-day-bonanza-grab-your-discounted-treasures-before-theyre-gone/"><u>Exclusive Bargain Finds on Amazon's Oct 2024 Prime Day Bonanza: Grab Your Discounted Treasures Before They're Gone!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-the-best-of-cyber-monday-savings-at-costco-ultimate-guide-to-deals-on-tvs-computers-and-tablets-insights-by-zdnet/"><u>Experience the Best of Cyber Monday Savings at Costco: Ultimate Guide to Deals on TVs, Computers & Tablets | Insights by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-the-future-with-lenovos-premium-thinkpad-x13s-unveiling-arm-powered-ultraportable-tech-enhanced-by-5g-and-extended-battery-life-insights/"><u>Experience the Future with Lenovo's Premium ThinkPad X13s - Unveiling Arm Powered Ultraportable Tech Enhanced by 5G and Extended Battery Life Insights</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-honor-x50-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-y78-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo Y78 5G Devices</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-saving-your-itunes-media-three-simple-steps/"><u>In 2024, Saving Your iTunes Media Three Simple Steps</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-selecting-snug-winter-scenes-as-video-sets/"><u>In 2024, Selecting Snug Winter Scenes as Video Sets</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mindfullinguist-cognitive-development-through-virtual-realms/"><u>MindfulLinguist: Cognitive Development Through Virtual Realms</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/prime-day-2024s-hottest-bargains-at-best-buy-exclusive-offers-remain-open-technews/"><u>Prime Day 2024'S Hottest Bargains at Best Buy - Exclusive Offers Remain Open! | TechNews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-mac-computers-expert-picks/"><u>Top Mac Computers : Expert Picks</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-launchpad-to-success-the-youtube-entrepreneurs-guide-for-2024/"><u>[Updated] Launchpad to Success The YouTube Entrepreneur's Guide for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/beyond-getsac-a-deep-dive-into-the-worlds-most-resilient-and-personalizable-tech-companion-on-testing/"><u>Beyond Getsac: A Deep Dive Into the World’s Most Resilient and Personalizable Tech Companion on Testing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/choosing-the-right-device-ipad-pro-vs-macbook-air-a-comprehensive-review-techadvisor/"><u>Choosing the Right Device: IPad Pro Vs. MacBook Air - A Comprehensive Review | TechAdvisor</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-behringer-usb-interface-driver-installation-guide-and-download/"><u>Free Behringer USB Interface Driver - Installation Guide and Download</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/gratuito-converter-mp4-para-avi-online-movavi/"><u>Gratuito Converter MP4 Para AVI Online - Movavi</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-comprehensive-manual-mastering-mobizen-recorders/"><u>In 2024, Comprehensive Manual Mastering Mobizen Recorders</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/last-opportunity-unmissable-deals-on-video-games-this-october-with-discounts-over-1k-gamesaleprospector/"><u>Last Opportunity: Unmissable Deals on Video Games This October with Discounts Over $1K | GameSaleProspector</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/misery-loves-company/"><u>Misery Loves Company</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/penning-perfectly-captivating-podcast-descriptions/"><u>Penning Perfectly Captivating Podcast Descriptions</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-for-troubleshooting-error-0x8024401c-during-windows-updates-on-versions-1011/"><u>Step-by-Step Guide for Troubleshooting Error 0X8024401C During Windows Updates on Versions 10/11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streamlining-entertainment-techniques-for-saving-and-viewing-netflix-on-a-laptop/"><u>Streamlining Entertainment: Techniques for Saving and Viewing Netflix on a Laptop</u></a></li>
 </ul></div>
 

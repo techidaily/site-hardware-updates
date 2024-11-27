@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Black Friday Tech Specials: Best Laptops on Sale in November 2024 | Gizmodo"
-date: 2024-11-10T19:09:46.992Z
-updated: 2024-11-17T19:43:24.060Z
+date: 2024-11-21T16:22:06.064Z
+updated: 2024-11-27T19:24:35.349Z
 tags:
   - laptops
 categories:
@@ -23,6 +23,10 @@ From Apple's industry-leading [MacBook Pro M3](https://buy.geni.us/Proxy.ashx?TS
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day laptop deals
 
@@ -89,6 +93,10 @@ The Zenbook Duo challenged what a laptop could look like with its dual-screen fo
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CRD1QRF4%2Fref%3Dasc%5Fdf%5FB0CRD1QRF41728212400000%3Fcreative%3D395261%26creativeASIN%3DB0CRD1QRF4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb7cd9a51-2f4f-49e6-bc12-b3183cd4f8ed%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More October Prime Day 2024 laptop deals
 
 Kyle Kucharski/ZDNET
@@ -97,35 +105,22 @@ Kyle Kucharski/ZDNET
 * [Lenovo IdeaPad 1](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-IdeaPad-Ryzen5-5500U-1920x1080-Storage%2Fdp%2FB0CJB5N9BQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb7cd9a51-2f4f-49e6-bc12-b3183cd4f8ed%7Cdtp&dtb=1) for $389 (save $61): Lenovo's IdeaPads are designed to be accessible, well-rounded laptops for a diverse range of users, and the IdeaPad 1 is a solid, affordable option. The 8GB of RAM and 512 GB of memory on board are an accessible configuration for a machine that's well-equipped for the basics at a price that you can't argue with.
 * [Asus Chromebook CM14 Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Chromebook-Anti-Glare-1366x768-CM1402CM2A-DS44%2Fdp%2FB0CJS1399P%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb7cd9a51-2f4f-49e6-bc12-b3183cd4f8ed%7Cdtp&dtb=1) for $168 ($110 off) - Asus' CM14 is a sleek and lightweight Chromebook that comes loaded with the streamlined ChromeOS to get the basics done on an efficient machine. And for this price, you can't ask for a more affordable device.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### When is Amazon's October Prime Day 2024?
 
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals both before and after those days. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Are laptops really cheaper on Prime Day?
 
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
@@ -141,10 +136,7 @@ When compiling the list of the best deals, we considered the following:
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
@@ -212,24 +204,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-clear-cut-content-how-to-minimize-unwanted-elements-in-video/"><u>[New] 2024 Approved Clear Cut Content How to Minimize Unwanted Elements in Video</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-creative-commons-legalities-explained-simply/"><u>[New] 2024 Approved Creative Commons Legalities Explained Simply</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-integrating-instagram-effects-into-pre-existing-content/"><u>[Updated] In 2024, Integrating Instagram Effects Into Pre-Existing Content</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amazing-deal-alert-grab-a-15-inch-asus-laptop-with-essential-ports-at-walmart-for-only-250-spotted/"><u>Amazing Deal Alert: Grab a 15-Inch ASUS Laptop with Essential Ports at Walmart for Only $250 - Spotted</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/breaking-news-apple-slashes-prices-on-latest-macbook-air-with-m2-chip-available-now-before-the-upcoming-prime-day-extravaganza-shop-smart-with-zdnet-insight140/"><u>Breaking News: Apple Slashes Prices on Latest MacBook Air with M2 Chip, Available Now Before the Upcoming Prime Day Extravaganza - Shop Smart With ZDNET Insights!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-se-2022-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone SE (2022) activation lock with a professional tool</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-elite-list-of-2024s-top-notch-15-inch-computers-comprehensive-analysis-and-rankings-from-professionals-zdnet/"><u>Discover the Elite List of 2024'S Top Notch 15-Inch Computers - Comprehensive Analysis and Rankings From Professionals | ZDNET</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-ways-to-retrieve-your-funds-after-unwanted-steam-purchase/"><u>Effective Ways to Retrieve Your Funds After Unwanted Steam Purchase</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ergonomic-revolution-how-a-week-of-using-a-split-keyboard-transformed-my-tech-habits-zdnet-insights/"><u>Ergonomic Revolution: How a Week of Using a Split Keyboard Transformed My Tech Habits | ZDNET Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-cyber-monday-alert-score-a-steal-with-microsofts-surface-pro-8-now-just-600-less-black-friday-blowout-reviewed/"><u>Exclusive Cyber Monday Alert: Score a Steal with Microsoft's Surface Pro 8 Now Just $600 Less – Black Friday Blowout Reviewed</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-a-beginners-approach-to-nvidia-screen-capture/"><u>In 2024, A Beginner's Approach to NVIDIA Screen Capture</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-infinix-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Infinix</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/innovative-portability-meets-artistry-the-ultimate-guide-to-stylish-foldable-laptop-protectors/"><u>Innovative Portability Meets Artistry: The Ultimate Guide to Stylish, Foldable Laptop Protectors</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-the-ultimate-vr-experience-with-metas-newly-discounted-512gb-quest-pro-deal-top-selection-on-todays-market-cnet-gadgets/"><u>Snag the Ultimate VR Experience with Meta's Newly Discounted 512GB Quest Pro Deal – Top Selection on Today's Market | CNET Gadgets</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-comprehensive-guide-to-palworld/"><u>The Comprehensive Guide to PalWorld</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-picks-for-ultimate-gaming-performance-an-in-depth-comparison-of-razor-acer-and-msi-laptops/"><u>Top Picks for Ultimate Gaming Performance : An In-Depth Comparison of Razor, Acer & MSI Laptops</u></a></li>
-<li><a href="https://win-blog.techidaily.com/trasforma-i-tuoi-file-vob-in-formato-m2ts-senza-costi-libero-utilizzo-di-movavi-video-converter/"><u>Trasforma I Tuoi File VOB in Formato M2TS Senza Costi - Libero! - Utilizzo Di Movavi Video Converter</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-at-toms-technology-review/"><u>Unveiling the Latest in Computing at Tom's Technology Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/why-this-asus-notebook-surpasses-the-macbook-in-key-areas-a-detailed-review-by-zdnet/"><u>Why This Asus Notebook Surpasses the MacBook in Key Areas: A Detailed Review by ZDNet</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-instagram-pros-tips-for-bulk-upload-of-images-and-video/"><u>[New] 2024 Approved The Instagram Pro’s Tips for Bulk Upload of Images and Video</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sneak-peek-into-facebooks-off-activity-tracking-is-it-safe/"><u>[New] Sneak Peek Into Facebook's Off-Activity Tracking – Is It Safe?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-staying-relevant-essential-instagram-hashtags-for-success-for-2024/"><u>[New] Staying Relevant Essential Instagram Hashtags for Success for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-enhancing-video-reach-tactics-against-bot-visitors/"><u>[Updated] Enhancing Video Reach Tactics Against Bot Visitors</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-how-to-rotate-youtube-videos-by-any-angle/"><u>[Updated] How to Rotate YouTube Videos by Any Angle</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-lenovo-laptop-options-tailored-for-remote-and-office-use-unveiling-the-1000-deal/"><u>Affordable Lenovo Laptop Options Tailored for Remote & Office Use: Unveiling the $1,000 Deal</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/budget-friendly-laptop-showdown-how-this-windows-machine-outshines-the-macbook-air-special-deals-revealed/"><u>Budget-Friendly Laptop Showdown: How This Windows Machine Outshines the MacBook Air | Special Deals Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-iphone-productivity-a-guide-to-using-chatgpt-and-siri-together/"><u>Enhancing iPhone Productivity: A Guide to Using ChatGPT and Siri Together</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a15-4g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy A15 4G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-unveils-the-ultimate-mobile-devices-new-chromebooks-tailored-for-on-the-go-professionals-and-learners-exclusive-insights-on-zdnet/"><u>HP Unveils the Ultimate Mobile Devices: New Chromebooks Tailored for On-the-Go Professionals & Learners - Exclusive Insights on ZDNet</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-multiple-pdf-file-conversions-with-innovative-strategies-at-flipbuildercom/"><u>Mastering Multiple PDF File Conversions with Innovative Strategies at FlipBuilder.com</u></a></li>
+<li><a href="https://facebook.techidaily.com/revised-recommendations-social-medias-age-appropriate-usage-guidelines/"><u>Revised Recommendations: Social Media's Age-Appropriate Usage Guidelines</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/scooping-up-the-best-vr-bargain-metas-new-deal-on-512gb-quest-3-makes-waves-this-october-prime-day/"><u>Scooping Up the Best VR Bargain? Meta's New Deal on 512GB Quest 3 Makes Waves This October Prime Day</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranked-non-thinkpad-non-macbook-productivity-laptop-deal-you-dont-want-to-miss-insider-review/"><u>Top-Ranked Non-ThinkPad, Non-MacBook Productivity Laptop Deal You Don't Want to Miss - Insider Review!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-cybersecurity-protectors-the-ultimate-list-as-featured-on-zdnet/"><u>Top-Ranking Cybersecurity Protectors - The Ultimate List as Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-the-savings-buy-the-high-performance-asus-vivobook-pro-for-300-less-at-amazon-insights-and-analysis/"><u>Unlock the Savings: Buy the High-Performance Asus VivoBook Pro for $300 Less at Amazon - Insights & Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-apple-m2-chip-comprehensive-guide-and-insights-on-its-performance/"><u>Unveiling the Apple M2 Chip: Comprehensive Guide and Insights on Its Performance</u></a></li>
 </ul></div>
 

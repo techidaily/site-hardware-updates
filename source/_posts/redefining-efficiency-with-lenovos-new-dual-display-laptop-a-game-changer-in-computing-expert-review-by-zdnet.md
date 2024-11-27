@@ -1,7 +1,7 @@
 ---
 title: Redefining Efficiency with Lenovo's New Dual-Display Laptop - A Game Changer in Computing | Expert Review by ZDNet
-date: 2024-11-15T16:17:52.367Z
-updated: 2024-11-17T21:53:46.011Z
+date: 2024-11-22T19:17:00.846Z
+updated: 2024-11-27T18:16:11.567Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,7 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -62,10 +59,7 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
@@ -109,10 +103,7 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
@@ -136,16 +127,7 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## One thing to keep in mind
@@ -157,6 +139,10 @@ Max Buondonno/ZDNET
 When I'm working on my MacBook or -- quite frankly -- any other laptop in my arsenal, all I have to do is close the lid and load it into my backpack when I'm finished. With the Yoga Book 9i, I have to close the laptop > collapse the kickstand > place the keyboard inside the collapsed kickstand > stack the keyboard/kickstand combo, mouse, and stylus on top of the laptop > shove it all in my bag and pray I can find it later when it's time to go back to work.
 
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -196,19 +182,16 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-facebook-profile-transformation-top-11-online-image-makers/"><u>[New] 2024 Approved Facebook Profile Transformation Top 11 Online Image Makers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exquisite-airplay-scripts-for-listeners/"><u>[New] Exquisite Airplay Scripts for Listeners</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-no-fee-audio-understanding-tool/"><u>[New] No-Fee Audio Understanding Tool</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1k-discounted-lenovo-device-ideal-for-seamless-hybrid-working-exclusive-insight-from-zdnet/"><u>$1K Discounted Lenovo Device Ideal for Seamless Hybrid Working - Exclusive Insight From ZDNet!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-from-puzzles-to-peril-the-gaming-genres-progression/"><u>2024 Approved From Puzzles to Peril The Gaming Genre's Progression</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-action-unleashed-the-latest-in-filmmaking-from-polaroids-xs/"><u>In 2024, Action Unleashed The Latest in Filmmaking From Polaroid's XS</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-the-art-of-optimizing-windows-media-players-audio-operations-from-cds/"><u>In 2024, The Art of Optimizing Windows Media Player's Audio Operations From Cds</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/octobers-top-vr-offer-meta-unveils-incredible-sale-on-their-latest-512gb-quest-pro-for-prime-day-shoppers-detailed-review/"><u>October's Top VR Offer: Meta Unveils Incredible Sale on Their Latest 512GB Quest Pro for Prime Day Shoppers - Detailed Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/registry-tweaks-for-windows-setup-management/"><u>Registry Tweaks for Windows Setup Management</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-october-vr-bargain-alert-get-metas-quest-3-with-512gb-storage-at-unbeatable-prices/"><u>Top October VR Bargain Alert! Get Meta's Quest 3 with 512GB Storage at Unbeatable Prices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/transform-your-productivity-with-lenovos-innovative-ai-enhanced-thinkpads-what-business-users-need-to-know-exclusive-report/"><u>Transform Your Productivity with Lenovo's Innovative AI-Enhanced ThinkPads – What Business Users Need to Know Exclusive Report</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ultimate-guide-top-ranked-tools-for-flawless-photo-repair-and-restoration/"><u>Ultimate Guide: Top-Ranked Tools for Flawless Photo Repair and Restoration</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-discover-the-most-attractive-laptop-below-1k-detailed-comparison/"><u>Unbeatable Deal! Discover the Most Attractive Laptop Below $1K - Detailed Comparison</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/why-this-lenovo-laptop-is-a-game-changer-for-serious-users-an-in-depth-review/"><u>Why This Lenovo Laptop Is a Game-Changer for Serious Users: An In-Depth Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tech-driven-pleasure-exploring-vr-in-media/"><u>2024 Approved Tech-Driven Pleasure Exploring VR in Media</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96237054-9781785357770-a-walk-on-the-wild-side/"><u>A Walk On The Wild Side | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/can-msis-steam-deck-contend-with-giants-for-handheld-gaming-dominance-insights-on-tech-from-zdnet/"><u>Can MSI's Steam Deck Contend with Giants for Handheld Gaming Dominance? | Insights on Tech From ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-giants-googles-palm-2-and-openais-gpt-4-understanding-key-distinctions/"><u>Comparing Giants: Google's PaLM 2 and OpenAI's GPT-4 - Understanding Key Distinctions</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/discreet-snaps-the-secret-of-silent-photo-taking-on-snapchat/"><u>Discreet Snaps The Secret of Silent Photo-Taking on Snapchat</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-high-definition-with-our-budget-friendly-13x-docking-station-including-two-4k-hdmi-inputs-at-just-49-read-more/"><u>Experience High Definition with Our Budget-Friendly 13X Docking Station, Including Two 4K HDMI Inputs at Just $49 | Read More</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-building-a-powerful-twitter-marketing-strategy/"><u>In 2024, Building a Powerful Twitter Marketing Strategy</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/microsoft-unveils-new-copilotplus-pc-challenge-the-ultimate-answer-to-apples-powerful-m3-macbooks-insights-from-zdnet/"><u>Microsoft Unveils New Copilot+ PC Challenge: The Ultimate Answer to Apple’s Powerful M3 MacBooks - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/prime-day-countdown-unlock-top-savings-at-best-buy-featured/"><u>Prime Day Countdown: Unlock Top Savings at Best Buy , Featured</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/streamlining-video-calls-leveraging-zoom-on-windows-10-pcs/"><u>Streamlining Video Calls Leveraging Zoom on Windows 10 PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-the-mysteries-of-lenovos-new-laptop-a-hidden-trackpoint-feature-and-other-secret-functions-revealed/"><u>Unlocking the Mysteries of Lenovo's New Laptop: A Hidden Trackpoint Feature and Other Secret Functions Revealed</u></a></li>
 </ul></div>
 

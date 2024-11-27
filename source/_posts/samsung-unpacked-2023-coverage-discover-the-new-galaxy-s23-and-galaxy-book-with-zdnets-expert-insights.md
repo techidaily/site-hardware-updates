@@ -1,7 +1,7 @@
 ---
 title: "Samsung Unpacked 2023 Coverage: Discover the New Galaxy S23 & Galaxy Book with ZDNet's Expert Insights"
-date: 2024-11-11T23:24:48.803Z
-updated: 2024-11-17T16:42:13.692Z
+date: 2024-11-22T19:52:33.073Z
+updated: 2024-11-27T18:07:56.940Z
 tags:
   - laptops
 categories:
@@ -32,6 +32,10 @@ Let's take a look at the milestones in 2022 that significantly upgraded the Chro
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. A double take on ChromeOS's biggest myths
 
 Google
@@ -43,10 +47,7 @@ The first knock at Chromebooks from opponents of the product category usually go
 This famously demanding job is now available on Chromebooks via [an update to the native Google Photos app](https://www.zdnet.com/article/google-photos-new-video-editing-tools-will-come-to-chromebooks-first/). It supports everything from editing your existing videos to creating entirely new video files by splicing together your uploaded videos, photos, and audio. It may not be able to match something like DaVinci Resolve, but it's more than the vast majority of users will ever need.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. An ecosystem that's just as fruitful
@@ -60,10 +61,7 @@ Ask any Apple fan why they like the company's products and there's a fair chance
 In 2022, it did. Now, Android users and Google peripheral owners can [enjoy just about all of the device interactivity](https://www.zdnet.com/article/new-chromeos-103-update-will-satisfy-chromebook-android-users-apple-envy/) that their Apple counterparts can, as well as a few tricks even Cupertino hasn't managed just yet. From [full RCS message support across devices](https://www.zdnet.com/home-and-office/work-life/how-to-connect-your-android-to-your-chromebook-and-why-you-should/) that can connect you with your [green bubble and blue bubble friends alike](https://www.zdnet.com/article/the-painful-shame-of-owning-an-android-phone/), to the incredibly useful [rapid device switching capabilities of the Pixel Buds Pro](https://www.zdnet.com/article/google-pixel-buds-pro-review/), Google's ecosystem isn't just copying Apple's it's surpassing it in some ways.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Making a case for cloud-based gaming
@@ -79,10 +77,7 @@ For these gamers, Google partnered with Lenovo, Acer, and Asus to create the [fi
 Suddenly, for around $500-$600, you could have an impressive on-the-go gaming experience with a device that could still double as a homework laptop or streaming media device for binging from the couch. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The right way to do sustainability
@@ -97,13 +92,6 @@ This year, Google came along with a big shot in the arm to the first of the Thre
 
 But, what if we could integrate sustainability into the product lifecycle from the start? Rather than rescuing older devices, we could create long-lived, modular laptops that, much like desktop PCs, could be upgraded instead of discarded. It's a notion that's been tried before, but the concept may have reached its pinnacle this year with the [Framework Chromebook, a fully modular Chromebook](https://www.zdnet.com/article/framework-chromebook-review-the-most-repairable-future-proof-laptop-yet/) that lets you swap out just about every part with no more difficulty than you'd have snapping a Lego model together. The modular design, combined with ChromeOS to run on just about anything, makes for a machine that's very hard to justify ever throwing away.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Nailing both ends of the market
 
 June Wan/ZDNET
@@ -115,6 +103,10 @@ Want a solid, portable, cheap model that can still double as both a homework/pro
 Even parents on a super strict budget that need a nigh-indestructible Chromebook for their young students have solid options like the [Dell Chromebook 3100](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Chromebook-3100-11-6-Bluetooth%2Fdp%2FB08SHN3TZP%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cecb0e030-2d83-44b5-9d2f-dfdc4ce6e988%7Cdtp&dtb=1) for less than $100.
 
 [ZDNET Recommends: HP Dragonfly Elite Chromebook View now at HP](https://www.tkqlhce.com/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-elite-dragonfly-135-inch-chromebook%3F&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -152,14 +144,16 @@ They've just gotten that good at doing almost everything at a high enough level 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-does-youtube-pay-you-in-2024/"><u>[New] How Does YouTube Pay You, In 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-essential-guide-to-screen-recording-facetime-meetings-for-2024/"><u>[Updated] Essential Guide to Screen-Recording FaceTime Meetings for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-highlight-trail-from-skatescape-2022/"><u>2024 Approved The Ultimate Highlight Trail From Skatescape 2022</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/chromebook-troubles-in-classrooms-recurring-bedbug-invasions-highlighted-real-life-tech-hazards/"><u>Chromebook Troubles in Classrooms: Recurring Bedbug Invasions Highlighted | Real-Life Tech Hazards</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-list-2022s-must-have-cyber-monday-bargains-from-zdnet-score-big-savings-today/"><u>Exclusive List: 2022'S Must-Have Cyber Monday Bargains From ZDNET - Score Big Savings Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-cut-price-deal-apple-m3-macbook-pro-at-a-200-discount-for-amazons-spring-sale-event-tech-news/"><u>Get the Cut-Price Deal! Apple M3 MacBook Pro at a $200 Discount for Amazon’s Spring Sale Event | Tech News</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-xiaomi-redmi-a2plus-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Xiaomi Redmi A2+ using Video Repair Utility?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mega-discount-alert-secure-hps-omen-40l-desktop-for-just-550-less-shop-now-at-zdnet/"><u>Mega Discount Alert! Secure HP's Omen 40L Desktop for Just $550 Less - Shop Now at ZDNet</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-boosting-zoom-performance-on-chrome-devices/"><u>[New] 2024 Approved Boosting Zoom Performance on Chrome Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-immersive-gameplay-capture-roblox-and-macos-synergy/"><u>[New] 2024 Approved Immersive Gameplay Capture Roblox & macOS Synergy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-you-need-downloading-detailed-owners-manuals-for-every-iphones-series/"><u>All You Need: Downloading Detailed Owner's Manuals for Every iPhones Series</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210904187-9781088200162-allumez-la-puissance-brute-du-feu-en-vous-manuel-de-bapteme-du-saint-esprit/"><u>Allumez la puissance brute du feu en vous - Manuel de baptême du Saint-Esprit | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-october-prime-day-offer-meta-unveils-incredible-512gb-quest-3-sale-top-picks-for-vr-enthusiasts-on-zdnet/"><u>Best October Prime Day Offer: Meta Unveils Incredible 512GB Quest 3 Sale - Top Picks for VR Enthusiasts on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-ideal-macbook-usb-c-charger-for-less-than-70-find-the-best-deals-now-on-amazon-featured/"><u>Get Your Ideal MacBook USB-C Charger for Less than $70: Find the Best Deals Now on Amazon Featured</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-create-engaging-videos-with-these-10-free-whiteboard-animation-tools/"><u>In 2024, Create Engaging Videos with These 10 Free Whiteboard Animation Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/october-2024-prime-day-final-countdown-exclusive-game-deals-galore-save-hundreds-now-zdnet-insights/"><u>October 2024 Prime Day Final Countdown: Exclusive Game Deals Galore! Save Hundreds Now | ZDNET Insights.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/save-200-on-apples-m3-macbook-pro-exclusive-deals-at-amazons-spring-spectacular-event-insights-from-zdnet/"><u>Save $200 on Apple’s M3 MacBook Pro: Exclusive Deals at Amazon’s Spring Spectacular Event - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-configuring-your-new-apple-watch-tips-and-tricks/"><u>Ultimate Guide to Configuring Your New Apple Watch - Tips & Tricks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-price-cuts-pre-black-friday-discover-the-best-buy-deals-exclusive-insights-from-zdnet/"><u>Ultimate Price Cuts Pre-Black Friday: Discover the Best Buy Deals | Exclusive Insights From ZDNet</u></a></li>
 </ul></div>
 

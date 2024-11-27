@@ -1,7 +1,7 @@
 ---
 title: "Discover Enormous Savings at Lenovo's Bi-Yearly Blowout: Up To $1,500 Off ThoughtBook Models - ZDNet"
-date: 2024-11-12T16:07:18.967Z
-updated: 2024-11-17T19:04:30.949Z
+date: 2024-11-26T19:09:57.574Z
+updated: 2024-11-27T16:35:38.293Z
 tags:
   - laptops
 categories:
@@ -30,6 +30,10 @@ For starters, it comes equipped with a Full HD touchscreen, allowing users to en
 Under the hood, the IdeaPad 3i houses a 13th-Gen Intel Core i7-1255U processor, an Iris Xe graphics card, and 16GB of memory. This setup is great for light school and office work, from managing spreadsheets to building presentations to photo editing. Its battery is rated to last up to six hours on a single charge, although, with a few adjustments to the settings, you might be able to squeeze out a few extra hours.
 
 Other notable features include a full-size keyboard for comfortable typing and a pair of 1.5W Dolby Audio speakers, which go well with the 720p camera for video calls. If you're looking for an affordable, well-performing laptop, the once-$700 [Lenovo IdeaPad 3i](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLenovo-IdeaPad-3i-15-Intel-Core-i7-1255U-16GB-RAM-512-GB-SSD-Arctic-Grey-Windows-11-Home-82RK017QUS%2F5527026637&subId1=zd-__COM_CLICK_ID__-dtp) is one of the best on the market. Just act fast once the sale does go live -- this model doesn't appear to be available for purchase on Lenovo's website, so we don't expect the deal to last. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -65,25 +69,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instagrams-time-constraints-for-video-content-explored/"><u>[New] 2024 Approved Instagram's Time Constraints for Video Content Explored</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-mastering-the-art-of-video-discovery-on-facebook/"><u>[New] Mastering the Art of Video Discovery on Facebook</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-guide-to-cost-free-camera-screen-capture-tools-for-2024/"><u>[New] The Ultimate Guide to Cost-Free Camera Screen Capture Tools for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-mastering-silent-sounds-garagebands-volume-control-magic-for-2024/"><u>[Updated] Mastering Silent Sounds Garageband's Volume Control Magic for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-beats-to-broadcast-a-compreesive-guide-to-editing-your-podcast/"><u>2024 Approved From Beats to Broadcast A Compreesive Guide to Editing Your Podcast</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/astonishing-combination-top-tier-oled-display-and-webcam-on-acer-laptop-the-latest-test-results-revealed/"><u>Astonishing Combination: Top-Tier OLED Display & Webcam on Acer Laptop - The Latest Test Results Revealed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-lenovos-innovative-tech-seamlessly-transfers-files-from-iphones-with-latest-laptop-models-why-you-shouldnt-miss-out/"><u>Discover Lenovo's Innovative Tech: Seamlessly Transfers Files From iPhones with Latest Laptop Models - Why You Shouldn't Miss Out!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discovering-the-hidden-gems-how-dell-delivers-innovative-functionality-on-a-budget-as-reviewed/"><u>Discovering the Hidden Gems: How Dell Delivers Innovative Functionality on a Budget, as Reviewed</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-tecno-spark-go-2023-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Tecno Spark Go (2023) in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elite-list-best-apps-for-live-basketball-and-international-football-games/"><u>Elite List Best Apps for Live Basketball and International Football Games</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-connectivity-problems-using-tozo-t6-with-windows-lete-the-device-is-up-to-date-and-make-sure-your-computers-drivers-are-also-current-as-outdated-driv633/"><u>Fixing Connectivity Problems: Using Tozo T6 with Windows Lete the Device Is up to Date, and Make Sure Your Computer's Drivers Are Also Current as Outdated Drivers Can Cause Compatibility Issues</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-black-friday-bargain-snag-the-hp-envy-x360-with-a-stunning-40-discount-just-499/"><u>Unbeatable Black Friday Bargain! Snag the HP Envy X360 with a Stunning 40% Discount - Just $499</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-elevate-your-videography-on-tiktok-2-ways/"><u>[New] In 2024, Elevate Your Videography on TikTok (2 Ways)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-find-your-favorite-screen-an-in-depth-review-of-top-6-hdmi-tvs/"><u>[Updated] In 2024, Find Your Favorite Screen An In-Depth Review of Top 6 HDMI TVs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-elevate-your-video-storytelling-with-effective-markers/"><u>2024 Approved Elevate Your Video Storytelling with Effective Markers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-streamlined-steps-to-document-chat-calls-on-whatsapp/"><u>2024 Approved Streamlined Steps to Document Chat Calls on WhatsApp</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726221025811-ogvwebm-movavi/"><u>網路上無限制地從OGV改變成WEBM - 使用Movavi格式顯著提高視頻品質</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/apple-in-peril-how-microsofts-surface-pro-and-laptop-lead-as-top-ai-enhanced-computers-tech-insights/"><u>Apple in Peril: How Microsoft's Surface Pro & Laptop Lead as Top AI-Enhanced Computers | Tech Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-leading-mac-applications-in-2ebeef765a4d98fdeca3bcec0f02c1dffdb7ee7291abec6acbe128bf9ed8fbb/"><u>Discover the Leading Mac Applications in 2Ebeef765a4d98fdeca3bcec0f02c1dffdb7ee7291abec6acbe128bf9ed8fbb;</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-highly-flexible-and-compact-a-review-on-one-of-the-least-expansive-chromebooks-ever-test/"><u>Exploring the Highly Flexible and Compact: A Review on One of the Least Expansive Chromebooks Ever Test</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-rectifying-missing-mfc42dll-error-messages-on-your-pc/"><u>Guide to Rectifying Missing mfc42.dll Error Messages on Your PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/reestablishing-connection-with-dormant-obs-camera-for-2024/"><u>Reestablishing Connection with Dormant OBS Camera for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-big-with-apples-best-magsafe-charging-station-save-60-today-only-shop-smart-and-secure-yours/"><u>Score Big with Apple's Best MagSafe Charging Station! Save 60% Today Only – Shop Smart and Secure Yours</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/timeline-for-apples-enhanced-m4-silicon-revolutionizing-artificial-intelligence-across-all-mac-models/"><u>Timeline for Apple's Enhanced M4 Silicon - Revolutionizing Artificial Intelligence Across All Mac Models</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-ultrabook-with-exceptional-display-a-comprehensive-review-on-zdnet/"><u>Top-Rated Ultrabook with Exceptional Display: A Comprehensive Review on ZDNet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/unlock-the-power-of-fb-conversation-capture-tools/"><u>Unlock the Power of FB Conversation Capture Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-the-asus-notebook-outshines-apples-macbook-a-comprehensive-review-for-tech-savvy-users/"><u>Why the Asus Notebook Outshines Apple's MacBook: A Comprehensive Review for Tech Savvy Users</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

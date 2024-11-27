@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Potential of M3 Apple Silicon Beyond Latest MacBooks & iMacs - Explore How
-date: 2024-11-16T18:37:54.903Z
-updated: 2024-11-17T18:06:45.717Z
+date: 2024-11-20T16:57:20.014Z
+updated: 2024-11-27T16:17:40.213Z
 tags:
   - laptops
 categories:
@@ -26,6 +26,10 @@ While the chips promise a notable leap in power and efficiency, the spotlight no
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fast, but an iterative advancement
 
 The new chips represent a commendable iterative achievement for Apple, particularly in enhancing silicon capabilities through increasing transistor count and lowering power requirements. But let's face it, the M2 and even the M1 were impressive, and most consumers and business users are still unable to utilize all of the performance of those chips. 
@@ -39,10 +43,7 @@ Jason Hiner/ZDNET
 There's no actual new functionality in these chips; it's like comparing a Lamborghini (or a Tesla Model S "Plaid") from a few years ago with 600HP to one with 1000HP. Impressive performance boost, yes, but what's the actual impact for the average end-user? We can still only legally drive 65 mph/105 kph on most crowded highways in North America -- we need the application autobahn to fully take advantage of them.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPU optimization and AI improvements, but where are the apps?
@@ -54,10 +55,7 @@ The enhancements in GPU optimization and improved and increased AI cores in the 
 In the long term, these improvements will also likely trickle down into the [Vision Pro headset](https://www.zdnet.com/article/i-tried-apple-vision-pro-and-its-far-ahead-of-where-i-expected/) and, potentially, [iPad Pro](https://www.zdnet.com/article/ipad-pro-2022-review/). However, where do the apps take advantage of these on the consumer side? Yes, some Pro apps and some 3D games can today, but that's a relatively small part of Apple's target market today. And let's face it, the PC is still the gaming king, for now.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Generative AI question
@@ -75,10 +73,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Don't discount the low-end Macbook as an industry disruptor
@@ -92,10 +87,7 @@ I know of many professionals who aren't content creation types who spend a lot o
 We should also consider what impact the lower-end M3 systems are going to have on an already weakened Wintel market. Firstly, any M1 and M2 Mac machines already in the retail channel that were already very competitive with the Intel machines being offered by other manufacturers will drop in price significantly and will apply even more pressure, additionally decimating Intel's relevancy in many market segments.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## This is ultimately an Intel-killing play
@@ -140,16 +132,17 @@ The M3 chips aren't merely a product release; they are Apple's bold statement of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-premier-tools-to-record-your-pc-screenshots/"><u>[New] 2024 Approved Premier Tools to Record Your PC Screenshots</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-installation-downloading-latest-evga-drivers-on-your-windows-machine-today/"><u>Effortless Installation: Downloading Latest EVGA Drivers on Your Windows Machine Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/epson-xp-420-printer-drivers-free-download-and-latest-firmware-update/"><u>Epson XP-420 Printer Drivers: Free Download and Latest Firmware Update</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-magic-6-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor Magic 6 Pro</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-prime-locations-boosting-your-youtube-content-visibility/"><u>In 2024, Prime Locations Boosting Your YouTube Content Visibility</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-recording-skype-meetings-on-modern-operating-systems/"><u>In 2024, Recording Skype Meetings on Modern Operating Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-the-most-recent-hp-officejet-pro-9015-driver-step-by-step-guide-and-download-links/"><u>Installing the Most Recent HP Officejet Pro 9015 Driver: Step-by-Step Guide & Download Links</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-dell-sound-with-updated-realtek-driver-implementation/"><u>Secure Dell Sound with Updated Realtek Driver Implementation</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209915656-9781761031557-spirit-guides/"><u>Spirit Guides | Free Book</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-complete-202-problem-solving-strategies-for-seagate-backup-plus-users/"><u>The Complete 202 Problem Solving Strategies for Seagate Backup Plus Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-your-guide-to-computer-components-and-gadgets/"><u>Tom's Tech Hub: Your Guide to Computer Components and Gadgets</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978743065-courts-follow-a-standardized-set-of-rules-and-procedures-while-arbitration-can-be-customized-for-each-case-through-the-arbitration-agreement/"><u>Courts Follow a Standardized Set of Rules and Procedures, While Arbitration Can Be Customized for Each Case Through the Arbitration Agreement</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/digital-training-footage/"><u>Digital Training Footage</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-hp-officejet-pro-8720-drivers-on-windows-free-guide/"><u>Download & Update HP OfficeJet Pro 8720 Drivers on Windows - Free Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-mbox-2-drivers-on-windows-a-step-by-step-guide/"><u>Download & Update MBox 2 Drivers on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-to-successfully-upgrade-to-windows-11-on-a-newly-installed-drives/"><u>Easy Steps to Successfully Upgrade to Windows 11 on a Newly Installed Drives</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-toshiba-laptop-drivers-and-firmware-updates-on-windows-pcs/"><u>Get the Newest Toshiba Laptop Drivers and Firmware Updates on Windows PCs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-pcs-sound-upgrade-with-official-msi-windows-drivers/"><u>Get Your PC's Sound Upgrade with Official MSI Windows Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722963582837-hassle-free-windows-drivers-installation-master-the-method/"><u>Hassle-Free Windows Drivers Installation - Master the Method!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-enhance-show-planning-with-obs-timer-functions/"><u>In 2024, Enhance Show Planning with OBS Timer Functions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x7b-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Honor X7b Phone without PIN</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-parable-pioneers-guild-premier-peak/"><u>In 2024, Parable Pioneers Guild – Premier Peak</u></a></li>
+<li><a href="https://win11.techidaily.com/the-keys-to-free-jumpstart-your-pc-with-unbeatable-windows-11-612lifetime/"><u>The Keys to Free: Jumpstart Your PC with Unbeatable Windows 11, $6.12/Lifetime</u></a></li>
 </ul></div>
 

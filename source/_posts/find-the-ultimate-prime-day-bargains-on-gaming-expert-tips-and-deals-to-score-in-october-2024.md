@@ -1,7 +1,7 @@
 ---
 title: "Find the Ultimate Prime Day Bargains on Gaming: Expert Tips & Deals to Score in October 2024"
-date: 2024-11-14T17:45:22.115Z
-updated: 2024-11-17T19:32:21.441Z
+date: 2024-11-26T16:21:58.343Z
+updated: 2024-11-27T16:57:51.224Z
 tags:
   - laptops
 categories:
@@ -23,6 +23,10 @@ Brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-day-sam
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Our favorite early Amazon October Prime Day gaming deals
 
@@ -117,13 +121,6 @@ ZDNET
 * [God of War Ragnarok standard edition for $40 (save $29 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGod-of-War-Ragnar-k-Standard-Edition-Playstation-5%2F1336533270%3FclassType%3DVARIANT%26athbdg%3DL1102&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): The sequel to the hit GoW 2018 follows Kratos and his son Atreus as they traverse the realms to gather allies and stop the gods from going to war.
 * [The Last of Us Part 1 standard edition for $46 (save $24 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FThe-Last-of-Us-Part-I-PlayStation-5%2F1643604134%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Experience the award-winning story of Ellie and Joel as they make their way to Denver and the Fireflies through hordes of dangerous, fungus-infected zombies.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## October Prime Day Xbox Series X|S deals
 
 * [Xbox Elite Series 2 Core wireless controller for $140 (save $40 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FElite-2-Controller-Black-Xbox-One%2Fdp%2FB07SFKTLZM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca5d281f2-40c7-47eb-93d3-bec2eb576564%7Cdtp&dtb=1): A premium-grade wireless controller for the Xbox Series X|S. It also works with PC, Android, and iOS mobile devices.
@@ -168,13 +165,6 @@ Nintendo/ZDNET
 * [Lego Star Wars: The Skywalker Saga for $25 (save $26 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLEGO-Star-Wars-The-Skywalker-Saga-Nintendo-Switch%2F182278850%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Play as iconic characters like Luke Skywalker, Qui-Gon Jin, and Darth Vader through the stories of both the original and prequel Star Wars trilogies.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $55 (save $25 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming PC deals
 
 Kyle Kucharski/ZDNET
@@ -191,16 +181,7 @@ Kyle Kucharski/ZDNET
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming laptop deals
@@ -225,6 +206,10 @@ Samsung/ZDNET
 * [AOC AG27 27-inch monitor for $600 (save $450 at B&H Photo, deal ends Oct 5)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1741859-REG%2Faoc%5Fag274qzm%5F27%5F16%5F9%5Fqhd.html): This 27-inch IPS monitor has 1440p resolution, a 240Hz refresh rate, a 1ms response time, and Nvidia G-Sync VRR support.
 * [Acer Predator X27U for $680 (save $320 at B&H Photo)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1772478-REG%2Facer%5Fum%5Fhxxaa%5F001%5Fpredator%5Fx27u%5F27%5Fgaming.html%2Fspecs): A 27-inch gaming monitor with a 240Hz refresh rate, 1440p resolution, a 0.03ms response time, and support for AMD FreeSync Premium Pro VRR.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day PC gaming accessories deals
 
 * [SanDisk Extreme Pro 4TB portable SSD for $340 (save $138 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsandisk-extreme-pro-portable-4tb-external-usb-c-nvme-ssd-black%2F6522095.p%3FskuId%3D6522095&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An ultra-tough portable SSD compatible with Windows and Mac computers and backed by a 5-year warranty.
@@ -241,32 +226,20 @@ Samsung/ZDNET
 ## FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -302,18 +275,22 @@ I only chose deals on games that have been critically and commercially well-rece
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/6x-90/"><u> [ 6X = 90 </u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-a-symphony-of-sounds-no-cost-software-for-personalized-voice-modification/"><u>[New] In 2024, A Symphony of Sounds No-Cost Software for Personalized Voice Modification</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1k-discount-on-top-ranked-qled-televisions-this-labor-day-exclusive-review-and-deals-zdnet/"><u>$1K Discount on Top-Ranked QLED Televisions This Labor Day: Exclusive Review & Deals - ZDNet</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-integrating-twitter-and-facebook-with-ease/"><u>2024 Approved Integrating Twitter and Facebook with Ease</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amazon-exclusive-deal-alert-get-the-high-performance-qled-fire-tv-omni-series-now-for-an-extra-170-off/"><u>Amazon Exclusive Deal Alert! Get the High-Performance QLED Fire TV Omni Series Now for an Extra $170 Off!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amazons-top-notch-fire-tv-omni-qled-series-up-to-37-off-today-exclusive-deal-at-zdnet/"><u>Amazon's Top-Notch Fire TV Omni QLED Series Up to 37% Off Today - Exclusive Deal at ZDNET!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ces-202ns-ultimate-television-guide-expert-picks-and-reviews-by-zdnet/"><u>CES 202N's Ultimate Television Guide: Expert Picks & Reviews by ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/choosing-between-lgs-best-g4-vs-g3-the-top-contender-in-oled-television-technology/"><u>Choosing Between LG's Best: G4 Vs. G3 - The Top Contender in OLED Television Technology</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-realme-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-real-world-examples/"><u>In 2024, Real-World Examples</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ate-away-from-bot-influenced-metrics/"><u>Navigate Away From Bot-Influenced Metrics</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/record-webcam-video-with-vlc/"><u>Record Webcam Video with VLC</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/are-the-laws-around-saving-youtube-videos-for-offline-use/"><u>What Are the Laws Around Saving YouTube Videos for Offline Use?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-elevate-your-zoom-experience-syncing-speakers-and-microphones/"><u>[New] 2024 Approved Elevate Your Zoom Experience Syncing Speakers & Microphones</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-unlocking-youtubes-potential-for-visual-storytelling/"><u>[New] 2024 Approved Unlocking YouTube's Potential for Visual Storytelling</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-enhancing-viewership-with-effective-obs-use-on-youtube-and-twitch-for-2024/"><u>[New] Enhancing Viewership with Effective OBS Use on YouTube & Twitch for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-complete-igtv-user-manual-for-2024/"><u>[Updated] The Complete IGTV User Manual for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/arduino-nano-setup-for-windows-a-complete-guide-to-downloading-and-driver-installation/"><u>Arduino Nano Setup for Windows - A Complete Guide to Downloading and Driver Installation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elgato-hd60-driver-glitches-fast-and-straightforward-repair-methods-inside/"><u>Elgato HD60 Driver Glitches? Fast and Straightforward Repair Methods Inside</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exploring-new-horizons-in-health-and-wellness-facebook-campaigns/"><u>Exploring New Horizons in Health & Wellness Facebook Campaigns</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-compatible-intel-drivers-for-windows-11-10-and-7/"><u>Free Download: Compatible Intel Drivers for Windows 11, 10 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722956278202-get-the-latest-amd-gpio-device-driver-instant-access/"><u>Get the Latest AMD GPIO Device Driver – Instant Access!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-tecno-spark-10-pro-lock-screen-password-by-drfone-android/"><u>How To Change Tecno Spark 10 Pro Lock Screen Password?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975300714-how-to-fix-and-update-your-wi-fi-card-drivers-for-optimal-performance-download-now/"><u>How to Fix and Update Your Wi-Fi Card Drivers for Optimal Performance - Download Now</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-iris-plus-graphics-655-driver-for-windows-10-11/"><u>Intel Iris Plus Graphics 655 Driver for Windows 10, 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-animation-solutions-top-picks-for-windows-and-mac-computers/"><u>New Free Animation Solutions Top Picks for Windows and Mac Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975476735-speedy-access-to-dell-latitude-e6420-drivers-download-now/"><u>Speedy Access to Dell Latitude E6420 Drivers – Download Now</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooted-dealing-with-critical-error-code-0xc0000017-and-restoring-your-computers-health/"><u>TROUBLESHOOTED: Dealing with Critical Error Code 0xC0000017 and Restoring Your Computer's Health</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-brother-scanners-now-new-software-for-optimized-windows-compatibility/"><u>Update Your Brother Scanners Now: New Software for Optimized Windows Compatibility</u></a></li>
 </ul></div>
 

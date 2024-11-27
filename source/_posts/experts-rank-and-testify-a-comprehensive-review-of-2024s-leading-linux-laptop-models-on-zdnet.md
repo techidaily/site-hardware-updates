@@ -1,7 +1,7 @@
 ---
 title: "Experts Rank & Testify: A Comprehensive Review of 2024'S Leading Linux Laptop Models on ZDNet"
-date: 2024-11-14T17:28:53.474Z
-updated: 2024-11-17T19:54:36.819Z
+date: 2024-11-26T16:35:13.110Z
+updated: 2024-11-27T17:58:21.361Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,10 @@ All of the ultraportable laptops on this list sport cutting-edge form factors, a
 
 Our overall top pick for the best lightweight laptop has to go to the [Apple MacBook Air M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24JRLR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ceda2ab72-bdbe-4650-8474-4836b7c2c09f%7Cdtp&dtb=1). In terms of portability, sleek form factor, solid battery life, and AI-capabilities, the MacBook Air M3 reigns supreme among the lightest of the light. It might not be the best pick for you, however, so we included other options that round out the spectrum of common use cases. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best ultraportable laptops of 2024
 
 Show less 
@@ -46,13 +50,6 @@ Cons
 * Built-in speakers could be stronger
 
 ## Apple MacBook Air M3
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best lightweight laptop overall
 
@@ -84,6 +81,10 @@ Cons
 
 ## Acer Swift Go 14
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best lightweight laptop for AI
 
 The Acer Swift Go 14 is one of the first portable laptops to come with Intel's new "Meteor Lake" processor, which has a dual-core neural processing unit (NPU) designed to take on AI workloads. This makes the Acer Swift Go 14 well-positioned to handle AI technology as it becomes increasingly more ubiquitous, giving it an edge that makes it our pick for best lightweight AI laptop.
@@ -110,14 +111,11 @@ Cons
 * Compact size means it can run hot
 * Comes pre-loaded with bloatware
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Asus ROG Zephyrus G14
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best lightweight laptop for gaming
 
@@ -151,10 +149,7 @@ Cons
 ## LG Gram Pro 17
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best lightweight laptop with a 17" display
@@ -214,13 +209,6 @@ The best lightweight laptop in 2024 is the [Apple MacBook Air M3](https://www.zd
 | LG Gram Pro 17        | $1299             | Intel Core Ultra 7 155H, Nvidia GeForce RTX 3050 | 16GB, 1TB                   | 2.7              |
 | Lenovo X1 Carbon      | $2263             | Intel Core Ultra 5 125U, Intel Arc Graphics      | 16GB, up to 1TB             | 2.4              |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which is the right lightweight laptop for you?
 
 The best lightweight laptop for you depends on what you want to get out of it. Laptops packed with powerful gaming hardware like the Asus Zephyrus G14 are going to weigh a little more, while extreme lightweight machines like the LG Gram Pro 17 will have some design tradeoffs that go along with their compact size.
@@ -232,6 +220,10 @@ The best lightweight laptop for you depends on what you want to get out of it. L
 | ASUS ROG Zephyrus G14               | The lightest machine you can get while still calling it a proper gaming laptop.          |
 | LG Gram Pro 17                      | The lightest, thinnest 17-inch laptop on the market, no matter the cost.                 |
 | Lenovo X1 Carbon                    | A durable, powerful laptop for work.                                                     |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How we test lightweight laptops
 
@@ -248,13 +240,6 @@ We use a combination of methods to test laptops here at ZDNET. First, we acquire
 * **The human element:**  As we mentioned earlier, metrics and system data is important, but numbers alone don't give you the full picture. This is where we weave in our personal experience with the device and tap into the practical use cases that consumers actually care about.
 
 Ultimately, our goal is to break down the capabilities of each and every laptop we test into digestible terms that real people can find useful. There is a lot of noise and confusion when it comes to navigating the laptop and computer consumer market, so we hope to bring an intuitive element to the whole process by leveraging our team's decades of experience. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Factors to consider when choosing a lightweight laptop
 
@@ -273,10 +258,7 @@ Ultraportability does come with tradeoffs, however, both in terms of design and 
 In terms of cost, ultraportable laptops are often made with high-end, special lightweight materials that are going to cost more to produce and manufacture than simple plastic or aluminum. All of the laptops on this list were chosen for their well-designed, functional form factors and use of lightweight materials.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much does a typical laptop weigh?
@@ -286,13 +268,6 @@ Laptops are incredibly thin and light these days, with cutting-edge technology p
 Most laptops today weigh between two and a half and five pounds, with a five-pound laptop being considered on the heavy side. Different configurations change the weight of laptops, as well. More memory and storage will increase the weight -- something to keep in mind when buying. 
 
 The heaviest laptops on this list are the Asus ROG Zephyrus G14 and the 15-inch MacBook Air M3, each weighing just 3.3 pounds. In the laptop world, that's light. 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What slim laptop backpack do we recommend?
 
@@ -309,6 +284,10 @@ While every computing platform has its loyal supporters, most people end up usin
 **Also:** **[Comparing the best Macs: Is a MacBook or Mac Studio right for you?](https://www.zdnet.com/article/best-mac/)** 
 
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative lightweight laptops worth considering?
 
@@ -356,18 +335,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-10-free-recorder-apps-for-slack-meetings-and-video-conferencing-for-2024/"><u>[New] 10 FREE Recorder Apps for Slack Meetings & Video Conferencing for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-best-8-youtube-editing-software-for-linux-for-2024/"><u>[Updated] Best 8 YouTube Editing Software for Linux for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-becoming-a-pro-at-visual-effects-creation/"><u>2024 Approved Becoming a Pro at Visual Effects Creation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/beyond-thinkpads-and-macbooks-unveiling-the-best-budget-productivity-laptop-now-just-300-off-for-prime-day/"><u>Beyond ThinkPads & MacBooks: Unveiling the Best Budget Productivity Laptop - Now Just $300 Off for Prime Day!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpts-new-voice-mastering-prompt-and-command-interactions/"><u>ChatGPT's New Voice: Mastering Prompt and Command Interactions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/essential-laptop-upgrade-the-key-gadget-every-tech-enthusiast-requires-for-optimal-cooling-performance-insights-from-zdnet/"><u>Essential Laptop Upgrade: The Key Gadget Every Tech Enthusiast Requires for Optimal Cooling Performance - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exceptional-display-quality-the-ultra-portable-laptop-deal-you-cant-miss-today-insights/"><u>Exceptional Display Quality: The Ultra-Portable Laptop Deal You Can't Miss Today - Insights !</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-oppo-a1-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo A1 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/laptop-battery-charger-highly-reliable-over-the-years-and-currently-discounted-at-50-insights-from-zdnet/"><u>Laptop Battery Charger: Highly Reliable Over the Years & Currently Discounted at 50% - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/last-minute-bargain-premium-asus-laptop-now-99-at-best-buy-dont-miss-out-here-we-highlight-the-time-sensitive-nature-of-this-offer-with-phrases-like-last-mi7/"><u>Last Minute Bargain: Premium ASUS Laptop Now $99 at Best Buy - Don't Miss Out!: Here, We Highlight the Time-Sensitive Nature of This Offer with Phrases Like Last Minute and Don't Miss Out. The Use of Words Like Premium</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-use-face-id-to-pay-for-itunes-and-app-store-purchases-on-iphone-12-pro-max-by-drfone-ios-unlock-ios-unlock/"><u>The way to Use Face ID to Pay for iTunes & App Store Purchases on iPhone 12 Pro Max</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-a-new-era-of-convenience-how-lenovos-recent-laptop-releases-revolutionize-iphone-data-transfer-see-it-now-zdnet/"><u>Unlocking a New Era of Convenience: How Lenovo's Recent Laptop Releases Revolutionize iPhone Data Transfer – See It Now! [ZDNet]</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-realme-c67-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Realme C67 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-crafty-concepts-designing-unforgettable-instagram-puzzle-feeds-for-2024/"><u>[New] Crafty Concepts Designing Unforgettable Instagram Puzzle Feeds for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pro-camera-selection-guide-top-10-films-tools-ranked/"><u>[Updated] Pro Camera Selection Guide - Top 10 Films Tools Ranked</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensively-understanding-cloud-storage-with-adobe-and-why-you-should-compare/"><u>Comprehensively Understanding Cloud Storage with Adobe and Why You Should Compare</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-best-value-acers-cost-effective-nvidia-rtx-40-series-gpu-laptops/"><u>Discover the Best Value: Acer's Cost-Effective NVIDIA RTX 40 Series GPU Laptops</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-insights-how-lenovos-2-in-1-revolutionizes-the-workspace-a-detailed-look-at-one-of-todays-best-business-devices/"><u>Expert Insights: How Lenovo's 2-in-1 Revolutionizes the Workspace – A Detailed Look at One of Today’s Best Business Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-dota-2-microphone-issues-troubleshooting-guide/"><u>Fixing Dota 2 Microphone Issues: Troubleshooting Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-ultimate-vr-experience-with-metas-512gb-quest-3-sizzling-hot-deal-alert/"><u>Get Your Hands on the Ultimate VR Experience with Meta's 512GB Quest 3 – Sizzling Hot Deal Alert!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/improve-browser-performance-fb-vids-chrome-for-2024/"><u>Improve Browser Performance FB Vids, Chrome for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-xiaomi-redmi-k70e-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Xiaomi Redmi K70E to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-motorola-edge-40-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Motorola Edge 40 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximizing-macbook-battery-life-a-comprehensive-guide-to-full-day-power-insights-from-zdnet/"><u>Maximizing MacBook Battery Life: A Comprehensive Guide to Full-Day Power - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-through-the-frost-opportunities-ahead-for-consumers-as-pc-industry-braces-for-winter-downturn-computingtrends/"><u>Navigating Through the Frost: Opportunities Ahead for Consumers as PC Industry Braces for Winter Downturn | ComputingTrends</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/oled-laptop-showdown-of-202n4-elite-gadgets-tested-and-evaluated-authoritative-rankings-from-zdnet/"><u>OLED Laptop Showdown of 202N4: Elite Gadgets Tested and Evaluated | Authoritative Rankings From ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/redefining-clinical-practice-with-chatgpt-technology/"><u>Redefining Clinical Practice with ChatGPT Technology</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionizing-productivity-how-lenovos-innovative-dual-screen-laptop-enhanced-my-efficiency-insights/"><u>Revolutionizing Productivity: How Lenovo's Innovative Dual-Screen Laptop Enhanced My Efficiency Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-tablet-choice-for-business-professionals-beyond-the-apple-and-lenovo-offerings/"><u>Top Tablet Choice for Business Professionals: Beyond the Apple and Lenovo Offerings</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo Y56 5G? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top Picks for Hybrid-Friendly ThinkPads That Aren't Just Recent Releases | Expert Insights
-date: 2024-11-13T18:31:53.059Z
-updated: 2024-11-17T18:54:06.077Z
+date: 2024-11-23T18:42:51.194Z
+updated: 2024-11-27T19:01:33.233Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -69,10 +73,7 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,14 +112,18 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-your-ultimate-guide-to-downloading-youtube-on-ios/"><u>[New] Your Ultimate Guide to Downloading YouTube on iOS</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-snappycapture-windows-11-video-recording-made-simple/"><u>[Updated] 2024 Approved SnappyCapture - Windows 11 Video Recording Made Simple</u></a></li>
-<li><a href="https://techtrends.techidaily.com/answer-yes-cognitive-training-can-positively-affect-neuroplasticity-and-recovery-because-mental-activity-influences-the-brains-ability-to-reorganize-and-ada7/"><u>Answer: Yes, Cognitive Training Can Positively Affect Neuroplasticity and Recovery because Mental Activity Influences the Brain's Ability to Reorganize and Adapt After Injury.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/broder-hl-l2360dw-driver-update-download-for-smooth-printing-experience/"><u>Brøder HL-L2360DW Driver Update: Download for Smooth Printing Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722963427141-effortless-windows-7-keyboard-driver-download-get-started-now/"><u>Effortless Windows 7 Keyboard Driver Download – Get Started Now!</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-x-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone X to Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-and-installing-intel-hd-graphics-5500-drivers/"><u>Step-by-Step Guide: Updating and Installing Intel HD Graphics 5500 Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-updating-samsungs-usb-drivers-for-optimal-smartphone-functionality/"><u>Troubleshooting and Updating Samsung's USB Drivers for Optimal Smartphone Functionality</u></a></li>
-<li><a href="https://fox-http.techidaily.com/unraveling-virtual-physical-coexistence-what-is-mixed-reality/"><u>Unraveling Virtual-Physical Coexistence What Is Mixed Reality?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-post-production-pro-tailoring-video-content-to-instagram-standards-with-x/"><u>[New] Post-Production Pro Tailoring Video Content to Instagram Standards with X</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-artists-toolbox-essential-video-tips-for-musicians-on-youtube/"><u>[New] The Artist's Toolbox Essential Video Tips for Musicians on YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-mastering-virtual-console-with-top-5-ps3-emulators/"><u>[Updated] In 2024, Mastering Virtual Console with Top 5 PS3 Emulators</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-photoshops-jiggle-minimizing-effective-or-overstated/"><u>[Updated] Photoshop's Jiggle Minimizing - Effective or Overstated?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-record-your-mac-in-hd-no-fee-for-2024/"><u>[Updated] Record Your Mac in HD No Fee for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722967861518-download-and-update-broadcom-gige-driver-for-windows-11-issue-resolved/"><u>Download and Update Broadcom GigE Driver for Windows 11: Issue Resolved</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-obtain-and-install-the-latest-dell-network-drivers-for-windows-7-users/"><u>How to Obtain & Install the Latest Dell Network Drivers for Windows 7 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-or-download-ds-530-printer-drivers-for-windows-10-x8664-step-by-step-guide/"><u>How to Update or Download DS-^530 Printer Drivers for Windows 10 (X86_64) - Step by Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-zte-nubia-flip-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked ZTE Nubia Flip 5G Phone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-canon-mf4500-printer-drivers-instantly/"><u>Install Canon MF4500 Printer Drivers Instantly</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tablet-titans-clash-a-side-by-side-analysis-of-the-new-ipad-air-4-and-galaxy-tab-s7plus-for-tech-enthusiasts/"><u>Tablet Titans Clash: A Side-by-Side Analysis of the New iPad Air 4 and Galaxy Tab S7+ for Tech Enthusiasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-guide-obtaining-epson-xp-830-driver-software-seamlessly/"><u>Troubleshooting Guide: Obtaining Epson XP-830 Driver Software Seamlessly</u></a></li>
 </ul></div>
 

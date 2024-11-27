@@ -1,7 +1,7 @@
 ---
 title: The Gadget Whisperer's Guide to Advanced Computer Components
-date: 2024-08-28T02:16:01.702Z
-updated: 2024-08-29T02:16:01.702Z
+date: 2024-11-21T18:07:18.836Z
+updated: 2024-11-27T20:06:06.060Z
 tags:
   - cpu
 categories:
@@ -42,6 +42,10 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
 
  Sadly, we will have to wait a little longer than expected to get chips like the AMD Ryzen 9 9950X in Tom’s Hardware labs. Yesterday the news broke that these Zen 5 desktop chips would start to[roll out in August](https://www.tomshardware.com/pc-components/cpus/amd-delays-its-ryzen-9000-launch-due-to-unspecified-quality-issue-new-launch-in-august-chipmaker-pulls-back-all-units-shipped-globally-for-quality-checks) due to unspecified quality issue(s).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -50,14 +54,11 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -66,8 +67,20 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-developing-eye-catching-podcast-previews/"><u>[New] Developing Eye-Catching Podcast Previews</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-a-comprehensive-tutorial-for-srt-filters-in-social-space/"><u>[New] In 2024, A Comprehensive Tutorial for SRT Filters in Social Space</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-perfecting-the-science-of-instagram-highlight-recovery-for-2024/"><u>[New] Perfecting the Science of Instagram Highlight Recovery for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-8-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 8 and iPad Securely</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/apple-in-peril-how-microsofts-surface-pro-and-laptop-lead-as-top-ai-enhanced-computers-tech-insights/"><u>Apple in Peril: How Microsoft's Surface Pro & Laptop Lead as Top AI-Enhanced Computers | Tech Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-leading-mac-applications-in-2ebeef765a4d98fdeca3bcec0f02c1dffdb7ee7291abec6acbe128bf9ed8fbb/"><u>Discover the Leading Mac Applications in 2Ebeef765a4d98fdeca3bcec0f02c1dffdb7ee7291abec6acbe128bf9ed8fbb;</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-highly-flexible-and-compact-a-review-on-one-of-the-least-expansive-chromebooks-ever-test/"><u>Exploring the Highly Flexible and Compact: A Review on One of the Least Expansive Chromebooks Ever Test</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c12-plus-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Nokia C12 Plus PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-top-10-after-effects-text-presets/"><u>In 2024, Top 10 After Effects Text Presets</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/savor-audio-without-breaking-your-piggy-bank-activbuds-review/"><u>Savor Audio without Breaking Your Piggy Bank: ActivBuds Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-big-with-apples-best-magsafe-charging-station-save-60-today-only-shop-smart-and-secure-yours/"><u>Score Big with Apple's Best MagSafe Charging Station! Save 60% Today Only – Shop Smart and Secure Yours</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-wallet-friendly-giant-unveiling-features-of-the-latest-apple-ipad-air/"><u>The Wallet-Friendly Giant: Unveiling Features of the Latest Apple iPad Air</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/what-every-user-should-know-about-facebooks-latest-shift/"><u>What Every User Should Know About Facebook's Latest Shift</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

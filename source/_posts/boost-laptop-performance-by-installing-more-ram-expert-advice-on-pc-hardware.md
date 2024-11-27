@@ -1,7 +1,7 @@
 ---
 title: Boost Laptop Performance by Installing More RAM – Expert Advice on PC Hardware
-date: 2024-11-15T17:24:29.392Z
-updated: 2024-11-17T20:50:16.187Z
+date: 2024-11-22T16:18:14.887Z
+updated: 2024-11-27T19:19:15.256Z
 tags:
   - laptops
 categories:
@@ -32,6 +32,10 @@ Chances are you're either running really low on storage space or RAM.
 
 [![best-windows-10-laptop-dell-xps-13-cnet.jpg](https://www.zdnet.com/a/img/resize/93abfd48ce4c77d0dcecd931bb15ef0140be039a/2021/06/15/b2460897-9294-43d4-8fcc-2a8b2afdb711/best-windows-10-laptop-dell-xps-13-cnet.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Windows laptops Here are ZDNET's top picks for a variety of use cases.  Read now](https://www.zdnet.com/article/best-windows-laptop/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 RAM -- short for" random access memory" -- is vital for your computer system to open, run, and manage programs, applications, and services. It's where your computer stores data it needs to access rapidly.
 
 The amount of RAM a system has can make or break a PC. The more RAM you have (to a point), the more applications you can have running side-by-side.
@@ -55,10 +59,7 @@ That means you either just don't have enough RAM (which means you need to upgrad
 If you've just bought a new system and it feels sluggish right out of the box, my advice is to send it back. It's not going to get better, and chances are that even if you could upgrade it to make it faster, it's going to cost you more than buying a decent system to begin with.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can you even upgrade your laptop?
@@ -77,10 +78,7 @@ There are two ways to tell if your system's RAM can be upgraded:
 2. Let the RAM experts tell you – both [Crucial](https://www.crucial.com/products/memory/laptop-dram) and [Kingston](https://www.kingston.com/en/memory/desktop-laptop) have tools to help you locate this information (this is what I use -- don't just guess!)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Information you need to know
@@ -106,6 +104,10 @@ Checking how much RAM on a Windows 11 PC
 
 Adrian Kingsley-Hughes/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How much RAM do you need to buy?
 
 Your laptop has 4GB but you want 8GB.
@@ -129,10 +131,7 @@ If there's only one slot, then the RAM in that slot can't be used.
 The best way to tell how RAM is organized in your system is to open it up and take a look (we'll get to this shortly).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tools you need
@@ -145,10 +144,7 @@ You need a few tools to do this job.
 I recommend using good screwdrivers, as there's nothing that's going to ruin your day more than rendering a screw unremovable by chewing its head up with the wrong tool.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use an ESD (ElectroStatic Display) strap
@@ -183,13 +179,6 @@ There will be parts and screws that are easier to keep track of if there's no ot
 
 Don't poke around inside a laptop that's plugged in!
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Remove the battery (if you can)
 
 If the battery is removable, remove it. If not, you can disconnect the battery from the motherboard after you've taken the back cover off (carefully, as these connectors and cables can be quite fragile).
@@ -199,13 +188,6 @@ If the battery is removable, remove it. If not, you can disconnect the battery f
 Do this either by going through a small hatch held down by a screw or removing the entire base of the laptop (lots of screws -- be aware that some might be different lengths), and take your time and work slowly and methodically, paying special care when removing the base of the laptop (work it gently, don't pry or force anything).
 
 > **Pro tip**: Take photos using your smartphone so you know where everything goes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Remove the RAM
 
@@ -237,7 +219,15 @@ If your laptop fires up, check that the extra RAM is seen by the system.
 
 You're done!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can increasing RAM improve performance?
 
@@ -261,31 +251,21 @@ I generally stick with Crucial or Kingston RAM. These are the brands that I've h
 
 Not really -- an [8GB module for a typical laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCrucial-DDR4-Laptop-Memory-CT8G4SFRA32A%2Fdp%2FB08C4Z69LN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C023cbc6a-b259-4996-9edc-fc1052ab67ea%7Cdtp&dtb=1) is around $25\. A 32GB RAM module [costs less than $100](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCrucial-DDR4-Laptop-Memory-CT8G4SFRA32A%2Fdp%2FB08C4X9VR5%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C023cbc6a-b259-4996-9edc-fc1052ab67ea%7Cdtp&dtb=1).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is 64GB of RAM overkill?
 
 Unless you are running some really heavy, specialist workloads -- such as rendering high-resolution video or working with 3D models -- then yes, it is overkill. I find 32GB to be more than I need on my MacBook Pro, and I push that system hard.
 
 But you'll never run into a situation of not having enough RAM!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What can you do with 1TB of RAM?
 
 Waste a LOT of money!
 
 Truth is, you won't find a laptop that has anywhere near 1TB of RAM.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How much RAM can you add to a 4GB laptop?
 
@@ -323,17 +303,18 @@ For some laptops, 4GB is the maximum and the end of the road, for other laptops,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-top-10-best-drones-for-kids-and-beginners/"><u>[New] Top 10 Best Drones for Kids and Beginners</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oppo-a2-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Oppo A2 Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-realme-v30t-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Realme V30T to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-premium-vr-with-metas-latest-steal-the-512gb-quest-3-deal-that-dominates-todays-market-insider-tips-from-zdnet/"><u>Experience Premium VR with Meta's Latest Steal: The 512GB Quest 3 Deal That Dominates Today’s Market | Insider Tips From ZDNET</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-samsung-galaxy-s23-fe-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Samsung Galaxy S23 FE without App | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-oppo-f25-pro-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Oppo F25 Pro 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/m1-vs-m3-a-comprehensive-review-of-apples-latest-laptop-generation-for-tech-enthusiasts/"><u>M1 vs M3: A Comprehensive Review of Apple's Latest Laptop Generation for Tech Enthusiasts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-through-instagrams-approval-process-achieving-official-recognition/"><u>Navigating Through Instagram's Approval Process: Achieving Official Recognition</u></a></li>
-<li><a href="https://extra-support.techidaily.com/revamp-your-photos-is-pickup-a-game-changer-for-android-users-for-2024/"><u>Revamp Your Photos Is PickUp a Game-Changer for Android Users for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/syncing-scaled-screen-sequences/"><u>Syncing Scaled Screen Sequences</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/taking-control-with-microsoft-how-experiencing-surface-pro-and-laptop-made-me-say-goodbye-to-my-apple-devices/"><u>Taking Control with Microsoft: How Experiencing Surface Pro and Laptop Made Me Say Goodbye to My Apple Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-creative-potential-with-asuss-latest-understated-powerhouse-insider-info-from-zdnet/"><u>Unlocking Creative Potential with ASUS's Latest Understated Powerhouse - Insider Info From ZDNET</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-8k-visualization-leading-tvs-compared-side-by-side/"><u>[New] 8K Visualization Leading TVs Compared Side by Side</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-crafting-the-spoken-word-writing-compelling-narratives/"><u>[New] Crafting the Spoken Word Writing Compelling Narratives</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-expert-advice-for-flawless-recordings-on-mi-11-phones-for-2024/"><u>[New] Expert Advice for Flawless Recordings on Mi 11 Phones for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-digital-dialogue-diaries-the-full-year-tweets-summary-for-2024/"><u>[Updated] Digital Dialogue Diaries The Full-Year Tweets Summary for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-enhancing-your-youtube-presence-with-split-screen-techniques/"><u>2024 Approved Enhancing Your YouTube Presence with Split-Screen Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/elite-platforms-for-captivating-game-livestreams-for-2024/"><u>Elite Platforms for Captivating Game Livestreams for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-guides-best-laptops-for-professionals-on-the-move-beyond-apple-and-dell/"><u>Essential Guides: Best Laptops for Professionals on the Move, Beyond Apple & Dell</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-next-level-virtual-reality-with-metas-unbeatable-512gb-quest-3-promotion-zdnet-insider-tips/"><u>Experience Next-Level Virtual Reality with Meta's Unbeatable 512GB Quest 3 Promotion | ZDNET Insider Tips!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huge-presidents-day-sale-on-macbook-pro-get-the-ultra-fast-m3-pro-chip-model-at-200-less/"><u>Huge Presidents' Day Sale on MacBook Pro - Get the Ultra-Fast M3 Pro Chip Model at $200 Less!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-galaxy-book-3-pro-360-examination-the-perplexing-elegance-of-a-laptop-revealed-by-zdnet/"><u>Samsung Galaxy Book 3 Pro 360 Examination - The Perplexing Elegance of a Laptop Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-apple-bargains-in-july-2024-iphone-specials-sleek-apple-watch-discounts-affordable-ipads-and-extras-zdnet/"><u>Top Apple Bargains in July 2024: IPhone Specials, Sleek Apple Watch Discounts, Affordable iPads & Extras | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-student-friendly-chromebooks-comprehensive-testing-and-reviews-by-industry-experts-zdnet/"><u>Top-Ranking Student-Friendly Chromebooks: Comprehensive Testing & Reviews by Industry Experts - ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-microsoft-documents-cannot-save-as-pdfs-on-latest-windows-os/"><u>Troubleshooting: Microsoft Documents Cannot Save as PDFs on Latest Windows OS</u></a></li>
 </ul></div>
 

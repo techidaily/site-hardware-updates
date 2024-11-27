@@ -1,7 +1,7 @@
 ---
 title: Navigating the Ups and Downs with Samsung's Galaxy Book # User
-date: 2024-11-11T19:00:25.018Z
-updated: 2024-11-17T16:10:16.131Z
+date: 2024-11-21T19:18:00.815Z
+updated: 2024-11-27T19:53:31.393Z
 tags:
   - laptops
 categories:
@@ -20,6 +20,10 @@ Kyle Kucharski/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the deal?
 
 Save $450 on a [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-books%2Fgalaxy-book4-edge%2Fbuy%2Fgalaxy-book4-edge-14-qualcomm-snapdragon-x-elite-512gb-sapphire-blue-np940xma-kb1us&publisher_slug=itechdaily19598&exclusive=1) or earn up to $500 off with an eligible device trade-in (promo price starting from $950) as part of the [Discover Samsung Fall Sale](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fdiscover-samsung-event%2F&publisher_slug=itechdaily19598&exclusive=1). 
@@ -27,10 +31,7 @@ Save $450 on a [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=http
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -118,10 +119,7 @@ Lastly, the battery on the Edge is indeed impressive. [I recently tested HP's Om
 During the standard ZDNET benchmark testing of running a 4K YouTube livestream streamed over Wi-Fi at 50% brightness, I got over 13 hours of playback, way more than what is considered "good" for a laptop, and more than enough for a few days worth of standard work. Even better, while this laptop is idle, its battery life decay drops to a trickle.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -131,10 +129,7 @@ The [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=https%3A%2F%2Fw
 If neither of these apply to you, the Galaxy Book 4 Edge is still a phenomenal choice for its sheer star power and impressive performance alone. However, if you're on the fence about the price but still want a Copilot+ PC, you might consider the [Microsoft Surface Pro](https://www.zdnet.com/article/i-went-hands-on-with-microsofts-surface-pro-and-laptop-and-im-ready-to-ditch-my-macbook/) or the [Asus Vivobook S15](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/) \-- both are Snapdragon laptops with OLED displays available for quite a bit less.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -171,18 +166,21 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-simplifying-macs-screen-recording-a-shortcut-hack-manual/"><u>[New] 2024 Approved Simplifying Mac's Screen Recording A Shortcut Hack Manual</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhance-creativity-on-a-budget-pick-from-these-8-zero-price-edits/"><u>[Updated] 2024 Approved Enhance Creativity on a Budget Pick From These 8 Zero Price Edits</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-unveiling-the-latest-in-sony-blu-ray-s6700/"><u>2024 Approved Unveiling the Latest in Sony Blu-Ray S6700</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/archer-c50-by-tp-link-balancing-price-and-performance-in-a-wifi-router/"><u>Archer C50 by TP-Link: Balancing Price and Performance in a WiFi Router</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/data-breach-alert-how-to-shield-your-data-and-photos-from-snooping-technicians-new-research-warns-zdnet/"><u>Data Breach Alert! How to Shield Your Data and Photos From Snooping Technicians, New Research Warns | ZDNET</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/guia-paso-a-paso-para-restablecer-las-alertas-de-tu-iphone-desde-su-respaldo-de-icloud/"><u>Guía Paso a Paso Para Restablecer Las Alertas De Tu iPhone Desde Su Respaldo De iCloud</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/huge-gaming-discounts-await-october-2024-prime-day-deals-offering-sweeping-savings-of-1000plus-zdnet/"><u>Huge Gaming Discounts Await! October 2024 Prime Day Deals Offering Sweeping Savings of $1,000+ | ZDNET</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-curating-youtube-music-experiences/"><u>In 2024, Curating YouTube Music Experiences</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/professional-graphic-artists-guide-to-optimal-laptop-performance-comprehensive-reviews-and-ratings-pcmag/"><u>Professional Graphic Artists' Guide to Optimal Laptop Performance: Comprehensive Reviews & Ratings | PCMag</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/social-platforms-smartbots-which-ai-fits-your-needs/"><u>Social Platforms, Smartbots: Which AI Fits Your Needs?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-pick-the-best-long-lasting-ultralight-laptop-of-the-year-a-comprehensive-review-by-zdnet/"><u>Top Pick: The Best Long-Lasting Ultralight Laptop of the Year - A Comprehensive Review by ZDNet</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlock-the-potential-of-user-engagement-with-cookiebot-integration/"><u>Unlock the Potential of User Engagement with Cookiebot Integration</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/what-will-you-discover-at-apples-next-big-reveal-m4-mac-mini-and-advancements-in-apple-intelligence-to-watch-for-tech-analysis/"><u>What Will You Discover at Apple's Next Big Reveal? M4 Mac Mini and Advancements in Apple Intelligence to Watch for | Tech Analysis</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-sharpsight-screen-snag-report/"><u>[New] 2024 Approved SharpSight Screen Snag Report</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-elevating-your-films-impact-with-additional-camera-work/"><u>[New] Elevating Your Film's Impact with Additional Camera Work</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-facebooks-top-ranked-video-player-applications/"><u>[Updated] In 2024, Facebook’s Top-Ranked Video Player Applications</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-week-with-an-ergo-split-keyboard-how-my-typing-experience-transformed-insights-from-zdnet/"><u>A Week with an Ergo-Split Keyboard: How My Typing Experience Transformed - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-premiere-pro-101-for-youtube-clips-and-edits-for-2024/"><u>Adobe Premiere Pro 101 for YouTube Clips and Edits for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/apples-new-deal-the-m2-macbook-air-now-a-steal-at-799-beating-the-upcoming-prime-day-rush/"><u>Apple's New Deal: The M2 MacBook Air Now a Steal at $799, Beating the Upcoming Prime Day Rush!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capture-clarity-top-10-photo-lens-selections/"><u>Capture Clarity Top 10 Photo Lens Selections</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-captivating-images-using-leading-lines-iphone-for-2024/"><u>Crafting Captivating Images Using Leading Lines (iPhone) for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discovering-the-exceptional-flexibility-an-in-depth-review-of-dell-inspiron-top-contender-from-zdnet/"><u>Discovering the Exceptional Flexibility: An In-Depth Review of Dell Inspiron – Top Contender From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expand-your-laptops-capabilities-a-detailed-tutorial-on-installing-additional-ram-by-experts-at-zdnet/"><u>Expand Your Laptop's Capabilities: A Detailed Tutorial on Installing Additional RAM by Experts at ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-this-budget-friendly-laptop-reignites-a-classic-buzzword-in-the-technology-sphere-zdnets-analysis/"><u>How This Budget-Friendly Laptop Reignites a Classic Buzzword in the Technology Sphere | ZDNET's Analysis.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/new-partnership-unveils-chatgpt-on-apple-devices-explore-the-future-of-ai-with-openai/"><u>New Partnership Unveils ChatGPT on Apple Devices: Explore the Future of AI with OpenAI</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-sensational-deal-on-quest-3-with-512gb-storage-metas-latest-offer-that-dominates-the-vr-market-zdnet-insight/"><u>Snag the Sensational Deal on Quest 3 with 512GB Storage - Meta's Latest Offer That Dominates the VR Market | ZDNET Insight</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-art-of-retracing-instagram-pictures-roots/"><u>The Art of Retracing Instagram Pictures' Roots</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-drone-tech-leading-gimbals-ranked/"><u>Top Drone Tech Leading Gimbals Ranked</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-picks-for-ultraportable-computers-featuring-comprehensive-reviews-by-tech-analysts-gizmodo/"><u>Top Picks for Ultraportable Computers , Featuring Comprehensive Reviews by Tech Analysts | Gizmodo</u></a></li>
 </ul></div>
 

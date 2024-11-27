@@ -1,7 +1,7 @@
 ---
 title: "Resolving StarTech Drivers Problems on Windows 11, 8 & 7: A Comprehensive Guide"
-date: 2024-08-28T02:13:44.815Z
-updated: 2024-08-29T02:13:44.815Z
+date: 2024-11-24T19:24:22.357Z
+updated: 2024-11-27T16:28:11.332Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
  Unfortunately it’s rather hard for a computer newbie to find and download the correct driver, not to mention install it manually on PC. So here we’ll show you how to update your Ralink RT3290 driver**step by step** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How to download and update your Ralink RT3290 driver**
 
  You can download and update the Ralink RT3290 driver either automatically and manually:
@@ -27,6 +31,10 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 2. **[Download and update your Ralink RT3290 driver manually (For Windows 8/7 Only)](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 1: Download and update your Ralink RT3290 driver automatically (Recommended)**
 
@@ -42,6 +50,10 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-121.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Ralink RT3290 driver for now, simply click on the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-122.png)
@@ -54,9 +66,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Option 2: Download and update your Ralink RT3290 driver manually (For Windows 8/7 Only)**
 
  Ralink Technology, Corp. was acquired by MediaTek in 2011, so you can no longer find the official website of Ralink. But luckily, the driver can still be found in **[mediatek.com](https://www.mediatek.com/) .**
@@ -72,9 +81,9 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-118.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) After knowing the version of your Windows operating system, you should now search for the driver online. You can either find your own way to the official website of MediaTek, or you can simply click[https://www.mediatek.com/](https://www.mediatek.com/) .
 
  4) There’s a search bar at the top of the website. Type**RT3290** , and then hit**Enter** on your keyboard.
@@ -94,8 +103,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-117.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you double-click**devcon64.exe** , you’ll be prompted to decompress the folders. Select**Extract all** .
 
  10) Click**Browse…** to select a destination and check the**Show extracted files when complete** box. On completion, click**Extract** .
@@ -129,8 +139,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +146,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fresh-bgm-leading-lines-in-the-realm-of-yt-shorts/"><u>[New] 2024 Approved Fresh BGM Leading Lines in the Realm of YT Shorts</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-react-type-and-converse-your-disco-messaging-playbook/"><u>[New] React, Type, and Converse Your Disco Messaging Playbook</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-stardews-ultimate-game-changing-mods-a-curated-list/"><u>[Updated] 2024 Approved Stardew's Ultimate Game-Changing Mods A Curated List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gimbal-guide-to-enhancing-mirrorless-and-dslr-footage/"><u>2024 Approved Gimbal Guide to Enhancing Mirrorless and DSLR Footage</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-your-work-efficiency-with-the-ultimate-93-discounted-flip-out-laptop-monitor-exclusive-offer-on-prime-day/"><u>Boost Your Work Efficiency with the Ultimate $93 Discounted Flip-Out Laptop Monitor - Exclusive Offer on Prime Day!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-iphone-xs-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By iPhone XS without the Previous Owner?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/choosing-the-right-macbook-air-pros-and-cons-of-15-inch-vs-13-inch-models-insights-from-tech-experts/"><u>Choosing the Right MacBook Air: Pros and Cons of 15-Inch Vs. 13-Inch Models - Insights From Tech Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experts-rank-the-top-15-inch-laptops-of-2024-in-depth-analysis-and-ratings-for-smart-shoppers-guide/"><u>Experts Rank the Top 15-Inch Laptops of 2024 - In-Depth Analysis and Ratings for Smart Shoppers Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-dells-new-ultra-portable-gaming-laptop-the-perfect-blend-of-power-and-portability-for-the-office/"><u>Introducing Dell's New Ultra-Portable Gaming Laptop: The Perfect Blend of Power and Portability for the Office</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/microsoft-surface-pro-9-vs-macbook-a-comprehensive-guide-for-windows-enthusiasts-seeking-the-ultimate-laptop/"><u>Microsoft Surface Pro 9 Vs. MacBook: A Comprehensive Guide for Windows Enthusiasts Seeking the Ultimate Laptop</u></a></li>
+<li><a href="https://win-studio.techidaily.com/myrecover-professionelle-anleitung-zur-reparatur-und-wiederherstellung-verlorener-partitionen-in-windows-seven/"><u>MyRecover - Professionelle Anleitung Zur Reparatur Und Wiederherstellung Verlorener Partitionen in Windows ˈSeven</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-basics-of-ussd-understanding-unstructured-supplementary-service-data-in-mobile-communications/"><u>The Basics of USSD: Understanding Unstructured Supplementary Service Data in Mobile Communications</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-pre-prime-day-sale-picks-for-savvy-shoppers-analysis/"><u>Ultimate Pre-Prime Day Sale Picks for Savvy Shoppers Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleashing-next-level-productivity-with-the-acer-chromebook-516ge-review-on-zdnet/"><u>Unleashing Next-Level Productivity with the Acer Chromebook 516GE Review on ZDNet</u></a></li>
+</ul></div>
 

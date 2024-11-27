@@ -1,7 +1,7 @@
 ---
 title: "Transformed by Typing: Embracing the Split Ergonomic Keyboard for a Full Seven Days | The ZDNET Experiment"
-date: 2024-11-11T17:47:32.750Z
-updated: 2024-11-17T18:27:00.011Z
+date: 2024-11-21T16:07:53.404Z
+updated: 2024-11-27T17:07:15.970Z
 tags:
   - laptops
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/65d11e70a3e2b524202510534160699ecec295d81
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -107,10 +111,7 @@ The cost of these products might be a barrier for some, especially when combined
 Additionally, the $99 price tag for the pair of magnetic keyboard stands seems a little hard for me to justify. But if you're committed to a premium take on innovative ergonomics, Nuio's lineup is one of the best on the market. 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -149,18 +150,20 @@ The price point for these peripherals is a little steep, particularly when you c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-master-list-of-affordable-websites-boosting-vector-graphics-skills-for-2024/"><u>[New] Master List of Affordable Websites Boosting Vector Graphics Skills for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-updating-your-asrock-motherboard-drivers-where-and-how-to-get-them-online/"><u>Easy Guide to Updating Your ASRock Motherboard Drivers: Where and How to Get Them Online</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722961234111-effortless-driver-downloads-and-updates-for-surface-book-get-started-now/"><u>Effortless Driver Downloads & Updates for Surface Book - Get Started Now!</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ce-productions-no-cost-sounds-available/"><u>Enhance Productions No-Cost Sounds Available</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-and-understand-windows-10-update-error-code-0xc1900208-solved/"><u>How to Fix and Understand Windows 10 Update Error Code 0Xc1900208 [SOLVED]</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-gt-5-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Realme GT 5 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-oneplus-12-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock OnePlus 12 Phone When You Forget the Password</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-superior-select-ringtone-makers-guidebook/"><u>In 2024, Superior Select Ringtone Makers' Guidebook</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-oppo-reno-10-pro-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Oppo Reno 10 Pro 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Vivo Y78t | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/linksys-ae1200-ready-in-a-flash-how-to-quickly-secure-your-latest-router-drivers/"><u>Linksys AE1200 Ready in a Flash - How to Quickly Secure Your Latest Router Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-in-depth-analysis-of-cutting-edge-components/"><u>Tom's Tech Reviews: In-Depth Analysis of Cutting-Edge Components</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-reviving-photo-viewer-on-win-11-methods-explained/"><u>[New] 2024 Approved Reviving Photo Viewer on Win 11 - Methods Explained</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-cutting-edge-psd-outlines-effects/"><u>[Updated] In 2024, Cutting-Edge PSD Outlines Effects</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-inspire-audiences-with-these-high-quality-free-sound-files/"><u>[Updated] Inspire Audiences with These High-Quality, Free Sound Files</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-logitech-c920-driver-updates-for-windows-operating-systems-win11-win10-and-win8/"><u>Compatible Logitech C920 Driver Updates for Windows Operating Systems: Win11, Win10, & Win8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722966240150-download-nvidia-1080-graphics-driver-for-windows-10-quick-and-simple-steps/"><u>Download NVIDIA 1080 Graphics Driver for Windows 10: Quick & Simple Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-pc-gaming-on-dell-g3-by-refreshing-core-system-drivers/"><u>Elevate Your PC Gaming on Dell G3 by Refreshing Core System Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-compatible-realtek-drivers-for-windows-10/"><u>Free Download: Compatible Realtek Drivers for Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-updated-pci-device-software-for-multiple-windows-versions-here/"><u>Get Your Updated PCI Device Software for Multiple Windows Versions Here!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-f04-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy F04 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-access-downloading-the-essential-amd-gpio-drivers/"><u>Instant Access: Downloading the Essential AMD GPIO Drivers</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-installation-guide-for-acer-wireless-network-drivers-no-cost-easy-download/"><u>Quick Installation Guide for Acer Wireless Network Drivers | No Cost, Easy Download</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-converting-wmv-files-to-crisp-clear-gifs/"><u>Ultimate Guide: Converting WMV Files to Crisp, Clear GIFs</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-way-to-color-grading-and-color-correction-in-filmora/"><u>Updated In 2024, Best Way To Color Grading & Color Correction in Filmora</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1724765909516-18/"><u>デジアーティー 18周年記念限定プロジェクトをご紹介</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Prime Day Alert: Discover the Most Efficient Laptop That's Not a ThinkPad or MacBook & Save $300 | ZDNET Exclusive Review"
-date: 2024-11-16T16:52:55.727Z
-updated: 2024-11-17T17:16:55.264Z
+date: 2024-11-21T16:33:08.450Z
+updated: 2024-11-27T16:50:38.213Z
 tags:
   - laptops
 categories:
@@ -20,6 +20,10 @@ Kyle Kucharski/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the Amazon Prime Day deal?
 
 Amazon's October Prime Day event is here, and with its arrival, many laptops are seeing big discounts across the board. The [Asus Vivobook S 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Snapdragon-X1E-78-100-Processor-S5507QAD-PS96%2Fdp%2FB0CWJY4YWF%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C813a4068-bc1e-4f76-b015-0b309b6e2810%7Cdtp&dtb=1) is seeing a $300 discount, dropping from $1,300 to $1,000\. It's the first Asus Copilot Plus PC and comes highly recommended for its performance.
@@ -29,10 +33,7 @@ Amazon's October Prime Day event is here, and with its arrival, many laptops are
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -106,10 +107,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -148,20 +146,17 @@ All things considered, the [sale price of $1,099](https://www.awin1.com/awclick.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-exclusive-video-editing-software-just-for-vimeo-pros/"><u>[New] In 2024, Exclusive Video Editing Software Just For Vimeo Pros</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-instant-guide-restoring-the-old-school-windows-photo-viewer-on-win-11/"><u>[New] Instant Guide Restoring the Old-School Windows Photo Viewer on Win 11</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-top-5-samsung-gear-vr-games-for-2024/"><u>[Updated] Top 5 Samsung Gear VR Games for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/break-new-ground-in-cpu-performance-with-an-amd-ryzen-9700x-overclocked-to-an-impressive-58ghz-and-chilled-by-premium-aio-liquid-cooling-plus-a-surprising-i69/"><u>Break New Ground in CPU Performance with an AMD Ryzen #9700X: Overclocked to an Impressive 5.8GHz and Chilled by Premium AIO Liquid Cooling – Plus, a Surprising Idle Speed of 6 GHz Achieved!</u></a></li>
-<li><a href="https://discover-great.techidaily.com/comment-conversionner-des-fichiers-video-avec-handbrake-une-guide-detaille-pour-changer-mkv-en-mp4-sans-perdre-la-qualite/"><u>Comment Conversionner Des Fichiers Vidéo Avec HandBrake : Une Guide Détaillé Pour Changer MKV en MP4 Sans Perdre La Qualité</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-camon-20-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Camon 20 Pro 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-guide-to-refresh-lenovo-ideapad-t430s-drivers-on-windows-speedy-solutions-inside/"><u>Effortless Guide to Refresh Lenovo IdeaPad T430s Drivers on Windows – Speedy Solutions Inside</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722959139755-get-the-latest-surface-driver-software-effortlessly-downloaded-here/"><u>Get the Latest Surface Driver Software Effortlessly Downloaded Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hp-deskjet-ink-advantage-3050a-updated-drivers-secure-compatibility-with-windows-download-now/"><u>Get Your HP Deskjet Ink Advantage 3050A Updated Drivers: Secure Compatibility with Windows - Download Now</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-civi-3-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Xiaomi Civi 3</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/mono-to-stereo-conversion-discover-these-4-simple-techniques-for-enhanced-listening/"><u>Mono to Stereo Conversion: Discover These 4 Simple Techniques for Enhanced Listening!</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/rapid-fire-creation-of-google-collage-photos/"><u>Rapid-Fire Creation of Google Collage Photos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-upgrading-the-lenovo-thunderbolt-3-portable-dock-drivers/"><u>Step by Step: Upgrading the Lenovo Thunderbolt 3 Portable Dock Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-graphic-card-drivers-in-windows-11/"><u>Step-by-Step Guide: Updating Your Graphic Card Drivers in Windows 11</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-go-viral-with-your-ps4-gaming-moments-online-sharing-secrets-revealed/"><u>Updated 2024 Approved Go Viral with Your PS4 Gaming Moments Online Sharing Secrets Revealed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-simple-screenshot-pro-on-windows-10/"><u>[New] 2024 Approved Simple Screenshot Pro on Windows 10</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-rhythm-and-reels-for-music-masters-on-ig/"><u>2024 Approved Rhythm & Reels for Music Masters on IG</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-hp-laserjet-pro-m127fn-printer-drivers-latest-version/"><u>Download the HP LaserJet Pro M127FN Printer Drivers - Latest Version</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-microsoft-wireless-mouse-5000-up-and-running-fast-easy-drivers/"><u>Get Your Microsoft Wireless Mouse 5000 Up and Running – Fast, Easy Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-tutorial-update-windows-laptoptablet-battery-drivers/"><u>Hassle-Free Tutorial: Update Windows Laptop/Tablet Battery Drivers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-15-must-see-investment-channels-online/"><u>In 2024, 15 Must-See Investment Channels Online</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-what-everyone-should-learn-about-subscribing-to-youtube-tv/"><u>In 2024, What Everyone Should Learn About Subscribing to YouTube TV</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-setup-get-your-intel-nvme-drivers-installed-now/"><u>Quick Setup: Get Your Intel NVMe Drivers Installed Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-canon-mg3022-driver-easily-with-our-comprehensive-download-page/"><u>Update Your Canon MG3022 Driver Easily with Our Comprehensive Download Page</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-content-creators-should-think-twice-before-turning-to-ai-chatbots-8-key-reasons/"><u>Why Content Creators Should Think Twice Before Turning to AI Chatbots: 8 Key Reasons</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726221796446-ogg-movavi/"><u>인터넷에서의 용기 변환: 무료로 OGG 파일을 원자분으로 바꾸기 - Movavi 지원</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Review: The Ultimate Compact & Multi-Functional Chromebook Among Those Tested"
-date: 2024-11-12T19:08:20.887Z
-updated: 2024-11-17T18:39:08.073Z
+date: 2024-11-25T18:03:52.147Z
+updated: 2024-11-27T16:00:24.316Z
 tags:
   - laptops
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -91,10 +95,7 @@ You can also navigate any element of the OS like you would a browser, by swiping
 Finally, the battery life is quite good. Lenovo advertises over 12 hours of use, but I got a little over 10 in my testing. The physical size of the device is going to prevent the 29WHr battery from going much beyond the 10- to 12-hour mark. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -131,17 +132,16 @@ The [Lenovo Chromebook Duet 11-inch](https://shop-links.co/link/?url=https%3A%2F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/download-hp-spectre-x360-drivers-for-windows/"><u>[Download] HP Spectre X360 Drivers For Windows</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-customize-and-captivate-thumbnail-magic-for-shorts-for-2024/"><u>[Updated] Customize & Captivate Thumbnail Magic for Shorts for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-essential-tv-gear-for-premium-live-broadcasts-for-2024/"><u>[Updated] Essential TV Gear for Premium Live Broadcasts for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/adaptive-smart-automation-demonstration-in-accounts-payable/"><u>Adaptive Smart Automation Demonstration in Accounts Payable</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722970404521-easy-installation-of-intel-chipset-drivers-get-them-now/"><u>Easy Installation of Intel Chipset Drivers – Get Them Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-usb-30-software-drivers-in-windows/"><u>Easy Installation of USB 3.0 Software Drivers in Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722967629296-easy-steps-to-fresh-software-upgrade-your-canon-d530s-performance-today/"><u>Easy Steps to Fresh Software: Upgrade Your Canon D530's Performance Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/getting-dts-audio-working-solutions-for-incompatible-sound-devices/"><u>Getting DTS Audio Working: Solutions for Incompatible Sound Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-surface-book-2-graphics-drivers-a-simple-effective-guide/"><u>How to Update Your Surface Book 2 Graphics Drivers - A Simple, Effective Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-advanced-livestream-software-arsenal/"><u>In 2024, Advanced Livestream Software Arsenal</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-youtube-content-strategies-skyrocket-your-ranking/"><u>In 2024, YouTube Content Strategies Skyrocket Your Ranking</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-tecno-spark-10-4g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Tecno Spark 10 4G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-up-to-date-geforce-rtx-3060-ti-drivers-for-enhanced-windows-performance/"><u>[Free Download] Up-to-Date GeForce RTX 3060 Ti Drivers for Enhanced Windows Performance</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-best-youtube-names-generators-plus-how-to-brainstorm/"><u>[New] 2024 Approved Best YouTube Names Generators [+ How to Brainstorm]</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-archive-your-antics-a-practical-guide-to-capturing-and-storing-gif-images-from-twitter/"><u>[New] Archive Your Antics A Practical Guide to Capturing and Storing GIF Images From Twitter</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-pursuit-of-perfection-the-in-depth-review-of-benqs-27-high-def-display-bl2711u/"><u>2024 Approved In Pursuit of Perfection The In-Depth Review of BenQ’s 27” High-Def Display, BL2711U</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-filmmakers-guide-to-enhancing-close-ups-using-kinemaster/"><u>2024 Approved The Filmmaker’s Guide to Enhancing Close-Ups Using Kinemaster</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-amd-radeon-pro-w5700-driver-for-enhanced-performance-on-windows-11-10-and-7/"><u>Download Updated AMD Radeon Pro W5700 Driver for Enhanced Performance on Windows 11, 10 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-install-logitech-wireless-mouse-driver-download-for-windows-pcs/"><u>Easy Install: Logitech Wireless Mouse Driver Download for Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-new-ui-in-windows-11/"><u>Exploring New UI in Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-repairing-the-realtek-rtl8723be-wifi-driver-problem/"><u>Step-by-Step Guide to Repairing the Realtek RTL8723BE WiFi Driver Problem</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stop-automatic-song-replay-in-apple-music-with-these-easy-steps/"><u>Stop Automatic Song Replay in Apple Music with These Easy Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-your-logitech-g9ns-headset-a-guide-for-windriver-fixes/"><u>Troubleshooting Your Logitech G9n_s Headset: A Guide for WinDriver Fixes</u></a></li>
 </ul></div>
 

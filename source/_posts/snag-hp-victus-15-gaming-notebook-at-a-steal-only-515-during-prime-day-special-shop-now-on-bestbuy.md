@@ -1,7 +1,7 @@
 ---
 title: "Snag HP Victus 15 Gaming Notebook at a Steal: Only $515 During Prime Day Special - Shop Now on BestBuy!"
-date: 2024-11-10T22:00:53.442Z
-updated: 2024-11-17T18:50:10.122Z
+date: 2024-11-20T17:24:12.093Z
+updated: 2024-11-27T16:24:38.348Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 **Also: [The best budget gaming laptops: Expert tested](https://www.zdnet.com/article/best-budget-gaming-laptop/)** 
 
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -59,27 +63,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-extensive-insights-deconstructing-the-dji-inspire-1/"><u>[New] Extensive Insights Deconstructing the DJI Inspire 1</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-the-experts-roadmap-to-bulk-downloading-on-tiktok-platform/"><u>[New] In 2024, The Expert's Roadmap to Bulk Downloading on TikTok Platform</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-steps-to-save-your-tweet-videos-in-a-compressed-mp3-file-form/"><u>[New] Steps to Save Your Tweet Videos in a Compressed MP3 File Form</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211323553-9798869177537-45-nde-scott-drummond/"><u>宣布死亡45分钟 - 他所看到的以及它如何永远改变了他的生活 - 濒死体验(NDE) - 斯科特·德拉蒙德 (Scott Drummond) | Free Book</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amazons-ongoing-deals-get-your-8tb-samsung-t5-external-ssd-now-for-a-steep-36-off-after-october-prime-extravaganza-zdnet-insights/"><u>Amazon's Ongoing Deals: Get Your 8TB Samsung T5 External SSD Now for a Steep 36% Off After October Prime Extravaganza | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/beyond-cutting-edge-portables-the-hidden-advantages-of-apples-revolutionary-m3-silicon-chipset-computing-chronicles/"><u>Beyond Cutting-Edge Portables: The Hidden Advantages of Apple's Revolutionary M3 Silicon Chipset | Computing Chronicles</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expand-your-workspace-how-to-use-a-unique-laptop-holder-designed-for-phones-as-secondary-displays-insights-from-zdnet-tech-analysis/"><u>Expand Your Workspace: How to Use a Unique Laptop Holder Designed for Phones as Secondary Displays | Insights From ZDNET Tech Analysis</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-apple-iphone-se-2022-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix Apple iPhone SE (2022) Could Not Be Activated/Reached Issue</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-itel-a70-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Itel A70 Without PUK Codes</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211130890-9782385640217-karma-mode-demploi-karmatherapie/"><u>Karma, mode d'emploi (karmathérapie...) | Free Book</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/master-the-art-of-picking-a-college-laptop-4-crucial-criteria-and-our-picks-top-10-expert-advice-by-zdnet/"><u>Master the Art of Picking a College Laptop: 4 Crucial Criteria and Our Picks (Top 10) | Expert Advice by ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximize-your-workspace-with-this-11-port-usb-hub-now-44-discounted-insights/"><u>Maximize Your Workspace with This 11-Port USB Hub, Now 44% Discounted! - Insights</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-logitech-c615-camera-a-detailed-evaluation-of-value-and-quality/"><u>Unveiling the Logitech C615 Camera: A Detailed Evaluation of Value & Quality</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/will-msis-steam-deck-outplay-established-handheld-gaming-leaders-like-playstation-vita-and-switch-insights-from-industry-experts-zdnet/"><u>Will MSI's Steam Deck Outplay Established Handheld Gaming Leaders Like PlayStation Vita & Switch? Insights From Industry Experts | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/zdnet-unveils-superior-productivity-laptop-for-primes-exclusive-300-discount-not-thinkpad-or-macbook/"><u>ZDNet Unveils Superior Productivity Laptop for Primes - Exclusive $300 Discount! (Not ThinkPad or MacBook)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-preferred-programs-3d-animated-scene-design/"><u>[New] 2024 Approved Preferred Programs 3D Animated Scene Design</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/izzling-shots-capturing-culinary-magic/"><u>[New] Sizzling Shots Capturing Culinary Magic</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-thank-you-in-motion-templates-for-every-budget-level/"><u>[New] Thank You in Motion Templates for Every Budget Level</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1-secure-your-site-for-free-a-step-by-step-guide-to-obtaining-an-ssl-certificate-using-massmail-pro/"><u>1. Secure Your Site for Free: A Step-by-Step Guide to Obtaining an SSL Certificate Using MassMail Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-offer-grab-metas-premium-51/"><u>Exclusive Offer: Grab Meta's Premium 51</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-the-latest-alienware-gaming-laptops-presented-at-ces-2023-essential-information-revealed/"><u>Explore the Latest Alienware Gaming Laptops Presented at CES 2023: Essential Information Revealed</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-realme-10t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-mini-passcode-screen-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 mini Passcode Screen?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-nokia-c12withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Nokia C12with/without a PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/slow-down-not-make-steam-run-fast-find-out-the-secret-fixes-here/"><u>Slow Down Not, Make Steam Run Fast - Find Out the Secret Fixes Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/survival-of-the-toughest-laptops-how-this-rugged-4n00-model-challenges-dell-latitude-in-depth-testing-by-zdnet-expert/"><u>Survival of the Toughest Laptops: How This Rugged $4,N00 Model Challenges Dell Latitude | In-Depth Testing by ZDNet Expert</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-dual-function-gadget-of-the-year-revealed-by-zdnet-featuring-an-office-game-changer/"><u>The Ultimate Dual-Function Gadget of the Year Revealed by ZDNet, Featuring an Office Game Changer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-picks-in-graphic-design-laptops-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top Picks in Graphic Design Laptops: In-Depth Analysis & Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-dual-purpose-tech-of-the-year-unlocking-its-underappreciated-office-potential/"><u>Top Rated Dual-Purpose Tech of The Year - Unlocking Its Underappreciated Office Potential</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-ram-mods-enhancing-your-pcs-performance-for-productivity-and-play-tech-insights/"><u>Top Rated RAM Mods : Enhancing Your PC's Performance for Productivity & Play | Tech Insights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-webcam-apps-compatible-with-camfrog-and-manycam-enhance-your-chats/"><u>Top Webcam Apps Compatible with CamFrog & ManyCam: Enhance Your Chats!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-m1-chip-beyond-just-laptops-and-desktops-a-deep-dive-into-apples-latest-innovation-by-zdnet/"><u>Unveiling the M1 Chip: Beyond Just Laptops & Desktops - A Deep Dive Into Apple's Latest Innovation by ZDNet</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

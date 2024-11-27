@@ -1,7 +1,7 @@
 ---
 title: Score a Bargain with the HP Victus 15 for Only $515 This Anti-Prime Day on Best Buy – Exclusive Gaming Deal Now Live | CNET
-date: 2024-11-11T19:24:56.404Z
-updated: 2024-11-17T18:00:12.253Z
+date: 2024-11-22T17:47:37.346Z
+updated: 2024-11-27T17:05:57.949Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 **Also: [The best budget gaming laptops: Expert tested](https://www.zdnet.com/article/best-budget-gaming-laptop/)** 
 
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -59,22 +63,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-gamers-playbook-mastering-recordings-on-the-latest-w11/"><u>[New] In 2024, The Gamers' Playbook Mastering Recordings on the Latest W11</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-premium-voice-recorder-tools-for-mac-discovering-the-five-top-apps/"><u>[Updated] 2024 Approved Premium Voice Recorder Tools for Mac Discovering The Five Top Apps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/diy-how-to-perform-self-service-repairs-on-your-broken-iphone-or-macbook-with-apples-new-initiative-learn-now/"><u>DIY: How to Perform Self-Service Repairs on Your Broken iPhone or MacBook with Apple's New Initiative - Learn Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-score-your-lenovo-flex-aturkey-deal-at-only-99-this-black-friday-pre-cyber-monday-blitz-zdnet/"><u>Don't Miss Out - Score Your Lenovo Flex Aturkey Deal at Only $99 This Black Friday, Pre-Cyber Monday Blitz | ZDNET</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/innovative-dual-function-the-lenovo-convertible-laptoptablet-that-impresses-in-testing-insights/"><u>Innovative Dual-Function: The Lenovo Convertible Laptop/Tablet That Impresses in Testing - Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/metas-sizzling-october-prime-deal-alert-get-the-new-512gb-quest-3-virtual-reality-headset-at-unmatched-prices-dont-miss-out/"><u>Meta's Sizzling October Prime Deal Alert! Get the New 512GB Quest 3 Virtual Reality Headset at Unmatched Prices – Don't Miss Out!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-a-non-responsive-xbox-on-your-pc/"><u>Reviving a Non-Responsive Xbox on Your PC</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/srt-and-mp4-synergy-a-comprehensive-guide-edition/"><u>SRT & MP4 Synergy A Comprehensive Guide Edition</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-ultimate-guide-to-your-first-adobe-presenter-video-for-2024/"><u>The Ultimate Guide to Your First Adobe Presenter Video for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-navigating-virtual-escapes-tour-techniques-for-2024/"><u>[New] Navigating Virtual Escapes Tour Techniques for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-enhancing-photos-through-smart-dynamic-range-methods-for-2024/"><u>[Updated] Enhancing Photos Through Smart Dynamic Range Methods for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-experts-picks-for-high-quality-vector-websites-for-2024/"><u>[Updated] The Expert's Picks for High-Quality Vector Websites for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-simplified-shopping-top-5-latest-upgrades-on-amazon-enhancing-product-search-for-users/"><u>Discover Simplified Shopping: Top 5 Latest Upgrades on Amazon Enhancing Product Search for Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-mac-customization-changing-command-key-settings-as-explained/"><u>Mastering Mac Customization: Changing Command Key Settings as Explained</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-diablo-3-crashing-problems-with-these-proven-fixes/"><u>Overcome Diablo 3 Crashing Problems with These Proven Fixes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/prime-day-vr-savings-alert-get-the-best-deal-on-metas-512gb-quest-3-this-october-insider-tips-from-zdnet/"><u>Prime Day VR Savings Alert: Get the Best Deal on Meta’s 512GB Quest 3 This October – Insider Tips From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/prolific-path-to-excellence-our-top-7-windows-11-widget-choices/"><u>Prolific Path to Excellence: Our Top 7 Windows 11 Widget Choices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/thrilled-and-tearful-over-the-m2-macbook-air-from-apple-an-in-depth-analysis-by-a-tech-guru-at-zdnet/"><u>Thrilled and Tearful Over the M2 MacBook Air From Apple | An In-Depth Analysis by a Tech Guru at ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-23-amazing-laptop-bargains-this-labor-day-still-available-on-zdnet/"><u>Top 23 Amazing Laptop Bargains This Labor Day - Still Available on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-picks-for-hybrid-friendly-thinkpads-that-arent-just-recent-releases-expert-insights/"><u>Top Picks for Hybrid-Friendly ThinkPads That Aren't Just Recent Releases | Expert Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-kids-mobile-devices-a-guide-by-zdnet/"><u>Top-Rated Kid's Mobile Devices: A Guide by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-dells-luxurious-gaming-laptop-at-3000-an-eye-opening-experience-with-unique-perks/"><u>Unveiling Dell's Luxurious Gaming Laptop at $3,000 - An Eye-Opening Experience with Unique Perks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/x-voice-capture-software-pc/"><u>X-Voice Capture Software, PC</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

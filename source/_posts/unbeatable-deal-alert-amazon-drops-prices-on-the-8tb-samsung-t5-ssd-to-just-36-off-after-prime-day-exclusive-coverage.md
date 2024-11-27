@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Deal Alert! Amazon Drops Prices on the 8TB Samsung T5 SSD to Just 36%% Off After Prime Day - Exclusive Coverage
-date: 2024-11-13T16:54:58.266Z
-updated: 2024-11-17T19:44:57.384Z
+date: 2024-11-20T17:55:00.787Z
+updated: 2024-11-27T17:03:11.997Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Taylor Clemons/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET takeaways
 
@@ -75,16 +79,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -96,16 +91,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -142,18 +128,20 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-pioneering-pedagogy-choosing-from-the-premier-10-lecture-recorders/"><u>[New] In 2024, Pioneering Pedagogy Choosing From the Premier 10 Lecture Recorders</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2023-browser-snapshot-winners-announced-in-2024/"><u>[Updated] 2023 Browser Snapshot Winners Announced, In 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-keeping-track-of-changed-followers-on-instagram/"><u>[Updated] In 2024, Keeping Track of Changed Followers on Instagram</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-samsung-m2070-ready-quick-driver-download-guide/"><u>Get Your Samsung M2070 Ready! Quick Driver Download Guide</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/guide-effortlessly-moving-your-kindle-ebooks-from-pc-to-mac/"><u>Guide: Effortlessly Moving Your Kindle eBooks From PC to MAC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-install-webcam-support-in-windows-amoning/"><u>How to Seamlessly Install WebCam Support in Windows amoNing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-pcs-wifi-drivers-in-windows-11-and-10/"><u>How to Update Your PC's WiFi Drivers in Windows 11 and 10</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Honor Play 40C? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/steps-to-preventing-pc-crashes-caused-by-the-gray-zone-warfare-problem/"><u>Steps to Preventing PC Crashes Caused by the Gray Zone Warfare Problem</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/successfully-installing-the-latest-mouse-drivers-on-your-windows-7-system/"><u>Successfully Installing the Latest Mouse Drivers on Your Windows 7 System</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/top-7-unbreakable-methods-for-complete-file-deletion-on-your-computer/"><u>Top 7 Unbreakable Methods for Complete File Deletion on Your Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722969953856-update-your-brother-hl-l2370dw-printer-with-the-newest-free-software-version/"><u>Update Your Brother HL-L2370DW Printer with the Newest, FREE Software Version!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ignite-interest-a-list-of-30-video-themes/"><u>[New] Ignite Interest A List of 30 Video Themes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-from-basic-recording-to-masterpiece-your-webcam-guide/"><u>[New] In 2024, From Basic Recording to Masterpiece Your WebCam Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tweet-to-whatsapp-video-dissemination-methods/"><u>[New] In 2024, Tweet-to-WhatsApp Video Dissemination Methods</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-crafting-a-plan-evaluating-your-igtv-engagement-levels/"><u>[Updated] 2024 Approved Crafting a Plan Evaluating Your IGTV Engagement Levels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-undo-macos-sierras-os-x-transition/"><u>2024 Approved How to Undo MacOS Sierra's OS X Transition</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/creative-tims-elite-flutter-framework-unleash-the-potential-of-now-ui-pro-for-exceptional-app-design/"><u>Creative Tim's Elite Flutter Framework: Unleash the Potential of Now UI Pro for Exceptional App Design</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-for-installing-soundmax-audio-drivers-on-your-pc-with-windows-os/"><u>Easy Steps for Installing SoundMAX Audio Drivers on Your PC with Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-to-address-lg-display-driver-concerns-across-windows-11-8-and-7-systems/"><u>Expert Tips to Address LG Display Driver Concerns Across Windows 11, 8, and 7 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-drivers-for-your-microsoft-surface-book-2-in-just-a-few-minutes/"><u>Get the Newest Drivers for Your Microsoft Surface Book 2 in Just a Few Minutes!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-geforce-rtx-3070-driver-updates-and-download-for-your-pc-windows-1110-supported/"><u>Get the Newest GeForce RTX 3070 Driver Updates & Download for Your PC (Windows 11/10 Supported)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-the-most-recent-epson-tm-t88v-driver-version-for-your-windows-pc-step-by-step/"><u>How to Download and Install the Most Recent EPSON TM-T88V Driver Version for Your Windows PC - Step by Step</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-enhancing-collaboration-whiteboard-tactics-for-all-zoom-users/"><u>In 2024, Enhancing Collaboration Whiteboard Tactics for All Zoom Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultra-hd-revolution-dissecting-samsungs-ue590-tv/"><u>In 2024, The Ultra HD Revolution - Dissecting Samsung's UE590 TV</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-installation-of-updated-d-link-drivers-in-windows-expert-tips-and-solutions/"><u>Seamless Installation of Updated D-Link Drivers in Windows - Expert Tips & Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-for-upgrading-your-nvidia-graphics-drivers/"><u>Step-by-Step Instructions for Upgrading Your NVIDIA Graphics Drivers</u></a></li>
 </ul></div>
 

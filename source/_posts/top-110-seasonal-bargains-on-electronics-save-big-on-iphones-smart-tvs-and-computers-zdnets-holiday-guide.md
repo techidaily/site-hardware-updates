@@ -1,7 +1,7 @@
 ---
 title: Top 110 Seasonal Bargains on Electronics - Save Big on iPhones, Smart TVs & Computers | ZDNet's Holiday Guide
-date: 2024-11-14T19:24:22.612Z
-updated: 2024-11-17T23:23:16.874Z
+date: 2024-11-26T19:41:16.055Z
+updated: 2024-11-27T19:10:39.455Z
 tags:
   - laptops
 categories:
@@ -46,16 +46,7 @@ Many of these deals have been available on and off since Black Friday, but we're
 * [LG 23 cu ft side-by-side Refrigerator for $1400 (save $250)](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/.product.4000037861.html)
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Best Costco Cyber Monday deals still available**
@@ -122,6 +113,10 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [Acer Swift Edge 16" 4K OLED Laptop for $1,000 (Save $500) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/acer-swift-edge-16%22-4k-oled-laptop---amd-ryzen-7-6800u---windows-11.product.4000056371.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Costco Cyber Monday gaming deals still available**
 
 [HP Victus gaming desktop Radeon RX 6600XT for $700 (Save $300) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/hp-victus-gaming-desktop---amd-ryzen-7-5700g---radeon-rx-6600xt.product.4000056482.html)
@@ -136,13 +131,6 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [Roku Ultra 4K + Roku Stick 4K for $90 (save $40) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/roku-ultra-4k-%282022%29-with-voice-remote-pro-&-roku-stick-4k-with-voice-remote.product.100839742.html)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Costco Cyber Monday tablet deals still available**
 
 [Samsung Galaxy Tab A8 + Book cover for $220 (Save $80) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/samsung-galaxy-tab-a8-10.5%22-wi-fi-tablet-64gb---silver---includes-book-cover.product.100830442.html)
@@ -150,6 +138,10 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 [Samsung Galaxy 12.4" Tab S7 + Keyboard for $460 (Save $140) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/samsung-galaxy-12.4%22-tab-s7-fe-wi-fi-tablet-64gb---mystic-black---includes-keyboard.product.100792001.html)
 
 [Samsung Galaxy 10.4-inch S6 Lite Tab + Book cover for $260 (save $120) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/samsung-galaxy-10.4%22-tab-s6-lite-64gb---oxford-gray---includes-book-cover.product.100660228.html)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Costco Cyber Monday headphone deals still available**
 
@@ -161,15 +153,16 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [Apple AirPods (2nd Gen) for $100 (save $20) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/apple-airpods-wireless-headphones-with-charging-case-%282nd-generation%29.product.100487204.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Costco Cyber Monday smartwatch deals still available**
 
 [Apple Watch Series 8 GPS (in Silver or Midnight) for $350 (Save $40) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/apple-watch-series-8-gps.product.100813018.html)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Costco Cyber Monday camera deals still available**
@@ -180,6 +173,10 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [Google Nest Cam 3-Pack for $300 (Save $100) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/google-nest-cam-%28outdoor-or-indoor%2c-battery%29-3-pack.product.100798317.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Costco Cyber Monday smart home deals still available**
 
 [Blink whole-home security system bundle for $200 (Save $100) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/blink-whole-home-security-system-bundle.product.100805528.html)
@@ -189,22 +186,12 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 [Ring Security 14-pc Kit for $230 (Save $120) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/ring-security-alarm-14-piece-kit-%28gen-2%29-with-stick-up-cam%2c-smokeco-listener-and-range-extender.product.100849368.html)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these Cyber Monday Costco deals?
 
 As a Costco member, I'm always on the lookout for the best deals and, thankfully, Costco makes this easy by consistently offering great deals on high-quality items. Here at ZDNET, we do the legwork for you and round up the best ones through research, experience, and our own expertise.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What's the best Costco membership type?
 
@@ -220,10 +207,7 @@ Here's how the different memberships stack up:
 | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Additional benefits for Travel and Costco services                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What were Costco's holiday hours during Black Friday and Cyber Monday?
@@ -249,13 +233,6 @@ ZDNET scoured holiday sales to find the best deals this year:
 * [The best holiday 2022 deals](https://www.zdnet.com/article/best-early-black-friday-deals-amazon-walmart-best-buy-and-more/)
 
 Our experts split out the best deals by retailer, brand, and category, which you can see below. 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Holiday deals by retailer**
 
@@ -347,22 +324,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-quick-guide-installing-and-exploring-ifunnys-meme-app-for-2024/"><u>[Updated] Quick Guide Installing & Exploring iFunny's Meme App for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-understanding-virtual-reality-vernacular/"><u>[Updated] Understanding Virtual Reality Vernacular</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1-eficaz-y-rapido-tres-soluciones-simplificadas-para-la-sincronizacion-de-tu-unidad-d-con-onedrive/"><u>1. Eficaz Y Rápido: Tres Soluciones Simplificadas Para La Sincronización De Tu Unidad D Con OneDrive</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-diy-tips-to-cut-unwanted-sounds-from-your-videos/"><u>2024 Approved DIY Tips to Cut Unwanted Sounds From Your Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-how-to-effortlessly-connect-zoom-with-gmail/"><u>2024 Approved How to Effortlessly Connect Zoom with Gmail</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-stay-ahead-the-guide-to-facebooks-new-algorithm/"><u>2024 Approved Stay Ahead The Guide to Facebook's New Algorithm</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722962148772-easily-update-your-pc-with-the-latest-canon-mf743cdw-driver-for-windows/"><u>Easily Update Your PC with the Latest Canon MF743CDW Driver for Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-toshiba-drivers-and-updates-compatible-with-your-windows-system/"><u>Get the Latest Toshiba Drivers and Updates Compatible with Your Windows System</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-zte-axon-40-lite-phone-without-password-by-drfone-android/"><u>How To Unlock ZTE Axon 40 Lite Phone Without Password?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-motorola-defy-2-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Motorola Defy 2 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-brother-hl-228eb4-driver-software-on-windows-11-windows-10-windows-8-and-7-computers/"><u>Install Brother HL-228eb/4 Driver Software on Windows 11, Windows 10, Windows 8 & 7 Computers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-lexar-usb-drivers-with-one-click-secure-simple-and-speedy/"><u>Install Lexar USB Drivers with One Click: Secure, Simple, and Speedy</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-synaptics-touchpad-drivers-download-and-update-made-simple-for-windows-users/"><u>Latest Synaptics Touchpad Drivers: Download & Update Made Simple for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/overcoming-realtek-wifi-driver-challenges-fixing-issues-across-various-windows-versions/"><u>Overcoming Realtek WiFi Driver Challenges – Fixing Issues Across Various Windows Versions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-guide-easily-obtaining-the-most-recent-graphics-driver-for-your-dell-d3100-laptop/"><u>Quick Guide: Easily Obtaining the Most Recent Graphics Driver for Your Dell D3100 Laptop</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolved-troubleshooting-windows-7-network-adapter-drivers/"><u>Resolved: Troubleshooting Windows 7 Network Adapter Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/solving-problems-with-the-realtek-rtl8811au-network-adapter-driver/"><u>Solving Problems with the Realtek RTL8811AU Network Adapter Driver</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-affordable-cloud-vaulting-mass-file-saving-made-cheap/"><u>[Updated] Affordable Cloud Vaulting Mass File Saving Made Cheap</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convert-swf-files-easily-for-free-avi-format-on-the-web-using-movavis-tool/"><u>Convert SWF Files Easily for Free: Avi Format on the Web Using Movavi's Tool</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/cyberpowers-basic-ups-model-cp685avrg-under-the-microscope-a-review-of-essential-features-and-reliability/"><u>Cyberpower's Basic UPS Model CP685AVRG Under the Microscope: A Review of Essential Features and Reliability</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/educators-essential-video-recording-gadgets-top-10-picks-for-2024/"><u>Educator's Essential Video Recording Gadgets Top 10 Picks for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevating-titles-in-after-effects-best-practices/"><u>Elevating Titles in After Effects Best Practices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-full-functionality-of-your-epson-v39-by-downloading-the-correct-drivers-for-windows-systems-v7-10/"><u>Ensure Full Functionality of Your Epson V39 by Downloading the Correct Drivers for Windows Systems (V7-10)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-epson-ds-530-printer-drivers-on-a-64-bit-windows-10-machine/"><u>How to Install Epson DS-530 Printer Drivers on a 64-Bit Windows 10 Machine</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210812092-9780646876313-i-am-made-for-magic/"><u>I am made for M.A.G.I.C. | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-the-newest-logitech-brio-webcam-driver-for-seamless-integration-with-windows-systems-w11-w8-w7/"><u>Install the Newest Logitech Brio Webcam Driver for Seamless Integration with Windows Systems (W11, W8, W7)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphoneipad-type-out-troubles-6-fixes-that-work/"><u>IPhone/iPad Type-Out Troubles? 6 Fixes That Work</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-canon-mp250-printer-driver-installation-and-version-enhancement/"><u>Latest Canon MP250 Printer Driver Installation and Version Enhancement</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solved-how-to-restore-functionality-of-a-non-working-logitech-g433-mic/"><u>Solved! How to Restore Functionality of a Non-Working Logitech G433 Mic</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-selection-leading-compact-projection-units-of-2024-revealed/"><u>Ultimate Selection: Leading Compact Projection Units of 2024 Revealed</u></a></li>
 </ul></div>
 

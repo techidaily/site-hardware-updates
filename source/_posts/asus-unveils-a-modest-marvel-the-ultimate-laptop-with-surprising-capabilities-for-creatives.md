@@ -1,7 +1,7 @@
 ---
 title: "Asus Unveils a Modest Marvel: The Ultimate Laptop with Surprising Capabilities for Creatives"
-date: 2024-11-14T17:15:41.388Z
-updated: 2024-11-17T18:16:34.270Z
+date: 2024-11-26T19:33:48.970Z
+updated: 2024-11-27T18:37:59.148Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -69,10 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,20 +112,18 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-giggles-galore-crafting-memes-in-adobe/"><u>[New] Giggles Galore Crafting Memes in Adobe</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-solvedhow-to-blur-faces-or-objects-in-youtube-videos/"><u>[New] In 2024, Solved How to Blur Faces or Objects in YouTube Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unearthing-the-best-free-mac-apps-for-speech-to-text/"><u>2024 Approved Unearthing the Best Free Mac Apps for Speech to Text</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amds-watercooled-warrior-ryzen-9-9950x-shines-at-5-worldwide-speed-ranking-on-the-notorious-time-spy-extreme-test/"><u>AMD's Watercooled Warrior - Ryzen 9 9950X Shines at #5 Worldwide Speed Ranking on the Notorious Time Spy Extreme Test</u></a></li>
-<li><a href="https://fox-info.techidaily.com/bringing-realities-closer-google-cardboard-vs-samsung-gear-for-2024/"><u>Bringing Realities Closer Google Cardboard Vs. Samsung Gear for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/budget-friendly-skies-in-depth-analysis-of-the-holy-stone-hs170-predator-mini-drone/"><u>Budget-Friendly Skies: In-Depth Analysis of the Holy Stone HS170 Predator Mini Drone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/drivers-for-hp-download-and-install-easily/"><u>Drivers for HP Download & Install EASILY!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-printer-driver-for-officejet-pro-8610-on-windows-11-8-and-earlier-versions/"><u>Get the Latest HP Printer Driver for Officejet Pro 8610 on Windows 11, 8 & Earlier Versions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-zexmte-bluetooth-usb-driver-here-works-with-win10-7-and-8/"><u>Get Your Zexmte Bluetooth USB Driver Here - Works with Win10, 7, and 8!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/masterclass-crafting-an-optimized-gaming-pc-that-doubles-as-a-prolific-chia-miner/"><u>Masterclass: Crafting an Optimized Gaming PC That Doubles as a Prolific Chia Miner</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-razer-blade-17-updates-across-multiple-windows-versions-drive-optimization-tips/"><u>Mastering Razer Blade 17 Updates Across Multiple Windows Versions - Drive Optimization Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-driver-update-process-for-your-netgear-wna-3100-device/"><u>Seamless Driver Update Process for Your Netgear WNA 3100 Device</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210743679-9781538740972-spiritual-anatomy/"><u>Spiritual Anatomy | Free Book</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/techniques-for-turning-youtube-hosted-tweets-into-audio-files/"><u>Techniques for Turning YouTube-Hosted Tweets Into Audio Files</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-resource-for-gamers-insights-from-toms-hardware/"><u>The Ultimate Resource for Gamers: Insights From Tom's Hardware</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-gamers-ultimate-companion-top-5-4k-tvs/"><u>[Updated] 2024 Approved Gamer's Ultimate Companion Top 5 4K TVs</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-ignite-engagement-top-3-youtube-live-stream-tips-for-understaffed-viewership/"><u>[Updated] Ignite Engagement Top 3 YouTube Live Stream Tips for Understaffed Viewership</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-right-drivers-for-your-xbox-360-controller/"><u>Download and Install the Right Drivers for Your Xbox 360 Controller</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-realtek-bluetooth-drivers-compatible-with-windows-11-and-windows-10/"><u>Download Updated RealTek Bluetooth Drivers - Compatible with Windows 11 and Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-msi-x470-chipset-drivers-immediate-download-available/"><u>Get the Latest MSI X470 Chipset Drivers - Immediate Download Available</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-keep-your-acer-nitro-5-running-smoothly-updating-essential-device-drivers/"><u>How to Keep Your Acer Nitro 5 Running Smoothly: Updating Essential Device Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969138782-how-to-quickly-acquire-updated-surface-device-drivers-your-guide/"><u>How to Quickly Acquire Updated Surface Device Drivers – Your Guide!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-poco-x6-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Poco X6</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location On Facebook Dating for your Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-xiaomi-13-ultra-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Xiaomi 13 Ultra to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/superior-screen-refinement-software-for-video-lovers/"><u>Superior Screen Refinement Software for Video Lovers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-canon-editing-kit-freepay-for-luts-included-for-2024/"><u>Ultimate Canon Editing Kit - Free/Pay for LUTs Included for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-90-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Honor 90 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 

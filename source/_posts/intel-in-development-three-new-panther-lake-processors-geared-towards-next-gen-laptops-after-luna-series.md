@@ -1,7 +1,7 @@
 ---
 title: "Intel in Development: Three New Panther Lake Processors Geared Towards Next-Gen Laptops After Luna Series"
-date: 2024-08-28T02:14:55.012Z
-updated: 2024-08-29T02:14:55.012Z
+date: 2024-11-24T17:12:24.250Z
+updated: 2024-11-27T17:07:42.001Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
 
  Ryzen 9 9950X’s performance boosts over the 7950X are nothing to scoff at. While some overclocking headroom is lost over the 7950X, AMD’s own[benchmarks](https://www.tomshardware.com/tag/benchmark) and[recent leaked tests in the wild](https://www.tomshardware.com/pc-components/cpus/amds-new-zen-5-flagship-gets-benchmarked-ryzen-9-9950x-engineering-sample-isnt-as-impressive-in-blender-at-maximum-power-settings) show a 30% increase in performance for the same wattage. For more details from Zen 5 Tech Day about the entire Granite Ridge lineup and Strix Point,[see our full coverage of the event](https://www.tomshardware.com/pc-components/cpus/amd-deep-dives-zen-5-ryzen-9000-and-strix-point-cpu-rdna-35-gpu-and-xdna-2-architectures) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,14 +43,11 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,8 +56,24 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-comprehensive-guidebook-on-crafting-engaging-videotutorials/"><u>[New] In 2024, Comprehensive Guidebook on Crafting Engaging Videotutorials</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-channel-cashflow-effective-tactics-for-monetizing-on-mobile-devices/"><u>2024 Approved Channel Cashflow Effective Tactics for Monetizing on Mobile Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-maximize-video-discoverability-key-youtube-seo-techniques/"><u>2024 Approved Maximize Video Discoverability Key YouTube SEO Techniques</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-professionals-complete-handbook-to-fcp-mastery/"><u>2024 Approved Professional's Complete Handbook to FCP Mastery</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-clear-out-instructions-for-disabling-an-old-linkedin-profile/"><u>2024 Approved The Clear-Out Instructions for Disabling an Old LinkedIn Profile</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discovering-the-hidden-gems-how-dell-delivers-quality-in-their-affordable-feature-rich-laptops-a-comprehensive-review/"><u>Discovering the Hidden Gems: How Dell Delivers Quality in Their Affordable, Feature-Rich Laptops - A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-deal-alert-snag-a-discounted-macbook-pro-m1-max-for-just-1100-at-bandh-photos-epic-black-friday-event/"><u>Exclusive Deal Alert: Snag a Discounted MacBook Pro M1 Max for Just $1,100 at B&H Photo’s Epic Black Friday Event</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-offer-grab-metas-limited-time-512gb-quest-3-for-just-xxx-during-october-prime-day-top-seller/"><u>Exclusive Offer: Grab Meta's Limited-Time 512GB Quest 3 for Just $XXX During October Prime Day – Top Seller !</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-honor-x50iplus-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Honor X50i+</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/itel-p55plus-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Itel P55+ ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/outperforming-apples-icon-how-lg-gram-pro-laptops-triumph-over-macbook-air-in-three-key-aspects-expert-review-at-zdnet/"><u>Outperforming Apple's Icon: How LG Gram Pro Laptops Triumph over MacBook Air in Three Key Aspects | Expert Review at ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/slash-price-for-gamers-unveiling-the-acer-nitro-5-with-an-exceptional-250-off-spotted/"><u>Slash Price for Gamers: Unveiling the Acer Nitro 5 with an Exceptional $250 Off - Spotted !</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-role-of-storytelling-in-enhancing-user-engagement-on-fb/"><u>The Role of Storytelling in Enhancing User Engagement on FB</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-antivirus-programs-comprehensive-review/"><u>Top-Ranking Antivirus Programs : Comprehensive Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transformed-by-typing-embracing-the-split-ergonomic-keyboard-for-a-full-seven-days-the-zdnet-experiment/"><u>Transformed by Typing: Embracing the Split Ergonomic Keyboard for a Full Seven Days | The ZDNET Experiment</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-enhanced-productivity-with-our-picked-lenovo-laptop-for-hybrid-jobs-available-now-at-1000-less-insights/"><u>Unlock Enhanced Productivity with Our Picked Lenovo Laptop for Hybrid Jobs, Available Now at $1,000 Less | Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-digital-gateway-easy-desktop-connectivity-with-win-11/"><u>Unlocking the Digital Gateway: Easy Desktop Connectivity with Win 11</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

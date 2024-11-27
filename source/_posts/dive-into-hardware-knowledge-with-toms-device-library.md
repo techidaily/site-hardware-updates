@@ -1,7 +1,7 @@
 ---
 title: Dive Into Hardware Knowledge with Tom’s Device Library
-date: 2024-08-28T02:10:13.067Z
-updated: 2024-08-29T02:10:13.067Z
+date: 2024-11-22T16:16:47.953Z
+updated: 2024-11-27T16:05:44.952Z
 tags:
   - cpu
 categories:
@@ -42,6 +42,10 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
 
  Sadly, we will have to wait a little longer than expected to get chips like the AMD Ryzen 9 9950X in Tom’s Hardware labs. Yesterday the news broke that these Zen 5 desktop chips would start to[roll out in August](https://www.tomshardware.com/pc-components/cpus/amd-delays-its-ryzen-9000-launch-due-to-unspecified-quality-issue-new-launch-in-august-chipmaker-pulls-back-all-units-shipped-globally-for-quality-checks) due to unspecified quality issue(s).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -50,14 +54,11 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -66,8 +67,19 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-peak-playtime-youtubes-most-gigantic-video-hours-count/"><u>[Updated] The Peak Playtime YouTube's Most Gigantic Video Hours Count</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-video-production-pro-tips-incorporating-audio-into-youtube-content/"><u>[Updated] Video Production Pro Tips Incorporating Audio Into YouTube Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-checkpoint-a-2021-review-of-vegas-pros-latest-features/"><u>2024 Approved The Ultimate Checkpoint A 2021 Review of Vegas Pro's Latest Features</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Infinix Note 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-note-50-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme Note 50 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/just-40-instant-discount-on-nordvpn-and-microsoft-office-suite-limited-offer/"><u>Just $40 Instant Discount on NordVPN & Microsoft Office Suite - Limited Offer</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-multimedia-content-putting-photos-together-on-insta-story-for-2024/"><u>Mastering Multimedia Content Putting Photos Together on Insta Story for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionary-m3-macbook-air-unveiled-the-new-accessible-ai-powered-laptop-from-apple-comprehensive-review-on-zdnet/"><u>Revolutionary M3 MacBook Air Unveiled: The New Accessible, AI-Powered Laptop From Apple - Comprehensive Review on ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-silent-streaming-issues-on-twitch-solutions-and-tips/"><u>Troubleshooting Silent Streaming Issues on Twitch: Solutions and Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726030567132-wavmp3/"><u>WAVからMP3への迅速なバッチ変換テクニックを学ぶ</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-professionals-prefer-this-lenovo-laptop-unveiling-its-two-key-attributes-for-power-use/"><u>Why Professionals Prefer This Lenovo Laptop: Unveiling Its Two Key Attributes for Power Use</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnet-highlights-metas-exclusive-deal-on-the-new-512gb-oculus-quest-3-a-must-have-steal-this-octobers-prime-day-vr-offer/"><u>ZDNet Highlights Meta's Exclusive Deal on the New 512GB Oculus Quest 3 – A Must-Have Steal This October’s Prime Day VR Offer!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->

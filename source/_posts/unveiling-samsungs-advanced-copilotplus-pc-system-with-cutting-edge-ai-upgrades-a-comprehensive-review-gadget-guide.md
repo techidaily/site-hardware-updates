@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Samsung's Advanced Copilot+ PC System with Cutting-Edge AI Upgrades: A Comprehensive Review | Gadget Guide"
-date: 2024-11-11T23:06:16.246Z
-updated: 2024-11-17T19:54:20.251Z
+date: 2024-11-20T19:30:13.627Z
+updated: 2024-11-27T16:44:44.426Z
 tags:
   - laptops
 categories:
@@ -48,6 +48,10 @@ I've been testing the base [$2,200 variant](https://shop-links.co/link/?url=http
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | Display     | 16-inch 3K AMOLED (2,880 x 1,800, 16:10) with 120Hz                                |
@@ -62,13 +66,6 @@ I've been testing the base [$2,200 variant](https://shop-links.co/link/?url=http
 | Price       | [Starting at $2,200](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-book3-ultra%2Fbuy%2F) |
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Textbook design, period.
 
@@ -86,13 +83,6 @@ Doing so also exposes two flaws of the Galaxy Book 3 Ultra: the wobbliness and g
 
 Will you notice the shaking when you're laser-focused on what's being displayed? Probably not. Would a matte display have served better for viewing comfort? Absolutely.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Live by the display…
 
 Believe it or not, I still consider the Galaxy Book 3 Ultra's display to be one of its key selling points. You're looking at a 16-inch, 120Hz, 3K, AMOLED display, with [most of its tech carried over](https://www.zdnet.com/article/samsung-display-brings-advanced-smartphone-oled-touch-tech-to-notebooks/) from the sharp, great-looking panels from Samsung's high-end smartphones. The colors on the laptop are, to say the least, punchy, visually distinctive, and plenty bright for most environments. Gaming and multimedia consumption are an absolute treat on the Galaxy Book.
@@ -104,6 +94,10 @@ For content creation and multitasking, the wider 16:10 dimension here is ideal. 
 The thin bezels make the 16-inch display a little more manageable.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best use of space?
 
@@ -118,6 +112,10 @@ The keys have a decent amount of travel and are evenly spaced throughout the cha
 June Wan/ZDNET
 
 Another thing that I don't love is the trackpad. While massive, the new trackpad is not only off-centered but doesn't register presses on the upper half of it. As a result, there were plenty of times when the laptop would register a double tap as a single tap and vice versa. Keep in mind that I was coming from the MacBook Pro and have been absolutely spoiled by its Force Touch trackpad.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A dedicated graphics card matters
 
@@ -157,16 +155,13 @@ In fact, all the product photos in this review were captured by the [Galaxy S23 
 
 [Buy the Samsung Galaxy Book 3 Ultra $2,200 at Samsung](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-book3-ultra%2Fbuy%2F%3F&publisher_slug=itechdaily19598&exclusive=1)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 Ultimately, the Galaxy Book 3 Ultra [starts at $2,200](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-book3-ultra%2Fbuy%2F%3F&publisher_slug=itechdaily19598&exclusive=1) for the Intel Core i7, Nvidia GeForce RTX 4050, 16GB of RAM, and 512GB of storage configuration. That's a big price for a big laptop, but if we're comparing it with its closest Apple alternative, then Samsung is undercutting the [16-inch MacBook Pro (M2)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BSHF7LLL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07697e1f-c06e-4c15-b2ea-0f8024c04589%7Cdtp&dtb=1) by about $300\. And in Samsung's defense, it's giving you a lot for the money, including a dedicated graphics card, one of the best-looking laptop displays on the market, and an uncompromising keyboard experience. The only notable shortcomings are the glossy screen, the obnoxiously large trackpad, and the moderate battery life.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -175,10 +170,7 @@ For content creators and professional users, especially if you already own a [Sa
 But at a starting price of $2,200, there are plenty of other, more affordable yet just as powerful laptops that you should be considering, including the [last-gen MacBook Pro (M1 Pro)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-16-inch-10%E2%80%91core-16%E2%80%91core%2Fdp%2FB09JQKBQSB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07697e1f-c06e-4c15-b2ea-0f8024c04589%7Cdtp&dtb=1). I'd also look elsewhere if you rely heavily on an SD card for file transferring. In my case, I'm always taking pictures and videos with a mirrorless camera, and being able to move my files locally, with no fear of wonky wireless connections getting in the way, is a must.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -227,20 +219,18 @@ While the two alternatives above are more subtle by design, the Asus ZenBook 14 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-ios-video-posting-made-easy-step-by-step-guide/"><u>[Updated] IOS Video Posting Made Easy Step-by-Step Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-ultimate-terria-customization-collection/"><u>[Updated] Ultimate Terria Customization Collection</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-compatible-hp-spectre-x360-driver-pack-for-windows/"><u>Free Download: Compatible HP Spectre X360 Driver Pack for Windows</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-adopting-new-norms-analyzing-changes-in-social-media-with-tiktok-vs-snapchat/"><u>In 2024, Adopting New Norms Analyzing Changes in Social Media with TikTok Vs Snapchat</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-tech-choices-understanding-key-divergences-between-mac-and-pc/"><u>Navigating Tech Choices: Understanding Key Divergences Between Mac and PC</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/swiftly-tackle-code-with-moves-a-comprehensive-guide-to-a-unique-programming-approach/"><u>Swiftly Tackle Code with Moves: A Comprehensive Guide to a Unique Programming Approach</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tech-insights-from-zdnet-success-and-pitfalls-of-using-ankers-powerhouse-767-to-charge-your-electric-vehicle/"><u>Tech Insights From ZDNET: Success and Pitfalls of Using Anker's PowerHouse #767 to Charge Your Electric Vehicle</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-labor-day-2024-tv-offers-extended-your-ultimate-guide-for-seniors-find-the-best-deals/"><u>Top Labor Day 2024 TV Offers Extended: Your Ultimate Guide for Seniors - Find the Best Deals!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-value-for-money-gaming-displays-a-comprehensive-guide-zdnet/"><u>Top Value-for-Money Gaming Displays : A Comprehensive Guide - ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/transforming-your-budget-achieving-stellar-picture-and-audio-on-a-98-inch-tv-without-breaking-the-bank-zdnet/"><u>Transforming Your Budget: Achieving Stellar Picture & Audio on a 98-Inch TV without Breaking the Bank | ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-the-most-effective-indoor-tv-antenna-in-2eplust4-zdnets-in-depth-testing-and-rankings/"><u>Ultimate Guide to the Most Effective Indoor TV Antenna in 2E+t4 - ZDNet's In-Depth Testing and Rankings</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-alert-save-200-on-the-stunning-58-hisense-4k-fire-tv-now-at-just-349-shop-today/"><u>Unbeatable Deal Alert: Save $200 on the Stunning 58 Hisense 4K Fire TV, Now at Just $349 - Shop Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unexpected-audio-marvels-my-top-pick-for-an-immersive-sound-system-outside-of-bose-and-sonos-reviewed-on-zdnet/"><u>Unexpected Audio Marvels: My Top Pick for an Immersive Sound System Outside of Bose & Sonos, Reviewed on ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-your-television-display-with-simple-adjustments-top-5-settings-to-elevate-picture-quality/"><u>Upgrade Your Television Display with Simple Adjustments: Top 5 Settings to Elevate Picture Quality</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-free-video-tools-working-across-systems-seamlessly/"><u>[New] In 2024, Free VIDEO Tools Working Across Systems Seamlessly</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-itop-screen-recorder-essential-or-excessive-in-2024/"><u>[Updated] ITop Screen Recorder - Essential or Excessive, In 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-ultimate-no-cost-video-capture-app-compatible-with-windows-and-macos/"><u>1. Ultimate No-Cost Video Capture App Compatible with Windows & macOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-subtlety-in-sound-decreasing-decibels-in-logic-pro-projects/"><u>2024 Approved Subtlety in Sound Decreasing Decibels in Logic Pro Projects</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mp560-driver-update-quick-installation-process-explained/"><u>Canon MP560 Driver Update - Quick Installation Process Explained</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-tutorial-to-update-webcam-drives-in-the-world-of-windows-10/"><u>Comprehensive Tutorial to Update Webcam Drives in the World of Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-most-recent-amd-rx-6700-xt-drivers-for-enhanced-gaming-on-windows-platforms/"><u>Download the Most Recent AMD RX 6700 XT Drivers for Enhanced Gaming on Windows Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-setting-up-your-camera-drivers-for-all-windows-versions/"><u>Easy Guide to Downloading and Setting Up Your Camera Drivers for All Windows Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-laptop-drivers-free-downloads-for-windows-users/"><u>Get the Latest HP Laptop Drivers: Free Downloads for Windows Users</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-xs-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone XS Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-ultimate-guide-to-professional-grade-mobile-screencasting-with-mobizen/"><u>In 2024, Ultimate Guide to Professional-Grade Mobile Screencasting with Mobizen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keep-your-workstation-up-to-date-finding-thunderbolt-tb16-driver-downloads-for-dell-systems/"><u>Keep Your Workstation Up-to-Date: Finding Thunderbolt TB16 Driver Downloads for Dell Systems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-lava-yuva-2-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Lava Yuva 2 to Other Android Devices | Dr.fone</u></a></li>
 </ul></div>
 

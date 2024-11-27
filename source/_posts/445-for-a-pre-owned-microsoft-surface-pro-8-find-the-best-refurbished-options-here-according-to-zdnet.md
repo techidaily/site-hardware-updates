@@ -1,7 +1,7 @@
 ---
 title: $445 for a Pre-Owned Microsoft Surface Pro 8? Find the Best Refurbished Options Here, According to ZDNet
-date: 2024-11-10T22:16:58.906Z
-updated: 2024-11-17T21:22:05.617Z
+date: 2024-11-22T17:11:00.567Z
+updated: 2024-11-27T19:22:47.492Z
 tags:
   - laptops
 categories:
@@ -42,6 +42,10 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
@@ -70,13 +74,6 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -102,10 +99,7 @@ Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 p
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Microsoft
@@ -133,6 +127,10 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -142,19 +140,6 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -169,16 +154,7 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -192,6 +168,10 @@ So, iPad or Surface Pro 8? With so much uncertainty over the future of iPadOS, I
 If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro, I'll say this: you can't go wrong with either device, as long as you know what you're getting yourself into. The iPad Pro can do a lot of things, but only a few things really well. Whereas the Surface Pro 8 can do a lot of things really well, but it has its fair share of hiccups and gotchas as well.
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -232,21 +212,22 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-step-by-step-guide-to-personalize-and-change-video-covers-on-facebook/"><u>[New] 2024 Approved Step-by-Step Guide to Personalize and Change Video Covers on Facebook</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-b-roll-basics-strategies-for-creative-video-editing-for-2024/"><u>[New] B Roll Basics Strategies for Creative Video Editing for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-effortless-editing-a-beginners-guide-to-multi-snaps-in-snapchat/"><u>[Updated] Effortless Editing A Beginner's Guide to Multi-Snaps in Snapchat</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-interpreting-the-iconography-a-look-at-facebooks-use-of-blue-icons-for-2024/"><u>[Updated] Interpreting the Iconography A Look at Facebook’s Use of Blue Icons for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722858315525-5-amazing-tiny-powerhouses-perfect-for-gamers-buyers-choice/"><u>5 Amazing Tiny Powerhouses Perfect for Gamers - Buyer's Choice!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722989351064-bring-your-gaming-back-to-life-solve-controller-problems-swiftly/"><u>Bring Your Gaming Back to Life: Solve Controller Problems Swiftly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-latest-epson-wf-3620-printer-driver-for-windows-11-8-and-7/"><u>Download & Install the Latest Epson WF-3620 Printer Driver for Windows 11, 8 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-guide-downloading-and-using-the-hp-officejet-pro-8715-drivers-on-various-windows-versions/"><u>Easy Installation Guide: Downloading and Using the HP OfficeJet Pro 8715 Drivers on Various Windows Versions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-brother-l2740dw-driver-for-pc-with-windows-os/"><u>Easy Installation of Brother L2740DW Driver for PC with Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722962850479-fast-track-to-connectivity-download-your-wi-fi-adapter-drivers-today/"><u>Fast Track to Connectivity: Download Your Wi-Fi Adapter Drivers Today!</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Realme 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-apple-iphone-12-pro-max-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on Apple iPhone 12 Pro Max online without jailbreak</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pioneering-conversations-is-claude-the-new-leader/"><u>Pioneering Conversations: Is Claude the New Leader?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/simplified-methods-to-screen-record-instagrams-story-feature-for-2024/"><u>Simplified Methods to Screen Record Instagram's Story Feature for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-easy-asus-trackpad-drivers-download-and-setup-for-windows-10-users/"><u>Step-by-Step Tutorial: Easy ASUS Trackpad Drivers Download & Setup for Windows 10 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-guide-to-cutting-edge-computer-components-and-systems/"><u>Tom's Guide to Cutting-Edge Computer Components and Systems</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-how-to-reverse-image-search-facebook/"><u>[New] In 2024, How to Reverse Image Search Facebook</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ting-the-cold-with-five-cozy-cinematic-elements/"><u>Elevating the Cold with Five Cozy Cinematic Elements</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-the-right-dock-compatible-with-your-new-thinkpads-thunderbolt-3-port/"><u>Find the Right Dock Compatible with Your New ThinkPad's Thunderbolt 3 Port</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-and-update-nvidias-gtx-1650-super-drivers-for-optimal-performance-on-windows-11-systems/"><u>Get & Update NVIDIA's GTX 1650 Super Drivers for Optimal Performance on Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970627068-get-your-safeaccess-usb-fingerprint-scanner-software-instantly-effortless-download-options/"><u>Get Your [SAFE_ACCESS] USB Fingerprint Scanner Software Instantly – Effortless Download Options</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-update-of-dell-audio-driver-tips-and-tricks/"><u>Hassle-Free Update of Dell AUDIO Driver - Tips & Tricks</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Nokia Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovate-and-create-ranked-list-of-best-drawing-apps-for-android-users/"><u>In 2024, Innovate and Create Ranked List of Best Drawing Apps for Android Users</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-innovating-imagery-topiary-techniques-for-stellar-iphone-photos/"><u>In 2024, Innovating Imagery Topiary Techniques for Stellar iPhone Photos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-visual-capture-specialists-top-10-tools/"><u>In 2024, Visual Capture Specialists' Top 10 Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-k400plus-silicone-keyboard-drivers-get-your-free-software-here/"><u>Logitech K400+ Silicone Keyboard Drivers - Get Your Free Software Here</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-infinix-smart-7-hd-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Infinix Smart 7 HD Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-start-to-hp-840-g3-compatibility-latest-drive-software-downloads/"><u>Quick Start to HP 840 G3 Compatibility: Latest Drive Software Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-update-your-amd-smbus-driver-today/"><u>Step-by-Step Tutorial: Update Your AMD SMBus Driver Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-the-newest-brother-hl-l23-dual-toner-laser-printer-driver-fast-download-available/"><u>Update to the Newest Brother HL-L23## Dual Toner Laser Printer Driver - Fast Download Available</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgraded-fidelity-and-gameplay-on-dell-vostro-laptops-gpu-driver-update-guide/"><u>Upgraded Fidelity and Gameplay on Dell Vostro Laptops - GPU Driver Update Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/bing-into-visual-wonders-learn-from-greenscreen-pros/"><u>Youtubing Into Visual Wonders – Learn From Greenscreen Pros</u></a></li>
 </ul></div>
 

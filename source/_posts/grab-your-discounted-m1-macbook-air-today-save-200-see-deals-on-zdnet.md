@@ -1,7 +1,7 @@
 ---
 title: Grab Your Discounted M1 MacBook Air Today - Save $200! See Deals on ZDNet
-date: 2024-11-15T17:54:54.549Z
-updated: 2024-11-17T18:29:13.195Z
+date: 2024-11-23T20:31:18.144Z
+updated: 2024-11-27T18:53:13.814Z
 tags:
   - laptops
 categories:
@@ -19,9 +19,17 @@ Apple product deals are rare, but this 20% discount on a MacBook Air is unheard 
 
 **Read the review: [M1 MacBook Air review](https://www.zdnet.com/article/m1-macbook-air-long-term-review/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [![2020-03-19-at-2-39-54-pm.jpg](https://www.zdnet.com/a/img/resize/80ba392bacc4388899c436d9acd4d00f04d5645c/2020/03/19/ff6c9504-c35e-4cb6-a83c-f51c18669916/2020-03-19-at-2-39-54-pm.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best laptop with the longest battery life The laptops on this list can keep you online and working longer when you need to be unplugged.  Read now](https://www.zdnet.com/article/best-battery-life-laptop/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The laptop comes packed with 256GB of storage and 8GB RAM, so you can quickly work through websites, documents, and more. Plus, you can stay focused for hours on end thanks to the long battery life, which lasts up to 18 hours on a single charge. 
 
@@ -61,31 +69,24 @@ The backlit keyboard enables you to log on in any environment. You can even Face
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-best-4k-pads-for-ultimate-gameplay/"><u>[New] Best 4K Pads for Ultimate Gameplay</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-guide-to-various-video-recording-devices/"><u>[New] Guide to Various Video Recording Devices</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-superior-frame-rate-in-languid-videos-for-2024/"><u>[New] Superior Frame Rate in Languid Videos for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-10-techniques-optimal-live-cricket-broadcasting/"><u>[New] Top 10 Techniques Optimal Live Cricket Broadcasting</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-accelerate-follower-count-key-strategies-unlocked-for-2024/"><u>[Updated] Accelerate Follower Count Key Strategies Unlocked for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-latest-brother-hl-l2350dw-printer-software/"><u>Download and Install the Latest Brother HL-L2350DW Printer Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-smooth-operation-of-your-canon-mx340-with-updated-windows-drivers-win-1087/"><u>Ensure Smooth Operation of Your Canon MX340 with Updated Windows Drivers (Win 10/8/7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975051631-fix-your-connection-woes-solutions-to-win-7-network-adapter-problems/"><u>Fix Your Connection Woes: Solutions to Win 7 Network Adapter Problems</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-and-fabulous-best-video-special-effects-apps-for-iphone-and-android/"><u>Free and Fabulous Best Video Special Effects Apps for iPhone and Android</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-asus-sound-control-programs-here/"><u>Get the Latest ASUS Sound Control Programs Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-deskjet-2540-drivers-for-seamless-printing/"><u>Get the Latest HP Deskjet 2540 Drivers for Seamless Printing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-scanjet-software-upgrade-latest-version-compatible-with-windows-1187/"><u>HP Scanjet Software Upgrade - Latest Version Compatible with Windows 11/8/7</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-sony-xperia-5-v-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Sony Xperia 5 V</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-guide-switching-on-windows-11s-dynamic-hdr-mode/"><u>In 2024, Guide Switching on Windows 11'S Dynamic HDR Mode</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722977860826-optimize-your-amd-ryzen-5-2500u-seamless-guide-to-the-newest-drivers/"><u>Optimize Your AMD Ryzen 5 2500U - Seamless Guide to the Newest Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-your-free-qualcomm-atheros-ar938x-drivers-without-hassle/"><u>Secure Your Free Qualcomm Atheros AR938X Drivers Without Hassle</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-updating-or-downloading-lenovo-monitor-graphics-drivers/"><u>Step-by-Step Instructions: Updating or Downloading Lenovo Monitor Graphics Drivers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-next-evolution-in-phones-a-closer-look-at-the-samsung-galaxy-z-fold-6-specs-price-and-upcoming-launch-date/"><u>The Next Evolution in Phones: A Closer Look at the Samsung Galaxy Z Fold 6 Specs, Price & Upcoming Launch Date</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-ranking-android-vpns-comprehensive-experts-analysis-and-ratings-techradar/"><u>Top-Ranking Android VPNs : Comprehensive Experts' Analysis & Ratings | TechRadar</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-blending-images-and-audio-for-dynamic-videos/"><u>[New] Blending Images and Audio for Dynamic Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-audience-accumulation-expedition-tutorials-1mplus-milestone/"><u>[New] In 2024, Audience Accumulation Expedition Tutorial's 1M+ Milestone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flavorful-footage-kitchen-film-making-101/"><u>[New] In 2024, Flavorful Footage Kitchen Film-Making 101</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-grasping-basics-your-guide-to-av1-encoding/"><u>[Updated] 2024 Approved Grasping Basics Your Guide to AV1 Encoding</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-navigating-youtubes-privacy-controls-for-video-accessibility-for-2024/"><u>[Updated] Navigating YouTube's Privacy Controls for Video Accessibility for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722959773144-brother-hl-2240-perfect-match-latest-windows-drivers-available-now/"><u>Brother HL-2240 Perfect Match - Latest Windows Drivers Available Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-sapphire-graphics-drivers-step-by-step-guide-for-windows-users/"><u>Download & Update Sapphire Graphics Drivers: Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-logitech-mouse-mk71n-drivers-now/"><u>Download and Install Logitech Mouse MK71n Drivers Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-upgrade-to-the-newest-asus-dvd-drivers-enhanced-performance-guaranteed/"><u>Download and Upgrade to the Newest ASUS DVD Drivers – Enhanced Performance Guaranteed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-acer-display-drivers-free-and-official/"><u>Download the Latest Acer Display Drivers: Free and Official</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Phones with/without a PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-laserjet-5200-driver-update-for-modern-windows-operating-systems-windows-11108/"><u>HP LaserJet 5200 Driver Update for Modern Windows Operating Systems (Windows 11/10/8)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211010384-9781088240625-le-vol-de-la-mouette/"><u>Le Vol De La Mouette | Free Book</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/les-8-principaux-logiciels-de-preparation-de-diapositives-pour-les-professionnels-top-picks/"><u>Les 8 Principaux Logiciels De Préparation De Diapositives Pour Les Professionnels - Top Picks</u></a></li>
+<li><a href="https://article-tips.techidaily.com/optimizing-tiktok-content-via-zoom-tools/"><u>Optimizing TikTok Content via Zoom Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-downloading-and-updating-brother-mfc-7860dw-drivers-on-windows-computers/"><u>Step-by-Step Guide to Downloading & Updating Brother MFC-7860DW Drivers on Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-update-of-canon-lbp-690b-printer-software-compatible-with-windows-os/"><u>Step-by-Step Update of Canon LBP 690B Printer Software Compatible with Windows OS</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210519021-9798985440300-the-building-blocks-of-meditation/"><u>The Building Blocks of Meditation | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969268997-updated-version-of-hp-designjet-500-drivers-now-available-for-free/"><u>Updated Version of HP DesignJet 500 Drivers - Now Available for Free</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Meet the New Slender Superstar: LG's Latest and Leanest Gram Laptop on the Market - ZDNet Insights"
-date: 2024-11-16T20:16:37.305Z
-updated: 2024-11-17T21:29:25.326Z
+date: 2024-11-25T16:43:54.899Z
+updated: 2024-11-27T16:00:06.240Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -75,10 +79,7 @@ Now you may be wondering: what's the catch? Is the Asus Zenbook 14 as perfect as
 My biggest issue with the laptop is the fact it can run incredibly warm. You can't even type on the keyboard or have it on your legs without discomfort. Heat vents are found on the bottom and the side, but they don't offer much relief. This problem is exacerbated if you try to use the laptop while charging. There's so much heat that typing on the keyboard becomes uncomfortable. You're honestly better off not using the laptop during this time.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -88,10 +89,7 @@ The [Asus Zenbook 14](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.
 You can purchase my review unit's configuration on Best Buy for $799.99, but there's always the option to upgrade the hardware if you're looking for something with more power behind it. A Zenbook 14 sporting an Intel Core Ultra 7 155H processor, Intel Arc GPU, 16GB of RAM, and 1TB of storage will [start at $1,299](https://www.awin1.com/awclick.php?mid=31828&id=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fshop.asus.com%2Fus%2Fasus-zenbook-14-oled-ux3405-laptop.html) but come with significant jump up in processing power. No matter which one you get, it'll be worth the low price.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -138,24 +136,18 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-engineer-entertaining-images-for-giphy/"><u>[New] In 2024, Engineer Entertaining Images for Giphy</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-most-innovative-and-cutting-edge-70plus-inch-tv-models-of-202n-tech-reviews-by-zdnet/"><u>Discover the Most Innovative and Cutting-Edge 70+ Inch TV Models of 202N | Tech Reviews by ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-top-sales-and-exclusive-offers-unveiling-black-friday-dates-plus-prime-locations-insights-from-zdnet/"><u>Discover Top Sales & Exclusive Offers: Unveiling Black Friday Dates + Prime Locations - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exceptional-savings-on-a-large-screen-upgrade-swapping-out-your-tv-for-a-high-quality-cost-effective-projector-at-20-offzdnet/"><u>Exceptional Savings on a Large Screen Upgrade: Swapping Out Your TV for a High-Quality, Cost-Effective Projector at 20% Off![ZDNet]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-review-2024s-highest-ranking-tvs-for-gamers-by-zdnet/"><u>Expert Review: 2024'S Highest Ranking TVs for Gamers by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-the-ultimate-hdtv-for-less-than-1k-professional-rankings-and-guides-zdnet/"><u>Find the Ultimate HDTV for Less than $1K: Professional Rankings and Guides | ZDNet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-issue-expert-tips-for-preventing-your-phoenix-point-game-from-crashing-again/"><u>Fixing the Issue: Expert Tips for Preventing Your Phoenix Point Game From Crashing Again</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-more-bang-for-your-buck-with-sony-bravia-savvy-shoppers-choice-and-often-on-sale-gadget-central/"><u>Get More Bang for Your Buck with Sony Bravia – Savvy Shopper's Choice & Often On Sale | Gadget Central</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-frame-smart-tv-at-a-bargain-save-up-to-1700-with-the-latest-deal-featured-on-zdnet/"><u>Get The Frame Smart TV at a Bargain! Save Up to $1,700 with the Latest Deal Featured on ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-top-value-with-the-unbeatable-99-amazon-fire-tv-on-prime-day-exclusive-details-and-current-deals-techadvice/"><u>Get Top Value with the Unbeatable $99 Amazon Fire TV on Prime Day: Exclusive Details & Current Deals | TechAdvice</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/gopro-karma-drone-review-for-2024/"><u>GoPro Karma Drone Review for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/immediate-enhancement-of-television-display-top-5-configuration-tweaks/"><u>Immediate Enhancement of Television Display: Top 5 Configuration Tweaks</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-itel-a05s-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/introducing-the-future-of-conversation-facebooks-upgraded-messaging-on-instagram-and-messenger/"><u>Introducing the Future of Conversation: Facebook's Upgraded Messaging on Instagram & Messenger</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/language-journey-to-a-happy-new-age/"><u>Language Journey to a Happy New Age</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/e-your-sound-3-safe-methods-of-audio-from-youtube/"><u>Secure Your Sound 3 Safe Methods of Audio From YouTube</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Poco F5 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unwrapping-ustreams-offerings-and-competitors/"><u>Unwrapping Ustream's Offerings and Competitors</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-premiere-rush-vs-the-competition-top-4-rivals-for-2024/"><u>Updated Premiere Rush vs The Competition Top 4 Rivals for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-charting-the-course-from-adsense-income-to-savings/"><u>[New] 2024 Approved Charting the Course From AdSense Income to Savings</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-elevate-your-feed-10-must-have-instagram-tools-for-2024/"><u>[Updated] Elevate Your Feed 10 Must-Have Instagram Tools for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-from-laughs-to-clicks-your-stepwise-journey-on-9gag/"><u>[Updated] In 2024, From Laughs to Clicks Your Stepwise Journey on 9GAG</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-launchpad-for-newcomers-creating-a-successful-product-evaluation-vlog-for-2024/"><u>[Updated] Launchpad for Newcomers Creating a Successful Product Evaluation Vlog for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-streamlining-your-presentations-vimeo-video-embedding-in-powerpoint/"><u>[Updated] Streamlining Your Presentations Vimeo Video Embedding in PowerPoint</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capturing-marine-magic-pro-tips-for-filming-oceanic-scenes-using-gopro-for-2024/"><u>Capturing Marine Magic Pro Tips for Filming Oceanic Scenes Using GoPro for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-gaming-experience-with-the-newest-steelseries-keyboard-drivers/"><u>Elevate Your Gaming Experience with the Newest SteelSeries Keyboard Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-keep-your-tp-link-ub400-bluetooth-adapter-running-smoothly-with-updated-drivers/"><u>How to Keep Your TP-Link UB400 Bluetooth Adapter Running Smoothly with Updated Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971477713-hp-deskjet-3050a-driver-free-download-and-update-for-windows/"><u>HP Deskjet 3050A Driver – Free Download & Update for Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-xr-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone XR? Learn All 4 Methods</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975347403-lenovo-ideapad-100-find-and-install-the-latest-drivers-for-windows-10-systems-easily/"><u>Lenovo IdeaPad 100 - Find and Install the Latest Drivers for Windows 10 Systems Easily</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/schritt-fur-schritt-anleitung-fur-den-schnellen-datentransfer-auf-der-einen-und-zur-anderen-festplatte-profi-tipps/"><u>Schritt-Für-Schritt Anleitung Für Den Schnellen Datentransfer Auf Der Einen Und Zur Anderen Festplatte: Profi-Tipps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/scripts-that-shaped-cinema-for-2024/"><u>Scripts That Shaped Cinema for 2024</u></a></li>
 </ul></div>
 

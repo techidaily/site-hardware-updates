@@ -1,7 +1,7 @@
 ---
 title: Top Rated 15-Inch Laptops - Comprehensive Testing & Reviews by Industry Experts | ZDNet
-date: 2024-11-10T18:08:42.700Z
-updated: 2024-11-17T22:22:13.633Z
+date: 2024-11-23T19:15:52.653Z
+updated: 2024-11-27T17:03:25.830Z
 tags:
   - laptops
 categories:
@@ -45,6 +45,10 @@ Cons
 
 ## Apple MacBook Air M3
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best 15-inch laptop overall
 
 Regarding performance, Apple's 15-inch MacBook Air with the M3 processor is hard to beat. The MacBook Air is as portable as it is thin, and its combination of sleek form factor, substantial battery, and winning display make for the best overall 15-inch laptop of 2024.
@@ -74,6 +78,10 @@ Cons
 * Oversized trackpad is not for everyone
 
 ## Dell XPS 15
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best 15-inch laptop for the office
 
@@ -105,6 +113,10 @@ Cons
 * On the bulky side
 * Mediocre display
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Acer Aspire Go 15
 
 ### Best budget 15-inch laptop
@@ -134,14 +146,11 @@ Cons
 * Not the best battery life
 * Heat vents are on the bottom of the machine
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Asus Vivobook Pro 15
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best 15-inch laptop for creators
 
@@ -185,13 +194,6 @@ The 15.6-inch display is equally impressive, featuring a 360Hz refresh rate and 
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the best 15-inch laptop?
 
 The best 15-inch laptop in 2024 is the [M3 Apple MacBook Air](https://www.zdnet.com/article/m3-macbook-air-review/). Portable, powerful, and with a long-lasting battery, the MacBook Air M3 is a versatile workhorse you can throw in a bag and take anywhere you go. The M3's 8-core CPU and 10-core GPU are armed to take on almost anything you throw at it, and the entire package weighs just 2.7 pounds.
@@ -205,10 +207,7 @@ The best 15-inch laptop in 2024 is the [M3 Apple MacBook Air](https://www.zdnet.
 | Asus Vivobook Pro 15 | $1,299            | Intel Core Ultra 7 155H        | 16GB, up to 1TB             | 4.19             |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which is the right 15-inch laptop for you?
@@ -224,13 +223,6 @@ More well-rounded machines like the Dell XPS 15 or the MacBook Air M3 are better
 | Razer Blade 15                  | A powerful gaming laptop that pulls out all the stops.                                             |
 | Acer Aspire Go 15               | A budget laptop that is capable enough for everyday tasks.                                         |
 | Asus Vivobook Pro 15            | A laptop for creators with powerful photo and video editing capabilities.                          |
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How we test laptops
 
@@ -250,6 +242,10 @@ We use a combination of methods to test laptops here at ZDNET. First, we acquire
 
 Ultimately, our goal is to break down the capabilities of each and every laptop we test into digestible terms that real people can find useful. There is a lot of noise and confusion when it comes to navigating the laptop and computer consumer market, so we hope to bring an intuitive element to the whole process by leveraging our team's decades of experience. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Factors to consider when choosing a 15-inch laptop
 
 All 15-inch laptops run the gamut from high-end gaming machines to budget devices, so it's important to consider which of the most common factors you value most when picking out a new machine. First and foremost on the list, though, is to determine what exactly you want to get out of it. 
@@ -259,13 +255,6 @@ All 15-inch laptops run the gamut from high-end gaming machines to budget device
 * **Battery life:** The best battery life on this list goes to M3 Apple MacBook Air, although the Acer Aspire Go 15 also has impressive battery life due to its relatively modest suite of hardware.
 * **Portability:** 15-inch laptops are a good middle ground between smaller, ultra-portable 13- and 14-inch machines (which tend to be thicker) and larger 16- and 17-inch laptops (which tend to be thinner). When looking at weight, the M3 MacBook Air is both the thinnest and the lightest on this list.
 * **Price:** The Acer Aspire Go 15 is the cheapest laptop on this list, at just $300\. On the other end, the Razer Blade 15 is a pricey machine at nearly $2,500\. The other three laptops on the list are essentially around the same price.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What's the difference between 14-, 15-, and 16-inch laptops?
 
@@ -277,13 +266,6 @@ The reality is that "larger laptops" (16 inches and above) tend to be thinner, a
 
 The M3 MacBook Air and Dell XPS 15 are perfect examples of thoughtful, expert designs that result in portable yet powerful computers. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which operating system should I choose: Windows, MacOS, Chrome OS, or Linux?
 
 While every computing platform has its loyal supporters, most people use a particular operating system because of key applications running on it, employer preferences, or budgetary constraints. Windows, which ranges from budget to premium, and Apple's MacOS, which is exclusive to premium devices, cover a broad spectrum. Chrome OS is primarily limited to mid-range devices.
@@ -291,6 +273,10 @@ While every computing platform has its loyal supporters, most people use a parti
 **Also: [5 Linux commands I use to keep my device running smoothly](https://www.zdnet.com/article/5-linux-commands-i-use-to-keep-my-device-running-smoothly/)**
 
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you can upgrade to Windows 11\. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative 15-inch laptops worth considering?
 
@@ -338,20 +324,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-download-facebook-stories-with-ease-essential-tips-and-tricks-mobiledesktop-for-2024/"><u>[New] Download Facebook Stories with Ease Essential Tips and Tricks (Mobile/Desktop) for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-synchronous-capture-for-webcam-and-display/"><u>[New] In 2024, Synchronous Capture for Webcam and Display</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/breakthrough-announcement-intel-targets-cpu-stability-issues-with-upcoming-voltage-adjustment-patch-in-august/"><u>Breakthrough Announcement: Intel Targets CPU Stability Issues with Upcoming Voltage Adjustment Patch in August</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-predictive-ais-workings-in-simple-terms/"><u>Demystifying Predictive AI's Workings in Simple Terms</u></a></li>
-<li><a href="https://fox-place.techidaily.com/discover-the-best-3-replacement-tools-for-dban-that-ensure-absolute-data-deletion/"><u>Discover the Best 3 Replacement Tools for DBAN That Ensure Absolute Data Deletion</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-sapphire-graphics-drivers-for-windows-a-complete-guide/"><u>Download & Update Sapphire Graphics Drivers for Windows: A Complete Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-updated-sapphire-drivers-now-compatible-with-windows-systems/"><u>Get Updated Sapphire Drivers Now - Compatible with Windows Systems</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-efficient-video-cutting-techniques-to-boost-your-content/"><u>In 2024, Efficient Video Cutting Techniques to Boost Your Content</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-xr-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your iPhone XR</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Sony Xperia 1 V? | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-from-zero-to-hero-top-free-video-editing-software-for-2024/"><u>New From Zero to Hero Top Free Video Editing Software for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-quality-gigabyte-speaker-system-drivers-available-for-free-download/"><u>Top-Quality Gigabyte Speaker System Drivers Available for Free Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-to-newest-logitech-c270-webcam-drivers-for-enhanced-performance-on-windows-1011/"><u>Update to Newest Logitech C270 Webcam Drivers for Enhanced Performance on Windows 10/11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/wacom-artpad-hd-driver-update-enhance-your-digital-creations-today/"><u>Wacom ArtPad HD Driver Update: Enhance Your Digital Creations Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/your-one-stop-resource-for-pc-builds-and-tech-advice-by-tom/"><u>Your One-Stop Resource for PC Builds and Tech Advice by Tom</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/xclusive-list-of-the-top-10-digital-recording-apps/"><u>[New] Exclusive List of the Top 10 Digital Recording Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-next-gen-wraps-for-virtual-reality-enthusiasts/"><u>[New] In 2024, Next-Gen Wraps for Virtual Reality Enthusiasts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-smile-sob-and-snicker-with-these-ig-meme-masters-of-humor-for-2024/"><u>[Updated] Smile, Sob and Snicker with These IG Meme Masters of Humor for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-beauty-blogging-101-starting-up-as-an-aesthetic-vlogger/"><u>2024 Approved Beauty Blogging 101 Starting Up as an Aesthetic Vlogger</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-beyond-hd-the-exceptional-experience-with-hp-envy-27/"><u>2024 Approved Beyond HD - The Exceptional Experience with HP Envy 27</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/cant-print-with-your-canon-mf4500-heres-where-to-get-the-correct-driver/"><u>Can't Print with Your Canon MF4500? Here's Where to Get the Correct Driver</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/effective-safeguards-in-windows-operating-system-revised-advice-leads-to-no-warnings-or-findings/"><u>Effective Safeguards in Windows Operating System - Revised Advice Leads to No Warnings or Findings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/going-further-future-of-generative-conversations/"><u>Going Further: Future of Generative Conversations</u></a></li>
+<li><a href="https://fox-info.techidaily.com/gopro-max-vs-hero-11-a-video-quality-showdown-for-2024/"><u>GoPro Max vs Hero 11 A Video Quality Showdown for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-network-drivers-and-wireless-card-software-in-windows-1110/"><u>How to Update Network Drivers and Wireless Card Software in Windows 11/10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-transforme-seus-arquivos-ogv-em-avi-gratuitamente-on-line-com-nosso-conversor-facil-de-usar/"><u>Movavi: Transforme Seus Arquivos OGV Em AVI Gratuitamente On-Line Com Nosso Conversor Fácil De Usar!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-solutions-for-seamless-connection-downloading-powerful-wireless-drivers/"><u>Top Solutions for Seamless Connection: Downloading Powerful Wireless Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-the-newest-drivers-optimizing-your-hp-m506s-printing-capabilities/"><u>Update to the Newest Drivers: Optimizing Your HP M506's Printing Capabilities</u></a></li>
 </ul></div>
 

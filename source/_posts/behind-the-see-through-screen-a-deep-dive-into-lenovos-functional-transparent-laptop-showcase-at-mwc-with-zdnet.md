@@ -1,7 +1,7 @@
 ---
 title: "Behind the See-Through Screen: A Deep Dive Into Lenovo's Functional Transparent Laptop Showcase at MWC with ZDNet"
-date: 2024-11-13T21:12:34.792Z
-updated: 2024-11-17T16:33:35.238Z
+date: 2024-11-24T16:21:59.818Z
+updated: 2024-11-27T17:27:04.532Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -79,10 +83,7 @@ I also need to mention a couple of things that may be dealbreakers for you. Firs
 Also, be aware the IdeaPad Pro 5i comes with a bunch of bloatware. The laptop's 1TB of storage is more like 880GB, if you take into account all the apps Lenovo preinstalled.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -92,10 +93,7 @@ Also, be aware the IdeaPad Pro 5i comes with a bunch of bloatware. The laptop's 
 If you're looking for a less expensive 16-inch laptop, [Lenovo's Yoga 7i](https://www.zdnet.com/article/this-699-lenovo-laptop-made-me-a-believer-in-the-2-in-1-form-factor-and-its-on-sale-for-memorial-day/) is several hundred dollars cheaper, although you're trading in the impressive OLED screen for one that's much more low-key. If you want an OLED laptop in a slightly less expensive package, check out the [Acer Swift X 14](https://www.zdnet.com/article/i-tested-acers-swift-x-laptop-and-its-performance-surprised-me-in-3-ways/). 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -142,21 +140,17 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-mastering-multilingual-subtitling-a-comprehensive-approach-vimeo/"><u>[New] In 2024, Mastering Multilingual Subtitling A Comprehensive Approach (Vimeo)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-seas-silent-storytelling-mastering-gopro-footage-in-deep-waters/"><u>[New] Sea's Silent Storytelling Mastering GoPro Footage in Deep Waters</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-maximizing-video-impact-on-tiktok-using-computertablet/"><u>[Updated] 2024 Approved Maximizing Video Impact on TikTok Using Computer/Tablet</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-your-ultimate-guide-to-accessing-facebook-content-on-applemedia-hub/"><u>[Updated] In 2024, Your Ultimate Guide to Accessing Facebook Content on AppleMedia Hub</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-speed-up-your-social-art-collage-creation-on-the-fly/"><u>[Updated] Speed-Up Your Social Art Collage Creation on the Fly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/a-tech-expert-reviews-the-best-all-rounder-laptop-popular-durable-and-packed-with-high-quality-components-insights/"><u>A Tech Expert Reviews the Best All-Rounder Laptop – Popular, Durable & Packed with High-Quality Components Insights</u></a></li>
-<li><a href="https://extra-information.techidaily.com/attracting-watchers-discover-the-top-6-video-types/"><u>Attracting Watchers Discover the Top 6 Video Types</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-concealed-smart-home-radio-feature-within-your-mac-and-ipad-devices/"><u>Discover the Concealed 'Smart Home Radio' Feature Within Your Mac and iPad Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/embracing-the-split-design-an-enlightening-week-of-typing-on-a-dedicated-ergonomic-keyboard/"><u>Embracing the Split Design: An Enlightening Week of Typing on a Dedicated Ergonomic Keyboard</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-strategies-for-boosting-sims-4-speed-and-stability/"><u>Expert Strategies for Boosting Sims 4 Speed and Stability</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hot-deal-alert-msi-summit-e13-flip-slashed-to-60n-exclusive-insights/"><u>Hot Deal Alert: MSI Summit E13 Flip Slashed to $60N | Exclusive Insights</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-recurring-famine-problems-to-prevent-dread-crashes-during-pc-playthrough/"><u>Overcoming Recurring Famine Problems to Prevent Dread Crashes During PC Playthrough</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-exclusive-game-deals-during-octobers-prime-day-save-up-to-1000-before-time-runs-out-get-insights-today/"><u>Snag Exclusive Game Deals During October's Prime Day: Save Up To $1,000 Before Time Runs Out | Get Insights Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-all-in-one-mini-power-hub-that-keeps-your-gadgets-juiced-laptop-phone-and-tablet-ready/"><u>The All-in-One Mini Power Hub That Keeps Your Gadgets Juiced - Laptop, Phone & Tablet Ready</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-new-era-of-computing-with-apple-m3-macbook-air-an-in-depth-review-and-analysis-zdnet/"><u>The New Era of Computing with Apple M3 MacBook Air: An In-Depth Review and Analysis - ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-windows-laptop-picks-for-2nndvier-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Windows Laptop Picks for 2Nndvier - Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-fb-to-mp3-online-tools-for-video-to-music-conversion/"><u>[New] FB to MP3 Online Tools for Video to Music Conversion</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-essential-asmr-apps-android-and-ios-edition/"><u>[New] In 2024, Essential ASMR Apps Android & iOS Edition</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-becoming-an-audacity-recording-virtuoso/"><u>[Updated] Becoming an Audacity Recording Virtuoso</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-applying-apple-music-to-your-videos/"><u>[Updated] Expert Tips for Applying Apple Music to Your Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-beyond-the-basics-advanced-livestreaming-tools/"><u>2024 Approved Beyond the Basics Advanced Livestreaming Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-unmatched-portability-the-incredible-8-in-1-adapter-that-exceeds-value-and-compact-design-insights/"><u>Discover Unmatched Portability: The Incredible 8-in-1 Adapter That Exceeds Value & Compact Design - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-premium-tech-for-less-detailed-review-of-the-250-asus-laptop-selling-out-fast-on-walmart-shelves/"><u>Experience Premium Tech for Less: Detailed Review of the $250 Asus Laptop Selling Out Fast on Walmart Shelves</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-apple-iphone-se-2022-by-drfone-ios/"><u>Guide on How To Remove Apple ID From Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-13-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 13 Pro Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-itel-a70-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Itel A70 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-5-revolutionary-technology-breakthroughs-in-2n-transforming-industries-alike-insights/"><u>Top 5 Revolutionary Technology Breakthroughs in 2N, Transforming Industries Alike - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-prime-day-video-game-discounts-your-ultimate-guide-for-savings-on-oct-24/"><u>Top Prime Day Video Game Discounts: Your Ultimate Guide for Savings on Oct '24</u></a></li>
 </ul></div>
 

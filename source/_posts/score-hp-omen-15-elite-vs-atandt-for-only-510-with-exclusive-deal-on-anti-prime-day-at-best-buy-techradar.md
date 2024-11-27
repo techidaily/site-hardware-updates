@@ -1,7 +1,7 @@
 ---
 title: Score HP Omen 15 Elite vs AT&T for Only $510 with Exclusive Deal on Anti-Prime Day at Best Buy | TechRadar
-date: 2024-11-10T19:37:17.929Z
-updated: 2024-11-17T18:42:51.224Z
+date: 2024-11-26T17:38:03.433Z
+updated: 2024-11-27T19:18:14.189Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 **Also: [The best budget gaming laptops: Expert tested](https://www.zdnet.com/article/best-budget-gaming-laptop/)** 
 
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -59,24 +63,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-dangerous-depths-top-10-roguelite-showdowns/"><u>[New] 2024 Approved Dangerous Depths Top 10 Roguelite Showdowns</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-capturing-your-macs-display-live-easy-steps-included-for-2024/"><u>[Updated] Capturing Your Mac's Display Live - Easy Steps Included for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-engaging-audiences-crafting-youtube-trailers-via-filmora/"><u>[Updated] Engaging Audiences Crafting YouTube Trailers via Filmora</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-y56-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo Y56 5G</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-guide-get-corsair-void-pro-drivers-installed-on-your-pc/"><u>Effortless Guide: Get Corsair Void Pro Drivers Installed on Your PC</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210934978-9781782499060-empower-your-life-with-sophrology/"><u>Empower Your Life with Sophrology | Free Book</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hassle-free-download-of-latest-drivers-for-lenovo-thinkpad-t430-on-windows-1187-platforms-comprehensive-guide/"><u>Hassle-Free Download of Latest Drivers for Lenovo ThinkPad T430 on Windows 11/8/7 Platforms – Comprehensive Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-m14-5g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy M14 5G</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-music-production-with-behringers-essential-usb-driver-downloads/"><u>Mastering Music Production with Behringer's Essential USB Driver Downloads</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722956538051-quick-install-get-your-logitech-device-drivers-on-windows/"><u>Quick Install: Get Your Logitech Device Drivers on Windows!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/things-you-must-know-for-screen-mirroring-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>Things You Must Know for Screen Mirroring Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-high-performance-computing-in-europe-with-the-newly-priced-amd-ryzen-9-649/"><u>Unlocking High-Performance Computing in Europe with the Newly Priced AMD Ryzen 9 (€649)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-audio-anomalies-essential-rhythm-altering-tools-for-2024/"><u>[New] Audio Anomalies Essential Rhythm Altering Tools for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-optical-drive-drivers-secure-and-easy-download-options/"><u>ASUS Optical Drive Drivers - Secure & Easy Download Options</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beyond-reality-the-top-10-sci-fi-movies-with-metaverse-travels-for-2024/"><u>Beyond Reality The Top 10 Sci-Fi Movies with Metaverse Travels for 2024</u></a></li>
+<li><a href="https://solve-info.techidaily.com/cookiebot-enhancing-user-experience-and-tracking-success-on-your-website/"><u>Cookiebot: Enhancing User Experience & Tracking Success on Your Website</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/eliminating-sounds-issues-comprehensive-solutions-for-the-realtek-alc887-hd-audio-driver-in-windows/"><u>Eliminating Sounds Issues: Comprehensive Solutions for the Realtek ALC887 HD Audio Driver in Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722967147243-ensure-compatibility-download-new-drivers-for-your-brother-hl-l2370dw-printer-today/"><u>Ensure Compatibility: Download New Drivers for Your Brother HL-L2370DW Printer Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-started-with-updated-thinkpad-thunderbolt-3-dock-compatibility-and-setup-instructions/"><u>Get Started with Updated ThinkPad Thunderbolt 3 Dock - Compatibility and Setup Instructions</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-official-toshiba-printer-drivers-on-your-pc/"><u>How to Install Official Toshiba Printer Drivers on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/improve-your-organization-skills-advanced-techniques-for-using-file-explorer-on-windows-11/"><u>Improve Your Organization Skills: Advanced Techniques for Using File Explorer on Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-iphone-6-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from iPhone 6</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-genshin-impact-clearly-demystifying-and-resolving-error-code-4201/"><u>Mastering Genshin Impact: Clearly Demystifying and Resolving Error Code 4201</u></a></li>
+<li><a href="https://win-online.techidaily.com/slash-your-budget-like-a-pro-smart-money-management-tips-for-college-students-delivered-by-massmail-software-2/"><u>Slash Your Budget Like a Pro: Smart Money Management Tips for College Students, Delivered by MassMail Software 2#!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/supercharge-your-pc-gaming-upgrade-to-the-latest-asus-rx-5-new-best-seo-titles-suitable-for-google-search-engine-that-convey-similar-meanings-to-enhance-you112/"><u>Supercharge Your PC Gaming: Upgrade to the Latest Asus RX 5 New Best SEO Titles Suitable for Google Search Engine that Convey Similar Meanings to Enhance Your PC's Graphics with a New ASUS ROG Strix GeForce GTX 1660 Ti</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-importance-of-port-security-explain-the-role-of-vessel-tracking-systems-in-enhancing-port-security-by-preventing-unauthorized-access-ensuring-proper-car264/"><u>The Importance of Port Security: Explain the Role of Vessel Tracking Systems in Enhancing Port Security by Preventing Unauthorized Access, Ensuring Proper Cargo Handling, and Monitoring for Contraband or Illegal Activities Within Secure Areas</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975552110-update-your-pc-download-nvidias-latest-geforce-rtx-3080-driver-for-windows-users/"><u>Update Your PC: Download NVIDIA's Latest GeForce RTX 3080 Driver for Windows Users</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

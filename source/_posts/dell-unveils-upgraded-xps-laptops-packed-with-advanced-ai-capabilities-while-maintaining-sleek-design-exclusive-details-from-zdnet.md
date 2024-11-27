@@ -1,7 +1,7 @@
 ---
 title: "Dell Unveils Upgraded XPS Laptops Packed With Advanced AI Capabilities While Maintaining Sleek Design: Exclusive Details From ZDNet"
-date: 2024-11-10T19:41:28.519Z
-updated: 2024-11-17T18:40:36.160Z
+date: 2024-11-24T17:13:01.055Z
+updated: 2024-11-27T18:04:30.641Z
 tags:
   - laptops
 categories:
@@ -20,6 +20,10 @@ Just ahead of [CES 2024](https://www.zdnet.com/topic/ces-2024/), Dell has reveal
 **Also: [CES 2024: What's Next in Tech](https://www.zdnet.com/collection/ces-2024-whats-next-in-tech/)**
 
 Every laptop will be powered by an Intel Core Ultra processor. The CPU will house an AI acceleration engine alongside a neural processing unit (NPU). The NPU can be considered a third resource, which is separate from the processor and graphics card that the laptop can access. The NPU will alleviate some of the laptop's workload while helping the battery maintain its longevity. What's more, the models will have ExpressCharge software, allowing users to recharge their computer from zero to 80% in about an hour.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -81,27 +85,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-the-pinnacle-of-propagation-valheim-seeds-unveiled-for-2024/"><u>[New] The Pinnacle of Propagation Valheim Seeds Unveiled for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-capture-live-camera-video-using-vlc-media/"><u>[Updated] In 2024, Capture Live Camera Video Using VLC Media</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-unraveling-the-mystery-what-hides-in-snapchat-emoji-meanings/"><u>[Updated] Unraveling the Mystery What Hides in Snapchat Emoji Meanings?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-stream-pause-play-resume-twitch-edition/"><u>2024 Approved Stream Pause, Play Resume Twitch Edition</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-setup-guide-camera-apps-for-windows-11-10-8-and-7/"><u>Download & Setup Guide: Camera Apps for Windows 11, 10, 8, & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722972070296-download-the-latest-hp-network-drivers-compatible-with-windows-10-7-and-8/"><u>Download the Latest HP Network Drivers: Compatible with Windows 10, 7 & 8</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-chinas-breakthrough-the-new-cixin-p1-ai-processor-surpasses-expectations-with-a-45-tops-speed/"><u>Exploring China's Breakthrough: The New Cixin P1 AI Processor Surpasses Expectations with a 45 TOPS Speed</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-realme-11-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Realme 11 Pro Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-securely-download-and-install-logitech-g602-software-on-your-windows-computer/"><u>How to Securely Download & Install Logitech G602 Software on Your Windows Computer</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-iphone-12-pro-max-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on iPhone 12 Pro Max</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-6-plusipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 6 Plus/iPad | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-basic-recorder-your-windows-10-companion/"><u>In 2024, Basic Recorder - Your Windows 10 Companion</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-drivers-for-intel-iris-xe-graphics-655-supporting-windows-1011-systems/"><u>Latest Drivers for Intel Iris Xe Graphics 655: Supporting Windows 10/11 Systems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-honor-70-lite-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Honor 70 Lite 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-canon-pixma-ts3222-drivers-free-downloads-available/"><u>Update Your Canon PIXMA TS3222 Drivers - Free Downloads Available</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-professionalizing-your-youtube-income-with-universal-tech-tips/"><u>[New] In 2024, Professionalizing Your YouTube Income with Universal Tech Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-peak-visionary-workspace-appraisal/"><u>[New] Peak Visionary Workspace Appraisal</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-securing-continuous-frame-playback-in-live-broadcasts-for-2024/"><u>[New] Securing Continuous Frame Playback in Live Broadcasts for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-visionary-selection-best-10-audio-plugins-for-spotify/"><u>[New] Visionary Selection Best 10 Audio Plugins for Spotify</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-install-guide-hp-officejet-pro-6968-printing-and-scanning-driver/"><u>Easy Install Guide: HP OfficeJet Pro 6968 Printing and Scanning Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722962604385-essential-update-tips-for-optimal-performance-of-dells-233amoons-laser-printer-latest-drivers-unlocked/"><u>Essential Update Tips for Optimal Performance of Dell's 233Amoons Laser Printer - Latest Drivers Unlocked</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-honor-magic-5-pro-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Honor Magic 5 Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-updates-for-logitech-kinectic-camera-drivers-download-and-install/"><u>Latest Updates for Logitech Kinectic Camera Drivers: Download & Install</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/mastering-dandd-with-chatgpt-6-essential-tips-for-a-flawless-game/"><u>Mastering D&D with ChatGPT: 6 Essential Tips for a Flawless Game</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/polished-portraits-how-to-use-iphone-for-crisp-cuts-for-2024/"><u>Polished Portraits How to Use iPhone for Crisp Cuts for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-usb-driver-refresh-techniques-for-better-smartphone-functionality/"><u>Samsung USB Driver Refresh Techniques for Better Smartphone Functionality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-connectivity-with-a-new-linksys-ae1200-driver-click-to-install-now/"><u>Seamless Connectivity with a New Linksys AE1200 Driver - Click to Install Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-resolving-usb-connectivity-problems-in-windows-10-easily/"><u>Troubleshooting and Resolving USB Connectivity Problems in Windows 10 Easily</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

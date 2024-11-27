@@ -1,7 +1,7 @@
 ---
 title: Download Xbox Wireless Controller Driets - Simple and Fast Setup
-date: 2024-08-28T02:12:57.748Z
-updated: 2024-08-29T02:12:57.748Z
+date: 2024-11-24T18:25:17.965Z
+updated: 2024-11-27T17:19:22.879Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-271-1024x667.png)
 
  If you are experiencing**driver issues** related to your**Xbox wireless adapter** such as Windows not recognizing the device, this article is definitely written for you. Rest assured that you are not alone – many people have reported a similar problem to yours. Now you just need to follow this tutorial and find out whether it does the trick or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to download and install your Xbox wireless adapter drivers
 
@@ -41,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-277.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro versio](https://tools.techidaily.com/drivereasy/download/) [n](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Xbox wireless adapter driver for now, simply click the**Update** button next to it. ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-273.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your drivers, please feel free to drop us an email at**<support@drivereasy.com>** . We are always here if we can help.
@@ -54,32 +62,29 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
 1. Go to **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/Home.aspx)**  .
 2. In the search box located in the upper right corner of the site, type**Xbox wireless** and click**Search** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-280.png)
 3. On the next page, you’ll be presented with a list of Xbox wireless adapter drivers. Scroll through the list until you find the one compatible with your Windows version. Then click the**Download** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-282.png)
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. After the driver has been downloaded, open that destination folder where you’ve saved the driver file. Usually the file should be a compressed one.
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Extract the downloaded driver file.
 6. Plug in the wireless receiver of your Xbox adapter. Then, on your keyboard, Press the**Windows Logo Key** and **R** at the same time to invoke the Run dialog box. Type**devmgmt.msc**  and click **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-255.png)
 7. Here pops up your**Device Manager** . Double-click on the**Other devices** node and you’ll find the faulty device there, usually appearing as an unknown device named “XBOX ACC”.
+
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8. Right-click on**XBOX ACC** and select**Update driver** from its context menu.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-298.png)
 9. In the next window, select**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-299.png)
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 10. Click**Browse…** to select the folder where you’ve extracted the driver file. Then click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-300.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 11. Now Windows will search for the driver and install it automatically. When everything’s done, click**Finish** . Then **restart** your computer for the changes to take effect even if you’re not asked to.
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -95,8 +100,6 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +107,23 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-honesty-in-high-definition-reviewing-recordcasts-efficacy/"><u>[New] 2024 Approved Honesty in High-Definition Reviewing RecordCast's Efficacy</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-winning-scenarios-prime-video-recording-software-for-windows-for-2024/"><u>[New] Winning Scenarios Prime Video Recording Software for Windows for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-overcoming-common-pitfalls-in-job-interviews/"><u>[Updated] Overcoming Common Pitfalls in Job Interviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-powerhouses-best-lenovo-devices-for-remote-and-office-jugglers-at-50-discounted-price/"><u>Affordable Powerhouses: Best Lenovo Devices for Remote and Office Jugglers at 50% Discounted Price!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhancing-chromeos-for-everyone-a-comprehensive-tutorial-on-sharing-insightful-feedback-with-developers-why-it-matters/"><u>Enhancing ChromeOS for Everyone: A Comprehensive Tutorial on Sharing Insightful Feedback with Developers – Why It Matters</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-travel-devices-ranked-for-205-insights-and-tips-gear-guide/"><u>Essential Travel Devices Ranked for 2^05 - Insights and Tips Gear Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-exploration-of-top-discounts-on-amazon-and-walmart-in-early-oct-24-dont-miss-out-tech-news/"><u>Exclusive Exploration of Top Discounts on Amazon & Walmart in Early Oct '24 - Don't Miss Out! | Tech News</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-our-chosen-selection-the-13-premier-free-pdf-editors-of-july-2024/"><u>Explore Our Chosen Selection: The 13 Premier Free PDF Editors of July 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-process-for-deleting-stickers-from-tiktok/"><u>In 2024, Step-by-Step Process for Deleting Stickers From TikTok</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/macbook-air-showdown-a-detailed-analysis-of-m3-vs-m2-processors-to-guide-your-purchase-decision-zdnet-exclusive/"><u>MacBook Air Showdown: A Detailed Analysis of M3 Vs. M2 Processors to Guide Your Purchase Decision | ZDNET Exclusive</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-the-best-value-premium-laptops-for-black-friday-and-cyber-monday-2024-zdnet-insights/"><u>Secure the Best Value - Premium Laptops for Black Friday & Cyber Monday 2024 | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-49-newegg-christmas-promotions-and-discounts-of-2023-featured-by-zdnet/"><u>Top 49 Newegg Christmas Promotions & Discounts of 2023 - Featured by ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-google-pixel-8-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Google Pixel 8 Pro IMEI without Root A Comprehensive Guide</u></a></li>
+</ul></div>
 

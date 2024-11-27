@@ -1,7 +1,7 @@
 ---
 title: Two P-Core Powerhouse Emerges with Intel's Dual-Core CPU 310 - See Why It's Not Dead Yet
-date: 2024-08-28T02:15:28.487Z
-updated: 2024-08-29T02:15:28.487Z
+date: 2024-11-24T18:24:44.992Z
+updated: 2024-11-27T17:39:25.789Z
 tags:
   - cpu
 categories:
@@ -38,6 +38,10 @@ Intel is continuing the trend of replacing its entry-level processors with the g
 
  The 310's power rating is unknown, however based on the Intel Processor 300's base power of 46W, we suspect the 310 will be the same. If so, power consumption will also be a big differentiation between the two chips, with the i3-13100 able to suck down 60W at a minimum and up to 110W through Intel's modern PL1/PL2 system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -48,14 +52,11 @@ Intel is continuing the trend of replacing its entry-level processors with the g
 
  Pricing and availability are unknown, but now that its existence has been revealed, we can expect this chip to debut soon.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -64,8 +65,24 @@ Intel is continuing the trend of replacing its entry-level processors with the g
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-2-step-guide-to-smoothly-record-google-hangoutsmeetings/"><u>[New] In 2024, The 2-Step Guide to Smoothly Record Google Hangouts/Meetings</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-taking-your-tweets-public-on-facebook/"><u>2024 Approved Taking Your Tweets Public on Facebook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/apple-macbook-pro-m3-max-analysis-top-performing-pro-ai-device-unveiled-by-tech-expert-at-zdnet/"><u>Apple MacBook Pro M3 Max Analysis: Top-Performing Pro AI Device Unveiled by Tech Expert at ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/beat-the-hype-exclusive-550-discount-on-best-buys-samsung-odyssey-neo-g8-for-prime-shoppers-review/"><u>Beat the Hype: Exclusive $550 Discount on Best Buy's Samsung Odyssey Neo G8 for Prime Shoppers Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-marvels-of-my-top-pick-an-innovative-origami-designed-laptop-sleeve-for-adventurous-travelers-insights/"><u>Discover the Marvels of My Top Pick: An Innovative Origami-Designed Laptop Sleeve for Adventurous Travelers - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discovering-the-exceptional-flexibility-an-in-depth-review-of-dell-inspiron-top-contender-from-zdnet/"><u>Discovering the Exceptional Flexibility: An In-Depth Review of Dell Inspiron – Top Contender From ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/en-ligne-et-gratuit-convertissez-vos-images-dng-en-jpeg-rapidement-grace-a-movavi/"><u>En Ligne Et Gratuit : Convertissez Vos Images DNG en JPEG Rapidement Grâce À Movavi</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-can-i-watch-facebook-videos-on-my-apple-tv-in-2024/"><u>How Can I Watch Facebook Videos on My Apple TV, In 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-infinite-professional-slideshow-resource-for-businesses/"><u>In 2024, Infinite Professional Slideshow Resource for Businesses</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/investigating-service-interruptions-is-microsoft-teams-down-right-now/"><u>Investigating Service Interruptions: Is Microsoft Teams Down Right Now?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/macx-imkvmaker-tool-for-dvd-conversion-transforming-restricted-dvd-media-into-encrypted-mkv-format/"><u>MacX iMKVmaker Tool for DVD Conversion: Transforming Restricted DVD Media Into Encrypted MKV Format</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726224244444-movavi/"><u>Movavi: 위험 없이 다중 미디어를 기본으로 사용하는 안전한 소프트웨어 솔루션</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/save-big-on-black-friday-zdnet-ranks-the-ultimate-cyber-monday-bargains-for-2er-2022/"><u>Save Big on Black Friday: ZDNet Ranks the Ultimate Cyber Monday Bargains for 2Er 2022</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-sensational-deal-on-quest-3-with-512gb-storage-metas-latest-offer-that-dominates-the-vr-market-zdnet-insight/"><u>Snag the Sensational Deal on Quest 3 with 512GB Storage - Meta's Latest Offer That Dominates the VR Market | ZDNET Insight</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/still-36-cheaper-grab-the-8tb-samsung-t5-ssd-at-a-steep-price-cut-after-prime-day-tech-insights/"><u>Still 36% Cheaper: Grab the 8TB Samsung T5 SSD at a Steep Price Cut After Prime Day | Tech Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-picks-for-ultraportable-computers-featuring-comprehensive-reviews-by-tech-analysts-gizmodo/"><u>Top Picks for Ultraportable Computers , Featuring Comprehensive Reviews by Tech Analysts | Gizmodo</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->

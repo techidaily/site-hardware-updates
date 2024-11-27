@@ -1,7 +1,7 @@
 ---
 title: "Discover Lenovo's Latest AI-Enhanced ThinkPad Line: The Perfect Match for Professional Workstations, as Featured"
-date: 2024-11-12T17:41:46.317Z
-updated: 2024-11-17T22:20:46.521Z
+date: 2024-11-20T16:40:56.273Z
+updated: 2024-11-27T16:38:38.778Z
 tags:
   - laptops
 categories:
@@ -40,6 +40,10 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications (as reviewed)
 
 | Dimensions            | 11.78 x 8.03 x 0.63 inches                                                                                                                                                                                                                                                                            |
@@ -55,10 +59,7 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
@@ -82,10 +83,7 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does it perform?
@@ -109,10 +107,7 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
@@ -136,10 +131,7 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## One thing to keep in mind
@@ -190,24 +182,21 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-eco-set-designs-30plus-free-downloadable-templates-for-filmmaking-artistry/"><u>[New] In 2024, Eco-Set Designs 30+ Free Downloadable Templates for Filmmaking Artistry</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-direct-link-between-twitter-and-tumblr-videos/"><u>[Updated] In 2024, Direct Link Between Twitter and Tumblr Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-qp-value-enhancing-gradual-movement-vids/"><u>2024 Approved Top QP Value Enhancing Gradual Movement Vids</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-tarkov-error-code-103003/"><u>How to Fix Tarkov Error Code 103003</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-free-up-your-kindle-ebooks-steps-for-a-drm-free-library/"><u>How to Free Up Your Kindle Ebooks: Steps for a DRM-Free Library</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-jumpstart-your-cash-with-these-8-innovative-tiktok-methods/"><u>In 2024, Jumpstart Your Cash with These 8 Innovative TikTok Methods</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-inshot-pc-editing-made-easy/"><u>In 2024, Mastering Inshot PC Editing Made Easy</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/innovative-question-collection-for-lively-podcast-discussions/"><u>Innovative Question Collection for Lively Podcast Discussions</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/mp3-amazon-music/"><u>MP3形式で音楽配信の適応: Amazon Musicから自由に利用可能</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/non-samsung-non-lg-top-rated-qled-tv-reviews-tech-insights-on-zdnet/"><u>Non-Samsung, Non-LG Top Rated QLED TV Reviews | Tech Insights on ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/perfect-digital-viewing-strategies-to-elevate-in-house-reception-via-antennas/"><u>Perfect Digital Viewing: Strategies to Elevate In-House Reception via Antennas</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resurgence-in-european-market-fuels-lgs-profitable-venture-into-television-industry-and-enhances-streaming-solutions-insights-from-zdnet/"><u>Resurgence in European Market Fuels LG's Profitable Venture Into Television Industry and Enhances Streaming Solutions, Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revolutionize-your-backyard-bashes-with-these-essential-gadgets-according-to-zdnet/"><u>Revolutionize Your Backyard Bashes with These Essential Gadgets, According to ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/save-150-on-the-stellar-amazon-fire-tv-omnia-qled-set-unbeatable-deal-alert/"><u>Save $150 on the Stellar Amazon Fire TV Omnia QLED Set – Unbeatable Deal Alert!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/save-big-amazons-premium-fire-tv-omni-with-ultra-hd-fhd-display-is-discounted-by-170-today-find-out-more/"><u>Save Big: Amazon's Premium Fire TV Omni with Ultra HD FHD Display Is Discounted by $170 Today - Find Out More</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/score-big-savings-on-samsungs-the-frame-television-save-up-to-1700-now-deals-on-zdnet/"><u>Score Big Savings on Samsung's The Frame Television: Save up to $1,700 Now | Deals on ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/supercharge-your-home-theater-discover-how-to-adjust-soundbar-settings-for-improved-tv-engagement-zdnet-expert-tips/"><u>Supercharge Your Home Theater: Discover How to Adjust Soundbar Settings for Improved TV Engagement (ZDNet Expert Tips)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-30-unbeatable-black-friday-offers-on-amazon-echo-devices-bargains-you-dont-want-to-miss/"><u>Top 30 Unbeatable Black Friday Offers on Amazon Echo Devices: Bargains You Don't Want to Miss!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-60-labor-day-television-specials-and-discounts-2024-find-the-perfect-offers-techadvisor/"><u>Top 60 Labor Day Television Specials & Discounts 2024 - Find the Perfect Offers | TechAdvisor</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unseen-navigators-of-fb-moments-for-2024/"><u>[Updated] Unseen Navigators of FB Moments for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-honor-magic-6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/avoiding-message-shortening-issues-in-gmail-tips-and-tricks-using-massmail-solutions/"><u>Avoiding Message Shortening Issues in Gmail - Tips and Tricks Using MassMail Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-vivo-y77t-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Vivo Y77t via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-for-downloading-and-setting-up-hp-laserjet-pro-m402n-drivers-in-windows/"><u>Comprehensive Guide for Downloading & Setting up HP LaserJet Pro M402n Drivers in Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-hp-laserjet-1320-driver-update-and-installation-guide-best-practices-for-windows-enthusiasts/"><u>Comprehensive HP LaserJet 1320 Driver Update and Installation Guide - Best Practices for Windows Enthusiasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-canon-imageclass-mf4800-printer-drivers-full-version/"><u>Download Canon ImageCLASS MF4800 Printer Drivers - Full Version</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/freshly-updated-hp-scanjet-printer-drivers-now-available-for-multiple-windows-versions/"><u>Freshly Updated HP Scanjet Printer Drivers Now Available for Multiple Windows Versions!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-sades-headset-drivers-safely-downloaded-for-your-windows-system/"><u>Get the Latest Sades Headset Drivers Safely Downloaded for Your Windows System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-steelseries-graphics-card-driver-for-windows-users/"><u>Get the Latest SteelSeries Graphics Card Driver for Windows Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-jpg-document-electronically-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>How do i sign a jpg document electronically</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/how-to-add-music-to-powerpoint-tutorial-guide/"><u>How to Add Music to PowerPoint? [Tutorial Guide]</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-iphone-xs-max-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on iPhone XS Max Safe and Legal</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-elevating-your-video-content-for-a-fanbase-boom/"><u>In 2024, Elevating Your Video Content for a Fanbase Boom</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-to-downloading-targus-docking-station-driver-packs/"><u>Quick Guide to Downloading Targus Docking Station Driver Packs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mac Customization: Changing Command Key Settings as Explained"
-date: 2024-11-11T22:17:37.081Z
-updated: 2024-11-17T18:47:55.285Z
+date: 2024-11-26T18:58:18.246Z
+updated: 2024-11-27T18:45:19.620Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ Recently, I did a thing: I switched my heavyweight Windows PC for a docked [16-i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 * [Still have a Windows 10 PC? You have 5 options before support ends next year](https://www.zdnet.com/article/have-a-windows-10-pc-that-cant-be-upgraded-you-have-5-options-before-support-ends-next-year/)
@@ -41,25 +45,13 @@ So what if I told you you can remap the Apple keyboard so that the Globe key, wh
 (Even if you've always been a Mac user, and everything I just wrote meant nothing to you, you'll still want to read this. There's a good chance that the following remapping feature will benefit you just as much, too.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to remap the Globe key into the Command key
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open up Keyboard settings
@@ -68,13 +60,6 @@ Let's start by running a Spotlight Search (clicking the magnifying glass on the 
 
 You can also access this menu by clicking the Apple icon on the top left of the status bar > System Preferences > and then Keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Open Modifier Keys
 
 On the bottom right of the Keyboard settings should be a button labeled "Modifier Keys...". It is here where you can remap and modify what each key to the left of the spacebar can do, like changing the Globe key to trigger the Command action instead.
@@ -82,10 +67,7 @@ On the bottom right of the Keyboard settings should be a button labeled "Modifie
 Screenshot by June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Remap the Globe key to Command
@@ -95,6 +77,10 @@ Make sure "Apple Internal Keyboard / Trackpad" is selected on the top menu and t
 Note: There is a "Control key" on the Mac keyboard but it doesn't function the same as that on Windows. The Command key is the direct alternative.
 
 Screenshot by June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How this helps
 
@@ -130,22 +116,20 @@ From a Windows user perspective, being able to still access my usual keyboard sh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/update-thinkpad-thunderbolt-3-dock-driver/"><u>[UPDATE] ThinkPad Thunderbolt 3 Dock Driver</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-achieving-flawless-gameplay-optimizing-your-switch-pro-experience-on-steam/"><u>[Updated] Achieving Flawless Gameplay Optimizing Your Switch Pro Experience on Steam</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-leading-file-format-transformations/"><u>[Updated] In 2024, Leading File Format Transformations</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-transforming-views-11-keys-to-thriving-in-facebook-video-marketing/"><u>[Updated] In 2024, Transforming Views 11 Keys to Thriving in Facebook Video Marketing</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-enhance-creativity-with-6-premium-and-complimentary-video-downloaders/"><u>2024 Approved Enhance Creativity With 6 Premium and Complimentary Video Downloaders</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-free-m-audio-ultradriver-now-amp-up-your-audio-experience/"><u>Download Free M-Audio UltraDriver Now: Amp Up Your Audio Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/groove-music-summer-vibes-a-playlist-curated-to-capture-the-essence-of-a-carefree-summer-perfect-for-when-you-want-to-feel-uplifted-and-joyful/"><u>Groove Music 'Summer Vibes': A Playlist Curated to Capture the Essence of a Carefree Summer, Perfect for when You Want to Feel Uplifted and Joyful</u></a></li>
-<li><a href="https://win-online.techidaily.com/how-to-release-and-recover-data-from-an-unresponsive-psp-memory-card/"><u>How to Release and Recover Data From an Unresponsive PSP Memory Card</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-nubia-red-magic-8s-pro-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Nubia Red Magic 8S Pro to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-metaverse-maps-drawn-understanding-through-6-vivid-scenarios/"><u>In 2024, Metaverse Maps Drawn Understanding Through 6 Vivid Scenarios</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-twitter-archive-mastery-a-guide-to-gif-download-success/"><u>In 2024, Twitter Archive Mastery A Guide to GIF Download Success</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Oppo A56s 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-insiders-look-at-gadgets-with-toms-hardware/"><u>The Insider's Look at Gadgets with Tom's Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-finding-and-upgrading-sata-driver-for-windows-pcs-quickly/"><u>Ultimate Guide: Finding and Upgrading SATA Driver for Windows PCs Quickly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-corsair-k55-drivers-with-the-newest-version-now-available/"><u>Update Your Corsair K55 Drivers with the Newest Version Now Available</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-system-free-hdmi-and-usb-connection-drivers-available-now/"><u>Update Your System: Free HDMI and USB Connection Drivers Available Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/windows-installation-guide-how-to-get-your-logitech-g600-drivers/"><u>Windows Installation Guide: How to Get Your Logitech G600 Drivers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-edit-audio-on-youtube-for-2024/"><u>[Updated] How to Edit Audio on YouTube for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973549674-brother-hl-l2370dw-printer-drivers-download-upgrade-to-the-new-release/"><u>Brother HL-L2370DW Printer Drivers Download: Upgrade to the New Release!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comment-supprimer-les-elements-indesirables-de-vos-photographies-sans-cout/"><u>Comment Supprimer Les Éléments Indésirables De Vos Photographies Sans Coût ?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970283062-download-and-install-hp-elitebook-8460p-drivers-on-windows-solved/"><u>Download and Install HP EliteBook 8460P Drivers on Windows: Solved</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-fix-how-to-obtain-and-update-intel-hd-graphics-5500-driver-software/"><u>Easy Fix: How To Obtain And Update Intel HD Graphics 5500 Driver Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-to-use-amd-gpio-driver-available-now-for-immediate-download/"><u>Easy-to-Use AMD GPIO Driver Available Now For Immediate Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/efficiently-download-hp-officejet-5740-drivers-compatible-with-all-windows-versions-11108/"><u>Efficiently Download HP Officejet 5740 Drivers: Compatible with All Windows Versions (11/10/8)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-corsair-k55-driver-version-for-optimal-performance/"><u>Get the Newest Corsair K55 Driver Version for Optimal Performance</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-a56s-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Oppo A56s 5G?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-14-dynamic-text-animations-in-design/"><u>In 2024, Top 14 Dynamic Text Animations in Design</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-top-starter-gear-for-gopro-cameras/"><u>In 2024, Top Starter Gear for GoPro Cameras</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-data-exchange-between-dual-windows-using-aoemi/"><u>Streamlining Data Exchange Between Dual Windows Using AOEMi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/up-to-date-hp-laserjet-m506-printer-driver-software-installation-instructions-and-resources/"><u>Up-to-Date HP LaserJet M506 Printer Driver Software - Installation Instructions & Resources</u></a></li>
 </ul></div>
 

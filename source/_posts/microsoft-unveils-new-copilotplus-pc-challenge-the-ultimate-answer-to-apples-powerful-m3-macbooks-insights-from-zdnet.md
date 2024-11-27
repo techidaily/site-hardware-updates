@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Unveils New Copilot+ PC Challenge: The Ultimate Answer to Apple’s Powerful M3 MacBooks - Insights From ZDNet"
-date: 2024-11-15T23:23:11.804Z
-updated: 2024-11-17T18:42:23.418Z
+date: 2024-11-25T19:31:12.795Z
+updated: 2024-11-27T17:23:04.773Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -71,10 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -113,16 +114,16 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/choosing-your-ideal-screen-neo-qled-or-oled-a-comprehensive-guide-by-zdnet/"><u>Choosing Your Ideal Screen: Neo QLED or OLED - A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-oppo-a56s-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Oppo A56s 5G</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/erfolgreiches-ersetzen-der-android-systemsoftware-wie-man-das-del-firmware-image-erstellt-and-wiederherstellt/"><u>Erfolgreiches Ersetzen Der Android-Systemsoftware: Wie Man Das Del-Firmware-Image Erstellt & Wiederherstellt?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-apple-iphone-15-pro-max-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From Apple iPhone 15 Pro Max? 5 Tips You Must Know</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-the-issue-steps-to-recover-a-missing-mss32dll-file/"><u>Resolving the Issue: Steps to Recover a Missing mss32.dll File</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-tv-deals-for-independence-day-celebrations-on-zdnet/"><u>Top TV Deals for Independence Day Celebrations on ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-walmart-bargains-in-july-2024-exclusive-saves-and-discounts-unveiled-by-zdnet/"><u>Top Walmart Bargains in July 2024: Exclusive Saves and Discounts Unveiled by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-40-inch-television-models-industry-picks-featured-by-zdnet/"><u>Top-Rated 40-Inch Television Models - Industry Picks Featured by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-televisions-unveiled-at-ces-2024-discoveries-from-tech-insider-zdnet/"><u>Top-Rated Televisions Unveiled at CES 2024 - Discoveries From Tech Insider ZDNet</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-smooth-cuts-ahead-3-ways-to-add-transitions-in-fcp/"><u>Updated 2024 Approved Smooth Cuts Ahead 3 Ways to Add Transitions in FCP</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-replace-sky-background-in-video-figuring-out-the-best-options/"><u>Updated In 2024, Replace Sky Background in Video Figuring Out the Best Options</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-no-price-point-digital-video-recorder/"><u>[New] No-Price Point Digital Video Recorder</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/snapin-toywindows-11/"><u>自动同步Snapin Toy:精选Windows 11的完美软件安装指南</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974622026-amd-ryzen-motherboard-firmware-update-download-now/"><u>AMD Ryzen Motherboard Firmware Update - Download Now!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/discovering-the-finest-free-srt-translation-tools-for-2024/"><u>Discovering the Finest FREE SRT Translation Tools for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-hp-p1006-printer-software-and-drivers-free/"><u>Download HP P1006 Printer Software & Drivers - Free</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-latest-safe-lenovo-bluetooth-software-for-windows-7-and-10-free-download-now/"><u>Get Latest, Safe Lenovo Bluetooth Software for Windows 7 & 10 – Free Download Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-chipset-drivers-download-swift-straightforward-installation-guide/"><u>Intel Chipset Drivers Download: Swift, Straightforward Installation Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/pro-video-setup-utilizing-your-logitech-webcam/"><u>Pro Video Setup Utilizing Your Logitech Webcam</u></a></li>
+<li><a href="https://extra-information.techidaily.com/rich-archive-of-cost-effective-superior-vector-graphics-websites/"><u>Rich Archive of Cost-Effective, Superior Vector Graphics Websites</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976747082-simple-steps-to-download-the-latest-logitech-m325-drivers-get-started-today/"><u>Simple Steps to Download the Latest Logitech M325 Drivers – Get Started Today</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-xiaomi-redmi-note-12-pro-4g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Xiaomi Redmi Note 12 Pro 4G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

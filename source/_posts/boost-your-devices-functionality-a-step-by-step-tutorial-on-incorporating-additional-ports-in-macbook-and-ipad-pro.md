@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Device's Functionality: A Step-by-Step Tutorial on Incorporating Additional Ports in MacBook and iPad Pro"
-date: 2024-11-11T16:41:40.046Z
-updated: 2024-11-17T20:21:50.584Z
+date: 2024-11-20T18:56:31.258Z
+updated: 2024-11-27T17:36:05.893Z
 tags:
   - laptops
 categories:
@@ -42,20 +42,11 @@ And with a snafu like no sound, there are a few ways to troubleshoot the issue, 
 
 Here's how to pull this off in both Windows 10 and 11.
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to reset your audio settings in Windows
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Check your audio and sound source
 
@@ -64,13 +55,6 @@ You've probably already checked the usual suspects. But let's review anyway. Mak
 Check the volume.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Go to sound settings
 
@@ -119,10 +103,7 @@ Confirm the device.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Go to sound settings to run troubleshooter in another way
@@ -134,6 +115,10 @@ In Windows 10, click the **Troubleshoot** button under Master Volume. In Windows
 Use the Get Help app.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. In the sound settings screen, check the Volume mixer
 
@@ -149,6 +134,10 @@ Check the Volume mixer in Windows 11.
 
 Screenshot by Lance Whitney
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Click the Reset button
 
 Both versions of Windows show you the volume levels for different devices and applications. Review each level to make sure it's set properly. If all looks good and you're still unable to hear any sound, click the **Reset** button at the bottom. That will reset all the devices and apps to their recommended Microsoft defaults.
@@ -156,19 +145,6 @@ Both versions of Windows show you the volume levels for different devices and ap
 Reset the devices and apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Check the sound control panel
 
@@ -182,6 +158,10 @@ Check sound settings.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Uncheck Enable audio enhancements
 
 At the Properties window, click the **Advanced** tab and uncheck the box for **Enable audio enhancements**. Then click the **Test** button. Next, click the tab for **Spatial sound** and made sure this option is off.
@@ -189,13 +169,6 @@ At the Properties window, click the **Advanced** tab and uncheck the box for **E
 Turn off audio enhancements.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Find the audio driver in Device Manager
 
@@ -228,6 +201,10 @@ To bring back the driver, either reboot your PC or right-click on the entry for 
 Reinstall the audio driver.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 14\. Try stopping and restarting the Windows Audio service
 
@@ -282,18 +259,20 @@ Hopefully, by going through these different Windows troubleshooting steps, you'l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-best-practices-elevating-your-virtual-identity-on-facebook-for-2024/"><u>[New] Best Practices Elevating Your Virtual Identity on Facebook for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-twitters-viral-spotlight-top-10-tiktoks-of-the-week/"><u>[New] Twitter's Viral Spotlight Top 10 TikToks of the Week</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ace-your-choice-the-ultimate-guide-to-picking-a-professional-tested-touchscreen-laptop-insights/"><u>Ace Your Choice: The Ultimate Guide to Picking a Professional Tested Touchscreen Laptop Insights</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-save-big-on-best-buys-prime-day-offer-snag-an-hp-victus-15-gamer-at-just-515/"><u>Exclusive: Save Big on Best Buy's Prime Day Offer - Snag an HP Victus #15 Gamer at Just $515!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/huge-discount-pre-prime-day-deals-on-samsung-t5-ssds-nearly-half-price-at-amazon-insights/"><u>Huge Discount: Pre-Prime Day Deals on Samsung T5 SSDs, Nearly Half Price at Amazon - Insights</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-gamings-finest-top-10-gpu-picks-for-clear-online-broadcasts/"><u>In 2024, Gaming's Finest Top 10 GPU Picks for Clear Online Broadcasts</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/professional-tips-to-create-impressive-head-size-in-tiktoks-3-methods/"><u>Professional Tips to Create Impressive Head Size in TikToks (3 Methods)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/score-your-dream-deal-today-save-up-to-57-on-the-powerhouse-gaming-laptop-gigabyte-aero-e/"><u>Score Your Dream Deal Today: Save up to 57% on the Powerhouse Gaming Laptop, Gigabyte Aero E</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-your-ultimate-tech-bargain-exclusive-october-2024-prime-day-laptops-features-and-deals-on-zdnet/"><u>Secure Your Ultimate Tech Bargain: Exclusive October 2024 Prime Day Laptops Features & Deals on ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-asus-rog-ally-docks-of-2024/"><u>The Best ASUS ROG Ally Docks of 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-upgrades-in-samsungs-copilotplus-pc-how-artificial-intelligence-enhances-performance/"><u>Unveiling the Latest Upgrades in Samsung's Copilot+ PC: How Artificial Intelligence Enhances Performance</u></a></li>
-<li><a href="https://video-capture.techidaily.com/visual-entry-examination-digest-for-2024/"><u>Visual Entry Examination Digest for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-superior-sound-collector-top-10-tools-on-spotify/"><u>[New] 2024 Approved Superior Sound Collector Top 10 Tools on Spotify</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-extraordinary-assessment-and-alternative-choices/"><u>[New] Extraordinary Assessment & Alternative Choices</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-social-snack-spectacle-10-viral-food-trends/"><u>[New] In 2024, Social Snack Spectacle 10 Viral Food Trends</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-speedy-retrieval-for-elusive-snaps/"><u>[Updated] 2024 Approved Speedy Retrieval for Elusive Snaps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-nocostcam-the-infinite-gaming-screen-record-tool-for-2024/"><u>[Updated] NoCostCam The Infinite Gaming Screen Record Tool for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/assessing-the-lenovo-ideapad-for-gamers-how-hardware-impacts-cloud-based-play-review/"><u>Assessing the Lenovo IdeaPad for Gamers: How Hardware Impacts Cloud-Based Play Review</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/crafting-360-worlds-top-picks-between-samsung-and-lg/"><u>Crafting 360 Worlds Top Picks Between Samsung & LG</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/cyber-monday-deals-snag-apples-most-affordable-13-inch-macbook-air-with-m2-chip-yet/"><u>Cyber Monday Deals: Snag Apple’s Most Affordable 13-Inch MacBook Air with M2 Chip Yet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/guide-replacing-your-apple-watch-strap-effortlessly-tips-from-zdnet/"><u>Guide: Replacing Your Apple Watch Strap Effortlessly – Tips From ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-samsung-galaxy-f54-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximizing-power-on-a-budget-discover-the-leading-lightweight-and-potent-windows-laptop-for-less-than-1000-expert-review-by-zdnet/"><u>Maximizing Power on a Budget: Discover the Leading Lightweight & Potent Windows Laptop for Less Than $1,000 | Expert Review by ZDNET</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-android-vr3d-player-selection-for-2024/"><u>Premium Android VR/3D Player Selection for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-bargain-get-your-hands-on-an-apple-m2-macbook-air-for-only-749-this-amazon-prime-day-october-insights/"><u>Snag the Bargain: Get Your Hands on an Apple M2 MacBook Air for Only $749 This Amazon Prime Day (October) | Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/surprising-top-picks-a-highly-competent-alternative-to-hp-or-lenovos-2-in-1-devices-discovered-by-zdnet-experts/"><u>Surprising Top Picks: A Highly Competent Alternative to HP or Lenovo's 2-in-1 Devices, Discovered by ZDNet Experts!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-your-productivity-game-get-50-off-a-portable-foldable-monitor-just-in-time-for-prime-day-zdnet/"><u>Unlock Your Productivity Game: Get 50% Off a Portable, Foldable Monitor Just in Time for Prime Day | ZDNET</u></a></li>
 </ul></div>
 

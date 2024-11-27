@@ -1,7 +1,7 @@
 ---
 title: Score an Unbeatable Price on HP Victus 15 Gaming Laptop - Exclusive $515 Offer During Best Buy's Prime Day Sale | TechRadar
-date: 2024-11-12T23:07:23.053Z
-updated: 2024-11-17T21:06:15.037Z
+date: 2024-11-22T18:28:46.673Z
+updated: 2024-11-27T16:54:08.190Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ HP includes an AMD Radeon RX 6550M graphics card and a screen capable of a 144Hz
 **Also: [The best budget gaming laptops: Expert tested](https://www.zdnet.com/article/best-budget-gaming-laptop/)** 
 
 With 8GB of RAM, a 512GB SSD, and an AMD Ryzen 5 7000 series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -59,31 +63,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-craft-powerpoint-to-interactive-movie-scripts/"><u>[New] 2024 Approved Craft PowerPoint to Interactive Movie Scripts</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-video-cropping-and-export-for-instagram-posts/"><u>[New] 2024 Approved Mastering Video Cropping & Export for Instagram Posts</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/cono-audio-amps-for-youtubers-with-limited-dough/"><u>[New] Econo Audio Amps for Youtubers with Limited Dough</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-social-sanctuary-secure-access-restored/"><u>[Updated] Social Sanctuary Secure Access Restored</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-unlock-the-potential-of-your-tiktok-videos-with-new-backgrounds/"><u>2024 Approved Unlock the Potential of Your TikTok Videos with New Backgrounds</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/affordable-and-powerful-discover-the-ultimate-non-thinkpad-non-macbook-productivity-laptop-on-sale-zdnet/"><u>Affordable and Powerful: Discover the Ultimate Non-ThinkPad, Non-MacBook Productivity Laptop on Sale | ZDNet</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-ranking-times-best-top-15-timeless-stop-motion-flicks/"><u>In 2024, Ranking Time's Best - Top 15 Timeless Stop-Motion Flicks</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/save-big-with-the-ultimate-list-of-storage-drive-bargains-for-the-festive-season-2023-zdnet/"><u>Save Big with the Ultimate List of Storage Drive Bargains for the Festive Season, 2023 | ZDNET</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/strategies-for-youtube-style-video-integration-in-instagram-from-twitter-for-2024/"><u>Strategies for YouTube-Style Video Integration in Instagram From Twitter for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-technology-innovations-the-ultimate-list-of-must-have-tech-gadgets-and-devices-from-2n23-zdnet/"><u>Top Technology Innovations: The Ultimate List of Must-Have Tech Gadgets & Devices From 2N23 | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-value-laptops-find-the-ultimate-windows-powered-machine-under-1k-techspot/"><u>Top Value Laptops: Find the Ultimate Windows-Powered Machine Under $1K | TechSpot</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-alert-experience-the-ultimate-gaming-sound-with-a-150-discount-on-amazon-explored-by-zdnet/"><u>Unbeatable Deal Alert: Experience the Ultimate Gaming Sound with a $150 Discount on Amazon – Explored by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-save-60-on-your-preferred-apple-magsafe-charger-today-only-exclusive-offer/"><u>Unbeatable Deal: Save $60 on Your Preferred Apple MagSafe Charger - Today Only! Exclusive Offer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-exceptional-savings-on-high-performing-notebooks-in-october-2024-expert-recommendations-and-deals-to-seize-zdnet/"><u>Unlock Exceptional Savings on High-Performing Notebooks in October 2024: Expert Recommendations & Deals to Seize | ZDNET.</u></a></li>
-<li><a href="https://article-helps.techidaily.com/unveiling-the-art-of-hdr-photography-on-iphone-for-2024/"><u>Unveiling the Art of HDR Photography on iPhone for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-your-editing-setup-with-50-off-premium-samsung-displays-at-best-buy-dont-miss-this-limited-time-bargain/"><u>Upgrade Your Editing Setup with 50% Off Premium Samsung Displays at Best Buy – Don’t Miss This Limited Time Bargain!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/vanguard-ventures-newcomers-to-the-panzoid-world-for-2024/"><u>Vanguard Ventures Newcomers to the Panzoid World for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/zdnets-top-pick-how-to-expand-your-workspace-using-this-clever-laptop-holder-and-phone-screen-combo/"><u>ZDNet's Top Pick: How to Expand Your Workspace Using This Clever Laptop Holder & Phone-Screen Combo</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-integrating-zoom-into-your-daily-schedule-for-2024/"><u>[New] Integrating Zoom Into Your Daily Schedule for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-mastering-multi-tasking-with-your-favorite-talk-shows/"><u>[New] The Ultimate Guide to Mastering Multi-Tasking With Your Favorite Talk Shows</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-expert-hacks-for-improved-tiktok-visuals/"><u>[Updated] 2024 Approved Expert Hacks for Improved TikTok Visuals</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazons-limited-time-offer-get-your-hands-on-the-ultimate-gamer-audio-experience-with-a-stunning-30-discount-featured/"><u>Amazon's Limited Time Offer: Get Your Hands on the Ultimate Gamer Audio Experience with a Stunning 30% Discount, Featured !</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/contributing-your-thoughts-on-chrome-os-development-a-guide-and-its-impact/"><u>Contributing Your Thoughts on Chrome OS Development – A Guide and Its Impact</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-the-future-with-lgs-innovative-17-gram-pro-the-definitive-guide-to-big-screen-featherlight-computing-excellence/"><u>Experience the Future with LG's Innovative 17 Gram Pro - The Definitive Guide to Big-Screen, Featherlight Computing Excellence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-an-insider-look-at-the-quirky-ultra-comfy-199-case-for-apple-vision-pro-a-surprising-find/"><u>Get an Insider Look at the Quirky, Ultra-Comfy $199 Case for Apple Vision Pro - A Surprising Find !</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-broken-iphone-15-pro-screen-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Data from Broken iPhone 15 Pro Screen | Stellar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-the-samsung-galaxy-watch-7-find-out-pricing-release-schedule-and-feature-breakdown/"><u>Inside the Samsung Galaxy Watch 7: Find Out Pricing, Release Schedule, and Feature Breakdown!</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/no-compromise-on-quality-how-to-change-your-mkv-videos-to-mp4-format-with-handbrake-at-zero-cost/"><u>No Compromise on Quality: How to Change Your MKV Videos to MP4 Format with Handbrake at Zero Cost</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-5-mouse-pad-reviews-and-comparisons-highlights-from-2022-techradar/"><u>Top 5 Mouse Pad Reviews and Comparisons - Highlights From 2022 | TechRadar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-durable-computers-a-comprehensive-guide-to-the-most-resilient-notebooks-explored-by-zdnet/"><u>Top Durable Computers: A Comprehensive Guide to the Most Resilient Notebooks - Explored by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnet-unveils-how-dell-redefines-gaming-laptops-with-a-work-ready-ultraportable-design/"><u>ZDNet Unveils How Dell Redefines Gaming Laptops with a Work-Ready Ultraportable Design</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

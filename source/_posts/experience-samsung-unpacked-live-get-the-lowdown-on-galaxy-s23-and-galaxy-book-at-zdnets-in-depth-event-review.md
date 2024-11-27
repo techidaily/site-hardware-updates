@@ -1,7 +1,7 @@
 ---
 title: "Experience Samsung Unpacked Live: Get the Lowdown on Galaxy S23 and Galaxy Book at ZDNET's In-Depth Event Review"
-date: 2024-11-10T17:08:44.576Z
-updated: 2024-11-17T19:41:24.968Z
+date: 2024-11-25T19:30:30.481Z
+updated: 2024-11-27T20:00:14.131Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Taylor Clemons/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET takeaways
 
@@ -77,10 +81,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -92,10 +93,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -132,24 +130,24 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-prime-gopro-editing-software-for-iosandroid-users/"><u>[New] Prime GoPro Editing Software for iOS/Android Users</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-capture-screenshots-of-a-full-page/"><u>[Updated] 2024 Approved Capture Screenshots of a Full Page</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-precision-followers-gps-drones-of-the-year/"><u>[Updated] 2024 Approved Precision Followers GPS Drones of the Year</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-taringaid-profile-image-details-pixel-count-codec-time-span-for-2024/"><u>[Updated] TaringaID Profile Image Details Pixel Count, Codec, Time Span for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-a78-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-7-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From iPhone 7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-installer-errors-for-non-compatible-apps/"><u>Resolving Windows Installer Errors for Non-Compatible Apps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/scorching-deal-alert-snag-your-85-inch-tcl-television-for-25-less-labor-day-countdown-begins-find-exclusive-offers-on-zdnet/"><u>Scorching Deal Alert: Snag Your 85-Inch TCL Television for 25% Less - Labor Day Countdown Begins | Find Exclusive Offers on ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/score-unbeatable-prime-day-bargains-get-your-samsung-frame-tv-at-40-off-shop-now-for-top-deals/"><u>Score Unbeatable Prime Day Bargains: Get Your Samsung Frame TV at 40% Off - Shop Now for Top Deals!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/struggling-with-muffled-dialogues-on-your-tv-discover-3-essential-tips-for-crystal-clear-audio-plus-2-bonus-free-solutions/"><u>Struggling with Muffled Dialogues on Your TV? Discover 3 Essential Tips for Crystal Clear Audio - Plus 2 Bonus Free Solutions!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-iconic-japanese-brand-panasonic-unveils-three-cutting-edge-problem-write-an-equation-for-the-following-statement-and-then-solve-it-a-number-added-to-its236/"><u>The Iconic Japanese Brand Panasonic Unveils Three Cutting-Edge # Problem: Write an Equation for the Following Statement and Then Solve It: A Number Added to Itself Plus Four Times the Same Number Equals 90. What Is the Original Number?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-methods-for-catching-nfl-games-in-real-time-tips-and-tricks-from-zdnet/"><u>The Ultimate Methods for Catching NFL Games in Real Time - Tips & Tricks From ZDNet!</u></a></li>
-<li><a href="https://windows11.techidaily.com/three-steps-for-ditching-microsofts-store/"><u>Three Steps for Ditching Microsoft's Store</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-60-television-offers-and-discounts-for-labor-day-weekend-september-2024-zdnets-exclusive-guide/"><u>Top 60 Television Offers and Discounts for Labor Day Weekend, September 2024 - ZDNet's Exclusive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-labor-day-tv-offers-exclusive-pick-of-the-finest-savings-from-aged-55-and-up-unlock-them-now/"><u>Top Labor Day TV Offers : Exclusive Pick of the Finest Savings From Aged 55 & Up - Unlock Them Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-picks-the-ultimate-guide-to-the-best-65-and-above-televisions-featured-by-zdnet/"><u>Top Picks: The Ultimate Guide to the Best 65 & Above Televisions - Featured by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-quality-televisions-within-a-budget-of-1000-reviews-and-ratings-by-tech-experts-zdnet/"><u>Top Quality Televisions Within a Budget of $1,000 - Reviews & Ratings by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/turning-on-windows-file-compression/"><u>Turning On Windows File Compression</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-htc-vive-comfort-zone-8-strategies-for-clear-skin/"><u>[New] In 2024, HTC Vive Comfort Zone 8 Strategies for Clear Skin</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-in-depth-examination-of-xcreative-vision-studio-a-complete-guide/"><u>[Updated] In 2024, In-Depth Examination of XCreative Vision Studio - A Complete Guide</u></a></li>
+<li><a href="https://solve-news.techidaily.com/comprehensive-tutorial-on-ios-to-macos-app-transfer-with-visual-aids-included/"><u>Comprehensive Tutorial on iOS to macOS App Transfer with Visual Aids Included</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971869915-download-and-install-latest-toshiba-laptop-drivers-on-windows-step-by-step-guide/"><u>Download & Install Latest Toshiba Laptop Drivers on Windows: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-upgrade-for-optimal-functionality-steelseries-keyboard-engine-driver/"><u>Download & Upgrade for Optimal Functionality: SteelSeries Keyboard Engine Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-enhance-your-netgear-n600-wi-fi-range-extender-with-the-latest-wnas3100-driver-update/"><u>Download and Enhance Your Netgear N600 Wi-Fi Range Extender with the Latest WNAS3100 Driver Update!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-most-recent-nvidia-geforce-drivers-tailored-for-windows-users/"><u>Download and Install the Most Recent NVIDIA GeForce Drivers Tailored for Windows Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eliminate-your-yahoo-email-for-good-detailed-steps-to-account-deletion/"><u>Eliminate Your Yahoo Email For Good: Detailed Steps to Account Deletion</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-guide-resolving-the-missing-dbghookdll-error/"><u>Fix Guide: Resolving the MISSING dBghook.dll Error</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixing-logitech-f710-connectivity-issues-on-various-windows-platforms-including-windows-111087/"><u>Fixing Logitech F710 Connectivity Issues on Various Windows Platforms Including Windows 11/10/8/7</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/football-inscriptions-premier-fifa-youtube-insights-for-2024/"><u>Football Inscriptions Premier FIFA YouTube Insights for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fresh-and-updated-comprehensive-guide-on-ch340ech340g-drivers-for-win10-systems/"><u>Fresh and Updated: Comprehensive Guide on CH340e/CH340g Drivers for Win10 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-and-enhance-your-creative-webcam-with-new-drivers-windows/"><u>How to Update and Enhance Your Creative Webcam with New Drivers (Windows)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976997026-latest-dell-smbus-controller-firmware-enhancement-download-now/"><u>Latest Dell SMBus Controller Firmware Enhancement - Download Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-rtx-2080-graphic-cards-drivers-available-download-now-for-all-windows-platforms/"><u>Latest RTX 2080 Graphic Cards Drivers Available: Download Now for All Windows Platforms</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/navigating-corporate-lexicon-for-effective-negotiation/"><u>Navigating Corporate Lexicon for Effective Negotiation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-gpt-spotlight-countering-fake-ai-entities/"><u>Navigating GPT Spotlight: Countering Fake AI Entities</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-visionizer-for-gamers-setting-up-your-console-in-4k-focus-mode/"><u>The Ultimate Visionizer for Gamers – Setting Up Your Console in 4K Focus Mode</u></a></li>
 </ul></div>
 

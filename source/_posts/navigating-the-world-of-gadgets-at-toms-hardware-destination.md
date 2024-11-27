@@ -1,7 +1,7 @@
 ---
 title: Navigating the World of Gadgets at Tom's Hardware Destination
-date: 2024-08-28T02:09:22.410Z
-updated: 2024-08-29T02:09:22.410Z
+date: 2024-11-26T20:11:05.373Z
+updated: 2024-11-27T19:12:13.485Z
 tags:
   - cpu
 categories:
@@ -23,6 +23,10 @@ AMD has listed the new Ryzen 5 9600X for pre-order on its[Canadian Amazon store]
   
  AMD showed the Ryzen 5 9600X crushing Intel's Core i5-14600K by 22% in productivity[benchmarks](https://www.tomshardware.com/tag/benchmark) and 11% in gaming at its Zen 5 Tech Day, with an 88W peak power draw versus Intel's 181W. A lead of this margin for almost half of the power shows strong performance for the bottom of AMD's Zen 5 desktop CPU slate, though as always we need to take manufacturer benchmarks with a spoonful of salt. If AMD prices Ryzen 5 9600X below $300 (which we suspect it will, eventually), it becomes a shoo-in for[our best value CPU](https://www.tomshardware.com/reviews/best-cpus,3986.html#section-value-best-cpu-for-gaming-200-to-250) , a spot currently held by the Ryzen 5 7600X.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -37,8 +41,6 @@ AMD has listed the new Ryzen 5 9600X for pre-order on its[Canadian Amazon store]
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -46,8 +48,23 @@ AMD has listed the new Ryzen 5 9600X for pre-order on its[Canadian Amazon store]
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-enlarge-your-videos-thumbnail-on-youtube-easily/"><u>[New] 2024 Approved Enlarge Your Video's Thumbnail on YouTube Easily</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-top-20-moments-of-laughter-best-fb-jail-gems-for-a-sunny-outlook/"><u>[Updated] 2024 Approved Top 20 Moments of Laughter Best FB Jail Gems for a Sunny Outlook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-modern-photo-editing-wonders-frame-integration-essentials-2023/"><u>[Updated] Modern Photo Editing Wonders Frame Integration Essentials, 2023</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-benq-sw320-4k-315-inch-monitor-review/"><u>2024 Approved BenQ SW320 4K 31.5-Inch Monitor Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-the-ultimate-sound-exclusively-discounted-incredible-speakers-at-best-buy-insights-from-a-tech-guru/"><u>Experience the Ultimate Sound: Exclusively Discounted Incredible Speakers at Best Buy - Insights From a Tech Guru</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-sleek-innovation-of-lgs-latest-ultraportable-laptop-with-record-thin-profile-expert-analysis-by-zdnet/"><u>Exploring the Sleek Innovation of LG's Latest Ultraportable Laptop with Record-Thin Profile | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/get-set-go-seamless-steps-to-harnessing-chatgpt-on-your-android-device/"><u>Get Set, Go! Seamless Steps to Harnessing ChatGPT on Your Android Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huge-cyber-monday-savings-on-hp-pavilion-get-it-for-just-450-50-off-the-original-price/"><u>Huge Cyber Monday Savings on HP Pavilion: Get It for Just $450 - 50% Off the Original Price!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-xiaomi-mi-smart-band-abuilding-a-comprehensive-review-for-budget-fitness-enthusiasts/"><u>In-Depth Analysis of the Xiaomi Mi Smart Band Abuilding, a Comprehensive Review for Budget Fitness Enthusiasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/limited-time-alert-secure-your-hp-victus-15-gaming-laptop-for-only-450-on-best-buys-prime-day-deal-insider-info/"><u>Limited Time Alert: Secure Your HP Victus 15 Gaming Laptop for Only $450 on Best Buy's Prime Day Deal Insider Info</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/prime-day-blowout-apples-m2-macbook-air-at-a-steal-for-749-now-available-at-amazon/"><u>Prime Day Blowout: Apple's M2 MacBook Air at a Steal for $749 - Now Available at Amazon</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/slash-your-tech-costs-with-a-simple-50-gadget-discover-the-secret-to-saving-big-bucks/"><u>Slash Your Tech Costs with a Simple $50 Gadget: Discover the Secret to Saving Big Bucks!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ltimate-voyage-guide-from-novice-to-esteemed-travel-blogger-for-2024/"><u>The Ultimate Voyage Guide From Novice to Esteemed Travel Blogger for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/top-10-premium-luts-available-for-free-for-2024/"><u>Top 10 Premium LUTs, Available for FREE for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unmissable-metas-october-prime-day-offer-save-big-on-the-sleek-512gb-quest-3-for-virtual-reality-enthusiasts/"><u>Unmissable Meta's October Prime Day Offer: Save Big on the Sleek 512GB Quest 3 for Virtual Reality Enthusiasts</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->

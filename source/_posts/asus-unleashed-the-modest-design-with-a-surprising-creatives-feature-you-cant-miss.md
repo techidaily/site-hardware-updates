@@ -1,7 +1,7 @@
 ---
 title: "Asus Unleashed: The Modest Design with a Surprising Creatives Feature You Can't Miss"
-date: 2024-11-13T17:38:08.009Z
-updated: 2024-11-17T19:15:46.346Z
+date: 2024-11-21T16:18:32.277Z
+updated: 2024-11-27T19:21:23.594Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -69,10 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,20 +112,20 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-capture-the-skyline-horizontal-photos-in-a-phone/"><u>[New] 2024 Approved Capture the Skyline Horizontal Photos in a Phone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-googles-take-on-ar-stickers-an-overview-and-beyond/"><u>[Updated] Google's Take on AR Stickers An Overview & Beyond</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-illuminating-the-world-of-photography-with-adobes-hdr-techniques/"><u>2024 Approved Illuminating the World of Photography with Adobe's HDR Techniques</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-logitech-g402-input-device-drivers-and-utility-tools-download-instructions/"><u>Complete Logitech G402 Input Device Drivers & Utility Tools Download Instructions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-downloading-and-updating-windows-audio-card-drivers/"><u>Comprehensive Guide: Downloading and Updating Windows Audio Card Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-setup-comprehensive-guide-to-asus-z370-e-drivers-for-optimal-performance/"><u>Download & Setup: Comprehensive Guide to ASUS Z370-E Drivers for Optimal Performance</u></a></li>
-<li><a href="https://win-great.techidaily.com/effizientes-klonen-von-windows-server-2008-r2-ohne-neuanlage-ein-leitfaden/"><u>Effizientes Klonen Von Windows Server 2008 R2 Ohne Neuanlage: Ein Leitfaden</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-epson-v700-driver-here-supports-windows-7-through-to-10/"><u>Get Your Epson V700 Driver Here! Supports Windows 7 Through to 10</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-agni-2-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Lava Agni 2 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagram-visuals-to-mp3s-simplified-transformation-process/"><u>Instagram Visuals to Mp3s - Simplified Transformation Process</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/intels-extended-warranties-unveiled-a-detailed-look-at-coverage-for-tiger-lake-tgl-and-rocket-lake-based-processors/"><u>Intel's Extended Warranties Unveiled - A Detailed Look at Coverage for Tiger Lake (TGL) and Rocket Lake-Based Processors</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/leading-the-sled-team/"><u>Leading the Sled Team</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/masterclass-in-selecting-quality-parts-the-toms-hardware-approach/"><u>Masterclass in Selecting Quality Parts: The Tom's Hardware Approach</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723006898410-mlb-the-show-21-play-issues-addressed-smoother-online-experience-awaits/"><u>MLB The Show 21 Play Issues Addressed - Smoother Online Experience Awaits!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-comic-creators-charter-zero-cost-endless-laughs/"><u>[Updated] 2024 Approved Comic Creators' Charter Zero Cost, Endless Laughs</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-leading-editing-pros-in-dev-device-content-for-2024/"><u>[Updated] Leading Editing Pros in Dev Device Content for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-downloading-and-installing-logitech-c270-camera-software-on-windows-1011/"><u>Easy Guide: Downloading & Installing Logitech C270 Camera Software on Windows 10/11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/effective-use-of-look-up-tables-in-cinematic-color-grading/"><u>Effective Use of Look-Up Tables in Cinematic Color Grading</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-guide-solving-compatibility-issues-with-the-realtek-rtl8811au-device-drivers/"><u>Expert Guide: Solving Compatibility Issues with the Realtek RTL8811AU Device Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-epson-xp-430-printer-drivers-on-windows-a-simple-walkthrough/"><u>Find & Install Epson XP-430 Printer Drivers on Windows: A Simple Walkthrough</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978081495-get-your-intel-centrino-n-6205-wifi-card-drivers-here/"><u>Get Your Intel Centrino N 6205 WiFi Card Drivers Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fetch-and-set-up-updated-drivers-for-your-hp-officejet-pro-6970-on-windows/"><u>How to Fetch and Set Up Updated Drivers for Your HP OfficeJet Pro 6970 on Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-13-pro-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 13 Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-efficient-way-to-grab-all-episodes-on-your-idevice/"><u>In 2024, The Efficient Way to Grab All Episodes on Your iDevice</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/public-input-is-vital-for-creating-spaces-that-meet-community-needs/"><u>Public Input Is Vital for Creating Spaces that Meet Community Needs.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-fixes-for-your-presonus-audiobox-usb-drivers-a-comprehensive-guide/"><u>Quick Fixes for Your Presonus AudioBox USB Drivers - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/seamlessly-switch-from-pages-to-text-proven-strategies-for-quick-conversion/"><u>Seamlessly Switch From Pages to Text: Proven Strategies for Quick Conversion</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-honor-x50-gt-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Honor X50 GT Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-successful-data-erasure-learn-from-stellars-exclusive-content/"><u>Unlock Successful Data Erasure: Learn From Stellar’s Exclusive Content</u></a></li>
 </ul></div>
 

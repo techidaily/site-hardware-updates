@@ -1,7 +1,7 @@
 ---
 title: Save Big with the Crème De La Crème of Cyber Monday Laptop Deals Below $1K at Costco, Amazon, and Dell | Insights by ZDNET
-date: 2024-11-13T20:17:37.046Z
-updated: 2024-11-17T18:16:13.323Z
+date: 2024-11-24T20:20:48.460Z
+updated: 2024-11-27T18:43:55.248Z
 tags:
   - laptops
 categories:
@@ -21,6 +21,10 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Dell holiday deals
 
@@ -90,10 +94,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4dd53716-6376-4628-b248-ef80c594a02a%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell laptop holiday deals
@@ -105,10 +106,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell XPS 13 9310 13.4-inch touch laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-XPS-9310-Laptop-Touchscreen%2Fdp%2FB09PR52BHK%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4dd53716-6376-4628-b248-ef80c594a02a%7Cdtp&dtb=1) for $1,071 (save $429)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell desktop holiday deals
@@ -120,13 +118,6 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell Optiplex 7080 Intel i5](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-7080-business-desktops-workstations%252Fp%252F1VK-0001-6GXW7) for $520 (save $179)
 * [Dell OptiPlex 3000 Desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-3000-student-home-office%252Fp%252F1VK-0001-6EUX9) for $1,200 (save $440)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best Dell monitor holiday deals
 
 * [Dell S2721HS 27-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721HS-Adjustable-Response-FreeSync%2Fdp%2FB09S4ZZMS9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4dd53716-6376-4628-b248-ef80c594a02a%7Cdtp&dtb=1): $180 (save $40)
@@ -134,10 +125,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell 27-inch 4K FreeSync monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721QS-Ultra-Thin-DisplayPort-Certified%2Fdp%2FB08DQWG3JG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4dd53716-6376-4628-b248-ef80c594a02a%7Cdtp&dtb=1) for $297 (save $33)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these holiday deals?
@@ -145,6 +133,10 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best holiday deals?
 
@@ -218,24 +210,18 @@ Here are the top deals by category we've found so far:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-movie-magic-solutions-questions-answered/"><u>[New] Movie Magic Solutions Questions Answered</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-androids-premier-photographic-tool-is-pickup-at-the-forefront-for-2024/"><u>[Updated] Android’s Premier Photographic Tool – Is PickUp at the Forefront for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-epitaph-to-entertainment-picking-the-ultimate-zombie-games/"><u>[Updated] Epitaph to Entertainment Picking the Ultimate Zombie Games</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-unlocking-instagrams-hidden-qanda-features/"><u>[Updated] Unlocking Instagram’s Hidden Q&A Features</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/buy-these-latest-ces-2023-releases-instantly-featured-selection-by-zdnet/"><u>Buy These Latest CES 2023 Releases Instantly – Featured Selection by ZDNet!</u></a></li>
-<li><a href="https://win-studio.techidaily.com/effortless-file-transfer-sharing-between-windows-pc-and-android-via-google-quick-share-techradar/"><u>Effortless File Transfer: Sharing Between Windows PC and Android via Google Quick Share | TechRadar</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-overview-of-the-galaxy-line-up-introduced-at-samsung-unpacked-insights/"><u>Exclusive Overview of the Galaxy Line-Up Introduced at Samsung Unpacked: Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/explore-the-best-deals-of-cyber-weekend-save-big-on-tvs-headphones-and-sound-equipment-limited-time-offers/"><u>Explore the Best Deals of Cyber Weekend: Save Big on TVs, Headphones, and Sound Equipment – Limited Time Offers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fine-tune-your-focus-smooth-transition-to-zoom-in-and-out-on-ios-gadgets/"><u>Fine-Tune Your Focus: Smooth Transition to Zoom In & Out on iOS Gadgets</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/guide-facile-comment-proteger-votre-systeme-windows-n-avec-un-logiciel-gratuite-pour-lenregistrer-sur-une-cle-usb-securisee/"><u>Guide Facile : Comment Protéger Votre Système Windows N Avec Un Logiciel Gratuite Pour L'enregistrer Sur Une Clé USB Sécurisée</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-increase-fps-troubleshooting-performance-drops-in-farming-simulator-22-on-pc/"><u>How to Increase FPS: Troubleshooting Performance Drops in Farming Simulator 22 on PC</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-masterpiece-dialogues-across-8-film-genres/"><u>In 2024, Masterpiece Dialogues Across 8 Film Genres</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovos-innovative-2-in-1-thinkpad-boasts-key-feature-update-to-delight-expert-users-according-to-zdnet-review/"><u>Lenovo's Innovative 2-in-1 ThinkPad Boasts Key Feature Update to Delight Expert Users, According to ZDNET Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/remote-working-made-effortless-with-the-best-lightweight-laptops-on-the-market-according-to-a-seasoned-tech-guru-reviews/"><u>Remote Working Made Effortless with the Best Lightweight Laptops on the Market, According to a Seasoned Tech Guru Reviews</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-setup-of-idt-advanced-audio-codec-driver-in-windows-11-environments/"><u>Step-by-Step Setup of IDT Advanced Audio CODEC Driver in Windows 11 Environments</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-choice-the-ideal-13-business-travelers-laptop-neither-dell-xps-nor-macbook-according-to-experts/"><u>Top Choice: The Ideal 13 Business Traveler's Laptop - Neither Dell XPS nor MacBook, According to Experts !</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-lenovo-laptop-picks-tailored-for-the-modern-hybrid-professional-save-1000-more/"><u>Top Lenovo Laptop Picks Tailored for the Modern Hybrid Professional - Save $1,000 More!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-discounted-laptops-for-black-friday-and-cyber-monday-2024-featured-on-zdnet/"><u>Top-Rated Discounted Laptops for Black Friday & Cyber Monday 2024 - Featured on ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-touchscreen-laptop-picks-thoroughly-evaluated-and-recommended-insights-from-tech-experts-zdnet/"><u>Top-Rated Touchscreen Laptop Picks: Thoroughly Evaluated & Recommended - Insights From Tech Experts | ZDNet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-examining-how-youtube-curates-its-highlighted-discussion-threads/"><u>[Updated] Examining How YouTube Curates Its Highlighted Discussion Threads</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-polishing-video-journeys-inshots-segmentation-excellence/"><u>[Updated] Polishing Video Journeys Inshot's Segmentation Excellence</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discover-the-power-of-owc-mercury-pro-advanced-technology-for-unparalleled-speed-and-reliability/"><u>Discover the Power of OWC Mercury Pro: Advanced Technology for Unparalleled Speed and Reliability</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-new-age-with-microsoft-in-depth-review-of-the-surface-laptop-5-tech-showdown/"><u>Exploring the New Age with Microsoft: In-Depth Review of the Surface Laptop 5 Tech Showdown</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-find-x7-ultra-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo Find X7 Ultra Location by Number | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/key-specifications-for-building-or-buying-an-ideal-gaming-pc-system/"><u>Key Specifications for Building or Buying an Ideal Gaming PC System</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/noteworthy-14-innovative-text-movements-for-2024/"><u>Noteworthy 14 Innovative Text Movements for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-poco-x6-pro-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Poco X6 Pro Black and White | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/shop-smart-this-cyber-weekend-with-an-exclusive-deal-high-performance-slim-design-lg-gram-17-laptop-now-just-a-click-away-from-400-off-techradar-news/"><u>Shop Smart This Cyber Weekend with an Exclusive Deal: High-Performance, Slim Design LG Gram 17 Laptop Now Just a Click Away From $400 Off | TechRadar News</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/story-1-misunderstanding-compliance-with-cloud-computing/"><u>Story 1: Misunderstanding Compliance with Cloud Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranked-work-laptop-uncovered-beyond-the-lenovo-and-macbook-realm-exclusive-insights-from-zdnet/"><u>Top-Ranked Work Laptop Uncovered: Beyond the Lenovo and MacBook Realm - Exclusive Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-black-friday-bargain-score-a-steep-discount-on-lenovo-thinkpad-x1-extreme-gen-4-now-under-500/"><u>Unbeatable Black Friday Bargain: Score a Steep Discount on Lenovo ThinkPad X1 Extreme Gen 4 - Now Under $500</u></a></li>
+<li><a href="https://discover-community.techidaily.com/windows-movie-maker-error-fix-guide-for-windows-10-and-11-users/"><u>Windows Movie Maker Error Fix Guide for Windows 10 and 11 Users</u></a></li>
 </ul></div>
 

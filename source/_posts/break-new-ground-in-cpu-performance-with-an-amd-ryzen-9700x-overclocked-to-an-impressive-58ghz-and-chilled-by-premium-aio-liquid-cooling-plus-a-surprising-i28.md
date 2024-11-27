@@ -1,7 +1,7 @@
 ---
 title: "Break New Ground in CPU Performance with an AMD Ryzen #9700X: Overclocked to an Impressive 5.8GHz and Chilled by Premium AIO Liquid Cooling – Plus, a Surprising Idle Speed of 6 GHz Achieved"
-date: 2024-08-28T02:09:13.396Z
-updated: 2024-08-29T02:09:13.396Z
+date: 2024-11-20T17:52:09.917Z
+updated: 2024-11-27T19:25:36.117Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  With all these technologies working in tandem, the overclocker achieved an idle frequency of 5.86 GHz. In stress testing, the maximum single-thread clock speed was 5.758 GHz, with a maximum multi-core frequency of 5.454 GHz operating at 95.2 degrees Celsius at a package power of 172.1 watts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,14 +45,11 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  SkatterBencher's 5.8 GHz and 6 GHz overclocks represent the highest on the new 9700X. Der8auer and Overclocking.com showcased their respective overclocks on the 9700X but could only eke out 5.4G Hz. The main difference was that both outlets did manual overclocks, whereas SkatterBencher used AMD's plethora of overclocking tools, enabling them to hit higher frequencies.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -57,8 +58,21 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-starter-mic-solutions-for-youtube-starters/"><u>[New] 2024 Approved Starter Mic Solutions for YouTube Starters</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-guide-to-turning-tiktok-music-into-your-cell-phone-ringtone-for-2024/"><u>[New] Guide to Turning TikTok Music Into Your Cell Phone Ringtone for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-t2x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/bright-ideas-top-17-lighting-setups-for-youtubers-for-2024/"><u>Bright Ideas Top 17 Lighting Setups for YouTubers for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719578465650-eternal-access-to-mondlys-best-with-zero-price/"><u>Eternal Access to Mondly's Best with Zero Price</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expertly-chosen-and-reviewed-ultimate-guide-to-the-best-touchscreen-laptops-insights/"><u>Expertly Chosen & Reviewed: Ultimate Guide to the Best Touchscreen Laptops Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-dells-high-end-3000-laptop-redefined-my-expectations-with-unique-features-insights-s-test-drive/"><u>How Dell's High-End $3,000 Laptop Redefined My Expectations with Unique Features - Insights 'S Test Drive</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-f15-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy F15 5GFRP Lock</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ipad-pro-vs-macbook-air-showdown-determining-the-best-device-for-your-needs-a-comprehensive-guide/"><u>IPad Pro Vs. MacBook Air Showdown: Determining the Best Device For Your Needs - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/portable-displays-are-they-worth-your-money-unveiling-the-best-options-according-to-zdnet-experts/"><u>Portable Displays: Are They Worth Your Money? Unveiling the Best Options According to ZDNet Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-98-cyber-monday-bargains-of-2022-zdnet-unbeatable-offers-and-savings/"><u>Top 98 Cyber Monday Bargains of 2022 | ZDNet - Unbeatable Offers & Savings!</u></a></li>
+<li><a href="https://techidaily.com/top-iphone-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone Message Recovery Software | Stellar</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-exclusive-tech-bargains-find-the-best-gaming-deals-during-prime-day-in-october-2024/"><u>Unlock Exclusive Tech Bargains: Find the Best Gaming Deals During Prime Day in October 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

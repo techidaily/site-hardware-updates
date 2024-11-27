@@ -1,7 +1,7 @@
 ---
 title: "Top Prime Day Video Game Bargains: The Ultimate Shopping Guide for October 2024 - ZDNET"
-date: 2024-11-12T19:42:11.683Z
-updated: 2024-11-17T19:22:24.846Z
+date: 2024-11-21T17:36:45.023Z
+updated: 2024-11-27T16:17:28.794Z
 tags:
   - laptops
 categories:
@@ -23,6 +23,10 @@ From Apple's [MacBook Pro M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FUR
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day laptop deals
 
@@ -76,13 +80,6 @@ Microsoft's 2024 Surface Laptop is a fast, lightweight laptop with a fantastic b
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXKQYNPD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C979bbd0c-a412-4517-8c3d-2e33ea5f9085%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best laptops for students
 
 Dell/ZDNET
@@ -91,6 +88,10 @@ Dell/ZDNET
 * [Lenovo IdeaPad Slim 3 Chromebook](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-IdeaPad-Slim-Chromebook-Lightweight%2Fdp%2FB0D5HZVQDL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C979bbd0c-a412-4517-8c3d-2e33ea5f9085%7Cdtp&dtb=1) for $209 ($10 off) - If you need a lightweight device with a good webcam, it doesn't get more affordable than Lenovo's IdeaPad Slim 3 Chromebook. Already at just a few hundred bucks, you can save some extra cash during Amazon's October Prime Day sale.
 * [Acer Chromebook 314](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChromebook-CB314-4HT-32X6-i3-N305-Processor-Display%2Fdp%2FB0CMRRFGVN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C979bbd0c-a412-4517-8c3d-2e33ea5f9085%7Cdtp&dtb=1) for $339 ($110 off) - For a Chromebook with a little bit more storage and a full HD display, this 14-inch Acer machine is a solid campus companion.
 * [Lenovo V15 Essential Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Essential-Quad-core-Processor-Ethernet%2Fdp%2FB0D8524KVL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C979bbd0c-a412-4517-8c3d-2e33ea5f9085%7Cdtp&dtb=1) for $399 ($100 off) - Lenovo's V15 laptop is a well-rounded machine with a full 1TB of storage, which is enough for multiple years' worth of documents and files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best gaming laptops under $1,000
 
@@ -107,6 +108,10 @@ Asus/ZDNET
 * [Asus Zenbook Duo Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Zenbook-Certified-Graphics-UX8406MA-PS99T%2Fdp%2FB0CRD6PJDF%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C979bbd0c-a412-4517-8c3d-2e33ea5f9085%7Cdtp&dtb=1) for $1,503 ($196 off): Asus' Duo is a game-changing machine with its dual 14-inch OLED displays and powerful hardware, allowing for a wide range of configurations that creatives will love.
 * [Microsoft Surface Laptop Snapdragon X Elite](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXL68236%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C979bbd0c-a412-4517-8c3d-2e33ea5f9085%7Cdtp&dtb=1) for $1,560 ($139 off): The higher-end Copilot+ certified laptop with the 12-core Snapdragon X Elite chip and 1TB of storage is also still on sale following October Prime Day.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More October Prime Day 2024 laptop deals
 
 Kyle Kucharski/ZDNET
@@ -116,6 +121,10 @@ Kyle Kucharski/ZDNET
 * [Acer Nitro 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHexa-Core-GeForce-Display-Backlit-AN16-41-R148%2Fdp%2FB0D3VJXSWK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C979bbd0c-a412-4517-8c3d-2e33ea5f9085%7Cdtp&dtb=1) for $799 (save $200): This mid-range gaming laptop has a 16-inch display with a 165Hz refresh rate and is built with an Nvidia GeForce RTX 4050 graphics card.
 * [Acer Swift Go 14](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Facer-Display-Experiences-Processor-SFG14-72T-718K%2Fdp%2FB0CNDTGC77%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C979bbd0c-a412-4517-8c3d-2e33ea5f9085%7Cdtp&dtb=1) for $699 (save $300): This lightweight laptop features an Intel Core Ultra 7 155H CPU, Intel Arc graphics, 16GB of RAM, and a 512GB SSD.
 * [HP 17-inch Touch Laptop](https://qvc.uikc.net/c/159047/565130/9368?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.qvc.com%2Fhp-17-touch-laptop-intel-n200-4gb-ram-128gb-ssd-w-hp-mouse-%2526-ms365.product.E324465.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for $479 (Save $80): For a large-screen laptop with touch capabilities, HP's 17-inch Touch comes in a variety of bold colorways, and is bundled with a mouse in this QVC deal. This is a solid choice for users who want a large screen to play media, but only need a basic hardware configuration.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Buy laptop deals
 
@@ -136,22 +145,12 @@ Kyle Kucharski/ZDNET
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals before and after those days as well. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Are laptops really cheaper on Prime Day?
 
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
 
@@ -164,13 +163,6 @@ When compiling the list of the best deals, we considered the following:
 * **Price**: Naturally, the price point of our recommended laptops has to include a worthwhile discount. While some discounts are small in relation to an overall price tag - for example, $30 off a $150 device - and other discounts are in the hundreds of dollars, we wanted to ensure that in any case, it's value for money.
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What are the best October Prime Day 2024 deals?
 
@@ -238,15 +230,20 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-how-to-put-multiple-pictures-on-insta-story-a-simple-guide-for-2024/"><u>[New] How to Put Multiple Pictures on Insta Story - a Simple Guide for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-fb-content-extraction-made-simple-windows-and-macos/"><u>[Updated] In 2024, FB Content Extraction Made Simple Windows & macOS</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-streaming-to-profit-youtube-policy-changes-for-2024/"><u>[Updated] Streaming to Profit YouTube Policy Changes for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1-upgrade-your-tech-game-with-the-affordable-499-lenovo-chromebook-plus-a-smart-investment-over-expensive-laptops-insights-from-zdnet/"><u>1. Upgrade Your Tech Game with the Affordable $499 Lenovo Chromebook Plus: A Smart Investment Over Expensive Laptops - Insights From ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-samsung-galaxy-f54-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Samsung Galaxy F54 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-alternative-to-macbook-air-why-the-top-rated-windows-laptop-is-a-must-have-for-everyone-zdnets-picks/"><u>Best Alternative to MacBook Air: Why the Top-Rated Windows Laptop Is a Must-Have for Everyone - ZDNet's Picks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/july-2024s-premier-selection-of-free-driver-software-refreshers/"><u>July 2024'S Premier Selection of Free Driver Software Refreshers</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fix-for-erroneous-0x80246007-in-win11-uptime/"><u>Quick Fix for Erroneous 0X80246007 in Win11 Uptime</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/samsung-t5-8tb-external-ssd-steals-the-spotlight-with-36-discount-post-prime-day-on-amazon-tech-insights/"><u>Samsung T5 8TB External SSD Steals the Spotlight with 36% Discount Post-Prime Day on Amazon - Tech Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-alert-experience-the-ultimate-game-sound-with-top-rated-speakers-now-discounted-at-best-buy-zdnet/"><u>Unbeatable Deal Alert: Experience the Ultimate Game Sound with Top-Rated Speakers Now Discounted at Best Buy - ZDNet</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-tune-up-your-social-media-videos-for-maximum-impact/"><u>[New] 2024 Approved Tune Up Your Social Media Videos for Maximum Impact</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-optimize-viewing-the-finest-html5-video-solutions-for-2024/"><u>[Updated] Optimize Viewing The Finest HTML5 Video Solutions for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-honor-x50i-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Honor X50i System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypassing-load-delays-troubleshooting-tips-for-a-smooth-minecraft-experience/"><u>Bypassing Load Delays: Troubleshooting Tips for a Smooth Minecraft Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/first-impressions-of-the-apple-m3-macbook-air-a-deep-dive-into-its-most-impressive-new-additions/"><u>First Impressions of the Apple M3 MacBook Air - A Deep Dive Into Its Most Impressive New Additions</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y100t-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y100t without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-key-3d-tools-optimized-for-animation-workflows/"><u>In 2024, Key 3D Tools Optimized for Animation Workflows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-realme-gt-5-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Realme GT 5</u></a></li>
+<li><a href="https://program-issues.techidaily.com/loading-woes-be-gone-expert-tips-for-a-smooth-among-us-experience/"><u>Loading Woes Be Gone! Expert Tips for a Smooth Among Us Experience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/nano-drones-10-your-next-flight-companion/"><u>Nano Drones 10 - Your Next Flight Companion?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-an-unbeatable-price-on-hp-victus-15-prime-day-exclusive-at-just-515-from-best-buy-detailed-guide-by-zdnet/"><u>Score an Unbeatable Price on HP Victus 15: Prime Day Exclusive at Just $515 From Best Buy - Detailed Guide by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-laptops-for-students-in-depth-analysis-and-recommendations-techadvisor/"><u>Top-Rated Laptops for Students: In-Depth Analysis & Recommendations | TechAdvisor</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-macbook-peripherals-in-depth-analysis-by-tech-pros/"><u>Top-Rated MacBook Peripherals : In-Depth Analysis by Tech Pros</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-the-finest-touchscreen-notebooks-thoroughly-assessed-by-pros-cnet-reviews/"><u>Ultimate Guide to the Finest Touchscreen Notebooks - Thoroughly Assessed by Pros | CNET Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-m1-chip-beyond-just-laptops-and-desktops-a-deep-dive-into-apples-latest-innovation/"><u>Unveiling the M1 Chip: Beyond Just Laptops & Desktops - A Deep Dive Into Apple's Latest Innovation</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Latest Gaming Rigs From Alienware Set to Dazzle at CES 2023 - Inside Look & Preview of Features | Digital Trends
-date: 2024-11-13T16:18:28.983Z
-updated: 2024-11-17T17:21:46.954Z
+date: 2024-11-24T19:09:29.576Z
+updated: 2024-11-27T20:13:22.248Z
 tags:
   - laptops
 categories:
@@ -46,13 +46,6 @@ Show less
 
 [View now at Nothing](https://www.awin1.com/awclick.php?mid=48011&id=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fus.nothing.tech%2Fpages%2Fphone-1)[View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FNothing-Phone1-Smartphone-Factory-Unlocked%2Fdp%2FB0B76JMCM9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C784cc1cd-b602-41a3-9a72-a33e2151c1b9%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Nothing Phone 1
 
 ### Best innovative smartphone of 2022
@@ -87,6 +80,10 @@ Water-Resistant  Yes (IPX4 -- Splash-Proof)
 
 ## Bose QuietComfort II Earbuds
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best earbuds of 2022
 
 **Tech specs: Battery life:**6 hours | **Microphones**: 4 in each earbud | **Bluetooth range:** Up to 30 feet **| Voice assistant:**Yes | **Waterproof rating:**IPX4
@@ -105,14 +102,11 @@ Show less
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BX4XVCM5%2Fref%3Dasc%5Fdf%5FB0BX4XVCM51728558000000%3Fcreative%3D395261%26creativeASIN%3DB0BX4XVCM5%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C784cc1cd-b602-41a3-9a72-a33e2151c1b9%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Watch Ultra
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best smartwatch of 2022
 
@@ -134,13 +128,14 @@ Show less
 
 [View now at Oura Ring](https://ouraring.sjv.io/c/159047/1408413/16760?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fouraring.com%2Fproduct%2Fhorizon-silver&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Oura Ring Gen 3 Horizon
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best wearable of 2022
@@ -165,6 +160,10 @@ Show less
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B7Y1ZC9L%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C784cc1cd-b602-41a3-9a72-a33e2151c1b9%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Samsung Galaxy Tab S8 Plus
 
 ### Best tablet of 2022
@@ -184,13 +183,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FIntroducing-Kindle-Scribe-the-first-Kindle-for-reading-and-writing%2Fdp%2FB09BSGFTHY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C784cc1cd-b602-41a3-9a72-a33e2151c1b9%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Amazon Kindle Scribe
 
@@ -268,6 +260,10 @@ Show less
 
 ## Kasa Smart Plug Mini
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best smart plug of 2022
 
 **Tech specs: Connection:** 2.4GHz Wi-Fi | **Interoperability:** Google Home, Amazon Alexa, Samsung SmartThings | **Voice control:** Amazon Alexa and Google Home | **Weight:** 3.2 ounces
@@ -290,13 +286,6 @@ Show less
 
 ## Yale Assure Lock 2
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best smart lock of 2022
 
 **Tech specs: Touchpad type:** Touchscreen and keypad | **Lock type:** Keyed or keyless deadbolt | **Door thickness:** 13/8" to 2-1/4" | **Grade:** Commercial Grade 2 | **Compatibility:** Amazon Alexa, Google Assistant, Apple HomeKit | **Connectivity:** Wi-Fi or Bluetooth | **Weight:** 4.5lbs
@@ -316,13 +305,6 @@ Show less
 [View now at Wooting](https://next.wooting.io/configurator/wooting-60he#config)
 
 ## Wooting 60HE Gaming Keyboard
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best gaming keyboard of 2022
 
@@ -344,7 +326,15 @@ Show less
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09Q7SZHKG%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C784cc1cd-b602-41a3-9a72-a33e2151c1b9%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Drop + EPOS PC38X Gaming Headset
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best gaming headset of 2022
 
@@ -386,20 +376,11 @@ Show less
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FFITURE-Compact-Workout-Real-Time-Feedback%2Fdp%2FB0BLSQB6YS%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C784cc1cd-b602-41a3-9a72-a33e2151c1b9%7Cdtp&dtb=1)
 
-## Fiture Mini
-
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Fiture Mini
 
 ### Best smart workout of 2022
 
@@ -422,13 +403,6 @@ Show less
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Firobot%2Froomba-j7-j7plus%2Fpcmcat1633095696173.c%3Fid%3Dpcmcat1633095696173&publisher_slug=itechdaily19598&exclusive=1)
 
 ## Roomba j7+
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best robot vacuum of 2022
 
@@ -459,6 +433,10 @@ While we think the above devices are the best of the best, we do have some honor
 [Amazon Kindle 11th Generation: Another great e-reader in 2022 $68.18 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09SWW583J%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C784cc1cd-b602-41a3-9a72-a33e2151c1b9%7Cdtp&dtb=1)
 
 [Pulsar Xlite V2 Mini Wireless Mouse $69.96 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09X1654RY%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C784cc1cd-b602-41a3-9a72-a33e2151c1b9%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose these best tech products of 2022?
 
@@ -508,18 +486,20 @@ And ambient computing-the technology we see in smart home devices-is getting bet
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-comprehensive-guide-for-effective-video-capturing/"><u>[New] 2024 Approved Comprehensive Guide for Effective Video Capturing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-samsung-galaxy-a34-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Samsung Galaxy A34 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/enter-virtual-racing-realm-at-a-steal-moza-r5/"><u>Enter Virtual Racing Realm at a Steal - MOZA R5</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-logitech-sound-card-software-for-windows-11-7-and-8-installation-and-updates/"><u>Free Logitech Sound Card Software for Windows 11, 7 & 8: Installation and Updates</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-from-paid-to-free-embracing-the-world-of-fcp/"><u>In 2024, From Paid to Free Embracing the World of FCP</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722967107058-install-microsofts-comfort-designed-ergokeyboard-4000-download-drivers-fast/"><u>Install Microsoft's Comfort-Designed ErgoKeyboard 4000 - Download Drivers Fast!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-up-to-date-asus-pce-ac68-network-card-drivers-with-these-free-files/"><u>Install Up-to-Date ASUS PCE-AC68 Network Card Drivers with These Free Files</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-drivers-for-logitech-g920-to-enhance-your-pc-on-windows-11-1087-download-instantly/"><u>Latest Drivers for Logitech G920 to Enhance Your PC on Windows 11, 10/8/7 - Download Instantly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/logitech-c92-troubleshooting-guide-restoring-functionality/"><u>Logitech C92지셔넘티드 웹캠 Troubleshooting Guide: Restoring Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-discord-sound-settings-overcoming-the-silence-barrier/"><u>Mastering Discord Sound Settings: Overcoming the Silence Barrier</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-xiaomi-civi-3-disney-100th-anniversary-edition-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Xiaomi Civi 3 Disney 100th Anniversary Edition has been deleted.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/setup-instructions-installing-brother-hl-l2380dw-printer-drivers-seamlessly-in-windows-environments/"><u>Setup Instructions: Installing Brother HL-L2380DW Printer Drivers Seamlessly in Windows Environments</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/understanding-the-issue/"><u>Understanding the Issue</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-downloading-videos-directly-to-iphoneipad-youtubes-quick-guide/"><u>[New] 2024 Approved Downloading Videos Directly to iPhone/iPad - YouTube's Quick Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-effortless-multi-platform-skype-group-formation-explained-for-2024/"><u>[Updated] Effortless Multi-Platform Skype Group Formation Explained for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-navigating-green-screen-integration-in-post-production/"><u>[Updated] In 2024, Navigating Green Screen Integration in Post-Production</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-comprehensive-blueprint-for-youtube-earnings-enhancement/"><u>2024 Approved The Comprehensive Blueprint for YouTube Earnings Enhancement</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-usb-webcam-drivers-now-fast-and-simple-installation-guide/"><u>Download USB Webcam Drivers Now – Fast and Simple Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-nvidia-gtx-student-what-is-the-value-of-x-if-log3xplus7-6/"><u>Get the Newest Nvidia GTX # Student: What Is the Value of $X$ if $ Log(3x+7) = 6$?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-soundmax-audio-device-drivers-on-your-windows-machine/"><u>How To Install SoundMax Audio Device Drivers On Your Windows Machine</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-infinix-by-drfone-android/"><u>In 2024, How to Bypass FRP on Infinix?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-mastery-of-microscopic-minecraft-mapping/"><u>In 2024, Mastery of Microscopic Minecraft Mapping</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722965252469-latest-nvidia-rtx-2060-super-drivers-update-for-windows-11-systems-get-them-now/"><u>Latest Nvidia RTX 2060 Super Drivers Update for Windows 11 Systems - Get Them Now</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-screenshotting-a-users-manual-for-hp-laptop-owners/"><u>Mastering the Art of Screenshotting: A User's Manual for HP Laptop Owners</u></a></li>
+<li><a href="https://fox-http.techidaily.com/navigating-the-nuances-of-nonlinear-audio-editing-in-audacity-for-2024/"><u>Navigating the Nuances of Nonlinear Audio Editing in Audacity for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-walkthrough-revamping-motherboard-drivers-with-windows-operating-system/"><u>The Ultimate Walkthrough: Revamping Motherboard Drivers with Windows Operating System</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-troubleshooting-for-handbrake-resolving-output-not-sequential-issues/"><u>Ultimate Troubleshooting for Handbrake: Resolving Output Not Sequential Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-logitech-gaming-headset-g602-to-the-latest-windows-compatible-version/"><u>Update Logitech Gaming Headset G602 to the Latest Windows-Compatible Version</u></a></li>
 </ul></div>
 

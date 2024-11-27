@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Deal Alert! Amazon Drops Prices on the 8TB Samsung T5 SSD to Just 36%% Off After Prime Day - Exclusive Coverage From ZDNet
-date: 2024-11-15T23:24:52.330Z
-updated: 2024-11-17T18:38:50.853Z
+date: 2024-11-24T17:02:19.379Z
+updated: 2024-11-27T16:21:03.629Z
 tags:
   - laptops
 categories:
@@ -26,6 +26,10 @@ With a truly impressive amount of storage space, you'll get read and write speed
 **Read more:** **[SSD vs. HDD: What's the difference, and which should you buy?](https://www.zdnet.com/article/ssd-vs-hdd-whats-the-difference-and-which-should-you-buy/)** 
 
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca525b7e5-a877-429a-8804-605a15482e9d%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -61,26 +65,14 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-binge-your-way-into-animated-gifs-turning-youtube-content-without-downloads-for-2024/"><u>[New] Binge Your Way Into Animated Gifs Turning YouTube Content Without Downloads for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-from-pixels-to-popularity-crafting-engaging-youtube-thumbnails/"><u>[New] From Pixels to Popularity Crafting Engaging YouTube Thumbnails</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-no-more-black-fringe-in-youtube-videos/"><u>[New] No More Black Fringe in YouTube Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-blend-modes-for-perfect-clip-integration-for-2024/"><u>[Updated] Blend Modes for Perfect Clip Integration for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-above-and-beyond-the-best-non-twitter-networks/"><u>[Updated] In 2024, Above and Beyond The Best Non-Twitter Networks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/early-access-get-the-samsung-t5-solid-state-drive-for-nearly-half-price-on-amazon-ahead-of-octobers-prime-shopping-extravaganza-zdnet/"><u>Early Access: Get the Samsung T5 Solid State Drive for Nearly Half Price On Amazon Ahead of October's Prime Shopping Extravaganza | ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-new-horizons-with-copilotplus-pcs-ai-features-is-the-buzz-worth-it/"><u>Exploring New Horizons with Copilot+ PC's AI Features - Is The Buzz Worth It?</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 To Android devices? | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-how-to-preserve-and-access-your-favorite-discord-livestreams-easily/"><u>In 2024, How to Preserve and Access Your Favorite Discord Livestreams Easily</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-restoring-default-sound-settings-on-windows-tips-from-zdnet/"><u>Step-by-Step Guide: Restoring Default Sound Settings on Windows - Tips From ZDNet</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-selection-of-iphone-antivirus-programs-you-cant-miss/"><u>The Ultimate Selection of iPhone Antivirus Programs You Can't Miss</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-6-compelling-advantages-of-choosing-a-chromebook-over-other-laptops-insights-from-zdnet/"><u>Top 6 Compelling Advantages of Choosing a Chromebook Over Other Laptops: Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-security-keys-industry-experts-selections-techradar/"><u>Top-Rated Security Keys : Industry Experts' Selections | TechRadar</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-shotgun-method-for-snapping-pics-of-your-pcmac-screen-dell-lenovo-and-more-learn/"><u>Ultimate Shotgun Method for Snapping Pics of Your PC/Mac Screen: Dell, Lenovo and More - Learn</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/hat-drives-youtubes-content-creator-hub-for-2024/"><u>[New] What Drives YouTube's Content Creator Hub for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/deciding-on-your-ideal-apple-laptop-macbook-pro-vs-macbook-air-explained/"><u>Deciding on Your Ideal Apple Laptop: MacBook Pro Vs. MacBook Air Explained</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discounted-ge-cynce-smart-leds-shop-at-a-savvy-16-off-rate/"><u>Discounted GE Cynce Smart LEDs - Shop at a Savvy 16% Off Rate!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huge-gaming-discounts-await-october-2024-prime-day-deals-offering-sweeping-savings-of-1000plus/"><u>Huge Gaming Discounts Await! October 2024 Prime Day Deals Offering Sweeping Savings of $1,000+</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-swiftcapture-solutions-w-audio-walkthrough-support/"><u>In 2024, SwiftCapture Solutions W/ Audio Walkthrough Support</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/microsoft-launches-copilot-for-business-exclusive-features-on-surface-devices-now-available/"><u>Microsoft Launches Copilot for Business: Exclusive Features on Surface Devices Now Available</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/surprising-value-alert-discover-the-unbeatable-best-laptop-deals-for-less-than-700/"><u>Surprising Value Alert: Discover the Unbeatable Best Laptop Deals for Less Than $700</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-cod-modern-warfares-newest-thrilling-fps-experience/"><u>Unlocking Cod: Modern Warfare's Newest Thrilling FPS Experience</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: New Linux Kernel Patch Disables Default iGPU on Snapdragon X - Caused by Missing OEM Certification Requirement
-date: 2024-08-28T02:11:17.524Z
-updated: 2024-08-29T02:11:17.524Z
+date: 2024-11-22T19:25:29.633Z
+updated: 2024-11-27T19:56:13.751Z
 tags:
   - cpu
 categories:
@@ -27,6 +27,10 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
  The Cixin P1 is a very unique processor. While it does not fulfill Beijing's goals of being a fully home-grown processor because it uses Arm CPU and GPU designs, the chip is specifically designed for the needs of the Chinese market and stands ready to enjoy some level of success. It also sadly does not meet[Microsoft](https://www.tomshardware.com/tag/microsoft) 's arbitrary "AI PC" requirements. The P1's NPU on its own is only 30 TOPS — shy of the 40 TOPS target — though it's likely that Cixin could not care less about Windows Copilot+ certification.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -37,14 +41,11 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
  Cixin is a very young company, first established in 2021, that has been growing thanks to investments from 15-20 public and private investment partners listed on its website. This freshness to the Chinese tech scene may limit widespread adoption early on, so we'll have to wait and see if Cixin manages to succeed in the huge, hungry tech market seeking[separation from U.S. interference](https://www.tomshardware.com/tech-industry/manufacturing/china-commerce-minister-frustrated-by-us-interfering-in-international-lithography-exports-via-third-countries) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -53,8 +54,22 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-innovative-youtube-titles-crafting-a-standout-brand/"><u>[New] In 2024, Innovative YouTube Titles Crafting a Standout Brand</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-superior-video-cameras-previewed/"><u>[New] Superior Video Cameras Previewed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-ultimate-digital-destinations-for-text-overlays/"><u>2024 Approved Ultimate Digital Destinations for Text Overlays</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-14-plus-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/convert-your-laptop-to-powerful-desktop-with-this-hidden-docking-station-insights-from-zdnet/"><u>Convert Your Laptop to Powerful Desktop with This Hidden Docking Station - Insights From ZDNet</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-xs-how-to-unlock-a-disabled-iphone-xs-by-drfone-ios/"><u>Disabled iPhone XS How to Unlock a Disabled iPhone XS?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-hassle-free-charging-how-the-viral-tangle-resistant-usb-c-cable-became-my-travel-lifesaver-innovation-spotlights-by-zdnet/"><u>Experience Hassle-Free Charging: How the Viral Tangle-Resistant USB-C Cable Became My Travel Lifesaver | Innovation Spotlights by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experts-weigh-in-on-top-chromebook-picks-for-students-thoroughly-tested-and-evaluated/"><u>Experts Weigh In on Top Chromebook Picks for Students - Thoroughly Tested and Evaluated</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-latest-google-chromebook-plus-with-impressive-genai-capabilities-my-firsthand-experience/"><u>Exploring the Latest Google Chromebook Plus with Impressive GenAI Capabilities - My Firsthand Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/pc-gaming-powerhouse-intel-or-amd-debate/"><u>PC Gaming Powerhouse: Intel or AMD Debate?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-device-misconfiguration-problems-overcoming-error-code-1/"><u>Resolving Device Misconfiguration Problems – Overcoming Error Code 1</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/teamgees-special-offer-get-a-pair-of-portable-docking-station-displays-and-save-120-exclusive-zdnet-bargain/"><u>TeamGee's Special Offer: Get a Pair of Portable Docking Station Displays & Save $120 - Exclusive ZDNet Bargain!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-vsco-photo-editing-tips-and-tricks/"><u>Unlocking VSCO Photo Editing Tips & Tricks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-updating-your-google-chrome-browser-this-weekend-is-essential-a-guide/"><u>Why Updating Your Google Chrome Browser This Weekend Is Essential: A Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-powerhouse-unleashed-how-the-new-dell-xps-16-outperforms-macbook-pro-in-this-in-depth-review-zdnet-now/"><u>Windows Powerhouse Unleashed: How the New Dell XPS 16 Outperforms MacBook Pro in This In-Depth Review | ZDNET Now</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "A Week with an Ergo-Split Keyboard: How One Change Transformed My Tech Experience"
-date: 2024-11-11T18:25:42.735Z
-updated: 2024-11-17T16:37:08.525Z
+date: 2024-11-20T20:09:04.267Z
+updated: 2024-11-27T20:03:37.941Z
 tags:
   - laptops
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/e2da78d08e286d9059a644d8b709c84167652f494
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -109,16 +113,7 @@ The cost of these products might be a barrier for some, especially when combined
 Additionally, the $99 price tag for the pair of magnetic keyboard stands seems a little hard for me to justify. But if you're committed to a premium take on innovative ergonomics, Nuio's lineup is one of the best on the market. 
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -157,24 +152,20 @@ The price point for these peripherals is a little steep, particularly when you c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-compreeved-art-of-audio-notes-capture/"><u>[New] In 2024, The Compreeved Art of Audio Notes Capture</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-a-guide-to-excellence-with-zd-soft-screen-capture-for-2024/"><u>[Updated] A Guide to Excellence with ZD Soft Screen Capture for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-avoid-shaky-footage-proper-tripod-usage-techniques-in-vlog-creation-for-2024/"><u>[Updated] Avoid Shaky Footage Proper Tripod Usage Techniques in Vlog Creation for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-latest-top-24-labor-day-sale-unbeatable-laptop-prices-havent-gone-away-on-zdnet/"><u>Discover the Latest Top 24 Labor Day Sale: Unbeatable Laptop Prices Haven't Gone Away on ZDNet!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hot-deal-alert-msi-summit-e13-flip-slashed-to-60n-exclusive-insights-from-zdnet/"><u>Hot Deal Alert: MSI Summit E13 Flip Slashed to $60N | Exclusive Insights From ZDNET</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-m34-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy M34 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-vivo-y27-4g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Vivo Y27 4G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/netizens-network-8-strategies-to-merge-lives-digitally/"><u>Netizen's Network: 8 Strategies to Merge Lives Digitally</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/noble-nineties-for-pocket-pet-vids/"><u>Noble Nineties for Pocket Pet Vids</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revolutionize-your-journey-with-a-marvelous-origami-laptop-case-the-perfect-blend-of-fashion-and-functionality-for-globetrotters/"><u>Revolutionize Your Journey with a Marvelous Origami Laptop Case – The Perfect Blend of Fashion and Functionality for Globetrotters</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/score-an-unbeatable-price-on-hp-victus-15-prime-day-exclusive-at-just-515-from-best-buy-detailed-guide/"><u>Score an Unbeatable Price on HP Victus 15: Prime Day Exclusive at Just $515 From Best Buy - Detailed Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-the-discounted-hp-victus-n15-gaming-notebook-exclusive-530-offer-during-amazon-prime-day-tech-insights/"><u>Snag the Discounted HP Victus N15 Gaming Notebook: Exclusive $530 Offer During Amazon Prime Day - Tech Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-the-ultimate-bargain-save-big-on-lenovos-ideapad-ebout-to-drop-below-300-at-walmart-zdnet-insights/"><u>Snag the Ultimate Bargain - Save Big on Lenovo's IdeaPad Ebout to Drop Below $300 at Walmart | ZDNET Insights</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/speedy-views-on-vimeo-how/"><u>Speedy Views on Vimeo How?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-realme-gt-neo-5-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Realme GT Neo 5</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-crafting-your-perfect-gaming-environment-with-top-tips-from-tech-experts/"><u>Ultimate Guide: Crafting Your Perfect Gaming Environment with Top Tips From Tech Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-apple-m3-macbook-air-top-3-standout-features-explored-by-techexpert/"><u>Unveiling the Latest Apple M3 MacBook Air: Top 3 Standout Features Explored by TechExpert!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/zdnet-exclusive-unmissable-deals-at-best-buys-sudden-sale-for-all-types-of-gifts-you-can-think-of/"><u>ZDNet Exclusive: Unmissable Deals at Best Buy's Sudden Sale for All Types of Gifts You Can Think Of</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-best-3d-software-for-dynamic-youtube-intros/"><u>[New] In 2024, Best 3D Software for Dynamic YouTube Intros</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-navigating-the-in-stream-ad-landscape-on-facebook/"><u>[Updated] In 2024, Navigating the In-Stream Ad Landscape on Facebook</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-photo-text-editing-made-simple-tools-and-techniques/"><u>[Updated] In 2024, Photo Text Editing Made Simple Tools & Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-kodi-streaming-service-windows-media-replacement/"><u>[Updated] Kodi Streaming Service Windows Media Replacement</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazons-top-pick-save-big-with-a-high-quality-macbook-usb-c-charging-cable-for-under-70/"><u>Amazon's Top Pick: Save Big with a High-Quality MacBook USB-C Charging Cable for Under $70</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-ultimate-selection-of-high-performance-gaming-ssds-for-ps5-xbox-and-pc-expert-picks-from-zdnet/"><u>Discover the Ultimate Selection of High-Performance Gaming SSDs for PS5, Xbox, & PC - Expert Picks From ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-unparalleled-audio-quality-of-best-buys-featured-speaker-system-at-50-off-as-revealed-by-zdnet-experts/"><u>Discover the Unparalleled Audio Quality of Best Buy's Featured Speaker System at 50% Off, as Revealed by ZDNet Experts!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/dive-into-dynamic-youtube-discussions/"><u>Dive Into Dynamic YouTube Discussions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/final-opportunity-for-incredible-discounts-unbeatable-october-prime-day-2024-gaming-offers-available-now/"><u>Final Opportunity for Incredible Discounts! Unbeatable October Prime Day 2024 Gaming Offers Available Now</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-s23plus-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy S23+?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-the-top-notch-meta-vr-offer-with-512gb-quest-headset-this-october-exclusive-deal-alert-on-zdnet/"><u>Score the Top-Notch Meta VR Offer with 512GB Quest Headset This October, Exclusive Deal Alert on ZDNET</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transforma-sin-coste-tus-archivos-swf-y-wmv-en-linea-con-convertidor-gratuito/"><u>Transforma Sin Coste Tus Archivos SWF Y WMV en Línea Con Convertidor Gratuito</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-ideas-into-stories-with-gpt-assisted-writing/"><u>Transforming Ideas Into Stories with GPT-Assisted Writing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbelievable-deal-top-ranked-gaming-speakers-now-just-150-less-on-amazon-find-out-why-they-took-my-breath-away/"><u>Unbelievable Deal: Top-Ranked Gaming Speakers Now Just $150 Less on Amazon - Find Out Why They Took My Breath Away</u></a></li>
 </ul></div>
 

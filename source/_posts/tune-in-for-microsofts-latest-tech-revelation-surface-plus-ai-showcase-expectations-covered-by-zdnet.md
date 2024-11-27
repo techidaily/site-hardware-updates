@@ -1,7 +1,7 @@
 ---
 title: "Tune in for Microsoft's Latest Tech Revelation: Surface Plus AI Showcase | Expectations Covered by ZDNET"
-date: 2024-11-16T18:14:42.319Z
-updated: 2024-11-17T19:17:25.506Z
+date: 2024-11-25T17:18:18.721Z
+updated: 2024-11-27T20:13:55.979Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ After months of [speculation](https://www.zdnet.com/article/microsofts-october-1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Featured
 
 * [How to use Android's emergency satellite texting if you lose cell signal](https://www.zdnet.com/article/how-to-use-androids-emergency-satellite-texting-if-you-lose-cell-signal/)
@@ -38,10 +42,7 @@ Here's everything that the company announced during its October event.
 **Also: [How did Microsoft manage to get it right with Surface?](https://www.zdnet.com/article/how-did-microsoft-manage-to-get-it-right-with-surface/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Surface Laptop 5 gets a splash of color
@@ -61,10 +62,7 @@ What's different about the new Surface Laptop starts with the 12th-generation In
 The Surface Laptop 5 will be available in select markets beginning on Oct. 25 with a [starting price of $999](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?) for the i5, 8GB of RAM, and 256GB model. The laptop will be available in classic Platinum, Black, and Sandstone colorways, as well as a new leafy "Sage" option. 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Goodbye Surface Pro X, hello Surface Pro 9
@@ -86,10 +84,7 @@ Not-so-big news: The rest is a standard Surface Pro affair; 2-in-1 design with a
 As far as pricing goes, the Intel-based Surface Pro 9 starts at [$999](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (i5, 8GB RAM, 128GB), and the ARM-based model starts at [$1,299](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (SQ3, 8GB RAM, 128GB). The former comes in Platinum, Graphite, Forest, and Sapphire, while the latter only comes in Platinum. Preorders start today. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The aptly-named Surface Studio 2+
@@ -106,6 +101,10 @@ For all the performance gains that you're getting, Microsoft is making you pay t
 
 [Buy the Surface Studio 2+ View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Studio-2/8VLFQC3597K4?)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Microsoft Presenter+ and Audio Dock
 
 The Microsoft Presenter+.
@@ -117,13 +116,6 @@ Releasing alongside the new Surface products are the Microsoft Presenter+ and Mi
 **More: [Microsoft's new accessories are geared toward the hybrid era of work](https://www.zdnet.com/article/microsofts-new-accessories-are-geared-toward-the-hybrid-era-of-work/)**
 
 The Microsoft Audio Dock is both a docking station with four ports (HDMI, 2x USB-C, and USB-A) and a speaker for audio input and output. For $249, which is not cheap for either of its two functions, Microsoft promises "premium sound" and noise-reducing microphones that will help you "be heard clearly in your next online meeting."
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Microsoft Designer takes on Canva
 
@@ -171,24 +163,24 @@ Microsoft officials say that Designer is targeted at consumers more than anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevating-visual-experience-youtubes-quality-boosting-guide/"><u>[New] 2024 Approved Elevating Visual Experience YouTube's Quality Boosting Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-quintessential-filters-to-perfect-ocean-shoots/"><u>[New] 2024 Approved Quintessential Filters to Perfect Ocean Shoots</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-the-gastronomes-guidebook-culinary-videos/"><u>[New] 2024 Approved The Gastronome's Guidebook Culinary Videos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-amplifying-instagram-video-reach-and-traffic-for-2024/"><u>[New] Amplifying Instagram Video Reach & Traffic for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-chronicles-of-puzzles-vs-endless-adventure/"><u>2024 Approved Chronicles of Puzzles Vs. Endless Adventure</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/7-leading-mac-video-player-options/"><u>7 Leading Mac Video Player Options</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-methods-to-download-and-improve-your-intel-hd-graphics-5500-software/"><u>Easy Methods to Download & Improve Your Intel HD Graphics 5500 Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-ricoh-mp-c3003-driver-installers-here/"><u>Get Your Ricoh MP C3003 Driver Installers Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-apply-the-recent-mono-laser-printer-driver-updates-on-dell-2330d2330dn-units/"><u>How to Apply the Recent Mono Laser Printer Driver Updates on Dell 2330D/2330DN Units</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-smart-8-hd-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Infinix Smart 8 HD?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/immortals-fenyx-rising-launch-issues-resolved-and-officially-dropped/"><u>Immortals Fenyx Rising Launch Issues Resolved and Officially Dropped</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/intels-enduring-chip-instability-are-elevated-voltages-to-blame-inside-look-at-latest-reports/"><u>Intel's Enduring Chip Instability: Are Elevated Voltages to Blame? Inside Look at Latest Reports</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/materials-used-in-scaffolding-should-be-chosen-based-on-their-strength-properties-to-withstand-various-forces/"><u>Materials Used in Scaffolding Should Be Chosen Based on Their Strength Properties to Withstand Various Forces.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/multiple-routes-for-opening-utilities-on-windows-systems/"><u>Multiple Routes for Opening Utilities on Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-high-end-gadgets-and-equipment-with-toms-wisdom/"><u>Navigating High-End Gadgets & Equipment with Tom's Wisdom</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/professional-audio-interface-upgrade-focusrite-scarlett-solo-driver-download-and-install-on-windows/"><u>Professional Audio Interface Upgrade: Focusrite Scarlett Solo Driver [Download & Install] on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-setup-for-your-new-intel-dual-band-wireless-ac-3160/"><u>Step-by-Step Setup for Your New Intel Dual-Band Wireless-AC 3160</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/trustworthy-lenovo-thinkpad-driver-downloads-quick-and-risk-free-updates/"><u>Trustworthy Lenovo ThinkPad Driver Downloads: Quick and Risk-Free Updates</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-twitchs-secrets-building-a-thriving-live-platform/"><u>Unveiling Twitch's Secrets: Building a Thriving Live Platform</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-ace-google-meet-selecting-ideal-video-call-bgs/"><u>[New] Ace Google Meet Selecting Ideal Video Call BGs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-expertly-curated-list-of-10-best-windows-cameras/"><u>[New] Expertly Curated List of 10 Best Windows Cameras</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ookie-riches-profitable-sites-for-beginnere-buyouts-for-2024/"><u>[New] Rookie Riches Profitable Sites for Beginner'e Buyouts for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-quintessential-play-by-radio-stories/"><u>[Updated] 2024 Approved Quintessential Play-by-Radio Stories</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-simplified-file-conversion-for-audio-enthusiasts/"><u>[Updated] Simplified File Conversion for Audio Enthusiasts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-perfectly-timed-instagram-content-our-list-of-the-top-8-schedulers/"><u>2024 Approved Perfectly Timed Instagram Content - Our List of the Top 8 Schedulers</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-infinix-smart-8-plus-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Infinix Smart 8 Plus? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-realtek-ethernet-controller-driver-on-windows-710/"><u>Download Realtek Ethernet Controller Driver on Windows 7/10</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/efficient-dvd-ripping-tool-platinum-winx-mp4-h264hevc-format-with-speedy-5-minute-transfer/"><u>Efficient DVD Ripping Tool: Platinum WinX MP4 H.264/HEVC Format with Speedy 5 Minute Transfer!</u></a></li>
+<li><a href="https://facebook.techidaily.com/enhance-personal-time-management-facebooks-daily-notification-feature/"><u>Enhance Personal Time Management: Facebook’s Daily Notification Feature</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-logitech-speaker-installation-guides-and-downloads-for-win-11-7-and-8-systems/"><u>Essential Logitech Speaker Installation Guides & Downloads for WIN 11, 7 & 8 Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fast-track-communication-with-snapchat-tips-on-accessing-customer-service-quickly/"><u>Fast Track Communication with Snapchat: Tips on Accessing Customer Service Quickly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-best-performance-from-your-logitech-brio-webcam-with-updated-drivers-for-win-1187/"><u>Get the Best Performance From Your Logitech Brio Webcam with Updated Drivers for Win 11/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-epson-wf-2760-driver-software-for-your-pc-on-windows-11108/"><u>Get the Latest Epson WF-2760 Driver Software for Your PC on Windows 11/10/8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-the-latest-surface-driver-software-with-hassle-free-installation/"><u>Getting the Latest Surface Driver Software with Hassle-Free Installation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-your-hands-on-the-latest-corsair-void-pro-drivers-for-windows-machines/"><u>How to Get Your Hands on the Latest Corsair Void Pro Drivers for Windows Machines</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-keep-your-razer-blade-17-up-to-date-with-driver-support-for-windows-systems/"><u>How to Keep Your Razer Blade 17 Up-to-Date with Driver Support for Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-the-update-a-comprehensive-guide-to-microsoft-driver-installation-on-windows-11-and-older-versions/"><u>Mastering the Update: A Comprehensive Guide to Microsoft Driver Installation on Windows 11, ^and Older Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-get-your-amd-radeon-rx-6800-driver-up-and-running-for-windows-os-11-10-8-and-7/"><u>Step-by-Step: Get Your AMD Radeon RX 6800 Driver Up and Running for Windows OS (11, 10, 8 & 7)</u></a></li>
 </ul></div>
 

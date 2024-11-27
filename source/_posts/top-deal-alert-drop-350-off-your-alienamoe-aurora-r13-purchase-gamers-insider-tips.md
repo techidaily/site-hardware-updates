@@ -1,7 +1,7 @@
 ---
 title: "Top Deal Alert: Drop $350 Off Your Alienamoe Aurora R13 Purchase, Gamers! Insider Tips"
-date: 2024-11-16T20:51:45.011Z
-updated: 2024-11-17T20:46:53.949Z
+date: 2024-11-21T18:35:36.821Z
+updated: 2024-11-27T18:57:23.169Z
 tags:
   - laptops
 categories:
@@ -17,9 +17,17 @@ StackCommerce
 
 _The following content is brought to you  partners. If you buy a product featured here, we may earn an affiliate commission or other compensation._
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [![surfacelaptop4rumors.jpg](https://www.zdnet.com/a/img/resize/a3c4608a44be85775a0e3ed8231bdbc5a96a64bb/2021/04/07/b01eaac1-9368-4ab6-87c6-12317046ff37/surfacelaptop4rumors.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 It's hard to imagine anyone keeping a five-year-old smartphone for heavy use these days, but laptops? That's another story completely. There are many older models out there that are just as effective today as they were when they came out. That's why refurbished laptops make a great choice for budget-conscious buyers, and we're featuring several of the best picks from around the web on our [Deals page](https://www.zdnet.com/deals/). One of the top selections: This [Microsoft Surface Laptop](https://stacksocial.com/sales/surface-laptop-1-i5-7200u-8gb-w10-pro-refurb-128gb?utm%5Fsource=zdnet.com&utm%5Fmedium=referral&utm%5Fcampaign=surface-laptop-1-i5-7200u-8gb-w10-pro-refurb-128gb&utm%5Fterm=scsf-556405&utm%5Fcontent=a0x1P000004yVyTQAU&scsonar=1&aid=a-ceempx7z), certified refurbished at a price that's more than $200 off the original MSRP.
 
@@ -64,26 +72,24 @@ Right now, ZDNet readers can take home this [2017 Surface Laptop in silver for $
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-essential-8-free-tools-enhancing-business-video-conferencing-efficiency/"><u>[New] 2024 Approved Essential 8 Free Tools Enhancing Business Video Conferencing Efficiency</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-how-to-download-install-and-use-obs-on-mac/"><u>[New] How to Download, Install and Use OBS on Mac</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-adsense-on-youtube-determining-your-income-from-1k-viewer-engagement/"><u>[Updated] AdSense on YouTube Determining Your Income From 1K Viewer Engagement</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/2024s-elite-list-of-windows-powerhouse-laptops-in-depth-analysis-and-professional-ratings/"><u>2024'S Elite List of Windows Powerhouse Laptops: In-Depth Analysis and Professional Ratings</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/cdpc/"><u>CD音源をPCに転送して記録するコツ</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-breakdown-of-the-new-macbook-air-chipsets-unveiling-apples-m3-m3-pro-and-mmax-variants-a-buyers-guide-gadgetwisetech/"><u>Comprehensive Breakdown of the New MacBook Air Chipsets: Unveiling Apple’s M3, M3 Pro & M_MAX Variants – A Buyer's Guide | GadgetWiseTech</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-ultimate-list-of-premier-game-bargains-for-prime-day-24-sweeping-deals-still-up-for-grabs/"><u>Discover the Ultimate List of Premier Game Bargains for Prime Day 2#4 - Sweeping Deals Still Up for Grabs</u></a></li>
-<li><a href="https://fox-info.techidaily.com/premier-pro-expertise-for-sound-switchers/"><u>Premier Pro Expertise for Sound Switchers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/recorders-unite-compete-in-2024/"><u>Recorders Unite, Compete, In 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/shop-smart-this-black-friday-unbeatable-price-on-touchscreen-hp-envy-x360-now-just-499-shop/"><u>Shop Smart This Black Friday: Unbeatable Price on Touchscreen HP Envy X360 - Now Just $499 Shop</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-enhancements-in-windows-11-unveiled-for-2024/"><u>The Enhancements in Windows 11 Unveiled for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/toutes-les-etapes-pour-transformer-un-fichier-mod-en-mp3-gratuitement-sur-internet-guide-rapide-avec-movavi/"><u>Toutes Les Étapes Pour Transformer Un Fichier MOD en MP3 Gratuitement Sur Internet - Guide Rapide Avec Movavi</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-beginners-choice-of-linux-distributions-thoroughly-evaluated-and-ranked-with-expert-reviews-zdnet/"><u>Ultimate Beginner's Choice of Linux Distributions: Thoroughly Evaluated & Ranked with Expert Reviews | ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-next-level-performance-with-intels-latest-ai-processor-for-laptops-discover-the-surprising-advantages/"><u>Unlocking Next-Level Performance with Intel's Latest AI Processor for Laptops - Discover the Surprising Advantages!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-bridging-the-gap-with-quantum-hdr-knowledge/"><u>[New] Bridging the Gap with Quantum HDR Knowledge</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-essential-video-gear-for-youtube-starters/"><u>[Updated] In 2024, Essential Video Gear for YouTube Starters</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-step-by-step-instructions-for-incorporating-custom-gifs-and-icons-into-your-story-posts-on-instagram/"><u>[Updated] In 2024, Step-by-Step Instructions for Incorporating Custom GIFS & Icons Into Your Story Posts on Instagram</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-it-transformed-my-computer-experience-insights/"><u>A Week with an Ergonomic Split Keyboard: How It Transformed My Computer Experience - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/apples-upcoming-october-unveiling-anticipating-the-new-m4-mac-mini-enhanced-ipads-and-advancements-in-apple-ai/"><u>Apple’s Upcoming October Unveiling: Anticipating the New M4 Mac Mini, Enhanced iPads & Advancements in Apple AI</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-15-inch-laptop-with-complete-set-of-ports-available-for-just-250-at-walmart-tech-news/"><u>Asus 15 Inch Laptop with Complete Set of Ports: Available for Just $250 at Walmart | Tech News</u></a></li>
+<li><a href="https://facebook.techidaily.com/chill-out-the-real-story-behind-user-figures-on-fb/"><u>Chill Out! The Real Story Behind User Figures on FB</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/complete-tutorial-on-booting-your-lenovo-pc-using-a-usb-drive-with-windows-11/"><u>Complete Tutorial on Booting Your Lenovo PC Using a USB Drive with Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-promo-prices-for-high-end-iogear-portable-devices-now-available-on-amazon-zdnet-special-report/"><u>Discover Promo Prices for High-End IOGEAR Portable Devices Now Available on Amazon – ZDNet Special Report</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-access-secure-your-savings-on-top-tier-october-game-discounts-up-to-1k-off/"><u>Exclusive Access: Secure Your Savings on Top-Tier October Game Discounts - Up to $1K Off!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-laptop-sale-slash-price-by-800-limited-offer-at-600-for-acer-porsche-design-check-out-the-deal-here/"><u>Exclusive Laptop Sale: Slash Price by $800 - Limited Offer at $600 for Acer Porsche Design! Check Out the Deal Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-review-of-framework-chromebook-a-revolutionary-step-towards-sustainable-tech/"><u>Exclusive Review of Framework Chromebook - A Revolutionary Step Towards Sustainable Tech</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-infinix-note-30i-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Note 30i Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-stepwise-journey-to-master-large-heads-in-tiktok-filmmaking-3-strategies/"><u>In 2024, Stepwise Journey to Master Large Heads in TikTok Filmmaking (3 Strategies)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-productivity-grab-the-ultimate-multitasking-dock-at-a-steal-save-35-today-only-featured/"><u>Maximize Your Productivity: Grab the Ultimate Multitasking Dock at a Steal - Save 35% Today Only, Featured !</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-samsung-galaxy-a34-5g-by-fonelab-android-recover-data/"><u>Recover lost data from Samsung Galaxy A34 5G</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-beginners-guide-to-earning-on-reddit-top-13-simple-money-making-ideas/"><u>The Beginner's Guide to Earning on Reddit Top 13 Simple Money-Making Ideas</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212183857-understanding-msda80dll-importance-and-management-tips/"><u>Understanding MSDA80DLL: Importance & Management Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upcoming-alienware-gaming-laptops-set-for-ces-2023-unveiling-insider-info-techradar/"><u>Upcoming Alienware Gaming Laptops Set for CES 2023 Unveiling - Insider Info | TechRadar</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Mysteries of Lenovo's New Laptop: A Hidden Trackpoint Feature and Other Secret Functions Revealed"
-date: 2024-11-13T21:32:33.853Z
-updated: 2024-11-17T19:54:33.361Z
+date: 2024-11-20T18:08:22.124Z
+updated: 2024-11-27T18:48:07.798Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -73,10 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -115,19 +116,24 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-clearsky-top-notch-photo-background-cleaner/"><u>[New] 2024 Approved ClearSky Top-Notch Photo Background Cleaner</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-highlighting-the-best-of-fig-skates-2022/"><u>[New] 2024 Approved Highlighting the Best of Fig Skates 2022</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-art-of-crafting-engaging-social-media-slideshows-on-fb-for-2024/"><u>[New] The Art of Crafting Engaging Social Media Slideshows on FB for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-boosting-vimeo-content-delivery/"><u>[Updated] 2024 Approved Boosting Vimeo Content Delivery</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-deciphering-slug-lines-in-scriptwriting-for-2024/"><u>[Updated] Deciphering Slug Lines in Scriptwriting for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/2024s-elite-selection-of-85-inch-tvs-ranked-and-analyzed-professional-expert-reviews-you-can-trust-pcmag/"><u>2024'S Elite Selection of 85-Inch TVs Ranked & Analyzed: Professional Expert Reviews You Can Trust | PCMag</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/apk-journey-to-gaming-bliss-funimate-pro-guide-for-2024/"><u>APK Journey to Gaming Bliss Funimate Pro Guide for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-that-the-words-algorithm-chest-x-rays-and-oxford-university-are-included-in-separate-lines-within-the-poem-maintaining-their-original-context-but-rei238/"><u>Ensure that the Words Algorithm, Chest X-Rays, and Oxford University Are Included in Separate Lines Within the Poem, Maintaining Their Original Context but Reinterpreted Astrologically.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-top-tv-discounts-awaiting-you-this-labor-day-2n4-dont-miss-out-on-these-spectacular-savings-for-mature-audiences/"><u>Exclusive: Top TV Discounts Awaiting You This Labor Day 2N4! Don't Miss Out on These Spectacular Savings for Mature Audiences</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/idos-3-the-latest-dos-emulation-software-now-available-on-apples-app-store/"><u>IDOS 3: The Latest DOS Emulation Software Now Available on Apple's App Store</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximizing-value-expert-tips-for-elevating-the-cheapest-98-inch-tv-to-elite-quality/"><u>Maximizing Value: Expert Tips for Elevating the Cheapest 98-Inch TV to Elite Quality!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/must-watch-tv-series-and-films-on-hulu-disneyplus-and-more-this-march-our-expert-guide-by-zdnet/"><u>Must-Watch TV Series and Films on Hulu, Disney+, and More This March: Our Expert Guide by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigate-the-future-of-television-with-our-pros-guide-to-premium-32-inch-screens-zdnet-insights/"><u>Navigate the Future of Television with Our Pros' Guide to Premium 32-Inch Screens | ZDNET Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-silent-gamepad-on-windows-platforms/"><u>Reviving Silent Gamepad on Windows Platforms</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-leading-terraria-adjustments-and-tweaks/"><u>[New] 2024 Approved Leading Terraria Adjustments and Tweaks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-building-blocks-for-a-stellar-documentary-storyline/"><u>[Updated] 2024 Approved Building Blocks for a Stellar Documentary Storyline</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-max-360-or-hero-11-unveiling-top-notch-gopro-cams/"><u>[Updated] Max 360 or Hero 11 Unveiling Top-Notch GoPro Cams</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-virtual-horizons-assessing-current-landscapes-and-trials/"><u>[Updated] Virtual Horizons Assessing Current Landscapes & Trials</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/approach-identify-the-welding-processes-mentioned-in-relation-to-arc-blow-susceptibility/"><u>Approach: Identify the Welding Processes Mentioned in Relation to Arc Blow Susceptibility.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-download-of-m-audio-fast-track-drivers-suitable-for-windows-1078-and-81-users/"><u>Easy Download of M-Audio Fast Track Drivers Suitable for Windows 10/7/8 & 8.1 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-gaming-setup-the-essential-driver-refresh-for-the-acer-predator-helios/"><u>Elevate Your Gaming Setup: The Essential Driver Refresh for the Acer Predator Helios</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-download-and-setup-your-dell-wd1e-hardware-drivers-with-ease/"><u>Find, Download, and Setup Your Dell WD1e Hardware Drivers with Ease</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-m-audio-fast-track-driver-downloads-compatible-with-windows-107881/"><u>Free M-Audio Fast Track Driver Downloads Compatible with Windows 10/7/8/8.1</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/how-to-convert-any-vimeo-video-to-a-secure-mp4-file/"><u>How To Convert Any Vimeo Video to a Secure MP4 File</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-ensure-your-logitech-m510-performs-optimally-drivers-update-guide/"><u>How To Ensure Your Logitech M510 Performs Optimally: Drivers Update Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-effortless-youtube-income-computations/"><u>In 2024, Effortless YouTube Income Computations</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-go-big-or-go-home-selecting-the-most-satisfying-1tbplus-cloud-services/"><u>In 2024, Go Big or Go Home - Selecting the Most Satisfying 1TB+ Cloud Services</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-keyboard-shortcuts-that-power-up-win11/"><u>In 2024, Keyboard Shortcuts That Power Up Win11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-google-pixel-8-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Google Pixel 8 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-update-of-magicard-rio-pro-driver-available-now-for-windows-enthusiasts-compatible-with-win-11-81-and-7/"><u>Latest Update of Magicard Rio Pro Driver Available Now for Windows Enthusiasts | Compatible with Win 11, 8.1 and 7</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fixes-to-enhance-windows-11s-efficiency-learn-the-best-strategies/"><u>Quick Fixes to Enhance Windows 11'S Efficiency - Learn the Best Strategies!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-installation-guide-download-the-official-pioneer-dj-ddj-sx2-software/"><u>Quick Installation Guide: Download the Official Pioneer DJ DDJ-SX2 Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-revamping-ati-driver-software-in-microsoft-windows-environment/"><u>Step-by-Step Tutorial: Revamping ATI Driver Software in Microsoft Windows Environment</u></a></li>
 </ul></div>
 

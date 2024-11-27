@@ -1,7 +1,7 @@
 ---
 title: Why Lenovo's Newly Unveiled 'Mac Studio' Clone Could Surpass Apple's in the Eyes of Windows Users | ZDNET Exclusive
-date: 2024-11-16T21:53:46.860Z
-updated: 2024-11-17T18:42:17.603Z
+date: 2024-11-25T19:28:55.277Z
+updated: 2024-11-27T16:08:54.101Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Ed Bott/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -79,10 +83,7 @@ Cesar Cadenas/ZDNET
 And for one of the best qualities of this laptop: battery life is absolutely phenomenal. I [performed our usual test](https://www.zdnet.com/article/how-we-test-laptops/) of running a YouTube livestream at 720p and 50% brightness. At its peak, the Surface Pro lasted just under 13 hours on a single charge. That's just shy of Microsoft's purported 14-hour battery life. In practical usage, this is a device that will easily last multiple days on a single charge. 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,24 +122,19 @@ Prices for the device start at $999.99\. My review unit with the 12-core Snapdra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-essential-guide-top-10-steps-for-instructors-on-youtube-channels/"><u>[New] Essential Guide Top 10 Steps for Instructors on YouTube Channels</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-unlock-your-screen-recording-potential-top-8-apps-for-windows-10-for-2024/"><u>[New] Unlock Your Screen Recording Potential Top 8 Apps for Windows 10 for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-add-chapters-to-youtube-videos/"><u>[Updated] 2024 Approved How to Add Chapters to YouTube Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-ip110-driver-installation-guides-supported-on-windows-111087-systems/"><u>Canon iP110 Driver Installation Guides: Supported on Windows 11/10/8/7 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/disarming-the-curse-of-updater-error-0xca00a009/"><u>Disarming the Curse of Updater Error #0xCA00A009</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-installation-guide-for-epson-xp-420-printer-drivers/"><u>Download and Installation Guide for Epson XP-420 Printer Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-magicard-rio-pro-driver-now-compatible-with-windows-11817-get-the-new-version/"><u>Download Magicard Rio Pro Driver Now: Compatible with Windows 11/8.1/7 - Get the New Version</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-14-ultra-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Xiaomi 14 Ultra Phone Hassle-Free</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-honor-play-8t-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Honor Play 8T Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/itel-p55t-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P55T Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigate-the-digital-world-with-toms-hardware-advice/"><u>Navigate the Digital World with Tom's Hardware Advice</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-latest-gadgets-with-tomn-hardwares-experts/"><u>Navigating the Latest Gadgets with Tom'n Hardware's Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-through-xp-pen-driver-updates-a-user-friendly-walkthrough/"><u>Navigating Through XP-PEN Driver Updates: A User-Friendly Walkthrough</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/obtain-the-latest-safe-driver-downloads-for-your-corsair-keyboard-under-windows-no-fees-involved/"><u>Obtain the Latest, Safe Driver Downloads for Your Corsair Keyboard Under Windows - No Fees Involved</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/optimize-your-system-comprehensive-driver-pack-for-the-msi-z370-a-pro-ready-for-instant-download/"><u>Optimize Your System: Comprehensive Driver Pack for the MSI Z370-A PRO Ready for Instant Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-fix-how-to-seamlessly-update-microsofts-sculpt-ergo-keyboard-drivers/"><u>Quick Fix: How to Seamlessly Update Microsoft's Sculpt Ergo Keyboard Drivers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-for-transitioning-to-touchless-payments-with-apple-pay-on-apple-watch-devices/"><u>The Ultimate Tutorial for Transitioning to Touchless Payments with Apple Pay on Apple Watch Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-choices-for-the-perfect-present-ideas-when-unsure-of-what-to-buy-insights-from-zdnet/"><u>Top Choices for the Perfect Present: Ideas When Unsure of What to Buy - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-advanced-systems-for-tracking-human-manoeuvres-for-2024/"><u>[Updated] Advanced Systems for Tracking Human Manoeuvres for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-troubleshooting-quieted-facebook-streams/"><u>[Updated] Troubleshooting Quieted Facebook Streams</u></a></li>
+<li><a href="https://ai-video.techidaily.com/2024-approved-best-10-free-video-translators-to-mitigate-translation-risks/"><u>2024 Approved Best 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-tips-for-successful-windows-10-webcam-driver-updates/"><u>Essential Tips for Successful Windows 10 Webcam Driver Updates</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-realme-11x-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Realme 11X 5G</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-gateway-to-grandeur-embarking-on-a-classic-lit-journey/"><u>In 2024, Gateway to Grandeur Embarking on a Classic Lit Journey</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/precision-techniques-shifting-bulk-video-data-from-iphone-to-mac/"><u>Precision Techniques Shifting Bulk Video Data From iPhone to Mac</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722966513801-regular-testing-for-insulation-resistance-is-a-preventive-maintenance-measure-that-can-help-detect-problems-before-they-result-in-system-failure/"><u>Regular Testing for Insulation Resistance Is a Preventive Maintenance Measure that Can Help Detect Problems Before They Result in System Failure.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simplify-your-pc-upgrade-quick-guide-to-updating-your-standard-sata-ahci-controller-drivers/"><u>Simplify Your PC Upgrade: Quick Guide to Updating Your Standard SATA AHCI Controller Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-to-get-your-samsung-960-evo-ssd-running-on-windows/"><u>Step-by-Step Instructions to Get Your Samsung 960 EVO SSD Running on Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-free-dvd-ripping-software-for-windows-11-complete-download-guide/"><u>Top Free DVD Ripping Software for Windows 11: Complete Download Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/up-to-date-nvidia-quadro-rtx-8000-graphics-card-driver-support-for-win-11-8-and-7/"><u>Up-to-Date Nvidia Quadro RTX 8000 Graphics Card Driver Support for Win 11, 8 & 7</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/vyncs-tracking-tool-evaluation-dependable-software-with-puzzling-membership-options/"><u>Vyncs Tracking Tool Evaluation: Dependable Software with Puzzling Membership Options</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-7-supported-no-cost-hp-laserjet-printer-driver-installation-guide/"><u>Windows 7 Supported - No Cost HP LaserJet Printer Driver Installation Guide</u></a></li>
 </ul></div>
 

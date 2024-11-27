@@ -1,7 +1,7 @@
 ---
 title: Discovering High-Performance Gadgets at Tom's Tech Emporium
-date: 2024-08-28T02:17:12.093Z
-updated: 2024-08-29T02:17:12.093Z
+date: 2024-11-23T17:27:31.797Z
+updated: 2024-11-27T18:20:07.193Z
 tags:
   - cpu
 categories:
@@ -23,6 +23,10 @@ AMD has listed the new Ryzen 5 9600X for pre-order on its[Canadian Amazon store]
   
  AMD showed the Ryzen 5 9600X crushing Intel's Core i5-14600K by 22% in productivity[benchmarks](https://www.tomshardware.com/tag/benchmark) and 11% in gaming at its Zen 5 Tech Day, with an 88W peak power draw versus Intel's 181W. A lead of this margin for almost half of the power shows strong performance for the bottom of AMD's Zen 5 desktop CPU slate, though as always we need to take manufacturer benchmarks with a spoonful of salt. If AMD prices Ryzen 5 9600X below $300 (which we suspect it will, eventually), it becomes a shoo-in for[our best value CPU](https://www.tomshardware.com/reviews/best-cpus,3986.html#section-value-best-cpu-for-gaming-200-to-250) , a spot currently held by the Ryzen 5 7600X.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -37,8 +41,6 @@ AMD has listed the new Ryzen 5 9600X for pre-order on its[Canadian Amazon store]
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -46,8 +48,26 @@ AMD has listed the new Ryzen 5 9600X for pre-order on its[Canadian Amazon store]
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-cross-platform-content-transfer-youtube-meets-facebook/"><u>[New] 2024 Approved Cross-Platform Content Transfer YouTube Meets Facebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-do-you-transform-into-a-digital-entertainer-vtuber-for-2024/"><u>[Updated] How Do You Transform Into a Digital Entertainer (Vtuber) for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-stream-quality-which-is-superior-obs-or-fraps/"><u>[Updated] Stream Quality Which Is Superior, OBS or Fraps?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-optimal-strategies-for-livestream-sports-recording/"><u>2024 Approved Optimal Strategies for Livestream Sports Recording</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-week-with-an-ergo-split-keyboard-how-my-typing-experience-transformed-insights-from-zdnet/"><u>A Week with an Ergo-Split Keyboard: How My Typing Experience Transformed - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/apples-new-deal-the-m2-macbook-air-now-a-steal-at-799-beating-the-upcoming-prime-day-rush/"><u>Apple's New Deal: The M2 MacBook Air Now a Steal at $799, Beating the Upcoming Prime Day Rush!</u></a></li>
+<li><a href="https://common-error.techidaily.com/common-issues-and-solutions-for-dvd-compatibility-with-windows-operating-systems/"><u>Common Issues and Solutions for DVD Compatibility with Windows Operating Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ensuring-flawless-images-avoid-watermarks/"><u>Ensuring Flawless Images Avoid Watermarks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expand-your-laptops-capabilities-a-detailed-tutorial-on-installing-additional-ram-by-experts-at-zdnet/"><u>Expand Your Laptop's Capabilities: A Detailed Tutorial on Installing Additional RAM by Experts at ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-advice-on-achieving-high-quality-gopro-videos-for-2024/"><u>Expert Advice on Achieving High-Quality GoPro Videos for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-this-budget-friendly-laptop-reignites-a-classic-buzzword-in-the-technology-sphere-zdnets-analysis/"><u>How This Budget-Friendly Laptop Reignites a Classic Buzzword in the Technology Sphere | ZDNET's Analysis.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-oppo-a78-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Oppo A78 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-note-13-pro-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi Redmi Note 13 Pro 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improve-your-gaming-experience-tackle-fps-hiccups-and-smooth-out-stuttering-in-modern-warfare-2-pc-version/"><u>Improve Your Gaming Experience - Tackle FPS Hiccups and Smooth Out Stuttering in Modern Warfare 2 (PC Version)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-productivity-with-the-best-lenovo-laptops-on-sale-now-get-an-extra-1000-off-for-hybrid-professionals-pcmag/"><u>Maximize Productivity with the Best Lenovo Laptops on Sale Now – Get an Extra $1,000 Off for Hybrid Professionals | PCMag</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionary-m3-macbook-air-unleashed-apple-introduces-an-affordable-ai-powered-laptop-for-everyone-exclusive-zdnet-review/"><u>Revolutionary M3 MacBook Air Unleashed: Apple Introduces an Affordable AI-Powered Laptop for Everyone - Exclusive ZDNet Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-impact-of-winter-on-electronics-how-your-iphone-and-laptops-can-lose-power-during-the-chilly-months/"><u>The Impact of Winter on Electronics: How Your iPhone and Laptops Can Lose Power During the Chilly Months</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-showdown-how-googles-ai-enhanced-chromebook-poses-threat-to-microsofts-copilot/"><u>The Ultimate Showdown: How Google's AI-Enhanced Chromebook Poses Threat to Microsoft's Copilot</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-prime-day-game-discounts-of-2024-exclusive-list/"><u>Top Prime Day Game Discounts of 2024: Exclusive List</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->

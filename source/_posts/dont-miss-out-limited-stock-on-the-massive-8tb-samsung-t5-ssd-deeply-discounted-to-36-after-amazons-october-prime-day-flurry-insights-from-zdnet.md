@@ -1,7 +1,7 @@
 ---
 title: Don't Miss Out! Limited Stock on the Massive 8TB Samsung T5 SSD – Deeply Discounted to 36%% After Amazon's October Prime Day Flurry | Insights From ZDNET.
-date: 2024-11-16T16:39:13.887Z
-updated: 2024-11-17T18:31:05.326Z
+date: 2024-11-20T18:19:45.526Z
+updated: 2024-11-27T16:33:23.111Z
 tags:
   - laptops
 categories:
@@ -22,6 +22,10 @@ During Amazon's Prime Early Access Sale -- otherwise known as 'Prime Day 2' -- t
 [![Apple Macbook Air | M1 2020 (save $200)](https://www.zdnet.com/a/img/resize/4e2d1af1a36bba35a744ceb3abdd99e04415b708/2021/08/25/96fc3e1c-9e32-405c-9e28-f7f819a45625/m1-macbook-air.jpg?auto=webp&fit=crop&height=172.5&width=294) Apple Macbook Air | M1 2020 (save $200) $799 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-13-inch-256GB-Storage%2Fdp%2FB08N5KWB9H%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C383f72bf-93e9-454b-8a24-1f7994241413%7Cdtp&dtb=1)
 
 Had the pandemic not forced me to stay home, I probably would've snagged the MacBook Air M1 two years ago. It was one of the first devices to feature Apple's M1 chipset, and [benchmark tests proved](https://www.zdnet.com/article/apple-m1-speed-tests-new-arm-macbook-air-blows-away-intel-based-macbook-pro/) that the lightweight MacBook could throw down against heavyweight, Intel-based computers -- including Apple's own MacBook Pro. For such a huge gap in performance, speed, and efficiency, it was hard to believe that Apple was selling the laptop for just $999\. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -63,31 +67,20 @@ At $799, the [MacBook Air M1](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FUR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-bring-charisma-to-your-stories-mastery-of-custom-emoji-use-on-instagram-for-2024/"><u>[New] Bring Charisma to Your Stories Mastery of Custom Emoji Use on Instagram for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-channel-boost-achieve-youtube-affiliate-milestone-with-10k-vistas/"><u>[New] In 2024, Channel Boost Achieve YouTube Affiliate Milestone with 10K Vistas</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-transform-your-presence-advanced-tricks-for-live-video-graphics/"><u>[New] In 2024, Transform Your Presence Advanced Tricks for Live Video Graphics</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-best-of-the-best-cutting-edge-hiring-videos-1-10/"><u>[Updated] 2024 Approved Best of the Best Cutting-Edge Hiring Videos #1-10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-hp-officejet-pro-8620-printer-drivers-on-windows-latest-version/"><u>Download & Update HP OfficeJet Pro 8620 Printer Drivers on Windows - Latest Version</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-offer-from-newegg-sell-back-your-cpu-and-earn-up-to-300-for-i9-14900k-or-220-for-a-ryzen-7-7800x3d-limited-participation-rewards/"><u>Exclusive Offer From Newegg! Sell Back Your CPU and Earn Up to $300 for I9-14900K or $220 for a Ryzen 7 7800X3D - Limited Participation Rewards</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723262292352-exploring-innovation-in-computers-and-gaming-dive-into-toms-hardware-insights/"><u>Exploring Innovation in Computers and Gaming - Dive Into Tom's Hardware Insights!</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-optimize-your-browser-experience-exploring-pip-features-in-microsoft-edge/"><u>In 2024, Optimize Your Browser Experience Exploring PIP Features in Microsoft Edge</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Motorola Razr 40? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-video-on-the-go-10-best-free-speed-adjustment-apps-for-mobile-editing/"><u>In 2024, Video on the Go 10 Best Free Speed Adjustment Apps for Mobile Editing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-epson-wf-n-pro-365-wifi-and-usb-connectivity-on-windows-pcs-win-1081/"><u>Install EPSON WF-N Pro 365 WiFi & USB Connectivity on Windows PCs (Win 10/8.1)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-epson-wf-3540-drivers-a-step-by-step-guide-for-windows-users/"><u>Installing Epson WF-3540 Drivers: A Step-by-Step Guide for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-the-latest-enhancements-to-your-logitech-extreme-3d-pro-input-device/"><u>Installing the Latest Enhancements to Your Logitech Extreme 3D Pro Input Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-audio-device-drivers-for-windows-7-free-and-easy-to-install/"><u>Latest Audio Device Drivers for Windows 7: Free and Easy to Install</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-mpow-bluetooth-driver-updates-available-for-win-10-8-and-7/"><u>Latest MPOW Bluetooth Driver Updates Available for Win 10, 8 & 7</u></a></li>
-<li><a href="https://discover-help.techidaily.com/1726029430378-nhk/"><u>NHK高校講座教材動画ダウンロード方法</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-samsung-galaxy-xcover-7-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Samsung Galaxy XCover 7 to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-oneplus-nord-n100-your-next-affordable-smartphone-pick/"><u>Unveiling the OnePlus Nord N100: Your Next Affordable Smartphone Pick?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-to-the-newest-version-of-rtx-2080-graphics-card-drivers-on-your-windows-computer-windows-1011/"><u>Upgrade to the Newest Version of RTX 2080 Graphics Card Drivers on Your Windows Computer (Windows 10/11)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-key-strategies-to-stream-and-record-youtube-events/"><u>[New] Key Strategies to Stream and Record YouTube Events</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-ideal-steadicams-for-captivating-high-quality-shoots-on-your-dslr-camera/"><u>2024 Approved Ideal Steadicams for Captivating, High-Quality Shoots on Your DSLR Camera</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-ultimate-guide-to-audiofreexer-extraction-for-2-point-zero-two-four/"><u>2024 Approved The Ultimate Guide to AudioFreexer Extraction for 2 Point Zero Two Four</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Nokia C12? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-latest-evga-graphics-card-drivers-on-windows-pcs/"><u>Download & Install Latest EVGA Graphics Card Drivers on Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-upgrade-intel-hd-graphics-driver-compatible-with-windows-11/"><u>Download & Upgrade Intel HD Graphics Driver: Compatible with Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-steps-for-reviving-a-failing-laptop-battery-lightning-fast-results/"><u>Easy Steps for Reviving a Failing Laptop Battery – Lightning-Fast Results</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-hp-officejet-pro-8740-driver-update-for-windows-users-version-11108/"><u>Free HP Officejet Pro 8740 Driver Update for Windows Users: Version 11/10/8!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-techkey-bluetooth-adapter-up-and-running-on-windows-with-instant-driver-download/"><u>Get Your Techkey Bluetooth Adapter Up and Running on Windows with Instant Driver Download!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-discover-the-power-of-asus-proart-4k-the-pa-329q-review/"><u>In 2024, Discover the Power of Asus ProArt 4K - The PA 329Q Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-x220-drivers-fast-and-easy-guide-to-update-your-system/"><u>Lenovo X220 Drivers - Fast and Easy Guide to Update Your System</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-mechanics-solutions-to-fix-apex-legends-engine-issues/"><u>Mastering the Mechanics: Solutions to Fix Apex Legends Engine Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978581081-msi-b350-toms-tomahawk-driver-software-for-pcs-running-on-windows-117-download-now/"><u>MSI B350 TOM'S TOMAHAWK Driver Software for PCs Running on Windows 11/7 – Download Now!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seasonal-timing/"><u>Seasonal Timing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-definitive-source-how-to-update-and-install-superior-wireless-drivers/"><u>The Definitive Source: How to Update and Install Superior Wireless Drivers</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

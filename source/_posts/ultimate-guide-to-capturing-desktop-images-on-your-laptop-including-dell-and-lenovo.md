@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Capturing Desktop Images on Your Laptop (Including Dell and Lenovo)
-date: 2024-11-13T20:11:06.669Z
-updated: 2024-11-17T22:12:54.761Z
+date: 2024-11-23T18:21:01.593Z
+updated: 2024-11-27T19:38:09.037Z
 tags:
   - laptops
 categories:
@@ -26,24 +26,18 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## How to take screenshots on any laptop
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to take screenshots on any laptop
 
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Screenshotting on Windows-based laptops
@@ -51,6 +45,10 @@ You'll need your laptop and, in some cases, basic image editing software. The en
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
 
 ### **Option 1: The old fashioned way**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Use your Print Screen key
 
@@ -63,10 +61,7 @@ The button can be just about anywhere, so just look for something that looks as 
 Michael Gariffo/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Paste your screenshot
@@ -95,13 +90,6 @@ The Windows 11 version of the basic Snipping Tool menu and its icon.
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Screenshotting on Macs
 
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
@@ -123,16 +111,7 @@ Michael Gariffo/ZDNET
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's a good, free image editing software to use on my screenshots?
@@ -178,22 +157,20 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-enhancing-social-engagement-with-zoom-fb-live-streams/"><u>[Updated] Enhancing Social Engagement with Zoom-FB Live Streams</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-financial-fortitude-for-youtubers-beyond-basic-earnings-for-2024/"><u>[Updated] Financial Fortitude for YouTubers Beyond Basic Earnings for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premium-5-android-capture-and-screen-save-apps-for-2024/"><u>[Updated] Premium 5 Android Capture & Screen Save Apps for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722972674673-amd-gpio-interface-drivers-secure-your-free-copy-right-here/"><u>AMD GPIO Interface Drivers - Secure Your Free Copy Right Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/direct-links-for-downloading-official-hp-spectre-x360-drivers-for-your-windows-device/"><u>Direct Links for Downloading Official HP Spectre X360 Drivers for Your Windows Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-microsoft-surface-pro-4-drivers-the-comprehensive-guide-for-windows-users/"><u>Easy Installation of Microsoft Surface Pro 4 Drivers: The Comprehensive Guide for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-ways-to-obtain-and-install-essential-drivers-for-your-acer-aspire-laptop-on-a-pc-with-windows-os/"><u>Easy Ways to Obtain and Install Essential Drivers for Your Acer Aspire Laptop on a PC with Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effective-solutions-for-realtek-rtl8811au-driver-troubleshooting-steps/"><u>Effective Solutions for Realtek RTL8811AU Driver Troubleshooting Steps</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-leaders-top-6-strategies-for-enhancing-executive-technological-proficiency-zdnet/"><u>Empowering Leaders: Top 6 Strategies for Enhancing Executive Technological Proficiency | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-update-intel-graphics-drivers-on-windows-11-a-quick-how-to/"><u>Find & Update Intel Graphics Drivers on Windows 11: A Quick How-To</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-samsung-galaxy-a24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-11-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-y55s-5g-2023-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo Y55s 5G (2023) Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-installing-nvidias-most-recent-rtx-1080-graphics-drivers-on-windows-7-computers/"><u>Ultimate Guide to Installing NVIDIA's Most Recent RTX 1080 Graphics Drivers on Windows 7 Computers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/virtual-persona-creation-made-simple-a-metaverse-primer/"><u>Virtual Persona Creation Made Simple A Metaverse Primer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/windows-compatible-creative-webcam-drivers-free-downloads-and-updates-available/"><u>Windows-Compatible Creative Webcam Drivers – Free Downloads and Updates Available</u></a></li>
-<li><a href="https://win11.techidaily.com/wonderfox-navigation-error-why-you-cant-find-the-content-anymore-new-link-text/"><u>WonderFox Navigation Error: Why You Can’t Find the Content Anymore – New Link Text</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-earn-on-youtube-decoding-recent-policy-changes/"><u>[New] 2024 Approved Earn on YouTube Decoding Recent Policy Changes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-mastering-the-monetized-space-a-buyers-primer/"><u>[New] 2024 Approved Mastering the Monetized Space A Buyer's Primer</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-unwavering-pictures-vivid-videos/"><u>[New] 2024 Approved Unwavering Pictures, Vivid Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-r9-graphics-driver-update-for-windows-11-secure-download-and-installation-tutorial/"><u>AMD Radeon R9 Graphics Driver Update for Windows 11 - Secure Download and Installation Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-rx-6800-driver-download-for-windows-111087/"><u>AMD RX 6800 Driver Download for Windows 11/10/8/7</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-lava-storm-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Lava Storm 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/bcm20702a0-download-and-install-windows-drivers-with-ease/"><u>BCM20702A0: Download & Install Windows Drivers with Ease</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-updated-hid-keyboard-drivers/"><u>Effortless Installation of Updated HID Keyboard Drivers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/evolutionary-leap-in-online-browsing-how-artificial-intelligence-reshapes-site-visibility/"><u>Evolutionary Leap in Online Browsing: How Artificial Intelligence Reshapes Site Visibility</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-devices-connected-with-nexiqs-usb-link-driver-download-free/"><u>Get Your Devices Connected with NEXIQ's USB-Link Driver [Download Free]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-install-updates-for-your-canon-mg2520-printer-driver-on-windows-computers/"><u>How to Find & Install Updates for Your Canon MG2520 Printer Driver on Windows Computers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-designing-the-ideal-youtube-playlist-for-you/"><u>In 2024, Designing the Ideal YouTube Playlist for You</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-and-complimentary-installation-files-for-the-newest-corsair-keyboard-drivers-on-your-windows-machine/"><u>Secure and Complimentary Installation Files for the Newest CORSAIR Keyboard Drivers on Your Windows Machine</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unraveling-youtubes-viewer-metrics-a-deeper-look-for-2024/"><u>Unraveling YouTube's Viewer Metrics A Deeper Look for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1728501010745-hdd/"><u>ホビー用HDDバックアップ - フリーインタラクティブイメージソフトウェアの使い方</u></a></li>
 </ul></div>
 

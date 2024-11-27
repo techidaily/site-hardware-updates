@@ -1,7 +1,7 @@
 ---
 title: Is the Era of Dual-Screens Dawned with Lenovo Yoga Book 9I? Insights
-date: 2024-11-14T19:38:17.569Z
-updated: 2024-11-17T16:56:32.000Z
+date: 2024-11-21T18:52:17.928Z
+updated: 2024-11-27T20:17:10.888Z
 tags:
   - laptops
 categories:
@@ -22,9 +22,17 @@ June Wan/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [![CES 2023](https://www.zdnet.com/a/img/resize/28650a75dc1dd673042c63db5be340811e6ef8a4/2023/01/03/6f86bbf0-d65d-4f16-a4f2-699dfdc83419/ces-2023-header.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) CES 2023: The Biggest Trends for Pros Find all the exciting innovation from CES 2023 in this ZDNET special feature.  Read now](https://www.zdnet.com/topic/ces-2023-the-biggest-trends-for-pros/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Out of [Lenovo's CES 2023 laptop and desktop lineup](https://www.zdnet.com/article/lenovos-eye-catching-yoga-book-9i-is-the-worlds-first-dual-oled-screen-laptop/), the standout product for me is, without question, the Yoga Book 9i. 
 
@@ -51,10 +59,7 @@ Ultimately, does what you see above really seem more practical and usable than a
 Asus
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Explore
@@ -86,10 +91,7 @@ Lenovo
 Of course, even this form factor, which seems like the most objectively usable way to take a dual-screen setup on the go, still requires some adjustment. The detachable Bluetooth keyboard will require you to lug along an extra accessory, and you'll still be limited to using the dual touchscreens or the optional Lenovo stylus for input, unless you also bring a mouse. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -101,10 +103,7 @@ Luckily, even if you forget everything else, you can still opt for an onscreen k
 As always, it'll be up to the consumers once the Yoga Book 9i comes out in June to decide if the company has finally answered the dual-screen laptop question correctly. It'll also depend on whether they think the specs, which you can find below, are worth the $2,100 asking price. If the reality of the Yoga Book 9i finally lives up to the massive potential of a truly useful dual-screen laptop, it might just be a bargain. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Lenovo Yoga Book 9i specifications
@@ -166,24 +165,21 @@ As always, it'll be up to the consumers once the Yoga Book 9i comes out in June 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gourmet-giants-culinary-stars-you-must-subscribe-to/"><u>[New] In 2024, Gourmet Giants Culinary Stars You Must Subscribe To</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-meme-masterpieces-perfect-jokes-for-each-moment/"><u>[New] In 2024, Meme Masterpieces Perfect Jokes for Each Moment</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-pinnacle-sound-selections-android-based-for-2024/"><u>[New] Pinnacle Sound Selections, Android-Based for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-simplifying-live-broadcasts-with-efficient-obs-tips-for-2024/"><u>[New] Simplifying Live Broadcasts with Efficient OBS Tips for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-transforming-movs-to-mp4mkv-on-pc/"><u>[Updated] In 2024, Transforming MOVs to MP4/MKV on PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/3000-dell-gamer-beast-review-surprising-perks-of-cutting-edge-features-that-reimagine-your-playing-experience/"><u>$3,000 Dell Gamer Beast Review: Surprising Perks of Cutting-Edge Features That Reimagine Your Playing Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatibility-tips-for-classic-films-on-new-m-series-apple-computers-expert-advice/"><u>Compatibility Tips for Classic Films on New M-Series Apple Computers - Expert Advice</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ideal-screen-capture-applications-for-entry-level-pcs-a-review-of-12-choices-by-movavi/"><u>Ideal Screen Capture Applications for Entry-Level PCs: A Review of 12 Choices by Movavi</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-lava-blaze-2-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-motorcycle-mastery-the-top-ranked-action-cameras-for-23-riders/"><u>In 2024, Motorcycle Mastery – The Top-Ranked Action Cameras for '23 Riders</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014864677-quick-mic-check-simple-steps-for-instant-microphone-testing/"><u>Quick Mic Check: Simple Steps for Instant Microphone Testing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/samsung-t5-ssd-huge-discount-save-nearly-half-the-price-on-amazon-prior-to-octobers-prime-day-deals/"><u>Samsung T5 SSD Huge Discount: Save Nearly Half the Price on Amazon Prior to October's Prime Day Deals</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-showdown-where-lgs-new-gram-pro-laptops-surpass-the-macbook-air-zdnet/"><u>The Ultimate Showdown: Where LG's New Gram Pro Laptops Surpass the MacBook Air | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-17-unbeatable-cyber-monday-offers-save-big-on-televisions-earbuds-and-sound-systems-exclusive-picks/"><u>Top 17 Unbeatable Cyber Monday Offers: Save Big on Televisions, Earbuds & Sound Systems - Exclusive Picks !</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-picks-the-ultimate-guide-to-the-best-streaming-webcams-ratings-reviews-and-comparisons/"><u>Top Picks: The Ultimate Guide to the Best Streaming Webcams - Ratings, Reviews & Comparisons</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranking-m2-ssds-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranking M.2 SSDs : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-scoring-amazing-holiday-bargains-for-your-tech-wishlist-exclusive-offers-from-newegg/"><u>Ultimate Guide to Scoring Amazing Holiday Bargains for Your Tech Wishlist: Exclusive Offers From Newegg</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-ultimate-gaming-audio-bliss-get-40-discount-on-top-rated-speakers-at-amazon-exclusively-reviewed/"><u>Unleash Ultimate Gaming Audio Bliss: Get 40% Discount on Top-Rated Speakers at Amazon - Exclusively Reviewed</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unraveling-the-itunes-radio-download-process/"><u>Unraveling the iTunes Radio Download Process</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-unveil-creativity-15plus-free-tools-for-youtube-intros/"><u>[Updated] In 2024, Unveil Creativity 15+ Free Tools for YouTube Intros</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-ultimate-8-filtration-options-for-professional-streams/"><u>[Updated] Ultimate 8 Filtration Options for Professional Streams</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-virtual-audiences-audio-visual-makers/"><u>2024 Approved Virtual Audiences Audio-Visual Makers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/2024s-elite-lineup-of-windows-notebook-computers-in-depth-analysis-and-ratings/"><u>2024'S Elite Lineup of Windows Notebook Computers: In-Depth Analysis and Ratings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-new-era-of-high-performance-gaming-with-nvidias-cutting-edge-studio-laptops-and-superior-gpu-power-detailed-insights/"><u>Discover the New Era of High-Performance Gaming with Nvidia's Cutting-Edge Studio Laptops and Superior GPU Power - Detailed Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-ultimate-guide-to-savings-where-to-find-the-hottest-dell-offers-this-holiday-season-at-leading-retailers-featuring-insider-info-from-zdnet/"><u>Discover the Ultimate Guide to Savings: Where to Find The Hottest Dell Offers This Holiday Season at Leading Retailers - Featuring Insider Info From ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/google-enhances-chromebook-with-cutting-edge-ai-tools-potentially-outshining-microsofts-copilot-exclusive-report-from-zdnet/"><u>Google Enhances Chromebook with Cutting-Edge AI Tools, Potentially Outshining Microsoft's Copilot - Exclusive Report From ZDNET</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-lenovo-thinkphone-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Lenovo ThinkPhone Phone | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-apple-iphone-se-2022-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>How to Fix My Apple iPhone SE (2022) Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-tecno-pop-7-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Tecno Pop 7 Pro Lock Screen Password?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-leaders-engineering-digital-marvel-realms/"><u>In 2024, Leaders Engineering Digital Marvel Realms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/last-minute-prime-day-sale-in-october-unmissable-discounts-on-amazon-ebay-and-more-best-buy-offers-techsavvy/"><u>Last Minute Prime Day Sale in October - Unmissable Discounts on Amazon, eBay & More! (Best Buy Offers) | TechSavvy</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-forecasts-essential-ai-and-cybersecurity-capabilities-in-future-laptops-insights/"><u>Lenovo Forecasts Essential AI and Cybersecurity Capabilities in Future Laptops - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/love-at-first-click-exclusive-review-of-the-featherlight-lg-gram-pro-17-dont-miss-out-during-amazon-prime-day-sales/"><u>Love at First Click: Exclusive Review of the Featherlight LG Gram Pro 17 - Don't Miss Out During Amazon Prime Day Sales!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-asus-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Asus</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-downloads-of-hp-laserjet-1018-printer-software-and-firmware-updates/"><u>Ultimate Downloads of HP LaserJet #1018 Printer Software & Firmware Updates</u></a></li>
 </ul></div>
 

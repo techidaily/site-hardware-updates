@@ -1,7 +1,7 @@
 ---
 title: "Inside The Core Clash: AMD Ryzen 9 HX 370 Outshines Apple M3 Max in Power and Efficiency"
-date: 2024-08-28T02:09:47.823Z
-updated: 2024-08-29T02:09:47.823Z
+date: 2024-11-25T16:10:25.546Z
+updated: 2024-11-27T16:44:02.679Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  With all these technologies working in tandem, the overclocker achieved an idle frequency of 5.86 GHz. In stress testing, the maximum single-thread clock speed was 5.758 GHz, with a maximum multi-core frequency of 5.454 GHz operating at 95.2 degrees Celsius at a package power of 172.1 watts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,14 +45,11 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  SkatterBencher's 5.8 GHz and 6 GHz overclocks represent the highest on the new 9700X. Der8auer and Overclocking.com showcased their respective overclocks on the 9700X but could only eke out 5.4G Hz. The main difference was that both outlets did manual overclocks, whereas SkatterBencher used AMD's plethora of overclocking tools, enabling them to hit higher frequencies.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -57,17 +58,26 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-flawless-conversion-needed-try-these-top-8-sub-and-srt-tools/"><u>[New] In 2024, Flawless Conversion Needed? Try These Top 8 Sub & Srt Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1-revolutionary-tangle-free-usb-c-cord-transforms-my-travel-experience-why-everyone-should-try/"><u>1. Revolutionary 'Tangle-Free' USB-C Cord Transforms My Travel Experience - Why Everyone Should Try</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-enhance-editing-efficiency-the-finest-text-plugins-for-ae/"><u>2024 Approved Enhance Editing Efficiency The Finest Text Plugins for AE</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-instagrams-music-ownership-standards/"><u>2024 Approved Instagram's Music Ownership Standards</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cut-the-clutter-iphones-best-photo-editing-techniques-object-removal/"><u>Cut the Clutter IPhone's Best Photo Editing Techniques (Object Removal)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-picks-for-the-ultimate-laptop-raising-solutions-zdnets-guide-to-2024-models/"><u>Expert Picks for the Ultimate Laptop Raising Solutions - ZDNet's Guide to 2024 Models</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-maintaining-softness-fading-effects-in-fl-studio-mixes/"><u>In 2024, Maintaining Softness Fading Effects in FL Studio Mixes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-understanding-the-mechanics-of-vlc-media-player-on-macos/"><u>In 2024, Understanding the Mechanics of VLC Media Player on macOS</u></a></li>
+<li><a href="https://facebook.techidaily.com/new-era-for-content-sharing-tackle-transfer-to-leading-3-platforms/"><u>New Era for Content Sharing: Tackle Transfer to Leading 3 Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-october-sale-metas-exclusive-499-512gb-quest-2-offer-a-must-have-vr-bargain-this-prime-day-technews/"><u>Top October Sale: Meta's Exclusive $499 512GB Quest 2 Offer - A Must-Have VR Bargain This Prime Day | TechNews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-non-microsoft-non-lenovo-tablet-unleashes-productivity-on-business-trips-explored-and-reviewed-at-zdnet/"><u>Top-Rated Non-Microsoft, Non-Lenovo Tablet Unleashes Productivity on Business Trips | Explored and Reviewed at ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-webcams-for-live-broadcasts-comprehensive-reviews-by-tech-pros/"><u>Top-Rated Webcams for Live Broadcasts : Comprehensive Reviews by Tech Pros</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/transfer-tactics-for-seamless-online-video-sharing/"><u>Transfer Tactics for Seamless Online Video Sharing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/triton-300-se-review-where-value-meets-versatility/"><u>Triton 300 SE Review: Where Value Meets Versatility</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/two-unveiled-including-a-gaming-beast-insights-from-zdnet/"><u>Two Unveiled, Including a Gaming Beast - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-october-prime-day-offer-metas-512gb-quest-2-pro-at-great-value-still-awaiting-bidders/"><u>Unbeatable October Prime Day Offer: Meta’s 512GB Quest 2 Pro at Great Value – Still Awaiting Bidders</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-a-deep-dive-into-toms-hardware-reviews/"><u>Unlocking Performance: A Deep Dive Into Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-upgrade-samsung-enhances-its-copilotplus-pc-featuring-advanced-ai-capabilities-insights-from-zdnet/"><u>Unveiling the Latest Upgrade: Samsung Enhances Its Copilot+ PC Featuring Advanced AI Capabilities - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnets-ultimate-guide-to-premium-laptops-of-2024-in-depth-assessments-and-comparisons/"><u>ZDNet's Ultimate Guide to Premium Laptops of 2024: In-Depth Assessments & Comparisons</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

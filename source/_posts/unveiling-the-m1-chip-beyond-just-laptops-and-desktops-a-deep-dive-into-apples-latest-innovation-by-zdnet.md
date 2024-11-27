@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the M1 Chip: Beyond Just Laptops & Desktops - A Deep Dive Into Apple's Latest Innovation by ZDNet"
-date: 2024-11-10T16:55:55.963Z
-updated: 2024-11-17T20:01:37.487Z
+date: 2024-11-21T20:14:31.031Z
+updated: 2024-11-27T19:33:13.449Z
 tags:
   - laptops
 categories:
@@ -26,6 +26,10 @@ While the chips promise a notable leap in power and efficiency, the spotlight no
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fast, but an iterative advancement
 
 The new chips represent a commendable iterative achievement for Apple, particularly in enhancing silicon capabilities through increasing transistor count and lowering power requirements. But let's face it, the M2 and even the M1 were impressive, and most consumers and business users are still unable to utilize all of the performance of those chips. 
@@ -39,10 +43,7 @@ Jason Hiner/ZDNET
 There's no actual new functionality in these chips; it's like comparing a Lamborghini (or a Tesla Model S "Plaid") from a few years ago with 600HP to one with 1000HP. Impressive performance boost, yes, but what's the actual impact for the average end-user? We can still only legally drive 65 mph/105 kph on most crowded highways in North America -- we need the application autobahn to fully take advantage of them.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPU optimization and AI improvements, but where are the apps?
@@ -54,10 +55,7 @@ The enhancements in GPU optimization and improved and increased AI cores in the 
 In the long term, these improvements will also likely trickle down into the [Vision Pro headset](https://www.zdnet.com/article/i-tried-apple-vision-pro-and-its-far-ahead-of-where-i-expected/) and, potentially, [iPad Pro](https://www.zdnet.com/article/ipad-pro-2022-review/). However, where do the apps take advantage of these on the consumer side? Yes, some Pro apps and some 3D games can today, but that's a relatively small part of Apple's target market today. And let's face it, the PC is still the gaming king, for now.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Generative AI question
@@ -75,10 +73,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Don't discount the low-end Macbook as an industry disruptor
@@ -92,10 +87,7 @@ I know of many professionals who aren't content creation types who spend a lot o
 We should also consider what impact the lower-end M3 systems are going to have on an already weakened Wintel market. Firstly, any M1 and M2 Mac machines already in the retail channel that were already very competitive with the Intel machines being offered by other manufacturers will drop in price significantly and will apply even more pressure, additionally decimating Intel's relevancy in many market segments.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## This is ultimately an Intel-killing play
@@ -140,19 +132,18 @@ The M3 chips aren't merely a product release; they are Apple's bold statement of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-dive-into-freeware-for-precise-music-tempo-tracking-for-2024/"><u>[New] Dive Into Freeware for Precise Music Tempo Tracking for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-cutting-edge-techniques-for-rapid-thumbnail-assembly/"><u>[Updated] 2024 Approved Cutting-Edge Techniques for Rapid Thumbnail Assembly</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-instagram-collage-hacks-unveiled/"><u>[Updated] Instagram Collage Hacks Unveiled</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/2024s-highest-ranking-ssds-in-depth-analysis-and-reviews-from-zdnet/"><u>2024'S Highest Ranking SSDs: In-Depth Analysis & Reviews From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-best-of-copilotplus-a-peek-into-the-gaming-ready-laptops-debuted-at-ifa-2024-tech-analysis-by-zdnet/"><u>Exploring the Best of Copilot+: A Peek Into the Gaming-Ready Laptops Debuted at IFA 2024 | Tech Analysis by ZDNET</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-repair-voice-chat-when-facing-a-content-warning-failure/"><u>How to Repair Voice Chat When Facing a Content Warning Failure?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-vivo-s17-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Vivo S17 FRP</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revolutionize-your-productivity-with-lenovos-innovative-dual-screen-laptop-a-game-changer-for-modern-workflows/"><u>Revolutionize Your Productivity with Lenovo's Innovative Dual-Screen Laptop - A Game Changer for Modern Workflows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-cyber-monday-computers-bargains-exclusive-october-2024-guide/"><u>Top-Rated Cyber Monday Computers Bargains: Exclusive October 2024 Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-scoring-amazing-savings-on-laptops-for-the-october-premier-shopping-extravaganza-exclusive/"><u>Ultimate Guide to Scoring Amazing Savings on Laptops for the October Premier Shopping Extravaganza Exclusive</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-guide-to-the-rode-x-xdm-100-by-zdnet-unmatched-performance-in-usb-microphones/"><u>Ultimate Guide to the Rode X XDM-100 by ZDNet: Unmatched Performance in USB Microphones</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/zdnets-ultimate-guide-to-the-premier-portable-monitors-expert-analysis-and-selection/"><u>ZDNet's Ultimate Guide to the Premier Portable Monitors : Expert Analysis and Selection</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-vegas-pro-21-a-comprehenive-examination-for-gamblers-and-techies-alike-for-2024/"><u>[Updated] Vegas Pro '21 A Comprehenive Examination for Gamblers and Techies Alike for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-sony-vaio-driver-software-for-windows-systems/"><u>Download & Install Sony Vaio Driver Software for Windows Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/google-hangouts-uncovered-a-comprehensive-guide-to-its-uses/"><u>Google Hangouts Uncovered: A Comprehensive Guide to Its Uses</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-pro-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 Pro To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-max-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro Max Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/infusing-identity-tips-for-iconic-podcast-graphics-for-2024/"><u>Infusing Identity Tips for Iconic Podcast Graphics for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-look-anticipating-innovative-releases-at-apples-october-event-the-next-gen-m4-mac-mini-revamped-ipad-lineup-and-cutting-edge-intelligence/"><u>Inside Look: Anticipating Innovative Releases at Apple's October Event – The Next-Gen M4 Mac Mini, Revamped iPad Lineup & Cutting-Edge Intelligence</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/marathon-battery-and-striking-style-top-reviewed-13/"><u>Marathon Battery & Striking Style: Top Reviewed 13</u></a></li>
+<li><a href="https://windows11.techidaily.com/matchmaking-the-ideal-nvidia-driver-with-entertainment-goals/"><u>Matchmaking The Ideal Nvidia Driver With Entertainment Goals</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximizing-productivity-how-to-expand-usb-cthunderbolt-connections-on-your-macbook-and-ipad-pro-expert-guide/"><u>Maximizing Productivity: How to Expand USB-C/Thunderbolt Connections on Your MacBook and iPad Pro - Expert Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/quick-guide-syncing-images-and-movies-between-iphones-for-2024/"><u>Quick Guide Syncing Images & Movies Between iPhones for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-performing-productivity-tablet-that-outshines-both-lenovo-and-microsoft-insider-tips-from-a-tech-guru/"><u>Top-Performing Productivity Tablet That Outshines Both Lenovo & Microsoft - Insider Tips From a Tech Guru</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-flexibility-in-computing-how-lenovo-redefines-the-notebook-with-its-auto-swivel-feature-at-ifa-2024-zdnet/"><u>Unveiling Flexibility in Computing: How Lenovo Redefines the Notebook with Its Auto-Swivel Feature at IFA 2024 | ZDNET</u></a></li>
 </ul></div>
 

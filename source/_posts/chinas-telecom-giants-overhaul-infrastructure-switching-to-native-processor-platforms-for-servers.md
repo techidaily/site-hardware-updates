@@ -1,7 +1,7 @@
 ---
 title: "China's Telecom Giants Overhaul Infrastructure: Switching to Native Processor Platforms for Servers"
-date: 2024-08-28T02:15:23.478Z
-updated: 2024-08-29T02:15:23.478Z
+date: 2024-11-20T19:33:31.672Z
+updated: 2024-11-27T16:13:13.670Z
 tags:
   - cpu
 categories:
@@ -34,6 +34,10 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,14 +46,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -58,8 +59,24 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-quicksnap-studio-pro-for-2024/"><u>[New] QuickSnap Studio Pro for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-streamlined-video-submission-mmc-to-vimeo-journey-explained/"><u>[New] Streamlined Video Submission MMC to Vimeo Journey Explained</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unlocking-pip-techniques-for-professional-apple-users-for-2024/"><u>[New] Unlocking PIP Techniques for Professional Apple Users for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-masterful-moment-captures-with-expert-photo-frames-online/"><u>[Updated] In 2024, Masterful Moment Captures with Expert Photo Frames Online</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazons-big-sale-alert-for-gamers-highly-acclaimed-immersive-audio-systems-at-a-steal-read-about-my-top-picks-and-the-best-deals-on-zdnet-today/"><u>Amazon's Big Sale Alert for Gamers: Highly Acclaimed Immersive Audio Systems at a Steal! Read About My Top Picks and the Best Deals on ZDNet Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-unmatched-portability-the-incredible-8-in-1-adapter-that-exceeds-value-and-compact-design-insights/"><u>Discover Unmatched Portability: The Incredible 8-in-1 Adapter That Exceeds Value & Compact Design - Insights</u></a></li>
+<li><a href="https://win-trending.techidaily.com/download-kissasian-originals-watch-exclusive-content-on-kissasiancom/"><u>Download Kissasian Originals - Watch Exclusive Content on kissasian.com</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-guide-to-choosing-the-right-business-travel-tablet-beyond-ipads-and-thinkpads-insights/"><u>Essential Guide to Choosing the Right Business Travel Tablet - Beyond iPads and ThinkPads | Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/final-hours-of-october-prime-deals-exclusive-game-discounts-and-savings-of-up-to-1000-dont-miss-out-techradar/"><u>Final Hours of October Prime Deals: Exclusive Game Discounts & Savings of Up to $1,000 - Don't Miss Out! | TechRadar</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-resolving-windows-ds4-controller-driver-errors-successfully/"><u>Fixing the Issue: Resolving Windows DS4 Controller Driver Errors Successfully</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-new-asus-vivobook-pro-for-a-steal-up-to-300-off-today-at-amazon-exclusively-covered/"><u>Get Your New Asus VivoBook Pro for a Steal: Up to $300 Off Today at Amazon, Exclusively Covered !</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-vivo-s18-pro-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Vivo S18 Pro Is Unlocked</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/macbook-wont-hibernate-drain-issues-affecting-performance-discover-the-solution-in-this-trusted-utility-endorsed-on-zdnet/"><u>MacBook Won't Hibernate? Drain Issues Affecting Performance? Discover the Solution in This Trusted Utility, Endorsed on ZDNet!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximizing-device-lifespan-a-detailed-analysis-of-the-chargetech-27000mah-portable-charger/"><u>Maximizing Device Lifespan: A Detailed Analysis of the ChargeTech 27000mAh Portable Charger</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-straightforward-guide-to-photo-uploads-on-instagram-for-2024/"><u>The Straightforward Guide to Photo Uploads on Instagram for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-23-amazing-laptop-bargains-this-labor-day-still-available/"><u>Top 23 Amazing Laptop Bargains This Labor Day - Still Available</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-performing-college-laptop-alternatives-beyond-apple-and-lenovo-now-at-a-shockingly-affordable-price-exclusive-review/"><u>Top-Performing College Laptop Alternatives Beyond Apple and Lenovo, Now at a Shockingly Affordable Price - Exclusive Review</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

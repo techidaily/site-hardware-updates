@@ -1,7 +1,7 @@
 ---
 title: "Charge Up To 7 Gadgets Simultaneously with This Long-Lasting 140W Portable Power Bank: A Comprehensive Review by ZDNet"
-date: 2024-11-10T21:18:34.018Z
-updated: 2024-11-17T17:56:47.032Z
+date: 2024-11-24T18:23:11.843Z
+updated: 2024-11-27T19:11:28.770Z
 tags:
   - laptops
 categories:
@@ -22,6 +22,10 @@ Jack Wallen/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### ZDNET's key takeaways
 
 * The Baseus 140W portable charger is available now on [Amazon for $109](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBaseus-Portable-Charger-24000mAh-Charging%2Fdp%2FB0CH8D2YHZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf15deed8-5c0d-4341-85ea-3f23a89cbfb1%7Cdtp&dtb=1).
@@ -41,10 +45,7 @@ One of the banks I received to review was from the company, Baeseus. Baeseus has
 [ZDNET Recommends Baseus 140W Portable Charger This portable charger packs a 24000mAh battery for plenty of charges. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBaseus-Portable-Charger-24000mAh-Charging%2Fdp%2FB0CH8D2YHZ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf15deed8-5c0d-4341-85ea-3f23a89cbfb1%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The specs
@@ -59,10 +60,7 @@ One of the banks I received to review was from the company, Baeseus. Baeseus has
 * 18-month warranty.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## My experience
@@ -90,16 +88,7 @@ One thing to keep in mind is that I charged the tablet with the slower-charged U
 According to the specs, the power bank allows for fast charging of an iPhone 15 Pro Max to 56% and a MacBook Pro 16" laptop to 55% in just 30 minutes. My MacBook Pro is a 13" with an M1 chip and I was able to go from 63-100% in about 20 minutes. Of course, using the fast charge with the MacBook Pro alone consumed about 25% of the charge from the bank. It's pretty easy to conclude that if you're only charging phones, you'll get even more life from a full charge.
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -138,21 +127,17 @@ Although it took considerable time to get this bank to a full charge, the result
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-your-quick-reference-to-discord-spoiler-usage/"><u>[Updated] 2024 Approved Your Quick Reference to Discord Spoiler Usage</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/a-peek-into-vegaspros-future/"><u>A Peek Into VegasPro's Future</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-pixma-mg2522-fresh-driver-download-and-update-guide/"><u>Canon Pixma MG2522: Fresh Driver Download and Update Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-setup-guide-for-nexiq-usb-link-2-drivers-quick-and-easy/"><u>Complete Setup Guide for Nexiq USB Link 2 Drivers - Quick and Easy!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-intels-enhanced-protection-plans-for-tiger-lake-tgl-and-rocket-lake-rocket-lake-cpu-families/"><u>Comprehensive Guide: Intel's Enhanced Protection Plans for Tiger Lake (TGL) and Rocket Lake (Rocket Lake) CPU Families</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-iphone-13-evaluation-guide/"><u>Comprehensive iPhone 13 Evaluation Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/direct-link-install-newest-amd-ryzen-3-2200g-video-card-drivers-today/"><u>Direct Link: Install Newest AMD Ryzen 3 2200G Video Card Drivers Today</u></a></li>
-<li><a href="https://fox-links.techidaily.com/dive-into-the-world-of-superior-no-cost-webm-viewers/"><u>Dive Into the World of Superior No-Cost WebM Viewers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-compatibility-with-windows-download-logitech-hd-c525-webcam-drivers-and-updates/"><u>Ensure Compatibility with Windows - Download Logitech HD C525 Webcam Drivers & Updates</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/gadget-reviews-by-tom-unlocking-performance-secrets/"><u>Gadget Reviews by Tom: Unlocking Performance Secrets</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-best-performance-download-intel-iris-plus-gvt-3d-655-driver-compatible-with-windows-11/"><u>Get the Best Performance: Download Intel Iris Plus GVT 3D 655 Driver Compatible with Windows 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-realme-gt-5-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Realme GT 5 Phone | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-the-ultimate-checklist-for-transforming-your-tiktok-handle/"><u>In 2024, The Ultimate Checklist for Transforming Your TikTok Handle</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-motorola-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Motorola Device</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/streamline-your-recordings-zooms-leading-transcription-apps-reviewed/"><u>Streamline Your Recordings Zoom's Leading Transcription Apps Reviewed</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-xiaomi-mix-fold-3-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Xiaomi Mix Fold 3 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-complete-selection-of-free-online-meeting-applications/"><u>[New] In 2024, The Complete Selection of FREE Online Meeting Applications</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-into-the-future-jaunt-vrs-potential-explored/"><u>[New] Into the Future Jaunt VR's Potential Explored</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-trending-tweets-triumph-identifying-todays-highest-viewed-content/"><u>[Updated] 2024 Approved Trending Tweets Triumph Identifying Today's Highest-Viewed Content</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-taking-advantage-of-vlcs-conversion-features-beyond-mp4-for-2024/"><u>[Updated] Taking Advantage of VLC's Conversion Features Beyond MP4 for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-free-version-of-killer-network-drivers-compatible-with-win1087/"><u>Download the Latest Free Version of Killer Network Drivers Compatible with Win10/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-updated-sas-drives-for-enhanced-performance-in-windows-os/"><u>Easy Installation of Updated SAS Drives for Enhanced Performance in Windows OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-a-broken-service-register-on-windows-10/"><u>How to Repair a Broken Service Register on Windows 10</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-vivo-s17t-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Vivo S17t Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-gadgets-expert-insights-on-hardware-innovation/"><u>Inside Tom's Gadgets: Expert Insights on Hardware Innovation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-logitech-g29-driver-on-windows-11-complete-guide-and-downloads/"><u>Install Logitech G29 Driver on Windows 11: Complete Guide and Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-your-logitech-m525-driver-and-software-download-options/"><u>Installing Your Logitech M525: Driver and Software Download Options</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/justifying-auto-gpts-role-without-gpt-4/"><u>Justifying Auto-GPT's Role Without GPT-4</u></a></li>
 </ul></div>
 

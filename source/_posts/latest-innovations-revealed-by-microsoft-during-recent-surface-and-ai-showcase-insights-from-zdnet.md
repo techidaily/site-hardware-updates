@@ -1,7 +1,7 @@
 ---
 title: Latest Innovations Revealed by Microsoft During Recent Surface & AI Showcase - Insights From ZDNet
-date: 2024-11-13T17:42:49.559Z
-updated: 2024-11-17T21:14:15.922Z
+date: 2024-11-26T20:27:00.108Z
+updated: 2024-11-27T20:11:18.187Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,10 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. M4 Macs
 
 Kerry Wan/ZDNET
@@ -41,10 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,16 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -83,10 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -129,15 +118,18 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-enhancing-viewership-maintaining-youtubes-creative-commons/"><u>[Updated] 2024 Approved Enhancing Viewership Maintaining YouTube's Creative Commons</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-vdy-pro-recorder-summary-detailed-analysis/"><u>[Updated] In 2024, VDY Pro Recorder Summary Detailed Analysis</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-prosperous-social-media-gurus/"><u>[Updated] Prosperous Social Media Gurus</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-safedrive-backup-specialists-take/"><u>2024 Approved SafeDrive Backup Specialists' Take</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hybrid-work-essentials-how-to-get-your-ideal-lenovo-laptop-at-a-steep-discount-today-insights-from-zdnet-tech-reviewers/"><u>Hybrid Work Essentials: How to Get Your Ideal Lenovo Laptop at a Steep Discount Today | Insights From ZDNET Tech Reviewers</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-fix-wsl-registration-failure-with-error-x80370102/"><u>Mastering The Fix: WSL Registration Failure with Error X80370102</u></a></li>
-<li><a href="https://common-error.techidaily.com/missing-vcruntime140-dll-on-windows-11-quick-resolution-steps-for-programs-to-run-perfectly/"><u>Missing VCRUNTIME140 DLL on Windows 11: Quick Resolution Steps for Programs to Run Perfectly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revolutionary-lenovo-hybrid-device-combines-powerful-windows-experience-with-versatile-android-tablet-functionality/"><u>Revolutionary Lenovo Hybrid Device Combines Powerful Windows Experience with Versatile Android Tablet Functionality</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-discounts-on-laptops-during-octobers-black-friday-sales-expert-advice-from-pcmag/"><u>Top-Rated Discounts on Laptops During October's Black Friday Sales - Expert Advice From PCMag</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-price-alert-secure-your-hp-victus-15-for-only-515-with-best-buys-limited-time-anti-prime-day-blowout-featured/"><u>Unbeatable Price Alert! Secure Your HP Victus 15 for Only $515 with Best Buy's Limited-Time Anti-Prime Day Blowout, Featured</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-spectacular-8k-cameras-top-picks-for-quality/"><u>2024 Approved Spectacular 8K Cameras Top Picks for Quality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/chromeos-gets-a-fresh-update-with-integrated-windows-11-elements-to-revolutionize-your-chromebook-reveals-expert-analysis-by-zdnet/"><u>ChromeOS Gets a Fresh Update with Integrated Windows 11 Elements to Revolutionize Your Chromebook, Reveals Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discovering-lgs-revolutionary-17-inch-gram-pro-a-game-changer-in-lightweight-laptops/"><u>Discovering LG's Revolutionary 17-Inch Gram Pro - A Game-Changer in Lightweight Laptops</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/grand-theft-auto-v-performance-enhancement-correcting-the-errgfxd3dinit-glitch/"><u>Grand Theft Auto V Performance Enhancement: Correcting the ERR_GFX_D3D_INIT Glitch</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-infinix-smart-7-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huge-savings-alert-lenovo-ideapad-3i-slashed-by-300-on-walmart-limited-time-offer/"><u>Huge Savings Alert: Lenovo IdeaPad 3I Slashed by $300 on Walmart – Limited Time Offer!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-pinterest-avatar-recording-resolution-frame-rate-length/"><u>In 2024, Pinterest Avatar Recording Resolution, Frame Rate, Length</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ring-animated-gifs-creating-from-youtube-videos-online-for-2024/"><u>Mastering Animated GIFs Creating From Youtube Videos Online for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pathway-to-enriched-teaching-utilizing-visual-media-for-2024/"><u>Pathway to Enriched Teaching Utilizing Visual Media for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/sofortige-losung-fur-beschadigte-dvds-unter-windows-wiederherstellung-und-kopie-mit-dvd-repair-wizard/"><u>Sofortige Lösung Für Beschädigte DVDs Unter Windows: Wiederherstellung Und Kopie Mit DVD Repair Wizard</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-testbeds-for-touchscreen-laptops-in-depth-analysis-and-reviews-by-pros-techsavvy/"><u>Top-Ranking Testbeds for Touchscreen Laptops - In-Depth Analysis & Reviews by Pros | TechSavvy</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-top-professionals-switch-from-macbook-air-to-discounted-high-performance-windows-laptops-recommendations-and-deals/"><u>Why Top Professionals Switch From MacBook Air to Discounted, High-Performance Windows Laptops – Recommendations & Deals</u></a></li>
 </ul></div>
 

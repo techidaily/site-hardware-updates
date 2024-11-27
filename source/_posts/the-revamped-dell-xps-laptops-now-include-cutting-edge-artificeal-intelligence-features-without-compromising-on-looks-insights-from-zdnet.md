@@ -1,7 +1,7 @@
 ---
 title: The Revamped Dell XPS Laptops Now Include Cutting-Edge Artificeal Intelligence Features without Compromising on Looks | Insights From ZDNET
-date: 2024-11-12T22:32:24.465Z
-updated: 2024-11-17T23:23:46.231Z
+date: 2024-11-24T16:38:46.068Z
+updated: 2024-11-27T18:49:05.048Z
 tags:
   - laptops
 categories:
@@ -20,6 +20,10 @@ Just ahead of [CES 2024](https://www.zdnet.com/topic/ces-2024/), Dell has reveal
 **Also: [CES 2024: What's Next in Tech](https://www.zdnet.com/collection/ces-2024-whats-next-in-tech/)**
 
 Every laptop will be powered by an Intel Core Ultra processor. The CPU will house an AI acceleration engine alongside a neural processing unit (NPU). The NPU can be considered a third resource, which is separate from the processor and graphics card that the laptop can access. The NPU will alleviate some of the laptop's workload while helping the battery maintain its longevity. What's more, the models will have ExpressCharge software, allowing users to recharge their computer from zero to 80% in about an hour.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -81,31 +85,20 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-step-by-step-ios-download-episodes-like-a-pro/"><u>[New] 2024 Approved Step-by-Step iOS Download Episodes Like a Pro</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-acurite-pro-weather-station-model-01036m-features-and-ease-of-use/"><u>Comprehensive Guide to the AcuRite Pro Weather Station - Model 01036M Features and Ease of Use</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-ultimate-collection-of-holiday-discounts-for-dell-systems-in-depth-deal-analysis-at-walmart-target-ebay-and-more-expert-insights/"><u>Discover the Ultimate Collection of Holiday Discounts for Dell Systems: In-Depth Deal Analysis at Walmart, Target, eBay & More | Expert Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/edit-like-a-pro-with-50-off-top-tier-samsung-monitors-for-photovideo-work-at-best-buy-exclusive-zdnet-deal-inside/"><u>Edit Like a Pro with 50% Off Top-Tier Samsung Monitors for Photo/Video Work at Best Buy | Exclusive ZDNet Deal Inside</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/erase-microsoft-defender-record-trail-windows-edition-guide/"><u>Erase Microsoft Defender Record Trail: Windows Edition Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-extraordinary-how-lenovos-innovative-thinkpad-x1-fold-redefines-laptops-a-unique-review-by-zdnet/"><u>Exploring the Extraordinary: How Lenovo's Innovative ThinkPad X1 Fold Redefines Laptops - A Unique Review by ZDNet</u></a></li>
-<li><a href="https://win-community.techidaily.com/fully-featured-manual-on-fixing-windows-nine-boot-support-problems/"><u>Fully-Featured Manual on Fixing Windows Nine Boot Support Problems</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-victus-15-gaming-laptop-for-just-515-unbeatable-prime-day-blowout-at-best-buy-exposed-by-zdnet/"><u>HP Victus 15 Gaming Laptop for Just $515: Unbeatable Prime Day Blowout At Best Buy Exposed by ZDNet!</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-transforming-still-images-into-expressive-animations-gif/"><u>In 2024, Transforming Still Images Into Expressive Animations (GIF)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-hangouts-mic-not-working-with-effortless-techniques/"><u>Resolve Hangouts Mic Not Working with Effortless Techniques</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/say-goodbye-to-bulky-cameras-opal-reveals-ultra-compact-effortless-clip-on-webcam-upgrade-for-your-laptops-photography-woes-digital-trends/"><u>Say Goodbye to Bulky Cameras: Opal Reveals Ultra-Compact, Effortless Clip-On Webcam Upgrade for Your Laptop's Photography Woes | Digital Trends</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-premier-iphone-gif-application-compendium/"><u>The Premier iPhone GIF Application Compendium</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-oppo-find-x6-pro-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Oppo Find X6 Pro Location | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-gaming-bargains-exclusive-october-2024-pre-black-friday-offers-spotted-by-techexperts/"><u>Top Gaming Bargains: Exclusive October 2024 Pre-Black Friday Offers Spotted by TechExperts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbelievable-cyber-monday-savings-snag-a-microsoft-surface-pro/"><u>Unbelievable Cyber Monday Savings: Snag a Microsoft Surface Pro</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbelievable-value-high-performance-m3-macbook-pro-for-under-10k-the-ultimate-tech-find/"><u>Unbelievable Value: High-Performance M3 MacBook Pro for Under $10K - The Ultimate Tech Find</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/windowsmnvme-ssdand/"><u>Windows向けに簡単！M.nvme SSDデュプリケータの使い方&セットアップ</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/your-ultimate-holiday-sale-guide-score-steals-on-gadgets-and-entertainment-systems-authorized-tips/"><u>Your Ultimate Holiday Sale Guide: Score Steals on Gadgets and Entertainment Systems | Authorized Tips</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-photoquarter-analysis/"><u>[New] 2024 Approved PhotoQuarter Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-learn-illustration-magic-a-guide-to-adobe-motion-blur/"><u>[New] Learn Illustration Magic A Guide to Adobe Motion Blur</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-capturing-dynamic-range-in-iphone-shots/"><u>[Updated] In 2024, Capturing Dynamic Range in iPhone Shots</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-laptop-vs-macbook-showdown-unveiling-the-superior-alternative-for-tech-enthusiasts-expert-insights-from-zdnet/"><u>Asus Laptop Vs. MacBook Showdown: Unveiling the Superior Alternative for Tech Enthusiasts | Expert Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-top-notch-productivity-hp-laptop-mouse-setup-plus-microsoft-365-for-just-400-exclusive-offer-now/"><u>Experience Top-Notch Productivity: HP Laptop, Mouse Setup + Microsoft 365 for Just $400 – Exclusive Offer Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/grab-your-dreams-on-cyber-monday-exclusive-half-price-blowout-on-hp-pavilion-laptops-snap-up-for-only-450-discover-more-inside/"><u>Grab Your Dreams on Cyber Monday: Exclusive Half Price Blowout on HP Pavilion Laptops - Snap up for Only $450! Discover More Inside</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-tecno-spark-10-4gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Tecno Spark 10 4GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-your-phones-podcast-landscape/"><u>In 2024, Navigating Your Phone's Podcast Landscape</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/last-minute-cyber-monday-bargain-grab-the-79-lenovo-chromebook-before-time-runs-out-insider-tips/"><u>Last-Minute Cyber Monday Bargain: Grab the $79 Lenovo Chromebook Before Time Runs Out - Insider Tips</u></a></li>
+<li><a href="https://win-unique.techidaily.com/migrate-from-microsoft-hyper-v-gen-1-vms-to-gen-2-a-step-by-step-guide/"><u>Migrate From Microsoft Hyper-V Gen 1 VMs to Gen 2: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-vivo-y78-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Vivo Y78 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-11s-complicated-update-to-v22h2-process/"><u>Tackling Windows 11'S Complicated Update to V22H2 Process</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-deciding-between-alexa-and-google-assistant-based-on-personal-needs/"><u>The Ultimate Guide to Deciding Between Alexa and Google Assistant Based on Personal Needs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-durable-laptop-picks-a-comprehensive-guide/"><u>Top Durable Laptop Picks : A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-pick-affordable-15-macbook-air-at-a-steep-discount-perfect-for-everyoneget-it-now-with-250-off/"><u>Top Pick: Affordable 15 MacBook Air at a Steep Discount - Perfect for Everyone![Get It Now with $250 Off]</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

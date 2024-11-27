@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Refresh Your Windows Computer's Motherboard Software"
-date: 2024-08-28T02:08:01.848Z
-updated: 2024-08-29T02:08:01.848Z
+date: 2024-11-26T18:07:44.469Z
+updated: 2024-11-27T17:48:11.465Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/9648422bd4a60544ea009a8215c8d33f0ea36e37b
 
  If your Canon printer is not working properly as it should be, for instance, you see the certain errors when trying to print, the printer’s status is offline, you should really consider getting your printer driver updated.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes to update Canon MG2520 driver
 
 1. [Update printer driver manually](https://tools.techidaily.com/drivereasy/download/)
@@ -43,13 +47,14 @@ thumbnail: https://thmb.techidaily.com/9648422bd4a60544ea009a8215c8d33f0ea36e37b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaa88da4ca7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) After downloading, extract the downloaded file, install the .exe file, and follow the on-screen instructions to do.
 
  This is time consuming. If this method doesn’t work for you, don’t worry. We have other solutions for you to try.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update printer driver automatically
 
  Manually downloading and installing the Canon MG2520 driver requires time and computer skills. If you don’t have patience, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -65,30 +70,19 @@ thumbnail: https://thmb.techidaily.com/9648422bd4a60544ea009a8215c8d33f0ea36e37b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaaa3085ce8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged printer driver to automatically download the correct version the this driver (you can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaaca85fc07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 4) Restart your computer to make it take effect.
 
 This is rather easy to update your Canon MG2520 printer driver, right?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### 3: Update printer driver in Device Manager
 
  You can also update the Canon MG2520 driver via Device Manager on your computer.
@@ -102,15 +96,13 @@ This is rather easy to update your Canon MG2520 printer driver, right?
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af53ac9c34f3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Double click**Printers** to expand it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26e71b4a11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
  4) Right click on your**Printer** (it can be displayed as**Unknown device** ), and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26ed419e84.png)
@@ -118,6 +110,10 @@ This is rather easy to update your Canon MG2520 printer driver, right?
  5) Choose**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26efde74b2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Then Windows will start to help search the new driver for your printer.
 
@@ -134,8 +130,6 @@ This is rather easy to update your Canon MG2520 printer driver, right?
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +137,16 @@ This is rather easy to update your Canon MG2520 printer driver, right?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-updates.techidaily.com/chilly-forecast-how-the-upcoming-tough-season-benefits-future-pc-purchasers-zdnet-insights/"><u>Chilly Forecast: How the Upcoming Tough Season Benefits Future PC Purchasers | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-the-power-shift-microsofts-new-surface-laptop-copilotplus-pc-triumphs-over-macbook-air-insights-from-zdnet/"><u>Experience the Power Shift: Microsoft's New Surface Laptop Copilot+ PC Triumphs over MacBook Air | Insights From ZDNET</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-format-frustrations-in-videos/"><u>Fixing Format Frustrations in Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-personalize-and-change-ringtones-on-your-iphone/"><u>How to Personalize and Change Ringtones on Your iPhone?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-fullscreen-partnership-how-to-choose-an-mcn/"><u>In 2024, Fullscreen Partnership How to Choose An MCN</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210326076-9781797211350-sleep-meditations/"><u>Sleep Meditations | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-picks-unbeatable-black-friday-and-cyber-monday-laptop-bargains-for-november-2024-ultimate-guide/"><u>Top Picks: Unbeatable Black Friday & Cyber Monday Laptop Bargains for November 2024 Ultimate Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/tune-into-your-instagram-feed-music-integration-essentials-for-2024/"><u>Tune Into Your Instagram Feed Music Integration Essentials for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-alert-top-tier-immersive-audio-experience-with-best-buys-latest-gaming-speakers-reviewed/"><u>Unbeatable Deal Alert: Top-Tier Immersive Audio Experience with Best Buy's Latest Gaming Speakers - Reviewed !</u></a></li>
+</ul></div>
 

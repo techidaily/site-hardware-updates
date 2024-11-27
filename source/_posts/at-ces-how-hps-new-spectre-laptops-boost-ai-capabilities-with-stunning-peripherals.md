@@ -1,7 +1,7 @@
 ---
 title: "At CES: How HP's New Spectre Laptops Boost AI Capabilities with Stunning Peripherals"
-date: 2024-11-13T17:48:42.155Z
-updated: 2024-11-17T18:38:17.599Z
+date: 2024-11-22T17:02:26.947Z
+updated: 2024-11-27T18:14:22.090Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Kyle Kucharski/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -91,10 +95,7 @@ Compared to a MacBook, one could argue that the Yoga Slim 7x is at least better 
 The MacBook is better suited for the iOS ecosystem, however Lenovo has been making strides in developing a data transfer feature between its laptop and iPhones. So if you're not sure which one to get, the Yoga Slim 7x might be the better long-term investment.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -135,22 +136,20 @@ Creators might also appreciate the fact that Lenovo is also giving [two free mon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-playful-escape-the-ultimate-relief-list/"><u>[New] Playful Escape The Ultimate Relief List</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-boost-your-reach-the-quintessential-five-tactics-for-youtube-success/"><u>[Updated] Boost Your Reach The Quintessential Five Tactics for YouTube Success</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-building-a-community-through-periscope-streams/"><u>[Updated] Building a Community Through Periscope Streams</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-video-upload-your-guide-to-igtv/"><u>2024 Approved Mastering Video Upload Your Guide to IGTV</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/descubre-las-mejores-herramientas-de-conversion-gratuitas-para-videos-en-windows-n-11-y-por-que-son-optimas/"><u>Descubre Las Mejores Herramientas De Conversión Gratuitas Para Vídeos en Windows N 11 Y Por Qué Son Óptimas</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722978153873-effortless-installation-get-your-samsung-c460-drivers-now/"><u>Effortless Installation: Get Your Samsung C460 Drivers Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-advice-easy-ways-to-get-the-latest-sandisk-ssd-driver-software-installed/"><u>Expert Advice: Easy Ways to Get the Latest SanDisk SSD Driver Software Installed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723013979048-fixes-for-stuttering-and-lags-in-half-life-alyx-on-pc-revealed/"><u>Fixes for Stuttering and Lags in Half Life: Alyx on PC Revealed!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixes-to-overcome-remote-connection-errors-on-windows/"><u>Fixes to Overcome Remote Connection Errors on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-sony-vaio-driver-software-installed-in-your-windows-system-today/"><u>Get the Latest Sony VAIO Driver Software Installed in Your Windows System Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-windows-support-software-for-logitech-g602-wireless-sound-system/"><u>Installing Windows Support Software for Logitech G602 Wireless Sound System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/intels-drastic-staff-reductions-of-over-15-surpassing-15000-workers-meteor-lake-yield-woes-prompt-dividend-suspension-warning/"><u>Intel's Drastic Staff Reductions of Over 15%, Surpassing 15,000 Workers: Meteor Lake Yield Woes Prompt Dividend Suspension Warning</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-quadro-graphics-driver-updates-for-win11-get-them-here/"><u>Latest Quadro Graphics Driver Updates for Win11 - Get Them Here</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mini-stories-decoded-whats-inside-for-2024/"><u>Mini Stories Decoded What's Inside for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-how-to-get-and-install-magic-mouse-software-on-your-windows-device/"><u>Step-by-Step Tutorial: How to Get and Install Magic Mouse Software on Your Windows Device</u></a></li>
-<li><a href="https://extra-information.techidaily.com/stream-smooth-and-clear-zooms-6-best-cam-guide/"><u>Stream Smooth & Clear Zoom’s #6 Best Cam Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-and-hardware-reviews-1723267583098/"><u>Tom's Tech Insights and Hardware Reviews</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-cult-classic-reimaginings-top-20-anime-on-tiktok/"><u>[New] 2024 Approved Cult Classic Reimaginings Top 20 Anime on TikTok</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/compact-your-content-explore-the-most-admirable-33-video-reducers/"><u>Compact Your Content Explore the Most Admirable 33 Video Reducers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-fresh-nvidia-driver-downloads-for-windows-11-7-and-8-pcs/"><u>Comprehensive Guide: Fresh NVIDIA Driver Downloads for Windows 11, 7 & 8 PCs</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/copycat-cinema-steps-for-satirical-video-making-for-2024/"><u>Copycat Cinema Steps for Satirical Video Making for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/enriched-video-presentation-implementing-lc-and-bb-on-social-platforms-for-2024/"><u>Enriched Video Presentation Implementing LC and BB on Social Platforms for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-zebra-driver-and-printer-utilities-for-your-pc-install-now/"><u>Get the Newest Zebra Driver & Printer Utilities for Your PC - Install Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-windows-pc-updated-with-the-latest-bluetooth-adapter-support/"><u>Get Your Windows PC Updated with the Latest Bluetooth Adapter Support</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-and-greatest-how-to-get-the-newest-netgear-wi-fi-driver-updates-for-your-device/"><u>Latest and Greatest: How to Get the Newest NETGEAR Wi-Fi Driver Updates for Your Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-plugin-integration/"><u>Mastering ChatGPT Plugin Integration</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/renovation/"><u>Renovation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-essential-steps-for-rejuvenating-your-mouse-drivers/"><u>The Essential Steps for Rejuvenating Your Mouse Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-simplest-way-to-secure-latest-driver-updates-for-your-microsoft-surface-devices/"><u>The Simplest Way to Secure Latest Driver Updates for Your Microsoft Surface Devices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/transforming-ideas-into-impactful-scenes-through-dialogue-for-2024/"><u>Transforming Ideas Into Impactful Scenes Through Dialogue for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-what-to-do-if-your-zoom-camera-isnt-functioning/"><u>Troubleshooting Steps: What To Do If Your Zoom Camera Isn't Functioning</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-downloading-and-installing-epson-es-400-drivers-on-your-windows-pc/"><u>Ultimate Guide to Downloading & Installing Epson ES-400 Drivers on Your Windows PC</u></a></li>
 </ul></div>
 

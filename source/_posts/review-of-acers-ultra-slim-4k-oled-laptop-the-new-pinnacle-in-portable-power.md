@@ -1,7 +1,7 @@
 ---
 title: Review of Acer's Ultra-Slim 4K OLED Laptop - The New Pinnacle in Portable Power
-date: 2024-11-15T16:34:07.009Z
-updated: 2024-11-17T20:24:30.472Z
+date: 2024-11-23T19:41:26.410Z
+updated: 2024-11-27T20:01:51.603Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -73,10 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -115,22 +116,16 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-maximize-money-from-youtube-shorts-tactics-and-tricks/"><u>[New] 2024 Approved Maximize Money From YouTube Shorts Tactics & Tricks</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-mastery-in-migration-transitioning-to-macos-11-big-sur-effortlessly/"><u>[New] In 2024, Mastery in Migration Transitioning to macOS 11 Big Sur Effortlessly</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-mastering-soft-melodies-pcos-guide-for-2024/"><u>[New] Mastering Soft Melodies PC/OS Guide for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-new-year-updated-lg-360-full-review-insights/"><u>[Updated] New Year, Updated LG 360 Full Review Insights</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-from-simplicity-to-splendor-a-complete-transformation-guide-from-sdr-to-hdr/"><u>2024 Approved From Simplicity to Splendor A Complete Transformation Guide From SDR to HDR</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/become-a-streaming-guru-utilizing-zooms-features-for-effective-youtube-broadcasts-for-2024/"><u>Become a Streaming Guru Utilizing Zoom's Features for Effective YouTube Broadcasts for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-bargains-on-amazon-for-octoprime-2024-exclusive-deals-that-are-still-going-on-techradar/"><u>Best Bargains on Amazon for OctoPrime 2024 - Exclusive Deals That Are Still Going On! | TechRadar</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compact-yet-capable-a-review-of-the-surprisingly-multifaceted-smallest-chromebook-on-zdnets-test-bench/"><u>Compact Yet Capable: A Review of The Surprisingly Multifaceted Smallest Chromebook on ZDNet's Test Bench</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/fixed-unexpected-problem-with-boot-disk-detection/"><u>Fixed: Unexpected Problem with Boot Disk Detection</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-premier-vr-experience-metas-splendid-deal-on-the-quest-3-512gb-headset-is-unbeatable-in-todays-market-zdnet-insight/"><u>Get Your Hands on the Premier VR Experience: Meta's Splendid Deal on the Quest 3 512GB Headset Is Unbeatable in Today’s Market | ZDNet Insight</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-realme-gt-neo-5-sewithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Realme GT Neo 5 SEwith/without a PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/introducing-lenovos-alternative-to-the-mac-studio-a-potential-game-changer-for-windows-devotees/"><u>Introducing Lenovo's Alternative to the Mac Studio - A Potential Game-Changer for Windows Devotees</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-list-highest-calibre-ds-emulation-on-pc/"><u>Master List: Highest Calibre DS Emulation on PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximize-your-machines-might-proven-strategies-to-extend-battery-life-on-a-windows-pc-guidance-by-tech-experts-at-zdnet/"><u>Maximize Your Machine’s Might: Proven Strategies to Extend Battery Life on a Windows PC | Guidance by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/reverted-to-windows-home-by-accident-during-pc-reset-discover-steps-to-regain-your-premium-license/"><u>Reverted to Windows Home by Accident During PC Reset? Discover Steps to Regain Your Premium License!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-best-two-in-one-gadget-of-the-year-with-an-overlooked-workplace-advantage-expert-reviews/"><u>Unveiling the Best Two-in-One Gadget of the Year with an Overlooked Workplace Advantage | Expert Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/zdnet-reveals-secure-your-apples-m2-macbook-air-for-749-on-amazons-exclusive-october-prime-deals/"><u>ZDNet Reveals: Secure Your Apple's M2 MacBook Air for $749 on Amazon's Exclusive October Prime Deals!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-open-access-to-the-masters-oeuvre/"><u>[New] Open Access to the Masters' Oeuvre</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-step-into-a-tiktok-realm-a-guide-for-joining-lives/"><u>[New] Step Into a TikTok Realm A Guide for Joining Lives</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-achieve-profitability-on-youtube-embracing-any-device-approach-for-2024/"><u>[Updated] Achieve Profitability on Youtube Embracing Any Device Approach for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-elevate-your-online-presence-conquer-10-key-smm-steps-today-for-2024/"><u>[Updated] Elevate Your Online Presence Conquer 10 Key SMM Steps Today for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-perfecting-video-productions-by-adding-youtube-music/"><u>[Updated] Perfecting Video Productions by Adding YouTube Music</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oppo-reno-8t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-my-entire-tech-setup-transformed-zdnet/"><u>A Week with an Ergonomic Split Keyboard: How My Entire Tech Setup Transformed | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-premier-selection-a-review-of-2023s-best-standing-desks-according-to-zdnet/"><u>Discover the Premier Selection: A Review of 2023'S Best Standing Desks, According to ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-prime-day-video-game-bargains-the-ultimate-shopping-guide-for-october-2024-zdnet/"><u>Top Prime Day Video Game Bargains: The Ultimate Shopping Guide for October 2024 - ZDNET</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-registered-classes-in-windows-10-easy-steps-for-a-smooth-solution/"><u>Troubleshooting Non-Registered Classes in Windows 10 – Easy Steps for a Smooth Solution</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unfolding-the-magic-discover-the-amazing-origami-laptop-sleeve-the-ultimate-travel-companion-zdnet-review/"><u>Unfolding the Magic: Discover the Amazing Origami Laptop Sleeve - The Ultimate Travel Companion [ZDNet Review]</u></a></li>
 </ul></div>
 

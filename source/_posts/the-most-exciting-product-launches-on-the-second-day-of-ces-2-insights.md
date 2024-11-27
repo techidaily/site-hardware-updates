@@ -1,7 +1,7 @@
 ---
 title: "The Most Exciting Product Launches on the Second Day of CES 2#: Insights"
-date: 2024-11-11T16:04:01.905Z
-updated: 2024-11-17T21:32:07.601Z
+date: 2024-11-26T17:34:22.891Z
+updated: 2024-11-27T16:05:49.292Z
 tags:
   - laptops
 categories:
@@ -18,6 +18,10 @@ Whether you've been busy with the kids or catching up with the daily news on you
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [![CES 2023](https://www.zdnet.com/a/img/resize/28650a75dc1dd673042c63db5be340811e6ef8a4/2023/01/03/6f86bbf0-d65d-4f16-a4f2-699dfdc83419/ces-2023-header.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) CES 2023: The Biggest Trends for Pros Find all the exciting innovation from CES 2023 in this ZDNET special feature.  Read now](https://www.zdnet.com/topic/ces-2023-the-biggest-trends-for-pros/)
@@ -30,15 +34,16 @@ While hundreds of companies are stationed in Las Vegas announcing new and innova
 
 And, if you're still waiting to hear from some major companies, keep checking back . More companies will be announcing more innovative products as the week progresses.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## LG saves its biggest (and best) TV for last
 
 ![LG 97-inch M3 OLED smart webOS TV](https://www.zdnet.com/a/img/resize/506f09c228df659cacc5d524977b1b805c7b4dca/2023/01/03/6f43e8d1-cf31-43f8-b6cd-25bc58e9cb75/97m3-image-4.jpg?auto=webp&fit=crop&height=360&width=640)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LG
@@ -47,6 +52,10 @@ While LG unveiled its [new line of C, G, and Z OLED models](https://www.zdnet.co
 
 Read our [first look at the M3 OLED TV here](https://www.zdnet.com/home-and-office/home-entertainment/lg-97-inch-oled-tv-m3-ces-2023/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Asus debuts all-new laptops across the board
 
 Asus
@@ -54,6 +63,10 @@ Asus
 In addition to a new line of [eco-friendly laptops for workers and students](https://www.zdnet.com/article/asus-unveils-two-sustainably-designed-laptops-for-business-executives-and-students/), Asus released information regarding its gaming Chromebook, the Vibe CX34\. It also debuted a 3D OLED laptop that consumers can use sans 3D glasses.
 
 Check the [high-end specs of the Vibe CX34 Chromebook here](https://www.zdnet.com/article/asus-new-vibe-cx34-gaming-chromebook-brings-some-high-end-specs/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The year of the smart toilet sensor
 
@@ -95,13 +108,6 @@ While HP dropped new Dragonfly Pro chromebooks and laptops, it also debuted a se
 
 Read about [new HP laptops are coming to shoppers' carts here](https://www.zdnet.com/article/laptops-chromebooks-all-in-one-pcs-and-more-take-a-look-at-hps-hybrid-focused-device-portfolio/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Track your feathered friends with the Bird Buddy smart feeder
 
 Bird Buddy
@@ -110,13 +116,6 @@ You're used to indoor appliances with smart features, but now with the Bird Budd
 
 Read more about the [Bird Buddy smart feeders featured this year](https://www.zdnet.com/home-and-office/yard-outdoors/ces-2023-this-new-smart-bird-feeder-can-capture-up-close-images-of-hummingbirds/).
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## HyperX debuts new gaming mice
 
 HyperX
@@ -124,13 +123,6 @@ HyperX
 Gamers can also pick up a new gaming mouse thanks to the announced Pulsefire Haste 2 gaming mouse (wired and wireless versions), shipping in March in stores and online. There's also the HyperX Clutch Gladiate Xbox Controller, available in April, and a new line of 3D-printed accessories, starting with a [Cozy Cat keycap](https://www.zdnet.com/home-and-office/home-entertainment/hyperx-launches-new-line-of-3d-printed-keycaps-headphone-backplates-and-more/). 
 
 Get the details on the [Pulsefire Haste 2 and Clutch Gladiate Xbox controller](https://www.zdnet.com/home-and-office/home-entertainment/hyperxs-ces-2023-lineup-includes-haste-2-mice-clutch-gladiate-xbox-controller/).
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## AMD announces Ryzen 7040 series
 
@@ -178,16 +170,22 @@ If you want the best of the news, you can see the highlights of [Day 1 of CES 20
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-ensuring-compliance-with-fb-messenger-call-records/"><u>[New] 2024 Approved Ensuring Compliance with FB Messenger Call Records</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-cyber-snicker-generator/"><u>[Updated] Cyber Snicker Generator</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-aerial-duels-unleashed-dji-spark-vs-gopro-black-session/"><u>2024 Approved Aerial Duels Unleashed DJi Spark vs GoPro Black Session</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-install-the-canon-pro-100-drivers-for-windows-no-hassle/"><u>How to Successfully Install the Canon PRO 100 Drivers for Windows - No Hassle!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-top-10-drones-with-longest-flight-time/"><u>In 2024, Top 10 Drones with Longest Flight Time</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-updates-for-canon-mg3022-printer-drivers-free-downloads-available/"><u>Latest Updates for Canon MG3022 Printer Drivers: Free Downloads Available</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/locating-intels-device-drivers-update-tool/"><u>Locating Intel's Device Drivers Update Tool</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723262295089-reaching-new-heights-pushing-an-amd-ryzen-7-9700x-up-to-a-stunning-58ghz-with-advanced-aio-liquid-cooling-plus-a-surprising-peak-at-6ghz-idle/"><u>Reaching New Heights: Pushing an AMD Ryzen #7 9700X Up to a Stunning 5.8GHz with Advanced AIO Liquid Cooling, Plus a Surprising Peak at 6GHz Idle</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-0x80072af9-failure/"><u>Unraveling the Mystery of 0X80072AF9 Failure</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722969965183-update-or-fresh-install-audio-drivers-for-windows-7-directly-here/"><u>Update or Fresh-Install Audio Drivers for Windows 7 Directly Here!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-mastery-start-essence-of-storyline-development/"><u>[New] 2024 Approved Mastery Start Essence of Storyline Development</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-storing-success-top-strategies-for-mov-and-mov-files-in-windows/"><u>[New] 2024 Approved Storing Success Top Strategies for Mov and .mov Files in Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-intel-iris-plus-graphics-640-driver-quickly-and-easily/"><u>[UPDATE] Intel Iris Plus Graphics 640 Driver | Quickly & Easily</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-optimize-frame-rates-for-maximum-gameplay-immersion/"><u>[Updated] 2024 Approved Optimize Frame Rates for Maximum Gameplay Immersion</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-collaborative-innovation-in-brand-and-media-synergy/"><u>[Updated] Collaborative Innovation in Brand and Media Synergy</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-from-captured-moment-to-moving-picture/"><u>[Updated] In 2024, From Captured Moment to Moving Picture</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-instructions-to-downloading-and-setting-up-epson-wf-3540-drivers-on-windows-computers/"><u>Complete Instructions to Downloading and Setting Up Epson WF-3540 Drivers on Windows Computers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-how-ai-can-elevate-your-storytelling-experience/"><u>Discover How AI Can Elevate Your Storytelling Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-download-and-update-for-your-dell-printer-software/"><u>Effortless Download and Update for Your Dell Printer Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-peak-performance-with-new-amd-radeon-rx-6800-xt-driver-downloads-for-windows-operating-systems/"><u>Ensure Peak Performance with New AMD Radeon RX 6800 XT Driver Downloads for Windows Operating Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-worldwide-with-your-nintendo-switch/"><u>Explore Worldwide with Your Nintendo Switch</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-install-the-correct-hp-laserjet-1018-printer-drivers/"><u>How to Find and Install the Correct HP LaserJet 1018 Printer Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-drivers-for-your-lenovo-x1-carbon-on-windows-117-with-ease/"><u>How to Get the Latest Drivers for Your Lenovo X1 Carbon on Windows 11/7 with Ease</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-iphone-13-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-guide-elgato-software-downloads/"><u>Quick and Simple Guide: Elgato Software Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-fixes-overcoming-logitech-f710-driver-issues-across-multiple-windows-operating-systems/"><u>Quick Fixes: Overcoming Logitech F710 Driver Issues Across Multiple Windows Operating Systems</u></a></li>
 </ul></div>
 

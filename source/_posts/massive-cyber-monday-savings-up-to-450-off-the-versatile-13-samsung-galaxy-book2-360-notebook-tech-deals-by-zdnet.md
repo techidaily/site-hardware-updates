@@ -1,7 +1,7 @@
 ---
 title: Massive Cyber Monday Savings - Up To $450 Off the Versatile 13 Samsung Galaxy Book2 360 Notebook | Tech Deals by ZDNet
-date: 2024-11-11T16:39:43.766Z
-updated: 2024-11-17T21:36:20.569Z
+date: 2024-11-23T19:37:32.849Z
+updated: 2024-11-27T19:07:38.945Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,10 @@ Normally priced at $2,799, the [Razer Blade 14](https://buy.geni.us/Proxy.ashx?T
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Razer Blade 14 tech specs
 
 * **CPU**: AMD Ryzen 9 5900X
@@ -41,10 +45,7 @@ Normally priced at $2,799, the [Razer Blade 14](https://buy.geni.us/Proxy.ashx?T
 * Cooling: Vapor chamber
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -89,22 +90,24 @@ Unlike a Mac, the [Razor Blade 14](https://buy.geni.us/Proxy.ashx?TSID=368250&GR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-exploring-samsungs-ue590-4k-gamer-monitor/"><u>[Updated] Exploring Samsung's UE590 4K Gamer Monitor</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-fiscally-friendly-action-footage-gear/"><u>[Updated] Fiscally-Friendly Action Footage Gear</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-unraveling-the-best-video-formats-for-youtube-success/"><u>[Updated] Unraveling the Best Video Formats for YouTube Success</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-epson-wf-3540-driver-on-windows-systems-complete-tutorial/"><u>Easy Installation of Epson WF-3540 Driver on Windows Systems - Complete Tutorial</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-cutting-edge-computing-the-msi-tiny-pc-powered-by-raptor-lake-cpu-and-boasting-a-quad-lan-setup-with-25-gbps-speeds/"><u>Experience Cutting-Edge Computing: The MSI Tiny PC, Powered by Raptor Lake CPU and Boasting a Quad LAN Setup with 2.5 Gbps Speeds</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/from-reality-to-virtuality-best-practices-for-recording-gameplay-worlds/"><u>From Reality to Virtuality Best Practices for Recording Gameplay Worlds</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-80211n-wi-fi-drivers-compatible-with-win11win10win8win7-free-download/"><u>Get the Newest 802.11N Wi-Fi Drivers Compatible with Win11/Win10/Win8/Win7 - Free Download</u></a></li>
-<li><a href="https://win-bits.techidaily.com/how-to-properly-handle-quoted-eol-comments-for-enhanced-readability-in-emeditor/"><u>How to Properly Handle Quoted EOL-Comments for Enhanced Readability in EmEditor</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/intel-releases-battlemage-a-game-changer-with-superior-energy-efficiency-saving-100w-more-than-ice-lake-maintaining-overclocking-prowess-post-raptor-lake-im72/"><u>Intel Releases Battlemage: A Game-Changer with Superior Energy Efficiency Saving 100W More than Ice Lake, Maintaining Overclocking Prowess Post Raptor Lake Improvements</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>List of Pokémon Go Joysticks On Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/logitech-g510-driver-setup-files-install-on-windows-7-to-10-os/"><u>Logitech G510 Driver Setup Files - Install on Windows 7 to 10 OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-driver-updates-a-focus-on-ati-for-windows-users/"><u>Mastering Driver Updates: A Focus on ATI for Windows Users</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/revealing-insights-microsoft-surveys-thousands-on-post-pandemic-workplace-transformations-shocking-outcome/"><u>Revealing Insights: Microsoft Surveys Thousands on Post-Pandemic Workplace Transformations - Shocking Outcome!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-installation-of-insignamo-drive-software-on-your-pc-start-now/"><u>Seamless Installation of Insignamo Drive Software on Your PC - Start Now!</u></a></li>
-<li><a href="https://article-files.techidaily.com/snippet-storyboarding-procedure-for-2024/"><u>Snippet Storyboarding Procedure for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723262320464-trade-your-old-processor-with-newegg-get-up-to-300-for-intel-i9-or-220-for-amd-ryzen/"><u>Trade Your Old Processor with Newegg - Get Up to $300 for Intel I9 or $220 for AMD Ryzen</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-updating-the-ultimate-guide-to-getting-your-windows-11-camera-driver-current/"><u>Troubleshooting & Updating: The Ultimate Guide to Getting Your Windows 11 Camera Driver Current</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-facebook-follower-verification-techniques-for-professionals/"><u>[New] Facebook Follower Verification Techniques for Professionals</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1-discover-how-free-video-converter-factory-simplifies-your-media-experience/"><u>1. Discover How Free Video Converter Factory Simplifies Your Media Experience</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/cutting-edge-practices-video-acceleration-techniques-for-2024/"><u>Cutting-Edge Practices Video Acceleration Techniques for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-your-samsung-c460-drivers-instantly-and-effortlessly/"><u>Download Your Samsung C460 Drivers Instantly & Effortlessly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-update-hp-officejet-5255-printer-drivers-download-now/"><u>Easy Guide to Update HP Officejet 5255 Printer Drivers - Download Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effective-fixes-for-realtek-alc887-sound-drivers-compatibility-with-windows/"><u>Effective Fixes for Realtek ALC887 Sound Drivers Compatibility with Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-70-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-guide-installing-latest-nvidia-display-drivers-for-windows-operating-systems/"><u>Free Guide: Installing Latest NVIDIA Display Drivers for Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-drivers-for-your-logitech-g933-gaming-headset-now/"><u>Get the Latest Drivers for Your Logitech G933 Gaming Headset Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-killer-e2500-gigabit-ethernet-drivers-here/"><u>Get the Latest Killer E2500 Gigabit Ethernet Drivers Here!</u></a></li>
+<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-safely-get-and-install-lenovos-latest-bluetooth-drivers-for-pc-windows-710-edition/"><u>How to Safely Get & Install Lenovo's Latest Bluetooth Drivers for PC - Windows 7/10 Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-uncover-the-past-your-complete-guide-to-digitizing-and-preserving-old-photographs/"><u>In 2024, Uncover the Past Your Complete Guide to Digitizing & Preserving Old Photographs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-webcampro-recordingstepssimplified/"><u>In 2024, WebCamPro RecordingStepsSimplified</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keeping-your-lenovo-ideapad-100-running-smoothly-in-windows-11-driver-download-and-update-guide/"><u>Keeping Your Lenovo IdeaPad 100 Running Smoothly in Windows 11 - Driver Download & Update Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210039525-9781841815039-natures-hidden-oracles/"><u>Nature's Hidden Oracles | Free Book</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/streamlined-design-and-functionality-unpacking-the-amazon-basics-compact-tablet-support/"><u>Streamlined Design & Functionality: Unpacking the Amazon Basics Compact Tablet Support</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unleashing-durability-nikons-w100-explained/"><u>Unleashing Durability: Nikon's W100 Explained</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-audio-setup-freshly-released-focusrite-scarlett-18i20-drivers-for-windows-systems-available-here/"><u>Upgrade Your Audio Setup: Freshly Released Focusrite Scarlett 18I20 Drivers for Windows Systems Available Here</u></a></li>
 </ul></div>
 

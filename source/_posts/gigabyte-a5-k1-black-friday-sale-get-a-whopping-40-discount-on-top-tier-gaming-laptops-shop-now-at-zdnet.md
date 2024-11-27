@@ -1,7 +1,7 @@
 ---
 title: "Gigabyte A5 K1 Black Friday Sale: Get a Whopping 40%% Discount on Top-Tier Gaming Laptops - Shop Now at ZDNet!"
-date: 2024-11-12T21:30:22.885Z
-updated: 2024-11-17T23:15:05.061Z
+date: 2024-11-22T16:43:08.314Z
+updated: 2024-11-27T16:17:34.513Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Dell/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -95,10 +99,7 @@ A total of five vents on the m18 R2 allow for maximum internal airflow. Addition
 In fact, one thing I noticed about the m18 R2 is that it never really felt hot to the touch at all. Both the keyboard and the wrist rest (above where the battery is housed) remained only slightly warm, suggesting that the fans were in fact doing their job effectively, which I'm glad for, given the sound they generate. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -108,10 +109,7 @@ In fact, one thing I noticed about the m18 R2 is that it never really felt hot t
 However, this is also quite a large laptop, so although it's portable, it isn't exactly carry-and-go, and it isn't a machine that you can leave unplugged for hours at a time. Pricing can easily rise toward the higher end too, but the cutting-edge technology solidifies the m18 R2 as something that will be near the top of the laptop market for a while. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -148,22 +146,17 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-complete-motion-survey-2023/"><u>[New] In 2024, Complete Motion Survey 2023</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-from-basic-to-breakthrough-a-youtube-live-thumbnail-journey-for-2024/"><u>[Updated] From Basic to Breakthrough A YouTube Live Thumbnail Journey for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-how-to-expertly-record-and-broadcast-on-snapchat-phone/"><u>[Updated] In 2024, How to Expertly Record & Broadcast on Snapchat Phone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723262307302-amd-ryzen-5-7600x-processor-goes-on-sale-available-for-just-174-at-newegg/"><u>AMD Ryzen 5 7600X Processor Goes on Sale: Available for Just $174 at Newegg!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/bcm-2045a0-drivers-troubles-heres-how-to-tackle-them-swiftly-and-successfully/"><u>BCM 2045A0 Drivers Troubles? Here's How to Tackle Them Swiftly & Successfully!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-installing-the-newest-drivers-on-your-lenovo-ideapad-ebook-100-with-windows-10-ensuring-optimal-performance/"><u>Complete Guide to Installing the Newest Drivers on Your Lenovo IdeaPad eBook 100 with Windows 10: Ensuring Optimal Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-download-of-lenovo-t430-drivers-for-windows-operating-systems-windows-10-8-and-7/"><u>Effortless Download of Lenovo T430 Drivers for Windows Operating Systems (Windows 10, 8 & 7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722961756386-epson-l3150-printer-driver-download-and-upgrade-guide-for-windows-1087/"><u>Epson L3150 Printer Driver Download & Upgrade Guide for Windows 10/8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-officejet-pro-8610-driver-update-for-multiple-windows-versions-including-11-8-7-xp-and-vista/"><u>HP Officejet Pro ˈ8610 Driver Update for Multiple Windows Versions Including 11, 8, 7, XP & Vista</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/immersed-in-surprising-escapades-a-critical-look-at-yokun-islands-express/"><u>Immersed in Surprising Escapades: A Critical Look at Yoku'n Islands Express</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-official-hp-printer-drivers-free-downloads-available/"><u>Install Official HP Printer Drivers - Free Downloads Available!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-retrieving-file-and-folder-locations-in-windows-11/"><u>Step-by-Step Guide: Retrieving File & Folder Locations in Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-nubia-red-magic-9-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Nubia Red Magic 9 Pro without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-obtaining-the-correct-drivers-for-your-epson-xp-n400-printer-a-simple-how-to/"><u>Ultimate Guide to Obtaining the Correct Drivers for Your Epson XP N400 Printer: A Simple How-To</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>Why does the pokemon go battle league not available On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/44kz44oz44or44kv44oi44gq5yuv55s744gn54mp6kqe44ks6kqe44kk57az44gq44gf44kb44gu44og44kv44ol44od44kv/"><u>コンパクトな動画で物語を語り継ぐためのテクニック</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-usb-30-drivers-for-windows-pc/"><u>Download & Install USB 3.0 Drivers for Windows PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-driver-updates-for-microsoft-surface-book-get-them-now/"><u>Effortless Driver Updates for Microsoft Surface Book - Get Them Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-zexmt-bluetooth-device-up-and-running-with-updated-drivers-win1078/"><u>Get Your Zexmt Bluetooth Device Up and Running with Updated Drivers (Win10/7/8)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-obtain-and-update-toshiba-dynamo-pad-control-drivers-for-windows-pcs/"><u>How to Easily Obtain & Update Toshiba Dynamo Pad Control Drivers for Windows PCs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-incorporating-side-content-a-filmmakers-guide/"><u>In 2024, Incorporating Side Content A Filmmaker's Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-top-10-places-to-download-inspiring-slideshow-designs/"><u>In 2024, The Ultimate Guide Top 10 Places to Download Inspiring Slideshow Designs</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-8-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 8 Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-quadro-rtx-4000-how-to-download-and-update-your-drivers-easily/"><u>Nvidia Quadro RTX 4000 - How to Download and Update Your Drivers Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-microphone-issues-in-the-oculus-quest-2-headset/"><u>Resolving Microphone Issues in the Oculus Quest 2 Headset</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-endgame-for-subscriptions-ownership-wins/"><u>The Endgame for Subscriptions: Ownership Wins</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-10-road-racers-playlist-for-2024/"><u>Top 10 Road Racers Playlist for 2024</u></a></li>
 </ul></div>
 

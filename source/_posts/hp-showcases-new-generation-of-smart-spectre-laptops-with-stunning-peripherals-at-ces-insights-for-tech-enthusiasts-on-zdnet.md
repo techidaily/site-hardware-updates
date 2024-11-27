@@ -1,7 +1,7 @@
 ---
 title: HP Showcases New Generation of Smart Spectre Laptops with Stunning Peripherals at CES | Insights for Tech Enthusiasts on ZDNET
-date: 2024-11-10T22:44:31.323Z
-updated: 2024-11-17T17:22:50.916Z
+date: 2024-11-21T19:35:01.958Z
+updated: 2024-11-27T17:32:33.339Z
 tags:
   - laptops
 categories:
@@ -32,13 +32,6 @@ Here is a selection of tools and gadgets that I find indispensable when testing,
 * [The best cheap tech gifts under $75](https://www.zdnet.com/home-and-office/kitchen-household/best-cheap-tech-gifts-under-75/)
 * [The best cheap tech gifts under $50](https://www.zdnet.com/home-and-office/best-cheap-tech-gifts-under-50/)
 * [The best cheap tech gifts under $25](https://www.zdnet.com/home-and-office/best-cheap-tech-gifts-under-25/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **The best DIY gift ideas for the holidays**
 
@@ -189,6 +182,10 @@ For peering into those dark crevices, this is the perfect flashlight. Not only i
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FNITECORE-TIP2-Rechargeable-Keychain-Flashlight%2Fdp%2FB07R5VWWQB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6b653e51-f5a8-43a5-a7c7-524a8b0e12e0%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How these products have been chosen?
 
 Everything here has been extensively tested over many weeks and months. 
@@ -200,40 +197,23 @@ When it comes to tools, I look for a number of things:
 * **Cost-effective**: You can pay a LOT of money for tools. While I'm a firm believer is "buy cheap, buy twice," it's possible to overpay for tools (especially big-brand names aimed at professionals). I find that I can get the same quality for a fraction of the price if I shop around.
 * **Usefulness**: I'm wary of buying a tool that I'll only use once. Yes, a laser glass remover would be handy, but it's expensive and not something I'd use a lot.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What do you have against cheap tools?
 
 For many years, I've used screwdrivers that fit badly or would chew screwheads. I've also used pliers that gripped badly, were uncomfortable to use, or ones in which the wirecutter would blunt after a few uses. 
 
 "Buy cheap, buy twice."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can you replace a toolkit with a multitool?
 
 In my experience, no. While multitools have their uses, I find them better suited to occasional or emergency use.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Are all crosshead screws the same?
 
 No. Get the right screwdriver for the fastener. If you're unsure, test the fit before going full power on a screwhead.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The best DIY gifts deals during the holidays
 
@@ -248,6 +228,10 @@ Below are five DIY gifts deals I found happening right now!
 [Mechanics Tool Set, SAE and Metric, 1/2 + 1/4 + 3/8 Drive, 192-Piece - 69% off $205.11 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB01BHJE0J4%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6b653e51-f5a8-43a5-a7c7-524a8b0e12e0%7Cdtp&dtb=1)
 
 [BOSCH 12V Max Cordless 3/8 in. Drill/Driver and 1/4 in. Impact Driver Combo Kit - 48% off $164 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB005GT0IWK%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6b653e51-f5a8-43a5-a7c7-524a8b0e12e0%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best gifts for 2023?
 
@@ -306,7 +290,15 @@ But gifts can come in all shapes and sizes, so we also rounded up the best gifts
 * [The best Android phones you can buy (including a surprise pick)](https://www.zdnet.com/article/best-android-phone/ "The best Android phones you can buy (including a surprise pick)")
 * [The best robot vacuum and mop combos (and if they're worth the money)](https://www.zdnet.com/article/best-robot-vacuum-mop/ "The best robot vacuum and mop combos (and if they're worth the money)")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###   
 
@@ -327,19 +319,21 @@ But gifts can come in all shapes and sizes, so we also rounded up the best gifts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-essentials-of-writing-amazing-end-of-episode-scripts/"><u>[New] 2024 Approved The Essentials of Writing Amazing End-of-Episode Scripts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-remedy-for-warped-gopro-imagery-a-comprehensive-tutorial/"><u>[New] Remedy for Warped GoPro Imagery A Comprehensive Tutorial</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-acquire-high-quality-sounds-for-media-creators-for-2024/"><u>[Updated] Acquire High-Quality Sounds for Media Creators for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-crafting-tomorrows-art-today-the-finest-9-resources-for-3d-typographic-exploration/"><u>[Updated] Crafting Tomorrow's Art Today The Finest 9 Resources for 3D Typographic Exploration</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/disable-mouse-sensitivity-adjustment-a-step-by-step-guide-for-macos-users/"><u>Disable Mouse Sensitivity Adjustment: A Step-by-Step Guide for macOS Users</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/enjoying-effortless-wet-and-dry-book-time-with-the-review-of-kobo-libra-h2o-your-perfect-companion/"><u>Enjoying Effortless Wet & Dry Book Time with the Review of Kobo Libra H2O - Your Perfect Companion!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/from-traditional-to-split-one-users-journey-on-the-road-to-enhanced-comfort-at-their-workstation-cnet/"><u>From Traditional to Split: One User's Journey on the Road to Enhanced Comfort at Their Workstation | CNET</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/how-to-easily-extract-audio-from-videos-without-costs-on-any-gadget-tips-for-2amo/"><u>How To Easily Extract Audio From Videos Without Costs on Any Gadget - Tips for 2Amo</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/microsofts-new-surface-lineup-could-this-be-enough-for-me-to-give-up-my-macbook/"><u>Microsoft's New Surface Lineup: Could This Be Enough for Me to Give Up My MacBook?</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-organize-your-videos-with-ease-top-8-mac-metadata-editors-for-2024/"><u>New Organize Your Videos with Ease Top 8 Mac Metadata Editors for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/smooth-gaming-ahead-death-strandings-crash-woes-resolved-for-pc-users/"><u>Smooth Gaming Ahead: Death Stranding's Crash Woes Resolved for PC Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-metas-top-tier-oct-virtual-reality-offer-with-their-exclusive-512gb-quest-3-at-unbeatable-prices-this-prime-day-insider-info/"><u>Snag Meta's Top-Tier Oct. Virtual Reality Offer With Their Exclusive 512GB Quest 3 at Unbeatable Prices This Prime Day – Insider Info!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-why-this-reliable-ipad-pro-usb-c-hub-stands-out-featured/"><u>The Ultimate Guide: Why This Reliable iPad Pro USB-C Hub Stands Out - Featured</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-hidden-gem-in-asuss-newest-laptop-a-designers-dream/"><u>Unveiling the Hidden Gem in ASUS's Newest Laptop - A Designer’s Dream!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-keeping-up-with-the-screen-capturing-internet-television-online/"><u>2024 Approved Keeping Up With The Screen - Capturing Internet Television Online</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamless-multiplayer-sessions-with-xbox-zoom-support/"><u>2024 Approved Seamless Multiplayer Sessions with Xbox Zoom Support</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-galaxy-z-fold-5-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Galaxy Z Fold 5</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experiencing-lenovos-revolutionary-auto-swivel-design-a-first-look-at-ifa-2024-insights-and-impressions-zdnet-tech/"><u>Experiencing Lenovo's Revolutionary Auto-Swivel Design: A First Look at IFA 2024 - Insights & Impressions | ZDNet Tech</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-vivo-v30-lite-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Vivo V30 Lite 5G</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-gaming-rigs-from-alienware-set-to-dazzle-at-ces-2023-inside-look-and-preview-of-features-digital-trends/"><u>Latest Gaming Rigs From Alienware Set to Dazzle at CES 2023 - Inside Look & Preview of Features | Digital Trends</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/rev-up-your-gameplay-an-exclusive-look-at-dells-premium-300e-laptop-with-unique-perks/"><u>Rev Up Your Gameplay: An Exclusive Look at Dell's Premium $3,00E Laptop with Unique Perks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-a-bargain-with-two-portable-monitors-for-your-laptop-save-120-on-teamgee-today-shopping-tips/"><u>Score a Bargain with Two Portable Monitors for Your Laptop! Save $120 on TeamGee Today Shopping Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/slash-your-costs-with-44-savings-the-ultimate-11-in-1-portable-hub-for-a-neat-workspace-now-on-sale-at-zdnet/"><u>Slash Your Costs with 44% Savings: The Ultimate 11-in-1 Portable Hub for a Neat Workspace - Now on Sale at ZDNet!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-nlra-was-enacted-in-1urt-which-are-the-most-important-things-we-can-learn-from-them/"><u>The NLRA Was Enacted in 1Urt, Which Are the Most Important Things We Can Learn From Them?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-samsung-galaxy-s23plus-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Samsung Galaxy S23+ Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-6-premium-gaming-ssds-compatible-with-pc-playstation-5-and-xbox-expert-review/"><u>Top 6 Premium Gaming SSDs Compatible with PC, PlayStation 5 & Xbox: Expert Review</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ate-mic-for-digital-content-makers/"><u>Ultimate Mic for Digital Content Makers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-touch-screen-laptop-selection-in-depth-analysis-and-recommendations-from-industry-experts-zdnet-insights/"><u>Ultimate Touch Screen Laptop Selection: In-Depth Analysis & Recommendations From Industry Experts | ZDNET Insights</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unleashing-your-cellphones-potential-in-videography/"><u>Unleashing Your Cellphone's Potential in Videography</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/youtube-and-brand-partnership-ventures/"><u>YouTube & Brand Partnership Ventures</u></a></li>
 </ul></div>
 

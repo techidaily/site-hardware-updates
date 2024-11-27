@@ -1,7 +1,7 @@
 ---
 title: "Asus 15 Inch Laptop with Complete Set of Ports: Available for Just $250 at Walmart | Tech News"
-date: 2024-11-15T18:56:00.155Z
-updated: 2024-11-17T21:56:30.440Z
+date: 2024-11-20T16:31:17.407Z
+updated: 2024-11-27T19:44:02.593Z
 tags:
   - laptops
 categories:
@@ -49,6 +49,10 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
@@ -83,31 +87,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-maximizing-youtube-clicks-with-imagery/"><u>[Updated] 2024 Approved Maximizing YouTube Clicks with Imagery</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722960969372-approach-discuss-how-environmental-factors-are-considered-when-creating-a-concrete-mix/"><u>Approach: Discuss How Environmental Factors Are Considered when Creating a Concrete Mix</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-latest-epson-xp-440-printer-driver-with-simple-steps/"><u>Download and Install the Latest Epson XP-440 Printer Driver with Simple Steps</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-honor-90-lite-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Honor 90 Lite</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-11-pro-max-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 11 Pro Max to Samsung | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-vivo-x100-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Vivo X100 to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-fixes-for-your-logitech-c615-headset-drivers-troubleshooting-made-simple/"><u>Quick Fixes for Your Logitech C615 Headset Drivers: Troubleshooting Made Simple</u></a></li>
-<li><a href="https://techtrends.techidaily.com/snagging-memories-the-ultimate-technique-for-screenshots-on-your-ps4/"><u>Snagging Memories: The Ultimate Technique for Screenshots on Your PS4</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-solving-hp-screen-driver-issues-across-multiple-windows-platforms/"><u>Step-by-Step Guide: Solving HP Screen Driver Issues Across Multiple Windows Platforms</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/text-messaging/"><u>Text Messaging</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-oneplus-nord-n30-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in OnePlus Nord N30 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/video-editing-on-a-budget-free-software-for-32-bit-windows/"><u>Video Editing on a Budget Free Software for 32-Bit Windows</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ce-the-art-of-youtube-reactions-3-innovative-approaches-unveiled-for-2024/"><u>[New] Ace the Art of YouTube Reactions - 3 Innovative Approaches Unveiled for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-secret-sauce-for-successful-youtubers-channel-featuring-techniques-for-2024/"><u>[Updated] The Secret Sauce for Successful YouTubers Channel Featuring Techniques for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-unveiling-the-swift-growing-youtube-sources-for-inspiration/"><u>[Updated] Unveiling the Swift-Growing YouTube Sources for Inspiration</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-seamless-dvd-extraction-solutions-for-mac-users-top-picks-and-reviews/"><u>1. Seamless DVD Extraction Solutions for Mac Users: Top Picks & Reviews</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-initial-steps-to-master-the-art-of-pixel-mapping/"><u>2024 Approved Initial Steps to Master the Art of Pixel Mapping</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-gaming-laptop-deals-options-stronger-than-ever-under-150curosn/"><u>Best Gaming Laptop Deals: Options Stronger Than Ever Under $1,50Curosn</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-epson-wf-27n60-driver-software-for-windows-operating-systems-win-11-win-10-win-8/"><u>Compatible Epson WF-27n60 Driver Software for Windows Operating Systems (Win 11, Win 10, Win 8)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dell-wifi-card-software-update-free-access-here/"><u>Dell WiFi Card Software Update: FREE Access Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-new-intel-xe-graphics-software-for-optimal-performance-on-win10win11/"><u>Download New Intel Xe Graphics Software for Optimal Performance on Win10/Win11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/downloading-and-updating-the-brother-mfc-7860dw-drivers-on-your-pc/"><u>Downloading and Updating the Brother MFC-#7860DW Drivers on Your PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-compatibility-with-newest-hp-officejet-pro-8610-drivers-for-windows-operating-systems-win11-win10/"><u>Ensure Compatibility with Newest HP Officejet Pro 8610 Drivers for Windows Operating Systems (Win11, Win10)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-optimal-performance-latest-version-of-corsair-k55-driver-software-available-to-download/"><u>Ensure Optimal Performance: Latest Version of Corsair K55 Driver Software Available to Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-version-of-broadcoms-bluetooth-software-for-windows-1087-users/"><u>Get the Latest Version of Broadcom's Bluetooth Software for Windows 10/8/7 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722967335054-latest-hp-laserjet-pro-1006-driver-software-secure-your-free-copy/"><u>Latest HP LaserJet Pro 1006 Driver Software - Secure Your Free Copy</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-tribes-of-midgard-effective-strategies-to-overcome-game-disruptions-and-crashes/"><u>Mastering 'Tribes of Midgard': Effective Strategies to Overcome Game Disruptions and Crashes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125180330-save-big-with-our-top-pick-the-amazing-eleegoo-neptune-4-pro-now-just-240-at-newegg/"><u>Save Big with Our Top Pick - The Amazing Eleegoo Neptune 4 Pro, Now Just $240 at Newegg</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-ultimate-conversion-guide-youtube-to-igtv/"><u>The Ultimate Conversion Guide YouTube to IGTV</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-connection-errors-authenticating-your-android-device-with-wi-fi/"><u>Troubleshooting Connection Errors: Authenticating Your Android Device with Wi-Fi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-graphics-performance-amd-radeon-rx-5700-xt-drivers-now-available-for-all-windows-os/"><u>Upgrade Graphics Performance: AMD Radeon RX 5700 XT Drivers Now Available for All Windows OS</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

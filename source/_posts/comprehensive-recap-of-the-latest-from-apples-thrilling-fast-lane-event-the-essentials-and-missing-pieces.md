@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Recap of the Latest From Apple's Thrilling 'Fast Lane' Event – The Essentials and Missing Pieces
-date: 2024-11-11T17:54:20.468Z
-updated: 2024-11-17T21:49:50.260Z
+date: 2024-11-25T18:08:21.906Z
+updated: 2024-11-27T17:25:34.858Z
 tags:
   - laptops
 categories:
@@ -40,14 +40,11 @@ For a recap of all the products unveiled during Apple's "Scary Fast" event -- an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## What products did get announced
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## What products did get announced
 
 ## M3 chips in all sizes
 
@@ -69,13 +66,6 @@ Much like the M2 processors that classify Apple's latest Mac computers by perfor
 * M3 Pro: Starting at 12 main processing cores (six performance and six efficiency) and 18 graphics cores
 * M3 Max: Starting at 16 main processing cores (12 performance and four efficiency) and 40 graphics cores, and now supports up to 128GB of unified memory
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. 14-inch and 16-inch MacBook Pro
 
 June Wan/ZDNET
@@ -93,10 +83,7 @@ What hasn't changed is the form factors of the new MacBook Pros, with Liquid Ret
 The 14- and 16-inch MacBook Pros are available for preorder right now, starting at $1,599 and $2,499, respectively, with the M3 and M3 Pro models seeing earlier ship times (as soon as next week), and the M3 Max models being slated for late November.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. iMac with M3
@@ -111,7 +98,15 @@ Apple says the M3 chip allows the new 24-inch iMac to perform at twice the speed
 
 The 24-inch iMac is now available for preorder starting at $1,299 and will begin shipping next week.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What products didn't get announced
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. 13-inch MacBook Pro
 
@@ -124,10 +119,7 @@ It's not unreasonable to assume that it may be the end of the line for Apple's f
 If there was any time for the company to further the gap between its old laptops and the new, Apple's "Scary Fast" event just made the most sense.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Magic Keyboard and Mouse with USB-C
@@ -174,14 +166,18 @@ The keynote presentation began on Monday, Oct. 30, 2023, at 5 p.m. PT (8 p.m. ET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-from-likes-to-leads-a-comprehensive-guide-to-influencer-driven-marketing/"><u>[New] From Likes to Leads A Comprehensive Guide to Influencer-Driven Marketing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722973367724-best-source-to-download-the-newest-intel-hd-graphics-4400-drivers-today/"><u>Best Source to Download the Newest Intel HD Graphics 4400 Drivers Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatible-software-installation-brother-hl-l2380dw-printer-drivers-for-windows-10-and-11/"><u>Compatible Software Installation: Brother HL-L2380DW Printer Drivers for Windows 10 and 11</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/dive-into-advanced-3d-text-creation-in-photosophy-for-2024/"><u>Dive Into Advanced 3D Text Creation in PHOTOSOPHY for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-setup-downloading-lenovo-x220-support-files/"><u>Effortless Setup: Downloading Lenovo X220 Support Files</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/elevate-your-gadgets-knowledge-discover-secrets-with-toms-hardware-guides/"><u>Elevate Your Gadgets Knowledge: Discover Secrets with Tom's Hardware Guides</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/explore-these-seven-sources-for-youtube-sound-effects/"><u>Explore These Seven Sources for YouTube Sound Effects</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Samsung Galaxy S24+? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-smooth-snapshot-mastery-eliminate-shakes/"><u>[Updated] Smooth Snapshot Mastery - Eliminate Shakes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-understanding-and-leveraging-influencers-on-snapchat/"><u>[Updated] Understanding and Leveraging Influencers on Snapchat</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-tp-link-wifi-drivers-for-win1187-80211ac-support/"><u>Download the Newest TP-Link WiFi Drivers for Win11/8/7 - 802.11Ac Support</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-epson-stylus-nx420-up-to-date-windows-7810-driver-downloads-available-now/"><u>Get Your Epson Stylus NX420 Up-to-Date: Windows 7/8/10 Driver Downloads Available Now</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-vivo-y27-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Vivo Y27 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/making-moolah-the-snapchat-way/"><u>Making Moolah The Snapchat Way</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-updating-drivers-on-your-asus-maximus-x-hero-motherboard/"><u>Quick Guide: Updating Drivers on Your ASUS Maximus X Hero Motherboard</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/snag-the-best-screen-grabber-software-in-win10-today-for-2024/"><u>Snag the Best Screen Grabber Software in Win10 Today for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-life-is-strange-true-colors-troubleshooting-the-infamous-game-crash/"><u>Solved: Life Is Strange: True Colors - Troubleshooting the Infamous Game Crash</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solved-pci-device-controller-problems-related-to-encrypting-and-decrypting-data/"><u>Solved: PCI Device Controller Problems Related to Encrypting and Decrypting Data 🛠️✨</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-fix-for-missing-d3dx934dll-errors-on-windows/"><u>Step-by-Step Fix for Missing d3dx9_34.dll Errors on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-resolution-securing-the-latest-updates-for-your-huion-tablets-windows-software/"><u>Step-by-Step Resolution: Securing the Latest Updates for Your Huion Tablet's Windows Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transform-your-media-projects-using-movavis-comprehensive-video-editing-software/"><u>Transform Your Media Projects Using Movavi's Comprehensive Video Editing Software</u></a></li>
 </ul></div>
 

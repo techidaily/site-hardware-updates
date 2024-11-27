@@ -1,7 +1,7 @@
 ---
 title: Discover Promo Prices for High-End IOGEAR Portable Devices Now Available on Amazon – ZDNet Special Report
-date: 2024-11-16T21:01:34.321Z
-updated: 2024-11-17T16:37:31.499Z
+date: 2024-11-25T16:45:38.376Z
+updated: 2024-11-27T18:24:08.416Z
 tags:
   - laptops
 categories:
@@ -26,6 +26,10 @@ With a truly impressive amount of storage space, you'll get read and write speed
 **Read more:** **[SSD vs. HDD: What's the difference, and which should you buy?](https://www.zdnet.com/article/ssd-vs-hdd-whats-the-difference-and-which-should-you-buy/)** 
 
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDJXZ19%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C22d06399-0004-4d5b-b8a9-968236a466e6%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -61,27 +65,18 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-top-6-minecraft-modern-house-ideas/"><u>[New] 2024 Approved Top 6 Minecraft Modern House Ideas</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-elevate-your-content-on-facebook-using-wirecast/"><u>[Updated] Elevate Your Content on Facebook Using Wirecast</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-maker-milestones-subscriber-and-interactive-feature-prizes/"><u>[Updated] In 2024, Maker Milestones Subscriber & Interactive Feature Prizes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-hp-deskjet-2600-printer-drivers-compatible-with-windows-7-8-and-10/"><u>Download HP DeskJet 2600 Printer Drivers: Compatible with Windows 7, 8 & 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-hp-laserjet-pro-mfp-m127fn-printer-drivers-step-by-step-guide/"><u>Download HP LaserJet Pro MFP M127FN Printer Drivers: Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-speakers-up-and-running-on-pcs-free-driver-downloads-for-windows-os/"><u>Get Your Logitech Speakers Up and Running on PCs: Free Driver Downloads for Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-set-up-your-samsung-printer-driver-in-windows/"><u>How to Download and Set Up Your Samsung Printer Driver in Windows</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-beginners-blueprint-for-initiating-instagram-discussions/"><u>In 2024, Beginner's Blueprint for Initiating Instagram Discussions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/keep-your-logitech-m31touch-rolling-the-ultimate-driver-update-tutorial/"><u>Keep Your Logitech M31touch Rolling: The Ultimate Driver Update Tutorial</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ring-macs-green-screen-fix-for-youtube-videos-for-2024/"><u>Mastering Mac's Green Screen Fix for YouTube Videos for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-machines-with-toms-tutorials-innovative-approaches-to-hardware/"><u>Mastering Machines with Tom's Tutorials: Innovative Approaches to Hardware</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-free-mov-video-rotation-software-top-picks/"><u>New In 2024, Free MOV Video Rotation Software Top Picks</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/risoluzione-guidata-dei-difficolta-con-le-carte-daccesso-rapido-in-windows-11-explorer/"><u>Risoluzione Guidata Dei Difficoltà Con Le Carte D'Accesso Rapido in Windows 11 Explorer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-error-1053-non-responsive-service-issue/"><u>Troubleshooting Tips: Resolving 'Error 1053' - Non-Responsive Service Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-resolving-videodxgkrnlcriticalfailures-in-windows-os/"><u>Ultimate Guide to Resolving Video_Dxgkrnl_Critical_Failures in Windows OS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-magnify-marvel-the-ultimate-10-camera-lens-guide/"><u>[New] Magnify Marvel The Ultimate 10 Camera Lens Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-reimagined-sony-bdp-s6700-experience/"><u>[New] The Reimagined Sony BDP-S6700 Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hot-list-todays-youtube-sensations/"><u>[Updated] 2024 Approved Hot List Today's YouTube Sensations</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/1726028969362-5/"><u>「人気のオンラインで使える最高の音声記録ウェブサイト・トップ5」</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-rx-ve-560-driver-fixes-ensuring-compatibility-with-windows-111087-systems/"><u>AMD RX Ve 560 Driver Fixes: Ensuring Compatibility with Windows 11/10/8/7 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-installing-amd-rx-6800-xt-drivers-on-windows-operating-systems-win11-win10-win8-win7/"><u>Complete Guide to Installing AMD RX 6800 XT Drivers on Windows Operating Systems: Win11, Win10, Win8, Win7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-solution-for-realtek-hd-chipset-drives-issues/"><u>Comprehensive Solution for Realtek HD Chipset Drives Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-csr-bluetooth-devices-official-drivers-here/"><u>Get Your CSR Bluetooth Device's Official Drivers Here!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-7-plus-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock iPhone 7 Plus Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-navigating-instagram-the-essential-guide-to-mastering-reels/"><u>In 2024, Navigating Instagram The Essential Guide to Mastering Reels</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-class-on-repairing-logitech-f710-drivers-for-windows-xp-vista-7-8-and-beyond/"><u>Master Class on Repairing Logitech F710 Drivers for Windows XP, Vista, 7, 8, and Beyond</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-to-finding-and-installing-hp-envy-5660-model-drivers/"><u>Quick Guide to Finding and Installing HP Envy 5660 Model Drivers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-ultimate-guide-to-windows-11-gaming-recordings/"><u>The Ultimate Guide to Windows 11 Gaming Recordings</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
