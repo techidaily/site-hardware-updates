@@ -1,7 +1,7 @@
 ---
 title: The Affordable Alternative to MacBook Air - Meet the Laptop That Matches Up | ZDNET Tech Reviews
-date: 2024-11-24T17:27:00.782Z
-updated: 2024-11-27T16:50:41.309Z
+date: 2024-11-30T00:29:33.462Z
+updated: 2024-12-06T19:02:30.201Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -71,7 +71,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 The Zephyrus G14 has one other major downside, besides its heating issue. The laptop comes with a lot of bloatware. The SSD is packed with several forgettable apps. Granted, some are useful. Armoury Crate controls the RGB lights and GeForce Experience manages your library of games. The onboard assistant? Not so much. At least, I didn't find myself looking for it. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's buying advice
@@ -114,24 +114,24 @@ The Zephyrus G14 starts at $1,600\. My review unit in particular costs $1,900, w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-digital-rehearsal-mastery-in-recording-streaming-audio/"><u>[New] In 2024, Digital Rehearsal Mastery in Recording Streaming Audio</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-soaring-in-high-definition-an-in-depth-xiaomi-analysis/"><u>[Updated] 2024 Approved Soaring in High Definition An In-Depth Xiaomi Analysis</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimal-variety-premium-webcam-stands-and-mounts/"><u>2024 Approved Optimal Variety Premium Webcam Stands & Mounts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-ranked-ai-enhanced-image-maker/"><u>2024 Approved Top-Ranked AI Enhanced Image Maker</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/a-step-by-step-guide-to-updating-photos-and-videos-on-instagram/"><u>A Step-by-Step Guide to Updating Photos and Videos on Instagram</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-california-drivers-can-link-their-id-cards-to-app-store-and-chrome-pay-with-easy-steps/"><u>How California Drivers Can Link Their ID Cards to App Store and Chrome Pay with Easy Steps</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-asus-rog-phone-8-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Asus ROG Phone 8 Pro in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-motorola-moto-g-5g-2023-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Motorola Moto G 5G (2023) Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-past-fatal-error-code-0x800f0831-with-ease/"><u>Navigating Past Fatal Error Code 0X800f0831 with Ease</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-complexities-of-computer-components-at-toms-tech-forum/"><u>Navigating the Complexities of Computer Components at Tom’s Tech Forum</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/qualcomms-revolutionary-chips-in-laptops-how-the-snapdragon-x-series-powers-dell-xps-13-plus-with-extended-battery-life-at-half-price-of-intel-models/"><u>Qualcomm's Revolutionary Chips in Laptops: How the Snapdragon X Series Powers Dell XPS 13 Plus with Extended Battery Life at Half Price of Intel Models</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/scented-computing-redefined-by-asus-with-the-introduction-of-their-sweet-smelling-adol-book-laptop/"><u>Scented Computing Redefined by Asus with the Introduction of Their Sweet-Smelling Adol Book Laptop</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/score-a-bargain-16-inch-macbook-pro-w-m3-chip-at-discounted-prices-pre-prime-day/"><u>Score a Bargain: 16-Inch MacBook Pro W/ M3 Chip at Discounted Prices Pre-Prime Day</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/step-up-your-game-expert-tips-on-producing-compelling-slow-motion-photos-and-videos-for-instagram-for-2024/"><u>Step Up Your Game Expert Tips on Producing Compelling Slow Motion Photos and Videos for Instagram for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-in-depth-analysis-of-the-latest-hardware/"><u>Tom's Tech Reviews: In-Depth Analysis of the Latest Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Reviews: The Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-comprehensive-hardware-reviews-and-advice/"><u>Tom's Tech: Comprehensive Hardware Reviews and Advice</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-picks-for-your-tech-needs-curated-by-toms-wisdom/"><u>Top Picks for Your Tech Needs Curated by Tom's Wisdom</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-tech-picks-and-analysis-straight-from-toms-hardware-hub/"><u>Top Tech Picks and Analysis Straight From Tom's Hardware Hub</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/trategies-for-editing-and-elevating-youtube-profiles/"><u>[New] Strategies for Editing and Elevating YouTube Profiles</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-screen-saver-successes-a-video-showcase-evaluation/"><u>[Updated] Screen Saver Successes - A Video Showcase Evaluation</u></a></li>
+<li><a href="https://win11.techidaily.com/7-ways-to-fix-a-mouse-wheel-that-keeps-zooming-instead-of-scrolling-on-windows/"><u>7 Ways to Fix a Mouse Wheel That Keeps Zooming Instead of Scrolling on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-week-with-an-ergo-split-keyboard-how-one-change-ruined-my-tech-habits-insights/"><u>A Week with an Ergo-Split Keyboard: How One Change Ruined My Tech Habits - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-multipurpose-dock-experience-enhanced-connectivity-with-two-4k-hdmi-outputs-for-just-49-top-pick/"><u>Affordable Multipurpose Dock: Experience Enhanced Connectivity with Two 4K HDMI Outputs for Just $49 – Top Pick !</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-value-meta-quest-3-launches-with-512gb-storage-top-pick-for-october-prime-day-gaming-bargains-zdnet/"><u>Best Value Meta Quest 3 Launches with 512GB Storage: Top Pick for October Prime Day Gaming Bargains - ZDNet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/capturing-content-in-the-digital-age-top-strategies/"><u>Capturing Content in the Digital Age Top Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comment-reussir-la-conversion-video-sur-instagram-les-techniques-et-les-applications-a-privilegier/"><u>Comment Réussir La Conversion Vidéo Sur Instagram : Les Techniques Et Les Applications À Privilégier</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-solving-no-audio-when-connecting-your-pc-to-a-television-using-an-hdmi-cable/"><u>Expert Tips for Solving No Audio When Connecting Your PC to a Television Using an HDMI Cable</u></a></li>
+<li><a href="https://win-answers.techidaily.com/grand-theft-auto-v-optimization-complete-no-more-frame-drops-or-lags/"><u>Grand Theft Auto V Optimization Complete: No More Frame Drops or Lags</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-update-your-canon-mg3600-printer-with-the-latest-drivers/"><u>How to Update Your Canon MG3600 Printer with the Latest Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/last-minute-opportunity-top-october-prime-day-202/"><u>Last-Minute Opportunity: Top October Prime Day 202</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-savings-during-amazons-prime-day-2023-exclusive-access-to-octobers-greatest-deals-available-now-zdnet-news/"><u>Maximize Savings During Amazon's Prime Day 2023: Exclusive Access to October's Greatest Deals Available Now | ZDNet News</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/microsofts-latest-innovations-revealed-at-the-annual-surface-and-ai-showcase-highlights-from-this-week/"><u>Microsoft's Latest Innovations Revealed at the Annual Surface and AI Showcase: Highlights From This Week</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/preeminent-6-social-media-sites-favored-by-professionals-for-2024/"><u>Preeminent 6 Social Media Sites Favored by Professionals for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-hp-victus-15-gaming-notebook-at-an-unbeatable-price-of-just-515-during-best-buys-prime-day-event-exclusive-offer-from-zdnet/"><u>Snag the HP Victus 15 Gaming Notebook at an Unbeatable Price of Just $515 During Best Buy's Prime Day Event - Exclusive Offer From ZDNet!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-12-unique-presents-perfect-for-any-hackers-sweet-tooth-recommendations/"><u>Top 12 Unique Presents Perfect for Any Hacker's Sweet Tooth: Recommendations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-exclusive-savings-score-a-complimentary-macbook-air-m3-from-best-buy-with-this-clever-hack-zdnet/"><u>Unlock Exclusive Savings: Score a Complimentary MacBook Air M3 From Best Buy with This Clever Hack | ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/utilizing-chatgpt-strategies-for-securing-your-ideal-employment/"><u>Utilizing ChatGPT: Strategies for Securing Your Ideal Employment</u></a></li>
 </ul></div>
 

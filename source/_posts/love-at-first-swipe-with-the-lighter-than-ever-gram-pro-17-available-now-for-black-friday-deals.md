@@ -1,7 +1,7 @@
 ---
 title: Love at First Swipe with the Lighter-Than-Ever Gram Pro 17 - Available Now for Black Friday Deals!
-date: 2024-11-22T18:43:03.449Z
-updated: 2024-11-27T19:27:03.056Z
+date: 2024-11-30T21:21:37.880Z
+updated: 2024-12-07T00:12:03.297Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,18 +87,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-a-filmmakers-guide-seamless-editing-and-uploading-360-degree-footage-for-youtube/"><u>[New] 2024 Approved A Filmmaker's Guide Seamless Editing & Uploading 360-Degree Footage for YouTube</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-capture-every-moment-the-power-of-spring-screenrecorder/"><u>[Updated] 2024 Approved Capture Every Moment - The Power of Spring ScreenRecorder</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-import-melodies-into-premiere-pro-projects/"><u>[Updated] 2024 Approved Import Melodies Into Premiere Pro Projects</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/aiff-wav-seo/"><u>AIFF WAVフリーレンダラの使い方：データ無失われ変換手順 - 最適SEO表示方法</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-your-home-movies-from-dvds-to-online-storage-platforms-like-google-drive-and-icloud/"><u>How to Transfer Your Home Movies From DVDs to Online Storage Platforms Like Google Drive & iCloud</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone 11 Pro Max</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/score-a-budget-friendly-rtx-4060-gaming-machine-with-msis-bravo-deals-below-1k/"><u>Score a Budget-Friendly RTX 4060 Gaming Machine with MSI's Bravo - Deals Below $1K!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/tech-enthusiasts-intrigued-by-newly-teased-gpd-laptop-with-dual-oled-displays-vs-asus-zenbook-duo/"><u>Tech Enthusiasts Intrigued by Newly Teased GPD Laptop with Dual OLED Displays vs ASUS ZenBook Duo</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/tech-leap-forward-the-latest-in-high-performance-laptops-with-intel-core-ultra-and-amd-ryzen-7040-processors/"><u>Tech Leap Forward: The Latest in High-Performance Laptops with Intel Core Ultra and AMD Ryzen 7040 Processors</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-dell-xps-13-9345-analyzed-timeless-elegance-combines-with-next-gen-snapdragon-x-elite-technology/"><u>The Dell XPS 13 (9345) Analyzed: Timeless Elegance Combines with Next-Gen Snapdragon X Elite Technology</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-verdict-on-the-latest-microsoft-surface-pro-impressive-looks-overshadowed-by-lackluster-artificial-intelligence-features/"><u>The Verdict on the Latest Microsoft Surface Pro: Impressive Looks Overshadowed by Lackluster Artificial Intelligence Features</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-expert-reviews-and-comprehensive-guides/"><u>Tom's Tech Insights: Expert Reviews and Comprehensive Guides</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-galaxy-xcover-7-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Galaxy XCover 7.</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-essential-virtual-reality-cinema-experiences/"><u>[New] 2024 Approved Essential Virtual Reality Cinema Experiences</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-androids-facetime-essentials-explained-for-2024/"><u>[New] Android's FaceTime Essentials Explained for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-an-in-depth-look-at-wirecast-and-what-it-offers/"><u>[New] In 2024, An In-Depth Look at WireCast and What It Offers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-streamline-your-screen-time-step-by-step-towards-a-well-curated-playlist/"><u>[New] In 2024, Streamline Your Screen Time Step-by-Step Towards a Well-Curated Playlist</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/online-qt-mp3/"><u>「無償で行けるOnline QT MP3ファイル変換サービス - ムヴァヴィ」</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-high-performance-laptops-for-serious-gamers-in-202-comparing-elite-models-from-razer-acer-msi-and-beyond-insights/"><u>Best High-Performance Laptops for Serious Gamers in 202# Comparing Elite Models From Razer, Acer, MSI, and Beyond | Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boosting-laptop-longevity-expert-tips-for-enhancing-battery-performance-on-windows-devices-insights/"><u>Boosting Laptop Longevity: Expert Tips for Enhancing Battery Performance on Windows Devices - Insights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-samsung-galaxy-s23-fe-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-apples-affordable-excellence-m2-macbook-air-at-just-749-during-amazons-prime-day-event-insights/"><u>Experience Apple's Affordable Excellence: M2 MacBook Air at Just $749 During Amazon's Prime Day Event – Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-next-level-gaming-how-dells-premium-3k-laptop-upgraded-my-expectations-with-innovative-tech/"><u>Experience Next-Level Gaming: How Dell's Premium $3K Laptop Upgraded My Expectations with Innovative Tech</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-next-level-vr-with-metas-latest-deal-on-the-512gb-quest-3-a-must-have-sale-today-as-featured/"><u>Experience Next-Level VR with Meta's Latest Deal on the 512GB Quest 3 – A Must-Have Sale Today as Featured !</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-for-maintaining-a-fresh-look-on-your-macbook-pro-a-guide/"><u>Expert Tips for Maintaining a Fresh Look on Your MacBook Pro: A Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/gamers-rejoice-discover-the-best-sound-experience-with-60-off-premium-speakers-at-amazon-exclusive-testing-review/"><u>Gamers Rejoice! Discover the Best Sound Experience with 60% Off Premium Speakers at Amazon – Exclusive Testing Review</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-cultivating-growth-selecting-the-right-co-stars-for-youtube/"><u>In 2024, Cultivating Growth Selecting the Right Co-Stars for YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-color-management-in-windows-systems/"><u>Mastering Color Management in Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/msis-high-performance-gaming-display-now-huge-sale-save-nearly-300-on-newegg-exclusive-report/"><u>MSI's High-Performance Gaming Display Now Huge Sale: Save Nearly $300 on Newegg - Exclusive Report</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-non-flagship-samsung-tablet-deal-exceptional-performance-at-discounted-price-this-labor-day-insider-review-by-zdnet/"><u>Top Non-Flagship Samsung Tablet Deal: Exceptional Performance at Discounted Price This Labor Day - Insider Review by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-value-dive-into-metas-latest-offer-with-the-512gb-oculus-quest-3-top-pick-for-vr-enthusiasts-on-todays-market-techradar/"><u>Unbeatable Value: Dive Into Meta's Latest Offer with the 512GB Oculus Quest 3 - Top Pick for VR Enthusiasts on Today's Market | TechRadar</u></a></li>
 </ul></div>
 

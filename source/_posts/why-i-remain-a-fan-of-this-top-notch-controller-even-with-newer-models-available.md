@@ -1,7 +1,7 @@
 ---
 title: Why I Remain a Fan of This Top-Notch Controller Even With Newer Models Available
-date: 2024-08-28T01:58:44.710Z
-updated: 2024-08-29T01:58:44.710Z
+date: 2024-12-06T01:09:23.524Z
+updated: 2024-12-06T18:01:58.220Z
 tags:
   - hardware
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 * [A Rechargeable Battery That Can Be Replaced With AAs](https://mondly-stories.techidaily.com/career-advantages-with-cognition-the-top-4-reasons-to-learn-languages-later-in-life/)
 * [Make the Controller Your Own](https://on-screen-recording.techidaily.com/updated-top-5-alternatives-to-bandicam-for-pro-mac-users/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The 8BitDo Pro 2 controller looks great and is comfortable to hold during any style of game.
@@ -26,6 +30,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 * The Pro 2 comes with a rechargeable battery but provides the option to swap in AA batteries in a pinch.
 
  Sure, you can play games using only your phone or a keyboard and mouse, but you'll get the most out of your games with a dedicated controller. The question is, which one do you choose? I'm here to tell you that the [8BitDo Pro 2](https://www.8bitdo.com/pro2/) controller is, hands down, the best controller you can buy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  A Controller That James Bond Would Use
 
@@ -42,8 +50,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![Shoulder buttons on the 8BitDo Pro 2 controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/1000080700.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Bertel King / How-To Geek
 
  A controller first modeled after the Super Nintendo gamepad is going to work very well for 2D retro games. Whether you're emulating older titles or playing modern games like _Coromon_ or _Dead Cells_, the controller will serve you just fine.
@@ -54,20 +63,14 @@ Bertel King / How-To Geek
 
  But if you want to choose a controller layout that suits the widest range of games, this is the way to go.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  It Pairs With (Almost) Everything
 
 ![Input switch on the 8BitDo Pro 2 controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/1000080697.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Bertel King / How-To Geek
 
  You would be forgiven for thinking that any Bluetooth controller pairs with any Bluetooth-compatible device. That's not the case. Connecting either an Xbox or PlayStation controller to a Nintendo Switch requires an adapter. Some newer controllers don't work with older mobile games. It can be an exercise in trial and error.
@@ -83,16 +86,10 @@ Bertel King / How-To Geek
 
  The regular Pro 2 controller doesn't connect to Microsoft's game console, but there is a separate [wired Pro 2 made specifically for the Xbox](https://www.8bitdo.com/pro2-wired-controller-for-xbox/). Unfortunately, there isn't any type of PlayStation compatibility.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  A Rechargeable Battery That Can Be Replaced With AAs
 
 ![8BitDo Pro 2 controller with battery cover removed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/1000080699.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 Bertel King / How-To Geek
 
  Early wireless controllers used disposable batteries. This meant you needed to have a stockpile handy, and your gaming session could come to an abrupt end if you didn't.
@@ -104,8 +101,9 @@ Bertel King / How-To Geek
  The Pro 2 comes with a rechargeable pack (that looks like two AAs strapped together) which you can recharge simply by plugging a charger into the controller's USB-C port. You never have to pop off the battery cover if you don't want to, but the option is there for people who want it or to extend the controller's life when the battery pack eventually dies. Like an old WiiMote, the Pro 2 is a controller you can expect to stand the test of time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Make the Controller Your Own
 
 Close 
@@ -128,8 +126,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +133,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-key-steps-to-tag-your-youtube-video-effectively/"><u>[New] 2024 Approved Key Steps to Tag Your YouTube Video Effectively</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-winning-art-tools-comparison-chart-free-and-paid-apps/"><u>[New] 2024 Approved Winning Art Tools Comparison Chart FREE & PAID Apps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-youtube-shorts-what-it-all-means-for-2024/"><u>[Updated] Unveiling YouTube Shorts What It All Means for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/amplify-your-minecraft-experience-five-simple-techniques/"><u>Amplify Your Minecraft Experience Five Simple Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-the-latest-chromeos-enhancement-with-windows-11-integration-on-chromebooks-detailed-review-by-zdnet/"><u>Explore the Latest ChromeOS Enhancement with Windows 11 Integration on Chromebooks | Detailed Review by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-microsofts-new-frontier-in-technology-the-intelligent-surface-pro-10-and-ai-powered-laptop-6-unveiled-exclusive-details-by-zdnet/"><u>Exploring Microsoft's New Frontier in Technology: The Intelligent Surface Pro 10 and AI-Powered Laptop 6 Unveiled | Exclusive Details by ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-photo-visionaries-guide-unveiling-the-best-6-high-res-cameras/"><u>In 2024, Photo Visionaries Guide Unveiling the Best 6 High-Res Cameras</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/live-the-microsoft-surface-and-windows-artificial-intelligence-unveiling-zdnet-insights-and-anticipated-innovations/"><u>Live the Microsoft Surface & Windows Artificial Intelligence Unveiling - ZDNet: Insights & Anticipated Innovations</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mp4-explained-understanding-and-accessing-video-formats-effortlessly/"><u>MP4 Explained: Understanding and Accessing Video Formats Effortlessly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-98-unmissable-cyber-monday-bargains-of-2022-a-comprehensive-guide-by-zdnet/"><u>Top 98 Unmissable Cyber Monday Bargains of 2022 - A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultima-designs-analysis-pinnacle-suite-studio-2023-overview-for-2024/"><u>Ultima Designs Analysis Pinnacle Suite Studio, 2023 Overview for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Savings on Top-Rated Gaming Speaker System, Up to 60%% Off at Amazon | ZDNET News
-date: 2024-11-20T20:24:56.724Z
-updated: 2024-11-27T20:01:49.083Z
+date: 2024-12-05T21:03:32.591Z
+updated: 2024-12-06T16:33:21.997Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -75,7 +75,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -87,7 +87,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -124,21 +124,16 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-5-ways-to-record-audio-on-windows-10/"><u>[New] 2024 Approved 5 Ways to Record Audio on Windows 10</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-ultimate-vr-clarity-achieved/"><u>2024 Approved Ultimate VR Clarity Achieved</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/buy-these-three-new-apple-devices-announced-at-wwdc-today-plus-your-guide-on-how-and-where-to-pre-order-them-tech-insights-by-zdnet/"><u>Buy These Three New Apple Devices Announced at WWDC Today - Plus, Your Guide on How and Where to Pre-Order Them | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-newest-dolby-sound-drivers-for-windows-11-10-and-81-now-available/"><u>Download the Newest Dolby Sound Drivers for Windows 11, 10, and 8.1 - Now Available</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ce-creativity-on-a-budget-pick-from-these-8-zero-price-edits/"><u>Enhance Creativity on a Budget Pick From These 8 Zero Price Edits</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/game-on-top-10plus-websites-for-free-game-downloads/"><u>Game On! Top 10+ Websites for Free Game Downloads</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-free-focusrite-scarlett-2i4-audio-driver-for-windows-pcs-now/"><u>Get Your Free Focusrite Scarlett 2I4 Audio Driver for Windows PCs Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-secure-the-latest-drivers-for-your-epson-xp-245-printer-compatibility-with-windows-os-7-8-and-10/"><u>How to Secure the Latest Drivers for Your Epson XP-245 Printer: Compatibility with Windows OS 7, 8 & 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722978092784-hp-sound-system-issues-corrected-for-windows-1187-users-easy-solutions-inside/"><u>HP Sound System Issues Corrected for Windows 11/8/7 Users – Easy Solutions Inside</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-guide-to-downloading-and-setting-up-your-brother-l2absolutely-here-are-five-new-seo-friendly-titles-similar-to-brother-mfc-l2700dw-driver-download-and300/"><u>Quick Guide To Downloading And Setting Up Your Brother L2absolutely! Here Are Five New SEO-Friendly Titles Similar to Brother MFC-L2700DW Driver Download & Install for Windows:</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/speedily-enhancing-performance-a-guide-to-easy-driver-refreshes-on-dell-inspiron-7001/"><u>Speedily Enhancing Performance: A Guide to Easy Driver Refreshes on Dell Inspiron 7001</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/strategies-for-capturing-high-quality-periscope-broadcasts/"><u>Strategies for Capturing High-Quality Periscope Broadcasts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-appeals-process-in-litigation-allows-for-higher-courts-to-review-decisions-there-is-no-appeal-in-binding-arbitration-unless-there-is-evidence-of-fraud-o292/"><u>The Appeals Process in Litigation Allows for Higher Courts to Review Decisions; There Is No Appeal in Binding Arbitration Unless There Is Evidence of Fraud or a Gross Mistake</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-or-reinstall-logitech-hd-webcam-c270-driver-for-optimal-performance-on-windows-11/"><u>Update or Reinstall Logitech HD Webcam C270 Driver for Optimal Performance on Windows 11</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-swapping-sounds-in-media-files-an-in-depth-tutorial-for-seamless-edits/"><u>Updated 2024 Approved Swapping Sounds in Media Files An In-Depth Tutorial for Seamless Edits</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-7-freezes-hangs-or-locks-up-randomly-solved/"><u>Windows 7 Freezes, Hangs or Locks Up Randomly [Solved]</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-top-7-best-fmovie-alternatives2023-updates/"><u>[New] 2024 Approved Top 7 Best Fmovie Alternatives[2023 Updates]</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-expert-tips-on-softening-volume-in-logic-pro-mixes/"><u>[New] Expert Tips on Softening Volume in Logic Pro Mixes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-ranked-10-best-low-cost-user-friendly-passport-photo-services/"><u>[New] Ranked 10 Best Low-Cost, User-Friendly Passport Photo Services</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-surveying-the-lack-of-diversity-s-vr-realm-for-2024/"><u>[New] Surveying the Lack of Diversity 'S VR Realm for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722955740258-boost-your-msi-gs65-experience-free-download-of-optimized-windows-drivers-here/"><u>Boost Your MSI GS65 Experience - Free Download of Optimized Windows Drivers Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fast-and-simple-driver-update-for-your-acer-predator-xb271h-display/"><u>Fast & Simple Driver Update for Your Acer Predator XB271H Display</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fast-and-simple-guide-downloading-dell-latitude-e6420-device-drivers/"><u>Fast and Simple Guide: Downloading Dell Latitude E6420 Device Drivers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>How to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-channel-upgrade-plans-standard-studio-or-beta-revolution/"><u>In 2024, Channel Upgrade Plans Standard Studio or Beta Revolution</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keep-your-data-analysis-tools-updated-download-and-update-sas-driver-in-windows-10-or-older-versions/"><u>Keep Your Data Analysis Tools Updated - Download & Update SAS Driver in Windows 10 or Older Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-securing-fresh-updates-and-downloads-for-your-amd-ati-radeon-hd-3450/"><u>Ultimate Guide: Securing Fresh Updates & Downloads for Your AMD ATI Radeon HD 3450</u></a></li>
 </ul></div>
 

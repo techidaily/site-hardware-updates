@@ -1,7 +1,7 @@
 ---
 title: "Unraveling USB Varieties: A Deep Dive Into Their Types and Purposes"
-date: 2024-08-28T01:57:44.298Z
-updated: 2024-08-29T01:57:44.298Z
+date: 2024-11-29T21:25:03.441Z
+updated: 2024-12-06T17:39:12.804Z
 tags:
   - hardware
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 ---
 
 ## Unraveling USB Varieties: A Deep Dive Into Their Types and Purposes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -37,8 +41,9 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 [USB-A](https://vp-tips.techidaily.com/updated-in-2024-exploring-the-full-features-sony-fdr-x1000-model/), or USB Type A, is the original flat and rectangular connector that no one could ever figure out how to plug in correctly the first time. These cables always have USB-A on one end with a different [port type](https://youtube-sure.techidaily.com/24-top-youtube-spotlight-key-influences-on-your-viewership-position/) on the other, and can be used for device charging and data transfer. USB-A is still widely used and can be found on devices like computers, gaming consoles, TVs, and all kinds of peripherals.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  USB-B
 
 ![Universal Serial Bus (USB) 3.0 type B connector isolated on white.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_527683615.jpg) 
@@ -47,26 +52,25 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 
  USB-B is pretty much only used on large devices, like scanners or printers. Visually, this connector looks almost square. Most of these are USB-B to USB-A cables, though some newer devices have moved on from USB-B to smaller options, like Micro-USB or Mini-USB.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Micro-USB
 
 ![Micro USB on white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_441139267.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 [piya kunkayan / Shutterstock](https://www.shutterstock.com/image-photo/micro-usb-on-white-background-441139267)
 
  Micro-USB was the standard a while back for certain portable devices, like Android tablets and smartphones because it can transfer data and provide charge. It comes in both Type-A Micro and Type-B Micro flavors, and is smaller than USB-A. Some manufacturers still opt for using Micro-USB parts for their devices, as they're less costly than those for USB-C.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Mini-USB
 
 ![Mini USB plug, cable seen in close-up on white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_2419872495.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [IH82 / Shutterstock.com](https://www.shutterstock.com/image-photo/mini-usb-plug-cable-seen-close-2419872495)
 
@@ -76,9 +80,6 @@ thumbnail: https://thmb.techidaily.com/8defa02626cc56415dc50f7d54a716fd558d3dd72
 
 ![The USB C plug on the Satechi USB C 2.5 Gigabit Ethernet Adapter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53398648272_e6e75bf794_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  This is the current standard, and it marries power and data delivery with display connectivity. [USB-C](https://screen-activity-recording.techidaily.com/navigating-lenovo-screen-capture-tools-effortlessly/) is what you'll see on most new devices like smartphones, game controllers, earbud cases, [microphones](https://www.reviewgeek.com/47538/6-excellent-usb-microphones-small-enough-to-toss-in-your-laptop-bag/), and laptops. Its form factor is small, oblong, and reversible, so it can be plugged in either way (take that, USB-A). The port's 100-watt connection makes it perfectly suited for fast charging and data transfers, even with larger devices.
@@ -87,16 +88,10 @@ Sergio Rodriguez / How-To Geek
 
  As manufacturers continue to release new products with ports other than USB-C (looking at you, Apple), we aren't yet able to live in a single-cable society. But we're getting there, and we may eventually be freed from the burden of lugging around multiple cords.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Lightning
 
 ![shutterstock_1932371783](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_1932371783.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [108photo / Shutterstock](https://www.shutterstock.com/image-photo/currently-there-3-types-cable-charging-1932371783)
 
  Technically, Lightning is not USB, but rather Apple's proprietary connector type that works similarly to USB. You can see it on Apple's devices, like the iPad and iPhone. It's similar to USB-C in that it is reversible. It supports speeds similar to USB 3.0.
@@ -110,8 +105,9 @@ Sergio Rodriguez / How-To Geek
 ![An external SSD connected to a laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53614790673_96282e6bce_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The first, [USB 1.x](https://vp-tips.techidaily.com/brighten-your-surroundings-with-21plus-collage-wonders-for-2024/), is old and incredibly slow, and can only move 1.5 Mbps. Your odds of finding a device in the wild still on 1.0 are slim to none. The slightly less old (and comfortably slow) USB 2.0, however, is still relatively common. 2.0 has a full-speed option that can handle 12 Mbps, and a high-speed version that can handle 480 Mbps. That's plenty for a lot of peripherals you probably use with your computer, which is why [many PCs still come with USB 2.0 ports](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-nokia-c12-pro-phones-by-drfone-android/). In comparison, SuperSpeed USB 3.x can transfer data between 5 to 20 Gbps.
@@ -119,6 +115,10 @@ Jerome Thomas / How-To Geek
  The latest entries, USB 4.0, [Thunderbolt 3, and Thunderbolt 4](https://buynow-help.techidaily.com/the-definitive-guide-to-the-elite-samsung-galaxy-tab-s7plus-and-its-unmatched-android-performance/), are where you'll find the highest data transfer speeds: a maximum capable throughput of 40 Gbps. Thunderbolt is another transfer speed standard used in some USB-C cables—all Thunderbolt 3 and 4 cables are USB-C, but [not all USB-C cables are Thunderbolt](https://extra-support.techidaily.com/new-safest-drone-selections-5-great-options-for-young-ones/). So if Thunderbolt is what you're after, you'll need to make sure that's part of the cable you're buying.
 
  These super-high transfer rates are impressive, but they don't matter much if you aren't regularly transferring hundreds of GB of data or doing something wild like editing video on an [external hard drive](https://instagram-videos.techidaily.com/new-understanding-and-executing-photo-gender-modification-across-platforms-for-2024/). If you are, however, you'll want at least Thunderbolt 3.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Power Delivery Will Vary
 
@@ -131,6 +131,10 @@ Jerome Thomas / How-To Geek
 ##  Future-Proof With Video Delivery
 
 ![Plugable Thunderbolt 4 set up on a desk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53297961788_658d0b8238_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -148,8 +152,6 @@ Sergio Rodriguez / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +159,24 @@ Sergio Rodriguez / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-ae-text-preset-collection-the-best-of-both-worlds/"><u>[Updated] 2024 Approved AE Text Preset Collection The Best of Both Worlds</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-future-is-now-leveraging-10-innovative-igtv-strategies-to-elevate-your-brand/"><u>[Updated] In 2024, The Future Is Now Leveraging 10 Innovative IGTV Strategies to Elevate Your Brand</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-week-with-an-ergo-split-keyboard-how-one-change-ruined-my-tech-habits-insights/"><u>A Week with an Ergo-Split Keyboard: How One Change Ruined My Tech Habits - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-why-samsungs-latest-copilotplus-notebook-is-a-top-choice-for-budget-friendly-windows-upgrades-insights-review/"><u>Discover Why Samsung's Latest Copilot+ Notebook Is a Top Choice for Budget-Friendly Windows Upgrades – Insights Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-when-your-yahoo-mail-isnt-getting-new-messages/"><u>Effective Solutions When Your Yahoo Mail Isn't Getting New Messages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-writing-workflow-with-8-advanced-ai-tools/"><u>Elevate Writing Workflow with 8 Advanced AI Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-deal-save-200-on-apples-newest-m3-macbook-pro-at-amazons-spectacular-spring-clearance-insights/"><u>Exclusive Deal: Save $200 on Apple's Newest M3 MacBook Pro at Amazon's Spectacular Spring Clearance - Insights</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y17s-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y17s Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-honor-x9b-frp-bypass-by-drfone-android/"><u>In 2024, About Honor X9b FRP Bypass</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lgs-revolutionary-gram-pro-outshines-apples-macbook-air-across-three-key-aspects-a-deep-dive-techreview/"><u>LG's Revolutionary Gram Pro Outshines Apple's MacBook Air Across Three Key Aspects: A Deep Dive - TechReview</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-savings-during-amazons-prime-day-2023-exclusive-access-to-octobers-greatest-deals-available-now-zdnet-news/"><u>Maximize Savings During Amazon's Prime Day 2023: Exclusive Access to October's Greatest Deals Available Now | ZDNet News</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-hp-victus-15-gaming-notebook-at-an-unbeatable-price-of-just-515-during-best-buys-prime-day-event-exclusive-offer-from-zdnet/"><u>Snag the HP Victus 15 Gaming Notebook at an Unbeatable Price of Just $515 During Best Buy's Prime Day Event - Exclusive Offer From ZDNet!</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-issue-why-does-my-overwatch-2-continuously-crash-on-pc/"><u>Solving the Issue: Why Does My Overwatch 2 Continuously Crash on PC?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-prime-day-video-game-discounts-of-october-2024-exclusive-sneak-peek-on-zdnet/"><u>Top Prime Day Video Game Discounts of October 2024 - Exclusive Sneak Peek on ZDNet</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-guide-connecting-and-reflecting-your-mac-display-onto-the-tv/"><u>Ultimate Guide: Connecting & Reflecting Your Mac Display Onto the TV</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ultimate-software-guide-for-tempo-alteration-for-2024/"><u>Ultimate Software Guide for Tempo Alteration for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-exclusive-savings-score-a-complimentary-macbook-air-m3-from-best-buy-with-this-clever-hack-zdnet/"><u>Unlock Exclusive Savings: Score a Complimentary MacBook Air M3 From Best Buy with This Clever Hack | ZDNet</u></a></li>
+</ul></div>
 

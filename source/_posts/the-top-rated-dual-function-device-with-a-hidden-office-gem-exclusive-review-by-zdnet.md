@@ -1,7 +1,7 @@
 ---
 title: "The Top-Rated Dual-Function Device with a Hidden Office Gem: Exclusive Review by ZDNet"
-date: 2024-11-24T20:10:56.855Z
-updated: 2024-11-27T19:10:44.751Z
+date: 2024-12-04T00:50:31.057Z
+updated: 2024-12-07T02:30:39.299Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -81,7 +81,7 @@ Alongside them are a pair of discrete microphones capable of picking out the fin
 So the high visual resolution, combined with the powerful audio system and recording features, make the HP Elitebook x360 one of the better laptops out there for on-the-go video calls.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -120,19 +120,22 @@ For more traditional users, I'd recommend the [Acer Swift 14](https://shop-links
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-ideal-screen-capture-device-for-effective-video-sharing/"><u>[Updated] In 2024, Ideal Screen Capture Device for Effective Video Sharing</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-pro-tips-effortless-capture-of-hulu-videos-across-windowsmaciphone/"><u>[Updated] In 2024, Pro Tips Effortless Capture of Hulu Videos Across Windows/Mac/iPhone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-perfect-video-demos-in-adobe-captivate/"><u>[Updated] Perfect Video Demos in Adobe Captivate</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtubes-monetization-a-deep-dive/"><u>[Updated] YouTube's Monetization A Deep Dive</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-step-by-step-method-instagram-collage-wonders/"><u>2024 Approved A Step-by-Step Method Instagram Collage Wonders</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-latest-fingerprint-authentication-suite-on-windows-pcs/"><u>Download and Install the Latest Fingerprint Authentication Suite on Windows PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-setup-how-to-connect-your-surface-dock-in-minutes/"><u>Effortless Setup: How to Connect Your Surface Dock in Minutes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-downloads-essential-drivers-for-the-logitee-k400plus-mouse-and-trackpad/"><u>Free Downloads: Essential Drivers for the Logitee K400+ Mouse & Trackpad</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-latest-drivers-for-your-lenovo-ideapad-100-compatible-with-windows-10/"><u>How to Install the Latest Drivers for Your Lenovo IdeaPad 100: Compatible with Windows 10</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-infinix-hot-40i-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Infinix Hot 40i FRP</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-minimizing-movement-blur-in-media/"><u>In 2024, Minimizing Movement Blur in Media</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-fixes-for-your-troubled-realtek-rtl8723be-network-adapter-drivers/"><u>Quick Fixes for Your Troubled Realtek RTL8723BE Network Adapter Drivers</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-now-simplified-setup-of-the-latest-nahimic-sound-card-software/"><u>Upgrade Now: Simplified Setup of the Latest Nahimic Sound Card Software</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-digital-design-trends-to-avoid-in-your-youtube-banners/"><u>[New] In 2024, Digital Design Trends to Avoid in Your YouTube Banners</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-10-memetic-engineering-techniques/"><u>[Updated] 10 Memetic Engineering Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-choosing-faithful-hymns-download-and-modify-guide/"><u>[Updated] 2024 Approved Choosing Faithful Hymns Download and Modify Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-toms-computer-gear-comprehensive-guides-and-reviews/"><u>Exploring Tom's Computer Gear: Comprehensive Guides & Reviews</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-from-novice-to-influencer-a-step-by-step-fb-live-blueprint/"><u>In 2024, From Novice to Influencer A Step-by-Step FB Live Blueprint</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-the-key-to-rapid-likes-smart-bio-hacks-that-really-work-on-tinder/"><u>In 2024, The Key to Rapid Likes? Smart Bio Hacks that Really Work on Tinder</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-the-asus-azoth-extreme-the-ergonomic-keyboard-that-transforms-your-touch-typing-experience-through-its-innovative-switch-design/"><u>Introducing the Asus Azoth Extreme: The Ergonomic Keyboard That Transforms Your Touch-Typing Experience Through Its Innovative Switch Design</u></a></li>
+<li><a href="https://blog-min.techidaily.com/los-mas-efectivos-reproductores-de-video-sin-coste-opciones-gratis-y-sin-patentes/"><u>Los Más Efectivos Reproductores De Video Sin Coste: Opciones Gratis Y Sin Patentes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lowest-cpu-failure-rates-in-intel-chips-outperforming-amd-ryzen-according-to-puget-and-system-builder-data-reveal/"><u>Lowest CPU Failure Rates in Intel Chips, Outperforming AMD Ryzen According to Puget and System Builder Data Reveal</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722897778617-netflixs-ui-800-3-blunder-heres-how-to-quickly-resolve-it/"><u>Netflix's UI-800-3 Blunder? Here’s How to Quickly Resolve It</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-unbeatable-deal-grab-your-steelseries-arctis-nova-pro-wireless-for-just-64-top-choice-in-gaming-headsets/"><u>Score Unbeatable Deal: Grab Your SteelSeries Arctis Nova Pro Wireless for Just $64 - Top Choice in Gaming Headsets</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/steep-discount-alert-8bitdos-nes-style-retro-keyboard-now-at-just-79-on-amazon-prime-day/"><u>Steep Discount Alert: 8BitDo's NES-Style Retro Keyboard Now at Just $79 on Amazon Prime Day</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-comprehensive-gadget-review-hub-toms-electronics-insights/"><u>The Comprehensive Gadget Review Hub - Tom's Electronics Insights</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782734-9781594779954-the-haitian-vodou-handbook/"><u>The Haitian Vodou Handbook | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-expert-insights-on-your-next-computer-purchase/"><u>Tom's Tech Reviews: Expert Insights on Your Next Computer Purchase</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-selection-of-best-gaming-keyboards-choosing-between-full-size-tenkeyless-tkl-and-compact-models/"><u>Ultimate Selection of Best Gaming Keyboards - Choosing Between Full-Size, Tenkeyless (TKL), and Compact Models</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-the-full-potential-of-video-creation-with-vida/"><u>Unlocking the Full Potential of Video Creation with Vida</u></a></li>
 </ul></div>
 

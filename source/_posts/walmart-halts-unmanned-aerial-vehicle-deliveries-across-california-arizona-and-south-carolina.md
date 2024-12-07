@@ -1,7 +1,7 @@
 ---
 title: Walmart Halts Unmanned Aerial Vehicle Deliveries Across California, Arizona and South Carolina
-date: 2024-08-28T01:58:42.383Z
-updated: 2024-08-29T01:58:42.383Z
+date: 2024-12-03T20:16:00.695Z
+updated: 2024-12-06T20:27:45.799Z
 tags:
   - hardware
 categories:
@@ -31,8 +31,6 @@ Walmart's drone delivery partner, DroneUp, has announced plans to shutter 18 del
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -40,8 +38,30 @@ Walmart's drone delivery partner, DroneUp, has announced plans to shutter 18 del
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/fixed-overcoming-crusader-kings-3-shutdowns-and-restarts-on-your-computer/"><u>[FIXED] Overcoming Crusader Kings 3 Shutdowns and Restarts on Your Computer</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-how-to-write-an-attractive-vlog-script/"><u>[New] 2024 Approved How to Write an Attractive Vlog Script</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-troubleshooting-and-solving-left-4-dead-2-crashes/"><u>[SOLVED] Troubleshooting and Solving Left 4 Dead 2 Crashes</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-xsplit-repository-direct-gaming-analysis/"><u>[Updated] 2024 Approved XSplit Repository Direct Gaming Analysis</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-revolutionize-your-sales-approach-with-the-best-15-social-media-analyzers-for-2024/"><u>[Updated] Revolutionize Your Sales Approach with the Best 15 Social Media Analyzers for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/acer-porsche-design-laptop-sale-shop-now-at-discounted-price-of-600-save-200/"><u>Acer Porsche Design Laptop Sale: Shop Now at Discounted Price of $600 – Save $200!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-brilliance-unveiling-the-hidden-gems-of-dells-best-value-laptop-revealed-by-zdnet/"><u>Affordable Brilliance: Unveiling the Hidden Gems of Dell's Best-Value Laptop Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/efficient-charging-meets-multimedia-a-dual-usbhdmi-hub-review-experts/"><u>Efficient Charging Meets Multimedia: A Dual USB/HDMI Hub Review Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-offer-unbeatable-price-on-metas-latest-512gb-quest-3-during-october-prime-day-sale-top-pick/"><u>Exclusive Offer: Unbeatable Price on Meta's Latest 512GB Quest 3 During October Prime Day Sale – Top Pick !</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-extreme-my-experience-with-the-worlds-tiniest-webcam-and-its-remarkable-adaptability-zdnet/"><u>Exploring The Extreme: My Experience with the World’s Tiniest Webcam and Its Remarkable Adaptability | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-set-up-remote-desktop-on-windows-11/"><u>How to Set up Remote Desktop on Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gopro-hero5-black-vs-yi-4k-latest-camera-showdown/"><u>In 2024, GoPro Hero5 Black VS Yi 4K - Latest Camera Showdown</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-guide-to-applying-vhs-filters-on-computers/"><u>In 2024, Ultimate Guide to Applying VHS Filters on Computers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/instructables-creating-accessible-instagram-stories-with-captions/"><u>Instructables: Creating Accessible Instagram Stories with Captions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/laptop-upgrade-guide-installing-more-ram-tips-and-tricks/"><u>Laptop Upgrade Guide: Installing More RAM - Tips & Tricks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secrets-from-the-tech-gurus-how-i-scored-a-steal-with-an-economy-surface-pro-weitereleitung/"><u>Secrets From the Tech Gurus: How I Scored a Steal with an Economy Surface Pro #WEITERELEITUNG</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-macbook-gear-professional-insights-and-comprehensive-reviews-techradar/"><u>Top-Ranking MacBook Gear : Professional Insights & Comprehensive Reviews | TechRadar</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tune-performance-latest-updates-for-intels-chipset-in-ws-11781/"><u>Tune Performance: Latest Updates for Intel's Chipset in WS 11/7/8.1</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unpacking-my-new-purchase-the-emotional-journey-with-apples-latest-m2-macbook-air-a-zdnet-review/"><u>Unpacking My New Purchase: The Emotional Journey with Apple's Latest M2 MacBook Air - A ZDNet Review</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

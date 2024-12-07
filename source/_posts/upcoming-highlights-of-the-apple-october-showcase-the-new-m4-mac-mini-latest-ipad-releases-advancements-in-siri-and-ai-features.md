@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Highlights of the Apple October Showcase: The New M4 Mac Mini, Latest iPad Releases, Advancements in Siri & AI Features"
-date: 2024-11-22T18:08:43.696Z
-updated: 2024-11-27T19:34:59.716Z
+date: 2024-12-01T20:22:53.130Z
+updated: 2024-12-07T04:05:58.761Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,22 +118,21 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/liminating-backlogged-videos-from-your-youtube-history/"><u>[New] Eliminating Backlogged Videos From Your YouTube History</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-polaroid-camplus-pro-a-complete-action-recorder-review-for-2024/"><u>[New] Polaroid Cam+ Pro A Complete Action Recorder Review for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-solutions-for-balancing-iphone-hdr-footage-with-advanced-premiere-pro-tools/"><u>[Updated] In 2024, Solutions for Balancing iPhone HDR Footage with Advanced Premiere Pro Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-playflixapp-user-feedback-synopsis/"><u>2024 Approved PlayFlixApp User Feedback Synopsis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-ryzen-5-2500u-fast-and-easy-driver-update-instructions/"><u>AMD Ryzen ^5 2500U - Fast and Easy Driver Update Instructions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-source-to-download-and-install-logitech-rx250-driver-on-your-windows-computer-windows-7810/"><u>Best Source to Download and Install Logitech RX250 Driver on Your Windows Computer (Windows 7/8/10)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-essential-lenovo-t430-drivers-for-seamless-performance-in-windows-10-8-and-7/"><u>Download Essential Lenovo T430 Drivers for Seamless Performance in Windows 10, 8 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-and-speedy-download-for-pioneer-dj-ddjsx2-interface-software/"><u>Easy and Speedy Download for Pioneer DJ DDJSX2 Interface Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-tutorial-driver-refresh-for-dell-xps-laptop-in-windows-operating-system/"><u>Easy Tutorial: Driver Refresh for Dell XPS Laptop in Windows Operating System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-newest-brother-scan-and-print-drivers-in-windows-step-by-step-instructions/"><u>How to Install the Newest Brother Scan and Print Drivers in Windows - Step by Step Instructions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Infinix GT 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instant-improvement-for-your-pc-secure-official-amd-ryzen-n-5-2600-graphics-and-cpu-drivers-here/"><u>Instant Improvement for Your PC! Secure Official AMD Ryzen N 5 2600 Graphics & CPU Drivers Here</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/live-streaming-mastery-with-manycam-ultimate-virtual-webcam-and-video-editing-suite/"><u>Live Streaming Mastery with ManyCam: Ultimate Virtual Webcam and Video Editing Suite</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-image-enhancement-pivotal-pixlr-insights-for-2024/"><u>The Art of Image Enhancement Pivotal Pixlr Insights for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-guide-to-digital-grief-handling-facebook-profiles-of-the-deceased/"><u>The Guide to Digital Grief: Handling Facebook Profiles of the Deceased</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-downloading-sound-blaster-z-drivers-on-windows-11/"><u>The Ultimate Guide to Downloading Sound Blaster Z Drivers on Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-3-sites-to-find-free-lenovo-unlock-codes-to-unlock-your-lenovo-phone-by-drfone-android/"><u>Top 3 Sites to Find Free Lenovo Unlock Codes to Unlock Your Lenovo Phone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-edge-essentials-the-best-borders-and-frame-choices-in-photography-for-2024/"><u>[Updated] Edge Essentials The Best Borders & Frame Choices in Photography for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-from-real-to-virtual-the-science-behind-vr-for-2024/"><u>[Updated] From Real to Virtual The Science Behind VR for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-comprehensible-guide-to-dji-inspire-2/"><u>[Updated] The Comprehensible Guide to DJI Inspire 2</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mf8200c-printer-drivers-for-windows-users-version-compatible-with-78110/"><u>Canon MF8200C Printer Drivers for Windows Users - Version Compatible with 7/8.1/10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mg2900-printer-software-update-and-driver-download-information/"><u>Canon MG2900 Printer Software Update & Driver Download Information</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-ultimate-usb-webcam-drivers-simple-and-swift-setup/"><u>Download the Ultimate USB Webcam Drivers: Simple and Swift Setup!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-oneplus-11-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of OnePlus 11 5G? Try These Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-make-a-sound-decision-on-monitors-avoid-these-errors/"><u>How to Make a Sound Decision on Monitors: Avoid These Errors</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-best-free-apple-iphone-15-plus-imei-checker-by-drfone-ios/"><u>In 2024, Best Free Apple iPhone 15 Plus IMEI Checker</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-xiaomi-redmi-note-12r-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Xiaomi Redmi Note 12R FRP?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-aoc-display-adapters-compatible-drivers-for-win11win10win8-users/"><u>Installing AOC Display Adapters: Compatible Drivers for Win11/Win10/Win8 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-sas-software-drivers-free-downloads-and-updates-for-windows-10-8-and-7/"><u>Latest SAS Software Drivers: Free Downloads and Updates for Windows 10, 8 & 7</u></a></li>
+<li><a href="https://win-blog.techidaily.com/path-of-exile-performance-boost-bid-farewell-to-frustrating-game-lag/"><u>Path of Exile Performance Boost: Bid Farewell to Frustrating Game Lag!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-start-installing-dell-gaming-series-laptop-g15-drivers-on-your-pc/"><u>Quick Start: Installing Dell Gaming Series Laptop (G15) Drivers on Your PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-the-mysteries-of-lenovos-new-laptop-a-hidden-trackpoint-feature-and-other-secret-functions-revealed-zdnet/"><u>Unlocking the Mysteries of Lenovo's New Laptop: A Hidden Trackpoint Feature and Other Secret Functions Revealed | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975106076-update-now-secure-the-newest-amd-radeon-r5-graphics-driver-for-windows-users-from-7-to-11/"><u>Update Now: Secure the Newest AMD Radeon R5 Graphics Driver for Windows Users From 7 to 11!</u></a></li>
 </ul></div>
 

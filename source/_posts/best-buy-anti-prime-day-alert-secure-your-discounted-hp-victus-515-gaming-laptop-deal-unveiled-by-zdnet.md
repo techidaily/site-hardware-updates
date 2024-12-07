@@ -1,7 +1,7 @@
 ---
 title: Best Buy Anti-Prime Day Alert! Secure Your Discounted HP Victus 지킷랄로피 ($515) - Gaming Laptop Deal Unveiled by ZDNet
-date: 2024-11-22T16:11:37.883Z
-updated: 2024-11-27T18:00:05.414Z
+date: 2024-12-02T00:20:16.087Z
+updated: 2024-12-06T22:28:15.730Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,14 +63,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-the-art-of-recording-expert-strategies-for-vr-gameplay-preservation-for-2024/"><u>[Updated] The Art of Recording Expert Strategies for VR Gameplay Preservation for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pinnacle-spotlight-tapes/"><u>2024 Approved Pinnacle Spotlight Tapes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-the-transformative-shifts-from-gpt-35-to-gpt-4/"><u>A Deep Dive Into the Transformative Shifts From GPT-3.5 to GPT-4</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-ryzen-9x00-pricing-unveiled-by-france-eurozones-ryzen-9-9900x-listed-at-almost-680/"><u>AMD Ryzen 9X00 Pricing Unveiled by France - Eurozone's Ryzen 9 9900X Listed at Almost €680</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/decentralization/"><u>Decentralization</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-officejet-3830-printer-driver-download-for-windows/"><u>HP OfficeJet 3830 Printer Driver Download for Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Infinix Note 30 VIP Racing Edition</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revitalize-win-11-with-updated-and-streamlined-driver-updates/"><u>Revitalize Win 11 with Updated and Streamlined Driver Updates</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/speedy-download-and-install-ultimate-rs232-compatible-usb-driver/"><u>Speedy Download & Install: Ultimate RS232 Compatible USB Driver</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-a-detailed-look-at-successful-valheim-sowing/"><u>[Updated] In 2024, A Detailed Look at Successful Valheim Sowing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-optimal-budget-friendly-digital-video-reader/"><u>[Updated] In 2024, Optimal Budget-Friendly Digital Video Reader</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-your-wit-crafting-memes-with-kapwing/"><u>Elevate Your Wit Crafting Memes with Kapwing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-best-deal-on-an-immersive-viewing-experience-the-lg-34-ultragear-monitor-at-only-499/"><u>Get the Best Deal on an Immersive Viewing Experience: The LG 34 UltraGear Monitor at Only $499!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/grab-yours-now-the-ultimate-steal-of-a-sceptre-24-inch-curved-tv-game-screen-at-79/"><u>Grab Yours Now! The Ultimate Steal of a Sceptre 24-Inch Curved TV Game Screen at $79.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hardware-expertise-by-tom-comprehensive-analysis-and-advice/"><u>Hardware Expertise by Tom: Comprehensive Analysis & Advice</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-13-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 13 Lock Screen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-tech-specs-comprehensive-reviews-on-modern-computer-hardware/"><u>Inside Tech Specs: Comprehensive Reviews on Modern Computer Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-the-world-of-computer-tech-with-toms-hardware-reviews/"><u>Inside the World of Computer Tech with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/jdis-revolutionary-2vd-screen-features-dual-touch-displays-custom-views-for-each-user-and-touch-recognition-technology/"><u>JDI's Revolutionary 2VD Screen Features Dual Touch Displays, Custom Views for Each User and Touch Recognition Technology</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-tech-with-tom-a-comprehensive-guide-to-new-and-improved-systems/"><u>Navigating Tech with Tom: A Comprehensive Guide to New and Improved Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-business-with-chatgpt-effective-workflows-and-increased-output/"><u>Revolutionize Your Business with ChatGPT: Effective Workflows & Increased Output</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-7-must-have-mobile-applications-for-boosting-your-websites-traffic/"><u>Top 7 Must-Have Mobile Applications for Boosting Your Website's Traffic</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-10k-groups-might-cause-amazon-to-sue/"><u>Why 10K Groups Might Cause Amazon to Sue</u></a></li>
 </ul></div>
 

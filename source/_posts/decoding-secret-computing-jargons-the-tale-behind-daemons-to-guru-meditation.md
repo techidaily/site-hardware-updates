@@ -1,7 +1,7 @@
 ---
 title: "Decoding Secret Computing Jargons: The Tale Behind Daemons to Guru Meditation"
-date: 2024-08-28T01:58:53.211Z
-updated: 2024-08-29T01:58:53.211Z
+date: 2024-11-30T19:52:30.853Z
+updated: 2024-12-07T03:51:09.739Z
 tags:
   - hardware
 categories:
@@ -24,31 +24,32 @@ thumbnail: https://thmb.techidaily.com/791dffd80e92658c11252041a7a7629804246e695
 
  Computer jargon can be opaque even to those that know the words well. Since although you might learn what all the terms mean, that doesn't mean you know where the word came from, or what it meant originally. Many of the people who coined computer terms not only lived in a very different time, but were pretty eccentric. So it's no surprise the surviving jargon is often more than a little odd. Here are some of my favorite weird terms.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Daemon
 
  A "daemon" is a background process that handles some sort of task. A common example would be a mail daemon which periodically checks if you've received any new emails and then goes back to sleep. It most likely comes from the Greek word for a supernatural spirit.
 
 ![Computer Daemon Cartoon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/computer-daemon-cartoon.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sydney Louw Butler / How-To Geek / MidJourney
 
  The word was coined in its computer context by Professor Fernando J. Corbato, who stated it was [inspired by Maxwell's daemon of physics and thermodynamics](https://ei.cs.vt.edu/%7Ehistory/Daemon.html). They understood it to be a type of attending spirit from the Greek meaning.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ##  Guru Meditation
 
 ![Cartoon of a guru meditating in front of a computer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/cartoon-of-a-guru-meditating-in-front-of-a-computer.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sydney Louw Butler / How-To Geek / MidJourney
 
  "Guru meditation" sounds properly "new age" and spiritual, but it's actually an error message from the Amiga family of computers. This was an error you saw when your Amiga hit a fatal exception (more on that later) and the screen would show the message along with a code. It seems to be a bit of an [in-joke](https://archive.org/details/info-magazine-13/page/n43/mode/2up?view=theater), and I could not find an absolutely definitive origin for the term, other than the idea that the computer's mind was empty like a Zen monk meditating.
@@ -56,8 +57,9 @@ Sydney Louw Butler / How-To Geek / MidJourney
  These days you are likely to see a Guru Meditation when a website you're trying to visit goes belly up, since the error message is part of the popular Varnish back-end software used to accelerate content-heavy, dynamic websites.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Grok
 
 ![Martians grokking](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/martians-grokking.png) 
@@ -66,9 +68,6 @@ Sydney Louw Butler / How-To Geek / MidJourney
 
  I wrote an entire article about [how the word "Grok" became a computer term](https://tiktok-video-recordings.techidaily.com/swift-playback-in-tiktok-enhancing-performance/), but the Cliffs Notes version is that the word comes from the SF novel _Stranger in a Strange Land_by Robert A. Heinlein. Yes, the same guy who wrote _Starship Troopers,_ among many other classics. It's a Martian word that means literally to "drink", but in context, it means to understand something on a holistic and fundamental level. In a computer context, it means understanding something intuitively. For example, if you Grok generative AI, you really understand it on a deep level.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ##  Kernel Panic
 
  This is an error message that comes from UNIX, and therefore also applies to members of the UNIX family like Linux, and macOS. The [kernel](https://driver-download.techidaily.com/nvidia-rtx-2n60-graphics-card-fresh-driver-downloads-for-all-windows-oses-including-win-11-10-8-and-7/) is the core of an operating system, and the bit that's in charge of everything. A kernel "panic" means there's been some sort of error so fundamental that the kernel can't recover from it. The whole system will stop, and the machine has to be rebooted. The kernel has lost control of the situation and is flipping the table, basically.
@@ -78,8 +77,9 @@ Sydney Louw Butler / How-To Geek / MidJourney
 ![Two computers in a foto race](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/two-computers-in-a-foto-race.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sydney Louw Butler / How-To Geek / MidJourney
 
  While it might sound like some sort of term from a sociology textbook, a "race condition" happens when two or more processes are running on a computer, and the outcome of the one depends on the timing or order of execution of the other. Basically, there's a lack of communication between the two processes, they don't wait for each other to finish their job before doing their own, and this can lead to all sorts of weird and sometimes dangerous situations. Especially in systems that have critical jobs like keeping a nuclear power plant cooled, or monitoring someone's vital signs. The term was already in use [as far back as 1954](https://dspace.mit.edu/bitstream/handle/1721.1/4804/RLE-TR-274-14266383.pdf?sequence=1) in the field of electronics, since it can happen in any situation where two dependent processes are running.
@@ -88,9 +88,6 @@ Sydney Louw Butler / How-To Geek / MidJourney
 
  While his sounds like the movie title of a thriller, a fatal exception is an error that forces a program or the whole operating system to close or shut down. This usually happens when a program tries to run an "illegal" instruction or tries to access a section of memory it's not meant to. It's "fatal" in the sense that it's the end of the road. You can't keep going anymore. [You are an ex program](https://en.wikipedia.org/wiki/Dead%5FParrot%5Fsketch).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ##  Nonce
 
  This is a word you'll see come up often if you work in the cryptographic space, and on many websites you'll find this word in nestled somewhere in the site's code. The word is a shortening of "number used once", and basically means a random number that's added into an encryption protocol or some sort of digital signature or handshake. Nonces are crucial in preventing a specific type of attack referred to as a ["replay" attack](https://desktop-recording.techidaily.com/2024-approved-launching-your-digital-dialogues-in-google-meet/). This is where a hacker records data that's been sent and simply repeats it to gain access.
@@ -123,8 +120,6 @@ Sydney Louw Butler / How-To Geek / MidJourney
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +127,22 @@ Sydney Louw Butler / How-To Geek / MidJourney
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-innovative-methods-for-shuffling-yt-playlists/"><u>[New] Innovative Methods for Shuffling YT Playlists</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-adding-time-bound-elements-to-your-obs-productions/"><u>2024 Approved Adding Time-Bound Elements to Your OBS Productions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazon-prime-day-2024-exclusive-deals-on-top-nvidia-powered-gaming-laptops-spotlight/"><u>Amazon Prime Day 2024: Exclusive Deals on Top Nvidia-Powered Gaming Laptops - Spotlight</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-analysis-microsoft-surface-pro-8-the-ultimate-device-for-enterprises-techinsight/"><u>Comprehensive Analysis: Microsoft Surface Pro 8 - The Ultimate Device for Enterprises | TechInsight</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/designing-your-ideal-gaming-station-a-complete-guide-with-expert-tips/"><u>Designing Your Ideal Gaming Station: A Complete Guide with Expert Tips</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/hear-the-difference-airpods-pro-vs-galaxy-buds-pro-comparison/"><u>Hear the Difference: Airpods Pro Vs. Galaxy Buds Pro Comparison</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/laptop-evaluation-techniques-at-zdnet-insight-into-our-review-process/"><u>Laptop Evaluation Techniques at ZDNet: Insight Into Our Review Process</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-elevate-your-audio-2-fade-infade-out-methods-in-fcp/"><u>New Elevate Your Audio 2 Fade-In/Fade-Out Methods in FCP</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/optimize-performance-latest-rtx-2080-gpu-driver-update-for-seamless-integration-with-windows-11/"><u>Optimize Performance: Latest RTX 2080 GPU Driver Update for Seamless Integration with Windows 11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/tailored-interventions-for-2024/"><u>Tailored Interventions for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-5-ultimate-programmers-laptops-curated/"><u>Top 5 Ultimate Programmer's Laptops - Curated</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-pick-network-servers-rack-systems-and-cabinets-for-2eplust3-yoplusr-2024-lineup/"><u>Top Pick Network Servers Rack Systems & Cabinets for 2E+t3, Yo+r 2024 Lineup</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-discover-the-toughest-laptops-for-professionals/"><u>Ultimate Guide: Discover the Toughest Laptops for Professionals</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-a-masterpiece-the-ultimate-13-laptop-redefining-longevity-and-aesthetics-in-tech-zdnet/"><u>Unveiling a Masterpiece: The Ultimate 13 Laptop Redefining Longevity and Aesthetics in Tech | ZDNET</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-tecno-camon-20-premier-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Tecno Camon 20 Premier 5G? Fixed | Dr.fone</u></a></li>
+</ul></div>
 

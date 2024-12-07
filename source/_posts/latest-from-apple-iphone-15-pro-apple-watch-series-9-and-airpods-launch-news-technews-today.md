@@ -1,7 +1,7 @@
 ---
 title: "Latest From Apple: IPhone 15 Pro, Apple Watch Series 9 & AirPods Launch News | TechNews Today"
-date: 2024-11-21T17:52:03.380Z
-updated: 2024-11-27T18:35:42.036Z
+date: 2024-11-30T23:28:15.310Z
+updated: 2024-12-07T02:54:08.998Z
 tags:
   - laptops
 categories:
@@ -25,10 +25,6 @@ Below, you'll find the best sales and discounts on Apple products, including Mac
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Apple deals of July 2024
 
@@ -161,6 +157,10 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple accessory deals
 
 [Apple Pencil (1st-gen) deal for $79 (save $20) $79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Pencil-1st-Generation-Adapter%2Fdp%2FB0BJLG69QR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc59f26ff-942b-4436-9faf-236bb5a523b5%7Cdtp&dtb=1)
@@ -175,20 +175,20 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Can I buy an iPhone without a plan?
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the cheapest Apple product?
 
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is there a monthly fee for Apple iPads?
@@ -198,7 +198,7 @@ This depends on the type of iPad you decide to purchase. If you opt for a Wi-Fi-
 However, if you choose an iPad with Wi-Fi and cellular connectivity, then you will need to pay for a mobile data plan to take advantage of the iPad's cellular features. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these Apple deals?
@@ -213,10 +213,6 @@ Factors influencing our recommendations include:
 * **Use cases**: We have included a range of Apple devices on sale suitable for different uses, including work, study, entertainment, and sports.
 * **Variety**: Here at ZDNET, we want to provide you with various products and accessories in the Apple ecosystem. We've selected deals spanning laptops and smartphones to smartwatches and more.
 * **Availability**: If we come across a great Apple deal but only a few units are in stock unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
@@ -238,6 +234,10 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best iPhone deals](https://www.zdnet.com/article/iphone-deals/)
 * [The best TV deals](https://www.zdnet.com/home-and-office/home-entertainment/tv-deals/)
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -283,24 +283,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/nlock-audience-potential-with-curated-video-shorts-for-2024/"><u>[New] Unlock Audience Potential with Curated Video Shorts for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-determining-a-bespoke-keyword-for-your-tiktok-feed-for-2024/"><u>[Updated] Determining a Bespoke Keyword for Your TikTok Feed for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-best-free-tool-your-android-unhindered/"><u>[Updated] In 2024, Best Free Tool Your Android, Unhindered</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essential-youtube-for-asmr-enthusiasts/"><u>[Updated] In 2024, Essential YouTube for ASMR Enthusiasts</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-the-producers-playbook-for-mixing-audio-and-visuals-on-fb-platform/"><u>[Updated] The Producer's Playbook for Mixing Audio and Visuals on FB Platform</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-finding-downloading-and-updating-ralink-drivers-for-windows-fixed/"><u>Comprehensive Guide: Finding, Downloading and Updating Ralink Drivers for Windows [FIXED]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-smooth-gameplay-download-and-install-updated-drivers-for-nvidias-geforce-rtx-2080-ti/"><u>Get Smooth Gameplay: Download & Install Updated Drivers for Nvidia's GeForce RTX 2080 Ti</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-newest-nvidia-geforce-210-graphics-drivers-supported-by-windows-11/"><u>Get the Newest NVIDIA GeForce 210 Graphics Drivers Supported by Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-quickly-update-the-driver-for-microsofts-ergonomic-keyboard/"><u>How to Quickly Update the Driver for Microsoft's Ergonomic Keyboard</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-latest-version-of-amd-radeon-pro-w5700-drivers-on-windows-operating-systems/"><u>Install Latest Version of AMD Radeon Pro W5700 Drivers on Windows Operating Systems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/intelnvidia-hybrid-graphics-resolved-in-windows-10/"><u>Intel/Nvidia Hybrid Graphics Resolved in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/next-level-playtime-tweaking-your-pc-settings-for-top-gaming-on-windows-11/"><u>Next-Level Playtime: Tweaking Your PC Settings for Top Gaming on Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-xiaomi-redmi-13c-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Xiaomi Redmi 13C to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/product-portfolio/"><u>Product Portfolio</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/speedy-installation-guide-get-your-epson-et-4550-printer-up-and-running-on-windows/"><u>Speedy Installation Guide: Get Your Epson ET-4550 Printer Up & Running on Windows!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-mesh-network-routers-of-2024-your-comprehensive-guide/"><u>Top Rated Mesh Network Routers of 2024: Your Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722973040398-troubleshooting-and-fixing-fresh-download-and-update-for-mbox-2-drivers-in-windows-solved/"><u>Troubleshooting and Fixing: Fresh Download & Update for MBox 2 Drivers in Windows - Solved</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-windows-computers-fixes-for-hydro-series-h100i-v2-drivers/"><u>Troubleshooting Windows Computers: Fixes for Hydro Series H100i v2 Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-installing-the-official-epson-es-400-scandriver-on-your-window-machine/"><u>Ultimate Guide to Installing the Official Epson ES-400 ScanDriver on Your Window Machine</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-screen-scribes-editing-edition-guide/"><u>[New] In 2024, Screen Scribes Editing Edition Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-ultimate-guide-to-quantum-hdr/"><u>[Updated] The Ultimate Guide to Quantum HDR</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unmasking-the-top-10-clandestine-story-gurus-for-2024/"><u>[Updated] Unmasking the Top 10 Clandestine Story Gurus for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-visualvault-review-highlighting-the-best-recording-tools/"><u>[Updated] VisualVault Review Highlighting the Best Recording Tools</u></a></li>
+<li><a href="https://fox-place.techidaily.com/3sd-google/"><u>3無成本手法搶救SD卡上的照片 - Google搜索引擎</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-your-razer-naga-mouse-driver-on-windows-pcs/"><u>Download and Update Your Razer Naga Mouse Driver on Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-download-and-install-the-epson-wf-3540-printer-driver-on-windows-computers/"><u>Easy Steps to Download and Install the Epson WF-3540 Printer Driver on Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-graphics-card-performance-with-gigabytes-gc-wb867d-drivers-download-now/"><u>Enhance Your Graphics Card Performance with Gigabyte's GC-WB867D Drivers - Download Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-officejet-pro-8620-software-and-drivers-compatible-with-windows-operating-system/"><u>Get the Latest HP OfficeJet Pro 8620 Software & Drivers Compatible with Windows Operating System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-install-epson-xp-430-drivers-on-a-windows-device-a-users-guide/"><u>How to Successfully Install Epson XP-430 Drivers on a Windows Device - A User's Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-evaluating-magix-multimedia-software/"><u>In 2024, Evaluating MAGIX Multimedia Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-error-0x8024a205-in-winupdate/"><u>Troubleshooting Error 0X8024a205 in WinUpdate</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/turn-off-emergency-alerts-expert-tips-for-android-phone-owners/"><u>Turn Off Emergency Alerts: Expert Tips for Android Phone Owners</u></a></li>
 </ul></div>
 

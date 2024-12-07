@@ -1,7 +1,7 @@
 ---
 title: "Unpacking My New Purchase: The Emotional Journey with Apple's Latest M2 MacBook Air - A ZDNet Review"
-date: 2024-11-20T17:13:03.772Z
-updated: 2024-11-27T18:13:05.469Z
+date: 2024-11-30T22:05:17.850Z
+updated: 2024-12-06T19:18:04.568Z
 tags:
   - laptops
 categories:
@@ -35,7 +35,7 @@ Getty/MacLife Magazine
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why it's the top product of 2022
@@ -43,7 +43,7 @@ Getty/MacLife Magazine
 One of the other common criticisms of this product when it was first released was that it's now a bit of a tweener in the Mac product line -- with the very-capable [M1 MacBook Air](https://go.shopyourlikes.com/pi/244cb3ab772a00eb37169c21806273bf37215920?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2) still on sale and now serving as the entry-level, under-$1,000 Mac laptop and the robust [MacBook Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3C57XLR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd4f3244e-a7a4-4576-bbf5-65d2a79d96d2%7Cdtp&dtb=1) line being the go-to option for professionals and creators who need more oomph. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -65,7 +65,7 @@ My conclusion: The M2 MacBook Air can now handle about 75% of what you used to n
 That can potentially save you $500-$1,000\. The M2 MacBook Air I tested included the 10-core GPU and 16 GB of RAM and retails for $1,700\. But, a comparable MacBook Pro is going to run you at least $2,000-$2,500.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -95,7 +95,7 @@ While no Apple product ever really flies under the radar, the accomplishments of
 You can watch our short video summing why the M2 MacBook Air is ZDNET's 2022 Product of the Year as a [YouTube Short](https://www.youtube.com/shorts/SlyOpp2rlKk) (embedded below), [Instagram Reel](https://www.instagram.com/reel/CmtsrSzqrrb/?hl=en), or on [TikTok](https://www.tiktok.com/@zdnet%5Fofficial/video/7182202897806019886).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Honorable mentions
@@ -142,24 +142,14 @@ You can watch our short video summing why the M2 MacBook Air is ZDNET's 2022 Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ecording-with-precision-perfecting-ios-device-features-on-youtube/"><u>[New] Recording with Precision Perfecting iOS Device Features on YouTube</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-uncover-hidden-youtube-discussions/"><u>[Updated] In 2024, Uncover Hidden YouTube Discussions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-steps-to-secure-unmarked-stock-photos-for-business/"><u>2024 Approved Steps to Secure Unmarked Stock Photos for Business</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-honor-magic-6-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Honor Magic 6 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/a-beginners-walkthrough-for-upgrading-intelamd-cpu-drivers-in-windows/"><u>A Beginner’s Walkthrough for Upgrading Intel/AMD CPU Drivers in Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-nvidia-1080-graphics-driver-for-windows-10-quick-and-simple-steps/"><u>Download NVIDIA 1080 Graphics Driver for Windows 10: Quick and Simple Steps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-thrustmaster-t300-racing-wheel-driver-software-downloads-for-windows-10-and-11/"><u>Free ThrustMaster T300 Racing Wheel Driver Software Downloads for Windows 10 & 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hassle-free-methods-for-installing-new-amd-display-adapters-drivers/"><u>Hassle-Free Methods for Installing New AMD Display Adapters Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-fetch-the-newest-canon-pixma-ts3322-driver-version-for-your-printer/"><u>How to Fetch the Newest Canon PIXMA TS3322 Driver Version for Your Printer</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-itel-s23plus-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Itel S23+ Safely | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-11-pro-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 11 Pro</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/is-mega-mewtwo-the-strongest-pokemon-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Is Mega Mewtwo The Strongest Pokémon On Apple iPhone XR? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/keep-your-brother-scanners-running-smoothly-the-newest-window-compatible-driver-updates-available-now/"><u>Keep Your Brother Scanners Running Smoothly: The Newest Window-Compatible Driver Updates Available Now</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/obs-audio-glitches-demystified-a-step-by-step-guide-for-resolving-non-working-microphones/"><u>OBS Audio Glitches Demystified: A Step-by-Step Guide for Resolving Non-Working Microphones</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/official-nvidia-quadro-windows-10-graphics-driver-download-certified-and-updated/"><u>Official NVIDIA Quadro Windows 10 Graphics Driver Download | Certified & Updated</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-persistent-audio-cut-out-problems-on-windows-11-systems/"><u>Solving Persistent Audio Cut-Out Problems on Windows 11 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-intel-raid-driver-update-process-ensure-compatibility-with-your-windows-11-10-8-or-7-pc/"><u>Step-by-Step Intel RAID Driver Update Process - Ensure Compatibility with Your Windows 11, 10, 8 or 7 PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-comprehensive-guide-installing-new-drivers-on-your-logitech-m310-mouse/"><u>The Comprehensive Guide: Installing New Drivers on Your Logitech M310 Mouse</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshoot-and-solve-logitech-c615-driver-complications-in-no-time/"><u>Troubleshoot and Solve Logitech C615 Driver Complications in No Time</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-simplifying-speech-integration-into-instagram-content/"><u>[New] In 2024, Simplifying Speech Integration Into Instagram Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-pro-free-mac-screen-logger/"><u>[Updated] 2024 Approved Pro-Free Mac Screen Logger</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-satirists-handbook-video-creation-for-comedy/"><u>[Updated] The Satirist's Handbook Video Creation for Comedy</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-on-camera-charisma-a-guide-to-personal-video-content/"><u>2024 Approved On-Camera Charisma A Guide to Personal Video Content</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-peak-performance-pc-components-selecting-the-optimal-cpu-for-gaming-enthusiasts/"><u>Discover Peak Performance PC Components: Selecting the Optimal CPU for Gaming Enthusiasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-msi-gs65-up-to-date-with-the-latest-windows-drivers-here/"><u>Get Your MSi GS65 Up-to-Date with the Latest Windows Drivers Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-synaptic-driver-installation-on-windows/"><u>Quick and Easy Synaptic Driver Installation on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-compatibility-problems-how-to-correct-incorrect-sxs-configurations-in-windows-10-guide/"><u>Resolve Compatibility Problems: How to Correct Incorrect SxS Configurations in Windows 10 [Guide]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-and-hardware-reviews/"><u>Tom's Tech Insights & Hardware Reviews</u></a></li>
 </ul></div>
 

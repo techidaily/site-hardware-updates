@@ -1,7 +1,7 @@
 ---
 title: Score The HP Victus #15 Laptop for Gamers at a Steal – Only $450 on This Best Buy Deal | Insights via ZDNET
-date: 2024-11-22T17:53:13.790Z
-updated: 2024-11-27T19:13:47.642Z
+date: 2024-12-04T02:43:50.245Z
+updated: 2024-12-06T23:11:41.565Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,24 +63,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-optimize-your-presence-mastering-snapchat-business-use/"><u>[New] 2024 Approved Optimize Your Presence Mastering Snapchat Business Use</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-reinstating-focus-in-photos-a-comprehensive-guide-to-top-10-online-enhancers/"><u>[New] In 2024, Reinstating Focus in Photos A Comprehensive Guide to Top 10 Online Enhancers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-simplifying-slide-sharing-using-your-webcam-effectively/"><u>[New] Simplifying Slide Sharing Using Your Webcam Effectively</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/outubes-shorts-a-deep-dive-into-content-creation-and-revenue-for-2024/"><u>[New] YouTube's Shorts A Deep Dive Into Content Creation and Revenue for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-charting-the-course-of-monetization-for-creator-economy-on-youtubeshorts-for-2024/"><u>[Updated] Charting the Course of Monetization for Creator Economy on YouTubeshorts for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-revitalize-your-day-with-these-top-10-yoga-videos/"><u>2024 Approved Revitalize Your Day with These Top 10 Yoga Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/approach-recall-the-classic-triad-for-diagnosis/"><u>Approach: Recall the Classic Triad for Diagnosis.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatible-hp-officejet-3830-drivers-available-for-windows-systems/"><u>Compatible HP OfficeJet 3830 Drivers Available for Windows Systems</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-honor-magic-6-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor Magic 6 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/craft-professional-episodes-a-comprehensive-guide-to-editing-in-garageband-for-2024/"><u>Craft Professional Episodes A Comprehensive Guide to Editing in GarageBand for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/essential-tips-for-keeping-your-windows-1110-wi-fi-drivers-up-to-date/"><u>Essential Tips for Keeping Your Windows 11/10 Wi-Fi Drivers Up to Date</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-why-kootek-is-leading-the-pack-in-laptop-thermal-management/"><u>Expert Analysis: Why Kootek Is Leading the Pack in Laptop Thermal Management</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-logitech-m525-mouse-drivers-and-installation-files-quick-guide/"><u>Free Logitech M525 Mouse Drivers & Installation Files: Quick Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-hp-deskjet-3755-all-in-one-printer-driver-download-for-windows-11-8-7/"><u>Latest HP DeskJet 3755 All-in-One Printer Driver Download for Windows 11, 8, 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-best-virtual-shops-for-cutting-edge-television-deals/"><u>Navigating the Best Virtual Shops for Cutting-Edge Television Deals</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/next-leap-forward-how-intel-prepares-three-versions-of-the-panther-lake-for-future-portable-computers-following-lunar-lakes-legacy/"><u>Next Leap Forward: How Intel Prepares Three Versions of the Panther Lake for Future Portable Computers Following Lunar Lake's Legacy</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tips-and-tricks-for-streamlining-color-grading-with-luts-in-adobe/"><u>Tips and Tricks for Streamlining Color Grading with LUTs in Adobe</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-your-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Review - Your Guide to the Latest in Computer Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-tech-secrets-toms-guide-to-computer-hardware/"><u>Unveiling Tech Secrets: Tom's Guide to Computer Hardware</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-overcoming-video-send-failures-in-facebook-chat-iphoneandroid-guide-for-2024/"><u>[Updated] Overcoming Video Send Failures in Facebook Chat IPhone/Android Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-revolutionize-your-online-presence-with-live-screenshares/"><u>[Updated] Revolutionize Your Online Presence with Live Screenshares</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-elevate-your-video-game-with-these-5-youtube-thumbnail-builders/"><u>2024 Approved Elevate Your Video Game with These 5 YouTube Thumbnail Builders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-next-level-screenrecord-a-critical-evaluation/"><u>2024 Approved Next-Level ScreenRecord A Critical Evaluation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-the-best-and-most-affordable-gaming-monitors-of-2024-including-high-quality-curved-displays-with-superior-refresh-rates/"><u>Explore the Best and Most Affordable Gaming Monitors of 2024, Including High-Quality Curved Displays with Superior Refresh Rates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/gaming-display-bargain-49-inch-aorus-oled-by-gigabyte-now-a-steal-at-969-price-spike/"><u>Gaming Display Bargain: 49-Inch Aorus OLED by Gigabyte Now a Steal at $969 Price Spike</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/get-the-9now-app-watch-and-save-shows-from-9nowcomau-for-free-compatible-with-mac-and-pc/"><u>Get the 9NOW App: Watch and Save Shows From 9now.com.au for Free – Compatible with Mac & PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-best-rated-gamers-dream-dell-s3222dgm-for-a-record-low-of-just-229/"><u>Get Your Hands on the Best Rated Gamer's Dream, Dell S3222DGM for a Record Low of Just $229!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hit-save-on-high-definition-with-alienwares-curved-gaming-masterpiece-100-off-the-aw3225qf-brilliantly-crafted-4k-qd-oled-display-at-a-blistering-240-hz/"><u>Hit Save on High Definition with Alienware's Curved Gaming Masterpiece: $100 Off the AW3225QF - Brilliantly Crafted 4K QD-OLED Display at a Blistering 240 Hz</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-remote-management-from-iphone-6s-plus-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove remote management from iPhone 6s Plus?</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-vivo-y100-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo Y100 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-14-pro-max-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 14 Pro Max to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-by-tom-unveiling-top-hardware-picks/"><u>In-Depth Analysis by Tom: Unveiling Top Hardware Picks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-toms-hardware-tech-reviews-and-insights/"><u>Inside Tom's Hardware: Tech Reviews and Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/leading-edge-bent-display-panels-for-gamers/"><u>Leading Edge Bent Display Panels for Gamers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/level-up-your-gaming-world-with-the-high-performance-acer-nitro-now-on-sale-at-only-81/"><u>Level Up Your Gaming World with the High-Performance Acer Nitro - Now on Sale at Only $81</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/masterclass-on-tech-reviewed-a-deep-dive-into-computer-hardware-with-tom/"><u>Masterclass on Tech Reviewed: A Deep Dive Into Computer Hardware with Tom</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/strategies-to-address-capacity-exceeded-error-for-chatgpt-users-on-windows-devices/"><u>Strategies to Address 'Capacity Exceeded' Error for ChatGPT Users on Windows Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlock-the-secrets-of-finding-high-quality-instagram-tones-and-crafting-perfect-chimes/"><u>Unlock the Secrets of Finding High-Quality Instagram Tones and Crafting Perfect Chimes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Apple October Event Preview: Exciting Releases on the Horizon with M4 Mac Mini and Enhanced iPads - What You Need to Know | Featured by ZDNET"
-date: 2024-11-24T16:41:30.303Z
-updated: 2024-11-27T18:03:26.012Z
+date: 2024-12-02T18:22:51.409Z
+updated: 2024-12-07T01:40:42.377Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,20 +218,18 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-scouring-influencers-tailoring-your-niches-insta-community/"><u>[New] 2024 Approved Scouring Influencers Tailoring Your Niche's Insta Community</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-experts-pathway-transforming-sdr-footage-into-hdri/"><u>[New] 2024 Approved The Expert's Pathway Transforming SDR Footage Into HDRI</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-elite-drone-lineup-up-for-sale/"><u>[Updated] Elite Drone Lineup Up for Sale</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/2024-approved-vhs-vibes-made-easy-a-final-cut-pro-tutorial/"><u>2024 Approved VHS Vibes Made Easy A Final Cut Pro Tutorial</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-to-downloading-and-installing-razer-drivers-on-various-windows-editions/"><u>Comprehensive Guide to Downloading & Installing Razer Drivers on Various Windows Editions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-install-epson-perfection-v600-drivers-available-online/"><u>Easy Install: Epson Perfection V600 Drivers Available Online</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/economical-desktop-encoder-software-guide-revealed/"><u>Economical Desktop Encoder Software Guide Revealed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-obtain-and-install-logitech-mouse-drivers-on-windows-systems/"><u>How to Obtain and Install Logitech Mouse Drivers on Windows Systems</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-asmr-quality-high-standards-meet-affordable-costs/"><u>In 2024, ASMR Quality High Standards Meet Affordable Costs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-and-free-hp-designjet-500-driver-software-for-immediate-download/"><u>Secure & Free: HP DesignJet 500 Driver Software for Immediate Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-your-data-analysis-tools-with-sas-download-updates-for-win-10-8-and-7-today/"><u>Secure Your Data Analysis Tools with SAS - Download Updates for Win 10, 8 & 7 Today!</u></a></li>
-<li><a href="https://win11.techidaily.com/terminal-and-powershell-delving-into-their-distinct-uses/"><u>Terminal and PowerShell: Delving Into Their Distinct Uses</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-outdoor-game-guide-ar-edition/"><u>The Ultimate Outdoor Game Guide (AR Edition)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722958248474-up-to-date-and-efficient-install-the-new-software-update-for-dells-2330ddn-laser-printers-today/"><u>Up to Date & Efficient: Install the New Software Update for Dell's 2330D/Dn Laser Printers Today!</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-from-raw-audio-to-polished-masterpiece-editing-with-avidemux-2023-edition/"><u>Updated From Raw Audio to Polished Masterpiece Editing with Avidemux - 2023 Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-admin-controlled-errors-in-windows-11-configuration/"><u>Correcting Admin Controlled Errors in Windows 11 Configuration</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/effortlessly-create-and-manage-cross-platform-communication-channels-with-skype-groups-for-2024/"><u>Effortlessly Create and Manage Cross-Platform Communication Channels with Skype Groups for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/game-on-why-the-new-playstation-is-a-must-have-with-these-4-points/"><u>Game On: Why the New PlayStation Is a Must-Have with These 4 Points</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/high-end-workspace-essential-hps-newest-37-inch-wqhdplus-ultrawide-with-ips-panel-competitively-priced-against-oled-counterparts/"><u>High-End Workspace Essential: HP’s Newest 37-Inch WQHD+ Ultrawide with IPS Panel – Competitively Priced Against OLED Counterparts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-samsung-galaxy-a24-to-mac-drfone-by-drfone-android/"><u>How to Mirror Samsung Galaxy A24 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-tomamoors-pc-realm-expert-advice-on-hardware-and-software/"><u>Inside Tom'amoors PC Realm: Expert Advice on Hardware and Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigate-the-world-of-hardware-through-toms-lens/"><u>Navigate the World of Hardware Through Tom's Lens</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-digital-innovations-with-guidance-from-toms-tech-corner/"><u>Navigating Digital Innovations with Guidance From Tom's Tech Corner</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-new-gadgets-a-guide-from-toms-tech-corner/"><u>Navigating New Gadgets: A Guide From Tom's Tech Corner</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-start-launching-the-command-prompt-in-various-versions-of-windows-os/"><u>Quick Start: Launching the Command Prompt in Various Versions of Windows OS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-with-hidden-siri-suggestions-on-iphone-fix-them-here/"><u>Trouble with Hidden Siri Suggestions on iPhone? Fix Them Here!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-verified-badge-successfully-on-x-the-transitioned-social-media-site-from-twitter/"><u>Unlocking Verified Badge Successfully on X - The Transitioned Social Media Site From Twitter</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-best-online-stop-motion-software-a-comprehensive-review/"><u>Updated Best Online Stop Motion Software A Comprehensive Review</u></a></li>
 </ul></div>
 

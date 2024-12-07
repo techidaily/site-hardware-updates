@@ -1,7 +1,7 @@
 ---
 title: Can an Improved Keyboard Increase How Fast You Type?
-date: 2024-08-28T01:57:10.797Z
-updated: 2024-08-29T01:57:10.797Z
+date: 2024-12-03T21:17:49.937Z
+updated: 2024-12-07T03:46:44.890Z
 tags:
   - hardware
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
  Improving your typing speed is one of the best ways to save time in the office, especially if you primarily deal with text files. Learning the correct typing technique is essential, but could upgrading to a better keyboard provide an immediate advantage in typing speed?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  A Better Keyboard Won't Make You a Faster Typist
 
  Just like how a high-quality frying pan won't make you a better chef, a good keyboard won't make you a faster typist. I type at speeds of well over 100 WPM, and I did some A/B testing with my laptop keyboard and my [Cherry MX Brown](https://techidaily.com/sign-a-pdf-v10-document-with-digital-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/)\-equipped [Corsair K70](https://www.amazon.com/Corsair-Mechanical-Gaming-Keyboard-Switches/dp/B09NCLR4M6?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003474&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fcan-a-keyboard-upgrade-make-you-a-faster-typist%2F&asc%5Fcampaign=Evergreen). Surprisingly, I got nearly the same accuracy and speed of around 115 WPM with either keyboard on [TypingTest](https://www.typingtest.com/).
@@ -32,8 +36,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![Typeracer showing a typing speed of 138wpm.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/2024-06-10_18h00_34.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Keyboard Specs That Affect Typing Speed
 
  Let's go back to our frying pan analogy; a better frying pan doesn't make better chefs, but it helps great chefs sear a steak more evenly to achieve a better crust. So, once you learn how to type fast, a better keyboard can help you type slightly faster because it won't limit your skills.
@@ -43,8 +52,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![Person at a desk typing on the Kensington ergonomic keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/keyboard.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Kensington
 
  Also, make sure that your keyboard has a layout with all the keys you use regularly. If you do a lot of number crunching, a [number pad](https://tech-revival.techidaily.com/unlocking-productivity-leveraging-chatgpt-to-enhance-your-excel-experience/) will objectively make you type numbers faster. My colleague Goran swears by [low-profile mechanical keyboards](https://windows11.techidaily.com/from-vocal-inputs-to-text-output-a-comprehensible-guide-for-windows-users/) for faster, more comfortable typing.
@@ -60,13 +70,11 @@ Kensington
 ![keycaps-and-a-switch-removed-from-the-cherry-k5v2-keyboard-3jpg_53543597661_o-2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/keycaps-and-a-switch-removed-from-the-cherry-k5v2-keyboard-3jpg_53543597661_o-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ##  You Should Get a Nice Keyboard Anyway
 
  Even though a nice mechanical keyboard won't improve your productivity (at least not by much), you should still get one. Lubed mechanical switches with a satisfying "thocky" click are an absolute joy to type on; don't deny yourself that pleasure. They're also far more durable and can easily last a full decade. You can find a wide selection of phenomenal mechanical keyboards for well under $100, like the [Keychron V3](https://www.amazon.com/Keychron-Mechanical-Programmable-Hot-swappable-Black-Translucent/dp/B0B2DKNC4G?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003474&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fcan-a-keyboard-upgrade-make-you-a-faster-typist%2F&asc%5Fcampaign=Evergreen) and the [Royal Kludge RK84](https://www.amazon.com/RK-ROYAL-KLUDGE-Connectable-Hot-Swappable/dp/B08M3CRLGW?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003474&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fcan-a-keyboard-upgrade-make-you-a-faster-typist%2F&asc%5Fcampaign=Evergreen). Have fun typing!
@@ -77,8 +85,6 @@ Sergio Rodriguez / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -86,4 +92,20 @@ Sergio Rodriguez / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ideo-basics-made-simple-a-list-of-10-accessible-youtube-projects-for-2024/"><u>[New] Video Basics Made Simple A List of 10 Accessible YouTube Projects for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1-acer-unveils-affordable-chromebook-plus-at-399-top-choice-for-cost-conscious-buyers/"><u>1. Acer Unveils Affordable Chromebook Plus at $399 - Top Choice for Cost-Conscious Buyers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-calendar-imprinting-techniques-in-photography/"><u>2024 Approved Calendar Imprinting Techniques in Photography</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/conversion-gratuite-de-fichiers-pgm-en-jpeg-en-ligne-avec-movavi/"><u>Conversion Gratuite De Fichiers PGM en JPEG en Ligne Avec Movavi</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/decoding-the-success-of-the-dell-xps-13-2-in-1-a-laptop-review-that-showcases-unmatched-capabilities/"><u>Decoding the Success of the Dell XPS 13 (2-in-1): A Laptop Review that Showcases Unmatched Capabilities</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/efficiency-meets-mobility-in-depth-review-of-kensun-tire-air-filler/"><u>Efficiency Meets Mobility: In-Depth Review of Kensun Tire Air Filler</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fix-presonus-audiobox-usb-driver-issue-easily-and-quickly/"><u>Fix Presonus AudioBox USB Driver Issue Easily & Quickly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ipad-pro-vs-macbook-air-showdown-determining-the-best-device-for-your-needs-a-comprehensive-guide-by-zdnet/"><u>IPad Pro Vs. MacBook Air Showdown: Determining the Best Device For Your Needs - A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-mobile-communication-activate-bings-ai-conversations-on-your-android-device/"><u>Mastering Mobile Communication: Activate Bing's AI Conversations on Your Android Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-3-affordable-laptops-on-cyber-monday-exclusive-offers-from-costco-amazon-and-dell-for-under-1k-guide/"><u>Top 3 Affordable Laptops on Cyber Monday: Exclusive Offers From Costco, Amazon & Dell for Under $1K Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-save-300-on-the-asus-vivobook-pro-now-available-exclusively-on-amazon/"><u>Unbeatable Deal: Save $300 on the Asus VivoBook Pro - Now Available Exclusively on Amazon</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-workplace-efficiency-an-in-depth-look-at-this-years-hidden-gem-among-2-in-1-laptops/"><u>Unlocking Workplace Efficiency: An In-Depth Look at This Year's Hidden Gem Among 2-In-1 Laptops</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-how-to-make-a-flv-photo-slideshow-for-2024/"><u>Updated How to Make a FLV Photo Slideshow for 2024</u></a></li>
+</ul></div>
 

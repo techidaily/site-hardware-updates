@@ -1,7 +1,7 @@
 ---
 title: "Get the Deal: Premium Refurbished 128GB Microsoft Surface Laptop for Only $320 Shop"
-date: 2024-11-21T20:30:54.938Z
-updated: 2024-11-27T18:42:06.722Z
+date: 2024-12-03T22:24:38.808Z
+updated: 2024-12-06T22:09:43.175Z
 tags:
   - laptops
 categories:
@@ -18,7 +18,7 @@ StackCommerce
 _The following content is brought to you  partners. If you buy a product featured here, we may earn an affiliate commission or other compensation._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -26,7 +26,7 @@ _The following content is brought to you  partners. If you buy a product feature
 [![surfacelaptop4rumors.jpg](https://www.zdnet.com/a/img/resize/a3c4608a44be85775a0e3ed8231bdbc5a96a64bb/2021/04/07/b01eaac1-9368-4ab6-87c6-12317046ff37/surfacelaptop4rumors.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 It's hard to imagine anyone keeping a five-year-old smartphone for heavy use these days, but laptops? That's another story completely. There are many older models out there that are just as effective today as they were when they came out. That's why refurbished laptops make a great choice for budget-conscious buyers, and we're featuring several of the best picks from around the web on our [Deals page](https://www.zdnet.com/deals/). One of the top selections: This [Microsoft Surface Laptop](https://stacksocial.com/sales/surface-laptop-1-i5-7200u-8gb-w10-pro-refurb-128gb?utm%5Fsource=zdnet.com&utm%5Fmedium=referral&utm%5Fcampaign=surface-laptop-1-i5-7200u-8gb-w10-pro-refurb-128gb&utm%5Fterm=scsf-556405&utm%5Fcontent=a0x1P000004yVyTQAU&scsonar=1&aid=a-ceempx7z), certified refurbished at a price that's more than $200 off the original MSRP.
@@ -72,17 +72,20 @@ Right now, ZDNet readers can take home this [2017 Surface Laptop in silver for $
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-grasping-valheim-greenery-leading-saplings-explored/"><u>[New] 2024 Approved Grasping Valheim Greenery Leading Saplings Explored</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-top-10-facebook-video-players/"><u>[New] Top 10 Facebook Video Players</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/solved-lg-monitor-driver-issues-on-windows-11-7-81/"><u>[Solved] LG Monitor Driver Issues on Windows 11, 7, 8.1</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-23-key-metaverse-implementations-unveiling-future-prospects/"><u>[Updated] In 2024, 23 Key Metaverse Implementations Unveiling Future Prospects</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-prolonged-patrol-top-endurance-aerial-vehicles-revealed/"><u>[Updated] Prolonged Patrol Top Endurance Aerial Vehicles Revealed</u></a></li>
-<li><a href="https://os-tips.techidaily.com/amazed-by-my-experience-with-airpods-pro-2-the-incredible-upgrade/"><u>Amazed by My Experience with AirPods Pro 2: The Incredible Upgrade</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/aomei-backupperwindows/"><u>AOMEI BackupperでWindowsに最適化された無料のディスクバックアップソフトウェア</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fast-and-hassle-free-installation-of-amd-ryzen-5-2400g-driver-updates/"><u>Fast and Hassle-Free Installation of AMD Ryzen 5 2400G Driver Updates</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-updates-for-your-hp-deskjet-3700-driver-software-downloads-available-now/"><u>Get the Newest Updates for Your HP Deskjet 3700: Driver Software Downloads Available Now</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-oppo-reno-11-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Oppo Reno 11 5G? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-chortlecove-app-where-laughter-thrives-online/"><u>In 2024, ChortleCove App - Where Laughter Thrives Online</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-logitech-m185-drivers-complete-guide-and-download-links/"><u>Install Logitech M185 Drivers - Complete Guide & Download Links</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-simplifying-tiktok-video-sharing-for-twitter/"><u>[New] Simplifying TikTok Video Sharing for Twitter</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-visuals-that-convert-mastering-the-art-of-video-marketing-on-insta/"><u>[New] Visuals That Convert Mastering the Art of Video Marketing on Insta</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solved-update-synaptics-ps2-port-touchpad-drivers-quickly-and-easily/"><u>[Solved] Update Synaptics PS/2 Port TouchPad Drivers Quickly & Easily</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-landmarks-of-virtual-reality-showcases/"><u>[Updated] Landmarks of Virtual Reality Showcases</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-penning-powerful-film-prospectus/"><u>[Updated] Penning Powerful Film Prospectus</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-tecno-spark-10-4g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/assessing-inshot-a-thorough-comparative-study-for-2024/"><u>Assessing InShot A Thorough Comparative Study for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/complete-review-for-hero4-black/"><u>Complete Review for Hero4 Black</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-to-the-newest-dell-wi-fi-driver-for-optimal-performance/"><u>Download and Update to the Newest Dell Wi-Fi Driver for Optimal Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-driver-for-hp-deskjet-3755-all-in-one-on-windows-1087/"><u>Download the Newest Driver for HP DeskJet 3755 All-In-One on Windows 10/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974052819-effortless-driver-installation-grab-your-usb-camera-software-today/"><u>Effortless Driver Installation: Grab Your USB Camera Software Today!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-gt-5-240ws-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass GT 5 (240W)’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/limited-field-only-56-arm-based-windows-pcs-tested-with-qualcomm-copilotplus-in-past-month/"><u>Limited Field: Only 56 Arm-Based Windows PCs Tested with Qualcomm Copilot+ in Past Month</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-download-and-update-solution-for-hp-elitebook-8460p-on-windows-systems-fixed/"><u>Ultimate Download & Update Solution for HP Elitebook 8460P on Windows Systems [FIXED]</u></a></li>
+<li><a href="https://win-unique.techidaily.com/usb-pc/"><u>USB儲存設備高效遞送法 : 如何在不久時間內將硬碟檔移動到PC</u></a></li>
 </ul></div>
 

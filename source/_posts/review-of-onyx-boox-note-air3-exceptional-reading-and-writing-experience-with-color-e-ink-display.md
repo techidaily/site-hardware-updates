@@ -1,7 +1,7 @@
 ---
 title: Review of Onyx Boox Note Air3 - Exceptional Reading and Writing Experience with Color E-Ink Display
-date: 2024-08-28T01:59:25.803Z
-updated: 2024-08-29T01:59:25.803Z
+date: 2024-12-05T22:54:48.734Z
+updated: 2024-12-06T19:49:31.303Z
 tags:
   - hardware
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![The Onyx Boox Note Air3 C tablet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1_0ced3fc3-c566-4ea8-a731-d3ce83eef481.png) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Onyx Boox Note Air3 C 
 
@@ -101,6 +105,10 @@ Expand
 
 [Amazon](https://www.amazon.com/BOOX-Tablet-Note-Air-ePaper/dp/B0CHF423CP/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002777&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fonyx-boox-note-air3-c-review%2F&asc%5Fcampaign=Authority) [B&H Photo](https://www.bhphotovideo.com/c/product/1790645-REG/boox%5Fopc1128r%5F10%5F3%5Fnote%5Fair3%5Fc.html/BI/22163/KBID/28708/SID/UUhtgUeUpU2002777) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  A Sleek Look and Feel
 
 ![Close up of the Boox Note Air3 C magnetic pen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/close-up-of-the-boox-note-air3-c-magnetic-pen_53567676880_o.jpg) 
@@ -115,13 +123,14 @@ Close
 
  The power button is at the top edge, while the USB-C port for charging is on the device's left edge. This side also contains the speakers and a microSD card slot. The back features more of the sleek matte black, which does prevent some fingerprint marks from appearing as obvious, and a thin orange stripe with the Boox "Note Air3 C" logo.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Performance: A UI Interface That's Simple Enough but Has Limitations
 
 ![Settings page open on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/settings-page-open-on-the-boox-note-air3-c_53567555564_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  With an Android 12 operating system, this tablet offers the best of both worlds. It makes an excellent alternative to a Kindle or Nook, for example, if you're looking for something with extra features. However, because I found one of the best features to be ebook annotation and the notebook capabilities of the Boox Air3 C, I would compare it more readily to the [Amazon Kindle Scribe](https://android-unlock.techidaily.com/how-to-reset-a-locked-samsung-galaxy-f54-5g-phone-by-drfone-android/).
@@ -138,9 +147,6 @@ Jerome Thomas / How-To Geek
 
 ![The notepad open on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-notepad-open-on-the-boox-note-air3-c_53567432378_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Although I'm a proponent of that pen-to-paper feeling, that isn't something I've found on electronic devices, but the Boox Note Air3 C replicated it as well as a tablet can. The tablet came with a large magnetic stylus that easily attached to the side of the device and looped well through the tab of the included cover, which is well-made but nothing to write home about. The lightweight pen was comfortable to grip, and it required no charging—I started writing straight out of the box. The writing pressure needed to use the stylus was similar to using a pencil or smooth-gliding ballpoint pen (not too soft, not too heavy), while the textured feel of the stylus to the screen felt satisfying, and even made a nice noise, if that sort of thing thrills you as it does me.
@@ -156,8 +162,9 @@ Jerome Thomas / How-To Geek
 ![The text recognition on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-text-recognition-on-the-boox-note-air3-c_53567432338_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  And exporting my notepads (or single pages) was a game-changer, since I could convert them to PDFs and send them to my computer or Google Drive. I also synced a notebook to the Kindle app (which I downloaded via Google Play) and used Quick Share and Bluetooth to transfer files from the device.
@@ -171,8 +178,9 @@ Jerome Thomas / How-To Geek
 ![A book open on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/a-book-open-on-the-boox-note-air3-c_53567676895_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  Most people may come to the Boox Note Air3 C for reading, and the device does well here. I read a few titles I downloaded from the Boox Store, but the inventory in the store was small and seemed only to feature titles available through Project Gutenberg. One such title I picked for a quick meander was Henry David Thoreau's "Walden," which I've read before.
@@ -181,9 +189,6 @@ Jerome Thomas / How-To Geek
 
 ![The book store on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-book-store-on-the-boox-note-air3-c_53567234536_o.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Despite the low stock in the Boox Book Store, I downloaded other eReader apps through the Google Play App, including the Kindle app and Play Books, plus Audible for audiobook listening. All of these apps performed well on the Note Air3 C, whether I was reading H.G. Wells' "The Invisible Man" via Play Books, looking for recipes in one of my cookbook ebooks on Kindle, or listening to one of my in-progress audiobooks. As noted before, however, audiobook listening (or any listening) works best on the Note Air3 C if you use [wireless earbuds](https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-xs-max-5-ways-to-get-into-a-locked-apple-iphone-xs-max-by-drfone-ios/) or a pair of wired earbuds plugged into the USB-C port—otherwise, the speaker system is too low and squashy.
@@ -193,6 +198,10 @@ Jerome Thomas / How-To Geek
 ##  Good Battery Life, Standard Charging
 
 ![The app page on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-app-page-on-the-boox-note-air3-c_53567555549_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -210,9 +219,6 @@ Jerome Thomas / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 #####  Onyx Boox Note Air3 C 
 
 8/ 10 
@@ -227,8 +233,6 @@ The Onyx Boox Note Air3 C features a 10.3-inch display with a gorgeous blend of 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -236,4 +240,19 @@ The Onyx Boox Note Air3 C features a 10.3-inch display with a gorgeous blend of 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-elevate-your-videos-the-essential-guide-to-screencasts-today/"><u>[New] Elevate Your Videos The Essential Guide to Screencasts Today</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-introduce-audible-elements-seamlessly-to-premiere-pro/"><u>[New] Introduce Audible Elements Seamlessly to Premiere Pro</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitter-to-whatsapp-sharing-videos-simplified/"><u>[Updated] In 2024, Twitter to WhatsApp Sharing Videos Simplified</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-to-introduce-spy-proof-cameras-in-airpods-by-2026-unveiling-the-future-with-details-from-zdnet/"><u>Apple to Introduce Spy-Proof Cameras in AirPods by 2026? Unveiling the Future with Details From ZDNET</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cool-down-high-wmi-cpu-usage-in-windows-11/"><u>Cool Down High WMI CPU Usage in Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-review-how-this-years-standout-2-in-1-innovation-surprises-with-its-overlooked-workplace-benefits-zdnet-insights/"><u>Exclusive Review: How This Year's Standout 2-in-1 Innovation Surprises With Its Overlooked Workplace Benefits | ZDNET Insights</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Motorola Moto E13? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-virtual-floor-essential-tips-for-attending-microsofts-ai-event-with-surface-and-windows-features-what-to-look-forward-to-digitalsphere/"><u>Navigating the Virtual Floor: Essential Tips for Attending Microsoft's AI Event with Surface and Windows Features - What to Look Forward To | DigitalSphere</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721466498751-struggling-with-unwanted-sounds-in-airpods-fix-it-by-deactivating-dynamic-head-tracking/"><u>Struggling with Unwanted Sounds in AirPods? Fix It by Deactivating Dynamic Head Tracking.</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-collective-evaluation-of-vllo/"><u>The Collective Evaluation of VLLO</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-premium-portable-screens-expert-testing-and-reviews-pcmag/"><u>Ultimate Guide to Premium Portable Screens - Expert Testing and Reviews | PCMag</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-the-power-of-satechis-ultimate-multi-functional-usb-c-hub-only-150/"><u>Unleash the Power of Satechi's Ultimate Multi-Functional USB-C Hub - Only $150!</u></a></li>
+</ul></div>
 

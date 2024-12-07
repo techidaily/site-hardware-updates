@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to the Best 15-Inch Portable PCs : Rigorous Analysis and Ratings"
-date: 2024-11-24T18:55:59.822Z
-updated: 2024-11-27T19:38:45.996Z
+date: 2024-12-05T21:58:47.657Z
+updated: 2024-12-06T16:01:58.871Z
 tags:
   - laptops
 categories:
@@ -43,11 +43,11 @@ Cons
 * Not all CPU options support up to 64GB of RAM
 * Incompatible with discrete GPUs
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Lenovo ThinkPad Z13
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best Linux laptop overall
 
@@ -75,6 +75,10 @@ Cons
 * No fast charge feature
 
 ## Dell XPS 15
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best configurable Linux laptop
 
@@ -134,10 +138,6 @@ Cons
 
 ## MSI Stealth Studio AI
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best Linux laptop for gaming
 
 While the [Linux gaming community](https://store.steampowered.com/hwsurvey/Steam-Hardware-Software-Survey-Welcome-to-Steam) is small, more developers are offering support for popular versions like Ubuntu. The MSI Stealth Studio is an excellent gaming laptop that also supports Linux, allowing you to run a dual-boot system for tinkering. With an Nvidia RTX 4070, you'll have all the graphics processing power you need to handle almost any triple-A game in your library and on your wish list.
@@ -165,7 +165,7 @@ Cons
 * Somewhat thick and heavy design
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Surface Laptop Studio 2
@@ -184,10 +184,6 @@ Both Kerry Wan and Max Buondonno of ZDNET got to try out the Surface Laptop Stud
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best Linux laptop?
 
 My choice for the best Linux laptop is the Lenovo ThinkPad Z13 Gen 2\. Lenovo is no stranger to offering Linux support for their laptops and desktops, and the ThinkPad Z13 takes the cake. It also offers several configuration options to help tailor the laptop to your specific work, learning, or hobbyist programmer/coder needs. It also has a more affordable price than some other options on the market, retailing for about $1200\. This makes it a great option for beginners and hobbyists who might not want to drop a lot of money on something they may not use much.
@@ -203,7 +199,7 @@ My choice for the best Linux laptop is the Lenovo ThinkPad Z13 Gen 2\. Lenovo is
 \*MSRP at time of writing. Please note that actual retail pricing may vary depending on the seller as well as available deals and promotions. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which Linux laptop is right for you?
@@ -229,10 +225,6 @@ What makes a machine worthy of belonging to the best Linux laptop list? Obviousl
 * **Cost:** Since Linux can run on just about any laptop as long as the hardware is supported, you can choose an older model (or even a used one) to load the operating system onto. This means you can save money on upgrades, especially if you're just starting out learning Linux.
 * **Open-source support:** Linux is an open-source operating system. You can find tons of online communities dedicated to learning Linux, tweaking source code, and reporting issues.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these Linux laptops?
 
 While we were researching and testing each Linux-compatible laptop on this list, we kept these criteria in mind:
@@ -252,7 +244,7 @@ This is a bit of a complicated answer.
 Yes, you can run Linux operating systems on MacBooks, Mac Minis, and Mac desktops. But there's a catch: you have to opt for an older model that uses an Intel Core processor instead of Apple's own M1 or M2 chips. Apple's silicon chips are starting to see Linux hobbyists and pros alike build support, but at the time of writing, the only reliable way to get Linux to run on an M1/M2 Mac is to use a [virtual machine](https://azure.microsoft.com/en-au/resources/cloud-computing-dictionary/what-is-a-virtual-machine/) which is a type of emulation program.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are there disadvantages to running Linux instead of Windows or MacOS?
@@ -262,7 +254,7 @@ The biggest hurdles you'll have to face when using Linux over Windows or MacOS a
 **Also:** [**Windows, Mac, or Linux? We compare the pros and cons of these computing platforms**](https://www.zdnet.com/article/windows-mac-or-linux-we-compare-the-pros-and-cons-of-these-computing-platforms/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What does "open-source" mean?
@@ -271,11 +263,19 @@ When talking about programming and coding, you may come across the term "open-so
 
 Linux is popular with programmers since it is open-source, which means that it's easy to try and make your own modifications or command lists. Or you can work together with the Linux community to resolve common bug issues or create new support programs for hardware like Apple's M3 Silicon Chips. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's the oldest computer you can run with Linux?
 
 The great thing about Linux is that it is an open source operating system. Which means there are a lot of different versions out there on forums and also the Internet Archive. And since there are so many different release versions, newcomers looking to save money on their first dedicated or dual-boot Linux machine can pick up a vintage computer at a thrift store, estate sale, or other secondhand store and likely find an operating system version that will run with it.
 
 A thread on the [Linux Mint Forums](https://forums.linuxmint.com/viewtopic.php?t=228393) is full of users who were able to use various versions of Linux Mint as well as Puppy (a version of Linux designed to be run from a flash drive, making it great for hobbyists who restore vintage tech) and Ubuntu on Windows Vista and Windows 98 computers (which intrepid tech hunters may be able to find for a bargain at a thrift store or secondhand online). And Tech Tangents on YouTube, a channel dedicated to restoring and archiving retro computer hardware and software, was able to revive a [TeleVideo 950 terminal](https://www.youtube.com/watch?v=ob7cEzXLxXU) that was originally released in 1980 and use a version of Linux on it. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More Linux laptops we tested
 
@@ -323,16 +323,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/iscovering-the-ultimate-10-free-youtube-artist-collaborators-for-2024/"><u>[New] Discovering the Ultimate 10 Free YouTube Artist Collaborators for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-image-illumination-choose-best-websites-with-photo-framing-features/"><u>[New] Image Illumination Choose Best Websites with Photo Framing Features</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-strategy-unveiled-masterful-box-opening-tactics/"><u>[Updated] Strategy Unveiled Masterful Box-Opening Tactics</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-ultimate-vr-experience-the-htc-vive-story/"><u>[Updated] Unveiling the Ultimate VR Experience The HTC Vive Story</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/6excel/"><u>維持工作效率：6種在Excel故障後即時解決方法</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-advice-keep-your-intel-hd-graphics-5500-updated-with-ease/"><u>Expert Advice: Keep Your Intel HD Graphics 5500 Updated with Ease</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-behringers-premium-driver-software-now-free-trial-and-full-download/"><u>Get Behringer's Premium Driver Software Now – Free Trial and Full Download</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-f15-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-updates-installing-the-thunderbolt-3-dock-adapter-on-your-lenovo-thinkpad/"><u>Latest Updates: Installing the Thunderbolt 3 Dock Adapter on Your Lenovo ThinkPad</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-pc-components-with-expertise-from-toms-tech-hub/"><u>Navigating PC Components with Expertise From Tom's Tech Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722973204491-nvidia-rtx-tiri-driver-for-widnows-10-8-and-7-get-your-free-download-here/"><u>NVIDIA RTX ˈtiːɡri Driver for Widnows 10, 8 & 7 - Get Your Free Download Here!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-achieving-financial-gain-with-youtube-shorts-essentials-opportunities-and-earning-prospects/"><u>[New] 2024 Approved Achieving Financial Gain with Youtube Shorts Essentials, Opportunities & Earning Prospects</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-digital-detective-work-cracking-the-code-to-live-streams/"><u>[Updated] 2024 Approved Digital Detective Work Cracking the Code to Live Streams</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-future-of-cloud-storages-top-picks-to-consider/"><u>[Updated] 2024 Approved The Future of Cloud Storages Top Picks to Consider</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-vr-selection-top-8-must-have-titles/"><u>[Updated] Ultimate VR Selection Top 8 Must-Have Titles</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-zte-nubia-z60-ultra-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on ZTE Nubia Z60 Ultra? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-info.techidaily.com/enhancing-your-computers-performance-boosting-cpu-and-ram-capabilities-expert-tips-from-yl-software/"><u>Enhancing Your Computer's Performance: Boosting CPU & RAM Capabilities - Expert Tips From YL Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-discover-the-ultimate-list-of-top-dell-deals-for-black-friday-and-cyber-monday-across-platforms-such-as-best-buy-and-amazon-gizmodo/"><u>Exclusive: Discover the Ultimate List of Top Dell Deals for Black Friday and Cyber Monday Across Platforms Such as Best Buy & Amazon | Gizmodo</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-ultimate-creators-setup-at-half-price-dramatic-1100-discount-on-high-performance-computers-for-gamers-and-producers-spotted-first-on-zdnet/"><u>Get the Ultimate Creator's Setup at Half Price! Dramatic $1,100 Discount on High-Performance Computers for Gamers and Producers – Spotted First on ZDNet.</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-sony-xperia-10-v-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Sony Xperia 10 V 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huawei-matebook-x-pro-examined-the-top-14/"><u>Huawei MateBook X Pro Examined: The Top 14</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-favorite-frames-most-engaged-ig-filters/"><u>In 2024, Favorite Frames Most Engaged IG Filters</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-apple-macbook-pro-with-m3-chip-at-200-less-amazons-spectacular-spring-clearance-event-zdnet-coverage/"><u>Snag the Apple MacBook Pro with M3 Chip at $200 Less - Amazon's Spectacular Spring Clearance Event! [ZDNet Coverage]</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-insider-guide-elevating-your-instagram-imagery-for-2024/"><u>The Insider Guide Elevating Your Instagram Imagery for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-48-unmissable-cyber-monday-bargains-in-gaming-save-on-consoles-pcs-laptops-and-games-zdnet/"><u>Top 48 Unmissable Cyber Monday Bargains in Gaming - Save on Consoles, PCs, Laptops & Games | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-15-inch-laptop-picks-for-2eplust-year-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top Rated 15-Inch Laptop Picks for 2E+t Year - Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-tablet-deals-on-cyber-monday-get-600-off-microsoft-surface-pro-8-post-black-friday-sale-insider/"><u>Top Tablet Deals on Cyber Monday: Get $600 Off Microsoft Surface Pro 8 Post-Black Friday Sale Insider</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-productivity-with-the-hp-copilotplus-my-experiment-as-a-digital-nomad-zdnet/"><u>Unlocking Productivity with the HP Copilot+: My Experiment as a Digital Nomad | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-hidden-gems-of-dells-best-value-laptop-with-smart-features-a-comprehensive-review/"><u>Unveiling the Hidden Gems of Dell's Best-Value Laptop with Smart Features – A Comprehensive Review</u></a></li>
 </ul></div>
 

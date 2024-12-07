@@ -1,7 +1,7 @@
 ---
 title: "Outperforming Apple: How LG Gram Pro Surpasses the MacBook Air Across Three Key Areas - Insights From a Comprehensive Review | ZDNet"
-date: 2024-11-25T16:09:33.484Z
-updated: 2024-11-27T20:20:41.496Z
+date: 2024-12-05T18:20:29.461Z
+updated: 2024-12-06T17:38:42.375Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -49,7 +49,7 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 How did this happen? Let's dive in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The experience is familiar
@@ -63,6 +63,10 @@ And as for the software, well … It's Windows 11, which looks and acts the same
 The big difference is that this next-gen device is extremely cool and quiet. After a three-hour Zoom call the other day, the chassis was barely warm; on an Intel-based machine, it would have been uncomfortably hot. There's a fan inside the Surface Pro 11, but I have yet to hear it run, even under the most demanding conditions. It's also extremely responsive, with none of the hesitation I occasionally noticed on the Surface Pro X. If you've used an M2-equipped MacBook Air, the feeling will be familiar.
 
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Battery life is a huge win
 
@@ -79,10 +83,6 @@ In real-world usage, the Surface Pro 11 battery lasts twice as long as an equiva
 Screenshot by Ed Bott/ZDNET
 
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
 
@@ -121,7 +121,7 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The AI story is incomplete
@@ -145,7 +145,7 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -192,24 +192,19 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-boosting-your-game-mastering-kinemaster-and-its-top-alternative-games/"><u>[Updated] In 2024, Boosting Your Game Mastering KineMaster and Its Top Alternative Games</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-directing-your-camera-roll-a-step-by-step-snapchat-integration/"><u>[Updated] In 2024, Directing Your Camera Roll A Step-by-Step Snapchat Integration</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-initial-steps-in-kinetic-illustration-techniques/"><u>2024 Approved Initial Steps in Kinetic Illustration Techniques</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/convertir-m4v-a-formato-swf-sin-coste-alguno-con-movavi/"><u>Convertir M4V a Formato SWF Sin Coste Alguno Con Movavi</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-latest-brother-hl-2270dw-drivers-on-your-windows-computer/"><u>Download and Install the Latest Brother HL-2270DW Drivers on Your Windows Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722970168793-download-and-install-the-latest-epson-wf-3620-printer-driver-for-windows-11-8-and-7/"><u>Download and Install the Latest Epson WF-3620 Printer Driver for Windows 11, 8 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-techkey-bluetooth-adapter-drivers-for-compatibility-with-windows-1178/"><u>Download Techkey Bluetooth Adapter Drivers for Compatibility with Windows 11/7/8</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-updated-mpow-bluetooth-software-for-your-pc-windows-10-8-and-7-support/"><u>Download Updated MPOW Bluetooth Software for Your PC (Windows 10, 8 & 7 Support)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-install-guide-fresh-epson-wf-3640-drivers-for-windows-computers/"><u>Easy Install Guide: Fresh Epson WF-3640 Drivers for Windows Computers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-razer-mamba-driver-fast-and-easy/"><u>Get Your Razer Mamba Driver Fast and Easy</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-vivo-y55s-5g-2023-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Vivo Y55s 5G (2023) Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Samsung Galaxy M34? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g14-phone-without-google-account-by-drfone-android/"><u>How to Unlock Motorola Moto G14 Phone without Google Account?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-facebooks-favorites-top-10-viral-music-videos-guide/"><u>In 2024, Facebook's Favorites TOP 10 Viral Music Videos Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/keep-your-pc-updated-secure-rtx-2080-super-nvidia-drivers-for-new-windows-11-systems/"><u>Keep Your PC Updated: Secure RTX 2080 Super Nvidia Drivers for New Windows 11 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/samsung-960-evo-nvme-ssd-driver-download-compatible-with-windows-operating-systems/"><u>Samsung 960 EVO NVMe SSD Driver Download: Compatible with Windows Operating Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-your-sound-direct-download-of-updated-realtek-asio-driver-for-windows-11/"><u>Secure Your Sound: Direct Download of Updated Realtek Asio Driver for Windows 11</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/solving-the-0xc004f213-bug-in-windows-11-step-by-step-tutorial/"><u>Solving the 0xC004F213 Bug in Windows 11 - Step-by-Step Tutorial</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/which-screen-grab-tool-wins-insights-into-obs-vs-fraps-for-2024/"><u>Which Screen Grab Tool Wins? Insights Into OBS vs Fraps for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-hacks-averted-restore-your-facebook-account-safely-for-2024/"><u>[New] Hacks Averted! Restore Your Facebook Account Safely for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-propel-your-visuals-forward-seamlessly-combining-windows-photos-and-storyremix/"><u>[New] Propel Your Visuals Forward Seamlessly Combining Windows, Photos, and StoryRemix</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-from-simple-designs-to-compelling-animated-graphics/"><u>In 2024, From Simple Designs to Compelling Animated Graphics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-productivity-should-you-turn-to-bing-chat-or-gpt-3-7-factors/"><u>Optimizing Productivity: Should You Turn to Bing Chat or GPT-3? 7 Factors</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/while-you-teach-hosting-low-cost-seminars-via-youtube-for-2024/"><u>Save While You Teach Hosting Low-Cost Seminars via YouTube for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-launch-of-lgs-tandem-oled-production-revolutionizing-screen-brilliance-with-a-victory-in-the-dell-xps-absolutely-here-are-five-alternative-seo-friendly-42/"><u>The Launch of LG's Tandem OLED Production: Revolutionizing Screen Brilliance with a Victory in the Dell XPS Absolutely, Here Are Five Alternative SEO-Friendly Titles that Convey Similar Meanings to Your Original Title</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-resource-for-understanding-top-tech-by-toms-hardware/"><u>The Ultimate Resource for Understanding Top Tech by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-review-destination-for-enthusiasts-discover-toms-hardware/"><u>The Ultimate Review Destination for Enthusiasts – Discover Tom's Hardware</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-samsung-galaxy-m14-4g-by-fonelab-android-recover-music/"><u>The way to get back lost music from Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/title-elevate-your-gaming-with-the-asus-rog-strix-xg27acs-a-review-of-its-dynamic-qhd-display-and-robust-accuracy/"><u>Title: Elevate Your Gaming with the Asus ROG Strix XG27ACS: A Review of Its Dynamic QHD Display and Robust Accuracy</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-comprehensive-guide/"><u>Tom's Tech Review: Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-in-depth-insights-into-cutting-edge-hardware/"><u>Tom's Tech Review: In-Depth Insights Into Cutting-Edge Hardware</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-fixes-for-non-responsive-brightness-buttons-in-windows-10/"><u>Ultimate Fixes for Non-Responsive Brightness Buttons in Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-the-highest-quality-stylus-tablets-industry-insights-and-ratings/"><u>Ultimate Guide to the Highest-Quality Stylus Tablets - Industry Insights and Ratings</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis of GameSir X2s Type-C Controller: A Perfect Fit for Adult Gamers"
-date: 2024-08-28T01:58:09.581Z
-updated: 2024-08-29T01:58:09.581Z
+date: 2024-11-30T21:53:05.825Z
+updated: 2024-12-06T17:13:17.763Z
 tags:
   - hardware
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/1734faea8dc6fb99b0356fb7510aa58c46806122f
 ---
 
 ## In-Depth Analysis of GameSir X2s Type-C Controller: A Perfect Fit for Adult Gamers
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -75,6 +79,10 @@ The GameSir X2s Type-C Mobile Gaming controller works with most USB-C-compatible
 
 Expand 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Retro-Inspired for an Awkward, Lacking Design
 
 ![GameSir X2s Type-C gaming controller showing back](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/gamesir-x2s-rear.jpg) 
@@ -89,16 +97,14 @@ Sergio Rodriguez / How-To Geek
 
  Unfortunately, I think GameSir got caught up with making a budget-friendly option without considering what that entails. There’s still no USB-C audio passthrough or 3.5mm jack, a carryover issue from the [X2 controller](https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-g22-phone-pattern-lock-without-factory-reset-by-drfone-android/). You’ll either need a wireless headset or restrict playing in public to avoid annoying all around you. Even when playing in private, mobile phones, like the Google Pixel 8 Pro I tested the X2s with, have decent speakers, but they don’t replace the quality and clarity of a headset.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Flimsy Build with Sturdy, Responsive Inputs
 
 ![GameSir X2s Type-C close up of face buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/gamesir-x2s-close-up.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  Size aside, the control is a simple, flimsy, lightweight piece of plastic that doesn’t do its buttons any justice. I really expected that the face buttons, triggers, or joysticks would feel loose or wouldn’t register inputs properly, as it felt like GameSir really went low-budget. But they didn't.
@@ -107,13 +113,18 @@ Sergio Rodriguez / How-To Geek
 
  I tested games like “Call of Duty Mobile,” “Brawlhalla,” “Gears 5,” and “Forza Horizon 5,” and I felt the X2s worked well for each of the varying gameplay. The automatic button-mapping for “Call of Duty Mobile” was flawless, and the responsiveness during the chaotic fights of “Brawlhalla” didn’t disappoint. I also didn’t notice any glaring issues with how the controller worked with streaming “Gears 5” and “Forza.”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Simplicity With Plenty to Offer
 
 ![GameSir X2s Type-C front view](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/gamesir-x2s-type-c-overview.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  The overall design of the X2s is simple. There are no bells and whistles, and it really relies on that “retro” styling to appeal to players. I wish it appealed more to me. It’s just not something I can game on for long. It’s a shame, too, because GameSir didn’t skimp on some of its staple features carried over from premium mobile controllers.
@@ -126,9 +137,6 @@ Close
 
  There are two additional controller modes—DS5 and HiD—but neither seemed to change much, save, maybe, for compatibility. GameSir’s manuals aren’t clear, but both seem to exist to allow the X2s to run games that already have native controller support, with DS5 mode made specifically for the PS5\. In future models, I’d like to see a mobile controller that mimics DualSense’s haptic feedback trigger so you can get the full experience of playing on the console.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Limited Only By Your Gaming Library
 
 ![Falout Shelter running on GameSir X2s Type-C](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/gamesirt-x2s-type-c-fallout.jpg) 
@@ -149,14 +157,8 @@ Sergio Rodriguez / How-To Geek
 
 ![GameSir X2s Type-C](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/gamesir-x2s-type-c.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 #####  GameSir X2s Type-C Controller
 
 8/ 10 
@@ -171,8 +173,6 @@ The GameSir X2s Type-C Mobile Gaming controller works with most USB-C-compatible
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +180,23 @@ The GameSir X2s Type-C Mobile Gaming controller works with most USB-C-compatible
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-edit-youtube-videos-ultimate-guide/"><u>[New] 2024 Approved How To Edit YouTube Videos [Ultimate Guide]</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-proven-tips-and-tricks-to-nail-every-green-screen-scene/"><u>[New] 2024 Approved Proven Tips and Tricks to Nail Every Green Screen Scene</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/roven-pathways-to-profit-with-youtube-short-videos/"><u>[New] Proven Pathways to Profit with YouTube Short Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tiktok-to-twitter-strategy-for-maximum-engagement/"><u>[New] TikTok-to-Twitter Strategy for Maximum Engagement</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-ensure-your-virtual-meetings-are-documented-for-2024/"><u>[Updated] How to Ensure Your Virtual Meetings Are Documented for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-seamless-guide-to-utilizing-mobizen-screen-recorder/"><u>[Updated] In 2024, Seamless Guide to Utilizing Mobizen Screen Recorder</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-lenovo-thinkphone-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/college-students-guide-to-the-perfectly-priced-299-laptop-expert-advice/"><u>College Student's Guide to the Perfectly Priced $299 Laptop | Expert Advice</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/future-of-office-tech-adapting-workplace-gadgets-for-success-in-an-age-of-artificial-intelligence-insights/"><u>Future of Office Tech: Adapting Workplace Gadgets for Success in an Age of Artificial Intelligence - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-premium-4tb-samsung-t5-ssd-at-half-price-from-amazon-exclusive-details-by-zdnet/"><u>Get Your Hands on the Premium 4TB Samsung T5 SSD at Half Price From Amazon - Exclusive Details by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/innovative-laptop-holder-enables-mobile-phones-to-act-as-extra-monitors-says-zdnet-review/"><u>Innovative Laptop Holder Enables Mobile Phones to Act as Extra Monitors, Says ZDNet Review</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/klonen-von-abteilungen-im-unternehmenskontext-ist-es-notwendig-informative-antworten-auf-ihre-fragen/"><u>Klonen Von Abteilungen Im Unternehmenskontext – Ist Es Notwendig? Informative Antworten Auf Ihre Fragen.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/limited-time-offer-grab-the-8-cyber-monday-special-on-an-iphone-webcam-mount-in-stock/"><u>Limited Time Offer: Grab the $8 Cyber Monday Special on an iPhone Webcam Mount - In Stock!</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-htc-u23-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of HTC U23</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-best-ultimate-cyber-monday-deals-on-high-performance-laptops-(1000-at-dell-costco-and-amazon-recommendations/"><u>Snag the Best: Ultimate Cyber Monday Deals on High-Performance Laptops <$1000 at Dell, Costco & Amazon | Recommendations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-black-friday-bargain-snag-lenovos-flex-99-deal-before-cyber-monday-chaos-zdnet/"><u>Unbeatable Black Friday Bargain: Snag Lenovo's Flex 지난에 $99 Deal Before Cyber Monday Chaos | ZDNET</u></a></li>
+</ul></div>
 

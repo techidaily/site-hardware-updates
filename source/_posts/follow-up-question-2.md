@@ -1,7 +1,7 @@
 ---
 title: "Follow-Up Question 2:"
-date: 2024-11-22T19:22:36.921Z
-updated: 2024-11-27T20:35:52.208Z
+date: 2024-11-29T16:29:00.043Z
+updated: 2024-12-07T01:39:09.214Z
 tags:
   - laptops
 categories:
@@ -27,7 +27,7 @@ Our core testing philosophy is simple: while it's imperative to gather data, num
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops in 2024
@@ -39,7 +39,7 @@ You only get one first impression, and when we get a new laptop to review, we al
 We give all the devices we test equal footing by starting with the most recent updates to the device's operating system, as well as all relevant drivers for the GPU, BIOS, and hardware. It can be easy to skip over these updates, but you don't need me to tell you that not updating your computer can result in some bizarre behavior. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The core components of a laptop
@@ -55,7 +55,7 @@ These are the most important core system metrics we look at during the testing p
 * **Physical form factor:** Finally, the laptop's overall appearance and physical form factor encompasses its weight, thickness, how the keyboard and trackpad feel, and whether or not it has a display that can be folded back to form a tablet or touchscreen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What makes a laptop ZDNET Recommended?
@@ -68,7 +68,7 @@ Obviously, more factors go into a laptop's final review other than being simply 
 * **Excellence:** A highly recommended laptop should punch above its weight in multiple areas. We want to highlight laptops that don't just meet the bar but exceed it, either in design, battery life, display, performance, or value.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Benchmarking and system data
@@ -108,7 +108,7 @@ We then set the display's brightness and audio at 50%, turn off any RGB or keybo
 With this in mind, putting every laptop we review to the test is more important than ever, to get to the bottom of manufacturers' sometimes "ambitious" claims. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The human element
@@ -165,17 +165,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-a-step-by-step-breakdown-creating-your-best-yt-shorts/"><u>[New] 2024 Approved A Step-by-Step Breakdown Creating Your Best YT Shorts</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-unleashing-your-ads-potential-maximizing-revenue-with-fb-animation-strategies/"><u>[Updated] 2024 Approved Unleashing Your Ad's Potential Maximizing Revenue with FB Animation Strategies</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-free-game-recording-software-of-2024/"><u>[Updated] The Free Game Recording Software of 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/complete-step-by-step-to-google-podcast-success-for-2024/"><u>Complete Step-by-Step to Google Podcast Success for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/enhancing-images-prime-photo-frame-plugins-and-websites-for-2024/"><u>Enhancing Images Prime Photo Frame Plugins & Websites for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-y17s-lock-screen-password-by-drfone-android/"><u>How To Change Vivo Y17s Lock Screen Password?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-thunderbolt-station-dock-driver-download-for-both-120w-and-230w-configurations-free-and-easy-installation/"><u>HP Thunderbolt Station (Dock) Driver Download for Both 120W and 230W Configurations - Free & Easy Installation</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-honor-v-purse-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Honor V Purse Device SIM</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-software-for-your-logitech-g430-headset-get-the-latest-drivers/"><u>Install Software for Your Logitech G430 Headset: Get the Latest Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/logitech-racing-wheels-driver-installation-guide-windows-users/"><u>Logitech Racing Wheels Driver Installation Guide – Windows Users</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/rapid-remedies-for-blue-screen-of-death-due-to-faulty-system-settings/"><u>Rapid Remedies for 'Blue Screen of Death' Due to Faulty System Settings</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-downloading-the-latest-logitech-g920-drivers-for-all-windows-versions/"><u>Step-by-Step Guide to Downloading the Latest Logitech G920 Drivers for All Windows Versions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-visualize-success-with-these-three-insta-video-caption-approaches-for-2024/"><u>[New] Visualize Success with These Three Insta Video Caption Approaches for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-capture-and-save-with-ease-top-5-pc-snipers-reviewed/"><u>2024 Approved Capture & Save with Ease Top 5 PC Snipers Reviewed</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-how-youtube-determines-your-true-view-count/"><u>2024 Approved How YouTube Determines Your True View Count</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-tecno-pova-5-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Tecno Pova 5 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/charting-your-course-in-the-realm-of-youtube-shorts-for-2024/"><u>Charting Your Course in the Realm of YouTube Shorts for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-the-philips-hf3520-clock-radio-value-meets-performance/"><u>Comprehensive Guide to the Philips HF3520 Clock Radio: Value Meets Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722955816327-get-the-newest-amd-graphics-driver-for-win-11107-free-downloads-now/"><u>Get the Newest AMD Graphics Driver for Win 11/10/7 - Free Downloads Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-microsoft-wireless-mouse-5000-up-and-running-fast-download-of-drivers/"><u>Get Your Microsoft Wireless Mouse 5000 Up and Running - Fast Download of Drivers!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huion-h610-pro-drawing-tablet-driver-download/"><u>Huion H610 Pro Drawing Tablet Driver Download</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-web-based-movie-trailer-creation-platforms/"><u>New Web-Based Movie Trailer Creation Platforms</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-guide-to-downloading-samsung-m207fw-drivers-hassle-free-process/"><u>Quick Guide to Downloading Samsung M207#FW Drivers: Hassle-Free Process</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-source-for-pc-enthusiasts-insights-from-toms-hardware/"><u>The Ultimate Source for PC Enthusiasts: Insights From Tom's Hardware</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Tecno Spark 10 Pro | Dr.fone</u></a></li>
 </ul></div>
 

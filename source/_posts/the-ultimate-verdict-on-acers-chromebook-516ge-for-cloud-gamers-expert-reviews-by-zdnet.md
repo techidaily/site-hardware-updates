@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Verdict on Acer's Chromebook ^516GE for Cloud Gamers | Expert Reviews by ZDNET
-date: 2024-11-22T19:51:53.650Z
-updated: 2024-11-27T19:07:14.959Z
+date: 2024-12-01T01:14:10.780Z
+updated: 2024-12-06T16:16:25.492Z
 tags:
   - laptops
 categories:
@@ -34,6 +34,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/9c5c604a660fb3917fa9d4e87d43e90659
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The redesigned (13-inch) M2 MacBook Air was so impressive from a design and performance standpoint that ZDNET named it our [Product of the Year for 2022](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/). The [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is a worthy successor, now offered in two sizes, 13-inch and 15-inch. ZDNET has tested both over the past week and has been [impressed enough with their three big upgrades](https://www.zdnet.com/article/apple-m3-macbook-air-hands-on-these-3-new-features-stood-out-to-me-most/) that it makes these new machines an easy buy recommendation for pros and enthusiasts who need more AI power and multiple external monitors. But, there are also some important buying considerations. 
@@ -43,10 +47,6 @@ First, the best thing about the arrival of the M3 MacBook Air models might be th
 One more thing to keep in mind if you're considering buying the 15-inch M3 MacBook Air: if you configure it with 16GB of RAM and 512GB of storage, then you'll be at $1,699 and quickly getting into 14-inch M3 MacBook Pro territory in terms of cost. If you're going to go there, I'd recommend opting for the 14-inch M3 MacBook Pro instead, because of its much better display and sound, and the fact that you can hook it up to two external monitors and still use the laptop's monitor as a third display.
 
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -78,7 +78,7 @@ In terms of qualitative testing, I wrote this article on the M3 MacBook Air and 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
@@ -110,7 +110,7 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Cinebench CPU/GPU benchmark (higher is better)
@@ -141,6 +141,10 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the best features of M3 MacBook Air?
 
 **Features and form factor make it a light "pro" laptop:** The thin, light, and compact design of the M3 MacBook Air makes it a great ultraportable laptop that is easy to carry and slip into virtually any bag or backpack. And with the fact that the M3 chip now packs more power than ever makes this a machine that is as powerful as the fastest pro laptops from just a couple of years ago. Case in point, take a look at the benchmark scores above of the M3 MacBook Air compared to the MacBook Pro with M1 Pro. It essentially matches or exceeds most of the numbers of that MacBook Pro, which was an absolute performance beast in recent years.
@@ -154,10 +158,6 @@ The M3 MacBook Air is powerful enough to feel like a desktop. Here, it's powerin
 Jason Hiner/ZDNET
 
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
 
@@ -176,7 +176,7 @@ Jason Hiner/ZDNET
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6a4cd20f-90e2-4305-8adc-535aae82592c%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6a4cd20f-90e2-4305-8adc-535aae82592c%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Final thought
@@ -235,15 +235,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-unlocking-full-potential-in-zoom-screensharing/"><u>[New] 2024 Approved Unlocking Full Potential in Zoom Screensharing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-industry-standards-selecting-prime-gear-for-ultimate-4k-results/"><u>[New] Industry Standards Selecting Prime Gear for Ultimate 4K Results</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ing-cash-flow-on-youtube-an-ad-free-blueprint-for-income/"><u>Creating Cash Flow on YouTube An Ad-Free Blueprint for Income</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-access-freshly-updated-wireless-adapter-drivers-ready-for-download/"><u>Easy Access: Freshly Updated Wireless Adapter Drivers Ready for Download!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhancing-email-chats-the-ultimate-technique-for-connecting-google-duet-with-gmail/"><u>Enhancing Email Chats: The Ultimate Technique for Connecting Google Duet with Gmail</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-toms-computer-essentials-the-ultimate-hardware-resource/"><u>Exploring Tom's Computer Essentials: The Ultimate Hardware Resource</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-tech-insights-from-toms-hardware-expertise/"><u>Mastering Tech: Insights From Tom's Hardware Expertise</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/thinkpad-t420s-drivers-download-and-update-for-windows-11/"><u>ThinkPad T420s Drivers Download & Update For Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/top-4-pairings-winning-webp-viewers-and-windows-devices/"><u>Top 4 Pairings: Winning WebP Viewers & Windows Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-installing-logitech-mx-master-drivers-and-setup/"><u>Ultimate Guide: Installing Logitech MX Master Drivers & Setup</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-demystifying-ajeys-monetization-strategy-youtube-edition/"><u>[New] 2024 Approved Demystifying Ajey's Monetization Strategy - YouTube Edition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-comparative-study-of-vsdc-vs-best-video-recorders/"><u>[New] In 2024, Comparative Study of VSDC vs Best Video Recorders</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-compelling-compositions-with-magix-fruity-loops-for-2024/"><u>Crafting Compelling Compositions with Magix Fruity Loops for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-a-quality-curved-screen-for-gamers-acers-24-monitor-sale-hits-just-81/"><u>Get a Quality Curved Screen for Gamers – Acer's 24 Monitor Sale Hits Just $81!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-ultimate-deal-samsung-odyssey-g50a-27-qhd-ips-display-for-only-255-on-amazon/"><u>Get the Ultimate Deal: Samsung Odyssey G50A 27 QHD IPS Display for Only $255 on Amazon</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-90-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor 90 Pro Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huge-discount-experience-ultimate-gaming-with-the-sceptre-24-inch-curved-monitor-for-only-79/"><u>Huge Discount: Experience Ultimate Gaming with The Sceptre 24 Inch Curved Monitor for Only $79</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/immerse-in-unparalleled-viewing-with-asrocks-new-32-480hz-oled-monitor-the-ultimate-feast-for-vision-and-connectivity/"><u>Immerse in Unparalleled Viewing with ASROCK’s New 32 480Hz OLED Monitor – The Ultimate Feast for Vision and Connectivity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-definitive-list-of-video-stabilizer-brands-for-content-makers/"><u>In 2024, The Definitive List of Video Stabilizer Brands for Content Makers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-and-tips-from-toms-hardware-store/"><u>In-Depth Analysis and Tips From Tom's Hardware Store</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-toms-pc-world-expert-insights-on-hardware-innovations/"><u>Inside Tom's PC World: Expert Insights on Hardware Innovations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/leading-curved-gaming-screens-to-elevate-your-play-experience-2024/"><u>Leading Curved Gaming Screens to Elevate Your Play Experience, 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lgs-best-34-ultragear-monitor-qhd-resolution-and-g-sync-tech-now-only-549-on-amazon/"><u>LG's Best: 34 Ultragear Monitor, QHD Resolution & G-Sync Tech - Now Only $549 on Amazon!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-gadgets-and-pcs-with-tom-a-detailed-hardware-journey/"><u>Mastering Gadgets and PCs with Tom: A Detailed Hardware Journey</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pioneers-charting-extended-realms-course-for-2024/"><u>Pioneers Charting Extended Realms' Course for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-xiaomi-redmi-note-12t-pro-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/spark-ars-color-palette-expansion-via-free-accessible-lut-downloads-for-2024/"><u>Spark AR's Color Palette Expansion via Free, Accessible LUT Downloads for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-captivating-your-online-audience-for-2024/"><u>The Art of Captivating Your Online Audience for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/vuebell-camera-doorbell-analysis-economical-surveillance-on-a-shoestring/"><u>VueBell Camera Doorbell Analysis: Economical Surveillance on a Shoestring</u></a></li>
 </ul></div>
 

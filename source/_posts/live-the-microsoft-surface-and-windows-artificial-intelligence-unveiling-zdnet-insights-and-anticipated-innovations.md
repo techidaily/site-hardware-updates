@@ -1,7 +1,7 @@
 ---
 title: "Live the Microsoft Surface & Windows Artificial Intelligence Unveiling - ZDNet: Insights & Anticipated Innovations"
-date: 2024-11-25T16:34:56.672Z
-updated: 2024-11-27T16:18:20.536Z
+date: 2024-12-02T19:33:10.508Z
+updated: 2024-12-06T22:15:28.247Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,20 +134,19 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-battle-of-the-capture-tools-obs-studio-against-bandicam/"><u>[New] 2024 Approved Battle of the Capture Tools OBS Studio Against Bandicam</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-outro-mastery-top-6-free-video-closers/"><u>[Updated] 2024 Approved Outro Mastery Top 6 Free Video Closers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-free-software-showdown-for-premium-audio-capture-tools/"><u>[Updated] In 2024, Free Software Showdown for Premium Audio Capture Tools</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-iphone-photography-breakthroughs-with-lifelike-motion/"><u>2024 Approved IPhone Photography Breakthroughs with Lifelike Motion</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-simplified-streaming-solutions-for-the-solo-broadcayer/"><u>2024 Approved Simplified Streaming Solutions for the Solo Broadcayer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-fetching-acer-aspire-5100-printer-drivers/"><u>Easy Steps to Fetching Acer Aspire 5100 Printer Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-graphics-performance-free-nvidia-geforce-gtx-1650-super-driver-update-for-windows-11/"><u>Enhance Graphics Performance: Free NVIDIA GeForce GTX 1650 Supér Driver Update for Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-tips-correcting-issues-with-hp-display-drivers-in-various-windows-environments-1087/"><u>Expert Tips: Correcting Issues with HP Display Drivers in Various Windows Environments (10/8/7)</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/guide-to-mass-extraction-of-tiktok-content/"><u>Guide to Mass Extraction of TikTok Content</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-newest-graphics-card-drivers-for-the-nvidia-rtx-2070-super-on-windows-11-systems/"><u>How to Download & Install Newest Graphics Card Drivers for the Nvidia RTX 2070 Super on Windows 11 Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/noctua-unveils-revolutionary-evaporative-cooling-the-new-pump-free-aio-liquid-cooler/"><u>Noctua Unveils Revolutionary Evaporative Cooling, the New Pump-Free AIO Liquid Cooler</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolved-windows-battery-driver-problems-with-acpi-compliance/"><u>Resolved: Windows Battery Driver Problems with ACPI Compliance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolving-compatibility-issues-hp-beats-sound-card-in-win-7810/"><u>Resolving Compatibility Issues: HP Beats Sound Card in Win 7/8/10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/trusted-lenovo-bluetooth-driver-installation-and-updates-for-windows-operating-systems-7-10/"><u>Trusted Lenovo Bluetooth Driver Installation and Updates for Windows Operating Systems (7, 10)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-safety-a-look-at-potential-cyber-threats-in-openais-chatgpt/"><u>Understanding the Safety: A Look at Potential Cyber Threats in OpenAI's ChatGPT</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-chromebooks-to-the-rescue-mastering-webcam-recordings-for-2024/"><u>[New] Chromebooks to the Rescue Mastering Webcam Recordings for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/corsair-k55-gamepad-driver-download-and-update-guide-for-gamers/"><u>Corsair K55 Gamepad Driver Download & Update Guide for Gamers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/game-developer-declares-total-crash-rate-on-intel-cpus-faulty-13th-and-14th-gen-chips-sold-by-alderon-games/"><u>Game Developer Declares Total Crash Rate on Intel CPUs: Faulty 13Th and 14Th Gen Chips Sold by Alderon Games</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-latest-windows-updates-for-your-nvidia-mx150-gpu-driver/"><u>Get Latest Windows Updates for Your NVIDIA MX150 GPU Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974374046-get-the-latest-canon-imageclass-mf4800-driver-software-for-free/"><u>Get the Latest Canon ImageCLASS MF4800 Driver Software for Free</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977750685-get-the-newest-nvidia-geforce-rtx-1660-super-driver-updates-installed-easily/"><u>Get the Newest NVIDIA GeForce RTX 1660 Super Driver Updates Installed Easily</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-gps-location-on-google-pixel-fold-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Google Pixel Fold Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ly-earnings-potential-on-youtube/"><u>Monthly Earnings Potential on YouTube</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-realme-11x-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Realme 11X 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-food-youtubers-you-should-follow-for-2024/"><u>Top Food YouTubers You Should Follow for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-ai-in-design-how-some-works-arent-entirely-computer-made/"><u>Understanding AI in Design: How Some Works Aren't Entirely Computer-Made</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-potential-of-wsl-2-with-docker-integration/"><u>Unlock Full Potential of WSL 2 with Docker Integration</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-free-and-fabulous-best-video-special-effects-apps-for-iphone-and-android-for-2024/"><u>Updated Free and Fabulous Best Video Special Effects Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zero-cost-full-functionality-download-the-qualcomm-atheros-ar938x-driver-now/"><u>Zero Cost, Full Functionality - Download the Qualcomm Atheros AR938X Driver Now</u></a></li>
 </ul></div>
 

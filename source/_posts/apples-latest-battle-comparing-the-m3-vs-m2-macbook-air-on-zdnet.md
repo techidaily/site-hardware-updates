@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Battle: Comparing the M3 Vs. M2 MacBook Air on ZDNet"
-date: 2024-11-24T20:15:46.333Z
-updated: 2024-11-27T17:17:26.630Z
+date: 2024-12-03T02:43:27.959Z
+updated: 2024-12-06T20:33:53.723Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ Recently, I did a thing: I switched my heavyweight Windows PC for a docked [16-i
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -44,11 +44,11 @@ So what if I told you you can remap the Apple keyboard so that the Globe key, wh
 
 (Even if you've always been a Mac user, and everything I just wrote meant nothing to you, you'll still want to read this. There's a good chance that the following remapping feature will benefit you just as much, too.)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to remap the Globe key into the Command key
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open up Keyboard settings
 
@@ -57,7 +57,7 @@ Let's start by running a Spotlight Search (clicking the magnifying glass on the 
 You can also access this menu by clicking the Apple icon on the top left of the status bar > System Preferences > and then Keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Open Modifier Keys
@@ -67,7 +67,7 @@ On the bottom right of the Keyboard settings should be a button labeled "Modifie
 Screenshot by June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Remap the Globe key to Command
@@ -79,7 +79,7 @@ Note: There is a "Control key" on the Mac keyboard but it doesn't function the s
 Screenshot by June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How this helps
@@ -116,20 +116,20 @@ From a Windows user perspective, being able to still access my usual keyboard sh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-capturing-ps4-gaming-magic-in-full-detail-using-obs-for-2024/"><u>[New] Capturing PS4 Gaming Magic in Full Detail Using OBS for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-step-by-step-setting-up-a-channel-for-streaming/"><u>[New] In 2024, Step-by-Step Setting up a Channel for Streaming</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-top-earner-youtube-star-global-leader/"><u>[Updated] Top Earner YouTube Star - Global Leader</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/brother-mfc-7360n-seamless-drivers-downloading-and-updating-on-windows-11-windows-8-and-7-systems/"><u>Brother MFC-7360N - Seamless Drivers Downloading and Updating on Windows 11, Windows 8 & 7 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-sas-software-on-windows-10-8-or-7-a-step-by-step-guide/"><u>Download and Update SAS Software on Windows 10, 8, or 7: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-setup-for-brother-hl-l2340dw-printer-secure-download-links-for-windows-users/"><u>Easy Setup for Brother HL-L2340DW Printer - Secure Download Links for Windows Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/educational-videography-mastery-in-cutting-and-pacing/"><u>Educational Videography Mastery in Cutting & Pacing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-msi-sound-card-software-on-your-pc-with-ease-for-windows-users/"><u>Get the Newest MSI Sound Card Software on Your PC with Ease - For Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/gtx-1660-graphics-card-a-step-by-step-guide-to-updating-drivers-fast-and-easy/"><u>GTX 1660 Graphics Card: A Step-by-Step Guide to Updating Drivers Fast and Easy</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a23-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Samsung Galaxy A23 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-vivo-s17-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Vivo S17 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722966944789-latest-driver-update-for-hp-officejet-pro-8610-on-windows-11-8-7-xp-and-vista-get-it-now/"><u>Latest Driver Update for HP Officejet Pro #8610 on Windows 11, 8, 7, XP & Vista - Get It Now!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/skype-microphone-troubles-fix-it-here-with-these-tips-for-windows-11-users/"><u>Skype Microphone Troubles? Fix It Here with These Tips for Windows 11 Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-the-5-most-protected-email-services-online/"><u>Ultimate Guide: The 5 Most Protected Email Services Online</u></a></li>
-<li><a href="https://network-issues.techidaily.com/visual-setup-now-stable-and-secured/"><u>Visual Setup Now Stable & Secured</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-discover-every-shared-element-with-friends/"><u>2024 Approved Discover Every Shared Element with Friends</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-navigating-to-youtubes-video-editor-interface/"><u>2024 Approved Navigating to YouTube's Video Editor Interface</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-skyrocketing-your-earning-potential-a-vimeo-monetization-guide/"><u>2024 Approved Skyrocketing Your Earning Potential A Vimeo Monetization Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/a-deep-dive-into-youtube-view-counts-and-more-for-2024/"><u>A Deep Dive Into YouTube View Counts and More for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-collaborates-with-board-vendors-for-new-bios-fixes-addressing-notorious-logo-bug-concerns/"><u>AMD Collaborates with Board Vendors for New BIOS Fixes, Addressing Notorious Logo Bug Concerns</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-launches-the-anticipated-800-series-chipsets-compatible-with-powerhouse-ryzen-9000-cpus-the-next-move-against-intel/"><u>AMD Launches the Anticipated 800 Series Chipsets: Compatible with Powerhouse Ryzen 9000 CPUs – The Next Move Against Intel</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-maximus-xiii-frankenboard-collectors-edition-customized-motherboards-with-special-so-dimm-slots-and-kingston-fury-logo-design/"><u>ASUS Maximus XIII Frankenboard Collector's Edition: Customized Motherboards with Special SO-DIMM Slots and Kingston Fury Logo Design</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/budget-overclocking-solution-asuss-new-z790-ayw-wifi-motherboard-with-ddr5-support/"><u>Budget Overclocking Solution: Asus's New Z790-AYW WIFI Motherboard with DDR5 Support</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/cracked-chipset-msi-admits-fault-and-launches-replacement-program-for-z790-models/"><u>Cracked Chipset: MSI Admits Fault and Launches Replacement Program for Z790 Models</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-world-of-electronics-with-toms-hardware-expertise/"><u>Discover the World of Electronics with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-x60nam5-itx-asrocks-ultra-thin-mini-itx-board-designed-for-diy-htpc-enthusiasts/"><u>Discover the X60nAM5-ITX: ASRock's Ultra Thin Mini-ITX Board Designed for DIY HTPC Enthusiasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-unbeatable-iphone-bargains-for-summer-2024-on-zdnets-latest-deals-roundup/"><u>Discover Unbeatable iPhone Bargains for Summer 2024 on ZDNet's Latest Deals Roundup</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-6-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 6 Plus Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/pros-and-cons-of-poweradd-pilot-pro2-charging-station-comprehensive-evaluation/"><u>Pros & Cons of POWERADD Pilot Pro2 Charging Station - Comprehensive Evaluation</u></a></li>
 </ul></div>
 

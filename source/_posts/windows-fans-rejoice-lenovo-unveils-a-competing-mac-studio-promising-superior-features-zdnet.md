@@ -1,7 +1,7 @@
 ---
 title: Windows Fans Rejoice! Lenovo Unveils a Competing Mac Studio, Promising Superior Features | ZDNET
-date: 2024-11-26T17:27:34.502Z
-updated: 2024-11-27T18:04:16.935Z
+date: 2024-12-05T01:13:56.257Z
+updated: 2024-12-07T00:32:26.514Z
 tags:
   - laptops
 categories:
@@ -22,7 +22,7 @@ At [CES 2024](https://www.zdnet.com/topic/ces-2024/), Lenovo plans to show off a
 Without question, the new PC resembles a [Mac Studio](https://www.zdnet.com/article/apple-mac-studio-m2-ultra-review/), coming with a main desktop unit in the shape of a small box alongside a monitor. It houses all of the major components like a neural processing unit, or NPU for short. This utilizes [AI](https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/) to provide a third resource for the computer, improving its overall performance. It can even be upgraded, letting you modulate the device's performance however you want.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -85,20 +85,20 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-ultimate-guide-to-jaunt-vr-immersion/"><u>[Updated] In 2024, The Ultimate Guide to Jaunt VR Immersion</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-gionee-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Gionee Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020), Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-of-latest-hardware-by-toms-tech-experts/"><u>In-Depth Analysis of Latest Hardware by Tom's Tech Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-the-gadgets-tips-and-reviews-from-toms-equipment-digest/"><u>Inside the Gadgets: Tips & Reviews From Tom’s Equipment Digest</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/master-the-art-of-linux-gameplay-on-the-all-amd-tuxedo-sirius-gen2-stunning-visuals-and-lightning-fast-response-time-with-an-incredible-165hz-display-from-j2/"><u>Master the Art of Linux Gameplay on the All-AMD Tuxedo Sirius Gen2 - Stunning Visuals & Lightning Fast Response Time with an Incredible 165Hz Display From Just 1,699€</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-pc-gear-selection-through-toms-hardware-guidance/"><u>Mastering PC Gear Selection Through Tom's Hardware Guidance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-your-digital-world-with-toms-hardware-experts/"><u>Mastering Your Digital World with Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-high-performance-pc-builds-the-toms-hardware-perspective/"><u>Navigating High-Performance PC Builds - The Tom's Hardware Perspective</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-new-tech-thorough-assessments-on-toms-gadgetry-hub/"><u>Navigating New Tech: Thorough Assessments on Tom's Gadgetry Hub</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-your-workflow-with-aero-shake-w11-tech/"><u>Optimizing Your Workflow with Aero Shake W11 Tech</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcome-sluggish-itunes-discover-the-top-10-proven-tips-for-optimal-performance/"><u>Overcome Sluggish iTunes: Discover the Top 10 Proven Tips for Optimal Performance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unmatched-deal-alert-macbook-air-with-m1-chip-now-just-649-shop-smartly-with-zdnets-exclusive-offer/"><u>Unmatched Deal Alert: MacBook Air with M1 Chip Now Just $649 - Shop Smartly with ZDNet's Exclusive Offer!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/upgrade-to-premium-visuals-using-winxvideo-ai-elevate-your-videos-today/"><u>Upgrade to Premium Visuals Using Winxvideo AI - Elevate Your Videos Today!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/your-ultimate-companion-guide-to-troubleshoot-zoom-cameras/"><u>Your Ultimate Companion Guide to Troubleshoot Zoom Cameras</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-navigating-whatsapps-depths-tricks-you-need-to-know/"><u>[New] 2024 Approved Navigating WhatsApp's Depths Tricks You Need to Know</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-efficient-use-of-obs-studio-for-android-devices-for-2024/"><u>[New] Efficient Use of OBS Studio for Android Devices for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-unparalleled-pc-sound-control/"><u>[New] Unparalleled PC Sound Control</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-started-streaming-learn-obs-for-youtube-now/"><u>[Updated] In 2024, Started Streaming? Learn OBS for Youtube Now</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-from-watcher-to-participant-tiktok-live-integration/"><u>2024 Approved From Watcher to Participant TikTok Live Integration</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-a24-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Samsung Galaxy A24 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-discreet-marvel-a-design-that-hides-stellar-creative-capabilities-revealed-by-zdnet/"><u>Asus' Discreet Marvel: A Design That Hides Stellar Creative Capabilities Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discount-alert-apple-m3-macbook-air-available-at-250-less-on-amazon-prime-day-offer/"><u>Discount Alert: Apple M3 MacBook Air Available at $250 Less on Amazon Prime Day Offer</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ting-video-view-count-top-hashtag-trends-guide-for-2024/"><u>Elevating Video View Count Top Hashtag Trends Guide for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-the-battle-between-google-gemini-and-microsofts-chatgpt-in-ai-innovation/"><u>Evaluating the Battle Between Google Gemini and Microsoft's ChatGPT in AI Innovation.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-review-how-this-years-standout-2-in-1-innovation-surprises-with-its-overlooked-workplace-benefits-zdnet-insights/"><u>Exclusive Review: How This Year's Standout 2-in-1 Innovation Surprises With Its Overlooked Workplace Benefits | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-your-tech-bargain-asus-15-inch-laptop-for-250-at-walmart-featuring-every-port-you-need/"><u>Find Your Tech Bargain: Asus 15-Inch Laptop for $250 at Walmart, Featuring Every Port You Need!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-virtual-floor-essential-tips-for-attending-microsofts-ai-event-with-surface-and-windows-features-what-to-look-forward-to-digitalsphere/"><u>Navigating the Virtual Floor: Essential Tips for Attending Microsoft's AI Event with Surface and Windows Features - What to Look Forward To | DigitalSphere</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-a-closer-look-at-videopad-video-editor-review-pricing-and-alternatives/"><u>New In 2024, A Closer Look at Videopad Video Editor Review, Pricing, and Alternatives</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-the-power-of-satechis-ultimate-multi-functional-usb-c-hub-only-150/"><u>Unleash the Power of Satechi's Ultimate Multi-Functional USB-C Hub - Only $150!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Powerful Dyson 360+ Reviewed: An Efficient Robot Vacuum with Navigation Challenges"
-date: 2024-08-28T01:59:24.589Z
-updated: 2024-08-29T01:59:24.589Z
+date: 2024-12-05T22:12:47.016Z
+updated: 2024-12-06T19:15:04.370Z
 tags:
   - hardware
 categories:
@@ -40,6 +40,10 @@ The Dyson 360 Vis Nav sucks up more than any other robot on all floors. The comp
 [$1199 at Amazon](https://www.amazon.com/Dyson-360-Vis-Robot-Vacuum/dp/B0CT95LTCJ?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003791&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fdyson-360-vis-nav-review%2F&asc%5Fcampaign=Authority) [$1199.99 at Dyson](https://www.dyson.com/vacuum-cleaners/robot/360-vis-nav/blue-nickel) [$1199.99 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fdyson-360-vis-nav-robot-vacuum-blue-nickel%2F6577400.p%3FskuId%3D6577400%26loc%3D19984831387) 
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Price and Availability
 
@@ -89,12 +93,13 @@ The Dyson 360 Vis Nav sucks up more than any other robot on all floors. The comp
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  A Vacuum That's Just a Vacuum
 
 ![rear view of the Dyson 360 Vis Nav on carpet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/rear-view-of-the-dyson-360-vis-nav-on-carpet.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -105,8 +110,9 @@ Tyler Hayes / How-To Geek
  But separate from specific contexts like that, the robot just isn’t as robust as I had wished it would be. For every cool or smart thing the 360 Vis Nav does, there’s something equally confounding it does too.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Path of Vacuuming Is Confusing
 
 ![Front view of Dyson 360 Vis Nav on carpet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/front-view-of-dyson-360-vis-nav-on-carpet.jpg) 
@@ -121,25 +127,10 @@ Tyler Hayes / How-To Geek
 
  That brings me back to its navigation. I can’t judge whether its 360-degree camera is on par with other robot’s visual systems from a technical standpoint but it doesn't give the appearance of being as good. LiDAR-enabled robots tend to be more methodical and always stick to the boundaries of the room (and the limits of the physical world).
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Controls Are Scattered
 
 ![teh color display on the Dyson 360 Vis Nav](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/teh-color-display-on-the-dyson-360-vis-nav.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  Directly on the robot is a touchscreen, though it might be more accurate to call it a "pushscreen." The color display shows directions and troubleshooting tips as well as having settings and cleaning options. To select something on the screen you press it in and the whole thing dips down and clicks.
@@ -163,16 +154,13 @@ Close
  Dyson claims around two times more suction than any other robot. The price for that performance, however, is battery life and time. The vacuum is powerful, but I repeatedly wondered how useful the suction was for such little time to use it. The Achilles heel, however, might be the speed of the charging dock. The battery only lasts up to 65 minutes, but the dock will take around 165 minutes to recharge the vacuum.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  There Are Plenty of Nice Features Too
 
 ![Dyson 360 Vis Nav on hardwood floor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/dyson-360-vis-nav-on-hardwood-floor.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  The 360 Vis Nav has some clear flaws in its current state, but I did find a few details I liked about how it operates worth nothing.
@@ -186,6 +174,10 @@ Tyler Hayes / How-To Geek
  The charging dock should charge the device faster, but I did like its minimalism. Its purple-ish blue color is not exactly camouflage, but it is tiny enough to stick nearly anywhere.
 
  If you like using Alexa or Google voice commands to control smart home gadgets, that’s available too. Unfortunately, Siri isn’t present.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Should You Buy the Dyson 360 Vis Nav?
 
@@ -213,8 +205,6 @@ The Dyson 360 Vis Nav sucks up more than any other robot on all floors. The comp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +212,24 @@ The Dyson 360 Vis Nav sucks up more than any other robot on all floors. The comp
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-updates.techidaily.com/authors-full-name-unveils-exceptionally-portable-workhorse-laptop-a-dream-asset-for-home-offices-insights-and-reviews-at-zdnet/"><u>[Author's Full Name] Unveils Exceptionally Portable Workhorse Laptop, a Dream Asset for Home Offices | Insights & Reviews at ZDNET</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-secrets-of-instagram-igniting-content-passion/"><u>[New] Secrets of Instagram Igniting Content Passion</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-navigate-to-noteworthy-youtube-commentaries/"><u>[Updated] 2024 Approved Navigate to Noteworthy YouTube Commentaries</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-discreet-marvel-a-design-that-hides-stellar-creative-capabilities-revealed-by-zdnet/"><u>Asus' Discreet Marvel: A Design That Hides Stellar Creative Capabilities Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discount-alert-apple-m3-macbook-air-available-at-250-less-on-amazon-prime-day-offer/"><u>Discount Alert: Apple M3 MacBook Air Available at $250 Less on Amazon Prime Day Offer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-unmatched-portability-the-incredible-8-in-1-adapter-that-exceeds-value-and-compact-design-insights-from-zdnet/"><u>Discover Unmatched Portability: The Incredible 8-in-1 Adapter That Exceeds Value & Compact Design - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusively-invited-enjoy-windows-on-your-chromebook-or-mac-with-microsofts-latest-innovation-zdnet-insider/"><u>Exclusively Invited: Enjoy Windows on Your Chromebook or Mac with Microsoft's Latest Innovation | ZDNet Insider</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-your-tech-bargain-asus-15-inch-laptop-for-250-at-walmart-featuring-every-port-you-need/"><u>Find Your Tech Bargain: Asus 15-Inch Laptop for $250 at Walmart, Featuring Every Port You Need!</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-premier-vr-experience-metas-splendid-deal-on-the-quest-3-512gb-headset-is-unbeatable-in-todays-market-insight/"><u>Get Your Hands on the Premier VR Experience: Meta's Splendid Deal on the Quest 3 512GB Headset Is Unbeatable in Today’s Market Insight</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-6s-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on Apple iPhone 6s</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-oppo-a38-frp-bypass-by-drfone-android/"><u>In 2024, About Oppo A38 FRP Bypass</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-vivo-s18-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Vivo S18 Face Lock?</u></a></li>
+<li><a href="https://article-files.techidaily.com/mastery-in-script-to-speech-turning-xmlttml-files-to-srt-wonders-for-2024/"><u>Mastery in Script-to-Speech Turning XML/TTML Files to SRT Wonders for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/scorching-deal-alert-snag-the-hp-victus-15-gaming-laptop-for-just-515-at-best-buys-prime-day-extravaganza-tips-from-zdnet/"><u>Scorching Deal Alert: Snag the HP Victus 15 Gaming Laptop for Just $515 at Best Buy’s Prime Day Extravaganza | Tips From ZDNET</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/step-by-step-applying-color-grading-and-keying/"><u>Step-by-Step Applying Color Grading and Keying</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/techniques-in-motivating-viewers-with-lifestyle-vlogs-for-2024/"><u>Techniques in Motivating Viewers with Lifestyle Vlogs for 2024</u></a></li>
+</ul></div>
 

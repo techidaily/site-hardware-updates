@@ -1,7 +1,7 @@
 ---
 title: Evaluating the Impact of Smartphone Screen Brightness on Outdoor Usage
-date: 2024-08-28T01:59:00.466Z
-updated: 2024-08-29T01:59:00.466Z
+date: 2024-12-03T16:15:22.996Z
+updated: 2024-12-07T01:59:51.891Z
 tags:
   - hardware
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Evaluating the Impact of Smartphone Screen Brightness on Outdoor Usage
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,9 +36,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  When you take your phone outside, how readable it is in sunlight becomes the single most important thing about it. That means, for some of us, the answer is obvious.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Do You Have Enough Nits?
 
  For the vast majority of smartphones packing a backlit screen, how readable a phone is in sunlight depends on how bright the screen can get. Since companies like relaying information in numbers, this number is called a "nit." A screen with 100 nits isn’t that bright. A screen with 2,000 nits is. Most phones are somewhere in between.
@@ -43,9 +44,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  This is one area where we see big improvement in each generation of devices. This year’s phone is brighter than last year’s. The same is true of tablets. There's a lot of effort going into making sure our screens are more legible outside, but is this really a good use of our phones' battery?
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ##  Well, We Do Need to Work Outdoors
 
  I’m writing this article on a phone, since I’ve [replaced my PC with a foldable phone and Samsung DeX](https://youtube-sure.techidaily.com/into-the-world-of-chroma-keying-youtubes-guide-to-green-screens-for-2024/). Since my Galaxy Z Fold 5 has a bright screen, I'm able to do some of that writing while outside. But I’m in the minority with this type of workflow. Most people do this type of work on a traditional PC!
@@ -57,15 +55,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  A construction worker may have to find a shady place to see who is trying to reach them when they get a call. Someone directing traffic for roadwork may not be able to walk off at all, having to settle for placing their hand over the screen and squinting. Outside picking fruit off a tree? I don't need to explain the benefits of a bright screen to you. You already know.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Enjoy Your Phone While Touching Grass
 
 ![Ultimate Ears Wonderboom 2 linked up to smartphone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/d3dea034.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Cameron Summerson / How-To Geek
 
  It's not for everyone, but [I love reading ebooks and comics on my phone](https://win-howtos.techidaily.com/how-to-successfully-resolve-error-code-0x80ebbbb-on-windows-updates-proven-techniques-inside/). That's one of the perks of having a phone with a large folding display. I like taking these digital books and comics with me outside to read while I'm sitting on the grass or on a park bench. My phone's screen is bright enough that even on a sunny summer day, I can usually read just fine.
@@ -75,11 +71,16 @@ Cameron Summerson / How-To Geek
  Sunlight readability is one of the reasons [I'd love to see a smartphone with an e-ink screen](https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-razr-40-ultra-by-aiseesoft-video-converter-play-mkv-on-android/) come to the US. As great as having a bright screen is, e-ink is more readable outdoors without putting nearly as much of an impact on your battery.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  We Take Our Phones ​Out Hiking, Running, and Biking
 
 ![Android Auto on a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240615_124052773-2-1-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
 
@@ -87,15 +88,16 @@ Joe Fedewa / How-To Geek
 
  Like with any of these activities, if you're turning an old phone into [an Android Auto display for your ebike](https://games-able.techidaily.com/top-tier-games-subscription-matchup-psplus-vs-xbox-game-pass/), you need the screen to be legible. There are so many ways to make use of an Android device outside, but if the screen is too dim, that limits your imagination to what can be done indoors.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Sometimes It's Too Bright Indoors, Too
 
  Sometimes when I'm writing in a library, the only open seat is one right next to a window. A bright screen is what determines whether I can work at the one available desk absorbing glare from the sun or have to make the walk back out to my car. Back when I daily drove a Boox Tab Ultra as my main PC, faced with this situation, I could make myself comfortable at an outdoor table or bench instead. It's nice to have options.
 
  As more of us rely on our phones, we need to remove these pain points. Maybe you're on stage under bright lighting, trying to read your speech. It would be a shame for a dim screen to be the reason you went viral for giving an absolutely abysmal performance. At this point, you can give less thought to whether a new phone runs iOS or Android and more to whether it is bright enough.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  A Screen You Can’t See Is Useless
 
  By this point, you get the idea. You might think that these are minor nitpicks. In some cases, sure, you can change your expectations and be fine. But the world is changing around us.
@@ -110,8 +112,6 @@ Joe Fedewa / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +119,22 @@ Joe Fedewa / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-eight-video-recording-apps/"><u>[New] In 2024, Top Eight Video Recording Apps</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ideo-platform-review-is-vimeo-best-over-youtubes-and-dailymotions-in-2024/"><u>[New] Video Platform Review Is Vimeo Best Over YouTubes and DailyMotions, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flex-your-viewing-muscles-handling-multiple-youtube-videos/"><u>[Updated] 2024 Approved Flex Your Viewing Muscles Handling Multiple YouTube Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/behind-the-see-through-screen-a-deep-dive-into-lenovos-functional-transparent-laptop-showcase-at-mwc/"><u>Behind the See-Through Screen: A Deep Dive Into Lenovo's Functional Transparent Laptop Showcase at MWC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/canvas-hidden-power-ups-for-stunning-visuals-for-2024/"><u>Canva's Hidden Power-Ups for Stunning Visuals for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-bass-management-in-audio-systems-for-optimal-clarity-and-power/"><u>Demystifying Bass Management in Audio Systems for Optimal Clarity and Power</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/effective-onboarding-strategies-harmonizing-client-trust-and-anti-fraud-measures/"><u>Effective Onboarding Strategies: Harmonizing Client Trust and Anti-Fraud Measures</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-the-years-finest-tech-marvels-leading-gizmos-and-tools-of-2e23-spotlighted-by-zdnet/"><u>Explore the Year's Finest Tech Marvels: Leading Gizmos and Tools of 2E23 Spotlighted by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-shakes-up-laptop-industry-with-innovative-approach-that-even-apple-cant-match-expert-analysis/"><u>HP Shakes Up Laptop Industry with Innovative Approach that Even Apple Can't Match | Expert Analysis</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-iphone-se-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone SE After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-samsung-galaxy-a23-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Samsung Galaxy A23 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-top-picks-browsers-excelling-at-digital-visualization/"><u>In 2024, Top Picks Browsers Excelling at Digital Visualization</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/restoring-default-sound-configuration-on-windows-a-step-by-step-guide/"><u>Restoring Default Sound Configuration on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-upgrades-enabling-vintage-dvd-playback-on-the-latest-apple-m-series-mac-computers/"><u>Seamless Upgrades: Enabling Vintage DVD Playback on the Latest Apple M-Series Mac Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-list-of-exclusive-black-friday-like-discounts-on-video-games-for-oct-24-aznet-guide/"><u>The Ultimate List of Exclusive Black Friday-Like Discounts on Video Games for Oct '24 - AZNET Guide</u></a></li>
+</ul></div>
 

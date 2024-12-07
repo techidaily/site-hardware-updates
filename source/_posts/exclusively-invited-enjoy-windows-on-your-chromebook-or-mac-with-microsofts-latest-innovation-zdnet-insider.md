@@ -1,7 +1,7 @@
 ---
 title: "Exclusively Invited: Enjoy Windows on Your Chromebook or Mac with Microsoft's Latest Innovation | ZDNet Insider"
-date: 2024-11-23T19:22:14.311Z
-updated: 2024-11-27T18:23:36.839Z
+date: 2024-12-04T18:42:53.751Z
+updated: 2024-12-06T20:45:44.715Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ That's right. Apple said the "A" word, and it's not being shy about it, as my af
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple is _officially_ in the AI PC race
@@ -55,7 +55,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Apple also wants you to know that it's _been_ in the [AI PC race](https://www.zdnet.com/article/what-is-an-ai-pc-and-should-you-buy-one/) since the very beginning, with just about every Mac model now carrying neural engines for machine learning. The new MacBook Air is "the best consumer laptop for AI," the company touts in its Monday press release, but we'll have to see for ourselves when we put the 13- and 15-inch models through the wringer soon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. I can finally recommend the Midnight color
@@ -67,7 +67,7 @@ AI aside, there is one subtle design change to the new MacBooks that I really di
 Considering how easy it was to get smudges and marks on the original Midnight color of the MacBook Air -- which made lighter hue options look like rockstars -- this is a welcome change. Having fumbled with the MacBooks for a quick 10-minute photo-op, the fingerprints were noticeable, though not as bad as I remembered on the M2 Air. For me, this makes the Midnight variant recommendable again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Dual-monitor support is a bigger deal than it seems
@@ -110,20 +110,20 @@ All in all, the changes to the newest line of MacBook Air feel subtle on paper b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-earning-strategies-for-successful-youtube-shorts-must-haves-earnings-prospects-for-2024/"><u>[New] Earning Strategies for Successful Youtube Shorts Must-Haves, Earnings Prospects for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-differences-between-standard-360-and-vr-content/"><u>[New] In 2024, Differences Between Standard 360° & VR Content</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-the-ultimate-fraps-experience-for-game-capture-for-2024/"><u>[New] The Ultimate Fraps Experience for Game Capture for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-unlock-xps-movie-magic-software-essentials/"><u>[Updated] In 2024, Unlock XP's Movie Magic Software Essentials</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtube-short-mastery-from-idea-to-final-product/"><u>[Updated] In 2024, YouTube Short Mastery From Idea to Final Product</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/0x80073712/"><u>如何修复文件错误 0X80073712：升级失败和遗失挂载点问题解决指南</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/brother-hl-2280dw-drivers-for-windows-download-for-windows-111087-systems/"><u>Brother HL-2280DW Drivers for Windows: Download for Windows 11/10/8/7 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-intel-rapid-storage-technology-drivers-latest-version-available/"><u>Download Intel Rapid Storage Technology Drivers - Latest Version Available</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-nvidias-rtx-3060-ti-drivers-for-optimal-performance-on-windows-11/"><u>Download NVIDIA's RTX 3060 Ti Drivers for Optimal Performance on Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-nvidia-quadro-rtx-4000-graphics-card-drivers-get-your-free-update-now/"><u>Download the Latest NVIDIA Quadro RTX 4000 Graphics Card Drivers: Get Your Free Update Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-installing-and-updating-brother-mfc-7360n-printer-drivers-on-windows-10-8-or-7/"><u>Easy Guide: Installing and Updating Brother MFC-7360N Printer Drivers on Windows 10, 8, or 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-digital-art-setup-secure-your-wacom-intuos-3-drivers-for-seamless-windows-integration/"><u>Effortless Digital Art Setup: Secure Your Wacom Intuos 3 Drivers for Seamless Windows Integration</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-version-of-your-dell-display-driver-with-these-tips/"><u>Get the Latest Version of Your Dell Display Driver with These Tips</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-unfiltered-truth-about-youtubes-premium-membership/"><u>The Unfiltered Truth About YouTube's Premium Membership</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updating-your-epson-wf-7720-printer-software-for-optimal-performance-on-windows/"><u>Updating Your Epson WF-7720 Printer Software for Optimal Performance on Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fast-track-to-1000-fans-through-captivating-content/"><u>[New] In 2024, Fast-Track To 1,000 Fans Through Captivating Content</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-carving-out-the-ultimate-tiktok-final-act/"><u>[Updated] Carving Out the Ultimate TikTok Final Act</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-optimize-iphone-usage-how-to-manipulate-picture-in-picture-on-youtube/"><u>[Updated] Optimize iPhone Usage How to Manipulate Picture-in-Picture on YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/a-detailed-step-by-step-guide-to-using-telegram-desktop/"><u>A Detailed Step-By-Step Guide To Using Telegram Desktop</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/choosing-your-next-smartphone-a-head-to-head-comparison-of-the-samsung-galaxy-s23-vs-iphone-14-insights-from-zdnet/"><u>Choosing Your Next Smartphone: A Head-to-Head Comparison of the Samsung Galaxy S23 Vs. IPhone 14 - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-hardware-insights-by-tom-your-go-to-resource/"><u>Comprehensive Hardware Insights by Tom - Your Go-To Resource</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/delve-into-digital-innovation-with-toms-equipment-guides-your-ultimate-source-for-computer-hardware-analysis/"><u>Delve Into Digital Innovation with Tom's Equipment Guides – Your Ultimate Source for Computer Hardware Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevating-engagement-analyzing-chatgpt-plus-strengths-and-weaknesses/"><u>Elevating Engagement: Analyzing ChatGPT Plus Strengths and Weaknesses</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-logitechs-4k-webcam-masterclass-a-complete-review/"><u>In 2024, Logitech’s 4K Webcam Masterclass - A Complete Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-hardware-world-with-toms-expertise-a-comprehensive-guide/"><u>Navigating the Hardware World with Tom's Expertise: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/optimizing-performance-top-ram-configurations-for-amd-ryzen-3000-series-expert-analysis-by-toms-hardware/"><u>Optimizing Performance: Top RAM Configurations for AMD Ryzen 3000 Series – Expert Analysis by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/safeguard-your-peak-performance-intel-insurance-for-unlocked-10th-gen-comet-lake-cpus-with-enhanced-overclocking/"><u>Safeguard Your Peak Performance: Intel Insurance for Unlocked 10Th Gen Comet Lake CPUs with Enhanced Overclocking</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-big-savings-this-black-friday-save-up-to-700-off-on-the-top-rated-dell-xps-15-laptop-shop-smart-best-tech-specials/"><u>Score Big Savings This Black Friday! Save Up to $700 Off on the Top-Rated Dell XPS 15 Laptop | Shop Smart Best Tech Specials!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-comprehensive-guides-and-reviews/"><u>Tom's Tech Insights: Comprehensive Guides and Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-ultimate-guide-to-computer-components/"><u>Tom's Tech Insights: Ultimate Guide to Computer Components</u></a></li>
 </ul></div>
 

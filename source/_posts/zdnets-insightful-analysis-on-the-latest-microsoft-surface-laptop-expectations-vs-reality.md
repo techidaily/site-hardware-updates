@@ -1,7 +1,7 @@
 ---
 title: ZDNet's Insightful Analysis on the Latest Microsoft Surface Laptop - Expectations vs Reality
-date: 2024-11-25T20:21:23.494Z
-updated: 2024-11-27T16:16:43.039Z
+date: 2024-12-05T20:06:51.181Z
+updated: 2024-12-07T02:48:01.260Z
 tags:
   - laptops
 categories:
@@ -40,6 +40,10 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | Processor       | 12th-Gen Intel Core i5 or Core i7                                                          |
@@ -54,7 +58,7 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 | Size and weight | 12.1 L x 8.8 W x .57 H inches, 2.8 lbs                                                     |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How's the build quality?
@@ -76,7 +80,7 @@ Michael Gariffo/ZDNET
 **More: [The best laptops: Does Apple take the crown?](https://www.zdnet.com/article/best-laptop/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Features and ports
@@ -140,7 +144,7 @@ This might be forgivable in a budget model. But even the base config [Surface La
 **More: [The 10 best webcams: Join your next Zoom call in HD](https://www.zdnet.com/article/best-webcam/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance and battery life
@@ -166,7 +170,7 @@ Overall, I'd have no qualms about leaving my charger at home and expecting to ge
 [Microsoft Surface Laptop 5 $1,117 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1738938556&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -174,10 +178,6 @@ Overall, I'd have no qualms about leaving my charger at home and expecting to ge
 I may seem like I had high standards for this review, and I did. This is a flagship laptop from the company that makes Windows, after all. While those resources and ability to optimize for its own OS did show in aspects like the [Surface Laptop 5](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Lightweight-Processor-Multi-Tasking%2Fdp%2FB0B8Q8GFMM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc6fbb856-6656-4200-96bf-59e251b1e7c2%7Cdtp&dtb=1)'s consistently excellent build quality and performance, it faltered when it came to basic modern necessities like a decent webcam and a contemporary display layout. 
 
 If you never videoconference or if wasted space around your display doesn't bother you, you're looking at the best Windows laptop you could buy right now. Even if those things do irk a bit, I'd recommend balancing them against the exceptional performance, build, and aesthetics. The Surface Laptop 5 is frustratingly close to being that universal leader among Windows portables that Microsoft wants it to be. But, if Microsoft wants that crown, I hope it updates the components that held this generation back when it comes time to design the Surface Laptop 6.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -227,18 +227,22 @@ Dell's latest entry in the XPS 13 lineup looks like it comes from further down t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-unlock-insightful-revelations-instagram-snapshot-audiences-for-2024/"><u>[New] Unlock Insightful Revelations Instagram Snapshot Audiences for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-tune-up-your-social-media-videos-for-maximum-impact/"><u>[Updated] 2024 Approved Tune Up Your Social Media Videos for Maximum Impact</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-mx-series-driver-update-how-to-download-and-set-up-your-mx492-for-windows/"><u>Canon MX Series Driver Update: How to Download and Set Up Your MX492 for Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-downloading-and-installing-canon-ip1-10-drivers-on-windows-windows-111087/"><u>Comprehensive Guide: Downloading and Installing Canon IP1 10 Drivers on Windows (Windows 11/10/8/7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fast-track-to-enhanced-sound-free-download-of-behringers-usb-audio-driver/"><u>Fast Track to Enhanced Sound – Free Download of Behringer's USB Audio Driver</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fast-track-to-typing-get-your-windows-7-keyboard-drivers-now/"><u>Fast Track to Typing: Get Your Windows 7 Keyboard Drivers Now!</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/how-to-activate-and-customize-zooms-virtual-screen-mode/"><u>How to Activate and Customize Zoom's Virtual Screen Mode</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/iphone-saving-insta-pics-and-videos/"><u>IPhone Saving Insta Pics and Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/no-cost-installation-of-amd-radeon-hd-graphics-driver-on-windows-8-platforms/"><u>No-Cost Installation of AMD Radeon HD Graphics Driver on Windows 8 Platforms</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/successful-installation-downloading-and-updating-d-link-drivers-on-windows/"><u>Successful Installation: Downloading and Updating D-Link Drivers on Windows</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-pathway-to-perfected-kinemaster-edits/"><u>The Ultimate Pathway to Perfected Kinemaster Edits</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-xiaomi-13t-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Xiaomi 13T without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-swift-modification-youtube-aspect-ratio-on-mac/"><u>[New] 2024 Approved Swift Modification YouTube Aspect Ratio on MAC</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-hexadrones-aviations-top-ten/"><u>[Updated] 2024 Approved HexaDrones Aviation's Top Ten</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-crafting-your-first-twitter-profile/"><u>[Updated] Crafting Your First Twitter Profile</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/capturing-the-joy-of-lol-gameplay-three-effective-methods/"><u>Capturing the Joy of LOL Gameplay - Three Effective Methods</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-downloading-and-updating-hp-officejet-pro-6970-drivers-on-pc/"><u>Easy Steps to Downloading and Updating HP OfficeJet Pro 6970 Drivers on PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-enhanced-audio-with-a-free-m-audio-ultratrack-pro-get-yours-now/"><u>Experience Enhanced Audio with a Free M-Audio UltraTrack Pro - Get Yours Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-latest-in-pc-components-with-toms-technology-guide/"><u>Exploring the Latest in PC Components with Tom's Technology Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-xerox-printing-essentials-free-window-compatible-printer-drivers-here/"><u>Get Your Xerox Printing Essentials: Free Window-Compatible Printer Drivers Here!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029225629-gyao/"><u>Gyao動画の保存:最も簡単な２つの手順</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-12-mini-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone 12 mini?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to Watch Hulu Outside US On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-max-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS Max with a Mask On</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshoot-and-fix-hp-audio-driver-errors-for-windows-operating-systems/"><u>Troubleshoot and Fix HP Audio Driver Errors for Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-resolving-intel-csr8510a10-driver-errors-in-windows-os/"><u>Troubleshooting and Resolving Intel CSR8510/A10 Driver Errors in Windows OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-your-ps5s-full-entertainment-potential/"><u>Unlock Your PS5's Full Entertainment Potential</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722960993806-utilize-a-minimalistic-set-design-where-objects-onstage-symbolize-key-components-of-the-hydrogen-fuel-cell-technology/"><u>Utilize a Minimalistic Set Design Where Objects Onstage Symbolize Key Components of the Hydrogen Fuel Cell Technology.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-10-compatible-drivers-for-your-epson-ds-530-download-and-setup-steps/"><u>Windows 10 Compatible Drivers for Your Epson DS-530: Download & Setup Steps</u></a></li>
 </ul></div>
 

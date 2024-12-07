@@ -1,7 +1,7 @@
 ---
 title: Expert Insights on Owning the Budget-Friendly Surface Pro 11 - Top Tips From a Tech Guru | ZDNet
-date: 2024-11-24T19:07:25.765Z
-updated: 2024-11-27T18:47:54.328Z
+date: 2024-12-02T20:28:39.020Z
+updated: 2024-12-06T17:44:00.098Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -49,7 +49,7 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 How did this happen? Let's dive in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The experience is familiar
@@ -65,7 +65,7 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -85,7 +85,7 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -124,10 +124,6 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The AI story is incomplete
 
 Every PC in the Copilot+ line includes a powerful neural processing unit designed to accelerate AI-based activities. Because I didn't spring for Microsoft's pricey new [Flex Keyboard](https://www.microsoft.com/en-us/d/surface-pro-flex-keyboard-with-slim-pen/93fzrmtgj6jw) and stuck with my old Type Cover, I didn't get a dedicated Copilot key. Instead, I had to run the [Copilot app](https://www.zdnet.com/article/microsoft-is-turning-windows-copilot-into-a-regular-app-and-heres-why-youll-like-it/), which works exactly like it does on any other Windows 11 PC. If it was chatting faster, I didn't notice.
@@ -147,6 +143,10 @@ The Paint and Photos apps are also loaded with AI-based features for creating an
 The real question is whether those features are powerful enough to make you switch from your current image-processing tool to one of Microsoft's built-in options. History says that's a pretty big ask.
 
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How we test laptops
 
@@ -192,22 +192,20 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/1-free-youtube-video-rippers-to-download-youtube-videos-for-2024/"><u>[New] 11 FREE YouTube Video Rippers to Download YouTube Videos for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-secrets-to-profit-from-youtube-shorts-fundamentals-and-earning-prospects/"><u>[Updated] In 2024, Secrets to Profit From Youtube Shorts Fundamentals and Earning Prospects</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premier-visual-sneak-peek-bundle/"><u>[Updated] Premier Visual Sneak Peek Bundle</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-thorough-investigation-into-simple-hdr-imaging/"><u>2024 Approved Thorough Investigation Into Simple HDR Imaging</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/download-youtube-playlists-swiftly-and-without-cost-top-tips/"><u>Download YouTube Playlists Swiftly & Without Cost: Top Tips</u></a></li>
-<li><a href="https://blog-min.techidaily.com/dvd-ripper-showdown-winx-dvd-ripper-versus-handbrake-comprehensive-review-and-free-trial/"><u>DVD Ripper Showdown: WinX DVD Ripper Versus Handbrake - Comprehensive Review and Free Trial</u></a></li>
-<li><a href="https://win-blog.techidaily.com/dying-light-optimization-overcoming-in-game-latency-issues/"><u>Dying Light Optimization: Overcoming In-Game Latency Issues</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-your-wifi-experience-on-windows-comprehensive-tutorials-for-drivers-update-in-win10-and-win11/"><u>Enhance Your WiFi Experience on Windows: Comprehensive Tutorials for Drivers Update in Win10 & Win11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-fetch-and-install-the-latest-wacom-graphic-pen-display-drivers/"><u>How to Fetch and Install the Latest Wacom Graphic Pen Display Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-and-upgrade-your-epson-ds-510-driver-on-windows-a-complete-guide/"><u>How to Install and Upgrade Your Epson DS-510 Driver on Windows: A Complete Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-current-asus-dvd-driver-free-guide/"><u>How To Install The Current ASUS DVD Driver – Free Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/official-epson-v700-printing-software-for-windows-users-get-the-latest-version-today/"><u>Official Epson V700 Printing Software for Windows Users - Get the Latest Version Today!</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/perfect-your-technique-recording-the-modern-presentation/"><u>Perfect Your Technique Recording the Modern Presentation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-your-devices-find-and-install-the-best-usb-c-drivers-for-windows-10-here/"><u>Secure Your Devices: Find & Install the Best USB-C Drivers for Windows 10 Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/successful-windows-11-version-2004-enhancement-using-conexant-drivers/"><u>Successful Windows 11 (Version 2004) Enhancement Using Conexant Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-update-drivers-enhancing-your-logitech-m510-experience/"><u>The Ultimate Guide to Update Drivers: Enhancing Your Logitech M510 Experience</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210339856-9781439667811-witchcraft-in-colonial-virginia/"><u>Witchcraft in Colonial Virginia | Free Book</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-a-compreayers-guide-to-growth-updating-youtube-metadata-for-2024/"><u>[Updated] A Compreayer's Guide to Growth Updating YouTube Metadata for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unlocking-the-full-potential-of-apple-tv-with-fb-video-streams/"><u>[Updated] Unlocking the Full Potential of Apple TV with FB Video Streams</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/booking-assistance-at-your-local-apple-store-tips-and-tricks-for-a-smooth-experience/"><u>Booking Assistance at Your Local Apple Store: Tips & Tricks for a Smooth Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cracking-the-code-on-modern-warfare-stability-issues-now-running-without-interruptions/"><u>Cracking the Code on Modern Warfare Stability Issues – Now Running Without Interruptions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-amd-radeon-hd-7700-drivers-freshest-updates-instantly-available/"><u>Download AMD Radeon HD 7700 Drivers: Freshest Updates Instantly Available</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-will-apple-revolutionize-its-mac-lineup-the-upcoming-m4-chip-infuses-artifical-intelligence-across-devices-expected-launch-dates-uncovered/"><u>How Will Apple Revolutionize Its Mac Lineup? The Upcoming M4 Chip Infuses Artifical Intelligence Across Devices - Expected Launch Dates Uncovered</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-step-by-step-incorporating-music-into-your-canva-projects/"><u>In 2024, Step-by-Step Incorporating Music Into Your Canva Projects</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-computer-components-and-software-tips-from-toms-hardware/"><u>Navigating Computer Components and Software - Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-hardware-choices-with-toms-system-solutions/"><u>Navigating Hardware Choices with Tom's System Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-latest-in-electronics-with-toms-hardware-advice/"><u>Navigating the Latest in Electronics with Tom's Hardware Advice</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/pre-covid-levels-restored-worldwide-motherboard-market-set-to-deliver-39-million-units-this-year/"><u>Pre-COVID Levels Restored: Worldwide Motherboard Market Set to Deliver 39 Million Units This Year</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/precision-evaluations-of-electronics-delving-into-toms-tech-world/"><u>Precision Evaluations of Electronics - Delving Into Tom's Tech World</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revealed-the-ultimate-guide-to-the-newly-unveiled-evga-classified-x67t-amd-board-demanding-over-1300/"><u>Revealed: The Ultimate Guide to the Newly Unveiled EVGA Classified X67t AMD Board - Demanding Over $1,300</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sony-state-of-play-2024-decoded-major-announcements-rumors-and-features-explored/"><u>Sony State of Play 2024 Decoded: Major Announcements, Rumors & Features Explored</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unpacking-the-features-and-shortcomings-of-samsung-image-editor-for-2024/"><u>Unpacking the Features and Shortcomings of Samsung Image Editor for 2024</u></a></li>
 </ul></div>
 

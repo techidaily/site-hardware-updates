@@ -1,7 +1,7 @@
 ---
 title: "The Ideal Companion for Digital Nomads: Our Picks for the Lightest & Best Laptops | ZDNet Reviews"
-date: 2024-11-21T18:28:50.127Z
-updated: 2024-11-27T17:10:14.550Z
+date: 2024-12-04T19:21:45.175Z
+updated: 2024-12-06T17:27:29.701Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/00d8a989d7a324ab139f90cea816e72b6f2451ab8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -93,7 +93,7 @@ Compared to a MacBook, one could argue that the Yoga Slim 7x is at least better 
 The MacBook is better suited for the iOS ecosystem, however Lenovo has been making strides in developing a data transfer feature between its laptop and iPhones. So if you're not sure which one to get, the Yoga Slim 7x might be the better long-term investment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,22 +134,18 @@ Creators might also appreciate the fact that Lenovo is also giving [two free mon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-complementing-narratives-with-skillful-b-roll-usage/"><u>[New] Complementing Narratives with Skillful B-Roll Usage</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-unraveling-iphones-audio-mystery-ringtone-adjustments/"><u>[New] Unraveling iPhone's Audio Mystery Ringtone Adjustments</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-avoiding-shaky-drone-imagery-with-top-tier-gimbals/"><u>[Updated] 2024 Approved Avoiding Shaky Drone Imagery with Top-Tier Gimbals</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-imageclass-mf4800-printer-support-download-essential-drivers-now/"><u>Canon ImageCLASS MF4800 Printer Support: Download Essential Drivers Now</u></a></li>
-<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehvew-keeping-your-audio-technica-equipment-up-to-date-with-new-drivers/"><u>Comprehvew: Keeping Your Audio-Technica Equipment Up-to-Date with New Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/downloading-and-installing-canon-mg2520-windows-drivers-a-comprehensive-walkthrough/"><u>Downloading & Installing Canon MG2520 Windows Drivers: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-ways-to-refresh-the-driver-software-of-your-dell-camera-unit/"><u>Effortless Ways to Refresh the Driver Software of Your Dell Camera Unit</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/epson-wf-2630-printer-drivers-compatible-with-latest-windows-versions-7-81-and-10-downloads/"><u>Epson WF-2630 Printer Drivers: Compatible with Latest Windows Versions - 7, 8.1 & 10 Downloads</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-laserjet-5200-driver-download-for-optimal-printing-on-windows-108sx-systems/"><u>HP LaserJet 5200 Driver Download for Optimal Printing on Windows 10/8/SX Systems</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-ipod-and-apple-iphone-6s-the-right-way-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock On iPod and Apple iPhone 6s The Right Way</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Oppo Find N3 Flip? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Nokia C22? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-intel-iris-xe-drivers-download-for-windows-1011/"><u>Latest Intel Iris Xe Drivers: Download for Windows 10/11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastered-listings-top-8-free-uhd-video-players-cross-platform-for-windows-pcandmac/"><u>Mastered Listings - Top 8 FREE UHD Video Players (Cross-Platform) for Windows PC&Mac</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Honor Play 7T? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/simplified-download-and-update-for-dells-high-quality-audio-drivers/"><u>Simplified Download & Update for Dell's High-Quality Audio Drivers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/onfirmation-techniques-for-youtube-accounts-for-2024/"><u>[New] Confirmation Techniques for Youtube Accounts for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-elite-insight-engine-highest-chart-tracker/"><u>[New] In 2024, Elite Insight Engine Highest Chart Tracker</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pioneering-headsets-elevating-drone-use/"><u>[New] Pioneering Headsets Elevating Drone Use</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210758929-solved-how-to-fix-stuck-on-preparing-to-configure-windows/"><u>[SOLVED] How to Fix Stuck on “Preparing to Configure Windows”</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/99-asus-tuf-gaming-screen-24-ips-display-with-165-hz-exclusive-deal-on-newegg/"><u>$99 ASUS TUF Gaming Screen, 24 IPS Display with 165 Hz, Exclusive Deal on Newegg</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/2024s-best-deals-on-premium-quality-cost-effective-4k-monitors/"><u>2024'S Best Deals on Premium Quality, Cost-Effective 4K Monitors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/advanced-gadgetry-explained-by-tech-guru-tom/"><u>Advanced Gadgetry Explained by Tech Guru Tom</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/advanced-hardware-analysis-the-toms-insider-resource-for-enthusiasts/"><u>Advanced Hardware Analysis - The Tom's Insider Resource for Enthusiasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/announcing-the-latest-innovation-a-new-open-source-high-definition-ultra-fast-e-ink-screen-the-modos-paper-1200p-monitor/"><u>Announcing the Latest Innovation: A New Open-Source High-Definition, Ultra-Fast E-Ink Screen - The Modos Paper 1200P Monitor</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-batch-file-transformations/"><u>Best Batch File Transformations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862832658-breakthrough-in-gaming-displays-ultra-hd-samsungs-gen-2-odyssey-for-gamers-now-more-accessible-than-ever/"><u>Breakthrough in Gaming Displays: Ultra HD Samsung's Gen 2 Odyssey for Gamers - Now More Accessible Than Ever</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/continuing-darksky-app-functionality-on-android-devices-a-comprehensive-guide/"><u>Continuing DarkSky App Functionality on Android Devices - A Comprehensive Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-pova-5-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Pova 5 to Any iOS Devices | Dr.fone</u></a></li>
 </ul></div>
 

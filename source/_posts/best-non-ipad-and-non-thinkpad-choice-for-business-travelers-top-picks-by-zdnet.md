@@ -1,7 +1,7 @@
 ---
 title: "Best Non-iPad and Non-ThinkPad Choice for Business Travelers: Top Picks by ZDNet"
-date: 2024-11-21T17:04:21.619Z
-updated: 2024-11-27T17:58:20.330Z
+date: 2024-12-03T16:42:19.883Z
+updated: 2024-12-06T20:01:13.753Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Cesar Cadenas/ZDNET
 And for one of the best qualities of this laptop: battery life is absolutely phenomenal. I [performed our usual test](https://www.zdnet.com/article/how-we-test-laptops/) of running a YouTube livestream at 720p and 50% brightness. At its peak, the Surface Pro lasted just under 13 hours on a single charge. That's just shy of Microsoft's purported 14-hour battery life. In practical usage, this is a device that will easily last multiple days on a single charge. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,16 +122,16 @@ Prices for the device start at $999.99\. My review unit with the 12-core Snapdra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-elite-set-selecting-the-best-gaming-streamers-webcams/"><u>2024 Approved The Elite Set Selecting the Best Gaming Streamers Webcams</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-top-8-ai-powered-apps-for-your-smartphone/"><u>Discover the Top 8 AI-Powered Apps for Your Smartphone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-the-distinction-between-fords-new-infotainment-os-and-established-competitors-like-android-auto-and-apple-carplay/"><u>Exploring the Distinction Between Ford's New Infotainment OS and Established Competitors Like Android Auto & Apple CarPlay</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-meizuwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Meizuwith/without a PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-microsoft-bluetooth-driver-compatible-with-win-111087-download-and-setup-guide/"><u>How to Get the Newest Microsoft Bluetooth Driver Compatible with Win 11/10/8/7: Download and Setup Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-definitive-guide-to-alienware-m18-r2-a-gamers-dream-machine-unveiled/"><u>The Definitive Guide to Alienware M18 R2 - A Gamer's Dream Machine Unveiled</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-computer-hardware-rundown-top-picks-for-enthusiasts/"><u>Tom's Computer Hardware Rundown: Top Picks for Enthusiasts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-and-computer-components/"><u>Tom's Tech Insights and Computer Components</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-unraveling-computer-components/"><u>Tom's Tech Insights: Unraveling Computer Components</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-expert-insights-and-in-depth-analysis/"><u>Tom's Tech Review: Expert Insights and In-Depth Analysis</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/wd-my-passport-windows-111087/"><u>WD My Passport跨版本圖書館备份: Windows 11、10、8及7的完美解決方案</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-real-time-facebook-footage-the-top-5-live-streaming-apps/"><u>[New] In 2024, Real-Time Facebook Footage The Top 5 Live-Streaming Apps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-how-to-halt-recommendations-no-more-suggests/"><u>[Updated] 2024 Approved How to Halt Recommendations No More Suggests</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/1715761223169-2024-approved-how-to-use-markers-in-video-recording-and-editing/"><u>2024 Approved How to Use Markers in Video Recording and Editing</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone 13 mini</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-mastering-monetization-a-beginners-guide-to-facebook-revenue/"><u>In 2024, Mastering Monetization A Beginner’s Guide to Facebook Revenue</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/macbook-air-showdown-deciding-between-the-latest-m3-and-m2-processors-expert-buying-guide-by-zdnet/"><u>MacBook Air Showdown: Deciding Between the Latest M3 and M2 Processors | Expert Buying Guide by ZDNET</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/p-mastery-manual-starting-an-engaging-aesthetic-vlog-for-2024/"><u>Makeup Mastery Manual Starting an Engaging Aesthetic Vlog for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-productivity-review-of-brydges-sp-max-plus-case-for-surface-pro-8-built-to-last/"><u>Maximize Your Productivity: Review of Brydge's SP Max Plus Case for Surface Pro 8 | Built to Last!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-performance-issues-dying-light-lag-solutions-unveiled/"><u>Resolving Performance Issues: Dying Light Lag Solutions Unveiled</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-your-savings-exclusive-guide-to-early-bird-deals-on-high-performance-laptops-for-octobers-prime-shopping-event/"><u>Secure Your Savings: Exclusive Guide to Early Bird Deals on High-Performance Laptops for October's Prime Shopping Event</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultra-thin-acer-swift-edge-worlds-first-4k-oled-laptop-unveiled/"><u>Ultra-Thin Acer Swift Edge: World's First 4K OLED Laptop Unveiled!</u></a></li>
 </ul></div>
 

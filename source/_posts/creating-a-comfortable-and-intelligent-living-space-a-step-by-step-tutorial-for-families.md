@@ -1,7 +1,7 @@
 ---
 title: "Creating a Comfortable and Intelligent Living Space: A Step-by-Step Tutorial for Families."
-date: 2024-08-28T01:57:17.792Z
-updated: 2024-08-29T01:57:17.792Z
+date: 2024-12-04T21:09:09.338Z
+updated: 2024-12-06T20:12:56.557Z
 tags:
   - hardware
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/f827a2513363710538e9a15901545a1f6478c686b
 
  As a technology-minded individual, you may love controlling your smart home using voice commands, scenes, and automations. But what do you do if you have a non-techy partner, kids, or housemates? These 10 steps will enable you to create a smart home that works for everyone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1  Set Yourself Two Goals 
 
  We'll get to the specifics, but the first key to ensuring your smart home works for everyone is to set two goals.
@@ -36,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/f827a2513363710538e9a15901545a1f6478c686b
 
  Note that this _isn't_ the same as saying they need to be able to fully control everything in the home. If someone's attitude is "I just want to be able to walk into a room and turn on the light," then it's absolutely fine if things like colored lighting can only be activated by voice.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ###  Ensure None of Them Can Accidentally Break It
 
  At the same time, you want to ensure that this same person can't accidentally disable smart home devices. The classic example here is turning off a hardwired light switch, which then disables any smart bulbs on that circuit, as well as any smart switches that would otherwise control them.
@@ -48,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/f827a2513363710538e9a15901545a1f6478c686b
  A great starting point is to find a convenient time when everyone is free to sit down together and have an initial conversation about making the home smart. From your side, you'll want to help them understand why you want to do it, and what you hope to achieve. From their side, you'll want to hear their own wishes, as well as any concerns they may have.
 
 ![Sonos ARC soundbar and subwoofer in a living room.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/ae5d4f21.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sonos
 
@@ -60,8 +65,9 @@ Sonos
  You may well find this is an effective way of winning over a smart home skeptic! For example, if your partner enters the living room, walks to one corner of a room to switch on a floor lamp, walks to the opposite corner to switch on a table lamp, and then uses a dimmer to adjust the main lighting brightness to 20%, pointing out that they could instead press one smart button or simply say "Hey Siri, Living Room Relax" may prove persuasive.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4  Start Simple! 
 
  I generally advise taking things one or two steps at a time when creating a smart home. It can be tempting to buy 20 smart bulbs and half as many smart plugs, and then immediately begin creating your dream home, but that can also be a recipe for disaster. This is especially true if you have skeptics in the home and don't want to run the risk of dozens of things not working properly on day one.
@@ -77,9 +83,9 @@ Sonos
  Once everyone is happy with the initial devices, and has had a chance to get used to them, then you can ramp up the pace.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5  Consult Everyone on Names for Rooms, Devices, and Scenes 
 
  I mostly control my smart home using Siri voice commands, and one lesson I quickly learned is that if you get too carried away with scenes, you'll end up struggling to remember what half of them are called.
@@ -88,9 +94,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  For example, is the main room known as the living room, the family room, or the lounge? How will you name the bedrooms? Is that a floor lamp or a standing lamp? Do you have movie nights or TV nights?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 6  Consult Everyone on Automations 
 
  To me, automations are one of the greatest things about smart homes. If there's one thing easier than voicing a command, it's something happening automatically as soon as you walk into a room.
@@ -102,8 +105,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  One real-life example I had was programming the hall lights to switch on when the front door was unlocked. A great way to be welcomed home, but not so great if one person is fast asleep with their bedroom door open when someone gets in at 2 am. I quickly added a time check to that one.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7  Have Physical Switches and Buttons 
 
  I mentioned earlier that you may have someone in the household who essentially wants nothing to change from their perspective. The key to this is ensuring they can still walk into a room, reach for a light switch, find it in (roughly) the expected place, and manually switch on the lights.
@@ -120,9 +124,6 @@ Philips
 
  To ensure people were reminded not to operate existing hardwired switches, I put green stickers on the ones it was still ok to use. But if someone really finds it hard to break the habit, you may need to mask or otherwise disable them. Strong clear plastic tape is the low-tech solution, but you can also buy switch covers to hide them away.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9  Consider a Control Panel 
 
  Not everyone is comfortable with voice commands, but one compromise that went down well in my home was to re-purpose an old iPad as a smart home control panel.
@@ -132,15 +133,13 @@ Philips
 ![A iPad that's been repurposed into a smart home control hub.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ipad-home-control-panel.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Ben Lovejoy / How-To Geek
 
  This proved to have the secondary benefit of making the smart home easy to use when guests are staying, especially when they are alone in the home, like when cat-sitting.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10  Watch, Listen, Adapt 
 
  Finally, a smart home is never finished! The chances are that you'll want to modify it, or add to it, as new tech emerges. But you'll also want to watch how other people use it, listen to any complaints they may have, and continue to adapt it to meet everyone's needs.
@@ -151,8 +150,6 @@ Ben Lovejoy / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +157,24 @@ Ben Lovejoy / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-breakthrough-the-top-8-web-based-photo-blender/"><u>[New] Breakthrough The Top 8 Web-Based Photo Blender</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-from-lurker-to-leader-the-roadmap-to-higher-fb-page-rankings/"><u>[New] In 2024, From Lurker to Leader The Roadmap to Higher FB Page Rankings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-your-videos-a-youtube-hit-top-tips-and-strategies/"><u>[Updated] In 2024, How To Make Your Videos a YouTube Hit Top Tips and Strategies</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-real-time-artist-streaming-on-douyin-for-2024/"><u>[Updated] Real-Time Artist Streaming on Douyin for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-portable-power-solutions-a-must-have-charging-buddy-for-your-macbook-pro-zdnets-expert-pick/"><u>Best Portable Power Solutions: A Must-Have Charging Buddy for Your MacBook Pro - ZDNET's Expert Pick</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-the-latest-chromeos-enhancement-with-windows-11-integration-on-chromebooks-detailed-review-by-zdnet/"><u>Explore the Latest ChromeOS Enhancement with Windows 11 Integration on Chromebooks | Detailed Review by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-microsofts-new-frontier-in-technology-the-intelligent-surface-pro-10-and-ai-powered-laptop-6-unveiled-exclusive-details-by-zdnet/"><u>Exploring Microsoft's New Frontier in Technology: The Intelligent Surface Pro 10 and AI-Powered Laptop 6 Unveiled | Exclusive Details by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huge-discount-save-300-on-the-asus-vivobook-pro-now-available-exclusively-on-amazon-tech-insight/"><u>Huge Discount: Save $300 on the Asus VivoBook Pro Now Available Exclusively on Amazon Tech Insight</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pure-green-sets-free-templates-boosting-filmmaking-and-videography-skills/"><u>In 2024, Pure Green Sets Free Templates Boosting Filmmaking and Videography Skills</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/live-the-microsoft-surface-and-windows-artificial-intelligence-unveiling-zdnet-insights-and-anticipated-innovations/"><u>Live the Microsoft Surface & Windows Artificial Intelligence Unveiling - ZDNet: Insights & Anticipated Innovations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/supporting-evolution-in-computing-how-ai-and-cybersecurity-are-shaping-the-future-of-lenovos-laptop-lineup/"><u>Supporting Evolution in Computing: How AI and Cybersecurity Are Shaping the Future of Lenovo's Laptop Lineup</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-xiaomi-civi-3-frp-by-drfone-android/"><u>The Updated Method to Bypass Xiaomi Civi 3 FRP</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-98-unmissable-cyber-monday-bargains-of-2022-a-comprehensive-guide-by-zdnet/"><u>Top 98 Unmissable Cyber Monday Bargains of 2022 - A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-notch-intelligence-on-a-striking-screen-the-definitive-analysis-of-samsungs-un65ru8000fxza/"><u>Top-Notch Intelligence on a Striking Screen: The Definitive Analysis of Samsung's UN65RU8000FXZA</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-ease-of-access-to-openais-latest-gpt-shop-a-comprehensive-user-manual/"><u>Unlocking Ease of Access to OpenAI’s Latest GPT Shop - A Comprehensive User Manual</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnets-ultimate-tech-roundup-unveiling-the-most-revolutionary-devices-and-products-of/"><u>ZDNet's Ultimate Tech Roundup: Unveiling the Most Revolutionary Devices & Products Of</u></a></li>
+</ul></div>
 

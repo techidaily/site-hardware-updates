@@ -1,7 +1,7 @@
 ---
 title: "1. Boost Your Laptop's Performance: A Step-by-Step Guide to Upgrading Memory"
-date: 2024-11-21T17:34:08.418Z
-updated: 2024-11-27T16:26:30.185Z
+date: 2024-12-06T04:18:35.316Z
+updated: 2024-12-07T02:38:25.620Z
 tags:
   - laptops
 categories:
@@ -31,6 +31,10 @@ Chances are you're either running really low on storage space or RAM.
 ### **ZDNET** Recommends
 
 [![best-windows-10-laptop-dell-xps-13-cnet.jpg](https://www.zdnet.com/a/img/resize/93abfd48ce4c77d0dcecd931bb15ef0140be039a/2021/06/15/b2460897-9294-43d4-8fcc-2a8b2afdb711/best-windows-10-laptop-dell-xps-13-cnet.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Windows laptops Here are ZDNET's top picks for a variety of use cases.  Read now](https://www.zdnet.com/article/best-windows-laptop/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 RAM -- short for" random access memory" -- is vital for your computer system to open, run, and manage programs, applications, and services. It's where your computer stores data it needs to access rapidly.
 
@@ -69,6 +73,10 @@ There are two ways to tell if your system's RAM can be upgraded:
 1. Look at the documentation that came with your system – look for a phrase like "upgradable RAM."
 2. Let the RAM experts tell you – both [Crucial](https://www.crucial.com/products/memory/laptop-dram) and [Kingston](https://www.kingston.com/en/memory/desktop-laptop) have tools to help you locate this information (this is what I use -- don't just guess!)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Information you need to know
 
 Here are things you need to know before pulling the trigger on an upgrade:
@@ -91,10 +99,6 @@ Here's how to find out how much RAM is in your system:
 Checking how much RAM on a Windows 11 PC
 
 Adrian Kingsley-Hughes/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How much RAM do you need to buy?
 
@@ -119,7 +123,7 @@ If there's only one slot, then the RAM in that slot can't be used.
 The best way to tell how RAM is organized in your system is to open it up and take a look (we'll get to this shortly).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tools you need
@@ -132,7 +136,7 @@ You need a few tools to do this job.
 I recommend using good screwdrivers, as there's nothing that's going to ruin your day more than rendering a screw unremovable by chewing its head up with the wrong tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use an ESD (ElectroStatic Display) strap
@@ -159,10 +163,6 @@ Alternatively, you might find useful information by doing an internet search. Ev
 
 OK, here are the steps for getting inside your laptop to change your RAM:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Find a clear area to work in
 
 There will be parts and screws that are easier to keep track of if there's no other clutter for them to mix with. 
@@ -181,6 +181,10 @@ Do this either by going through a small hatch held down by a screw or removing t
 
 > **Pro tip**: Take photos using your smartphone so you know where everything goes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Remove the RAM
 
 RAM modules are held in place by little clips on either side of the module, and you release it by gently pulling these clips out to the side. It will then lift up out of the slot and you can pull it out.
@@ -193,10 +197,6 @@ RAM module popped up once clips are released
 
 stock.adobe.com
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Refit the new RAM
 
 Slot the RAM in at the same angle that it popped up to, then press it down into place -- you'll hear it click into place. If it doesn't feel like it's going into place easily, stop, check that the orientation is correct and try again.
@@ -205,13 +205,13 @@ Reinserting a RAM module
 
 stock.adobe.com
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Put everything else back
 
 Disconnect your ESD strap and refit the hatch or base of the laptop, and make sure that there are no parts left over. Don't force anything into place and take care not to trap any cables. If anything doesn't feel right, undo what you're doing and check.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Test that everything works
 
@@ -221,6 +221,10 @@ You're done!
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can increasing RAM improve performance?
 
 It can. If you're system is RAM limited, this is a good upgrade to carry out. However, it's no guarantee and there might be other bottlenecks, such as slow CPU or storage.
@@ -229,37 +233,33 @@ It can. If you're system is RAM limited, this is a good upgrade to carry out. Ho
 
 However, if you have a decent amount of RAM fitted -- 4GB on Windows 10, 8GB on Windows 11 -- then RAM might not be the problem. A good test is if your PC is normally quite responsive but some applications (such as Google Chrome or Adobe Photoshop) is turning things slow, then RAM is a likely culprit.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What makes a computer run faster?
 
 A computer is the sum of its parts, and for a fast PC you need a good balance of CPU, storage, RAM, and GPU. 
 
 **Also:** [**What graphics card do I have? How to check your GPU and drivers**](https://www.zdnet.com/article/what-graphics-card-do-i-have-how-to-check-your-gpu-and-drivers/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which brand of RAM is best for laptop?
 
 I generally stick with Crucial or Kingston RAM. These are the brands that I've had the best success with.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is RAM expensive?
 
 Not really -- an [8GB module for a typical laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCrucial-DDR4-Laptop-Memory-CT8G4SFRA32A%2Fdp%2FB08C4Z69LN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C023cbc6a-b259-4996-9edc-fc1052ab67ea%7Cdtp&dtb=1) is around $25\. A 32GB RAM module [costs less than $100](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCrucial-DDR4-Laptop-Memory-CT8G4SFRA32A%2Fdp%2FB08C4X9VR5%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C023cbc6a-b259-4996-9edc-fc1052ab67ea%7Cdtp&dtb=1).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is 64GB of RAM overkill?
 
 Unless you are running some really heavy, specialist workloads -- such as rendering high-resolution video or working with 3D models -- then yes, it is overkill. I find 32GB to be more than I need on my MacBook Pro, and I push that system hard.
 
 But you'll never run into a situation of not having enough RAM!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What can you do with 1TB of RAM?
 
@@ -303,19 +303,22 @@ For some laptops, 4GB is the maximum and the end of the road, for other laptops,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-maximizing-instagram-video-exposure-for-2024/"><u>[New] Maximizing Instagram Video Exposure for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-vidma-screen-recorder-unveiled-in-depth-review-insights/"><u>[Updated] In 2024, Vidma Screen Recorder Unveiled In-Depth Review Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/direct-links-latest-graphics-drivers-for-the-nvidia-gtx-980-ti/"><u>Direct Links: Latest Graphics Drivers for the NVIDIA GTX 980 Ti</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-faulty-graphics-software-for-smooth-mc-gaming/"><u>Fixing Faulty Graphics Software for Smooth MC Gaming</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-hp-laserjet-1018-printer-drivers-quick-and-easy-installation-guide/"><u>Free HP LaserJet 1018 Printer Drivers: Quick and Easy Installation Guide</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/from-individual-tracks-to-albums-building-a-personalized-soundtrack-on-web-and-mobile/"><u>From Individual Tracks to Albums Building a Personalized Soundtrack on Web & Mobile</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-geforce-gtx-amoled-with-a-free-download-and-installation-guide-for-windows-users/"><u>How to Get the Latest GeForce GTX Amoled with a Free Download and Installation Guide for Windows Users</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-windows-11-audio-capture/"><u>In 2024, The Ultimate Guide to Windows 11 Audio Capture</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-logitechs-g29-wheel-game-driver-on-your-pc-windows-xp-to-windows-11/"><u>Install Logitech's G29 Wheel Game Driver on Your PC (Windows XP to Windows 11)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-updates-for-dell-2330dn-monochrome-laser-printer-drivers/"><u>Latest Updates for Dell 2330D/N Monochrome Laser Printer Drivers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/phones-to-cameras-diy-setup-guide-for-mobile-video-recording/"><u>Phones to Cameras DIY Setup Guide for Mobile Video Recording</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-fix-for-printer-woes-newest-samsung-m2/"><u>Quick Fix for Printer Woes: Newest Samsung M2</u></a></li>
-<li><a href="https://win-superb.techidaily.com/resolved-issue-unrecognizable-disk-drive-error/"><u>Resolved Issue: Unrecognizable Disk Drive Error</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/showcase-of-inclusive-films-premier-lesbian-gay-bisexual-and-transgender-titles-on-netflix-this-july/"><u>Showcase of Inclusive Films: Premier Lesbian, Gay, Bisexual & Transgender Titles on Netflix This July</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-instagram-insiders-guide-to-dynamic-story-quizzes/"><u>[Updated] In 2024, The Instagram Insider's Guide to Dynamic Story Quizzes</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-maximum-memory-accessory-for-sony-a7s-ii/"><u>[Updated] Maximum Memory Accessory for Sony A7S II</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-popular-tiktok-creations-dominating-twitter-discussions/"><u>[Updated] Popular TikTok Creations Dominating Twitter Discussions</u></a></li>
+<li><a href="https://solve-info.techidaily.com/1-modify-your-sound-and-display-preferences-via-the-windows-control-panel-tutorial-by-yl-computing/"><u>1. Modify Your Sound and Display Preferences via the Windows Control Panel - Tutorial by YL Computing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-the-art-of-filters-on-instagram-your-2023-manual/"><u>2024 Approved Mastering the Art of Filters on Instagram Your 2023 Manual</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722960366583-disconnect-any-other-devices-connected-to-the-same-usb-hub-as-it-may-be-causing-a-bottleneck-in-data-transfer-capacity/"><u>Disconnect Any Other Devices Connected to the Same USB Hub as It May Be Causing a Bottleneck in Data Transfer Capacity.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/finding-and-installing-your-asus-network-adapters-drivers/"><u>Finding and Installing Your ASUS Network Adapter's Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722972703645-get-your-toshiba-copier-software-installed-on-any-windows-machine-today/"><u>Get Your Toshiba Copier Software Installed on Any Windows Machine Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fix-connectivity-woes-with-your-lg-devices-usb-driver-in-windows-operating-systems/"><u>How to Fix Connectivity Woes with Your LG Device's USB Driver in Windows Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211027005-how-to-prevent-auto-sleep-on-pc-or-laptop-easy-steps-inside/"><u>How to Prevent Auto-Sleep on PC or Laptop - Easy Steps Inside!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-quickly-and-successfully-download-new-amd-graphics-drivers/"><u>How to Quickly and Successfully Download New AMD Graphics Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-thunderbolt-dock-g2-drivers-120w230w-download/"><u>HP Thunderbolt Dock G2 Drivers (120W/230W) Download</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-5-ai-voice-generators-online-supports-all-browsers/"><u>New In 2024, Top 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-computer-review-comprehensive-guide-and-analysis/"><u>Tom's Computer Review: Comprehensive Guide and Analysis</u></a></li>
+<li><a href="https://article-tips.techidaily.com/top-video-app-selection-for-immersive-viewing-on-ios/"><u>Top Video App Selection for Immersive Viewing on iOS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-solving-iphone-mobile-hotspot-issues/"><u>Troubleshooting Guide: Solving iPhone Mobile Hotspot Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-solution-get-your-lenovo-x1-carbon-up-to-date-with-new-drivers-for-windows-11windows-7/"><u>Ultimate Solution: Get Your Lenovo X1 Carbon Up to Date with New Drivers for Windows 11/Windows 7</u></a></li>
 </ul></div>
 

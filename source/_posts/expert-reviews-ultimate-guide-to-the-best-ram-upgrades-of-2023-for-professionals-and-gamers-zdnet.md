@@ -1,7 +1,7 @@
 ---
 title: "Expert Reviews: Ultimate Guide to the Best RAM Upgrades of 2023 for Professionals and Gamers | ZDNet"
-date: 2024-11-24T16:54:50.954Z
-updated: 2024-11-27T18:07:16.089Z
+date: 2024-12-02T20:38:54.742Z
+updated: 2024-12-07T00:08:46.392Z
 tags:
   - laptops
 categories:
@@ -20,13 +20,13 @@ The right laptop can make a world of difference. This applies to everyone, wheth
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best laptop for video editing right now?
 
 We performed extensive research and hands-on testing when looking for the top video editing laptops you can buy today. We looked for models that excelled in processing power, display, and price, among other metrics. Our pick for the best laptop for video editing overall is the [16-inch Apple MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) (2023), due to its M3 Pro chipset, gorgeous Liquid Retina XDR display, and long-lasting battery life. It is rather expensive. But the MacBook Pro isn't the only option out there. Below, we compare the top models from the best brands like ASUS and Dell.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best laptops for video editing in 2024
 
@@ -43,15 +43,7 @@ Cons
 * Heavy
 * Expensive
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple MacBook Pro 16 (2023)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best laptop for video editing overall
 
@@ -85,6 +77,10 @@ Cons
 
 ## HP ZBook Studio G10 Mobile Workstation
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best video editing laptop display
 
 If money is no object, then we highly recommend the HP ZBook Studio 16 G10\. This thing is a beast. It sports a stunning 16-inch display outputting an image resolution slightly above 4K resolution (3,840 x 2,400 pixels, to be exact). The company also offers professionals a ton of hardware options to choose from. The base unit has an Intel Core i5013600H vPro processor with an integrated graphics card, but you opt for an i9-13900H vPro CPU and an Nvidia GeForce RTX 4080 GPU.
@@ -112,10 +108,6 @@ Cons
 * Bulky
 
 ## Dell Inspiron 16 Plus 7630
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best value for a video editing laptop
 
@@ -147,7 +139,7 @@ Cons
 ## Acer Swift X 14
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best 14-inch video editing laptop
@@ -179,10 +171,6 @@ Cons
 * Poor speakers
 * Can run hot
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## LG Gram Pro 2-in-1
 
 ### Best 2-in-1 laptop for video editing
@@ -204,6 +192,10 @@ Show less
 [View now at Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Frd.bizrate.com%2Frd%3Ft%3Dhttps%253A%252F%252Fwww.lenovo.com%252Fus%252Fen%252Fp%252Flaptops%252Fyoga%252Fyoga-2-in-1-series%252Flenovo-yoga-book-9i-gen-9-%252813-inch-intel%2529%252F83ff0001us%253Fcid%253Dus%253Acse%253Aqza7ob%2526source%253Dconnexity%2526channel%253Dcse%2526adcampaign%253DCSE%255FConnexitycon%2526cnxclid%253DSZ%255FREDIRECT%255FID%2526szredirectid%253DSZ%255FREDIRECT%255FID%26mid%3D844%26cat%255Fid%3D462%26atom%3D10039%26prod%255Fid%3D%26oid%3D29220212237%26pos%3D1%26b%255Fid%3D18%26bid%255Ftype%3D2%26bamt%3Dcfbf9532e1e82faa%26cobrand%3D1%26ppr%3D64b0452163193681%26a%3D96e7a9cf999378f822a4881bee3cdda9%26rf%3Daf1%26af%255Fassettype%255Fid%3D12%26af%255Fcreative%255Fid%3D2973%26af%255Fid%3D614548%26af%255Fplacement%255Fid%3D1%26dv%3Deb417fd1c9a5efa54f20f34dda34b0e099b7e99f25845ec5)
 
 ## Lenovo Yoga Book 9i
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best dual-screen laptop
 
@@ -231,10 +223,6 @@ Pros
 Cons 
 * Plastic construction
 * Poor battery
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Acer Aspire 5
 
@@ -282,7 +270,7 @@ There is more to the m16 R2 besides its looks. It's a powerful machine with an I
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best video editing laptop?
@@ -317,6 +305,10 @@ Below is a table briefly explaining each recommendation and why you should get t
 | Acer Aspire 5                               | The best budget laptop for video editing. The Aspire 5 offers a lot of bang for its buck with its GeForce RTX GPU, Full HD Plus screen, and wide array of ports.    |
 | Alienware m16 R2                            | The best gaming laptop for video editing. It houses powerful hardware and fits right at the office thanks to Stealth Mode.                                          |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Factors to consider when choosing a video editing laptop
 
 When picking out the best laptop for video editing, there are multiple factors to consider. The selections we made on the list were made with them in mind. For our evaluation, we weighed the following aspects:
@@ -326,15 +318,15 @@ When picking out the best laptop for video editing, there are multiple factors t
 * **Graphics:** When shopping for a laptop, it is recommended that you choose a model with a dedicated graphics card rather than an integrated one. The former can better handle tough workloads because it won't be sharing power with the CPU. It has its power supply, allowing it to direct its resources to its processes.
 * **Display:** You will need a high-quality display for video editing. Professionals have to be able to tell how good (or bad) the footage looks, its color output, and the finer details. Sizes can vary from model to model. Some, like the Strix SCAR 17, have a 17-inch screen, while others are a bit smaller at 14 inches. Big screens are ideal for showing off details, while small screens make the laptop easier to carry around.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How we test laptops
 
 ZDNET receives a lot of laptops to review, and honestly, many of them could've made the list. To separate the best from the rest, we follow the criteria mentioned in the previous question: which ones have the nicest displays, the best performance, et cetera. At first, the laptop is tested casually: surf the internet, watch videos, download apps, and work on them just to get a feel for them. From there, we run more labor-intensive apps and perform benchmark tests to see what the hardware is capable of.
 
 Once all the testing is complete, the best of the best are sorted and placed on the list. It can be tricky picking the premiere options. Some, like the MacBook Pro, are a no-brainer because it is such a good machine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best brands for the best video editing laptops?
 
@@ -356,19 +348,23 @@ Be prepared to shell out a significant amount of cash for one. The most expensiv
 
 The one thing we stress is that your make sure whatever laptop you plan on buying meets your needs. There's no point in buying an expensive laptop that'll disappoint you or you purchase something with features you don't ever use.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is 16GB RAM enough for video editing?
 
 16GB of memory is an okay amount for video editing. That's fine for 4K resolution videos so long as you don't have a lot of apps running in the background. However, if you plan on having heavy workloads, you're going to need more. 16GB is not going to cut it. Instead, we recommend buying a laptop with at least 32GB of RAM.
 
 Think of that amount as the golden standard for video editing. 32GB allows you edit all kinds of files and work with longer videos. Of course, more is better. 64GB of memory lets you run multiple apps in the background and tackle 8K footage. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How big should my SSD be for video editing?
 
 You should, at the very least, have a laptop with 256GB of storage space. Uncompressed video footage and audio files can take up a lot of room on a computer so you'll need as much space as possible. Ideally, it's best to have a 1TB SSD. That's a good amount, but of course, if you can afford more, get the bigger storage space: 2TB, 3TB, whatever.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When do laptops go on sale?
 
@@ -377,6 +373,10 @@ Video editing laptops go on sale multiple times throughout the year. Prices usua
 **Also:** [**October Prime Day 2024: Everything you need to know**](https://www.zdnet.com/home-and-office/october-prime-day-2024-amazon-just-announced-the-official-dates/)
 
 The next Prime Day event kicks off on Oct. 8 and Oct 9\. at the time of this writing. We have a [list of the best October Prime Day laptop deals so far](https://www.zdnet.com/article/best-early-prime-day-laptop-deals-2024/). We highly recommend checking it out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative laptops for video editing worth considering?
 
@@ -424,18 +424,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-ultimate-list-for-engrossing-youtube-stories-in-23/"><u>[New] 2024 Approved The Ultimate List for Engrossing YouTube Stories in '23</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-elevate-conversational-impact-how-to-pin-messages-wisely-in-discord-for-2024/"><u>[Updated] Elevate Conversational Impact How to Pin Messages Wisely in Discord for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-advanced-method-for-combining-gopro-footage-with-full-spherical-vids/"><u>[Updated] In 2024, Advanced Method for Combining GoPro Footage with Full Spherical Vids</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/designing-an-eye-catching-tiktok-finale-scene-for-2024/"><u>Designing an Eye-Catching TikTok Finale Scene for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hassle-free-guide-to-update-your-microsoft-sculpt-keyboard-driver/"><u>Hassle-Free Guide to Update Your Microsoft Sculpt Keyboard Driver</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-effortlessly-solve-logitech-c615-sound-problems-a-step-by-step-guide/"><u>How To Effortlessly Solve Logitech C615 Sound Problems | A Step-by-Step Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-prime-video-titans-the-tweeted-and-tested-binge-masters/"><u>In 2024, Prime Video Titans The #Tweeted and Tested Binge Masters</u></a></li>
-<li><a href="https://program-issues.techidaily.com/instant-relief-from-frequent-titanfall-2-game-crashes/"><u>Instant Relief From Frequent Titanfall #2 Game Crashes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-m-audio-fast-track-drivers-compatible-with-various-windows-versions-including-10-7-8-and-81/"><u>Latest M-Audio Fast Track Drivers: Compatible with Various Windows Versions Including 10, 7, 8 & 8.1</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/official-logitech-k350-driver-setup-for-seamless-typing-experience/"><u>Official Logitech K350 Driver Setup for Seamless Typing Experience</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199745283-troubleshoot-and-fix-windows-ten-bad-pool-caller-issue-once-and-for-all/"><u>Troubleshoot and Fix Windows ˈTen Bad Pool Caller Issue Once & For All!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-new-horizons-in-academia-through-artificial-intelligence-techniques/"><u>Unlocking New Horizons in Academia Through Artificial Intelligence Techniques</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/z270-gaming-pro-carbon-mobo-download-and-enhance-your-pc-performance/"><u>Z270 Gaming Pro Carbon Mobo: Download and Enhance Your PC Performance</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-achieving-million-sub-milestone-the-youtube-guide-for-2024/"><u>[Updated] Achieving Million-Sub Milestone The YouTube Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-maze-of-multi-service-playlist-transfer/"><u>2024 Approved Navigating the Maze of Multi-Service Playlist Transfer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/descargar-convertidor-online-de-mp4-a-mp3-sin-coste-movavi/"><u>Descargar Convertidor Online De MP4 a MP3 Sin Coste: Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dive-into-top-performer-pcs-at-toms-digital-workshop-showcase/"><u>Dive Into Top Performer PCs at Tom's Digital Workshop Showcase</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhancing-smart-automation-how-abbyy-and-blue-prism-revolutionize-digital-labor/"><u>Enhancing Smart Automation: How ABBYY & Blue Prism Revolutionize Digital Labor</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722964954913-find-the-latest-canon-mg2520-driver-software-for-windows-systems-here/"><u>Find the Latest Canon MG2520 Driver Software for Windows Systems Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-roccat-mouse-driver-software/"><u>Free Download: Roccat Mouse Driver Software</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-honor-v-purse-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Honor V Purse Phone Screen?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-final-cut-pros-top-10-vfx-power-players/"><u>In 2024, Final Cut Pro’s Top 10 VFX Power Players</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/optimize-your-arduino-projects-with-the-latest-windows-usb-drivers/"><u>Optimize Your Arduino Projects with the Latest Windows USB Drivers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-7-nft-generators-to-turn-your-artwork-into-nfts-for-2024/"><u>Top 7 NFT Generators to Turn Your Artwork Into NFTs for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/water-management/"><u>Water Management</u></a></li>
 </ul></div>
 

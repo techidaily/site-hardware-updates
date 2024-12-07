@@ -1,7 +1,7 @@
 ---
 title: "Lenovo’s Innovative Compact Laptop Revealed: Exclusive TrackPoint Feature + Hidden Gems for Productivity Pros!"
-date: 2024-11-23T18:34:25.798Z
-updated: 2024-11-27T20:33:35.151Z
+date: 2024-11-30T03:53:07.219Z
+updated: 2024-12-06T20:21:35.008Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,19 +134,21 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-breaking-down-instagrams-timeframe-per-video/"><u>[New] 2024 Approved Breaking Down Instagram's Timeframe Per-Video</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-appreciation-showcase-easy-access-to-otus-for-2024/"><u>[Updated] Appreciation Showcase Easy Access to OTUs for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-install-atheros-network-adapter-drivers-on-windows-systems/"><u>Download and Install Atheros Network Adapter Drivers on Windows Systems</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/embrace-a-holistic-approach-to-health-with-fitbit-sense-vs-apple-watch/"><u>Embrace a Holistic Approach to Health with Fitbit Sense Vs. Apple Watch</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-vivo-y56-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Vivo Y56 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-apple-iphone-8-plus-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change GPS Location on Apple iPhone 8 Plus Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 11 Pro</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/leaked-computex-2024-lineup-spotlight-on-asus-rog-ally-and-snapdragon-processor-systems-lack-of-new-graphics-card-releases-highlighted/"><u>Leaked Computex 2024 Lineup Spotlight on ASUS ROG Ally and Snapdragon Processor Systems — Lack of New Graphics Card Releases Highlighted</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/master-the-system-insider-tips-from-toms-hardware-hub/"><u>Master the System: Insider Tips From Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/master-your-pc-with-toms-hardware-wisdom-and-guidance/"><u>Master Your PC with Tom's Hardware Wisdom and Guidance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-tech-unveiling-secrets-in-toms-hardware-discoveries/"><u>Mastering Tech: Unveiling Secrets in Tom's Hardware Discoveries</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-technology-insights-with-toms-comprehensive-hardware-analysis/"><u>Mastering Technology Insights with Tom’s Comprehensive Hardware Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-technology-with-tom-the-ultimate-hardware-review-site/"><u>Mastering Technology with Tom: The Ultimate Hardware Review Site</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-realme-gt-3-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Realme GT 3 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-harnessing-the-power-of-movie-maker-in-windows-8/"><u>[New] 2024 Approved Harnessing the Power of Movie Maker in Windows 8</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/weaking-video-rhythms-on-youtube-desktopmobile-for-2024/"><u>[New] Tweaking Video Rhythms on YouTube (Desktop/Mobile) for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-perfecting-picture-in-picture-setup-with-youtube-on-ios/"><u>[Updated] 2024 Approved Perfecting Picture-in-Picture Setup with YouTube on iOS</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-a-closer-look-at-huawei-p10s-security-measures/"><u>2024 Approved A Closer Look at Huawei P10’s Security Measures</u></a></li>
+<li><a href="https://win11.techidaily.com/4-simple-methods-to-trim-and-edit-videos-using-openshot-a-comprehensive-guide/"><u>4 Simple Methods to Trim and Edit Videos Using OpenShot: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/bargain-bin-alert-score-the-apple-macbook-air-with-m2-chip-for-just-749-on-amazons-october-prime-day-tech-news/"><u>Bargain Bin Alert! Score the Apple MacBook Air with M2 Chip for Just $749 on Amazon's October Prime Day - Tech News.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/do-dual-screen-laptops-have-a-future-examining-the-impact-of-lenovos-yoga-book/"><u>Do Dual-Screen Laptops Have a Future? Examining the Impact of Lenovo's Yoga Book ˈ</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-your-game-crashes-with-d3dx923dll-file-issues-a-comprehensive-guide/"><u>Fix Your Game Crashes with d3dx9_2‌3.dll File Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>How To Pause Life360 Location Sharing For Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/most-comfortable-vertical-gaming-and-office-mice-in-asterisk-2024/"><u>Most Comfortable Vertical Gaming and Office Mice in Asterisk 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/primeval-deals-discover-the-ultimate-pre-prime-sales-on-zdnet/"><u>Primeval Deals : Discover the Ultimate Pre-Prime Sales on ZDNet</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-art-of-influential-facebook-video-marketing-for-2024/"><u>The Art of Influential Facebook Video Marketing for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-lenovo-laptops-tailored-for-hybrid-professionals-save-big/"><u>Top Lenovo Laptops Tailored for Hybrid Professionals - Save Big!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-portable-displays-of-2024-comprehensive-tests-and-reviews-by-zdnet/"><u>Top-Rated Portable Displays of 2024: Comprehensive Tests & Reviews by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upcoming-apple-product-launches-in-october-anticipating-the-new-m4-mac-mini-latest-ipad-models-and-enhancements-to-siri-insights-from-zdnet/"><u>Upcoming Apple Product Launches in October: Anticipating the New M4 Mac Mini, Latest iPad Models & Enhancements to Siri - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnet-reviews-the-most-ideal-portable-laptop-for-effortless-telecommuting-experience/"><u>ZDNet Reviews the Most Ideal Portable Laptop for Effortless Telecommuting Experience</u></a></li>
 </ul></div>
 

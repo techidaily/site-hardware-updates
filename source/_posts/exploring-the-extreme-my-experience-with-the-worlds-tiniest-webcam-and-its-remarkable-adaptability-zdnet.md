@@ -1,7 +1,7 @@
 ---
 title: "Exploring The Extreme: My Experience with the World’s Tiniest Webcam and Its Remarkable Adaptability | ZDNet"
-date: 2024-11-21T17:11:22.172Z
-updated: 2024-11-27T16:01:40.805Z
+date: 2024-12-03T18:37:03.113Z
+updated: 2024-12-06T19:25:26.375Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ I also need to mention a couple of things that may be dealbreakers for you. Firs
 Also, be aware the IdeaPad Pro 5i comes with a bunch of bloatware. The laptop's 1TB of storage is more like 880GB, if you take into account all the apps Lenovo preinstalled.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -93,7 +93,7 @@ Also, be aware the IdeaPad Pro 5i comes with a bunch of bloatware. The laptop's 
 If you're looking for a less expensive 16-inch laptop, [Lenovo's Yoga 7i](https://www.zdnet.com/article/this-699-lenovo-laptop-made-me-a-believer-in-the-2-in-1-form-factor-and-its-on-sale-for-memorial-day/) is several hundred dollars cheaper, although you're trading in the impressive OLED screen for one that's much more low-key. If you want an OLED laptop in a slightly less expensive package, check out the [Acer Swift X 14](https://www.zdnet.com/article/i-tested-acers-swift-x-laptop-and-its-performance-surprised-me-in-3-ways/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -140,18 +140,20 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-strategies-for-sourcing-a-list-cinematography-experts/"><u>[Updated] 2024 Approved Strategies for Sourcing A-List Cinematography Experts</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-make-instagram-highlight-covers/"><u>[Updated] How to Make Instagram Highlight Covers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-acquiring-and-configuring-toshiba-printer-drivers-for-windows-pcs/"><u>Easy Guide to Acquiring and Configuring Toshiba Printer Drivers for Windows PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-upgrade-to-latest-drivers-for-your-lenovo-t430-with-compatibility-for-windows-11-8-and-7-systems/"><u>Effortless Upgrade to Latest Drivers for Your Lenovo T430 with Compatibility for Windows 11, 8 & 7 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-new-epson-ds-530-drivers-for-a-fresh-printing-experience-on-windows-10-x64/"><u>How to Get New Epson DS-530 Drivers for a Fresh Printing Experience on Windows 10 (X64)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-resolve-hp-monitor-device-driver-concerns-on-various-versions-of-windows-11-8-and-7/"><u>How to Resolve HP Monitor Device Driver Concerns on Various Versions of Windows: 11, 8 & 7</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-scriptwriting-the-art-of-utilizing-slug-lines/"><u>In 2024, Scriptwriting The Art of Utilizing Slug Lines</u></a></li>
-<li><a href="https://win-blog.techidaily.com/lost-ark-pc-crashes-effective-solutions-for-a-smooth-gaming-experience/"><u>Lost Ark PC Crashes - Effective Solutions for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/restaurar-informacion-escondida-en-un-hdd-de-windows-5-estrategias-practicas/"><u>Restaurar Información Escondida en Un HDD De Windows: 5 Estrategias Prácticas</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/1715701063148-screenmasters-unite/"><u>ScreenMasters Unite!</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-sony-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Sony</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/visit-nvidias-official-website/"><u>Visit NVIDIA's Official Website.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/windows-users-free-downloads-of-logitech-webcam-drivers-available-now/"><u>Windows Users: Free Downloads of Logitech Webcam Drivers Available Now!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-transform-your-videography-using-youtube-to-boost-visual-clarity/"><u>[New] 2024 Approved Transform Your Videography Using YouTube to Boost Visual Clarity</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-exploring-the-sky-the-syma-x5c-for-drone-beginners-for-2024/"><u>[New] Exploring the Sky The Syma X5C for Drone Beginners for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-quick-fix-annoyance-free-deletion-of-youtube-comments/"><u>[Updated] 2024 Approved Quick Fix Annoyance-Free Deletion of Youtube Comments</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-select-best-dvd-software-for-sierra-mac-users/"><u>[Updated] 2024 Approved Select Best Dvd Software for Sierra Mac Users</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-all-in-one-app-analysis-tool-az-screen-capturer/"><u>[Updated] All-in-One App Analysis Tool AZ Screen Capturer</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-building-a-vimeo-portfolio-from-the-ground-up/"><u>[Updated] In 2024, Building a Vimeo Portfolio From the Ground Up</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-virtual-world-wonders-iphone-and-androids-leading-apps/"><u>[Updated] Virtual World Wonders IPhone & Android's Leading Apps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mx490-all-in-one-printer-fresh-drivers-download-and-update-info/"><u>Canon MX490 All-in-One Printer - Fresh Drivers Download & Update Info</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-m-audio-ultradriver-software-ultimate-aux-control/"><u>Free M-Audio UltraDriver Software - Ultimate AUX Control</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-ready-for-smoother-gaming-and-better-visuals-installing-the-newest-intel-uhd-graphics-drivers/"><u>Get Ready for Smoother Gaming and Better Visuals: Installing the Newest Intel UHD Graphics Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fix-drive-not-found-for-260ci-wia-drivers-when-using-a-usb-port/"><u>How to Fix 'Drive Not Found' For 260CI WiA Drivers When Using a USB Port</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-canon-d530-printers-firmware/"><u>Step-by-Step Guide: Updating Your Canon D530 Printer's Firmware</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-top-tier-360-pro-cams/"><u>The Ultimate Guide to Top-Tier 360 Pro Cams</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-broadcasts-using-manycam-the-ultimate-virtual-webcam-solution/"><u>Transform Your Broadcasts Using ManyCam - The Ultimate Virtual Webcam Solution!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updating-logitec-m510-mouse-software-a-comprehensive-tutorial-for-smooth-functionality/"><u>Updating Logitec M510 Mouse Software: A Comprehensive Tutorial for Smooth Functionality</u></a></li>
 </ul></div>
 

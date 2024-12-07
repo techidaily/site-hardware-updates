@@ -1,7 +1,7 @@
 ---
 title: "Resurrecting Quirkiness: Top 10 Unconventional PC Computer Chassis"
-date: 2024-08-28T01:57:37.259Z
-updated: 2024-08-29T01:57:37.259Z
+date: 2024-11-30T04:18:15.067Z
+updated: 2024-12-06T21:39:42.298Z
 tags:
   - hardware
 categories:
@@ -35,26 +35,25 @@ DeepCool
  The [Tristellar](https://www.deepcool.com/company/pressroom/newsrelease/2020/4259.shtml?id=PressRoom)family of cases really had the sort of sci-fi vibe I love the most, and there's a practical purpose behind the design of this chassis as well. The three different sections of the PC are each isolated, so the thermals from your GPU wont' affect your CPU, or your PSU, for example. This uses a mini-ITX motherboard, but otherwise you can use full-size components to your heart's content. Through clever use of risers and extension cables it all works, and honestly if I could still track one of these down for a decent price I'd still consider it for a build.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2  DeepCool Quadstellar Infinity 
 
 ![DeepCool Quadstelalr Infinity](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/deepcool-quadstelalr-infinity.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 DeepCool
 
  The [QuadStellar](https://www.deepcool.com/company/pressroom/newsrelease/2020/4303.shtml) is basically the TriStellar, but one better. It might not be quite as radical-looking, but it's definitely got plenty of the same desktop spaceship vibe going for it. It keeps the compartmentalized design idea from the TriStellar, but now accommodates E-ATX motherboards. Just as with its three-pointed sibling, the QuadStellar offers compartments that isolate major components and allow for optimal cooling, but also goes all out with the liquid cooling options, letting you set up multiple radiators. The extra compartment can be used exclusively for SSDs and HDDs, so it was actually not a bad choice for creatives or professionals who needed lots of storage housed and cooled properly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3  Lian-Li PC T1R 
 
 ![Lian Li PC T1R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/lian-li-pc-t1r.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 Lian-Li
 
  As an avowed [arachnophile](https://win11.techidaily.com/hacking-the-lock-screen-windows-11-edition/), and fan of cyberpunk spider tanks, the T1R immediately appealed to me. I've always wanted to run a test-bench open-air system, but ultimately decided not to because of the very real chance that my cat or a glass of soda would end my PC's existence. Still, this is a great design for anyone who does hardware testing.
@@ -63,24 +62,26 @@ Lian-Li
 
 ![Thermaltake Level 10 GT](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/thermaltake-level-10-gt.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ThermalTake
 
  When this case was announced back in 2011, there was no way I could afford it, or the components that justified owning it, but it was clearly the Rolls-Royce of PC cases. The Level 10 GT is humangous, and designed specifically to maximize cooling and minimize noise. What's even crazier, is that this was the [more affordable version](https://tools.techidaily.com/anandtech/products/) of the original level 10!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5  Corsair Graphite 380T (I Bought This One) 
 
 ![Corsair Graphite 380T](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/corsair-graphite-380t.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Corsair
 
  Of all the cases on this list, it's the 380T that I actually bought with my own money. This was my second mini-ITX build, and I stuffed this portable mesh case with a liquid-cooled 4690K CPU and a massive R9 390 GPU. After swapping out the 140MM front fan for a 200MM model, it honestly looked like something from the Death Star's server room. I loved the car door handles that opened the side panels, and I actually did schlep this to work a few times for special presentation and VR projects.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 6  Cooler Master Sneaker X 
 
 ![Cooler Master Sneaker X](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/cooler-master-sneaker-x.jpeg) 
@@ -91,16 +92,14 @@ Cooler Master
 
  Now, it actually ends up looking more like a robot's foot, but there's zero chance you won't be attracing attention at the [LAN party](https://win11-tips.techidaily.com/how-to-resolve-windows-upgrade-failures-and-errors/) if you show up with this thing in tow!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7  Thermaltake Core P90 
 
 ![Thermaltake Core P90](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/thermaltake-core-p90.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ThermalTake
 
  Glass corner or "fishtank" cases are all the rage today, but the P90 from Thermaltake strips that idea down into its basics and gives you a two-faced glass case, but without the actual case panels. This is as close to a modern art piece as a PC case has ever come, and if I didn't dread having to keep it clean, I might even have considered it, assuming my bank account could justify it.
@@ -113,20 +112,22 @@ HP
 
  We are HP, surrender your wallets. We will add your PC components to our case. Resistance is futile.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9  COUGAR Conquer 
 
 ![COUGAR Conquer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/cougar-conquer.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 COUGAR
 
  I've actually seen one of these [COUGAR Conquer](https://cougargaming.com/products/cases/conquer/) cases in person, and this is one of the few cases on this list that you can readily buy at the time of writing. It's even more beautiful than the photos suggest, and it looks like it will leap off your desk at a moments notice. The main impression I get is "Lambo PC", but without the actual license to use the branding. It's a singular, _angular_ masterpiece and I'd rather have this than the boring fishtanks everyone shows off these days any time.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10  The Hydra Desk 
 
 ![The Hydra Desk](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/the-hydra-desk.png) 
@@ -143,8 +144,6 @@ HYDRA
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +151,22 @@ HYDRA
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-capture-your-gaming-moments-xbox-one-screenshots-made-simple/"><u>[Updated] Capture Your Gaming Moments Xbox One Screenshots Made Simple</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-enhance-workflow-the-essential-list-of-8-scheduling-apps-for-2024/"><u>[Updated] Enhance Workflow The Essential List of 8 Scheduling Apps for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/799-deal-alert-grab-your-new-m1-macbook-air-this-amazon-prime-day-october-featured/"><u>$799 Deal Alert: Grab Your New M1 MacBook Air This Amazon Prime Day (October) Featured</u></a></li>
+<li><a href="https://os-tips.techidaily.com/delete-your-kik-conversations-forever-4-stealthy-techniques/"><u>Delete Your Kik Conversations Forever: 4 Stealthy Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-gadgets-for-your-macbook-expert-evaluations-and-picks/"><u>Essential Gadgets for Your MacBook : Expert Evaluations and Picks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-tricks-handling-constant-on-off-of-macs-cooling-fans/"><u>Essential Tricks: Handling Constant On-Off of Mac's Cooling Fans</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-top-tier-virtual-reality-with-metas-512gb-quest-3-offer-a-standout-selection-for-enthusiasts/"><u>Experience Top-Tier Virtual Reality with Meta’s 512GB Quest 3 Offer: A Standout Selection for Enthusiasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-deal-premium-refurbished-128gb-microsoft-surface-laptop-for-only-320-shop/"><u>Get the Deal: Premium Refurbished 128GB Microsoft Surface Laptop for Only $320 Shop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-anthems-perpetual-boot-dilemnma-top-troubleshooting-tips/"><u>Overcome Anthem's Perpetual Boot Dilemnma - Top Troubleshooting Tips</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-guide-to-mobile-video-capture/"><u>The Ultimate Guide to Mobile Video Capture</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-huawei-nova-y71-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-5-engaging-laptops-with-copilot-support-showcased-at-the-ifa-tech-expo-202/"><u>Top 5 Engaging Laptops with Copilot Support Showcased at the IFA Tech Expo 202</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-why-cant-i-launch-age-of-empires-iv/"><u>Troubleshooting Guide: Why Can't I Launch Age of Empires IV?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-your-laptops-hidden-potential-with-this-essential-yet-overlooked-accessory-exclusive-tips-from-zdnet/"><u>Unlock Your Laptop's Hidden Potential with This Essential, Yet Overlooked Accessory - Exclusive Tips From ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-hangover-cures-steps-to-take-when-encountering-unexpected-interruptions/"><u>Windows 11 Hangover Cures: Steps to Take When Encountering Unexpected Interruptions</u></a></li>
+</ul></div>
 

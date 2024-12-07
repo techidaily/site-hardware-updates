@@ -1,7 +1,7 @@
 ---
 title: Top 98 Unmissable Cyber Monday Bargains of 2022 - A Comprehensive Guide by ZDNet
-date: 2024-11-25T17:09:58.637Z
-updated: 2024-11-27T17:05:05.493Z
+date: 2024-12-05T16:26:49.657Z
+updated: 2024-12-06T21:56:10.176Z
 tags:
   - laptops
 categories:
@@ -30,6 +30,10 @@ ZDNET editors have been tracking the [best Cyber Monday 2022 sales](https://www.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Latest Cyber Monday deals still available**
 
 Please refer to the table of contents to quickly navigate our categories**.**
@@ -47,10 +51,6 @@ Please refer to the table of contents to quickly navigate our categories**.**
 * [Segway Ninebot D40X electric kick scooter](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsegway-ninebot-d40x-electric-kick-scooter-plus-seat-w-23-6-mi-max-operating-range-18-6-mph-max-speed-grey%2F6502748.p%3FskuId%3D6502748&publisher_slug=itechdaily19598&exclusive=1) for $650 (save $200) at Best Buy
 * [Beats Solo3 wireless headphones](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fbeats-by-dr-dre-solo-the-beats-icon-collection-wireless-on-ear-headphones-matte-black%2F6383124.p%3FskuId%3D6383124&publisher_slug=itechdaily19598&exclusive=1) for $130 (save $70) at Best Buy
 * [Fire HD 10 tablet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08XMBMW3H%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4bdb7b78-405e-4b44-97a2-872fe6e19e09%7Cdtp&dtb=1) for $220 (save $50) at Amazon
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Best Cyber Monday TV deals**
 
@@ -73,6 +73,10 @@ LG
 * [Samsung 85-inch QLED 4K smart TV](https://pcrs.rv8crv.net/c/159047/671124/10458?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.pcrichard.com%2Fsamsung-85-class-qn90b-series-neo-qled-4k-uhd-smart-tizen-tv%2FQN85QN90B.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for $3,300 (save $1700) at P.C. Richard and Son
 * [Westinghouse 24-inch smart Roku TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fwestinghouse-24-hd-smart-roku-tv%2F6488966.p%3FskuId%3D6488966&publisher_slug=itechdaily19598&exclusive=1) for $90 (save $70) at Best Buy
 * [Toshiba 65-inch smart Fire TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Ftoshiba-65-class-c350-series-led-4k-uhd-smart-fire-tv%2F6458646.p%3FskuId%3D6458646&publisher_slug=itechdaily19598&exclusive=1) for $430 (save $170) at Best Buy
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Best Cyber Monday laptop deals**
 
@@ -152,6 +156,10 @@ Amazon
 * [Google Nest Hub Max](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://store.google.com/config/google%5Fnest%5Fhub%5Fmax?hl=en-US) for $164 (save $65) at Google
 * [Blink Outdoor 3 cam kit](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBlink-Outdoor-bundle-Echo-Show%2Fdp%2FB08ZN97SWW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4bdb7b78-405e-4b44-97a2-872fe6e19e09%7Cdtp&dtb=1) for $160 (save $175) at Amazon
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Best Cyber Monday streaming deals**
 
 Streaming gives you the best options for entertainment, customizable to your preferences and budget. The Cyber Monday deals below encompass streaming subscriptions to services like YouTube Premium and Apple TV, smart TVs with streaming capabilities, and streaming devices that will transform the TV you have into one compatible with your favorite services. 
@@ -164,10 +172,6 @@ Sherin Shibu
 
 * [Roku Express HD Streaming Device](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRoku-Express-Streaming-Device-High-Speed%2Fdp%2FB0BCH5H2R3%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4bdb7b78-405e-4b44-97a2-872fe6e19e09%7Cdtp&dtb=1) for $18 (save $12) at Amazon
 * [Apple TV HD 32GB](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-TV-HD-32GB-2nd-Generation%2F525801397&subId1=zd-__COM_CLICK_ID__-dtp) for $59 (save $40) at Walmart
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Best Cyber Monday headphone deals**
 
@@ -218,10 +222,6 @@ Apple
 * [Citizen CZ Smart Hybrid smartwatch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCitizen-smartwatch-Continuous-Notifications-Connection%2Fdp%2FB09FFQFFRB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4bdb7b78-405e-4b44-97a2-872fe6e19e09%7Cdtp&dtb=1) for $262 (save $88) at Amazon
 * [Samsung Galaxy Watch 5 Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B2HXJZ98%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4bdb7b78-405e-4b44-97a2-872fe6e19e09%7Cdtp&dtb=1) for $399 (save $49) at Amazon
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Best Cyber Monday speaker deals**
 
 Don't wait until after the turkey to start shopping. Your shopping carts may be full of fixings for stuffing and cranberry sauce, but Black Friday and Cyber Monday are here -- so make space for some of our favorite deals on speakers, soundbars, and subwoofers. 
@@ -267,7 +267,7 @@ June Wan
 * [Aventure Step-Over Ebike](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Faventon-aventure-step-over-ebike-w-45-mile-max-operating-range-and-28-mph-max-speed-socal-sand%2F6487148.p%3FskuId%3D6487148&publisher_slug=itechdaily19598&exclusive=1) for $1,700 (save $300) at Best Buy
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these deals?
@@ -282,10 +282,6 @@ We've shopped online just as much as you, but we're experts at finding tech deal
 
 **\*** Except for Apple products and other devices that seldom go on sale.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When was Black Friday 2022?
 
 Black Friday takes place every year on the day after Thanksgiving. This year, Black Friday 2022 fell on Friday, Nov. 25\. But, honestly, Black Friday is no longer just a 24-hour event. It's morphed into weeks of early bird deals, doorbusters, and even sales that start in October. 
@@ -294,6 +290,10 @@ Black Friday takes place every year on the day after Thanksgiving. This year, Bl
 
 Black Friday and Cyber Monday are synonymous with big sales that kick off the holiday shopping season. While Black Friday deals started in October this year and can include brick-and-mortar stores and online retailers, Cyber Monday sales are primarily online and can extend Black Friday an entire week -- ultimately turning into Cyber Week. Cyber Monday is always the Monday after Thanksgiving, so this year it falls on Nov. 28.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the best Cyber Monday 2022 deals still available?
 
 ZDNET scoured Cyber Monday sales to find the best deals this year, and many are still available:
@@ -301,6 +301,10 @@ ZDNET scoured Cyber Monday sales to find the best deals this year, and many are 
 * [The best Cyber Monday 2022 deals](https://www.zdnet.com/article/best-cyber-monday-deals-still-available-november-30-2022/)
 
 Our experts split out the best deals by retailer, brand, and category, which you can see below. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Cyber Monday deals still available by retailer**
 
@@ -312,7 +316,7 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [Top early Cyber Monday 2022 deals at Best Buy](https://www.zdnet.com/article/best-buy-cyber-monday-deals-still-available-november-30-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Cyber Monday deals still available by brand**
@@ -347,10 +351,6 @@ Our experts split out the best deals by retailer, brand, and category, which you
  Here are some of the cheapest deals we found that are still available:
 
 * [The best Cyber Monday 2022 deals under $30](https://www.zdnet.com/home-and-office/best-cyber-monday-deals-under-30-still-available-november-30-2022/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Cyber Monday live blog deals still available**
 
@@ -398,14 +398,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-pioneering-websites-for-modern-letterforms/"><u>[New] 2024 Approved Pioneering Websites for Modern Letterforms</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-compreehing-and-engaging-with-your-twitter-archive/"><u>[New] Compreehing & Engaging with Your Twitter Archive</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-free-downloader-turn-youtube-audio-into-premium-mp3s/"><u>[New] In 2024, Best Free Downloader Turn YouTube Audio Into Premium MP3s</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-install-nvidia-geforce-gtx-1080-ti-driver-complete-guide/"><u>Download & Install NVIDIA GeForce GTX 1080 Ti Driver: Complete Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-canon-mg3600-printer-drivers-a-step-by-step-guide/"><u>Download & Update Canon MG3600 Printer Drivers: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-amd-rx-6800-graphics-driver-for-various-windows-versions-win111087/"><u>Get the Latest AMD RX 6800 Graphics Driver for Various Windows Versions (Win11/10/8/7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-brother-dcp-l2540dw-windows-installer-and-setup-guide/"><u>Get the Latest Brother DCP-L2540DW Windows Installer and Setup Guide</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-accidental-tiktok-update-restore-or-reload-content/"><u>In 2024, Accidental TikTok Update Restore or Reload Content?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/overcoming-intel-hd-graphics-card-630-driver-errors-in-windows-solved/"><u>Overcoming Intel HD Graphics Card 630 Driver Errors in Windows [SOLVED]</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-instagram-posting-tips-to-boost-your-podcast-exposure/"><u>[New] In 2024, Instagram Posting Tips to Boost Your Podcast Exposure</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-future-is-now-harnessing-instagrams-newest-filter-features/"><u>[New] The Future Is Now Harnessing Instagram's Newest Filter Features</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-cutting-edge-concepts-for-captivating-youtube-video-thumbnails-for-2024/"><u>[Updated] Cutting-Edge Concepts for Captivating YouTube Video Thumbnails for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-4-fastest-lenovo-record-methods/"><u>2024 Approved The 4 Fastest Lenovo Record Methods</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-camera-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download & Install Camera Drivers: Compatible with Windows 11, 10, 8, and 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-brother-printer-drivers-for-windows-easy-guide-to-latest-version/"><u>Download Updated Brother Printer Drivers for Windows: Easy Guide to Latest Version</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-official-nvidia-drivers-for-your-rtx-1080-on-windows-11/"><u>Easy Guide to Downloading Official NVIDIA Drivers for Your RTX 1080 on Windows 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-sky-high-data-capacity-at-zero-cost-top-20-free-cloud-storages-to-explore/"><u>In 2024, Sky-High Data Capacity at Zero Cost Top 20 Free Cloud Storages to Explore</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-as-the-users-intention-is-to-explore-the-best-for-this-purpose-a-list-of-top-5-free-mpeg-video-splitters-are-under-discussion/"><u>New 2024 Approved As the Users Intention Is to Explore the Best; for This Purpose, a List of Top 5 Free MPEG Video Splitters Are Under Discussion</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/online-gratuite-m4a-ogg-vorbis-conversie-dit-doet-movavi/"><u>Online Gratuite M4A-Ogg Vorbis Conversie - Dit Doet Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quality-control-measures-and-certifications-obtained-ecu-iso-etc/"><u>Quality Control Measures and Certifications Obtained (e.cu., ISO, Etc.).</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-startech-hardware-driver-problems-on-windows-10-8-and-7/"><u>Resolving StarTech Hardware Driver Problems on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-hardware-picks-curated-by-tom-for-savvy-consumers/"><u>Top Hardware Picks Curated by Tom for Savvy Consumers</u></a></li>
 </ul></div>
 

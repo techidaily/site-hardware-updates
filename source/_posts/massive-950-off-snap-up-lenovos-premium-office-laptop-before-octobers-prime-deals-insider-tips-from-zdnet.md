@@ -1,7 +1,7 @@
 ---
 title: "Massive $950 Off: Snap Up Lenovo's Premium Office Laptop Before October's Prime Deals - Insider Tips From ZDNet"
-date: 2024-11-26T16:14:55.565Z
-updated: 2024-11-27T16:46:15.857Z
+date: 2024-12-02T22:00:34.029Z
+updated: 2024-12-06T18:55:16.758Z
 tags:
   - laptops
 categories:
@@ -38,7 +38,7 @@ This laptop isn't solely for business professionals. Everybody can enjoy the dev
 Right now is the best time to buy this device. The [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cddc033e3-08fa-42b2-b4fe-eb896d4675a3%7Cdtp&dtb=1) is currently on sale at Amazon for $1,500\. That is almost $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cddc033e3-08fa-42b2-b4fe-eb896d4675a3%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -75,18 +75,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-ultimate-facebook-video-players-list/"><u>[New] In 2024, The Ultimate Facebook Video Players List</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/oundscapes-in-hd-techniques-for-precision-recording-for-2024/"><u>[New] Soundscapes in HD Techniques for Precision Recording for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-online-streaming-hierarchy-who-rises-above-vimeo-or-giants-like-youtubes-and-dailymotions-for-2024/"><u>[Updated] Online Streaming Hierarchy Who Rises Above – Vimeo or Giants Like YouTubes and DailyMotions for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-text-superimposition-windows-and-mac-edition/"><u>2024 Approved Mastering Text Superimposition Windows & Mac Edition</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/elevate-your-professional-workspace-with-asus-8k-mini-led-proart-monitor-the-ultimate-choice-in-superior-illumination-and-unmatched-visual-clarity-for-high-66/"><u>Elevate Your Professional Workspace with Asus' 8K Mini LED ProArt Monitor - The Ultimate Choice in Superior Illumination and Unmatched Visual Clarity for High-End Content Creation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exceptional-clarity-and-versatility-tested-an-in-depth-look-at-the-asus-rog-strix-xg27acs-monitor/"><u>Exceptional Clarity and Versatility Tested: An In-Depth Look at the Asus Rog Strix XG27ACS Monitor</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-next-level-fps-with-the-asrock-pg27qft2a-180-hz-gamers-screen-review/"><u>Experience Next-Level FPS with the ASRock PG27QFT2A 180 Hz Gamer's Screen Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-gadget-analysis-at-toms-hardware-hub/"><u>Expert Gadget Analysis at Tom's Hardware Hub</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-repairing-disk-errors-issue-on-windows/"><u>How to Fix the Repairing Disk Errors Issue on Windows</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/mohu-leaf-30-tv-antenna-review/"><u>Mohu Leaf 30 TV Antenna Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-installation-guide-brother-mfc-7360n-printer-software-on-latest-windows-platforms/"><u>Seamless Installation Guide: Brother MFC-7360N Printer Software on Latest Windows Platforms</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-filmora-for-windows-10-and-other-top-video-editors-recommendation-for-2024/"><u>[New] Filmora for Windows 10 and Other Top Video Editors Recommendation for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-playlist-puzzle-assembling-songs-in-new-spaces/"><u>[New] The Playlist Puzzle Assembling Songs in New Spaces</u></a></li>
+<li><a href="https://extra-information.techidaily.com/action-and-adventure-with-ions-pro-3-camera-insight-for-2024/"><u>Action and Adventure with ION's Pro 3 Camera Insight for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/best-budget-friendly-player-showdown-free-video-warriors-vlc-and-mpc-for-2024/"><u>Best Budget Friendly Player Showdown Free Video Warriors (VLC & MPC) for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-technology-deals-at-best-buy-exclusive-offers-discover-the-must-have-gadgets/"><u>Best Technology Deals at Best Buy: Exclusive Offers - Discover the Must-Have Gadgets</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bing-chat-or-chatgpt-essential-considerations-every-freelancer-should-weigh-in/"><u>Bing Chat or ChatGPT? Essential Considerations Every Freelancer Should Weigh In</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-gentle-volume-declines-in-premiere-pro-videos-for-2024/"><u>Crafting Gentle Volume Declines in Premiere Pro Videos for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-neweggs-ultimate-2023-holiday-sale-picks-a-detailed-guide/"><u>Discover Newegg's Ultimate 2023 Holiday Sale Picks: A Detailed Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-best-chromebook-choices-for-2eplust4-comparative-analysis/"><u>Exploring the Best Chromebook Choices for 2E+t4 | Comparative Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-online-converter-convert-files-from-wmaem4r-to-mp3-with-movavi/"><u>Free Online Converter: Convert Files From WMA/EM4R to MP3 with Movavi</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-12-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 12 Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/immerse-yourself-in-innovative-3d-art-on-asus-new-laptops-a-leap-forward-without-dependence-on-vrar-headsets/"><u>Immerse Yourself in Innovative 3D Art on Asus New Laptops: A Leap Forward Without Dependence on VR/AR Headsets</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-the-hp-victus-15-laptop-for-gamers-at-a-steal-only-450-on-this-best-buy-deal-insights-via-zdnet/"><u>Score The HP Victus #15 Laptop for Gamers at a Steal – Only $450 on This Best Buy Deal | Insights via ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ideal-companion-for-digital-nomads-our-picks-for-the-lightest-and-best-laptops-zdnet-reviews/"><u>The Ideal Companion for Digital Nomads: Our Picks for the Lightest & Best Laptops | ZDNet Reviews</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unveiling Samsung's Game-Changing Copilot+ Laptop - Exclusive Review & Top Deal on Windows Devices!
-date: 2024-11-22T16:48:30.365Z
-updated: 2024-11-27T18:45:51.334Z
+date: 2024-12-04T03:43:25.756Z
+updated: 2024-12-06T18:34:40.847Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Kerry Wan/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -40,6 +44,10 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications (as reviewed)
 
 | Dimensions            | 11.78 x 8.03 x 0.63 inches                                                                                                                                                                                                                                                                            |
@@ -55,7 +63,7 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
@@ -79,7 +87,7 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does it perform?
@@ -102,10 +110,6 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Evaluating Lenovo's dual-screen software
 
 With such unique hardware, Lenovo had to build unique software for Windows 11 so that it behaves properly and gives you extra functionality.
@@ -126,10 +130,6 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## One thing to keep in mind
 
 Having a laptop with two screens means you'll have to lug around a separate keyboard, mouse, and kickstand, all three of which (plus a stylus) come in the box. It's a lot of separate things you have to remember to bring, and I'm going to be honest with you, it can be inconvenient.
@@ -141,7 +141,7 @@ When I'm working on my MacBook or -- quite frankly -- any other laptop in my ars
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -182,24 +182,24 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-maximize-monetization-the-step-by-step-for-youtube-profiles/"><u>[New] In 2024, Maximize Monetization The Step-by-Step for YouTube Profiles</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-how-to-custom-your-youtube-channel-url-super-easy/"><u>2024 Approved How to Custom Your YouTube Channel URL – Super Easy</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-apple-iphone-se-2020-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On Apple iPhone SE (2020)? How to Fix it?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/collaborative-content-creation-responsible-use-of-ai-tools/"><u>Collaborative Content Creation: Responsible Use of AI Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/corrective-measures-for-copy-pasting-malfunction/"><u>Corrective Measures for Copy-Pasting Malfunction</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ensuring-smooth-gaming-experience-for-minecraft-on-windows-by-addressing-troublesome-video-card-drivers-solved/"><u>Ensuring Smooth Gaming Experience for Minecraft on Windows by Addressing Troublesome Video Card Drivers - Solved!</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/filmora-tutorial-converting-avi-to-gif-seamlessly-for-2024/"><u>Filmora Tutorial Converting AVI to GIF Seamlessly for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/groundbreaking-upgrade-for-the-premier-risc-v-laptop-increased-core-count-supercharged-frequency-at-2-ghz-plus-new-artificial-intelligence-supports/"><u>Groundbreaking Upgrade for the Premier RISC-V Laptop - Increased Core Count, Supercharged Frequency at 2 GHz, Plus New Artificial Intelligence Supports!</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-seamless-social-streams-link-instagram-and-facebook/"><u>In 2024, Seamless Social Streams Link Instagram & Facebook</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-insights-on-gadgets-the-toms-hardware-explanation/"><u>In-Depth Insights on Gadgets - The Tom's Hardware Explanation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-out-the-toms-guide-to-cutting-edge-computer-equipment/"><u>Inside Out: The Tom's Guide to Cutting-Edge Computer Equipment</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovo-yoga-pro-9i-unveiled-slender-frame-meets-responsive-touchpad/"><u>Lenovo Yoga Pro 9I Unveiled: Slender Frame Meets Responsive Touchpad</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovos-latest-masterpiece-revealed-a-detailed-look-at-the-gen-12-thinkpad-x1-carbon-ultraportability-meets-cutting-edge-tech/"><u>Lenovo's Latest Masterpiece Revealed: A Detailed Look at the Gen 12 ThinkPad X1 Carbon - Ultraportability Meets Cutting-Edge Tech</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lighter-than-air-stronger-than-steel-the-marvel-of-structural-carbon-fiber-batteries-redefining-device-mobility/"><u>Lighter Than Air, Stronger than Steel: The Marvel of Structural Carbon Fiber Batteries Redefining Device Mobility</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-hardware-hacks-with-toms-technology-forums/"><u>Mastering Hardware Hacks with Tom's Technology Forums</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-technology-a-deep-dive-into-hardware-tips-by-tomexpert/"><u>Mastering Technology: A Deep Dive Into Hardware Tips by TomExpert</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-your-tech-choices-comprehensive-insights-from-tomhrenology/"><u>Mastering Your Tech Choices: Comprehensive Insights From Tom'hrenology</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/perfect-soundtrack-for-your-podcast-journey-top-9-level-9-portable-microphones-for-2024/"><u>Perfect Soundtrack for Your Podcast Journey Top 9 Level 9 Portable Microphones for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-most-anticipated-ios-18-features-debuted-at-wwdc-2024-how-artificial-intelligence-takes-center-stage-analysis/"><u>Unveiling the Most Anticipated iOS 18 Features Debuted at WWDC 2024: How Artificial Intelligence Takes Center Stage - Analysis</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-scene-to-video-canons-pathway-to-timelapse-excellence/"><u>[New] From Scene to Video Canon's Pathway to Timelapse Excellence</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hasty-thumbnail-crafting-for-fortnite-gameplay/"><u>[New] In 2024, Hasty Thumbnail Crafting for Fortnite Gameplay</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/astering-your-youtube-live-video-thumbnail-game/"><u>[New] Mastering Your YouTube Live Video Thumbnail Game</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-sound-in-sight-mixing-music-into-microsofts-presentation-tool/"><u>[New] Sound in Sight Mixing Music Into Microsoft's Presentation Tool</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-a-step-by-step-journey-to-itunes-audio-acquisition-on-ios-devices/"><u>[Updated] 2024 Approved A Step-by-Step Journey to iTunes Audio Acquisition on iOS Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-roadmap-for-visual-impact-professionals/"><u>[Updated] The Roadmap for Visual Impact Professionals</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1-acer-unveils-affordable-chromebook-plus-at-399-top-choice-for-cost-conscious-buyers/"><u>1. Acer Unveils Affordable Chromebook Plus at $399 - Top Choice for Cost-Conscious Buyers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exceptional-2-in-1-tech-marvels-of-this-year-featuring-an-overlooked-office-benefit-revealed/"><u>Exceptional 2-in-1 Tech Marvels of This Year Featuring an Overlooked Office Benefit, Revealed</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/expert-guide-steps-to-restore-your-cracked-motherboard-techtips-from-yl/"><u>Expert Guide: Steps to Restore Your Cracked Motherboard - TechTips From YL</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/follow-up-question-2/"><u>Follow-Up Question 2:</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-of-voice-chat-feature-in-call-of-dutys-latest-installment/"><u>How to Restore Functionality of Voice Chat Feature in Call of Duty's Latest Installment</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ipad-pro-vs-macbook-air-showdown-determining-the-best-device-for-your-needs-a-comprehensive-guide-by-zdnet/"><u>IPad Pro Vs. MacBook Air Showdown: Determining the Best Device For Your Needs - A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-dns-configuration-in-windows-11-for-efficiency/"><u>Mastering DNS Configuration in Windows 11 for Efficiency</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-18-unbeatable-prime-day-savings-on-laptops-from-hp-apple-razor-and-beyond-exclusive-offers-not-to-miss/"><u>Top 18 Unbeatable Prime Day Savings on Laptops From HP, Apple, Razor & Beyond – Exclusive Offers Not to Miss!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-3-affordable-laptops-on-cyber-monday-exclusive-offers-from-costco-amazon-and-dell-for-under-1k-guide/"><u>Top 3 Affordable Laptops on Cyber Monday: Exclusive Offers From Costco, Amazon & Dell for Under $1K Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-save-300-on-the-asus-vivobook-pro-now-available-exclusively-on-amazon/"><u>Unbeatable Deal: Save $300 on the Asus VivoBook Pro - Now Available Exclusively on Amazon</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-savings-on-top-rated-gaming-speaker-system-up-to-60-off-at-amazon-zdnet-news/"><u>Unbeatable Savings on Top-Rated Gaming Speaker System, Up to 60% Off at Amazon | ZDNET News</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-workplace-efficiency-an-in-depth-look-at-this-years-hidden-gem-among-2-in-1-laptops/"><u>Unlocking Workplace Efficiency: An In-Depth Look at This Year's Hidden Gem Among 2-In-1 Laptops</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/why-the-tp-link-archer-c9-is-a-top-choice-for-budget-friendly-routers-reviewed/"><u>Why the TP-LInk Archer C9 Is a Top Choice for Budget-Friendly Routers – Reviewed!</u></a></li>
 </ul></div>
 

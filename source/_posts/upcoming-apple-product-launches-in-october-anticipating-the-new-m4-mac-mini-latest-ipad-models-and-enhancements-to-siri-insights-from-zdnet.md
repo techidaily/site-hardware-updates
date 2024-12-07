@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Apple Product Launches in October: Anticipating the New M4 Mac Mini, Latest iPad Models & Enhancements to Siri - Insights From ZDNet"
-date: 2024-11-25T17:07:16.954Z
-updated: 2024-11-27T16:21:59.799Z
+date: 2024-12-03T19:29:11.164Z
+updated: 2024-12-07T00:58:25.949Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,14 +118,20 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/nlocking-youtube-success-mastering-the-art-of-shorts-thumbnails-for-2024/"><u>[New] Unlocking YouTube Success Mastering the Art of Shorts Thumbnails for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/44cm44ko44oz44kz44o844oj44cn5a6a576p5yplusk44gz56iu6ageic0g44ko44oz44kz44o844oj44go44oh44kz44o844oj44gu5pio56k644gq5beu55ww44gr44gk44ge44gm5rex5o6y44kk/"><u>「エンコード」定義及び種類 - エンコードとデコードの明確な差異について深掘り</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-guide-on-installing-the-latest-cpu-driver-versions-on-a-windows-machine/"><u>Complete Guide on Installing the Latest CPU Driver Versions on a Windows Machine</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-hp-officejet-pro-8710-printer-drivers-for-pc-free-software-update/"><u>Download HP OfficeJet Pro 8710 Printer Drivers for PC – Free Software Update</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-oppo-a58-4g-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Oppo A58 4G using Video Repair Utility on Mac?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-oppo-k11x-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Oppo K11x Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/risk-free-downloads-free-corsair-keyboard-software-for-instant-windows-setup/"><u>Risk-Free Downloads: Free Corsair Keyboard Software for Instant Windows Setup</u></a></li>
-<li><a href="https://win-webster.techidaily.com/solucion-integral-para-el-problema-del-disco-de-estado-solido-clonezilla-no-arranca-en-windows-desde-vista-al-ultimo-windows-11/"><u>Solución Integral Para El Problema Del Disco De Estado Sólido 'Clonezilla' No Arranca en Windows: Desde Vista Al Último Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-for-downloading-and-installing-samsung-nvme-960-evo-drive-on-windows-computers/"><u>Step-by-Step Tutorial for Downloading & Installing Samsung NVMe 960 EVO Drive on Windows Computers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-create-insta-highlight-cover-photos-a-complete-guide-for-2024/"><u>[Updated] How to Create Insta Highlight Cover Photos A Complete Guide for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-innovative-ideas-for-snapad-success-in-business/"><u>[Updated] Innovative Ideas for SnapAd Success in Business</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-unveiling-the-future-of-vlogging-top-12-camera-innovations-for-2024/"><u>[Updated] Unveiling the Future of Vlogging Top 12 Camera Innovations for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-rx-6800-xt-graphics-card-drivers-latest-version-and-download-for-windows-11-10-8-and-7/"><u>AMD Radeon RX 6800 XT Graphics Card Drivers: Latest Version & Download for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amds-newest-powerhouse-ryzen-9-9950x-breaks-records-with-a-staggering-overclock-to-67-ghz-using-liquid-nitrogen-chillers/"><u>AMD's Newest Powerhouse, Ryzen 9 9950X, Breaks Records with a Staggering Overclock to 6.7 GHz Using Liquid Nitrogen Chillers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-logitech-g35-headset-drivers-updated-version-supporting-windows-7810/"><u>Free Logitech G35 Headset Drivers - Updated Version Supporting Windows 7/8/10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-firmware-for-your-logitech-mk710-free-download/"><u>Get the Newest Firmware for Your Logitech MK710 - Free Download!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975567134-get-your-windows-pc-optimized-with-new-nvidia-geforce-drivers-free/"><u>Get Your Windows PC Optimized with New NVIDIA GeForce Drivers - Free</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-honor-x50-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Honor X50 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-fb-forum-film-replayer/"><u>In 2024, Fb Forum Film Replayer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/next-gen-amd-unleashed-the-zen-5-mobile-chip-that-packs-desktop-power-at-just-115w-spotted-in-leaked-photos-of-the-mighty-ryzen-strix-halo-with-a-whopping-179/"><u>Next-Gen AMD Unleashed: The Zen 5 Mobile Chip That Packs Desktop Power at Just 115W - Spotted in Leaked Photos of the Mighty Ryzen Strix Halo with a Whopping 16 Cores & RDNA Graphics</u></a></li>
+<li><a href="https://article-tips.techidaily.com/quick-quirks-lasting-impact-fast-track-to-fame-with-9gag-memes/"><u>Quick Quirks, Lasting Impact Fast Track to Fame with 9GAG Memes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sound-sculpting-crafting-harmony-in-audiovox-studio-for-2024/"><u>Sound Sculpting Crafting Harmony in Audiovox Studio for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138574162-9781450252607-stop-talking-to-me/"><u>Stop Talking to Me | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-and-enable-your-eveo-bluetooth-device-with-official-drivers/"><u>Update & Enable Your Eveo Bluetooth Device with Official Drivers</u></a></li>
 </ul></div>
 

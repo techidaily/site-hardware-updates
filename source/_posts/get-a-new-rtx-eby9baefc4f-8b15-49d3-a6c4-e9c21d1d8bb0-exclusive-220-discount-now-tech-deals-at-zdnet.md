@@ -1,7 +1,7 @@
 ---
 title: Get a New RTX Eby_9baefc4f-8b15-49d3-A6c4-E9c21d1d8bb0! Exclusive $220 Discount Now | Tech Deals at ZDNET!
-date: 2024-11-20T20:36:40.051Z
-updated: 2024-11-27T16:16:59.658Z
+date: 2024-12-05T22:50:09.073Z
+updated: 2024-12-06T16:25:18.664Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kerry Wan/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ Right now, Amazon is selling the [15-inch MacBook Air (M2) for $250 off](https:/
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -107,7 +107,7 @@ The laptop is capable of 4K exports on Adobe Premiere Pro and editing RAW files 
 What I found myself missing when testing the MacBook Air was the 120Hz ProMotion display from the Pro line. All it took was an hour or two before my eyes adapted to the slower, less smooth 60Hz panel, but the larger 15-inch display didn't make the transition easy. In fact, it made the difference more apparent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -146,14 +146,18 @@ But everything else about it is as good as the current $1,050 price point gets. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/1722974584907-boost-studio-quality-with-free-m-audio-fast-track-ultra-drivers-download-now/"><u>Boost Studio Quality with Free M-Audio Fast Track Ultra Drivers - Download Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-tutorial-keeping-your-computere-core-processor-updated-with-latest-windows-drivers/"><u>Complete Tutorial: Keeping Your Computer'e Core Processor Updated with Latest Windows Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-installing-brother-hl-l2380dw-on-a-windows-operating-system/"><u>Easy Guide to Installing Brother HL-L2380DW on a Windows Operating System</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-nokia-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Nokia</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-software-upgrades-secure-and-install-epson-xp-310-printer-drivers/"><u>Latest Software Upgrades: Secure & Install Epson XP 310 Printer Drivers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/masterpiece-selection-worldwide-stream-plus-local-channel-aggregation-for-2024/"><u>Masterpiece Selection Worldwide Stream + Local Channel Aggregation for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/protect-and-preserve-your-iphone-es-aesthetics-with-these-3-must-have-accessories-insights/"><u>Protect and Preserve Your iPhone E's Aesthetics with These 3 Must-Have Accessories | Insights</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unravel-the-mystery-of-the-overly-green-hue-in-mac-recordings-for-2024/"><u>Unravel the Mystery of the Overly Green Hue in Mac Recordings for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/are-the-earning-prospects-for-youtubers-from-branded-video-plays-in-2024/"><u>What Are the Earning Prospects for YouTubers From Branded Video Plays, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-use-creative-commons-copyright-licenses/"><u>[New] 2024 Approved How to Use Creative Commons Copyright Licenses?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-lgs-ultrafine-masterpiece-an-exhaustive-monitoring-guide/"><u>[New] In 2024, LG's UltraFine Masterpiece An Exhaustive Monitoring Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-navigating-the-setup-of-obs-and-streamlabs-for-mac-users/"><u>[New] Navigating the Setup of OBS & Streamlabs for Mac Users</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-your-2023-guide-best-applications-for-downloading-lite-facebook-videos/"><u>2024 Approved Your 2023 Guide Best Applications for Downloading Lite Facebook Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/cheap-yet-superior-gaming-keyboard-guide-under-100/"><u>Cheap, Yet Superior Gaming Keyboard Guide Under $100</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/flash-deal-alert-the-4tb-ssd-by-crucial-is-now-a-steal-only-005-per-gb-but-hurry-limited-stock-available/"><u>Flash Deal Alert! The 4TB SSD by Crucial Is Now a Steal - Only $0.05 per GB, But Hurry, Limited Stock Available!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hardware-review-hub-unveiling-the-best-tech-at-your-brand-name/"><u>Hardware Review Hub: Unveiling the Best Tech at [Your Brand Name]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/high-performance-vs-excess-analyzing-the-need-for-a-120mm-radiator-in-teamgroups-sub-12w-m2-ssd-setup/"><u>High Performance Vs. Excess? Analyzing the Need for a 120Mm Radiator in TeamGroup’s Sub-12W M.2 SSD Setup</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/high-performance-risc-v-pcie-gen5-ssd-nvme-controller-from-china-achieves-up-to-142gbs-speeds-no-cooling-required/"><u>High-Performance RISC-V PCIe Gen5 SSD NVMe Controller From China Achieves Up to 14.2GB/S Speeds - No Cooling Required</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/imminent-arrival-new-trademark-discoveries-point-to-a-launch-of-samsungs-990-evo-plus-and-9100-pro-ssds-soon/"><u>Imminent Arrival? New Trademark Discoveries Point to a Launch of Samsung's 990 EVO PLUS and 9100 PRO SSDs Soon</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-chill-with-the-latest-from-deepcool-high-performance-coolers-power-supplies-fans-and-rigs-now-in-vibrant-pixel-silicone-variants/"><u>Stay Chill with the Latest From DeepCool: High-Performance Coolers, Power Supplies, Fans & Rigs – Now in Vibrant Pixel Silicone Variants</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-tutorial-recording-instagram-liveshooting-on-computer-and-smartphone/"><u>Step-by-Step Tutorial: Recording Instagram Liveshooting on Computer and Smartphone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-complete-guide-to-help-you-convert-srt-to-xml-ssa-ttml-and-other-formats-for-2024/"><u>The Complete Guide to Help You Convert SRT to XML, SSA, TTML, and Other Formats for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Latest Innovations Revealed at the Annual Surface and AI Showcase: Highlights From This Week"
-date: 2024-11-25T17:28:18.170Z
-updated: 2024-11-27T17:23:00.439Z
+date: 2024-12-03T03:28:29.678Z
+updated: 2024-12-06T21:41:22.390Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ After months of [speculation](https://www.zdnet.com/article/microsofts-october-1
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured
@@ -40,10 +40,6 @@ On the surface, Microsoft has kept its fall lineup of products nearly indistingu
 Here's everything that the company announced during its October event.
 
 **Also: [How did Microsoft manage to get it right with Surface?](https://www.zdnet.com/article/how-did-microsoft-manage-to-get-it-right-with-surface/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Surface Laptop 5 gets a splash of color
 
@@ -60,6 +56,10 @@ What's different about the new Surface Laptop starts with the 12th-generation In
 [Buy the Surface Laptop 5 View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?)
 
 The Surface Laptop 5 will be available in select markets beginning on Oct. 25 with a [starting price of $999](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?) for the i5, 8GB of RAM, and 256GB model. The laptop will be available in classic Platinum, Black, and Sandstone colorways, as well as a new leafy "Sage" option. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Goodbye Surface Pro X, hello Surface Pro 9
 
@@ -80,7 +80,7 @@ Not-so-big news: The rest is a standard Surface Pro affair; 2-in-1 design with a
 As far as pricing goes, the Intel-based Surface Pro 9 starts at [$999](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (i5, 8GB RAM, 128GB), and the ARM-based model starts at [$1,299](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (SQ3, 8GB RAM, 128GB). The former comes in Platinum, Graphite, Forest, and Sapphire, while the latter only comes in Platinum. Preorders start today. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The aptly-named Surface Studio 2+
@@ -98,7 +98,7 @@ For all the performance gains that you're getting, Microsoft is making you pay t
 [Buy the Surface Studio 2+ View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Studio-2/8VLFQC3597K4?)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Presenter+ and Audio Dock
@@ -114,7 +114,7 @@ Releasing alongside the new Surface products are the Microsoft Presenter+ and Mi
 The Microsoft Audio Dock is both a docking station with four ports (HDMI, 2x USB-C, and USB-A) and a speaker for audio input and output. For $249, which is not cheap for either of its two functions, Microsoft promises "premium sound" and noise-reducing microphones that will help you "be heard clearly in your next online meeting."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Designer takes on Canva
@@ -163,18 +163,14 @@ Microsoft officials say that Designer is targeted at consumers more than anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-charting-a-course-for-growth-precise-youtube-stats-from-social-blades-hub/"><u>[New] 2024 Approved Charting a Course for Growth Precise YouTube Stats From Social Blade's Hub</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-enhancing-zoom-visual-acuity-easy-steps/"><u>[New] 2024 Approved Enhancing Zoom Visual Acuity Easy Steps</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-a-step-by-step-tutorial-for-recording-youtube-live-across-devices/"><u>[Updated] 2024 Approved A Step-by-Step Tutorial for Recording YouTube Live Across Devices</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-framefixer-feedback-complete-editor-analysis/"><u>2024 Approved FrameFixer Feedback – Complete Editor Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-pixma-mg2522-step-by-step-guide-for-driver-download-and-updates/"><u>Canon PIXMA MG2522: Step by Step Guide for Driver Download & Updates</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/coding-heroes-resolving-voice-chat-malfunctions-in-cod-vanguard/"><u>Coding Heroes: Resolving Voice Chat Malfunctions in Cod: Vanguard</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-installation-free-ft232r-serial-to-usb-converter-driver/"><u>Effortless Installation: Free FT232R Serial to USB Converter Driver</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/epson-wf-7710-drivers-for-windows-download-guide-for-versions-11-81-and-previous/"><u>Epson WF-7710 Drivers for Windows: Download Guide for Versions 11, 8.1 & Previous</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-apple-iphone-15-plus-to-chromecast-drfone-by-drfone-ios/"><u>How to Cast Apple iPhone 15 Plus to Chromecast? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolved-how-to-get-the-latest-broadcom-network-adapter-software-for-windows-11-systems/"><u>Resolved: How to Get the Latest Broadcom Network Adapter Software for Windows 11 Systems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-itel-a70-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Itel A70 Device</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveiling-best-android-photos-tactics/"><u>Unveiling Best Android Photos Tactics</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-step-by-step-live-tweeting-tactics/"><u>[Updated] 2024 Approved Step-by-Step Live Tweeting Tactics</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-audio-formatting-guide-from-srt-to-xmlssa-ttml-etc/"><u>[Updated] In 2024, Audio Formatting Guide From SRT to XML/SSA, TTML, Etc</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-smartphone-video-cutting-edge-apple-and-androids-leading-apps-for-2024/"><u>[Updated] Smartphone Video Cutting-Edge Apple & Android's Leading Apps for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-innovate-with-windows-10s-newest-apps-and-games/"><u>2024 Approved Innovate with Windows 10'S Newest Apps and Games</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-toms-hardware-your-comprehensive-guide-to-latest-tech-innovations/"><u>Exploring Tom's Hardware: Your Comprehensive Guide to Latest Tech Innovations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-your-game-with-gamertechs-thermal-control-gloves-built-for-the-pro-player/"><u>Master Your Game with GamerTech's Thermal Control Gloves - Built for the Pro Player</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/media-campaigns-utilizing-media-to-highlight-issues-of-importance-to-their-districts-that-require-fiscal-action-by-congress-as-a-whole/"><u>Media Campaigns – Utilizing Media to Highlight Issues of Importance to Their Districts that Require Fiscal Action by Congress as a Whole.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/optimizing-your-pc-insights-from-toms-tech-experts/"><u>Optimizing Your PC: Insights From Tom's Tech Experts</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/revamp-your-flipbook-appearance-transforming-fonts-and-colors-for-an-impressive-display-on-flipbuildercom/"><u>Revamp Your Flipbook Appearance: Transforming Fonts & Colors for an Impressive Display on FlipBuilder.com</u></a></li>
 </ul></div>
 

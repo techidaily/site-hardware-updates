@@ -1,7 +1,7 @@
 ---
 title: Do Dual-Screen Laptops Have a Future? Examining the Impact of Lenovo's Yoga Book ˈ
-date: 2024-11-25T19:22:13.372Z
-updated: 2024-11-27T20:05:02.891Z
+date: 2024-12-03T01:59:45.215Z
+updated: 2024-12-06T17:15:41.337Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Kerry Wan/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -41,7 +45,7 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -59,7 +63,7 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
@@ -82,10 +86,6 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How does it perform?
 
 The twin 13.3-inch OLED displays look exceptional with deep black levels, vibrant colors, and 400 nits of brightness (a.k.a. enough for most lighting situations). They each sport 2.8K resolutions, so everything looks crisp, and Lenovo even includes 16:10 aspect ratios so you get a bit extra vertical room. They're also Dolby Vision certified. I have zero complaints about these screens, besides the fact they only have 60Hz refresh rates.
@@ -107,7 +107,7 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
@@ -130,6 +130,10 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## One thing to keep in mind
 
 Having a laptop with two screens means you'll have to lug around a separate keyboard, mouse, and kickstand, all three of which (plus a stylus) come in the box. It's a lot of separate things you have to remember to bring, and I'm going to be honest with you, it can be inconvenient.
@@ -139,10 +143,6 @@ Max Buondonno/ZDNET
 When I'm working on my MacBook or -- quite frankly -- any other laptop in my arsenal, all I have to do is close the lid and load it into my backpack when I'm finished. With the Yoga Book 9i, I have to close the laptop > collapse the kickstand > place the keyboard inside the collapsed kickstand > stack the keyboard/kickstand combo, mouse, and stylus on top of the laptop > shove it all in my bag and pray I can find it later when it's time to go back to work.
 
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -182,20 +182,20 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-engaging-youtube-beginnings-two-methods-for-2024/"><u>[New] Crafting Engaging YouTube Beginnings Two Methods for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-how-to-perfectly-stream-your-ps4-gaming-session/"><u>[New] How to Perfectly Stream Your PS4 Gaming Session</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-audio-excellence-with-windows-11-a-beginner-written-by-your-name/"><u>[Updated] In 2024, Audio Excellence with Windows 11 A Beginner' Written by [Your Name]</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-inside-the-world-of-screencasts-understanding-fundamental-principles/"><u>2024 Approved Inside the World of Screencasts Understanding Fundamental Principles</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-dell-wi-fi-and-ethernet-drivers-for-windows-7/"><u>Download Dell Wi-Fi & Ethernet Drivers for Windows 7</u></a></li>
-<li><a href="https://blog-min.techidaily.com/expert-advice-on-successfully-updating-your-iphone-xs-and-overcoming-obstacles/"><u>Expert Advice on Successfully Updating Your iPhone XS and Overcoming Obstacles</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-tips-for-overcoming-realtek-rtl8723be-wireless-drivers-malfunction/"><u>Expert Tips for Overcoming Realtek RTL8723BE Wireless Drivers Malfunction</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-honor-magic-5-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor Magic 5 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-update-your-insignia-bluetooth-cards-drivers-on-pc/"><u>How to Download and Update Your Insignia Bluetooth Card's Drivers on PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-update-for-your-brother-hl-l2300d-printer-software/"><u>How to Get the Latest Update for Your Brother HL-L2300D Printer Software</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/reimagining-action-recording-with-intova-edge-x-for-2024/"><u>Reimagining Action Recording with Intova Edge X for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-balance-of-power-and-strategic-interests-are-significant-factors-that-influence-states-decisions-regarding-nuclear-armament-or-disarmament/"><u>The Balance of Power and Strategic Interests Are Significant Factors that Influence States' Decisions Regarding Nuclear Armament or Disarmament</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-infinix-smart-8-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Infinix Smart 8 Pro without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-hp-officejet-pro-abc-8720-with-current-windows-printing-drivers/"><u>Update Your HP OfficeJet Pro Ab/C 8720 with Current Windows Printing Drivers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-content-masterpieces-with-these-essential-youtube-tips-for-2024/"><u>[New] Crafting Content Masterpieces with These Essential YouTube Tips for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-ultimate-auditory-interface-win/"><u>[New] In 2024, Ultimate Auditory Interface, WIN</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-how-to-capture-computer-screens-and-webcam-video-simultaneously-on-windows10/"><u>[Updated] How to Capture Computer Screens and Webcam Video Simultaneously on Windows10?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-convenient-ways-to-archive-your-insta-story/"><u>[Updated] In 2024, Convenient Ways to Archive Your Insta Story</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-handling-parameter-misconfiguration-messages/"><u>Comprehensive Fixes for Handling Parameter Misconfiguration Messages</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-latest-hid-keyboard-drivers-free-downloads-available/"><u>Effortless Installation of Latest HID Keyboard Drivers - Free Downloads Available!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-gameplay-update-acer-predator-helios-300-graphics-drivers/"><u>Enhance Your Gameplay: Update Acer Predator Helios 300 Graphics Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-new-canon-mg2900-printer-drivers-with-this-comprehensive-tutorial/"><u>Find and Install New Canon MG2900 Printer Drivers with This Comprehensive Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-latest-drivers-for-universal-serial-bus-usb-human-interface-devices/"><u>How to Install the Latest Drivers for Universal Serial Bus (USB) Human Interface Devices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-quick-skill-enhancing-images-in-windows-11/"><u>In 2024, Quick Skill Enhancing Images in Windows 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-zenith-of-zoom-audio-fine-tuning-for-peak-performance/"><u>In 2024, Zenith of Zoom Audio Fine-Tuning for Peak Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instantly-upgrade-sound-performance-free-gigabyte-audio-drivers-available-today/"><u>Instantly Upgrade Sound Performance: Free Gigabyte Audio Drivers Available Today</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-tips-planning-ahead-with-text-message-scheduling-techniques/"><u>IPhone Tips: Planning Ahead with Text Message Scheduling Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-steps-for-a-fresh-install-of-asus-maximus-x-hero-gpu-drivers/"><u>Quick Steps for a Fresh Install of ASUS Maximus X Hero GPU Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-installation-wacom-intuos-pro-driver-compatible-with-windows-10/"><u>Seamless Installation: Wacom Intuos Pro Driver Compatible with Windows 10</u></a></li>
 </ul></div>
 

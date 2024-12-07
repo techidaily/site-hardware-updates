@@ -1,7 +1,7 @@
 ---
 title: "Discovering HP's New Spectre X360: A Must-Have for Top Tech Picks - Insights & Reviews From ZDNet"
-date: 2024-11-26T17:12:03.188Z
-updated: 2024-11-27T16:21:44.527Z
+date: 2024-12-02T16:56:50.719Z
+updated: 2024-12-07T04:05:06.939Z
 tags:
   - laptops
 categories:
@@ -21,10 +21,6 @@ AirTags, however, aren't the only tech travel gadget you should consider as a st
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best travel gadgets of 2024
 
@@ -74,10 +70,6 @@ Cons
 
 ## Tessan International Plug Adapter
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best adapter for international travel
 
 **Tessan International Plug Adapter features:** 2 USB-A ports (12W) | 3 USB-C ports (15W) | 4 different built-in plugs, which covers over 150 countries | 6 in 1 travel adapter outlet 
@@ -114,11 +106,11 @@ Headphone Type  Over-ear wireless headphones
 
 Water-Resistant  No IP rating
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Sony WH-1000XM5 headphones
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best travel headphones
 
@@ -187,6 +179,10 @@ Cons
 * Doesn't have the newest M2 chip
 * Camera suite isn't as updated as newer models
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPad Pro
 
 ### Best travel tablet
@@ -220,7 +216,7 @@ Cons
 ## Duex Plus monitor
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best travel monitor
@@ -254,7 +250,7 @@ Cons
 ## Insta360 X3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best action camera for travel
@@ -289,11 +285,11 @@ Cons
 * Only available as a website
 * No flight, transportation, or restaurant booking
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Guide AI trip planner
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best travel planner
 
@@ -325,6 +321,10 @@ There are lots of tech gadgets that can optimize travel, from canceling out dist
 
  \*Lowest price at the time of writing. Please note that prices may vary based on retailer and available promotions, sales, or discounts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which travel tech gadget should you buy?
 
 All the items on this list were carefully selected, as most have various functionality for different needs, preferences, and even budgets. Here's a further breakdown if you're trying to decide which gadgets are essential for your next trip. 
@@ -341,7 +341,7 @@ All the items on this list were carefully selected, as most have various functio
 | Guide AI trip planner                    | Want to plan your trip itinerary using AI or looking to stay organized throughout your travels.                                                                                           |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did I choose these travel tech gadgets?
@@ -353,6 +353,10 @@ Ultimately, I weighted the following aspects when curating this list:
 * **Durability:** No one likes to buy products that break at first use, which is why I only included items you could buy and count on their performance for years to come.
 * **Price:** Useful travel gadgets don't have to be a hefty investment, especially when you have hotel, transportation, and flights to consider -- or, let's be real, you can easily forget the gadgets in a car or hotel. The devices on this list are top-quality devices that won't break the bank.
 * **Functionality:** Traveling requires fitting all of your essentials in a tight, compact space. This means you should only take devices that advance common traveling components, such as charging your phone, tuning out noise on the plane, or storing and recording memories.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What should I look for in a good piece of travel tech?
 
@@ -367,10 +371,6 @@ I considered Mayerowitzs' tips on what to look for when compiling this list -- m
 ## Is smart luggage worth it?
 
 Smart luggage has been a hot-button item, but they don't necessarily make travel easier. If a smart suitcase has a lithium battery, you'll have to [remove it](https://www.zdnet.com/article/can-i-take-my-smart-suitcase-on-the-plane/)before even getting to the airport. However, certain smart suitcases, like the [Away](https://www.awaytravel.com/suitcases/carry-on?color=black&usb%5Fcharger=not%5Fincluded&gclid=Cj0KCQjww4-hBhCtARIsAC9gR3ZTB1BV7802IGAC15eaBJ-87lZnc7Pss0-o4NC1SPTMYHBoeXEEBUMaAnciEALw%5FwcB) suitcase, can be purchased without the lithium battery pack. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there alternative travel tech gadgets worth considering?
 
@@ -420,18 +420,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-precision-in-action-3-methods-for-gaming-footage/"><u>[New] 2024 Approved Precision in Action 3 Methods for Gaming Footage</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-youtube-revenue-demystified/"><u>[New] 2024 Approved YouTube Revenue Demystified</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-convert-avi-to-gif-on-windows-and-mac-with-filmora/"><u>[New] How to Convert AVI to GIF on Windows and Mac with Filmora</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-capturing-life-in-motion-ipad-timelapse-guide/"><u>[Updated] In 2024, Capturing Life in Motion IPad Timelapse Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-official-hp-ethernet-controller-drivers-for-win-10-7-and-8-systems/"><u>Download and Install Official HP Ethernet Controller Drivers for Win 10, 7 & 8 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-analysis-on-electronics-by-toms-equipment-experts/"><u>Expert Analysis on Electronics by Tom's Equipment Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-canon-mp250-printer-drivers-compatible-versions-and-instructions/"><u>How to Get the Newest Canon MP250 Printer Drivers: Compatible Versions & Instructions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-resolve-windows-11s-bluetooth-drivers-compatibility-issues/"><u>How To Resolve Windows 11'S Bluetooth Drivers Compatibility Issues</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-or-download-sony-vaio-drivers-for-your-windows-device/"><u>How to Update or Download Sony VAIO Drivers for Your Windows Device</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-mastering-s2t-integration-with-powerpoint/"><u>In 2024, Mastering S2T Integration with PowerPoint</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-realme-gt-5-pro-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Realme GT 5 Pro Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://win-able.techidaily.com/rocket-league-stability-solutions-for-gamers-tips-to-prevent-crashes-in-cuireyear/"><u>Rocket League Stability Solutions for Gamers - Tips to Prevent Crashes in Cuire_year</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-downloading-and-installing-canon-mp280-printer-drivers-on-windows-platforms-11-8-and-nullyton/"><u>Step-by-Step Guide: Downloading and Installing Canon MP280 Printer Drivers on Windows Platforms (11, 8 & Nullyton)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-digital-artistry-on-your-phone-top-8-multimedia-enhancement-apps/"><u>[New] 2024 Approved Digital Artistry on Your Phone Top 8 Multimedia Enhancement Apps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-critical-analysis-facebooks-top-10-video-plays/"><u>[New] In 2024, Critical Analysis Facebook's Top 10 Video Plays</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-toggle-the-past-the-twitch-live-trick/"><u>[New] Toggle the Past The Twitch Live Trick</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-superior-camcorders-a-windows-users-companion/"><u>[Updated] 2024 Approved Superior Camcorders A Windows User's Companion</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-advanced-scheduling-with-premium-recording-software/"><u>2024 Approved Advanced Scheduling with Premium Recording Software</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210642558-9781736365120-discovering-your-excellence-within/"><u>Discovering Your Excellence Within | Free Book</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-prime-selection-of-simple-effective-gamers-edit-tools/"><u>In 2024, Prime Selection of Simple, Effective Gamers' Edit Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-your-gadgets-with-expert-tips-from-toms-hardware/"><u>Master Your Gadgets with Expert Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-electronics-critical-insights-and-assessments-by-toms-review-team/"><u>Mastering Electronics: Critical Insights and Assessments by Tom's Review Team</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/msi-accepts-responsibility-fixing-the-issues-with-defective-cooler-systems-in-z790-motherboards/"><u>MSI Accepts Responsibility: Fixing the Issues with Defective Cooler Systems in Z790 Motherboards</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-new-technologies-with-toms-hardware-guides/"><u>Navigating New Technologies with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-gigabyte-motherboard-design-supports-weight-up-to-128-pounds-on-graphics-cards-but-cracking-concerns-remain-with-reinforced-slots/"><u>New Gigabyte Motherboard Design: Supports Weight Up to 128 Pounds on Graphics Cards - But Cracking Concerns Remain with Reinforced Slots</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionize-your-pc-build-with-maxsuns-groundbreaking-backside-gpu-mini-itx-motherboard-design/"><u>Revolutionize Your PC Build with Maxsun's Groundbreaking Backside GPU Mini-ITX Motherboard Design</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-definitive-resource-for-selecting-top-tier-hardware-solutions-toms-insights/"><u>The Definitive Resource for Selecting Top-Tier Hardware Solutions - Tom's Insights</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-time-lapse-mastery-a-step-by-step-guide-in-final-cut-pro/"><u>Updated In 2024, Time Lapse Mastery A Step-by-Step Guide in Final Cut Pro</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Meet Lenovo's Compact Powerhouse: The Mini PC with AMD Ryzen"
-date: 2024-08-28T01:58:17.230Z
-updated: 2024-08-29T01:58:17.230Z
+date: 2024-12-03T22:38:19.411Z
+updated: 2024-12-06T20:09:01.846Z
 tags:
   - hardware
 categories:
@@ -33,8 +33,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -42,8 +40,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-capturing-life-in-new-ways-hero-4-and-hero-5/"><u>[New] Capturing Life in New Ways Hero 4 & Hero 5</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-bring-back-the-buzz-transforming-previous-media-with-ig-filters/"><u>[New] In 2024, Bring Back the Buzz Transforming Previous Media with IG Filters</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-step-by-step-strategy-for-profiting-from-every-youtube-short-video/"><u>[Updated] 2024 Approved Step-by-Step Strategy for Profiting From Every YouTube Short Video</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1-breaking-down-barriers-acer-unveils-affordable-3d-ready-monitors-and-laptops-for-enhanced-tech-experience/"><u>1. 'Breaking Down Barriers: Acer Unveils Affordable 3D-Ready Monitors & Laptops for Enhanced Tech Experience'</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-analysis-of-the-hp-zbook-studio-g9-unveiling-a-high-end-portable-performance-beast-with-versatile-gpu-support-insights-from-tech-experts/"><u>Comprehensive Analysis of the HP ZBook Studio G9: Unveiling a High-End Portable Performance Beast with Versatile GPU Support - Insights From Tech Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exciting-update-next-gen-windows-on-arm-apps-arrive-offering-unparalleled-performance-gains/"><u>Exciting Update: Next-Gen Windows on ARM Apps Arrive, Offering Unparalleled Performance Gains!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-start-saving-with-reddit-today-13-easy-and-effective-strategies-no-experience/"><u>In 2024, Start Saving with Reddit Today - 13 Easy & Effective Strategies (No Experience)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-review-and-fall-sale-alert-on-the-cutting-edge-lg-gram-pro-17-notebook-snag-your-discounted-price-this-october/"><u>In-Depth Review and Fall Sale Alert on the Cutting-Edge LG Gram Pro 17 Notebook - Snag Your Discounted Price This October!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-productivity-setup-on-sale-hp-laptop-peripheral-plus-ms-office-bundle-for-only-400-at-zdnet/"><u>Ultimate Productivity Setup on Sale: HP Laptop, Peripheral + MS Office Bundle for Only $400 at ZDNet</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-5-best-free-mpeg-video-splitters-for-2024/"><u>Updated Top 5 Best Free MPEG Video Splitters for 2024</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

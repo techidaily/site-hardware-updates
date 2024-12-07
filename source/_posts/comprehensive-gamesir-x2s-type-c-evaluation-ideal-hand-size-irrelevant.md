@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive GameSir X2s Type-C Evaluation: Ideal Hand Size Irrelevant"
-date: 2024-08-28T01:57:53.470Z
-updated: 2024-08-29T01:57:53.470Z
+date: 2024-12-05T16:12:08.549Z
+updated: 2024-12-07T04:08:34.007Z
 tags:
   - hardware
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/2635526a9b4bc31b09f99f8ed1ec33a28f3bd1734
 ---
 
 ## Comprehensive GameSir X2s Type-C Evaluation: Ideal Hand Size Irrelevant
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -20,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/2635526a9b4bc31b09f99f8ed1ec33a28f3bd1734
  GameSir offers a well-rounded selection of mobile game controllers, ranging from premium, higher-cost models to cheaper, simpler alternatives. The [GameSir X2s Type-C](https://www.amazon.com/GameSir-Controller-Android-Trigger-Zenless-Emulator/dp/B0CRVCFJKD/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004214&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fgamesir-x2s-type-c-review%2F&asc%5Fcampaign=Authority) is more in the second category, favoring a lower price at the sacrifice of a more comfortable and sturdier build.
 
 ![GameSir X2s Type-C](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/gamesir-x2s-type-c.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
@@ -80,13 +88,9 @@ Expand
 ![GameSir X2s Type-C gaming controller showing back](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/gamesir-x2s-rear.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  If you’re familiar with the Nintendo Switch, then GameSir’s X2s Type-C will look especially familiar. Though GameSir advertises the mobile controller as a call-back to the Nintendo 2DS, it’s definitely a Switch layout, complete with one of my biggest issues with Nintendo’s hybrid handheld.
@@ -97,16 +101,10 @@ Sergio Rodriguez / How-To Geek
 
  Unfortunately, I think GameSir got caught up with making a budget-friendly option without considering what that entails. There’s still no USB-C audio passthrough or 3.5mm jack, a carryover issue from the [X2 controller](https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-g22-phone-pattern-lock-without-factory-reset-by-drfone-android/). You’ll either need a wireless headset or restrict playing in public to avoid annoying all around you. Even when playing in private, mobile phones, like the Google Pixel 8 Pro I tested the X2s with, have decent speakers, but they don’t replace the quality and clarity of a headset.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Flimsy Build with Sturdy, Responsive Inputs
 
 ![GameSir X2s Type-C close up of face buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/gamesir-x2s-close-up.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  Size aside, the control is a simple, flimsy, lightweight piece of plastic that doesn’t do its buttons any justice. I really expected that the face buttons, triggers, or joysticks would feel loose or wouldn’t register inputs properly, as it felt like GameSir really went low-budget. But they didn't.
@@ -115,9 +113,6 @@ Sergio Rodriguez / How-To Geek
 
  I tested games like “Call of Duty Mobile,” “Brawlhalla,” “Gears 5,” and “Forza Horizon 5,” and I felt the X2s worked well for each of the varying gameplay. The automatic button-mapping for “Call of Duty Mobile” was flawless, and the responsiveness during the chaotic fights of “Brawlhalla” didn’t disappoint. I also didn’t notice any glaring issues with how the controller worked with streaming “Gears 5” and “Forza.”
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Simplicity With Plenty to Offer
 
 ![GameSir X2s Type-C front view](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/gamesir-x2s-type-c-overview.jpg) 
@@ -134,14 +129,14 @@ Close
 
  There are two additional controller modes—DS5 and HiD—but neither seemed to change much, save, maybe, for compatibility. GameSir’s manuals aren’t clear, but both seem to exist to allow the X2s to run games that already have native controller support, with DS5 mode made specifically for the PS5\. In future models, I’d like to see a mobile controller that mimics DualSense’s haptic feedback trigger so you can get the full experience of playing on the console.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Limited Only By Your Gaming Library
 
 ![Falout Shelter running on GameSir X2s Type-C](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/gamesirt-x2s-type-c-fallout.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  GameSir constantly provides an impressive level of support. On my X2s, I could run Xbox Cloud Gaming, Steam Link, PS Remote Play, and dedicated mobile games seamlessly through the GameSir app. If I had accounts with GeForce NOW and any other cloud streaming service that works with Android devices, I’d have also been able to access them. (This controller works for iPhone emulator apps like Delta too!)
@@ -150,9 +145,6 @@ Sergio Rodriguez / How-To Geek
 
  That doesn’t even touch on the app’s backend features, like adjusting trigger sensitivity, calibrating the thumbsticks, swapping between an Xbox and Switch face button layout, and testing that all buttons are functional.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ##  Should You Buy GameSir X2s Type-C
 
  When I recommended [GameSir’s G8 Galileo](https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-oppo-reno-9a-drfone-by-drfone-fix-android-problems-fix-android-problems/) mobile controller, it was pretty cut and dry. Unfortunately, the [GameSir X2s Type-C](https://www.amazon.com/GameSir-Controller-Android-Trigger-Zenless-Emulator/dp/B0CRVCFJKD/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004214&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fgamesir-x2s-type-c-review%2F&asc%5Fcampaign=Authority) has a few fatal flaws that I fear would make it quite difficult for everyone to enjoy. I don’t have big hands, but they are arthritic, and the lack of any real contouring hurts after a very short time. I suspect anyone with bigger hands will also have an issue with the X2s overall and button sizes.
@@ -160,6 +152,10 @@ Sergio Rodriguez / How-To Geek
  If you’ve never had problems with your hands and don’t consider them big, then the X2s Type-C may be a fantastic budget mobile controller. It’s certainly a fine entry-level option around the house or for travel. It has all the quality features and compatibility I’ve come to expect from GameSir, and though no audio options certainly sting, their absence is far from a dealbreaker when you consider the budget price.
 
 ![GameSir X2s Type-C](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/gamesir-x2s-type-c.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
@@ -177,8 +173,6 @@ The GameSir X2s Type-C Mobile Gaming controller works with most USB-C-compatible
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +180,24 @@ The GameSir X2s Type-C Mobile Gaming controller works with most USB-C-compatible
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-livestream-tech-for-gaming-enthusiasts/"><u>[New] Leading Livestream Tech For Gaming Enthusiasts</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-streamlining-role-assignment-in-discord-channels/"><u>[Updated] 2024 Approved Streamlining Role Assignment in Discord Channels</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-hp-laserjet-pro-m428fwd-drivers-for-windows-11107-latest-version-available-now/"><u>Complete HP LaserJet Pro M428fwd Drivers for Windows 11/10/7 - Latest Version Available Now!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-setting-up-ai-agent-functionality-in-your-browser-using-agentgpt/"><u>Comprehensive Guide: Setting Up AI Agent Functionality in Your Browser Using AgentGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/craftsmanship-redefined-generating-novelty-in-ai-through-microsoft-copilot/"><u>Craftsmanship Redefined: Generating Novelty in AI Through Microsoft Copilot</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-a-new-rtx-eby9baefc4f-8b15-49d3-a6c4-e9c21d1d8bb0-exclusive-220-discount-now-tech-deals-at-zdnet/"><u>Get a New RTX Eby_9baefc4f-8b15-49d3-A6c4-E9c21d1d8bb0! Exclusive $220 Discount Now | Tech Deals at ZDNET!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hurry-to-grab-the-samsung-odyssey-neo-g8-monitor-550-below-retail-best-buys-exclusive-offer-for-anti-prime-day-insider-info-by-zdnet/"><u>Hurry to Grab the Samsung Odyssey Neo G8 Monitor @ $550 Below Retail: Best Buy's Exclusive Offer for Anti-Prime Day - Insider Info by ZDNET.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ideal-thinkpad-for-the-modern-hybrid-professional-a-look-beyond-lenovos-latest-laptop/"><u>Ideal ThinkPad for the Modern Hybrid Professional: A Look Beyond Lenovo's Latest Laptop</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/master-windows-11-a-treasure-trove-of-undisclosed-features/"><u>Master Windows 11 A Treasure Trove of Undisclosed Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/paws-and-playtime-interactive-pet-game/"><u>Paws & Playtime: Interactive Pet Game</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/rapid-film-techniques-make-your-own-studio-at-home/"><u>Rapid Film Techniques Make Your Own Studio At Home</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionize-your-charging-experience-with-the-140w-multi-device-companion-now-available/"><u>Revolutionize Your Charging Experience with the 140W Multi-Device Companion - Now Available!</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-os-maintenance-autoupdate-switch-amd-drivers/"><u>Seamless OS Maintenance: Autoupdate, Switch AMD Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-a-stellar-bargain-for-creative-professionals-get-500-off-the-ideal-monitor-for-photo-and-video-editing-exclusive-offer-from-samsung/"><u>Snag a Stellar Bargain for Creative Professionals: Get $500 Off the Ideal Monitor for Photo & Video Editing - Exclusive Offer From Samsung !</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/testing-the-honor-magicbook-14-the-best-budget-14inch-laptop-with-dedicated-gpu-for-productivity/"><u>Testing the Honor MagicBook 14 - The Best Budget 14Inch Laptop with Dedicated GPU for Productivity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transform-your-laptop-into-a-powerhouse-the-ultimate-discreet-docking-station-reviewed-by-tech-expert-zdnet/"><u>Transform Your Laptop Into a Powerhouse: The Ultimate Discreet Docking Station Reviewed by Tech Expert - ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-choosing-the-perfect-graphics-workstation-pc-industry-insights-from-experts-cnet-review/"><u>Ultimate Guide to Choosing the Perfect Graphics Workstation PC: Industry Insights From Experts | CNET Review</u></a></li>
+</ul></div>
 

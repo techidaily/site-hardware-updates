@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Convenient 12-Port Thunderbolt Hub: Exclusive Power Option Revealed for Windows Enthusiasts"
-date: 2024-11-24T19:15:29.080Z
-updated: 2024-11-27T20:06:17.412Z
+date: 2024-12-04T00:48:51.099Z
+updated: 2024-12-06T20:07:33.081Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ This is precisely where a high-end professional Thunderbolt 4 dock, like the [Or
 [ZDNET RECOMMENDS Orico 12-in-1 Thunderbolt 4 Docking Station This Thunderbolt 4 certified dock has a dozen ports, including 2 x 40Gbps Thunderbolt 4 ports, 3 x USB-A ports, 2 x USB-C ports, an HDMI port, a DP 1.4 port, a SD/TF slot, a Gigabit Ethernet port, and a 3.5mm audio jack. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FORICO-Thunderbolt-Certified-Charging-Compatible%2Fdp%2FB0CS95HN6V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cde8d55d1-86d7-400d-9731-1d1296ca9684%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Orico 12-in-1 Thunderbolt 4 Docking Station tech specs
@@ -110,7 +110,7 @@ The first couple of times that I connected this dock to my system, I was left wo
 This is definitely not a deal breaker, but it's something worth knowing about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -149,17 +149,20 @@ For professionals such as photographers, videographers, 3D modelers, or audio en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-youtubers-dream-gear-top-cameras-unveiled/"><u>[Updated] 2024 Approved YouTubers' Dream Gear Top Cameras Unveiled</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-vivo-s17e-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Vivo S17e to iPhone | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-box-customization-havens-on-the-internet-for-2024/"><u>Best Box-Customization Havens on the Internet for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/cutting-edge-cost-effective-risc-v-laptop-by-chinese-startup-for-developer-professionals-only-300/"><u>Cutting-Edge, Cost-Effective RISC-V Laptop by Chinese Startup for Developer Professionals – Only $300</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dells-new-contenders-the-impressive-fusion-of-performance-and-style-in-the-xps-16-9640-and-xps-14-9440-plus-a-sneak-peek-at-their-unique-characteristics/"><u>Dell's New Contenders: The Impressive Fusion of Performance & Style in the XPS 16 (9640) & XPS 14 (9440), Plus a Sneak Peek at Their Unique Characteristics</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/demystifying-the-technology-of-electrified-motorcycles-how-they-run/"><u>Demystifying the Technology of Electrified Motorcycles: How They Run</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-cutting-edge-computers-at-toms-hardware-experts/"><u>Discover Cutting-Edge Computers at Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-first-asus-laptop-powered-by-intels-latest-lunar-lake-chips-meet-the-expertbook-p5/"><u>Discover the First ASUS Laptop Powered by Intel's Latest Lunar Lake Chips – Meet the ExpertBook P5</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Motorola Moto G Stylus (2023)? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/pro-tech-reviews-sharex-and-more/"><u>Pro Tech Reviews ShareX & More</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/strategies-for-clearer-picture-on-distorted-youtube-videos/"><u>Strategies for Clearer Picture on Distorted YouTube Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-photography-journey-with-vsco-editing-tool-for-2024/"><u>Ultimate Photography Journey with VSCO Editing Tool for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-essential-fixes-for-the-persistent-w10-photos-crashing-issue/"><u>[New] Essential Fixes for the Persistent W10 Photos Crashing Issue</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-voice-to-text-mastery-for-streamlined-workflows-using-office-suites-powerful-features/"><u>[Updated] In 2024, Voice-to-Text Mastery for Streamlined Workflows Using Office Suite's Powerful Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/chatgpt-unleashed-6-techniques-to-perfect-your-dungeon-mastering/"><u>ChatGPT Unleashed: 6 Techniques to Perfect Your Dungeon Mastering</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/critical-factors-to-consider-before-buying-a-game-rig/"><u>Critical Factors to Consider Before Buying a Game Rig</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/cross-posting-strategies-sharing-tiktok-on-your-facebook-feed-for-2024/"><u>Cross-Posting Strategies Sharing TikTok on Your Facebook Feed for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-non-windows-computing-with-the-budget-friendly-hp-chromebook-exclusive-zdnet-review-at-136-off/"><u>Effortless Non-Windows Computing with the Budget-Friendly HP Chromebook: Exclusive ZDNet Review at 136% Off!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/te-your-channel-studio-upgrade-vs-beta-shift-for-2024/"><u>Elevate Your Channel Studio Upgrade Vs. Beta Shift for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-and-dev-driver-now-in-sync-with-win-os/"><u>Hardware and Dev Driver Now in Sync with Win OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-victus-15-now-only-530-at-best-buy-ultimate-savings-on-a-high-performance-gaming-laptop/"><u>HP Victus 15 Now Only $530 at Best Buy: Ultimate Savings on a High-Performance Gaming Laptop!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-powerful-tactics-leveraging-youtube-links-for-fb-exposure/"><u>In 2024, Powerful Tactics Leveraging YouTube Links for FB Exposure</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-security-keys-industry-experts-seal-of-approval-zdnet/"><u>Top-Rated Security Keys : Industry Experts' Seal of Approval - ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transform-your-connectivity-the-ultimate-guide-to-choosing-the-best-6-in-1-usb-c-hub-for-optimal-cable-management-zdnet/"><u>Transform Your Connectivity: The Ultimate Guide to Choosing the Best 6-in-1 USB-C Hub for Optimal Cable Management | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-premium-touchscreen-notebooks-thoroughly-testing-and-insights-cnet/"><u>Ultimate Guide to Premium Touchscreen Notebooks - Thoroughly Testing & Insights | CNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-premium-17-inch-notebooks-as-chosen-by-zdnet/"><u>Ultimate Guide: Premium 17-Inch Notebooks as Chosen by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-workstation-with-apples-fresh-release-the-enhanced-13-and-15-inch-macbook-air-powered-by-m3-processor-get-insights/"><u>Upgrade Your Workstation with Apple's Fresh Release: The Enhanced 13- and 15-Inch MacBook Air Powered by M3 Processor – Get Insights</u></a></li>
 </ul></div>
 

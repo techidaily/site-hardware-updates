@@ -1,7 +1,7 @@
 ---
 title: Prolactinomas, Somatotropinomas, and Corticotroph Adenomas Are Common Secreting Pituitary Tumors.
-date: 2024-08-28T01:58:28.873Z
-updated: 2024-08-29T01:58:28.873Z
+date: 2024-12-03T20:49:29.716Z
+updated: 2024-12-07T00:23:00.925Z
 tags:
   - hardware
 categories:
@@ -29,6 +29,10 @@ While the Google Pixel 7a doesn't feature the same image sensor as the Pixel 7, 
 
  Google is getting ready to [unleash its new Pixel 9](https://ai-live-streaming.techidaily.com/new-master-amazon-live-features-pro-tips-and-future-trends-for-2024/) series next month, but those phones are going to be expensive. If you're looking for something more affordable, last year's budget Pixel 7a is 40% off and [available for only $299](https://www.amazon.com/Google-Pixel-7a-Unlocked-Smartphone/dp/B0BZ9XNBRB/?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004338&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-pixel-7a-earbuds-qled-tvs-vacuums%2F&asc%5Fcampaign=Short-Term). That's a lot of phone without breaking the bank.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Anker Nano II 65W USB-C 3-Port Charger for $30 ($26 Off)](https://www.amazon.com/Anker-Charger-Compact-Foldable-MacBook/dp/B09C5RG6KV?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004338&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-pixel-7a-earbuds-qled-tvs-vacuums%2F&asc%5Fcampaign=Short-Term) 
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/31ag4ctmmfl-_sl500_.jpg) 
@@ -44,15 +48,17 @@ With two USB-C ports, a single USB-A port and support for up to 65W output and f
  Anker makes some of the best mobile accessories, including this epic 3-port 65W fast charger that'll keep all your devices fully charged. With foldable prongs, this portable charger has enough power for phones, tablets, or even a MacBook. [Get it now for under $30](https://www.amazon.com/Anker-Charger-Compact-Foldable-MacBook/dp/B09C5RG6KV?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004338&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-pixel-7a-earbuds-qled-tvs-vacuums%2F&asc%5Fcampaign=Short-Term).
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Hisense 65-inch (U6HF) 4K QLED Fire Smart TV for $450 ($300 Off)](https://www.amazon.com/dp/B0CHJ87V95?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004338&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-pixel-7a-earbuds-qled-tvs-vacuums%2F&asc%5Fcampaign=Short-Term) 
 
 ![hisense u6Hf](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/hisense-u6hf.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  Hisense U6HF
 
 $548 $750 Save $202 
@@ -68,8 +74,9 @@ The Hisense U6HF offers a good gaming experience thanks to its low input lag, VR
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/roborock-q7-buy-box.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  Roborock Q7+
 
 The Roborock Q7+ is a capable robot vacuum with sweeping and mopping capabilities, self-emptying, and more, delivering hands-free cleaning for up to 7 weeks. 
@@ -78,13 +85,14 @@ The Roborock Q7+ is a capable robot vacuum with sweeping and mopping capabilitie
 
  Robot vacuums are amazing, but having one that can empty itself or mop the floors is truly a gamechanger. The Roborock Q7+ is usually around $550, but right now you can snag this epic floor cleaner for [under $380](https://www.amazon.com/roborock-Auto-Empty-Hands-Free-Cleaning-APP-Controlled/dp/B09NNFNWZ9?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004338&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-pixel-7a-earbuds-qled-tvs-vacuums%2F&asc%5Fcampaign=Short-Term).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Soundcore by Anker Space A40 Wireless Earbuds for $50 ($30 Off)](https://www.amazon.com/dp/B0B1LVC5VZ?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004338&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-pixel-7a-earbuds-qled-tvs-vacuums%2F&asc%5Fcampaign=Short-Term) 
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/30e5f2be.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Soundcore (by Anker) Space A40
 
 9/ 10 
@@ -95,18 +103,10 @@ Enjoy stunning sound and all-day battery life with the Space A40 adaptive noise-
 
  You don't have to spend $200 on the latest AirPods to get a great set of wireless earbuds with ANC. Soundcore, a sister company of Anker, makes great stuff. This week, the popular Soundcore Space A40 noise-canceling earbuds with a 50-hour battery life are [only $50](https://www.amazon.com/dp/B0B1LVC5VZ?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004338&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-pixel-7a-earbuds-qled-tvs-vacuums%2F&asc%5Fcampaign=Short-Term).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ##  More Tech Deals
 
 ![A MacBook air on a wooden table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/a-macbook-air-under-a-wooden-table.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 Zarif Ali / How-To Geek
 
  Whether you're searching for back-to-school deals or just want something new, we have several more options worth considering below. Amazon and Walmart both have affordable MacBook Air options. We also found a cheap HP Windows laptop, smart lights, or a portable power bank for all your travels. 
@@ -125,8 +125,6 @@ Zarif Ali / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +132,18 @@ Zarif Ali / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unveiling-angles-strategic-composition-tips-for-iphone-photography/"><u>[Updated] 2024 Approved Unveiling Angles Strategic Composition Tips for iPhone Photography</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevate-your-youtube-presence-with-custom-animated-subscription-buttons-in-filmora/"><u>[Updated] In 2024, Elevate Your YouTube Presence with Custom Animated Subscription Buttons in Filmora</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-gopro-hero5-black-batteries-with-certified-chargers/"><u>2024 Approved Premier GoPro Hero5 Black Batteries with Certified Chargers</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-defrag-a-hard-disk-drive-in-windows-11/"><u>How to Defrag a Hard Disk Drive in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/methodology-to-revive-windows-steam-iconage/"><u>Methodology to Revive Windows Steam Iconage</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/power-users-rejoice-discover-the-top-duo-of-features-that-make-this-lenovo-laptop-stand-out/"><u>Power Users Rejoice: Discover the Top Duo of Features That Make This Lenovo Laptop Stand Out</u></a></li>
+<li><a href="https://article-helps.techidaily.com/stealth-mode-a-guide-to-living-large-unlabeled/"><u>Stealth Mode A Guide to Living Large, Unlabeled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-usb-tethering-mastery-for-windows-10-users/"><u>Step-by-Step USB Tethering Mastery for Windows 10 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-15-inch-laptop-picks-for-2eplust-year-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top Rated 15-Inch Laptop Picks for 2E+t Year - Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-tablet-deals-on-cyber-monday-get-600-off-microsoft-surface-pro-8-post-black-friday-sale-insider/"><u>Top Tablet Deals on Cyber Monday: Get $600 Off Microsoft Surface Pro 8 Post-Black Friday Sale Insider</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-hidden-gems-of-dells-best-value-laptop-with-smart-features-a-comprehensive-review/"><u>Unveiling the Hidden Gems of Dell's Best-Value Laptop with Smart Features – A Comprehensive Review</u></a></li>
+</ul></div>
 

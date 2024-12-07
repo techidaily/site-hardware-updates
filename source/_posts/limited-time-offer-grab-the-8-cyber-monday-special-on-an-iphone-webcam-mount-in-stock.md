@@ -1,7 +1,7 @@
 ---
 title: "Limited Time Offer: Grab the $8 Cyber Monday Special on an iPhone Webcam Mount - In Stock!"
-date: 2024-11-25T17:18:53.400Z
-updated: 2024-11-27T17:00:20.780Z
+date: 2024-11-30T00:23:06.238Z
+updated: 2024-12-07T02:16:26.111Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ I've seen the likes of Belkin put out [quality iPhone mounts for this purpose](h
 All that's needed to make Continuity Camera happen is a Mac computer running MacOS Ventura, an iPhone running on iOS 16, and a mount to keep the handset afloat. That's where the Elephant Card comes in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,22 +81,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-computational-photography-what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes/"><u>[Updated] 2024 Approved Computational Photography What Are Auto HDR, Smart HDR 3 & 4 Shooting Modes?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-iphone-6s-plus-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On iPhone 6s Plus How to Bypass?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/counteract-black-screen-and-recover-mouse-on-w10/"><u>Counteract Black Screen & Recover Mouse on W10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-step-by-step-guide-to-installing-steelseries-drivers-on-windows-systems/"><u>Easy Step-by-Step Guide to Installing SteelSeries Drivers on Windows Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/experience-enhanced-viewing-pleasure-with-tcls-new-additions-19-cutting-edge-models-in-their-q-and-s-class-lineup/"><u>Experience Enhanced Viewing Pleasure with TCL's New Additions - 19 Cutting-Edge Models in Their Q and S Class Lineup</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fix-how-to-get-windows-11-to-detect-your-usb-drive/"><u>Fix: How To Get Windows 11 To Detect Your USB Drive</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-outpost-infinity-siege-crashing-on-pc/"><u>How to Fix Outpost: Infinity Siege Crashing on PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-x100-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo X100 Pro to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-demystifying-absence-no-recommended-video-content-on-facebook/"><u>In 2024, Demystifying Absence No Recommended Video Content on Facebook</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-ps-tips-for-perfecting-photo-shades-and-saturation/"><u>In 2024, PS Tips for Perfecting Photo Shades and Saturation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/intel-developing-multiple-variants-of-the-upcoming-panther-lake-processors-for-next-gen-laptops-post-lunar-lake-series/"><u>Intel Developing Multiple Variants of the Upcoming Panther Lake Processors for Next-Gen Laptops Post Lunar Lake Series</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/keep-your-asus-computer-running-smoothly-with-updated-drivers/"><u>Keep Your ASUS Computer Running Smoothly with Updated Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/securely-acquire-the-most-recent-broadcom-bluetooth-software-support-for-windows-systems-versions-10-8-and-7/"><u>Securely Acquire the Most Recent Broadcom Bluetooth Software Support for Windows Systems (Versions 10, 8 & 7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-for-amd-radeon-rx-query/"><u>Step-by-Step Tutorial for AMD Radeon RX # Query</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-easy-way-to-get-latest-d-link-driver-software-installed-on-windows-computers/"><u>The Easy Way to Get Latest D-Link Driver Software Installed on Windows Computers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-honor-100-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Honor 100 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-targus-usb-monitor-adapter-on-windows-compatible-with-win11-8-and-7/"><u>Update Your Targus USB Monitor Adapter on Windows: Compatible with Win11, 8, and 7</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-craft-your-ideal-video-experience-on-vimeo-through-plan-selection/"><u>[New] 2024 Approved Craft Your Ideal Video Experience on Vimeo Through Plan Selection</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-revealing-the-top-six-where-to-grab-your-snack-videos/"><u>[New] 2024 Approved Revealing the Top Six Where to Grab Your Snack Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-digital-subtitle-producer/"><u>2024 Approved Digital Subtitle Producer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-choices-comprehensive-paid-and-free-macpc-video-decoders/"><u>In 2024, Excellent Choices Comprehensive Paid & FREE Mac/PC Video Decoders</u></a></li>
+<li><a href="https://win-community.techidaily.com/lenovo-pc/"><u>Lenovo PCのデータ復旧：消えたファイルを取り戻すコツ</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-common-issues-with-the-logitech-g230-microphone-fixed/"><u>Solving Common Issues with the Logitech G230 Microphone [FIXED]</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-tecno-camon-20-premier-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Tecno Camon 20 Premier 5G Phone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transform-your-workstation-the-highly-rated-samsung-pixel-dense-viewfinity-s9-monitor-27-ips-display-and-integrated-4k-camera-at-an-unmatchable-899-price-se59/"><u>Transform Your Workstation: The Highly Rated Samsung Pixel-Dense ViewFinity S9 Monitor - 27 IPS Display & Integrated 4K Camera at an Unmatchable $899 Price – Secure 44% Off Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-building-a-pc-tips-from-toms-hardware/"><u>Ultimate Guide to Building a PC - Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-viewing-pleasure-with-gigabytes-aorus-co49dq-a-deep-dive-into-its-stunning-color-and-contrast-ratings/"><u>Ultimate Viewing Pleasure with Gigabyte's Aorus CO49DQ - A Deep Dive Into Its Stunning Color & Contrast Ratings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-next-level-visuals-premium-rated-alienware-oled-display-at-record-lows-price/"><u>Unlock Next-Level Visuals: Premium Rated Alienware OLED Display at Record Lows Price</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-tech-world-with-toms-equipment-expertise/"><u>Unveiling the Tech World with Tom's Equipment Expertise</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-cutting-3gp-files-heres-a-simple-and-fast-solution-for-2024/"><u>Updated Cutting 3GP Files? Heres a Simple and Fast Solution for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/work-smarter-on-a-budget-the-new-hp-professional-monitor-at-37-featuring-premium-ips-panel-and-competitive-edge-over-pricey-oled-models/"><u>Work Smarter on a Budget - The New HP Professional Monitor at 37” Featuring Premium IPS Panel & Competitive Edge Over Pricey OLED Models</u></a></li>
 </ul></div>
 

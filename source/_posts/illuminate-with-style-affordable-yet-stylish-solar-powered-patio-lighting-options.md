@@ -1,7 +1,7 @@
 ---
 title: "Illuminate with Style: Affordable Yet Stylish Solar-Powered Patio Lighting Options"
-date: 2024-08-28T01:59:11.890Z
-updated: 2024-08-29T01:59:11.890Z
+date: 2024-11-30T20:06:43.446Z
+updated: 2024-12-06T18:23:17.360Z
 tags:
   - hardware
 categories:
@@ -82,16 +82,14 @@ Illuminate your outdoor spaces with these Smart Matter-enabled Multicolor Outdoo
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ##  The Value of Outdoor String Lights
 
 ![Nanoleaf Essentials Matter Outdoor String Lights hung on a fence](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/nanoleaf-essentials-matter-outdoor-string-lights-hung-on-a-fence.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  The thing that elevates an outdoor space is the mood lighting. I recently wandered down an aisle of a retail store with dozens of string light choices. There were small bulbs and big bulb options with different shapes with varying lengths. The prices were reasonable, mostly under $50, but none of them were smart. You still needed to turn them on and off manually.
@@ -103,15 +101,17 @@ Close
  Once I got the lights out of the box and examined them up close, I really liked their unique exterior design. There’s an elegance to the blubs that goes beyond the standard rounded shape. I’m using the 30-meter version which translates to about 98 feet. There are 40 individual addressable lights within that distance. It features an IP67 rating, 16+ million colors, and lighting temperatures that range between 2,700K and 6,500K—bright whites and soft yellow glow. (These features are standard across all the various length options.)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Wi-Fi Connections For All
 
 ![Nanoleaf Essentials Matter Outdoor String Lights in-line controller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/nanoleaf-essentials-matter-outdoor-string-lights-in-line-controller.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  The beauty of these Nanoleaf Essentials Outdoor String Lights is their Matter compatibility. The string lights can connect over Bluetooth, Wi-Fi, or Matter (using Wi-Fi). Let’s break that down.
@@ -130,23 +130,25 @@ Close
 
  The Nanoleaf mobile app works fine, but I found it to be lackluster. Beyond standard color choices, the app wants to push you towards spending time creating your own lighting creations or using music-activated options. There are a fair amount of pre-configured lighting options, but I never found myself wanting to dig in and spend time creating more. I found myself controlling the lights through Apple's Home app more than the Nanoleaf app. (With the Matter lights you can only use the Home app for schedules, for whatever technical reason.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Should You Buy the Nanoleaf Essentials Matter Outdoor String Lights?
 
 ![showing the shape of the Nanoleaf Essentials Matter Outdoor String Lights bulb](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/showing-the-shape-of-the-nanoleaf-essentials-matter-outdoor-string-lights-bulb.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  No matter how cool the [Nanoleaf Essentials Matter Outdoor String Lights](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2002976/https://nanoleaf.me/en-US/products/essentials/outdoor/multicolor-string-lights/) are, their $130 starting price for 49 feet is comparatively high. You can buy the same length of non-smart string lights for $100 cheaper. If the cost isn’t a deterrent, however, these Wi-Fi-connected string lights work well and are just neat all around. Plus, being Matter compatible means there’s the widest compatibility and future support.
 
 ![outdoor string lights](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1-outdoor-string-lights-shop-15m-desktop-2x.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-staff-pick-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Nanoleaf Essentials Matter Outdoor String Lights
 
@@ -162,8 +164,6 @@ Illuminate your outdoor spaces with these Smart Matter-enabled Multicolor Outdoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +171,21 @@ Illuminate your outdoor spaces with these Smart Matter-enabled Multicolor Outdoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-most-wallet-friendly-cloud-haven-for-mass-datasets/"><u>[New] 2024 Approved The Most Wallet-Friendly Cloud Haven for Mass Datasets</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unrivaled-vr-sets-for-aerial-adventures-for-2024/"><u>[New] Unrivaled VR Sets for Aerial Adventures for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-unveiling-splitcams-camera-capabilities/"><u>[Updated] In 2024, Unveiling SplitCam's Camera Capabilities</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1-lenovo-ideapad-gaming-chromebook-unveiled-exploring-the-real-limits-of-cloud-based-gaming-performance-insights/"><u>1. Lenovo IdeaPad Gaming Chromebook Unveiled: Exploring the Real Limits of Cloud-Based Gaming Performance - Insights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-xiaomi-redmi-note-13-pro-5g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Xiaomi Redmi Note 13 Pro 5G has native HEVC support?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-black-friday-offer-secure-a-staggering-discount-of-700-off-on-the-premium-dell-xps-15-dont-miss-out/"><u>Exclusive Black Friday Offer! Secure a Staggering Discount of $700 Off on the Premium Dell XPS 15 - Don't Miss Out!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-insight-why-the-xbox-one-elite-series-2-stands-out-as-a-legendary-controller/"><u>Expert Insight: Why the Xbox One Elite Series 2 Stands Out as a Legendary Controller</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/incremental-file-backup-with-pst-support-simple-and-reliable-solution/"><u>Incremental File Backup with PST Support: Simple and Reliable Solution</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-money-with-exclusive-offers-best-buys-hottest-deals-for-prime-day-shoppers-guide/"><u>Maximize Your Money with Exclusive Offers: Best Buy's Hottest Deals for Prime Day Shoppers (Guide )</u></a></li>
+<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-top-choice-15-inch-macbook-air-now-at-a-steep-discount-save-250-today/"><u>Unbeatable Deal: Top Choice 15-Inch MacBook Air Now at a Steep Discount – Save $250 Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-the-power-of-alienwares-m18-exclusive-post-labor-day-discounts-await-on-this-incredible-gaming-machine/"><u>Unleash the Power of Alienware's M18: Exclusive Post-Labor Day Discounts Await on This Incredible Gaming Machine</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-immediate-savings-secure-200-off-todays-deal-on-apples-m1-macbook-air-insights-from-zdnet/"><u>Unlock Immediate Savings: Secure $200 Off Today's Deal on Apple’s M1 MacBook Air - Insights From ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/vobflv-movavi/"><u>영구제: 온라인 VOB/FLV 파일을 무료로 바꾸기 - Movavi</u></a></li>
+</ul></div>
 

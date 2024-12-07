@@ -1,7 +1,7 @@
 ---
 title: How Lenovo's Innovative Dual-Screen Laptop Transformed My Productivity - A Deep Dive by ZDNet
-date: 2024-11-25T20:06:21.963Z
-updated: 2024-11-27T19:39:23.324Z
+date: 2024-11-29T21:42:20.227Z
+updated: 2024-12-06T21:02:59.755Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Kerry Wan/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -44,10 +40,6 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications (as reviewed)
 
 | Dimensions            | 11.78 x 8.03 x 0.63 inches                                                                                                                                                                                                                                                                            |
@@ -61,6 +53,10 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 | Price                 | Starting at [$1,980](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-12-Core-i7-1360P-Fingerprint-Thunderbolt4%2Fdp%2FB0CR9S1KFL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C662ab0d3-0fc7-4094-a31e-3d04102aa8a9%7Cdtp&dtb=1) |
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
 
@@ -83,7 +79,7 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does it perform?
@@ -107,7 +103,7 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
@@ -131,7 +127,7 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## One thing to keep in mind
@@ -143,6 +139,10 @@ Max Buondonno/ZDNET
 When I'm working on my MacBook or -- quite frankly -- any other laptop in my arsenal, all I have to do is close the lid and load it into my backpack when I'm finished. With the Yoga Book 9i, I have to close the laptop > collapse the kickstand > place the keyboard inside the collapsed kickstand > stack the keyboard/kickstand combo, mouse, and stylus on top of the laptop > shove it all in my bag and pray I can find it later when it's time to go back to work.
 
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -182,20 +182,18 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-from-youtube-to-webm-unveiling-the-premium-converters/"><u>[New] 2024 Approved From YouTube to WebM Unveiling the Premium Converters</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-footage-frenzy-pro-vs-platinum-with-gopro-hero5-and-hero4/"><u>[Updated] Footage Frenzy Pro vs Platinum with GoPro Hero5 and Hero4</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-for-downloading-and-installing-intels-me-driver-suite-windows-11-81-and-7-edition/"><u>Comprehensive Guide for Downloading & Installing Intel's ME Driver Suite: Windows 11, 8.1 and 7 Edition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciding-the-best-code-companion-github-copilot-or-gpt/"><u>Deciding the Best Code Companion: GitHub Copilot or GPT?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-techkey-bluetooth-adapter-drivers-for-compatibility-with-windows-1078/"><u>Download the Latest TechKey Bluetooth Adapter Drivers for Compatibility with Windows 10/7/8</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720063153514-elevate-your-connections-effortlessly-with-our-driver-tools/"><u>Elevate Your Connections Effortlessly with Our Driver Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722954395527-get-the-latest-canon-imageclass-mf4800-driver-downloads-here/"><u>Get the Latest Canon ImageCLASS MF4800 Driver Downloads Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/getting-your-windows-10-devices-paired-with-bluetooth-problem-free-strategies-uncovered/"><u>Getting Your Windows 10 Devices Paired with Bluetooth: Problem-Free Strategies Uncovered</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/keeping-astro-at-its-peak-install-and-update-tips-for-windows-users/"><u>Keeping Astro at Its Peak: Install & Update Tips for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-hp-pagewide-477dw-printer-driver-software-for-modern-operating-systems/"><u>Latest HP PageWide 477DW Printer Driver Software for Modern Operating Systems</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/the-path-to-an-irresistible-cover-video-for-2024/"><u>The Path to an Irresistible Cover Video for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-upgrading-your-samsung-phones-usb-connectivity-software/"><u>The Ultimate Guide to Upgrading Your Samsung Phone's USB Connectivity Software</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-performant-screen-recording-software-compatible-with-windows-10-8-and/"><u>Top Performant Screen Recording Software Compatible with Windows 10, 8 & ^</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-or-freshly-install-epson-tm-c88v-drivers-for-optimal-performance-windows-edition/"><u>Upgrade or Freshly Install EPSON TM-C88V Drivers for Optimal Performance - Windows Edition</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-quintessential-screenplays-among-varied-genres/"><u>[New] In 2024, Quintessential Screenplays Among Varied Genres</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-navigating-the-needle-speed-of-videos-in-snapchat/"><u>[Updated] Navigating the Needle-Speed of Videos in Snapchat</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-explore-the-latest-in-video-compression-technology-with-these-46-new-tools/"><u>2024 Approved Explore the Latest in Video Compression Technology with These 46 New Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-canon-mg3620-drivers-easy-and-reliable-methods-for-your-computer/"><u>Download Canon MG3620 Drivers: Easy & Reliable Methods for Your Computer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-insignia-bluetooth-adapter-software-for-windows-systems/"><u>Get the Latest Insignia Bluetooth Adapter Software for Windows Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-google-pixel-7a-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Google Pixel 7a to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/irreparable-harm-how-intel-fails-on-non-k-core-series-beyond-64w-due-to-persistent-cpu-malfunctions/"><u>Irreparable Harm: How Intel Fails on Non-K Core Series Beyond 64W Due to Persistent CPU Malfunctions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/mastering-video-top-10-camcorders-reviewed/"><u>Mastering Video - Top 10 Camcorders Reviewed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigate-the-new-nvidia-driver-landscape-downloading-and-installing-on-windows-11-systems/"><u>Navigate the New NVIDIA Driver Landscape: Downloading and Installing on Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-complete-fixing-the-battery-control-driver-issue-in-msacpi-compliant-systems/"><u>Troubleshooting Complete: Fixing the Battery Control Driver Issue in MSACPI Compliant Systems</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unleashing-video-potential-with-effective-tagging-techniques-on-youtube/"><u>Unleashing Video Potential with Effective Tagging Techniques on YouTube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/worth-the-price-a-comprehensive-guide-to-minecraft-realms-benefits/"><u>Worth the Price? A Comprehensive Guide to Minecraft Realms Benefits</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-alternatives-round-up-top-3-contenders-for-2024/"><u>YouTube Alternatives Round-Up Top 3 Contenders for 2024</u></a></li>
 </ul></div>
 

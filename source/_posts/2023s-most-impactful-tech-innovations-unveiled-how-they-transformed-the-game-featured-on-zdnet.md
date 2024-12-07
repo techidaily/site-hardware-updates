@@ -1,7 +1,7 @@
 ---
 title: 2023'S Most Impactful Tech Innovations Unveiled | How They Transformed the Game - Featured on ZDNET
-date: 2024-11-23T18:13:45.731Z
-updated: 2024-11-27T18:41:20.669Z
+date: 2024-12-01T18:07:13.075Z
+updated: 2024-12-07T01:43:54.556Z
 tags:
   - laptops
 categories:
@@ -18,9 +18,17 @@ Whether you've been busy with the kids or catching up with the daily news on you
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [![CES 2023](https://www.zdnet.com/a/img/resize/28650a75dc1dd673042c63db5be340811e6ef8a4/2023/01/03/6f86bbf0-d65d-4f16-a4f2-699dfdc83419/ces-2023-header.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) CES 2023: The Biggest Trends for Pros Find all the exciting innovation from CES 2023 in this ZDNET special feature.  Read now](https://www.zdnet.com/topic/ces-2023-the-biggest-trends-for-pros/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 We've been on the ground for the second day of the [largest tech conference in the US](https://www.zdnet.com/article/zdnets-guide-to-ces-what-is-it-and-who-can-attend/), bringing you the best of the announcements. 
 
@@ -33,6 +41,10 @@ And, if you're still waiting to hear from some major companies, keep checking ba
 ## LG saves its biggest (and best) TV for last
 
 ![LG 97-inch M3 OLED smart webOS TV](https://www.zdnet.com/a/img/resize/506f09c228df659cacc5d524977b1b805c7b4dca/2023/01/03/6f43e8d1-cf31-43f8-b6cd-25bc58e9cb75/97m3-image-4.jpg?auto=webp&fit=crop&height=360&width=640)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 LG
 
@@ -48,10 +60,6 @@ In addition to a new line of [eco-friendly laptops for workers and students](htt
 
 Check the [high-end specs of the Vibe CX34 Chromebook here](https://www.zdnet.com/article/asus-new-vibe-cx34-gaming-chromebook-brings-some-high-end-specs/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The year of the smart toilet sensor
 
 Withings
@@ -60,10 +68,6 @@ Post-pandemic life has seen a surge in interest in personal health tech, and thi
 
 Learn more about the new [smart toilet sensors here](https://www.zdnet.com/home-and-office/smart-home/ces-2023-sees-the-launch-of-two-smart-toilet-sensors/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MSI drops new laptops for gamers and creatives
 
 MSI
@@ -71,7 +75,7 @@ MSI
 Fans of the [MSI gaming laptop family](https://us.msi.com/), rejoice -- new models of fan favorites like the Stealth, Pulse, Raider, and Vector laptops were announced this morning. You should be able to preorder these gaming powerhouses shortly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Roku and Hisense offer new models and upgrades
@@ -82,6 +86,10 @@ While [Hisense upgraded its U8 line's picture](https://www.zdnet.com/home-and-of
 
 Read more about [Roku making its own TVs](https://www.zdnet.com/home-and-office/home-entertainment/ces-2023-roku-to-begin-offering-its-own-tv-builds-this-year/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Samsung adds new security software with Knox Matrix
 
 Samsung
@@ -91,10 +99,6 @@ In an exclusive interview  Editor-in-Chief Jason Hiner, Samsung security leader 
 Check out the article version of the interview [here](https://www.zdnet.com/article/samsung-has-a-plan-to-lock-down-all-of-the-smart-devices-in-your-house/), or watch the [video interview with Shin Baik](https://www.zdnet.com/article/samsung-has-a-plan-to-lock-down-all-of-the-smart-devices-in-your-house/).
 
 **Also:** [**What's in the tech bag ZDNET's EIC takes to CES?**](https://www.zdnet.com/article/what-tech-is-in-the-ces-2023-bag-of-zdnets-editor-in-chief/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## HP focuses on sustainability and hybrid work with new laptops
 
@@ -111,10 +115,6 @@ Bird Buddy
 You're used to indoor appliances with smart features, but now with the Bird Buddy hummingbird feeder, you'll be able to track who's coming to snack at your feeding stations. Don't worry -- while they're not squirrel-proof, they're designed to handle a visit from both feathered and furry friends.
 
 Read more about the [Bird Buddy smart feeders featured this year](https://www.zdnet.com/home-and-office/yard-outdoors/ces-2023-this-new-smart-bird-feeder-can-capture-up-close-images-of-hummingbirds/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## HyperX debuts new gaming mice
 
@@ -170,15 +170,21 @@ If you want the best of the news, you can see the highlights of [Day 1 of CES 20
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/10-top-ranked-youtube-news-entities-for-2024/"><u>10 Top-Ranked YouTube News Entities for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/advanced-hardware-breakdowns-and-comparisons-tom-edition/"><u>Advanced Hardware Breakdowns and Comparisons - Tom Edition</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-announces-ryzen-ai-laptop-lineup-highlighting-the-rzne-ai-9-hx-370-and-rzne-ai-9-365-for-enthusiasts-in-tuf-gaming-rog-zephyrus-and-zenbook-models/"><u>Asus Announces Ryzen AI Laptop Lineup: Highlighting the RZne AI 9 HX 370 & RZne AI 9 365 for Enthusiasts in TUF Gaming, ROG Zephyrus, and Zenbook Models</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-unveils-combination-of-intel-and-amd-cpus-introducing-the-luxurious-zenbook-s-and-tuf-a14/"><u>Asus Unveils Combination of Intel and AMD CPUs: Introducing the Luxurious Zenbook S and TUF A14</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-zenbook-duo-faces-potential-competitor-with-teaser-of-gpds-latest-dual-display-oled-laptop-innovation/"><u>ASUS ZenBook Duo Faces Potential Competitor with Teaser of GPD's Latest Dual-Display OLED Laptop Innovation</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/from-windows-10-home-jump-to-premium-version-guide/"><u>From Windows 10 Home: Jump to Premium Version Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-apple-iphone-12-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your Apple iPhone 12 Apple ID and Apple Pay</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unlocking-apples-stealthy-smart-radio-technology-within-macs-and-ipads/"><u>Unlocking Apple's Stealthy Smart Radio Technology Within Macs and iPads</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-from-full-size-photos-to-miniature-expert-thumbnail-crafting/"><u>[New] 2024 Approved From Full-Size Photos to Miniature Expert Thumbnail Crafting</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-dynamic-unpriced-visual-bonding-games/"><u>[New] In 2024, Dynamic Unpriced Visual Bonding Games</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-reawakening-dormant-connections-with-your-obs-cam/"><u>[Updated] 2024 Approved Reawakening Dormant Connections with Your OBS Cam</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-comparing-apowersoft-and-more-a-screen-capture-deep-dive/"><u>[Updated] In 2024, Comparing Apowersoft & More A Screen Capture Deep Dive</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1-lenovo-ideapad-gaming-chromebook-unveiled-exploring-the-real-limits-of-cloud-based-gaming-performance-insights/"><u>1. Lenovo IdeaPad Gaming Chromebook Unveiled: Exploring the Real Limits of Cloud-Based Gaming Performance - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-black-friday-offer-secure-a-staggering-discount-of-700-off-on-the-premium-dell-xps-15-dont-miss-out/"><u>Exclusive Black Friday Offer! Secure a Staggering Discount of $700 Off on the Premium Dell XPS 15 - Don't Miss Out!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fix-msidll-missing-error-on-your-pc-step-by-step-troubleshooting/"><u>Fix MSI.DLL Missing Error on Your PC - Step-by-Step Troubleshooting</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-total-insight-navigating-through-googles-podcast-app/"><u>In 2024, Total Insight Navigating Through Google's Podcast App</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-money-with-exclusive-offers-best-buys-hottest-deals-for-prime-day-shoppers-guide/"><u>Maximize Your Money with Exclusive Offers: Best Buy's Hottest Deals for Prime Day Shoppers (Guide )</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/secrets-of-windows-10-effortless-media-importation-methods/"><u>Secrets of Windows 10 Effortless Media Importation Methods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sparkle-in-your-ads-20-most-effective-marketing-terms-for-2024/"><u>Sparkle in Your Ads 20 Most Effective Marketing Terms for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210761854-9781604074642-the-guru-question/"><u>The Guru Question | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-top-choice-15-inch-macbook-air-now-at-a-steep-discount-save-250-today/"><u>Unbeatable Deal: Top Choice 15-Inch MacBook Air Now at a Steep Discount – Save $250 Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-the-power-of-alienwares-m18-exclusive-post-labor-day-discounts-await-on-this-incredible-gaming-machine/"><u>Unleash the Power of Alienware's M18: Exclusive Post-Labor Day Discounts Await on This Incredible Gaming Machine</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-immediate-savings-secure-200-off-todays-deal-on-apples-m1-macbook-air-insights-from-zdnet/"><u>Unlock Immediate Savings: Secure $200 Off Today's Deal on Apple’s M1 MacBook Air - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upcoming-prime-day-specials-ultimate-best-buy-deals-featured/"><u>Upcoming Prime Day Specials - Ultimate Best Buy Deals Featured</u></a></li>
 </ul></div>
 

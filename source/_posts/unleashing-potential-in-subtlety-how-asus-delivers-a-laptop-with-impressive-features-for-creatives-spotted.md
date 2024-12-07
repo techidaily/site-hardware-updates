@@ -1,7 +1,7 @@
 ---
 title: Unleashing Potential in Subtlety - How Asus Delivers a Laptop with Impressive Features for Creatives, Spotted
-date: 2024-11-20T18:02:07.545Z
-updated: 2024-11-27T17:04:59.861Z
+date: 2024-12-02T03:42:42.056Z
+updated: 2024-12-07T02:06:01.358Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,22 +112,22 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-examination-the-top-tier-ar-parrot-drone-20/"><u>[New] Examination The Top-Tier AR Parrot Drone 2.0</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-androidios-video-cutting-edge-8-top-montage-tools-revealed/"><u>2024 Approved Android/iOS Video Cutting-Edge 8 Top Montage Tools Revealed</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-seamless-transitions-with-picsarts-facial-motion-blur/"><u>2024 Approved Seamless Transitions with Picsart's Facial Motion Blur</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/aid-to-the-poorest-foundation-danny-colombia-way/"><u>Aid to the Poorest: Foundation Danny Colombia Way</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/cant-sleep-after-discovering-a-metaverse-lover-on-zdnet-a-deep-dive-into-virtual-reality-obsessions/"><u>Can't Sleep After Discovering a Metaverse Lover on ZDNet - A Deep Dive Into Virtual Reality Obsessions</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/led-steps-to-supercharge-your-youtube-audio-content-for-2024/"><u>Detailed Steps to Supercharge Your YouTube Audio Content for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722977613689-download-compatible-drivers-for-your-insignia-usb-network-adapter-today/"><u>Download Compatible Drivers for Your Insignia USB Network Adapter Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-download-and-setup-of-wacom-intuos-pro-driver-for-enhanced-performance-on-windows-nix-systems/"><u>Easy Download and Setup of Wacom Intuos Pro Driver for Enhanced Performance on Windows Nix Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-latest-epson-wf-7710-driver-software-compatible-with-win-118187-download/"><u>Get Latest Epson WF-7710 Driver Software Compatible with Win 11/8.1/8/7 [DOWNLOAD]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-free-arduino-mega-2560-firmware-download-fast-and-simple/"><u>Get Your Free Arduino Mega 2560 Firmware Download - Fast and Simple</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-installing-updated-razer-graphicsaudio-drivers-on-multiple-os-versions/"><u>Guide: Installing Updated Razer Graphics/Audio Drivers on Multiple OS Versions</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-iphone-13-pro-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your iPhone 13 Pro without Security Questions?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-newest-tp-link-wireless-ac-networking-driver-compatible-with-windows-os-version-11-8-and-7/"><u>Install Newest TP-Link Wireless AC Networking Driver | Compatible with Windows OS (Version 11, 8 & 7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-seagate-backup-plus-essential-advice-and-hacks-success/"><u>Mastering Seagate Backup Plus: Essential Advice and Hacks Success</u></a></li>
-<li><a href="https://howto.techidaily.com/oneplus-nord-n30-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Nord N30 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-guide-to-resolving-computer-mute-problems-and-reconnecting-speakers/"><u>Quick-Fix Guide to Resolving Computer Mute Problems and Reconnecting Speakers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamlessly-update-dell-monitor-software-for-optimal-performance/"><u>Seamlessly Update Dell Monitor Software for Optimal Performance</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-elevate-video-performance-top-notch-youtube-seo-strategies/"><u>[New] 2024 Approved Elevate Video Performance Top-Notch YouTube SEO Strategies</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-best-youtube-ad-creators-for-2024/"><u>[New] Best YouTube Ad Creators for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-step-by-step-live-stream-via-network-in-vlc/"><u>[New] Step-by-Step Live Stream via Network in VLC</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/easy-methods-for-transferring-files-between-computers-using-windows-1187-operating-systems/"><u>Easy Methods for Transferring Files Between Computers Using Windows 11/8/7 Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-the-charm-of-natural-aesthetics-with-fractals-miniature-terra-gaming-rig-enjoy-adjustable-support-and-wood-accents/"><u>Experience the Charm of Natural Aesthetics with Fractal's Miniature Terra Gaming Rig - Enjoy Adjustable Support & Wood Accents!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-insights-on-pc-components-by-toms-electronics-hub/"><u>Expert Insights on PC Components by Tom's Electronics Hub</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/exploring-new-realms-a-detailed-jaunt-vr-review-for-2024/"><u>Exploring New Realms A Detailed Jaunt VR Review for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-latest-in-computer-hardware-with-tom-authoritative-guides-and-top-picks/"><u>Exploring the Latest in Computer Hardware with Tom - Authoritative Guides & Top Picks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-world-of-computers-with-toms-system-review/"><u>Exploring the World of Computers with Tom's System Review</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-s17t-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Vivo S17t to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723964479036-lian-li-lancool-iii-computer-chassis-now-at-an-unbeatable-price-just-119/"><u>Lian Li Lancool III Computer Chassis Now at an Unbeatable Price: Just $119!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/m4bmkvmovavi/"><u>M4B到MKV无线翻制：使用Movavi转换器获得高效转换</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-expert-analysis-comprehensive-guides-to-advanced-computer-hardware/"><u>Tom's Expert Analysis: Comprehensive Guides to Advanced Computer Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-hardware-explored-the-ultimate-guide-to-tech-and-gadgets/"><u>Tom's Hardware Explored: The Ultimate Guide to Tech and Gadgets</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-expert-reviews-and-advice/"><u>Tom's Tech Insights: Expert Reviews & Advice</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-langchain-and-large-language-models/"><u>Understanding LangChain and Large Language Models</u></a></li>
 </ul></div>
 

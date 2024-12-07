@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Charging Experience with the 140W Multi-Device Companion - Now Available!
-date: 2024-11-26T20:12:55.289Z
-updated: 2024-11-27T18:32:51.083Z
+date: 2024-11-30T02:33:23.700Z
+updated: 2024-12-07T03:42:30.160Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ Here are some of the most interesting features I saw during my hands-on briefing
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Smart Share
@@ -61,7 +61,7 @@ Kyle Kucharski/ZDNET
 Besides the Smart Share features, there are four different "modes" that activate various features. You can toggle each feature on or off individually, to avoid being bombarded with different prompts. Here are the most impactful ones I saw during my time trying the new laptops.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shield Mode
@@ -70,7 +70,7 @@ Besides the Smart Share features, there are four different "modes" that activate
 * The VPN auto-launch feature will start your preferred VPN automatically upon connecting to any public Wi-Fi network, a handy function if you spend a lot of time working in coffee shops.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Attention Mode
@@ -80,7 +80,7 @@ Besides the Smart Share features, there are four different "modes" that activate
 Kyle Kucharski/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Collaboration Mode
@@ -88,7 +88,7 @@ Kyle Kucharski/ZDNET
 * Designed mostly for virtual meetings, activating this mode enables your preset camera features, such as background blur, low light enhancer, or touch ups.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Wellness Mode
@@ -133,22 +133,19 @@ We'll definitely be doing some additional testing of the smart modes when we get
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-leading-8-tools-for-subtitle-srt-format-switching/"><u>[New] In 2024, Leading 8 Tools for Subtitle-SRT Format Switching</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-simplified-guide-to-using-virtual-whiteboards-in-zoom-platforms-for-2024/"><u>[New] Simplified Guide to Using Virtual Whiteboards in Zoom Platforms for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-unlocking-the-potential-of-recording-google-voice-calls/"><u>[New] Unlocking the Potential of Recording Google Voice Calls</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-from-phone-to-professional-recording-diy-tips-and-tricks-for-2024/"><u>[Updated] From Phone to Professional Recording DIY Tips and Tricks for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-pce-ac56-driver-troubleshooting-guide-for-windows-users-improved-solutions/"><u>ASUS PCE-AC56 Driver Troubleshooting Guide for Windows Users [IMPROVED SOLUTIONS]</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/convenient-techniques-for-customizing-your-own-short-videos-for-2024/"><u>Convenient Techniques for Customizing Your Own Short Videos for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/delving-into-history-how-far-does-the-timeline-of-artificial-intelligence-go-back/"><u>Delving Into History: How Far Does the Timeline of Artificial Intelligence Go Back?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-download-and-install-insignia-usb-ethernet-adapter-drivers/"><u>Easy Guide: Download & Install Insignia USB-Ethernet Adapter Drivers</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-canon-mf4500-driver-free-download-steps/"><u>Get Your Canon MF4500 Driver - Free Download Steps</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How To Activate and Use Life360 Ghost Mode On Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-your-canon-ip110-working-on-windows-101187-download-drivers-here/"><u>How to Get Your Canon iP110 Working on Windows 10/11/8/7 - Download Drivers Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-compatible-nvidia-quadro-graphics-drivers-for-windows-11-with-direct-clipboard-handling-dch-free-download/"><u>Latest Compatible NVIDIA Quadro Graphics Drivers for Windows 11 with Direct Clipboard Handling (DCH) - Free Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-microsoft-driver-installation-on-windows-1187/"><u>Step-by-Step Guide: Microsoft Driver Installation on Windows 11/8/7</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-ai-oversight-navigating-the-future-of-artific/"><u>Understanding AI Oversight: Navigating the Future of Artific</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-to-the-latest-intel-wireless-network-adapter-software-on-windows/"><u>Update to the Latest Intel Wireless Network Adapter Software on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updated-and-complete-guide-downloading-the-epson-xp-420-printer-driver-update/"><u>Updated & Complete Guide: Downloading the Epson XP-420 Printer Driver Update</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-craft-standout-videos-mastery-of-youtube-thumbnail-dimensions-for-2024/"><u>[Updated] How to Craft Standout Videos Mastery of YouTube Thumbnail Dimensions for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-estimate-income-from-youtube-video-snippets/"><u>[Updated] How to Estimate Income From YouTube Video Snippets</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-how-to-get-paid-to-review-products-on-youtube/"><u>2024 Approved How to Get Paid to Review Products on YouTube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/deep-dive-into-toms-digital-hardware-solutions/"><u>Deep Dive Into Tom's Digital Hardware Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-insights-on-pc-components-by-toms-technology-hub/"><u>Expert Insights on PC Components by Tom’s Technology Hub</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-a-surface-pro-not-connecting-to-wi-fi/"><u>How to Fix a Surface Pro Not Connecting to Wi-Fi</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-poco-m6-pro-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Poco M6 Pro 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-versatile-10-applications-beyond-official-game-bar/"><u>In 2024, Versatile 10 Applications Beyond Official Game Bar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-look-at-crucials-p31ssd-unlocking-higher-velocity-on-m2-2280-formats/"><u>In-Depth Look at Crucial's P31_SSD: Unlocking Higher Velocity on M.2 2280 Formats</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-toms-hardware-comprehensive-guides-for-tech-enthusiasts/"><u>Inside Tom's Hardware: Comprehensive Guides for Tech Enthusiasts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-vivo-v30-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Vivo V30 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-tech-with-tom-comprehensive-hardware-analysis/"><u>Navigating Tech with Tom - Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-10-essential-movie-trailer-apps-for-ios-devices-this-year/"><u>New 10 Essential Movie Trailer Apps for iOS Devices This Year</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-have-you-ever-tried-using-the-premiere-pro-motion-blur-plugin-read-this-article-to-learn-how-to-efficiently-use-the-reelsmart-motion-blur-plugin-in-/"><u>Updated Have You Ever Tried Using the Premiere Pro Motion Blur Plugin? Read This Article to Learn How to Efficiently Use the ReelSmart Motion Blur Plugin in Premiere Pro</u></a></li>
 </ul></div>
 

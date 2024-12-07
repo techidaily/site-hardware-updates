@@ -1,7 +1,7 @@
 ---
 title: Top Durable Laptop Picks - Recommendations by ZDNet
-date: 2024-11-25T18:55:36.627Z
-updated: 2024-11-27T19:10:46.681Z
+date: 2024-12-02T03:23:06.407Z
+updated: 2024-12-06T18:47:31.653Z
 tags:
   - laptops
 categories:
@@ -22,17 +22,9 @@ You can even find rugged laptops with enterprise-level security software, which 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best rugged laptop right now?
 
 We've tested and researched some of the best rugged laptops on the market. Our top pick for the best rugged laptop is the [Getac S510](https://www.getac.com/us/products/laptops/s510/#product-info) for its highly configurable options for shock, drop, moisture, and dust resistance as well as options for multiple storage drives, touchscreen, and even dual SIM, 4G/5G LTE connectivity, and GPS tracking. Keep reading below to find out more about the Getac S510 as well as our other top picks for the best rugged laptops.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best rugged laptops of 2024
 
@@ -50,11 +42,11 @@ Cons
 * Very expensive
 * Not consumer grade
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Getac S510
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best rugged laptop overall
 
@@ -80,6 +72,10 @@ Pros
 Cons 
 * Very expensive
 * No AMD option
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Panasonic ToughBook 40 Mk2
 
@@ -138,6 +134,10 @@ Cons
 
 ## Asus ZenBook Pro Duo 15 OLED
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best rugged laptop splurge
 
 If money is no object in your quest to get a durable laptop, the Asus ZenBook Pro Duo 15 OLED is an almost perfect, high-end model for professionals and students. It features Asus' revolutionary dual-screen design, giving you a 15.6-inch main 4K OLED display and a secondary 4K ScreenPad. This offers you the same benefits as a multi-monitor desktop setup in a single unit. The ScreenPad can be set up with shortcuts to your most-used apps and files, shortcuts for brushes and effects in Photoshop, or monitoring CPU usage and component temperatures. 
@@ -168,10 +168,14 @@ Cons
 * No touchscreen option
 * No Intel option
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Asus TUF A14
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best rugged laptop for gaming
@@ -195,6 +199,10 @@ I chose the Getac S510 as the best rugged laptop for its highly customizable con
 | Panasonic Toughbook 40 Mk2   | $4,700              | Up to 2TB SSD | Up to Intel Core Ultra 7 165H |
 | Asus ZenBook Pro Duo 15 OLED | $1,700              | 1TB SSD       | Intel Core i7-12700H          |
 | Asus TUF A14                 | $1,400              | 1TB SSD       | AMD Ryzen 7 8845HS            |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which rugged laptop is right for you?
 
@@ -220,15 +228,15 @@ Laptop manufacturers helpfully label these systems as "semi-rugged" or "rugged,"
 
 The rugged laptops listed here are from major manufacturers in the space (Dell, Panasonic, Getac), including some with which ZDNET staff have had hands-on experience. For more on how we test laptops, check out our comprehensive [laptop testing methodology](https://www.zdnet.com/article/how-we-test-laptops/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What does "rugged laptop" mean?
 
 A rugged laptop, sometimes listed as a "ruggedized" laptop, is a computer that is built specifically to handle extreme situations and weather conditions. Many rugged laptops are water- and dirt-resistant, resistant to drops and shocks, and can operate in both very hot and very cold temperatures. 
 
 These kinds of laptops are great for anyone who has to work outdoors for any length of time, such as people at construction sites, on geological surveys, and in the military.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What does "military grade" mean?
 
@@ -236,17 +244,9 @@ A laptop that is listed as "military grade" doesn't necessarily mean that it was
 
 Laptops meant for military use are more rigorously tested against a laundry list of conditions, while commercially available laptops labeled "military grade" are only tested against a few of the MIL-STD-810 standards.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does Apple make a rugged laptop?
 
 At the time of writing, Apple does not have a ruggedized version of any of their MacBooks for sale, either through their official store or authorized sellers. You can, however, purchase rugged cases like the [Urban Armor Gear](https://www.amazon.com/URBAN-ARMOR-GEAR-Feather-Light-Translucent/dp/B08M5KWNW4/?tag-zdnet-deals-20) for the 13-inch MacBook Pro, the [Ibenezer case](https://www.amazon.com/dp/B07D848J6V/?tag-zdnet-deals-20) for the 13-inch MacBook Air, or the [Pelican 1085](https://www.amazon.com/Pelican-1095CC-Laptop-Case-Liner/dp/B006C21MCU/?tag-zdnet-deals-20) hardshell carrying case.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## More rugged laptops to consider
 
@@ -268,6 +268,10 @@ Show less
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Getac B360
 
 I got the chance to test out the Getac B360 and saw first-hand just how tough it really is. Weighing in at a hefty 5.1 pounds, it's both MIL-STD-810H and MIL-STD-416G certified for shock and moisture resistance and can be customized for salt fog and Class I electrical hazard certification. 
@@ -279,10 +283,6 @@ Show less
 [View now at Panasonic](https://connect.na.panasonic.com/toughbook/rugged-computers/toughbook-55)
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Panasonic Toughbook 55
 
@@ -320,18 +320,20 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-navigating-the-market-of-dronescopic-stabilizers-for-2024/"><u>[New] Navigating the Market of Dronescopic Stabilizers for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gimp-tutorial-mastering-filters-and-layers/"><u>[Updated] GIMP Tutorial Mastering Filters & Layers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-is-it-illegal-to-screen-capture-youtube-videos/"><u>[Updated] Is It Illegal to Screen-Capture YouTube Videos?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-start-with-zoom-your-initial-steps-into-webinar-hosting-for-2024/"><u>[Updated] Start with Zoom Your Initial Steps Into Webinar Hosting for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/1-gratis-aomei-software-fur-effizientes-incremental-and-differential-backup/"><u>1. Gratis AOMEI-Software Für Effizientes Incremental & Differential Backup</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-nvidia-geforce-rtx-30-series-drivers-for-windows-11-quick-and-secure/"><u>Download NVIDIA GeForce RTX 30 Series Drivers for Windows 11 - Quick & Secure</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-download-and-install-official-sony-vaio-drivers-for-your-windows-system/"><u>Easy Steps to Download and Install Official Sony Vaio Drivers for Your Windows System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722979130044-get-your-thrustmaster-t150-stealth-plus-gamepad-up-and-running-fast-driver-downloads/"><u>Get Your Thrustmaster T150 Stealth Plus Gamepad Up and Running - Fast Driver Downloads!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-motorola-edge-40-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Motorola Edge 40</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-toms-gadget-guide-expert-insights-into-pc-hardware-and-software/"><u>Inside Tom's Gadget Guide: Expert Insights Into PC Hardware and Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-your-logitech-sound-card-drivers-today-supports-win-11-7-and-8-systems/"><u>Install Your Logitech Sound Card Drivers Today! Supports Win 11, 7, and #8 Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/toms-tech-insights-comprehensive-computer-hardware-guide/"><u>Tom's Tech Insights: Comprehensive Computer Hardware Guide</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-best-10-emoji-makers-to-create-your-own-emojis-pconlineandroidiphone-for-2024/"><u>Updated Best 10 Emoji Makers to Create Your Own Emojis PC/Online/Android/iPhone for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-single-frame-snipping-capturing-stillness-from-videos-in-photos/"><u>[Updated] Single-Frame Snipping Capturing Stillness From Videos in Photos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-intellectual-arena-premier-knowledge-games/"><u>2024 Approved Intellectual Arena - Premier Knowledge Games</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-learn-vfx-for-free-mastering-the-art-of-background-substitution-through-4-innovative-video-tutorials/"><u>2024 Approved Learn VFX for Free Mastering the Art of Background Substitution Through 4 Innovative Video Tutorials</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-oppo-reno-8t-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Oppo Reno 8T 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-samsung-galaxy-s23-tactical-edition-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Samsung Galaxy S23 Tactical Edition to Roku | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Samsung Galaxy S23 Tactical Edition?</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/reconstruct-ext4ext3-volumes-on-windows-systems-a-step-by-step-guide/"><u>Reconstruct Ext4/Ext3 Volumes on Windows Systems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionizing-gameplay-tcls-new-100nhz-4k-gaming-monitor-hits-the-market/"><u>Revolutionizing Gameplay: TCL's New 1,00nHZ 4K Gaming Monitor Hits the Market</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-a-steal-immersive-qhd-gaming-experience-on-the-affordable-dell-ips-monitor-at-199/"><u>Score a Steal - Immersive QHD Gaming Experience on the Affordable Dell IPS Monitor at $199</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-ultimate-gamingproductivity-screen-the-samsung-pixel-dense-viewfinity-s9-monitor-with-stunning-5k-display-and-inbuilt-4k-cam-now-at-an-unbelievable38/"><u>Snag the Ultimate Gaming/Productivity Screen: The Samsung Pixel-Dense ViewFinity S9 Monitor with Stunning 5K Display & Inbuilt ^4K Cam – Now at an Unbelievable $899 Price, Save 44%!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superior-windows-8-podcast-apps-overview-for-2024/"><u>Superior Windows 8 Podcast Apps Overview for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-tech-comparison-guide-a-deep-dive-into-computer-hardware/"><u>The Ultimate Tech Comparison Guide: A Deep Dive Into Computer Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-gadget-guide-in-depth-analysis-of-computer-components/"><u>Tom's Gadget Guide: In-Depth Analysis of Computer Components</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-gear-the-ultimate-guide-to-hardware-reviews/"><u>Tom's Tech Gear: The Ultimate Guide to Hardware Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-exploring-the-latest-in-computer-components/"><u>Tom's Tech Hub: Exploring the Latest in Computer Components</u></a></li>
 </ul></div>
 

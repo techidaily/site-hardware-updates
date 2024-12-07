@@ -1,7 +1,7 @@
 ---
 title: "Asus' Discreet Marvel: A Design That Hides Stellar Creative Capabilities Revealed by ZDNet"
-date: 2024-11-25T18:29:21.384Z
-updated: 2024-11-27T19:40:04.900Z
+date: 2024-12-04T16:36:23.395Z
+updated: 2024-12-07T03:13:06.839Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,22 +112,16 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-from-hobby-to-hustle-making-money-with-videos/"><u>[Updated] From Hobby to Hustle Making Money with Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-ideal-timing-aids-the-best-clock-apps-for-your-big-day/"><u>[Updated] Ideal Timing Aids The Best Clock Apps For Your Big Day</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-achieving-youtube-earnings-excellence-strategies-and-beyond/"><u>[Updated] In 2024, Achieving YouTube Earnings Excellence - Strategies and Beyond</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-make-a-mark-with-your-first-cool-mac-video-post-on-youtube/"><u>[Updated] Make a Mark with Your First Cool Mac Video Post on YouTube</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-peering-into-popularity-instagram-analytics-for-you/"><u>2024 Approved Peering Into Popularity Instagram Analytics for You</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-the-power-of-filmora-for-effective-avi-to-gif-conversion/"><u>2024 Approved Unlock the Power of Filmora for Effective AVI-to-GIF Conversion</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-rx-580-driver-update-made-simple-secure-your-graphics-card-with-latest-software-now/"><u>AMD RX 580 Driver Update Made Simple - Secure Your Graphics Card with Latest Software Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722974831809-boost-your-pcs-display-quality-now-download-the-newest-amd-radeon-r5-drivers-for-windows-users/"><u>Boost Your PC's Display Quality Now - Download the Newest AMD Radeon R5 Drivers for Windows Users!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-imageclass-mf4800-printer-drivers-download-and-installation-guide/"><u>Canon ImageCLASS MF4800 Printer Drivers: Download & Installation Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/downloadmicrosoft-wireless-mouse-5000-drivereasily-and-quickly/"><u>Download|Microsoft Wireless Mouse 5000 Driver|Easily & Quickly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-epson-ds-530-driver-software-downloads-for-windows-10-x64-systems/"><u>Free Epson DS-530 Driver Software Downloads for Windows 10 X64 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-updating-your-logitech-wireless-mouse-drivers-on-microsofts-operating-system/"><u>Guide: Updating Your Logitech Wireless Mouse Drivers on Microsoft's Operating System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/logitech-g-pro-controller-download-latest-drivers-for-all-windows-versions-11-10-8-and-7/"><u>Logitech G Pro Controller: Download Latest Drivers for All Windows Versions (11, 10, 8 & 7)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavi-video-editor-mac-pc/"><u>Movavi Video Editor 사용: 최신 Mac 및 PC에서 비주얼을 만들기</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/cket-your-channel-navigating-through-youtube-stats/"><u>Skyrocket Your Channel Navigating Through YouTube Stats</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-complete-battleye-installation-now-running-smoothly/"><u>Troubleshooting Complete: BattlEye Installation Now Running Smoothly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updating-your-canon-pixma-mg2530-how-to-get-the-newest-driver-version/"><u>Updating Your Canon PIXMA MG2530: How To Get The Newest Driver Version</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-reign-as-a-tycoon-champion-with-our-12-must-play-games-for-2024/"><u>[New] Reign as a Tycoon Champion with Our #12 Must-Play Games for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-a-comprehensive-introduction-to-quantum-hdr-principles-for-2024/"><u>[Updated] A Comprehensive Introduction to Quantum HDR Principles for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/6auy55s76loq5yyw44og44kv44ol44od44kv77ya5okq44gp6icb44ge44gf5yuv55s744ks44oq44ov44kh44kk44oz44gz44kl44k544oi44op44og44k444o8/"><u>高画質化テクニック：悪く老いた動画をリファインするストラテジー</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/achieving-unprecedented-performance-my-journey-to-taming-and-supercharging-the-amd-ryzen-nine-3900x/"><u>Achieving Unprecedented Performance: My Journey to Taming and Supercharging the AMD Ryzen Nine 3900X</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-high-performance-pcs-with-toms-technology-insights/"><u>Exploring High-Performance PCs with Tom's Technology Insights</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-leading-movie-teasers-highlighted/"><u>In 2024, Leading Movie Teasers Highlighted</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-power-of-language-20-words-and-phrases-that-transform-your-marketing/"><u>In 2024, The Power of Language 20 Words and Phrases That Transform Your Marketing</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-from-lol-to-omg-the-best-meme-generator-apps-for-mobile-for-2024/"><u>New From LOL to OMG The Best Meme Generator Apps for Mobile for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-boosting-performance-with-raspberry-pi-zero-2-overclocking/"><u>Step-by-Step Guide: Boosting Performance with Raspberry Pi Zero 2 Overclocking</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/world-record-shattered-by-intel-core-i9-14900kf-approaching-the-speed-of-91ghz/"><u>World Record Shattered by Intel Core I9-14900KF: Approaching the Speed of 9.1GHz</u></a></li>
 </ul></div>
 

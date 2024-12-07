@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Deal: Save $300 on the Asus VivoBook Pro - Now Available Exclusively on Amazon"
-date: 2024-11-23T19:07:42.179Z
-updated: 2024-11-27T20:14:18.047Z
+date: 2024-12-03T18:34:19.265Z
+updated: 2024-12-06T20:19:15.603Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What is the deal?
@@ -31,7 +31,7 @@ The [Lenovo Legion Pro 5i](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=h
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -73,7 +73,7 @@ The power cable has an extensive power supply; it's a little bit larger than my 
 The [Lenovo Legion Pro 5i](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-pro-series%2Flegion-pro-5i-gen-8-%2816-inch-intel%29%2Flen101g0024&publisher_slug=itechdaily19598&exclusive=1) base configuration starts at $1,260, while the top configuration retails for $1,800\. The configuration I was sent for testing will cost you around $1,450, which is a very decent value for the components and performance you'll get.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -110,17 +110,15 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-mastering-the-art-of-saving-twitter-jokes-gifs/"><u>[New] In 2024, Mastering the Art of Saving Twitter Jokes (GIFs)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-kinetic-mastery-in-your-pocket-a-2023-review-of-kinemaster-on-android/"><u>[Updated] Kinetic Mastery in Your Pocket A 2023 Review of KineMaster on Android</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unlocking-fb-video-content-with-1-5-downloaders/"><u>2024 Approved Unlocking FB Video Content with #1-5 Downloaders</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-improve-your-surface-book-with-latest-driver-software/"><u>Download and Improve Your Surface Book with Latest Driver Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-newest-version-of-corsair-k55-drivers-today/"><u>Download and Install the Newest Version of Corsair K55 Drivers Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-install-guide-downloading-and-setting-up-the-newest-epson-wf-3520-driver-on-windows-os/"><u>Easy Install Guide: Downloading and Setting up the Newest Epson WF-3520 Driver on Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-or-install-epson-et-2750-printer-drivers-on-a-pc/"><u>How to Update or Install Epson ET-2750 Printer Drivers on a PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harmonizing-iphone-with-the-world-of-podcasts/"><u>In 2024, Harmonizing iPhone with the World of Podcasts</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-the-smooth-watchers-guide-to-pacing-down-videos-on-youtube-60-chars-minor-exception-due-to-title-length-but-provides-rich-context/"><u>In 2024, The Smooth Watcher's Guide to Pacing Down Videos on YouTube (60 Chars, Minor Exception Due to Title Length but Provides Rich Context)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-firmware-upgrade-for-canon-ts6220-series-printers-windows-compatible/"><u>Latest Firmware Upgrade for Canon TS6220 Series Printers (Windows Compatible)</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-backstage-tickets-to-pre-starfield-revelations/"><u>The Backstage Tickets to Pre-Starfield Revelations</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/top-7-solutions-to-overcome-the-stuck-loading-screen-in-forza-horizon-5/"><u>Top 7 Solutions to Overcome the Stuck Loading Screen in Forza Horizon 5</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-artists-toolbox-essential-video-tips-for-musicians-on-youtube/"><u>[New] The Artist's Toolbox Essential Video Tips for Musicians on YouTube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-funny-frenzy-top-10-tweets/"><u>[Updated] Funny Frenzy Top 10 Tweets</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-lenovo-driver-update-for-optimal-windows-n-compatibility/"><u>Download the Newest Lenovo Driver Update for Optimal Windows N Compatibility</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-device-ready-top-generic-bluetooth-driver-updates-and-download-options-for-windows-users/"><u>Get Your Device Ready: Top Generic Bluetooth Driver Updates & Download Options for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-epson-ds-530-ready-windows-10-64-bit-compatible-drivers-free-download/"><u>Get Your Epson DS-530 Ready: Windows 10 (64-Bit) Compatible Drivers Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-driver-update-process-for-the-scansnap-ix500-on-windows-systems/"><u>Hassle-Free Driver Update Process for the ScanSnap iX500 on Windows Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-future-of-pc-gaming-meet-eizos-cg318-4k-for-2024/"><u>The Future of PC Gaming Meet EIZO's CG318-4K for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unraveling-free-filter-treasures-through-instagrams-advanced-searches-for-2024/"><u>Unraveling Free Filter Treasures Through Instagram’s Advanced Searches for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/xbox-one-elite-series-2-controller-showdown-why-this-controller-is-king-among-gaming-peripherals/"><u>Xbox One Elite Series 2 Controller Showdown: Why This Controller Is King Among Gaming Peripherals</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fast Track Guide: Monitoring Your Gaming Rig's FPS in Under 60 Seconds"
-date: 2024-08-28T01:57:25.808Z
-updated: 2024-08-29T01:57:25.808Z
+date: 2024-12-05T23:00:59.448Z
+updated: 2024-12-06T23:33:07.873Z
 tags:
   - hardware
 categories:
@@ -33,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/d4a38ebeef7fcde8439a2a50391d7bd9b46cb2287
 
 ![Adding a non-Steam Game to Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/steam-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2  NVIDIA GeForce Experience 
 
  If you have an NVIDIA graphics card, you can enable an in-game FPS counter via NVIDIA's proprietary companion program, NVIDIA GeForce Experience. Open NVIDIA GeForce Experience, then click on the gear icon in the top right corner to open settings. Make sure your "In-Game Overlay" option is enabled, then click the "Settings" button here.
@@ -47,14 +44,14 @@ thumbnail: https://thmb.techidaily.com/d4a38ebeef7fcde8439a2a50391d7bd9b46cb2287
 ![The NVIDIA GeForce Experience HUD Layout menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/nvidia-2.png) 
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This method is more universal than the Steam one, but it's not a perfect solution. The FPS overlay sometimes doesn't show up at all; other times, it displays the incorrect FPS or N/A. Changing the display mode from fullscreen to borderless (or vice versa) is worth a shot if you can't get the FPS counter to work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3  AMD Software 
 
@@ -63,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/d4a38ebeef7fcde8439a2a50391d7bd9b46cb2287
 ![The metrics menu in AMD Software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/amd-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The metrics overlay will show up permanently on your screen by default, but you can enable "Game Detection for Metrics Overlay" if you only wish to see your FPS in games. Just note that the overlay might not work in certain games or borderless mode after enabling this option. You can also modify how and where the metrics overlay appears. Alternatively, you can turn the metrics overlay on and off by pressing Ctrl+Shift+O in games.
 
  AMD Software will display more than just the FPS by default. You can use it to see your frame time, [99th percentile FPS](https://tech-recovery.techidaily.com/discover-the-ultimate-selection-of-great-sports-flicks-available-today/), CPU and GPU utilization and clock speed, and more. If you wish to only see the FPS, you can adjust it in the "Tracking" tab. Simply click the eye icon to select which metrics you wish to monitor, like so:
@@ -72,8 +70,9 @@ thumbnail: https://thmb.techidaily.com/d4a38ebeef7fcde8439a2a50391d7bd9b46cb2287
 ![AMD Software Performance tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/amd-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4  Use a Game's Built-in Options 
 
  Many games have built-in FPS counters you can enable. Depending on the game you're playing, this option is sometimes hard to find. It might be easiest to just perform a web search for the name of the game and "show FPS" to find out if a game has a built-in FPS option and how to enable it, but you can explore the game's options yourself. Depending on the game, you can enable the FPS counter in a variety of ways:
@@ -90,9 +89,6 @@ thumbnail: https://thmb.techidaily.com/d4a38ebeef7fcde8439a2a50391d7bd9b46cb2287
     
 ![Performance metrics in Minecraft.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/fps-mc.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5  MSI Afterburner 
 
  If you want a third-party solution to see your FPS counter, one of the best is [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards). Originally designed for MSI graphics cards, it's one of the most popular graphics card apps for [overclocking](https://desktop-recording.techidaily.com/new-in-2024-top-5-android-screen-recorders-essential-app-selection/) and performance monitoring.
@@ -104,8 +100,9 @@ thumbnail: https://thmb.techidaily.com/d4a38ebeef7fcde8439a2a50391d7bd9b46cb2287
 ![The monitoring tab in MSI Afterburner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/msi-afterburner.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  MSI Afterburner will automatically show the FPS counter in the top-left corner when you launch a game. You can configure how it looks from the same menu that you enabled it in.
 
 ---
@@ -118,8 +115,6 @@ thumbnail: https://thmb.techidaily.com/d4a38ebeef7fcde8439a2a50391d7bd9b46cb2287
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +122,19 @@ thumbnail: https://thmb.techidaily.com/d4a38ebeef7fcde8439a2a50391d7bd9b46cb2287
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-mobilizing-money-a-complete-guide-to-youtubes-revenue-features/"><u>[Updated] 2024 Approved Mobilizing Money A Complete Guide to YouTube's Revenue Features</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-demystifying-igtv-a-compreayers-guide-to-social-media/"><u>[Updated] Demystifying IGTV A Compreayer's Guide to Social Media</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-reel-mastery-viewing-twitters-video-in-high-res/"><u>[Updated] Reel Mastery Viewing Twitter's Video in High Res</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazon-prime-day-2024-exclusive-deals-on-top-nvidia-powered-gaming-laptops-spotlight/"><u>Amazon Prime Day 2024: Exclusive Deals on Top Nvidia-Powered Gaming Laptops - Spotlight</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-analysis-microsoft-surface-pro-8-the-ultimate-device-for-enterprises-techinsight/"><u>Comprehensive Analysis: Microsoft Surface Pro 8 - The Ultimate Device for Enterprises | TechInsight</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-ultimate-sj-cam-s6-review-the-pros-guide/"><u>In 2024, Ultimate SJ-CAM S6 Review The Pro's Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/les-applications-de-partage-decran-avise-le-classement-des-meilleurs-logiciels-en-2021-movavi/"><u>Les Applications De Partage D'Écran Avisé: Le Classement Des Meilleurs Logiciels En 2021 - Movavi</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-great-streamer-challenge-obs-vs-twitch-for-2024/"><u>The Great Streamer Challenge OBS vs Twitch for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-5-ultimate-programmers-laptops-curated/"><u>Top 5 Ultimate Programmer's Laptops - Curated</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-discover-the-toughest-laptops-for-professionals/"><u>Ultimate Guide: Discover the Toughest Laptops for Professionals</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-a-masterpiece-the-ultimate-13-laptop-redefining-longevity-and-aesthetics-in-tech-zdnet/"><u>Unveiling a Masterpiece: The Ultimate 13 Laptop Redefining Longevity and Aesthetics in Tech | ZDNET</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-free-video-editors-compatible-with-32-bit-windows-for-2024/"><u>Updated Top Free Video Editors Compatible with 32-Bit Windows for 2024</u></a></li>
+</ul></div>
 

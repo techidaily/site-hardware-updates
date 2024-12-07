@@ -1,7 +1,7 @@
 ---
 title: Microsoft Slashes Prices on Surface Go and Drops All-Time Low Price for Xbox Series S
-date: 2024-11-25T17:42:54.427Z
-updated: 2024-11-27T16:12:59.570Z
+date: 2024-12-06T01:41:01.664Z
+updated: 2024-12-07T03:54:57.179Z
 tags:
   - laptops
 categories:
@@ -27,7 +27,7 @@ Microsoft is known for its innovative products in gaming, computers, and more. A
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Save hundreds on Surface tablets and laptops**
@@ -43,7 +43,7 @@ Under the tablet's hood, you'll find a blazing-fast processor (12th Gen Intel Co
 Meanwhile, if you're preference is for laptops, then Microsoft has other deals for you. You can save $200 on the Surface Laptop 5, up to $646 on the Surface Laptop 4, and $150 on the Surface Laptop Go 2\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Get the Xbox Series S at its lowest price ever**
@@ -59,7 +59,7 @@ This is a digital console, meaning you'll have ample room to download games on i
 Overall, the Xbox Series S is an excellent gaming system for those looking for jaw-dropping graphics, access to a diverse gaming library, and fast performance. In addition, Microsoft lowered its price to $239.99, making it the best time to buy one. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Want to save even more on Microsoft devices?**
@@ -110,24 +110,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-a-list-of-the-best-marriage-videos-celebrations-captured-online-8-for-2024/"><u>[Updated] A List of the Best Marriage Videos - Celebrations Captured Online (8) for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/899-intelligent-dual-monitor-laptop-by-acemagic-meet-the-x1-model/"><u>$899 Intelligent Dual Monitor Laptop by Acemagic: Meet the X1 Model.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862718889-acemagix-x1-your-new-intel-powered-workstation-with-two-14-inch-fhd-displays-for-only-899/"><u>AceMagix X1: Your New Intel-Powered Workstation with Two 14-Inch FHD Displays for Only $899!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/acer-dell-hp-and-lenovo-unveil-game-changing-1099-laptops-with-long-battery-life-powered-by-snapdragon-x-and-windows-copilotplus/"><u>Acer, Dell, HP, and Lenovo Unveil Game-Changing $1,099 Laptops with Long Battery Life - Powered by Snapdragon X & Windows Copilot+</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-defy-2-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola Defy 2 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/evolved-windows-editor-programs-for-films-for-2024/"><u>Evolved Windows Editor Programs for Films for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-insights-on-the-huawei-p30-pros-lasting-charms-a-reviewers-perspective/"><u>Expert Insights on The Huawei P30 Pro's Lasting Charms - A Reviewer's Perspective</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862714665-exploring-computing-power-at-toms-hardware-hub-discover-top-gear/"><u>Exploring Computing Power at Tom's Hardware Hub - Discover Top Gear</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Motorola Moto G84 5G? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-iphone-xs-5-ways-to-get-into-a-locked-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, Locked Out of iPhone XS? 5 Ways to get into a Locked iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/oculus-quest-2-achieves-unprecedented-discount-as-meta-cuts-prices-once-more-zdnet-insights/"><u>Oculus Quest 2 Achieves Unprecedented Discount as Meta Cuts Prices Once More | ZDNET Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/post-prime-day-bargain-snag-the-new-10th-generation-apple-ipad-for-only-299-now-available/"><u>Post-Prime Day Bargain: Snag the New 10Th Generation Apple iPad for Only $299 - Now Available !</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862720138-razers-exclusive-offer-steep-1000-discount-on-the-newest-2023-razer-blade-15-grab-it-before-it-ends/"><u>Razer's Exclusive Offer: Steep $1,000 Discount on the Newest 2023 Razer Blade 15 - Grab It Before It Ends</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-new-innovations-on-toms-hardware-blog/"><u>Unveiling New Innovations on Tom's Hardware Blog</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-tech-secrets-with-toms-hardware-analysis/"><u>Unveiling Tech Secrets with Tom's Hardware Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-computing-toms-hardware-guide/"><u>Unveiling the Latest in Computing - Tom's Hardware Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-new-standard-in-business-laptops-an-in-depth-review-of-the-thinkpad-x1-carbon-gen-12/"><u>Unveiling the New Standard in Business Laptops: An In-Depth Review of the ThinkPad X1 Carbon (Gen 12)</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-find-cricket-sound-effect-for-2024/"><u>Updated Find Cricket Sound Effect for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-perfectly-emulated-sony-ps3-titles-top-5-windows-tools/"><u>[New] In 2024, Perfectly Emulated Sony PS3 Titles Top 5 Windows Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-niche-networking-on-youtube-from-phone-small-scale-approach/"><u>[Updated] Niche Networking on Youtube From Phone, Small-Scale Approach</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-artistic-modifications-pic-editing-masterclass/"><u>2024 Approved Artistic Modifications Pic Editing Masterclass</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-evaluation-of-the-panasonic-toughbook-g2-the-ultimate-blend-of-durability-portability-and-customization-insights-from-zdnet/"><u>Comprehensive Evaluation of the Panasonic Toughbook G2: The Ultimate Blend of Durability, Portability & Customization - Insights From ZDNet</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/effective-strategies-to-ensure-full-data-preservation-in-windows-11-backups/"><u>Effective Strategies to Ensure Full Data Preservation in Windows 11 Backups</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-a-used-microsoft-surface-pro-going-for-just-445-tips-and-reviews/"><u>Get Your Hands on a Used Microsoft Surface Pro Going for Just $445 - Tips & Reviews</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-x50-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor X50 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-the-landscape-of-color-correction-innovative-uses-of-luts-in-video-editing/"><u>Navigating the Landscape of Color Correction Innovative Uses of LUTs in Video Editing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/safeguard-your-secrets-how-pc-technicians-may-access-more-than-just-hardware-according-to-latest-study-zdnet/"><u>Safeguard Your Secrets: How PC Technicians May Access More Than Just Hardware, According to Latest Study | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-choosing-the-perfect-laptop-for-graphic-artists-in-depth-reviews-and-comparisons-zdnet/"><u>Ultimate Guide to Choosing the Perfect Laptop for Graphic Artists: In-Depth Reviews and Comparisons | ZDNet</u></a></li>
 </ul></div>
 

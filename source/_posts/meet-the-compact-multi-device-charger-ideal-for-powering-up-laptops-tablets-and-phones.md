@@ -1,7 +1,7 @@
 ---
 title: "Meet the Compact Multi-Device Charger: Ideal for Powering Up Laptops, Tablets & Phones"
-date: 2024-11-21T19:47:11.923Z
-updated: 2024-11-27T20:16:23.739Z
+date: 2024-12-04T21:17:13.634Z
+updated: 2024-12-06T20:58:43.255Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -93,7 +93,7 @@ Compared to a MacBook, one could argue that the Yoga Slim 7x is at least better 
 The MacBook is better suited for the iOS ecosystem, however Lenovo has been making strides in developing a data transfer feature between its laptop and iPhones. So if you're not sure which one to get, the Yoga Slim 7x might be the better long-term investment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,20 +134,16 @@ Creators might also appreciate the fact that Lenovo is also giving [two free mon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-diving-deep-into-sj-cam-s6-features-and-performance/"><u>[New] In 2024, Diving Deep Into SJ-CAM S6 Features and Performance</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-battlefield-brethren-compiling-the-ultimate-7-fps-collection/"><u>[Updated] In 2024, Battlefield Brethren Compiling the Ultimate 7 FPS Collection</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-ranking-the-best-8-websites-with-shimmering-3d-and-text-for-2024/"><u>[Updated] Ranking the Best 8 Websites with Shimmering 3D & Text for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-subtle-sound-shifts-in-garageband-productions/"><u>[Updated] Subtle Sound Shifts in Garageband Productions</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-fixes-for-handling-missing-d3dx926dll-file-alerts/"><u>Effective Fixes for Handling Missing d3dx9_26.dll File Alerts</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-engaging-audiences-through-vimeo-shares/"><u>In 2024, Engaging Audiences Through Vimeo Shares</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-technology-decisions-guidance-from-toms-hardware-hub/"><u>Mastering Technology Decisions: Guidance From Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-your-devices-key-tips-and-reviews-by-tom-hardware-specialist/"><u>Mastering Your Devices: Key Tips and Reviews by Tom Hardware Specialist</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-electronics-trustworthy-tips-from-toms-hardware-experts/"><u>Navigating the World of Electronics: Trustworthy Tips From Tom's Hardware Experts</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/ontwerpen-en-herstellen-van-hoe-diskettenpartitionen-in-windows-11-evenals-behandeling-beschadigde-arealen/"><u>Ontwerpen en Herstellen Van Hoe-Diskettenpartitionen in Windows 11, Evenals Behandeling Beschadigde Arealen</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/pioneering-computing-solutions-insights-from-toms-tech-oasis/"><u>Pioneering Computing Solutions - Insights From Tom's Tech Oasis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/save-big-on-the-new-16-inch-macbook-pro-with-apples-powerful-m3-pro-chip-now-500-cheaper/"><u>Save Big on the New 16-Inch MacBook Pro with Apple's Powerful M3 Pro Chip - Now $500 Cheaper</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snapdragon-vs-intel-comparing-elite-laptop-battery-endurance-beyond-15-hours/"><u>Snapdragon Vs. Intel: Comparing Elite Laptop Battery Endurance Beyond 15 Hours</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-comprehensive-tech-analysis-and-reviews-by-toms-hardware/"><u>The Comprehensive Tech Analysis and Reviews by Tom's Hardware</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-ultimate-capture-top-video-screenshot-tools/"><u>[Updated] Ultimate Capture Top Video Screenshot Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-the-latest-chromeos-enhancement-with-windows-11-integration-on-chromebooks-detailed-review-by-zdnet/"><u>Explore the Latest ChromeOS Enhancement with Windows 11 Integration on Chromebooks | Detailed Review by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-microsofts-new-frontier-in-technology-the-intelligent-surface-pro-10-and-ai-powered-laptop-6-unveiled-exclusive-details-by-zdnet/"><u>Exploring Microsoft's New Frontier in Technology: The Intelligent Surface Pro 10 and AI-Powered Laptop 6 Unveiled | Exclusive Details by ZDNet</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-6s-plus-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 6s Plus Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-motorola-moto-g23-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Motorola Moto G23 Phone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fixes-to-restore-standby-functionality-on-your-ios-device/"><u>Quick Fixes to Restore Standby Functionality on Your iOS Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/supporting-evolution-in-computing-how-ai-and-cybersecurity-are-shaping-the-future-of-lenovos-laptop-lineup/"><u>Supporting Evolution in Computing: How AI and Cybersecurity Are Shaping the Future of Lenovo's Laptop Lineup</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-98-unmissable-cyber-monday-bargains-of-2022-a-comprehensive-guide-by-zdnet/"><u>Top 98 Unmissable Cyber Monday Bargains of 2022 - A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-missing-nspr4dll-error-effectively/"><u>Troubleshooting The Missing nspr4.dll Error Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winerror-0x80070091-demystified-how-to-clear-not-empty-directive/"><u>WinError 0X80070091 Demystified: How to Clear 'Not Empty' Directive</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnets-ultimate-tech-roundup-unveiling-the-most-revolutionary-devices-and-products-of/"><u>ZDNet's Ultimate Tech Roundup: Unveiling the Most Revolutionary Devices & Products Of</u></a></li>
 </ul></div>
 

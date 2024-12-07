@@ -1,7 +1,7 @@
 ---
 title: "AMD EPYC 9755 Turin: Conquering Multi-Threading Performance with Record-Breaking Scores Above 108,000 in CPU-Z"
-date: 2024-08-28T02:05:59.803Z
-updated: 2024-08-29T02:05:59.803Z
+date: 2024-12-01T17:56:13.145Z
+updated: 2024-12-06T16:36:25.482Z
 tags:
   - cpu
 categories:
@@ -27,6 +27,10 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
  The Cixin P1 is a very unique processor. While it does not fulfill Beijing's goals of being a fully home-grown processor because it uses Arm CPU and GPU designs, the chip is specifically designed for the needs of the Chinese market and stands ready to enjoy some level of success. It also sadly does not meet[Microsoft](https://www.tomshardware.com/tag/microsoft) 's arbitrary "AI PC" requirements. The P1's NPU on its own is only 30 TOPS — shy of the 40 TOPS target — though it's likely that Cixin could not care less about Windows Copilot+ certification.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -37,14 +41,11 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
  Cixin is a very young company, first established in 2021, that has been growing thanks to investments from 15-20 public and private investment partners listed on its website. This freshness to the Chinese tech scene may limit widespread adoption early on, so we'll have to wait and see if Cixin manages to succeed in the huge, hungry tech market seeking[separation from U.S. interference](https://www.tomshardware.com/tech-industry/manufacturing/china-commerce-minister-frustrated-by-us-interfering-in-international-lithography-exports-via-third-countries) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -53,8 +54,18 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-brand-visibility-boosted-by-instagram-photowatermarking/"><u>[New] 2024 Approved Brand Visibility Boosted by Instagram Photowatermarking</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-becoming-proficient-in-ez-grabber-technology/"><u>[New] Becoming Proficient in EZ Grabber Technology</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-sculpting-soft-amplitude-in-fl-studio-tracks/"><u>[Updated] 2024 Approved Sculpting Soft Amplitude in FL Studio Tracks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-crafting-effective-in-stream-ad-campaigns-on-facebook-a-comprehensive-guide/"><u>[Updated] In 2024, Crafting Effective In-Stream Ad Campaigns on Facebook A Comprehensive Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-save-and-stream-gotomeet-on-desktops-and-phones/"><u>[Updated] In 2024, Save and Stream GoToMeet on Desktops & Phones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/limited-time-offer-exclusive-laptop-bargains-for-the-summer-of-2eighteen-pcmagazine/"><u>Limited Time Offer: Exclusive Laptop Bargains for the Summer of 2Eighteen | PCMagazine</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/professional-video-recorder-for-windows-pcs/"><u>Professional Video Recorder for Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-prime-day-discounts-on-computers-best-laptops-of-2024s-october-sale-featured/"><u>Top Prime Day Discounts on Computers: Best Laptops of 2024'S October Sale Featured</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-tech-alert-score-an-affordable-15-asus-laptop-with-comprehensive-ports-from-walmart-for-a-steal-at-250-revealed/"><u>Top Tech Alert: Score an Affordable 15 Asus Laptop With Comprehensive Ports From Walmart for a Steal at $250, Revealed !</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-travel-devices-of-2024-expert-picks/"><u>Top-Rated Travel Devices of 2024: Expert Picks</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-online-video-editing-essentials-download-edit-and-publish-like-a-pro/"><u>Updated Online Video Editing Essentials Download, Edit, and Publish Like a Pro</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

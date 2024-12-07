@@ -1,7 +1,7 @@
 ---
 title: "Future-Proof Your Job Tools as Artificial Intelligence Progresses: Experts Weigh In (ZDNet)"
-date: 2024-11-25T16:30:29.871Z
-updated: 2024-11-27T20:37:02.498Z
+date: 2024-12-04T18:27:12.054Z
+updated: 2024-12-07T03:14:54.467Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,24 +134,14 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-vivid-cutting-edge-m1-chips-transform-video-editing-landscape/"><u>[New] Vivid Cutting Edge M1 Chips Transform Video Editing Landscape</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-samsung-gear-360-alternatives-updated-list-2023/"><u>[Updated] In 2024, Samsung Gear 360 Alternatives Updated List 2023</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-rhythmic-revelations-songs-that-will-echo-yes/"><u>[Updated] Rhythmic Revelations Songs That Will Echo 'Yes'</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-secure-your-free-lut-resources-top-ten-list/"><u>2024 Approved Secure Your Free LUT Resources - Top Ten List</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-oneplus-nord-n30-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock OnePlus Nord N30 5G Phone When You Forget the Password</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-mx340-user-manual-and-driver-installation-guide-for-windows-users/"><u>Canon MX340 User Manual and Driver Installation Guide for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-finding-and-updating-toshiba-drivers-for-windows-systems/"><u>Easy Guide to Finding & Updating Toshiba Drivers for Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-get-and-set-up-epson-printer-drivers-in-a-flash-on-windows/"><u>How to Seamlessly Get & Set up Epson Printer Drivers in a Flash on Windows</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-ethernet-driver-downloads-compatible-with-windows-1178-install-now/"><u>HP Ethernet Driver Downloads Compatible with Windows 11/7/8 - Install Now</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-steps-to-become-a-9gag-meme-genius/"><u>In 2024, Quick Steps to Become a 9GAG Meme Genius</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/instagram-watchers-unveiling-who-sees-your-content/"><u>Instagram Watchers Unveiling Who Sees Your Content</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-hp-deskjet-3755e-all-in-one-printer-software-and-drivers-compatible-with-windows-11/"><u>Latest HP Deskjet 3755E All-in-One Printer Software & Drivers Compatible with Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/magicard-rio-professional-driving-simulator-update-free-download-for-windows-platforms-win-11817/"><u>Magicard Rio Professional Driving Simulator Update: Free Download for Windows Platforms (Win 11/8.1/7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolve-compatibility-problems-with-the-arduino-uno-board-in-windows/"><u>Resolve Compatibility Problems with the Arduino Uno Board in Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-the-ultimate-guide-to-fixing-davinci-resolve-startup-issues-in-windows-os/"><u>Resolved! The Ultimate Guide to Fixing DaVinci Resolve Startup Issues in Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-integration-how-to-get-and-update-xp-pen-graphics-software/"><u>Seamless Integration: How to Get and Update XP-Pen Graphics Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-microsoft-devices-with-latest-drivers-for-windows-1187/"><u>Update Your Microsoft Devices with Latest Drivers for Windows 11/8/7</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-perfect-pitch-integrating-music-with-cropping-and-editing-in-canva/"><u>[New] 2024 Approved Perfect Pitch Integrating Music with Cropping and Editing in Canva</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-how-to-make-a-video-call-in-whatsapp-web-in-laptop/"><u>[Updated] In 2024, How to Make a Video Call in WhatsApp Web in Laptop</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-install-the-latest-razer-blackwidow-driver-update/"><u>Easy Steps to Install the Latest Razer BlackWidow Driver Update</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/hed-viewing-experience-with-these-free-downloader-apps-for-youtubes-for-2024/"><u>Enriched Viewing Experience with These Free Downloader Apps for YouTubes for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-epson-wf-2630-printer-drivers-compatible-with-windows-7-81-and-10/"><u>Free Epson WF-2630 Printer Drivers: Compatible with Windows 7, 8.1 & 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-optimal-graphics-card-functionality-with-updated-geforce-210-nvidia-drivers-for-win-10/"><u>Get Optimal Graphics Card Functionality with Updated GeForce 210 Nvidia Drivers for Win 10</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-samsung-galaxy-m54-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Samsung Galaxy M54 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-scoop-on-cutting-edge-gadgets-by-tech-expert-tom/"><u>Inside Scoop on Cutting-Edge Gadgets by Tech Expert, Tom</u></a></li>
 </ul></div>
 

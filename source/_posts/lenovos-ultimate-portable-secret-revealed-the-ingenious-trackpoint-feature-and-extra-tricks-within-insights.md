@@ -1,7 +1,7 @@
 ---
 title: Lenovo's Ultimate Portable Secret Revealed! The Ingenious TrackPoint Feature & Extra Tricks Within | Insights
-date: 2024-11-20T18:57:23.930Z
-updated: 2024-11-27T17:07:11.975Z
+date: 2024-12-04T22:04:35.719Z
+updated: 2024-12-07T02:59:39.911Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,18 +116,18 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-computer-insights-by-toms-lab/"><u>Comprehensive Computer Insights by Tom's Lab</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/delving-into-digital-devices-expert-advice-from-toms-hardware-team/"><u>Delving Into Digital Devices: Expert Advice From Tom's Hardware Team</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-latest-in-tech-with-toms-hardware-hub/"><u>Discover the Latest in Tech with Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-most-affordable-and-powerful-gaming-notebooks-under-1k/"><u>Discover the Most Affordable and Powerful Gaming Notebooks Under $1K</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discovering-innovations-with-toms-hardware-guides/"><u>Discovering Innovations with Tom's Hardware Guides</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dive-into-digital-devices-with-toms-comprehensive-hardware-reviews/"><u>Dive Into Digital Devices with Tom's Comprehensive Hardware Reviews</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/dive-into-user-friendly-operation-a-look-at-mods-easysidecar-ebike/"><u>Dive Into User-Friendly Operation: A Look at Mod's EasySidecar eBike</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-guide-local-users-group-control-on-win1110/"><u>Essential Guide: Local Users, Group Control on WIN11/10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-motorola-moto-g-5g-2023-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Motorola Moto G 5G (2023)?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-optimal-video-posting-frequency-for-increased-youtube-popularity/"><u>In 2024, Optimal Video Posting Frequency for Increased YouTube Popularity</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-powerpoint-version-updates-a-comprehensive-tutorial/"><u>Mastering the Art of PowerPoint Version Updates - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-list-of-2023s-must-have-car-enhancements-expert-picks-for-automotive-technology-upgrades-zdnet/"><u>Ultimate List of 2023'S Must-Have Car Enhancements: Expert Picks for Automotive Technology Upgrades | ZDNET</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-transforming-ideas-into-viral-video-hits-on-youtube/"><u>[New] 2024 Approved Transforming Ideas Into Viral Video Hits on YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-ideal-fps-levels-in-slow-motion-cinema-for-2024/"><u>[New] Ideal FPS Levels in Slow Motion Cinema for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-one-change-transformed-my-workstation-setup-techadvisor/"><u>A Week with an Ergonomic Split Keyboard: How One Change Transformed My Workstation Setup | TechAdvisor</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-value-laptops-top-picks-that-compete-with-macbook-air-and-currently-discounted-insights/"><u>Best Value Laptops: Top Picks That Compete with MacBook Air & Currently Discounted - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-ace-octobers-prime-deals-for-gamers-huge-savings-up-to-1000-insider-tips/"><u>Don't Miss Out: Ace October's Prime Deals for Gamers - Huge Savings Up to $1,000 Insider Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-offer-metas-amazing-october-sale-on-512gb-quest-3-the-ultimate-prime-day-steal-according-to-zdnet/"><u>Exclusive Offer: Meta's Amazing October Sale on 512GB Quest 3 - The Ultimate Prime Day Steal, According to ZDNet!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-top-picks-unmissable-amazon-prime-day-2024-offers-early-access-and-savings/"><u>Exclusive Top Picks: Unmissable Amazon Prime Day 2024 Offers - Early Access & Savings!</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-resolving-the-dilemma-of-a-unresponsive-charging-ps4-gamepad/"><u>Expert Guide: Resolving the Dilemma of a Unresponsive Charging PS4 Gamepad</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-iphone-11-pro-max-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 11 Pro Max Activation Lock</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/resolving-an-alone-earpiece-dilemma-for-2024/"><u>Resolving an Alone Earpiece Dilemma for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-laptop-speaker-jack-errors-expert-tips-and-tricks/"><u>Resolving Laptop Speaker Jack Errors: Expert Tips & Tricks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-a-steal-with-metas-latest-quest-section-1-understanding-the-impact-of-crop-rotation-on-soil-fertility-and-pest-management/"><u>Score a Steal with Meta's Latest Quest # Section 1: Understanding the Impact of Crop Rotation on Soil Fertility and Pest Management</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-education-8-compelling-reasons-teachers-should-welcome-ai-innovation/"><u>Transforming Education: 8 Compelling Reasons Teachers Should Welcome AI Innovation</u></a></li>
 </ul></div>
 

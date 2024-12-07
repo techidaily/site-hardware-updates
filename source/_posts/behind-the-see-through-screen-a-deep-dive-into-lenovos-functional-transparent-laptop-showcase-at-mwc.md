@@ -1,7 +1,7 @@
 ---
 title: "Behind the See-Through Screen: A Deep Dive Into Lenovo's Functional Transparent Laptop Showcase at MWC"
-date: 2024-11-25T17:44:11.896Z
-updated: 2024-11-27T19:17:33.260Z
+date: 2024-12-01T20:26:05.359Z
+updated: 2024-12-07T01:18:07.927Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -67,7 +67,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -106,20 +106,22 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-leading-directory-of-cost-free-online-resources-for-superior-vector-graphics/"><u>[New] Leading Directory of Cost-Free Online Resources for Superior Vector Graphics</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-the-importance-of-channel-consistency-on-youtube/"><u>2024 Approved The Importance of Channel Consistency on YouTube</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722964787698-easy-driver-downloads-for-acer-predator-xb271hu-get-them-now/"><u>Easy Driver Downloads for Acer Predator XB271HU - Get Them Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-finding-and-downloading-the-right-logitech-rx25er-driver-for-your-windows-system-7810/"><u>Easy Guide: Finding and Downloading the Right Logitech RX25er Driver for Your Windows System (7/8/10)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-setup-of-realtek-audio-devices-on-windows-11-systems/"><u>Effortless Setup of RealTek Audio Devices on Windows 11 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-intel-usb-30-drivers-now-compatible-with-windows-10/"><u>Get Your Intel USB 3.0 Drivers Now - Compatible with Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-scarlett-solo-desktop-audio-interface-for-free-optimized-for-windows-users/"><u>Get Your Scarlett Solo Desktop Audio Interface for Free – Optimized for Windows Users!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-sony-xperia-5-v-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Sony Xperia 5 V Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-motorola-moto-g04-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Motorola Moto G04</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-novice-to-pro-mastering-the-art-of-editing-via-polarr/"><u>In 2024, From Novice to Pro Mastering the Art of Editing via Polarr</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-ultimate-free-open-sources-20-best-pubg-shots/"><u>In 2024, Ultimate Free, Open Sources 20 Best PUBG Shots</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-toshiba-satellite-driver-updates-available-for-windows-users/"><u>Latest Toshiba Satellite Driver Updates Available for Windows Users</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/simple-and-quick-how-to-update-your-gtx-660-graphics-card-drivers/"><u>Simple & Quick: How to Update Your GTX 660 Graphics Card Drivers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-15-dolby-atmos-films-for-an-immersive-home-theater-experience/"><u>Top 15 Dolby Atmos Films for an Immersive Home Theater Experience</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-short-storyboard-scheme/"><u>[Updated] 2024 Approved Short Storyboard Scheme</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-visionsonic-vsdc-review-ideal-substitutes/"><u>[Updated] In 2024, VisionSonic VSDC Review - Ideal Substitutes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-installation-guide-brother-mfc-7860dw-printer-driver-on-windows/"><u>Download & Installation Guide: Brother MFC-7860DW Printer Driver on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-free-intel-82579d-chipset-drivers-simple-and-swift-installation-guide/"><u>Download Free Intel 82579D Chipset Drivers: Simple and Swift Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/feel-good-pop-anthems-by-microsoft-a-collection-specifically-chosen-for-their-positive-cheerful-melodies-and-lyrics-designed-to-boost-your-mood/"><u>Feel Good Pop Anthems by Microsoft – A Collection Specifically Chosen for Their Positive, Cheerful Melodies and Lyrics Designed to Boost Your Mood</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hp-3520-deskjet-printer-software-downloaded-here-link/"><u>Get Your HP 3520 Deskjet Printer Software Downloaded Here: [Link]</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-m14-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy M14 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-the-canon-mf743cdw-driver-for-optimal-windows-compatibility/"><u>How to Download and Install the Canon MF743CDW Driver for Optimal Windows Compatibility</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-10t-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme 10T 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 to other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-10-engaging-games-that-make-friends/"><u>In 2024, 10 Engaging Games That Make Friends</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-realme-gt-neo-5-se-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Realme GT Neo 5 SE FRP?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-15-5-ways-to-get-into-a-locked-iphone-15-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 15? 5 Ways to get into a Locked iPhone 15</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-logitech-g920-support-software-for-win-111087-free-download/"><u>Latest Logitech G920 Support Software for Win 11/10/8/7 - Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/obtain-official-drivers-for-ricoh-mp-c3003-all-in-one-printer/"><u>Obtain Official Drivers for Ricoh MP C3003 All-in-One Printer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-compressed-data-a-step-by-step-guide-to-accessing-zip-files-on-your-ios-devices/"><u>Unlocking Compressed Data: A Step-by-Step Guide to Accessing ZIP Files on Your iOS Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-dell-driver-packs-for-seamless-integration-with-windows-7/"><u>Updated Dell Driver Packs for Seamless Integration with Windows 7</u></a></li>
 </ul></div>
 

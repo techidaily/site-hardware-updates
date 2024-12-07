@@ -1,7 +1,7 @@
 ---
 title: "MSI's High-Performance Gaming Display Now Huge Sale: Save Nearly $300 on Newegg - Exclusive Report"
-date: 2024-11-26T18:43:13.527Z
-updated: 2024-11-27T18:14:46.300Z
+date: 2024-11-29T21:27:49.252Z
+updated: 2024-12-06T20:36:09.064Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ You can pick up a new [MSI Stealth 14 Studio gaming laptop](https://shop-links.c
 **Also:** [**The best gaming laptops**](https://www.zdnet.com/article/best-gaming-laptop/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended:
@@ -65,7 +65,7 @@ Speaking of which: I absolutely adore the MUX switch, which is what lets you cho
 Taylor Clemons/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## My only real complaint
@@ -81,7 +81,7 @@ Taylor Clemons/ZDNET
 The laptop also has a decently fast charging time, taking about an hour to reach full charge from completely dead. This is perfect for situations when you forget to charge overnight or need to quickly top up the laptop during a lunch break or meeting. As with all fast-charging devices, you'll notice a slowdown in power transfer as the battery approaches full charge. This helps prevent damage from overcharging, which can shorten the overall life and performance of the battery.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How it handles gaming
@@ -95,7 +95,7 @@ Taylor Clemons/ZDNET
 The laptop even was able to handle the [ARMA III](https://store.steampowered.com/app/107410/Arma%5F3/) base game, which is notorious for requiring Herculean efforts from graphics cards and CPUs to even be able to load you into a server. I'd bought ARMA III years ago to play with friends over Discord, and this was the first time I'd been able to just load into the lobby and mess around with controls, settings, and mods before _finally_ being able to play a match after all this time. So the Stealth 14 Studio gets extra points in my book for letting me spend time with and stay connected to friends I don't get to see very often in-person. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### A worthy investment
@@ -140,20 +140,22 @@ _Correction: This review has been edited to reflect accurate information as prov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-the-art-of-angle-alteration-mastering-the-rotation-ritual-on-instagram/"><u>[New] The Art of Angle Alteration Mastering the Rotation Ritual on Instagram</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-6s-plus-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone 6s Plus When Its Locked Within Seconds</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-radeon-rx-6800-xt-comprehensive-guide-to-download-and-update-drivers-on-various-windows-platforms/"><u>AMD Radeon RX 6800 XT: Comprehensive Guide to Download & Update Drivers on Various Windows Platforms</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-online-resources-for-free-audio-clips-and-sound-editing-tools/"><u>Best Online Resources for FREE Audio Clips & Sound Editing Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-canon-drivers-with-simplicity-on-windows-systems/"><u>Download & Update Canon Drivers with Simplicity on Windows Systems!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 11 Pro Max</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pcmobile-tips-for-partial-image-gaussian-blur/"><u>In 2024, PC/Mobile Tips for Partial Image Gaussian Blur</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-motorola-moto-g73-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Motorola Moto G73 5G Android SIM Unlock APK</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-amd-gpu-driver-support-for-windows-operating-systems-windows-10117/"><u>Latest AMD GPU Driver Support for Windows Operating Systems (Windows 10/11/7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-encryption-device-issues-on-pci-interface-now-stable/"><u>Mastering Encryption Device Issues on PCI Interface [Now Stable]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/no-cost-download-of-radeon-hd-graphics-drivers-for-amd-in-win8/"><u>No-Cost Download of Radeon HD Graphics Drivers for AMD in Win8</u></a></li>
-<li><a href="https://driver-download.techidaily.com/oculus-driver-update-for-windows-111087-secure-your-free-software-now/"><u>Oculus Driver Update for Windows 11/10/8/7 - Secure Your Free Software Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722972702417-solving-asus-pce-ac56-driver-problems-on-windows-10-8-and-7-fixed/"><u>Solving ASUS PCE-AC56 Driver Problems on Windows 10, 8 & 7 - Fixed!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722974272797-streamlined-installation-rapidly-secure-your-lexar-usb-drivers/"><u>Streamlined Installation: Rapidly Secure Your Lexar USB Drivers!</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-honor-play-8t-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Honor Play 8T fingerprint</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-building-brilliance-top-6-minecraft-homes/"><u>[Updated] Building Brilliance Top 6 Minecraft Homes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-look-at-djis-drone-model-3/"><u>2024 Approved In-Depth Look at DJI's Drone Model 3</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-ryzen-3-2200g-graphics-card-freshest-driver-update-available-here/"><u>AMD Ryzen 3 2200G Graphics Card – Freshest Driver Update Available Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/brother-hl-l2300d-find-and-download-updated-printing-drivers-easily/"><u>Brother HL-L2300D: Find and Download Updated Printing Drivers Easily</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mg3022-drivers-downloading-and-updating-finding-the-latest-version-for-smooth-printing-experience/"><u>Canon MG3022 Drivers Downloading & Updating: Finding the Latest Version for Smooth Printing Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976519172-download-realtek-asio-driver-for-windows-11-in-minutes-step-by-step-instructions-inside/"><u>Download Realtek Asio Driver for Windows 11 in Minutes – Step-by-Step Instructions Inside</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-advice-on-pcs-and-peripherals-by-toms-hardware-team/"><u>Expert Advice on PCs and Peripherals by Tom's Hardware Team</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-downloads-acquire-pioneer-dj-ddj-sx2-driver-with-ease-and-speed/"><u>Hassle-Free Downloads: Acquire Pioneer DJ DDJ-SX2 Driver with Ease and Speed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-advanced-systems-for-tracking-human-manoeuvres/"><u>In 2024, Advanced Systems for Tracking Human Manoeuvres</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-motorola-moto-g84-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Motorola Moto G84 5G Phone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-360-degree-shoot-selecting-your-perfect-model/"><u>In 2024, Ultimate 360-Degree Shoot Selecting Your Perfect Model</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/kostenlose-upgrade-moglichkeit-wechsle-deinen-notebook-ssd-ohne-software-neukonfiguration/"><u>Kostenlose Upgrade-Möglichkeit: Wechsle Deinen Notebook-SSD Ohne Software-Neukonfiguration</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-hp-officejet-4500-software-upgrade-free-downloads-and-installation-guide/"><u>Latest HP OfficeJet 4500 Software Upgrade: Free Downloads and Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974986626-milestones-in-research-development-and-market-expansion/"><u>Milestones in Research, Development, and Market Expansion.</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/strategies-to-skyrocket-instagram-video-views/"><u>Strategies to Skyrocket Instagram Video Views</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/winxvideo-ai-revamp-your-screen-recordings-with-advanced-webcam-and-audio-capture/"><u>WinxVideo AI: Revamp Your Screen Recordings with Advanced Webcam and Audio Capture</u></a></li>
 </ul></div>
 

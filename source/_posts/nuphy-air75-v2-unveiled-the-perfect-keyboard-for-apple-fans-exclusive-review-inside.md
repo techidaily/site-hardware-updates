@@ -1,7 +1,7 @@
 ---
 title: "NuPhy Air75 V2 Unveiled: The Perfect Keyboard for Apple Fans - Exclusive Review Inside!"
-date: 2024-08-28T01:58:23.395Z
-updated: 2024-08-29T01:58:23.395Z
+date: 2024-12-02T01:50:25.104Z
+updated: 2024-12-07T02:21:47.163Z
 tags:
   - hardware
 categories:
@@ -42,6 +42,10 @@ The NuPhy Air75 V2 is the second revision of the company's 75% low-profile mecha
 [NuPhy](https://nuphy.com/products/air75-v2) [$140 at Amazon](https://www.amazon.com/nuphy-Air75-V2-Mechanical-Grey-Gateron/dp/B0CMYYM2SQ/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003600&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fnuphy-air75-v2-review%2F&asc%5Fcampaign=Authority) 
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Price and Availability
 
@@ -147,9 +151,6 @@ Tim Brookes / How-To Geek
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Air75 Version 2 Improvements
 
  If you’re coming from the original Air75, there are a few improvements to note in V2\. The revised version makes use of a higher 1000Hz polling rate when connected via Bluetooth, supports QMK/VIA customization, and ships with double-shot PBT keycaps that shouldn't get shiny over time.
@@ -157,17 +158,15 @@ Expand
 ![A closeup shot of the NuPhy Air75 V2 PBT keycaps.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/closeup2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  V2 also has a greater choice of Nuphy x Gateron switches, is available in two more colors, has brighter RGB backlighting, and offers improved acoustics thanks to new sound dampening inside the keyboard.
 
  There’s no reason to pick the original over the revision, except for perhaps a massive discount. Even then, these improvements seem worth it for anyone looking for a premium yet portable low-profile keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ##  An Apple User’s Take on the Air75 V2
 
  Let me preface this review by stating that I am not an expert on mechanical keyboards. This is the first mechanical keyboard that I’ve owned outright. As a Mac user for the past few decades, I’ve become accustomed to Apple’s ultra-low-profile keyboards, and I’ve been daily driving a 16-inch 2021 MacBook Pro since it launched.
@@ -178,9 +177,6 @@ Tim Brookes / How-To Geek
 
 ![A NuPhy Air75 V2 next to a Magic Trackpad and a MacBook Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/keyboard_trackpad.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  The Air75 V2 is a 75% keyboard that’s ever-so-slightly larger than the MacBook Pro keyboard I’m used to, but one that shares a similar layout with a full row of function keys. It works seamlessly with macOS, Windows, Linux, iOS, Android, and more thanks to wireless connections via Bluetooth and the included 2.4GHz dongle, plus a wired connection over the included USB-C to USB-A cable.
@@ -198,8 +194,9 @@ Tim Brookes / How-To Geek
  In terms of size, 75% feels perfect for someone who appreciates the tidy look of a small keyboard that doesn’t skimp on the essentials.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Typing Speed Isn’t Everything
 
  For me, the most striking thing about this keyboard (and likely any decent mechanical keyboard) is how satisfying the experience is. This isn’t the most premium-sounding keyboard, but it still sounds better than the tinny Apple experience I’m used to. The Moss switches require slightly less pressure than I’m used to on a Magic Keyboard, but travel significantly further.
@@ -218,6 +215,10 @@ Tim Brookes / How-To Geek
 
  Switching to a keyboard like the Air75 V2 also means making do without Touch ID. This doesn’t bother me as I’ve switched to authenticating with my Apple Watch instead (I’ve since disabled Touch ID altogether, even when I’m not using the Air75 V2).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  A Fully Customizable Keyboard, In Theory
 
  There’s more to a keyboard like the Air75 V2 than simply the typing experience. The Magic Keyboard is boring by comparison when it comes to the many ways you can customize the Nuphy. This starts on the board itself, with its removable low-profile keycaps and hot-swappable switches.
@@ -227,6 +228,10 @@ Tim Brookes / How-To Geek
  I tried disconnecting the keyboard, restarting my Mac, and installing different versions of Chromium-based browsers. Nothing helped. My keyboard is visible in Chrome and I can authorize the connection attempt, but every time the web app stonewalls me when attempting to configure the keyboard.
 
 ![The VIA configurator tool for macOS refusing to work.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-12-at-09-58-45.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For me, this isn’t a huge deal. I didn’t pick the Air75 V2 for its firmware-level customization. That was just a nice bonus that I was looking forward to playing with. That said, Mac users hoping to dig into this stuff might want to reconsider. Ironically, Tyler had similar issues when [reviewing the Nuphy Air60 V2](https://win-howtos.techidaily.com/step-by-step-guide-to-repairing-your-oculus-headsets-technical-glitches/).
 
@@ -243,8 +248,9 @@ Tim Brookes / How-To Geek
  Make no mistake, the Air75 V2 has one of the largest batteries in its class of low-profile mechanical keyboards. This makes it a great portable typing companion for tablet or smartphone users. The large battery helps add some heft to the board that keeps it planted on your desk, too.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Should You Buy the Air75 V2 Keyboard?
 
  Overall, the [Nuphy Air75 V2](http://nuphy.com/products/air75-v2) is probably the best choice you can make if you want a 75% low-profile mechanical keyboard that not only supports macOS but can even replace your built-in MacBook keyboard by fitting neatly over the top of it.
@@ -279,8 +285,6 @@ The NuPhy Air75 V2 is the second revision of the company's 75% low-profile mecha
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -288,4 +292,24 @@ The NuPhy Air75 V2 is the second revision of the company's 75% low-profile mecha
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-professionals-guide-adding-youtube-to-google-slides/"><u>[New] 2024 Approved The Professional's Guide Adding YouTube to Google Slides</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unlocking-your-potential-in-youtube-video-production-scripts/"><u>[New] 2024 Approved Unlocking Your Potential in YouTube Video Production Scripts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-from-shadows-to-highlights-the-ultimate-lightroom-hdr-guide/"><u>[Updated] In 2024, From Shadows to Highlights The Ultimate Lightroom HDR Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-speedy-sonic-tuning-devices-index-pc-tablet/"><u>[Updated] Speedy Sonic Tuning Devices Index (PC, Tablet)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-game-on-in-reality-the-ultimate-vr-headset-comparison/"><u>2024 Approved Game On in Reality The Ultimate VR Headset Comparison</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-chromebook-evaluation-unveiling-the-ultimate-fixable-and-futureproof-model-by-framework/"><u>Comprehensive ChromeBook Evaluation: Unveiling the Ultimate Fixable and Futureproof Model by Framework</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-power-of-apples-latest-innovation-the-macbook-pro-equipped-with-advanced-m2-pro-processor-insights-and-review/"><u>Discover the Power of Apple's Latest Innovation: The MacBook Pro Equipped with Advanced M2 Pro Processor - Insights & Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-ultimate-holiday-promotions-for-dell-computers-and-accessories-with-our-curated-guide-to-deals-at-retail-giants-like-best-buy-amazon-and-more-featu105/"><u>Discover Ultimate Holiday Promotions for Dell Computers and Accessories with Our Curated Guide to Deals at Retail Giants Like Best Buy, Amazon & More | Featured on ZDNET</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/download-your-favorite-bbc-iplayer-shows-as-mp4-or-avi-files-with-our-top-downloading-tool/"><u>Download Your Favorite BBC iPlayer Shows as MP4 or AVI Files with Our Top Downloading Tool</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-list-of-prime-days-2024-greatest-game-offers-yet-to-expire/"><u>Exclusive List of Prime Day's 2024 Greatest Game Offers Yet to Expire!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-graphic-chip-drivers-fresh-download-options-for-windows-11-users/"><u>Intel Graphic Chip Drivers: Fresh Download Options for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-gaming-laptop-deals-unleashed-dont-miss-the-amazon-prime-day-2n24-savings/"><u>NVIDIA Gaming Laptop Deals Unleashed: Don't Miss the Amazon Prime Day 2N24 Savings !</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-best-chatbot-debate-pitting-gpt-against-bing-and-googles-innovations/"><u>The Best Chatbot Debate: Pitting GPT Against Bing and Google's Innovations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-development-of-precision-agriculture-tools-to-monitor-and-manipulate-soil-microbial-communities/"><u>The Development of Precision Agriculture Tools to Monitor and Manipulate Soil Microbial Communities</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/uddy-the-key-to-youtube-dominance/"><u>TubeBuddy The Key to YouTube Dominance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-samsungs-game-changing-copilotplus-laptop-exclusive-review-and-top-deal-on-windows-devices/"><u>Unveiling Samsung's Game-Changing Copilot+ Laptop - Exclusive Review & Top Deal on Windows Devices!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnets-best-affordable-lenovo-devices-powerful-options-for-todays-hybrid-workforce-with-a-1000-deal/"><u>ZDNet's Best Affordable Lenovo Devices: Powerful Options for Today's Hybrid Workforce with a $1,000 Deal!</u></a></li>
+</ul></div>
 

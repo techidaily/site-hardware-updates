@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Functionality for Windows 11: Direct Printer and Scanner Support Included by Default"
-date: 2024-08-28T02:07:14.551Z
-updated: 2024-08-29T02:07:14.551Z
+date: 2024-12-04T02:17:50.021Z
+updated: 2024-12-06T17:19:50.673Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ It is common knowledge that updated printer drivers keep your printer run at its
 1. [Download HP LaserJet Pro P1102w printer driver from HP Support](https://tools.techidaily.com/drivereasy/download/)
 2. [Download & Update HP LaserJet Pro P1102w printer driver automatically](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1: Download HP LaserJet Pro P1102w printer driver from HP Support
 
 **NOTE** : The printer driver for LaserJet Pro P1102w is also adaptable to P1560 and P1600 series of HP LaserJet printers.
@@ -29,6 +33,10 @@ It is common knowledge that updated printer drivers keep your printer run at its
  1) First, type**HP Printer Support** into the search box of the preferred searching engine. Then go to the support webpage of HP Printers.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd96658ae2b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) You can either type the model of your printer in the search box here, or use the navigation here so it can lead you to the correct web page for your printer driver. We go with the later option here. Choose**Laser Jet Printers** .
   
@@ -42,14 +50,29 @@ It is common knowledge that updated printer drivers keep your printer run at its
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd98d05d78f.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Choose**Software and Drivers** on the left side, then click**Go** to go to the driver page.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd98eed7738.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Click the**Change** button to choose your operating system accordingly. Then hit the**Download** button to get the printer driver that you need downloaded.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd9a3f80551.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) When the download finishes, run the setup file as instructed to update your printer driver.
   
 **NOTE** : You might need to refer to the instruction documentation if you have an problems during the driver installation.
@@ -81,8 +104,6 @@ It is common knowledge that updated printer drivers keep your printer run at its
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -90,8 +111,18 @@ It is common knowledge that updated printer drivers keep your printer run at its
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-elite-media-maestro-picture-perfect-with-pitches/"><u>[Updated] 2024 Approved Elite Media Maestro Picture Perfect with Pitches</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-edge-cards-for-sharp-4k-gaming/"><u>2024 Approved Leading Edge Cards for Sharp 4K Gaming</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/designing-your-ideal-gaming-station-a-complete-guide-with-expert-tips/"><u>Designing Your Ideal Gaming Station: A Complete Guide with Expert Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/efficient-z-score-computation-techniques-with-microsoft-excel-explained/"><u>Efficient Z-Score Computation Techniques with Microsoft Excel Explained</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-gopro-hero5-black-vs-gopro-hero4-silver/"><u>In 2024, GoPro Hero5 Black vs GoPro Hero4 Silver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/laptop-evaluation-techniques-at-zdnet-insight-into-our-review-process/"><u>Laptop Evaluation Techniques at ZDNet: Insight Into Our Review Process</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/mac-audio-sync-for-screen-captures/"><u>Mac Audio Sync for Screen Captures</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/march-tech-release-anticipated-apple-events-featuring-upcoming-macbook-air-ipad-pro-and-ipad-air/"><u>March Tech Release: Anticipated Apple Events Featuring Upcoming MacBook Air, iPad Pro, and iPad Air</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/offline-operations-with-llama-2-stepwise-tutorial/"><u>Offline Operations with Llama 2: Stepwise Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/professional-picks-a-guide-to-the-best-video-editing-laptops-tested-and-analyzed-cnet-reviewers/"><u>Professional Picks: A Guide to the Best Video Editing Laptops Tested and Analyzed | CNET Reviewers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-5-ultimate-programmers-laptops-curated/"><u>Top 5 Ultimate Programmer's Laptops - Curated</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->

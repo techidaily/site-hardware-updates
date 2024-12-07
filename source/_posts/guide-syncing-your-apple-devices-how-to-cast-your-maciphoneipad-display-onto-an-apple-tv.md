@@ -1,7 +1,7 @@
 ---
 title: "Guide: Syncing Your Apple Devices - How to Cast Your Mac/iPhone/iPad Display Onto an Apple TV"
-date: 2024-08-28T01:59:10.728Z
-updated: 2024-08-29T01:59:10.728Z
+date: 2024-11-30T02:48:20.092Z
+updated: 2024-12-06T23:19:57.973Z
 tags:
   - hardware
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/b0e6c7278d6ccf548c998db09b6cda475848470d5
 
  You can beam all kinds of music and video to your TV with an Apple TV streaming box, but did you know you can also mirror the screen of your iPhone, iPad, or Mac on the big screen? Here's how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Make Sure AirPlay Is Enabled on Your Apple TV
 
  To mirror your Mac or iOS display, [you'll be using AirPlay](https://screen-mirroring-recording.techidaily.com/updated-2024-approved-record-and-share-every-victory-in-obs/), which is built in to the Apple TV. The first thing you should probably do is verify that AirPlay is actually on—it's available on [second-generation Apple TVs](https://support.apple.com/en-us/101605) and beyond. I'm using an Apple TV 4K here, but the steps should be similar on older models.
@@ -29,8 +33,9 @@ Close
  With that out of the way, you're ready to mirror your other device's screens to Apple TV.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Mirror an iPhone or iPadScreen to an Apple TV
 
  Before you get into this wild and crazy mirroring adventure, make sure your iPhone and Apple TV are on the same Wi-Fi network. You can do this by going to Settings > Network on your Apple TV or Settings > Wi-Fi on your iPhone or iPad.
@@ -48,8 +53,9 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Mirror a Mac Screen to an Apple TV
 
  Just like mirroring your iPhone's screen to your Apple TV, make sure that both devices are on the same Wi-Fi network before you begin. To do this on your Mac, click the Wi-Fi icon in the menu bar, then go to Settings > Network on your Apple TV to make sure it matches.
@@ -63,8 +69,9 @@ Close
 ![1497544344-picsay](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/1497544344-picsay.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If your Apple TV is just showing a blank wallpaper, it's acting as a second display instead of mirroring the screen. To fix this, click the Screen Mirroring icon in the menu bar and open the dropdown menu next to your Apple TV, then select the "Mirror Display" option.
 
 Close 
@@ -76,8 +83,9 @@ Close
 ![Screen Mirroring Control Center option on Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screen-mirroring-control-center-option-on-mac.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Whenever you want to do this again in the future, you won't have to enter in the four-digit code every time—only when you first set it up on your Mac and Apple TV.
 
 ---
@@ -90,8 +98,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -99,4 +105,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-film-substitutes-to-stream-top-7-picks/"><u>[New] Film Substitutes to Stream - Top 7 Picks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-incorporating-secondary-footage-a-filmmakers-guide/"><u>[Updated] 2024 Approved Incorporating Secondary Footage A Filmmaker's Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/aufbauen-und-nutzen-einer-mobilen-aomei-backup-version-schritt-fur-schritt-anleitungen/"><u>Aufbauen Und Nutzen Einer Mobilen AOMEI-Backup-Version: Schritt-Für-Schritt Anleitungen</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-note-30i-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Note 30i to New Android? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-apple-iphone-15-plus-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T Apple iPhone 15 Plus with 3 Methods</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-oppo-reno-11f-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Oppo Reno 11F 5G Phone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-the-new-rapid-chrome-version-by-google-for-windows-users-a-game-changer-with-exceptions/"><u>Introducing the New Rapid Chrome Version by Google for Windows Users – A Game-Changer with Exceptions!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/meta-revolutionizes-vr-with-superior-512gb-quest-deal-of-the-year-insights-and-analysis/"><u>Meta Revolutionizes VR with Superior 512GB Quest Deal of the Year Insights and Analysis</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-the-ultimate-deal-with-a-36-off-8tb-capacity-samsung-t5-ssd-in-flash-storage-exclusive-offer-highlights-by-zdnet/"><u>Score the Ultimate Deal with a 36% Off, 8TB Capacity Samsung T5 SSD in Flash Storage | Exclusive Offer Highlights by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-creativity-with-exceptional-features-the-affordable-acer-laptop-thats-a-game-changer-for-media-professionals/"><u>Unlocking Creativity with Exceptional Features: The Affordable Acer Laptop That's a Game Changer for Media Professionals</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upcoming-prime-day-specials-ultimate-best-buy-deals-featured/"><u>Upcoming Prime Day Specials - Ultimate Best Buy Deals Featured</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/satharakana-ma-fiil-ka-bhal-karana-ka-savathha-jaltha-savarapanae-ka-btha-khaya-gaya-aapaka-data-ka-fara-sa-parapata-karana-ka-maraga/"><u>स्थिरांकन में फ़ाइलों को बहाल करने का सुविधा: जल्दी स्वरूपण के बाद खोया गया? आपके डेटा को फिर से प्राप्त करने का मार्ग</u></a></li>
+</ul></div>
 

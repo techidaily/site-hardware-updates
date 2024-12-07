@@ -1,7 +1,7 @@
 ---
 title: "[Query]: What Are some Fascinating Examples of Animal Intelligence?"
-date: 2024-11-23T17:23:35.860Z
-updated: 2024-11-27T20:42:51.187Z
+date: 2024-11-30T22:45:09.720Z
+updated: 2024-12-07T02:59:23.547Z
 tags:
   - laptops
 categories:
@@ -20,7 +20,7 @@ This week, Microsoft held its fall Microsoft Surface launch event where the comp
 Surface remains one of Microsoft's most popular products, with revenue increasing 3% year-over-year by $226 million in the fourth quarter of its [2022 financial year](https://www.microsoft.com/en-us/Investor/earnings/FY-2022-Q3/more-personal-computing-performance#:~:text=Surface%20revenue%20increased%20%24195%20million,increased%20%24305%20million%20or%207%25.&text=Gross%20margin%20increased%20%24755%20million,and%20Search%20and%20news%20advertising.). But that wasn't always the case, and Surface represents a big shift in Microsoft's business over the last decade. Here is how the Surface earned its spot as one of Microsoft's best sellers. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Windows
@@ -119,21 +119,24 @@ Microsoft has to make sure that it continues to upgrade its Surface lineup to st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-elite-list-8-amazing-3d-websites-and-glittering-text/"><u>[New] 2024 Approved Elite List 8 Amazing 3D Websites & Glittering Text</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-honoring-artistry-essential-stop-motion-movies-top-15/"><u>[New] In 2024, Honoring Artistry Essential Stop-Motion Movies (Top 15)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-swiftly-adjust-video-speeds-a-users-guide-to-youtube-features/"><u>[Updated] Swiftly Adjust Video Speeds A User's Guide to YouTube Features</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/correcting-incompatibility-fixing-hp-monitor-drivers-for-windows-1087-users/"><u>Correcting Incompatibility: Fixing HP Monitor Drivers for Windows 10/8/7 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-drivers-for-brother-mfc-7860dw-printer-on-windows/"><u>Download and Update Drivers for Brother MFC-7860DW Printer on Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enhancing-your-social-music-experience-on-spotify-for-you-and-your-pals/"><u>Enhancing Your Social Music Experience on Spotify for You and Your Pals</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-our-top-picks-6-unique-journal-apps-to-transform-writing-habits/"><u>Exploring Our Top Picks: 6 Unique Journal Apps to Transform Writing Habits</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-radeon-rx-groovy-drivers-quick-and-simple-guide-to-updating-your-card/"><u>Get the Newest Radeon RX Groovy Drivers – Quick and Simple Guide to Updating Your Card</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-installing-new-display-drivers-for-your-toshiba-satellite-under-windows-os/"><u>Guide: Installing New Display Drivers for Your Toshiba Satellite Under Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-quick-and-simple-setup-for-your-keyspan-usa-19hs-device-driver-on-windows-pcs/"><u>Guide: Quick and Simple Setup for Your Keyspan USA-19HS Device Driver on Windows PCs</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oneplus-ace-2v-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from OnePlus Ace 2V to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-insider-guide-whatsapp-audio-talks/"><u>In 2024, The Insider Guide WhatsApp Audio Talks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instant-installation-guide-for-microsoft-wireless-mouse-amoker-driver-software/"><u>Instant Installation Guide for Microsoft Wireless Mouse amoKer Driver Software</u></a></li>
-<li><a href="https://extra-information.techidaily.com/navigate-funimates-complexities-with-ease/"><u>Navigate Funimate's Complexities with Ease</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-your-secrets-a-guide-to-finding-passwords-in-macos-keychain/"><u>Unlocking Your Secrets: A Guide to Finding Passwords in macOS Keychain</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/windows-driver-refresh-how-to-update-and-reinstall-video-card-drivers/"><u>Windows Driver Refresh: How to Update and Reinstall Video Card Drivers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-capturing-the-essence-of-hits-shortform-music-video-tips/"><u>[New] 2024 Approved Capturing the Essence of Hits Shortform Music Video Tips</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unveiling-the-instagram-success-script-for-2024/"><u>[New] Unveiling the Instagram Success Script for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-force-youtube-cc-to-stay-on-and-get-more-views/"><u>[Updated] 2024 Approved How to Force YouTube CC to Stay On and Get More Views</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unraveling-the-mystery-of-online-video-sharing/"><u>[Updated] In 2024, Unraveling the Mystery of Online Video Sharing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-restoring-windows-photo-viewer-in-windows-10-step-by-step-guide-for-2024/"><u>[Updated] Restoring Windows Photo Viewer in Windows 10 Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvdmac/"><u>DVDがMacから出てくる理由と予防策を詳しく解説</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-xiaomi-mix-fold-3-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Xiaomi Mix Fold 3? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/macau-language-diversity-cantonese-macanese-and-portuguese-unveiled/"><u>Macau Language Diversity: Cantonese, Macanese, And Portuguese Unveiled</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/sapphires-latest-budget-mini-itx-am5-motherboards-featuring-cost-saving-pcie-gen-4-now-available-in-china/"><u>Sapphire's Latest Budget Mini ITX AM5 Motherboards Featuring Cost-Saving PCIe Gen 4 - Now Available in China</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/splave-sets-unprecedented-clock-records-with-asrocks-latest-lightning-wifi-mobo-the-z790i/"><u>Splave Sets Unprecedented Clock Records with ASRock’s Latest Lightning WiFi Mobo, the Z790I</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-gigabyte-b65n-aorus-elite-ax-high-end-ice-cool-performance-pricey-but-boasts-many-usb-ports-in-depth-review/"><u>The Gigabyte B65n Aorus Elite AX: High-End Ice Cool Performance, Pricey but Boasts Many USB Ports - In-Depth Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-rare-asus-maxximus-xiii-frankenboard-custom-motherboards-with-so-dimm-slot-support-and-exclusive-kingston-fury-imprint/"><u>The Rare ASUS Maxximus XIII Frankenboard - Custom Motherboards with SO-DIMM Slot Support and Exclusive Kingston Fury Imprint</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-secret-of-evgas-masterpiece-unveiled-an-exclusive-look-at-the-declassified-motherboard/"><u>The Secret of EVGA's Masterpiece Unveiled - An Exclusive Look at the Declassified Motherboard</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-computer-hardware-toms-tech-wisdom/"><u>The Ultimate Guide to Computer Hardware - Tom's Tech Wisdom</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-review-of-asrocks-z79i-lightning-wi-fi-board-packing-punch-within-minimalist-build/"><u>The Ultimate Review of ASRock's Z79#i Lightning Wi-Fi Board – Packing Punch Within Minimalist Build</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-exploring-computer-components/"><u>Tom's Tech Insights: Exploring Computer Components</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-comprehensive-guide-and-insights/"><u>Tom's Tech Review: Comprehensive Guide & Insights</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-what-is-an-ai-presentation-maker/"><u>Updated In 2024, What Is an AI Presentation Maker?</u></a></li>
 </ul></div>
 

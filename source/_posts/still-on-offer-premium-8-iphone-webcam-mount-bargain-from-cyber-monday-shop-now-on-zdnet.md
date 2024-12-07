@@ -1,7 +1,7 @@
 ---
 title: "Still On Offer: Premium $8 iPhone Webcam Mount Bargain From Cyber Monday - Shop Now on ZDNet"
-date: 2024-11-25T20:01:04.213Z
-updated: 2024-11-27T18:33:03.008Z
+date: 2024-12-04T16:22:14.934Z
+updated: 2024-12-06T19:43:02.451Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ I've seen the likes of Belkin put out [quality iPhone mounts for this purpose](h
 All that's needed to make Continuity Camera happen is a Mac computer running MacOS Ventura, an iPhone running on iOS 16, and a mount to keep the handset afloat. That's where the Elephant Card comes in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,22 +81,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/immediate-access-secure-qualcomm-atheros-ar938x-networking-drivers-for-optimal-performance-complimentary/"><u>[Immediate Access] Secure Qualcomm Atheros AR938X Networking Drivers for Optimal Performance - Complimentary</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-pick-prime-drone-gimbals/"><u>[New] Expert Pick Prime Drone Gimbals</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-beat-the-curve-top-facebook-ad-strategies/"><u>[New] In 2024, Beat the Curve Top Facebook Ad Strategies</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-detailed-review-experience-with-samsungs-sphere-cam/"><u>[Updated] In 2024, Detailed Review Experience with Samsung's Sphere Cam</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-dissection-facebook-video-formats/"><u>2024 Approved Dissection Facebook Video Formats</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-basic-to-advanced-usage-maximize-your-experience-with-macs-preview/"><u>2024 Approved From Basic to Advanced Usage Maximize Your Experience with Mac's Preview</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-recording-your-mac-experience-for-free/"><u>2024 Approved Recording Your Mac Experience for FREE</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-the-perplexing-case-of-unexpected-video-aspects-in-instagram/"><u>2024 Approved The Perplexing Case of Unexpected Video Aspects in Instagram</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/directscreencapture-simple-and-swift-recordings-for-2024/"><u>DirectScreenCapture Simple & Swift Recordings for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-to-stop-frequent-freezes-and-crashes-while-playing-watch-dogs-legion-on-desktops/"><u>Effective Solutions to Stop Frequent Freezes & Crashes While Playing Watch Dogs: Legion on Desktops</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-linksys-ea3000-drivers-start-now/"><u>Effortless Installation of Linksys EA3000 Drivers - Start Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-install-updated-drivers-for-your-toshiba-dynabook-on-windows-computers/"><u>Find and Install Updated Drivers for Your Toshiba Dynabook on Windows Computers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/intel-hd-graphics-630-driver-issues-in-windows-solved/"><u>Intel HD Graphics 630 Driver Issues In Windows [SOLVED]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/keep-your-printer-running-smoothly-with-the-new-epson-wf-3620-windows-driver-update/"><u>Keep Your Printer Running Smoothly with the New Epson WF-3620 Windows Driver Update!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/obtain-latest-hp-envy-t39-stylew-printer-drivers-easy-download-and-installation-process/"><u>Obtain Latest HP Envy T39 Stylew Printer Drivers - Easy Download and Installation Process</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/rapid-download-compatible-geforce-rtx-2060-super-graphics-card-drivers-with-windows-10-11/"><u>Rapid Download: Compatible GeForce RTX 2060 Super Graphics Card Drivers with Windows 10, 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722963283780-speedy-windows-guide-to-downloading-and-setting-up-bcm207n02a0-drivers/"><u>Speedy Window's Guide to Downloading & Setting Up BCM207n02A0 Drivers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-enhancing-detail-in-minecraft-worlds-for-2024/"><u>[Updated] Enhancing Detail in Minecraft Worlds for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-diy-video-setups-perfect-self-portraits-for-youtubers/"><u>2024 Approved DIY Video Setups Perfect Self-Portraits for YouTubers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nce-expansion-masterclass-skyrocketing-your-youtube-numbers-for-2024/"><u>Audience Expansion Masterclass Skyrocketing Your Youtube Numbers for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/bcm204n0-driver-errors-heres-how-to-resolve-them-effortlessly/"><u>BCM204n0 Driver Errors? Here's How to Resolve Them Effortlessly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-download-find-and-install-the-right-amd-drivers-automatically/"><u>Easy Download: Find & Install the Right AMD Drivers Automatically</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-install-official-hp-printer-drivers-beginners-guide/"><u>Easy Steps: Install Official HP Printer Drivers – Beginner's Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-pc-gaming-step-up-to-a-new-level-with-asus-radeon-vii/"><u>Elevate PC Gaming: Step-Up to a New Level with Asus Radeon VII</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/exploring-the-variations-in-back-and-filter-buttons-of-portuguese/"><u>Exploring the Variations in Back & Filter Buttons of Portuguese</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210701644-9781943328956-haunted-inside-passage/"><u>Haunted Inside Passage | Free Book</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-repeat-revelry-televised-looping-of-online-media-content/"><u>In 2024, Repeat Revelry Televised Looping of Online Media Content</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-redmi-a2plus-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Xiaomi Redmi A2+</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-your-behringer-usb-audio-device-today-download-and-setup-steps/"><u>Install Your Behringer USB Audio Device Today - Download & Setup Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-installation-of-amd-drivers-experience-auto-detect-technology-now/"><u>Seamless Installation of AMD Drivers: Experience Auto-Detect Technology Now</u></a></li>
 </ul></div>
 

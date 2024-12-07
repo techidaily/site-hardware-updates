@@ -1,7 +1,7 @@
 ---
 title: Huge Discount on Apple's New M3 MacBook Air - Save $250 at the Amazon Prime Day Event in Oct | ZDNet
-date: 2024-11-20T20:21:58.689Z
-updated: 2024-11-27T20:27:37.858Z
+date: 2024-12-01T20:01:55.241Z
+updated: 2024-12-07T00:18:30.354Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Jason Hiner/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ The Apple [M3 MacBook Pro 14"](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FU
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -59,7 +59,7 @@ In addition, with up to 22 hours of battery life, the M3 improves on previous ve
 The [M3 MacBook Pros](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5JLWJK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb12ee2ea-4d7b-4e84-84d3-0702024ae9c4%7Cdtp&dtb=1) come in three iconic colors of silver, space gray, and space black, with the all-aluminum body designed to resist scratches and dents, adding to the line's durable reputation. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -98,21 +98,19 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-profit-power-up-innovative-ways-to-earning-with-youtube-mobile-views/"><u>[New] 2024 Approved Profit Power-Up Innovative Ways to Earning with YouTube Mobile Views</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-streamlining-the-process-of-ppt-recording-for-2024/"><u>[New] Streamlining the Process of PPT Recording for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-tactics-for-transformative-first-moments-in-your-podcasts/"><u>[New] Tactics for Transformative First Moments in Your Podcasts</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-elevate-visibility-mastering-youtube-success-tracks/"><u>[Updated] 2024 Approved Elevate Visibility Mastering YouTube Success Tracks</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-will-facebook-vids-air-on-tv-this-year-or-later/"><u>[Updated] Will Facebook Vids Air On TV This Year or Later?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/advanced-techniques-for-dynamic-and-dramatic-ae-heads-ups/"><u>Advanced Techniques for Dynamic and Dramatic AE Heads-Ups</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-latest-insignia-bluetooth-adapter-drivers-on-windows/"><u>Download & Install Latest Insignia Bluetooth Adapter Drivers on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-most-recent-canon-pixma-ts3322-drivers-fast-and-easy-installation-guide-included/"><u>Download the Most Recent Canon PIXMA TS3322 Drivers - Fast and Easy Installation Guide Included</u></a></li>
-<li><a href="https://win-dash.techidaily.com/expert-tips-to-correctly-update-and-fix-windows-11-bluetooth-drivers/"><u>Expert Tips to Correctly Update and Fix Windows 11 Bluetooth Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploiting-the-ghostwrite-weakness-how-an-architectural-flaw-in-risc-v-cpus-can-lead-to-unauthorized-root-access/"><u>Exploiting the GhostWrite Weakness: How an Architectural Flaw in RISC-V CPUs Can Lead to Unauthorized Root Access</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-iphone-se-2022-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your iPhone SE (2022) without Security Questions?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722970692273-latest-realtek-bluetooth-driver-download-windows-11-10/"><u>Latest Realtek Bluetooth Driver Download - Windows 11, 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/smooth-system-performance-hands-on-guide-for-updating-windows-battery-drivers/"><u>Smooth System Performance: Hands-On Guide for Updating Windows Battery Drivers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/l-star-search-leading-view-counts-on-youtube-for-2024/"><u>Social Star Search Leading View Counts on YouTube for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updating-your-epson-driver-made-simple-a-quick-tutorial-for-windows-users/"><u>Updating Your Epson Driver Made Simple: A Quick Tutorial for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-your-pc-with-the-newest-nvidia-geforce-drivers-designed-for-gaming-on-windows/"><u>Upgrade Your PC with the Newest NVIDIA GeForce Drivers Designed for Gaming on Windows</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-ultimate-list-top-game-clones-to-gta-v-for-2024/"><u>[New] Ultimate List Top Game Clones to GTA V for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfect-crossfading-techniques-using-audacity/"><u>[Updated] Perfect Crossfading Techniques Using Audacity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862816833-189-for-power-and-performance-minisforums-new-laptop-boasts-a-156-inch-144hz-1440p-screen-gaming-at-its-best/"><u>$189 for Power & Performance: Minisforum's New Laptop Boasts a 15.6 Inch, 144Hz, 1440P Screen - Gaming at Its Best</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862774023-549-for-the-lg-ultragear-34-qhd-monitor-features-g-sync-available-now-on-amazon/"><u>$549 for the LG Ultragear 34 QHD Monitor - Features G-Sync, Available Now on Amazon</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862803339-alienware-34-ultra-hd-curved-monitor-unbeatable-deal-at-best-buy-for-just-749/"><u>Alienware 34'' Ultra HD Curved Monitor - Unbeatable Deal at Best Buy For Just $749!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-swiftly-enhancing-shader-effects-in-star-wars-battlefront-ii/"><u>Expert Tips for Swiftly Enhancing Shader Effects in Star Wars Battlefront II</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862799178-get-your-game-on-acer-nitro-27-monitor-at-just-149-smooth-170hz-display/"><u>Get Your Game On: Acer Nitro 27 Monitor at Just $149 - Smooth 170Hz Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-make-a-sound-decision-on-monitors-avoid-these-errors/"><u>How to Make a Sound Decision on Monitors: Avoid These Errors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-your-setup-delivering-authentic-dolby-atmos-surround-sound-quality/"><u>Is Your Setup Delivering Authentic Dolby Atmos Surround Sound Quality?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-honor-90-lite-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Honor 90 Lite has been deleted.</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revive-broken-pictures-for-free-top-rated-software-to-repair-corrupt-images/"><u>Revive Broken Pictures for Free - Top-Rated Software to Repair Corrupt Images</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862775926-revolutionary-offer-get-a-156-inch-1080p-ips-monitor-at-record-low-price-of-6599/"><u>Revolutionary Offer: Get a 15.6-Inch 1080P IPS Monitor at Record Low Price of $65.99!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-business-success-how-process-intelligence-transforms-operations-insights-from-the-abbyy-experts/"><u>Unlocking Business Success: How Process Intelligence Transforms Operations - Insights From the ABBYY Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-future-tech-empower-your-meta-quest-3-with-ai-capabilities-faster-than-the-vision-pro-in-depth-guide/"><u>Unlocking Future Tech: Empower Your Meta Quest 3 with AI Capabilities Faster Than the Vision Pro | In-Depth Guide</u></a></li>
 </ul></div>
 

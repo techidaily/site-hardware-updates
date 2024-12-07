@@ -1,7 +1,7 @@
 ---
 title: "Apple's Upcoming October Unveiling: Anticipating the M4 Mac Mini, Latest iPad Models & Advancements in AI"
-date: 2024-11-24T19:09:16.488Z
-updated: 2024-11-27T17:17:04.317Z
+date: 2024-12-05T19:47:23.963Z
+updated: 2024-12-06T23:11:24.035Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,18 +118,21 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-a-beginners-guide-to-making-attractive-video-thumbnails-for-social-media-platforms/"><u>[New] A Beginner's Guide to Making Attractive Video Thumbnails for Social Media Platforms</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-find-the-perfect-video-collaboration-app-our-choice-of-10-free-tools-for-2024/"><u>[New] Find the Perfect Video Collaboration App Our Choice of 10 Free Tools for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-realme-c67-4g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/a-user-friendly-walkthrough-seamless-driver-rejuvenation-for-your-dell-g7s-gpu/"><u>A User-Friendly Walkthrough: Seamless Driver Rejuvenation for Your Dell G7's GPU</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-transformers-in-nlp-bert-and-gpt-examined/"><u>Demystifying Transformers in NLP: BERT & GPT Examined</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-upgrade-amd-vega-graphics-card-drivers-optimized-gaming-experience/"><u>Download and Upgrade AMD Vega Graphics Card Drivers: Optimized Gaming Experience!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fixing-the-hp-beats-audio-driver-glitch-for-optimal-performance-on-your-pc-running-windows-1187/"><u>Fixing the HP Beats Audio Driver Glitch for Optimal Performance on Your PC Running Windows 11/8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-safely-acquire-corsair-keyboard-software-and-drivers-for-windows-free-download/"><u>How to Safely Acquire Corsair Keyboard Software & Drivers for Windows - FREE Download</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-honor-x50i-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Honor X50i FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone XR Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instant-access-to-the-ft232r-uart-driver-free-easy-download/"><u>Instant Access to the FT232R UART Driver - Free, Easy Download!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-tutorial-on-acquiring-and-applying-dell-wd1f-driver-software/"><u>The Ultimate Tutorial on Acquiring and Applying Dell WD1f Driver Software</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-mastering-media-your-step-by-step-video-tweet-for-2024/"><u>[Updated] Mastering Media Your Step-by-Step Video Tweet for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-editors-toolkit-elevating-your-video-with-inshot-transitions/"><u>[Updated] The Editor's Toolkit Elevating Your Video with Inshot Transitions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-streamline-your-watching-enabling-youtube-autoplay-in-facebook-feeds/"><u>2024 Approved Streamline Your Watching Enabling YouTube Autoplay in Facebook Feeds</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/expert-review-of-bandicams-efficacy-in-multimedia-projects/"><u>Expert Review of Bandicam's Efficacy in Multimedia Projects</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-easily-change-your-ipad-iphone-and-mac-screen-time-pin-or-password/"><u>How to Easily Change Your iPad, iPhone and Mac Screen Time PIN or Password</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-samsung-galaxy-s23-tactical-edition-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ibuypower-high-performance-gaming-desktop-assessment-unmatched-strength-and-savings/"><u>IBUYPOWER High-Performance Gaming Desktop Assessment: Unmatched Strength & Savings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-of-computing-equipment-by-tomtech-expertise/"><u>In-Depth Analysis of Computing Equipment by TomTech Expertise</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-review-unlocking-performance-with-sabrents-rocket-nano-2242-1tb-ssd-for-your-m2-pcie-needs/"><u>In-Depth Review: Unlocking Performance with Sabrent's Rocket Nano 2242 1TB SSD for Your M.2 PCIe Needs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/insider-knowledge-on-cutting-edge-devices-at-toms-tech-components-blog/"><u>Insider Knowledge on Cutting-Edge Devices at Tom's Tech Components Blog</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-toms-cutting-edge-technology-insights/"><u>Mastering Tom's Cutting-Edge Technology Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-latest-in-technology-toms-expert-hardware-analysis/"><u>Navigating the Latest in Technology: Tom's Expert Hardware Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-tech-world-with-tom-comprehensive-hardware-insights-and-reviews/"><u>Navigating the Tech World with Tom: Comprehensive Hardware Insights & Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-gadgets-and-peripherals-guidance-from-toms-hardware/"><u>Navigating the World of Gadgets and Peripherals - Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-voice-manipulation-in-ps-console-titles-for-2024/"><u>The Art of Voice Manipulation in PS Console Titles for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitters-most-popular-amazon-originals-in-2e23-for-2024/"><u>Twitter's Most Popular Amazon Originals in 2E'23 For 2024</u></a></li>
 </ul></div>
 

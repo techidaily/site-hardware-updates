@@ -1,7 +1,7 @@
 ---
 title: Returning to Campus? Score Big Savings on Laptops, Tablets From Samsung | Student Deals
-date: 2024-11-21T17:28:27.037Z
-updated: 2024-11-27T17:05:21.974Z
+date: 2024-11-30T02:51:02.340Z
+updated: 2024-12-07T01:29:35.785Z
 tags:
   - laptops
 categories:
@@ -51,7 +51,7 @@ If you want to shop around, Samsung isn't the only brand offering student discou
 * [Razer Education Purchase Program](https://razer.a9yw.net/c/159047/642901/10229?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.razer.com%2Feducation%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -90,24 +90,20 @@ However, stock may expire at any time. ZDNET remains committed to finding, shari
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-10-premier-vimeo-extraction-programs-reviewed/"><u>[New] In 2024, 10 Premier Vimeo Extraction Programs Reviewed</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-50-essential-screen-savers-for-online-video-calls-for-2024/"><u>[Updated] 50 Essential Screen Savers for Online Video Calls for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-speeding-up-live-instagram-broadcasts-on-desktop/"><u>[Updated] Speeding Up Live Instagram Broadcasts on Desktop</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-flight-to-perfection-assessing-gopro-karmas-capabilities/"><u>2024 Approved Flight to Perfection Assessing GoPro Karma's Capabilities</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-sony-xperia-10-v-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Sony Xperia 10 V Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/resolved-windows-11-no-longer-removes-executable-files-unintentionally/"><u>Resolved: Windows 11 No Longer Removes Executable Files Unintentionally</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/ripristina-dati-da-hard-disk-asus-guida-rapida-allinstallazione/"><u>Ripristina Dati Da Hard Disk Asus - Guida Rapida All'installazione</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-computer-reviews-unlocking-the-power-of-technology/"><u>Tom's Computer Reviews: Unlocking the Power of Technology</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-computer-store-top-tech-reviews-and-buying-guides/"><u>Tom's Computer Store: Top Tech Reviews & Buying Guides</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-hardware-unveiled-expert-analysis-on-high-performance-tech/"><u>Tom's Hardware Unveiled: Expert Analysis on High-Performance Tech</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-comprehensive-hardware-reviews/"><u>Tom's Tech Insights: Comprehensive Hardware Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-in-depth-gadget-analysis/"><u>Tom's Tech Reviews: In-Depth Gadget Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-tier-tech-breakdowns-stay-ahead-with-toms-hardware-wisdom/"><u>Top-Tier Tech Breakdowns: Stay Ahead with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-leading-mp3-player-models-featured/"><u>Ultimate Guide to the Leading MP3 Player Models - Featured</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-toms-computer-components/"><u>Ultimate Guide to Tom's Computer Components</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-memorial-day-deal-2024-asus-tuf-gaming-laptop-with-amd-ryzen-7-just-658/"><u>Unbeatable Memorial Day Deal: 2024 ASUS TUF Gaming Laptop with AMD Ryzen 7, Just $658</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-mass-reduction-innovation-with-carbon-fibre-hewn-power-cells-for-next-gen-gadgets/"><u>Unveiling Mass Reduction Innovation with Carbon-Fibre Hewn Power Cells for Next-Gen Gadgets</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-revel-in-reality-an-extensive-review-of-lgs-high-fidelity-monitor-31mu97-b/"><u>[New] 2024 Approved Revel in Reality - An Extensive Review of LG's High-Fidelity Monitor, 31MU97-B</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-golden-grounds-guided-the-finest-treasure-maps/"><u>[Updated] In 2024, Golden Grounds Guided The Finest Treasure Maps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-step-into-high-dynamic-range-the-complete-hdr-conversion-guide/"><u>[Updated] Step Into High Dynamic Range The Complete HDR Conversion Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/acer-laptop-impresses-with-stunning-oled-display-and-high-quality-webcam-top-performers-reviewed-by-zdnet/"><u>Acer Laptop Impresses with Stunning OLED Display & High-Quality Webcam: Top Performers Reviewed by ZDNet</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/detaillierte-tipps-und-tricks-fur-die-nutzung-eines-bootfahigen-usb-laufwerks-mit-windows-11/"><u>Detaillierte Tipps Und Tricks Für Die Nutzung Eines Bootfähigen USB-Laufwerks Mit Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expand-your-digital-workspace-dual-monitor-support-now-available-on-the-m3-macbook-pro-insights/"><u>Expand Your Digital Workspace: Dual Monitor Support Now Available on the M3 MacBook Pro Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-incorporating-personal-flair-fonts-for-ae-projects/"><u>In 2024, Incorporating Personal Flair Fonts for AE Projects</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/insights-on-the-upcoming-free-android-16-anticipated-news-pricing-estimates-release-date-and-tech-specs/"><u>Insights on the Upcoming Free Android 16: Anticipated News, Pricing Estimates, Release Date & Tech Specs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/live-the-microsoft-surface-and-windows-artificial-intelligence-unveiling-zdnet-insights-and-anticipated-innovations/"><u>Live the Microsoft Surface & Windows Artificial Intelligence Unveiling - ZDNet: Insights & Anticipated Innovations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/purchase-the-revolutionary-ar-laptop-featuring-a-massive-100-inch-screen-without-using-an-external-monitor-insights-from-zdnet/"><u>Purchase the Revolutionary AR Laptop Featuring a Massive 100-Inch Screen Without Using an External Monitor – Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionizing-the-mac-experience-apple-integrates-next-gen-m4-ai-processors-across-all-models-release-timeline-revealed/"><u>Revolutionizing the Mac Experience: Apple Integrates Next-Gen M4 AI Processors Across All Models – Release Timeline Revealed</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-oppo-reno-10-pro-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Oppo Reno 10 Pro 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-laptops-unveiled-at-ces-2024-a-comprehensive-review-by-tech-radar/"><u>Top-Rated Laptops Unveiled at CES 2024: A Comprehensive Review by Tech Radar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-portable-charger-perfectly-compatible-with-your-macbook-pro-reviews-and-buyers-guide/"><u>Top-Rated Portable Charger Perfectly Compatible with Your MacBook Pro: Reviews & Buyer's Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-samsung-galaxy-f04-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Samsung Galaxy F04? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

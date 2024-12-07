@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Evaluation of Switchbot S10: A Revolutionary Self-Sufficient Robot Vacuum with Automatic Water Refilling"
-date: 2024-08-28T01:57:16.638Z
-updated: 2024-08-29T01:57:16.638Z
+date: 2024-12-01T00:59:36.844Z
+updated: 2024-12-07T04:13:04.998Z
 tags:
   - hardware
 categories:
@@ -81,8 +81,9 @@ The SwitchBot S10 robot vacuum and mop takes what we're used to and makes it mor
 Expand 
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Days of Refilling Water Tanks and Emptying Dirty Water Are Behind Us
 
 ![SwitchBot S10 Robot Vacuum At Water Station](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-at-water-station-1.jpg) 
@@ -105,9 +106,6 @@ Patrick Campanale / How-To Geek
 
 ![SwitchBot S10 Robot Vacuum Auto Water Station with Buckets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-auto-water-station-with-buckets.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Patrick Campanale / How-To Geek
 
  However, [SwitchBot does have an external water tank](https://us.switch-bot.com/products/switchbot-floor-cleaning-robot-s10?variant=47281998659817) for scenarios like this. And, while it costs $80 more, if you aren’t ready to tackle plumbing just yet (or don’t have a place to plumb it in), then this will still allow the robot vacuum/mop to work well. And, while it won’t have an infinite fresh water source, and you’ll have to refill it, there is a benefit to having the external water tank. When set up with the external source, you can, conceivably, put the water source anywhere in your home. I’d venture to only put it on a hard floor, but you’re not limited to where it has to go.
@@ -120,6 +118,10 @@ Patrick Campanale / How-To Geek
 
 ![SwitchBot S10 Robot Vacuum AI Object Detection Moving Around Shoe](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-ai-object-detection-moving-around-shoe.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Patrick Campanale / How-To Geek
 
  Robot vacuums are nice in that they do a task for you, and can do it at any time of the day (or night). Well, having used several robot vacuums in the past, the S10 is definitely on the noisier side of the ones I’ve used. While there are multiple vacuum modes, and “standard” suction is quite quiet, it also doesn’t pick up a lot.
@@ -131,8 +133,9 @@ Patrick Campanale / How-To Geek
  To remedy this, I just set the vacuum strength to the strongest it could be, and that allowed the S10 to pick up the junk that was on the floor with relative ease, though it was much, much louder during the process. I wouldn’t recommend running the S10 at night with how loud it is, as it would keep me up while cleaning.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  The S10 Could Do a Better Job at Cleaning Under Cabinets and at Transitions![SwitchBot S10 Robot Vacuum Cleaning Floor](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-cleaning-floor.jpg) 
 
  In addition to having to turn the suction up to the strongest setting to get the S10 to effectively clean my hard floors, it also didn’t do the best at cleaning under the toe kick of my cabinets or at the transitions from hard floors to carpets. There’s the side brush that’s supposed to kick the stuff along the side into the path of the vacuum, but, because of how tall the vacuum is, it just doesn’t fit under those cabinet areas. Now, your mileage may vary, as our house was built in 1993, and the toe kicks are shorter than in modern homes. But, it’s a problem I ran into nonetheless.
@@ -141,16 +144,10 @@ Patrick Campanale / How-To Geek
 
  Outside these two areas, however, the S10 was pretty run-of-the-mill when it comes to cleaning performance. It vacuumed the hard floors well, and the carpets were left clean as well once it ran. It left nice carpet lines too, which was a bonus. However, as typical with robot vacuums, watch out for rugs with tassels. It’ll eat them and pull the rug along with it.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Where It Lacks in the Vacuum Department, the Mop Shines
 
 ![SwitchBot S10 Robot Vacuum Going Around Chair](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-going-around-chair.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Patrick Campanale / How-To Geek
 
  While the vacuum portion of the S10 had some issues with a few areas of my home, the mop didn’t disappoint at all. I was very impressed with how well the mop worked, and it quickly cleaned up my floor and made it look fantastic. I wasn’t even using the cleaning solution that SwitchBot offers, either. This means that, if you used the solution, it could clean better, but I see no need for it. At least, not at my house. I didn’t try the “wetter” setting for the mop, as my floors were left basically dry and very clean after the robot was done.
@@ -163,16 +160,14 @@ Close
 
  This helps a lot with cleaning up and is particularly useful if you have a dusty mess for it to clean. I simulated spilling flour on the floor by putting some baking soda in the path of the vacuum. When set to clean and mop (and one time only), it left tracks all over the place. However, when I flipped it to clean twice, it went back and picked up the original tracks the second time since it shifted the cleaning route by 90 degrees. So, if you want the most thorough clean possible, you'll want to make sure to enable the two passes and be prepared for cleaning to take twice as long. But, on the bright side, the vacuum is smart enough to dock itself to empty the dust bin or empty the dirty water/refill the clean water tank mid-cleaning, as well as charge, should it need to.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Don’t Place Your Dock on the Carpet
 
 ![SwitchBot S10 Robot Vacuum Dock On Hard Floor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-dock-on-hard-floor.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Patrick Campanale / How-To Geek
 
  In the multiple robot vacuums I’ve owned or used, I’ve never had a problem with dock location. However, the S10 just simply refused to dock while on the carpet. In talking with a few of the other editors and writers here at How-To Geek, this seems to be something that occasionally happens with certain vacuums and not others. The thought is that docks with a long plastic entryway for the wheels to go on work best on carpets, and the more sleek docks (like the S10 has) don’t work as well on carpets.
@@ -189,13 +184,14 @@ Close
 
  Resizing furniture pieces was a little finicky and sometimes worked, and other times didn’t. However, no-go zones were typically pretty reliable to resize. And, this is something that could easily be fixed in a future app update.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  No Camera Access Is Both a Pro and Con
 
 ![SwitchBot S10 Robot Vacuum AI Detection Camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-front-on-carpet.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 Patrick Campanale / How-To Geek
 
  The AI camera on the SwitchBot S10 has both pros and cons. It works fairly well, and it noticed shoes as well as wires when driving around my house. It auto-updates as it cleans, so if something is in the way that wasn’t before, it gets visually tagged. And, if something was there previously and is gone now, it also realizes that too.
@@ -204,13 +200,18 @@ Patrick Campanale / How-To Geek
 
  I don’t see SwitchBot changing this in the future, as they’re touting this as a security feature that other vacuums don’t have, but it would be nice to have a toggle to tell it “only process on-device” or “let me stream the camera” so that way as the end user, it’s an option you or I could choose.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Should You Buy the SwitchBot S10 Robot Vacuum/Mop?
 
 ![SwitchBot S10 Robot Vacuum Top View](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-top-view.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Patrick Campanale / How-To Geek
 
  The [SwitchBot S10 robot vacuum](https://www.amazon.com/SwitchBot-Stations-Draining-Refilling-Hands-Free/dp/B0CSNB6TF8?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003740&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fswitchbot-s10-robot-vacuum-review%2F&asc%5Fcampaign=Authority) is a premium cleaner. With a retail price of $1,199.99 direct from SwitchBot, it’s competing with a lot of other high-end models from various well-known brands.
@@ -222,8 +223,9 @@ Patrick Campanale / How-To Geek
 ![SwitchBot S10 Robot Vacuum and Mop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/switchbot-s10-robot-vacuum-mop.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  SwitchBot S10 Robot Vacuum and Mop
 
 7/ 10 
@@ -240,8 +242,6 @@ The SwitchBot S10 robot vacuum and mop takes what we're used to and makes it mor
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -249,4 +249,18 @@ The SwitchBot S10 robot vacuum and mop takes what we're used to and makes it mor
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/op-picks-the-best-10-recorders-for-podcasting-for-2024/"><u>[New] Top Picks The Best 10 Recorders for Podcasting for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-fix-help-nvidia-games-running-slow-on-my-pc/"><u>[Quick-Fix] Help! Nvidia Games Running Slow on My PC?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-from-novice-to-pro-paving-the-way-in-graphics-careers/"><u>[Updated] 2024 Approved From Novice to Pro Paving the Way in Graphics Careers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-navigating-the-world-of-snapchat-for-professional-growth/"><u>[Updated] Navigating the World of Snapchat for Professional Growth</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oppo-reno-10-proplus-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Oppo Reno 10 Pro+ 5G Device SIM</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expand-your-digital-workspace-dual-monitor-support-now-available-on-the-m3-macbook-pro-insights/"><u>Expand Your Digital Workspace: Dual Monitor Support Now Available on the M3 MacBook Pro Insights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-nba-action-at-home-the-best-15-ways-to-watch-games-online-for-2024/"><u>Free NBA Action at Home The Best 15 Ways to Watch Games Online for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/purchase-the-revolutionary-ar-laptop-featuring-a-massive-100-inch-screen-without-using-an-external-monitor-insights-from-zdnet/"><u>Purchase the Revolutionary AR Laptop Featuring a Massive 100-Inch Screen Without Using an External Monitor – Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionizing-the-mac-experience-apple-integrates-next-gen-m4-ai-processors-across-all-models-release-timeline-revealed/"><u>Revolutionizing the Mac Experience: Apple Integrates Next-Gen M4 AI Processors Across All Models – Release Timeline Revealed</u></a></li>
+<li><a href="https://facebook.techidaily.com/second-life-rising-meet-the-new-metaverse-demands/"><u>Second Life Rising? Meet the New Metaverse Demands?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-portable-charger-perfectly-compatible-with-your-macbook-pro-reviews-and-buyers-guide/"><u>Top-Rated Portable Charger Perfectly Compatible with Your MacBook Pro: Reviews & Buyer's Guide</u></a></li>
+</ul></div>
 

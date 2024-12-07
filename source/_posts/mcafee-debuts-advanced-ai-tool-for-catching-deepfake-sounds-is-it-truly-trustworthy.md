@@ -1,7 +1,7 @@
 ---
 title: McAfee Debuts Advanced AI Tool for Catching Deepfake Sounds - Is It Truly Trustworthy?
-date: 2024-11-22T17:49:27.231Z
-updated: 2024-11-27T17:02:55.915Z
+date: 2024-11-29T16:45:27.982Z
+updated: 2024-12-06T18:37:22.559Z
 tags:
   - laptops
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to configure specific DNS servers on your Chromebook
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **What you'll need:** The only thing you'll need for this is a Chromebook with an updated version of Chrome OS. Make sure to always keep your operating system up-to-date, so you always have the latest features and (more importantly) the latest security and bug fixes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Settings
@@ -61,7 +61,7 @@ Screenshot by Jack Wallen/ZDNET
 **Also: [How to connect to a network share from your Chromebook](https://www.zdnet.com/home-and-office/work-life/how-to-connect-to-a-network-share-from-your-chromebook/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable automatic IP address configuration
@@ -73,7 +73,7 @@ By default, Chrome OS uses DHCP to acquire IP addresses. To use a specific DNS s
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change the Name Servers
@@ -120,19 +120,22 @@ And that's all you need to do to give your Chromebook a speed and security boost
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-bringing-lectures-to-life-effective-editing-techniques/"><u>[New] In 2024, Bringing Lectures to Life Effective Editing Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-live-stream-on-youtube-gaming/"><u>[New] In 2024, How to Live Stream on YouTube Gaming?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-loop-video-liftoff-engaging-audiences-on-ig/"><u>2024 Approved Loop Video Liftoff Engaging Audiences on IG</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unleashing-the-best-mobile-moba-battles/"><u>2024 Approved Unleashing the Best Mobile MOBA Battles</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-ryzen-motherboard-driver-installation-latest-version-available-now/"><u>AMD Ryzen Motherboard Driver Installation - Latest Version Available Now</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortless-user-discovery-on-facebook-a-guide-to-six-strategies/"><u>Effortless User Discovery on Facebook: A Guide to Six Strategies</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-11-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 11 iOS? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagram-vids-determining-the-perfect-dimensions-for-2024/"><u>Instagram Vids Determining the Perfect Dimensions for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722964032922-logitech-g402-gamepad-drivers-and-downloads-get-set-up-today/"><u>Logitech G402 Gamepad Drivers & Downloads - Get Set Up Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722973683867-no-cost-full-features-how-to-easily-obtain-qualcomm-atheros-ar938x-driver-downloads-today/"><u>No Cost, Full Features: How to Easily Obtain Qualcomm Atheros AR938X Driver Downloads Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/solution-to-mitigate-arc-blow-at-high-current-settings-a-welder-can-adjust-ground-clamp-positioning-turn-off-interfering-components-and-modify-their-welding106/"><u>Solution: To Mitigate Arc Blow at High Current Settings, a Welder Can Adjust Ground Clamp Positioning, Turn Off Interfering Components, and Modify Their Welding Technique by Altering Travel Speed and Electrode Angle</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-resolution-addressing-and-fixing-issues-with-samsungs-universal-driver-in-windows/"><u>Step-by-Step Resolution: Addressing and Fixing Issues with Samsung's Universal Driver in WINDOWS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/successfully-overcoming-device-driver-hurdles-on-windows-7-8-and-tenth-with-startech/"><u>Successfully Overcoming Device Driver Hurdles on Windows 7, 8 & Tenth with StarTech</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-explore-the-best-in-class-pc-vr-headsets/"><u>[New] In 2024, Explore the Best-In-Class PC VR Headsets</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-rotation-revelations-guide-crafting-captivating-images-on-social-media/"><u>[Updated] 2024 Approved The Rotation Revelations Guide Crafting Captivating Images on Social Media</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-groundwork-for-av1-mastery-for-2024/"><u>[Updated] Groundwork for AV1 Mastery for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-snagting-smiles-on-iphones-and-androids-from-twitters-timeline/"><u>[Updated] Snagting Smiles on iPhones & Androids From Twitter's Timeline</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-installing-camera-drivers-for-windows-users-win111087/"><u>Easy Guide to Downloading & Installing Camera Drivers for Windows Users (Win11/10/8/7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-downloads-logitech-g35-sound-card-drivers-compatible-with-modern-windows-os/"><u>Free Downloads: Logitech G35 Sound Card Drivers Compatible with Modern Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-geforce-rtx-2070-driver-for-your-pc-on-windows-11-8-or-7/"><u>Get the Newest Geforce RTX 2070 Driver for Your PC on Windows 11, 8 or 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-install-new-steelseries-mouse-software-and-enhance-performance/"><u>How to Easily Install New SteelSeries Mouse Software and Enhance Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-laserjet-printer-support-find-and-install-the-correct-windows-p1102w-driver-software-now/"><u>HP LaserJet Printer Support: Find and Install the Correct Windows P1102w Driver Software Now!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-samsung-galaxy-s24-ultra-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Samsung Galaxy S24 Ultra to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-updated-hp-graphics-on-windows-11-pc/"><u>Install Updated HP Graphics on Windows 11 PC</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/resurrecting-files-windows-edition/"><u>Resurrecting Files: Windows Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ricoh-mp-c3003-driver-download-step-by-step-tutorial-for-smooth-setup/"><u>Ricoh Mp C3003 Driver Download - Step-by-Step Tutorial for Smooth Setup</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-correcting-issues-with-hp-screen-driver-for-windows-1087-systems/"><u>Step-by-Step Guide to Correcting Issues with HP Screen Driver for Windows 10/8/7 Systems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/step-by-step-live-stream-via-network-in-vlc-for-2024/"><u>Step-by-Step Live Stream via Network in VLC for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-the-best-wireless-keyboards/"><u>The Ultimate Guide to the Best Wireless Keyboards</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-epson-wf-3520-driver-for-seamless-windows-printing-experience/"><u>Update Your Epson WF-3520 Driver for Seamless Windows Printing Experience</u></a></li>
 </ul></div>
 

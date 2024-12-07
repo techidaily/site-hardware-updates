@@ -1,7 +1,7 @@
 ---
 title: MacBook Air at an Unbeatable Price of Just $280 - Spotted by ZDNet
-date: 2024-11-25T16:25:40.458Z
-updated: 2024-11-27T19:42:34.411Z
+date: 2024-12-06T00:32:34.669Z
+updated: 2024-12-07T01:14:07.383Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,16 +81,20 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-top-strategies-for-efficient-mobizen-screencasting/"><u>[New] Top Strategies for Efficient Mobizen Screencasting</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-song-selection-guide-copyright-free-melodies-for-montages/"><u>2024 Approved Song Selection Guide Copyright-Free Melodies for Montages</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/bypassing-issues-installing-asus-pce-ac56-drivers-on-windows-7811-successfully-resolved/"><u>Bypassing Issues: Installing Asus PCE-AC56 Drivers on Windows 7/8/11 Successfully Resolved</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effective-techniques-to-repair-realteks-rtl8811au-network-interface-drivers/"><u>Effective Techniques to Repair Realtek's RTL8811AU Network Interface Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-tips-for-acer-nitro-5-driver-maintenance-and-update-processes/"><u>Expert Tips for Acer Nitro 5 Driver Maintenance and Update Processes</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro Max To Other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-f54-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Samsung Galaxy F54 5G Phone without Google Account?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-samsung-galaxy-a24-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Samsung Galaxy A24 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-best-android-video-editing-apps-free-and-paid-options-for-2024/"><u>New Best Android Video Editing Apps Free and Paid Options for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-best-free-video-rotators-for-3gp-files-a-comprehensive-list-for-2024/"><u>New The Best Free Video Rotators for 3GP Files A Comprehensive List for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updated-amd-rx-5700-xt-graphics-driver-download-for-seamless-performance-on-windows-operating-systems/"><u>Updated AMD RX 5700 XT Graphics Driver Download for Seamless Performance on Windows Operating Systems</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-dailymotion-elites-in-snapchat-world/"><u>[New] 2024 Approved Dailymotion Elites in Snapchat World</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-easy-steps-to-capturing-films-on-various-operating-systems-for-2024/"><u>[New] Easy Steps to Capturing Films on Various Operating Systems for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-how-to-enable-youtube-videos-to-self-play-on-facebook/"><u>[Updated] How to Enable Youtube Videos to Self-Play on Facebook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-sci-fis-virtual-frontiers-top-10-metaverse-escapes/"><u>2024 Approved Sci-Fi's Virtual Frontiers Top 10 Metaverse Escapes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-ultimate-showdown-gopro-max-360-vs-hero-11-analysis/"><u>2024 Approved The Ultimate Showdown GoPro Max 360 VS Hero 11 Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-lenovo-t420-driver-update-instructions-for-windows-operating-systems/"><u>Complete Lenovo T420 Driver Update Instructions for Windows Operating Systems</u></a></li>
+<li><a href="https://win-bits.techidaily.com/comprehensive-aomei-software-guides-simplify-your-data-backup-with-one-click-solutions/"><u>Comprehensive AOMEI Software Guides: Simplify Your Data Backup with One-Click Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-master-the-pioneer-dj-ddj-sx2-fast-track-to-music-production-success/"><u>Download & Master the Pioneer DJ DDJ-SX2: Fast Track to Music Production Success</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-epson-ds-530-software-update-drive-support-for-windows-10-64-bit/"><u>Get the Latest Epson DS- 530 Software Update - Drive Support for Windows 10 (64-Bit)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-downloading-latest-graphics-card-software-for-your-acer-predator-xb27-3-hu/"><u>Hassle-Free Downloading: Latest Graphics Card Software for Your Acer Predator XB27^ 3 HU</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-chronicles-virtual-realitys-history/"><u>In 2024, Immersive Chronicles Virtual Reality's History</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prime-platforms-3d-models-in-animation/"><u>In 2024, Prime Platforms 3D Models in Animation</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-looking-forward-to-complement-your-weekend-evenings-with-a-fantasy-tour-to-the-anime-world-stay-here-to-pick-the-most-appealing-alternativ/"><u>New 2024 Approved Looking Forward to Complement Your Weekend Evenings with a Fantasy Tour to the Anime World? Stay Here to Pick the Most Appealing Alternative From the Best and Timeless Anime Creations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-setup-razer-mamba-driver-download-at-lightning-speed/"><u>Quick Setup: Razer Mamba Driver Download at Lightning Speed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solution-a-late-intrauterine-infection-may-result-in-less-severe-presentation-with-fewer-findings-like-hepatosplenomegaly-whereas-an-early-infection-can-lea16/"><u>Solution: A Late Intrauterine Infection May Result in Less Severe Presentation with Fewer Findings Like Hepatosplenomegaly, Whereas an Early Infection Can Lead to More Pronounced Features of the Classic Triad.</u></a></li>
 </ul></div>
 

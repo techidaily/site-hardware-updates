@@ -1,7 +1,7 @@
 ---
 title: "Bulk Up Your Storage with a Steep Discount: Get the 8TB Samsung T5 at Amazon for 36%% Less After Prime Day | ZDNET"
-date: 2024-11-20T18:00:19.142Z
-updated: 2024-11-27T17:12:27.314Z
+date: 2024-12-02T23:18:02.454Z
+updated: 2024-12-06T16:00:32.292Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2d460d9b-c08e-42f0-88ee-8dd732741921%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,18 +65,22 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-infinite-visual-fidelity-premium-hdmi-21-gaming-displays-ps5/"><u>[New] 2024 Approved Infinite Visual Fidelity Premium HDMI 2.1 Gaming Displays (PS5)</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-mastering-free-and-paid-tools-for-vimeo-video-downloads/"><u>[New] In 2024, Mastering Free & Paid Tools for Vimeo Video Downloads</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-key-to-youtube-stardom-reaching-submillion-status/"><u>[New] The Key to YouTube Stardom Reaching Submillion Status</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-newest-usb-30-windows-drivers-step-by-step-installation-tutorials/"><u>Download the Newest USB 3.0 Windows Drivers – Step-by-Step Installation Tutorials</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722970791567-get-your-free-behringer-driver-software-now/"><u>Get Your Free Behringer Driver Software Now!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Itel P55 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-transforming-shopping-insights-into-youtube-paychecks/"><u>In 2024, Transforming Shopping Insights Into YouTube Paychecks</u></a></li>
-<li><a href="https://games-able.techidaily.com/investment-tactics-fortnite-coins-on-sonys-platform/"><u>Investment Tactics: Fortnite Coins on Sony's Platform</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-learning-from-images-to-effective-youtube-thumbnails/"><u>Rapid Learning From Images To Effective YouTube Thumbnails</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/realtek-card-reader-drivers-download-and-install-on-windows-10-devices/"><u>Realtek Card Reader Drivers: Download & Install on Windows 10 Devices</u></a></li>
-<li><a href="https://howto.techidaily.com/tecno-spark-20-proplus-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 20 Pro+ Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-tutorial-on-how-to-refresh-audio-technica-sound-card-software/"><u>The Ultimate Tutorial on How to Refresh Audio Technica Sound Card Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-task-scheduler-automate-batch-operations/"><u>Unlocking Task Scheduler: Automate Batch Operations</u></a></li>
+<li><a href="https://article-posts.techidaily.com/1718032495933-updated-360-degree-cameras-vs-3d-cameras-what-are-the-differences/"><u>[Updated] 360 Degree Cameras Vs 3D Cameras What Are the Differences?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-cut-the-boring-watch-these-15-hilarious-youtube-bites-for-2024/"><u>[Updated] Cut the Boring, Watch These 15 Hilarious YouTube Bites for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-internet-idolaters-top-ten-youtube-sensations-for-2024/"><u>[Updated] Internet Idolaters Top Ten YouTube Sensations for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/activer-la-protection-systeme-requise-pour-ce-lecteur-guide-rapide-et-complet/"><u>Activer La Protection Système Requise Pour Ce Lecteur - Guide Rapide Et Complet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/begin-every-question-with-either-have-you-considered-what-if-you-tried-or-could-it-be-beneficial-to/"><u>Begin Every Question with Either Have You Considered, What if You Tried, or Could It Be Beneficial To</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comparing-amds-latest-titans-ryzen-9900x-vs-970ex-vs-9600x-in-cinebench-unveiling-performance-scores/"><u>Comparing AMD's Latest Titans: Ryzen 9900X vs 970eX vs 9600X in Cinebench - Unveiling Performance Scores</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-hp-laserjet-pro-m402n-on-your-pc-with-windows-os/"><u>Easy Installation of HP LaserJet Pro M402n on Your PC with Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-compatibility-download-new-drivers-for-your-brother-hl-l2370dw-printer-today/"><u>Ensure Compatibility: Download New Drivers for Your Brother HL-L2370DW Printer Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensuring-optimal-performance-upgrading-lenovo-camera-drivers-for-windows-7-systems/"><u>Ensuring Optimal Performance: Upgrading Lenovo Camera Drivers for Windows 7 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratis-scannen-van-cr2-biljetten-in-digitale-beeldvorming-omzetten-en-opslaan-via-movavi/"><u>Gratis Scannen Van CR2-Biljetten in Digitale Beeldvorming - Omzetten en Opslaan via Movavi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-google-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Google Phone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-steelseries-arctis-gear-software-upgrades-installed/"><u>How to Get the Latest SteelSeries Arctis ^ Gear Software Upgrades Installed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-download-and-update-microsoft-drivers-in-windows-11-8-and-7-step-by-step-instructions/"><u>How to Seamlessly Download and Update Microsoft Drivers in Windows 11, 8 & 7 - Step by Step Instructions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/improve-your-network-speed-download-updated-drivers-for-the-high-end-killer-e2t500-gigabit-card/"><u>Improve Your Network Speed: Download Updated Drivers for the High-End Killer E2t500 Gigabit Card</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-m14-4gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy M14 4Gwith/without a PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-vga-driver-software-download-and-installation-instructions-for-optimal-performance/"><u>Latest VGA Driver Software: Download and Installation Instructions for Optimal Performance</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/protecting-against-fake-mail-fraud-identifying-and-preventing-email-hijacking/"><u>Protecting Against Fake Mail Fraud: Identifying & Preventing Email Hijacking</u></a></li>
 </ul></div>
 

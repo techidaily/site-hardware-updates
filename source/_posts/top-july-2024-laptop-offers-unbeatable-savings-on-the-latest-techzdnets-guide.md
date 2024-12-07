@@ -1,7 +1,7 @@
 ---
 title: Top July 2024 Laptop Offers - Unbeatable Savings on the Latest Tech![ZDNet's Guide]
-date: 2024-11-20T16:37:07.450Z
-updated: 2024-11-27T19:51:53.586Z
+date: 2024-11-30T04:06:43.417Z
+updated: 2024-12-06T17:10:35.186Z
 tags:
   - laptops
 categories:
@@ -23,6 +23,10 @@ If you see something that looks like a great deal, we recommend adding it to you
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best laptop deals
 
@@ -95,11 +99,11 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Low-Blue-Processor-Ethernet-Bluetooth%2Fdp%2FB0CVN88CFX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7416397a-03d3-4af7-ac08-8fcae75ad900%7Cdtp&dtb=1) 
 
-## Alternative laptop deals
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Alternative laptop deals
 
 ### Amazon laptop deals
 
@@ -137,10 +141,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [ASUS Zenbook 14-inch OLED touchscreen laptop deal for $1,300 (save $200) $1,300 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-zenbook-14-120hz-oled-touch-laptop-evo-intel-13-gen-core-i9-with-32gb-memory-nvidia-geforece-rtx-3050-1tb-ssd-gray%2F6548463.p%3FskuId%3D6548463&publisher_slug=itechdaily19598&exclusive=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Apple MacBook deals
 
 [Apple MacBook Air, 15-inch, M2 chip, 1TB deal for $1,599 (save $300) $1,599 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-macbook-air-15-laptop-m2-chip-16gb-memory-1tb-ssd-midnight%2F6382794.p%3FskuId%3D6382794&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -152,6 +152,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Apple MacBook Pro, refurbished, 15-inch, 16GB RAM deal for $800 (save $2,000) $800 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-refurbished-macbook-pro-15-display-with-touch-bar-intel-core-i7-16gb-memory-amd-radeon-pro-560x-512gb-ssd-space-gray%2F6515403.p%3FskuId%3D6515403&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose these laptop deals?
 
@@ -165,6 +169,10 @@ When compiling the list of the best deals, we considered the following:
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What specifications do I need to look for in a laptop?
 
 The right specs depend on your needs and how you intend to use your new laptop -- whether for gaming, studies, video calling, or simply daily internet surfing. We break it down for you below:
@@ -175,16 +183,12 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Do I need a gaming laptop or a "regular" laptop?
 
 Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular laptop with high specs, but content creators or those who work with heavy editing software should opt for a designer's laptop or a gaming laptop. Not because, of course, you want to have the best gaming specs on the side, but because those laptops come with powerful CPUs, GPUs, and high RAM to handle the heavy requirements that software needs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How much should I pay for a good laptop?
 
@@ -202,10 +206,6 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Apple deals](https://www.zdnet.com/article/apple-deals/)
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best deals by category
 
@@ -257,24 +257,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-a-step-by-step-roadmap-for-masterful-instagram-photos-for-2024/"><u>[Updated] A Step-by-Step Roadmap for Masterful Instagram Photos for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-navigating-previewed-fb-activity-is-it-safe-or-not/"><u>[Updated] In 2024, Navigating Previewed FB Activity Is It Safe or Not?</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-the-editors-edge-insider-strategies-to-supercharge-your-photos/"><u>[Updated] The Editor's Edge Insider Strategies to Supercharge Your Photos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-unlocking-successful-srt-shipping-out-of-premiere-for-2024/"><u>[Updated] Unlocking Successful SRT Shipping Out of Premiere for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/brother-mfc-l2740dw-freshly-updated-windows-driver-downloads-available/"><u>Brother MFC-L2740DW: Freshly Updated Windows Driver Downloads Available</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-sony-vaio-drivers-on-windows-a-comprehensive-guide/"><u>Download & Install Sony VAIO Drivers on Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-setup-amd-radeon-rx-590-driver-installation-guide-for-windows-users/"><u>Easy Setup: AMD Radeon RX 590 Driver Installation Guide for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-update-and-download-of-amd-ryzen-graphics-drivers-stay-protected/"><u>Effortless Update and Download of AMD Ryzen Graphics Drivers – Stay Protected!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-latest-intel-network-drivers-compatible-with-windows-11-10-and-7/"><u>Get Your Latest Intel Network Drivers - Compatible with Windows 11, 10 & 7</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-oppo-find-x6-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Oppo Find X6 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/offline-driver-installation-guide-for-windows-systems/"><u>Offline Driver Installation Guide for Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/optimize-your-system-essential-sound-drivers-for-windows-7-start-your-download-today/"><u>Optimize Your System: Essential Sound Drivers for Windows 7 - Start Your Download Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-downloading-the-newest-zebra-printer-drivers-for-windows-computers/"><u>Step-by-Step Guide to Downloading the Newest Zebra Printer Drivers for Windows Computers</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209659105-9780738285313-stop-missing-your-life/"><u>Stop Missing Your Life | Free Book</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/streamline-your-sessions-the-discord-recorders-handbook-for-2024/"><u>Streamline Your Sessions The Discord Recorder’s Handbook for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/superior-green-tech-in-video-production-for-2024/"><u>Superior Green Tech in Video Production for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-correcting-reverse-character-entry-on-pcs/"><u>Tips for Correcting Reverse Character Entry on PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-tech-the-comprehensive-guide-by-toms-hardware/"><u>Unveiling the Latest in Tech: The Comprehensive Guide by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-implements-new-bios-upgrade-with-microsofts-dynamic-led-management-streamlining-performance/"><u>Asus Implements New BIOS Upgrade with Microsoft's Dynamic LED Management, Streamlining Performance</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/canvas-hidden-power-ups-for-stunning-visuals-for-2024/"><u>Canva's Hidden Power-Ups for Stunning Visuals for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-pci-express-pcie-gen-7-proposal-ready-eyes-set-on-official-release/"><u>Complete PCI Express (PCIe) Gen 7 Proposal Ready - Eyes Set On Official Release</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/cutting-edge-msi-motherboard-hits-market-unveiling-the-first-with-innovative-camm2-memory-for-gamers-rig-performance-boost/"><u>Cutting-Edge MSI Motherboard Hits Market: Unveiling the First with Innovative CAMM2 Memory for Gamers' Rig Performance Boost</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discovering-innovation-with-toms-hardware-review-guide/"><u>Discovering Innovation with Tom's Hardware Review Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevating-the-game-with-gigabytes-latest-tech-marvels-unpacking-the-powerful-aorus-xtreme-and-xtreme-ice-motherboards-and-graphics-cards-from-computex/"><u>Elevating the Game with Gigabyte's Latest Tech Marvels - Unpacking the Powerful Aorus Xtreme & Xtreme Ice Motherboards and Graphics Cards From Computex</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-locate-and-restore-missing-pin-on-windows-11-system/"><u>How To Locate and Restore Missing PIN on Windows 11 System</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-dailymotion-video-conversion-without-registration/"><u>In 2024, Free Dailymotion Video Conversion without Registration</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-srs-mastery-innovative-conversion-techniques/"><u>In 2024, SRS Mastery Innovative Conversion Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/on-deck-unbeatable-offers-on-arlo-pro-5s-your-dream-security-system-awaits/"><u>On Deck! Unbeatable Offers on Arlo Pro 5S – Your Dream Security System Awaits</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/speedy-hp-envy-section-1-advanced-problem-on-heat-exchanger-flow-arrangements/"><u>Speedy HP ENVY # Section 1: Advanced Problem on Heat Exchanger Flow Arrangements</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-iphone-photography-playbook-prime-angles-uncovered/"><u>The Ultimate iPhone Photography Playbook Prime Angles Uncovered</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Samsung Galaxy A54 5G | Dr.fone</u></a></li>
 </ul></div>
 

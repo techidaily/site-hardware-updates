@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Latest: Apple Introduces MacBook Air with Powerful M3 Chip in 13 &"
-date: 2024-11-24T17:38:32.937Z
-updated: 2024-11-27T18:56:38.617Z
+date: 2024-12-04T22:22:28.108Z
+updated: 2024-12-06T21:52:22.492Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ That's right. Apple said the "A" word, and it's not being shy about it, as my af
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple is _officially_ in the AI PC race
@@ -55,7 +55,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Apple also wants you to know that it's _been_ in the [AI PC race](https://www.zdnet.com/article/what-is-an-ai-pc-and-should-you-buy-one/) since the very beginning, with just about every Mac model now carrying neural engines for machine learning. The new MacBook Air is "the best consumer laptop for AI," the company touts in its Monday press release, but we'll have to see for ourselves when we put the 13- and 15-inch models through the wringer soon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. I can finally recommend the Midnight color
@@ -67,7 +67,7 @@ AI aside, there is one subtle design change to the new MacBooks that I really di
 Considering how easy it was to get smudges and marks on the original Midnight color of the MacBook Air -- which made lighter hue options look like rockstars -- this is a welcome change. Having fumbled with the MacBooks for a quick 10-minute photo-op, the fingerprints were noticeable, though not as bad as I remembered on the M2 Air. For me, this makes the Midnight variant recommendable again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Dual-monitor support is a bigger deal than it seems
@@ -110,18 +110,22 @@ All in all, the changes to the newest line of MacBook Air feel subtle on paper b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-unwind-the-clock-pioneering-techniques-for-youtube-video-reversal/"><u>[New] 2024 Approved Unwind the Clock Pioneering Techniques for YouTube Video Reversal</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/710-dual-16-inch-display-and-core-i5-1245nh-laptop-bundle-available-on-aliexpress-keyboard-omitted/"><u>$710 Dual 16-Inch Display and Core I5-1245nH Laptop Bundle Available on AliExpress, Keyboard Omitted</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-value-gaming-pcs-priced-at-less-than-1500/"><u>Best Value Gaming PCs Priced at Less Than $1,500</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-assessment-of-the-new-lenovo-thinkpad-x1-carbon-gen-12-a-fusion-of-portability-and-smart-tech/"><u>Comprehensive Assessment of the New Lenovo ThinkPad X1 Carbon (Gen 12): A Fusion of Portability and Smart Tech</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862741197-exclusive-offer-m3-macbook-air-laptop-powerful-16gb-compact-n-13-inch-at-a-bargain-price-of-1149/"><u>Exclusive Offer - M3 MacBook Air Laptop: Powerful 16GB / Compact N 13-Inch at a Bargain Price of $1,149!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-complete-guide-to-cleaning-up-figma-canvases/"><u>In 2024, Complete Guide to Cleaning Up Figma Canvases</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-honor-90-gt-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Honor 90 GT? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/master-your-subtitles-with-top-10-free-converter-websites-for-2024/"><u>Master Your Subtitles with Top 10 Free Converter Websites for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862735635-msi-katana-a-stealthy-beast-at-1199-equipped-with-156-display-and-nvidias-latest-rtx-4070-gpu-for-gamers/"><u>MSI Katana – A Stealthy Beast at $1,199! Equipped with 15.6 Display & NVIDIA's Latest RTX 4070 GPU for Gamers.</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-of-free-online-video-trimmers-2023-edition/"><u>New The Ultimate List of Free Online Video Trimmers 2023 Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reactivating-locked-out-windows-accounts/"><u>Reactivating Locked Out Windows Accounts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/seamless-screenshot-synergy-for-pc-users-for-2024/"><u>Seamless Screenshot Synergy for PC Users for 2024</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-tecno-camon-20-premier-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Tecno Camon 20 Premier 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-master-control-over-instagrams-post-proposals/"><u>[New] 2024 Approved Master Control Over Instagram's Post Proposals</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-immutable-tiktok-hyperlink-process-for-profiles/"><u>[New] Immutable TikTok Hyperlink Process for Profiles</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-graph-gems-2017s-statistical-youtube-surprises/"><u>[Updated] Graph Gems 2017'S Statistical YouTube Surprises</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-optimized-broadcast-sharing-live-streams-from-twitch/"><u>[Updated] Optimized Broadcast Sharing Live Streams From Twitch</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-reel-in-the-action-top-strategies-for-recording-your-minecraft-sessions-on-a-mac/"><u>2024 Approved Reel in the Action Top Strategies for Recording Your Minecraft Sessions on a Mac</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/acer-porsche-design-laptop-sale-shop-now-at-discounted-price-of-600-save-200/"><u>Acer Porsche Design Laptop Sale: Shop Now at Discounted Price of $600 – Save $200!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-brilliance-unveiling-the-hidden-gems-of-dells-best-value-laptop-revealed-by-zdnet/"><u>Affordable Brilliance: Unveiling the Hidden Gems of Dell's Best-Value Laptop Revealed by ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audio-amplification-adding-tracks-to-premiere-projects-with-ease-for-2024/"><u>Audio Amplification Adding Tracks to Premiere Projects with Ease for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/efficient-charging-meets-multimedia-a-dual-usbhdmi-hub-review-experts/"><u>Efficient Charging Meets Multimedia: A Dual USB/HDMI Hub Review Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-offer-unbeatable-price-on-metas-latest-512gb-quest-3-during-october-prime-day-sale-top-pick/"><u>Exclusive Offer: Unbeatable Price on Meta's Latest 512GB Quest 3 During October Prime Day Sale – Top Pick !</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-poco-f5-5g-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Poco F5 5G.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/prime-day-exclusive-the-top-notch-non-thinkpad-non-macbook-productivity-laptop-that-could-surprise-you-save-300/"><u>Prime Day Exclusive: The Top-Notch Non-ThinkPad, Non-MacBook Productivity Laptop That Could Surprise You - Save $300!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secrets-from-the-tech-gurus-how-i-scored-a-steal-with-an-economy-surface-pro-weitereleitung/"><u>Secrets From the Tech Gurus: How I Scored a Steal with an Economy Surface Pro #WEITERELEITUNG</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/streamline-control-switch-pro-in-steam-play-for-2024/"><u>Streamline Control Switch Pro in Steam Play for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-macbook-gear-professional-insights-and-comprehensive-reviews-techradar/"><u>Top-Ranking MacBook Gear : Professional Insights & Comprehensive Reviews | TechRadar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unpacking-my-new-purchase-the-emotional-journey-with-apples-latest-m2-macbook-air-a-zdnet-review/"><u>Unpacking My New Purchase: The Emotional Journey with Apple's Latest M2 MacBook Air - A ZDNet Review</u></a></li>
+<li><a href="https://win-blog.techidaily.com/warframe-stuck-on-loading-screen-heres-what-to-do/"><u>Warframe Stuck on Loading Screen? Here's What to Do!</u></a></li>
 </ul></div>
 

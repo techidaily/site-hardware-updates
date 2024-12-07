@@ -1,7 +1,7 @@
 ---
 title: "Reviving Retro: Why The World Needs a Comeback of Classic Beige Computers"
-date: 2024-08-28T01:59:26.966Z
-updated: 2024-08-29T01:59:26.966Z
+date: 2024-12-06T03:29:47.419Z
+updated: 2024-12-06T16:01:06.953Z
 tags:
   - hardware
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/c739c4d92993cdf5c81414cb8125592c32746d89c
 
 ## Reviving Retro: Why The World Needs a Comeback of Classic Beige Computers
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Beige PCs were popular in the 80s thanks to widespread office use and the dominance of IBM.
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/c739c4d92993cdf5c81414cb8125592c32746d89c
 * Building a retro PC with a vintage beige aesthetic while incorporating modern features is challenging and limited.
 
  If you were born before the year 2000, there's a good chance your first PC was some shade of gray or beige. What is it about the color that made virtually all computer manufacturers pick it over the now ubiquitous black?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Why Were Most PCs Beige in the First Place?
 
@@ -30,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/c739c4d92993cdf5c81414cb8125592c32746d89c
  I also want to touch on the fact that plastics turn yellow over time. Light gray and white computer parts eventually turn yellow from [UV light exposure and oxidation](https://polymer-additives.specialchem.com/tech-library/article/yellowing-of-plastic). Plus, indoor smoking was far more common, so a layer of yellow tar would slowly build up on the computers over time. This isn't the "good " kind of beige that I want to bring back—fortunately, you can often restore the original color [with the help of Retr0bright](https://app-tips.techidaily.com/expert-tips-for-retrieving-lost-whatsapp-data-on-ios-recover-texts-images-movies-and-sounds-easily/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  I Want a Blend of Modern and Retro
 
  I associate beige computers and peripherals with my childhood. I spent countless hours of quality time playing [emulator games on my dad's computer](https://screen-recording.techidaily.com/new-how-to-blur-the-video-background-in-a-microsoft-teams-meeting-in-2024/). I want to recapture that nostalgia by building a retro PC that captures the vintage beige aesthetic without sacrificing some of the modern features I've grown to love, such as tempered glass and a universal form factor that can fit modern PC parts like oversize GPUs and liquid coolers.
@@ -43,13 +52,15 @@ thumbnail: https://thmb.techidaily.com/c739c4d92993cdf5c81414cb8125592c32746d89c
 ![A beige gray retro keyboard and monitor on a wooden desk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/key.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8BitDo
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Old Beige Cases Are Great for Sleeper Builds
 
  If you're adamant about building a beige PC, why not go for the real deal? Beige PC cases are everywhere; there's a good chance you'll find a really nice one in a thrift store or at a garage sale for less than $20\. You can equip it with high-end PC parts to create a "sleeper" build that looks like an old PC from the outside but has all the latest specs on the inside.
@@ -62,8 +73,6 @@ thumbnail: https://thmb.techidaily.com/c739c4d92993cdf5c81414cb8125592c32746d89c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -71,4 +80,26 @@ thumbnail: https://thmb.techidaily.com/c739c4d92993cdf5c81414cb8125592c32746d89c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-adding-drama-to-videos-strikethrough-for-emphasis-and-clarity/"><u>[New] 2024 Approved Adding Drama to Videos Strikethrough for Emphasis and Clarity</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-constructive-cuts-streamlined-approaches-for-length-adjustments-on-vimeo/"><u>[Updated] 2024 Approved Constructive Cuts Streamlined Approaches for Length Adjustments on Vimeo</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-deciphering-and-dodging-tiktoks-hidden-rules-for-2024/"><u>[Updated] Deciphering and Dodging TikTok's Hidden Rules for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-learn-to-record-professional-quality-audio-in-audacity-macos-for-2024/"><u>[Updated] Learn to Record Professional Quality Audio in Audacity, MacOS for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-finest-videography-tools/"><u>2024 Approved The Finest Videography Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/apples-upcoming-october-unveiling-anticipating-the-m4-mac-mini-latest-ipad-models-and-advancements-in-ai/"><u>Apple's Upcoming October Unveiling: Anticipating the M4 Mac Mini, Latest iPad Models & Advancements in AI</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/beat-the-heat-the-ultimate-guide-to-choosing-a-laptop-cooler-for-peak-performance-and-longevity-zdnet/"><u>Beat the Heat: The Ultimate Guide to Choosing a Laptop Cooler for Peak Performance and Longevity | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-iphone-file-sharing-made-possible-with-new-lenovo-laptops-dont-miss-out-see-it-here/"><u>Effortless iPhone File Sharing Made Possible with New Lenovo Laptops – Don't Miss Out, See It Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-microsofts-revolutionary-ai-chip-vs-apple-macbook-the-future-unveiled-insider/"><u>Exclusive: Microsoft's Revolutionary AI Chip Vs. Apple MacBook - The Future Unveiled Insider</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-game-crashes-in-outpost-infinity-siege-a-comprehensive-walkthrough/"><u>Fixing Game Crashes in Outpost: Infinity Siege - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/from-traditional-to-split-transforming-productivity-in-a-week-using-an-ergonomic-keyboard-featured-on-zdnet/"><u>From Traditional to Split: Transforming Productivity in a Week Using an Ergonomic Keyboard | Featured on ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-a-new-rtx-eby9baefc4f-8b15-49d3-a6c4-e9c21d1d8bb0-exclusive-220-discount-now-tech-deals-at-zdnet/"><u>Get a New RTX Eby_9baefc4f-8b15-49d3-A6c4-E9c21d1d8bb0! Exclusive $220 Discount Now | Tech Deals at ZDNET!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-experience-the-next-level-of-virtual-reality-with-htcs-vive-headset/"><u>In 2024, Experience the Next Level of Virtual Reality with HTC's Vive Headset</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-monetization-a-deep-dive/"><u>In 2024, YouTube's Monetization A Deep Dive</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/themed-odyssey-the-10-most-epic-discothemes/"><u>Themed Odyssey The 10 Most Epic DiscoThemes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-picks-for-ultimate-gaming-performance-2024s-leading-laptops-from-razor-acer-msi-and-others-zdnet-comparison/"><u>Top Picks for Ultimate Gaming Performance: 2024'S Leading Laptops From Razor, Acer, MSI & Others - ZDNet Comparison</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transform-your-laptop-into-a-powerhouse-the-ultimate-discreet-docking-station-reviewed-by-tech-expert-zdnet/"><u>Transform Your Laptop Into a Powerhouse: The Ultimate Discreet Docking Station Reviewed by Tech Expert - ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-choosing-the-perfect-graphics-workstation-pc-industry-insights-from-experts-cnet-review/"><u>Ultimate Guide to Choosing the Perfect Graphics Workstation PC: Industry Insights From Experts | CNET Review</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/unlocking-vimeos-potential-screen-and-webcam-capture-mastery-for-2024/"><u>Unlocking Vimeo's Potential Screen and Webcam Capture Mastery for 2024</u></a></li>
+</ul></div>
 

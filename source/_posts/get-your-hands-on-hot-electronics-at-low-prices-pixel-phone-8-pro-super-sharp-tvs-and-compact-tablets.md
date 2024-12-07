@@ -1,7 +1,7 @@
 ---
 title: "Get Your Hands-On Hot Electronics at Low Prices: Pixel Phone 8 Pro, Super Sharp TVs & Compact Tablets"
-date: 2024-08-28T01:58:08.395Z
-updated: 2024-08-29T01:58:08.395Z
+date: 2024-12-04T01:50:10.581Z
+updated: 2024-12-06T23:59:44.300Z
 tags:
   - hardware
 categories:
@@ -27,6 +27,10 @@ The iPad Mini is more compact than a typical iPad or iPad Pro, but it can still 
 
  This week you can get the latest generation iPad Mini at one of the lowest prices we've seen yet. This popular little 8.3-inch tablet has a stunning Retina display and 64GB of storage and is currently [$120 off over on Amazon](https://www.amazon.com/dp/B09G91LXFP?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004824&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fipad-mini-sony-bose-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Pioneer 65-inch 4K Smart TV for $329 ($170 Off)](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fpioneer-65-class-led-4k-uhd-smart-xumo-tv%2F6546907.p%3FskuId%3D6546907) 
 
 ![Screenshot 2024-08-13 at 9.49.25 AM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-13-at-9-49-25-am.jpg) 
@@ -42,11 +46,16 @@ The Pioneer 65-inch smart TV is an affordable yet capable alternative to big-nam
  These days, TVs are more affordable than ever, but a lot of them come from no-name brands. And while many of you may not know that Pioneer makes TVs, it does, and you can snag this 65-inch 4K TV for [only $329 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fpioneer-65-class-led-4k-uhd-smart-xumo-tv%2F6546907.p%3FskuId%3D6546907). It'll be perfect for a spare bedroom or man cave in time for the NFL regular season.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Anker 100W 3-Port USB Type C Charging Brick for $40 ($35 Off)](https://www.amazon.com/dp/B09Q52CXX1?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004824&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fipad-mini-sony-bose-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term) 
 
 ![Screenshot 2024-08-13 at 9.59.15 AM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-13-at-9-59-15-am.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Anker 100W GaN Wall Charger
 
@@ -58,9 +67,6 @@ This capable charger can power just about any USB-C device at the highest suppor
 
  If you're looking for one wall charging brick that'll handle all your devices, Anker's 100W triple port charger covers you. With two high-powered USB-C ports and a regular USB-A option, it'll recharge phones, MacBook devices, and more. Grab yours at a [big discount from Amazon](https://www.amazon.com/dp/B09Q52CXX1?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004824&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fipad-mini-sony-bose-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term).
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Sony WH-1000XM4 Wireless Headphones for $198 ($150 Off)](https://www.amazon.com/Sony-WH-1000XM4-Canceling-Headphones-phone-call/dp/B0863TXGM3?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004824&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fipad-mini-sony-bose-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term) 
 
 ![sony xm4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/sony-xm4.png) 
@@ -76,15 +82,13 @@ Sony has the best noise-canceling capabilities, while managing to sound great wi
  One of the [best over-the-ear wireless headphones](https://mondly-stories.techidaily.com/perfezionamento-dei-numeri-italiani-per-la-comunicazione-da-1-1000/) you can buy is down to an all-time low. Yes, I'm talking about the popular Sony WH-1000XM4 ANC headphones. Amazon just dropped them by 43%, making a pair [only $198](https://www.amazon.com/Sony-WH-1000XM4-Canceling-Headphones-phone-call/dp/B0863TXGM3?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004824&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fipad-mini-sony-bose-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term).
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Google Pixel 8 Pro Smartphone for $799 ($200 Off)](https://www.amazon.com/Google-Pixel-Pro-Smartphone-Telephoto/dp/B0D94WJMTT/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004824&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fipad-mini-sony-bose-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term) 
 
 ![pixel 8pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/pixel-8pro.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Google Pixel 8 Pro
 
 $914 $999 Save $85 
@@ -96,15 +100,13 @@ The Google Pixel 8 Pro includes the search giant's latest CPU, the Tensor G3, is
  Sure, Google just announced its fancy new Pixel 9 series that'll be available soon, but the Pixel 8 Pro is still an excellent smartphone with plenty to offer. If you don't need the latest and greatest, get the [Pixel 8 Pro for $200 off at Amazon](https://www.amazon.com/Google-Pixel-Pro-Smartphone-Telephoto/dp/B0D94WJMTT/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004824&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fipad-mini-sony-bose-cheap-tv-tech-deals%2F&asc%5Fcampaign=Short-Term).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  More Tech Deals
 
 ![An iPhone in StandBy Mode on a MagSafe charging stand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/twelve-south-hirise-3-magsafe-charging-stand-iphone-standby-mode.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Christian Zibreg / How-To Geek
 
  Thankfully, tech discounts don't end there. After wandering through the endless deals on Amazon, we found several other things worth considering: get a useful MagSafe 3-in-1 charging stand, a countertop ice maker, new earbuds for school, and more.
@@ -123,8 +125,6 @@ Christian Zibreg / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +132,20 @@ Christian Zibreg / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-a-comprehensible-guide-to-saving-hulu-programs-on-multiple-devices/"><u>[Updated] 2024 Approved A Comprehensible Guide to Saving Hulu Programs on Multiple Devices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-ensemble-dynamics-crafting-collaborative-content-for-musicians/"><u>[Updated] In 2024, Ensemble Dynamics Crafting Collaborative Content for Musicians</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-picku-or-better-a-critical-look-at-androids-premier-photo-tool/"><u>[Updated] PickU or Better? A Critical Look at Android's Premier Photo Tool</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/2024-approved-what-is-ai-voice/"><u>2024 Approved What Is AI Voice?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1726028073044-2024sd/"><u>2024年モデル車両におけるSDカード音楽再生不能への解決策</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huge-discount-on-apples-new-m3-macbook-air-save-250-at-the-amazon-prime-day-event-in-oct-zdnet/"><u>Huge Discount on Apple's New M3 MacBook Air - Save $250 at the Amazon Prime Day Event in Oct | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/macbook-air-showdown-deciding-between-the-latest-m3-and-m2-processors-expert-buying-guide-by-zdnet/"><u>MacBook Air Showdown: Deciding Between the Latest M3 and M2 Processors | Expert Buying Guide by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-productivity-review-of-brydges-sp-max-plus-case-for-surface-pro-8-built-to-last/"><u>Maximize Your Productivity: Review of Brydge's SP Max Plus Case for Surface Pro 8 | Built to Last!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ating-ad-blocking-in-chrome-firefox-android-and-ios-for-youtube/"><u>Navigating Ad-Blocking in Chrome, Firefox, Android, & iOS for YouTube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-your-savings-exclusive-guide-to-early-bird-deals-on-high-performance-laptops-for-octobers-prime-shopping-event/"><u>Secure Your Savings: Exclusive Guide to Early Bird Deals on High-Performance Laptops for October's Prime Shopping Event</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-honor-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Honor Device</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unable-to-use-the-contact-list-on-your-iphone-try-these-3-troubleshooting-steps-right-now/"><u>Unable to Use the Contact List on Your iPhone? Try These 3 Troubleshooting Steps Right Now!</u></a></li>
+</ul></div>
 

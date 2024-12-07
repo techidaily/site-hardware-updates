@@ -1,7 +1,7 @@
 ---
 title: "Diagnosing RAM Issues: A Comprehensive Guide on How to Check Your PC's Memory"
-date: 2024-08-28T01:57:56.494Z
-updated: 2024-08-29T01:57:56.494Z
+date: 2024-12-05T20:19:53.964Z
+updated: 2024-12-06T23:44:43.986Z
 tags:
   - hardware
 categories:
@@ -25,9 +25,6 @@ thumbnail: https://thmb.techidaily.com/c7faa06295ae09ceb9c04771af8ef4a70065bcb58
 
  Is your PC crashing, freezing, or just unstable? There may be a problem with its RAM. To check, you can use a hidden system tool included with Windows 11, 10, and 7—or download and boot a more advanced tool.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  How RAM Testing Tools Work
 
  Your computer's [random access memory (RAM)](https://youtube-web.techidaily.com/ed-2024-approved-unlocking-youtube-success-top-video-strategies-to-explode-views/) is its working memory. Your computer's operating system and applications are continually writing data to RAM and reading it back. For example, when you load a web page like this one, your web browser stores it in RAM while you're reading it. When you launch a PC game, the game loads information from slower system storage (like a solid-state drive or hard drive) into much faster RAM.
@@ -46,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/c7faa06295ae09ceb9c04771af8ef4a70065bcb58
 
  By the way, though we're showing you different memory testing tools, it's not a bad idea to use both. Different software might be better or worse at detecting specific types of errors, so there's a minor chance one will catch something that the other doesn't. If you've got the time, we recommend getting a "second opinion" this way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Option 1: Run the Windows Memory Diagnostic
 
  Windows has a built-in RAM testing tool. It's included on Windows 10, Windows 11, Windows 7, and all other modern versions of Windows.
@@ -63,17 +64,15 @@ thumbnail: https://thmb.techidaily.com/c7faa06295ae09ceb9c04771af8ef4a70065bcb58
 ![Windows Memory Diagnostic app interface in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2024-04-22_19h10_20.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Your computer will restart and the Windows Memory Diagnostics Tool screen will appear. Just leave it be and let it perform the test. This may take several minutes. During this process, you'll see a progress bar and a "Status" message will inform you if any problems have been detected during the process.
 
  However, you don't need to watch the test—you can leave your computer alone and come back to see the results later.
 
 ![Windows Memory Diagnostics Tool running on a computer monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_20240422_133527_602.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Jordan Gloor / How-To Geek
 
  When it's done, your computer will automatically reboot and return to the Windows desktop. After you log in, the test results will appear.
@@ -84,6 +83,10 @@ Jordan Gloor / How-To Geek
 
 ![Windows 11 Power Menu with the Event Viewer menu item highlighted in a red box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-22-191747.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Navigate to Windows Logs > System. You'll see a list of a large number of events. Click "Find" in the right pane.
 
 ![Windows 11 Event Viewer window with the System and Find options highlighted in red boxes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2024-04-22_19h23_10.png) 
@@ -92,11 +95,12 @@ Jordan Gloor / How-To Geek
 
 ![Even Viewer with the Find tool searching for the term 'MemoryDiagnostic' with the Find Next and memory diagnostics results highlighted in red boxes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-22-193011.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The text doesn't wrap inside the window, so you can't see it in the screenshot above, but in our case Windows returned a message stating no errors were found in our RAM.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Option 2: Boot and Run MemTest86
 
  If you're looking for a more powerful testing tool, you can download and use [MemTest86](http://www.memtest86.com/). It performs a wider variety of tests and may find issues that the included Windows test won't. The latest releases of this tool offer a paid version with more features, although the free version should do everything you need. You don't need to pay for anything. MemTest86 is signed by Microsoft, so it will work even on systems with [Secure Boot enabled](https://youtube-help.techidaily.com/in-2024-mastering-youtube-shorts-key-facts/).
@@ -116,18 +120,11 @@ Jordan Gloor / How-To Geek
 ![MemTest86 running a memory check on a computer monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_20240422_161655_906.jpg) 
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jordan Gloor / How-To Geek
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  What to Do If a Memory Test Finds Errors
 
  If memory tests give you errors, it's very possible that your RAM—at least one of the sticks—is faulty and needs to be replaced. We recommend you contact your PC's manufacturer for service if it's still under warranty.
@@ -144,8 +141,6 @@ Jordan Gloor / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +148,18 @@ Jordan Gloor / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-straightforward-steps-upside-down-video-with-vlc-software/"><u>[Updated] 2024 Approved Straightforward Steps Upside-Down Video with VLC Software</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-financial-breakdown-of-youtube-shorts-royalties/"><u>[Updated] The Financial Breakdown of YouTube Shorts Royalties</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-value-for-virtual-reality-enthusiasts-metas-exclusive-51ebytes-of-quest-3-storage-offered-this-october-top-pick-from-prime-day-sales-zdnet/"><u>Best Value for Virtual Reality Enthusiasts: Meta's Exclusive 51Ebytes of Quest 3 Storage Offered This October - Top Pick From Prime Day Sales! | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-new-low-price-of-samsung-odyssey-g50a-27-inch-qhd-ips-monitor-only-255-on-amazon/"><u>Discover the New Low Price of Samsung Odyssey G50A 27-Inch QHD IPS Monitor - Only $255 on Amazon</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-game-day-audio-grab-the-epic-gaming-headset-system-for-35-off-at-amazon-the-inside-scoop-by-zdnet/"><u>Elevate Your Game Day Audio: Grab the Epic Gaming Headset System for 35% Off at Amazon - The Inside Scoop by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-offer-save-on-your-ideal-lenovo-laptop-designed-for-hybrid-professionals-get-1000-off-this-octobers-amazon-prime-day-zdnet/"><u>Exclusive Offer: Save on Your Ideal Lenovo Laptop Designed for Hybrid Professionals - Get $1,000 Off This October's Amazon Prime Day! | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/pc-manufacturers-brace-for-tough-season-potential-silver-lining-for-consumers-techinsight/"><u>PC Manufacturers Brace for Tough Season: Potential Silver Lining for Consumers? | TechInsight</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-recurring-wi-fi-disconnect-issues-on-iphone-with-these-5-tips/"><u>Solve Recurring Wi-Fi Disconnect Issues on iPhone with These 5 Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/stay-ahead-with-the-perfect-laptop-chiller-accessory-for-serious-users-expert-advice-and-insights/"><u>Stay Ahead with the Perfect Laptop Chiller Accessory for Serious Users | Expert Advice and Insights</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/step-by-step-breakdown-hassle-free-ios-device-recordings/"><u>Step-by-Step Breakdown Hassle-Free iOS Device Recordings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-resource-audio-recommendations-for-unboxing-content-creators/"><u>Ultimate Resource Audio Recommendations for Unboxing Content Creators</u></a></li>
+</ul></div>
 

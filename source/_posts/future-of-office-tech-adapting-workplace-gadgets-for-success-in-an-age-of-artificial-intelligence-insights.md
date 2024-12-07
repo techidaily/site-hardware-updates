@@ -1,7 +1,7 @@
 ---
 title: "Future of Office Tech: Adapting Workplace Gadgets for Success in an Age of Artificial Intelligence - Insights"
-date: 2024-11-25T17:57:21.309Z
-updated: 2024-11-27T20:43:25.904Z
+date: 2024-12-05T20:07:48.724Z
+updated: 2024-12-06T17:23:16.750Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,16 +134,15 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/download-samsung-printer-driver-for-windows/"><u>[Download] Samsung Printer Driver For Windows</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-ios-and-desktop-leaders-in-effortless-video-to-file-conversion/"><u>[New] In 2024, IOS and Desktop Leaders in Effortless Video to File Conversion</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-transform-your-iphone-footage-filming-and-slowing-down-videos/"><u>[New] Transform Your iPhone Footage Filming and Slowing Down Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-nailing-the-technique-for-snapchat-screen-time-lapses/"><u>[Updated] In 2024, Nailing the Technique for Snapchat Screen Time-Lapses</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-troubleshooting-eradicating-monitor-ghosting-in-minutes/"><u>Easy Troubleshooting: Eradicating Monitor Ghosting in Minutes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722967235502-free-access-to-the-m-audio-fast-track-ultra-driver-enhance-your-setup-today/"><u>Free Access to the M-Audio Fast Track Ultra Driver - Enhance Your Setup Today</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-13-mini-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 13 mini to Android | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/solve-your-corsair-h115i-drivers-woes-on-any-version-of-windows-a-comprehensive-guide/"><u>Solve Your Corsair H115i Drivers Woes on Any Version of Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/speedy-setup-with-samsung-download-your-nvme-storage-drive-drivers-today/"><u>Speedy Setup with Samsung - Download Your NVMe Storage Drive Drivers Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/windows-11-optimized-nvidia-geforce-210-driver-updates/"><u>Windows 11 Optimized NVIDIA GeForce 210 Driver Updates</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-safaris-picture-in-picture-feature-usage-guide/"><u>[Updated] Safari's Picture-in-Picture Feature Usage Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-examination-of-samsung-photo-editor-features/"><u>[Updated] The Ultimate Examination of Samsung Photo Editor Features</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-unleash-your-inner-tech-wizard-xbox-one-snapshot-secrets-revealed-for-2024/"><u>[Updated] Unleash Your Inner Tech Wizard Xbox One Snapshot Secrets Revealed for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862755483-249-for-a-premium-34-inch-asus-tuf-curved-gaming-screen-shop-now-on-amazon/"><u>$249 for a Premium 34-Inch Asus TUF Curved Gaming Screen - Shop Now on Amazon!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-hyper-v-on-your-windows-11-pc/"><u>Activating Hyper-V on Your Windows 11 PC</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-make-movies-for-free-top-rated-video-editing-software/"><u>New 2024 Approved Make Movies for Free Top-Rated Video Editing Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-samsung-2nd-generation-55-oled-gaming-monitor-now-at-record-lifetime-low/"><u>Unbeatable Deal: Samsung 2Nd Generation 55 OLED Gaming Monitor Now at Record Lifetime Low!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-gadgets-and-pc-building-with-toms-hardware-experts/"><u>Unveiling Gadgets & PC Building with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrading-your-setup-with-toms-computer-components/"><u>Upgrading Your Setup with Tom's Computer Components</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/260957-9781101203163-whats-missing/"><u>What's Missing? | Free Book</u></a></li>
 </ul></div>
 

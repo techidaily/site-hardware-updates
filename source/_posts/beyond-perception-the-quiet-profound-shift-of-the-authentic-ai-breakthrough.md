@@ -1,7 +1,7 @@
 ---
 title: "Beyond Perception: The Quiet, Profound Shift of the Authentic AI Breakthrough"
-date: 2024-08-28T01:57:49.656Z
-updated: 2024-08-29T01:57:49.656Z
+date: 2024-12-03T00:22:44.255Z
+updated: 2024-12-07T01:21:07.497Z
 tags:
   - hardware
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/8144bf8226080671f18a2bf4e92c933c6cecfac8b
 ---
 
 ## Beyond Perception: The Quiet, Profound Shift of the Authentic AI Breakthrough
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -23,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/8144bf8226080671f18a2bf4e92c933c6cecfac8b
 
  Qualcomm is developing a _lot_ of AI hardware and software, built up from the company’s experience with mobile image processing and other earlier implementations of on-device machine learning. The new [Snapdragon X chipsets for PC laptops](https://extra-skills.techidaily.com/updated-mobile-mastery-upgrade-photos-elevated-at-no-price/) have a dedicated neural processing unit (NPU) for on-device AI tasks. The company’s newer mobile chips, like the Snapdragon 8s Gen 3, can handle some large language models (LLMs) without help from an external server over an internet connection. Qualcomm isn’t alone here, to be clear—the latest laptop CPUs from AMD and Intel also have NPUs, and consumer Nvidia GPUs can also handle many on-device AI workloads.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Outside The Hype
 
  I know what you’re thinking. You’re tired of hearing every tech company ramble about AI like it’s the magical solution to all the world’s problems. You’re sick of the AI features popping up in your favorite apps. Maybe you’re an artist, writer, or some other creator that heard [OpenAI’s CTO say](https://fortune.com/2024/06/24/ai-creative-industry-jobs-losses-openai-cto-mira-murati-skill-displacement/) that AI could kill some creative jobs that “shouldn’t have been there in the first place,” and you’re ready to burn it all down to the ground. I get that, and I agree most implementations of “AI” right now are solutions in search of a problem or actively harmful.
@@ -33,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/8144bf8226080671f18a2bf4e92c933c6cecfac8b
 
 ![Live demo of DJ software running on a Snapdragon X Elite laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/qualcomm.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Corbin Davenport / How-To Geek
 
  The ability to run large language models on a more typical smartphone, tablet, or PC opens up other interesting use cases. For example, the upcoming [“Apple Intelligence” on iPhones, iPads, and Macs](https://some-techniques.techidaily.com/new-from-streaming-to-savings-preserving-your-internet-tunes/) will use on-device AI to sort notifications and better understand spoken language in Siri. There are some features that are harder to build and scale when they require a powerful datacenter somewhere, and that’s what hardware makers are trying to change right now.
@@ -42,8 +54,9 @@ Corbin Davenport / How-To Geek
  These advancements are pointing towards a future where more on-device AI features will be possible, and they will be implemented just like any other functionality in your favorite applications. The trend of obnoxious AI chatbots or AI-suggested replies on social media posts will eventually fade away (hopefully), but we’ll be left with the features that are _actually useful_. That’s the real AI revolution: not a giant Copilot button in Microsoft Edge, but your apps and devices becoming smarter and accomplishing specific tasks much quicker and more efficiently.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What’s Old Is New
 
  The word “AI” has lost most of its meaning over the past year or two, much like “crypto” became meaningless during [the last cryptocurrency bubble](https://en.wikipedia.org/wiki/Cryptocurrency%5Fbubble#2020%E2%80%932022%5Fcryptocurrency%5Fbubble). It might mean large language models that require expensive datacenters, or it might be the image processing algorithms used when taking a photo on a modern smartphone. There are also many AI-enabled devices that are clearly just using the term for the hype value, like [rice cookers](https://www.youtube.com/watch?v=F%5FHOrMmWoMA) with “AI Smart Cooking Technology.”
@@ -60,8 +73,6 @@ _Disclosure: My trip to San Diego, California to visit the AI Analyst & Media Wo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -69,4 +80,26 @@ _Disclosure: My trip to San Diego, California to visit the AI Analyst & Media Wo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-updates.techidaily.com/authors-full-name-unveils-exceptionally-portable-workhorse-laptop-a-dream-asset-for-home-offices-insights-and-reviews-at-zdnet/"><u>[Author's Full Name] Unveils Exceptionally Portable Workhorse Laptop, a Dream Asset for Home Offices | Insights & Reviews at ZDNET</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-unveiling-the-secrets-to-fhd-in-social-tweeting/"><u>[New] In 2024, Unveiling the Secrets to FHD in Social Tweeting</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-prime-low-cost-full-hd-cameras-for-stunts/"><u>[Updated] 2024 Approved Prime Low-Cost Full HD Cameras for Stunts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazon-prime-day-202n4-flash-sale-alert-score-huge-discounts-on-nvidia-gpu-equipped-gaming-laptops-insights-and-reviews-from-zdnet/"><u>Amazon Prime Day 202N4 Flash Sale Alert! Score Huge Discounts on Nvidia GPU-Equipped Gaming Laptops, Insights and Reviews From ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/budget-friendly-finds-secure-your-pre-owned-128gb-microsoft-surface-laptop-at-an-unbeatable-price-of-320-insider-info/"><u>Budget-Friendly Finds: Secure Your Pre-Owned 128GB Microsoft Surface Laptop at an Unbeatable Price of $320 | Insider Info</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-unmatched-portability-the-incredible-8-in-1-adapter-that-exceeds-value-and-compact-design-insights-from-zdnet/"><u>Discover Unmatched Portability: The Incredible 8-in-1 Adapter That Exceeds Value & Compact Design - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusively-invited-enjoy-windows-on-your-chromebook-or-mac-with-microsofts-latest-innovation-zdnet-insider/"><u>Exclusively Invited: Enjoy Windows on Your Chromebook or Mac with Microsoft's Latest Innovation | ZDNet Insider</u></a></li>
+<li><a href="https://fox-links.techidaily.com/explore-and-engage-ifunny-meme-downloads-for-2024/"><u>Explore & Engage IFunny Meme Downloads for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-premier-vr-experience-metas-splendid-deal-on-the-quest-3-512gb-headset-is-unbeatable-in-todays-market-insight/"><u>Get Your Hands on the Premier VR Experience: Meta's Splendid Deal on the Quest 3 512GB Headset Is Unbeatable in Today’s Market Insight</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-mend-windows-11s-system-settings-problems/"><u>How to Mend Windows 11'S System Settings Problems</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-maximize-your-youtube-viewing-download-icons-via-online-and-os-specific-methods/"><u>In 2024, Maximize Your YouTube Viewing Download Icons via Online & OS-Specific Methods</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ring-adsense-earnings-insights-into-payments-from-youtube-viewers-for-2024/"><u>Mastering AdSense Earnings Insights Into Payments From YouTube Viewers for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-mastering-fcp-5-essential-editing-techniques-to-elevate-your-videos/"><u>New 2024 Approved Mastering FCP 5 Essential Editing Techniques to Elevate Your Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/scorching-deal-alert-snag-the-hp-victus-15-gaming-laptop-for-just-515-at-best-buys-prime-day-extravaganza-tips-from-zdnet/"><u>Scorching Deal Alert: Snag the HP Victus 15 Gaming Laptop for Just $515 at Best Buy’s Prime Day Extravaganza | Tips From ZDNET</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-why-are-some-texts-not-sending-via-imessage/"><u>Troubleshooting: Why Are Some Texts Not Sending Via iMessage?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-savvy-users-choose-this-powerful-windows-laptop-over-the-macbook-air-according-to-zdnet-experts/"><u>Why Savvy Users Choose This Powerful Windows Laptop Over the MacBook Air, According to ZDNet Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnet-reviews-discovering-the-hidden-gem-in-your-new-asus-laptop-you-rarely-noticed/"><u>ZDNet Reviews: Discovering The Hidden Gem in Your New Asus Laptop You Rarely Noticed</u></a></li>
+</ul></div>
 

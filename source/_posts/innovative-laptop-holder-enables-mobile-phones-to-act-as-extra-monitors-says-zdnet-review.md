@@ -1,7 +1,7 @@
 ---
 title: Innovative Laptop Holder Enables Mobile Phones to Act as Extra Monitors, Says ZDNet Review
-date: 2024-11-21T17:58:36.243Z
-updated: 2024-11-27T18:12:46.786Z
+date: 2024-12-03T18:40:35.239Z
+updated: 2024-12-07T00:53:41.190Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ Here are some of the most interesting features I saw during my hands-on briefing
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Smart Share
@@ -61,7 +61,7 @@ Kyle Kucharski/ZDNET
 Besides the Smart Share features, there are four different "modes" that activate various features. You can toggle each feature on or off individually, to avoid being bombarded with different prompts. Here are the most impactful ones I saw during my time trying the new laptops.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shield Mode
@@ -70,7 +70,7 @@ Besides the Smart Share features, there are four different "modes" that activate
 * The VPN auto-launch feature will start your preferred VPN automatically upon connecting to any public Wi-Fi network, a handy function if you spend a lot of time working in coffee shops.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Attention Mode
@@ -80,7 +80,7 @@ Besides the Smart Share features, there are four different "modes" that activate
 Kyle Kucharski/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Collaboration Mode
@@ -88,7 +88,7 @@ Kyle Kucharski/ZDNET
 * Designed mostly for virtual meetings, activating this mode enables your preset camera features, such as background blur, low light enhancer, or touch ups.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Wellness Mode
@@ -133,24 +133,20 @@ We'll definitely be doing some additional testing of the smart modes when we get
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-top-techniques-to-captivate-viewers-with-facebook-covers-for-2024/"><u>[New] Top Techniques to Captivate Viewers with Facebook Covers for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-elevate-your-meetings-with-teamsnap-expertise/"><u>[Updated] Elevate Your Meetings with TeamSnap Expertise</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-a-close-look-at-triller-its-distinctive-features-and-positioning/"><u>[Updated] In 2024, A Close Look at Triller Its Distinctive Features and Positioning</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-perfect-your-content-with-top-tier-title-tactics-for-2024/"><u>[Updated] Perfect Your Content with Top-Tier Title Tactics for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/10-youtubers-with-most-subscribers-for-2024/"><u>10 YouTubers with Most Subscribers for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-fbs-flash-video-frontier/"><u>2024 Approved FB's Flash Video Frontier</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/a-comprehensive-walkthrough-for-fixing-webcam-issues-by-upgrading-windows-11-drivers/"><u>A Comprehensive Walkthrough for Fixing Webcam Issues by Upgrading Windows 11 Drivers</u></a></li>
-<li><a href="https://article-helps.techidaily.com/discovering-xs-the-ultimate-100-i-action-movie-maker/"><u>Discovering XS The Ultimate 100 I Action Movie Maker</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-finding-and-downloading-official-toshiba-driver-software-for-windows-computers/"><u>Easy Guide to Finding and Downloading Official Toshiba Driver Software for Windows Computers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722969280745-free-installation-file-for-hp-laserjet-p1006-get-it-here/"><u>Free Installation File for HP LaserJet P1006 - Get It Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-updated-software-how-to-install-new-drivers-on-canon-mg2900-printers/"><u>Get Updated Software: How to Install New Drivers on Canon MG2900 Printers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hassle-free-installation-of-latest-intel-rapid-storage-tech/"><u>Hassle-Free Installation of Latest Intel Rapid Storage Tech</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hp-envy-5055-drivers-at-your-fingertips-quick-download-option/"><u>HP ENVY 5055 Drivers at Your Fingertips – Quick Download Option</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/overcoming-connectivity-problems-with-your-samsung-universal-printer-in-windows-os/"><u>Overcoming Connectivity Problems with Your Samsung Universal Printer in Windows OS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723007781605-reconfigured-cosmos-endures-intermittent-ice-age-problem-solved/"><u>Reconfigured Cosmos Endures Intermittent Ice Age - Problem Solved!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-latest-version-official-hp-officejet-pro-9015-printer-software-download/"><u>Secure Latest Version: Official HP OfficeJet Pro 9015 Printer Software Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-your-insignia-thunderbolt-cable-drivers/"><u>Step-by-Step Guide: Installing Your Insignia Thunderbolt Cable Drivers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-no-rest-for-the-wicked-game-crashes-a-comprehensive-guide-for-windows-users/"><u>Troubleshooting 'No Rest for the Wicked' Game Crashes: A Comprehensive Guide for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/wood-species-and-external-drying-conditions-can-significantly-influence-the-thermal-behavior-of-wood-during-processing/"><u>Wood Species and External Drying Conditions Can Significantly Influence the Thermal Behavior of Wood During Processing.</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-visioncaptor-new-era-of-screen-recorders-unveiled-for-2024/"><u>[New] 'VisionCaptor' New Era of Screen Recorders Unveiled for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-step-by-step-capturing-powerful-presentations-in-adobe-presenter/"><u>[New] 2024 Approved Step-by-Step Capturing Powerful Presentations in Adobe Presenter</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-revolutionizing-your-brand-with-the-top-30-fb-hacks-all-levels/"><u>[Updated] Revolutionizing Your Brand with the Top 30 FB Hacks (All Levels)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transitioning-from-rgb-to-srgb/"><u>2024 Approved Transitioning From Rgb to Srgb</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-listings-alert-texas-property-for-24-million-with-an-integrated-5786-square-foot-data-facility-and-innovative-cooling-system-no-bedroom-zone/"><u>Elite Listings Alert: Texas Property for $2.4 Million with an Integrated 5,786 Square Foot Data Facility and Innovative Cooling System – No Bedroom Zone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-gadgets-the-ultimate-resource-from-toms-hardware/"><u>Mastering Gadgets: The Ultimate Resource From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-high-performance-systems-at-toms-equipment-forum/"><u>Navigating High-Performance Systems at Tom's Equipment Forum</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-tech-detailed-reviews-by-tom/"><u>Navigating the World of Tech: Detailed Reviews by Tom</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-ai-influencer-wondershare-virbo-glossary-for-2024/"><u>New What Is AI Influencer? | Wondershare Virbo Glossary for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/pioneering-hardware-analysis-by-toms-digital-experts/"><u>Pioneering Hardware Analysis by Tom's Digital Experts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/professional-strategies-for-drone-imagery-editing-for-2024/"><u>Professional Strategies for Drone Imagery Editing for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-best-deal-dell-s3222dgm-gaming-monitor-now-at-unbeatable-229-price/"><u>Snag the Best Deal: Dell S3222DGM Gaming Monitor Now at Unbeatable $229 Price</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transforming-visual-experience-meet-the-newly-upgraded-samsung-odyssey-smart-monitor-and-view-series-with-next-gen-ai-capabilities/"><u>Transforming Visual Experience: Meet the Newly Upgraded Samsung Odyssey, Smart Monitor & View Series with Next-Gen AI Capabilities</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultra-wide-curved-display-with-quantum-dot-technology-wqhd-resolution/"><u>Ultra-Wide Curved Display with Quantum Dot Technology - WQHD Resolution</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-honor-play-7t-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Honor Play 7T Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 
