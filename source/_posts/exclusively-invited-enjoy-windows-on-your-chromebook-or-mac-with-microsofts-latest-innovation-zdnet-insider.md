@@ -1,7 +1,7 @@
 ---
 title: "Exclusively Invited: Enjoy Windows on Your Chromebook or Mac with Microsoft's Latest Innovation | ZDNet Insider"
-date: 2024-12-04T18:42:53.751Z
-updated: 2024-12-06T20:45:44.715Z
+date: 2024-12-07T22:39:29.949Z
+updated: 2024-12-13T02:47:50.722Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ That's right. Apple said the "A" word, and it's not being shy about it, as my af
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple is _officially_ in the AI PC race
@@ -55,7 +55,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Apple also wants you to know that it's _been_ in the [AI PC race](https://www.zdnet.com/article/what-is-an-ai-pc-and-should-you-buy-one/) since the very beginning, with just about every Mac model now carrying neural engines for machine learning. The new MacBook Air is "the best consumer laptop for AI," the company touts in its Monday press release, but we'll have to see for ourselves when we put the 13- and 15-inch models through the wringer soon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. I can finally recommend the Midnight color
@@ -67,7 +67,7 @@ AI aside, there is one subtle design change to the new MacBooks that I really di
 Considering how easy it was to get smudges and marks on the original Midnight color of the MacBook Air -- which made lighter hue options look like rockstars -- this is a welcome change. Having fumbled with the MacBooks for a quick 10-minute photo-op, the fingerprints were noticeable, though not as bad as I remembered on the M2 Air. For me, this makes the Midnight variant recommendable again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Dual-monitor support is a bigger deal than it seems
@@ -110,20 +110,21 @@ All in all, the changes to the newest line of MacBook Air feel subtle on paper b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fast-track-to-1000-fans-through-captivating-content/"><u>[New] In 2024, Fast-Track To 1,000 Fans Through Captivating Content</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-carving-out-the-ultimate-tiktok-final-act/"><u>[Updated] Carving Out the Ultimate TikTok Final Act</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-optimize-iphone-usage-how-to-manipulate-picture-in-picture-on-youtube/"><u>[Updated] Optimize iPhone Usage How to Manipulate Picture-in-Picture on YouTube</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/a-detailed-step-by-step-guide-to-using-telegram-desktop/"><u>A Detailed Step-By-Step Guide To Using Telegram Desktop</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/choosing-your-next-smartphone-a-head-to-head-comparison-of-the-samsung-galaxy-s23-vs-iphone-14-insights-from-zdnet/"><u>Choosing Your Next Smartphone: A Head-to-Head Comparison of the Samsung Galaxy S23 Vs. IPhone 14 - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-hardware-insights-by-tom-your-go-to-resource/"><u>Comprehensive Hardware Insights by Tom - Your Go-To Resource</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/delve-into-digital-innovation-with-toms-equipment-guides-your-ultimate-source-for-computer-hardware-analysis/"><u>Delve Into Digital Innovation with Tom's Equipment Guides – Your Ultimate Source for Computer Hardware Analysis</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevating-engagement-analyzing-chatgpt-plus-strengths-and-weaknesses/"><u>Elevating Engagement: Analyzing ChatGPT Plus Strengths and Weaknesses</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-logitechs-4k-webcam-masterclass-a-complete-review/"><u>In 2024, Logitech’s 4K Webcam Masterclass - A Complete Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-hardware-world-with-toms-expertise-a-comprehensive-guide/"><u>Navigating the Hardware World with Tom's Expertise: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/optimizing-performance-top-ram-configurations-for-amd-ryzen-3000-series-expert-analysis-by-toms-hardware/"><u>Optimizing Performance: Top RAM Configurations for AMD Ryzen 3000 Series – Expert Analysis by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/safeguard-your-peak-performance-intel-insurance-for-unlocked-10th-gen-comet-lake-cpus-with-enhanced-overclocking/"><u>Safeguard Your Peak Performance: Intel Insurance for Unlocked 10Th Gen Comet Lake CPUs with Enhanced Overclocking</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-big-savings-this-black-friday-save-up-to-700-off-on-the-top-rated-dell-xps-15-laptop-shop-smart-best-tech-specials/"><u>Score Big Savings This Black Friday! Save Up to $700 Off on the Top-Rated Dell XPS 15 Laptop | Shop Smart Best Tech Specials!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-comprehensive-guides-and-reviews/"><u>Tom's Tech Insights: Comprehensive Guides and Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-ultimate-guide-to-computer-components/"><u>Tom's Tech Insights: Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-setting-and-changing-personalized-iphone-tones/"><u>[New] Setting & Changing Personalized iPhone Tones</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-your-compreran-guide-to-creating-viral-ad-videos-for-free/"><u>[New] Your Compreran Guide to Creating Viral Ad Videos for Free</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-investing-in-your-instagram-presence-5-key-strategies-and-illustrated-outcomes/"><u>[Updated] 2024 Approved Investing in Your Instagram Presence 5 Key Strategies and Illustrated Outcomes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-guide-turning-insta-vids-to-mp3-tracks-for-2024/"><u>[Updated] Guide Turning Insta Vids to MP3 Tracks for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-download-guide-getting-started-with-your-new-logitech-m525-keyboard/"><u>Essential Download Guide: Getting Started with Your New Logitech M525 Keyboard</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/expert-endorsed-tools-for-improving-your-windows-video-edits/"><u>Expert-Endorsed Tools for Improving Your Windows Video Edits</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-huaweis-future-adopting-strategies-from-apple-and-intel-for-the-new-generation-of-kirin-processors/"><u>Exploring Huawei's Future: Adopting Strategies From Apple & Intel for the New Generation of Kirin Processors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fitness-class-on-the-go/"><u>Fitness Class on the Go</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-quick-start-guide-to-your-channels-easy-sign-up-button/"><u>In 2024, Quick-Start Guide to Your Channel's Easy Sign Up Button</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-tumblr-image-format-specifications/"><u>In 2024, Tumblr Image Format Specifications</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-wireless-ac-3160-support-install-newest-driver-with-ease-and-speed/"><u>Intel Wireless-AC 3160 Support: Install Newest Driver with Ease and Speed!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/newest-geforce-rtx-2080-graphics-card-drivers-compatible-with-windows-11-7-and-8/"><u>Newest GeForce RTX 2080 Graphics Card Drivers: Compatible with Windows 11, 7 & 8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-and-speedy-download-of-top-notch-intel-processor-drivers/"><u>Secure and Speedy Download of Top-Notch Intel Processor Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-fixing-your-game-services-startup-issues-battlenet-error-1450/"><u>Step-by-Step Guide to Fixing Your Game Service's Startup Issues (Battlenet Error 1450)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722960236975-step-by-step-guide-to-updating-your-amd-vega-driver-boosting-games-like-never-before/"><u>Step-by-Step Guide to Updating Your AMD Vega Driver - Boosting Games Like Never Before</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/windows-11-probleme-mit-der-suchfunktion-schnelllosungen-und-reparaturroutinen/"><u>Windows 11 - Probleme Mit Der Suchfunktion: Schnelllösungen Und Reparaturroutinen</u></a></li>
 </ul></div>
 

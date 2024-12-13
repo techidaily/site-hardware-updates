@@ -1,7 +1,7 @@
 ---
 title: Snag the HP Victus 15 Gaming Notebook at an Unbeatable Price of Just $515 During Best Buy's Prime Day Event - Exclusive Offer From ZDNet!
-date: 2024-11-29T21:50:54.997Z
-updated: 2024-12-06T20:32:48.295Z
+date: 2024-12-12T03:36:25.501Z
+updated: 2024-12-12T17:30:49.044Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,18 +63,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-overwatch-gameplay-captured-step-by-step-guide/"><u>[New] 2024 Approved Overwatch Gameplay Captured - Step by Step Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-nvidias-easy-method-for-game-captures/"><u>[Updated] NVIDIA's Easy Method for Game Captures</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-collecting-classics-without-copyrights/"><u>2024 Approved Collecting Classics without Copyrights</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-high-end-fb-visual-creator-free/"><u>2024 Approved High-End FB Visual Creator (FREE)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723964490077-get-the-ultimate-deal-on-the-corsair-scimitar-rgb-elite-a-top-tier-mmo-gaming-mouse-at-just-49/"><u>Get the Ultimate Deal on the Corsair Scimitar RGB Elite - A Top-Tier MMO Gaming Mouse at Just $49!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-successfully-install-age-of-empires-iv-overcoming-mstsc-hurdles/"><u>How to Successfully Install Age of Empires IV: Overcoming MSTSC Hurdles</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/public-pressure-by-engaging-with-constituents-and-advocacy-groups-representatives-can-exert-public-pressure-on-senators-through-communication-campaigns-or-t14/"><u>Public Pressure - By Engaging with Constituents and Advocacy Groups, Representatives Can Exert Public Pressure on Senators Through Communication Campaigns or Town Halls.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/review-of-the-logitech-g515-lightspeed-tkl-mouse-compact-design-and-budget-friendly/"><u>Review of the Logitech G515 Lightspeed TKL Mouse - Compact Design and Budget-Friendly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/simplifying-cable-management-nzxt-lift-2-symmetry-tower-pc-case-review/"><u>Simplifying Cable Management: NZXT Lift 2 Symmetry Tower PC Case Review</u></a></li>
-<li><a href="https://driver-install.techidaily.com/steps-for-reinstating-pcs-mouse-firmware/"><u>Steps for Reinstating PC's Mouse Firmware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/tech-insights-exploring-toms-hardware-innovations/"><u>Tech Insights: Exploring Tom's Hardware Innovations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-expert-guides-and-reviews-on-top-tier-hardware/"><u>Tom's Tech Insights: Expert Guides and Reviews on Top-Tier Hardware</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-bluestacks-app-malfunctions-5-simple-solutions/"><u>Troubleshoot BlueStacks App Malfunctions: 5 Simple Solutions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-complete-process-of-recording-your-fb-messenger-conversations/"><u>[New] 2024 Approved The Complete Process of Recording Your FB Messenger Conversations</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boosted-visuals-a-beginners-guide-to-gopro-video-editing/"><u>Boosted Visuals A Beginner's Guide to GoPro Video Editing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-iphone-se-2020-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone SE (2020) Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-epson-ds-530-printer-drivers-compatible-with-windows-11-for-64-bit-systems/"><u>Download the Latest Epson DS-530 Printer Drivers: Compatible with Windows 11 for 64-Bit Systems</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/effacement-detaille-de-lhistorique-des-fichiers-guide-pour-supprimer-les-vieux-modeles/"><u>Effacement Détaillé De L'Historique Des Fichiers : Guide Pour Supprimer Les Vieux Modèles</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-correcting-difficulties-with-realtek-rtl8811au-device-driver-malfunctions/"><u>Expert Tips: Correcting Difficulties with Realtek RTL8811AU Device Driver Malfunctions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/exquisite-top-ten-nintendo-switch-combat-games-max-156-for-2024/"><u>Exquisite Top Ten Nintendo Switch Combat Games (Max 156) for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-official-epson-ds-c89-series-drivers-on-windows-11-64-bit-compatibility-and-installation-guide/"><u>Get Official Epson DS-C89 Series Drivers on Windows 11 (64-Bit): Compatibility & Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-or-download-new-driver-for-brother-hl-l2350dw-printer/"><u>How to Update or Download New Driver for Brother HL-L2350DW Printer</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-rhythm-discoveries-at-your-fingertips-free-online/"><u>In 2024, Rhythm Discoveries at Your Fingertips (Free, Online)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-vocal-evasion-software-catalog-essential-applications-for-singers-recording-studios-and-beyond/"><u>New The Ultimate Vocal Evasion Software Catalog Essential Applications for Singers, Recording Studios, & Beyond</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-fetch-hp-envy-5055-drivers-and-installation-guide-hassle-free-experience/"><u>Quick-Fetch HP Envy 5055 Drivers & Installation Guide – Hassle-Free Experience</u></a></li>
 </ul></div>
 

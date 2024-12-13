@@ -1,7 +1,7 @@
 ---
 title: "Live the Microsoft Surface & Windows Artificial Intelligence Unveiling - ZDNet: Insights & Anticipated Innovations"
-date: 2024-12-02T19:33:10.508Z
-updated: 2024-12-06T22:15:28.247Z
+date: 2024-12-10T22:54:03.751Z
+updated: 2024-12-12T16:50:19.784Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,19 +134,24 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-chromebooks-to-the-rescue-mastering-webcam-recordings-for-2024/"><u>[New] Chromebooks to the Rescue Mastering Webcam Recordings for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/corsair-k55-gamepad-driver-download-and-update-guide-for-gamers/"><u>Corsair K55 Gamepad Driver Download & Update Guide for Gamers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/game-developer-declares-total-crash-rate-on-intel-cpus-faulty-13th-and-14th-gen-chips-sold-by-alderon-games/"><u>Game Developer Declares Total Crash Rate on Intel CPUs: Faulty 13Th and 14Th Gen Chips Sold by Alderon Games</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-latest-windows-updates-for-your-nvidia-mx150-gpu-driver/"><u>Get Latest Windows Updates for Your NVIDIA MX150 GPU Driver</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722974374046-get-the-latest-canon-imageclass-mf4800-driver-software-for-free/"><u>Get the Latest Canon ImageCLASS MF4800 Driver Software for Free</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722977750685-get-the-newest-nvidia-geforce-rtx-1660-super-driver-updates-installed-easily/"><u>Get the Newest NVIDIA GeForce RTX 1660 Super Driver Updates Installed Easily</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-gps-location-on-google-pixel-fold-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Google Pixel Fold Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ly-earnings-potential-on-youtube/"><u>Monthly Earnings Potential on YouTube</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-realme-11x-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Realme 11X 5G Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/top-food-youtubers-you-should-follow-for-2024/"><u>Top Food YouTubers You Should Follow for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/understanding-ai-in-design-how-some-works-arent-entirely-computer-made/"><u>Understanding AI in Design: How Some Works Aren't Entirely Computer-Made</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-full-potential-of-wsl-2-with-docker-integration/"><u>Unlock Full Potential of WSL 2 with Docker Integration</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-free-and-fabulous-best-video-special-effects-apps-for-iphone-and-android-for-2024/"><u>Updated Free and Fabulous Best Video Special Effects Apps for iPhone and Android for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/zero-cost-full-functionality-download-the-qualcomm-atheros-ar938x-driver-now/"><u>Zero Cost, Full Functionality - Download the Qualcomm Atheros AR938X Driver Now</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-crafting-a-resume-that-shines-in-design-industry/"><u>[New] In 2024, Crafting a Resume that Shines in Design Industry</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-essential-tactics-for-youtube-advertising-with-banners/"><u>[New] In 2024, Essential Tactics for YouTube Advertising with Banners</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-instagram-edge-rotating-videos-like-a-pro-for-2024/"><u>[New] The Instagram Edge Rotating Videos Like a Pro for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-essential-online-hubs-for-got-audio-download/"><u>[Updated] Essential Online Hubs for GoT Audio Download</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-unlock-your-videographer-potential-with-youtube-studio-edition-expertise/"><u>[Updated] In 2024, Unlock Your Videographer Potential with YouTube Studio Edition Expertise</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-perfect-poster-design-removing-borders-from-canva-images/"><u>[Updated] Perfect Poster Design Removing Borders From Canva Images</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-m-audio-fast-track-ultra-drivers-free-of-charge/"><u>Download M-Audio Fast Track Ultra Drivers Free of Charge</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970404521-easy-installation-of-intel-chipset-drivers-get-them-now/"><u>Easy Installation of Intel Chipset Drivers – Get Them Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-usb-30-software-drivers-in-windows/"><u>Easy Installation of USB 3.0 Software Drivers in Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722967629296-easy-steps-to-fresh-software-upgrade-your-canon-d530s-performance-today/"><u>Easy Steps to Fresh Software: Upgrade Your Canon D530's Performance Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-dts-audio-working-solutions-for-incompatible-sound-devices/"><u>Getting DTS Audio Working: Solutions for Incompatible Sound Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-surface-book-2-graphics-drivers-a-simple-effective-guide/"><u>How to Update Your Surface Book 2 Graphics Drivers - A Simple, Effective Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-samsung-galaxy-a23-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Samsung Galaxy A23 5G FRP Bypass</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-access-to-downloaded-hp-stream-networking-drivers-click-here/"><u>Instant Access to Downloaded HP Stream Networking Drivers - Click Here</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nalize-your-screen-time-with-these-top-6-creator-identifying-questions-for-2024/"><u>Personalize Your Screen Time with These Top 6 Creator-Identifying Questions for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/reaching-new-heights-pushing-an-amd-ryzen-7-9700x-up-to-a-stunning-58ghz-with-advanced-aio-liquid-cooling-plus-a-surprising-peak-at-6ghz-idle/"><u>Reaching New Heights: Pushing an AMD Ryzen #7 9700X Up to a Stunning 5.8GHz with Advanced AIO Liquid Cooling, Plus a Surprising Peak at 6GHz Idle!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-ultimate-drone-experience-yuneec-q500/"><u>The Ultimate Drone Experience Yuneec Q500</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-high-quality-photography-lenses-for-2024/"><u>Top 10 High-Quality Photography Lenses for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973985873-update-your-asus-usb-bt5n-bluetooth-adapter-with-latest-drivers-compatible-with-windows-versions-11108-download-instantly/"><u>Update Your Asus USB-BT5n Bluetooth Adapter with Latest Drivers Compatible with Windows Versions 11/10/8 - Download Instantly!</u></a></li>
 </ul></div>
 

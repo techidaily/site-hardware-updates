@@ -1,7 +1,7 @@
 ---
 title: "Massive Savings: Unlock 36%% Discount on the 8TB Samsung Portable SSD - Now Available on Amazon | TechNews by ZDNet"
-date: 2024-12-03T16:50:36.141Z
-updated: 2024-12-06T16:48:12.763Z
+date: 2024-12-09T04:12:39.571Z
+updated: 2024-12-13T01:44:40.095Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2362e90f-b768-47d7-98bd-3041538b2c7e%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,18 +65,15 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-best-fps-for-smooth-professional-video-recordings/"><u>[Updated] 2024 Approved The Best FPS for Smooth, Professional Video Recordings</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-quick-zoomers-guide-to-clearer-instagram-narratives-for-2024/"><u>[Updated] The Quick-Zoomer's Guide to Clearer Instagram Narratives for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-hiding-identity-on-instagram-live-secure-viewing-tips/"><u>2024 Approved Hiding Identity on Instagram Live Secure Viewing Tips</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-unveiling-the-art-of-personal-branding-mastery/"><u>2024 Approved Unveiling the Art of Personal Branding Mastery</u></a></li>
-<li><a href="https://driver-download.techidaily.com/asus-maximus-x-hero-easy-methods-for-perfecting-system-performance-with-driver-updates/"><u>ASUS Maximus X Hero: Easy Methods for Perfecting System Performance with Driver Updates</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-power-of-apples-latest-innovation-the-macbook-pro-equipped-with-advanced-m2-pro-processor-insights-and-review/"><u>Discover the Power of Apple's Latest Innovation: The MacBook Pro Equipped with Advanced M2 Pro Processor - Insights & Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-ultimate-holiday-promotions-for-dell-computers-and-accessories-with-our-curated-guide-to-deals-at-retail-giants-like-best-buy-amazon-and-more-featu105/"><u>Discover Ultimate Holiday Promotions for Dell Computers and Accessories with Our Curated Guide to Deals at Retail Giants Like Best Buy, Amazon & More | Featured on ZDNET</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ct-and-save-youtube-gallery-files-for-2024/"><u>Extract and Save YouTube Gallery Files for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-moto-g13-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Moto G13 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-call-issues-on-your-samsung-galaxy-watch-a-step-by-step-guide/"><u>Resolving Call Issues on Your Samsung Galaxy Watch - A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-development-of-precision-agriculture-tools-to-monitor-and-manipulate-soil-microbial-communities/"><u>The Development of Precision Agriculture Tools to Monitor and Manipulate Soil Microbial Communities</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-samsungs-game-changing-copilotplus-laptop-exclusive-review-and-top-deal-on-windows-devices/"><u>Unveiling Samsung's Game-Changing Copilot+ Laptop - Exclusive Review & Top Deal on Windows Devices!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/zdnets-best-affordable-lenovo-devices-powerful-options-for-todays-hybrid-workforce-with-a-1000-deal/"><u>ZDNet's Best Affordable Lenovo Devices: Powerful Options for Today's Hybrid Workforce with a $1,000 Deal!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/brother-hl-2280dw-driver-installation-guide-compatible-with-windows-111087/"><u>Brother HL 2280DW Driver Installation Guide: Compatible with Windows 11/10/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-tutorial-on-successfully-installing-new-ralink-drivers-for-windows-users/"><u>Comprehensive Tutorial on Successfully Installing New Ralink Drivers for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-drivers-hp-officejet-pro-8610-compatible-with-windows-1087xpvista/"><u>Download & Update Drivers: HP Officejet Pro 8610 Compatible with Windows 10/8/7/XP/Vista</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-master-your-media-display-with-these-12-videophones/"><u>In 2024, Master Your Media Display with These 12 Videophones</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-epson-wf-2630-printer-drivers-on-windows-7-81-and-10-free-download/"><u>Install Epson WF 2630 Printer Drivers on Windows 7, 8.1 & 10 - Free Download</u></a></li>
+<li><a href="https://win-dash.techidaily.com/revitalize-your-pc-display-with-updated-graphics-driver-instructions-for-windows-11/"><u>Revitalize Your PC Display with Updated Graphics Driver Instructions for Windows 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/save-on-soccer-spectacles-live-tape-trim-for-free-for-2024/"><u>Save on Soccer Spectacles - Live, Tape, Trim for Free for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-6s-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 6s</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/formative-techniques-to-mute-background-noise-for-2024/"><u>Transformative Techniques to Mute Background Noise for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Get Smart Savings on Tech: Save $80 When You Purchase the Ideal Lenovo"
-date: 2024-12-06T03:27:57.856Z
-updated: 2024-12-06T21:41:55.119Z
+date: 2024-12-11T02:47:23.829Z
+updated: 2024-12-13T03:07:42.479Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ One tool I've found to be quite effective is the [StarTech.com Universal Laptop 
 [ZDNET RECOMMENDS StarTech.com Universal Laptop Lock This anti-theft laptop locking system features a push-to-lock system that allows for quick-lock without a key. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fexec%2Fobidos%2FASIN%2FB0CG9WXC8P%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1543b5d4-da8c-4f2b-8aec-3447eb62e023%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The specs
@@ -97,7 +97,7 @@ Adrian Kingsley-Hughes/ZDNET
 All in all, this is a tough lock that's well-designed to keep your stuff secured. The only real downside: a steel cable weighing some 5.2 oz (147 g) is a fair weight to lug around with you if you plan on using this when out and about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,20 +134,24 @@ While a determined or skilled attacker could potentially overcome this lock, suc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-grid-layout-geniuses-for-photo-perfection/"><u>[New] Grid Layout Geniuses for Photo Perfection</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-the-ultimate-checklist-for-twitter-video-posts/"><u>[Updated] In 2024, The Ultimate Checklist for Twitter Video Posts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/affordable-multiport-hub-get-the-ultimate-13-in-1-docking-solution-with-dual-4k-support-for-only-49-explore-your-options-at-zdnet/"><u>Affordable Multiport Hub: Get the Ultimate 13-in-1 Docking Solution with Dual 4K Support for Only $49 - Explore Your Options at ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ai-powered-google-chromebook-plus-the-ultimate-challenge-to-microsofts-windows-copilot-insights-from-zdnet/"><u>AI-Powered Google Chromebook Plus: The Ultimate Challenge to Microsoft's Windows Copilot - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-neweggs-ultimate-2023-holiday-sale-picks-a-detailed-guide/"><u>Discover Newegg's Ultimate 2023 Holiday Sale Picks: A Detailed Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-best-high-end-notebooks-and-top-tier-laptops-for-tech-savvy-users-in-202/"><u>Discover the Best High-End Notebooks and Top-Tier Laptops for Tech Savvy Users in 202</u></a></li>
-<li><a href="https://fox-access.techidaily.com/dive-deep-reviewing-the-cutting-edge-lg-vr-technology/"><u>Dive Deep Reviewing the Cutting-Edge LG VR Technology</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/excellence-in-viewing-windows-phones-premium-apps-for-2024/"><u>Excellence in Viewing Windows Phone's Premium Apps for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-best-chromebook-choices-for-2eplust4-comparative-analysis/"><u>Exploring the Best Chromebook Choices for 2E+t4 | Comparative Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-microsoft-plans-to-outsmart-the-apple-macbook-with-its-new-gen-ai-processor-insights/"><u>How Microsoft Plans to Outsmart the Apple MacBook with Its New-Gen AI Processor - Insights</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-new-nvidia-gpu-drivers-with-this-easy-guide-and-links/"><u>Install New NVIDIA GPU Drivers with This Easy Guide and Links</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigate-through-apples-latest-ipad-software-enhancements-the-ultimate-guide/"><u>Navigate Through Apple's Latest iPad Software Enhancements – The Ultimate Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ideal-companion-for-digital-nomads-our-picks-for-the-lightest-and-best-laptops-zdnet-reviews/"><u>The Ideal Companion for Digital Nomads: Our Picks for the Lightest & Best Laptops | ZDNet Reviews</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oppo-f23-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Oppo F23 5G</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-11-fixing-low-speaker-output-issues/"><u>Troubleshooting Windows 11: Fixing Low Speaker Output Issues</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-ultimate-roguelike-rankings-the-best-10-games/"><u>[New] In 2024, Ultimate Roguelike Rankings The Best 10 Games</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-2023s-most-captivating-channel-the-ultimate-story-showcase/"><u>2024 Approved 2023'S Most Captivating Channel The Ultimate Story Showcase</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-strix-point-ryzen-unleashes-new-contender-the-ryzen-ai-9-hx-375-beats-its-predecessor/"><u>AMD Strix Point Ryzen Unleashes New Contender: The Ryzen AI 9 HX 375 Beats Its Predecessor</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeat-memory-error-1-cuestionar-12707-your-comprehensive-guide-to-a-smooth-gameplay-experience-on-call-of-duty-modern-warfare-3/"><u>Defeat Memory Error 1 Cuestionar 12707: Your Comprehensive Guide to a Smooth Gameplay Experience on Call of Duty: Modern Warfare 3</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-hid-keyboard-drivers-quick-guide-on-downloading-and-updating/"><u>Effortless HID Keyboard Drivers: Quick Guide on Downloading & Updating</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-download-official-hp-officejet-3830-printer-driver-for-windows-os/"><u>Find & Download Official HP OfficeJet 3830 Printer Driver for Window's OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-latest-brother-mfc-l2740dw-drivers-for-your-windows-computer/"><u>Get Latest Brother MFC-L2740DW Drivers for Your Windows Computer</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/how-to-import-music-to-inshot-video-editor-in-2024/"><u>How to Import Music to Inshot Video Editor, In 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-itel-p55-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Itel P55</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-logitech-g510-driver-setup-for-windows-operating-systems-78110/"><u>Latest Logitech G510 Driver Setup for Windows Operating Systems (7/8/1#/10)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/manufacturing-typo-causes-potential-shift-in-amds-ryzen-90e-launch-calendar-emergence-of-unplanned-ryzen-7-component/"><u>Manufacturing Typo Causes Potential Shift in AMD's Ryzen 90E Launch Calendar: Emergence of Unplanned Ryzen 7 Component</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-concurrent-wi-fi-and-ethernet-on-windows-pcs/"><u>Mastering Concurrent Wi-Fi and Ethernet on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-away-from-blocked-router-configuration/"><u>Navigating Away From Blocked Router Configuration</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/noworrycapture-quick-and-easy-win11-recordings/"><u>NoWorryCapture - Quick and Easy Win11 Recordings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/official-update-from-amd-ryzen-amoeba5000xt-series-on-track-for-timely-release-date-this-month/"><u>Official Update From AMD: Ryzen Amoeba5000XT Series on Track for Timely Release Date This Month</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/optimal-mov-recording-settings-for-windows-11-for-2024/"><u>Optimal MOV Recording Settings for Windows 11 for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-complete-guide-to-high-performance-computing-by-toms-hardware/"><u>The Complete Guide to High-Performance Computing by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978290438-update-to-the-newest-drivers-for-your-msi-x470-motherboard-today/"><u>Update to the Newest Drivers for Your MSI X470 Motherboard Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/user-friendly-guide-to-getting-your-printer-setup-right-brother-l2/"><u>User-Friendly Guide To Getting Your Printer Setup Right - Brother L2</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Score The HP Victus #15 Laptop for Gamers at a Steal – Only $450 on This Best Buy Deal | Insights via ZDNET
-date: 2024-12-04T02:43:50.245Z
-updated: 2024-12-06T23:11:41.565Z
+date: 2024-12-08T17:39:22.023Z
+updated: 2024-12-13T03:34:56.890Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,24 +63,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-overcoming-video-send-failures-in-facebook-chat-iphoneandroid-guide-for-2024/"><u>[Updated] Overcoming Video Send Failures in Facebook Chat IPhone/Android Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-revolutionize-your-online-presence-with-live-screenshares/"><u>[Updated] Revolutionize Your Online Presence with Live Screenshares</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-elevate-your-video-game-with-these-5-youtube-thumbnail-builders/"><u>2024 Approved Elevate Your Video Game with These 5 YouTube Thumbnail Builders</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-next-level-screenrecord-a-critical-evaluation/"><u>2024 Approved Next-Level ScreenRecord A Critical Evaluation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/explore-the-best-and-most-affordable-gaming-monitors-of-2024-including-high-quality-curved-displays-with-superior-refresh-rates/"><u>Explore the Best and Most Affordable Gaming Monitors of 2024, Including High-Quality Curved Displays with Superior Refresh Rates</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/gaming-display-bargain-49-inch-aorus-oled-by-gigabyte-now-a-steal-at-969-price-spike/"><u>Gaming Display Bargain: 49-Inch Aorus OLED by Gigabyte Now a Steal at $969 Price Spike</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/get-the-9now-app-watch-and-save-shows-from-9nowcomau-for-free-compatible-with-mac-and-pc/"><u>Get the 9NOW App: Watch and Save Shows From 9now.com.au for Free – Compatible with Mac & PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-best-rated-gamers-dream-dell-s3222dgm-for-a-record-low-of-just-229/"><u>Get Your Hands on the Best Rated Gamer's Dream, Dell S3222DGM for a Record Low of Just $229!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hit-save-on-high-definition-with-alienwares-curved-gaming-masterpiece-100-off-the-aw3225qf-brilliantly-crafted-4k-qd-oled-display-at-a-blistering-240-hz/"><u>Hit Save on High Definition with Alienware's Curved Gaming Masterpiece: $100 Off the AW3225QF - Brilliantly Crafted 4K QD-OLED Display at a Blistering 240 Hz</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-remote-management-from-iphone-6s-plus-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove remote management from iPhone 6s Plus?</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-resolve-vivo-y100-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo Y100 Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-14-pro-max-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 14 Pro Max to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-by-tom-unveiling-top-hardware-picks/"><u>In-Depth Analysis by Tom: Unveiling Top Hardware Picks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-toms-hardware-tech-reviews-and-insights/"><u>Inside Tom's Hardware: Tech Reviews and Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/leading-edge-bent-display-panels-for-gamers/"><u>Leading Edge Bent Display Panels for Gamers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/level-up-your-gaming-world-with-the-high-performance-acer-nitro-now-on-sale-at-only-81/"><u>Level Up Your Gaming World with the High-Performance Acer Nitro - Now on Sale at Only $81</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/masterclass-on-tech-reviewed-a-deep-dive-into-computer-hardware-with-tom/"><u>Masterclass on Tech Reviewed: A Deep Dive Into Computer Hardware with Tom</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/strategies-to-address-capacity-exceeded-error-for-chatgpt-users-on-windows-devices/"><u>Strategies to Address 'Capacity Exceeded' Error for ChatGPT Users on Windows Devices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlock-the-secrets-of-finding-high-quality-instagram-tones-and-crafting-perfect-chimes/"><u>Unlock the Secrets of Finding High-Quality Instagram Tones and Crafting Perfect Chimes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-cutting-edge-captures-delving-into-iphone-xs-camera/"><u>[New] In 2024, Cutting Edge Captures Delving Into iPhone X's Camera</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-lost-and-found-30-free-speech-to-text-mac-hits/"><u>[New] Lost and Found 30 Free Speech-to-Text Mac Hits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-thrifty-choices-for-virtual-reality-heads/"><u>[Updated] Thrifty Choices for Virtual Reality Heads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-setup-for-elgato-drivers-download-and-install-in-a-flash/"><u>Effortless Setup for Elgato Drivers - Download & Install in a Flash</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-11-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 11 Passcode not Working?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-zte-nubia-flip-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On ZTE Nubia Flip 5G</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-se-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone SE Screen Mirroring You Must Know | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-logitech-audio-device-drivers-for-windows-versions-10-7-and-8-free-download/"><u>Latest Logitech Audio Device Drivers for Windows Versions: 10, 7, and 8 - Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723262305054-navigate-the-world-of-gadgets-find-reliable-tips-and-specs-today/"><u>Navigate the World of Gadgets: Find Reliable Tips and Specs Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/rediscover-fascination-with-new-fallout-video-titles/"><u>Rediscover Fascination with New Fallout Video Titles</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-up-your-pc-games-how-to-update-drivers-on-a-nvidia-gtx-1660-ti-graphics-card/"><u>Step Up Your PC Games: How to Update Drivers on a NVIDIA GTX 1660 Ti Graphics Card</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-updating-your-pcs-webcam-drivers-on-windows-1nt/"><u>Step-by-Step Guide to Updating Your PC's Webcam Drivers on Windows 1nT</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upcoming-december-launch-all-about-the-next-gen-intel-arrow-lake-s-processor/"><u>Upcoming December Launch: All About the Next-Gen Intel Arrow Lake-S Processor</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/xsplit-archive-assessing-video-game-splits-for-2024/"><u>XSplit Archive Assessing Video Game Splits for 2024</u></a></li>
 </ul></div>
 

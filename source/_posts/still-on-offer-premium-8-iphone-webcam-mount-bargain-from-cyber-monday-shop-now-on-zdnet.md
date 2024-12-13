@@ -1,7 +1,7 @@
 ---
 title: "Still On Offer: Premium $8 iPhone Webcam Mount Bargain From Cyber Monday - Shop Now on ZDNet"
-date: 2024-12-04T16:22:14.934Z
-updated: 2024-12-06T19:43:02.451Z
+date: 2024-12-11T22:51:30.634Z
+updated: 2024-12-12T19:42:29.839Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ I've seen the likes of Belkin put out [quality iPhone mounts for this purpose](h
 All that's needed to make Continuity Camera happen is a Mac computer running MacOS Ventura, an iPhone running on iOS 16, and a mount to keep the handset afloat. That's where the Elephant Card comes in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,18 +81,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-enhancing-detail-in-minecraft-worlds-for-2024/"><u>[Updated] Enhancing Detail in Minecraft Worlds for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-diy-video-setups-perfect-self-portraits-for-youtubers/"><u>2024 Approved DIY Video Setups Perfect Self-Portraits for YouTubers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/nce-expansion-masterclass-skyrocketing-your-youtube-numbers-for-2024/"><u>Audience Expansion Masterclass Skyrocketing Your Youtube Numbers for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/bcm204n0-driver-errors-heres-how-to-resolve-them-effortlessly/"><u>BCM204n0 Driver Errors? Here's How to Resolve Them Effortlessly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-download-find-and-install-the-right-amd-drivers-automatically/"><u>Easy Download: Find & Install the Right AMD Drivers Automatically</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-install-official-hp-printer-drivers-beginners-guide/"><u>Easy Steps: Install Official HP Printer Drivers – Beginner's Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/elevate-pc-gaming-step-up-to-a-new-level-with-asus-radeon-vii/"><u>Elevate PC Gaming: Step-Up to a New Level with Asus Radeon VII</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/exploring-the-variations-in-back-and-filter-buttons-of-portuguese/"><u>Exploring the Variations in Back & Filter Buttons of Portuguese</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210701644-9781943328956-haunted-inside-passage/"><u>Haunted Inside Passage | Free Book</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-repeat-revelry-televised-looping-of-online-media-content/"><u>In 2024, Repeat Revelry Televised Looping of Online Media Content</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-redmi-a2plus-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Xiaomi Redmi A2+</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-your-behringer-usb-audio-device-today-download-and-setup-steps/"><u>Install Your Behringer USB Audio Device Today - Download & Setup Steps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-installation-of-amd-drivers-experience-auto-detect-technology-now/"><u>Seamless Installation of AMD Drivers: Experience Auto-Detect Technology Now</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-screen-scribes-editing-edition-guide-for-2024/"><u>[New] Screen Scribes Editing Edition Guide for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-uniform-iptv-system-utilization/"><u>[Updated] 2024 Approved Uniform IPTV System Utilization</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-all-inclusive-breakdown-deciphering-google-podcasts/"><u>2024 Approved All-Inclusive Breakdown Deciphering Google Podcasts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-digital-dive-capturing-the-days-lifelike-snapshots-on-fb/"><u>2024 Approved Digital Dive Capturing the Day's Lifelike Snapshots on FB</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-logitech-g402-input-device-drivers-and-utility-tools-download-instructions/"><u>Complete Logitech G402 Input Device Drivers & Utility Tools Download Instructions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-downloading-and-updating-windows-audio-card-drivers/"><u>Comprehensive Guide: Downloading and Updating Windows Audio Card Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-epson-v700-driver-here-supports-windows-7-through-to-10/"><u>Get Your Epson V700 Driver Here! Supports Windows 7 Through to 10</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intels-extended-warranties-unveiled-a-detailed-look-at-coverage-for-tiger-lake-tgl-and-rocket-lake-based-processors/"><u>Intel's Extended Warranties Unveiled - A Detailed Look at Coverage for Tiger Lake (TGL) and Rocket Lake-Based Processors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/leading-the-sled-team/"><u>Leading the Sled Team</u></a></li>
+<li><a href="https://win-able.techidaily.com/masterful-methods-to-mend-javascript-errors-in-your-discord-experience/"><u>Masterful Methods to Mend JavaScript Errors in Your Discord Experience</u></a></li>
 </ul></div>
 

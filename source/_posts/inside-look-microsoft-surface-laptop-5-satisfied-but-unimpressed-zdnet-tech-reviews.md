@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: Microsoft Surface Laptop 5 - Satisfied but Unimpressed | ZDNet Tech Reviews"
-date: 2024-12-01T00:51:46.661Z
-updated: 2024-12-06T21:20:06.874Z
+date: 2024-12-07T17:01:12.109Z
+updated: 2024-12-12T21:03:38.573Z
 tags:
   - laptops
 categories:
@@ -40,6 +40,10 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | Processor       | 12th-Gen Intel Core i5 or Core i7                                                          |
@@ -52,6 +56,10 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 | Connectivity    | Wi-Fi 6, Bluetooth 5.1                                                                     |
 | Ports           | 1 x USB-C 4.0/Thunderbolt 4, 1 x USB-A 3.1, 3.5mm headphone jack, 1 x Surface Connect Port |
 | Size and weight | 12.1 L x 8.8 W x .57 H inches, 2.8 lbs                                                     |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How's the build quality?
 
@@ -72,7 +80,7 @@ Michael Gariffo/ZDNET
 **More: [The best laptops: Does Apple take the crown?](https://www.zdnet.com/article/best-laptop/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Features and ports
@@ -84,7 +92,7 @@ Michael Gariffo/ZDNET
 Microsoft's port selection on the Surface Laptop 5 is very middle-of-the-road. That's a good thing. It acknowledges that plenty of USB-A peripherals still exist, so it includes a single USB-A port. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -140,7 +148,7 @@ This might be forgivable in a budget model. But even the base config [Surface La
 **More: [The 10 best webcams: Join your next Zoom call in HD](https://www.zdnet.com/article/best-webcam/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance and battery life
@@ -165,19 +173,11 @@ Overall, I'd have no qualms about leaving my charger at home and expecting to ge
 
 [Microsoft Surface Laptop 5 $1,117 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1738938556&subId1=zd-__COM_CLICK_ID__-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 I may seem like I had high standards for this review, and I did. This is a flagship laptop from the company that makes Windows, after all. While those resources and ability to optimize for its own OS did show in aspects like the [Surface Laptop 5](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Lightweight-Processor-Multi-Tasking%2Fdp%2FB0B8Q8GFMM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc6fbb856-6656-4200-96bf-59e251b1e7c2%7Cdtp&dtb=1)'s consistently excellent build quality and performance, it faltered when it came to basic modern necessities like a decent webcam and a contemporary display layout. 
 
 If you never videoconference or if wasted space around your display doesn't bother you, you're looking at the best Windows laptop you could buy right now. Even if those things do irk a bit, I'd recommend balancing them against the exceptional performance, build, and aesthetics. The Surface Laptop 5 is frustratingly close to being that universal leader among Windows portables that Microsoft wants it to be. But, if Microsoft wants that crown, I hope it updates the components that held this generation back when it comes time to design the Surface Laptop 6.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -227,20 +227,24 @@ Dell's latest entry in the XPS 13 lineup looks like it comes from further down t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-rooting-in-cities-cultivating-urban-biodiversity/"><u>[New] In 2024, Rooting in Cities Cultivating Urban Biodiversity</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-simplified-guide-to-recording-pc-screens-for-hp-users/"><u>[Updated] 2024 Approved Simplified Guide to Recording PC Screens for HP Users</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-unhindered-video-streaming-with-chromes-performance-fixes/"><u>[Updated] 2024 Approved Unhindered Video Streaming with Chrome's Performance Fixes</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-top-trending-and-most-viewed-prime-videos-twitterreactions/"><u>[Updated] In 2024, Top-Trending & Most Viewed Prime Videos, #TwitterReactions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862868350-135-deal-on-the-premium-asus-prime-x670-p-wifi-am5-mobo-dont-miss-out/"><u>$135 Deal on the Premium Asus Prime X670-P WiFi AM5 Mobo - Don't Miss Out!</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-idea-to-execution-creating-youtube-trailers-in-filmora/"><u>2024 Approved From Idea to Execution Creating YouTube Trailers in Filmora</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-submerge-mastery-top-tips-for-capturing-great-water-videos/"><u>2024 Approved Submerge Mastery Top Tips for Capturing Great Water Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/a-new-dawn-for-ryzens-reliability-as-amd-closes-zenbleed-bug-enhanced-by-msis-bios-version-120ca/"><u>A New Dawn for Ryzen's Reliability as AMD Closes Zenbleed Bug, Enhanced by MSI’s BIOS Version 1.2.0.Ca</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862864407-affordable-powerful-motherboards-featuring-longsun-cpus-now-delivering-to-america-starting-at-only-383/"><u>Affordable, Powerful Motherboards Featuring Longsun CPUs Now Delivering to America - Starting at Only $383</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-drops-a-game-changer-the-economical-overclocking-motherboard-z790-ayw-wifi-edition/"><u>ASUS Drops a Game-Changer: The Economical Overclocking Motherboard, Z790-AYW WiFi Edition</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-hardware-guides-by-toms-experts/"><u>Comprehensive Hardware Guides by Tom's Experts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-the-social-network-crossroad-instagram-and-tiktok-for-2024/"><u>Navigating the Social Network Crossroad Instagram & TikTok for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-understanding-gpu-optimized-encoding-in-handbrake-answering-your-key-questions/"><u>Ultimate Guide to Understanding GPU Optimized Encoding in Handbrake: Answering Your Key Questions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-power-of-gigabyte-exploring-the-new-aorus-xtreme-and-xtreme-ice-motherboards-and-gpus-at-computex/"><u>Unveiling the Power of Gigabyte: Exploring the New Aorus Xtreme & Xtreme Ice Motherboards & GPUs at Computex</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-world-of-computing-with-toms-hardware-hub/"><u>Unveiling the World of Computing with Tom's Hardware Hub</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-frosty-yet-warm-choosing-the-best-winter-backdrops-for-2024/"><u>[New] Frosty Yet Warm Choosing the Best Winter Backdrops for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-quick-guide-retrieving-past-reddit-threads-instantly/"><u>[Updated] 2024 Approved Quick Guide Retrieving Past Reddit Threads Instantly</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-review-for-dji-phantom-3-standard/"><u>[Updated] In 2024, Review for DJI Phantom 3 Standard</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-perfect-your-video-calls-essential-10-free-recording-solutions-for-slack/"><u>2024 Approved Perfect Your Video Calls Essential 10 Free Recording Solutions for Slack</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969309294-amd-rx-580-driver-upgrade-speedy-solutions-for-seamless-gaming-performance/"><u>AMD RX 580 Driver Upgrade: Speedy Solutions for Seamless Gaming Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dive-into-top-tier-hardware-with-toms-technology-insights/"><u>Dive Into Top-Tier Hardware with Tom's Technology Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-canon-printer-drivers-compatible-with-windows-7-10-and-81-model-mf8200c/"><u>Download Canon Printer Drivers: Compatible with Windows 7, 10 & 8.1 - Model MF8200C</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-installing-or-updating-your-hp-officejet-5255-printer-drivers/"><u>Easy Guide to Installing or Updating Your HP OfficeJet 5255 Printer Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-next-level-computing-brilliance-intels-latest-tech-marvel-the-granite-rapids-chip-series-a-mammoth-128-cores-and-exceptional-500w-thermal-design-67/"><u>Experience Next-Level Computing Brilliance: Intel's Latest Tech Marvel, The Granite Rapids Chip Series – A Mammoth 128 Cores & Exceptional #500W Thermal Design Power (TDP)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-ms-audio-drivers-now-top-compatible-software-for-windows-systems/"><u>Get Your MS Audio Drivers Now - Top Compatible Software for Windows Systems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-xs-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone XS Max without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlock-the-secrets-capturing-apple-devices-for-engaging-videos/"><u>In 2024, Unlock the Secrets Capturing Apple Devices for Engaging Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/linksys-ea2700-80211ac-network-adapter-drivers-download-and-installation-manual-simplified/"><u>Linksys EA2700 802.11Ac Network Adapter Drivers Download & Installation Manual - Simplified</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-installing-intel-integrated-graphic-driver-updates-for-windows-os-v10-and-11/"><u>Step by Step: Installing Intel Integrated Graphic Driver Updates for Windows OS v10 and 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/trouble-free-methods-to-keep-your-amd-ryzen-drivers-updated/"><u>Trouble-Free Methods to Keep Your AMD Ryzen Drivers Updated</u></a></li>
+<li><a href="https://fox-info.techidaily.com/ultimate-guide-top-8-tripods-for-4k-video-enthusiasts-for-2024/"><u>Ultimate Guide Top 8 Tripods for 4K Video Enthusiasts for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/uncover-the-mystery-why-are-my-desktop-icons-vanishing-in-windows-11-solved/"><u>Uncover the Mystery: Why Are My Desktop Icons Vanishing in Windows 11? [SOLVED]</u></a></li>
 </ul></div>
 

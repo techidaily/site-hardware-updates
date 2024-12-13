@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Battle: Comparing the M3 Vs. M2 MacBook Air on ZDNet"
-date: 2024-12-03T02:43:27.959Z
-updated: 2024-12-06T20:33:53.723Z
+date: 2024-12-11T19:35:55.585Z
+updated: 2024-12-12T18:49:10.671Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ Recently, I did a thing: I switched my heavyweight Windows PC for a docked [16-i
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -47,7 +47,7 @@ So what if I told you you can remap the Apple keyboard so that the Globe key, wh
 ## How to remap the Globe key into the Command key
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open up Keyboard settings
@@ -57,7 +57,7 @@ Let's start by running a Spotlight Search (clicking the magnifying glass on the 
 You can also access this menu by clicking the Apple icon on the top left of the status bar > System Preferences > and then Keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Open Modifier Keys
@@ -67,7 +67,7 @@ On the bottom right of the Keyboard settings should be a button labeled "Modifie
 Screenshot by June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Remap the Globe key to Command
@@ -79,7 +79,7 @@ Note: There is a "Control key" on the Mac keyboard but it doesn't function the s
 Screenshot by June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How this helps
@@ -116,20 +116,19 @@ From a Windows user perspective, being able to still access my usual keyboard sh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-discover-every-shared-element-with-friends/"><u>2024 Approved Discover Every Shared Element with Friends</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-navigating-to-youtubes-video-editor-interface/"><u>2024 Approved Navigating to YouTube's Video Editor Interface</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-skyrocketing-your-earning-potential-a-vimeo-monetization-guide/"><u>2024 Approved Skyrocketing Your Earning Potential A Vimeo Monetization Guide</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/a-deep-dive-into-youtube-view-counts-and-more-for-2024/"><u>A Deep Dive Into YouTube View Counts and More for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-collaborates-with-board-vendors-for-new-bios-fixes-addressing-notorious-logo-bug-concerns/"><u>AMD Collaborates with Board Vendors for New BIOS Fixes, Addressing Notorious Logo Bug Concerns</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-launches-the-anticipated-800-series-chipsets-compatible-with-powerhouse-ryzen-9000-cpus-the-next-move-against-intel/"><u>AMD Launches the Anticipated 800 Series Chipsets: Compatible with Powerhouse Ryzen 9000 CPUs – The Next Move Against Intel</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-maximus-xiii-frankenboard-collectors-edition-customized-motherboards-with-special-so-dimm-slots-and-kingston-fury-logo-design/"><u>ASUS Maximus XIII Frankenboard Collector's Edition: Customized Motherboards with Special SO-DIMM Slots and Kingston Fury Logo Design</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/budget-overclocking-solution-asuss-new-z790-ayw-wifi-motherboard-with-ddr5-support/"><u>Budget Overclocking Solution: Asus's New Z790-AYW WIFI Motherboard with DDR5 Support</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/cracked-chipset-msi-admits-fault-and-launches-replacement-program-for-z790-models/"><u>Cracked Chipset: MSI Admits Fault and Launches Replacement Program for Z790 Models</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-world-of-electronics-with-toms-hardware-expertise/"><u>Discover the World of Electronics with Tom's Hardware Expertise</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-x60nam5-itx-asrocks-ultra-thin-mini-itx-board-designed-for-diy-htpc-enthusiasts/"><u>Discover the X60nAM5-ITX: ASRock's Ultra Thin Mini-ITX Board Designed for DIY HTPC Enthusiasts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-unbeatable-iphone-bargains-for-summer-2024-on-zdnets-latest-deals-roundup/"><u>Discover Unbeatable iPhone Bargains for Summer 2024 on ZDNet's Latest Deals Roundup</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-6-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 6 Plus Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/pros-and-cons-of-poweradd-pilot-pro2-charging-station-comprehensive-evaluation/"><u>Pros & Cons of POWERADD Pilot Pro2 Charging Station - Comprehensive Evaluation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-time-stamping-your-photos/"><u>[New] The Ultimate Guide to Time-Stamping Your Photos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/air-cooled-masterpiece-this-computer-breaks-the-mold-utilizing-a-giant-center-fan-against-centrifugal-forces/"><u>Air-Cooled Masterpiece: This Computer Breaks the Mold, Utilizing a Giant Center Fan Against Centrifugal Forces</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/epson-xp-430-printer-driver-installation-guide-for-windows-systems-complete-tutorial/"><u>Epson XP-430 Printer Driver Installation Guide for Windows Systems (Complete Tutorial)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/essential-8-open-source-tools-for-effective-enterprise-video-meetings-for-2024/"><u>Essential 8 Open Source Tools for Effective Enterprise Video Meetings for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-m-audio-fast-track-driver-installation-files-compatible-with-windows-117881/"><u>Free M-Audio Fast Track Driver Installation Files Compatible with Windows 11/7/8/8.1</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-windows-compatible-amd-radeon-graphics-drivers-here/"><u>Get the Latest Windows-Compatible AMD Radeon Graphics Drivers Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-updated-drivers-on-your-toshiba-satellite-using-windows/"><u>How to Install Updated Drivers on Your Toshiba Satellite Using Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-version-of-sapphire-driver-software-for-windows-systems/"><u>Latest Version of Sapphire Driver Software for Windows Systems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/optimal-webcams-enhancing-audio-experience/"><u>Optimal Webcams Enhancing Audio Experience</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/proven-strategies-to-capture-and-archive-ps3-games-for-2024/"><u>Proven Strategies to Capture and Archive PS3 Games for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/scripting-success-integrating-chatgpt-into-video-content-creation/"><u>Scripting Success: Integrating ChatGPT Into Video Content Creation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-lenovo-t420-driver-management-and-updates-on-windows-platforms/"><u>Ultimate Guide: Lenovo T420 Driver Management and Updates on Windows Platforms</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win-710-screenscape-save-hiccup-get-it-right-solved/"><u>Win 7/10 Screenscape Save Hiccup - Get It Right [Solved]</u></a></li>
+<li><a href="https://win-net.techidaily.com/windows-os-111087ssd/"><u>Windows OS (11/10/8/7)をSSDに移すためのインストールなし方法説明</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Get a New RTX Eby_9baefc4f-8b15-49d3-A6c4-E9c21d1d8bb0! Exclusive $220 Discount Now | Tech Deals at ZDNET!
-date: 2024-12-05T22:50:09.073Z
-updated: 2024-12-06T16:25:18.664Z
+date: 2024-12-06T16:36:23.974Z
+updated: 2024-12-12T16:17:16.560Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kerry Wan/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ Right now, Amazon is selling the [15-inch MacBook Air (M2) for $250 off](https:/
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -107,7 +107,7 @@ The laptop is capable of 4K exports on Adobe Premiere Pro and editing RAW files 
 What I found myself missing when testing the MacBook Air was the 120Hz ProMotion display from the Pro line. All it took was an hour or two before my eyes adapted to the slower, less smooth 60Hz panel, but the larger 15-inch display didn't make the transition easy. In fact, it made the difference more apparent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -146,18 +146,22 @@ But everything else about it is as good as the current $1,050 price point gets. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-use-creative-commons-copyright-licenses/"><u>[New] 2024 Approved How to Use Creative Commons Copyright Licenses?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-lgs-ultrafine-masterpiece-an-exhaustive-monitoring-guide/"><u>[New] In 2024, LG's UltraFine Masterpiece An Exhaustive Monitoring Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-navigating-the-setup-of-obs-and-streamlabs-for-mac-users/"><u>[New] Navigating the Setup of OBS & Streamlabs for Mac Users</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-your-2023-guide-best-applications-for-downloading-lite-facebook-videos/"><u>2024 Approved Your 2023 Guide Best Applications for Downloading Lite Facebook Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/cheap-yet-superior-gaming-keyboard-guide-under-100/"><u>Cheap, Yet Superior Gaming Keyboard Guide Under $100</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/flash-deal-alert-the-4tb-ssd-by-crucial-is-now-a-steal-only-005-per-gb-but-hurry-limited-stock-available/"><u>Flash Deal Alert! The 4TB SSD by Crucial Is Now a Steal - Only $0.05 per GB, But Hurry, Limited Stock Available!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hardware-review-hub-unveiling-the-best-tech-at-your-brand-name/"><u>Hardware Review Hub: Unveiling the Best Tech at [Your Brand Name]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/high-performance-vs-excess-analyzing-the-need-for-a-120mm-radiator-in-teamgroups-sub-12w-m2-ssd-setup/"><u>High Performance Vs. Excess? Analyzing the Need for a 120Mm Radiator in TeamGroup’s Sub-12W M.2 SSD Setup</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/high-performance-risc-v-pcie-gen5-ssd-nvme-controller-from-china-achieves-up-to-142gbs-speeds-no-cooling-required/"><u>High-Performance RISC-V PCIe Gen5 SSD NVMe Controller From China Achieves Up to 14.2GB/S Speeds - No Cooling Required</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/imminent-arrival-new-trademark-discoveries-point-to-a-launch-of-samsungs-990-evo-plus-and-9100-pro-ssds-soon/"><u>Imminent Arrival? New Trademark Discoveries Point to a Launch of Samsung's 990 EVO PLUS and 9100 PRO SSDs Soon</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/stay-chill-with-the-latest-from-deepcool-high-performance-coolers-power-supplies-fans-and-rigs-now-in-vibrant-pixel-silicone-variants/"><u>Stay Chill with the Latest From DeepCool: High-Performance Coolers, Power Supplies, Fans & Rigs – Now in Vibrant Pixel Silicone Variants</u></a></li>
-<li><a href="https://video-capture.techidaily.com/step-by-step-tutorial-recording-instagram-liveshooting-on-computer-and-smartphone/"><u>Step-by-Step Tutorial: Recording Instagram Liveshooting on Computer and Smartphone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-complete-guide-to-help-you-convert-srt-to-xml-ssa-ttml-and-other-formats-for-2024/"><u>The Complete Guide to Help You Convert SRT to XML, SSA, TTML, and Other Formats for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-from-unverified-beginnings-to-high-flying-fame-on-instagram-unveil-the-6-keys/"><u>[New] 2024 Approved From Unverified Beginnings to High-Flying Fame on Instagram Unveil the 6 Keys</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-thinkpad-thunderbolt-3-dock-driver/"><u>[UPDATE] ThinkPad Thunderbolt 3 Dock Driver</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-game-on-with-mastery-the-2023-review-of-kinemaster-for-android/"><u>[Updated] Game On with Mastery The 2023 Review of KineMaster for Android</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/broder-hl-l2360dw-driver-update-download-for-smooth-printing-experience/"><u>Brøder HL-L2360DW Driver Update: Download for Smooth Printing Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effective-methods-for-converting-webm-videos-into-gif-animations-online-and-offline-solutions/"><u>Effective Methods for Converting WebM Videos Into GIF Animations - Online and Offline Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722963427141-effortless-windows-7-keyboard-driver-download-get-started-now/"><u>Effortless Windows 7 Keyboard Driver Download – Get Started Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/groove-music-summer-vibes-a-playlist-curated-to-capture-the-essence-of-a-carefree-summer-perfect-for-when-you-want-to-feel-uplifted-and-joyful/"><u>Groove Music 'Summer Vibes': A Playlist Curated to Capture the Essence of a Carefree Summer, Perfect for when You Want to Feel Uplifted and Joyful</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-xiaomi-mix-fold-3-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Xiaomi Mix Fold 3</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-yts-game-changers-the-elite-ladies-in-gaming/"><u>In 2024, YT's Game Changers The Elite Ladies in Gaming</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/newest-nvidia-rtx-2080-graphics-card-driver-software-for-win10-win7-and-win8/"><u>Newest Nvidia RTX 2080 Graphics Card Driver Software for Win10, Win7 & Win8</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagine-calendars-with-personal-flair-using-windows-outlook/"><u>Reimagine Calendars with Personal Flair Using Windows Outlook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-and-installing-intel-hd-graphics-5500-drivers/"><u>Step-by-Step Guide: Updating and Installing Intel HD Graphics 5500 Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-updating-samsungs-usb-drivers-for-optimal-smartphone-functionality/"><u>Troubleshooting and Updating Samsung's USB Drivers for Optimal Smartphone Functionality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-pc-with-new-amd-radeon-hd-graphics-driver-for-windows-7-get-it-now/"><u>Update Your PC with New AMD Radeon HD Graphics Driver for Windows 7 - Get It Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-installation-guide-how-to-get-your-logitech-g600-drivers/"><u>Windows Installation Guide: How to Get Your Logitech G600 Drivers</u></a></li>
 </ul></div>
 

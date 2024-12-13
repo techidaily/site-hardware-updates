@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Laptops Unveiled at CES 2024: A Comprehensive Review by Tech Radar"
-date: 2024-12-01T17:37:03.478Z
-updated: 2024-12-06T18:51:05.589Z
+date: 2024-12-05T21:43:03.637Z
+updated: 2024-12-12T22:55:59.040Z
 tags:
   - laptops
 categories:
@@ -46,14 +46,10 @@ Cons
 * Built-in speakers could be stronger
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple MacBook Air M3
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best lightweight laptop overall
 
@@ -83,7 +79,15 @@ Cons
 * Generic design
 * Loud fans
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Acer Swift Go 14
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best lightweight laptop for AI
 
@@ -110,10 +114,6 @@ Pros
 Cons 
 * Compact size means it can run hot
 * Comes pre-loaded with bloatware
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Asus ROG Zephyrus G14
 
@@ -177,11 +177,11 @@ Cons
 * Battery life is not the best
 * Expensive
 
-## Lenovo ThinkPad X1 Carbon
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Lenovo ThinkPad X1 Carbon
 
 ### Best lightweight laptop for work
 
@@ -221,10 +221,6 @@ The best lightweight laptop for you depends on what you want to get out of it. L
 | LG Gram Pro 17                      | The lightest, thinnest 17-inch laptop on the market, no matter the cost.                 |
 | Lenovo X1 Carbon                    | A durable, powerful laptop for work.                                                     |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How we test lightweight laptops
 
 Kyle Kucharski/ZDNET
@@ -241,10 +237,6 @@ We use a combination of methods to test laptops here at ZDNET. First, we acquire
 
 Ultimately, our goal is to break down the capabilities of each and every laptop we test into digestible terms that real people can find useful. There is a lot of noise and confusion when it comes to navigating the laptop and computer consumer market, so we hope to bring an intuitive element to the whole process by leveraging our team's decades of experience. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Factors to consider when choosing a lightweight laptop
 
 These laptops all offer solid performance in their own right, but paired with their lightweight design, bring a new level of convenience with their portability. Keep in mind that the differences in their weight here are broken down to tenths of a pound, while most people won't even notice much of a difference between two and three pounds. These other factors went into the decision making process: 
@@ -252,6 +244,10 @@ These laptops all offer solid performance in their own right, but paired with th
 * **Display:** All of the laptops evaluated here are the 14" versions, except the Gram Pro 17 of course, which is 17-inches and still one of the lightest.
 * **Battery life:** In order to be considered for this list, I considered machines with better-than-average battery life. This is one metric that will vary significantly based on use case, but all of these laptops will easily last an entire workday (eight hours) on one charge, even while undergoing demanding workloads
 * **Price:** Cost is an important factor and will make or break many consumers' choices. The reality is that ultraportability does come at a cost, as none of these laptops would be considered "budget" by any rate. The Acer Swift Go 14, however, is still quite affordable, starting at $800, though upgrades will move that number more in line with the others on this list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why does having a lightweight laptop matter?
 
@@ -277,6 +273,10 @@ We love lightweight laptops because they're easy to carry around. But the backpa
 
 [ZDNET RECOMMENDS Matein Travel Laptop Backpack Packed with travel-friendly features like a luggage strap and an anti-theft back pocket that protects your valuables, the Matein travel laptop is an inexpensive and solid travel backpack for your laptop. A bonus feature is an external USB charging port for easy charging on the go. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBackpack-Business-Charging-Resistant-Computer%2Fdp%2FB06XZTZ7GB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7db6cd82-2c93-4d40-af5c-7b35de870353%7Cdtp&dtb=1)[ZDNET RECOMMENDS Herschel Little America Backpack Herschel backpacks have a timeless design that's comfortable to wear thanks to the contoured padded back straps. It comes in two sizes which can hold up to a 13-inch laptop or a 15-inch laptop. Its drawstring closure expands to create extra storage space while the magnetic front straps secure what's inside. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB00838TCGO%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7db6cd82-2c93-4d40-af5c-7b35de870353%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which operating system should you choose: Windows, MacOS, Chrome OS, or Linux?
 
 While every computing platform has its loyal supporters, most people end up using a particular operating system because of key applications running on it, employer preferences, or budgetary constraints. Windows, which ranges from budget to premium, and Apple's MacOS, which is exclusive to premium devices, cover a broad spectrum. Chrome OS is mostly limited to mid-range devices.
@@ -286,7 +286,7 @@ While every computing platform has its loyal supporters, most people end up usin
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are there alternative lightweight laptops worth considering?
@@ -335,21 +335,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-assessing-social-media-preference-the-case-for-tiktok-or-youtubes-shorts/"><u>[New] 2024 Approved Assessing Social Media Preference The Case for TikTok or YouTubes' Shorts</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-cinema-crafting-excellence-top-5-camera-skills-to-hone-for-2024/"><u>[New] Cinema Crafting Excellence Top 5 Camera Skills to Hone for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/20plus-cool-metaverse-memes-a-deep-dive-guide-for-2024/"><u>20+ Cool Metaverse Memes A Deep Dive Guide for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-bridging-worlds-fusing-photos-into-majestic-tiles/"><u>2024 Approved Bridging Worlds Fusing Photos Into Majestic Tiles</u></a></li>
-<li><a href="https://extra-information.techidaily.com/artistic-transformation-tool-for-photos-pcs-and-macs-alike-for-2024/"><u>Artistic Transformation Tool for Photos, PCs & Macs Alike for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-download-and-upgrade-toshiba-laptop-hardware-drivers-in-windows-environment/"><u>Easy Steps to Download and Upgrade Toshiba Laptop Hardware Drivers in Windows Environment</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-best-from-your-graphics-card-easy-updates-and-downloads-of-amd-vega-drivers/"><u>Get the Best From Your Graphics Card: Easy Updates and Downloads of AMD Vega Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-easycap-driver-installer-now-simple-and-secure-downloads/"><u>Get Your EasyCap Driver Installer Now – Simple & Secure Downloads</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-devices-running-smoothly-with-a-quick-windows-driver-download/"><u>Get Your Logitech Devices Running Smoothly with a Quick Windows Driver Download</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-xiaomi-mix-fold-3-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Xiaomi Mix Fold 3 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-amds-latest-ryzen-9000-processors-for-less-exclusive-deals-available-only-at-best-buy/"><u>Secure AMD's Latest Ryzen 9000 Processors for Less: Exclusive Deals Available Only at Best Buy</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solve-the-shadowy-surface-of-lenovo-portable/"><u>Solve the Shadowy Surface of Lenovo Portable</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sonys-bdp-s6700-a-modernized-take-for-2024/"><u>Sony's BDP-S6700 A Modernized Take for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/troubleshooting-utorrent-top-7-steps-when-it-stops-working/"><u>Troubleshooting Utorrent: Top 7 Steps When It Stops Working</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-to-newest-version-of-pl23n-serial-converter-drivers-on-pcs-with-windows-os/"><u>Update to Newest Version of PL23n Serial Converter Drivers on PCs with Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-logitech-g905s-tournament-edition-with-the-latest-firmware-on-windows/"><u>Update Your Logitech G905s Tournament Edition with the Latest Firmware on Windows</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-unveiling-the-secrets-of-fb-video-full-screen/"><u>[Updated] 2024 Approved Unveiling the Secrets of FB Video Full-Screen</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/demystifying-the-purpose-of-slug-lines-in-screenplay/"><u>Demystifying the Purpose of Slug Lines in Screenplay</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/eco-friendly-visual-templates-for-editors-for-2024/"><u>Eco-Friendly Visual Templates for Editors for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-the-perfect-tv-antenna-expert-reviews-and-comparisons-for-quality-viewing/"><u>Find the Perfect TV Antenna: Expert Reviews and Comparisons for Quality Viewing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-ultimate-msi-bluetooth-driver-compatible-with-windows-11-and-10/"><u>Free Download: Ultimate MSI Bluetooth Driver Compatible with Windows 11 & 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/improve-your-television-audio-with-5-key-soundbar-adjustments-tips-from-zdnet-professionals/"><u>Improve Your Television Audio with 5 Key Soundbar Adjustments - Tips From ZDNet Professionals</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-nubia-red-magic-9-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Nubia Red Magic 9 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/next-generation-samsung-frame-tvs-spot-the-upgrades-edition-versus-2-mark-tech-insights-with-zdnet/"><u>Next Generation Samsung Frame TVs: Spot the Upgrades Edition Versus 2# Mark | Tech Insights with ZDNET</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-musical-enhancements-for-powerpoint/"><u>The Ultimate Guide to Musical Enhancements for PowerPoint</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-methods-for-acquiring-quality-yify-movie-subtitle-files-without-hacking-risks/"><u>Top Methods for Acquiring Quality YIFY Movie Subtitle Files Without Hacking Risks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-pc-download-the-latest-intel-wireless-wi-fi-6-ax200-driver-for-windows-11-and-windows-10/"><u>Update Your PC: Download the Latest Intel Wireless Wi-Fi 6 AX200 Driver for Windows 11 and Windows 10</u></a></li>
 </ul></div>
 

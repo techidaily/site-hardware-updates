@@ -1,7 +1,7 @@
 ---
 title: "Necessity of Gaming Laptops for Devoted Laptop Game Enthusiasts: A Must or Just a Myth?"
-date: 2024-08-28T02:04:02.159Z
-updated: 2024-08-29T02:04:02.159Z
+date: 2024-12-08T03:46:12.948Z
+updated: 2024-12-13T00:57:22.350Z
 tags:
   - hardware
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/4d8f1c7b5627ce22b4f423cf420d1ffc8c5300c88
 
 ![The Lenovo Legion Pro 5 Gen 8 with a gaming mouse plugged in.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/52920514194_5f136d8949_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  The most concise way to describe a gaming laptop is a portable PC capable of handling demanding video games. The three major components that allow for such high performance are the central processing unit (CPU), graphics processing unit (GPU), and random access memory (RAM).
@@ -30,8 +34,9 @@ Hannah Stryker / How-To Geek
  However, PC manufacturers have started producing standard laptops like the [Dell Inspiron 16 Plus](https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-iphone-15-by-drfone-ios/) with specs that appear to stack up to those of gaming laptops. They are several hundred dollars cheaper on average.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Choose a Laptop for Gaming
 
  When searching for a laptop to game on, the first thing you’ll want to do is check the spec requirements of the most demanding games you play or want to try out. The easiest way to do this is on whatever gaming platform you plan to purchase from.
@@ -41,8 +46,9 @@ Hannah Stryker / How-To Geek
 ![System requirements of Apex Legends mentioned on the Steam website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-system-requirements-of-apex-legends-mentioned-on-the-steam-website.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [The CPU is the brain of your PC,](https://facebook-clips.techidaily.com/echoes-of-now-strategies-for-downloading-current-events/) allowing it to execute "thinking" tasks. Each CPU is made up of [individual processors known as “cores”](https://some-guidance.techidaily.com/updated-the-ultimate-no-experience-guide-to-earning-on-reddit-13-strategies-inside/). The more cores a CPU has, the more programs it can run at once. [While it isn’t necessary to have the latest CPU](https://remote-screen-capture.techidaily.com/updated-in-2024-enhanced-interaction-through-effective-zoom-screenshares/), you’ll want one powerful enough to meet your computing needs.
 
  For instance, Lenovo’s Legion Pro 5i Gen 8 base model features a 13th-generation Intel Core i5 processor which has 14 cores. While their ThinkPad X1 Carbon Gen 11 base model is also equipped with a 13th-generation Intel® Core™ i5 processor, you’d have to upgrade to the most expensive laptop model to get a processor with the same number of cores.
@@ -52,8 +58,9 @@ Hannah Stryker / How-To Geek
 ![Laptop ram sitting on a laptop keyboard-2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/laptop-ram-sitting-on-a-laptop-keyboard-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  Next, we’ll look at RAM requirements. To continue the brain analogy, [RAM is your PC’s short-term memory,](https://youtube-web.techidaily.com/ed-2024-approved-unlocking-youtube-success-top-video-strategies-to-explode-views/) helping it quickly access information currently in use. Typically, most modern games will require 8GB of RAM with 16GB recommended for smooth results. Most standard laptops are equipped with the necessary 8GB and some have upgrade options available.
@@ -64,9 +71,6 @@ Hannah Stryker / How-To Geek
 
  Though some standard laptops can be upgraded by the manufacturer to include a GeForce, Radeon, or Intel ARC GPU, the majority don't provide this option. This not only limits your graphics quality, but you may also miss out on [important features like ray tracing](https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-70-lite-5g-for-parents-drfone-by-drfone-virtual-android/). Because laptop GPUs can't be upgraded like their desktop counterparts, your only other option would be to purchase an external GPU. Of course, this would still be limited by your CPU and [could lead to a bottleneck effect](https://tech-recovery.techidaily.com/troubleshooting-windows-11-what-to-do-if-your-system-fails-to-shut-down/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Other Components Laptop Gamers Should Consider
 
  Another crucial aspect when selecting a laptop for gaming is the amount of storage provided. PCs already come with files, programs, and apps preinstalled that take up a chunk of the advertised storage space. Add to that any downloads you may need for work or school, and there might not be much room for a game like _The Last Of Us Part 1_, which requires 100GB of space.
@@ -76,8 +80,9 @@ Hannah Stryker / How-To Geek
 ![A person gaming on a PC laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/shutterstock_730594951.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [ginger\_polina\_bublik/Shutterstock.com](https://www.shutterstock.com/image-photo/close-addiction-guy-manly-hands-playing-730594951)
 
  Gamers searching for their next laptop will also want to consider the display type and features. Most notably, the refresh rate, which is [the number of times your monitor updates per second](https://fox-that.techidaily.com/top-11-solutions-to-locate-missing-airpods-on-find-my-apple-feature/). The higher your refresh rate, the smoother your gameplay will look.
@@ -86,9 +91,6 @@ Hannah Stryker / How-To Geek
 
  Of course, even if all of these components exceed recommendations, you won’t be playing very long without a good cooling system. In 2023, [CyberPowerPC debuted an optional water cooling system](https://twitter-videos.techidaily.com/share-live-feeds-skip-the-retweet-tactics/) with their gaming laptops, and ASUS offers intelligent cooling with "Tri-Fan Technology" for certain gaming laptops. Since the average user doesn’t demand as much from their laptop, standard laptops often primarily rely on the airflow provided by the case design.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Are Gaming Laptops Worth the Sticker Shock?
 
  So we finally arrive at the big question: should you buy the $1800 gaming laptop or the upgraded $1200 standard laptop with nearly the same specs? The answer largely depends on what type of gamer you are.
@@ -101,8 +103,6 @@ Hannah Stryker / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +110,20 @@ Hannah Stryker / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-assessment-of-dji-phantom-3-aerial-tech/"><u>[New] Assessment of DJI Phantom 3 Aerial Tech</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-realme-11-pro-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Realme 11 Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-intel-nic-drivers-now-fully-updated-for-windows-11-10-and-7-users/"><u>Get Your Intel NIC Drivers Now! Fully Updated for Windows 11, 10 & 7 Users</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-create-my-pokemon-overworld-maps-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>How Can I Create My Pokemon Overworld Maps On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-most-recent-drivers-for-your-lenovo-thunderbolt-3-port/"><u>How to Install the Most Recent Drivers for Your Lenovo Thunderbolt 3 Port</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-set-up-the-logiteche-momo-wheel-drivers-and-installation-guide-for-enthusiast-gamers/"><u>How To Set Up The Logiteche Momo Wheel: Drivers & Installation Guide For Enthusiast Gamers</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>How To Use Special Features - Virtual Location On Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-exclusive-review-top-6-screen-recorders-for-mac/"><u>In 2024, Exclusive Review Top 6 Screen Recorders for Mac</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-samsung-galaxy-a14-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Samsung Galaxy A14 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-xiaomi-13-ultra-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Xiaomi 13 Ultra Phone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovos-official-guide-to-downloading-and-updating-bluetooth-drivers-for-windows-710/"><u>Lenovo's Official Guide to Downloading and Updating Bluetooth Drivers for Windows 7/10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/physical-activity-groups/"><u>Physical Activity Groups:</u></a></li>
+<li><a href="https://extra-support.techidaily.com/proficient-strategies-for-hyperlink-integration-into-tiktok-profiles-for-2024/"><u>Proficient Strategies for Hyperlink Integration Into TikTok Profiles for 2024</u></a></li>
+</ul></div>
 

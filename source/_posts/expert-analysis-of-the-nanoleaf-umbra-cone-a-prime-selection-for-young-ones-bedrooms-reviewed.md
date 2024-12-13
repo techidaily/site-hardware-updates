@@ -1,7 +1,7 @@
 ---
 title: Expert Analysis of the Nanoleaf Umbra Cone - A Prime Selection for Young Ones' Bedrooms Reviewed
-date: 2024-08-28T02:03:00.454Z
-updated: 2024-08-29T02:03:00.454Z
+date: 2024-12-11T23:28:18.873Z
+updated: 2024-12-13T04:33:47.591Z
 tags:
   - hardware
 categories:
@@ -19,9 +19,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
  A good smart nightlight for a young kid's rooms is tricky to find, but the [Nanoleaf Umbra Cono](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2002959/https://nanoleaf.me/en-US/products/smarter-partners/umbra-lamps/) portable lamp might just fit that bill perfectly. It isn’t even targeted at kids specifically, but since it can be controlled without a phone, is easy to carry, and has a built-in battery, it works well.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  A Smart Lamp For Kids and Adults
 
 ![Nanoleaf Umbra Cono  standing upright turned off](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/nanoleaf-umbra-cono-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -35,20 +43,22 @@ Jerome Thomas / How-To Geek
 
 ![Using the Nanoleaf app with the Umbra Cono](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/nanoleaf-umbra-cono-2.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  Speaking of the Nanoleaf app and its connected nature: custom colors can be used, automatic schedules can be set up, and voice assistants can be linked. There are a ton of ways to use this little lamp. It's not just kids either, I liked using it on my desk—before my daughter stole it for her room. Although the lamp is the most valuable when it's connected to a Matter-compatible smart home hub like a HomePod, it can be used by connecting via Bluetooth.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Price Is One of the Hurdles
 
 ![Showing the USB-C port on the Nanoleaf Umbra Cono](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/nanoleaf-umbra-cono.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Although the Umbra Cono light is great in a lot of ways, it still has issues, with two big hurdles specifically. The first is its $95 price. For a decor piece in a single person’s home, it might be worth splurging on, but if you have one, you’ll surely want a second or third to compliment it. The cost adds up quickly.
@@ -57,16 +67,10 @@ Jerome Thomas / How-To Geek
 
  The second issue is more subtle, but I couldn’t find a place in the Nanoleaf app or on the lamp to see the battery life remaining. The only indicator to speak of is a charging indicator on the light itself as a pinhole light just below the USB-C port. I searched for a way to monitor the battery life online and in the manual, but couldn't find anything. So it seems like you can see when it's fully charged, but nothing more. Strange. I even did the latest firmware update to make sure something new hadn't been added.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ##  Is the Nanoleaf Umbra Cono Portable Lamp Worth Spending Money On?
 
 ![Nanoleaf Umbra Cono in a dark room standing up with its light on](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/nanoleaf-umbra-cono-4.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  For as much as I like the [Nanoleaf Umbra Cono](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2002959/https://nanoleaf.me/en-US/products/smarter-partners/umbra-lamps/) portable lamp, it definitely has its quirks. For its premium price, I do wish it felt higher-end, instead of completely being made out of plastic. It could use some kind of battery indicator—hopefully Nanoleaf will add that to the app in the future. I also would have liked the button to be a little more tactile, instead of being more touch-sensitive. It doesn't press in.
@@ -76,8 +80,9 @@ Jerome Thomas / How-To Geek
 ![Nanoleaf Umbra Cono](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/cleanshot-2024-05-02-at-14-43-46-2x.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  Nanoleaf Umbra Cono
 
 6/ 10 
@@ -144,8 +149,6 @@ Expand
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +156,26 @@ Expand
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-10-effortless-tips-for-amplifying-video-engagement-on-facebook/"><u>[New] 2024 Approved 10 Effortless Tips for Amplifying Video Engagement on Facebook</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-theme-that-stands-out-crafting-banners-for-gamers/"><u>[New] Theme That Stands Out Crafting Banners for Gamers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-mac-acoustics-for-aspiring-artists-for-2024/"><u>[Updated] Mac Acoustics for Aspiring Artists for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-top-users-on-snapchat/"><u>Exploring Top Users on Snapchat</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-t2-pro-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo T2 Pro 5G? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-to-check-who-unfollowed-me-on-instagram/"><u>How to Check Who Unfollowed Me on Instagram?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-darter-pro-an-outstanding-choice-for-the-linux-user-experience/"><u>Latest Darter Pro: An Outstanding Choice for the Linux User Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/leading-point-and-shoot-camera-models-for-photography-enthusiasts-2024-edition/"><u>Leading Point-&-Shoot Camera Models for Photography Enthusiasts - 2024 Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/limited-time-tech-bonanza-score-big-savings-on-beats-in-ear-earbuds-high-flying-dji-drones-and-luxury-bose-tv-audio-experience/"><u>Limited-Time Tech Bonanza: Score Big Savings on Beats In-Ear Earbuds, High-Flying DJI Drones & Luxury Bose TV Audio Experience!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/optimize-your-workflow-streamlined-processes-for-skype-calls-recording-for-2024/"><u>Optimize Your Workflow Streamlined Processes for Skype Calls Recording for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/optimizing-home-theater-experience-by-strategically-positioning-your-furniture-discover-the-acoustic-advantages/"><u>Optimizing Home Theater Experience by Strategically Positioning Your Furniture - Discover the Acoustic Advantages!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/pioneering-ergonomics-how-dell-is-revolutionizing-computer-accessories-for-enhanced-productivity/"><u>Pioneering Ergonomics: How Dell Is Revolutionizing Computer Accessories for Enhanced Productivity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/pituitary-adenomas-are-classified-based-on-the-type-of-hormone-they-excessively-secrete/"><u>Pituitary Adenomas Are Classified Based on the Type of Hormone They Excessively Secrete.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/powerful-dyson-360plus-reviewed-an-efficient-robot-vacuum-with-navigation-challenges/"><u>Powerful Dyson 360+ Reviewed: An Efficient Robot Vacuum with Navigation Challenges</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-tips-seamlessly-segmenting-your-mkv-videos-using-chapter-cuts/"><u>Quick Tips: Seamlessly Segmenting Your MKV Videos Using Chapter Cuts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/review-of-onyx-boox-note-air3-exceptional-reading-and-writing-experience-with-color-e-ink-display/"><u>Review of Onyx Boox Note Air3 - Exceptional Reading and Writing Experience with Color E-Ink Display</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/reviving-retro-why-the-world-needs-a-comeback-of-classic-beige-computers/"><u>Reviving Retro: Why The World Needs a Comeback of Classic Beige Computers</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-power-of-shortcuts-for-app-size-adjustment-on-windows-11/"><u>Unlocking the Power of Shortcuts for App Size Adjustment on Windows 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-10-industry-leading-audio-editing-solutions-for-professionals/"><u>Updated 10 Industry-Leading Audio Editing Solutions for Professionals</u></a></li>
+</ul></div>
 

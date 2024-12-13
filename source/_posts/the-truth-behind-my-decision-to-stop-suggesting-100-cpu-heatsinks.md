@@ -1,7 +1,7 @@
 ---
 title: The Truth Behind My Decision to Stop Suggesting $100 CPU Heatsinks
-date: 2024-08-28T02:04:09.190Z
-updated: 2024-08-29T02:04:09.190Z
+date: 2024-12-06T21:26:22.889Z
+updated: 2024-12-13T01:44:45.435Z
 tags:
   - hardware
 categories:
@@ -11,11 +11,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## The Truth Behind My Decision to Stop Suggesting $100 CPU Heatsinks
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Mid-Range Options Offer Comparable if Not Superior Performance](https://fox-info.techidaily.com/new-radiant-hue-tuner-program-for-2024/)
 * [CPU Air Coolers I Can Recommend](https://instagram-clips.techidaily.com/new-the-social-lift-transform-from-zero-to-millionth-follower-in-months-for-2024/)
 * [When It's Okay to Spend $100+ on an Air CPU Cooler](https://facebook-video-footage.techidaily.com/updated-youtube-seo-101-boost-your-videos-visibility/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -26,8 +34,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Back when it came out, the Noctua NH-D15 was a majestic piece of hardware that absolutely justified its price. Nowadays, though, $100 air CPU coolers aren't rulers of the realm anymore. They've been superseded by a new generation of tower coolers offering both performance and affordability.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Mid-Range Options Offer Comparable if Not Superior Performance
 
  Don't get me wrong, the [Noctua NH-D15](https://www.amazon.com/Noctua-NH-D15-heatpipe-NF-A15-140mm/dp/B00L7UZMAK?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003287&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fheres-why-i-stopped-recommending-100-air-cpu-coolers%2F&asc%5Fcampaign=Evergreen) and its ilk in the form of the [DeepCool Assassin IV](https://www.amazon.com/DeepCool-Assassin-Cooler-Mighty-LGA20XX/dp/B0C8D2CKXX?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003287&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fheres-why-i-stopped-recommending-100-air-cpu-coolers%2F&asc%5Fcampaign=Evergreen) and [be quiet! Dark Rock Elite](https://www.amazon.com/quiet-High-Performance-Enhanced-Compatibility-BK037/dp/B0CJY2QS2W?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003287&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fheres-why-i-stopped-recommending-100-air-cpu-coolers%2F&asc%5Fcampaign=Evergreen) are still pretty "solid to excellent" when it comes to pure cooling performance, depending on the specific model and the CPU you pair it with. However, when you combine said performance with the price of admission, things go south.
@@ -43,15 +52,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Nowadays, I tend to recommend budget and mid-range CPU air coolers or AIOs if the PC builder wants a liquid cooling solution for their CPUs. I hope Noctua's upcoming NH-D15 successor won't cost $100 unless it gets close to a quality 360mm AIO performance.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  CPU Air Coolers I Can Recommend
 
  So now it's time to put your money where my mouth is: these are some of the best air coolers I can recommend today.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  My Go-To Recommendation: [Thermalright Phantom Spirit 120SE](https://www.amazon.com/Thermalright-Phantom-TL-C12B-Technilogy-Bearing/dp/B0BNDTJVPL?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003287&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fheres-why-i-stopped-recommending-100-air-cpu-coolers%2F&asc%5Fcampaign=Evergreen) 
 
 ![Thermalright Phantom Spirit 120SE CPU Air Cooler.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/thermalright-phantom-spirit-120se.png) 
@@ -64,21 +71,10 @@ _Thermalright_
 
  The [Phantom Spirit 120 EVO](http://www.amazon.com/Thermalright-Phantom-EVO-Technilogy-Bearing/dp/B0CL8Z43L8?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003287&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fheres-why-i-stopped-recommending-100-air-cpu-coolers%2F&asc%5Fcampaign=Evergreen) is technically better, but its $50 price works against it. If you don't mind spending a bit extra, the EVO is a solid option, considering it looks way better than the Phantom Spirit 120SE while also packing a pinch of RGB.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  The Best Alternative: [Thermalright Peerless Assassin 120 SE](https://www.amazon.com/Thermalright-Peerless-SE-Aluminium-Technology/dp/B09LGY38L4?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003287&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fheres-why-i-stopped-recommending-100-air-cpu-coolers%2F&asc%5Fcampaign=Evergreen) 
 
 ![Thermalright Peerless Assassin 120 SE CPU Air Cooler.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/thermalright-peerless-assassin-120-se.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 _Thermalright_ 
 
  If you want something with similar power but can't find the Phantom Spirit 120SE at the $35 price point or at all, check out the [Peerless Assassin 120 SE](http://www.amazon.com/Thermalright-Peerless-SE-Aluminium-Technology/dp/B09LGY38L4?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003287&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fheres-why-i-stopped-recommending-100-air-cpu-coolers%2F&asc%5Fcampaign=Evergreen), also from Thermalight. This is yet another beefy CPU air cooler sporting a price of about $39.
@@ -98,8 +94,9 @@ _DeepCool_
  Just note that you can pair all the coolers I mentioned above with any Ryzen CPU and most Intel processors. The only situation where I'd go with an AIO liquid cooler is if you plan on using an Intel K-series i7 or i9 without power limits—that said, [it looks like](https://videocardz.com/newz/intel-addresses-instability-issues-with-13th-14th-gen-core-k-series-cpus-in-latest-statement) removing power limits will make your Intel CPU unstable—for heavy all-core workloads that can punish every performance core found below the heat spreader (IHS), or if you're building an ultra-compact small form factor (SFF) PC.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  When It's Okay to Spend $100+ on an Air CPU Cooler
 
  While I generally don't recommend $100+ CPU air coolers for regular builds, there are a couple of specific scenarios where buying an expensive CPU air cooler is justified.
@@ -120,8 +117,6 @@ _DeepCool_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +124,16 @@ _DeepCool_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-the-like-factor-techniques-for-traffic-driving-facebook-content/"><u>[New] The Like Factor Techniques for Traffic-Driving Facebook Content</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweak-twitter-video-clip-cover/"><u>[New] Tweak Twitter Video Clip Cover</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-hp-laserjet-p3015-printer-drivers-on-windows-free-guide/"><u>Download & Install HP LaserJet P3015 Printer Drivers on Windows - Free Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-your-perfect-insignia-vga-to-usb-converter-installers-and-guides-for-easy-connection/"><u>Find Your Perfect Insignia VGA to USB Converter: Installers & Guides for Easy Connection</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-epson-es-400-scandriver-downloads-and-installation-guide-for-windows-users/"><u>Free Epson ES-400 ScanDriver Downloads & Installation Guide for Windows Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-honor-magic5-ultimate-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Honor Magic5 Ultimate.</u></a></li>
+<li><a href="https://driver-error.techidaily.com/meltdown-fixing-intellme-malfunctions/"><u>Meltdown: Fixing IntellME Malfunctions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-linux-kernel-patch-disables-default-igpu-on-snapdragon-x-caused-by-missing-oem-certification-requirement/"><u>New Linux Kernel Patch Disables Default iGPU on Snapdragon X - Caused by Missing OEM Certification Requirement</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/safe-file-restoration-top-6-methods-to-securely-retrieve-accidentally-deleted-items/"><u>Safe File Restoration: Top 6 Methods to Securely Retrieve Accidentally Deleted Items</u></a></li>
+</ul></div>
 

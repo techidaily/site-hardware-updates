@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Ultimate Tech Roundup: Unveiling the Most Revolutionary Devices & Products Of"
-date: 2024-12-03T22:53:26.225Z
-updated: 2024-12-07T03:00:43.055Z
+date: 2024-12-12T03:25:37.865Z
+updated: 2024-12-12T18:32:38.574Z
 tags:
   - laptops
 categories:
@@ -48,6 +48,10 @@ Show less
 
 ## Nothing Phone 1
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best innovative smartphone of 2022
 
 **Tech specs: Display:** 6.55-inch OLED with 120Hz refresh rate | **Processor:** Qualcomm Snapdragon 778G Plus | **Storage:** 8GB/12GB RAM with 128/256GB storage | **Camera:** 50MP wide, 50MP ultra-wide, and 16MP front camera | **Weight:** 6.82 ounces
@@ -81,7 +85,7 @@ Water-Resistant  Yes (IPX4 -- Splash-Proof)
 ## Bose QuietComfort II Earbuds
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best earbuds of 2022
@@ -124,10 +128,6 @@ Show less
 
 [View now at Oura Ring](https://ouraring.sjv.io/c/159047/1408413/16760?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fouraring.com%2Fproduct%2Fhorizon-silver&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Oura Ring Gen 3 Horizon
 
 ### Best wearable of 2022
@@ -153,14 +153,10 @@ Show less
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B7Y1ZC9L%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C13feadf2-b3e0-43f1-9239-e918074266af%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Samsung Galaxy Tab S8 Plus
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best tablet of 2022
 
@@ -179,10 +175,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FIntroducing-Kindle-Scribe-the-first-Kindle-for-reading-and-writing%2Fdp%2FB09BSGFTHY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C13feadf2-b3e0-43f1-9239-e918074266af%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Amazon Kindle Scribe
 
@@ -219,7 +211,7 @@ Graphics tested  Apple M2 8‑core
 ## Apple MacBook Air M2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best laptop of 2022
@@ -242,15 +234,7 @@ Show less
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F404600225&subId1=zd-__COM_CLICK_ID__-dtp)[View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09SBL34C4%2Fref%3Dasc%5Fdf%5FB09SBL34C41728644400000%3Fcreative%3D395261%26creativeASIN%3DB09SBL34C4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C13feadf2-b3e0-43f1-9239-e918074266af%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Samsung Neo QLED 8K QN800B TV
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best TV of 2022
 
@@ -269,6 +253,10 @@ Show Expert Take Show less
 Show less 
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F731543167&subId1=zd-__COM_CLICK_ID__-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Kasa Smart Plug Mini
 
@@ -313,7 +301,7 @@ Show less
 [View now at Wooting](https://next.wooting.io/configurator/wooting-60he#config)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Wooting 60HE Gaming Keyboard
@@ -339,7 +327,7 @@ Show less
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09Q7SZHKG%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C13feadf2-b3e0-43f1-9239-e918074266af%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Drop + EPOS PC38X Gaming Headset
@@ -386,6 +374,10 @@ Show less
 
 ## Fiture Mini
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best smart workout of 2022
 
 **Tech specs: Screen size:** 32 inches | **Dimensions:** 63 inches x 20 inches; 1.6 inches deep | **Weight:** 40 lbs | **Connectivity:** Bluetooth and Wi-Fi | **Membership fee:** $25/month with up to 7 profiles 
@@ -405,6 +397,10 @@ Show Expert Take Show less
 Show less 
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Firobot%2Froomba-j7-j7plus%2Fpcmcat1633095696173.c%3Fid%3Dpcmcat1633095696173&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Roomba j7+
 
@@ -446,6 +442,10 @@ We asked ZDNET writers and editors what their favorite products they reviewed/pu
 
 Most of these products were released this year, but some, such as the Kasa Smart Plug Mini and the Drop + EPOS PC38X gaming headset, were previously released. We were just super impressed with them this year. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What technology will trend in 2023?
 
 No one can predict the future, but [three tech trends on the verge of a breakthrough in 2023](https://www.zdnet.com/home-and-office/work-life/three-tech-trends-on-the-verge-of-a-breakthrough-in-2023/) are foldable smartphones, virtual/augmented reality and the metaverse, and ambient computing.
@@ -486,24 +486,16 @@ And ambient computing-the technology we see in smart home devices-is getting bet
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-from-zero-to-trendsetter-solo-podcast-success-story/"><u>[New] 2024 Approved From Zero to Trendsetter Solo Podcast Success Story</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-apples-latest-innovation-are-macbook-air-or-pro-best/"><u>[New] Apple's Latest Innovation Are MacBook Air or Pro Best?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-facetime-call-screen-recording-the-beginners-guide-for-2024/"><u>[New] FaceTime Call Screen Recording The Beginner's Guide for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unveiling-top-8-excellent-free-online-srt-translators-for-efficiency/"><u>[New] Unveiling Top 8 Excellent Free Online SRT Translators for Efficiency</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hacks-for-preventing-youtube-short-failures/"><u>[Updated] 2024 Approved Hacks for Preventing YouTube Short Failures</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-exploring-the-economic-value-of-a-million-youtube-followers/"><u>[Updated] In 2024, Exploring the Economic Value of a Million YouTube Followers</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on ZTE Blade A73 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-your-windows-11-experience-upgrade-to-nvidias-new-geforce-210-graphics-drivers-today/"><u>Boost Your Windows 11 Experience: Upgrade to NVIDIA's New GeForce 210 Graphics Drivers Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722979147572-easy-access-to-ricoh-mp-c3003-printing-solutions-driver-downloads-available-now/"><u>Easy Access to Ricoh MP C3003 Printing Solutions: Driver Downloads Available Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-fixes-refresh-driver-software-on-lenovo-docking-ports/"><u>Easy Fixes: Refresh Driver Software on Lenovo Docking Ports</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-download-and-install-printer-drivers-for-your-epson-perfection-v500/"><u>Easy Steps to Download & Install Printer Drivers for Your Epson Perfection V500</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-guide-updating-your-dell-monitors-software-for-optimal-performance/"><u>Effortless Guide: Updating Your Dell Monitor's Software for Optimal Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-nvidia-geforce-rtx-2080-super-graphics-card-driver-software-compatible-with-windows-10-and-11/"><u>Get the Latest NVIDIA GeForce RTX 2080 Super Graphics Card Driver Software – Compatible with Windows 10 and 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-nubia-red-magic-8s-pro-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Nubia Red Magic 8S Pro Phone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-the-art-of-antiquated-visuals-for-modern-audienciplines/"><u>In 2024, The Art of Antiquated Visuals for Modern Audienciplines</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-the-latest-epson-workforce-ds30-printer-drivers-on-windows-1187-download-guide/"><u>Installing the Latest Epson WorkForce DS30 Printer Drivers on Windows 11/8/7 - Download Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revitalize-your-system-comprehensive-guide-on-updating-and-installing-screen-drivers-for-windows/"><u>Revitalize Your System: Comprehensive Guide on Updating & Installing Screen Drivers for Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-amd-fire-series-preserving-fl1-architecture-within-new-zen-5-processors-and-its-impact-on-future-laptops-featuring-rtx-graphics/"><u>The AMD Fire Series: Preserving FL1 Architecture Within New Zen 5 Processors and Its Impact on Future Laptops Featuring RTX Graphics</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-inferno-captures-best-slow-motion-cameras-for-2024/"><u>[New] Inferno Captures Best Slow-Motion Cameras for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-canon-imageclass-mf4800-drivers/"><u>Download | Canon imageCLASS MF4800 Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-ultimate-msi-z37-370-a-driver-bundle-compatible-versions-available/"><u>Download the Ultimate MSI Z37 370-A Driver Bundle - Compatible Versions Available</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/free-laravel-paper-theme-by-creative-tim-premium-admin-interface-template/"><u>Free Laravel Paper Theme by Creative Tim: Premium Admin Interface Template</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-newest-broadcom-bluetooth-driver-for-windows-versions-10-8-and-ebitron/"><u>Get Your Newest Broadcom Bluetooth Driver for Windows Versions: 10, 8 and Ebitron</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-under-a-hundred-bucks-heres-your-top-5-drones/"><u>In 2024, Under a Hundred Bucks? Here's Your Top 5 Drones</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/lightroom-for-android-unveiled-detailed-assessment-for-2024/"><u>Lightroom for Android Unveiled Detailed Assessment for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/reaching-peak-performance-in-windows-gaming/"><u>Reaching Peak Performance in Windows Gaming</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/realtek-rtl8811au-driver-troubleshooting-steps-to-correct-common-issues/"><u>Realtek RTL8811AU Driver Troubleshooting: Steps to Correct Common Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-setup-guide-instant-download-of-usb-to-rs2n32-serial-communication-driver/"><u>Speedy Setup Guide: Instant Download of USB-to-RS2n32 Serial Communication Driver</u></a></li>
+<li><a href="https://win-best.techidaily.com/ultimate-protection-with-windows-server-2022-quick-recovery-toolkit-reliable-and-efficient-backup-solutions/"><u>Ultimate Protection with Windows Server 2022 Quick-Recovery Toolkit - Reliable & Efficient Backup Solutions</u></a></li>
 </ul></div>
 

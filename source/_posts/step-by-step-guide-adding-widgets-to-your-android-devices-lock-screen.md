@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Adding Widgets to Your Android Device's Lock Screen"
-date: 2024-08-28T02:04:57.076Z
-updated: 2024-08-29T02:04:57.076Z
+date: 2024-12-07T23:25:57.056Z
+updated: 2024-12-12T17:31:02.369Z
 tags:
   - android
 categories:
@@ -25,9 +25,6 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
 
  Android actually supported lock screen widgets long before the iPhone did. It was officially added way back in 2012 with [Android 4.2 Jelly Bean](https://facebook-video-content.techidaily.com/powerful-tactics-leveraging-youtube-links-for-fb-exposure/). However, the feature was removed two versions later with Android 5.0 Lollipop. So let's bring it back.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Lock Screen Widgets for Android
 
  Since Android doesn't officially support lock screen widgets, we'll need the help of a third-party app. Keep in mind that this is a bit of a hacky method, so it may not work perfectly. The app we'll be using is called "[Lockscreen Widgets and Drawer](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU205591/https://play.google.com/store/apps/details?id=tk.zwander.lockscreenwidgets&hl=en%5FUS&gl=US)," and it costs $1.49.
@@ -36,21 +33,10 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
 
 ![Enable the Accessibility Service.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230919-164302-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
  Back in the app, the next permission is for notification listening. This allows Lockscreen Widgets to hide the widgets when you have notifications on the lock screen. Tap "Grant" and then enable Lockscreen Widgets in the settings. This is optional.
 
 ![Enable notification listening.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230919-164342.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  The next permission is for accessing media on your device. This is used to detect your wallpaper and create a "mask" behind the widgets. You don't need to use this feature if you don't want to.
 
 ![Grant access to media.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230919-164403.png) 
@@ -63,28 +49,37 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
 
 ![Enable widgets and tap "Add Widget."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230919-164502.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Scroll through the list of widgets and tap the one you'd like to add. Repeat this to add multiple widgets to the lock screen.
 
 ![Select a widget to add.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230919-164553.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Tap "Preview" to see how the widget will look on the lock screen. Tap the widget with two fingers to bring up the editing controls—tap with two fingers again to hide them.
 
 ![Widget editing options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230919-164643.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you added multiple widgets, you can swipe horizontally to page through them. Long-press a widget to tap the red minus icon to remove it.
 
 ![Swipe through multiple widgets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230919-164727.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  Next, we'll take a peek at the "Settings."
 
 ![Go to "Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/2023-09-19_16-56-50.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You'll want to experiment a bit with these settings to find what works best with your lock screen. We'll highlight a couple of things you might want to do. First, under the "Appearance" section is "Masked Mode." This is nice if you want the widgets to cover elements on the lock screen, like the clock.
 
@@ -99,8 +94,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Lock Screen Widgets in action.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230919-164944.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  That should be enough to get you started! Since this is not an official method, you'll probably run into some wonkiness here and there, but it's a pretty good solution. Apple and Google [love to "share" ideas](https://screen-video-capture.techidaily.com/1715701158646-a-user-friendly-guide-to-seamless-collaboration-across-different-operating-systems-via-skype-group-chats/); maybe Google will remember lock screen widgets soon.
 
 <ins class="adsbygoogle"
@@ -109,8 +105,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +112,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-live-video-quest-evaluating-the-strengths-of-obs-and-twitch-studio/"><u>[Updated] In 2024, Live Video Quest Evaluating the Strengths of OBS and Twitch Studio</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-persuasive-prompt-producer-kit/"><u>2024 Approved Persuasive Prompt Producer Kit</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/comedy-channel-guide-your-best-15-youtube-sources-for-2024/"><u>Comedy Channel Guide Your Best 15 YouTube Sources for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-epson-ds-530-printer-drivers-on-windows-11-64-bit-latest-version/"><u>Download & Install Epson DS-530 Printer Drivers on Windows 11 (64-Bit) | Latest Version</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722978895751-get-the-latest-surface-book-driver-software-easy-download-and-update-options/"><u>Get the Latest Surface Book Driver Software - Easy Download & Update Options</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-amd-rx-navigate-to-the-google-search-engine-that-will-display-results-when-users-look-for-updated-drivers-on-their-pcs-running-windows-system127/"><u>Get the Newest AMD RX Navigate to the Google Search Engine that Will Display Results when Users Look for Updated Drivers on Their PCs Running Windows Systems</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-14-pro-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-electronics-tips-from-toms-hardware-hub/"><u>Navigating the World of Electronics: Tips From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-issues-with-pci-crypto-controller-drivers-now-functional/"><u>Resolving Issues with PCI Crypto Controller Drivers – Now Functional! 👩‍💻✅</u></a></li>
+</ul></div>
 

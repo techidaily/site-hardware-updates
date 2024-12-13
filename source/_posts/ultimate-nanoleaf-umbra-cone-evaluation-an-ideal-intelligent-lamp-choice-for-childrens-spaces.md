@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Nanoleaf Umbra Cone Evaluation: An Ideal Intelligent Lamp Choice for Children's Spaces"
-date: 2024-08-28T02:00:34.755Z
-updated: 2024-08-29T02:00:34.755Z
+date: 2024-12-08T00:23:13.492Z
+updated: 2024-12-13T00:24:41.949Z
 tags:
   - hardware
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/4a0e802a162a5a423f94ca329819be0d261aa988b
 * Despite its higher price and lack of battery life indicator, it's a unique addition to any home, especially for smart home enthusiasts.
 
  A good smart nightlight for a young kid's rooms is tricky to find, but the [Nanoleaf Umbra Cono](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2002959/https://nanoleaf.me/en-US/products/smarter-partners/umbra-lamps/) portable lamp might just fit that bill perfectly. It isn’t even targeted at kids specifically, but since it can be controlled without a phone, is easy to carry, and has a built-in battery, it works well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  A Smart Lamp For Kids and Adults
 
@@ -40,15 +44,17 @@ Jerome Thomas / How-To Geek
  Speaking of the Nanoleaf app and its connected nature: custom colors can be used, automatic schedules can be set up, and voice assistants can be linked. There are a ton of ways to use this little lamp. It's not just kids either, I liked using it on my desk—before my daughter stole it for her room. Although the lamp is the most valuable when it's connected to a Matter-compatible smart home hub like a HomePod, it can be used by connecting via Bluetooth.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Price Is One of the Hurdles
 
 ![Showing the USB-C port on the Nanoleaf Umbra Cono](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/nanoleaf-umbra-cono.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  Although the Umbra Cono light is great in a lot of ways, it still has issues, with two big hurdles specifically. The first is its $95 price. For a decor piece in a single person’s home, it might be worth splurging on, but if you have one, you’ll surely want a second or third to compliment it. The cost adds up quickly.
@@ -58,16 +64,17 @@ Jerome Thomas / How-To Geek
  The second issue is more subtle, but I couldn’t find a place in the Nanoleaf app or on the lamp to see the battery life remaining. The only indicator to speak of is a charging indicator on the light itself as a pinhole light just below the USB-C port. I searched for a way to monitor the battery life online and in the manual, but couldn't find anything. So it seems like you can see when it's fully charged, but nothing more. Strange. I even did the latest firmware update to make sure something new hadn't been added.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Is the Nanoleaf Umbra Cono Portable Lamp Worth Spending Money On?
 
 ![Nanoleaf Umbra Cono in a dark room standing up with its light on](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/nanoleaf-umbra-cono-4.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  For as much as I like the [Nanoleaf Umbra Cono](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2002959/https://nanoleaf.me/en-US/products/smarter-partners/umbra-lamps/) portable lamp, it definitely has its quirks. For its premium price, I do wish it felt higher-end, instead of completely being made out of plastic. It could use some kind of battery indicator—hopefully Nanoleaf will add that to the app in the future. I also would have liked the button to be a little more tactile, instead of being more touch-sensitive. It doesn't press in.
@@ -76,9 +83,6 @@ Jerome Thomas / How-To Geek
 
 ![Nanoleaf Umbra Cono](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/cleanshot-2024-05-02-at-14-43-46-2x.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 #####  Nanoleaf Umbra Cono
 
 6/ 10 
@@ -145,8 +149,6 @@ Expand
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +156,18 @@ Expand
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/updated-s3700-blu-ray-box-player-fresh-perspective/"><u>[Updated] S3700 Blu-Ray Box Player - Fresh Perspective</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/finding-the-right-retailers-for-new-releases-ryzen-7-9700x-and-ryzen-5-9600x-from-amd/"><u>Finding the Right Retailers for New Releases: Ryzen 7 9700X & Ryzen 5 9600X From AMD</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-envy-7640-driver-problems-heres-how-to-fix-them-fast/"><u>HP ENVY 7640 Driver Problems? Here's How to Fix Them Fast</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-breaking-the-barrier-easy-livestream-setup-for-podcasters/"><u>In 2024, Breaking the Barrier Easy Livestream Setup for Podcasters</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-apple-iphone-6-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For Apple iPhone 6</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-logitechs-brio-webcam-driver-software-for-windows-10-8-and-7-versions/"><u>Installing Logitech's BRIO Webcam Driver Software for Windows 10, 8 & 7 Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-intel-network-drivers-available-for-windows-11-10-and-7-get-yours-today/"><u>Latest Intel Network Drivers Available for Windows 11, 10 & 7 – Get Yours Today!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/permanent-solutions-stop-the-pacific-drive-game-from-crashing-on-your-computer/"><u>Permanent Solutions: Stop the Pacific Drive Game From Crashing on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/speeding-up-origin-proven-techniques-to-enhance-download-velocity/"><u>Speeding Up Origin: Proven Techniques to Enhance Download Velocity</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-realme-c53-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Realme C53 Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-upgrading-from-apple-watch-series-7-beats-jumping-to-series-10-insights-and-analysis/"><u>Why Upgrading From Apple Watch Series 7 Beats Jumping to Series 10 - Insights & Analysis</u></a></li>
+</ul></div>
 

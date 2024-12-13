@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to the Best 15-Inch Portable PCs : Rigorous Analysis and Ratings"
-date: 2024-12-05T21:58:47.657Z
-updated: 2024-12-06T16:01:58.871Z
+date: 2024-12-10T21:51:18.408Z
+updated: 2024-12-12T19:54:46.187Z
 tags:
   - laptops
 categories:
@@ -26,6 +26,10 @@ For those of us who'd been working with Linux for some time, that was more a bot
 
 We went hands-on with some of the best laptops on the market that can run Linux, testing their performance, battery, and features. Our pick for the best Linux laptop overall is the [Lenovo ThinkPad Z13 Gen 2](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1796374-REG%2Flenovo%5F21jv000dus%5F13%5F3%5Fthinkpad%5Fz13%5Fgen.html) is our top pick due to its more affordable price and customization options. Check out the rest of the list to learn about our other top picks. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The best Linux laptops of 2024
 
 Show less 
@@ -43,11 +47,11 @@ Cons
 * Not all CPU options support up to 64GB of RAM
 * Incompatible with discrete GPUs
 
-## Lenovo ThinkPad Z13
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Lenovo ThinkPad Z13
 
 ### Best Linux laptop overall
 
@@ -77,7 +81,7 @@ Cons
 ## Dell XPS 15
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best configurable Linux laptop
@@ -107,7 +111,15 @@ Cons
 * May feel fragile to some users
 * Somewhat short battery life
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Acer Swift Edge
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best AMD-based Linux laptop
 
@@ -136,6 +148,10 @@ Cons
 * No AMD option
 * No 4K or touchscreen display options
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## MSI Stealth Studio AI
 
 ### Best Linux laptop for gaming
@@ -163,10 +179,6 @@ Pros
 Cons 
 * Expensive
 * Somewhat thick and heavy design
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Microsoft Surface Laptop Studio 2
 
@@ -197,10 +209,6 @@ My choice for the best Linux laptop is the Lenovo ThinkPad Z13 Gen 2\. Lenovo is
 | Microsoft Surface Laptop Studio 2 | $2,500    | Up to Intel Core i7-13800H/Up to Nvidia RTX 4060                    | 19 hours         |
 
 \*MSRP at time of writing. Please note that actual retail pricing may vary depending on the seller as well as available deals and promotions. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which Linux laptop is right for you?
 
@@ -237,25 +245,21 @@ While we were researching and testing each Linux-compatible laptop on this list,
 
 Linux is an open-source operating system, created by Linus Torvalds, that is not only suited for desktops and laptops, but for enterprise-grade servers, container deployments, the cloud, and much more. Linux is available as a distribution and can be downloaded and installed for free on as many machines as you need.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can you run Linux on a Mac?
 
 This is a bit of a complicated answer.
 
 Yes, you can run Linux operating systems on MacBooks, Mac Minis, and Mac desktops. But there's a catch: you have to opt for an older model that uses an Intel Core processor instead of Apple's own M1 or M2 chips. Apple's silicon chips are starting to see Linux hobbyists and pros alike build support, but at the time of writing, the only reliable way to get Linux to run on an M1/M2 Mac is to use a [virtual machine](https://azure.microsoft.com/en-au/resources/cloud-computing-dictionary/what-is-a-virtual-machine/) which is a type of emulation program.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Are there disadvantages to running Linux instead of Windows or MacOS?
 
 The biggest hurdles you'll have to face when using Linux over Windows or MacOS are the learning curve and general lack of support from brand-name software companies. Since Linux is an open-source operating system, there isn't a [single, unified version](https://en.wikipedia.org/wiki/List%5Fof%5FLinux%5Fdistributions) like there is for Windows 11 or macOS Catalina. This means that it's much more difficult to program applications like games, video players, and even weather apps to work consistently across all versions of Linux. Different versions also mean that just because you're familiar with Ubuntu, that doesn't mean your expertise will be of any use on a machine that runs a different Linux dispo.
 
 **Also:** [**Windows, Mac, or Linux? We compare the pros and cons of these computing platforms**](https://www.zdnet.com/article/windows-mac-or-linux-we-compare-the-pros-and-cons-of-these-computing-platforms/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What does "open-source" mean?
 
@@ -264,7 +268,7 @@ When talking about programming and coding, you may come across the term "open-so
 Linux is popular with programmers since it is open-source, which means that it's easy to try and make your own modifications or command lists. Or you can work together with the Linux community to resolve common bug issues or create new support programs for hardware like Apple's M3 Silicon Chips. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the oldest computer you can run with Linux?
@@ -272,10 +276,6 @@ Linux is popular with programmers since it is open-source, which means that it's
 The great thing about Linux is that it is an open source operating system. Which means there are a lot of different versions out there on forums and also the Internet Archive. And since there are so many different release versions, newcomers looking to save money on their first dedicated or dual-boot Linux machine can pick up a vintage computer at a thrift store, estate sale, or other secondhand store and likely find an operating system version that will run with it.
 
 A thread on the [Linux Mint Forums](https://forums.linuxmint.com/viewtopic.php?t=228393) is full of users who were able to use various versions of Linux Mint as well as Puppy (a version of Linux designed to be run from a flash drive, making it great for hobbyists who restore vintage tech) and Ubuntu on Windows Vista and Windows 98 computers (which intrepid tech hunters may be able to find for a bargain at a thrift store or secondhand online). And Tech Tangents on YouTube, a channel dedicated to restoring and archiving retro computer hardware and software, was able to revive a [TeleVideo 950 terminal](https://www.youtube.com/watch?v=ob7cEzXLxXU) that was originally released in 1980 and use a version of Linux on it. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## More Linux laptops we tested
 
@@ -323,24 +323,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-achieving-financial-gain-with-youtube-shorts-essentials-opportunities-and-earning-prospects/"><u>[New] 2024 Approved Achieving Financial Gain with Youtube Shorts Essentials, Opportunities & Earning Prospects</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-digital-detective-work-cracking-the-code-to-live-streams/"><u>[Updated] 2024 Approved Digital Detective Work Cracking the Code to Live Streams</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-future-of-cloud-storages-top-picks-to-consider/"><u>[Updated] 2024 Approved The Future of Cloud Storages Top Picks to Consider</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-vr-selection-top-8-must-have-titles/"><u>[Updated] Ultimate VR Selection Top 8 Must-Have Titles</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-zte-nubia-z60-ultra-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on ZTE Nubia Z60 Ultra? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-info.techidaily.com/enhancing-your-computers-performance-boosting-cpu-and-ram-capabilities-expert-tips-from-yl-software/"><u>Enhancing Your Computer's Performance: Boosting CPU & RAM Capabilities - Expert Tips From YL Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-discover-the-ultimate-list-of-top-dell-deals-for-black-friday-and-cyber-monday-across-platforms-such-as-best-buy-and-amazon-gizmodo/"><u>Exclusive: Discover the Ultimate List of Top Dell Deals for Black Friday and Cyber Monday Across Platforms Such as Best Buy & Amazon | Gizmodo</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-ultimate-creators-setup-at-half-price-dramatic-1100-discount-on-high-performance-computers-for-gamers-and-producers-spotted-first-on-zdnet/"><u>Get the Ultimate Creator's Setup at Half Price! Dramatic $1,100 Discount on High-Performance Computers for Gamers and Producers – Spotted First on ZDNet.</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-sony-xperia-10-v-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Sony Xperia 10 V 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/huawei-matebook-x-pro-examined-the-top-14/"><u>Huawei MateBook X Pro Examined: The Top 14</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-favorite-frames-most-engaged-ig-filters/"><u>In 2024, Favorite Frames Most Engaged IG Filters</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-the-apple-macbook-pro-with-m3-chip-at-200-less-amazons-spectacular-spring-clearance-event-zdnet-coverage/"><u>Snag the Apple MacBook Pro with M3 Chip at $200 Less - Amazon's Spectacular Spring Clearance Event! [ZDNet Coverage]</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-insider-guide-elevating-your-instagram-imagery-for-2024/"><u>The Insider Guide Elevating Your Instagram Imagery for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-48-unmissable-cyber-monday-bargains-in-gaming-save-on-consoles-pcs-laptops-and-games-zdnet/"><u>Top 48 Unmissable Cyber Monday Bargains in Gaming - Save on Consoles, PCs, Laptops & Games | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-15-inch-laptop-picks-for-2eplust-year-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top Rated 15-Inch Laptop Picks for 2E+t Year - Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-tablet-deals-on-cyber-monday-get-600-off-microsoft-surface-pro-8-post-black-friday-sale-insider/"><u>Top Tablet Deals on Cyber Monday: Get $600 Off Microsoft Surface Pro 8 Post-Black Friday Sale Insider</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-productivity-with-the-hp-copilotplus-my-experiment-as-a-digital-nomad-zdnet/"><u>Unlocking Productivity with the HP Copilot+: My Experiment as a Digital Nomad | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-hidden-gems-of-dells-best-value-laptop-with-smart-features-a-comprehensive-review/"><u>Unveiling the Hidden Gems of Dell's Best-Value Laptop with Smart Features – A Comprehensive Review</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-angled-artistry-elevating-youtube-video-editing-skills/"><u>[New] 2024 Approved Angled Artistry Elevating YouTube Video Editing Skills</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-top-10-apps-to-excitingly-edit-horizontal-and-vertical-igtv/"><u>[New] Top 10 Apps to Excitingly Edit Horizontal and Vertical IGTV</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-digital-artisans-gathering-haven-for-2024/"><u>[Updated] Digital Artisans Gathering Haven for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-record-your-google-meet-on-iphoneandroid-step-by-step/"><u>[Updated] In 2024, Record Your Google Meet on iPhone/Android Step-by-Step</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-seeking-out-facebooks-streamed-movies-and-shows/"><u>[Updated] In 2024, Seeking Out Facebook's Streamed Movies & Shows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-free-samsung-laptop-driver-downloads-and-updates-for-windows-systems/"><u>Easy Guide: Free Samsung Laptop Driver Downloads & Updates for Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-download-latest-intel-thunderbolt-driver-updates/"><u>Effortless Download: Latest Intel Thunderbolt Driver Updates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortlessly-troubleshoot-and-correct-lenovo-peripheral-driver-errors/"><u>Effortlessly Troubleshoot and Correct Lenovo Peripheral Driver Errors</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/evaluating-reliable-backup-software-how-does-aomei-backupper-stand-up-to-acronis-true-image/"><u>Evaluating Reliable Backup Software: How Does AOMEI Backupper Stand Up to Acronis True Image?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-co-production-strategies-for-online-content-proliferation/"><u>In 2024, Co-Production Strategies for Online Content Proliferation</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-oppo-k11x-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Oppo K11x Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971280612-latest-toshiba-bluetooth-driver-version-available-for-free/"><u>Latest Toshiba Bluetooth Driver Version Available for Free!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/non-commercial-balloons-such-as-hot-air-balloons-and-gas-balloons-that-meet-the-requirements-set-out-in-casr-part-91-general-operating-and-flight-rules-subp192/"><u>Non Commercial Balloons, Such as Hot Air Balloons and Gas Balloons, that Meet the Requirements Set Out in CASR Part 91 – General Operating & Flight Rules (Subpart 6).</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-guide-installing-dell-latitude-e6420-device-drivers/"><u>Quick and Easy Guide: Installing Dell Latitude E6420 Device Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-tutorial-on-how-to-refresh-the-drivers-for-your-usb-to-serial-adapter/"><u>The Ultimate Tutorial on How to Refresh the Drivers for Your USB-to-Serial Adapter</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unlock-social-media-8-free-fb-extractors/"><u>Unlock Social Media 8 FREE FB Extractors</u></a></li>
 </ul></div>
 

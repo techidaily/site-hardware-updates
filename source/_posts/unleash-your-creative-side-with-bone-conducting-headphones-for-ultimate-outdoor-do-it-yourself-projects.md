@@ -1,7 +1,7 @@
 ---
 title: Unleash Your Creative Side with Bone-Conducting Headphones for Ultimate Outdoor Do-It-Yourself Projects
-date: 2024-08-28T02:04:13.410Z
-updated: 2024-08-29T02:04:13.410Z
+date: 2024-12-12T04:44:00.550Z
+updated: 2024-12-12T22:18:52.732Z
 tags:
   - hardware
 categories:
@@ -29,13 +29,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![Shokz open-ear headphones extending behind the neck](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/1000079269.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Bertel King / How-To Geek
 
  This grip is the most dependable of any headphones I've ever worn. I can run in these. I cut grass in these. I could bike in these just fine. I have complete confidence that they're not going anywhere.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  They Don't Get In the Way
 
  This point is worth reiterating. When doing yardwork, getting your arms tangled in wires or having your ear buds slip out is a safety issue. Even if this doesn't physically hinder what you're doing, it can distract you at a moment when you really need focus.
@@ -46,9 +51,6 @@ Bertel King / How-To Geek
 
  Still, aside from camping, the sleeping experience doesn't have much to do with what makes these headphones great to use outside.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ##  ​I Can Hear My Surroundings
 
  Pretty much at any given time of day, I need to be able to hear my surroundings, indoors or out. I have two young kids, and I'm the parent that's most often at home with them. I need to hear when they're calling my name. I definitely need to hear when they aren't. [Active noise-canceling](https://facebook-clips.techidaily.com/updated-step-by-step-sharing-twitch-on-your-fb-page-for-2024/) is nice, but I rarely get to use it with peace of mind.
@@ -56,8 +58,9 @@ Bertel King / How-To Geek
 ![Shokz headphones resting on a deck railing](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/1000079236.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Bertel King / How-To Geek
 
  Open-ear headphones keep my ears unplugged, so I can hear whatever's going on. This is a double-edged sword, for sure. These headphones aren't the best in noisy environments. Fortunately for me, my outdoor environment is rarely that noisy. These are plenty loud enough to hear over the steady hum of ongoing traffic. I can keep them on low and still pick up if an animal is moving nearby.
@@ -65,8 +68,9 @@ Bertel King / How-To Geek
  There's one big exception, and that's cutting grass. That's a lot of background noise to try to overcome without plugging up your ears. I use an electric lawn mower, so if I crank my headphones all the way up, they're still audible. On the positive side, I'm less nervous about turning the volume up on these than I am with regular earbuds. "All the way up" also isn't as loud, since there's quite a bit of [physical shaking inherent in bone-conducting technology](https://digital-screen-recording.techidaily.com/2024-approved-which-is-the-top-screener-bandicam-or-camtasia/).
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Open-Ear Is Better Than Pass-Through
 
  Many headphones these days come with audio pass-through, meaning they have mics that listen to the sound around you and try to intelligently decide which sounds to block and which to let you hear. This feature is also [known as transparency mode](https://some-techniques.techidaily.com/filmmakers-companion-the-finest-15-gopro-cine-luts-unveiled-for-2024/), particularly on Apple devices. There are two strikes against this technology. One, your ears are still plugged or covered, so there is something muffling sound. Two, the software doesn't always get it right. The end result may not sound all that natural.
@@ -79,9 +83,6 @@ Bertel King / How-To Geek
 
 ![Open-ear headphones hanging around the author's neck](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/1000079234-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Bertel King / How-To Geek 
 
  I can also hang them from my pocket like a hook. The latter is a bit riskier, so I'm less inclined to do that outside.
@@ -89,8 +90,9 @@ Bertel King / How-To Geek
  Whether around my neck or on my head, the headphones aren't going anywhere. I wouldn't recommend it, but I'm fairly confident I could make it through a karate class without them shaking loose. The headphones are advertised directly to people looking for something to wear while they're being active, and these have not disappointed me whether on my head or around my neck.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  ​It's Easy to Forget I'm Wearing Them
 
  These headphones are even easier than wireless earphones to forget I'm wearing. I can listen to a podcast, turn them off, and realize they're still on an hour and a half later. This means I don't feel compelled to listen to audio just because I have them on. If I'm going on a walk in the woods, I can turn them off to listen to the birds without needing to take them off. I flow from listening to something to not listening to something with less friction.
@@ -107,8 +109,6 @@ Bertel King / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +116,17 @@ Bertel King / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-unlocking-the-potential-of-minecraft-recording-with-macos-for-2024/"><u>[New] Unlocking the Potential of Minecraft Recording with MacOS for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-experts-guide-to-video-editors-picking-between-filmora-and-democreator/"><u>2024 Approved Expert's Guide to Video Editors Picking Between Filmora and Democreator</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-igniting-online-trends-crafting-viral-facebook-posts/"><u>2024 Approved Igniting Online Trends Crafting Viral Facebook Posts</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/beginners-handbook-for-pc-users-initiating-a-tiktok-broadcast-for-2024/"><u>Beginner's Handbook for PC Users - Initiating a TikTok Broadcast for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-sound-blaster-audigy-compatible-drivers-for-enhanced-audio-experience/"><u>Download Sound Blaster Audigy Compatible Drivers for Enhanced Audio Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-instant-access-wireless-adapter-drivers-for-immediate-download/"><u>Get Instant Access: Wireless Adapter Drivers for Immediate Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-free-hp-laserjet-1018-drivers-here/"><u>Get Your Free HP LaserJet 1018 Drivers Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969305057-hp-driver-downloads-made-simple-easy-setup-tutorials-inside/"><u>HP Driver Downloads Made Simple – Easy Setup Tutorials Inside!</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-adding-sounds-to-mkv-videos-techniques-and-procedures-revamped/"><u>New Adding Sounds to MKV Videos Techniques and Procedures (Revamped)</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-reactivating-spatial-audio-in-your-windows-10-or-11-system/"><u>Troubleshooting Guide: Reactivating Spatial Audio in Your Windows 10 or 11 System</u></a></li>
+</ul></div>
 

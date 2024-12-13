@@ -1,7 +1,7 @@
 ---
 title: Lenovo's Ultimate Portable Secret Revealed! The Ingenious TrackPoint Feature & Extra Tricks Within | Insights
-date: 2024-12-04T22:04:35.719Z
-updated: 2024-12-07T02:59:39.911Z
+date: 2024-12-11T22:39:48.966Z
+updated: 2024-12-12T21:02:28.413Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,18 +116,24 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-transforming-ideas-into-viral-video-hits-on-youtube/"><u>[New] 2024 Approved Transforming Ideas Into Viral Video Hits on YouTube</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-ideal-fps-levels-in-slow-motion-cinema-for-2024/"><u>[New] Ideal FPS Levels in Slow Motion Cinema for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-one-change-transformed-my-workstation-setup-techadvisor/"><u>A Week with an Ergonomic Split Keyboard: How One Change Transformed My Workstation Setup | TechAdvisor</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-value-laptops-top-picks-that-compete-with-macbook-air-and-currently-discounted-insights/"><u>Best Value Laptops: Top Picks That Compete with MacBook Air & Currently Discounted - Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-ace-octobers-prime-deals-for-gamers-huge-savings-up-to-1000-insider-tips/"><u>Don't Miss Out: Ace October's Prime Deals for Gamers - Huge Savings Up to $1,000 Insider Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-offer-metas-amazing-october-sale-on-512gb-quest-3-the-ultimate-prime-day-steal-according-to-zdnet/"><u>Exclusive Offer: Meta's Amazing October Sale on 512GB Quest 3 - The Ultimate Prime Day Steal, According to ZDNet!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-top-picks-unmissable-amazon-prime-day-2024-offers-early-access-and-savings/"><u>Exclusive Top Picks: Unmissable Amazon Prime Day 2024 Offers - Early Access & Savings!</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-guide-resolving-the-dilemma-of-a-unresponsive-charging-ps4-gamepad/"><u>Expert Guide: Resolving the Dilemma of a Unresponsive Charging PS4 Gamepad</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-iphone-11-pro-max-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 11 Pro Max Activation Lock</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/resolving-an-alone-earpiece-dilemma-for-2024/"><u>Resolving an Alone Earpiece Dilemma for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-laptop-speaker-jack-errors-expert-tips-and-tricks/"><u>Resolving Laptop Speaker Jack Errors: Expert Tips & Tricks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/score-a-steal-with-metas-latest-quest-section-1-understanding-the-impact-of-crop-rotation-on-soil-fertility-and-pest-management/"><u>Score a Steal with Meta's Latest Quest # Section 1: Understanding the Impact of Crop Rotation on Soil Fertility and Pest Management</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-education-8-compelling-reasons-teachers-should-welcome-ai-innovation/"><u>Transforming Education: 8 Compelling Reasons Teachers Should Welcome AI Innovation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-rx-memory-revamp/"><u>[New] In 2024, RX Memory Revamp</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-optimizing-your-fb-profile-with-stunning-cover-videos/"><u>[New] Optimizing Your FB Profile with Stunning Cover Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-how-to-effortlessly-share-vimeo-video-on-instagram/"><u>[Updated] 2024 Approved How to Effortlessly Share Vimeo Video on Instagram</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-precision-in-inshot-transitions-a-step-by-step-guide/"><u>[Updated] 2024 Approved Precision in Inshot Transitions A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-dslr-530-driver-download-how-to-update-and-install-latest-version/"><u>Canon DSLR-530 Driver Download: How to Update & Install Latest Version</u></a></li>
+<li><a href="https://facebook.techidaily.com/covid-19-myths-propagated-by-key-influencers/"><u>Covid-19 Myths Propagated by Key Influencers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-driver-update-instructions-for-hp-designjet-500-series-t620-t520/"><u>Easy Driver Update Instructions for HP DesignJet 500 Series (T620, T520)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-hp-driver-downloads-and-setup-guides/"><u>Effortless Installation: HP Driver Downloads and Setup Guides</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-brother-hl-l2300d-printer-up-to-date-with-these-updated-drivers/"><u>Get Your Brother HL-L2300D Printer Up to Date with These Updated Drivers!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-securely-download-and-update-your-epson-scanner-driver/"><u>How to Securely Download & Update Your Epson Scanner Driver</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-zte-axon-40-lite-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked ZTE Axon 40 Lite Phone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-up-to-date-drivers-for-your-gigabyte-gc-wb867d-motherboard-here/"><u>Install Up-to-Date Drivers for Your GIGABYTE GC-WB867D Motherboard Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/razer-blackwidow-drivers-latest-updates-and-compatibility-checks/"><u>Razer BlackWidow Drivers - Latest Updates & Compatibility Checks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/recipe-rulers-youtubes-finest-food-talks-for-2024/"><u>Recipe Rulers YouTube's Finest Food Talks for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tips-how-to-download-and-install-toshiba-copy-machine-drivers-on-pcs-with-windows-os/"><u>Tips: How to Download and Install Toshiba Copy Machine Drivers on PCs with Windows OS</u></a></li>
+<li><a href="https://win-lab.techidaily.com/top-7-solutions-for-resolving-disk-read-error-on-windows-operating-systems-windows-10-7-8-and-xp/"><u>Top 7 Solutions for Resolving 'Disk Read Error' On Windows Operating Systems: Windows 10, 7, 8 & XP</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-the-newest-dolby-acoustic-drivers-for-windows-operating-systems-11-10-81/"><u>Update to the Newest Dolby Acoustic Drivers for Windows Operating Systems: 11 / 10 / 8.1</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/windows-users-ultimate-guide-to-intel-optane-driver-installation-and-update-processes/"><u>Windows User's Ultimate Guide to Intel Optane Driver Installation & Update Processes</u></a></li>
 </ul></div>
 

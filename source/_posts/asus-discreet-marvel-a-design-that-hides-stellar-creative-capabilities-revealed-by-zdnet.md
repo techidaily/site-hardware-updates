@@ -1,7 +1,7 @@
 ---
 title: "Asus' Discreet Marvel: A Design That Hides Stellar Creative Capabilities Revealed by ZDNet"
-date: 2024-12-04T16:36:23.395Z
-updated: 2024-12-07T03:13:06.839Z
+date: 2024-12-10T22:17:26.177Z
+updated: 2024-12-13T00:36:55.594Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,16 +112,22 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-reign-as-a-tycoon-champion-with-our-12-must-play-games-for-2024/"><u>[New] Reign as a Tycoon Champion with Our #12 Must-Play Games for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-a-comprehensive-introduction-to-quantum-hdr-principles-for-2024/"><u>[Updated] A Comprehensive Introduction to Quantum HDR Principles for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/6auy55s76loq5yyw44og44kv44ol44od44kv77ya5okq44gp6icb44ge44gf5yuv55s744ks44oq44ov44kh44kk44oz44gz44kl44k544oi44op44og44k444o8/"><u>高画質化テクニック：悪く老いた動画をリファインするストラテジー</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/achieving-unprecedented-performance-my-journey-to-taming-and-supercharging-the-amd-ryzen-nine-3900x/"><u>Achieving Unprecedented Performance: My Journey to Taming and Supercharging the AMD Ryzen Nine 3900X</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-high-performance-pcs-with-toms-technology-insights/"><u>Exploring High-Performance PCs with Tom's Technology Insights</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-leading-movie-teasers-highlighted/"><u>In 2024, Leading Movie Teasers Highlighted</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-power-of-language-20-words-and-phrases-that-transform-your-marketing/"><u>In 2024, The Power of Language 20 Words and Phrases That Transform Your Marketing</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-from-lol-to-omg-the-best-meme-generator-apps-for-mobile-for-2024/"><u>New From LOL to OMG The Best Meme Generator Apps for Mobile for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-boosting-performance-with-raspberry-pi-zero-2-overclocking/"><u>Step-by-Step Guide: Boosting Performance with Raspberry Pi Zero 2 Overclocking</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/world-record-shattered-by-intel-core-i9-14900kf-approaching-the-speed-of-91ghz/"><u>World Record Shattered by Intel Core I9-14900KF: Approaching the Speed of 9.1GHz</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-instructions-how-to-install-logitechs-g-pro-controller-on-your-pc-windows-111087/"><u>[Download Instructions] How to Install Logitech's G Pro Controller on Your PC (Windows 11/10/8/7)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-navigating-the-world-of-virtual-backgrounds-for-online-media-professionals/"><u>[New] 2024 Approved Navigating the World of Virtual Backgrounds for Online Media Professionals</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-hone-your-message-effective-use-of-templates-for-shorts/"><u>[New] In 2024, Hone Your Message Effective Use of Templates for Shorts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-best-20-facebook-jail-memes-to-brighten-up-your-day-filmora/"><u>[Updated] Best 20 Facebook Jail Memes to Brighten Up Your Day - Filmora</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/can-file-restoration-assist-in-retrieving-deleted-information-insights-from-yl-computings-expertise/"><u>Can File Restoration Assist in Retrieving Deleted Information: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-tutorial-download-and-install-canon-mf4500-printer-driver-today/"><u>Complete Tutorial: Download & Install Canon MF4500 Printer Driver Today!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-leading-ios-applications-for-business-in-2eby-microsoft-2022s-top-rated-selection/"><u>Discover the Leading iOS Applications for Business in 2Eby Microsoft: 2022'S Top-Rated Selection</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-ultimate-guide-to-installing-msi-sound-card-drivers-on-your-pc/"><u>Free Download: Ultimate Guide to Installing MSI Sound Card Drivers on Your PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-samsung-m2020-driver-software-for-your-phone-here/"><u>Get the Latest Samsung M2020 Driver Software for Your Phone Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-updated-epson-workforce-ds-30-software-compatible-with-windows-1087/"><u>Get the Updated Epson WorkForce DS-30 Software Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-acer-device-online-free-wifi-drivers-and-step-by-step-setup-tutorials/"><u>Get Your Acer Device Online: FREE WiFi Drivers & Step-by-Step Setup Tutorials</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-effortlessly-get-the-arduino-nano-drivers-installed-for-windows-users/"><u>How to Effortlessly Get the Arduino Nano Drivers Installed for Windows Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-10-engaging-games-that-make-friends/"><u>In 2024, 10 Engaging Games That Make Friends</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-impact-of-ai-could-chatgpt-change-healthcare-forever/"><u>The Impact of AI: Could ChatGPT Change Healthcare Forever?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-advice-expert-gadget-guidance/"><u>Tom's Tech Advice: Expert Gadget Guidance</u></a></li>
 </ul></div>
 

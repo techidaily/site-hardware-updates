@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Exclusive Black Friday-Like Discounts on Video Games for Oct '24 - AZNET Guide
-date: 2024-12-04T18:31:49.967Z
-updated: 2024-12-06T20:11:14.166Z
+date: 2024-12-05T20:23:49.533Z
+updated: 2024-12-12T21:01:58.093Z
 tags:
   - laptops
 categories:
@@ -22,10 +22,6 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Dell holiday deals
 
 * [Dell Inspiron 15 3520 Intel Core i5 touch laptop](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fdell-inspiron-15-3520-touch-laptop-intel-core-i5-8gb-memory-256gb-ssd-carbon-black%2F6553026.p%3FskuId%3D6553026&publisher_slug=itechdaily19598&exclusive=1) for $350 (save $250)
@@ -37,7 +33,7 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Dell holiday deals
@@ -98,7 +94,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell laptop holiday deals
@@ -110,7 +106,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell XPS 13 9310 13.4-inch touch laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-XPS-9310-Laptop-Touchscreen%2Fdp%2FB09PR52BHK%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1) for $1,071 (save $429)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell desktop holiday deals
@@ -122,21 +118,25 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell Optiplex 7080 Intel i5](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-7080-business-desktops-workstations%252Fp%252F1VK-0001-6GXW7) for $520 (save $179)
 * [Dell OptiPlex 3000 Desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-3000-student-home-office%252Fp%252F1VK-0001-6EUX9) for $1,200 (save $440)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Dell monitor holiday deals
 
 * [Dell S2721HS 27-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721HS-Adjustable-Response-FreeSync%2Fdp%2FB09S4ZZMS9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1): $180 (save $40)
 * [Dell SE2422HX 24-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-inch-Monitor-1920-1080%2Fdp%2FB096MXR34N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1): $100 (save $30)
 * [Dell 27-inch 4K FreeSync monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721QS-Ultra-Thin-DisplayPort-Certified%2Fdp%2FB08DQWG3JG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1) for $297 (save $33)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these holiday deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best holiday deals?
 
@@ -210,24 +210,19 @@ Here are the top deals by category we've found so far:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-crafting-compelling-instagram-stories-a-guide-to-scaled-visuals/"><u>[Updated] 2024 Approved Crafting Compelling Instagram Stories A Guide to Scaled Visuals</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-beginners-guide-to-decoding-diagonal-aspect-ratios/"><u>[Updated] In 2024, Beginners Guide to Decoding Diagonal Aspect Ratios</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-soundscapes-for-vimeo-a-compreayers-manual/"><u>[Updated] In 2024, Soundscapes for Vimeo A Compreayer's Manual</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-pushing-the-limits-with-gopro-film-techniques/"><u>[Updated] Pushing the Limits with GoPro Film Techniques</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/adhering-to-hid-protocols-during-mouse-driver-enhancements-and-updates/"><u>Adhering to HID Protocols During Mouse Driver Enhancements and Updates</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-with-simplicity-canon-drivers-for-windows-users/"><u>Download & Update with Simplicity: Canon Drivers for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-speaker-drivers-now-supported-on-windows-1178-systems/"><u>Get Your Logitech Speaker Drivers Now – Supported on Windows 11/7/8 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-logitechear-speakers-up-to-date-latest-driver-downloads-for-win-oses/"><u>Get Your Logitechear Speakers Up to Date: Latest Driver Downloads for Win OSes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-samsung-m2070fw-drivers-now-secure-swift-download-experience/"><u>Get Your Samsung M2070FW Drivers Now - Secure, Swift Download Experience</u></a></li>
-<li><a href="https://win-premium.techidaily.com/how-can-i-troubleshoot-driver-conflicts-in-my-sound-card-tips-from-yl-computings-tech-experts/"><u>How Can I Troubleshoot Driver Conflicts in My Sound Card - Tips From YL Computing's Tech Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-updated-drivers-for-your-hid-standardized-computer-mouse/"><u>How to Install Updated Drivers for Your HID-Standardized Computer Mouse</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-melodic-matrix-mac-sound-recording/"><u>In 2024, Melodic Matrix Mac Sound Recording</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Honor 90 GT? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-the-latest-nvidia-quadro-rtx-4000-drivers-for-enhanced-performance-start-here/"><u>Install the Latest NVIDIA Quadro RTX 4000 Drivers for Enhanced Performance: Start Here</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-tech-world-with-tom-expert-insights-into-hardware-advancements/"><u>Navigating the Tech World with Tom: Expert Insights Into Hardware Advancements</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-streamlining-speaker-audio-in-microsoft-powerpoint-cross-platform-solutions-for-windows-and-mac/"><u>New Streamlining Speaker Audio in Microsoft PowerPoint Cross-Platform Solutions for Windows and Mac</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-and-update-latest-lenovo-drivers-now-available-for-windows-11-users/"><u>Secure and Update: Latest Lenovo Drivers Now Available for Windows 11 Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/sifting-through-inshots-features-for-best-edits/"><u>Sifting Through InShot's Features for Best Edits</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-epson-xp-310-with-new-printing-software-today/"><u>Update Your Epson XP 310 with New Printing Software Today!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-wave-weaver-toolkit/"><u>[New] 2024 Approved Wave Weaver Toolkit</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-top-10-android-mobas-essential-players-list/"><u>[New] Top 10 Android MOBAs Essential Players' List</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-vistas-backgrounds-boosting-live-quality/"><u>[Updated] Best Vistas Backgrounds Boosting Live Quality</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-leveraging-nvidia-tools-for-screen-capture/"><u>2024 Approved Leveraging NVIDIA Tools for Screen Capture</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-walkthrough-for-successful-amd-radeon-graphics-card-driver-update/"><u>Comprehensive Walkthrough for Successful AMD Radeon Graphics Card Driver Update</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-hp-officejet-pro-8610-printer-drivers-on-windows-1187xpvista-step-by-step-guide/"><u>Download & Install HP Officejet Pro 8610 Printer Drivers on Windows 11/8/7/XP/Vista: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-download-of-lenovo-t430-drivers-for-windows-operating-systems-windows-10-8-and-7/"><u>Effortless Download of Lenovo T430 Drivers for Windows Operating Systems (Windows 10, 8 & 7)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/elevate-your-digital-identity-top-101-masterclass-in-personal-bios-for-2024/"><u>Elevate Your Digital Identity Top 101 Masterclass in Personal Bios for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-allow-unverified-drivers-in-windows-pressure-a-simple-guide-for-windows-10-users/"><u>How to Allow Unverified Drivers in Windows Pressure: A Simple Guide for Windows 10 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-update-huion-pen-tablet-drivers-in-windows-effortlessly/"><u>How to Find and Update Huion Pen Tablet Drivers in Windows Effortlessly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-officejet-pro-8610-driver-update-for-multiple-windows-versions-including-11-8-7-xp-and-vista/"><u>HP Officejet Pro ˈ8610 Driver Update for Multiple Windows Versions Including 11, 8, 7, XP & Vista</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simplified-guide-for-microsoft-ergonomic-sculpt-keyboard-drivers-update/"><u>Simplified Guide for Microsoft Ergonomic Sculpt Keyboard Drivers Update</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-boosting-picture-quality-with-5-proven-techniques/"><u>Ultimate Guide: Boosting Picture Quality with 5 Proven Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/understanding-the-basics-of-videots-a-guide-to-handling-and-playing-vts-file-formats/"><u>Understanding the Basics of VIDEO_TS: A Guide to Handling and Playing .vts File Formats</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Review: Insta360 X4 - Exceptional Photography Experience with Luxury Cost"
-date: 2024-08-28T01:59:59.440Z
-updated: 2024-08-29T01:59:59.440Z
+date: 2024-12-07T23:01:40.346Z
+updated: 2024-12-12T20:44:49.732Z
 tags:
   - hardware
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/0f7cc598462e00e671398d3de2bdb7c71a59af5f2
  The [Insta360 X4](https://www.amazon.com/Insta360-Waterproof-Wide-Angle-Invisible-Stabilization/dp/B0CXPWMZQS?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003236&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Finsta360-x4-camera-review%2F&asc%5Fcampaign=Authority) is the latest iteration of the company’s infamous 360-degree camera. This time around, you’ll find 8K30, 5.7K60, and 4K100 video capture modes, as well as swappable lens caps, built-in ruggedness, and easy-to-use desktop software. At $500, this premium camera packs a punch and could be the right choice for your next adventure outing.
 
 ![Insta360 X4 8K 360-Degree Camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/insta360-x4-8k-360-degree-camera.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
@@ -132,25 +136,27 @@ Expand
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ##  Simple Hardware Design That Doesn’t Stray From Previous Models
 
 ![The power and quick settings button on the Insta360 X4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-power-and-quick-settings-button-on-the-insta360-x4_53647692914_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The latest Insta360 X4 bears a striking resemblance to its slightly older sibling, the X3\. With a very similar overall design, there’s not much that’s changed externally here. Physically, there’s no difference here. The same accessories work between the two, and if you’re used to the button layout on the X3, you’ll be right at home on the X4.
 
 ![The back of the Insta360 X4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-back-of-the-insta360-x4_53647693049_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  At the bottom right, there’s the mode button. This lets you flip between video, active HDR, timelapse, time shift, bullet time, and more. Plus, it lets you toggle photo or video mode. To the left of that is the shutter, which has a new feature this time around. Of course, clicking it starts and stops recording, but, if you accidentally click record when you didn’t mean to, simply hold the shutter button and it’ll stop recording _and_ delete the captured clip. This is something I didn’t really utilize in my time with the camera, but I can absolutely see the value in it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8K Footage? 4K Is Still the Sweet Spot for Me
 
@@ -170,6 +176,10 @@ Jerome Thomas / How-To Geek
 
 ![The Insta360 app on a Pixel 7](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-insta360-app-on-a-pixel-7-3_53647349466_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  Once I had my footage recorded, I dove into [Insta360 Studio](https://www.insta360.com/download), the desktop-based app for Windows and macOS. There are mobile apps for [iPhone or Android](http://www.insta360.com/download), and an [optional adapter](https://store.insta360.com/product/x4-quick-reader?c=2973&from=accessory) to plug the microSD card into your smartphone. Using my M1 Max MacBook Pro, I imported the 4K footage to the macOS-based app with a Thunderbolt 3 cable. It took less than 60 seconds to load the videos and have them ready for viewing. After selecting a video, I could pan the camera around, switch the mode it was in, do small trims to the video, and even have AI track me as a subject.
@@ -180,16 +190,14 @@ Jerome Thomas / How-To Geek
 
 ![The Insta360 X4 attached to the Bullet Time tripod](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-insta360-x4-attached-to-the-bullet-time-tripod_53647692939_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Outside of that, whenever you go to export, you can choose to send it as a cropped video that’s only within the view that you set in the editor, or a full 360-degree video. Doing the latter will let you bring the video file into software like Premiere Pro or Final Cut Pro and do all the editing there, which is how I plan to use the footage from the X4\. The files are formatted in a way that the software will let you handle all the pan and tilt functions as well as do all of your other edits. Plus, Insta360 [has a LUT that you can use](https://www.insta360.com/download) to get the right colors when editing.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Rugged for Whatever Lies Ahead
 
 ![The battery removed from the Insta360 X4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-battery-removed-from-the-insta360-x4_53647349601_o.jpg) 
@@ -199,6 +207,10 @@ Jerome Thomas / How-To Geek
  While there’s a dive case for going deep underwater, most people will find that the built-in ruggedness of the Insta360 X4 is plenty. It was for me. I wasn’t worried about dropping it, getting it wet, or taking it anywhere when I was using it. The camera is waterproof to 10m out of the box and can also withstand temperatures as low as -20C, meaning it’ll handle anything you throw at it.
 
  Simply attach a selfie stick, tripod, or hold the camera in your hand, and you’re ready to go. The USB-C flap is waterproof when closed, and the battery also makes a water-tight seal once inserted. Whether you plan to take the camera snowboarding in the winter, surfing in the summer, or just strap it to your motorcycle to use as a dash camera, the Insta360 X4 is built to handle it all.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What’s the Difference Between the Insta360 X4 and Insta360 X3?
 
@@ -212,13 +224,14 @@ Jerome Thomas / How-To Geek
 * Bluetooth Headset Support (for motorcycles and the like)
 * Auto Dash Mode (also a motorcycle feature)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Should You Buy the Insta360 X4?
 
 ![The Insta360 X4 next to box and included accessories](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-insta360-x4-next-to-box-and-included-accessories_53647349546_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The [Insta360 X4](https://www.amazon.com/Insta360-Waterproof-Wide-Angle-Invisible-Stabilization/dp/B0CXPWMZQS?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003236&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Finsta360-x4-camera-review%2F&asc%5Fcampaign=Authority) is a powerful action camera. There are a lot of people this would be ideal for, but it’s also not all that cheap. With the option to record 8K30, 5.7K60, or 4K100, the X4 will handle just about anything you want in a stunning 360-degree fashion. However, at $500, this camera is pretty pricey. For comparison, the [GoPro HERO12 Black](https://www.amazon.com/GoPro-HERO12-Black-Waterproof-Stabilization/dp/B0CDDY8F9L?ref%5F=ast%5Fsto%5Fdp&th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003236&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Finsta360-x4-camera-review%2F&asc%5Fcampaign=Authority) is $348, and the [previous-generation Insta360 X3](https://youtube-stream.techidaily.com/2024-approved-unveiling-the-world-through-your-lens-how-to-become-a-professional-travel-vlogger/) is $400\. While the GoPro doesn’t capture 360-degree footage, the X3 does and does it at 5.7K60.
@@ -229,14 +242,8 @@ Jerome Thomas / How-To Geek
 
 ![Insta360 X4 8K 360-Degree Camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/insta360-x4-8k-360-degree-camera.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 #####  Insta360 X4
 
 8/ 10 
@@ -251,8 +258,6 @@ The Insta360 X4 8K 360-degree action camera offers a fun and unique way to captu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -260,4 +265,20 @@ The Insta360 X4 8K 360-degree action camera offers a fun and unique way to captu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-2023-guide-to-excellent-waterproof-video-gadgets/"><u>[New] 2024 Approved 2023 Guide to Excellent Waterproof Video Gadgets</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-complete-dji-inspire-1-review-insights/"><u>[New] Complete DJI Inspire 1 Review Insights</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtube-creators-guide-15-unrestricted-music-archives-for-2024/"><u>[Updated] YouTube Creators' Guide 15 Unrestricted Music Archives for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-dell-wd19-driver-step-by-step-guide/"><u>Download & Install Dell WD19 Driver: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-steps-to-upgrade-your-synaptics-ps2-mousepad-driver-in-no-time/"><u>Effortless Steps to Upgrade Your Synaptics PS/2 Mousepad Driver in No Time</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-game-update-dell-inspiron-n3070-graphics-driver/"><u>Enhance Your Game: Update Dell Inspiron N3070 Graphics Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-epson-gt-s50-drivers-compatible-with-windows-7810/"><u>Get the Latest Epson GT S50 Drivers Compatible with Windows 7/8/10</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-realme-v30-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Realme V30 Device</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-understanding-igs-evolution-reels-and-stories/"><u>In 2024, Understanding IG's Evolution Reels and Stories</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-your-tech-choices-expert-opinions-by-toms-hardware/"><u>Mastering Your Tech Choices: Expert Opinions by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-m2070-drivers-update-effortless-setup-in-minutes/"><u>Samsung M2070 Drivers Update: Effortless Setup in Minutes!</u></a></li>
+</ul></div>
 

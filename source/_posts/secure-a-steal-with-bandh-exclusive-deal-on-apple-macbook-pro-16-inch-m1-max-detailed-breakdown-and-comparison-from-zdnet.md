@@ -1,7 +1,7 @@
 ---
 title: "Secure a Steal with B&H: Exclusive Deal on Apple MacBook Pro 16-Inch M1 Max - Detailed Breakdown & Comparison From ZDNet"
-date: 2024-12-05T22:04:45.834Z
-updated: 2024-12-06T21:33:52.363Z
+date: 2024-12-06T00:58:32.086Z
+updated: 2024-12-13T04:34:46.513Z
 tags:
   - laptops
 categories:
@@ -40,7 +40,15 @@ For a recap of all the products unveiled during Apple's "Scary Fast" event -- an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What products did get announced
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## M3 chips in all sizes
 
@@ -62,6 +70,10 @@ Much like the M2 processors that classify Apple's latest Mac computers by perfor
 * M3 Pro: Starting at 12 main processing cores (six performance and six efficiency) and 18 graphics cores
 * M3 Max: Starting at 16 main processing cores (12 performance and four efficiency) and 40 graphics cores, and now supports up to 128GB of unified memory
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. 14-inch and 16-inch MacBook Pro
 
 June Wan/ZDNET
@@ -78,10 +90,6 @@ What hasn't changed is the form factors of the new MacBook Pros, with Liquid Ret
 
 The 14- and 16-inch MacBook Pros are available for preorder right now, starting at $1,599 and $2,499, respectively, with the M3 and M3 Pro models seeing earlier ship times (as soon as next week), and the M3 Max models being slated for late November.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. iMac with M3
 
 Jason Hiner/ZDNET
@@ -95,14 +103,10 @@ Apple says the M3 chip allows the new 24-inch iMac to perform at twice the speed
 The 24-inch iMac is now available for preorder starting at $1,299 and will begin shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What products didn't get announced
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. 13-inch MacBook Pro
 
@@ -113,10 +117,6 @@ There were murmurs that the M3-fication of MacBook Pros would include Apple's lo
 It's not unreasonable to assume that it may be the end of the line for Apple's final MacBook with a Touch Bar, as its most recent refresh happened nearly a year and a half ago when the company simply swapped out its M1 chip for an M2\. The design of the 13-inch MacBook Pro remains inferior to even the MacBook Air, which fields a notched design and a keyboard that's less prone to defects.
 
 If there was any time for the company to further the gap between its old laptops and the new, Apple's "Scary Fast" event just made the most sense.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Magic Keyboard and Mouse with USB-C
 
@@ -129,7 +129,7 @@ With the iPhone being the last major product to transition over from Lightning t
 With the new 24-inch iMac, Apple will continue to bundle Lightning-equipped Magic Keyboard and Mouse peripherals, giving some users reasons to retain their cables.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to rewatch Apple's 'Scary Fast' event
@@ -166,16 +166,18 @@ The keynote presentation began on Monday, Oct. 30, 2023, at 5 p.m. PT (8 p.m. ET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-elite-ringtones-selection-high-quality-sites/"><u>[New] In 2024, Elite Ringtones Selection High-Quality Sites</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-mirthful-mayhem-makers-for-2024/"><u>[Updated] Mirthful Mayhem Makers for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722968856195-free-download-canon-imageclass-mf4800-printer-drivers-and-software/"><u>Free Download: Canon ImageCLASS MF4800 Printer Drivers and Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-set-up-fast-free-pioneer-dj-ddj-sx2-controller-driver-downloads/"><u>Get Set Up Fast! Free Pioneer DJ DDJ-SX2 Controller Driver Downloads</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-to-overcoming-bluetooth-driver-issues-in-windows-10-expert-advice-for-smooth-connection/"><u>Guide to Overcoming Bluetooth Driver Issues in Windows 10 - Expert Advice for Smooth Connection</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-infinix-note-30i-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Infinix Note 30i Without Password | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/p2715q-4k-display-unveiled-a-comprehensive-analysis-for-2024/"><u>P2715Q 4K Display Unveiled A Comprehensive Analysis for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/qualcomm-atheros-ar3011-get-the-latest-free-download-for-bluetooth-30-support/"><u>Qualcomm Atheros AR3011: Get the Latest [Free Download] for Bluetooth 3.0 Support</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-guide-microsoft-drivers-downloads-and-updates-for-windows-10-8-and-7/"><u>Quick Guide: Microsoft Drivers Downloads and Updates for Windows 10, 8, and 7</u></a></li>
-<li><a href="https://article-tips.techidaily.com/whirling-installer-range-for-2024/"><u>Whirling Installer Range for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flash-forward-quick-youtube-playlists-distribution/"><u>[New] In 2024, Flash Forward Quick Youtube Playlists Distribution</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/prehensive-look-at-lighting-your-youtube-videos-right/"><u>A Comprehensive Look at Lighting Your YouTube Videos Right</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-lenovo-x1-carbon-graphics-and-system-drivers-on-windows-operating-systems/"><u>Effortless Installation of Lenovo X1 Carbon Graphics and System Drivers on Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-seamless-printing-with-the-newest-epson-wf-n3620-drivers-compatible-with-all-windows-versions-windows-1187/"><u>Ensure Seamless Printing with the Newest Epson WF-N3620 Drivers - Compatible With All Windows Versions (Windows 11/8/7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-advice-from-toms-gadget-hub-unveiling-the-best-in-tech/"><u>Expert Advice From Tom's Gadget Hub: Unveiling the Best in Tech</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-meets-vhs-easy-tutorials-for-a-retro-look-for-2024/"><u>Final Cut Pro Meets VHS Easy Tutorials for a Retro Look for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-logitech-g920-gamepad-setup-and-installation-guide-windows-11-10-8-and-7-compatibility/"><u>Free Logitech G920 Gamepad Setup & Installation Guide: Windows 11, 10, 8, and 7 Compatibility</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-better-controls-discover-the-latest-update-for-your-logitech-extreme-3d-pro-drivers/"><u>Get Better Controls – Discover the Latest Update for Your Logitech Extreme 3D Pro Drivers</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-note-12-4g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi Note 12 4G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-ace-2-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus Ace 2 Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/scansnap-driver-download-and-update-for-windows-easily/"><u>ScanSnap Driver Download & Update for Windows EASILY</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-unsupported-commands-on-computer-screens/"><u>Troubleshooting Unsupported Commands on Computer Screens</u></a></li>
 </ul></div>
 

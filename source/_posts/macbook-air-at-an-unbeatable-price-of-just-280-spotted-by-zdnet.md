@@ -1,7 +1,7 @@
 ---
 title: MacBook Air at an Unbeatable Price of Just $280 - Spotted by ZDNet
-date: 2024-12-06T00:32:34.669Z
-updated: 2024-12-07T01:14:07.383Z
+date: 2024-12-06T17:59:16.231Z
+updated: 2024-12-12T21:22:17.090Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,20 +81,22 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-dailymotion-elites-in-snapchat-world/"><u>[New] 2024 Approved Dailymotion Elites in Snapchat World</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-easy-steps-to-capturing-films-on-various-operating-systems-for-2024/"><u>[New] Easy Steps to Capturing Films on Various Operating Systems for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-how-to-enable-youtube-videos-to-self-play-on-facebook/"><u>[Updated] How to Enable Youtube Videos to Self-Play on Facebook</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-sci-fis-virtual-frontiers-top-10-metaverse-escapes/"><u>2024 Approved Sci-Fi's Virtual Frontiers Top 10 Metaverse Escapes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-the-ultimate-showdown-gopro-max-360-vs-hero-11-analysis/"><u>2024 Approved The Ultimate Showdown GoPro Max 360 VS Hero 11 Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-lenovo-t420-driver-update-instructions-for-windows-operating-systems/"><u>Complete Lenovo T420 Driver Update Instructions for Windows Operating Systems</u></a></li>
-<li><a href="https://win-bits.techidaily.com/comprehensive-aomei-software-guides-simplify-your-data-backup-with-one-click-solutions/"><u>Comprehensive AOMEI Software Guides: Simplify Your Data Backup with One-Click Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-master-the-pioneer-dj-ddj-sx2-fast-track-to-music-production-success/"><u>Download & Master the Pioneer DJ DDJ-SX2: Fast Track to Music Production Success</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-epson-ds-530-software-update-drive-support-for-windows-10-64-bit/"><u>Get the Latest Epson DS- 530 Software Update - Drive Support for Windows 10 (64-Bit)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hassle-free-downloading-latest-graphics-card-software-for-your-acer-predator-xb27-3-hu/"><u>Hassle-Free Downloading: Latest Graphics Card Software for Your Acer Predator XB27^ 3 HU</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-chronicles-virtual-realitys-history/"><u>In 2024, Immersive Chronicles Virtual Reality's History</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-prime-platforms-3d-models-in-animation/"><u>In 2024, Prime Platforms 3D Models in Animation</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-looking-forward-to-complement-your-weekend-evenings-with-a-fantasy-tour-to-the-anime-world-stay-here-to-pick-the-most-appealing-alternativ/"><u>New 2024 Approved Looking Forward to Complement Your Weekend Evenings with a Fantasy Tour to the Anime World? Stay Here to Pick the Most Appealing Alternative From the Best and Timeless Anime Creations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-setup-razer-mamba-driver-download-at-lightning-speed/"><u>Quick Setup: Razer Mamba Driver Download at Lightning Speed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/solution-a-late-intrauterine-infection-may-result-in-less-severe-presentation-with-fewer-findings-like-hepatosplenomegaly-whereas-an-early-infection-can-lea16/"><u>Solution: A Late Intrauterine Infection May Result in Less Severe Presentation with Fewer Findings Like Hepatosplenomegaly, Whereas an Early Infection Can Lead to More Pronounced Features of the Classic Triad.</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-a-beginners-roadmap-for-instagram-reels-mastery/"><u>[New] 2024 Approved A Beginner's Roadmap for Instagram Reels Mastery</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/eciphering-youtubes-monetary-mechanisms/"><u>[New] Deciphering YouTube's Monetary Mechanisms</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-a-stellar-visual-identity-the-ultimate-guide-to-yt-design/"><u>[Updated] In 2024, Crafting a Stellar Visual Identity The Ultimate Guide to YT Design</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-beginners-guide-to-periscope-live-streaming/"><u>2024 Approved Beginner's Guide to Periscope Live Streaming</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-choosing-the-best-a-dive-into-obs-and-twitch-streaming/"><u>2024 Approved Choosing the Best A Dive Into OBS & Twitch Streaming</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-pro-tips-optimal-videography-with-these-top-12-portable-cams/"><u>2024 Approved Pro Tips Optimal Videography with These Top 12 Portable Cams</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amds-new-gaming-benchmarks-showcase-zen-4-flagship-overpowering-older-zen-5-ryzen-7-7800x3d-emerges-as-the-faster-contender-leading-by-up-to-23-against-ryze2/"><u>AMD's New Gaming Benchmarks Showcase Zen 4 Flagship Overpowering Older Zen 5: Ryzen 7 7800X3D Emerges as the Faster Contender, Leading by Up to 23% Against Ryzen 9 9900X</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-leading-cpus-for-an-enhanced-gaming-experience/"><u>Discover the Leading CPUs for an Enhanced Gaming Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-solutions-for-troubleshooting-logitech-c615-control-panel-problems/"><u>Easy Solutions for Troubleshooting Logitech C615 Control Panel Problems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expanding-your-digital-workspace-setting-up-an-android-tablet-as-dual-screen/"><u>Expanding Your Digital Workspace: Setting Up an Android Tablet as Dual Screen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-official-epson-v700-printing-software-for-windows-operating-systems-windows-71081/"><u>Get Official Epson V700 Printing Software for Windows Operating Systems [Windows 7/10/8.1]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keep-your-dell-xps-15-running-smoothly-with-updated-driver-instructions-for-windows/"><u>Keep Your Dell XPS 15 Running Smoothly with Updated Driver Instructions (For Windows)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-geforce-gtx-1650-super-drivers-for-enhanced-performance-on-windows-11/"><u>Latest NVIDIA GeForce GTX 1650 Super Drivers for Enhanced Performance on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-access-amd-radeon-rx-470-driver-downloads-and-updates/"><u>Quick Access: AMD Radeon RX 470 Driver Downloads & Updates</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/screen-recorder-freedom-top-10-no-cost-choices-for-cameras-for-2024/"><u>Screen Recorder Freedom Top 10 No-Cost Choices for Cameras for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/separating-the-sincere-from-the-spoof-in-the-windows-store/"><u>Separating the Sincere From the Spoof in the Windows Store</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-10-64-bit-epson-ds-530-driver-download-and-installation-guide/"><u>Windows 10 64-Bit Epson DS-530 Driver Download & Installation Guide</u></a></li>
 </ul></div>
 

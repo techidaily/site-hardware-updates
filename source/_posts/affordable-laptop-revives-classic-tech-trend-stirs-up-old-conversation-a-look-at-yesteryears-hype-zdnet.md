@@ -1,7 +1,7 @@
 ---
 title: "Affordable Laptop Revives Classic Tech Trend, Stirs Up Old Conversation: A Look at Yesteryear's Hype! - ZDNet"
-date: 2024-12-03T16:49:10.653Z
-updated: 2024-12-07T03:40:05.799Z
+date: 2024-12-10T18:10:37.521Z
+updated: 2024-12-13T04:03:19.993Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -85,7 +85,7 @@ I have been integrating Copilot into my workflow as I learn more about how to us
 The Surface's battery life has been fantastic, too. I get over 15 hours of use from a single charge, and it has yet to fully deplete to zero by the time I call a benchmarking test. The combination of smart design with meaningful trade-offs is what gives this laptop its marathon battery life, and opens it up for a variety of use cases from a creator or productivity perspective. Basically, this is a laptop you can work remotely with for the whole day without a charger.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -95,7 +95,7 @@ I mentioned this before, but the direction that Microsoft took with this laptop 
 The Surface Laptop is a flagship mid-range device that's well-rounded enough to take on a variety of roles. Despite a few trade-offs, it's everything it should be for the price. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -132,21 +132,18 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-10-budget-friendly-platforms-for-youtube-branding-mastery/"><u>[Updated] 2024 Approved 10 Budget-Friendly Platforms for YouTube Branding Mastery</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-insert-soundtracks-for-dynamic-presentations/"><u>[Updated] Insert Soundtracks for Dynamic Presentations</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-exploring-best-hexadrone-innovations-10/"><u>2024 Approved Exploring Best HexaDrone Innovations #10</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-infinix-note-30-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Infinix Note 30 Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/college-students-guide-to-the-perfectly-priced-299-laptop-expert-advice/"><u>College Student's Guide to the Perfectly Priced $299 Laptop | Expert Advice</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/future-of-office-tech-adapting-workplace-gadgets-for-success-in-an-age-of-artificial-intelligence-insights/"><u>Future of Office Tech: Adapting Workplace Gadgets for Success in an Age of Artificial Intelligence - Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-premium-4tb-samsung-t5-ssd-at-half-price-from-amazon-exclusive-details-by-zdnet/"><u>Get Your Hands on the Premium 4TB Samsung T5 SSD at Half Price From Amazon - Exclusive Details by ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/huge-discount-on-apples-new-m3-macbook-air-save-250-at-the-amazon-prime-day-event-in-oct-zdnet/"><u>Huge Discount on Apple's New M3 MacBook Air - Save $250 at the Amazon Prime Day Event in Oct | ZDNet</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-zte-nubia-z60-ultra-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your ZTE Nubia Z60 Ultra</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/innovative-laptop-holder-enables-mobile-phones-to-act-as-extra-monitors-says-zdnet-review/"><u>Innovative Laptop Holder Enables Mobile Phones to Act as Extra Monitors, Says ZDNet Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/limited-time-offer-grab-the-8-cyber-monday-special-on-an-iphone-webcam-mount-in-stock/"><u>Limited Time Offer: Grab the $8 Cyber Monday Special on an iPhone Webcam Mount - In Stock!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/optimize-website-analytics-using-the-power-of-cookiebot/"><u>Optimize Website Analytics Using the Power of Cookiebot</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reviving-your-frozen-iphone-a-guide-to-fixing-it-without-functional-buttons/"><u>Reviving Your Frozen iPhone: A Guide to Fixing It without Functional Buttons</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/revolutionizing-classic-images-a-guide-to-enhancing-vhs-photos-on-pcs/"><u>Revolutionizing Classic Images A Guide to Enhancing VHS Photos on PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-black-friday-bargain-snag-lenovos-flex-99-deal-before-cyber-monday-chaos-zdnet/"><u>Unbeatable Black Friday Bargain: Snag Lenovo's Flex 지난에 $99 Deal Before Cyber Monday Chaos | ZDNET</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Lava Storm 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-clearing-process-for-youtubes-pending-video-list/"><u>[Updated] In 2024, Clearing Process for YouTube's Pending Video List</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-download-panopto-screen-recorder-and-record-video/"><u>[Updated] In 2024, Download Panopto Screen Recorder and Record Video</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-reddit-a-step-by-step-guide-for-effective-posts/"><u>2024 Approved Mastering Reddit A Step-By-Step Guide for Effective Posts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-effective-methods-to-resolve-aol-email-issues-on-your-iphone/"><u>6 Effective Methods to Resolve AOL Email Issues on Your iPhone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discovering-innovation-with-toms-computer-components-reviews/"><u>Discovering Innovation with Tom's Computer Components Reviews</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/for-new-gopro-users-here-are-essential-accessories/"><u>For New GoPro Users, Here Are Essential Accessories</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/gif-velocity-controllers-online-and-mobile-essentials/"><u>GIF Velocity Controllers Online and Mobile Essentials</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xr-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XR to Android? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-a59-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Oppo A59 5G Phone Without Password?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-deskjet-3050a-printer-drivers-updated-free-download-guide-for-windows-users/"><u>HP Deskjet 3050A Printer Drivers Updated: Free Download Guide for Windows Users</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-cutting-edge-zooming-tactics-for-collaborative-ms-teams/"><u>In 2024, Cutting Edge Zooming Tactics for Collaborative MS Teams</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keep-your-connectivity-strong-how-to-apply-wireless-driver-updates-on-windows-11-and-10-systems/"><u>Keep Your Connectivity Strong: How to Apply Wireless Driver Updates on Windows 11 and 10 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976969707-update-your-windows-system-with-new-nvidia-mx150-gpu-drivers-now/"><u>Update Your Windows System with New Nvidia MX150 GPU Drivers Now!</u></a></li>
 </ul></div>
 

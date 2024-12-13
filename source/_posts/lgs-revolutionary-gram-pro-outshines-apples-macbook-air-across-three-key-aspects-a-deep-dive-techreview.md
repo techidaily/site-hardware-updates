@@ -1,7 +1,7 @@
 ---
 title: "LG's Revolutionary Gram Pro Outshines Apple's MacBook Air Across Three Key Aspects: A Deep Dive - TechReview"
-date: 2024-12-01T02:24:39.933Z
-updated: 2024-12-07T02:55:57.324Z
+date: 2024-12-09T16:08:15.359Z
+updated: 2024-12-12T17:59:48.384Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ I spent a good hour and a half moving from station to station, from 240Hz ultraw
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. The numbers don't lie
@@ -47,7 +47,7 @@ There I was, with two relatively large-sized, ultraportable laptops and a digita
 The LG Gram Pro 16 2-in-1 had already set the mark at 3.04 pounds. Then came the 15-inch MacBook Air, clocking in at 3.51 pounds. A slight sigh of relief could be felt behind me. How exactly does LG achieve this weight? They're chalking it up to the nano-magnesium alloy construction, which feels more plasticky than the MacBook's all-aluminum build, but which is noticeably lighter in the hand, especially when I moved the laptops around for pictures.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. It's all about the use of space
@@ -75,7 +75,7 @@ Don't get me wrong, the Liquid Retina (IPS) display on the 15-inch MacBook Air i
 LG offers the new Gram Pro laptops in IPS and OLED variants, but the latter versions that I tested at the venue were noticeably sharper and more color-accurate. It helped that LG had set black wallpapers on the demo units, which made the individual icons and self-emissive pixels pop a little more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,19 +114,20 @@ LG prices its [OLED Gram Pro laptops](https://shop-links.co/link/?exclusive=1&pu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-strategies-to-purge-youtubes-video-buffer-list/"><u>[Updated] 2024 Approved Strategies to Purge YouTube's Video Buffer List</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/1728487578981-windows-server/"><u>高度なバックアップ戦略: Windows Serverで複合スケジュール設定の導入方法</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-unveils-new-gaming-mouse-rog-keris-ii-ace-a-lightweight-rivals-to-the-iconic-deathadder-v3-pro/"><u>Asus Unveils New Gaming Mouse - ROG Keris II Ace, a Lightweight Rivals to the Iconic DeathAdder V3 Pro</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-infinix-hot-40-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Infinix Hot 40 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/best-video-compression-apps-for-android-top-5-picks/"><u>Best Video Compression Apps for Android: Top 5 Picks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discovering-the-digital-core-with-toms-computer-components-guides/"><u>Discovering the Digital Core with Tom’s Computer Components Guides</u></a></li>
-<li><a href="https://win-community.techidaily.com/efficaci-strategie-di-back-up-per-i-tuoi-dati-suddivisione-e-organizzazione/"><u>Efficaci Strategie Di Back-Up per I Tuoi Dati: Suddivisione E Organizzazione</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-toms-gear-roundup-in-depth-reviews-of-cutting-edge-hardware/"><u>Exploring Tom's Gear Roundup: In-Depth Reviews of Cutting-Edge Hardware</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-conduct-your-clicks-harmonize-images-and-sounds/"><u>In 2024, Conduct Your Clicks Harmonize Images & Sounds</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/innovative-equipment-evaluations-by-tom-top-rated-hardware-analysis/"><u>Innovative Equipment Evaluations by Tom - Top-Rated Hardware Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/reinventing-sound-how-creatives-x-fi-transforms-after-nearly-two-decades-with-cutting-edge-ai-ear-mapping-innovation/"><u>Reinventing Sound: How Creative's X-Fi Transforms After Nearly Two Decades with Cutting-Edge AI Ear Mapping Innovation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revolutionary-tiny-radiation-sensor-unveiled-capable-of-piercing-through-barriers-and-potentially-fitting-in-smartphones-according-to-scientists/"><u>Revolutionary Tiny Radiation Sensor Unveiled; Capable of Piercing Through Barriers and Potentially Fitting in Smartphones, According to Scientists</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-samsung-galaxy-f04-by-drfone-android/"><u>Top 10 Password Cracking Tools For Samsung Galaxy F04</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/weekly-tech-highlights-unveiling-the-latest-windows-laptop-line-up-and-exclusive-insights-into-spotifys-upcoming-strategies/"><u>Weekly Tech Highlights: Unveiling the Latest Windows Laptop Line-Up & Exclusive Insights Into Spotify's Upcoming Strategies</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-shine-bright-on-social-top-instagram-highlight-ideas-triple-theme/"><u>[New] Shine Bright on Social Top Instagram Highlight Ideas (Triple Theme)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-demystifying-facebooks-use-of-blue-video-icons-for-communication/"><u>[Updated] 2024 Approved Demystifying Facebook's Use of Blue Video Icons for Communication</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-linking-your-favorite-tiktoks-seamlessly-to-facebook-for-2024/"><u>[Updated] Linking Your Favorite TikToks Seamlessly to Facebook for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-ultimate-guide-10-tiktok-tactics-for-2024/"><u>[Updated] The Ultimate Guide 10 TikTok Tactics for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/demystifying-cyber-threats-understanding-zero-day-assaults-with-expert-insights-from-malwarefox/"><u>Demystifying Cyber Threats: Understanding Zero-Day Assaults with Expert Insights From MalwareFox</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-latest-epson-printer-drivers-for-windows-10-users/"><u>Download and Install the Latest Epson Printer Drivers for Windows 10 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-driver-downloads-and-updates-for-lenovo-thinkpad-t-series-including-t500/"><u>Effortless Driver Downloads and Updates for Lenovo ThinkPad T Series, Including T500</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-gigabyte-wb867d-chipset-drivers-instantly/"><u>Get the Newest GIGABYTE WB867D Chipset Drivers Instantly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-intel-wi-fi-6-ax200-drivers-compatible-with-windows-11-and-10-free-update-now/"><u>Get the Newest Intel Wi-Fi 6 AX200 Drivers Compatible with Windows 11 & 10 - Free Update Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-the-newest-display-driver-software-for-your-hp-pavilion-or-envy-laptop-models-840-841-etc/"><u>Getting the Newest Display Driver Software for Your HP Pavilion or Envy Laptop Models (840, 841, Etc.)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-m54-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/navigating-windows-10-features-for-seamless-video-editing/"><u>Navigating Windows 10 Features for Seamless Video Editing</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/problema-resuelto-error-de-tamano-en-disco-destino-con-clonzilla/"><u>Problema Resuelto: Error De Tamaño en Disco Destino Con Clonzilla</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/trendsetting-images-their-histories-for-2024/"><u>Trendsetting Images Their Histories for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/understanding-computing-power-with-toms-hardware-reviews/"><u>Understanding Computing Power with Tom's Hardware Reviews</u></a></li>
 </ul></div>
 

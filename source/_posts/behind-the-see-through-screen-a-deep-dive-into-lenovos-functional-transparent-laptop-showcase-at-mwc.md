@@ -1,7 +1,7 @@
 ---
 title: "Behind the See-Through Screen: A Deep Dive Into Lenovo's Functional Transparent Laptop Showcase at MWC"
-date: 2024-12-01T20:26:05.359Z
-updated: 2024-12-07T01:18:07.927Z
+date: 2024-12-05T16:57:54.838Z
+updated: 2024-12-13T04:31:42.660Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -67,7 +67,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -106,22 +106,19 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-short-storyboard-scheme/"><u>[Updated] 2024 Approved Short Storyboard Scheme</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-visionsonic-vsdc-review-ideal-substitutes/"><u>[Updated] In 2024, VisionSonic VSDC Review - Ideal Substitutes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-installation-guide-brother-mfc-7860dw-printer-driver-on-windows/"><u>Download & Installation Guide: Brother MFC-7860DW Printer Driver on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-free-intel-82579d-chipset-drivers-simple-and-swift-installation-guide/"><u>Download Free Intel 82579D Chipset Drivers: Simple and Swift Installation Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/feel-good-pop-anthems-by-microsoft-a-collection-specifically-chosen-for-their-positive-cheerful-melodies-and-lyrics-designed-to-boost-your-mood/"><u>Feel Good Pop Anthems by Microsoft – A Collection Specifically Chosen for Their Positive, Cheerful Melodies and Lyrics Designed to Boost Your Mood</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hp-3520-deskjet-printer-software-downloaded-here-link/"><u>Get Your HP 3520 Deskjet Printer Software Downloaded Here: [Link]</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-m14-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy M14 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-the-canon-mf743cdw-driver-for-optimal-windows-compatibility/"><u>How to Download and Install the Canon MF743CDW Driver for Optimal Windows Compatibility</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-10t-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme 10T 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 to other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-10-engaging-games-that-make-friends/"><u>In 2024, 10 Engaging Games That Make Friends</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-realme-gt-neo-5-se-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Realme GT Neo 5 SE FRP?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-15-5-ways-to-get-into-a-locked-iphone-15-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 15? 5 Ways to get into a Locked iPhone 15</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-logitech-g920-support-software-for-win-111087-free-download/"><u>Latest Logitech G920 Support Software for Win 11/10/8/7 - Free Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/obtain-official-drivers-for-ricoh-mp-c3003-all-in-one-printer/"><u>Obtain Official Drivers for Ricoh MP C3003 All-in-One Printer</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-compressed-data-a-step-by-step-guide-to-accessing-zip-files-on-your-ios-devices/"><u>Unlocking Compressed Data: A Step-by-Step Guide to Accessing ZIP Files on Your iOS Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updated-dell-driver-packs-for-seamless-integration-with-windows-7/"><u>Updated Dell Driver Packs for Seamless Integration with Windows 7</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-unleashing-the-power-of-light-advanced-hdr-in-ps-for-2024/"><u>[New] Unleashing the Power of Light Advanced HDR in PS for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723262307302-amd-ryzen-5-7600x-processor-goes-on-sale-available-for-just-174-at-newegg/"><u>AMD Ryzen 5 7600X Processor Goes on Sale: Available for Just $174 at Newegg!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/bcm-2045a0-drivers-troubles-heres-how-to-tackle-them-swiftly-and-successfully/"><u>BCM 2045A0 Drivers Troubles? Here's How to Tackle Them Swiftly & Successfully!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-installing-the-newest-drivers-on-your-lenovo-ideapad-ebook-100-with-windows-10-ensuring-optimal-performance/"><u>Complete Guide to Installing the Newest Drivers on Your Lenovo IdeaPad eBook 100 with Windows 10: Ensuring Optimal Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722961756386-epson-l3150-printer-driver-download-and-upgrade-guide-for-windows-1087/"><u>Epson L3150 Printer Driver Download & Upgrade Guide for Windows 10/8/7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-k11-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo K11 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-zero-30-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Infinix Zero 30 5G Phone without Google Account?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-methodology-incorporating-youtube-playlists-into-a-websites-structure/"><u>In 2024, Methodology Incorporating YouTube Playlists Into a Website's Structure</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-se-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone SE Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-depth-analysis-of-the-fugetek-ft-568-for-elite-photography-enthusiasts/"><u>In-Depth Analysis of the Fugetek FT-568 for Elite Photography Enthusiasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-official-hp-printer-drivers-free-downloads-available/"><u>Install Official HP Printer Drivers - Free Downloads Available!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-twitch-enthusiasts-recording-guidebook/"><u>The Twitch Enthusiast's Recording Guidebook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-obtaining-the-correct-drivers-for-your-epson-xp-n400-printer-a-simple-how-to/"><u>Ultimate Guide to Obtaining the Correct Drivers for Your Epson XP N400 Printer: A Simple How-To</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-are-there-no-more-chatgpt-jailbreaks-7-reasons-chatgpt-jailbreaks-dont-work/"><u>Why Are There No More ChatGPT Jailbreaks? 7 Reasons ChatGPT Jailbreaks Don't Work</u></a></li>
 </ul></div>
 

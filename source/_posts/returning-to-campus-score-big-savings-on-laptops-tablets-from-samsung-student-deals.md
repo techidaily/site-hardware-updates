@@ -1,7 +1,7 @@
 ---
 title: Returning to Campus? Score Big Savings on Laptops, Tablets From Samsung | Student Deals
-date: 2024-11-30T02:51:02.340Z
-updated: 2024-12-07T01:29:35.785Z
+date: 2024-12-08T18:18:09.374Z
+updated: 2024-12-12T22:15:11.177Z
 tags:
   - laptops
 categories:
@@ -51,7 +51,7 @@ If you want to shop around, Samsung isn't the only brand offering student discou
 * [Razer Education Purchase Program](https://razer.a9yw.net/c/159047/642901/10229?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.razer.com%2Feducation%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -90,20 +90,24 @@ However, stock may expire at any time. ZDNET remains committed to finding, shari
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-revel-in-reality-an-extensive-review-of-lgs-high-fidelity-monitor-31mu97-b/"><u>[New] 2024 Approved Revel in Reality - An Extensive Review of LG's High-Fidelity Monitor, 31MU97-B</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-golden-grounds-guided-the-finest-treasure-maps/"><u>[Updated] In 2024, Golden Grounds Guided The Finest Treasure Maps</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-step-into-high-dynamic-range-the-complete-hdr-conversion-guide/"><u>[Updated] Step Into High Dynamic Range The Complete HDR Conversion Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/acer-laptop-impresses-with-stunning-oled-display-and-high-quality-webcam-top-performers-reviewed-by-zdnet/"><u>Acer Laptop Impresses with Stunning OLED Display & High-Quality Webcam: Top Performers Reviewed by ZDNet</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/detaillierte-tipps-und-tricks-fur-die-nutzung-eines-bootfahigen-usb-laufwerks-mit-windows-11/"><u>Detaillierte Tipps Und Tricks Für Die Nutzung Eines Bootfähigen USB-Laufwerks Mit Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expand-your-digital-workspace-dual-monitor-support-now-available-on-the-m3-macbook-pro-insights/"><u>Expand Your Digital Workspace: Dual Monitor Support Now Available on the M3 MacBook Pro Insights</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-incorporating-personal-flair-fonts-for-ae-projects/"><u>In 2024, Incorporating Personal Flair Fonts for AE Projects</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/insights-on-the-upcoming-free-android-16-anticipated-news-pricing-estimates-release-date-and-tech-specs/"><u>Insights on the Upcoming Free Android 16: Anticipated News, Pricing Estimates, Release Date & Tech Specs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/live-the-microsoft-surface-and-windows-artificial-intelligence-unveiling-zdnet-insights-and-anticipated-innovations/"><u>Live the Microsoft Surface & Windows Artificial Intelligence Unveiling - ZDNet: Insights & Anticipated Innovations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/purchase-the-revolutionary-ar-laptop-featuring-a-massive-100-inch-screen-without-using-an-external-monitor-insights-from-zdnet/"><u>Purchase the Revolutionary AR Laptop Featuring a Massive 100-Inch Screen Without Using an External Monitor – Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revolutionizing-the-mac-experience-apple-integrates-next-gen-m4-ai-processors-across-all-models-release-timeline-revealed/"><u>Revolutionizing the Mac Experience: Apple Integrates Next-Gen M4 AI Processors Across All Models – Release Timeline Revealed</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-oppo-reno-10-pro-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Oppo Reno 10 Pro 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-laptops-unveiled-at-ces-2024-a-comprehensive-review-by-tech-radar/"><u>Top-Rated Laptops Unveiled at CES 2024: A Comprehensive Review by Tech Radar</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-portable-charger-perfectly-compatible-with-your-macbook-pro-reviews-and-buyers-guide/"><u>Top-Rated Portable Charger Perfectly Compatible with Your MacBook Pro: Reviews & Buyer's Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-samsung-galaxy-f04-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Samsung Galaxy F04? Fixed | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-premier-livestream-networks-you-need-to-watch/"><u>[New] The Premier Livestream Networks You Need To Watch</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-opening-overtures-10-superior-tunes-to-pique-interest/"><u>2024 Approved Opening Overtures 10 Superior Tunes to Pique Interest</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-samsung-galaxy-f14-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Samsung Galaxy F14 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-network-performance-by-refreshing-the-driver-for-your-usb-30-ethernet-adapter-windows/"><u>Boost Network Performance by Refreshing the Driver for Your USB 3.0 Ethernet Adapter (Windows)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/direct-download-techkey-bluetooth-driver-for-win-10-7-and-8-pcs/"><u>Direct Download: Techkey Bluetooth Driver for Win 10, 7 & 8 PCs</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/does-infinix-note-30i-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Infinix Note 30i Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-amd-ryzen-5-2400g-graphics-card-drivers-download-now/"><u>Easy Installation: AMD Ryzen 5 2400G Graphics Card Drivers - Download Now</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ack-to-pure-content-how-to-block-youtube-ads-on-all-devices/"><u>Get Back to Pure Content How to Block YouTube Ads on All Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-download-of-wacom-intuos-pro-drivers-specifically-for-windows-11-users/"><u>Hassle-Free Download of Wacom Intuos Pro Drivers Specifically for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-or-update-your-epson-l3150-driver-on-windows-1187/"><u>How to Install or Update Your Epson L3150 Driver on Windows 11/8/7</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-neo-5-se-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Realme GT Neo 5 SE Phone without Google Account?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/next-level-computing-power-unleashed-the-newly-released-epyc-zen-5-chip-with-its-remarkable-128-cores-and-half-a-gigabyte-l3-cache/"><u>Next-Level Computing Power Unleashed: The Newly Released EPYC Zen 5 Chip with Its Remarkable 128 Cores and Half a Gigabyte L3 Cache</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/simple-steps-how-to-efficiently-clone-your-sd-card-on-a-windows-pc/"><u>Simple Steps: How to Efficiently Clone Your SD Card on a Windows PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-the-latest-drivers-for-scansnap-ix5e-on-windows-computers/"><u>Step-by-Step Guide: Installing the Latest Drivers for ScanSnap iX5e on Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-comprehensive-computer-system-guide/"><u>Tom's Tech Insights: Comprehensive Computer System Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-overwatchs-launch-blues-strategies-to-defeat-the-black-screen-glitch/"><u>Troubleshooting Overwatch's Launch Blues - Strategies to Defeat the Black Screen Glitch</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-unmatched-power-ryzen-ai-9-hx-370-surpasses-intel-in-single-core-jumps-past-core-ultra-and-ryzen-models-with-zen-5-tech/"><u>Unleash Unmatched Power: Ryzen AI 9 HX 370 Surpasses Intel in Single-Core, Jumps Past Core Ultra & Ryzen Models with Zen 5 Tech</u></a></li>
 </ul></div>
 

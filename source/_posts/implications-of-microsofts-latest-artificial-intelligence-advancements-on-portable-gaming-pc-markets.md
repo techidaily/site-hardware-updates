@@ -1,7 +1,7 @@
 ---
 title: Implications of Microsoft's Latest Artificial Intelligence Advancements on Portable Gaming PC Markets
-date: 2024-08-28T02:03:05.345Z
-updated: 2024-08-29T02:03:05.345Z
+date: 2024-12-06T23:19:03.268Z
+updated: 2024-12-13T00:38:30.298Z
 tags:
   - hardware
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ## Implications of Microsoft's Latest Artificial Intelligence Advancements on Portable Gaming PC Markets
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * AMD APUs could offer higher memory bandwidth but sacrifice memory cache thanks to requirements for AI performance laid about by Microsoft.
@@ -18,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 * ARM chips like the Snapdragon X Elite could power future handheld gaming PCs with promising efficiency.
 
  Microsoft is all in on AI after a recent push for “AI PCs,” is a joint venture with Intel, AMD, and Qualcomm. One of the specs for the upcoming “AI PCs” lists Neural Processing Unit (NPU) performance of at least 45 TOPS. This could be bad news for Steam Deck and the gang. Here’s why.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  A Focus on AI Tech Means Less Cache and Lower Gaming Performance
 
@@ -50,8 +58,9 @@ _AMD_
  While a wider memory bus on next-gen AMD APUs is good news, Intel is cooking something even better, something that could completely solve memory bandwidth issues for future handheld PCs.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  On-Package RAM Could Be a Silver Lining for Handheld Chips
 
  Aside from low bandwidth, APUs also have to deal with high latency since the system memory isn’t placed right next to the iGPU but is instead either soldered to the PCB or slotted into SO-DIMM slots.
@@ -61,21 +70,15 @@ _AMD_
 ![Intel CPU die with on-package RAM chips.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/intel-on-package-ram.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Intel
 
  That said, we don’t yet have any info regarding the memory bandwidth of this on-package RAM solution, but I’m confident it will be pretty high because, like AMD, Intel wants to do this to improve the AI performance of its chips. Once again, an AI-focused improvement could indirectly benefit future gaming handhelds.
 
  Even though NPUs and AI performance are currently all the rage at AMD and Intel, the silver lining here is that both iGPUs and AI-related tasks greatly benefit from increased memory bandwidth. While Microsoft’s AI push looked like pretty bad news for future handhelds at first glance, it could turn out to be a pretty solid boon in the end.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ##  What About ARM Solutions Like the Snapdragon X Elite?
 
  ARM-based chips and [Windows on ARM](https://fox-http.techidaily.com/essential-list-best-microphones-for-4k-ultra-hd/) have been gaining more and more traction in the recent couple of years.
@@ -87,8 +90,9 @@ No advertising on the website.
 ![Snapdragon X Elite Hero Revised](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-x-elite-hero-revised.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Qualcomm 
 
  This sounds promising for future ARM-based Windows laptops, but it could also mean that we might see handheld gaming PCs powered by ARM chips in the future. ARM SoCs can be incredibly power efficient, making them perfect for mobile solutions. The high-performance version of the Snapdragon X Elite [gulps up to 80W of power](https://tools.techidaily.com/anandtech/products/), the thin and light version of the chip only uses 23W of power, and that’s for the entire device, not only the SoC.
@@ -111,8 +115,6 @@ Qualcomm
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +122,26 @@ Qualcomm
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-evaluating-camstudios-latest-screen-recording-features/"><u>[New] 2024 Approved Evaluating CamStudio's Latest Screen Recording Features</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-a-comprehensive-walkthrough-wmp-caption-addition/"><u>[New] A Comprehensive Walkthrough WMP Caption Addition</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-giggle-guides-essential-websites-for-humorous-ringtones/"><u>[Updated] In 2024, Giggle Guides Essential Websites for Humorous Ringtones</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-smileslice-studio-memomaestrospace/"><u>[Updated] SmileSlice Studio MemoMaestroSpace</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-strategies-for-effective-scheduling-of-digital-meetups/"><u>[Updated] Strategies for Effective Scheduling of Digital Meetups</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-achieve-peaceful-nights-with-expert-recommended-asmr/"><u>2024 Approved Achieve Peaceful Nights with Expert-Recommended ASMR</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/buggy-software-postpones-release-of-new-sonos-devices/"><u>Buggy Software Postpones Release of New Sonos Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-gamesir-x2s-type-c-evaluation-ideal-hand-size-irrelevant/"><u>Comprehensive GameSir X2s Type-C Evaluation: Ideal Hand Size Irrelevant</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/cooler-master-elevates-psu-game-with-new-lineup-offering-up-to-2000w-of-power/"><u>Cooler Master Elevates PSU Game with New Lineup Offering Up to 2000W of Power!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/diagnosing-ram-issues-a-comprehensive-guide-on-how-to-check-your-pcs-memory/"><u>Diagnosing RAM Issues: A Comprehensive Guide on How to Check Your PC's Memory</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dial-back-the-dazzle-a-close-look-at-our-astoundingly-bright-mini-led-tv-display/"><u>Dial Back the Dazzle: A Close Look at Our Astoundingly Bright Mini LED TV Display</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-new-8bitdo-replica-a-tribute-to-classic-ibm-model-m-keyboards/"><u>Discover the New 8BitDo Replica: A Tribute to Classic IBM Model M Keyboards</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/embracing-a-smarter-home-key-considerations-and-actionable-steps-for-transformation/"><u>Embracing a Smarter Home: Key Considerations & Actionable Steps for Transformation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-add-ons-for-a-full-featured-home-assistant-experience/"><u>Essential Add-Ons for a Full-Featured Home Assistant Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/evolution-of-display-ratios-embracing-the-169-monitor-and-its-effects-on-work-efficiency/"><u>Evolution of Display Ratios: Embracing the 16:9 Monitor and Its Effects on Work Efficiency</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Nokia 130 Music? | Dr.fone</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/how-to-fix-a-black-monitor-causes-and-solutions-with-yl-softwares-guidance/"><u>How To Fix A Black Monitor: Causes And Solutions with YL Software's Guidance</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-vivo-x100-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Vivo X100 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-impactful-power-of-customer-testimonials-on-sales/"><u>In 2024, The Impactful Power of Customer Testimonials on Sales</u></a></li>
+</ul></div>
 

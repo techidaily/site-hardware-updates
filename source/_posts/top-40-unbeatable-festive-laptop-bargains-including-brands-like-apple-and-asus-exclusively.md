@@ -1,7 +1,7 @@
 ---
 title: Top 40 Unbeatable Festive Laptop Bargains Including Brands Like Apple & Asus - Exclusively
-date: 2024-11-30T01:33:34.016Z
-updated: 2024-12-07T03:34:47.935Z
+date: 2024-12-06T04:23:29.591Z
+updated: 2024-12-13T04:16:43.202Z
 tags:
   - laptops
 categories:
@@ -24,10 +24,6 @@ Here are the best holiday laptop deals we've found so far. We'll continue updati
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best holiday laptop deals
 
 * [Samsung Galaxy Book3 360 2-in-1](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-book3-360-2-in-1-15-6-fhd-amoled-touch-screen-laptop-intel-13th-gen-evo-core-i7-1360p-16gb-memory-1tb-ssd-graphite%2F6531070.p%3FskuId%3D6531070&publisher_slug=itechdaily19598&exclusive=1): $950 (save $600 at Best Buy)
@@ -37,10 +33,6 @@ Here are the best holiday laptop deals we've found so far. We'll continue updati
 * [MSI Creator Z16 (open box)](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=44583&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https%3A%2F%2Fwww.newegg.com%2Fblack-msi-creator-z16-fujiwara-hiroshi-limited-edition-a11ue-226-content-creation%2Fp%2FN82E16834156073R): $1050 (save $11649 at Newegg)
 * [Asus ZenBook Pro Duo 15 OLED 4K](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-i7-12700H-ScreenPad-Celestial-UX582ZW-AB76T%2Fdp%2FB09TPTNZLG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C15aec2d9-77d0-4d20-a5e1-8b29d55767a1%7Cdtp&dtb=1): $1689 (save $811 at Amazon)
 * [LG Gram 17](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-gram-17-laptop-wqxga-intel-13th-gen-core-i7-with-16gb-memory-nvidia-geforce-rtx-3050-1tb-ssd-black%2F6540475.p%3FskuId%3D6540475&publisher_slug=itechdaily19598&exclusive=1): $1300 (save $700 at Best Buy)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Top Amazon holiday laptop deals
 
@@ -53,7 +45,7 @@ MSI/ZDNET
 * [Lenovo IdeaPad 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-IdeaPad-Processor-i5-1035G7-Accessories%2Fdp%2FB0CNGV8C34%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C15aec2d9-77d0-4d20-a5e1-8b29d55767a1%7Cdtp&dtb=1): $350 (save $350)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Top Best Buy holiday laptop deals
@@ -73,7 +65,7 @@ Dell/ZDNET
 * [Asus Zenbook 14X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-zenbook-14x-14-5-2-8k-oled-touch-laptop-intel-evo-platform-i7-13700h-16gb-memory-512gb-ssd-inkwell-gray%2F6543526.p%3FskuId%3D6543526&publisher_slug=itechdaily19598&exclusive=1): $700 (save $300)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Top Walmart holiday laptop deals
@@ -85,10 +77,6 @@ HP/ZDNET
 * [HP 15 laptop](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-15-15-6-FHD-Windows-11-Pro-Touchscreen-Business-Laptop-11th-Gen-Intel-4-core-i7-1165G7-32GB-RAM-2TB-PCIe-SSD-Iris-Xe-Graphic-Natural-Silver-w-Offi%2F5031672716&subId1=zd-__COM_CLICK_ID__-dtp): $873 (save $376)
 * [HP Envy x360 2-in-1](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-ENVY-x360-Convertible-15-6-FDH-Touch-Laptop-AMD-Ryzen-5-12GB-256GB-Windows-11-15-ey1077wm%2F1090379885%3Fathbdg%3DL1800&subId1=zd-__COM_CLICK_ID__-dtp): $449 (save $350)
 * [Lenovo IdeaPad Slim 5i](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLenovo-IdeaPad-Slim-5i-Laptop-82XF002SUS-Intel-i7-1355U-16GB-RAM-1TB-SSD-16-0-Windows-11-Home-Intel-Iris-Xe-Graphics%2F3634632586%3Fathbdg%3DL1700&subId1=zd-__COM_CLICK_ID__-dtp): $680 (save $270)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Top B&H Photo holiday laptop deals
 
@@ -102,6 +90,10 @@ Best Buy/ZDNET
 * [LG UltraPC 15](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1767091-REG%2Flg%5F15u50q%5Fg%5Fapb5u1%5F15%5Fultra%5Flaptop%5Fi5%5F1240p.html): $799 (save $300)
 * [Asus Vivobook 16X](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1762299-REG%2Fasus%5Fk3605vv%5Fbb74%5F16%5Fvivobook%5Fnotebook%5Fi7%5F13700h.html): $929 (save $470)
 * [Microsoft Surface Laptop 5](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1729196-REG%2Fmicrosoft%5Frkl%5F00001%5F15%5Fsurface%5Flaptop%5F4.html): $1899 (save $400)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More holiday laptop deals
 
@@ -138,6 +130,10 @@ The Lenovo Yoga 7 is a 2-in-1 laptop, which means you can use it either as a tab
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-i7-12700H-Fingerprint-Long-Lasting-Win11Pro%2Fdp%2FB0D666LJLD%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C15aec2d9-77d0-4d20-a5e1-8b29d55767a1%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these holiday deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
@@ -147,6 +143,10 @@ We also looked over customer reviews to find out what matters to real people who
 ## What is the best laptop?
 
 If you're in the market for a new laptop and want the best of the best, you should check out our number one pick for the [best laptop of 2023](https://www.zdnet.com/article/best-laptop/): the MacBook Pro 16 M2 Max. It features the new M2 Max chipset from Apple for enhanced performance, multitasking, and graphics capabilities. It also gives you a 22-hour battery life for all-day work or play. You can configure the MacBook Pro 12 M2 Max with up to 96GB of RAM and with up to 8TB of storage. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best holiday 2023 deals?
 
@@ -213,15 +213,16 @@ If you're in the market for a new laptop and want the best of the best, you shou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-directory-of-classical-tone-archives/"><u>[New] Ultimate Directory of Classical Tone Archives</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-jake-paul-unveiled-charting-the-path-of-youtube-stardom/"><u>2024 Approved Jake Paul Unveiled Charting the Path of YouTube Stardom</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-infinix-smart-7-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Infinix Smart 7</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725285225722-dvddvd/"><u>DVD保存に関する重要ヒント：DVDの長持ちに必要不可欠な保管法をご紹介!</u></a></li>
-<li><a href="https://article-tips.techidaily.com/enhance-your-iphone-pics-in-minutes-for-2024/"><u>Enhance Your iPhone Pics in Minutes for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-uncovering-the-secrets-of-hardware-mastery/"><u>Tom's Tech Insights: Uncovering the Secrets of Hardware Mastery</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-gpu-performance-leaders-of-2024-comprehensive-graphics-card-rating-chart/"><u>Top GPU Performance Leaders of 2024: Comprehensive Graphics Card Rating Chart</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-processor-promotions-exclusive-discounts-on-amd-and-intel-models/"><u>Top Processor Promotions : Exclusive Discounts on AMD & Intel Models</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-gadgets-with-toms-hardware-experts/"><u>Unveiling the Latest Gadgets with Tom's Hardware Experts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/utilizing-siris-text-reading-feature-a-comprehensive-guide-for-iphone-and-mac-users/"><u>Utilizing Siri’s Text Reading Feature: A Comprehensive Guide for iPhone & Mac Users</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-incorporating-time-features-into-youtube-video-formats/"><u>[New] In 2024, Incorporating Time Features Into YouTube Video Formats</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-compre-point-guide-to-instagrams-inquiry-tool/"><u>[New] In 2024, The Compre Point Guide to Instagram's Inquiry Tool</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/astering-the-art-of-selecting-free-music-for-videos/"><u>[New] Mastering the Art of Selecting Free Music for Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ncomplicated-process-how-to-swiftly-eliminate-youtube-comments/"><u>[New] Uncomplicated Process How to Swiftly Eliminate YouTube Comments</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-picking-the-right-software-bandicam-versus-camtasia/"><u>[Updated] In 2024, Picking the Right Software Bandicam Versus Camtasia</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-amd-graphics-drivers-optimized-for-windows-11-7-8-and-81-operating-systems/"><u>Download AMD Graphics Drivers: Optimized for Windows 11, 7, 8 and 8.1 Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-access-to-sm-bus-controller-software-free-downloads-for-various-windows-versions-windows-111087/"><u>Easy Access to SM Bus Controller Software: Free Downloads for Various Windows Versions – Windows 11/10/8/7</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-prototype-sparks-interest-could-support-two-cameras/"><u>Facebook Prototype Sparks Interest: Could Support Two Cameras?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fetch-and-install-dell-high-speed-connection-driver-for-laptops-windows-os/"><u>How to Fetch and Install Dell High-Speed Connection Driver for Laptops (Windows OS)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-your-asus-pce-ac68-driver-instantly-with-our-easy-download-guide/"><u>Install Your ASUS PCE-AC68 Driver Instantly with Our Easy Download Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/overcoming-challenges-enhanced-encryptiondecryption-driver-performance/"><u>Overcoming Challenges: Enhanced Encryption/Decryption Driver Performance</u></a></li>
 </ul></div>
 

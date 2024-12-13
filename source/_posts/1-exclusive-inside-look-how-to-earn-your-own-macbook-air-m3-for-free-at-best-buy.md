@@ -1,7 +1,7 @@
 ---
 title: "1. Exclusive Inside Look: How to Earn Your Own MacBook Air M3 for Free at Best Buy"
-date: 2024-12-02T22:56:27.874Z
-updated: 2024-12-06T17:17:48.734Z
+date: 2024-12-10T22:42:00.610Z
+updated: 2024-12-12T18:25:35.805Z
 tags:
   - laptops
 categories:
@@ -103,7 +103,7 @@ ZDNET
 * [Arcade1Up Street Fighter II Champion Turbo Legacy Edition cabinet for $399 (save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FARCADE1UP-Capcom-Fighter-Champion-Machine%2Fdp%2FB0B94VCWG3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C035a18fc-aa2e-4850-8b83-636ea9ece802%7Cdtp&dtb=1): A Wi-Fi enabled, retro-inspired arcade cabinet featuring 14 different games to play head-to-head against online players or friends in-person.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day PlayStation 5 deals
@@ -141,7 +141,7 @@ ZDNET
 * [Join Xbox Game Pass Ultimate for $1 (then $19.99 per month)](https://www.xbox.com/en-US/xbox-game-pass#join): Get access to hundreds of PC and Xbox Series X|S games for cloud gaming support, monthly free games, and exclusive discounts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals
@@ -168,10 +168,6 @@ Nintendo/ZDNET
 * [Pokemon Shining Pearl for $45 (save $15)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
 * [Lego Star Wars: The Skywalker Saga for $25 (save $26 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLEGO-Star-Wars-The-Skywalker-Saga-Nintendo-Switch%2F182278850%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Play as iconic characters like Luke Skywalker, Qui-Gon Jin, and Darth Vader through the stories of both the original and prequel Star Wars trilogies.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $55 (save $25 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day gaming PC deals
 
@@ -218,7 +214,7 @@ Samsung/ZDNET
 * [Roccat Vulcan II Mini Air for $64 (save $116 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Froccat-vulcan-ii-mini-air-65-wireless-optical-mechanical-gaming-keyboard-with-rgb-illumination-black%2F6547284.p%3FskuId%3D6547284&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less mechanical keyboard with optical switches, RGB backlighting, and USB-C charging.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day graphics card deals
@@ -227,19 +223,23 @@ Samsung/ZDNET
 * [Asus Nvidia GeForce RTX 4070 Overclock for $580 (save $100 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6540002.p%3FskuId%3D6540002&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This Nvidia-based GPU offers 12GB of DDR6 VRAM, a base clock speed of 2.55GHz that can be overclocked to 2.58GHz, 8K video output support, and support for up to 4 displays.
 * [Asus TUF Nvidia GeForce RTX 3080 Ti for $925 (save $472 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FTUF-NVIDIA-GeForce-RTX-3080-TI-Graphic-Card-12-GB-GDDR6-384-bit-Bus-Width-PCI-Express-4-0-DisplayPort-HDMI%2F994157887%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) Nvidia's high-end 30 Series graphics card offers 12GB of VRAM, military-grade capacitors for better power efficiency, and support for up to 4 displays.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -275,14 +275,19 @@ I only chose deals on games that have been critically and commercially well-rece
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-macsierra-visionaries-premier-dvd-creators-list/"><u>[New] MacSierra Visionaries Premier Dvd Creators List</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-ethical-editors-handbook-on-sensitive-content/"><u>2024 Approved The Ethical Editor's Handbook on Sensitive Content</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-evaluation-of-the-deepcool-pq850m-high-performance-psu/"><u>Comprehensive Evaluation of the DeepCool PQ850M High-Performance PSU</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-the-ideal-backdrop-for-windows-11-for-2024/"><u>Crafting the Ideal Backdrop for Windows 11 for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-enhanced-lian-li-strimer-plus-v2-advanced-rgb-features-unleashed-in-your-power-supply/"><u>Exploring the Enhanced Lian Li Strimer Plus V2: Advanced RGB Features Unleashed in Your Power Supply</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/pioneering-insights-on-computing-hardware-from-toms-experts/"><u>Pioneering Insights on Computing Hardware From Tom's Experts</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-selecting-a-family-friendly-rc-car-featuring-the-maisto-rc-rock-crawler/"><u>The Ultimate Guide to Selecting a Family-Friendly RC Car – Featuring the Maisto RC Rock Crawler</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-secrets-of-computer-components-with-tom-your-ultimate-hardware-guide/"><u>Unveiling the Secrets of Computer Components with Tom - Your Ultimate Hardware Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/your-personalized-list-of-top-non-networked-android-game-apps/"><u>Your Personalized List of Top Non-Networked Android Game Apps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-driving-audience-growth-with-smart-fb-video-tactics/"><u>[New] 2024 Approved Driving Audience Growth with Smart FB Video Tactics</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elite-stabilization-solutions-for-video-creators/"><u>[New] 2024 Approved Elite Stabilization Solutions for Video Creators</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-compelling-book-trail-creations/"><u>[New] Compelling Book Trail Creations</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-youtube-conversion-mastery-top-10-strategies-revealed/"><u>[New] In 2024, YouTube Conversion Mastery Top 10 Strategies Revealed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-x-sound-engineer-desktop-suite/"><u>[New] X-Sound Engineer Desktop Suite</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-propel-your-tiktok-presence-with-accurate-profile-numbers/"><u>[Updated] In 2024, Propel Your TikTok Presence with Accurate Profile Numbers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-compact-powerhouse-in-flight-dji-sparks-guide-to-aerial-selfies/"><u>[Updated] In 2024, The Compact Powerhouse in Flight DJI Spark's Guide to Aerial Selfies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ds-530-printer-drivers-for-windows-11-64-bit-get-your-free-download-now/"><u>DS-530 Printer Drivers for Windows 11 (64-Bit) - Get Your Free Download Now</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/expert-tips-for-efficient-music-integration-in-premiere-pro-for-2024/"><u>Expert Tips for Efficient Music Integration in Premiere Pro for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723262308646-exploring-the-latest-in-technology-with-toms-hardware-top-gadgets-reviewed/"><u>Exploring the Latest in Technology with Tom's Hardware - Top Gadgets Reviewed!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/improve-video-quality-with-updated-webcam-drivers-for-windows-10-users/"><u>Improve Video Quality with Updated WebCam Drivers for Windows 10 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-graphics-card-driver-download-for-nvidia-geforce-rtx-1650-super-on-windows-11/"><u>Latest Graphics Card Driver Download for Nvidia GeForce RTX 1650 Super on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-how-to-obtain-and-refresh-amds-rx-480-graphics-drivers/"><u>Step-by-Step: How to Obtain and Refresh AMD's RX 480 Graphics Drivers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/your-daily-dose-of-joy-top-15-online-anime-shows-for-2024/"><u>Your Daily Dose of Joy Top 15 Online Anime Shows for 2024</u></a></li>
 </ul></div>
 

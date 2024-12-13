@@ -1,7 +1,7 @@
 ---
 title: Get the Ultimate Creator's Setup at Half Price! Dramatic $1,100 Discount on High-Performance Computers for Gamers and Producers – Spotted First on ZDNet.
-date: 2024-12-03T18:12:52.569Z
-updated: 2024-12-06T16:31:40.843Z
+date: 2024-12-08T18:02:11.003Z
+updated: 2024-12-12T16:25:51.274Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -79,7 +79,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -91,7 +91,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -128,22 +128,20 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-masterful-use-of-digital-boards-in-web-meetings-across-appleandroid-and-laptops-for-2024/"><u>[New] Masterful Use of Digital Boards in Web Meetings Across Apple/Android & Laptops for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/he-full-time-employees-guide-to-video-content-success/"><u>[New] The Full-Time Employee's Guide to Video Content Success</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-analysis-variety-in-fb-video-aspects-for-2024/"><u>[Updated] Analysis Variety in FB Video Aspects for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-capturing-classroom-dynamics-easily/"><u>[Updated] Capturing Classroom Dynamics Easily</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/10-ways-to-prevent-oculus-rift-vr-motion-sickness-for-2024/"><u>10 Ways to Prevent Oculus Rift VR Motion Sickness for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/2023s-most-impactful-tech-innovations-unveiled-how-they-transformed-the-game-featured-on-zdnet/"><u>2023'S Most Impactful Tech Innovations Unveiled | How They Transformed the Game - Featured on ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/assessing-the-lenovo-ideapad-for-gamers-how-hardware-impacts-cloud-based-play-zdnet-review/"><u>Assessing the Lenovo IdeaPad for Gamers: How Hardware Impacts Cloud-Based Play | ZDNet Review</u></a></li>
-<li><a href="https://win-blog.techidaily.com/bypassing-problems-successfully-starting-up-the-ascent-application/"><u>Bypassing Problems: Successfully Starting Up 'The Ascent' Application</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/challenging-the-giants-is-msis-steam-deck-poised-to-dominate-the-handheld-gaming-market-insights-and-analysis/"><u>Challenging the Giants: Is MSI's Steam Deck Poised to Dominate the Handheld Gaming Market? | Insights and Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/essential-picks-for-every-academics-toolkit-the-ultimate-guide-to-college-laptops-tested-and-reviewed/"><u>Essential Picks for Every Academic's Toolkit: The Ultimate Guide to College Laptops Tested and Reviewed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fbi-exposes-dangers-of-data-theft-via-juice-jacking-devices-in-public-areas-learn-how-to-securely-charge-your-phone/"><u>FBI Exposes Dangers of Data-Theft via 'Juice Jacking' Devices in Public Areas – Learn How to Securely Charge Your Phone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/microsoft-redefines-repair-standards-with-latest-laptop-line-industry-watchers-acknowledge-challenge-to-competitors-including-apple-insights-from-ifixit/"><u>Microsoft Redefines Repair Standards with Latest Laptop Line: Industry Watchers Acknowledge Challenge to Competitors Including Apple – Insights From iFixit</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/microsoft-slashes-prices-on-surface-go-and-drops-all-time-low-price-for-xbox-series-s/"><u>Microsoft Slashes Prices on Surface Go and Drops All-Time Low Price for Xbox Series S</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-correction-of-disk-reading-errors/"><u>Solutions for Correction of Disk Reading Errors</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-affordable-alternative-to-macbook-air-meet-the-laptop-that-matches-up-zdnet-tech-reviews/"><u>The Affordable Alternative to MacBook Air - Meet the Laptop That Matches Up | ZDNET Tech Reviews</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-popping-sound-on-your-logitech-g-pro-x-keyboard-expert-advice-and-tips/"><u>Troubleshooting Popping Sound on Your Logitech G Pro X Keyboard: Expert Advice and Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-miniature-film-script-sketch/"><u>[New] 2024 Approved Miniature Film Script Sketch</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-transforming-gameplay-into-visual-stories-using-obs/"><u>[Updated] 2024 Approved Transforming Gameplay Into Visual Stories Using OBS</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-youtubes-updated-strategy-for-content-creators-for-2024/"><u>[Updated] YouTube's Updated Strategy for Content Creators for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-malfunction-post-windows-11-update-easy-solutions-unveiled/"><u>Audio Malfunction Post-Windows 11 Update? Easy Solutions Unveiled!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-acer-monitor-drivers-latest-version/"><u>Download Acer Monitor Drivers - Latest Version</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-access-downloading-your-canon-mf4500-printers-official-drivers/"><u>Easy Access: Downloading Your Canon MF4500 Printer's Official Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/epson-wf-2540-printer-driver-setup-download-compatible-with-win7win10win81/"><u>Epson WF 2540 Printer Driver Setup: Download Compatible with Win7/Win10/Win8.1</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978787330-get-the-newest-geforce-rtx-3090-driver-for-your-windows-pc-1187-secure-your-download-now/"><u>Get the Newest GeForce RTX 3090 Driver for Your Windows PC (11/8/7): Secure Your Download Now!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-v30-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo V30 Pro to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-version-of-amd-radeon-pro-w57n-drivers-released-supports-win11-10-and-7-download-here/"><u>Latest Version of AMD Radeon Pro W57n Drivers Released: Supports Win11, 10 & 7 – Download Here</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211268225-9781777220853-lucid-dreaming/"><u>Lucid Dreaming | Free Book</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/personal-growth-reflections-for-digital-platforms-for-2024/"><u>Personal Growth Reflections for Digital Platforms for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-big-savings-on-amd-ryzen-9000-exclusive-lowest-price-offers-now-dominating-over-previous-ryzen-n7000-market-launch-prices-at-best-buy/"><u>Score Big Savings on AMD Ryzen 9000 - Exclusive Lowest Price Offers Now Dominating Over Previous Ryzen N7000 Market Launch Prices at Best Buy</u></a></li>
 </ul></div>
 

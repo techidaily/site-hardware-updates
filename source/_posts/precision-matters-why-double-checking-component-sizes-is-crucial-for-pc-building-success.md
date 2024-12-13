@@ -1,7 +1,7 @@
 ---
 title: "Precision Matters: Why Double-Checking Component Sizes Is Crucial for PC Building Success"
-date: 2024-08-28T02:01:25.873Z
-updated: 2024-08-29T02:01:25.873Z
+date: 2024-12-09T22:09:14.424Z
+updated: 2024-12-12T23:32:51.954Z
 tags:
   - hardware
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/d24d3312f259f96290369cb8e76c62b1a0988c7f8
 ---
 
 ## Precision Matters: Why Double-Checking Component Sizes Is Crucial for PC Building Success
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/d24d3312f259f96290369cb8e76c62b1a0988c7f8
 
  When building a PC, you have to do your due diligence to make sure your hardware is compatible. However, an important aspect that even expert builders can overlook is the physical dimensions of your hardware. So, before you build your PC, here are the measurements you need to check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Motherboard and Case Form Factor
 
  It might seem obvious, but you must ensure that your motherboard fits your case. Thankfully, this is a standardized system. Motherboards come in a [few different sizes](https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-reno-9a-drfone-by-drfone-virtual-android/), the most common being ATX (Full ATX), mATX (MicroATX), and Mini-ITX.
@@ -37,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/d24d3312f259f96290369cb8e76c62b1a0988c7f8
 
  Motherboards generally utilize the same mounting holes, which means you can fit a smaller motherboard into a larger case. I use a mATX motherboard in a full tower case, and I still double-checked that the case was mATX compatible before buying it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ##  Graphics Card Length, Width, and Height
 
  Graphics cards have arguably become the most "bloated" piece of hardware—even budget models now feature overbuilt cooling solutions with triple-fan configurations and heatsinks that extend far beyond the graphics card's PCB (Printed Circuit Board).
@@ -50,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/d24d3312f259f96290369cb8e76c62b1a0988c7f8
 
 ![MSI Geforce RTX Graphics card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/52650304762_9334cc529c_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  As for slot space, it's common for modern GPUs to take up two or even three PCI slots. If you plan on using your other PCI slots for expansion cards, your best bet will be a [PCI riser cable](https://www.amazon.com/LINKUP-Vertical-Compatible-Designed-Reverse/dp/B0CN9R8QQ4/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003295&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbefore-i-build-a-pc-i-triple-check-these-measurements%2F&asc%5Fcampaign=Evergreen) that lets you install the expansion card in a different spot. Also, you should have adequate room for airflow underneath your GPU, so avoid cramming a triple-slot GPU into a tiny case.
@@ -71,19 +73,17 @@ Hannah Stryker / How-To Geek
 
 ![Image of an air CPU cooler with two fans inside a computer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/rsz_1img20231201185642-3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Ismar Hrnjicevic / How-To Geek
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Storage Drive Bays
 
  There are two main storage bay sizes—2.5" and 3.5". 2.5" is reserved for SSDs and slim laptop-style HDDs, whereas 3.5" is used for traditional HDDs. Front-facing 3.5" bays are for old-school memory card readers, CD, DVD, and floppy drives, etc. Most modern PC cases no longer have front drive bays, but some of them have gotten rid of 3.5" bays altogether. If you plan to [buy a full-size HDD](https://video-capture.techidaily.com/updated-2024-approved-obs-full-screen-troubles-now-under-control/), look for a case that supports at least one or two 3.5" drives.
 
  Additionally, if you're working with a smaller case, it might only have room for one or two 2.5" drives, which can become an issue if you want to upgrade your storage down the line. So, plan ahead and either buy a larger SSD or a case that supports several 2.5" drives.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Case Fan Sizes
 
@@ -93,11 +93,16 @@ Ismar Hrnjicevic / How-To Geek
 
 ![A gaming PC with Kingston memory, RGB fans, lights, MSI CPU cooler, and GeForce RTX GPU.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/52647613799_d0b8785135_k.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  PSU Form Factor and Cables
 
  Did you know that power supplies come in a few different form factors? The most common one is ATX PS/2, which is used in most PCs. It's followed by ATX PS/3, which is slightly shorter and is more suitable for small cases. The smallest consumer-grade PSUs are SFX and the slightly larger SFX-L. These are used in tiny SFF cases that don't support full-size PSUs.
@@ -106,9 +111,6 @@ Justin Duino / How-To Geek
 
  PSUs generally have cable lengths listed on the spec sheet. If your case doesn't mention anything about cable lengths, it's time to bust out the tape measure and check it manually, assuming you've already bought the case or can check it in-person.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Radiator Size
 
  If you're a fan of liquid cooling, you should know that radiator sizes aren't fully standardized, but fortunately, they typically follow case fan sizes. They typically support 120mm or 140mm fans, so the most common sizes are 120mm, 140mm, 240mm, 280mm, 360mm, and 420mm. Your PC case will tell you the maximum supported radiator size in each location; they're usually mounted at the top or front of the case.
@@ -125,8 +127,6 @@ Justin Duino / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +134,24 @@ Justin Duino / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-archive-exploration-for-social-media-insight-for-2024/"><u>[New] Archive Exploration for Social Media Insight for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-20-most-reliable-hashtag-tracker-tools-fbtwitterinsta-for-2024/"><u>[Updated] 20 Most Reliable Hashtag Tracker Tools (FB/Twitter/Insta) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-7-key-tools-to-convert-youtube-videos-easily/"><u>[Updated] In 2024, 7 Key Tools to Convert YouTube Videos Easily</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-dissecting-adobe-lightroom-for-android-in-detail/"><u>2024 Approved Dissecting Adobe Lightroom for Android in Detail</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-specifics-how-to-determine-your-windows-10-operating-system-version-and-build-number/"><u>Discover the Specifics: How to Determine Your Windows 10 Operating System Version and Build Number</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-vivo-x90s-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Vivo X90S FRP In 3 Different Ways</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/my-journey-away-from-mobile-melodies-why-i-became-a-less-frequent-user-of-phone-tunes/"><u>My Journey Away From Mobile Melodies: Why I Became a Less Frequent User of Phone Tunes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/my-transformation-embracing-the-unmatched-comfort-of-leather-phone-cases/"><u>My Transformation: Embracing the Unmatched Comfort of Leather Phone Cases</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-setting-up-your-phones-google-assistant-drive-feature/"><u>Quick Guide: Setting Up Your Phone's Google Assistant Drive Feature</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/reclaim-control-from-mobile-disruptions-discover-these-4-strategies-for-a-focused-tech-free-life/"><u>Reclaim Control From Mobile Disruptions: Discover These 4 Strategies for a Focused Tech-Free Life</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-galaxy-z-fold3-analysis-stunning-performance-meets-classic-style/"><u>Samsung Galaxy Z Fold3 Analysis: Stunning Performance Meets Classic Style</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solving-the-dilemma-steps-to-take-when-an-android-device-refuses-to-boot/"><u>Solving the Dilemma: Steps to Take When an Android Device Refuses to Boot</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-debate-on-surface-duo-2-unpacking-the-varied-reactions-towards-microsofts-innovative-dual-display-device/"><u>The Debate on Surface Duo 2: Unpacking the Varied Reactions Towards Microsoft's Innovative Dual-Display Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-premier-guide-to-selecting-the-finest-android-weather-widget-apps/"><u>The Premier Guide to Selecting the Finest Android Weather Widget Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/understanding-snapchats-high-value-content/"><u>Understanding Snapchat's High-Value Content</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-11-printer-woes-time-to-act/"><u>Windows 11 Printer Woes? Time to Act</u></a></li>
+</ul></div>
 

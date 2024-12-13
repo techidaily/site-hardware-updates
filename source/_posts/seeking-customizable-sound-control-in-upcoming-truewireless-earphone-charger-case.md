@@ -1,7 +1,7 @@
 ---
 title: Seeking Customizable Sound Control in Upcoming TrueWireless Earphone Charger Case
-date: 2024-08-28T02:01:30.529Z
-updated: 2024-08-29T02:01:30.529Z
+date: 2024-12-11T02:14:44.889Z
+updated: 2024-12-12T22:57:03.466Z
 tags:
   - hardware
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The CMF Phone 1 looks like a solid budget phone that features a swappable back cover schtick reminiscent of the ancient HTC Tattoo. What caught my eye, though, are the CMF earbuds and their case, which rocks a volume wheel. Now I want my next earbud charging case to have one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  A Volume Dial on a Charging Case Could Actually Be Useful
 
  As a Galaxy Buds Pro owner, I can confidently say that their automatic voice detection feature works as well as a screen door on a submarine. Most of the time, the feature doesn’t work when I want it. It ignores my voice on a regular basis, and it kicks in when I don’t need it—every single time I clear my throat.
@@ -28,10 +32,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Not only that, but a volume knob on my earbud charging case would also allow me to freely adjust the volume on every device I use the earbuds with, be that a PC, console, or TV.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ##  Built-in Volume Controls Could Diversify Charging Case Designs
 
  The only differentiating factors in the ho-hum world of earbud charging case design are the shape of the case and the presence of transparent details, like on the [Nothing Ear 2](https://tech-revival.techidaily.com/1722140060602-ais-influence-on-transforming-dreams-into-tangible-outcomes-discover-how/) and the fresh-from-the-oven [Galaxy Buds Pro 3](https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-without-passcode-or-face-id-drfone-by-drfone-ios/).
@@ -43,8 +43,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![CMF Buds charging case in black.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cmf-buds.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Nothing/CMF
 
  I could also see phone-like volume rockers, touch-based volume controls, or a volume control touch bar similar to those on some ASUS mechanical gaming keyboards.
@@ -52,8 +53,9 @@ Nothing/CMF
 ![ASUS ROG Falchion Volume Touch bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/asus-rog-falchion-volume-touch-bar.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ASUS
 
  Or what about an iPod-like jog dial Apple could slap on the AirPods Pro Gen3 charging case? Imagine an AirPods Pro Gen3 charging case equipped with a touch-based or mechanical jog wheel you can use to adjust the volume and control playback. Something similar to the TinyPod Apple Watch case below, just without the screen.
@@ -61,15 +63,17 @@ ASUS
 ![Three sizes of the TinyPod Apple Watch silicone case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/tinypod-apple-watch-silicone-case-all-sizes.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Christian Zibreg / How-To Geek / TinyPod
 
  In the case of the mechanical variant, the wheel could fit flush with the surface of the charging case and feature a nice and robust tactile feedback that would kick in when you rotate it clockwise and anticlockwise to adjust the sound volume. Tactile volume dials would not only inject a breath of originality and utility into the world of earbud charging cases; they would also bring back a dose of physicality and tactility to the otherwise bland, sterile, and [touch-only smartphone experience](https://facebook-record-videos.techidaily.com/updated-in-2024-beam-your-content-upward-perfecting-youtube-seo-techniques/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  A Volume Dial on My Earbuds’ Charging Case Would Be a Great Fidget Toy
 
  Lastly, an earbud charging case equipped with a volume dial would be a perfect fidget toy when out and about. For instance, [I love the infinite scroll wheel](https://screen-mirror.techidaily.com/guide-to-mirror-your-itel-s23-to-other-android-devices-drfone-by-drfone-android/) on my [Logitech MX Master 3S](https://www.amazon.com/Logitech-MX-Master-3S-Graphite/dp/B09HM94VDS/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004274&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fi-want-a-volume-wheel-on-my-next-earbud-charging-case%2F&asc%5Fcampaign=Evergreen) and use it as a fidget toy all the time while watching YouTube.
@@ -84,8 +88,6 @@ Christian Zibreg / How-To Geek / TinyPod
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -93,4 +95,20 @@ Christian Zibreg / How-To Geek / TinyPod
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-from-chaos-to-clarity-combining-obs-with-zoom/"><u>[New] 2024 Approved From Chaos to Clarity Combining OBS with Zoom</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-bring-life-into-your-photos-with-these-top-11-tutorials/"><u>[New] In 2024, Bring Life Into Your Photos with These Top 11 Tutorials</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-get-free-stock-footage-from-these-4-youtube-channels/"><u>[New] In 2024, Get Free Stock Footage From These 4 YouTube Channels</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlock-youtube-potential-with-tubebuddy-strategies/"><u>[New] Unlock YouTube Potential with TubeBuddy Strategies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfect-your-mobile-photos-the-best-no-cost-slo-mo-camera-apps-guide/"><u>[Updated] Perfect Your Mobile Photos The Best No-Cost Slo-Mo Camera Apps Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/answer/"><u>Answer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/concealing-android-notification-icons-tips-and-tricks-for-a-cleaner-status-bar/"><u>Concealing Android Notification Icons: Tips & Tricks for a Cleaner Status Bar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/could-the-pixel-fold-face-similar-challenges-seen-with-the-pixel-watch-model/"><u>Could the Pixel Fold Face Similar Challenges Seen with the Pixel Watch Model?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dare-to-explore-a-guide-on-testing-and-removing-android-15-beta/"><u>Dare to Explore - A Guide on Testing & Removing Android 15 Beta</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-new-features-android-12-and-material-you-theme-expands-to-5-smartphones-soon/"><u>Discover the New Features: Android 12 & Material You Theme Expands to 5 Smartphones Soon</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-streamline-online-interactions-the-simple-science-of-clear-backgrounds-in-google-meet/"><u>In 2024, Streamline Online Interactions The Simple Science of Clear Backgrounds in Google Meet</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/learn-to-defend-your-digital-life-encryption-decryption-and-resilience-strategies-for-your-mac-hard-drive-watch-now/"><u>Learn to Defend Your Digital Life: Encryption, Decryption, and Resilience Strategies for Your Mac Hard Drive - Watch Now</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/leveraging-zoom-tools-to-capture-effective-sessions/"><u>Leveraging Zoom Tools to Capture Effective Sessions</u></a></li>
+</ul></div>
 

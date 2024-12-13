@@ -1,7 +1,7 @@
 ---
 title: "Expert Evaluation of the Elgato Stream Deck Neo: Enhancing User Interface for Gamers and Creators Alike"
-date: 2024-08-28T02:02:09.618Z
-updated: 2024-08-29T02:02:09.618Z
+date: 2024-12-05T19:08:12.123Z
+updated: 2024-12-12T21:24:37.649Z
 tags:
   - hardware
 categories:
@@ -80,16 +80,14 @@ Stream Deck Neo has eight customizable keys and an info bar set between two touc
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Neo Is New, But the Idea Is Old
 
 ![Elgato Stream Deck Neo on Desk with its screen off](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/elgato-stream-deck-neo-on-desk.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The Stream Deck is far from a new idea. Elgato has been tinkering with this concept of a desktop control center for years and has put out a lot of variations of it to try and meet different types of people's needs—from advanced streamers to beginner tinkers. What the Neo does specifically is address the entry-level of this market.
@@ -101,15 +99,13 @@ Jerome Thomas / How-To Geek
  If there’s anything I’m not crazy about, it’s the two touch-sensitive areas to the left and right of the information bar. They look nice and allow people to swipe through pages without using any buttons for that task, but there have been moments when they were less than responsive. You need to touch them just right. I never had any problems activating the customizable LCD keys. Those are tactile and satisfying to use.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Elgato’s Stream Deck Software Could Use Some Work
 
 ![close up of Elgato Stream Deck Neo buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/elgato-stream-deck-neo-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The hardware side might be worth getting excited about, but the software side of Stream Decks leaves something to be desired. It’s not that the Elgato Mac app I used was bad, but it could use some streamlining, especially for new users.
@@ -123,16 +119,17 @@ Jerome Thomas / How-To Geek
  Of course, if you do want to spend time with Neo and put in the work to change all the icons and text, it can still do everything other Stream Decks can do. I didn't feel that need beyond testing the functionality. The point is that Neo might be geared toward first-time tinkers, but it's not really limited in how much depth someone could get out of it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Should You Buy the Elgato Stream Deck Neo?
 
 ![Elgato Stream Deck Neo showing media controls](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/elgato-stream-deck-neo.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The [Elgato Stream Deck Neo](https://www.elgato.com/us/en/p/stream-deck-neo) is only one of many controllers the company makes. If it’s too simplified for your needs then there are plenty of other choices, including one with [knobs](https://screen-activity-recording.techidaily.com/2024-approved-the-screen-recorders-journey-a-deep-dive-into-the-best-tools/). What the Neo does well is create a very good on-ramp for casual users who might be overwhelmed with other Stream Decks.
@@ -140,6 +137,10 @@ Jerome Thomas / How-To Geek
  From its look and features to its $99 price, I think the Stream Deck Neo is a great option for anyone looking to have a bit more control over their desktop or laptop without going overboard.
 
 ![Elgato Stream Deck Neo](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/elgato-stream-deck-neo-1-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Elgato Stream Deck Neo
 
@@ -155,8 +156,6 @@ Stream Deck Neo has eight customizable keys and an info bar set between two touc
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +163,26 @@ Stream Deck Neo has eight customizable keys and an info bar set between two touc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-10plus-top-free-youtube-image-extractors/"><u>[New] 2024 Approved 10+ Top FREE YouTube Image Extractors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-free-youtube-outro-kings-6-top-suggestions/"><u>[New] Free YouTube Outro Kings 6 TOP Suggestions!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitter-video-dimensions-aspect-ratio-standards/"><u>[New] Twitter Video Dimensions Aspect Ratio Standards</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-harvest-heartbeats-top-farm-games-for-friendly-fun-for-2024/"><u>[Updated] Harvest Heartbeats Top Farm Games for Friendly Fun for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-innovative-fbx-gametime-tracking-solutions/"><u>2024 Approved Innovative FBX Gametime Tracking Solutions</u></a></li>
+<li><a href="https://facebook.techidaily.com/a-detailed-walkthrough-of-activating-and-using-sleep-mode-in-messenger-kids/"><u>A Detailed Walkthrough of Activating & Using Sleep Mode in Messenger Kids</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/discover-the-ultimate-guide-to-free-xvid-converters-pc-mac-and-online-solutions-compared/"><u>Discover the Ultimate Guide to Free Xvid Converters - PC, Mac, and Online Solutions Compared!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/galaxy-z-fold-5-and-z-flip-n5-unveiled-shop-now-for-latest-foldable-phones/"><u>Galaxy Z Fold 5 & Z Flip N5 Unveiled: Shop Now for Latest Foldable Phones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-connecting-and-using-a-usb-flash-drive-on-android-devices/"><u>Guide: Connecting and Using a USB Flash Drive on Android Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-recover-access-when-you-cant-remember-your-android-devices-security-measures/"><u>How to Recover Access When You Can't Remember Your Android Device's Security Measures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-illustrators-secret-creating-seamless-image-movement/"><u>In 2024, Illustrator's Secret Creating Seamless Image Movement</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-ultimate-selection-top-7-high-definition-camcorders-for-dynamic-shots/"><u>In 2024, Ultimate Selection Top 7 High-Definition Camcorders for Dynamic Shots</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/is-apples-pixel-tablet-a-worthy-competitor-to-the-ipad/"><u>Is Apple's Pixel Tablet a Worthy Competitor to the iPad?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/is-lockscreen-advertising-coming-to-your-new-android-device/"><u>Is Lockscreen Advertising Coming to Your New Android Device?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/making-chatgpt-your-primary-android-speaker-a-step-by-step-guide/"><u>Making ChatGPT Your Primary Android Speaker: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-facetime-on-your-android-device-a-comprehensive-guide/"><u>Mastering FaceTime on Your Android Device: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-silent-mode-managing-android-sound-levels-button-free/"><u>Mastering Silent Mode: Managing Android Sound Levels Button-Free</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximizing-battery-endurance-essential-strategies-for-prolonging-phone-power/"><u>Maximizing Battery Endurance: Essential Strategies for Prolonging Phone Power</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-unlocking-talkshoplive-pros-and-tips-for-live-shopping-success/"><u>New Unlocking TalkShopLive Pros and Tips for Live Shopping Success</u></a></li>
+</ul></div>
 

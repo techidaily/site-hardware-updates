@@ -1,7 +1,7 @@
 ---
 title: "Seamless Android Device Data Transfer: Guide to Connecting with an External Hard Drive"
-date: 2024-08-28T02:04:54.240Z
-updated: 2024-08-29T02:04:54.240Z
+date: 2024-12-06T21:56:35.116Z
+updated: 2024-12-13T04:41:46.876Z
 tags:
   - android
 categories:
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
 
 ![A USB-C flash drive next to an external SSD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/android-external-drive-flash-drive-ssd.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Bertel King / How-To Geek
 
  Let's get all of our equipment in order first. You're going to need [an external drive](https://instagram-videos.techidaily.com/new-understanding-and-executing-photo-gender-modification-across-platforms-for-2024/) and a way to connect that drive to your phone.
@@ -33,9 +37,6 @@ Bertel King / How-To Geek
 
  If you're dealing with a drive without USB-C, then you need a [USB hub](https://some-knowledge.techidaily.com/2024-approved-harmonys-choice-top-10-songs-that-say-yes/) or smartphone docking station with the necessary ports. It will serve as the middleman between your phone and the drive.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What Data Can You Back Up?
 
  Any files that are accessible in your phone's internal storage through the file manager are fair game. That includes any photos or screenshots you've captured on your device, plus anything in your Downloads folder. Then there are the files you may have organized yourself, like the contents of your Documents folder or the songs you've stored in Music. I have folders for eBooks and comics that I keep backed up as well.
@@ -46,9 +47,6 @@ Bertel King / How-To Geek
 
  For many of us, this isn't the data we're concerned about. We either start fresh or [trust Google to keep it in sync](https://fox-hovers.techidaily.com/new-unlock-your-dji-potential-two-devices-get-20-gratis-luts/). It's the other data that may take up too much space or that we don't want to keep in cloud storage.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ##  Download FolderSync
 
  FolderSync is an app that advertises its ability to sync files between your Android device and cloud storage. It's been around for years, and we actually [recommended FolderSync for syncing to the cloud](https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-7-plus-by-drfone-ios/) many years ago.
@@ -58,8 +56,9 @@ Bertel King / How-To Geek
  FolderSync is ad-supported and free to use. You can opt for FolderSync Pro instead for $5.99, but that's not required for anything I'm about to explain.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Sync Folders Using FolderSync
 
  When you first launch FolderSync, there's a lot of functionality visible on-screen at once, which can look rather intimidating. This is often the case with powerful pieces of software. Fortunately, to sync files to an external drive, you can skip over most of it. What you want to look for is the "Create Folder Pair" button, most likely in the bottom right.
@@ -67,8 +66,9 @@ Bertel King / How-To Geek
 ![Create 'folder pair' button in FolderSync on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot_20240401_154542.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  "Folder Pair" isn't a common tech team, but it's pretty straightforward. For FolderSync to do its job, you need to designate a pair of folders to sync with one another. In this case, one will be on your phone, and the second will be on the external drive.
 
  You will also need to tell FolderSync what type of syncing you wish to do. There are three choices:
@@ -87,8 +87,9 @@ Close
 ![Beginning a sync using FolderSync](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot_20240401_155915.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once the syncing process has begun, you're welcome to leave the app to do other things. Your phone will continue to sync in the background. If your external drive is plugged directly into your phone, you may want to leave things alone until the process is done since the process will fail if the cable slips out. On the other hand, if you're [using an Android desktop mode](https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-6-by-drfone-ios/) with a USB hub, you can continue to use your desktop as you would on any other PC.
 
  Repeat this process to create additional folder pairs. You can find any folder pairs you've created by selecting the folder icon in the sidebar on the left.
@@ -96,8 +97,9 @@ Close
 ![Existing folder pairs in FolderSync](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot_20240401_162653.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
  FolderSync is an immensely powerful tool. You can even schedule syncs on a schedule, though this may not be ideal when using an external drive. For the adventurous, there is [Tasker integration](https://phone-solutions.techidaily.com/avchd-on-motorola-moto-g14-convert-mts-for-motorola-moto-g14-by-aiseesoft-video-converter-play-mts-on-android/) that can possibly trigger a backup whenever you plug in your drive, but that's a much more complicated affair.
@@ -108,8 +110,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +117,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-sharpen-aesthetic-focus-learning-border-techniques-for-insta-videos/"><u>[New] 2024 Approved Sharpen Aesthetic Focus Learning Border Techniques for Insta-Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tis-the-tape-a-1992-rewind-at-goofys-cinema/"><u>2024 Approved 'Tis the Tape!' A 1992 Rewind at Goofy's Cinema</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/access-downloads-for-universal-pci-device-software-supporting-all-windows-11-10-8-and-7-systems/"><u>Access Downloads for Universal PCI Device Software Supporting All Windows 11, 10, 8, and 7 Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-for-the-ordinary-person-claude-versus-gpt-analysis/"><u>AI for the Ordinary Person: Claude Versus GPT Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amds-latest-breakthrough-zen-ebrushing-details-on-compact-core-reduction-and-innovative-soc-with-enhanced-dual-ccx-configuration/"><u>AMD's Latest Breakthrough: Zen Ebrushing Details on Compact Core Reduction & Innovative SoC with Enhanced Dual CCX Configuration</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-guide-get-the-latest-elan-smbus-driver-for-windows-systems/"><u>Easy Installation Guide: Get the Latest ELAN SMBus Driver for Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-instructions-download-and-install-brother-l2absolutely-here-are-five-new-seo-friendly-titles-similar-to-brother-mfc-l2700dw-driver-download-and-install28/"><u>Easy Instructions: Download and Install Brother L2absolutely, Here Are Five New SEO-Friendly Titles Similar to Brother MFC-L2700DW Driver Download & Install for Windows:</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-amd-ryzen-itwrkzn-thri-sntikwnditizdrivers/"><u>Get the Latest AMD Ryzen ˈiːtwɜrkzɪn Θriː ˈsɛntiːkwʌnˌdʒiːtizdrivers</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-nokia-g310-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-11-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 11 Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-m705-driver-download-and-update-easily/"><u>Logitech M705 - Driver Download and Update Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-6-fixes-for-resolving-pc-issues-with-activisions-modern-warfare-ii-game/"><u>Top 6 Fixes for Resolving PC Issues with Activision's Modern Warfare II Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/untangling-the-issue-why-does-wwe-2k22-keep-freezing-and-crashing-on-my-computer/"><u>Untangling the Issue: Why Does WWE 2K22 Keep Freezing & Crashing on My Computer?</u></a></li>
+</ul></div>
 

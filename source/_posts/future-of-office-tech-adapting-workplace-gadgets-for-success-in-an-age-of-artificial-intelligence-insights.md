@@ -1,7 +1,7 @@
 ---
 title: "Future of Office Tech: Adapting Workplace Gadgets for Success in an Age of Artificial Intelligence - Insights"
-date: 2024-12-05T20:07:48.724Z
-updated: 2024-12-06T17:23:16.750Z
+date: 2024-12-10T00:47:26.584Z
+updated: 2024-12-12T19:02:51.632Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,15 +134,15 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-safaris-picture-in-picture-feature-usage-guide/"><u>[Updated] Safari's Picture-in-Picture Feature Usage Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-examination-of-samsung-photo-editor-features/"><u>[Updated] The Ultimate Examination of Samsung Photo Editor Features</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-unleash-your-inner-tech-wizard-xbox-one-snapshot-secrets-revealed-for-2024/"><u>[Updated] Unleash Your Inner Tech Wizard Xbox One Snapshot Secrets Revealed for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862755483-249-for-a-premium-34-inch-asus-tuf-curved-gaming-screen-shop-now-on-amazon/"><u>$249 for a Premium 34-Inch Asus TUF Curved Gaming Screen - Shop Now on Amazon!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/activating-hyper-v-on-your-windows-11-pc/"><u>Activating Hyper-V on Your Windows 11 PC</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-make-movies-for-free-top-rated-video-editing-software/"><u>New 2024 Approved Make Movies for Free Top-Rated Video Editing Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-samsung-2nd-generation-55-oled-gaming-monitor-now-at-record-lifetime-low/"><u>Unbeatable Deal: Samsung 2Nd Generation 55 OLED Gaming Monitor Now at Record Lifetime Low!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-gadgets-and-pc-building-with-toms-hardware-experts/"><u>Unveiling Gadgets & PC Building with Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrading-your-setup-with-toms-computer-components/"><u>Upgrading Your Setup with Tom's Computer Components</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/260957-9781101203163-whats-missing/"><u>What's Missing? | Free Book</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-bridging-gaps-online-effective-techniques-for-screenshare-on-fb/"><u>[New] In 2024, Bridging Gaps Online Effective Techniques for Screenshare on FB</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-best-10-no-cost-video-conferencing-solutions-unveiled/"><u>[Updated] 2024 Approved Best 10 No-Cost Video Conferencing Solutions Unveiled</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tweeted-cinematics-from-video-to-wavmp3/"><u>[Updated] In 2024, Tweeted Cinematics From Video to WAV/MP3</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimizing-video-meetings-with-tighter-focus-areas/"><u>[Updated] Optimizing Video Meetings with Tighter Focus Areas</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-flight-dynamics-unveiling-bebops-parrot-capabilities/"><u>2024 Approved Flight Dynamics Unveiling Bebop’s Parrot Capabilities</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-with-windows-1187-newest-driver-releases-for-tp-links-ac-wireless-network-adapters/"><u>Compatible with Windows 11/8/7 – Newest Driver Releases for TP-Link's AC Wireless Network Adapters</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-install-m-audio-fast-track-dac-software-setup-for-multiple-windows-versions-10788n/"><u>Easy Install: M-Audio Fast Track DAC Software Setup for Multiple Windows Versions (10/7/8/8.n)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-g-prodigy-gaming-mouse-driver-and-installation-package-download/"><u>Logitech G Prodigy Gaming Mouse Driver & Installation Package Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/loongson-unveils-the-power-of-its-newest-16-core-3c-paralleling-intels-ice-lake-16-core-chip/"><u>Loongson Unveils the Power of Its Newest 16-Core 3C, Paralleling Intel's Ice Lake 16-Core Chip</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211266220-9798887936321-moment-of-the-broken-covenant/"><u>Moment of the Broken Covenant | Free Book</u></a></li>
 </ul></div>
 

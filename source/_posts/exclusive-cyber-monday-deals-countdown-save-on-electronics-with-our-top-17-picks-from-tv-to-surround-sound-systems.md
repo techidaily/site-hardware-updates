@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Cyber Monday Deals Countdown: Save on Electronics with Our Top 17 Picks From TV to Surround Sound Systems"
-date: 2024-12-03T20:14:47.884Z
-updated: 2024-12-06T19:24:43.293Z
+date: 2024-12-09T03:01:52.073Z
+updated: 2024-12-13T00:32:35.354Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Black Friday and Cyber Monday just passed, but that doesn't mean you have to giv
 [![04-bf-cm.png](https://www.zdnet.com/a/img/resize/954e855aae296b0590d40ff6eba4167fd27f3d67/2022/11/29/2911e8eb-1a11-4aa3-8ff7-015c7e854046/04-bf-cm.png?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Black Friday and Cyber Monday tech deals still available If you missed out on this year's mega sale events, no problem. ZDNET is rounding up the best tech deals still available, right here.  Read now](https://www.zdnet.com/collection/cyber-monday/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Target has an expansive catalog of items on sale, but we only picked items that have at least a 20% discount since we know there's lots of gift-giving going on. We included all kinds of devices, from smartwatches to TVs and wireless headphones. So, if you're looking for a discount, we've got you covered. 
@@ -31,6 +31,10 @@ Target has an expansive catalog of items on sale, but we only picked items that 
 If you're doing all or most of your holiday shopping at Target, it's important to know that the prices included in this list are how much you'll pay if you buy the item online, and prices will vary if you decide to buy an item in-store. Typically, buying online is cheaper, regardless of whether you then have it shipped or pick it up from the store. 
 
 If you're looking for all holiday deals, our experts searched other major retailers, like [Walmart](https://www.zdnet.com/article/walmart-early-cyber-monday-deals-november-27-2022/), [Costco](https://www.zdnet.com/home-and-office/costco-early-cyber-monday-deals-november-27-2022/), [Best Buy](https://www.zdnet.com/article/best-buy-early-cyber-monday-deals-november-27-2022/), [Amazon](https://www.zdnet.com/article/amazon-early-cyber-monday-deals-november-27-2022/), and [Newegg](https://www.zdnet.com/article/newegg-early-cyber-monday-deals-november-27-2022/) to help you find the [best Cyber Monday deals](https://www.zdnet.com/article/best-early-cyber-monday-deals-november-27-2022/) still available. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Best Target Cyber Monday deals**
 
@@ -70,7 +74,7 @@ Amazon's streaming media player includes 4K viewing, live and free TV channels, 
 [View now at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Famazon-fire-tv-stick-with-4k-ultra-hd-streaming-media-player-and-alexa-voice-remote-2nd-generation%2F-%2FA-54188026%23lnk%3Dsametab&publisher_slug=itechdaily19598&exclusive=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Target Cyber Monday Smartwatch Deals**
@@ -78,7 +82,7 @@ Amazon's streaming media player includes 4K viewing, live and free TV channels, 
 [Garmin Venu 2S Smartwatch for $300 (save $50) $300 at Garmin](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.garmin.com/en-US/p/707572/pn/010-02429-01)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Target Cyber Monday headphones deals**
@@ -91,10 +95,6 @@ Amazon's streaming media player includes 4K viewing, live and free TV channels, 
 
 [Bose QuietComfort 45 wireless bluetooth noise-cancelling headphones for $230 (save $100) $230 at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fbose-quietcomfort-45-wireless-bluetooth-noise-cancelling-headphones%2F-%2FA-84692788%3Fpreselect%3D82797330%23lnk%3Dsametab&publisher%5Fslug=zdnet&article%5Fname=17%20best%20target%20cyber%20monday%20deals%20still%20available%20in%202022%3A%20tvs%2C%20headphones%2C%20speakers%20on%20sale&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Ftarget-best-holiday-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Target Cyber Monday streaming device deals**
 
 [Roku 4K Streaming Stick with voice control for $25 (save $25) $25 at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Froku-streaming-stick-4k-2021-streaming-device-4k-hdr-dolby-vision-with-voice-remote-and-tv-controls-3820r%2F-%2FA-52709600%23lnk%3Dsametab&publisher%5Fslug=zdnet&article%5Fname=17%20best%20target%20cyber%20monday%20deals%20still%20available%20in%202022%3A%20tvs%2C%20headphones%2C%20speakers%20on%20sale&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Ftarget-best-holiday-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -105,10 +105,6 @@ Amazon's streaming media player includes 4K viewing, live and free TV channels, 
 
 [Vizio 50-inch Class M6 4K QLED Smart TV for $400 (save $130) $400 at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fvizio-50-34-class-m6-series-4k-qled-hdr-smart-tv-with-dolby-vision-voice-remote-and-gaming-engine-m50q6-j01%2F-%2FA-86871198%23lnk%3Dsametab&publisher%5Fslug=zdnet&article%5Fname=17%20best%20target%20cyber%20monday%20deals%20still%20available%20in%202022%3A%20tvs%2C%20headphones%2C%20speakers%20on%20sale&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Ftarget-best-holiday-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Target Cyber Monday speaker deals**
 
 [Bose SoundLink Revolve Plus II portable bluetooth speaker for $230 (save $100) $230 at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fbose-soundlink-revolve-plus-ii-portable-bluetooth-speaker%2F-%2FA-82224654%3Fpreselect%3D82077495%23lnk%3Dsametab&publisher%5Fslug=zdnet&article%5Fname=17%20best%20target%20cyber%20monday%20deals%20still%20available%20in%202022%3A%20tvs%2C%20headphones%2C%20speakers%20on%20sale&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Ftarget-best-holiday-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -118,6 +114,10 @@ Amazon's streaming media player includes 4K viewing, live and free TV channels, 
 [Bose SoundLink Micro bluetooth speaker for $90 (save $30) $90 at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fbose-soundlink-micro-bluetooth-speaker%2F-%2FA-52980540%3Fpreselect%3D52808617%23lnk%3Dsametab&publisher%5Fslug=zdnet&article%5Fname=17%20best%20target%20cyber%20monday%20deals%20still%20available%20in%202022%3A%20tvs%2C%20headphones%2C%20speakers%20on%20sale&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Ftarget-best-holiday-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 [Google Nest Mini (2nd generation) for $20 (save $29) $20 at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fgoogle-nest-mini-2nd-generation%2F-%2FA-78589456&publisher%5Fslug=zdnet&article%5Fname=17%20best%20target%20cyber%20monday%20deals%20still%20available%20in%202022%3A%20tvs%2C%20headphones%2C%20speakers%20on%20sale&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Ftarget-best-holiday-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose Cyber Monday deals at Target?
 
@@ -133,6 +133,10 @@ Black Friday is always the Friday following Thanksgiving Day. This year, Black F
 
 Cyber Monday is the Monday after Thanksgiving and is when most online retailers have a holiday sale. This year, Cyber Monday was on Nov. 28.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the best holiday deals 2022?
 
 ZDNET scoured holiday sales to find the best deals this year:
@@ -140,10 +144,6 @@ ZDNET scoured holiday sales to find the best deals this year:
 * [The best holiday 2022 deals](https://www.zdnet.com/article/best-early-black-friday-deals-amazon-walmart-best-buy-and-more/)
 
 Our experts split out the best deals by retailer, brand, and category, which you can see below. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Holiday deals by retailer**
 
@@ -235,20 +235,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/a-hidden-gem-in-top-office-gadgets-the-most-underappreciated-2-in-1-device-of-the-year-insights/"><u>A Hidden Gem in Top Office Gadgets: The Most Underappreciated 2-in-1 Device of the Year - Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/affordable-alternative-top-recommended-windows-laptop-now-beats-macbook-air-price-and-offers-a-sale-insights/"><u>Affordable Alternative: Top-Recommended Windows Laptop Now Beats MacBook Air Price & Offers a Sale - Insights</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/essential-instagram-video-and-photo-downloads-guide/"><u>Essential Instagram Video & Photo Downloads Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-vivo-v29e-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Vivo V29e To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14?</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/navigating-canadian-voip-landscape-with-a-closer-look-at-fongo/"><u>Navigating Canadian VOIP Landscape with a Closer Look at Fongo</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/prime-day-savings-alert-unveiling-an-exceptional-lenovo-and-dell-alternative-the-ultimate-guide-to-choosing-a-budget-friendly-2-in-1-laptop-by-zdnet-experts13/"><u>Prime Day Savings Alert! Unveiling an Exceptional, Lenovo & Dell Alternative: The Ultimate Guide to Choosing a Budget-Friendly 2-in-1 Laptop by ZDNET Experts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/quick-solutions-for-the-crashy-windows-11-photos-app-for-2024/"><u>Quick Solutions for the Crashy Windows 11 Photos App for 2024</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/simplify-your-billing-mastering-invoicing-with-abbyy-and-m-files-solutions/"><u>Simplify Your Billing: Mastering Invoicing with ABBYY & M-Files Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-the-hp-victus-15-gamers-dream-at-a-steal-just-515-with-exclusive-best-buy-prime-day-blowout-learn-how/"><u>Snag the HP Victus 15 Gamer's Dream at a Steal: Just $515 With Exclusive Best Buy Prime Day Blowout – Learn How !</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snap-up-the-bargain-exclusive-amazon-offer-with-36-off-samsung-t5-8tb-ssd-after-prime-revealed-by-zdnet/"><u>Snap Up the Bargain: Exclusive Amazon Offer with 36% Off Samsung T5 8TB SSD After Prime - Revealed by ZDNet</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/the-fastest-way-to-trim-avi-files-a-quick-and-easy-guide/"><u>The Fastest Way to Trim AVI Files A Quick and Easy Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-5-metodi-gratis-per-ridurre-le-dimensioni-dei-file-video-in-formato-mkv/"><u>Top 5 Metodi Gratis per Ridurre Le Dimensioni Dei File Video in Formato Mkv</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiled-top-performing-computers-from-the-2024-consumer-electronics-show-insights/"><u>Unveiled: Top-Performing Computers From the 2024 Consumer Electronics Show – Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-samsungs-latest-copilotplus-pc-enhancements-advanced-ai-integration-highlighted-by-zdnet/"><u>Unveiling Samsung’s Latest Copilot+ PC Enhancements: Advanced AI Integration Highlighted by ZDNet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-youtubes-image-files-made-simple-online-desktop-and-terminal-steps/"><u>[New] 2024 Approved Youtube’s Image Files Made Simple Online, Desktop & Terminal Steps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-mp3-from-twitter-media-simple-extraction-techniques/"><u>[New] In 2024, MP3 From Twitter Media Simple Extraction Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-live-stream-frontier-deciding-between-obs-and-twitch-space/"><u>[New] Live Stream Frontier Deciding Between OBS and Twitch Space</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-collaborative-filmmaking-teamwork-in-producing-instagram-content/"><u>[Updated] Collaborative Filmmaking Teamwork in Producing Instagram Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-prime-nintendo-switch-fighting-game-guide-max-156-for-2024/"><u>[Updated] Prime Nintendo Switch Fighting Game Guide (Max 156) for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/domestication-challenges-domesticating-ophiocordyceps-sinensis/"><u>Domestication Challenges: Domesticating Ophiocordyceps Sinensis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-hp-officejet-4650-printer-drivers-on-windows-os/"><u>Download and Install HP OfficeJet 4650 Printer Drivers on Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/epson-v500-scanner-software-free-download-and-install-guide/"><u>Epson V500 Scanner Software: FREE Download & Install Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-joy-of-journeys-end-innovative-box-revelations/"><u>In 2024, The Joy of Journey's End Innovative Box Revelations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-conversation-mike-clark-unveils-the-future-with-amds-zen-5-and-compact-core-innovations/"><u>Inside Conversation: Mike Clark Unveils the Future with AMD's Zen-5 & Compact Core Innovations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keeping-your-pcs-wireless-connectivity-fresh-with-windows-1110-driver-updates/"><u>Keeping Your PC's Wireless Connectivity Fresh with Windows 11/10 Driver Updates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-850-evo-ssd-software-download-the-latest-drivers/"><u>Samsung 850 EVO SSD Software: Download the Latest Drivers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-verdict-on-netgears-ex3700-wireless-repeater-ac750-performance-and-features/"><u>The Ultimate Verdict on Netgear's EX3700 Wireless Repeater (AC750) - Performance & Features</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-synaptics-driver-software-for-windows-quick-download-and-installation-tutorials/"><u>Updated Synaptics Driver Software for Windows: Quick Download & Installation Tutorials</u></a></li>
+<li><a href="https://blog-min.techidaily.com/flv-mpg/"><u>없는 비용 - FLV에서 MPG로 전환하기 : 모바일 가능한 원활한 해결 방법</u></a></li>
 </ul></div>
 

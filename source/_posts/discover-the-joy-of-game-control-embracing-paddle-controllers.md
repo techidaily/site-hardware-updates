@@ -1,7 +1,7 @@
 ---
 title: "Discover the Joy of Game Control: Embracing Paddle Controllers"
-date: 2024-08-28T02:00:01.910Z
-updated: 2024-08-29T02:00:01.910Z
+date: 2024-12-07T01:45:12.279Z
+updated: 2024-12-12T22:37:12.244Z
 tags:
   - hardware
 categories:
@@ -27,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/6063dc83bc10f2ac67f5a169d3251f5108aeff047
  The best thing about my 8Bitdo Ultimate 2.4G controller is the pair of paddle buttons on the back. Add to that the fact that both my Steam Deck and ROG Ally come with paddle buttons and I’ve gotten so used to this setup that I don’t want to game with an old-fashioned controller anymore.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Controls Hard to Reach? Remap to a Rear Paddle
 
  During the initial couple of weeks of using the [8Bitdo Ultimate 2.4G](https://www.amazon.com/Ultimate-Wireless-Controller-Joystick-Gaming-Console/dp/B0CPXZKWY5?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002816&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fheres-why-i-love-using-a-paddle-controller-for-gaming%2F&asc%5Fcampaign=Evergreen), I didn’t pay much attention to its paddle buttons. But then I installed _Hi-Fi Rush_ and found that the dodge, mapped to the right bumper by default, is somewhat hard to reach because of where I usually rest my index fingers. This being a rhythm-based brawler, nailing dodge each time in sync with the rhythm was tiring and sort of hard to pull off.
@@ -38,18 +39,15 @@ thumbnail: https://thmb.techidaily.com/6063dc83bc10f2ac67f5a169d3251f5108aeff047
 ![Steam Deck OLED With a Focus on the new, orange, power button against a pitch black background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/steam-deck-oled-power-button.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Valve
 
  This was around the time I purchased a Steam Deck, which has _four_ paddle buttons. So, naturally, I started mapping bumpers to the paddles in most games, especially those that have moves you often use mapped to one or both triggers. Since then, I've never looked back.
 
  Considering that I have medium-sized hands, I found that using paddles is much more convenient than having to reach for bumpers. Nowadays, I use paddles instead of bumpers in most games I play. If you have small hands, I reckon back paddles could massively improve your gaming experience, especially on devices like the Steam Deck, which is not very friendly to gamers with small hands.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ##  Rear Paddles Make Some Control Schemes Easier to Use
 
  But that’s not all. The two buttons I hate using on every controller are the thumbstick clicks, also known as L3 or LS and R3 or RS. They are hard to press on most controllers, yet you end up accidentally pressing them in high-tension moments, usually right when you don't want to. The most egregious example of a game with annoying L3/R3 mappings I’ve found to date is _Everspace 2_. A highly enjoyable spaceship shooter but, as those usually go, a game with a highly convoluted control scheme.
@@ -58,14 +56,15 @@ The ultimate burning program for all your needs!</a>
 
 ![rear-of-the-asus-rog-ally-3jpg_53307363035_o](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/rear-of-the-asus-rog-ally-3jpg_53307363035_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  The solution is to remap L3 and R3 to the paddles, and the result is glorious. I can’t explain just how delightful it is not to have to press and hold the thumbsticks and instead use easy-to-reach and easy-to-press paddle buttons. Because of this, I even forgo using one of the two paddle buttons on my ROG Ally as a modifier in _Everspace 2_.
 
  Paddle buttons also allowed me to finally try playing racing games with manual transmission. I just can’t bother using manual on a regular controller because it’s either mapped to the bumpers, which are hard to reach, or face buttons, which leads to me pressing the wrong button in tense moments. Now, I can finally enjoy driving cars with manual shifting without needing a wheel, which is great considering [I much prefer gaming on my handhelds](https://visual-screen-recording.techidaily.com/new-2024-approved-utilizing-internal-screen-recording-on-huaweis-mate-1020-and-p-models-p20-p10/) than on my PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  A Paddle Controller Gives Me an Edge in Multiplayer Games
 
@@ -76,8 +75,9 @@ Hannah Stryker / How-To Geek
  In shooters like _Call of Duty_, on the other hand, I can reload, jump, and crouch or slide without taking my thumb off the right thumbstick. This means I can always adjust my aim, even while reloading or sliding. For console players who have little choice but to use a controller, this can be a huge boon. You can get [a similar advantage](https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-v29e-drfone-by-drfone-virtual-android/) in other FPS games since most of them have frequently used moves mapped to face buttons.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  On Steam Deck and ROG Ally, Rear Paddles Take Things to the Next Level
 
  While a regular paddle button controller is brilliant, rear buttons being natively supported, like on the Steam Deck and ROG Ally, is even better. On the two handhelds, you aren’t limited to copying other button mappings; you can map anything you like, including keyboard keys and key combos. On the Ally, I can use one of the two paddles as a modifier, practically doubling the number of buttons available.
@@ -87,8 +87,9 @@ Hannah Stryker / How-To Geek
 ![Sony's DualSense Edge controller rear paddles.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/dualsense_paddles.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sony
 
  I just hope Microsoft, Sony, and Nintendo start natively supporting rear paddles sooner or later, and bring paddle buttons to their base controllers instead of keeping them exclusive to the [Xbox Elite](https://www.amazon.com/Elite-2-Controller-Black-Xbox-One/dp/B07SFKTLZM?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002816&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fheres-why-i-love-using-a-paddle-controller-for-gaming%2F&asc%5Fcampaign=Evergreen) and [DualSense Edge](https://www.amazon.com/PlayStation-DualSense-Edge-Wireless-Controller-5/dp/B0BSYFB99D?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002816&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fheres-why-i-love-using-a-paddle-controller-for-gaming%2F&asc%5Fcampaign=Evergreen) controllers. That way, everyone would be able to remap any control they want to the paddles, and developers would also get two, maybe even four, extra buttons at their disposal, ending the era of multiple inputs mapped to a single controller button.
@@ -103,8 +104,6 @@ Sony
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +111,24 @@ Sony
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-capturing-memories-efficiently-phones-screen-save-for-snaps/"><u>[New] In 2024, Capturing Memories Efficiently Phones' Screen Save for Snaps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-how-to-use-youtube-analytics-to-grow-your-channel/"><u>[New] In 2024, How to Use YouTube Analytics to Grow Your Channel</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-polar-performances-ultimate-beijing-olympics-scoop-for-2024/"><u>[Updated] Polar Performances Ultimate Beijing Olympics Scoop for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-crossroads-of-full-time-work-and-youtube/"><u>2024 Approved Navigating the Crossroads of Full-Time Work & YouTube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-instructions-for-downloading-and-setting-up-the-hp-laserjet-pro-m402n-driver-in-windows/"><u>Complete Instructions for Downloading and Setting Up the HP LaserJet Pro M402n Driver in Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cross-continental-chatgpt-access-made-easy/"><u>Cross-Continental ChatGPT Access Made Easy</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fast-gigabit-connectivity-fresh-driver-update-for-windows-usb-30-ethernet-cards/"><u>Fast Gigabit Connectivity – Fresh Driver Update for Windows USB 3.0 Ethernet Cards</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixing-issues-with-amd-rx-on-various-windows-versions-windows-11-to-7-solutions/"><u>Fixing Issues with AMD RX 지원자 on Various Windows Versions: Windows 11 to 7 Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/freshly-released-upgrade-to-the-latest-intel-wireless-drivers-for-win11-and-win10-devices/"><u>Freshly Released: Upgrade to the Latest Intel Wireless Drivers for Win11 and Win10 Devices</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-dissecting-pickus-dominance-in-android-photo-editing-tools/"><u>In 2024, Dissecting PickU's Dominance in Android Photo Editing Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-gear-evaluations-by-tom-the-tech-enthusiasts-resource/"><u>In-Depth Gear Evaluations by Tom: The Tech Enthusiast's Resource</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-new-drivers-for-corsair-keyboards-on-windows-pcs-secure-and-free-of-charge/"><u>Install New Drivers for Corsair Keyboards on Windows PCs – Secure and Free of Charge</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-canon-pixma-mx922-driver-updates-for-windows-users-installation-tutorial/"><u>Latest Canon PIXMA MX922 Driver Updates for Windows Users: Installation Tutorial</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-overcoming-windows-compatibility-issues-with-your-xbox-360-ds4-controller/"><u>Troubleshooting Guide: Overcoming Windows Compatibility Issues with Your Xbox 360 DS4 Controller</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-from-webm-to-mp4-the-top-10-conversion-tools-you-need/"><u>Updated In 2024, From WebM to MP4 The Top 10 Conversion Tools You Need</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/whats-new-in-nvidia-geforce-210-driver-version-for-windows-10-systems/"><u>What's New in NVIDIA GeForce 210 Driver Version for Windows 10 Systems</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How Sufficient Is an 8GB Graphics Card for Gaming? The Answer Varies by Game
-date: 2024-08-28T02:02:14.388Z
-updated: 2024-08-29T02:02:14.388Z
+date: 2024-12-07T03:39:53.284Z
+updated: 2024-12-12T18:26:06.748Z
 tags:
   - hardware
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The latest and greatest AAA games can use a boatload of video memory when you crank the visuals to high or ultra. With such an insatiable appetite for VRAM, is an 8GB GPU enough to play the latest games in 2024? I've got an 8GB GPU, and here's what I've learned.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8GB of Memory Is Plenty for Indie, eSports, and Older Games
 
  Gamers who play less demanding indie titles, eSports multiplayer games, and older AAA games (released in 2020 and earlier) shouldn’t worry about their 8GB GPUs. I have yet to have any issues playing these types of games, even at my monitor's native 1440p ultrawide resolution (3440x1440).
@@ -29,6 +33,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A screenshot of a virtual bar from the game "Cyberpunk 2077."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-06-204942.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Cianna Garrison / How-To Geek
 
 "Cyberpunk 2077"
@@ -37,9 +45,6 @@ Cianna Garrison / How-To Geek
 
  But I haven't let that stop me. I’ve managed to play it at 1080p with ray-traced reflections and ray-traced lighting set to ultra with DLSS Balanced, with a few performance drops due to the game filling up the memory buffer at some specific places, such as when you enter Afterlife.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Things Get Complicated With Newer AAA Games
 
  If you’re eyeing AAA games released in 2021 and later, 8GB of video memory will limit performance in some scenarios. For example, _Forza Horizon 5_, released in the second part of 2021, runs fine with textures set to extreme, even though the game hits you with a low memory warning minutes after you start driving.
@@ -49,8 +54,9 @@ Cianna Garrison / How-To Geek
 ![A screenshot of a virtual Corvette driving in a race from the game "Forza Horizon 5."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-01-172430.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Cianna Garrison / How-To Geek
 
 "Forza Horizon 5"
@@ -78,16 +84,17 @@ _Returnal_ is another game I had to play with textures on high instead of ultra 
 ![GIGABYTE GeForce RTX 4060 GAMING OC against an orange background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gigabyte-geforce-rtx-4060-gaming-oc-best-graphics-cards-01.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 _GIGABYTE_
 
  When it comes to ray tracing, you can forget about it in most cases. Some 8GB GPUs, such as the RTX 4060 and RTX 4060 Ti 8GB, can give you playable frame rates at 1080 with RT effects and [DLSS frame generation](https://fox-blue.techidaily.com/add-music-in-premiere-pro-for-2024/) in games that support the technology. In most instances, however, turning on ray tracing eye candy and using high textures results in massive performance drops. You can play some older games with ray tracing effects enabled, but in general, 8GB GPUs aren’t enough for ray tracing in 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Should You Buy an 8GB GPU in 2024?
 
  Unless you’re shopping for a budget graphics card you plan on using for 1080p or 1440p gaming, you should avoid 8GB GPUs in 2024\. Future AAA games can only become more demanding, and you shouldn’t limit yourself to medium texture quality unless you’re gaming on a budget.
@@ -102,8 +109,6 @@ _GIGABYTE_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +116,23 @@ _GIGABYTE_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-essential-video-editing-apps-for-youtube-creators/"><u>[New] 2024 Approved Essential Video Editing Apps for YouTube Creators</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-mac-users-guide-to-snapchat-integration-for-2024/"><u>[New] Mac Users' Guide to Snapchat Integration for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-pushing-boundaries-in-video-production-acquire-free-green-screen-expertise-from-4-youtube-gurus/"><u>[New] Pushing Boundaries in Video Production Acquire Free Green Screen Expertise From 4 YouTube Gurus</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lightning-fast-visualization-for-win11-users/"><u>[Updated] Lightning-Fast Visualization for Win11 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazing-61-screen-size-explore-the-best-phones-with-large-e-ink-displays/"><u>Amazing 6.1 Screen Size: Explore the Best Phones with Large E-Ink Displays!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-premier-free-software-for-effortless-avi-video-format-conversion-and-editing/"><u>Discover the Premier Free Software for Effortless AVI Video Format Conversion and Editing!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/extend-your-devices-lifespan-with-oppos-innovative-regenerating-phone-battery-technology/"><u>Extend Your Device's Lifespan with Oppo's Innovative, Regenerating Phone Battery Technology</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/lock-and-load-effortless-profile-url-addition-on-tiktok/"><u>Lock-and-Load Effortless Profile URL Addition on TikTok</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-vs-old-choosing-between-the-latest-mid-range-phones-and-previous-generation-flagships/"><u>New Vs. Old: Choosing Between the Latest Mid-Range Phones and Previous Generation Flagships</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/rising-trend-increasing-popularity-of-purchasing-pre-owned-mobile-devices/"><u>Rising Trend: Increasing Popularity of Purchasing Pre-Owned Mobile Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/stand-out-in-the-digital-realm-selecting-unique-youtube-channel-names-for-2024/"><u>Stand Out in the Digital Realm Selecting Unique YouTube Channel Names for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-how-to-properly-exit-programs-on-your-android-smartphone-or-tablet/"><u>Step-by-Step Tutorial: How to Properly Exit Programs on Your Android Smartphone or Tablet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-mobile-reading-wins-choosing-ebooks-for-iphone-over-kindle-devices/"><u>Why Mobile Reading Wins: Choosing Ebooks for iPhone over Kindle Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-your-phone-deserves-two-usb-c-ports-a-case-for-enhanced-convenience-and-power-sharing/"><u>Why Your Phone Deserves Two USB-C Ports: A Case for Enhanced Convenience and Power Sharing</u></a></li>
+</ul></div>
 

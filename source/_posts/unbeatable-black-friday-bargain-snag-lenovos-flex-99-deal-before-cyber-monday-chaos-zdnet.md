@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Black Friday Bargain: Snag Lenovo's Flex 지난에 $99 Deal Before Cyber Monday Chaos | ZDNET"
-date: 2024-12-01T16:56:38.429Z
-updated: 2024-12-07T00:10:04.510Z
+date: 2024-12-06T02:28:47.781Z
+updated: 2024-12-12T17:47:15.897Z
 tags:
   - laptops
 categories:
@@ -16,7 +16,7 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 Cyber Monday is one of the best times of the year to purchase your next laptop or tablet. Considerable discounts plus major brands equal unparalleled savings. Say you're working within a limited budget, though -- under $100 or under $500\. I compared the best laptops by their standout features, including processing power, RAM, and operating system, to arrive at the best laptop under $500 and under $100 this Cyber Monday.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -24,7 +24,7 @@ Cyber Monday is one of the best times of the year to purchase your next laptop o
 [![04-bf-cm.png](https://www.zdnet.com/a/img/resize/954e855aae296b0590d40ff6eba4167fd27f3d67/2022/11/29/2911e8eb-1a11-4aa3-8ff7-015c7e854046/04-bf-cm.png?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Black Friday and Cyber Monday tech deals still available If you missed out on this year's mega sale events, no problem. ZDNET is rounding up the best tech deals still available, right here.  Read now](https://www.zdnet.com/collection/cyber-monday/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In the under $500 category, you get the highest savings on the [HP Pavilion 15t-eg200 laptop](https://www.tkqlhce.com/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-pavilion-laptop-15t-eg200-laptop-4u8e0av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The 15.6-inch laptop is on sale through HP for $450 -- a markdown of $450 from its original $900 price. It comes with a Windows 11 Home operating system, an Intel® Core™ i5 processor, an Intel® Iris® Xe Graphics card, 8 GB memory, and 256 GB storage. It has a fingerprint reader, a long lasting battery that supports fast charging of about 50% in 45 minutes, and an HD wide vision 720p HD camera that's perfect for Zoom calls with noise reduction and integrated microphones. 
@@ -73,18 +73,15 @@ If your budget is in the under $100 category, and you want the best value for yo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-the-ultimate-list-of-shopping-destinations-for-customizable-presents/"><u>[New] The Ultimate List of Shopping Destinations for Customizable Presents</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-embracing-tradition-with-the-new-generation-of-lgs-wear-os-smartwatches/"><u>Comprehensive Analysis: Embracing Tradition with The New Generation of LG's Wear OS Smartwatches</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/cooler-masters-super-ultrawide-gaming-monitor-a-giant-57-inch-dual-4k-mini-led-display-perfect-for-gamers/"><u>Cooler Master's Super Ultrawide Gaming Monitor: A Giant 57-Inch, Dual-4K, Mini LED Display Perfect for Gamers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cr2-jpeg-movavi/"><u>CR2 파일을 쉽게 JPEG로 변환하기 – 무료 웹 서비스 Movavi</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/delving-into-computer-gear-top-picks-from-toms-hardware-experts/"><u>Delving Into Computer Gear - Top Picks From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-advanced-gadgets-and-pc-parts-trustworthy-insights-from-toms-domain/"><u>Discover Advanced Gadgets & PC Parts: Trustworthy Insights From Tom's Domain</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/dvdpalntsc/"><u>DVDフォーマットのPAL/NTSC変換について学ぶ - ステップバイステップチュートリアル</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-opinions-on-computer-equipment-from-toms-hardware-hub/"><u>Expert Opinions on Computer Equipment From Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/explore-the-latest-in-tech-with-toms-hardware-review/"><u>Explore the Latest in Tech with Tom's Hardware Review</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719168976644-gaming-revolution-embracing-the-power-of-oled-monitors/"><u>Gaming Revolution: Embracing the Power of OLED Monitors.</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-bridging-the-gap-luts-from-cg-central-to-movie-colors/"><u>In 2024, Bridging the Gap Luts From CG Central to Movie Colors</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-zoom-recording-101-a-practical-approach/"><u>In 2024, Zoom Recording 101 A Practical Approach</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unlock-your-system-quick-ndis-solutions/"><u>Unlock Your System: Quick NDIS Solutions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/xpert-mp3-creation-guide-top-video-to-audio-devices/"><u>[New] Expert MP3 Creation Guide Top Video-to-Audio Devices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-understanding-facebooks-new-ranking-system-for-2024/"><u>[Updated] Understanding Facebook's New Ranking System for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-to-installing-toshiba-printer-software-in-windows-environments/"><u>Comprehensive Guide to Installing Toshiba Printer Software in Windows Environments</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-how-walmartplus-offers-unmatched-shopping-value/"><u>Exploring How Walmart+ Offers Unmatched Shopping Value</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-logitech-g-pro-wireless-controller-download-now-for-windows/"><u>Get Your Hands on Logitech G PRO Wireless Controller – Download Now for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-the-correct-dell-wireless-drivers/"><u>How to Download and Install the Correct Dell Wireless Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-live-sound-input-for-obs-on-windows-11/"><u>How to Enable Live Sound Input for OBS on Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-the-latest-amd-gpu-drivers-for-windows-systems/"><u>Installing the Latest AMD GPU Drivers for Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-error-during-oculus-vr-windows-install/"><u>Quick Fix for Error During Oculus VR Windows Install</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-solutions-fixing-ralink-rt3290-wi-fi-drivers-on-windows-10-8-and-ebuild/"><u>Troubleshooting Solutions: Fixing Ralink RT3290 Wi-Fi Drivers on Windows 10, 8 & Ebuild</u></a></li>
 </ul></div>
 

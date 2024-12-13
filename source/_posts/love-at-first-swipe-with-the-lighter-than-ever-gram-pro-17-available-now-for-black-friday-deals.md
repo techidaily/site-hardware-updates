@@ -1,7 +1,7 @@
 ---
 title: Love at First Swipe with the Lighter-Than-Ever Gram Pro 17 - Available Now for Black Friday Deals!
-date: 2024-11-30T21:21:37.880Z
-updated: 2024-12-07T00:12:03.297Z
+date: 2024-12-09T23:16:36.136Z
+updated: 2024-12-13T03:05:58.764Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,24 +87,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-essential-virtual-reality-cinema-experiences/"><u>[New] 2024 Approved Essential Virtual Reality Cinema Experiences</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-androids-facetime-essentials-explained-for-2024/"><u>[New] Android's FaceTime Essentials Explained for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-an-in-depth-look-at-wirecast-and-what-it-offers/"><u>[New] In 2024, An In-Depth Look at WireCast and What It Offers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-streamline-your-screen-time-step-by-step-towards-a-well-curated-playlist/"><u>[New] In 2024, Streamline Your Screen Time Step-by-Step Towards a Well-Curated Playlist</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/online-qt-mp3/"><u>「無償で行けるOnline QT MP3ファイル変換サービス - ムヴァヴィ」</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-high-performance-laptops-for-serious-gamers-in-202-comparing-elite-models-from-razer-acer-msi-and-beyond-insights/"><u>Best High-Performance Laptops for Serious Gamers in 202# Comparing Elite Models From Razer, Acer, MSI, and Beyond | Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boosting-laptop-longevity-expert-tips-for-enhancing-battery-performance-on-windows-devices-insights/"><u>Boosting Laptop Longevity: Expert Tips for Enhancing Battery Performance on Windows Devices - Insights</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-samsung-galaxy-s23-fe-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Samsung Galaxy S23 FE</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-apples-affordable-excellence-m2-macbook-air-at-just-749-during-amazons-prime-day-event-insights/"><u>Experience Apple's Affordable Excellence: M2 MacBook Air at Just $749 During Amazon's Prime Day Event – Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-next-level-gaming-how-dells-premium-3k-laptop-upgraded-my-expectations-with-innovative-tech/"><u>Experience Next-Level Gaming: How Dell's Premium $3K Laptop Upgraded My Expectations with Innovative Tech</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-next-level-vr-with-metas-latest-deal-on-the-512gb-quest-3-a-must-have-sale-today-as-featured/"><u>Experience Next-Level VR with Meta's Latest Deal on the 512GB Quest 3 – A Must-Have Sale Today as Featured !</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-tips-for-maintaining-a-fresh-look-on-your-macbook-pro-a-guide/"><u>Expert Tips for Maintaining a Fresh Look on Your MacBook Pro: A Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/gamers-rejoice-discover-the-best-sound-experience-with-60-off-premium-speakers-at-amazon-exclusive-testing-review/"><u>Gamers Rejoice! Discover the Best Sound Experience with 60% Off Premium Speakers at Amazon – Exclusive Testing Review</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-cultivating-growth-selecting-the-right-co-stars-for-youtube/"><u>In 2024, Cultivating Growth Selecting the Right Co-Stars for YouTube</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-color-management-in-windows-systems/"><u>Mastering Color Management in Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/msis-high-performance-gaming-display-now-huge-sale-save-nearly-300-on-newegg-exclusive-report/"><u>MSI's High-Performance Gaming Display Now Huge Sale: Save Nearly $300 on Newegg - Exclusive Report</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-non-flagship-samsung-tablet-deal-exceptional-performance-at-discounted-price-this-labor-day-insider-review-by-zdnet/"><u>Top Non-Flagship Samsung Tablet Deal: Exceptional Performance at Discounted Price This Labor Day - Insider Review by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-value-dive-into-metas-latest-offer-with-the-512gb-oculus-quest-3-top-pick-for-vr-enthusiasts-on-todays-market-techradar/"><u>Unbeatable Value: Dive Into Meta's Latest Offer with the 512GB Oculus Quest 3 - Top Pick for VR Enthusiasts on Today's Market | TechRadar</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-enjoy-every-frame-the-ultimate-guide-to-recording-netflix-on-os-x/"><u>[New] Enjoy Every Frame The Ultimate Guide to Recording Netflix on OS X</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-encompassing-angle-video-systems/"><u>[New] In 2024, Encompassing Angle Video Systems</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-masterpiece-models-best-of-the-computer-world-for-2024/"><u>[New] Masterpiece Models Best of the Computer World for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mastering-the-skill-how-to-securely-record-on-whatsapp/"><u>[Updated] 2024 Approved Mastering the Skill How to Securely Record on WhatsApp</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-techniques-for-youtube-video-format-switching-for-2024/"><u>[Updated] Ultimate Techniques for YouTube Video Format Switching for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-constructing-an-intriguing-trailer-blueprint/"><u>2024 Approved Constructing an Intriguing Trailer Blueprint</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-high-revenue-streaming-star-across-the-globe/"><u>2024 Approved High Revenue Streaming Star Across the Globe</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722963584673-approach-discuss-the-impact-of-temperature-on-the-hydration-reaction-and-concrete-properties/"><u>Approach: Discuss the Impact of Temperature on the Hydration Reaction and Concrete Properties.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-sandisk-software-for-windows-11-a-step-by-step-tutorial/"><u>Download & Install SanDisk Software for Windows 11 - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/essential-guide-to-the-no-nonsense-cost-effective-procase-laptop-sleeve-for-macbook-pro-13/"><u>Essential Guide to the No-Nonsense, Cost-Effective ProCase Laptop Sleeve for MacBook Pro 1^3</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-new-hp-officejet-pro-8620-printer-drivers-on-your-windows-device/"><u>How to Install New HP OfficeJet Pro 8620 Printer Drivers on Your Windows Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-quadro-rtx-8000-latest-driver-downloads-compatible-with-windows-7810/"><u>NVIDIA Quadro RTX #8000: Latest Driver Downloads Compatible with Windows 7/8/10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-updating-webcam-drivers-on-windows-10-a-comprehensive-guide/"><u>Troubleshooting and Updating Webcam Drivers on Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/uncovering-the-capabilities-of-xbox-360-does-it-play-blu-ray-discs-all-you-need-to-know/"><u>Uncovering the Capabilities of Xbox 360 - Does It Play Blu-Ray Discs? All You Need to Know</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722972572647-windows-10-gamers-rejoice-free-steelseries-engine-enhancement-tool-now-available/"><u>Windows 10 Gamers Rejoice: Free SteelSeries Engine Enhancement Tool Now Available</u></a></li>
 </ul></div>
 

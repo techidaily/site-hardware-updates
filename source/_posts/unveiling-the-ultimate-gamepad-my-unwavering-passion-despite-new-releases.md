@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Ultimate Gamepad: My Unwavering Passion Despite New Releases"
-date: 2024-08-28T02:01:44.359Z
-updated: 2024-08-29T02:01:44.359Z
+date: 2024-12-09T16:03:00.580Z
+updated: 2024-12-13T04:16:53.709Z
 tags:
   - hardware
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3
 ---
 
 ## Unveiling the Ultimate Gamepad: My Unwavering Passion Despite New Releases
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,8 +32,9 @@ thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3
  Sure, you can play games using only your phone or a keyboard and mouse, but you'll get the most out of your games with a dedicated controller. The question is, which one do you choose? I'm here to tell you that the [8BitDo Pro 2](https://www.8bitdo.com/pro2/) controller is, hands down, the best controller you can buy.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  A Controller That James Bond Would Use
 
  Let's get the most important bit out of the way first. Is the Pro 2 controller comfortable to hold? Yes. It feels like the PlayStation and Super Nintendo controllers had a baby.
@@ -40,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3
 
  The design is subdued and, dare I say, elegant. It's timeless. The black finish looks great paired with anything you want to connect it to. You aren't left with the garish mismatch of trying to hook up an Xbox or PlayStation-branded controller to a PC or phone. Maybe that sort of thing doesn't bother you, but it bothers me.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ##  All the Buttons You Might Need (and a Few More)
 
 ![Shoulder buttons on the 8BitDo Pro 2 controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/1000080700.jpg) 
@@ -63,8 +64,9 @@ Bertel King / How-To Geek
 ![Input switch on the 8BitDo Pro 2 controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/1000080697.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Bertel King / How-To Geek
 
  You would be forgiven for thinking that any Bluetooth controller pairs with any Bluetooth-compatible device. That's not the case. Connecting either an Xbox or PlayStation controller to a Nintendo Switch requires an adapter. Some newer controllers don't work with older mobile games. It can be an exercise in trial and error.
@@ -80,16 +82,14 @@ Bertel King / How-To Geek
 
  The regular Pro 2 controller doesn't connect to Microsoft's game console, but there is a separate [wired Pro 2 made specifically for the Xbox](https://www.8bitdo.com/pro2-wired-controller-for-xbox/). Unfortunately, there isn't any type of PlayStation compatibility.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ##  A Rechargeable Battery That Can Be Replaced With AAs
 
 ![8BitDo Pro 2 controller with battery cover removed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/1000080699.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Bertel King / How-To Geek
 
  Early wireless controllers used disposable batteries. This meant you needed to have a stockpile handy, and your gaming session could come to an abrupt end if you didn't.
@@ -101,8 +101,9 @@ Bertel King / How-To Geek
  The Pro 2 comes with a rechargeable pack (that looks like two AAs strapped together) which you can recharge simply by plugging a charger into the controller's USB-C port. You never have to pop off the battery cover if you don't want to, but the option is there for people who want it or to extend the controller's life when the battery pack eventually dies. Like an old WiiMote, the Pro 2 is a controller you can expect to stand the test of time.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Make the Controller Your Own
 
 Close 
@@ -125,8 +126,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +133,16 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/he-10-finest-yoga-series-to-achieve-zen-and-strength-for-2024/"><u>[New] The 10 Finest Yoga Series to Achieve Zen and Strength for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-breaking-ground-video-capture-breakdown/"><u>[Updated] In 2024, Breaking Ground Video Capture Breakdown</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1-easy-guide-retrieving-text-from-your-android-devices-clipboard/"><u>1. Easy Guide: Retrieving Text From Your Android Device's Clipboard</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-comprehensive-tutorial-how-to-modify-regional-settings-in-google-play-store/"><u>A Comprehensive Tutorial: How to Modify Regional Settings in Google Play Store</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressed-windows-10-extended-display-flaws/"><u>Addressed Windows 10 Extended Display Flaws</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138595807-9781452504155-ethics-of-a-psychic-reading/"><u>Ethics of a Psychic Reading | Free Book</u></a></li>
+<li><a href="https://techidaily.com/top-iphone-12-mini-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone 12 mini Message Recovery Software | Stellar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-android-potential-with-these-10-dev-setup-tips-and-tweaks/"><u>Unlocking Android Potential with These 10 Dev Setup Tips and Tweaks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-active-status-of-the-darksky-app-for-android-users-tips-and-tricks-for-optimal-usage/"><u>Unveiling the Active Status of the DarkSky App for Android Users: Tips and Tricks for Optimal Usage</u></a></li>
+</ul></div>
 

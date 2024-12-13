@@ -1,7 +1,7 @@
 ---
 title: "Bulk Up Your Storage with a Steep Discount: Get the 8TB Samsung T5 at Amazon for 36%% Less After Prime Day | ZDNET"
-date: 2024-12-02T23:18:02.454Z
-updated: 2024-12-06T16:00:32.292Z
+date: 2024-12-09T02:24:02.379Z
+updated: 2024-12-13T03:42:42.993Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2d460d9b-c08e-42f0-88ee-8dd732741921%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,22 +65,20 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/1718032495933-updated-360-degree-cameras-vs-3d-cameras-what-are-the-differences/"><u>[Updated] 360 Degree Cameras Vs 3D Cameras What Are the Differences?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-cut-the-boring-watch-these-15-hilarious-youtube-bites-for-2024/"><u>[Updated] Cut the Boring, Watch These 15 Hilarious YouTube Bites for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-internet-idolaters-top-ten-youtube-sensations-for-2024/"><u>[Updated] Internet Idolaters Top Ten YouTube Sensations for 2024</u></a></li>
-<li><a href="https://win-top.techidaily.com/activer-la-protection-systeme-requise-pour-ce-lecteur-guide-rapide-et-complet/"><u>Activer La Protection Système Requise Pour Ce Lecteur - Guide Rapide Et Complet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/begin-every-question-with-either-have-you-considered-what-if-you-tried-or-could-it-be-beneficial-to/"><u>Begin Every Question with Either Have You Considered, What if You Tried, or Could It Be Beneficial To</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comparing-amds-latest-titans-ryzen-9900x-vs-970ex-vs-9600x-in-cinebench-unveiling-performance-scores/"><u>Comparing AMD's Latest Titans: Ryzen 9900X vs 970eX vs 9600X in Cinebench - Unveiling Performance Scores</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-hp-laserjet-pro-m402n-on-your-pc-with-windows-os/"><u>Easy Installation of HP LaserJet Pro M402n on Your PC with Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-compatibility-download-new-drivers-for-your-brother-hl-l2370dw-printer-today/"><u>Ensure Compatibility: Download New Drivers for Your Brother HL-L2370DW Printer Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensuring-optimal-performance-upgrading-lenovo-camera-drivers-for-windows-7-systems/"><u>Ensuring Optimal Performance: Upgrading Lenovo Camera Drivers for Windows 7 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratis-scannen-van-cr2-biljetten-in-digitale-beeldvorming-omzetten-en-opslaan-via-movavi/"><u>Gratis Scannen Van CR2-Biljetten in Digitale Beeldvorming - Omzetten en Opslaan via Movavi</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-google-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Google Phone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-steelseries-arctis-gear-software-upgrades-installed/"><u>How to Get the Latest SteelSeries Arctis ^ Gear Software Upgrades Installed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-download-and-update-microsoft-drivers-in-windows-11-8-and-7-step-by-step-instructions/"><u>How to Seamlessly Download and Update Microsoft Drivers in Windows 11, 8 & 7 - Step by Step Instructions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/improve-your-network-speed-download-updated-drivers-for-the-high-end-killer-e2t500-gigabit-card/"><u>Improve Your Network Speed: Download Updated Drivers for the High-End Killer E2t500 Gigabit Card</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-m14-4gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy M14 4Gwith/without a PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-vga-driver-software-download-and-installation-instructions-for-optimal-performance/"><u>Latest VGA Driver Software: Download and Installation Instructions for Optimal Performance</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/protecting-against-fake-mail-fraud-identifying-and-preventing-email-hijacking/"><u>Protecting Against Fake Mail Fraud: Identifying & Preventing Email Hijacking</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-daily-digital-deluge-youtubes-prime-videos-ranked-1-10/"><u>[New] In 2024, Daily Digital Deluge YouTube's Prime Videos Ranked #1-10</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-seamless-story-connectivity-on-facebook-4-tips/"><u>[New] Seamless Story Connectivity on Facebook (4 Tips)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-icue-no-device-detected-issue/"><u>[Solved] ICUE No Device Detected Issue</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-photographers-guide-to-negative-imaging/"><u>2024 Approved The Photographer’s Guide to Negative Imaging</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversion-sin-costo-desde-mp4-al-formato-flv-utilizando-la-solucion-en-linea-de-movavi-guia-paso-a-paso/"><u>Conversión Sin Costo Desde MP4 Al Formato FLV Utilizando La Solución en Línea De Movavi: Guía Paso a Paso</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-installing-hp-printer-drivers-on-windows-1011-systems/"><u>Easy Guide to Downloading & Installing HP Printer Drivers on Windows 10/11 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-printing-experience-updating-epson-wf-7720-drivers-on-windows-computers/"><u>Enhance Your Printing Experience: Updating Epson WF-7720 Drivers on Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-canon-mp560-driver-quick-download-and-setup-instructions/"><u>Get the Latest Canon MP560 Driver: Quick Download & Setup Instructions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-revise-and-upgrade-the-driver-software-of-a-usb-serial-bridge-device/"><u>How to Revise and Upgrade the Driver Software of a USB-Serial Bridge Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-set-up-your-logitech-momo-wheel-driver-on-a-pc-step-by-step-guide/"><u>How to Set Up Your Logitech MOMO Wheel Driver on a PC - Step by Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v27-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo V27 Pro Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/logitecs-g515-lightspeed-tkl-showcase-high-quality-economic-price-tag-for-gamers-and-typists-alike/"><u>Logitec's G515 Lightspeed TKL Showcase - High Quality, Economic Price Tag for Gamers and Typists Alike</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-the-installation-process-the-best-way-to-update-your-windows-with-epson-et-4550-drivers/"><u>Mastering the Installation Process: The Best Way to Update Your Windows with Epson ET-4550 Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-geforce-rtx-3070-ti-driver-update-windows-1187-compatible-version-available-now/"><u>NVIDIA GeForce RTX 3070 Ti Driver Update - Windows 11/8/7 Compatible Version Available Now</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/x-professional-audio-toolkit-personal-computing/"><u>X-Professional Audio Toolkit, Personal Computing</u></a></li>
 </ul></div>
 

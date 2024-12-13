@@ -1,7 +1,7 @@
 ---
 title: "Outperforming Apple: How LG Gram Pro Surpasses the MacBook Air Across Three Key Areas - Insights From a Comprehensive Review | ZDNet"
-date: 2024-12-05T18:20:29.461Z
-updated: 2024-12-06T17:38:42.375Z
+date: 2024-12-05T17:13:37.035Z
+updated: 2024-12-12T20:14:58.114Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -49,7 +49,7 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 How did this happen? Let's dive in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The experience is familiar
@@ -65,7 +65,7 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -83,6 +83,10 @@ In real-world usage, the Surface Pro 11 battery lasts twice as long as an equiva
 Screenshot by Ed Bott/ZDNET
 
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
 
@@ -121,7 +125,7 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The AI story is incomplete
@@ -143,10 +147,6 @@ The Paint and Photos apps are also loaded with AI-based features for creating an
 The real question is whether those features are powerful enough to make you switch from your current image-processing tool to one of Microsoft's built-in options. History says that's a pretty big ask.
 
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test laptops
 
@@ -192,19 +192,18 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-hacks-averted-restore-your-facebook-account-safely-for-2024/"><u>[New] Hacks Averted! Restore Your Facebook Account Safely for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-propel-your-visuals-forward-seamlessly-combining-windows-photos-and-storyremix/"><u>[New] Propel Your Visuals Forward Seamlessly Combining Windows, Photos, and StoryRemix</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-from-simple-designs-to-compelling-animated-graphics/"><u>In 2024, From Simple Designs to Compelling Animated Graphics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-productivity-should-you-turn-to-bing-chat-or-gpt-3-7-factors/"><u>Optimizing Productivity: Should You Turn to Bing Chat or GPT-3? 7 Factors</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/while-you-teach-hosting-low-cost-seminars-via-youtube-for-2024/"><u>Save While You Teach Hosting Low-Cost Seminars via YouTube for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-launch-of-lgs-tandem-oled-production-revolutionizing-screen-brilliance-with-a-victory-in-the-dell-xps-absolutely-here-are-five-alternative-seo-friendly-42/"><u>The Launch of LG's Tandem OLED Production: Revolutionizing Screen Brilliance with a Victory in the Dell XPS Absolutely, Here Are Five Alternative SEO-Friendly Titles that Convey Similar Meanings to Your Original Title</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-resource-for-understanding-top-tech-by-toms-hardware/"><u>The Ultimate Resource for Understanding Top Tech by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-review-destination-for-enthusiasts-discover-toms-hardware/"><u>The Ultimate Review Destination for Enthusiasts – Discover Tom's Hardware</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-samsung-galaxy-m14-4g-by-fonelab-android-recover-music/"><u>The way to get back lost music from Samsung Galaxy M14 4G</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/title-elevate-your-gaming-with-the-asus-rog-strix-xg27acs-a-review-of-its-dynamic-qhd-display-and-robust-accuracy/"><u>Title: Elevate Your Gaming with the Asus ROG Strix XG27ACS: A Review of Its Dynamic QHD Display and Robust Accuracy</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-comprehensive-guide/"><u>Tom's Tech Review: Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-in-depth-insights-into-cutting-edge-hardware/"><u>Tom's Tech Review: In-Depth Insights Into Cutting-Edge Hardware</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-fixes-for-non-responsive-brightness-buttons-in-windows-10/"><u>Ultimate Fixes for Non-Responsive Brightness Buttons in Windows 10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-the-highest-quality-stylus-tablets-industry-insights-and-ratings/"><u>Ultimate Guide to the Highest-Quality Stylus Tablets - Industry Insights and Ratings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-mastery-in-gameye-advanced-recording-tips-for-2024/"><u>[New] Mastery in GamEye Advanced Recording Tips for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solution-center-finding-hidden-network-devices-in-win-10/"><u>[Solution Center] Finding Hidden Network Devices in Win 10</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-5-best-live-stream-video-conference-recorders/"><u>[Updated] 2024 Approved 5 Best Live Stream Video Conference Recorders</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-game-modders-and-tutorial-content-leaders/"><u>[Updated] 2024 Approved Game Modders & Tutorial Content Leaders</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cant-get-into-doom-eternal-master-the-techniques-to-resolve-launch-errors/"><u>Can't Get Into DOOM Eternal? Master the Techniques to Resolve Launch Errors</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/demystifying-ai-game-generators-for-2024/"><u>Demystifying AI Game Generators for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-drivers-for-hp-officejet-t4500-printer-release/"><u>Download Updated Drivers for HP Officejet T4500 Printer, Release</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-motorola-moto-g84-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Motorola Moto G84 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-prime-racing-thrills-quintet-of-choice/"><u>In 2024, Prime Racing Thrills Quintet of Choice</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-drivers-for-logitech-gaming-steering-wheel-compatible-with-modern-windows-os-versions/"><u>Latest Drivers for Logitech Gaming Steering Wheel - Compatible with Modern Windows OS Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/official-nvidia-rtx-3070-ti-graphics-card-driver-free-download-for-windows-1187-users/"><u>Official NVIDIA RTX 3070 Ti Graphics Card Driver: Free Download for Windows 11/8/7 Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/resizing-icons-effortlessly-in-windows-10-a-step-by-step-guide/"><u>Resizing Icons Effortlessly in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tech-giant-intel-under-scrutiny-uncovering-the-details-of-a-recent-cpu-stability-lawsuit/"><u>Tech Giant Intel Under Scrutiny: Uncovering the Details of a Recent CPU Stability Lawsuit</u></a></li>
 </ul></div>
 

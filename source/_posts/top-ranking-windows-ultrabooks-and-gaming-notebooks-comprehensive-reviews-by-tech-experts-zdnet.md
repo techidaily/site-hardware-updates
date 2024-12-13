@@ -1,7 +1,7 @@
 ---
 title: Top-Ranking Windows Ultrabooks & Gaming Notebooks , Comprehensive Reviews by Tech Experts | ZDNet
-date: 2024-12-05T16:05:17.511Z
-updated: 2024-12-06T16:54:25.311Z
+date: 2024-12-09T18:02:14.340Z
+updated: 2024-12-13T01:43:54.960Z
 tags:
   - laptops
 categories:
@@ -25,12 +25,16 @@ All of the ultraportable laptops on this list sport cutting-edge form factors, a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the best lightweight laptop right now?
 
 Our overall top pick for the best lightweight laptop has to go to the [Apple MacBook Air M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24JRLR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb372b0e0-f807-4ada-91fc-3819fe7f0ce6%7Cdtp&dtb=1). In terms of portability, sleek form factor, solid battery life, and AI-capabilities, the MacBook Air M3 reigns supreme among the lightest of the light. It might not be the best pick for you, however, so we included other options that round out the spectrum of common use cases. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best ultraportable laptops of 2024
 
@@ -79,11 +83,11 @@ Cons
 * Generic design
 * Loud fans
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Acer Swift Go 14
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best lightweight laptop for AI
 
@@ -112,10 +116,6 @@ Cons
 * Comes pre-loaded with bloatware
 
 ## Asus ROG Zephyrus G14
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best lightweight laptop for gaming
 
@@ -146,11 +146,11 @@ Cons
 * Design tradeoffs for ultra portability
 * Expensive
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## LG Gram Pro 17
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best lightweight laptop with a 17" display
 
@@ -197,6 +197,10 @@ It also comes with an 8MP webcam that can shoot in 4K, perfect for presenting a 
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best lightweight laptop?
 
 The best lightweight laptop in 2024 is the [Apple MacBook Air M3](https://www.zdnet.com/article/m3-macbook-air-review/). Portable, powerful, and with a long-lasting battery, the MacBook Air M3 is a versatile workhorse that you can throw in a bag and take with you anywhere you go. The M3's 8-core CPU and 10-core GPU is armed to take on almost anything you throw at it, and the entire package weighs just 2.7 pounds. 
@@ -220,10 +224,6 @@ The best lightweight laptop for you depends on what you want to get out of it. L
 | ASUS ROG Zephyrus G14               | The lightest machine you can get while still calling it a proper gaming laptop.          |
 | LG Gram Pro 17                      | The lightest, thinnest 17-inch laptop on the market, no matter the cost.                 |
 | Lenovo X1 Carbon                    | A durable, powerful laptop for work.                                                     |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test lightweight laptops
 
@@ -249,10 +249,6 @@ These laptops all offer solid performance in their own right, but paired with th
 * **Battery life:** In order to be considered for this list, I considered machines with better-than-average battery life. This is one metric that will vary significantly based on use case, but all of these laptops will easily last an entire workday (eight hours) on one charge, even while undergoing demanding workloads
 * **Price:** Cost is an important factor and will make or break many consumers' choices. The reality is that ultraportability does come at a cost, as none of these laptops would be considered "budget" by any rate. The Acer Swift Go 14, however, is still quite affordable, starting at $800, though upgrades will move that number more in line with the others on this list.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why does having a lightweight laptop matter?
 
 The answer to this question is simple: laptops are made to be carried around, and no one wants to carry a heavy computer. Having a thin, lightweight machine opens up its usability and lets you take it places you normally wouldn't consider possible. 
@@ -260,6 +256,10 @@ The answer to this question is simple: laptops are made to be carried around, an
 Ultraportability does come with tradeoffs, however, both in terms of design and cost. When talking about design, the constraints on manufacturers to squeeze value out of every square inch of space in the laptop means that certain elements may be smaller, lighter, or in non-conventional locations. This especially refers to the laptop's battery, its display, or the laptop's keyboard. 
 
 In terms of cost, ultraportable laptops are often made with high-end, special lightweight materials that are going to cost more to produce and manufacture than simple plastic or aluminum. All of the laptops on this list were chosen for their well-designed, functional form factors and use of lightweight materials.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How much does a typical laptop weigh?
 
@@ -286,7 +286,7 @@ While every computing platform has its loyal supporters, most people end up usin
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are there alternative lightweight laptops worth considering?
@@ -335,16 +335,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-high-quality-avi-media-reader-mobile-and-desktop/"><u>[New] High-Quality Avi Media Reader Mobile & Desktop</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-amd-radeon-rx-580-graphics-driver-simple-steps/"><u>Download & Update AMD Radeon RX 580 Graphics Driver - Simple Steps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-upgrade-your-intel-raid-drivers-on-windows-compatible-with-windows-111087/"><u>Download & Upgrade Your Intel RAID Drivers on Windows - Compatible with Windows 11/10/8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-bcm20702a0-drivers-for-windows-fast-and-simple-installation/"><u>Download BCM20702A0 Drivers for Windows - Fast and Simple Installation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-update-your-toshiba-laptops-drivers-on-a-windows-operating-system/"><u>Find and Update Your Toshiba Laptop's Drivers on a Windows Operating System</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-enable-the-disabled-right-click-on-your-pc-under-windows-11/"><u>How To Enable The Disabled Right Click on Your PC Under Windows 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-oppo-reno-10-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Oppo Reno 10 5G Phone?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-unlock-the-full-potential-of-zoom-in-your-xbox-setup/"><u>In 2024, Unlock the Full Potential of Zoom in Your Xbox Setup</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ryzen-9-9950x-outperforms-core-i9-14900k-by-18-with-efficient-250w-cpu-power/"><u>Ryzen 9 9950X Outperforms Core I9-14900K by 18% with Efficient 250W CPU Power</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/simple-steps-extending-your-mobile-devices-interface-to-your-apple-tv-screen/"><u>Simple Steps: Extending Your Mobile Device's Interface to Your Apple TV Screen</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/tricks-and-tips-to-bypass-hidden-video-barriers-for-2024/"><u>Tricks and Tips to Bypass Hidden Video Barriers for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-easy-way-change-clownfish-tone-in-windows/"><u>[Updated] 2024 Approved Easy Way Change Clownfish Tone in Windows</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unveiling-video-content-strategies-on-youtube/"><u>[Updated] 2024 Approved Unveiling Video Content Strategies on YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-synthetic-worlds-the-future-of-gaming-with-vr-for-2024/"><u>[Updated] Synthetic Worlds The Future of Gaming with VR for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-pc-experience-free-geforce-gt-710-driver-downloads-for-windows-users/"><u>Enhance Your PC Experience - Free GeForce GT 710 Driver Downloads for Windows Users</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/draft-to-edit-essential-film-techniques-via-youtube-for-2024/"><u>From Draft to Edit Essential Film Techniques via YouTube for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-canon-mg3620-drivers-easy-guide-for-smooth-printing-experience/"><u>Get Canon MG3620 Drivers: Easy Guide for Smooth Printing Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-setup-guide-canon-pro-100-printer-drivers-compatible-with-windows-systems/"><u>Instant Setup Guide: Canon PRO-100 Printer Drivers Compatible with Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp3wavdavinci-resolve/"><u>MP3、WAVファイル読み込みに失敗するDaVinci Resolveでのトラブルシューティング方法</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/sas-drivers-download-and-update-in-windows-1187/"><u>SAS Drivers Download & Update in Windows 11/8/7</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-tutorial-for-sharing-photos-from-phone-memory/"><u>The Ultimate Tutorial for Sharing Photos From Phone Memory</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-social-media-powerhouses-an-insightful-guide-to-facebook-twitter-instagram-and-youtube/"><u>Understanding Social Media Powerhouses: An Insightful Guide to Facebook, Twitter, Instagram & Youtube</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Anticipated Announcements at Apple's Oct Event: The New M4 Mac Mini & Upcoming iPad Releases"
-date: 2024-12-05T03:28:58.719Z
-updated: 2024-12-06T18:18:24.858Z
+date: 2024-12-09T02:43:19.324Z
+updated: 2024-12-13T03:13:10.554Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,20 +118,20 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-expand-film-length-for-youtube-posting/"><u>[Updated] 2024 Approved Expand Film Length for YouTube Posting</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-step-by-written-guide-to-luts-for-professional-photographers/"><u>[Updated] A Step-By Written Guide to LUTs for Professional Photographers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-optimize-your-social-media-presence-with-mobile-based-live-videos/"><u>[Updated] In 2024, Optimize Your Social Media Presence with Mobile-Based Live Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-unlock-professional-results-with-these-key-pixlr-techniques/"><u>[Updated] Unlock Professional Results with These Key Pixlr Techniques</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-reversal-a-guide-to-rewinding-your-youtube-sequence/"><u>2024 Approved Mastering Reversal A Guide to Rewinding Your YouTube Sequence</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-guide-on-selecting-a-portable-games-system-that-suits-you-best/"><u>A Guide on Selecting a Portable Games System that Suits You Best</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/acer-unveils-trio-of-cutting-edge-oled-gaming-displays-featuring-a-stunning-27-with-480hz-predator-x27u-f3/"><u>Acer Unveils Trio of Cutting-Edge OLED Gaming Displays: Featuring a Stunning 27 with 480Hz - Predator X27U F3</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/alienwares-360hz-oled-display-achieves-top-reviews-at-unbeatable-prices/"><u>Alienware's 360Hz OLED Display Achieves Top Reviews at Unbeatable Prices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amazing-bargain-alert-high-res-156-portable-monitor-with-ips-tech-now-falls-to-historic-low-of-6599/"><u>Amazing Bargain Alert: High-Res 15.6 Portable Monitor with IPS Tech Now Falls to Historic Low of $65.99</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/big-gamers-small-wallets-the-complete-monoprice-44394-40-inch-monitor-breakdown-at-unbelievably-low-price/"><u>Big Gamers, Small Wallets? The Complete Monoprice 44394 40-Inch Monitor Breakdown at Unbelievably Low Price</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/breakthrough-in-high-fps-tcl-introduces-a-revolutionary-4k-gaming-screen-1000-hz/"><u>Breakthrough in High FPS: TCL Introduces a Revolutionary 4K Gaming Screen (1,000 Hz)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-leading-portable-monitors-a-blend-of-high-performance-gaming-and-workstation-productivity/"><u>Discover the Leading Portable Monitors : A Blend of High-Performance Gaming and Workstation Productivity</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-get-the-s322dmg-a-32-gaming-display-by-dell-for-just-279-over-memorial-day-weekend/"><u>Don't Miss Out: Get the S322DMG, a 32” Gaming Display by Dell for Just $279 Over Memorial Day Weekend</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/mastering-multimedia-transfer-facebook-videos-on-whatsapp-for-2024/"><u>Mastering Multimedia Transfer Facebook Videos on WhatsApp for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-from-webm-to-mp3-the-top-conversion-software-and-online-tools/"><u>Updated In 2024, From WebM to MP3 The Top Conversion Software and Online Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-unlocking-the-art-of-iphone-podcast-downloads-with-ease/"><u>[New] 2024 Approved Unlocking the Art of iPhone Podcast Downloads with Ease</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-elevating-audio-rates-on-youtube-dual-device-approach/"><u>[Updated] In 2024, Elevating Audio Rates on YouTube Dual Device Approach</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-deleted-and-found-again-streaming-yts-forgotten-videos/"><u>2024 Approved Deleted and Found Again Streaming YT’s Forgotten Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dissecting-mobile-photography-with-android-lightroom/"><u>Dissecting Mobile Photography with Android Lightroom</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-canon-pro-100-printer-drivers-installation-guide-for-windows-one-click-setup/"><u>Easy Canon PRO 100 Printer Drivers Installation Guide for Windows - One-Click Setup</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhancing-gaming-performance-updating-amd-drivers-on-windows-10-11-and-7-platforms/"><u>Enhancing Gaming Performance: Updating AMD Drivers on Windows 10, 11, and 7 Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-asus-realtek-chip-based-speakersound-drivers-how-to-download-them-easily/"><u>Free ASUS Realtek Chip-Based Speaker/Sound Drivers - How to Download Them Easily</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-c55-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme C55? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-beam-your-best-lol-playing-moments-onto-screen-3-ways/"><u>In 2024, Beam Your Best LOL Playing Moments Onto Screen (3 Ways)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Nokia C12? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-lenovo-webcam-driver-update-for-windows-7-systems/"><u>Latest Lenovo Webcam Driver Update for Windows 7 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/official-hp-laserjet-1018-drivers-easy-download-for-smooth-printing-experience/"><u>Official HP LaserJet 1018 Drivers: Easy Download for Smooth Printing Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/predictive-models-must-account-for-long-term-environmental-degradation-mechanisms-that-affect-material-properties-and-structural-integrity/"><u>Predictive Models Must Account for Long-Term Environmental Degradation Mechanisms that Affect Material Properties and Structural Integrity.</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-2024-compatibility-issues-successfully-starting-modern-warfare-on-pc/"><u>Resolving 2024 Compatibility Issues - Successfully Starting Modern Warfare on PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-hp-laserjet-pro-m4-cuffs-in-your-windows-pc/"><u>Step-by-Step Guide: Installing HP LaserJet Pro M4 Cuffs in Your Windows PC</u></a></li>
 </ul></div>
 

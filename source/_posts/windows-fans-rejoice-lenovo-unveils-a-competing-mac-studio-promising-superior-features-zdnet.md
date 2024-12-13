@@ -1,7 +1,7 @@
 ---
 title: Windows Fans Rejoice! Lenovo Unveils a Competing Mac Studio, Promising Superior Features | ZDNET
-date: 2024-12-05T01:13:56.257Z
-updated: 2024-12-07T00:32:26.514Z
+date: 2024-12-09T21:45:51.575Z
+updated: 2024-12-13T05:02:44.233Z
 tags:
   - laptops
 categories:
@@ -22,7 +22,7 @@ At [CES 2024](https://www.zdnet.com/topic/ces-2024/), Lenovo plans to show off a
 Without question, the new PC resembles a [Mac Studio](https://www.zdnet.com/article/apple-mac-studio-m2-ultra-review/), coming with a main desktop unit in the shape of a small box alongside a monitor. It houses all of the major components like a neural processing unit, or NPU for short. This utilizes [AI](https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/) to provide a third resource for the computer, improving its overall performance. It can even be upgraded, letting you modulate the device's performance however you want.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -85,20 +85,20 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-navigating-whatsapps-depths-tricks-you-need-to-know/"><u>[New] 2024 Approved Navigating WhatsApp's Depths Tricks You Need to Know</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-efficient-use-of-obs-studio-for-android-devices-for-2024/"><u>[New] Efficient Use of OBS Studio for Android Devices for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-unparalleled-pc-sound-control/"><u>[New] Unparalleled PC Sound Control</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-started-streaming-learn-obs-for-youtube-now/"><u>[Updated] In 2024, Started Streaming? Learn OBS for Youtube Now</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-from-watcher-to-participant-tiktok-live-integration/"><u>2024 Approved From Watcher to Participant TikTok Live Integration</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-a24-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Samsung Galaxy A24 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-discreet-marvel-a-design-that-hides-stellar-creative-capabilities-revealed-by-zdnet/"><u>Asus' Discreet Marvel: A Design That Hides Stellar Creative Capabilities Revealed by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discount-alert-apple-m3-macbook-air-available-at-250-less-on-amazon-prime-day-offer/"><u>Discount Alert: Apple M3 MacBook Air Available at $250 Less on Amazon Prime Day Offer</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ting-video-view-count-top-hashtag-trends-guide-for-2024/"><u>Elevating Video View Count Top Hashtag Trends Guide for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/evaluating-the-battle-between-google-gemini-and-microsofts-chatgpt-in-ai-innovation/"><u>Evaluating the Battle Between Google Gemini and Microsoft's ChatGPT in AI Innovation.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-review-how-this-years-standout-2-in-1-innovation-surprises-with-its-overlooked-workplace-benefits-zdnet-insights/"><u>Exclusive Review: How This Year's Standout 2-in-1 Innovation Surprises With Its Overlooked Workplace Benefits | ZDNET Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-your-tech-bargain-asus-15-inch-laptop-for-250-at-walmart-featuring-every-port-you-need/"><u>Find Your Tech Bargain: Asus 15-Inch Laptop for $250 at Walmart, Featuring Every Port You Need!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-virtual-floor-essential-tips-for-attending-microsofts-ai-event-with-surface-and-windows-features-what-to-look-forward-to-digitalsphere/"><u>Navigating the Virtual Floor: Essential Tips for Attending Microsoft's AI Event with Surface and Windows Features - What to Look Forward To | DigitalSphere</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-a-closer-look-at-videopad-video-editor-review-pricing-and-alternatives/"><u>New In 2024, A Closer Look at Videopad Video Editor Review, Pricing, and Alternatives</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-the-power-of-satechis-ultimate-multi-functional-usb-c-hub-only-150/"><u>Unleash the Power of Satechi's Ultimate Multi-Functional USB-C Hub - Only $150!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-from-basic-snaps-to-spectacular-shots-snapchats-edits-for-everyone/"><u>[Updated] In 2024, From Basic Snaps to Spectacular Shots Snapchat's Edits for Everyone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-key-strategies-utilizing-hashtags-in-youtube-gaming-content/"><u>[Updated] Key Strategies Utilizing Hashtags in YouTube Gaming Content</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-peeling-back-the-layers-of-magix-image-suite/"><u>2024 Approved Peeling Back the Layers of MAGIX Image Suite</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/effective-strategies-for-avoiding-hardware-breakdowns-in-windows-systems-tips-from-yl-software-experts/"><u>Effective Strategies for Avoiding Hardware Breakdowns in Windows Systems - Tips From YL Software Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-pc-with-the-newest-intel-irisplus-graphics-655-drivers-for-windows-11/"><u>Enhance Your PC with the Newest Intel Iris+ Graphics 655 Drivers for Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-sound-working-in-no-time-realtek-asusio-driver-for-windows-11/"><u>Get Your Sound Working in No Time - Realtek Asusio Driver for Windows 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-play-7twithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor Play 7Twith/without a PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oppo-a1-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Oppo A1 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/improve-your-gaming-with-roccat-mouse-driver-download-here/"><u>Improve Your Gaming with Roccat Mouse Driver - Download Here</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/macs-best-in-show-top-10-screenshot-utilities-unveiled/"><u>Mac's Best in Show Top 10 Screenshot Utilities Unveiled</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigate-through-common-pitfalls-in-setting-up-intel-thermal-framework-and-platform-drivers-comprehveled/"><u>Navigate Through Common Pitfalls in Setting Up Intel Thermal Framework and Platform Drivers [Comprehveled]</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/necromunda-hired-gun-crashes-on-your-computer-discover-the-causes-and-remedies-for-a-smooth-experience/"><u>Necromunda: Hired Gun Crashes on Your Computer? Discover the Causes and Remedies for a Smooth Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-access-freshly-updated-drivers-for-hp-deskjet-2700-printers-get-them-now/"><u>Quick Access: Freshly Updated Drivers for HP Deskjet 2700 Printers - Get Them Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-tips-for-rndis-driver-installation-and-download-issues-on-windows-computers/"><u>Troubleshooting Tips for RNDIS Driver Installation & Download Issues on Windows Computers</u></a></li>
 </ul></div>
 

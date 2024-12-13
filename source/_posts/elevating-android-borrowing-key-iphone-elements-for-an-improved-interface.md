@@ -1,7 +1,7 @@
 ---
 title: "Elevating Android: Borrowing Key iPhone Elements for an Improved Interface"
-date: 2024-08-28T02:04:34.037Z
-updated: 2024-08-29T02:04:34.037Z
+date: 2024-12-09T23:42:23.584Z
+updated: 2024-12-12T18:10:18.976Z
 tags:
   - android
 categories:
@@ -34,8 +34,9 @@ Khamosh Pathak / How-To Geek
  It's handy to be able to create specialized "Do Not Disturb" modes for different situations. You can make one for work, fitness, reading, dates, and more. In each Focus mode that you create, you decide which people and apps can bother you.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Shortcuts Automations
 
 ![Open Shortcuts App Using Spotlight on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/Open-Shortcuts-App-Using-Spotlight-on-iPhone.png) 
@@ -45,11 +46,16 @@ Khamosh Pathak / How-To Geek
  The idea of having a built-in app that you can use to create [routines](https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-poco-x5-pro-drfone-by-drfone-virtual-android/), [automations](https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-a78-5g-location-without-installing-software-drfone-by-drfone-virtual-android/), and [custom shortcuts](https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-infinix-note-30-vip-drfone-by-drfone-virtual-android/) is great. Of course, there are plenty of third-party Android apps that can do these things, but having it built-in makes it more accessible.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Face ID
 
 ![The Apple Face ID icon on a blue background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/faceid_hero_1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Face ID](https://instagram-video-files.techidaily.com/new-mastering-instagram-concealing-tags-efficiently/) was released in 2017, and Android still doesn't have a comparable feature. Sure, there have been Android phones with "Face Unlock," but it's [never as good or as secure](https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-vivo-v29-drfone-by-drfone-virtual-android/) as Face ID on the iPhone.
 
@@ -60,15 +66,13 @@ Khamosh Pathak / How-To Geek
 ![Open Control Center on iPhone 13 by swiping down from the upper-right corner of the screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/iphone_13_launch_control_center.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Notifications on the iPhone [are a bit of a mess](https://games-able.techidaily.com/visual-powerhouse-debate-oled-amoled-vs-ips-technology/), but there's one thing about it that Apple has gotten right---splitting up the [Notification Center](https://snapchat-videos.techidaily.com/updated-2024-approved-saving-snaps-from-snapchat-on-camera-roll-a-guide/) and [Control Center](https://youtube-blog.techidaily.com/ring-how-tseries-harnesses-revenue-from-online-viewer-base-youtube/).
 
  The Notification Center is opened by swiping down from the top left of the screen. The Control Center---comparible to Android's Quick Settings---is opened by swiping down on the top right. You don't have to swipe down twice to see all the toggles like you do on Android. You can be more direct with which thing you want to open.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Shake to Undo
 
 ![Tap &quot;Undo.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/tap_undo_typing.jpg?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
@@ -77,12 +81,13 @@ Khamosh Pathak / How-To Geek
 
  It works exactly how it sounds. After you type something, simply shake your phone, and a message will pop up and ask if you want to "Undo Typing." Easy as that. On Android, you have to resort to some [less than ideal methods](https://extra-skills.techidaily.com/new-inside-facetunes-magic-an-in-depth-analysis-for-perfect-photos/).
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ##  Spotlight Search
 
 ![Do a spotlight search for the app first.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/02/spotlight_app_search.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The iPhone has a pretty amazing [system-wide search feature called "Spotlight."](https://facebook-videos.techidaily.com/new-elevate-visual-appeal-incorporating-black-bar-and-box-in-social-feeds-for-2024/) It doesn't just search for apps or contacts on your phone, it can search inside apps, messages, photos, notes, and the web.
 
@@ -90,9 +95,6 @@ Khamosh Pathak / How-To Geek
 
  Android doesn't have a universal tool like this. [Samsung](https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-tecno-pova-5-pro-drfone-by-drfone-virtual-android/) and [Google](https://fox-boxes.techidaily.com/2024-approved-prolific-pose-pattern-packages/) have system-wide search tools, but they're not nearly as good as Spotlight.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  "Universal" Communication Apps
 
 ![FaceTime on iOS 15 wallpaper.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/FaceTime-logo.png) 
@@ -113,8 +115,6 @@ Khamosh Pathak / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +122,20 @@ Khamosh Pathak / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-cutting-edge-tactics-for-grabbing-your-favorite-fb-vids/"><u>[New] 2024 Approved Cutting Edge Tactics for Grabbing Your Favorite FB Vids</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-best-cameras-for-youtube-from-beginners-to-professionals/"><u>[Updated] In 2024, The Best Cameras for YouTube From Beginners to Professionals</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-sound-blaster-z-drivers-for-windows-10-with-one-click/"><u>Download the Sound Blaster Z Drivers for Windows 10 with One Click</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-updating-and-downloading-epson-printer-drivers-on-windows-11/"><u>Easy Guide: Updating and Downloading Epson Printer Drivers on Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-steps-to-resolve-iphones-imessage-sign-out-problem/"><u>Easy Steps to Resolve iPhone's iMessage Sign-Out Problem</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fix-lg-usb-driver-issue-in-windows-1087/"><u>Fix LG USB Driver Issue in Windows 10/8/7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-gionee-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Gionee Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722967404468-quick-setup-download-pioneer-dj-ddj-sx2-control-application-now/"><u>Quick Setup: Download Pioneer DJ DDJ-SX2 Control Application Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solving-your-elgato-hd60-driver-problems-in-minutes/"><u>Solving Your Elgato HD60 Driver Problems in Minutes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-obtain-fresh-updated-drivers-for-your-dell-print-machine/"><u>Step-by-Step Guide to Obtain Fresh, Updated Drivers for Your Dell Print Machine</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unraveling-the-top-9-free-video-logo-creation-software-list-for-2024/"><u>Unraveling The Top 9 Free Video Logo Creation Software List for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unveiling-the-steps-for-instant-video-playback-from-youtube-to-facebook-pages-for-2024/"><u>Unveiling the Steps for Instant Video Playback From Youtube to Facebook Pages for 2024</u></a></li>
+</ul></div>
 

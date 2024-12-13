@@ -1,7 +1,7 @@
 ---
 title: "Beyond ThinkPads and MacBooks: Discovering Exceptional Productivity Laptops for Power Users"
-date: 2024-12-06T02:08:51.097Z
-updated: 2024-12-06T16:13:22.283Z
+date: 2024-12-09T22:57:28.716Z
+updated: 2024-12-12T17:30:37.995Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,18 +134,19 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-best-sources-for-pixel-ringtone-downloads/"><u>[New] Best Sources for Pixel Ringtone Downloads</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-android-sound-logging-without-need-for-rooting/"><u>[New] In 2024, Android Sound Logging Without Need for Rooting</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-exclusive-top-5-list-of-fb-video-downloaders/"><u>[Updated] 2024 Approved Exclusive TOP 5 List of FB Video Downloaders</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-harmonizing-your-browsing-experience-with-automatic-youtube-playback-on-facebook/"><u>[Updated] In 2024, Harmonizing Your Browsing Experience with Automatic YouTube Playback on Facebook</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-ranking-the-top-value-video-resources-online/"><u>[Updated] Ranking the Top Value Video Resources Online</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-chromebook-evaluation-unveiling-the-ultimate-fixable-and-futureproof-model-by-framework/"><u>Comprehensive ChromeBook Evaluation: Unveiling the Ultimate Fixable and Futureproof Model by Framework</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-cyber-monday-deals-countdown-save-on-electronics-with-our-top-17-picks-from-tv-to-surround-sound-systems/"><u>Exclusive Cyber Monday Deals Countdown: Save on Electronics with Our Top 17 Picks From TV to Surround Sound Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-list-of-prime-days-2024-greatest-game-offers-yet-to-expire/"><u>Exclusive List of Prime Day's 2024 Greatest Game Offers Yet to Expire!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-htc-u23-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked HTC U23 Phone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-mastering-file-imports-into-windows-11-with-ease/"><u>In 2024, Mastering File Imports Into Windows 11 with Ease</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/nvidia-gaming-laptop-deals-unleashed-dont-miss-the-amazon-prime-day-2n24-savings/"><u>NVIDIA Gaming Laptop Deals Unleashed: Don't Miss the Amazon Prime Day 2N24 Savings !</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revamp-your-laptops-style-with-fresh-carrying-cases-tips/"><u>Revamp Your Laptop's Style with Fresh Carrying Cases - Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-6-faulty-language-models-add-ons-why-they-dont-deliver-and-how-to-dodge-them/"><u>Top 6 Faulty Language Models Add-Ons - Why They Don't Deliver and How to Dodge Them</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-dispatching-dreadful-green-screen-distortion-on-mac-editing-sessions/"><u>[New] Dispatching Dreadful Green Screen Distortion on Mac-Editing Sessions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-elevate-your-videos-youtube-trailers-through-filmora/"><u>[New] In 2024, Elevate Your Videos YouTube Trailers Through Filmora</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-practices-in-converting-videos-for-twitter/"><u>[Updated] Best Practices in Converting Videos for Twitter</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-bringing-still-images-to-life-a-step-by-step-guide-for-slow-motion-videos-with-photos/"><u>[Updated] Bringing Still Images to Life A Step-by-Step Guide for Slow-Motion Videos with Photos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-10-steps-to-youtube-to-mpeg-conversion/"><u>[Updated] Top 10 Steps to YouTube-to-MPEG Conversion</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-rescuing-muted-voices-during-obs-sessions/"><u>2024 Approved Rescuing Muted Voices During OBS Sessions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024-budget-friendly-cpu-showdown-expert-ranking-and-reviews-at-toms-hardware/"><u>2024 Budget-Friendly CPU Showdown: Expert Ranking & Reviews at Tom's Hardware</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/beats-in-the-balance-adding-music-to-whatsapp-for-2024/"><u>Beats in the Balance Adding Music to WhatsApp for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-updates-for-amd-radeon-rx-graphics-cards-with-ease/"><u>Download & Install Updates for AMD Radeon RX Graphics Cards With Ease</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-realtek-wifi-drivers-for-seamless-performance-on-windows-11-systems/"><u>Download Updated Realtek WiFi Drivers for Seamless Performance on Windows 11 Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/effortless-edits-with-windows-11-photoshop-guide/"><u>Effortless Edits with Windows 11 Photoshop Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-geforce-940mx-graphics-driver-download/"><u>Nvidia GeForce 940MX Graphics Driver Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978657161-surface-book-drivers-download-and-update-easily/"><u>Surface Book Drivers Download & Update EASILY</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973089618-updated-and-secure-access-the-new-wireless-driver-software-today/"><u>Updated & Secure: Access the New Wireless Driver Software Today!</u></a></li>
 </ul></div>
 

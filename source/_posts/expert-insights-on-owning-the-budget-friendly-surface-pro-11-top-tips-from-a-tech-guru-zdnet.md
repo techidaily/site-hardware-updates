@@ -1,7 +1,7 @@
 ---
 title: Expert Insights on Owning the Budget-Friendly Surface Pro 11 - Top Tips From a Tech Guru | ZDNet
-date: 2024-12-02T20:28:39.020Z
-updated: 2024-12-06T17:44:00.098Z
+date: 2024-12-09T19:10:12.775Z
+updated: 2024-12-13T01:04:41.875Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -49,7 +49,7 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 How did this happen? Let's dive in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The experience is familiar
@@ -65,7 +65,7 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -85,7 +85,7 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -145,7 +145,7 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -192,20 +192,14 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-a-compreayers-guide-to-growth-updating-youtube-metadata-for-2024/"><u>[Updated] A Compreayer's Guide to Growth Updating YouTube Metadata for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unlocking-the-full-potential-of-apple-tv-with-fb-video-streams/"><u>[Updated] Unlocking the Full Potential of Apple TV with FB Video Streams</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/booking-assistance-at-your-local-apple-store-tips-and-tricks-for-a-smooth-experience/"><u>Booking Assistance at Your Local Apple Store: Tips & Tricks for a Smooth Experience</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/cracking-the-code-on-modern-warfare-stability-issues-now-running-without-interruptions/"><u>Cracking the Code on Modern Warfare Stability Issues – Now Running Without Interruptions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-amd-radeon-hd-7700-drivers-freshest-updates-instantly-available/"><u>Download AMD Radeon HD 7700 Drivers: Freshest Updates Instantly Available</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-will-apple-revolutionize-its-mac-lineup-the-upcoming-m4-chip-infuses-artifical-intelligence-across-devices-expected-launch-dates-uncovered/"><u>How Will Apple Revolutionize Its Mac Lineup? The Upcoming M4 Chip Infuses Artifical Intelligence Across Devices - Expected Launch Dates Uncovered</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-step-by-step-incorporating-music-into-your-canva-projects/"><u>In 2024, Step-by-Step Incorporating Music Into Your Canva Projects</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-computer-components-and-software-tips-from-toms-hardware/"><u>Navigating Computer Components and Software - Tips From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-hardware-choices-with-toms-system-solutions/"><u>Navigating Hardware Choices with Tom's System Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-latest-in-electronics-with-toms-hardware-advice/"><u>Navigating the Latest in Electronics with Tom's Hardware Advice</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/pre-covid-levels-restored-worldwide-motherboard-market-set-to-deliver-39-million-units-this-year/"><u>Pre-COVID Levels Restored: Worldwide Motherboard Market Set to Deliver 39 Million Units This Year</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/precision-evaluations-of-electronics-delving-into-toms-tech-world/"><u>Precision Evaluations of Electronics - Delving Into Tom's Tech World</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revealed-the-ultimate-guide-to-the-newly-unveiled-evga-classified-x67t-amd-board-demanding-over-1300/"><u>Revealed: The Ultimate Guide to the Newly Unveiled EVGA Classified X67t AMD Board - Demanding Over $1,300</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sony-state-of-play-2024-decoded-major-announcements-rumors-and-features-explored/"><u>Sony State of Play 2024 Decoded: Major Announcements, Rumors & Features Explored</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unpacking-the-features-and-shortcomings-of-samsung-image-editor-for-2024/"><u>Unpacking the Features and Shortcomings of Samsung Image Editor for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-moving-photos-and-videos-from-pc-to-iphone-effortlessly/"><u>[New] Moving Photos & Videos From PC to iPhone Effortlessly</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-swift-remedies-for-iphone-unfocused-shots-for-2024/"><u>[Updated] Swift Remedies for iPhone Unfocused Shots for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/acer-display-driver-downloads-secure-options-for-enhanced-graphics-performance/"><u>Acer Display Driver Downloads: Secure Options for Enhanced Graphics Performance</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/contemplating-if-video-selfies-need-validation-on-instagram/"><u>Contemplating if Video Selfies Need Validation On Instagram</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fast-track-to-connectivity-download-your-wi-fi-adapter-drivers-today/"><u>Fast Track to Connectivity: Download Your Wi-Fi Adapter Drivers Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-optimal-performance-rtx-2060-super-graphics-card-and-windows-11-compatible-drivers-now-available/"><u>Get Optimal Performance: RTX 2060 Super Graphics Card & Windows 11 Compatible Drivers Now Available!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-installing-webcam-drivers-on-windows-7/"><u>Quick Guide: Installing WebCam Drivers on Windows 7</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/save-and-play-on-any-device-how-to-download-xboxclips-in-various-video-types-mp4-mov-avi-flv-wmv-mkv/"><u>Save & Play On Any Device: How to Download XboxClips in Various Video Types: MP4, MOV, AVI, FLV, WMV, MKV</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-what-to-do-when-your-pc-wont-turn-on/"><u>Troubleshooting Steps: What to Do When Your PC Won't Turn On</u></a></li>
 </ul></div>
 

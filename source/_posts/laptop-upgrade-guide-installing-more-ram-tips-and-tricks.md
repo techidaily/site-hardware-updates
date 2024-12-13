@@ -1,7 +1,7 @@
 ---
 title: "Laptop Upgrade Guide: Installing More RAM - Tips & Tricks"
-date: 2024-12-02T22:46:42.366Z
-updated: 2024-12-07T02:12:30.785Z
+date: 2024-12-06T23:17:13.100Z
+updated: 2024-12-12T21:25:41.180Z
 tags:
   - laptops
 categories:
@@ -32,6 +32,10 @@ Chances are you're either running really low on storage space or RAM.
 
 [![best-windows-10-laptop-dell-xps-13-cnet.jpg](https://www.zdnet.com/a/img/resize/93abfd48ce4c77d0dcecd931bb15ef0140be039a/2021/06/15/b2460897-9294-43d4-8fcc-2a8b2afdb711/best-windows-10-laptop-dell-xps-13-cnet.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Windows laptops Here are ZDNET's top picks for a variety of use cases.  Read now](https://www.zdnet.com/article/best-windows-laptop/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 RAM -- short for" random access memory" -- is vital for your computer system to open, run, and manage programs, applications, and services. It's where your computer stores data it needs to access rapidly.
 
 The amount of RAM a system has can make or break a PC. The more RAM you have (to a point), the more applications you can have running side-by-side.
@@ -41,10 +45,6 @@ OK, so you decided to save some money and bought a laptop with 4GB of RAM and yo
 Just add more RAM, right?
 
 I wish it were that simple.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Do you need more RAM?
 
@@ -73,10 +73,6 @@ There are two ways to tell if your system's RAM can be upgraded:
 1. Look at the documentation that came with your system – look for a phrase like "upgradable RAM."
 2. Let the RAM experts tell you – both [Crucial](https://www.crucial.com/products/memory/laptop-dram) and [Kingston](https://www.kingston.com/en/memory/desktop-laptop) have tools to help you locate this information (this is what I use -- don't just guess!)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Information you need to know
 
 Here are things you need to know before pulling the trigger on an upgrade:
@@ -86,6 +82,10 @@ Here are things you need to know before pulling the trigger on an upgrade:
 * What kind of RAM does your system take?
 
 RAM comes in modules -- boards with chips on them -- that slip into slots in your laptop. There are a few variables -- different modules, different RAM capacities, and different speeds – that you need to know about to find the right RAM for your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How much RAM do you have?
 
@@ -101,7 +101,7 @@ Checking how much RAM on a Windows 11 PC
 Adrian Kingsley-Hughes/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much RAM do you need to buy?
@@ -127,7 +127,7 @@ If there's only one slot, then the RAM in that slot can't be used.
 The best way to tell how RAM is organized in your system is to open it up and take a look (we'll get to this shortly).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tools you need
@@ -172,7 +172,7 @@ There will be parts and screws that are easier to keep track of if there's no ot
 Don't poke around inside a laptop that's plugged in!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Remove the battery (if you can)
@@ -184,6 +184,10 @@ If the battery is removable, remove it. If not, you can disconnect the battery f
 Do this either by going through a small hatch held down by a screw or removing the entire base of the laptop (lots of screws -- be aware that some might be different lengths), and take your time and work slowly and methodically, paying special care when removing the base of the laptop (work it gently, don't pry or force anything).
 
 > **Pro tip**: Take photos using your smartphone so you know where everything goes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Remove the RAM
 
@@ -216,14 +220,10 @@ If your laptop fires up, check that the extra RAM is seen by the system.
 You're done!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can increasing RAM improve performance?
 
@@ -239,16 +239,12 @@ A computer is the sum of its parts, and for a fast PC you need a good balance of
 
 **Also:** [**What graphics card do I have? How to check your GPU and drivers**](https://www.zdnet.com/article/what-graphics-card-do-i-have-how-to-check-your-gpu-and-drivers/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which brand of RAM is best for laptop?
 
 I generally stick with Crucial or Kingston RAM. These are the brands that I've had the best success with.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is RAM expensive?
@@ -266,6 +262,10 @@ But you'll never run into a situation of not having enough RAM!
 Waste a LOT of money!
 
 Truth is, you won't find a laptop that has anywhere near 1TB of RAM.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How much RAM can you add to a 4GB laptop?
 
@@ -303,24 +303,17 @@ For some laptops, 4GB is the maximum and the end of the road, for other laptops,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-streamline-your-viewing-with-these-9-playlist-extractors/"><u>[New] 2024 Approved Streamline Your Viewing with These 9 Playlist Extractors</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-security-first-legitimate-tiktok-fan-buys/"><u>[New] In 2024, Security First Legitimate TikTok Fan Buys</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-insta-photo-watermarks-a-step-by-step-guide/"><u>[Updated] 2024 Approved Mastering Insta Photo Watermarks A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-video-craft-decoding-filmora-questions/"><u>[Updated] Mastering Video Craft Decoding Filmora Questions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-hp-officejet-pro-8610-driver-download-package-for-multiple-windows-platforms/"><u>Comprehensive HP Officejet Pro 8610 Driver Download Package for Multiple Windows Platforms</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-dell-network-adapter-driver-for-windows-7/"><u>Download Dell Network Adapter Driver for Windows 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-updating-netgear-wireless-network-adaptor-drivers/"><u>Easy Guide to Downloading & Updating NETGEAR Wireless Network Adaptor Drivers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-your-non-working-wireless-charger-7-proven-methods-for-your-iphone-device/"><u>Fix Your Non-Working Wireless Charger: 7 Proven Methods for Your iPhone Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-dell-wireless-network-card-up-and-running-download-the-latest-drivers/"><u>Get Your Dell Wireless Network Card Up and Running: Download the Latest Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-g29-steering-wheel-driver-for-modern-and-legacy-windows-systems-free/"><u>Get Your Logitech G29 Steering Wheel Driver for Modern and Legacy Windows Systems Free</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/honesty-as-a-learner-refusing-cheap-ai-solutions/"><u>Honesty as a Learner: Refusing Cheap AI Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-install-the-latest-hp-laserjet-p3n-series-drivers-on-your-computer/"><u>How to Find and Install the Latest HP LaserJet P3n Series Drivers on Your Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-konica-minolta-printer-drivers-on-your-windows-pc-windows-111087/"><u>How to Install Konica Minolta Printer Drivers on Your Windows PC (Windows 11/10/8/7)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-flash-frame-filmmakers-plan/"><u>In 2024, Flash Frame Filmmaker's Plan</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-dynamics-behind-tseries-youtube-earning-patterns/"><u>In 2024, The Dynamics Behind TSeries' YouTube Earning Patterns</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-version-of-nvidia-quadro-rtx-ns-drivers-for-win-11107-free-download-available/"><u>Latest Version of Nvidia Quadro RTX N's Drivers for Win 11/10/7 - Free Download Available!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722976197846-lenovo-x220-driver-software-quick-easy-and-safe-to-download-now/"><u>Lenovo X220 Driver Software - Quick, Easy, and Safe to Download Now!</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/mlining-short-film-previews-for-channels/"><u>Streamlining Short Film Previews for Channels</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-arctic-acrobatics-2022s-olympians/"><u>[Updated] In 2024, Arctic Acrobatics 2022'S Olympians</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-examining-the-financial-success-strategies-of-t-series-on-youtube/"><u>[Updated] In 2024, Examining the Financial Success Strategies of T-Series on YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-nurturing-a-thriving-community-for-more-insta-views/"><u>[Updated] In 2024, Nurturing a Thriving Community for More Insta Views</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/compatibility-check-can-your-iphone-13-case-be-adapted-for-the-latest-iphone-14-model-zdnet/"><u>Compatibility Check: Can Your iPhone 13 Case Be Adapted for the Latest iPhone 14 Model? - ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-nokia-c12-plus-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Nokia C12 Plus Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-make-a-photo-collage-on-facebook/"><u>How to Make a Photo Collage on Facebook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-box-by-strategy-market-success-blueprints/"><u>In 2024, Box by Strategy Market Success Blueprints</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionary-image-enhancement-my-mind-blown-by-the-sony-a8amazing-ai-powered-tv-under-two-grand-check-out-zdnet-review/"><u>Revolutionary Image Enhancement: My Mind Blown by the Sony A8amazing AI-Powered TV Under Two Grand! Check Out ZDNET Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionary-viewing-experience-top-tier-samsung-tv-now-more-affordable-than-ever/"><u>Revolutionary Viewing Experience: Top-Tier Samsung TV Now More Affordable Than Ever!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/scorching-discount-alert-up-to-170-off-amazons-popular-fire-tv-qled-series-act-fast-on-this-exclusive-offer-full-details-zdnet/"><u>Scorching Discount Alert: Up to $170 Off Amazon's Popular Fire TV QLED Series! Act Fast on This Exclusive Offer - Full Details | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-your-dream-lg-oled-television-for-a-bargain-exclusive-labor-day-offer-with-savings-of-up-to-80-cups-check-out-the-latest-reviews-on-zdnet/"><u>Snag Your Dream LG OLED Television for a Bargain: Exclusive Labor Day Offer with Savings of up to $80 Cups! Check Out the Latest Reviews on ZDNET</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/voice-memos-inspectors-handbook-for-2024/"><u>Voice Memos Inspector's Handbook for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Maximize Your Smart Home with Key Home Assistant Extensions – Don't Skip Them!
-date: 2024-08-28T02:02:25.857Z
-updated: 2024-08-29T02:02:25.857Z
+date: 2024-12-10T20:15:47.592Z
+updated: 2024-12-13T04:42:09.605Z
 tags:
   - hardware
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Maximize Your Smart Home with Key Home Assistant Extensions – Don't Skip Them!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -31,9 +35,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  HACS requires a GitHub account, and you must put Home Assistant into Advanced mode (found under your profile by clicking your login name at the bottom of the screen).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ###  Install HACS
 
  To install HACS, select the "Settings" button in the bottom-left corner of the Home Assistant dashboard. Next, choose Add-ons > Add-on store. Then, install the "Terminal & SSH" add-on into your Home Assistant setup by clicking the "Install" button.
@@ -50,42 +51,42 @@ reboot
 
 ![HACS integration in Home Assistant.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ha-hacs-inte.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With Home Assistant rebooted, clear your browser cache. Then, select "Settings > Devices & services. Click the "Add Integration" button, and search for "HACS." Check all the boxes, and select "Submit". Follow the on-page instructions to connect HACS to your GitHub account. Once connected, HACS will appear in the sidebar.
 
 ![Home Assistant HACS preferences checkboxes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ha-hacs-sub.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 [Node-RED](https://community.home-assistant.io/t/home-assistant-community-add-on-node-red/55023) 
 
 ![Node RED add-on for Home Assistant.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ha-node.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 [Node-RED](https://community.home-assistant.io/t/home-assistant-community-add-on-node-red/55023) is a visual programming tool that allows you to create complex automations in Home Assistant without needing to be an expert. Node-RED gives you an elegant drag-and-drop interface to create custom interfaces with no scripting or programming code knowledge. This add-on is perfect if you want to get the most out of your Home Assistant, but don't fancy writing long and complex automations by hand.
 
  For example, you can use Node-RED to create a custom "goodnight" scene that locks your doors, turns off the lights, and sets your thermostat with a single button. By dragging and dropping nodes, you can create many workflows like this, making it easy to automate your home to your exact needs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ###  Install Node-RED
 
  To install, open the Home Assistant web interface. Go to Settings, then Add-ons, and search for "Node-RED". Click on the result and click "Install" to install the add-on.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3 [Grafana](https://community.home-assistant.io/t/home-assistant-community-add-on-grafana/54674) 
 
 ![Grafana add-on for Home Assistant.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ha-graf.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 [Grafana](https://community.home-assistant.io/t/home-assistant-community-add-on-grafana/54674) is a data visualization tool that enables you to create custom dashboards and charts to monitor and analyze your smart home data. Integrating this into Home Assistant allows you to create intuitive dashboards that track your energy consumption, temperature, and other sensor data.
 
  One of the benefits of integrating Grafana into Home Assistant is the ability to combine data from multiple sources into a single, unified dashboard. This allows you to aggregate data from different devices and systems, providing a more comprehensive understanding of your smart home's performance. For example, you could track how changes in outdoor temperature affect your energy consumption or monitor how different variables impact your home's efficiency.
@@ -94,17 +95,10 @@ reboot
 
  To install, open the Home Assistant web interface. Navigate to Settings, then Add-ons, and search for "Grafana". Click on the result and select "Install" to add the add-on.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## 4 [ESPHome](https://esphome.io) 
 
 ![ESPHome add-on for Home Assistant.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ha-esp.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 [ESPHome](https://esphome.io) is a firmware for ESP-based microcontrollers that integrates seamlessly with Home Assistant. With ESPHome, you can create customized firmware for your ESP devices, eliminating the need for third-party services. This gives you complete control over these devices, ensuring enhanced security and reliability.
 
  ESPHome is very flexible. You can use it to create various devices, from simple sensors to complex automated systems. It also offers a wide range of customization, allowing you to tailor your devices to meet your specific needs.
@@ -113,9 +107,6 @@ reboot
 
  To install, open the Home Assistant web interface. Go to Settings, then Add-ons, and search for "ESPHome". Select the add-on and click "Install" to install ESPHome to Home Assistant.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5 [Mosquitto Broker](https://www.home-assistant.io/integrations/mqtt) 
 
 ![Mosquitto broker add-on for Home Assistant.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ha-mosquitto.png) 
@@ -124,16 +115,21 @@ reboot
 
  Using [Mosquitto Broker](https://www.home-assistant.io/integrations/mqtt) allows devices to send and receive messages independently, without being blocked by other devices on your Home Assistant setup. This makes it easier to add or remove devices from your setup without disrupting the entire system.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Install Mosquitto Broker
 
  To install, open the Home Assistant web interface. Go to Settings, then Add-ons. Search for "Mosquitto Broker" and click on it. Click "Install" to install the add-on on your Home Assistant setup.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6 [Let's Encrypt](https://letsencrypt.org) 
 
 ![Let's Encrypt add-on for Home Assistant.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ha-lets-encrypt.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Let's Encrypt](https://letsencrypt.org) is a free, open SSL certificate authority. It exists to make getting SSL certificates for devices easy. The Let's Encrypt add-on for Home Assistant allows you to more easily integrate SSL/TLS encryption so that your data stays protected from eavesdroppers and tamperers.
 
@@ -151,6 +147,10 @@ reboot
 
  The Samba Share add-on can also simplify tasks like editing configuration files or uploading custom themes and icons. No more manually transferring files via SSH or FTP.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Install Samba Share
 
  To install, open the Home Assistant web interface. Go to Settings, then Add-ons. Search for "Samba Share" and click on it. Click "Install" to install the add-on to Home Assistant.
@@ -165,8 +165,6 @@ reboot
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +172,22 @@ reboot
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-beginners-guide-to-av1-codec/"><u>[Updated] In 2024, Beginner's Guide to AV1 Codec</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-unlock-humor-potential-with-kapwings-designer/"><u>[Updated] In 2024, Unlock Humor Potential with Kapwing’s Designer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-warzone-dev-error-6328-tackled-ultimate-guide-for-players/"><u>Cod Warzone Dev Error #6328 Tackled - Ultimate Guide for Players</u></a></li>
+<li><a href="https://blog-min.techidaily.com/creer-des-medias-multiformes-avec-facilite-via-les-outils-movavi/"><u>Créer Des Médias Multiformes Avec Facilité via Les Outils Movavi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-technology-with-dell-xps-laptops-a-must-read-analysis-by-zdnet/"><u>Exploring Cutting-Edge Technology with Dell XPS Laptops – A Must-Read Analysis by ZDNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-xiaomi-14-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Xiaomi 14 Pro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-in-google-spreadsheets-and-documents/"><u>Mastering ChatGPT in Google Spreadsheets & Documents</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/review-of-the-eufy-security-solocam-s34-top-notch-solar-powered-motion-detector-for-enhanced-safety/"><u>Review of the Eufy Security Solocam S34#: Top-Notch Solar-Powered Motion Detector for Enhanced Safety</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/review-the-ultimate-guide-to-sennheiser-momentum-sport-gym-ready-headphones/"><u>Review: The Ultimate Guide to Sennheiser Momentum Sport - Gym-Ready Headphones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionary-wiim-enhancement-boost-your-classic-sound-setup-with-the-latest-streaming-technology/"><u>Revolutionary WiiM Enhancement: Boost Your Classic Sound Setup with the Latest Streaming Technology</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/say-goodbye-to-lost-remotes-discover-the-ultimate-solution-with-our-innovative-tile-remote-finder/"><u>Say Goodbye to Lost Remotes: Discover the Ultimate Solution with Our Innovative Tile Remote Finder</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/section-2c-similar-but-increasingly-complex-questions/"><u>Section 2C: Similar but Increasingly Complex Questions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/smart-home-oversight-made-easier-with-matter-13/"><u>Smart Home Oversight Made Easier with Matter 1.3</u></a></li>
+<li><a href="https://win-answers.techidaily.com/streamlined-strategies-for-reducing-warframe-lag-and-enhancing-gameplay-fluidity/"><u>Streamlined Strategies for Reducing Warframe Lag and Enhancing Gameplay Fluidity</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-nokia-130-music-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Nokia 130 Music Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>
 

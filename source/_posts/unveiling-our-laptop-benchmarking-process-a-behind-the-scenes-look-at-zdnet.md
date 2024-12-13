@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Our Laptop Benchmarking Process: A Behind-the-Scenes Look at ZDNet"
-date: 2024-11-29T16:32:51.777Z
-updated: 2024-12-06T23:02:41.083Z
+date: 2024-12-10T21:50:18.225Z
+updated: 2024-12-12T17:20:15.416Z
 tags:
   - laptops
 categories:
@@ -39,6 +39,10 @@ In this comparison, "laptop" refers to portable computers running traditional op
 **More: [How to get Photoshop for free](https://www.zdnet.com/article/how-to-get-photoshop-for-free/)**
 
 For example, a person editing a photo on a standard laptop could use locally installed programs like Microsoft Paint, Adobe Photoshop, or GIMP, or photo-editing web apps like [Pixlr](https://pixlr.com/), [Imgur](https://imgur.com/edit?deletehash=TBFOmNPuPRoKQfh), or [Photoshop on the web (beta)](https://photoshop.adobe.com/). A user wanting to complete the same task on a Chromebook would need to rely on web apps, as locally installed options like Paint and Photoshop are not compatible with ChromeOS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can a Chromebook do everything a laptop can?
 
@@ -79,7 +83,7 @@ To be clear, you shouldn't purchase a Chromebook if you don't intend to have it 
 Google
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are Chromebooks expensive?
@@ -96,10 +100,6 @@ You could buy a very low-end laptop for around the same price, but the build qua
 
 As an exception, there are several more high-priced Chromebooks available. High-end models like [Google's Pixelbook Go](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgoogle-pixelbook-go-13-3-touch-screen-chromebook-intel-core-m3-8gb-memory-64gb-solid-state-drive-just-black%2F6382912.p&publisher_slug=itechdaily19598&exclusive=1) or [Samsung's Galaxy Chromebook](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Chromebook-Computer-Touchscreen-Processor%2Fdp%2FB088T2C912%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4fe93112-1c69-4877-99b1-6f6ee78fc62d%7Cdtp&dtb=1) incorporate premium materials, high-resolution displays, and internal components that would be at home in a high-end laptop. While these models are overkill for most Chromebook users, they could suit someone expecting their Chromebook to be their primary computing device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best Chromebook?
 
 The answer depends on your intended uses. Need a couch PC for basic browsing, maybe some social media, and the occasional streaming video? Then your priorities are very different from a student who wants a system with maximum portability and epic battery life. Because of this, ZDNET has best lists geared toward specific types of users, which you can find below.
@@ -113,7 +113,7 @@ If you want my quick picks for the best Chromebooks overall, I've included a few
 Getty
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### For mixed use:
@@ -123,7 +123,7 @@ Getty
 This is the Chromebook I've recommended to several family members and friends, all of whom reported excellent long-term satisfaction. Its touchscreen will let you play Android games, and its reliability and build quality will help you power through work or homework with equal ease. It's all the "laptop" most of us will ever need. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### For gaming:
@@ -132,15 +132,15 @@ This is the Chromebook I've recommended to several family members and friends, a
 
 I've reviewed two of the three Chromebooks included in the first wave of gaming-centric models, and the Acer 516 GE slightly edged out its competition due to the inclusion of an Ethernet port. If you're purely a Wi-Fi user with a great connection, the [Lenovo IdeaPad Gaming Chromebook](https://lenovo.vzew.net/c/5597632/218864/3808?sharedId=zdnet&u=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fideapad%2Fideapad-gaming-laptops%2Fideapad-5i-gaming-chromebook-gen-7-%2816-inch-intel%29%2Flen101i0062&subId1=zd-__COM_CLICK_ID__-dtp) could be a great option too. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### For the road warrior:
 
 [Google Pixelbook Go $699.99 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07YMGQYP6%2Fref%3Dasc%5Fdf%5FB07YMGQYP61728644400000%3Fcreative%3D395261%26creativeASIN%3DB07YMGQYP6%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4fe93112-1c69-4877-99b1-6f6ee78fc62d%7Cdtp&dtb=1)
 
 $650 might seem pricey when options like the great Lenovo model above exist. But, the exceptional build quality, 12-hour battery life, and laptop-class CPU all make a great case for this being the Chromebook to buy if you intend to be a one-computer traveler. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### For young students:
 
@@ -178,18 +178,18 @@ I wouldn't call the Dell Chromebook 3100 disposable at $100, but it's as close a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-sculpt-your-vision-editing-videos-using-story-remix-and-windows-photos/"><u>[New] Sculpt Your Vision Editing Videos Using Story Remix and Windows Photos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-exploring-youtube-shorts-a-beginners-guide-to-video-crafting/"><u>[Updated] 2024 Approved Exploring YouTube Shorts A Beginner's Guide to Video Crafting</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-best-12-mouse-focused-pc-games-for-enthusiasts/"><u>[Updated] In 2024, Best 12 Mouse-Focused PC Games for Enthusiasts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-screenshotsweeperpro-next-gen-bg-removal-tool/"><u>2024 Approved ScreenshotSweeperPro Next-Gen BG Removal Tool</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/2024s-ultimate-guide-to-premium-m-2-solid-state-drives-in-depth-analysis-and-ratings/"><u>2024'S Ultimate Guide to Premium M. 2 Solid State Drives: In-Depth Analysis & Ratings</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/convert-your-windows-11-32-bit-into-64-bit-form/"><u>Convert Your Windows 11 (32-Bit) Into 64-Bit Form</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/easy-tutorials-for-making-your-videos-compatible-with-apple-mobile-devices/"><u>Easy Tutorials for Making Your Videos Compatible with Apple Mobile Devices</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-realme-11-pro-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Realme 11 Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-redmi-note-12r-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi Redmi Note 12R Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/power-users-rejoice-discover-the-top-duo-of-features-that-make-this-lenovo-laptop-stand-out/"><u>Power Users Rejoice: Discover the Top Duo of Features That Make This Lenovo Laptop Stand Out</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-15-inch-laptop-picks-for-2eplust-year-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top Rated 15-Inch Laptop Picks for 2E+t Year - Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-tablet-deals-on-cyber-monday-get-600-off-microsoft-surface-pro-8-post-black-friday-sale-insider/"><u>Top Tablet Deals on Cyber Monday: Get $600 Off Microsoft Surface Pro 8 Post-Black Friday Sale Insider</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-directvid-capture-kit-fb-version/"><u>[Updated] 2024 Approved DirectVid Capture Kit, FB Version</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-complete-guide-to-editing-youtube-on-the-go-with-sony-vegas/"><u>[Updated] The Complete Guide to Editing YouTube on the Go With Sony Vegas</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/comment-liberer-windows-11-du-mode-veille-solutions-rapides-et-efficaces/"><u>Comment Libérer Windows 11 Du Mode Veille : Solutions Rapides Et Efficaces</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-aoc-monitor-drivers-on-windows-11-10-or-8/"><u>Download and Install AOC Monitor Drivers on Windows 11, 10 or 8</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/dvr-decisions-heres-what-to-ponder-first/"><u>DVR Decisions? Here's What to Ponder First</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-dell-display-driver-installation-guide/"><u>Effortless Dell Display Driver Installation Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elite-choices-in-total-sweep-cinematography/"><u>Elite Choices in Total Sweep Cinematography</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-g35-onboarded-on-windows-systems-windows-7810/"><u>Get Your Logitech G35 Onboarded on Windows Systems (Windows 7/8/10)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-honor-magic-5-lite-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Honor Magic 5 Lite to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719153627799-initiating-stronger-privacy-facebooks-messenger-and-instagram-end-to-end-encryption-launched/"><u>Initiating Stronger Privacy: Facebook's Messenger & Instagram End-to-End Encryption Launched</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keeping-your-lenovo-thinkpad-in-top-shape-secure-and-up-to-date-drivers-downloaded/"><u>Keeping Your Lenovo ThinkPad in Top Shape: Secure & Up-to-Date Drivers Downloaded</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-startech-driver-conflicts-on-windows-10-8-and-7-solutions-exposed/"><u>Resolving StarTech Driver Conflicts on Windows 10, 8 & 7 - Solutions Exposed</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/stepwise-revelation-of-concealed-youtube-archives/"><u>Stepwise Revelation of Concealed YouTube Archives</u></a></li>
 </ul></div>
 

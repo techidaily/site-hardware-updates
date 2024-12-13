@@ -1,7 +1,7 @@
 ---
 title: Microsoft Slashes Prices on Surface Go and Drops All-Time Low Price for Xbox Series S
-date: 2024-12-06T01:41:01.664Z
-updated: 2024-12-07T03:54:57.179Z
+date: 2024-12-07T22:31:52.152Z
+updated: 2024-12-12T18:19:30.309Z
 tags:
   - laptops
 categories:
@@ -27,7 +27,7 @@ Microsoft is known for its innovative products in gaming, computers, and more. A
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Save hundreds on Surface tablets and laptops**
@@ -43,7 +43,7 @@ Under the tablet's hood, you'll find a blazing-fast processor (12th Gen Intel Co
 Meanwhile, if you're preference is for laptops, then Microsoft has other deals for you. You can save $200 on the Surface Laptop 5, up to $646 on the Surface Laptop 4, and $150 on the Surface Laptop Go 2\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Get the Xbox Series S at its lowest price ever**
@@ -59,7 +59,7 @@ This is a digital console, meaning you'll have ample room to download games on i
 Overall, the Xbox Series S is an excellent gaming system for those looking for jaw-dropping graphics, access to a diverse gaming library, and fast performance. In addition, Microsoft lowered its price to $239.99, making it the best time to buy one. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Want to save even more on Microsoft devices?**
@@ -110,16 +110,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-perfectly-emulated-sony-ps3-titles-top-5-windows-tools/"><u>[New] In 2024, Perfectly Emulated Sony PS3 Titles Top 5 Windows Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-niche-networking-on-youtube-from-phone-small-scale-approach/"><u>[Updated] Niche Networking on Youtube From Phone, Small-Scale Approach</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-artistic-modifications-pic-editing-masterclass/"><u>2024 Approved Artistic Modifications Pic Editing Masterclass</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-evaluation-of-the-panasonic-toughbook-g2-the-ultimate-blend-of-durability-portability-and-customization-insights-from-zdnet/"><u>Comprehensive Evaluation of the Panasonic Toughbook G2: The Ultimate Blend of Durability, Portability & Customization - Insights From ZDNet</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/effective-strategies-to-ensure-full-data-preservation-in-windows-11-backups/"><u>Effective Strategies to Ensure Full Data Preservation in Windows 11 Backups</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-a-used-microsoft-surface-pro-going-for-just-445-tips-and-reviews/"><u>Get Your Hands on a Used Microsoft Surface Pro Going for Just $445 - Tips & Reviews</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-honor-x50-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor X50 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigating-the-landscape-of-color-correction-innovative-uses-of-luts-in-video-editing/"><u>Navigating the Landscape of Color Correction Innovative Uses of LUTs in Video Editing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/safeguard-your-secrets-how-pc-technicians-may-access-more-than-just-hardware-according-to-latest-study-zdnet/"><u>Safeguard Your Secrets: How PC Technicians May Access More Than Just Hardware, According to Latest Study | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-choosing-the-perfect-laptop-for-graphic-artists-in-depth-reviews-and-comparisons-zdnet/"><u>Ultimate Guide to Choosing the Perfect Laptop for Graphic Artists: In-Depth Reviews and Comparisons | ZDNet</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-crafting-fast-fortnite-icons-in-minutes/"><u>[Updated] Crafting Fast Fortnite Icons in Minutes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-essential-iphone-podcast-retrieval-handbook/"><u>[Updated] In 2024, The Essential iPhone Podcast Retrieval Handbook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-practices-for-resolving-compatibility-and-performance-problems-of-startech-drivers-on-windows-11-8-and-e/"><u>Best Practices for Resolving Compatibility and Performance Problems of StarTech Drivers on Windows 11, 8 & E</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-to-installing-newest-huion-software-for-windows-systems/"><u>Comprehensive Guide to Installing Newest Huion Software for Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-essential-drivers-for-hp-elitebook-x360-1030-g2-model/"><u>Download Essential Drivers for HP EliteBook X360 1030 G2 Model</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-fresh-nvidia-mx150-graphics-driver-update-on-your-windows-device/"><u>Easy Steps to Fresh Nvidia MX150 Graphics Driver Update on Your Windows Device</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-seamless-spotify-links-on-windows-11-pc/"><u>Ensuring Seamless Spotify Links on Windows 11 PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-update-secure-hp-officejet-5255-printer-drivers-for-optimal-performance/"><u>Find & Update: Secure HP OfficeJet 5255 Printer Drivers for Optimal Performance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/generative-ai-mastery-avoid-these-7-frequent-mistakes/"><u>Generative AI Mastery: Avoid These 7 Frequent Mistakes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-msi-b350-tomahawk-driver-updates-for-windows-107-systems/"><u>Get the Latest MSI B350 Tomahawk Driver Updates for Windows 10/7 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-download-the-newest-hp-laptop-drivers-compatible-with-windows-os/"><u>How to Find and Download the Newest HP Laptop Drivers Compatible with Windows OS</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-apple-iphone-14-pro-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect Apple iPhone 14 Pro and iPad</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-photography-for-the-masses-the-best-12-sites-offering-accessible-stock-images/"><u>In 2024, Photography for the Masses - The Best 12 Sites Offering Accessible Stock Images</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-total-environmental-immersion-in-media-creation/"><u>In 2024, Total Environmental Immersion in Media Creation</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/simple-methods-for-downloading-and-installing-updated-drivers-on-a-dell-d31atur-peripheral-device/"><u>Simple Methods for Downloading and Installing Updated Drivers on a Dell D31atur Peripheral Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-wacom-cintiq-pen-drawing-pad-software/"><u>Update Your Wacom Cintiq Pen Drawing Pad Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/would-you-benefit-from-an-upgrade-to-chatgpt-plus-subscription/"><u>Would You Benefit From an Upgrade to ChatGPT Plus Subscription?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top Prime Day Video Game Discounts of October 2024 - Exclusive Sneak Peek on ZDNet
-date: 2024-12-01T16:52:49.744Z
-updated: 2024-12-06T21:26:54.624Z
+date: 2024-12-07T04:16:21.132Z
+updated: 2024-12-12T20:25:32.827Z
 tags:
   - laptops
 categories:
@@ -99,6 +99,10 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More October Prime Day 2024 gaming deals
 
 ZDNET
@@ -114,10 +118,6 @@ ZDNET
 * [Samsung T9 4TB portable SSD for $300 (save $250)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-Professionals-MU-PG4T0B-AM%2Fdp%2FB0CHFSZX9W%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce9b5fe8f-9985-4c3e-a7ed-fd8188cf38fd%7Cdtp&dtb=1): The Samsung T9 has an integrated thermal guard to help dissipate waste heat and protect delicate electronics from damage. It also works with Samsung's Magician Software for automatic firmware updates, data encryption, and SSD health monitoring.
 * [MSI Claw 512GB for $642 (save $108)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMSI-Claw-Gaming-Handheld-Thunderbolt%2Fdp%2FB0CXG3DBQV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce9b5fe8f-9985-4c3e-a7ed-fd8188cf38fd%7Cdtp&dtb=1): Built with an Intel Core Ultra 7 CPU, 16GB of RAM, a 512GB SSD, and a 7-inch display, the MSI Claw rivals the Steam Deck handheld gaming PC in power and performance.
 * [Amazon eero Pro 6E mesh Wi-Fi router 3-pack for $350 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-eero-Wi-Fi-router-newest%2Fdp%2FB091G64GVK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce9b5fe8f-9985-4c3e-a7ed-fd8188cf38fd%7Cdtp&dtb=1): This mesh Wi-Fi system is rated for up to 2,000 square feet of coverage and supports both wireless and hardwired Ethernet connectivity at 1.6 Gbps and 2.5Gbps, respectively.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day PlayStation 5 deals
 
@@ -152,6 +152,10 @@ ZDNET
 * [Join Xbox Game Pass Ultimate for $1 (then $19.99 per month)](https://www.xbox.com/en-US/xbox-game-pass#join): Get access to hundreds of PC and Xbox Series X|S games for cloud gaming support, monthly free games, and exclusive discounts.
 * [Corsair Virtuoso RGB Wireless XT wireless gaming headset for $195 (save $75 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-VIRTUOSO-WIRELESS-High-Fidelity-Bluetooth%2Fdp%2FB09BXZKNDB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce9b5fe8f-9985-4c3e-a7ed-fd8188cf38fd%7Cdtp&dtb=1): A high-end wireless gaming headset with Dolby Atmos support, iCUE RGB lighting control, and a broadcast-grade microphone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day Nintendo deals
 
 Nintendo/ZDNET
@@ -176,7 +180,7 @@ Nintendo/ZDNET
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $55 (save $25 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming PC deals
@@ -207,7 +211,7 @@ Lenovo
 * [Alienware m18 R2 for $3,200 (save $800 at Dell)](https://www.jdoqocy.com/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Falienware-m18-r2-gaming-laptop%2Fspd%2Falienware-m18-r2-laptop%2Fuseashctom18r204&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming laptop with an Nvidia GeForce RTX 4090 GPU, Intel Core i9-14900K CPU, 64GB of RAM, 4TB of storage, and an 18-inch QHD+ display.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming monitor deals
@@ -219,10 +223,6 @@ Samsung/ZDNET
 * [Samsung Odyssey Neo G8 32-inch curved monitor for $800 (save $500 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-odyssey-neo-g8-32-curved-4k-uhd-freesync-premium-pro-g-sync-compatible-240hz-1ms-gaming-monitor-black%2F6507933.p%3FskuId%3D6507933&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-04-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This 32-inch display support both AMD FreeSync Premium Pro and Nvidia G-Sync VRR, a 240Hz refresh rate, a 1ms response time, and 4K resolution.
 * [AOC AG27 27-inch monitor for $600 (save $450 at B&H Photo, deal ends Oct 5)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1741859-REG%2Faoc%5Fag274qzm%5F27%5F16%5F9%5Fqhd.html): This 27-inch IPS monitor has 1440p resolution, a 240Hz refresh rate, a 1ms response time, and Nvidia G-Sync VRR support.
 * [Acer Predator X27U for $680 (save $320 at B&H Photo)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1772478-REG%2Facer%5Fum%5Fhxxaa%5F001%5Fpredator%5Fx27u%5F27%5Fgaming.html%2Fspecs): A 27-inch gaming monitor with a 240Hz refresh rate, 1440p resolution, a 0.03ms response time, and support for AMD FreeSync Premium Pro VRR.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day PC gaming accessories deals
 
@@ -242,7 +242,7 @@ Samsung/ZDNET
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
@@ -322,19 +322,17 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-discover-the-enhanced-features-of-2023s-samsung-bd-j5900/"><u>[New] Discover the Enhanced Features of 2023'S Samsung BD-J5900</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-10-finest-yoga-series-to-achieve-zen-and-strength/"><u>[Updated] 2024 Approved The 10 Finest Yoga Series to Achieve Zen and Strength</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-core-principles-youtubes-social-contract/"><u>2024 Approved Core Principles YouTube's Social Contract</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-luxury-makeup-techniques-unveiled/"><u>2024 Approved Luxury Makeup Techniques Unveiled</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-top-10-jpg-to-gif-converters-online-free/"><u>2024 Approved Top 10 JPG to GIF Converters Online Free</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/corsairs-renewed-revival-series-brings-high-quality-cost-effective-peripherals-to-gamers-on-a-budget/"><u>Corsair's Renewed Revival Series Brings High-Quality, Cost-Effective Peripherals to Gamers on a Budget</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-soundtracks-for-snickers-ringtones-best-online-sources/"><u>In 2024, Soundtracks for Snickers Ringtones' Best Online Sources</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ring-youtube-video-extraction-a-step-by-step-guide/"><u>Mastering YouTube Video Extraction A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-essential-guide-to-8-best-free-and-paid-videomosaic-tools-on-android/"><u>The Essential Guide to #8 Best Free & Paid Videomosaic Tools on Android</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-exploring-the-world-of-advanced-hardware/"><u>Tom's Tech Hub: Exploring the World of Advanced Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-your-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Hub: Your Guide to the Latest in Computer Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-comprehensive-guide-to-cutting-edge-hardware/"><u>Tom's Tech Reviews: Comprehensive Guide to Cutting-Edge Hardware</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ultimate-picks-the-5-leading-video-editors-tailored-for-windows-7-users/"><u>Ultimate Picks: The 5 Leading Video Editors Tailored for Windows 7 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-selection-for-computer-mice-comfortable-surface-and-dazzling-light-patterns-2024-edition/"><u>Ultimate Selection for Computer Mice - Comfortable Surface & Dazzling Light Patterns 2024 Edition</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-harness-natural-light-for-iphone-photography/"><u>[New] Harness Natural Light for iPhone Photography</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-unveiling-efficient-techniques-in-screencastify-recording/"><u>[Updated] 2024 Approved Unveiling Efficient Techniques in Screencastify Recording</u></a></li>
+<li><a href="https://extra-information.techidaily.com/changing-ringtones-on-an-iphone-a-user-friendly-approach/"><u>Changing Ringtones on an iPhone A User-Friendly Approach</u></a></li>
+<li><a href="https://win-info.techidaily.com/ensename-como-activar-el-almacenamiento-en-nube-automatizado-mediante-onedrive-en-mi-sistema-windows-nova-version-11/"><u>Enséñame Cómo Activar El Almacenamiento en Nube Automatizado Mediante OneDrive en Mi Sistema Windows Nova: Versión 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-rtl8188cu-wireless-network-adapter-driver-supporting-windows-710/"><u>Get the Latest RTL8188CU Wireless Network Adapter Driver Supporting Windows 7/10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-netgear-adapter-driver-version-free-download-here/"><u>Get the Newest NETGEAR Adapter Driver Version - Free Download Here</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-lenovo-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Lenovo?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-google-pixel-8-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-transition-what-it-means-for-users-as-amd-abandons-3dnow-compatibility-in-new-compiler-release/"><u>Navigating the Transition: What It Means for Users as AMD Abandons 3DNow! Compatibility in New Compiler Release</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-final-cut-pro-saving-cheat-sheet/"><u>New The Ultimate Final Cut Pro Saving Cheat Sheet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/safe-and-reliable-your-guide-to-downloading-sades-headset-drivers-compatible-with-all-windows-versions/"><u>Safe and Reliable - Your Guide to Downloading Sades Headset Drivers Compatible with All Windows Versions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/spectacular-scrutiny-and-variant-solutions/"><u>Spectacular Scrutiny & Variant Solutions</u></a></li>
 </ul></div>
 

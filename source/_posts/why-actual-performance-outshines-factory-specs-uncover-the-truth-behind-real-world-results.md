@@ -1,7 +1,7 @@
 ---
 title: "Why Actual Performance Outshines Factory Specs: Uncover the Truth Behind Real-World Results"
-date: 2024-08-28T02:00:43.090Z
-updated: 2024-08-29T02:00:43.090Z
+date: 2024-12-07T19:12:54.673Z
+updated: 2024-12-12T17:54:48.745Z
 tags:
   - hardware
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 ---
 
 ## Why Actual Performance Outshines Factory Specs: Uncover the Truth Behind Real-World Results
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
  Better still, the games and apps that appear in manufacturers’ presentations change with each new generation, since a new CPU or GPU might be better in some games than its predecessor, but also because a new product might run a new and shiny AAA game everyone’s talking about better than the competition.
 
 ![Ryzen 5800X3D gaming performance results.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/real-world-benchmarks-always-trump-manufacturer-claims-here-s-why-04.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _AMD_
 
@@ -56,8 +64,9 @@ _Intel_
  This is why you shouldn’t read or watch just one source of reviews. Instead, you should gather information from various reviewers to get the best overall picture of how the product you want to purchase actually performs.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  In Some First-Party Benchmarks, Old Hardware Is Unfairly Handicapped
 
  Cherry-picked results are just the tip of the iceberg regarding manufacturers’ ways of making their new and shiny products look better than the competition or their older products.
@@ -69,15 +78,13 @@ _Intel_
 ![NVIDIA RTX 4000 vs older NVIDIA GPUs gaming benchmarks.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/real-world-benchmarks-always-trump-manufacturer-claims-here-s-why-05.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 _NVIDIA_
 
  If you jump to TechPowerUp’s [RTX 3060 specs page](https://www.techpowerup.com/gpu-specs/geforce-rtx-3060-12-gb.c3682), you can see that the RTX 4060 is only 18% faster than the RTX 3060\. The incongruity in the measured gaming performance between the two sources stems from the fact that TechPowerUp tests GPUs with a standardized test suite, using the same exact settings for every GPU, and not using features older GPUs do not support, such as DLSS or DLSS frame generation. This also isn’t perfect because, in all honesty, the RTX 4060 is faster than 18% on average than the RTX 3060 when you turn on ray tracing, but TechPowerUp's way of testing GPUs is much more fair to the RTX 3060 compared to what NVIDIA did.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ##  Some Manufacturer Claims Have Little to Do with Reality
 
  PC monitor manufacturers are known for greatly exaggerating the performance of their products. The most egregious example is response time, with monitor vendors using the absolute best result a monitor achieves in response time measurements as the official spec instead of using an average response time across a number of different measurements, which would better reflect real-time performance.
@@ -89,8 +96,9 @@ _NVIDIA_
  Let’s take the RT-AX88U Pro, one of the [best Wi-Fi routers](https://facebook-video-share.techidaily.com/updated-discovering-the-ultimate-10-free-youtube-artist-collaborators-for-2024/) on the market, as an example. If you visit [the router’s web page](https://www.asus.com/networking-iot-servers/wifi-routers/asus-gaming-routers/rt-ax88u-pro/techspec/), you can see that the maximum bandwidth over the 5GHz band is listed as “up to 4804 Mbps.” However, [a real-world review](https://dongknows.com/asus-rt-ax88u-pro-review/#asus-gt-ax88u-pro-excellent-performance) by Dong Knows Tech has measured only 1510Mbps, with a few other routers surpassing the RT-AX88U Pro. Don’t get me wrong; this is an impressive result, but it is far from ASUS’s claims.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Some Blame Is Reserved for Standardization Bodies and Their Lenient Guidelines
 
  While manufacturers often boast about the unrealistic performance of their devices, sometimes standardization bodies and their lenient (one might even say misleading) guidelines are to blame instead.
@@ -115,8 +123,6 @@ _NVIDIA_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +130,22 @@ _NVIDIA_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-detailed-review-all-about-gecatas-recording-mechanism/"><u>[New] In 2024, Detailed Review All About Gecata's Recording Mechanism</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-unlocking-the-secrets-of-irecorder/"><u>[New] In 2024, Unlocking the Secrets of iRecorder</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-x-recorder-for-pc-audio-logger-at-no-cost-for-2024/"><u>[New] X-Recorder for Pc Audio Logger at No Cost for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-vids-in-verse-strategies-for-effective-twitter-video-downloads/"><u>[Updated] 2024 Approved Vids in Verse Strategies for Effective Twitter Video Downloads</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-a-guide-to-conveniently-documenting-your-gaming-victories-for-2024/"><u>[Updated] A Guide to Conveniently Documenting Your Gaming Victories for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-break-through-the-crowd-your-guide-to-choosing-free-intro-masters-for-2024/"><u>[Updated] Break Through the Crowd - Your Guide to Choosing Free Intro Masters for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-melody-makers-best-places-for-free-skype-ringtones/"><u>[Updated] Melody Makers Best Places for Free Skype Ringtones</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-top-tips-to-flawlessly-integrate-timely-text-in-your-fb-videos-for-2024/"><u>[Updated] Top Tips to Flawlessly Integrate Timely Text in Your FB Videos for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-for-high-performance-validity-touch-id-sensor-driver-toolkit-free-downloads-available/"><u>Easy Setup for High-Performance Validity Touch ID Sensor Driver Toolkit - Free Downloads Available</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-steps-finding-and-applying-new-synaptics-drivers-on-windows-systems/"><u>Effortless Steps: Finding and Applying New Synaptics Drivers on Windows Systems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhance-your-iphones-readability-with-simple-font-customization-techniques/"><u>Enhance Your iPhone's Readability with Simple Font Customization Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-out-of-your-graphics-card-amd-radeon-hd-ab-soluteby-downloading-and-updating-drivers-on-windows-10/"><u>Get the Most Out of Your Graphics Card: AMD Radeon HD Ab-Soluteby Downloading and Updating Drivers on Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-update-your-pc-with-the-intel-wireless-ac-9560-driver-download/"><u>How to Easily Update Your PC with the Intel Wireless AC 9560 Driver Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-windows-drivers-without-an-active-connection/"><u>Step-by-Step Guide: Installing Windows Drivers Without an Active Connection</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-computers-performance-download-intel-raid-driver-software-supported-by-windows-versions-11108win7/"><u>Upgrade Your Computer's Performance: Download Intel RAID Driver Software - Supported by Windows (Versions 11/10/8/^[Win7])</u></a></li>
+</ul></div>
 

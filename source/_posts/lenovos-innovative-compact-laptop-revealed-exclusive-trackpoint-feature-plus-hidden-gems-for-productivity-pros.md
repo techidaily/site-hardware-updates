@@ -1,7 +1,7 @@
 ---
 title: "Lenovo’s Innovative Compact Laptop Revealed: Exclusive TrackPoint Feature + Hidden Gems for Productivity Pros!"
-date: 2024-11-30T03:53:07.219Z
-updated: 2024-12-06T20:21:35.008Z
+date: 2024-12-09T00:18:28.246Z
+updated: 2024-12-12T19:05:15.984Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,21 +134,18 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-harnessing-the-power-of-movie-maker-in-windows-8/"><u>[New] 2024 Approved Harnessing the Power of Movie Maker in Windows 8</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/weaking-video-rhythms-on-youtube-desktopmobile-for-2024/"><u>[New] Tweaking Video Rhythms on YouTube (Desktop/Mobile) for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-perfecting-picture-in-picture-setup-with-youtube-on-ios/"><u>[Updated] 2024 Approved Perfecting Picture-in-Picture Setup with YouTube on iOS</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-a-closer-look-at-huawei-p10s-security-measures/"><u>2024 Approved A Closer Look at Huawei P10’s Security Measures</u></a></li>
-<li><a href="https://win11.techidaily.com/4-simple-methods-to-trim-and-edit-videos-using-openshot-a-comprehensive-guide/"><u>4 Simple Methods to Trim and Edit Videos Using OpenShot: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/bargain-bin-alert-score-the-apple-macbook-air-with-m2-chip-for-just-749-on-amazons-october-prime-day-tech-news/"><u>Bargain Bin Alert! Score the Apple MacBook Air with M2 Chip for Just $749 on Amazon's October Prime Day - Tech News.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/do-dual-screen-laptops-have-a-future-examining-the-impact-of-lenovos-yoga-book/"><u>Do Dual-Screen Laptops Have a Future? Examining the Impact of Lenovo's Yoga Book ˈ</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-your-game-crashes-with-d3dx923dll-file-issues-a-comprehensive-guide/"><u>Fix Your Game Crashes with d3dx9_2‌3.dll File Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>How To Pause Life360 Location Sharing For Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/most-comfortable-vertical-gaming-and-office-mice-in-asterisk-2024/"><u>Most Comfortable Vertical Gaming and Office Mice in Asterisk 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/primeval-deals-discover-the-ultimate-pre-prime-sales-on-zdnet/"><u>Primeval Deals : Discover the Ultimate Pre-Prime Sales on ZDNet</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/the-art-of-influential-facebook-video-marketing-for-2024/"><u>The Art of Influential Facebook Video Marketing for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-lenovo-laptops-tailored-for-hybrid-professionals-save-big/"><u>Top Lenovo Laptops Tailored for Hybrid Professionals - Save Big!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-portable-displays-of-2024-comprehensive-tests-and-reviews-by-zdnet/"><u>Top-Rated Portable Displays of 2024: Comprehensive Tests & Reviews by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upcoming-apple-product-launches-in-october-anticipating-the-new-m4-mac-mini-latest-ipad-models-and-enhancements-to-siri-insights-from-zdnet/"><u>Upcoming Apple Product Launches in October: Anticipating the New M4 Mac Mini, Latest iPad Models & Enhancements to Siri - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/zdnet-reviews-the-most-ideal-portable-laptop-for-effortless-telecommuting-experience/"><u>ZDNet Reviews the Most Ideal Portable Laptop for Effortless Telecommuting Experience</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-complete-guide-to-edit-your-video-with-youtube-studio-editor-for-2024/"><u>[New] The Complete Guide to Edit Your Video with YouTube Studio Editor for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ballot-box-bonanza-prime-politic-strategy-games/"><u>[Updated] In 2024, Ballot Box Bonanza Prime Politic Strategy Games</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-spark-interest-10-innovative-highlight-ideas-to-try-now/"><u>[Updated] In 2024, Spark Interest 10 Innovative Highlight Ideas to Try Now</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-premier-computing-choices-the-finest-selection/"><u>[Updated] Premier Computing Choices The Finest Selection</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-mastering-windows-11-photo-app-stability-troubleshooting/"><u>2024 Approved Mastering Windows 11 Photo App Stability Troubleshooting</u></a></li>
+<li><a href="https://review-topics.techidaily.com/change-location-on-yik-yak-for-your-vivo-y27s-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Vivo Y27s to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comparing-intel-and-amd-processors-determining-the-superior-chip/"><u>Comparing Intel and AMD Processors: Determining the Superior Chip</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969343303-get-your-logitech-k400-plus-mouse-drivers-here/"><u>Get Your Logitech K400 Plus Mouse Drivers Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-nexiq-usb-link-2-driver-installed-effortlessly/"><u>Get Your Nexiq USB Link 2 Driver Installed Effortlessly</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-12ipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 12/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Infinix GT 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-the-official-logitech-driving-force-gt-driver-for-your-gaming-pc-running-any-version-of-windows/"><u>Secure the Official Logitech Driving Force GT Driver for Your Gaming PC Running Any Version of Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-your-intel-hd-graphics-630-drivers-solutions-for-a-smooth-windows-experience/"><u>Troubleshooting Your Intel HD Graphics 630 Drivers: Solutions for a Smooth Windows Experience</u></a></li>
 </ul></div>
 

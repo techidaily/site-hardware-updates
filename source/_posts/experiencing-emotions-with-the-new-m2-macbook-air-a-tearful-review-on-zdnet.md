@@ -1,7 +1,7 @@
 ---
 title: Experiencing Emotions with the New M2 MacBook Air - A Tearful Review on ZDNet
-date: 2024-12-04T18:49:59.171Z
-updated: 2024-12-07T03:29:44.381Z
+date: 2024-12-05T23:59:27.362Z
+updated: 2024-12-12T22:29:57.526Z
 tags:
   - laptops
 categories:
@@ -22,13 +22,13 @@ Cliff Joseph/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [![Best tech products of 2022](https://www.zdnet.com/a/img/resize/3f88838e500b465de59bf97859df4b8cc8a9cd8a/2022/12/21/5246df34-aab3-4419-a17e-d162c8160806/zdgg-2022-overall.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) ZDNET editors loved these tech products and gadgets in 2022 Trying to find the absolute best tech products of 2022? From the iPhone 14 Pro Max to the Kindle Scribe to the Oura Ring Gen 3 Horizon, here are ZDNET's top gadgets of the year.  Read now](https://www.zdnet.com/article/best-tech-2022/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 How often can a gadget make you confront your own weaknesses, especially the lies you tell yourself?
 
@@ -39,6 +39,10 @@ I can usually resist the latest, greatest, most hyped-up piece of technology.
 Until I'm sure I don't just want it, but need it. 
 
 Oh, all right, I may occasionally have a flexible definition of _need_.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The weakness. I just can't bear the weakness
 
@@ -57,7 +61,7 @@ But the M2 MacBook Air seemed to represent a departure from the old Air design. 
 There were two things I kept staring at: the midnight color and the new, non-tapered shape.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -74,13 +78,13 @@ And then there was the remarkable fact that an Apple store actually had the [mid
 
 Resistance was futile. Actually, it was non-existent, even if I still wondered whether this laptop could possibly be worth it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The lies I'd told myself
 
 With almost every gadget, it's one thing to play with it in a store. It's quite another to bring it into your daily life -- and I use a laptop at least 12 hours a day.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -106,7 +110,7 @@ Some (like ZDNET's [review of the M2 MacBook Air](https://www.zdnet.com/article/
 I've also noticed that MagSafe isn't quite what it used to be. Previously, it had flown out of its socket with minimal force. Now, you have to give it a perceptible tug before it detaches. I can't decide whether this is good or bad. I do like the sturdier feel of the cable, however. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## It's all ending in tears
@@ -118,10 +122,6 @@ But no tale this positive has a happy ending.
 So, as I write this, I'm staring into space, blaring at myself for being so impulsive.
 
 You see, but weeks after I bought my M2 Air, [the price began to descend](https://www.zdnet.com/article/apple-macbook-air-laptop-2022-m2-chip-cyber-monday-deals-2022-lowest-prices-ever/). Then it descended even more. Perhaps this is something to do with [the market prospects for laptops in 2023](https://www.zdnet.com/article/theres-a-long-cold-winter-ahead-for-pc-makers-that-could-be-good-news-for-pc-buyers/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -169,22 +169,20 @@ Unless, that is, you're selling [a perfectly functional robot dog](https://www.z
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-control-your-iphone-image-orientation/"><u>[New] How to Control Your iPhone Image Orientation</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-oppo-a38-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Oppo A38 System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/affordable-ambient-weather-station-ws-2902a-the-ultimate-osprey-model-with-extensive-functionality/"><u>Affordable Ambient Weather Station WS-2902A: The Ultimate Osprey Model with Extensive Functionality</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/best-practices-for-efficient-slide-capture/"><u>Best Practices for Efficient Slide Capture</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-toms-gadget-analysis-in-depth-reviews-of-modern-electronics/"><u>Discover Tom's Gadget Analysis: In-Depth Reviews of Modern Electronics</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722645048665-experience-the-best-of-web-browsing-and-streaming-on-lenovos-newest-tablet-the-2020-tab-m10-hd-reviewed/"><u>Experience the Best of Web Browsing and Streaming on Lenovo's Newest Tablet - The 2020 Tab M10 HD Reviewed!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-electronics-with-toms-hardware-guides/"><u>Exploring Electronics with Tom's Hardware Guides</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-lenovo-x26-thin-client-thinkpad-driver-updates-for-your-windows-11-pc/"><u>Get the Latest Lenovo X26# Thin Client (ThinkPad) Driver Updates for Your Windows 11 PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-realme-11-pro-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-how-to-use-zoom-for-win10-pc/"><u>In 2024, How to Use Zoom for Win10 PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/introducing-adatas-bespoke-invader-x-pro-features-unique-sidesweeping-glass-panel-and-integrated-5-lcd-display/"><u>Introducing AData's Bespoke Invader X Pro: Features Unique Sidesweeping Glass Panel & Integrated 5 LCD Display</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lian-li-lancool-iii-computer-chassis-now-at-an-unbeatable-price-just-119/"><u>Lian Li Lancool III Computer Chassis Now at an Unbeatable Price: Just $119</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/the-ultimate-guide-to-digital-mastery-of-vhs-visuals-for-2024/"><u>The Ultimate Guide to Digital Mastery of VHS Visuals for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-computing-guide-in-depth-analysis-of-latest-hardware/"><u>Tom's Computing Guide: In-Depth Analysis of Latest Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-in-depth-reviews-and-guides/"><u>Tom's Tech Hub: In-Depth Reviews and Guides</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-your-ultimate-guide-to-computer-components-and-performance/"><u>Tom's Tech Hub: Your Ultimate Guide to Computer Components and Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-expert-insights-on-latest-hardware-innovations/"><u>Tom's Tech Reviews: Expert Insights on Latest Hardware Innovations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-audio-first-video-second-comparing-podcast-vs-youtube/"><u>[New] Audio First, Video Second? Comparing Podcast vs YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-spot-and-discard-phony-instagram-acquaintances/"><u>[New] How To Spot and Discard Phony Instagram Acquaintances</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-convenient-ways-to-screen-cast-lenovo-laptops/"><u>[Updated] In 2024, Convenient Ways to Screen Cast Lenovo Laptops</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-pairings-adding-songs-to-windows-11-videos-with-ease/"><u>2024 Approved Perfect Pairings Adding Songs to Windows 11 Videos with Ease</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/breakthrough-for-desktop-computing-amds-flagship-zen-5-processor-ryzen-9-9950x-outperforms-competitor-by-24-in-rendering-benchmark-assessment/"><u>Breakthrough for Desktop Computing: AMD’s Flagship Zen 5 Processor, Ryzen 9 9950X, Outperforms Competitor by 24% in Rendering Benchmark Assessment</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/caption-crafting-select-writing-apps-for-your-photos-for-2024/"><u>Caption Crafting Select Writing Apps for Your Photos for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976038966-confusion-may-result-from-metabolic-disturbances-infections-toxic-ingestions-or-increased-intracranial-pressure/"><u>Confusion May Result From Metabolic Disturbances, Infections, Toxic Ingestions, or Increased Intracranial Pressure.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-dell-bluetooth-driver-downloads-for-windows-operating-systems/"><u>Free Dell Bluetooth Driver Downloads for Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-new-hp-3755-all-in-one-printer-driver-on-windows-systems-1087/"><u>How to Install the New HP 3755 All-in-One Printer Driver on Windows Systems (10/8/7)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-essential-apps-to-extract-and-save-your-vimeo-videos/"><u>In 2024, Essential Apps to Extract and Save Your Vimeo Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-display-driver-updates-and-easy-installation-guide-for-windows/"><u>Latest Display Driver Updates and Easy Installation Guide for Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/proart-pa-329q-examining-a-premium-4k-monitor-for-professionals/"><u>ProArt PA 329Q Examining a Premium 4K Monitor for Professionals</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ranked-list-of-pristine-cost-free-websites-for-designers-delight/"><u>Ranked List of Pristine, Cost-Free Websites for Designers' Delight</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-for-easy-microsoft-driver-installationupdates-in-windows-1187/"><u>Step-by-Step Instructions for Easy Microsoft Driver Installation/Updates in Windows 11/8/7</u></a></li>
+<li><a href="https://extra-support.techidaily.com/stopwatch-like-pauses-tackling-frozen-photobooths-for-2024/"><u>Stopwatch-Like Pauses Tackling Frozen Photobooths for 2024</u></a></li>
 </ul></div>
 

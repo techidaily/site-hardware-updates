@@ -1,7 +1,7 @@
 ---
 title: "The Ideal Companion for Digital Nomads: Our Picks for the Lightest & Best Laptops | ZDNet Reviews"
-date: 2024-12-04T19:21:45.175Z
-updated: 2024-12-06T17:27:29.701Z
+date: 2024-12-05T19:19:18.501Z
+updated: 2024-12-12T16:02:21.527Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/00d8a989d7a324ab139f90cea816e72b6f2451ab8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -93,7 +93,7 @@ Compared to a MacBook, one could argue that the Yoga Slim 7x is at least better 
 The MacBook is better suited for the iOS ecosystem, however Lenovo has been making strides in developing a data transfer feature between its laptop and iPhones. So if you're not sure which one to get, the Yoga Slim 7x might be the better long-term investment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,18 +134,22 @@ Creators might also appreciate the fact that Lenovo is also giving [two free mon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/onfirmation-techniques-for-youtube-accounts-for-2024/"><u>[New] Confirmation Techniques for Youtube Accounts for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-elite-insight-engine-highest-chart-tracker/"><u>[New] In 2024, Elite Insight Engine Highest Chart Tracker</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-pioneering-headsets-elevating-drone-use/"><u>[New] Pioneering Headsets Elevating Drone Use</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210758929-solved-how-to-fix-stuck-on-preparing-to-configure-windows/"><u>[SOLVED] How to Fix Stuck on “Preparing to Configure Windows”</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/99-asus-tuf-gaming-screen-24-ips-display-with-165-hz-exclusive-deal-on-newegg/"><u>$99 ASUS TUF Gaming Screen, 24 IPS Display with 165 Hz, Exclusive Deal on Newegg</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/2024s-best-deals-on-premium-quality-cost-effective-4k-monitors/"><u>2024'S Best Deals on Premium Quality, Cost-Effective 4K Monitors</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/advanced-gadgetry-explained-by-tech-guru-tom/"><u>Advanced Gadgetry Explained by Tech Guru Tom</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/advanced-hardware-analysis-the-toms-insider-resource-for-enthusiasts/"><u>Advanced Hardware Analysis - The Tom's Insider Resource for Enthusiasts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/announcing-the-latest-innovation-a-new-open-source-high-definition-ultra-fast-e-ink-screen-the-modos-paper-1200p-monitor/"><u>Announcing the Latest Innovation: A New Open-Source High-Definition, Ultra-Fast E-Ink Screen - The Modos Paper 1200P Monitor</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-batch-file-transformations/"><u>Best Batch File Transformations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862832658-breakthrough-in-gaming-displays-ultra-hd-samsungs-gen-2-odyssey-for-gamers-now-more-accessible-than-ever/"><u>Breakthrough in Gaming Displays: Ultra HD Samsung's Gen 2 Odyssey for Gamers - Now More Accessible Than Ever</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/continuing-darksky-app-functionality-on-android-devices-a-comprehensive-guide/"><u>Continuing DarkSky App Functionality on Android Devices - A Comprehensive Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-pova-5-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Pova 5 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-raw-footage-crafting-engaging-videos-on-windows-11/"><u>[Updated] From Raw Footage Crafting Engaging Videos on Windows 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-developing-dynamic-instagram-highlight-summaries/"><u>2024 Approved Developing Dynamic Instagram Highlight Summaries</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-realme-11-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Realme 11 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723262355587-create-your-portable-desktop-amd-ryzen-pc-in-a-mini-keyboard-with-trackpad-and-battery-attach-only-monitor-to-complete-setup/"><u>Create Your Portable Desktop: AMD Ryzen PC in a Mini Keyboard with Trackpad & Battery, Attach Only Monitor to Complete Setup!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/diagnosing-and-restoring-your-malfunctioning-samsung-blu-ray-player/"><u>Diagnosing and Restoring Your Malfunctioning Samsung Blu-Ray Player</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-lenovo-ideapad-100-drivers-complete-guide-for-windows-11-users/"><u>Download & Update Lenovo IdeaPad 100 Drivers: Complete Guide for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-your-logitech-k350-drivers-with-this-guide/"><u>Download Your Logitech K350 Drivers with This Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-updating-thunderbolt-3-drivers-on-windows-1187/"><u>Easy Guide to Downloading & Updating Thunderbolt 3 Drivers on Windows 11/8/7</u></a></li>
+<li><a href="https://win-tips.techidaily.com/enabling-hyper-vs-remote-administration-capabilities-a-comprehensive-tutorial/"><u>Enabling Hyper-V's Remote Administration Capabilities – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-latest-buzz-on-xbox-vr-gear-projections-of-costs-and-release-timelines/"><u>Exploring the Latest Buzz on Xbox VR Gear: Projections of Costs and Release Timelines</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-14-pro-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 14 Pro with iTunes | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-guide-to-finding-and-installing-canon-software-on-windows/"><u>Hassle-Free Guide to Finding and Installing Canon Software on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-latest-logitech-c92c-webcam-software-for-windows-10-and-8/"><u>How to Get Latest Logitech C92C Webcam Software for Windows 10 & 8</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-social-media-savvy-instagrams-best-tips-for-gif-uploads-and-posting/"><u>In 2024, Social Media Savvy Instagram's Best Tips for GIF Uploads and Posting</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/learn-to-edit-like-a-pro-with-this-ultimate-final-cut-pro-instructional-series/"><u>Learn to Edit Like a Pro with This Ultimate Final Cut Pro Instructional Series</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-t500-drivers-download-and-upadte-easily/"><u>Lenovo T500 Drivers Download & Upadte Easily</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-process-easily-upgrade-your-microsoft-drivers-in-windows-operating-systems-7810/"><u>Step-by-Step Process: Easily Upgrade Your Microsoft Drivers in Windows Operating Systems (7/8/10)</u></a></li>
 </ul></div>
 

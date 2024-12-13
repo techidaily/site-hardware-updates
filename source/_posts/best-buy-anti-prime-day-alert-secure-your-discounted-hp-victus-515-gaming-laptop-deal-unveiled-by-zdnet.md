@@ -1,7 +1,7 @@
 ---
 title: Best Buy Anti-Prime Day Alert! Secure Your Discounted HP Victus 지킷랄로피 ($515) - Gaming Laptop Deal Unveiled by ZDNet
-date: 2024-12-02T00:20:16.087Z
-updated: 2024-12-06T22:28:15.730Z
+date: 2024-12-06T21:02:08.150Z
+updated: 2024-12-12T20:09:12.254Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,19 +63,17 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-a-detailed-look-at-successful-valheim-sowing/"><u>[Updated] In 2024, A Detailed Look at Successful Valheim Sowing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-optimal-budget-friendly-digital-video-reader/"><u>[Updated] In 2024, Optimal Budget-Friendly Digital Video Reader</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elevate-your-wit-crafting-memes-with-kapwing/"><u>Elevate Your Wit Crafting Memes with Kapwing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-best-deal-on-an-immersive-viewing-experience-the-lg-34-ultragear-monitor-at-only-499/"><u>Get the Best Deal on an Immersive Viewing Experience: The LG 34 UltraGear Monitor at Only $499!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/grab-yours-now-the-ultimate-steal-of-a-sceptre-24-inch-curved-tv-game-screen-at-79/"><u>Grab Yours Now! The Ultimate Steal of a Sceptre 24-Inch Curved TV Game Screen at $79.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hardware-expertise-by-tom-comprehensive-analysis-and-advice/"><u>Hardware Expertise by Tom: Comprehensive Analysis & Advice</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-13-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 13 Lock Screen</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-tech-specs-comprehensive-reviews-on-modern-computer-hardware/"><u>Inside Tech Specs: Comprehensive Reviews on Modern Computer Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-the-world-of-computer-tech-with-toms-hardware-reviews/"><u>Inside the World of Computer Tech with Tom's Hardware Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/jdis-revolutionary-2vd-screen-features-dual-touch-displays-custom-views-for-each-user-and-touch-recognition-technology/"><u>JDI's Revolutionary 2VD Screen Features Dual Touch Displays, Custom Views for Each User and Touch Recognition Technology</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-tech-with-tom-a-comprehensive-guide-to-new-and-improved-systems/"><u>Navigating Tech with Tom: A Comprehensive Guide to New and Improved Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionize-your-business-with-chatgpt-effective-workflows-and-increased-output/"><u>Revolutionize Your Business with ChatGPT: Effective Workflows & Increased Output</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-7-must-have-mobile-applications-for-boosting-your-websites-traffic/"><u>Top 7 Must-Have Mobile Applications for Boosting Your Website's Traffic</u></a></li>
-<li><a href="https://facebook.techidaily.com/why-10k-groups-might-cause-amazon-to-sue/"><u>Why 10K Groups Might Cause Amazon to Sue</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ioneering-profitability-your-videos-vs-competitors-success-stories-for-2024/"><u>[New] Pioneering Profitability Your Videos Vs. Competitors' Success Stories for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-choosing-between-bandicam-and-camtasia/"><u>[Updated] Choosing Between Bandicam & Camtasia</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-top-tips-and-techniques-for-captivating-youtube-video-intros/"><u>[Updated] In 2024, Top Tips and Techniques for Captivating YouTube Video Intros</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unleash-your-youtube-potential-6-crucial-actions-for-visibility/"><u>[Updated] Unleash Your YouTube Potential 6 Crucial Actions for Visibility</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mov-windows-1011top-4/"><u>最適化されたMOVファイル編集 - Windows 10と11向け選び択(Top 4)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-or-huggingface-exploring-the-top-contenders-in-ai-assistants/"><u>ChatGPT or HuggingFace? Exploring the Top Contenders in AI Assistants</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-dell-d3100-laptop-ready-download-and-update-essential-system-drivers/"><u>Get Your DELL D3100 Laptop Ready: Download and Update Essential System Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-securely-install-your-arduino-device-drivers-on-a-windows-operating-system/"><u>How To Securely Install Your Arduino Device Drivers on a Windows Operating System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-pc-with-the-latest-microsoft-sound-card-drivers-for-windows-systems/"><u>How to Update Your PC with the Latest Microsoft Sound Card Drivers for Windows Systems</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-earn-big-on-youtube-shorts-tips-for-profitable-content-creation/"><u>In 2024, Earn Big on YouTube Shorts Tips for Profitable Content Creation</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-your-personalized-playlist-blueprint-for-youtube/"><u>In 2024, Your Personalized Playlist Blueprint for YouTube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tp-link-adapter-driver-downloads-freshest-version-available-for-windows-users-win-1nk-8-and-7/"><u>TP-Link Adapter Driver Downloads - Freshest Version Available for Windows Users (Win 1Nk, 8, & 7)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "NZXT Function 2 MiniTKL Analysis: A Step Closer to the Ideal Gaming Board"
-date: 2024-08-28T02:02:28.192Z
-updated: 2024-08-29T02:02:28.192Z
+date: 2024-12-09T18:56:07.584Z
+updated: 2024-12-12T17:55:46.044Z
 tags:
   - hardware
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ---
 
 ## NZXT Function 2 MiniTKL Analysis: A Step Closer to the Ideal Gaming Board
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -102,8 +106,9 @@ Jerome Thomas / How-To Geek
 ![The Function 2 MiniTKL plugged in](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-function-2-minitkl-plugged-injpg_53489604800_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  Given that you can’t really change the switches for something else you might like better, the stock options from NZXT actually do feel pretty good. They’re optical and linear, which is what I expect from something like this. You’ll find 40g switches which are pre-lubed and feature plate-mounted stabilizers to keep things nice, tight, and responsive. In the box, you’ll find four 35g and four 45g switches that can be swapped in for just about any key that you want to change things for. This makes it easy to, say, customize WASD to be lighter, so that way, those keys have a better response than the rest of the keyboard. And, if you want to ensure that you’re not accidentally swapping weapons in the middle of a match, you could make the E key heavier by putting a 45g switch there.
@@ -112,25 +117,26 @@ Jerome Thomas / How-To Geek
 
  In practice, the actuation force is not something that I personally use a lot, but it’s nice to have. Depending on the games you play, it’s nice to be able to make certain keys easier to press and others slightly more difficult without having to physically change out the switches.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Build Quality Is Great, Offering Solid Acoustics
 
 ![Bottom of the Function 2 MiniTKL showing the rubber feet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/bottom-of-the-function-2-minitkl-showing-the-rubber-feetjpg_53489340643_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  NZXT went the extra mile when it comes to acoustics with the Function 2 MiniTKL. The top frame plate is made from 3mm aluminum, and you’ll find dual-layer sound-dampening foam and tape on the PCB to ensure that there’s no unwanted pinging noise. In practice, this works great. The keyboard sounded fantastic when typing, and there was no pinging or hollowness to the keystrokes at all. Plus, the aluminum gives it a nice heft without adding tons of weight and making it super heavy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Extra Keys Are Laid Out Weird
 
 ![The volume wheel, mute, windows lock and backlight buttons on the Function 2 MiniTKL](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-volume-wheel-mute-windows-lock-and-backlight-buttons-on-the-function-2-minitkljpg_53489492524_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  NZXT wanted to pack all it could into the 65% layout. It did a great job at that, with all but three keys. There’s a weird, and not all-that-useful custom NZXT key above the arrows, which, by default, doesn’t do anything when pressed, making it feel a little out of place to me. Meanwhile, keys that you would actually want to have quick access to, like volume and Windows lock, have been moved off to the left side of the keyboard—not to a key, but to a button on the side.
@@ -143,22 +149,20 @@ Jerome Thomas / How-To Geek
 
 ![The Function 2 MiniTKL without the backlight](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-function-2-minitkl-without-the-backlightjpg_53489191606_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  NZXT CAM is your hub for all things NZXT when it comes to customization. It works great. You can use CAM to change the per-key lighting of the Function 2 MiniTKL, as well as reprogram what keys do what, and change the actuation of the keyboard. CAM is where you’ll really dial in the settings to your heart’s content.
 
  In addition to the standard stuff, like RGB and key remapping, you’ll also find macro programming within CAM. This will allow you to complete complex functions with a single keystroke, which can save you lots of time when doing repetitive tasks. Plus, CAM allows you to program up to four different profiles on the keyboard, each of which can be accessed on-device by holding the function key and clicking F1-F4.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Should You Buy the NZXT Function 2 MiniTKL Keyboard?
 
 ![NZXT Function 2 MINITKL keyboard in front of box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/nzxt-function-2-minitkl-keyboard-in-front-of-boxjpg_53489190826_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The [NZXT Function 2 MiniTKL keyboard](https://www.amazon.com/NZXT-Tenkeyless-Adjustable-Double-Shot-Hot-Swappable/dp/B0CST2HK9G?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002778&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fnzxt-function-2-minitkl-review%2F&asc%5Fcampaign=Authority) is a solid offering in the PC gaming peripheral space for sure. If you’re a fan of optical switches, and don’t mind being locked into what NZXT has to offer, then I say this is probably one of the better keyboards on the market right now. It sounds great, feels good, and won’t break the bank with a retail price of $129.99—which is pretty competitive with everything it offers. Plus, you can change eight of the keys out of the box to be harder/easier to press, which is pretty nice.
@@ -169,9 +173,6 @@ Jerome Thomas / How-To Geek
 
 ![NZXT Function 2 MiniTKL Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/nzxt-function-2-minitkl-keyboard.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  NZXT Function 2 MiniTKL Keyboard
 
 6/ 10 
@@ -188,8 +189,6 @@ The NZXT Function 2 MiniTKL gaming keyboard packs every key of a tenkeyless keyb
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +196,26 @@ The NZXT Function 2 MiniTKL gaming keyboard packs every key of a tenkeyless keyb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-camera-selection-for-youtube-filmmakers/"><u>[Updated] The Ultimate Camera Selection for YouTube Filmmakers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-prompt-engineering-with-these-7-online-platforms/"><u>Elevate Your Prompt Engineering with These 7 Online Platforms</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-how-to-resolve-world-of-warcrafts-voice-communication-problem/"><u>Fixing Issues: How to Resolve World of Warcraft's Voice Communication Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-find-and-install-logitech-g403-mouse-software-on-your-pc/"><u>How to Find and Install Logitech G403 Mouse Software on Your PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-apple-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Apple using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-earnings-explorer-what-you-get-for-watching-one-million-videos/"><u>In 2024, Earnings Explorer What You Get for Watching One Million Videos?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-streamline-your-projects-expert-techniques-for-mac-dvd-creation/"><u>In 2024, Streamline Your Projects Expert Techniques for Mac DVD Creation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-our-mistral-ai-and-chatgpt-showdown-which-one-wins-as-the-best-ai-chatbot/"><u>Inside Our Mistral AI and ChatGPT Showdown: Which One Wins as the Best AI Chatbot?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimize-performance-managing-high-cpu-use-by-microsoft-defender-antivirus-in-windows-10-devices/"><u>Optimize Performance: Managing High CPU Use by Microsoft Defender Antivirus in Windows 10 Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-media-ten-strategies-with-ai/"><u>The Future of Media: Ten Strategies with AI</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-unexpected-charm-of-the-nuphy-gem80-a-deep-dive-into-a-200-love-story-with-a-mechanical-board/"><u>The Unexpected Charm of the Nuphy Gem80: A Deep Dive Into a $200 Love Story with a Mechanical Board</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-picks-from-the-ultimate-guide-to-computex-2024-how-to-geek-awards/"><u>Top Picks From the Ultimate Guide to Computex 2024 - How-To Geek Awards</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-2024-pet-gadgets-on-amazon-ultimate-savings-alert/"><u>Top-Rated 2024 Pet Gadgets on Amazon: Ultimate Savings Alert!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transform-your-house-into-a-smarter-space-8-hassle-free-home-assistant-tricks/"><u>Transform Your House Into a Smarter Space: 8 Hassle-Free Home Assistant Tricks!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transforming-your-vehicle-into-a-portable-workspace-mastering-remote-work-on-seaside-adventures/"><u>Transforming Your Vehicle Into a Portable Workspace: Mastering Remote Work on Seaside Adventures</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-electronics-offers-grab-the-jbl-bar-groop-700-fire-hd-max-tablet-from-amazon-and-smart-video-doorbells-at-unmatched-prices/"><u>Unbeatable Electronics Offers: Grab the JBL Bar Groop 700, Fire HD Max Tablet From Amazon, and Smart Video Doorbells at Unmatched Prices!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/understanding-the-hdr10-plus-a-comprehensive-guide/"><u>Understanding the HDR10 Plus: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/understanding-wi-fi-protected-setup-a-comprehensive-guide-on-functionality-and-usage/"><u>Understanding Wi-Fi Protected Setup: A Comprehensive Guide on Functionality & Usage</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-one-stop-wireless-solution-for-globetrotters-by-tp-link/"><u>Unveiling the One-Stop Wireless Solution for Globetrotters by TP-Link</u></a></li>
+</ul></div>
 

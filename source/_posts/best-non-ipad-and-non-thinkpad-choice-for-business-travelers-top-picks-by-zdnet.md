@@ -1,7 +1,7 @@
 ---
 title: "Best Non-iPad and Non-ThinkPad Choice for Business Travelers: Top Picks by ZDNet"
-date: 2024-12-03T16:42:19.883Z
-updated: 2024-12-06T20:01:13.753Z
+date: 2024-12-11T17:51:12.772Z
+updated: 2024-12-12T23:25:57.097Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Cesar Cadenas/ZDNET
 And for one of the best qualities of this laptop: battery life is absolutely phenomenal. I [performed our usual test](https://www.zdnet.com/article/how-we-test-laptops/) of running a YouTube livestream at 720p and 50% brightness. At its peak, the Surface Pro lasted just under 13 hours on a single charge. That's just shy of Microsoft's purported 14-hour battery life. In practical usage, this is a device that will easily last multiple days on a single charge. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,16 +122,18 @@ Prices for the device start at $999.99\. My review unit with the 12-core Snapdra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-real-time-facebook-footage-the-top-5-live-streaming-apps/"><u>[New] In 2024, Real-Time Facebook Footage The Top 5 Live-Streaming Apps</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-how-to-halt-recommendations-no-more-suggests/"><u>[Updated] 2024 Approved How to Halt Recommendations No More Suggests</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/1715761223169-2024-approved-how-to-use-markers-in-video-recording-and-editing/"><u>2024 Approved How to Use Markers in Video Recording and Editing</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone 13 mini</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-mastering-monetization-a-beginners-guide-to-facebook-revenue/"><u>In 2024, Mastering Monetization A Beginner’s Guide to Facebook Revenue</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/macbook-air-showdown-deciding-between-the-latest-m3-and-m2-processors-expert-buying-guide-by-zdnet/"><u>MacBook Air Showdown: Deciding Between the Latest M3 and M2 Processors | Expert Buying Guide by ZDNET</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/p-mastery-manual-starting-an-engaging-aesthetic-vlog-for-2024/"><u>Makeup Mastery Manual Starting an Engaging Aesthetic Vlog for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximize-your-productivity-review-of-brydges-sp-max-plus-case-for-surface-pro-8-built-to-last/"><u>Maximize Your Productivity: Review of Brydge's SP Max Plus Case for Surface Pro 8 | Built to Last!</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-performance-issues-dying-light-lag-solutions-unveiled/"><u>Resolving Performance Issues: Dying Light Lag Solutions Unveiled</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-your-savings-exclusive-guide-to-early-bird-deals-on-high-performance-laptops-for-octobers-prime-shopping-event/"><u>Secure Your Savings: Exclusive Guide to Early Bird Deals on High-Performance Laptops for October's Prime Shopping Event</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultra-thin-acer-swift-edge-worlds-first-4k-oled-laptop-unveiled/"><u>Ultra-Thin Acer Swift Edge: World's First 4K OLED Laptop Unveiled!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-diy-ig-videos-tips-and-template-inspirations/"><u>[Updated] DIY IG Videos Tips & Template Inspirations</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-scaling-up-on-igtv-through-powerful-hash-tagging-for-2024/"><u>[Updated] Scaling Up on IGTV Through Powerful Hash Tagging for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-installing-the-latest-microsoft-surface-pro-cuits-best-practices-for-windows-users/"><u>Comprehensive Guide: Installing the Latest Microsoft Surface Pro Cuits - Best Practices for Windows Users</u></a></li>
+<li><a href="https://fox-http.techidaily.com/convert-srt-with-ease-the-finest-free-converters-ranked-for-2024/"><u>Convert SRT with Ease - The Finest FREE Converters Ranked for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-intel-thunderbolt-driver-fast-simplified-steps/"><u>Download Intel Thunderbolt Driver Fast - Simplified Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-intels-top-tier-nvme-drivers-quick-simple-steps-inside/"><u>Download Intel's Top-Tier NVMe Drivers - Quick, Simple Steps Inside</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-logitech-gaming-speaker-drivers-windows-compatible/"><u>Download Logitech Gaming Speaker Drivers (Windows Compatible)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-sades-headset-driver-updates-ensuring-safe-and-easy-compatibility-with-windows-os/"><u>Get the Latest Sades Headset Driver Updates - Ensuring Safe & Easy Compatibility with Windows OS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-achieving-precision-with-obs-implementing-timer-functionality/"><u>In 2024, Achieving Precision with OBS Implementing Timer Functionality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolve-problems-with-the-realtek-rtl8723be-network-adapter-drivers-easily/"><u>Resolve Problems with the Realtek RTL8723BE Network Adapter Drivers Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-the-mystery-of-your-broken-shift-key-with-these-effective-tips/"><u>Solve the Mystery of Your Broken Shift Key with These Effective Tips</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ideographers-essentials-top-9-gear-upgrades-for-mobile-filming/"><u>The Videographer's Essentials - Top 9 Gear Upgrades for Mobile Filming</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tips-and-tricks-to-excel-at-pokemon-unite-on-pc/"><u>Ultimate Tips and Tricks to Excel at Pokémon Unite on PC</u></a></li>
 </ul></div>
 

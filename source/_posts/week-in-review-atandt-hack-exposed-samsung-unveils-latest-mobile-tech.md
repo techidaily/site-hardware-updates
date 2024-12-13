@@ -1,7 +1,7 @@
 ---
 title: "Week in Review: AT&T Hack Exposed, Samsung Unveils Latest Mobile Tech"
-date: 2024-08-28T02:03:44.146Z
-updated: 2024-08-29T02:03:44.146Z
+date: 2024-12-11T03:27:06.155Z
+updated: 2024-12-12T17:37:02.011Z
 tags:
   - hardware
 categories:
@@ -19,9 +19,6 @@ This was a busy week for tech news, with Samsung releasing new phones and access
 
  Even if you aren't an AT&T customer, this breach probably affects you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ### [Thunderbird's Big "Nebula" Update Is Now Available](https://win-dash.techidaily.com/fresh-release-enhanced-biometric-drivers-for-seamless-windows-integration/) 
 
  Thundebird, the email client from Mozilla, just got its big update for the year with several usability improvements and new features.
@@ -30,9 +27,6 @@ This was a busy week for tech news, with Samsung releasing new phones and access
 
 Mozilla
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### [The Galaxy Buds 3 Pro Is Samsung’s New AirPods Pro Competitor](https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-without-passcode-or-face-id-drfone-by-drfone-ios/) 
 
  The best Samsung earbuds money can buy, complete with ANC and deep integration with Galaxy smartphones.
@@ -42,8 +36,9 @@ Mozilla
  Samsung’s new lower-cost wireless earbuds took a few notes from Apple’s AirPods.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [These Features Are Now Rolling out to All Windows 11 PCs](https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
 
  An updated Start menu, the return of "show desktop," new emoji, and more are rolling out to all Windows 11 PCs after a few months in Insider testing.
@@ -52,30 +47,20 @@ Mozilla
 
  A new comments system encourages influencer culture on Spotify.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### [Samsung Galaxy Z Fold 6 Has a Much Better External Screen](https://screen-activity-recording.techidaily.com/new-vsf-video-capture-insights-a-critical-look-for-2024/) 
 
  Samsung's new book-style folding phone has arrived, with an updated aspect ratio and some hardware improvements.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [Samsung's Galaxy Z Flip 6 Gets the Upgrade We Wanted](https://twitter-videos.techidaily.com/no-cash-all-fun-turning-twitter-vids-into-gifs-for-2024/) 
 
  Finally, Samsung's most trendy phone has a good camera.
 
 ![Person holding the Samsung Galaxy Z Flip 6 showing the cover display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/person-holding-the-samsung-galaxy-z-flip-6-showing-the-cover-display.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
 ### [T-Mobile Home Internet Reverses Its Recent Price Increase](https://buynow-info.techidaily.com/the-epicurean-pandemonium-of-overcooked-2-demystified-in-our-latest-review/) 
@@ -87,15 +72,24 @@ Justin Duino / How-To Geek
  The classic Winamp desktop music player now has a mobile version, but it might not be what you expect. iCloud integration is especially interesting for iPhone users.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [The Galaxy Watch Ultra is Samsung's Most Expensive Wearable Yet](https://ai-video-apps.techidaily.com/updated-2024-approved-the-complete-guide-to-reversing-tiktok-videos-tips-and-tricks/) 
 
  The new Galaxy Watch Ultra takes some inspiration from the Apple Watch Ultra.
 
 ![Person holding the Samsung Galaxy Watch Ultra](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/person-holding-the-samsung-galaxy-watch-ultra.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Samsung's Galaxy Watch 7 is Finally Here](https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-oppo-reno-9a-drfone-by-drfone-virtual-android/) 
 
@@ -106,13 +100,9 @@ Justin Duino / How-To Geek
  The console-only Game Pass is being replaced with a different "Standard" plan, and pricing is changing.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [ASUS' Newest NUC Tiny PCs Are Really Powerful](https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/) 
 
  The new ASUS NUC 14 Pro and NUC 14 Pro+ are great options for a compact desktop PC.
@@ -123,8 +113,6 @@ Justin Duino / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +120,26 @@ Justin Duino / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-cutting-edge-broadcasting-dslr-use-for-facebook-live-on-pcmac/"><u>[New] Cutting-Edge Broadcasting DSLR Use for Facebook Live on PC/Mac</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-pioneering-strategies-for-success-in-the-spotify-ad-arena/"><u>[New] In 2024, Pioneering Strategies for Success in the Spotify Ad Arena</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-vs-intel-processors-which-brand-delivers-better-computing-power/"><u>AMD vs Intel Processors: Which Brand Delivers Better Computing Power?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-epson-wf-7710-drivers-step-by-step-tutorial-for-various-windows-os/"><u>Download and Install Epson WF-7710 Drivers: Step by Step Tutorial for Various Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-downloads-driets-for-your-epson-scanners/"><u>Free Downloads: Driets for Your Epson Scanners</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-free-hp-laserjet-1018-software-from-official-source/"><u>Get Your Free HP LaserJet 1018 Software From Official Source</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-intel-thunderbolt-controllers-up-to-date-download-and-install/"><u>Get Your Intel Thunderbolt Controllers Up-to-Date: Download & Install</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-surface-book-updated-with-new-drivers-today/"><u>Get Your Surface Book Updated with New Drivers Today</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-samsung-galaxy-z-flip-5-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Samsung Galaxy Z Flip 5 for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-note-30-vip-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-tactics-for-making-youtube-videos-go-viral/"><u>In 2024, Tactics for Making YouTube Videos Go Viral</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-compatible-software-and-firmware-for-your-gigabyte-z37np-d3-mobo-available-here/"><u>Latest Compatible Software & Firmware for Your Gigabyte Z37nP D3 Mobo Available Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-firmware-update-available-download-the-newest-epson-xp-420-printer-driver-software-now/"><u>Latest Firmware Update Available: Download the Newest Epson Xp-420 Printer Driver Software Now!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-the-art-of-instagram-voice-transformation-for-2024/"><u>Mastering the Art of Instagram Voice Transformation for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-the-art-of-tiktok-visual-enhancements/"><u>Mastering the Art of TikTok Visual Enhancements</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/proceder-a-un-backup-de-votre-ordinateur-en-utilisant-google-drive-etapes-faciles-et-pratiques/"><u>Procéder À Un Backup De Votre Ordinateur en Utilisant Google Drive : Étapes Faciles Et Pratiques</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ricodifica-online-gratuita-per-file-mkv-in-formato-webm-tutorial-completo-con-movavi-video-converter/"><u>Ricodifica Online Gratuita per File MKV in Formato WebM: Tutorial Completo Con Movavi Video Converter</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978127566-seamlessly-install-new-sounds-card-drivers-begin-now/"><u>Seamlessly Install New Sounds Card Drivers - Begin Now!</u></a></li>
+<li><a href="https://win-hot.techidaily.com/top-reliable-online-services-for-converting-youtube-content-into-high-quality-mp3-audio/"><u>Top Reliable Online Services for Converting YouTube Content Into High-Quality MP3 Audio</u></a></li>
+</ul></div>
 

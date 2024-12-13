@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Persistent 'Farting' Sounds From Alexa Device - A Comprehensive Guide
-date: 2024-08-28T02:00:33.485Z
-updated: 2024-08-29T02:00:33.485Z
+date: 2024-12-07T22:52:49.841Z
+updated: 2024-12-12T18:31:19.697Z
 tags:
   - hardware
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Troubleshooting Persistent 'Farting' Sounds From Alexa Device - A Comprehensive Guide
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Alexa may be unexpectedly making fart noises due to someone playing pranks on you.
@@ -18,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Stop the pranks by deleting routines, disabling fart-related skills, or changing the Alexa wake word.
 
  Is your Alexa smart speaker breaking wind in front of friends, or waking you up with thundering fart noises in the middle of the night? There’s a good chance someone is playing tricks on you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alexa’s Gas Is a Real Problem
 
@@ -30,8 +38,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  So what’s going on?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Someone Is Probably Messing With You
 
  If you’ve run into this problem and you’re hearing too much flatulence from an Alexa unit than you’d like, you have to explore the possibility that someone is up to no good.
@@ -40,28 +49,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Voice requests in the Amazon Alexa app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-19-at-12-06-33.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’re encountering this issue in the middle of the night, someone may have set up a routine. You can find your routines under “Routines” in the “Home” tab of the Alexa app. You can tap the “play” button next to a routine to preview it. Find the problem routine and delete it.
 
 ![A daily routine in the Alexa mobile app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-19-at-12-07-50.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Fart sounds are added to Alexa by what Amazon calls “Skills” which are effectively [apps that run on the platform](https://digital-screen-recording.techidaily.com/new-in-2024-expert-blueprint-fashioning-timer-functionality-with-video-editors/). To see your skills, tap on the “Skills & Games” category on the “More” tab of the Alexa app, then scroll down to the bottom and tap “Your Skills.”
 
 ![An example Alexa fart skill.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-19-at-12-08-38.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Tap on a skill to see it, then tap “Settings” followed by “Disable Skill” to remove it from Alexa. Some of these fart noise skills ask for input, while others simply play random noises. Routines can be established with custom requests like “Alexa, let it rip” which will trigger specific apps.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  You Can Always Tell Alexa to “Stop”
 
  If you’re being fart bombed by some sort of custom routine, just say “Alexa, stop.” If the device doesn’t respond, make sure that the microphone hasn’t been disabled using a button on the device directly.
@@ -70,9 +75,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  To stop people from setting alarms to wake you up with fart noises at 4 AM, [consider changing your Alexa wake word](https://some-skills.techidaily.com/2024-approved-ultimate-resource-compilation-for-media-imagery/). To do this, launch the Alexa app on your device then head to Devices > Echo & Alexa and select your device. From here change the wake word from “Alexa” to something else, and only tell those you trust.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Try Signing Out of Everywhere
 
  If you suspect someone is logged into your Amazon account and using the Alexa app to play tricks on you, a nuclear option is to sign out of everywhere. Head to Amazon and sign in, then click Account & Lists > Account > Login & Security.
@@ -87,8 +89,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -96,4 +96,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-from-novice-to-pro-comprehensible-periscope-steps/"><u>[New] In 2024, From Novice to Pro Comprehensible Periscope Steps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-reviewing-the-best-screen-recorders-on-the-market-for-2024/"><u>[New] Reviewing the Best Screen Recorders on the Market for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-essential-guide-unraveling-ios-screen-capture-magic/"><u>[Updated] In 2024, Essential Guide Unraveling IO's Screen Capture Magic</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-new-language-a-new-perspective-key-methods-for-deep-engagement/"><u>A New Language, A New Perspective: Key Methods for Deep Engagement</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/best-free-video-editors-for-windows-10-users/"><u>Best Free Video Editors for Windows 10 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-essential-software-packages-and-drivers-for-hp-elitebook-x360-1030-g2/"><u>Download the Essential Software Packages & Drivers for HP EliteBook X360 1030 G2</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-overcome-the-error-code-0x80240034-during-windows-10-update-process/"><u>Effective Solutions to Overcome the Error Code 0X80240034 During Windows 10 Update Process</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-downloader-tool-install-epson-printer-drivers-on-windows/"><u>Free Downloader Tool - Install Epson Printer Drivers on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-intel-rapid-storage-technology-driver-downloads-and-updates-for-windows-111087/"><u>Free Intel Rapid Storage Technology Driver Downloads & Updates for Windows 11/10/8/7</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-disable-and-uninstall-copilot-coding-tool-in-windows-11-easy-methods-revealed/"><u>How to Disable and Uninstall Copilot Coding Tool in Windows 11: Easy Methods Revealed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-refresh-cpu-drivers-for-better-performance-on-windows-computers/"><u>How to Easily Refresh CPU Drivers for Better Performance on Windows Computers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-iphone-13-pro-max-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on iPhone 13 Pro Max Safe and Legal</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/optimized-hearing-latest-nahimic-audio-drivers-deliver-superior-sound-clarity/"><u>Optimized Hearing: Latest Nahimic Audio Drivers Deliver Superior Sound Clarity</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-download-microsoft-wireless-mouse-5000-compatible-drivers/"><u>Quick Download: Microsoft Wireless Mouse 5000 Compatible Drivers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-sluggish-mobile-speeds-boost-your-data-velocity-in-just-10-easy-ways/"><u>Struggling with Sluggish Mobile Speeds? Boost Your Data Velocity in Just 10 Easy Ways</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722966480690-successfully-overcoming-asus-pce-ac56-driver-woes-across-windows-10-8-and-7/"><u>Successfully Overcoming ASUS PCE-AC56 Driver Woes Across Windows 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-special-deals-on-the-latest-amd-gaming-bundle-ryzen-7000-cpus-plus-radeon-rx-7000-gpus-plus-bonus-games-excludes-coming-soon-ryzen-9000/"><u>Unlock Special Deals on the Latest AMD Gaming Bundle: Ryzen 7000 CPUs + Radeon RX 7000 GPUs - Plus Bonus Games! Excludes Coming Soon Ryzen 9000</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-the-current-hp-laserjet-pro-m404n-drivers-direct-download-links-available/"><u>Update to the Current HP LaserJet Pro M404N Drivers – Direct Download Links Available!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-brother-printer-driver-on-windows-a-comprehensive-guide/"><u>Update Your Brother Printer Driver on Windows: A Comprehensive Guide</u></a></li>
+</ul></div>
 

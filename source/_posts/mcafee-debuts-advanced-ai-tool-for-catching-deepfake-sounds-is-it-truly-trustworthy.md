@@ -1,7 +1,7 @@
 ---
 title: McAfee Debuts Advanced AI Tool for Catching Deepfake Sounds - Is It Truly Trustworthy?
-date: 2024-11-29T16:45:27.982Z
-updated: 2024-12-06T18:37:22.559Z
+date: 2024-12-08T21:44:44.588Z
+updated: 2024-12-12T18:43:36.232Z
 tags:
   - laptops
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to configure specific DNS servers on your Chromebook
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **What you'll need:** The only thing you'll need for this is a Chromebook with an updated version of Chrome OS. Make sure to always keep your operating system up-to-date, so you always have the latest features and (more importantly) the latest security and bug fixes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Settings
@@ -61,7 +61,7 @@ Screenshot by Jack Wallen/ZDNET
 **Also: [How to connect to a network share from your Chromebook](https://www.zdnet.com/home-and-office/work-life/how-to-connect-to-a-network-share-from-your-chromebook/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable automatic IP address configuration
@@ -73,7 +73,7 @@ By default, Chrome OS uses DHCP to acquire IP addresses. To use a specific DNS s
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change the Name Servers
@@ -120,22 +120,14 @@ And that's all you need to do to give your Chromebook a speed and security boost
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-explore-the-best-in-class-pc-vr-headsets/"><u>[New] In 2024, Explore the Best-In-Class PC VR Headsets</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-rotation-revelations-guide-crafting-captivating-images-on-social-media/"><u>[Updated] 2024 Approved The Rotation Revelations Guide Crafting Captivating Images on Social Media</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-groundwork-for-av1-mastery-for-2024/"><u>[Updated] Groundwork for AV1 Mastery for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-snagting-smiles-on-iphones-and-androids-from-twitters-timeline/"><u>[Updated] Snagting Smiles on iPhones & Androids From Twitter's Timeline</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-installing-camera-drivers-for-windows-users-win111087/"><u>Easy Guide to Downloading & Installing Camera Drivers for Windows Users (Win11/10/8/7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-downloads-logitech-g35-sound-card-drivers-compatible-with-modern-windows-os/"><u>Free Downloads: Logitech G35 Sound Card Drivers Compatible with Modern Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-geforce-rtx-2070-driver-for-your-pc-on-windows-11-8-or-7/"><u>Get the Newest Geforce RTX 2070 Driver for Your PC on Windows 11, 8 or 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-easily-install-new-steelseries-mouse-software-and-enhance-performance/"><u>How to Easily Install New SteelSeries Mouse Software and Enhance Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-laserjet-printer-support-find-and-install-the-correct-windows-p1102w-driver-software-now/"><u>HP LaserJet Printer Support: Find and Install the Correct Windows P1102w Driver Software Now!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-samsung-galaxy-s24-ultra-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Samsung Galaxy S24 Ultra to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-updated-hp-graphics-on-windows-11-pc/"><u>Install Updated HP Graphics on Windows 11 PC</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/resurrecting-files-windows-edition/"><u>Resurrecting Files: Windows Edition</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ricoh-mp-c3003-driver-download-step-by-step-tutorial-for-smooth-setup/"><u>Ricoh Mp C3003 Driver Download - Step-by-Step Tutorial for Smooth Setup</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-correcting-issues-with-hp-screen-driver-for-windows-1087-systems/"><u>Step-by-Step Guide to Correcting Issues with HP Screen Driver for Windows 10/8/7 Systems</u></a></li>
-<li><a href="https://fox-info.techidaily.com/step-by-step-live-stream-via-network-in-vlc-for-2024/"><u>Step-by-Step Live Stream via Network in VLC for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-the-best-wireless-keyboards/"><u>The Ultimate Guide to the Best Wireless Keyboards</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-epson-wf-3520-driver-for-seamless-windows-printing-experience/"><u>Update Your Epson WF-3520 Driver for Seamless Windows Printing Experience</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-copyright-concern-unscheduled-video-displacement-for-2024/"><u>[New] Copyright Concern Unscheduled Video Displacement for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-infinix-note-30-pro-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Infinix Note 30 Pro Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/construct-humor-memes-via-adobe-for-2024/"><u>Construct Humor Memes via Adobe for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-techkeys-ultimate-bluetooth-adapter-drivers-compatible-with-windows-1078/"><u>Download Techkey's Ultimate Bluetooth Adapter Drivers Compatible with Windows 10/7/8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-drivers-for-your-canon-mg2900-printer/"><u>Download the Latest Drivers for Your Canon MG2900 Printer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-techniques-optimal-live-cricket-broadcasting/"><u>In 2024, Top 10 Techniques Optimal Live Cricket Broadcasting</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-and-compatible-drivers-for-the-epson-ds-530-on-64-bit-windows-10-computers/"><u>Latest & Compatible Drivers for the Epson DS-530 on 64-Bit Windows 10 Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolve-your-network-adapter-woes-in-windows-7-with-these-simple-fixes/"><u>Resolve Your Network Adapter Woes in Windows 7 with These Simple Fixes</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-avidemux-audio-troubleshooting-quick-solutions/"><u>Updated Avidemux Audio Troubleshooting Quick Solutions</u></a></li>
 </ul></div>
 

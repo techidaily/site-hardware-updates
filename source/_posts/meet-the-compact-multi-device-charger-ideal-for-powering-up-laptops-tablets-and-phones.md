@@ -1,7 +1,7 @@
 ---
 title: "Meet the Compact Multi-Device Charger: Ideal for Powering Up Laptops, Tablets & Phones"
-date: 2024-12-04T21:17:13.634Z
-updated: 2024-12-06T20:58:43.255Z
+date: 2024-12-07T02:44:18.895Z
+updated: 2024-12-12T20:41:51.511Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -93,7 +93,7 @@ Compared to a MacBook, one could argue that the Yoga Slim 7x is at least better 
 The MacBook is better suited for the iOS ecosystem, however Lenovo has been making strides in developing a data transfer feature between its laptop and iPhones. So if you're not sure which one to get, the Yoga Slim 7x might be the better long-term investment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,16 +134,22 @@ Creators might also appreciate the fact that Lenovo is also giving [two free mon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-ultimate-capture-top-video-screenshot-tools/"><u>[Updated] Ultimate Capture Top Video Screenshot Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/explore-the-latest-chromeos-enhancement-with-windows-11-integration-on-chromebooks-detailed-review-by-zdnet/"><u>Explore the Latest ChromeOS Enhancement with Windows 11 Integration on Chromebooks | Detailed Review by ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-microsofts-new-frontier-in-technology-the-intelligent-surface-pro-10-and-ai-powered-laptop-6-unveiled-exclusive-details-by-zdnet/"><u>Exploring Microsoft's New Frontier in Technology: The Intelligent Surface Pro 10 and AI-Powered Laptop 6 Unveiled | Exclusive Details by ZDNet</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-6s-plus-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 6s Plus Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-motorola-moto-g23-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Motorola Moto G23 Phone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-fixes-to-restore-standby-functionality-on-your-ios-device/"><u>Quick Fixes to Restore Standby Functionality on Your iOS Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/supporting-evolution-in-computing-how-ai-and-cybersecurity-are-shaping-the-future-of-lenovos-laptop-lineup/"><u>Supporting Evolution in Computing: How AI and Cybersecurity Are Shaping the Future of Lenovo's Laptop Lineup</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-98-unmissable-cyber-monday-bargains-of-2022-a-comprehensive-guide-by-zdnet/"><u>Top 98 Unmissable Cyber Monday Bargains of 2022 - A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-missing-nspr4dll-error-effectively/"><u>Troubleshooting The Missing nspr4.dll Error Effectively</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winerror-0x80070091-demystified-how-to-clear-not-empty-directive/"><u>WinError 0X80070091 Demystified: How to Clear 'Not Empty' Directive</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/zdnets-ultimate-tech-roundup-unveiling-the-most-revolutionary-devices-and-products-of/"><u>ZDNet's Ultimate Tech Roundup: Unveiling the Most Revolutionary Devices & Products Of</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-best-skype-recorders-for-quality-compiled/"><u>[Updated] 2024 Approved Best Skype Recorders for Quality Compiled</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-transforming-doubt-into-action-channeling-vlogger-excellence/"><u>[Updated] Transforming Doubt Into Action Channeling Vlogger Excellence</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-and-up-to-date-hp-pagewide-pro-477dw-drivers-for-windows-operating-system-win11-win10-and-win8/"><u>Compatible and Up-to-Date HP PageWide PRO 477DW Drivers for Windows Operating System: Win11, Win10 & Win8</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conveying-messages-with-flair-an-iphone-emoji-users-manual/"><u>Conveying Messages with Flair: An iPhone Emoji User's Manual</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-drivers-for-rtx-2070-super-on-windows-1011-step-by-step-guide/"><u>Download and Update Drivers for RTX 2070 Super on Windows 10/11: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-tp-link-wifi-adapter-drivers-compatible-with-windows-1187/"><u>Download the Newest TP-Link WiFi Adapter Drivers Compatible with Windows 11/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-insights-into-pc-components-by-tom-toms-gear-hub/"><u>Expert Insights Into PC Components by Tom - Tom's Gear Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-the-right-dell-network-adapter-utilities-for-windows-7-machines/"><u>Find and Install the Right Dell Network Adapter Utilities for Windows 7 Machines</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-drivers-for-your-canon-mg3022-step-by-step-guide-to-download-and-update/"><u>Get the Newest Drivers for Your Canon MG3022 - Step-by-Step Guide to Download and Update</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/o-make-a-youtube-reaction-video-for-2024/"><u>How to Make a YouTube Reaction Video for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-nokia-c12-pro-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Nokia C12 Pro?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-versatile-online-creations-simple-and-inclusive-ideas-for-your-first-videos/"><u>In 2024, Versatile Online Creations Simple and Inclusive Ideas for Your First Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-epson-wf-3620-driver-updates-available-for-download-on-windows-1187/"><u>Latest Epson WF-3620 Driver Updates Available for Download on Windows 11/8/7</u></a></li>
+<li><a href="https://win-hot.techidaily.com/launch-announcement-updated-songbookdb-is-now-live-perfect-for-djs/"><u>Launch Announcement: Updated SongbookDB Is Now Live - Perfect for DJs!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-for-updating-your-synaptics-touchpad-software/"><u>Step-by-Step Tutorial for Updating Your Synaptics Touchpad Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-audio-device-isolation-explained/"><u>Windows Audio Device Isolation Explained</u></a></li>
 </ul></div>
 

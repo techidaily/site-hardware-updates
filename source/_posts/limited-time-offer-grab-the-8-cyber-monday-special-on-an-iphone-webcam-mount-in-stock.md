@@ -1,7 +1,7 @@
 ---
 title: "Limited Time Offer: Grab the $8 Cyber Monday Special on an iPhone Webcam Mount - In Stock!"
-date: 2024-11-30T00:23:06.238Z
-updated: 2024-12-07T02:16:26.111Z
+date: 2024-12-06T00:53:25.450Z
+updated: 2024-12-12T23:40:46.046Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ I've seen the likes of Belkin put out [quality iPhone mounts for this purpose](h
 All that's needed to make Continuity Camera happen is a Mac computer running MacOS Ventura, an iPhone running on iOS 16, and a mount to keep the handset afloat. That's where the Elephant Card comes in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,19 +81,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-craft-your-ideal-video-experience-on-vimeo-through-plan-selection/"><u>[New] 2024 Approved Craft Your Ideal Video Experience on Vimeo Through Plan Selection</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-revealing-the-top-six-where-to-grab-your-snack-videos/"><u>[New] 2024 Approved Revealing the Top Six Where to Grab Your Snack Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-digital-subtitle-producer/"><u>2024 Approved Digital Subtitle Producer</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-choices-comprehensive-paid-and-free-macpc-video-decoders/"><u>In 2024, Excellent Choices Comprehensive Paid & FREE Mac/PC Video Decoders</u></a></li>
-<li><a href="https://win-community.techidaily.com/lenovo-pc/"><u>Lenovo PCのデータ復旧：消えたファイルを取り戻すコツ</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-common-issues-with-the-logitech-g230-microphone-fixed/"><u>Solving Common Issues with the Logitech G230 Microphone [FIXED]</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-tecno-camon-20-premier-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Tecno Camon 20 Premier 5G Phone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/transform-your-workstation-the-highly-rated-samsung-pixel-dense-viewfinity-s9-monitor-27-ips-display-and-integrated-4k-camera-at-an-unmatchable-899-price-se59/"><u>Transform Your Workstation: The Highly Rated Samsung Pixel-Dense ViewFinity S9 Monitor - 27 IPS Display & Integrated 4K Camera at an Unmatchable $899 Price – Secure 44% Off Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-building-a-pc-tips-from-toms-hardware/"><u>Ultimate Guide to Building a PC - Tips From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-viewing-pleasure-with-gigabytes-aorus-co49dq-a-deep-dive-into-its-stunning-color-and-contrast-ratings/"><u>Ultimate Viewing Pleasure with Gigabyte's Aorus CO49DQ - A Deep Dive Into Its Stunning Color & Contrast Ratings</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-next-level-visuals-premium-rated-alienware-oled-display-at-record-lows-price/"><u>Unlock Next-Level Visuals: Premium Rated Alienware OLED Display at Record Lows Price</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-tech-world-with-toms-equipment-expertise/"><u>Unveiling the Tech World with Tom's Equipment Expertise</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-cutting-3gp-files-heres-a-simple-and-fast-solution-for-2024/"><u>Updated Cutting 3GP Files? Heres a Simple and Fast Solution for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/work-smarter-on-a-budget-the-new-hp-professional-monitor-at-37-featuring-premium-ips-panel-and-competitive-edge-over-pricey-oled-models/"><u>Work Smarter on a Budget - The New HP Professional Monitor at 37” Featuring Premium IPS Panel & Competitive Edge Over Pricey OLED Models</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/converta-seu-gif-em-um-arquivo-tiff-gratuitamente-on-line-com-o-movavi/"><u>Converta Seu GIF Em Um Arquivo TIFF Gratuitamente On-Line Com O Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effective-remedies-for-dts-sound-failure-on-assigned-audio-equipment/"><u>Effective Remedies for 'DTS Sound Failure on Assigned Audio Equipment'</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-edge-in-gaming-a-step-by-step-tutorial-on-upgrading-to-asus-970-pro-graphics/"><u>Get the Edge in Gaming: A Step-by-Step Tutorial on Upgrading to ASUS 970 Pro Graphics</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-windows-compatible-drivers-for-your-amd-radeon-r9-200-gpus-step-by-step-guide/"><u>Get the Latest Windows-Compatible Drivers for Your AMD Radeon R9 200 GPUs – Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-latest-epson-xp-400-printer-driver-a-complete-guide/"><u>How to Install the Latest Epson XP-400 Printer Driver - A Complete Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-obtain-and-improve-performance-with-intel-hd-graphics-driver-5500-update/"><u>How To Obtain & Improve Performance with Intel HD Graphics Driver #5500 Update</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-iphone-14-plus-without-password-by-drfone-ios/"><u>How to Remove Apple ID from iPhone 14 Plus without Password?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-oneplus-nord-n30-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on OnePlus Nord N30 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-firmware-enhancements-for-canons-lide-220-scanning-device-secure-your-download-here/"><u>Latest Firmware Enhancements for Canon's LiDE 220 Scanning Device - Secure Your Download Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-updates-for-amd-drivers-compatibility-with-windows-10117-systems/"><u>Latest Updates for AMD Drivers: Compatibility with Windows 10/11/7 Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-fix-enable-seamless-iphone-and-itunes-integration-on-windows-10-operating-system/"><u>Mastering the Fix: Enable Seamless iPhone and Itunes Integration on Windows 10 Operating System</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-color-correction-mastery-in-fcp-2023-expert-techniques-revealed-for-2024/"><u>New Color Correction Mastery in FCP 2023 Expert Techniques Revealed for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978077891-nuclear-latency-refers-to-the-capability-of-developing-nuclear-weapons-without-actually-doing-so-which-complicates-non-proliferation-monitoring/"><u>Nuclear Latency Refers to the Capability of Developing Nuclear Weapons without Actually Doing so, Which Complicates Non-Proliferation Monitoring.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/open-secrets-mechanical-keyboards-unveiled/"><u>Open Secrets: Mechanical Keyboards Unveiled</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-xiaomi-redmi-note-12-4g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Xiaomi Redmi Note 12 4G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solution-steps-for-when-your-logitech-g433-headset-mic-stops-responding/"><u>Solution Steps for When Your Logitech G433 Headset Mic Stops Responding</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-perfect-study-companion-discover-how-a-299-laptop-benefits-students-in-college/"><u>The Perfect Study Companion: Discover How a $299 Laptop Benefits Students in College</u></a></li>
+<li><a href="https://article-files.techidaily.com/understanding-video-storage-in-24-hours/"><u>Understanding Video Storage in 24-Hours</u></a></li>
 </ul></div>
 

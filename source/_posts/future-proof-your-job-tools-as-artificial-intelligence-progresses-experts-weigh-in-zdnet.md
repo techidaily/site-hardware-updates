@@ -1,7 +1,7 @@
 ---
 title: "Future-Proof Your Job Tools as Artificial Intelligence Progresses: Experts Weigh In (ZDNet)"
-date: 2024-12-04T18:27:12.054Z
-updated: 2024-12-07T03:14:54.467Z
+date: 2024-12-06T21:00:09.351Z
+updated: 2024-12-12T18:24:59.052Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,14 +134,18 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-perfect-pitch-integrating-music-with-cropping-and-editing-in-canva/"><u>[New] 2024 Approved Perfect Pitch Integrating Music with Cropping and Editing in Canva</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-how-to-make-a-video-call-in-whatsapp-web-in-laptop/"><u>[Updated] In 2024, How to Make a Video Call in WhatsApp Web in Laptop</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-install-the-latest-razer-blackwidow-driver-update/"><u>Easy Steps to Install the Latest Razer BlackWidow Driver Update</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/hed-viewing-experience-with-these-free-downloader-apps-for-youtubes-for-2024/"><u>Enriched Viewing Experience with These Free Downloader Apps for YouTubes for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-epson-wf-2630-printer-drivers-compatible-with-windows-7-81-and-10/"><u>Free Epson WF-2630 Printer Drivers: Compatible with Windows 7, 8.1 & 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-optimal-graphics-card-functionality-with-updated-geforce-210-nvidia-drivers-for-win-10/"><u>Get Optimal Graphics Card Functionality with Updated GeForce 210 Nvidia Drivers for Win 10</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-samsung-galaxy-m54-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Samsung Galaxy M54 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-scoop-on-cutting-edge-gadgets-by-tech-expert-tom/"><u>Inside Scoop on Cutting-Edge Gadgets by Tech Expert, Tom</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/que-razones-impiden-que-cambie-el-dvd-directamente-a-un-disco-duro-sin-ripear/"><u>¿Qué Razones Impiden Que Cambie El DVD Directamente a Un Disco Duro Sin Ripear?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-unlocking-advanced-functionalities-of-zoom-on-windows-10/"><u>[New] Unlocking Advanced Functionalities of Zoom on Windows 10</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-androids-evolving-landscape-in-virtual-reality360-viewing/"><u>[Updated] 2024 Approved Android's Evolving Landscape in Virtual Reality/360 Viewing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-elevate-your-images-with-quantum-hdr-expertise/"><u>[Updated] Elevate Your Images with Quantum HDR Expertise</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-expert-techniques-for-integrating-standardized-luts-in-post-production-workflows/"><u>[Updated] Expert Techniques for Integrating Standardized LUTs in Post-Production Workflows</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/decouvrez-les-3-meilleures-methodes-efficaces-pour-restaurer-vos-informations-a-partir-dune-mbr-corrompue-etapes-simplifiees/"><u>Découvrez Les 3 Meilleures Méthodes Efficaces Pour Restaurer Vos Informations À Partir D’une MBR Corrompue : Étapes Simplifiées</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-samsung-m2070-ready-quick-driver-download-guide/"><u>Get Your Samsung M2070 Ready! Quick Driver Download Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-install-webcam-support-in-windows-amoning/"><u>How to Seamlessly Install WebCam Support in Windows amoNing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-pcs-wifi-drivers-in-windows-11-and-10/"><u>How to Update Your PC's WiFi Drivers in Windows 11 and 10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-stability-showcase-premium-phone-compatible-tripods/"><u>In 2024, Stability Showcase Premium Phone-Compatible Tripods</u></a></li>
+<li><a href="https://win-net.techidaily.com/schritt-fur-schritt-anleitung-zur-nutzung-von-dell-os-wiederherstellungstools-unter-windows-11/"><u>Schritt-Für-Schritt-Anleitung Zur Nutzung Von Dell OS-Wiederherstellungstools Unter Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/successfully-installing-the-latest-mouse-drivers-on-your-windows-7-system/"><u>Successfully Installing the Latest Mouse Drivers on Your Windows 7 System</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-definitive-guide-to-removing-persistent-youtube-channels-on-all-screens-for-2024/"><u>The Definitive Guide to Removing Persistent Youtube Channels on All Screens for 2024</u></a></li>
 </ul></div>
 

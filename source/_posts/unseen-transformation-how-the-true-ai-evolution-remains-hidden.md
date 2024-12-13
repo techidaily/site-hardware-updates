@@ -1,7 +1,7 @@
 ---
 title: "Unseen Transformation: How the True AI Evolution Remains Hidden"
-date: 2024-08-28T02:00:39.530Z
-updated: 2024-08-29T02:00:39.530Z
+date: 2024-12-08T21:27:42.633Z
+updated: 2024-12-12T18:52:38.772Z
 tags:
   - hardware
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 ---
 
 ## Unseen Transformation: How the True AI Evolution Remains Hidden
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -23,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 
  Qualcomm is developing a _lot_ of AI hardware and software, built up from the company’s experience with mobile image processing and other earlier implementations of on-device machine learning. The new [Snapdragon X chipsets for PC laptops](https://extra-skills.techidaily.com/updated-mobile-mastery-upgrade-photos-elevated-at-no-price/) have a dedicated neural processing unit (NPU) for on-device AI tasks. The company’s newer mobile chips, like the Snapdragon 8s Gen 3, can handle some large language models (LLMs) without help from an external server over an internet connection. Qualcomm isn’t alone here, to be clear—the latest laptop CPUs from AMD and Intel also have NPUs, and consumer Nvidia GPUs can also handle many on-device AI workloads.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Outside The Hype
 
  I know what you’re thinking. You’re tired of hearing every tech company ramble about AI like it’s the magical solution to all the world’s problems. You’re sick of the AI features popping up in your favorite apps. Maybe you’re an artist, writer, or some other creator that heard [OpenAI’s CTO say](https://fortune.com/2024/06/24/ai-creative-industry-jobs-losses-openai-cto-mira-murati-skill-displacement/) that AI could kill some creative jobs that “shouldn’t have been there in the first place,” and you’re ready to burn it all down to the ground. I get that, and I agree most implementations of “AI” right now are solutions in search of a problem or actively harmful.
@@ -33,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 
 ![Live demo of DJ software running on a Snapdragon X Elite laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/qualcomm.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Corbin Davenport / How-To Geek
 
  The ability to run large language models on a more typical smartphone, tablet, or PC opens up other interesting use cases. For example, the upcoming [“Apple Intelligence” on iPhones, iPads, and Macs](https://some-techniques.techidaily.com/new-from-streaming-to-savings-preserving-your-internet-tunes/) will use on-device AI to sort notifications and better understand spoken language in Siri. There are some features that are harder to build and scale when they require a powerful datacenter somewhere, and that’s what hardware makers are trying to change right now.
@@ -42,9 +54,9 @@ Corbin Davenport / How-To Geek
  These advancements are pointing towards a future where more on-device AI features will be possible, and they will be implemented just like any other functionality in your favorite applications. The trend of obnoxious AI chatbots or AI-suggested replies on social media posts will eventually fade away (hopefully), but we’ll be left with the features that are _actually useful_. That’s the real AI revolution: not a giant Copilot button in Microsoft Edge, but your apps and devices becoming smarter and accomplishing specific tasks much quicker and more efficiently.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What’s Old Is New
 
  The word “AI” has lost most of its meaning over the past year or two, much like “crypto” became meaningless during [the last cryptocurrency bubble](https://en.wikipedia.org/wiki/Cryptocurrency%5Fbubble#2020%E2%80%932022%5Fcryptocurrency%5Fbubble). It might mean large language models that require expensive datacenters, or it might be the image processing algorithms used when taking a photo on a modern smartphone. There are also many AI-enabled devices that are clearly just using the term for the hype value, like [rice cookers](https://www.youtube.com/watch?v=F%5FHOrMmWoMA) with “AI Smart Cooking Technology.”
@@ -61,8 +73,6 @@ _Disclosure: My trip to San Diego, California to visit the AI Analyst & Media Wo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -70,4 +80,22 @@ _Disclosure: My trip to San Diego, California to visit the AI Analyst & Media Wo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-cloud-storage-pricing-comparison-and-best-price-recommendations/"><u>[New] In 2024, Cloud Storage Pricing Comparison and Best Price Recommendations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leaping-from-low-quality-to-hdri-mastery-your-ultimate-guide/"><u>[New] Leaping From Low Quality to HDRI Mastery - Your Ultimate Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-navigating-small-business-video-markets/"><u>[Updated] Navigating Small Business Video Markets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-animoji-secrets-on-iphone-x-a-step-by-step-guide/"><u>2024 Approved Unlock Animoji Secrets on iPhone X - A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ch340-driver-update-guide-compatibility-with-windows-10/"><u>CH340 Driver Update Guide: Compatibility with Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensuring-optimal-performance-amd-driver-upgrade-instructions-for-windows-os/"><u>Ensuring Optimal Performance: AMD Driver Upgrade Instructions for Windows OS</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/exciting-educational-experience-learn-spanish/"><u>Exciting Educational Experience: Learn Spanish</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/flight-to-film-expert-techniques-for-video-editors-using-drones-for-2024/"><u>Flight to Film Expert Techniques for Video Editors Using Drones for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722955311584-get-your-graphics-up-to-speed-instant-geforce-gtx-460-windows-drivers/"><u>Get Your Graphics Up to Speed: Instant GeForce GTX 460 Windows Drivers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-honor-magic-5-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Honor Magic 5 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-downloading-the-latest-version-of-epson-ds-n-series-software/"><u>Step-by-Step Tutorial: Downloading the Latest Version of Epson DS-N Series Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-unveiling-the-latest-in-hardware/"><u>Tom's Tech Insights: Unveiling the Latest in Hardware</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/trasforma-file-mpe-in-un-gif-veloce-online-con-movavi/"><u>Trasforma File MPE in Un GIF Veloce Online Con Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-toms-computer-components-a-deep-dive/"><u>Ultimate Guide to Tom's Computer Components: A Deep Dive</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to NuPhy Air75 V2: Why Every Mac Enthusiast Needs This Mechanical Masterpiece"
-date: 2024-08-28T02:01:40.722Z
-updated: 2024-08-29T02:01:40.722Z
+date: 2024-12-08T21:40:09.894Z
+updated: 2024-12-12T16:51:19.949Z
 tags:
   - hardware
 categories:
@@ -147,9 +147,6 @@ Tim Brookes / How-To Geek
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Air75 Version 2 Improvements
 
  If you’re coming from the original Air75, there are a few improvements to note in V2\. The revised version makes use of a higher 1000Hz polling rate when connected via Bluetooth, supports QMK/VIA customization, and ships with double-shot PBT keycaps that shouldn't get shiny over time.
@@ -172,6 +169,10 @@ Tim Brookes / How-To Geek
 
 ![A NuPhy Air75 V2 next to a Magic Trackpad and a MacBook Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/keyboard_trackpad.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  The Air75 V2 is a 75% keyboard that’s ever-so-slightly larger than the MacBook Pro keyboard I’m used to, but one that shares a similar layout with a full row of function keys. It works seamlessly with macOS, Windows, Linux, iOS, Android, and more thanks to wireless connections via Bluetooth and the included 2.4GHz dongle, plus a wired connection over the included USB-C to USB-A cable.
@@ -183,13 +184,18 @@ Tim Brookes / How-To Geek
 ![A set of spare keys received with the NuPhy Air75 V2 mechanical keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/spare_keys.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  Some of the more interesting keys (from a Mac perspective) include a dedicated screenshot key which works on both Mac and Windows, the aforementioned “Del” key that is usually missing on the reduced Mac keyboard, and an Fn key that doesn’t trigger the macOS language or emoji picker like its Apple counterpart. Instead, the Fn key is used to change keyboard settings like lighting, auto-sleep mode, and so on.
 
  In terms of size, 75% feels perfect for someone who appreciates the tidy look of a small keyboard that doesn’t skimp on the essentials.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Typing Speed Isn’t Everything
 
@@ -210,8 +216,9 @@ Tim Brookes / How-To Geek
  Switching to a keyboard like the Air75 V2 also means making do without Touch ID. This doesn’t bother me as I’ve switched to authenticating with my Apple Watch instead (I’ve since disabled Touch ID altogether, even when I’m not using the Air75 V2).
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  A Fully Customizable Keyboard, In Theory
 
  There’s more to a keyboard like the Air75 V2 than simply the typing experience. The Magic Keyboard is boring by comparison when it comes to the many ways you can customize the Nuphy. This starts on the board itself, with its removable low-profile keycaps and hot-swappable switches.
@@ -222,18 +229,12 @@ Tim Brookes / How-To Geek
 
 ![The VIA configurator tool for macOS refusing to work.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-12-at-09-58-45.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  For me, this isn’t a huge deal. I didn’t pick the Air75 V2 for its firmware-level customization. That was just a nice bonus that I was looking forward to playing with. That said, Mac users hoping to dig into this stuff might want to reconsider. Ironically, Tyler had similar issues when [reviewing the Nuphy Air60 V2](https://win-howtos.techidaily.com/step-by-step-guide-to-repairing-your-oculus-headsets-technical-glitches/).
 
  The Air75 V2 includes customizable RGB lighting too. There are 40 different RGB rainbow effects, but no see-through keycaps are included in the box. You can switch them out, but it feels like a missed opportunity. Lighting is fun but ultimately provides no function outside of looking pretty.
 
  For what it’s worth, the standalone Magic Keyboard doesn’t include any lighting at all.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Battery Life is Great (Without RGB)
 
  Speaking of lighting, if you’re really after the best possible battery life then you’ll want to disable these effects altogether. The Air75 V2 has a 4,000mAh battery that is rated for up to 220 hours of usage over Bluetooth with the backlight disabled.
@@ -241,6 +242,10 @@ Tim Brookes / How-To Geek
  Turn the lighting effects on and this can drop as low as 35 hours, according to Nuphy’s numbers. I had the lighting mostly off all week and I barely noticed the battery level drop.
 
  Make no mistake, the Air75 V2 has one of the largest batteries in its class of low-profile mechanical keyboards. This makes it a great portable typing companion for tablet or smartphone users. The large battery helps add some heft to the board that keeps it planted on your desk, too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Should You Buy the Air75 V2 Keyboard?
 
@@ -250,9 +255,6 @@ Tim Brookes / How-To Geek
 
 ![The rear of the NuPhy Air75 V2 with its wired and wireless switcher on display.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/switches.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  In terms of alternative keyboards, the [LoFree Flow84](https://www.lofree.co/products/lofree-flow-the-smoothest-mechanical-keyboard) is arguably the closest competitor. It’s a more premium keyboard with fancier Khail switches, an all-aluminum construction, and it sounds considerably better than the Air75 V2\. It also lacks 2.4GHz connectivity, has a much smaller battery, and the Bluetooth polling rate has caused many to complain about a “laggy” typing experience.
@@ -264,6 +266,10 @@ Tim Brookes / How-To Geek
  But it’s also a world away from being a mechanical keyboard. It’s not as satisfying to type on, even if it feels like a less taxing experience for your fingers. If you’re bored with Apple peripherals, the Nuphy Air75 V2 is a great gateway into the world of mechanical keyboards.
 
 ![NuPhy Air75 V2 Mechanical Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/nuphy_air75_v2_square.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Nuphy Air75 V2
 
@@ -279,8 +285,6 @@ The NuPhy Air75 V2 is the second revision of the company's 75% low-profile mecha
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -288,4 +292,23 @@ The NuPhy Air75 V2 is the second revision of the company's 75% low-profile mecha
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-obs-streamers-toolkit-for-captivating-sessions/"><u>[New] OBS Streamer’s Toolkit for Captivating Sessions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-turning-down-igtv-on-insta/"><u>[New] Turning Down IGTV on Insta</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-implementing-youtube-video-automatic-start-on-facebook/"><u>[Updated] Implementing Youtube Video Automatic Start on Facebook</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-friendly-crystal-clear-visuals-on-the-hisense-50h8f-4k-hdr-smart-television/"><u>Budget-Friendly, Crystal Clear Visuals on the Hisense 50H8F 4K HDR Smart Television</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/embracing-less-with-tech-why-i-chose-the-minimalist-vintage-aesthetic-of-the-light-phone-3-before-its-launch/"><u>Embracing Less with Tech: Why I Chose the Minimalist, Vintage Aesthetic of the Light Phone 3 Before Its Launch</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-picks-for-superior-saddle-companions-the-leading-bike-cell-phone-clasps-of-2ntoy/"><u>Expert Picks for Superior Saddle Companions: The Leading Bike Cell Phone Clasps of 2Ntoy</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-for-updating-dns-configuration-on-android-phones-and-tablets/"><u>Expert Tips for Updating DNS Configuration on Android Phones and Tablets</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-apks-ensuring-safety-when-acquiring-applications/"><u>Exploring APKs: Ensuring Safety When Acquiring Applications</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-top-notch-alternatives-how-samsungs-stock-tools-outshine-googles-offerings/"><u>Exploring Top-Notch Alternatives: How Samsung’s Stock Tools Outshine Google's Offerings</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-service-showdown-is-xbox-or-psplus-ultimate-better/"><u>Gaming Service Showdown: Is Xbox or PS+ Ultimate Better?</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/how-to-resolve-undetected-hardware-issues-in-windows-with-guidance-from-yl-software-experts/"><u>How to Resolve Undetected Hardware Issues in Windows with Guidance From YL Software Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-restore-network-functionality-for-your-google-pixel-7-series-phones-in-just-4-easy-steps/"><u>How To Restore Network Functionality for Your Google Pixel 7 Series Phones in Just 4 Easy Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/identifying-signs-of-mobile-internet-throttling-what-you-need-to-know/"><u>Identifying Signs of Mobile Internet Throttling: What You Need to Know</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-iphone-se-2022-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the iPhone SE (2022) iCloud Lock</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-depth-training-on-googles-advanced-speech-to-text-feature/"><u>In-Depth Training on Google's Advanced Speech to Text Feature</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/leading-server-racks-and-closure-units-of-the-year-2024-edition/"><u>Leading Server Racks and Closure Units of the Year: 2024 Edition</u></a></li>
+</ul></div>
 

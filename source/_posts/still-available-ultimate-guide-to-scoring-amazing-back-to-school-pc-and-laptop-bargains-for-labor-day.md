@@ -1,7 +1,7 @@
 ---
 title: "Still Available: Ultimate Guide to Scoring Amazing Back-to-School PC and Laptop Bargains for Labor Day"
-date: 2024-12-02T02:42:07.910Z
-updated: 2024-12-07T02:13:09.564Z
+date: 2024-12-06T01:23:50.060Z
+updated: 2024-12-12T19:47:09.956Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ From Apple's [MacBook Pro M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FUR
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day laptop deals
 
@@ -80,6 +76,10 @@ Microsoft's 2024 Surface Laptop is a fast, lightweight laptop with a fantastic b
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXKQYNPD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb3611028-58ae-48b5-bfb2-0711ac2fbc82%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best laptops for students
 
 Dell/ZDNET
@@ -88,6 +88,10 @@ Dell/ZDNET
 * [Lenovo IdeaPad Slim 3 Chromebook](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-IdeaPad-Slim-Chromebook-Lightweight%2Fdp%2FB0D5HZVQDL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb3611028-58ae-48b5-bfb2-0711ac2fbc82%7Cdtp&dtb=1) for $209 ($10 off) - If you need a lightweight device with a good webcam, it doesn't get more affordable than Lenovo's IdeaPad Slim 3 Chromebook. Already at just a few hundred bucks, you can save some extra cash during Amazon's October Prime Day sale.
 * [Acer Chromebook 314](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChromebook-CB314-4HT-32X6-i3-N305-Processor-Display%2Fdp%2FB0CMRRFGVN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb3611028-58ae-48b5-bfb2-0711ac2fbc82%7Cdtp&dtb=1) for $339 ($110 off) - For a Chromebook with a little bit more storage and a full HD display, this 14-inch Acer machine is a solid campus companion.
 * [Lenovo V15 Essential Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Essential-Quad-core-Processor-Ethernet%2Fdp%2FB0D8524KVL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb3611028-58ae-48b5-bfb2-0711ac2fbc82%7Cdtp&dtb=1) for $399 ($100 off) - Lenovo's V15 laptop is a well-rounded machine with a full 1TB of storage, which is enough for multiple years' worth of documents and files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best gaming laptops under $1,000
 
@@ -104,10 +108,6 @@ Asus/ZDNET
 * [Asus Zenbook Duo Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Zenbook-Certified-Graphics-UX8406MA-PS99T%2Fdp%2FB0CRD6PJDF%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb3611028-58ae-48b5-bfb2-0711ac2fbc82%7Cdtp&dtb=1) for $1,503 ($196 off): Asus' Duo is a game-changing machine with its dual 14-inch OLED displays and powerful hardware, allowing for a wide range of configurations that creatives will love.
 * [Microsoft Surface Laptop Snapdragon X Elite](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXL68236%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb3611028-58ae-48b5-bfb2-0711ac2fbc82%7Cdtp&dtb=1) for $1,560 ($139 off): The higher-end Copilot+ certified laptop with the 12-core Snapdragon X Elite chip and 1TB of storage is also still on sale following October Prime Day.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## More October Prime Day 2024 laptop deals
 
 Kyle Kucharski/ZDNET
@@ -117,6 +117,10 @@ Kyle Kucharski/ZDNET
 * [Acer Nitro 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHexa-Core-GeForce-Display-Backlit-AN16-41-R148%2Fdp%2FB0D3VJXSWK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb3611028-58ae-48b5-bfb2-0711ac2fbc82%7Cdtp&dtb=1) for $799 (save $200): This mid-range gaming laptop has a 16-inch display with a 165Hz refresh rate and is built with an Nvidia GeForce RTX 4050 graphics card.
 * [Acer Swift Go 14](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Facer-Display-Experiences-Processor-SFG14-72T-718K%2Fdp%2FB0CNDTGC77%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb3611028-58ae-48b5-bfb2-0711ac2fbc82%7Cdtp&dtb=1) for $699 (save $300): This lightweight laptop features an Intel Core Ultra 7 155H CPU, Intel Arc graphics, 16GB of RAM, and a 512GB SSD.
 * [HP 17-inch Touch Laptop](https://qvc.uikc.net/c/159047/565130/9368?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.qvc.com%2Fhp-17-touch-laptop-intel-n200-4gb-ram-128gb-ssd-w-hp-mouse-%2526-ms365.product.E324465.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for $479 (Save $80): For a large-screen laptop with touch capabilities, HP's 17-inch Touch comes in a variety of bold colorways, and is bundled with a mouse in this QVC deal. This is a solid choice for users who want a large screen to play media, but only need a basic hardware configuration.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Buy laptop deals
 
@@ -133,7 +137,7 @@ Kyle Kucharski/ZDNET
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Amazon's October Prime Day 2024?
@@ -141,7 +145,7 @@ Kyle Kucharski/ZDNET
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals before and after those days as well. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Are laptops really cheaper on Prime Day?
@@ -159,10 +163,6 @@ When compiling the list of the best deals, we considered the following:
 * **Price**: Naturally, the price point of our recommended laptops has to include a worthwhile discount. While some discounts are small in relation to an overall price tag - for example, $30 off a $150 device - and other discounts are in the hundreds of dollars, we wanted to ensure that in any case, it's value for money.
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What are the best October Prime Day 2024 deals?
 
@@ -230,20 +230,20 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-niche-marketing-through-periscope-broadcasts/"><u>[New] Niche Marketing Through Periscope Broadcasts</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-best-chosen-templates-for-viral-ae-content/"><u>[Updated] Best Chosen Templates for Viral AE Content</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-free-easy-and-fast-youtubes-best-subtitle-getters/"><u>2024 Approved Free, Easy and Fast YouTube's Best Subtitle Getters</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-hp-speakers-and-headset-drivers-free-guide-fast-installation-steps/"><u>Download HP Speakers & Headset Drivers - FREE Guide | Fast Installation Steps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-logitech-c270-hd-webcam-software-for-windows-pcs-windows-10-11/"><u>Download the Latest Logitech C270 HD Webcam Software for Windows PCs (Windows 10, 11)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-installation-guide-wacom-intuos-pro-drivers-for-windows-11/"><u>Effortless Installation Guide: Wacom Intuos Pro Drivers for Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-startech-usb-enabled-vga-drivers-for-seamless-graphics-performance/"><u>Get the Newest StarTech USB-Enabled VGA Drivers for Seamless Graphics Performance</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-13-mini-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 13 mini without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722961292388-immediate-access-to-lexar-usb-drives-secure-your-free-download-today/"><u>Immediate Access to Lexar USB Drives: Secure Your Free Download Today</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-elevate-your-videos-with-complimentary-banners-here/"><u>In 2024, Elevate Your Videos with Complimentary Banners, Here</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-posting-a-youtube-video-via-insta-stories-a-step-by-step-guide/"><u>In 2024, Posting a YouTube Video via Insta Stories A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-hp-deskjet-2600-driver-software-for-windows-7810-free-download/"><u>Latest HP DeskJet 2600 Driver Software for Windows 7/8/10 - Free Download</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/optimizing-youtube-content-for-higher-visibility-for-2024/"><u>Optimizing YouTube Content for Higher Visibility for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-tips-for-ralink-rt3290-drivers-in-windows-operating-systems-windows-1087/"><u>Troubleshooting Tips for Ralink RT3290 Drivers in WIndows Operating Systems (Windows 10/8/7)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-cured-non-appearance-of-tiny-vid-content/"><u>[Updated] 2024 Approved Cured Non-Appearance of Tiny Vid Content</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-truthful-insights-into-recordcast-functionality/"><u>[Updated] In 2024, Truthful Insights Into RecordCast Functionality</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-time-traveling-tactics-top-7-historic-battles-reimagined/"><u>[Updated] Time-Traveling Tactics Top 7 Historic Battles Reimagined</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-hp-laptop-model-840-g3-driver-software/"><u>Download & Install HP Laptop Model 840 G3 Driver Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-windows-drivers-for-hp-zbook-15-g3-step-by-step-guide/"><u>Download & Install Windows Drivers for HP ZBook 15 G3 - Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-your-typing-experience-secure-download-of-logitech-g402-keyboard-drivers-and-support-software/"><u>Enhance Your Typing Experience: Secure Download of Logitech G402 Keyboard Drivers & Support Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-reliable-usb-c-drivers-on-your-windows-10-pc-today/"><u>Find and Install Reliable USB-C Drivers on Your Windows 10 PC Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-t630-up-and-running-on-win7810-download-the-right-driver/"><u>Get Your Logitech T630 Up and Running on Win7/8/10 - Download the Right Driver!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-targus-displaylink-driver-upgrades-compatible-with-windows-10-8-and-cuhildren/"><u>Latest Targus DisplayLink Driver Upgrades – Compatible with Windows 10, 8 & Cuhildren</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210721542-9781956198232-my-life-as-prayer/"><u>My Life As Prayer | Free Book</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-review-of-lazlive-live-selling-platform-with-guide/"><u>New 2024 Approved Review of LazLive Live Selling Platform With Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/professional-level-edits-made-simple-10-pixlr-strategies-for-2024/"><u>Professional-Level Edits Made Simple 10 Pixlr Strategies for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/revolutionize-content-sharing-facebook-storages-adaptable-across-services/"><u>Revolutionize Content Sharing: Facebook Storages Adaptable Across Services.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-performance-and-hardware-by-toms-experts/"><u>The Ultimate Guide to Performance & Hardware by Tom's Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969953856-update-your-brother-hl-l2370dw-printer-with-the-newest-free-software-version/"><u>Update Your Brother HL-L2370DW Printer with the Newest, FREE Software Version!</u></a></li>
 </ul></div>
 

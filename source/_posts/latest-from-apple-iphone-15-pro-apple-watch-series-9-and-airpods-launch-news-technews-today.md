@@ -1,7 +1,7 @@
 ---
 title: "Latest From Apple: IPhone 15 Pro, Apple Watch Series 9 & AirPods Launch News | TechNews Today"
-date: 2024-11-30T23:28:15.310Z
-updated: 2024-12-07T02:54:08.998Z
+date: 2024-12-07T04:30:49.175Z
+updated: 2024-12-13T04:19:58.808Z
 tags:
   - laptops
 categories:
@@ -25,6 +25,10 @@ Below, you'll find the best sales and discounts on Apple products, including Mac
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Apple deals of July 2024
 
@@ -125,6 +129,10 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple%2Fnew-ipad-pro-m4%2Fpcmcat1715092665904.c%3Fid%3Dpcmcat1715092665904&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  More Apple deals
 
 [Walmart: Save up to $1,200 on the new iPhone 15 series View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fcol%2Fnew-iphone&subId1=zd-__COM_CLICK_ID__-dtp)
@@ -157,10 +165,6 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple accessory deals
 
 [Apple Pencil (1st-gen) deal for $79 (save $20) $79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Pencil-1st-Generation-Adapter%2Fdp%2FB0BJLG69QR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc59f26ff-942b-4436-9faf-236bb5a523b5%7Cdtp&dtb=1)
@@ -175,20 +179,20 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can I buy an iPhone without a plan?
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the cheapest Apple product?
 
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is there a monthly fee for Apple iPads?
@@ -196,10 +200,6 @@ Apple's AirTag, a tracking device that connects to your account and allows you t
 This depends on the type of iPad you decide to purchase. If you opt for a Wi-Fi-only iPad -- regardless of whether you have bought a classic iPad, iPad mini, or iPad Pro -- then there will be no monthly fee or subscription. 
 
 However, if you choose an iPad with Wi-Fi and cellular connectivity, then you will need to pay for a mobile data plan to take advantage of the iPad's cellular features. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How did we choose these Apple deals?
 
@@ -236,7 +236,7 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will these deals expire?
@@ -283,18 +283,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-screen-scribes-editing-edition-guide/"><u>[New] In 2024, Screen Scribes Editing Edition Guide</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-the-ultimate-guide-to-quantum-hdr/"><u>[Updated] The Ultimate Guide to Quantum HDR</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unmasking-the-top-10-clandestine-story-gurus-for-2024/"><u>[Updated] Unmasking the Top 10 Clandestine Story Gurus for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-visualvault-review-highlighting-the-best-recording-tools/"><u>[Updated] VisualVault Review Highlighting the Best Recording Tools</u></a></li>
-<li><a href="https://fox-place.techidaily.com/3sd-google/"><u>3無成本手法搶救SD卡上的照片 - Google搜索引擎</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-your-razer-naga-mouse-driver-on-windows-pcs/"><u>Download and Update Your Razer Naga Mouse Driver on Windows PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-download-and-install-the-epson-wf-3540-printer-driver-on-windows-computers/"><u>Easy Steps to Download and Install the Epson WF-3540 Printer Driver on Windows Computers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-your-graphics-card-performance-with-gigabytes-gc-wb867d-drivers-download-now/"><u>Enhance Your Graphics Card Performance with Gigabyte's GC-WB867D Drivers - Download Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-officejet-pro-8620-software-and-drivers-compatible-with-windows-operating-system/"><u>Get the Latest HP OfficeJet Pro 8620 Software & Drivers Compatible with Windows Operating System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-install-epson-xp-430-drivers-on-a-windows-device-a-users-guide/"><u>How to Successfully Install Epson XP-430 Drivers on a Windows Device - A User's Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-evaluating-magix-multimedia-software/"><u>In 2024, Evaluating MAGIX Multimedia Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-error-0x8024a205-in-winupdate/"><u>Troubleshooting Error 0X8024a205 in WinUpdate</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/turn-off-emergency-alerts-expert-tips-for-android-phone-owners/"><u>Turn Off Emergency Alerts: Expert Tips for Android Phone Owners</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-cold-climate-chronicles-highlights-from-the-icy-stage-for-2024/"><u>[New] Cold Climate Chronicles Highlights From the Icy Stage for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instaloops-unleashed-the-ultimate-guide-to-engagement/"><u>[New] In 2024, InstaLoops Unleashed The Ultimate Guide to Engagement</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-transforming-daily-routine-into-a-social-media-journey-on-fb/"><u>[Updated] 2024 Approved Transforming Daily Routine Into a Social Media Journey on FB</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1-experience-the-april-8-eclipse-with-googles-complimentary-viewing-options-learn-how/"><u>1. Experience the April 8 Eclipse with Google's Complimentary Viewing Options - Learn How!</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-seamless-merge-apple-music-and-videos-together/"><u>2024 Approved Seamless Merge Apple Music & Videos Together</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/beyond-sony-and-samsung-the-ultimate-guide-to-selecting-a-premium-gaming-television/"><u>Beyond Sony and Samsung: The Ultimate Guide to Selecting a Premium Gaming Television</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/breaking-sound-barriers-a-revolutionary-speaker-experience-that-outshines-bose-and-sonos-reviewed/"><u>Breaking Sound Barriers: A Revolutionary Speaker Experience that Outshines Bose & Sonos Reviewed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-personal-linguist-tips-and-tricks-for-seamless-language-translation/"><u>ChatGPT as Your Personal Linguist: Tips and Tricks for Seamless Language Translation</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-savings-up-to-1700-off-on-samsungs-innovative-the-frame-tv-exclusive-offer-spotted-by-zdnet/"><u>Discover Savings: Up To $1,700 Off On Samsung’s Innovative 'The Frame' TV - Exclusive Offer Spotted by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-prime-day-bargain-with-the-99-fire-tv-stick-on-amazon-your-guide-to-the-best-deal-available-today/"><u>Get Prime Day Bargain with the $99 Fire TV Stick on Amazon - Your Guide to the Best Deal Available Today!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-how-to-add-bitmoji-to-keyboard-complete-guide/"><u>New 2024 Approved How to Add Bitmoji to Keyboard? Complete Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-the-top-ranked-samsung-tv-at-43-discount-this-labor-day-insights-from-a-comprehensive-review-on-zdnet/"><u>Unbeatable Deal: The Top-Ranked Samsung TV at 43% Discount This Labor Day - Insights From a Comprehensive Review on ZDNet</u></a></li>
 </ul></div>
 

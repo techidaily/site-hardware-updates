@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Portable Charger Perfectly Compatible with Your MacBook Pro: Reviews & Buyer's Guide"
-date: 2024-11-30T01:00:51.380Z
-updated: 2024-12-06T17:29:45.439Z
+date: 2024-12-05T17:50:39.818Z
+updated: 2024-12-13T03:57:02.227Z
 tags:
   - laptops
 categories:
@@ -27,10 +27,6 @@ All of the ultraportable laptops on this list sport cutting-edge form factors, a
 ## What's the best lightweight laptop right now?
 
 Our overall top pick for the best lightweight laptop has to go to the [Apple MacBook Air M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24JRLR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C668fdd14-62fe-4f5f-ab26-348748ed1dd8%7Cdtp&dtb=1). In terms of portability, sleek form factor, solid battery life, and AI-capabilities, the MacBook Air M3 reigns supreme among the lightest of the light. It might not be the best pick for you, however, so we included other options that round out the spectrum of common use cases. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best ultraportable laptops of 2024
 
@@ -110,7 +106,7 @@ Cons
 ## Asus ROG Zephyrus G14
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best lightweight laptop for gaming
@@ -145,7 +141,7 @@ Cons
 ## LG Gram Pro 17
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best lightweight laptop with a 17" display
@@ -179,6 +175,10 @@ Cons
 
 ## Lenovo ThinkPad X1 Carbon
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best lightweight laptop for work
 
 Lenovo's ThinkPad laptop series has been popular with professionals seeking durable Windows machines for years now, and the X1 Carbon is no exception. This is an elegant, lightweight workhorse of a laptop designed with the working professional in mind, and comes with a host of powerful hardware to back it up. 
@@ -206,7 +206,7 @@ The best lightweight laptop in 2024 is the [Apple MacBook Air M3](https://www.zd
 | Lenovo X1 Carbon      | $2263             | Intel Core Ultra 5 125U, Intel Arc Graphics      | 16GB, up to 1TB             | 2.4              |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which is the right lightweight laptop for you?
@@ -237,10 +237,6 @@ We use a combination of methods to test laptops here at ZDNET. First, we acquire
 
 Ultimately, our goal is to break down the capabilities of each and every laptop we test into digestible terms that real people can find useful. There is a lot of noise and confusion when it comes to navigating the laptop and computer consumer market, so we hope to bring an intuitive element to the whole process by leveraging our team's decades of experience. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Factors to consider when choosing a lightweight laptop
 
 These laptops all offer solid performance in their own right, but paired with their lightweight design, bring a new level of convenience with their portability. Keep in mind that the differences in their weight here are broken down to tenths of a pound, while most people won't even notice much of a difference between two and three pounds. These other factors went into the decision making process: 
@@ -250,7 +246,7 @@ These laptops all offer solid performance in their own right, but paired with th
 * **Price:** Cost is an important factor and will make or break many consumers' choices. The reality is that ultraportability does come at a cost, as none of these laptops would be considered "budget" by any rate. The Acer Swift Go 14, however, is still quite affordable, starting at $800, though upgrades will move that number more in line with the others on this list.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why does having a lightweight laptop matter?
@@ -260,6 +256,10 @@ The answer to this question is simple: laptops are made to be carried around, an
 Ultraportability does come with tradeoffs, however, both in terms of design and cost. When talking about design, the constraints on manufacturers to squeeze value out of every square inch of space in the laptop means that certain elements may be smaller, lighter, or in non-conventional locations. This especially refers to the laptop's battery, its display, or the laptop's keyboard. 
 
 In terms of cost, ultraportable laptops are often made with high-end, special lightweight materials that are going to cost more to produce and manufacture than simple plastic or aluminum. All of the laptops on this list were chosen for their well-designed, functional form factors and use of lightweight materials.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How much does a typical laptop weigh?
 
@@ -286,7 +286,7 @@ While every computing platform has its loyal supporters, most people end up usin
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are there alternative lightweight laptops worth considering?
@@ -335,20 +335,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-panzoid-leaders-choice-best-newcomer-lists/"><u>[New] In 2024, Panzoid Leaders' Choice Best Newcomer Lists</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-kickstarting-creativity-an-equipment-guide-for-beginners/"><u>[Updated] 2024 Approved Kickstarting Creativity An Equipment Guide for Beginners</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-directors-toolkit-youtube-lessons-on-film-making-for-2024/"><u>[Updated] The Director's Toolkit YouTube Lessons on Film Making for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-navigating-youtube-strikes-understanding-and-resolving-copyright-issues/"><u>2024 Approved Navigating YouTube Strikes Understanding and Resolving Copyright Issues</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-setup-accessing-official-canon-mg3620-driver-download-links/"><u>Effortless Setup: Accessing Official Canon MG3620 Driver Download Links</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-your-printing-experience-latest-hp-scanjet-driver-update-for-windows-download/"><u>Enhance Your Printing Experience: Latest HP Scanjet Driver Update for Windows [Download]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-advice-for-upgrading-your-rig-tips-from-toms-hardware-experts/"><u>Expert Advice for Upgrading Your Rig - Tips From Tom's Hardware Experts</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovos-thunderbolt-3-dock-latest-driver-installation-instructions/"><u>Lenovo's Thunderbolt 3 Dock - Latest Driver Installation Instructions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-effective-guide-to-reinstalling-synaptics-ps2-touchpad-drivers/"><u>Quick and Effective Guide to Reinstalling Synaptics PS/2 Touchpad Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/simplified-methods-to-update-the-scansnap-ix500-driver-for-optimal-windows-performance/"><u>Simplified Methods to Update the ScanSnap iX500 Driver for Optimal Windows Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-installing-logitech-webcam-c920ehd-drivers-on-a-windows-machine/"><u>Step-by-Step Tutorial: Installing Logitech Webcam C920EHD Drivers on a Windows Machine</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-restarting-failed-sound-streams-easily-solved/"><u>Troubleshooting Guide: Restarting Failed Sound Streams Easily Solved</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrading-hid-mouse-driver-software-for-optimal-performance-on-windows-and-mac-os/"><u>Upgrading HID Mouse Driver Software for Optimal Performance on Windows and Mac OS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/utilizing-chatgpt-in-cognitive-behavioral-therapy-a-comprehensive-guide/"><u>Utilizing ChatGPT in Cognitive-Behavioral Therapy: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unlock-your-profile-the-quick-fix-hacks/"><u>[Updated] 2024 Approved Unlock Your Profile The Quick Fix Hacks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-s18-pro-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo S18 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-the-right-phone-for-your-child-expert-picks/"><u>Choosing the Right Phone for Your Child: Expert Picks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/delicate-downgrades-of-decibels-in-garageband-for-2024/"><u>Delicate Downgrades of Decibels in Garageband for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-advice-easy-ways-to-get-the-latest-sandisk-ssd-driver-software-installed/"><u>Expert Advice: Easy Ways to Get the Latest SanDisk SSD Driver Software Installed</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-vivo-t2-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Vivo T2 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-realme-narzo-60-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Realme Narzo 60 Pro 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-windows-support-software-for-logitech-g602-wireless-sound-system/"><u>Installing Windows Support Software for Logitech G602 Wireless Sound System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intels-drastic-staff-reductions-of-over-15-surpassing-15000-workers-meteor-lake-yield-woes-prompt-dividend-suspension-warning/"><u>Intel's Drastic Staff Reductions of Over 15%, Surpassing 15,000 Workers: Meteor Lake Yield Woes Prompt Dividend Suspension Warning</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/newly-released-geforce-rtx-2070-drivers-optimized-for-various-windows-os-editions/"><u>Newly Released Geforce RTX ˈ2070 Drivers Optimized for Various Windows OS Editions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-how-to-get-and-install-magic-mouse-software-on-your-windows-device/"><u>Step-by-Step Tutorial: How to Get and Install Magic Mouse Software on Your Windows Device</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/wiederherstellung-von-wordpad-dokumenten-ohne-speichervorgang/"><u>Wiederherstellung Von WordPad Dokumenten Ohne Speichervorgang</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unleashing Potential in Subtlety - How Asus Delivers a Laptop with Impressive Features for Creatives, Spotted
-date: 2024-12-02T03:42:42.056Z
-updated: 2024-12-07T02:06:01.358Z
+date: 2024-12-09T04:49:08.086Z
+updated: 2024-12-12T18:34:32.845Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,22 +112,16 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-elevate-video-performance-top-notch-youtube-seo-strategies/"><u>[New] 2024 Approved Elevate Video Performance Top-Notch YouTube SEO Strategies</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-best-youtube-ad-creators-for-2024/"><u>[New] Best YouTube Ad Creators for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-step-by-step-live-stream-via-network-in-vlc/"><u>[New] Step-by-Step Live Stream via Network in VLC</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/easy-methods-for-transferring-files-between-computers-using-windows-1187-operating-systems/"><u>Easy Methods for Transferring Files Between Computers Using Windows 11/8/7 Operating Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-the-charm-of-natural-aesthetics-with-fractals-miniature-terra-gaming-rig-enjoy-adjustable-support-and-wood-accents/"><u>Experience the Charm of Natural Aesthetics with Fractal's Miniature Terra Gaming Rig - Enjoy Adjustable Support & Wood Accents!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-insights-on-pc-components-by-toms-electronics-hub/"><u>Expert Insights on PC Components by Tom's Electronics Hub</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/exploring-new-realms-a-detailed-jaunt-vr-review-for-2024/"><u>Exploring New Realms A Detailed Jaunt VR Review for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-latest-in-computer-hardware-with-tom-authoritative-guides-and-top-picks/"><u>Exploring the Latest in Computer Hardware with Tom - Authoritative Guides & Top Picks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-world-of-computers-with-toms-system-review/"><u>Exploring the World of Computers with Tom's System Review</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-s17t-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Vivo S17t to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723964479036-lian-li-lancool-iii-computer-chassis-now-at-an-unbeatable-price-just-119/"><u>Lian Li Lancool III Computer Chassis Now at an Unbeatable Price: Just $119!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/m4bmkvmovavi/"><u>M4B到MKV无线翻制：使用Movavi转换器获得高效转换</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-expert-analysis-comprehensive-guides-to-advanced-computer-hardware/"><u>Tom's Expert Analysis: Comprehensive Guides to Advanced Computer Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-hardware-explored-the-ultimate-guide-to-tech-and-gadgets/"><u>Tom's Hardware Explored: The Ultimate Guide to Tech and Gadgets</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-expert-reviews-and-advice/"><u>Tom's Tech Insights: Expert Reviews & Advice</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-langchain-and-large-language-models/"><u>Understanding LangChain and Large Language Models</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-initiating-an-entrepreneurial-journey-with-just-a-click-on-mobile-devices/"><u>[New] In 2024, Initiating an Entrepreneurial Journey with Just a Click on Mobile Devices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-instagram-utilizing-search-to-expand-your-filters/"><u>[Updated] 2024 Approved Mastering Instagram Utilizing Search to Expand Your Filters</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-srgb-vs-rgb-decoding-color-standards-for-devices/"><u>[Updated] In 2024, Srgb vs Rgb Decoding Color Standards for Devices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-zeroing-in-precision-backdrop-deduplication-with-photopea-for-2024/"><u>[Updated] Zeroing In Precision Backdrop Deduplication with Photopea for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-tech-insights-the-best-browser-screen-capture-tools-of-the-year/"><u>2024 Approved Tech Insights The Best Browser Screen Capture Tools of the Year</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-updates-hp-laserjet-1320-drivers-for-windows/"><u>Download & Install Updates: HP LaserJet 1320 Drivers for Windows</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/enhance-your-coding-experience-with-emeditors-minimalzen-color-theme-for-text-editors/"><u>Enhance Your Coding Experience with EmEditor's MinimalZen Color Theme for Text Editors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-updated-nvidia-display-drivers-for-your-windows-pc-now/"><u>Get Updated Nvidia Display Drivers for Your Windows PC Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-update-nvidia-geforce-980-ti-video-card-drivers/"><u>How to Download & Update NVIDIA GeForce 980 Ti Video Card Drivers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/master-image-enhancement-10-pro-tips-for-using-pixlr-effectively/"><u>Master Image Enhancement 10 Pro Tips for Using Pixlr Effectively</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-complete-solution-for-downloading-and-setting-up-a-dell-mouse-driver/"><u>The Complete Solution for Downloading and Setting Up a Dell Mouse Driver</u></a></li>
 </ul></div>
 

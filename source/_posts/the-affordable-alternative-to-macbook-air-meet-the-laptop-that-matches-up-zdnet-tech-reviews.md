@@ -1,7 +1,7 @@
 ---
 title: The Affordable Alternative to MacBook Air - Meet the Laptop That Matches Up | ZDNET Tech Reviews
-date: 2024-11-30T00:29:33.462Z
-updated: 2024-12-06T19:02:30.201Z
+date: 2024-12-08T19:28:17.273Z
+updated: 2024-12-12T17:23:35.692Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -71,7 +71,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 The Zephyrus G14 has one other major downside, besides its heating issue. The laptop comes with a lot of bloatware. The SSD is packed with several forgettable apps. Granted, some are useful. Armoury Crate controls the RGB lights and GeForce Experience manages your library of games. The onboard assistant? Not so much. At least, I didn't find myself looking for it. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's buying advice
@@ -114,24 +114,24 @@ The Zephyrus G14 starts at $1,600\. My review unit in particular costs $1,900, w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/trategies-for-editing-and-elevating-youtube-profiles/"><u>[New] Strategies for Editing and Elevating YouTube Profiles</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-screen-saver-successes-a-video-showcase-evaluation/"><u>[Updated] Screen Saver Successes - A Video Showcase Evaluation</u></a></li>
-<li><a href="https://win11.techidaily.com/7-ways-to-fix-a-mouse-wheel-that-keeps-zooming-instead-of-scrolling-on-windows/"><u>7 Ways to Fix a Mouse Wheel That Keeps Zooming Instead of Scrolling on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/a-week-with-an-ergo-split-keyboard-how-one-change-ruined-my-tech-habits-insights/"><u>A Week with an Ergo-Split Keyboard: How One Change Ruined My Tech Habits - Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/affordable-multipurpose-dock-experience-enhanced-connectivity-with-two-4k-hdmi-outputs-for-just-49-top-pick/"><u>Affordable Multipurpose Dock: Experience Enhanced Connectivity with Two 4K HDMI Outputs for Just $49 – Top Pick !</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-value-meta-quest-3-launches-with-512gb-storage-top-pick-for-october-prime-day-gaming-bargains-zdnet/"><u>Best Value Meta Quest 3 Launches with 512GB Storage: Top Pick for October Prime Day Gaming Bargains - ZDNet</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/capturing-content-in-the-digital-age-top-strategies/"><u>Capturing Content in the Digital Age Top Strategies</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comment-reussir-la-conversion-video-sur-instagram-les-techniques-et-les-applications-a-privilegier/"><u>Comment Réussir La Conversion Vidéo Sur Instagram : Les Techniques Et Les Applications À Privilégier</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-solving-no-audio-when-connecting-your-pc-to-a-television-using-an-hdmi-cable/"><u>Expert Tips for Solving No Audio When Connecting Your PC to a Television Using an HDMI Cable</u></a></li>
-<li><a href="https://win-answers.techidaily.com/grand-theft-auto-v-optimization-complete-no-more-frame-drops-or-lags/"><u>Grand Theft Auto V Optimization Complete: No More Frame Drops or Lags</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-update-your-canon-mg3600-printer-with-the-latest-drivers/"><u>How to Update Your Canon MG3600 Printer with the Latest Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/last-minute-opportunity-top-october-prime-day-202/"><u>Last-Minute Opportunity: Top October Prime Day 202</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximize-savings-during-amazons-prime-day-2023-exclusive-access-to-octobers-greatest-deals-available-now-zdnet-news/"><u>Maximize Savings During Amazon's Prime Day 2023: Exclusive Access to October's Greatest Deals Available Now | ZDNet News</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/microsofts-latest-innovations-revealed-at-the-annual-surface-and-ai-showcase-highlights-from-this-week/"><u>Microsoft's Latest Innovations Revealed at the Annual Surface and AI Showcase: Highlights From This Week</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/preeminent-6-social-media-sites-favored-by-professionals-for-2024/"><u>Preeminent 6 Social Media Sites Favored by Professionals for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-the-hp-victus-15-gaming-notebook-at-an-unbeatable-price-of-just-515-during-best-buys-prime-day-event-exclusive-offer-from-zdnet/"><u>Snag the HP Victus 15 Gaming Notebook at an Unbeatable Price of Just $515 During Best Buy's Prime Day Event - Exclusive Offer From ZDNet!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-12-unique-presents-perfect-for-any-hackers-sweet-tooth-recommendations/"><u>Top 12 Unique Presents Perfect for Any Hacker's Sweet Tooth: Recommendations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-exclusive-savings-score-a-complimentary-macbook-air-m3-from-best-buy-with-this-clever-hack-zdnet/"><u>Unlock Exclusive Savings: Score a Complimentary MacBook Air M3 From Best Buy with This Clever Hack | ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/utilizing-chatgpt-strategies-for-securing-your-ideal-employment/"><u>Utilizing ChatGPT: Strategies for Securing Your Ideal Employment</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-exploring-high-definition-sw320-4k-monitor-experience/"><u>[Updated] In 2024, Exploring High Definition Sw320 4K Monitor Experience</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/1728475522831-2/"><u>2つの専門的なハードディスク暗号化解除手順</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-amd-radeon-gpu-drivers-for-windows-8-at-no-cost/"><u>Download AMD Radeon GPU Drivers for Windows 8 at No Cost</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-downloads-for-msi-b350-tomahawk-chipset-drivers-works-great-on-windows-os/"><u>Free Downloads for MSI B350 Tomahawk Chipset Drivers: Works Great on Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-upgrade-epson-wf-3520-windows-drivers-now-available/"><u>Get the Most Recent Upgrade: Epson WF 3520 Windows Drivers Now Available!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-sound-back-install-new-audio-drivers-on-windows-7/"><u>Get Your Sound Back: Install New Audio Drivers on Windows 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-find-and-install-toshiba-laptop-drivers-on-windows-devices/"><u>How to Find and Install Toshiba Laptop Drivers on Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-tether-your-android-as-a-webcam-on-windows-11-pcs/"><u>How to Tether Your Android as a Webcam on Windows 11 PCs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-samsung-galaxy-a05-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Samsung Galaxy A05 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-nokia-c32-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Nokia C32 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-xiaomi-redmi-note-13-proplus-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Xiaomi Redmi Note 13 Pro+ 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-the-epson-es-400-scanner-software-for-windows-pcs-complete-tutorial/"><u>Installing the Epson ES-400 Scanner Software for Windows PCs - Complete Tutorial</u></a></li>
+<li><a href="https://article-posts.techidaily.com/jolly-video-recorder-critique/"><u>Jolly Video Recorder Critique</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-version-of-intel-iris-xe-graphics-drivers-for-windows-11-free-download/"><u>Latest Version of Intel® Iris XE Graphics Drivers for Windows 11 - Free Download</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-unique-image-creation-with-microsofts-advanced-copilot-feature/"><u>Mastering the Art of Unique Image Creation with Microsoft's Advanced Copilot Feature</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-guide-installing-windows-7-keyboard-drivers/"><u>Quick and Simple Guide: Installing Windows 7 Keyboard Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revitalize-your-computers-audio-experience-by-upgrading-usb-driver-on-various-windows-versions/"><u>Revitalize Your Computer's Audio Experience by Upgrading USB Driver on Various Windows Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/shedding-the-myths-discovering-a-comparably-sleek-and-power-packed-windows-option-for-laptop-lovers-techdigest/"><u>Shedding the Myths: Discovering a Comparably Sleek & Power-Packed Windows Option for Laptop Lovers | TechDigest</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722968889829-trustworthy-lenovo-thinkpad-drivers-and-firmware-update-guide-100-risk-free-download/"><u>Trustworthy Lenovo ThinkPad Drivers & Firmware Update Guide - 100% Risk-Free Download</u></a></li>
 </ul></div>
 

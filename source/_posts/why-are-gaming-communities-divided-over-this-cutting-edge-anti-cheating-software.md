@@ -1,7 +1,7 @@
 ---
 title: Why Are Gaming Communities Divided Over This Cutting-Edge Anti-Cheating Software?
-date: 2024-08-28T02:00:44.316Z
-updated: 2024-08-29T02:00:44.316Z
+date: 2024-12-09T02:46:44.779Z
+updated: 2024-12-12T22:57:47.811Z
 tags:
   - hardware
 categories:
@@ -29,11 +29,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Riot's Vanguard anti-cheat displayed as background process and as a popup tool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image_2024-07-22_133248143.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This lets the software look outside the scope of the game to check for tools that might impact gameplay, like [aimbots](https://facebook-videos.techidaily.com/new-in-2024-linking-your-favorite-tiktoks-seamlessly-to-facebook/).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Why It's Controversial
 
  Kernel-level anti-cheats are a clever solution to monitor competitive integrity in online games, many of which are esports. _Counter-Strike_ has a longstanding successful esports scene, with one of the largest prize pools of any current esport, so ensuring that professional play is rigorous is understandable. After all, professional athletes are tested against steroid use! Counter-Strike tournaments have been using the kernel-level anti-cheat software [Faceit](https://www.faceit.com/en) since its launch in 2016, so the technology itself isn't new.
@@ -41,8 +42,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  However, allowing companies to install software with this level of access onto your machine seems like overkill for the average at-home gamer. With anti-cheat software able to monitor all programs on your machine, you run the risk of facing bans (many of them being hardware) for having any program deemed suspicious with no recourse to challenge it. Giving large companies to have such unfettered access to your PC, superseding your _own_ access rights, sets a potentially dangerous precedent that could affect the safety of your PC and your data.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Risking the Safety of Your PC
 
  Externally downloaded applications that you cannot control or see are eerily reminiscent of malware, with these types of software being [rootkits](https://article-posts.techidaily.com/updated-2024-approved-vector-fundamentals-unpacked-for-novices-categories-and-software/). In fact, in 2013, an anti-cheat provider was fined for installing hidden [Bitcoin miners](https://www.wired.com/2013/11/e-sports/). While extreme, it’s a cautionary tale in allowing rootkits on your machine. You are entirely reliant on an anti-cheat provider employing best practices.
@@ -52,15 +54,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  What’s concerning, is that any weaknesses in these systems which can be exploited aren’t just localized to one application, but the _entire_ system. Compound that with the fact that more game developers are shipping their own kernel-level anti-cheats, and you now have several potential points of failure within your OS kernel. That’s a pretty significant risk, especially when most PC gamers are unlikely to have a dedicated machine just for gaming.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Balancing User Security and Competitive Fairness
 
 ![Team of Professional eSport Gamers Playing in Competitive Video Games on a Cyber Games Tournament. They Lost. Emotionally Charged Moment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/shutterstock_705666403.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Gorodenkoff/shutterstock.com
 
  Cheats in multiplayer games fundamentally damage the experience for players, and there’s a big incentive for developers to keep their anti-cheat software sharp and effective. Add into the mix a multi-million dollar esports scene, and it becomes clear that tackling sophisticated cheats is a high priority for game developers.
@@ -70,8 +74,9 @@ Gorodenkoff/shutterstock.com
  Developers need to be held accountable for protecting the rights of their player base with extensive and transparent privacy policies, while also returning control to the user. There is no reason why anti-cheat software needs to be running as a background process when you are not playing a game, or if you are using hacks for single-player games. However, until there’s ample incentive for developers, this is unlikely to change.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Getting to the Kernel of Truth
 
  Kernel-level anti-cheats are becoming standard practice across many competitive games, so it's ultimately your choice to decide if a particular game is worth the potential risk to your PC. If you have multiple machines and a dedicated gaming PC, you’re probably okay, otherwise it seems wise to limit the number of anti-cheat apps you have installed, or even opt out of having them at all.
@@ -84,8 +89,6 @@ Gorodenkoff/shutterstock.com
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -93,4 +96,22 @@ Gorodenkoff/shutterstock.com
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-ideal-webcams-elevating-podcast-production/"><u>[New] 2024 Approved Ideal Webcams Elevating Podcast Production</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-encompassing-details-inside-googles-podcast-application/"><u>[Updated] 2024 Approved Encompassing Details Inside Google's Podcast Application</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-speedy-explorer-windows-10-photography-interface/"><u>[Updated] Speedy Explorer - Windows 10 Photography Interface</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-seize-your-online-sessions-the-ultimate-browser-recording-tools-list/"><u>2024 Approved Seize Your Online Sessions The Ultimate Browser Recording Tools List</u></a></li>
+<li><a href="https://discover-best.techidaily.com/budget-friendly-guide-how-to-transfer-and-create-dvds-from-your-iphone-footage/"><u>Budget-Friendly Guide: How to Transfer and Create DVDs From Your iPhone Footage</u></a></li>
+<li><a href="https://win-able.techidaily.com/dying-light-2s-performance-issues-fixes-for-fps-drop-and-stuttering-in-pc-gameplay/"><u>Dying Light 2'S Performance Issues: Fixes for FPS Drop & Stuttering in PC Gameplay</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722961604346-effortless-installation-keeping-your-scansnap-up-to-date-on-pc/"><u>Effortless Installation: Keeping Your ScanSnap Up-to-Date on PC!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/geforce-rtx-3060-ti-windows-drivers-download-guide-windows-10-and-11/"><u>GeForce RTX 3060 Ti Windows Drivers: Download Guide [Windows 10 & 11]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-officejet-pro-8600-windows-compatible-printing-software/"><u>Get the Latest HP Officejet Pro 8600 Windows-Compatible Printing Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/improve-display-quality-with-the-new-driver-update-for-usb-and-hdmi-devices/"><u>Improve Display Quality with the New Driver Update for USB & HDMI Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-free-tools-to-convert-srt-into-engaging-video-content/"><u>In 2024, Top 10 FREE Tools to Convert SRT Into Engaging Video Content</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-hardware-with-toms-guides-top-gadgets-and-tips/"><u>Mastering Hardware with Tom's Guides - Top Gadgets and Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/now-rewrite-the-equation-using-these-equivalent-fractions/"><u>Now, Rewrite the Equation Using These Equivalent Fractions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-upgrade-how-to-get-the-newest-nvidia-drivers-for-your-geforce-rtx-1080-on-windows-10/"><u>Seamless Upgrade: How to Get the Newest NVIDIA Drivers for Your GeForce RTX 1080 on Windows 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-i-stopped-looking-elsewhere-and-chose-a-pixel-smartwatch-as-the-ultimate-android-companion/"><u>Why I Stopped Looking Elsewhere and Chose a Pixel Smartwatch as the Ultimate Android Companion</u></a></li>
+</ul></div>
 

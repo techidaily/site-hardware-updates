@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Joby Wavo Plus: Is It the Perfect Attachment for Camera & Phone Recording?"
-date: 2024-08-28T02:00:59.539Z
-updated: 2024-08-29T02:00:59.539Z
+date: 2024-12-05T17:03:14.096Z
+updated: 2024-12-12T23:40:13.025Z
 tags:
   - hardware
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/25814137ff2b0c0573cec745d5d0a7576d58b8164
  If your high-quality video content is paired with lackluster sound, it'll be challenging to attract new viewers. The [Joby Wavo Plus](https://www.amazon.com/Joby-Wavo-Plus-Microphone-Monitoring/dp/B0BMG2JPC8?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002717&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fjoby-wavo-plus-review%2F&asc%5Fcampaign=Authority) unidirectional shotgun microphone promises to allow you to record high-quality sound at a fair price. I found it to work great.
 
 ![Joby Wavo Plus Mic](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/cleanshot-2024-04-17-at-10-21-19-2x.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
@@ -100,16 +104,14 @@ Jason Montoya / How-To Geek
 
  Though the Joby Wavo Plus is ideally suited for traditional cameras, I used my review unit primarily with my iPhone 15 Pro Max during testing. I chose this because the product is excellent for vloggers, anyone doing voiceover work, and podcasters.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  What It Does
 
 ![Controls being shown on the Joby Wavo Plus](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/52775238730_81e73f6d07_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jason Montoya / How-To Geek
 
  The Joby Wavo Plus does exactly what it promises: it picks up the sound you want and removes the sound you do not want, no matter the conditions. It uses a super-cardioid polar pattern focusing on audio directly in front of the microphone and a high-quality condenser microphone.
@@ -122,13 +124,18 @@ Jason Montoya / How-To Geek
 
  The Joby Wavo Plus includes two switches on the right side of the microphone. The first is the safe track switch, which limits the audio to -10dB on the right channel. When activated, the low-cut filter switch sits below this and is designed to remove low-end noises like cars in the background outside or inside air conditioning. You’ll find a three-position gain switch on the left side of the microphone. You can set this to 0 effect, -10dB, or +15 dB. Finally, on the backside is the power button, and below it is a large red headphone volume knob. Below it is a USB-C port and the audio output port.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Sound Quality: Subtle, But Effective
 
 ![Joby Wavo Plus at top of a Nikon camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/52774822811_55eccc790c_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jason Montoya / How-To Geek
 
  During my tests, I wanted to see how crisp and clear the sound recorded by the Joby Wavo Plus would be. I did this by comparing sounds recorded directly from my iPhone to ones using the external microphone. I did so in various outside conditions, including when it was quiet when neighbors were cutting grass, driving cars, etc. I also tested the microphone inside my home with the television on nearby.
@@ -139,23 +146,18 @@ Jason Montoya / How-To Geek
 
 ![A Joby Wavo Plus from the side](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/52774289482_1cf01a71ea_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Jason Montoya / How-To Geek
 
  There’s much to love about the [Joby Wavo Plus](https://www.amazon.com/Joby-Wavo-Plus-Microphone-Monitoring/dp/B0BMG2JPC8?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002717&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fjoby-wavo-plus-review%2F&asc%5Fcampaign=Authority), including its ease of use, easy setup, and near weightlessness design. If you’re an amateur videographer, vlogger, or podcaster just starting out, it’s a product worth considering. And yet, you should also be aware other Joby microphones on the market offer more features for not much more money. For example, the $250 Joby Wavo Pro DS and $300 Joby Wave Pro are sometimes on sale and might be better for your needs. Regardless, I have no problem recommending the Joby Wavo Plus for anyone new to audio recording, whether alongside video recording or by itself.
 
 ![Joby Wavo Plus Mic](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/cleanshot-2024-04-17-at-10-21-19-2x.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  Joby Wavo Plus
 
 8/ 10 
@@ -170,8 +172,6 @@ The Joby Wavo Plus shotgun microphone is light and compact and offers excellent 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +179,21 @@ The Joby Wavo Plus shotgun microphone is light and compact and offers excellent 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-editors-elite-gadgets-best-machines-for-screen-magic/"><u>[New] In 2024, Editor’s Elite Gadgets Best Machines for Screen Magic</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleashing-potential-enhancing-your-tiktok-videos/"><u>[New] Unleashing Potential Enhancing Your TikTok Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-prime-methods-for-quiet-videography/"><u>[Updated] 2024 Approved Prime Methods for Quiet Videography</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-poco-f5-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Poco F5 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-drivers-for-canon-mf8500c-printer-on-windows-7-10-and-81-step-by-step-guide/"><u>Download Drivers for Canon MF8500C Printer on Windows 7, 10 & 8.1 - Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/efficient-windows-10-voedsel-van-hdd-naar-ssd-migrate-installeren-geen-hoofdbeetje/"><u>Efficiënt Windows 10 Voedsel Van HDD Naar SSD Migrate - Installeren Geen Hoofdbeetje</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-elevate-your-mobile-film-experience-with-optimal-accessories/"><u>In 2024, Elevate Your Mobile Film Experience with Optimal Accessories</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-poco-c65-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Poco C65 Without PUK Codes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-itel-p40-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Itel P40 FRP Bypass</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-updates-for-hp-officejet-pro-cuintilla-8720-windows-printing-software-and-driver-downloads/"><u>Latest Updates for HP OfficeJet Pro Cuintilla 8720 Windows Printing Software and Driver Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/offline-methods-a-step-by-step-guide-to-adding-drivers-in-windows/"><u>Offline Methods: A Step-by-Step Guide to Adding Drivers in Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-setup-for-your-lenovo-ideapad-x230-with-our-driver-collection/"><u>Seamless Setup for Your Lenovo IdeaPad X230 with Our Driver Collection</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-dell-g15-video-card-drivers-on-windows-systems/"><u>Step-by-Step Guide: Installing Dell G15 Video Card Drivers on Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-lenovo-t430s-laptop-drivers-with-speed-a-simple-guide-for-windows-users/"><u>Update Lenovo T430s Laptop Drivers with Speed: A Simple Guide for Windows Users</u></a></li>
+</ul></div>
 

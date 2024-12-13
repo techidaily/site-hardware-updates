@@ -1,7 +1,7 @@
 ---
 title: "The Stealthy Script: Understanding Covert Tracking Codes in All Your Prints"
-date: 2024-08-28T02:02:31.741Z
-updated: 2024-08-29T02:02:31.741Z
+date: 2024-12-06T18:32:26.340Z
+updated: 2024-12-13T00:22:02.679Z
 tags:
   - hardware
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/38deee1fec1c0bec7cba4dcb61a1033e4c5fd684f
 ---
 
 ## The Stealthy Script: Understanding Covert Tracking Codes in All Your Prints
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -25,24 +29,22 @@ thumbnail: https://thmb.techidaily.com/38deee1fec1c0bec7cba4dcb61a1033e4c5fd684f
 
 ![Brother HL-L3295CDW Color Laser Printer Screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/brother-hl-l3295cdw-color-laser-printer-screen-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Patrick Campanale / How-To Geek
 
  Tracking codes are typically created by the printer firmware and embedded in the document as it is being printed. The firmware contains algorithms that generate the specific pattern of dots or other steganographic markings based on the printer's identifying information and the timestamp of the printing job. This process is automatic and does not require any user intervention. In fact, most users don't even know their printers are printing information that can track them.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How Did These Codes Come About?
 
 ![A printer printing a black and white "How-To Geek" page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/52775531323_2850f9e4cf_o-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
+
 ## Jason Montoya / How-To Geek
 
  Printer tracking codes, also known as machine identification codes (MIC) or yellow dots, have been used by printer manufacturers since the mid-1980s. The [patent for this technology](http://patents.google.com/patent/US5515451A/en) was originally granted in 1993 but has expired. The origin of printer tracking codes can be traced back to the cooperation between the U.S. government and printer manufacturers to prevent counterfeiting. In the 1980s, the U.S. Secret Service approached the Japanese Ministry of Finance to address [the issue of counterfeit currencies](https://www.bbc.com/future/article/20170607-why-printers-add-secret-tracking-dots) produced using color copiers.As a result, copier manufacturers agreed to implement machine identification codes.
@@ -52,15 +54,13 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  Despite the controversies surrounding printer tracking codes, they continue to be a standard feature in most modern printers. There used to be [a list of printers](https://www.eff.org/pages/list-printers-which-do-or-do-not-display-tracking-dots) where this stenography showed up, but it was last updated in 2017 and hasn't been kept running since then. The list notes that almost all modern laser printers have some form of steganography tracking, even if they don't print yellow dots.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Printer Tracking Codes Function
 
 ![A person using an all-in-one printer in an office setting.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/aio-printer-office.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _[New Africa/Shutterstock.com](https://www.shutterstock.com/image-photo/employee-using-modern-printer-office-closeup-1923681830)_
 
  When someone prints a sheet of paper on a color printer, a grid of [15 by 8 yellow dots](https://w2.eff.org/Privacy/printers/docucolor/) is embedded within the sheet. The grid is repeated throughout the printed page, and the grids are offset to ensure that each grid print doesn't run into another. The grids are also parallel to the edges of the page. The dots form a series of data, much like punch cards used on the earliest computers.
@@ -83,6 +83,10 @@ _[New Africa/Shutterstock.com](https://www.shutterstock.com/image-photo/employee
 
  Instead of reading all of this information, if you want to decode this, there's [a handy website](https://w2.eff.org/Privacy/printers/docucolor/#program) that can attempt to process the data and give you a result.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Could This Feature Be Abused?
 
  Like many features installed for security reasons ([like Microsoft's upcoming Recall feature](https://youtube-stream.techidaily.com/in-2024-the-best-of-yt-a-deep-dive-into-music-dance-clips-23/)), steganography can be used for nefarious purposes. One of the main concerns is the lack of transparency surrounding the use of tracking codes. Many users are unaware that their printed documents contain hidden identifying information, and printer manufacturers have not always been forthcoming about the presence or purpose of these codes.
@@ -95,9 +99,6 @@ _[New Africa/Shutterstock.com](https://www.shutterstock.com/image-photo/employee
 
 ![A Star Delta-10 dot matrix printer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/star_dot_matric_printer.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 [Star](https://www.vintagecomputing.com/index.php/archives/973/retro-scan-of-the-week-star-dot-matrix-printer)
 
 A Star Delta-10 dot matrix printer.
@@ -112,8 +113,6 @@ A Star Delta-10 dot matrix printer.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +120,18 @@ A Star Delta-10 dot matrix printer.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-av-creators-digital-edition-list/"><u>2024 Approved Leading AV Creators Digital Edition List</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhancing-stability-the-remedy-for-intel-processor-downtime/"><u>Enhancing Stability: The Remedy for Intel Processor Downtime</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-evaluation-of-the-elgato-stream-deck-neo-enhancing-user-interface-for-gamers-and-creators-alike/"><u>Expert Evaluation of the Elgato Stream Deck Neo: Enhancing User Interface for Gamers and Creators Alike</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-extensive-possibilities-of-frameworks-modular-approach-a-world-beyond-laptops/"><u>Exploring the Extensive Possibilities of Framework's Modular Approach: A World Beyond Laptops</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-world-of-1440p-quad-hd-essential-information-for-enthusiasts/"><u>Exploring the World of 1440P (Quad HD): Essential Information for Enthusiasts</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-max-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro Max To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-how-to-record-cameras-and-monitors-together-efficiently/"><u>In 2024, How to Record Cameras & Monitors Together Efficiently</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-short-storyboard-scheme/"><u>In 2024, Short Storyboard Scheme</u></a></li>
+<li><a href="https://blog-min.techidaily.com/live-streaming-mastery-ultimate-guide-to-using-manycam-features/"><u>Live Streaming Mastery: Ultimate Guide to Using ManyCam Features</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-samsung-galaxy-m14-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Samsung Galaxy M14 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-verdict-on-truecaller-app-pros-cons-and-insights/"><u>The Ultimate Verdict on Truecaller App: Pros, Cons and Insights</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Essential Gadgets for Your MacBook : Expert Evaluations and Picks"
-date: 2024-12-05T18:10:16.062Z
-updated: 2024-12-07T04:04:48.321Z
+date: 2024-12-08T18:26:21.178Z
+updated: 2024-12-12T22:20:55.707Z
 tags:
   - laptops
 categories:
@@ -80,7 +80,7 @@ So let's compare the M2 MacBook Air 13-inch with the new base-level M3 MacBook P
 At those configurations, these are very similar machines with likely very comparable performance for most tasks. The M2 MacBook Air is 25% thinner, 20% lighter, and $200 (12%) less expensive – so it's easier on your back and budget. Meanwhile, the advantages of the base-level M3 MacBook Pro are the built-in ports for HDMI and SD cards, slightly nicer speakers and microphones, upgraded GPU from M3, and a nicer XDR display (1600 nits brightness vs. 500 nits in the Air, 120Hz ProMotion, and 3024 x 1964 resolution vs. 2560 by 1664 for the Air). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,20 +121,24 @@ Naturally, I'll have more to share after trying the new M3 MacBook Pro models. S
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-the-10-essential-steps-for-a-profitable-tiktok-presence/"><u>[New] In 2024, The 10 Essential Steps for a Profitable TikTok Presence</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-rx-480-graphics-drivers-download-and-update-easily/"><u>AMD RX 480 Graphics Drivers Download & Update Easily!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatible-logitech-g920-mouse-drivers-download-instructions-for-all-windows-versions-win11-win10-win8-and-win7/"><u>Compatible Logitech G920 Mouse Drivers - Download Instructions for All Windows Versions (Win11, Win10, Win8 & Win7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-solutions-for-startech-drivers-errors-on-windows-1087-issues-resolved/"><u>Comprehensive Solutions for StarTech Drivers Errors on Windows 10/8/7 - Issues Resolved</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-essential-drivers-and-software-to-enhance-your-corsair-k70-experience/"><u>Download Essential Drivers & Software to Enhance Your Corsair K70 Experience</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/empower-your-strategy-eliminating-stutter-and-crash-issues-with-total-war-saga-troy/"><u>Empower Your Strategy: Eliminating Stutter and Crash Issues with Total War Saga: Troy</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-review-unveiling-the-power-and-simplicity-of-free-photoscape-your-go-to-image-editor/"><u>Expert Review: Unveiling the Power and Simplicity of Free Photoscape - Your Go-To Image Editor</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/from-fan-to-earner-understanding-view-requirements/"><u>From Fan to Earner Understanding View Requirements</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722974414386-high-current-levels-increase-the-likelihood-of-arc-blow-with-voltage-also-playing-a-significant-role/"><u>High Current Levels Increase the Likelihood of Arc Blow, with Voltage Also Playing a Significant Role</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/how-to-respond-when-windows-security-alerts-you-of-a-problem-tips-from-yl-computings-experts/"><u>How to Respond When Windows Security Alerts You of a Problem: Tips From YL Computing's Experts</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-infinix-hot-40-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Infinix Hot 40</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-samsung-galaxy-m54-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Samsung Galaxy M54 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/pth-football-footage-top-youtube-infographics-for-2024/"><u>In-Depth Football Footage Top YouTube Infographics for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-downloading-and-setting-up-logitech-anywhere-software-windows/"><u>Step-by-Step Guide: Downloading & Setting Up Logitech Anywhere Software (Windows)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-solution-to-restarting-your-igfxem-module-no-more-problems/"><u>The Ultimate Solution to Restarting Your iGFXem Module - No More Problems!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-exciting-entertainment-top-10-ios-games-ready-for-no-wireless-connection/"><u>[New] Exciting Entertainment - Top 10 iOS Games, Ready for No Wireless Connection</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-crafting-chronological-displacement-effects-for-2024/"><u>[Updated] Crafting Chronological Displacement Effects for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-navigating-to-platforms-for-youtube-influencer-partnerships-for-2024/"><u>[Updated] Navigating to Platforms for YouTube Influencer Partnerships for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-5-vr-sets-elevating-uav-experience/"><u>[Updated] Ultimate 5 VR Sets Elevating UAV Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-realtek-audio-software-keys-free-download-instructions-and-tips/"><u>ASUS Realtek Audio Software Keys: Free Download Instructions & Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-ch340g-usb-to-serial-adapter-drivers-for-windows-10/"><u>Download & Update CH340G USB-to-Serial Adapter Drivers for Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-latest-in-computing-at-toms-electronic-hub/"><u>Exploring the Latest in Computing at Tom's Electronic Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-amd-rx-580-drivers-fast-and-trouble-free-download-process/"><u>Get the Latest AMD RX 580 Drivers – Fast & Trouble-Free Download Process</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/how-to-create-a-quick-google-collage-photo/"><u>How to Create a Quick Google Collage Photo</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-oppo-k11-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Oppo K11 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-or-repair-drivers-for-your-hp-officejet-pro-6978-unit/"><u>How To Update or Repair Drivers for Your HP OfficeJet Pro 6978 Unit</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-oppo-a58-4g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Oppo A58 4G to Another | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-mastering-creative-splitscreens-in-youtube-filmmaking/"><u>In 2024, Mastering Creative Splitscreens in YouTube Filmmaking</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-canon-mx922-printers-windows-drivers/"><u>Step-by-Step Guide: Updating Your Canon MX922 Printer's Windows Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-big-move-chinese-telco-companebrands-turn-to-indigenous-cpu-platforms-retrofitting-servers-across-the-board/"><u>The Big Move: Chinese Telco Companebrands Turn to Indigenous CPU Platforms, Retrofitting Servers Across the Board</u></a></li>
+<li><a href="https://fox-access.techidaily.com/top-quality-sd-card-for-sony-alpha-7s-ii/"><u>Top-Quality SD Card for Sony Alpha 7S II</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-the-most-recent-razer-naga-mice-drivers-for-optimal-performance-in-windows-environments/"><u>Update to the Most Recent Razer Naga Mice Drivers for Optimal Performance in Windows Environments</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-the-newest-version-of-logitech-g910-software-direct-download-and-installation-instructions-for-windows-users/"><u>Update to the Newest Version of Logitech G910 Software: Direct Download and Installation Instructions for Windows Users</u></a></li>
 </ul></div>
 

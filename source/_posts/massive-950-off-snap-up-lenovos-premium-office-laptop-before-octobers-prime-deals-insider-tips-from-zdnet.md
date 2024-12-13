@@ -1,7 +1,7 @@
 ---
 title: "Massive $950 Off: Snap Up Lenovo's Premium Office Laptop Before October's Prime Deals - Insider Tips From ZDNet"
-date: 2024-12-02T22:00:34.029Z
-updated: 2024-12-06T18:55:16.758Z
+date: 2024-12-11T23:41:57.143Z
+updated: 2024-12-12T20:05:03.667Z
 tags:
   - laptops
 categories:
@@ -38,7 +38,7 @@ This laptop isn't solely for business professionals. Everybody can enjoy the dev
 Right now is the best time to buy this device. The [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cddc033e3-08fa-42b2-b4fe-eb896d4675a3%7Cdtp&dtb=1) is currently on sale at Amazon for $1,500\. That is almost $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cddc033e3-08fa-42b2-b4fe-eb896d4675a3%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -75,19 +75,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-filmora-for-windows-10-and-other-top-video-editors-recommendation-for-2024/"><u>[New] Filmora for Windows 10 and Other Top Video Editors Recommendation for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-the-playlist-puzzle-assembling-songs-in-new-spaces/"><u>[New] The Playlist Puzzle Assembling Songs in New Spaces</u></a></li>
-<li><a href="https://extra-information.techidaily.com/action-and-adventure-with-ions-pro-3-camera-insight-for-2024/"><u>Action and Adventure with ION's Pro 3 Camera Insight for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/best-budget-friendly-player-showdown-free-video-warriors-vlc-and-mpc-for-2024/"><u>Best Budget Friendly Player Showdown Free Video Warriors (VLC & MPC) for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-technology-deals-at-best-buy-exclusive-offers-discover-the-must-have-gadgets/"><u>Best Technology Deals at Best Buy: Exclusive Offers - Discover the Must-Have Gadgets</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bing-chat-or-chatgpt-essential-considerations-every-freelancer-should-weigh-in/"><u>Bing Chat or ChatGPT? Essential Considerations Every Freelancer Should Weigh In</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-gentle-volume-declines-in-premiere-pro-videos-for-2024/"><u>Crafting Gentle Volume Declines in Premiere Pro Videos for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-neweggs-ultimate-2023-holiday-sale-picks-a-detailed-guide/"><u>Discover Newegg's Ultimate 2023 Holiday Sale Picks: A Detailed Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-best-chromebook-choices-for-2eplust4-comparative-analysis/"><u>Exploring the Best Chromebook Choices for 2E+t4 | Comparative Analysis</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/free-online-converter-convert-files-from-wmaem4r-to-mp3-with-movavi/"><u>Free Online Converter: Convert Files From WMA/EM4R to MP3 with Movavi</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-12-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 12 Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/immerse-yourself-in-innovative-3d-art-on-asus-new-laptops-a-leap-forward-without-dependence-on-vrar-headsets/"><u>Immerse Yourself in Innovative 3D Art on Asus New Laptops: A Leap Forward Without Dependence on VR/AR Headsets</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/score-the-hp-victus-15-laptop-for-gamers-at-a-steal-only-450-on-this-best-buy-deal-insights-via-zdnet/"><u>Score The HP Victus #15 Laptop for Gamers at a Steal – Only $450 on This Best Buy Deal | Insights via ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ideal-companion-for-digital-nomads-our-picks-for-the-lightest-and-best-laptops-zdnet-reviews/"><u>The Ideal Companion for Digital Nomads: Our Picks for the Lightest & Best Laptops | ZDNet Reviews</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-uavs-operation-a-guide-to-aerial-robotics/"><u>[Updated] Exploring UAVs' Operation A Guide to Aerial Robotics</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-simplifying-the-art-of-gif-production/"><u>[Updated] In 2024, Simplifying the Art of GIF Production</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-indulge-with-top-youtube-movies-guides/"><u>2024 Approved Indulge with Top YouTube Movies Guides</u></a></li>
+<li><a href="https://win11.techidaily.com/bringing-forlorn-windows-apps-back-into-use/"><u>Bringing Forlorn Windows Apps Back Into Use</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-access-to-updated-drivers-for-amds-ati-radeon-hd-3450-graphics-card/"><u>Easy Access to Updated Drivers for AMD's ATI Radeon HD 3450 Graphics Card</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experts-picks-for-the-ultimate-selection-of-digital-notebooks-in-depth-analysis-and-ratings-zdnet/"><u>Experts' Picks for the Ultimate Selection of Digital Notebooks: In-Depth Analysis and Ratings | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-best-wifi-performance-update-drivers-for-windows-7-effortlessly/"><u>Get the Best WiFi Performance: Update Drivers for Windows 7 Effortlessly!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722956195071-get-the-newest-mpow-bluetooth-driver-version-now-perfect-for-windows-1187-systems/"><u>Get the Newest MPOW Bluetooth Driver Version Now – Perfect for Windows 11/8/7 Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oneplus-nord-3-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on OnePlus Nord 3 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-intel-iris-plus-gfx-655-driver-for-windows-10-and-11-systems/"><u>How to Get the Newest Intel Iris Plus Gfx 655 Driver for Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-light-your-youtube-video-for-2024/"><u>How To Light Your YouTube Video for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-6s-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-itel-p40-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Itel P40 Phones with/without a PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-hp-officejet-3830-drivers-on-your-pc-quick-and-easy-guide/"><u>Install HP Officejet 3830 Drivers on Your PC: Quick and Easy Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/next-gen-chip-wars-how-huawei-might-mirror-approaches-in-upcoming-kirin-processors-to-reflect-techniques-of-apple-and-intel/"><u>Next-Gen Chip Wars: How Huawei Might Mirror Approaches in Upcoming Kirin Processors to Reflect Techniques of Apple & Intel</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-installing-the-latest-epson-driver-updates-on-your-pc/"><u>Quick and Easy: Installing the Latest Epson Driver Updates on Your PC!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722966344107-resolved-lack-of-fundamental-printer-and-scanner-software-on-windows-11/"><u>Resolved: Lack of Fundamental Printer and Scanner Software on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-downloads-of-amd-ryzen-5-2400g-graphics-drivers-for-hassle-free-computing/"><u>Speedy Downloads of AMD Ryzen 5 2400G Graphics Drivers for Hassle-Free Computing</u></a></li>
 </ul></div>
 
