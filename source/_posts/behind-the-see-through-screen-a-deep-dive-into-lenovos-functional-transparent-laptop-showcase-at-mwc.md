@@ -1,7 +1,7 @@
 ---
 title: "Behind the See-Through Screen: A Deep Dive Into Lenovo's Functional Transparent Laptop Showcase at MWC"
-date: 2024-12-05T16:57:54.838Z
-updated: 2024-12-13T04:31:42.660Z
+date: 2024-12-17T05:02:07.359Z
+updated: 2024-12-22T11:42:45.477Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -67,7 +67,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -106,19 +106,22 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-unleashing-the-power-of-light-advanced-hdr-in-ps-for-2024/"><u>[New] Unleashing the Power of Light Advanced HDR in PS for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723262307302-amd-ryzen-5-7600x-processor-goes-on-sale-available-for-just-174-at-newegg/"><u>AMD Ryzen 5 7600X Processor Goes on Sale: Available for Just $174 at Newegg!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/bcm-2045a0-drivers-troubles-heres-how-to-tackle-them-swiftly-and-successfully/"><u>BCM 2045A0 Drivers Troubles? Here's How to Tackle Them Swiftly & Successfully!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-installing-the-newest-drivers-on-your-lenovo-ideapad-ebook-100-with-windows-10-ensuring-optimal-performance/"><u>Complete Guide to Installing the Newest Drivers on Your Lenovo IdeaPad eBook 100 with Windows 10: Ensuring Optimal Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722961756386-epson-l3150-printer-driver-download-and-upgrade-guide-for-windows-1087/"><u>Epson L3150 Printer Driver Download & Upgrade Guide for Windows 10/8/7</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-k11-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo K11 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-zero-30-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Infinix Zero 30 5G Phone without Google Account?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-methodology-incorporating-youtube-playlists-into-a-websites-structure/"><u>In 2024, Methodology Incorporating YouTube Playlists Into a Website's Structure</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-se-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone SE Passcode without a Computer | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/in-depth-analysis-of-the-fugetek-ft-568-for-elite-photography-enthusiasts/"><u>In-Depth Analysis of the Fugetek FT-568 for Elite Photography Enthusiasts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-official-hp-printer-drivers-free-downloads-available/"><u>Install Official HP Printer Drivers - Free Downloads Available!</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-twitch-enthusiasts-recording-guidebook/"><u>The Twitch Enthusiast's Recording Guidebook</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-obtaining-the-correct-drivers-for-your-epson-xp-n400-printer-a-simple-how-to/"><u>Ultimate Guide to Obtaining the Correct Drivers for Your Epson XP N400 Printer: A Simple How-To</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-are-there-no-more-chatgpt-jailbreaks-7-reasons-chatgpt-jailbreaks-dont-work/"><u>Why Are There No More ChatGPT Jailbreaks? 7 Reasons ChatGPT Jailbreaks Don't Work</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-drone-tech-the-best-for-your-constant-presence/"><u>[Updated] In 2024, Drone Tech The Best for Your Constant Presence</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-on-camera-charisma-a-guide-to-personal-video-content/"><u>[Updated] On-Camera Charisma A Guide to Personal Video Content</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-hp-laserjet-1018-printer-software-and-drivers/"><u>Download the HP LaserJet 1018 Printer Software and Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-update-of-common-sataahci-controller-drivers/"><u>Effortless Update of Common SATA/AHCI Controller Drivers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-sonys-psvr-2-revolution-insights-on-pricing-strategies-launch-timelines-and-comprehensive-system-specifications/"><u>Explore Sony’s PSVR 2 Revolution: Insights on Pricing Strategies, Launch Timelines, and Comprehensive System Specifications</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-installing-the-hp-deskjet-2755e-printer-software-on-windows-systems/"><u>Free Download: Installing the HP Deskjet 2755E Printer Software on Windows Systems</u></a></li>
+<li><a href="https://discover-data.techidaily.com/guide-convert-and-save-buzzfeed-videos-as-mp4wmvmovflvavi-for-mac-or-pc-users/"><u>Guide: Convert & Save BuzzFeed Videos as MP4/WMV/MOV/FLV/AVI for Mac or PC Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-t2-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Vivo T2 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-oculus-headset-drivers-on-pcs-running-windows-11-10-8-or-7/"><u>Installing Oculus Headset Drivers on PCs Running Windows 11, 10, 8 or #7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-version-of-epson-ds-530-driver-downloads-for-windows-11-64-bit-systems-secure-your-print-jobs/"><u>Latest Version of Epson DS-530 Driver Downloads for Windows 11 64-Bit Systems - Secure Your Print Jobs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-whatsapp-and-instagram-messaging-without-a-facebook-login-strategies-inside/"><u>Navigating WhatsApp and Instagram Messaging without a Facebook Login – Strategies Inside</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/optimize-your-computers-input-device-compatibility-with-the-latest-hid-driver-update/"><u>Optimize Your Computer's Input Device Compatibility with the Latest HID Driver Update</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722961018542-regular-maintenance-testing-and-drills-are-essential-to-maintain-the-functionality-and-effectiveness-of-fire-suppression-systems-over-time/"><u>Regular Maintenance, Testing, and Drills Are Essential to Maintain the Functionality and Effectiveness of Fire Suppression Systems over Time.</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellars-best-practices-in-data-sanitization-a-compilation-of-insights-and-methods/"><u>Stellar's Best Practices in Data Sanitization: A Compilation of Insights & Methods</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/transform-your-bedtime-routine-with-top-tier-sleep-technology-for-ultimate-relaxation/"><u>Transform Your Bedtime Routine with Top-Tier Sleep Technology for Ultimate Relaxation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-canon-mg3000-step-by-step-guide-to-downloading-drivers/"><u>Update Your Canon MG3000: Step-by-Step Guide to Downloading Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-scan-driver-software-for-your-epson-perfection-v39-compatible-with-windows-os-78-and-windows-10/"><u>Updated Scan Driver Software for Your Epson Perfection V39: Compatible with Windows OS 7/8 and Windows 10</u></a></li>
 </ul></div>
 

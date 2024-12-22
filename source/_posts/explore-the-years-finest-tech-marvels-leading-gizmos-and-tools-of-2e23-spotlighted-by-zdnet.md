@@ -1,7 +1,7 @@
 ---
 title: "Explore the Year's Finest Tech Marvels: Leading Gizmos and Tools of 2E23 Spotlighted by ZDNet"
-date: 2024-12-06T05:08:51.317Z
-updated: 2024-12-13T01:25:51.176Z
+date: 2024-12-20T19:59:56.663Z
+updated: 2024-12-22T11:06:47.476Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,16 +134,18 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-waves-with-top-surf-cams/"><u>[New] Mastering Waves with Top Surf Cams</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-ultimate-players-guide-best-of-terraria-mods/"><u>[Updated] Ultimate Player's Guide Best of Terraria Mods</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-most-popular-firefox-visual-recorders/"><u>2024 Approved Most Popular Firefox Visual Recorders</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975644904-download-arduino-mega-2560s-optimal-programming-toolset-today/"><u>Download Arduino Mega 2560'S Optimal Programming Toolset Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-samsungs-official-usb-driver-for-effortless-use-on-windows-1n/"><u>Download Samsung's Official USB Driver for Effortless Use on Windows 1N</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-plus-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s Plus To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-must-know-windows-11-tips-and-tricks/"><u>In 2024, Must-Know Windows 11 Tips and Tricks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-canon-ip110-driver-software-for-windows-users-windows-111087/"><u>Latest Canon iP110 Driver Software for Windows Users (Windows 11/10/8/7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-driver-update-speed-the-definitive-tutorial-for-nvidias-gtx-1660/"><u>Mastering Driver Update Speed: The Definitive Tutorial for NVIDIA's GTX 1660</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-gameplay-awaits-fetch-your-steelseries-driver-here/"><u>Seamless Gameplay Awaits! Fetch Your SteelSeries Driver Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-now-official-amd-graphics-driver-for-radeon-rx-cu3i-6900-xt-supporting-win11win10win8win7/"><u>[Download Now] Official AMD Graphics Driver for Radeon RX Cu3i (6900 XT) Supporting Win11/Win10/Win8/Win7</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-pioneering-physical-activity-bests-in-virtual-treadmills-for-2024/"><u>[New] Pioneering Physical Activity Bests in Virtual Treadmills for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-nocturnal-nuances-essential-tips-for-moonlit-portraiture-for-2024/"><u>[Updated] Nocturnal Nuances Essential Tips for Moonlit Portraiture for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/composing-captivating-cutting-edge-synopses/"><u>Composing Captivating Cutting-Edge Synopses</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-system-efficiency-with-recent-upgrades-to-the-dell-bus-control-firmware/"><u>Enhance System Efficiency with Recent Upgrades to the Dell Bus Control Firmware</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-cause-of-window-10s-screen-tremors-a-step-by-step-guide/"><u>Fixing the Cause of Window 10'S Screen Tremors: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/oes-youtube-count-views-its-not-as-simple-as-you-think/"><u>How Does YouTube Count Views? It's Not as Simple as You Think</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-download-epson-ds-530-printer-software-for-the-latest-windows-11-update/"><u>How to Find and Download Epson DS-530 Printer Software for the Latest Windows 11 Update</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/introducing-the-easy-serve-feature-arfs-innovative-automatic-pet-food-dispenser/"><u>Introducing the Easy-Serve Feature: Arf’s Innovative Automatic Pet Food Dispenser</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/newest-thunderbolt-3-dock-controllers-optimizing-your-lenovo-thinkpad-experience/"><u>Newest Thunderbolt 3 Dock Controllers: Optimizing Your Lenovo ThinkPad Experience</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/ram-diagnostics-and-troubleshooting-with-yl-software-ensuring-optimal-performance-of-computer-memory/"><u>RAM Diagnostics and Troubleshooting with YL Software | Ensuring Optimal Performance of Computer Memory</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/sluggish-boot-times-uncover-the-reasons-behind-your-computers-delays-with-yl-software-solutions/"><u>Sluggish Boot Times: Uncover the Reasons Behind Your Computer's Delays with YL Software Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speed-boost-alert-update-your-windows-system-for-the-new-and-improved-gigabit-ethernet-driver-supporting-usb-30-technology/"><u>Speed Boost Alert! Update Your Windows System for the New and Improved Gigabit Ethernet Driver Supporting USB 3.0 Technology.</u></a></li>
 </ul></div>
 

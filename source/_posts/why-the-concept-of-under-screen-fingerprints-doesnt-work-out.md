@@ -1,7 +1,7 @@
 ---
 title: Why the Concept of Under-Screen Fingerprints Doesn't Work Out
-date: 2024-09-01T05:45:13.311Z
-updated: 2024-09-02T05:45:13.311Z
+date: 2024-12-18T18:08:05.704Z
+updated: 2024-12-22T10:12:55.832Z
 tags:
   - android
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
 ## Why the Concept of Under-Screen Fingerprints Doesn't Work Out
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [A Brief History of Fingerprint Scanners](https://instagram-video-recordings.techidaily.com/new-capture-your-brilliance-in-insta-cinematic-footage/)
@@ -19,6 +23,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 * [Embrace the Face](https://games-able.techidaily.com/cutting-edge-displays-ifas-finest/)
 
  Under-display fingerprint scanners were supposed to be great. Just put your finger on the touch screen like you would anyway, and a built-in sensor unlocks the phone. That was the dream, but in reality, they're worse than the alternatives.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  A Brief History of Fingerprint Scanners
 
@@ -35,15 +43,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 Related: [What Is Face ID?](https://instagram-video-files.techidaily.com/new-mastering-instagram-concealing-tags-efficiently/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Promise of In-Display Fingerprint Scanners
 
 ![Person tapping a biometric identification app on a smartphone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/biometric-id-smartphone-hand.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 _[Prostock-studio/Shutterstock.com](https://www.shutterstock.com/image-photo/biometric-identification-woman-unlocking-smartphone-scanning-1898376952)_
 
  The first smartphone with an in-display fingerprint scanner, also called an under-display fingerprint scanner, was the [Vivo X20 Plus](https://www.gsmarena.com/vivo%5Fx20%5Fplus%5Fud%5Funderdisplay%5Ffingerprint%5Fscanner%5Fofficial-news-29302.php), launched in early 2018\. It used an optical scanner, which shines light on your finger and takes a photo of it with a tiny camera.
@@ -56,16 +62,10 @@ _[Prostock-studio/Shutterstock.com](https://www.shutterstock.com/image-photo/bio
 
  That was okay, though. Bleeding edge technology always has its problems, but the potential is exciting. I could envision a future where you don't have to put your finger in a very specific spot and wait a second for it to be scanned. A future where simply swiping the lock screen is all it takes to scan your finger.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Future We Got Instead
 
 ![Google Pixel 6a's fingerprint sensor icon on the lock screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Google-Pixel-6as-fingerprint-sensor-icon-on-the-lock-screen.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  Let's fast forward to today, the year 2022\. High-end Android phones are still being launched with in-display fingerprint scanners. Samsung has been using the technology since 2018\. Google didn't adopt in-display scanners until the [Pixel 6 in 2021](https://tiktok-video-recordings.techidaily.com/updated-expert-strategies-for-keeping-tiktok-videos-available/).
@@ -83,15 +83,17 @@ Related: [The Best Samsung Phones of 2023](https://instagram-clips.techidaily.co
 Related: [Google Tries to Justify Pixel 6's Slow Fingerprint Scanner](https://tiktok-video-recordings.techidaily.com/updated-expert-strategies-for-keeping-tiktok-videos-available/) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Embrace the Face
 
 ![The "Use Face ID with a Mask" screen on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/Use-Face-ID-with-a-Mask-screen-on-iPhone.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  Apple seems to think facial recognition is the future, and having used Face ID, I think I agree. The potential of under-display scanners seemed great, but the real-world implementation has left much to be desired.
@@ -114,8 +116,6 @@ Related: [How to Use Face ID With a Mask on iPhone](https://some-techniques.tech
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +123,22 @@ Related: [How to Use Face ID With a Mask on iPhone](https://some-techniques.tech
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-clear-image-purchases-no-more-watermarks/"><u>[New] Clear Image Purchases No More Watermarks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-live-the-future-with-mycam-video-recording-revolution/"><u>[New] In 2024, Live the Future with MyCam Video Recording Revolution</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-perfectly-preserve-facebook-films-with-top-5-chrome-plugs/"><u>[New] Perfectly Preserve Facebook Films with Top 5 Chrome Plugs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-review-the-top-tier-lenovo-laptops-unveiled-at-mwc-choose-wisely/"><u>Comprehensive Review: The Top-Tier Lenovo Laptops Unveiled at MWC - Choose Wisely!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-a-compact-powerhouse-a-stellar-alternative-to-macbook-air/"><u>Discover a Compact Powerhouse: A Stellar Alternative to MacBook Air</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/epic-discount-alert-score-an-hp-victus-n15-gaming-laptop-at-just-515-dont-miss-out-on-this-unbeatable-best-buy-prime-day-deal-explore-it-now/"><u>Epic Discount Alert: Score an HP Victus N15 Gaming Laptop at Just $515! Don't Miss Out on This Unbeatable Best Buy Prime Day Deal – Explore It Now!</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-access-your-allotment-from-the-725-million-facebook-award/"><u>How to Access Your Allotment From the $725 Million Facebook Award</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-6-plus-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 6 Plus Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-what-is-an-ai-text-generator-for-2024/"><u>New What Is an AI Text Generator for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-workflow-7-remarkable-benefits-of-using-chatgpt/"><u>Revolutionize Your Workflow: 7 Remarkable Benefits of Using ChatGPT</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-issue-monitor-not-showing-full-screen-win11/"><u>Screen Issue: Monitor Not Showing Full Screen Win11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/section-2a-introduction-to-crop-rotation/"><u>Section 2A: Introduction to Crop Rotation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-touchscreen-laptop-reviews-in-depth-analysis-by-tech-experts/"><u>Top-Ranking Touchscreen Laptop Reviews: In-Depth Analysis by Tech Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-savings-unbeatable-amazon-prime-day-sneak-peeks-find-your-perfect-products/"><u>Ultimate Savings: Unbeatable Amazon Prime Day Sneak Peeks - Find Your Perfect Products</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-lenovos-new-ai-thinkpads-are-the-perfect-laptops-for-enterprise-users-according-to-zdnet-reviews/"><u>Why Lenovo's New AI ThinkPads Are the Perfect Laptops for Enterprise Users, According to ZDNET Reviews</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: As Android Leader, Google Emerges as Top Producer of Bulky Pre-Installed Apps
-date: 2024-09-01T05:41:07.538Z
-updated: 2024-09-02T05:41:07.538Z
+date: 2024-12-15T06:46:53.723Z
+updated: 2024-12-21T17:30:15.690Z
 tags:
   - android
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## As Android Leader, Google Emerges as Top Producer of Bulky Pre-Installed Apps
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,6 +30,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Back in the day, I used to loathe the custom skins and apps that Android phone makers added to their phones. Android's vendor-neutral default apps have since been replaced by Google apps, and the tech giant has used its dominance to fill our Android devices with far more pre-installed software than any other company.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Google and Android Are Not One and the Same
 
  Google is Android's primary developer, but the operating system is open source. Countless other companies are invested in the platform.
@@ -35,15 +43,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The promise of Android is that it's a mobile-first operating system that anyone can use to create great things without starting from scratch. This is how Android got buy-in from businesses and volunteers from all over the world. You can use and develop Android without being entirely beholden to the whims of another corporation.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  After Android Became Popular, Google Wanted More Control
 
 ![The app drawer of the OnePlus12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-app-drawer-of-the-oneplus12rjpg_53485300814_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  While Android is free, Google has control over the primary way developers distribute their apps to Android users. In order for a company to ship the Play Store on their device, they must agree to include a bundle of Google apps and background services. The company has also been willing to pay big bucks to limit the creation of alternative Android app stores. In 2023, Google lost a case against Epic for monopolistic practices centered around the Play Store, as reported by the [BBC](https://www.bbc.com/news/business-67688720).
@@ -58,9 +64,6 @@ Justin Duino / How-To Geek
 
  Many other companies have stopped making their own software and decided to stick to Google's defaults instead. There are plenty of users and product reviewers calling for just that. They're already deep in the Google ecosystem and just want the most optimized experience. Yet this stance ultimately limits the amount of choice available in the market. What's left for those of us who like Android phones but, after seeing all the shenanigans Google has gotten up to, want to opt out of doing business with them?
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ##  I Don't Want to Give All of My Data to Google
 
  I made efforts to de-Google my life years ago, deleting my Google account entirely. I re-created one years later when an organization I'm involved with wanted to use Google Calendar to manage our schedule. I started to use this same account to log into Google Play for apps, but that's about it.
@@ -72,9 +75,9 @@ Justin Duino / How-To Geek
  People are quick to call out budget Motorola phones for installing unwanted shopping apps and random games, but Google's software collects far more data and is much more intrusive. We're just conditioned to expect them, even if we have never once clicked on Google Home.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Some Preinstalled Apps Are Better Than Google's
 
  Even if I liked the Google ecosystem and actively took part in it, I would still be sad to see Android phone makers give up on making their own software. Some companies [do a better job at creating certain apps than Google does](https://extra-hints.techidaily.com/new-an-examination-of-photoshops-anti-shake-capabilities/).
@@ -90,8 +93,9 @@ Close
  Nothing (the company) shows [how much style a phone maker can give their phones](https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-hardware-innovation/) without making their devices as garish and inconsistent as the Android skins of years past. Android would be far less interesting without their innovations and experimentation.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Google Apps Make Android Phones All Feel the Same
 
  As Google's control over software has grown, there is increasingly less difference between one Android device and the next. You walk through similar set-up screens, are presented with the same data collection options, and see your app drawer pre-populated with largely the same software.
@@ -102,9 +106,6 @@ Close
 
 ![Apps in the launcher on an XREAL Beam Pro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/xreal_shot_1723131795364.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  XREAL isn't a Google company, but since access to the Play Store is a big part of the device's appeal, they're required to shill Google services, at a detriment to the user experience.
 
 ---
@@ -119,8 +120,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +127,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-mp3-from-twitter-media-simple-extraction-techniques/"><u>[New] 2024 Approved MP3 From Twitter Media Simple Extraction Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-affordable-cloud-keep-optimal-pricing-for-huge-archives/"><u>[Updated] Affordable Cloud Keep Optimal Pricing for Huge Archives</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-quick-fixes-for-perfect-ipad-screenshots/"><u>[Updated] In 2024, Quick Fixes for Perfect iPad Screenshots</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-podcast-writers-toolkit-essential-strategies-and-samples/"><u>[Updated] In 2024, The Podcast Writer's Toolkit Essential Strategies & Samples</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-sticker-perfection-ranking-the-top-10-apps-for-ios-and-android-photos-for-2024/"><u>[Updated] Sticker Perfection Ranking the Top 10 Apps for iOS and Android Photos for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/az-vision-recorder-complete-application-audits-and-substitutes-for-2024/"><u>AZ Vision Recorder Complete Application Audits & Substitutes for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dive-into-vlogging-easy-content-projects/"><u>Dive Into Vlogging Easy Content Projects</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/grasping-french-pronunciation-a-starters-toolkit/"><u>Grasping French Pronunciation: A Starter's Toolkit</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/live-streaming-nfl-matches-a-comprehensive-guide-zdnet-tech/"><u>Live Streaming NFL Matches: A Comprehensive Guide | ZDNet Tech</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/massive-1500-discount-on-samsung-qn90a-qled-is-this-the-ultimate-replacement-for-your-old-tv-techradar/"><u>Massive $1,500 Discount on Samsung QN90A QLED: Is This the Ultimate Replacement for Your Old TV? | TechRadar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-plan-ultimate-guide-to-a-memorable-labor-day-celebration-curated-by-experts-at-zdnet/"><u>Master Plan: Ultimate Guide to a Memorable Labor Day Celebration, Curated by Experts at ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-viewing-experience-why-the-sony-bravia-offers-top-value-and-frequent-discounts-tips-from-tech-expert/"><u>Maximize Your Viewing Experience: Why the Sony Bravia Offers Top Value & Frequent Discounts | Tips From Tech Expert</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/panasonic-makes-a-grand-return-to-us-markets-with-trio-of-innovative-4k-televisions-insights-from-zdnet/"><u>Panasonic Makes a Grand Return to U.S. Markets with Trio of Innovative 4K Televisions - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/price-comparison-showdown-can-hisense-match-samsungs-frame-quality-for-less/"><u>Price Comparison Showdown: Can Hisense Match Samsung's Frame Quality for Less?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-frame-smart-tv-evolution-unveiling-changes-from-2023-to-2024-in-depth-analysis-by-zdnet/"><u>Samsung Frame Smart TV Evolution: Unveiling Changes From 2023 to 2024 - In-Depth Analysis by ZDNet</u></a></li>
+<li><a href="https://fox-place.techidaily.com/solutions-to-unexpected-computer-stalling-expert-advice-from-yl-computing-and-software/"><u>Solutions to Unexpected Computer Stalling: Expert Advice From YL Computing & Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/spectacular-deals-on-top-ranking-samsung-tvs-this-labor-day-save-up-to-43-exclusive-insights-from-zdnet/"><u>Spectacular Deals on Top-Ranking Samsung TVs This Labor Day, Save Up to 43% - Exclusive Insights From ZDNet</u></a></li>
+</ul></div>
 

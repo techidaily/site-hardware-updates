@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: What to Inspect When Acquiring Secondhand Android Smartphones"
-date: 2024-09-05T19:54:48.737Z
-updated: 2024-09-06T19:54:48.737Z
+date: 2024-12-18T07:40:21.440Z
+updated: 2024-12-22T10:47:11.112Z
 tags:
   - android
 categories:
@@ -9,19 +9,11 @@ categories:
 thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282754802f441bb66f0c3a3719.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Ultimate Guide: What to Inspect When Acquiring Secondhand Android Smartphones
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -36,14 +28,16 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
  If you're buying a used Android phone in person---like from someone you know or a Facebook Marketplace meetup---it's relatively easy to check if everything is okay and to back out if it's not. However, when [buying a used phone online](https://some-knowledge.techidaily.com/in-2024-exclusive-guide-to-premium-free-slo-mo-photo-and-video-apps/), you have to be more careful. We'll share some tips to help you make a safe purchase.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Where to Buy Used Android Phones
 
  Let's start with the basics---make sure to buy used phones from a reputable source that will have your back if something goes wrong. There are a few places we like to look.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Swappa
 
@@ -57,18 +51,6 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
 
  The nice thing about this is Gazelle has a consistent rating system across all devices. You're not subject to a random person's definition of "Good" being different than yours. Phones from Gazelle have a 30-day return policy as well. You might pay a tiny bit more than you would scooping up a killer deal off Swappa, but many people find that extra bit of money a worthwhile investment to get a more consistent experience buying used phones.
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  eBay
 
  Everyone knows about [eBay](http://ebay.com), and that's for a good reason---it's still a popular place to sell and buy used stuff. You can find great smartphone deals on eBay, but there's probably more risk on eBay than anywhere else.
@@ -77,22 +59,10 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
 
  Generally speaking, eBay has your back if something goes awry. You have to do your homework and accept that you're taking a bit of a risk. Swappa or Gazelle are better options if you're looking for a less stressful experience.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Check the IMEI and Serial Numbers
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Screenshot_20190404-1507301.jpg?width=1198&amp;trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [IMEI](https://some-approaches.techidaily.com/updated-leading-picks-unlimited-photo-sharing-platforms/) and serial numbers are codes that identify a phone on a mobile network and by the manufacturer. You should check them to avoid buying a phone that has been flagged as lost or stolen. Most used phone retailers will check on the IMEI for you and list the status, but that's not always the case.
 
  If the IMEI and serial numbers have not been checked, you should ask for the numbers so you can do it yourself. Use services like [CheckMend](https://www.checkmend.com/us/) or [Phonecheck](https://www.phonecheck.com/) to see if the phone has been reported as stolen, deny-listed, or subject to an insurance claim. You don't want to buy a phone that can't be activated or used on any network.
@@ -104,17 +74,9 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
  To check an online seller's ratings, open their profile and look for a feedback score, star rating, or reviews. Both Swappa and eBay have pretty in-depth rating systems that can easily tell you if a seller is worth dealing with. This is an easy thing to do, and it can save you a lot of grief.
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Aren't They Showing You?
 
  Another thing to look for is plenty of photos that show off the device from all angles. You want to see the front, back, sides, top, bottom, and every port and button on the device. One thing you can look out for is what the seller isn't showing in the photos.
@@ -130,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
 [Android offers a few different ways to check the battery health](https://hardware-updates.techidaily.com/installing-intels-management-engine-drivers-on-windows-11817-complete-tutorial/), but that doesn't help you if you don't have the phone in your hand. If you're looking to buy a used Samsung Galaxy phone, it's a built-in feature that you can ask the owner to check. Otherwise, you'll need to take their word on battery life.
 
 Related: [How to Check Battery Health on Android](https://hardware-updates.techidaily.com/installing-intels-management-engine-drivers-on-windows-11817-complete-tutorial/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Original Accessories and Box Is a Good Sign
 
@@ -147,8 +113,6 @@ Related: [How to Check Battery Health on Android](https://hardware-updates.techi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +120,26 @@ Related: [How to Check Battery Health on Android](https://hardware-updates.techi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enriching-meta-descriptions-a-template-transformation-journey-for-2024/"><u>[New] Enriching Meta Descriptions A Template Transformation Journey for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enhance-youtube-video-speed-fast-render-and-upload-techniques/"><u>[Updated] In 2024, Enhance YouTube Video Speed - Fast Render and Upload Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-navigate-through-the-5-best-mac-sniping-apps-easily/"><u>[Updated] Navigate Through The 5 Best Mac Sniping Apps Easily</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-secure-and-efficient-lecture-recording-with-apple-devices/"><u>2024 Approved Secure & Efficient Lecture Recording with Apple Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/2024s-ultimate-laptop-guide-in-depth-testing-and-expert-analysis-powered-by-zdnet/"><u>2024'S Ultimate Laptop Guide: In-Depth Testing & Expert Analysis | Powered by ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apple-music-auto-play-interruption-how-to-take-charge-of-your-streams/"><u>Apple Music Auto-Play Interruption: How to Take Charge of Your Streams</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-a54-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy A54 5G?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/choosing-between-ipad-pro-and-macbook-air-expert-analysis-on-which-is-ideal-for-you-insights/"><u>Choosing Between iPad Pro and MacBook Air: Expert Analysis on Which Is Ideal for You | Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-how-to-remove-subtitles-from-amazon-prime-video-watches/"><u>Guide: How to Remove Subtitles From Amazon Prime Video Watches</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/improve-your-site-analytics-using-cookiebot-solutions/"><u>Improve Your Site Analytics Using Cookiebot Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-efficiency-with-the-flip-out-laptop-screen-exclusive-93-discount-on-prime-day/"><u>Maximize Efficiency with the Flip-Out Laptop Screen - Exclusive $93 Discount on Prime Day!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/my-top-pick-from-ces-the-unique-laptop-pen-that-writes-like-magic-a-must-see-at-the-tech-showcase/"><u>My Top Pick From CES: The Unique Laptop Pen That Writes Like Magic - A Must-See at the Tech Showcase</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-problem-of-missing-or-unavailable-libeay32dll-files-a-comprehensive-guide/"><u>Solving the Problem of Missing or Unavailable libeay32.dll Files: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tech-reveal-comparing-lenovo-tab-extreme-to-the-unbeatable-ipad-pro-hidden-gems-in-tablets/"><u>Tech Reveal: Comparing Lenovo Tab Extreme to the Unbeatable iPad Pro – Hidden Gems in Tablets!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tech-spotlight-discover-the-lightest-most-efficient-workstation-perfect-for-remote-professionals/"><u>Tech Spotlight: Discover the Lightest, Most Efficient Workstation Perfect for Remote Professionals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-users-manual-leveraging-google-maps-live-view-for-effortless-navigation/"><u>The Complete User's Manual: Leveraging Google Maps Live View for Effortless Navigation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-performing-ssds-comprehensive-review-and-analysis-by-zdnet/"><u>Top-Performing SSDs : Comprehensive Review and Analysis by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-technology-essentials-the-premier-list-of-2022s-most-innovative-gadgets-and-tools-zdnet/"><u>Top-Rated Technology Essentials: The Premier List of 2022'S Most Innovative Gadgets and Tools | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-the-power-of-alienware-m18-steep-discounts-post-labor-day-on-this-formidable-gaming-machine/"><u>Unleash the Power of Alienware M18: Steep Discounts Post-Labor Day on This Formidable Gaming Machine</u></a></li>
+</ul></div>
 

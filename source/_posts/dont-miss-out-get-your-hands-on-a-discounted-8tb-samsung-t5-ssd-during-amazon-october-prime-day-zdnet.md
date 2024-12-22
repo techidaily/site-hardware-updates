@@ -1,7 +1,7 @@
 ---
 title: Don't Miss Out! Get Your Hands on a Discounted 8TB Samsung T5 SSD During Amazon October Prime Day | ZDNET
-date: 2024-12-09T22:31:22.320Z
-updated: 2024-12-13T01:17:56.472Z
+date: 2024-12-17T19:48:15.804Z
+updated: 2024-12-22T09:49:14.380Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce74f4426-3b28-4d32-87bd-c6b12107cdc1%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,18 +65,19 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-apple-m1-pro-versus-m1-max-unveiling-variations-for-2024/"><u>[New] Apple M1 Pro Versus M1 Max Unveiling Variations for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nhancing-television-experience-playback-tips-for-youtube-content/"><u>[New] Enhancing Television Experience Playback Tips for YouTube Content</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-decoding-steps-to-access-your-channels-eyeballs/"><u>2024 Approved Decoding Steps to Access Your Channel's Eyeballs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-halts-global-delivery-and-inspects-all-shipped-ryzen-9000-units-following-unexplained-quality-flags-eyeing-an-august-release/"><u>AMD Halts Global Delivery & Inspects All Shipped Ryzen 9000 Units Following Unexplained Quality Flags, Eyeing an August Release</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-supported-nvidia-rtx-3070-ti-graphics-card-drivers-for-windows-versions-win11-win8-win7/"><u>Download Supported NVIDIA RTX 3070 Ti Graphics Card Drivers for Windows Versions (Win11, Win8, Win7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-epson-wf-2630-printer-drivers-for-windows-7-81-and-10-get-your-printing-started/"><u>Download the Epson WF-2630 Printer Drivers for Windows 7, 8.1 & 10 - Get Your Printing Started!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-newest-drivers-for-your-brother-mfc-j480dw-windows-printer/"><u>Download the Newest Drivers for Your Brother MFC-J480DW Windows Printer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-official-download-for-hp-designjet-z1100-printer-drivers/"><u>Get the Official Download for HP DesignJet Z1100 Printer Drivers</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722960501297-international-market-penetration-strategies-and-export-operations/"><u>International Market Penetration Strategies and Export Operations</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mordhau-freezing-problems-discover-how-to-fix-them-now/"><u>Mordhau Freezing Problems? Discover How to Fix Them Now!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/no-video-display-on-sony-a6400-screen/"><u>No Video Display on Sony A6400 Screen</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/pleasurable-stream-capture-evaluation-for-2024/"><u>Pleasurable Stream Capture Evaluation for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-highs-and-lows-of-boses-latest-headphone-model-qc30/"><u>The Highs and Lows of Bose's Latest Headphone Model QC30</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-enhancing-youtube-video-screens-without-barriers/"><u>[New] 2024 Approved Enhancing YouTube Video Screens Without Barriers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unlock-your-potential-with-ez-grabber-installation-and-usage/"><u>[New] 2024 Approved Unlock Your Potential with EZ Grabber - Installation & Usage</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-explore-and-snap-downloads-of-tiktok-videos-for-2024/"><u>[New] Explore and Snap Downloads of TikTok Videos for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-platforms-enhance-your-youtube-presence/"><u>[New] Top Platforms Enhance Your YouTube Presence</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-rx-6800-driver-download-for-windows-111087/"><u>AMD RX 6800 Driver Download for Windows 11/10/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/bcm20702a0-download-and-install-windows-drivers-with-ease/"><u>BCM20702A0: Download & Install Windows Drivers with Ease</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-logitech-m510-driver-update-tutorial-get-started-today/"><u>Easy Logitech M510 Driver Update Tutorial - Get Started Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-updated-hid-keyboard-drivers/"><u>Effortless Installation of Updated HID Keyboard Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-for-successfully-downloading-and-updating-your-zebra-zp450-printer-drivers/"><u>Expert Tips for Successfully Downloading & Updating Your Zebra ZP450 Printer Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-install-updates-for-your-canon-mg2520-printer-driver-on-windows-computers/"><u>How to Find & Install Updates for Your Canon MG2520 Printer Driver on Windows Computers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-tutorial-uploading-youtube-to-instagram-stories-effortlessly/"><u>In 2024, Tutorial Uploading YouTube to Instagram Stories Effortlessly</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Vivo Y100i? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pinnacle-of-picture-perfection-with-video-enhance-v22-for-2024/"><u>Pinnacle of Picture Perfection with Video Enhance V2.2 for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-dsounddll-missing-or-unavailable-error-messages-a-comprehensive-guide/"><u>Resolving dSound.dll Missing or Unavailable Error Messages: A Comprehensive Guide</u></a></li>
 </ul></div>
 

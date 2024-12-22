@@ -1,7 +1,7 @@
 ---
 title: "Embracing Less with Tech: Why I Chose the Minimalist, Vintage Aesthetic of the Light Phone 3 Before Its Launch"
-date: 2024-09-01T05:43:01.975Z
-updated: 2024-09-02T05:43:01.975Z
+date: 2024-12-16T08:15:15.351Z
+updated: 2024-12-22T05:57:02.481Z
 tags:
   - android
 categories:
@@ -26,15 +26,13 @@ thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557
  The Light Phone 2 was a credit-card-sized "minimalist" phone with an e-ink screen and a slew of shortcomings. Now, the Light Phone 3 appears to be solving some of those problems, and I've placed a pre-order. Despite how much I enjoy using my powerful smartphone, I'm considering making the shift.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  I Like Minimalist Phones
 
 ![Someone holding a Light Phone 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/light-phone-ii-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Light Phone
 
  I wouldn't say that being a technology writer means I use my phone more than most people, but it does mean I probably think about my phone more often.
@@ -47,6 +45,10 @@ Light Phone
 
  I think of them like the [Playdate](https://digital-screen-recording.techidaily.com/updated-rev-voice-recorder-download-and-review/), a black-and-white game console that feels like a modern take on the Game Boy. No one argues that it's better than a Nintendo Switch, but thousands of people have bought one anyway, and they love it. There is something to be appreciated about a niche device designed with care specifically for the kind of people who are into such a thing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  I Used the Light Phone 2 for Years
 
  I carried around a Light Phone 2 for years and loved it. In many ways, it delivered on its promise. No, buying a Light Phone doesn't magically make you less addicted to screens or turn you into an expert at all of your hobbies, but it does add friction where you might want there to be friction. Example: I watch much less YouTube when I have a Light Phone because while it's super convenient to watch a video on my phone at any time, I don't necessarily want to grab a laptop or a tablet. I'm also not going to walk down the hall staring at my laptop screen and ignoring family members the same way it's easy to do with my phone.
@@ -56,8 +58,9 @@ Light Phone
  When I read the [Light Phone 3 announcement](https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/), nearly every single issue I had appears to be solved (though until I get the actual hardware, I can't say for sure).
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What I'm Looking Forward to in the Light Phone 3
 
  One of my biggest frustrations with the Light Phone 2 had nothing to do with all the apps I had to give up. No, it was the charging port. The phone used microUSB. This charging cable was once ubiquitous, but those days are gone.
@@ -66,16 +69,14 @@ Light Phone
 
  The Light Phone 3 announcement says the phone will come with a USB-C port, 5G, and stronger radios. If Light re-released the Light Phone 2 with just these changes alone, I'd have been tempted to get one.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ###  Sometimes, a Camera Is Necessary
 
 ![Light Phone 3 in a pocket.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/light-phone-3-in-a-pocket.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Light Phone
 
  The Light Phone 2 doesn't have a camera. I was intrigued by this as a bit of a social experiment. What would it mean to go back to no longer carrying a camera on me at all times?
@@ -89,8 +90,9 @@ Light Phone
  These cameras don't merely come with a smartphone-style app. Instead, the Light Phone 3 has a wheel on the side that serves as a clickable shutter button. It aims to provide tactile feedback when you're taking pictures, making the phone feel like both a feature phone and a point-and-shoot camera. As someone who bought a point-and-shoot to carry around with my Light Phone 2, this is a change I'm here for.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  A Phone Built to Last
 
 ![Light Phone 3 on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/light-phone-3-on-a-table.png) 
@@ -113,8 +115,6 @@ Light Phone
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +122,24 @@ Light Phone
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-advanced-gopro-editing-straightening-fisheye-lens/"><u>[New] 2024 Approved Advanced GoPro Editing Straightening Fisheye Lens</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-mac-screenshots-transforming-extensions/"><u>[New] In 2024, Mac Screenshots Transforming Extensions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-revolutionize-virtual-reality-with-our-expertise/"><u>[Updated] Revolutionize Virtual Reality with Our Expertise</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-strategic-release-dates-for-peak-youtube-engagement/"><u>[Updated] Strategic Release Dates for Peak YouTube Engagement</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-utilizing-internal-screen-recording-on-huaweis-mate-1020-and-p-models-p20-p10/"><u>[Updated] Utilizing Internal Screen Recording on Huawei's Mate 10/20 & P Models (P20, P10)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/your-names-game-changing-discovery-the-hp-copilotplus-laptop-and-its-impact-on-efficient-remote-working/"><u>[Your Name]'s Game-Changing Discovery: The HP Copilot+ Laptop and Its Impact on Efficient Remote Working</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-navigating-steam-with-your-switch-pro-controller/"><u>2024 Approved Navigating Steam With Your Switch Pro Controller</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apple-watch-series-10-how-these-3-key-upgrades-convinced-me-to-make-the-switch-tech-insights-by-zdnet/"><u>Apple Watch Series 10: How These 3 Key Upgrades Convinced Me to Make the Switch | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-picks-for-thinnest-and-lightest-laptops-of-2024-reviewed/"><u>Expert Picks for Thinnest & Lightest Laptops of 2024 Reviewed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lg-gram-pro-vs-macbook-air-showdown-top-three-surprises-from-a-tech-reviews-comparison/"><u>LG Gram Pro Vs. MacBook Air Showdown: Top Three Surprises From a Tech Reviews Comparison</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ryzen-9000-dl-catastrophe-exposed-zen-5-manufacturing-defects-with-damaged-wafers-and-solder-leftovers/"><u>Ryzen 9000 DL Catastrophe: Exposed Zen 5 Manufacturing Defects with Damaged Wafers and Solder Leftovers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-non-dell-non-lenovo-business-laptops-a-professionals-pick-on-zdnet/"><u>Top Non-Dell, Non-Lenovo Business Laptops: A Professional's Pick on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-pick-the-ideal-13-inch-portable-work-computer-alternative-to-dell-xps-and-macbook-expert-review-on-zdnet/"><u>Top Pick: The Ideal 13-Inch Portable Work Computer Alternative to Dell XPS and MacBook - Expert Review on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-picks-ultimate-cyber-monday-laptop-bargains-for-black-friday-shoppers-october-2024-insights/"><u>Top Picks: Ultimate Cyber Monday Laptop Bargains for Black Friday Shoppers (October 2024) - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-savings-with-apples-m3-macbook-pro-avail-at-a-200-discount-on-amazons-spectacular-spring-clearance-event-insights/"><u>Unlock Savings with Apple's M3 MacBook Pro: Avail at a $200 Discount on Amazon's Spectacular Spring Clearance Event - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnet-evaluates-dells-high-end-3000-gamer-laptop-with-cutting-edge-surprises/"><u>ZDNet Evaluates Dell's High-End $3,000 Gamer Laptop with Cutting-Edge Surprises!</u></a></li>
+</ul></div>
 

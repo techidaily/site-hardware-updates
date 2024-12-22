@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Offer: Save on Your Ideal Lenovo Laptop Designed for Hybrid Professionals - Get $1,000 Off This October's Amazon Prime Day! | ZDNet"
-date: 2024-12-05T16:39:11.880Z
-updated: 2024-12-13T02:32:03.574Z
+date: 2024-12-15T00:58:59.324Z
+updated: 2024-12-21T19:08:38.424Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3714981f-3a77-4004-9f5f-505a32073051%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,520 -- nearly $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3714981f-3a77-4004-9f5f-505a32073051%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -79,21 +79,18 @@ At the time of this writing, it is the second day of Amazon's October Prime Day 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-superior-4k-screens-our-1-picks/"><u>[New] In 2024, Superior 4K Screens Our #1 Picks</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-layout-layers-elevating-your-youtube-videos/"><u>[Updated] 2024 Approved Layout Layers Elevating Your YouTube Videos</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/1728466255823-windows/"><u>如何克服Windows 磁碟分區格式化問題？有用的修正建議</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/create-the-best-canon-time-lapse-video/"><u>Create the Best Canon Time-Lapse Video</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-newest-amd-radeon-r5-drivers-compatible-with-windows-111087/"><u>Download the Newest AMD Radeon R5 Drivers: Compatible with Windows 11/10/8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-ultimate-guide-to-installing-usb-c-drivers-on-windows-10/"><u>Free Download: Ultimate Guide to Installing USB-C Drivers on Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-dell-wireless-adapter-drivers-for-windows-7-free-and-fast/"><u>Get Dell Wireless Adapter Drivers for Windows 7 - Free and Fast!</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/guia-rapida-para-copias-de-seguridad-automaticas-por-lote-en-windows-10-tecnicas-y-trucos/"><u>Guía Rápida Para Copias De Seguridad Automáticas Por Lote en Windows 10 - Técnicas Y Trucos</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y77t-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y77t to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/is-photoshops-stabilization-feature-aiding-creativity-for-2024/"><u>Is Photoshop's Stabilization Feature Aiding Creativity for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-download-microsoft-wireless-mouse-5000-drivers-get-set-up-fast/"><u>Quick Download: Microsoft Wireless Mouse 5000 Drivers - Get Set Up Fast</u></a></li>
-<li><a href="https://fox-making.techidaily.com/resolving-video-device-malfunctions-expert-tips-by-yl-software-professionals/"><u>Resolving Video Device Malfunctions: Expert Tips by YL Software Professionals</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722965103279-step-by-step-update-your-lenovo-x1-carbon-for-windows-11-and-7-driver-downloads-included/"><u>Step-by-Step: Update Your Lenovo X1 Carbon for Windows 11 & 7 - Driver Downloads Included!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-tips-how-to-refresh-the-drivers-for-usb-serial-adapter-devices/"><u>Troubleshooting Tips: How To Refresh the Drivers for USB Serial Adapter Devices</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/unlocking-creative-expression-with-simple-lenses/"><u>Unlocking Creative Expression with Simple Lenses</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722970173039-update-your-intel-integrated-graphics-for-windows-10-and-11-free-software-downloads/"><u>Update Your Intel Integrated Graphics for Windows 10 and 11: Free Software Downloads</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-revitalizing-urban-areas-with-environmental-vision-and-purpose/"><u>[New] Revitalizing Urban Areas with Environmental Vision and Purpose</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-primepickings-top-twitters-and-top-viewers-favorites/"><u>[Updated] In 2024, PrimePickings Top Twitters & Top Viewers’ Favorites</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-tranquil-escapes-top-12-pc-titles-for-2024/"><u>[Updated] Tranquil Escapes Top 12 PC Titles for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-streamlining-inshot-cuts-for-professional-edge/"><u>2024 Approved Streamlining Inshot Cuts for Professional Edge</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-one-change-transformed-my-workstation-setup-techadvisor/"><u>A Week with an Ergonomic Split Keyboard: How One Change Transformed My Workstation Setup | TechAdvisor</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-value-laptops-top-picks-that-compete-with-macbook-air-and-currently-discounted-insights/"><u>Best Value Laptops: Top Picks That Compete with MacBook Air & Currently Discounted - Insights</u></a></li>
+<li><a href="https://os-tips.techidaily.com/diving-into-vintage-video-games-on-my-iphone-a-weekend-of-discovery-and-lessons/"><u>Diving Into Vintage Video Games on My iPhone - A Weekend of Discovery and Lessons.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-ace-octobers-prime-deals-for-gamers-huge-savings-up-to-1000-insider-tips/"><u>Don't Miss Out: Ace October's Prime Deals for Gamers - Huge Savings Up to $1,000 Insider Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-top-picks-unmissable-amazon-prime-day-2024-offers-early-access-and-savings/"><u>Exclusive Top Picks: Unmissable Amazon Prime Day 2024 Offers - Early Access & Savings!</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-nokia-g42-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-nokia-130-music-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Nokia 130 Music Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovos-ultimate-portable-secret-revealed-the-ingenious-trackpoint-feature-and-extra-tricks-within-insights/"><u>Lenovo's Ultimate Portable Secret Revealed! The Ingenious TrackPoint Feature & Extra Tricks Within | Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-a-steal-with-metas-latest-quest-section-1-understanding-the-impact-of-crop-rotation-on-soil-fertility-and-pest-management/"><u>Score a Steal with Meta's Latest Quest # Section 1: Understanding the Impact of Crop Rotation on Soil Fertility and Pest Management</u></a></li>
 </ul></div>
 

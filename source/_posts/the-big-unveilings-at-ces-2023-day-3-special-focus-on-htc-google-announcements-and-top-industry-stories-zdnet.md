@@ -1,7 +1,7 @@
 ---
 title: "The Big Unveilings at CES 2023 Day 3: Special Focus on HTC, Google Announcements, and Top Industry Stories | ZDNET"
-date: 2024-12-11T00:24:02.618Z
-updated: 2024-12-13T03:04:07.820Z
+date: 2024-12-19T00:03:33.959Z
+updated: 2024-12-21T23:01:06.287Z
 tags:
   - laptops
 categories:
@@ -39,11 +39,11 @@ Cons
 * Poor battery
 * Limited charging
 
-## Razer Blade 17
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Razer Blade 17
 
 ### Best gaming laptop overall
 
@@ -97,6 +97,10 @@ Cons
 * Comes with bloatware
 * Not the most efficient cooling system
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Asus ROG Zephyrus G14
 
 ### Best ultra-portable gaming laptop
@@ -125,7 +129,7 @@ Cons
 ## HP Victus 15
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best HP gaming laptop
@@ -155,10 +159,6 @@ Cons
 
 ## MSI GT77 Titan
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best 17-inch gaming laptop
 
 **MSI GT77 Titan specs: Processor:** Intel Core i9-13980HX | **Screen size:** 17.3 inches | **Graphics:** RTX 4080 | **Operating system:** Windows 11 Pro
@@ -186,7 +186,7 @@ To see how it compares, this is a look at the best gaming laptops.
 | MSI GT77 Titan       | $3,839 | Intel Core i9-13980HX | 17.3 inches |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which is the best gaming laptop for you?
@@ -203,10 +203,6 @@ That's where I can help. Before you buy the best gaming laptop, consider these s
 | HP Victus 15                     | A popular gaming laptop with a clear 1080p display and wide-viewing panels. The battery also lasts up to eight hours.                                               |
 | MSI GT77 Titan                   | A powerhouse gaming laptop with market-leading mini-LED display technology and an upgraded i9 processor.                                                            |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did I choose these gaming laptops?
 
 Before you buy a gaming laptop, take a moment to reflect on these considerations.
@@ -217,7 +213,7 @@ Before you buy a gaming laptop, take a moment to reflect on these considerations
 * **Price:** The cost of a good gaming laptop can vary significantly, with the difference ranging several thousands of dollars. Things like your processor, graphics card, and memory can all impact the price, so keep these things in mind when shopping. To help give you an idea of what to expect, we found that the best gaming laptops range from $650 to more than $3,800 in price.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which brand is best for gaming laptops?
@@ -231,6 +227,10 @@ It is easy to spend several thousand dollars on a gaming laptop, but it is possi
 ## How much RAM do I need in a gaming laptop?
 
 RAM refers to random-access memory, or the amount of memory that your computer has. It is critical that your gaming laptop has enough RAM to run your favorite games and save files. Typically, the best gaming laptops have at least eight megabytes of RAM but the general rule of thumb is the more RAM, the better.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative gaming laptops worth considering?
 
@@ -280,22 +280,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-unveiling-the-best-video-player-apps-for-idevices-top-10/"><u>[New] Unveiling the Best Video Player Apps for iDevices (Top 10)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-everything-you-need-to-know-about-io-screen-recorder/"><u>[Updated] In 2024, Everything You Need to Know About IO Screen Recorder</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-your-pc-with-easy-to-install-intel-nvme-drivers-start-here/"><u>Boost Your PC with Easy-to-Install Intel NVMe Drivers – Start Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatible-intel-irisplus-gpu-driver-version-for-your-windows-growers-guide-understanding-and-applying-soil-amendments-for-improved-plant-health/"><u>Compatible Intel® Iris+ GPU Driver Version for Your Windows Grower's Guide: Understanding and Applying Soil Amendments for Improved Plant Health</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-latest-hp-laptop-driver-updates-for-windows-operating-systems/"><u>Download and Install Latest HP Laptop Driver Updates for Windows Operating Systems</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-nubia-red-magic-9-proplus-by-drfone-android/"><u>Full Guide to Unlock Your Nubia Red Magic 9 Pro+</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-elgato-drivers-in-a-flash-a-speedy-download-tutorial/"><u>Get Your Elgato Drivers in a Flash - A Speedy Download Tutorial</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-new-corsair-icue-setup-program-download-now-windows-11-and-10-supported/"><u>Get Your New Corsair iCUE Setup Program – Download Now (Windows 11 & 10 Supported)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/halo-4-in-unreal-engine-4-fixing-the-fatal-error-message-a-comprehensive-guide/"><u>Halo 4 in Unreal Engine 4: Fixing the 'Fatal Error' Message - A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-obtain-and-install-epsons-xp-400-drivers-a-step-by-step-approach/"><u>How to Successfully Obtain and Install Epson's XP-400 Drivers – A Step by Step Approach</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-showtime-showdown-who-wins-in-obstwitch-arena/"><u>In 2024, Showtime Showdown Who Wins in OBS/Twitch Arena</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installation-guide-logitech-c920-webcam-software-on-windows-1011/"><u>Installation Guide: Logitech C920 Webcam Software on Windows 10/11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Motorola Moto G14? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-zoom-video-quality-a-step-by-step-guide-for-2024/"><u>Mastering Zoom Video Quality A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722972810175-parties-have-the-autonomy-to-choose-arbitrators-with-specific-expertise-relevant-to-their-dispute-something-not-possible-in-traditional-litigation/"><u>Parties Have the Autonomy to Choose Arbitrators with Specific Expertise Relevant to Their Dispute, Something Not Possible in Traditional Litigation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/solution-found-getting-the-igfxem-module-back-on-track/"><u>Solution Found: Getting the igfxEM Module Back on Track</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-guide-top-ten-meme-designs-for-virality-for-2024/"><u>Ultimate Guide Top Ten Meme Designs for Virality for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-generating-wealth-with-makeup-channels/"><u>[New] 2024 Approved Generating Wealth with Makeup Channels</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-portable-laptops-for-the-mobile-professional-beyond-dell-xps-and-macbook/"><u>Best Portable Laptops for the Mobile Professional, Beyond Dell XPS & MacBook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/cyber-monday-exclusive-unbeatable-deal-on-apple-macbook-air-13inch-with-new-m2-chip-record-lows/"><u>Cyber Monday Exclusive: Unbeatable Deal on Apple MacBook Air 13Inch with New M2 Chip - Record Lows!</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/enhance-your-online-presence-with-manycam-cutting-edge-live-video-editing-tools-and-virtual-webcams/"><u>Enhance Your Online Presence with ManyCam: Cutting-Edge Live Video Editing Tools and Virtual Webcams</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-differences-between-the-ipad-and-ipad-air-models/"><u>Exploring the Differences Between the iPad and iPad Air Models</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-screenshot-tools-for-live-broadcasts-on-youtube/"><u>Ideal Screenshot Tools for Live Broadcasts on YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quintessential-screenplays-among-varied-genres/"><u>In 2024, Quintessential Screenplays Among Varied Genres</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-the-world-of-hugging-face-discovering-how-it-transforms-ai-research/"><u>Inside the World of Hugging Face: Discovering How It Transforms AI Research</u></a></li>
+<li><a href="https://article-posts.techidaily.com/laugh-ledger-pinpointing-prime-meme-generators/"><u>Laugh Ledger Pinpointing Prime Meme Generators</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/protect-your-privacy-new-research-reveals-risks-of-personal-data-theft-by-computer-fix-experts-zdnet/"><u>Protect Your Privacy: New Research Reveals Risks of Personal Data Theft by Computer Fix Experts | ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-v30-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on V30</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-errors-how-to-repair-com-surrogate-process-not-responding/"><u>Resolving Errors: How to Repair 'COM Surrogate Process Not Responding'</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/rugged-tech-face-off-the-high-end-4k-powerhouse-that-exceeds-dell-latitudes-benchmark/"><u>Rugged Tech Face-Off: The High-End, $4K Powerhouse That Exceeds Dell Latitude's Benchmark</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-m2-ssds-comprehensive-reviews-by-tech-experts-guide/"><u>Top-Rated M.2 SSDs : Comprehensive Reviews by Tech Experts Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unmissable-top-savings-on-amazons-october-prime-day-2024-exclusive-offers-still-up-gadgetzoo/"><u>Unmissable Top Savings on Amazon's October Prime Day 2024 - Exclusive Offers Still Up! | GadgetZoo</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 2023'S Most Impactful Tech Innovations Unveiled | How They Transformed the Game - Featured on ZDNET
-date: 2024-12-05T17:08:19.110Z
-updated: 2024-12-12T23:30:43.611Z
+date: 2024-12-17T07:53:25.755Z
+updated: 2024-12-22T04:05:15.884Z
 tags:
   - laptops
 categories:
@@ -19,16 +19,12 @@ Whether you've been busy with the kids or catching up with the daily news on you
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
 
 [![CES 2023](https://www.zdnet.com/a/img/resize/28650a75dc1dd673042c63db5be340811e6ef8a4/2023/01/03/6f86bbf0-d65d-4f16-a4f2-699dfdc83419/ces-2023-header.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) CES 2023: The Biggest Trends for Pros Find all the exciting innovation from CES 2023 in this ZDNET special feature.  Read now](https://www.zdnet.com/topic/ces-2023-the-biggest-trends-for-pros/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 We've been on the ground for the second day of the [largest tech conference in the US](https://www.zdnet.com/article/zdnets-guide-to-ces-what-is-it-and-who-can-attend/), bringing you the best of the announcements. 
 
@@ -38,16 +34,12 @@ While hundreds of companies are stationed in Las Vegas announcing new and innova
 
 And, if you're still waiting to hear from some major companies, keep checking back . More companies will be announcing more innovative products as the week progresses.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## LG saves its biggest (and best) TV for last
 
 ![LG 97-inch M3 OLED smart webOS TV](https://www.zdnet.com/a/img/resize/506f09c228df659cacc5d524977b1b805c7b4dca/2023/01/03/6f43e8d1-cf31-43f8-b6cd-25bc58e9cb75/97m3-image-4.jpg?auto=webp&fit=crop&height=360&width=640)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LG
@@ -73,7 +65,7 @@ Post-pandemic life has seen a surge in interest in personal health tech, and thi
 Learn more about the new [smart toilet sensors here](https://www.zdnet.com/home-and-office/smart-home/ces-2023-sees-the-launch-of-two-smart-toilet-sensors/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MSI drops new laptops for gamers and creatives
@@ -90,6 +82,10 @@ While [Hisense upgraded its U8 line's picture](https://www.zdnet.com/home-and-of
 
 Read more about [Roku making its own TVs](https://www.zdnet.com/home-and-office/home-entertainment/ces-2023-roku-to-begin-offering-its-own-tv-builds-this-year/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Samsung adds new security software with Knox Matrix
 
 Samsung
@@ -99,6 +95,10 @@ In an exclusive interview  Editor-in-Chief Jason Hiner, Samsung security leader 
 Check out the article version of the interview [here](https://www.zdnet.com/article/samsung-has-a-plan-to-lock-down-all-of-the-smart-devices-in-your-house/), or watch the [video interview with Shin Baik](https://www.zdnet.com/article/samsung-has-a-plan-to-lock-down-all-of-the-smart-devices-in-your-house/).
 
 **Also:** [**What's in the tech bag ZDNET's EIC takes to CES?**](https://www.zdnet.com/article/what-tech-is-in-the-ces-2023-bag-of-zdnets-editor-in-chief/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## HP focuses on sustainability and hybrid work with new laptops
 
@@ -170,24 +170,21 @@ If you want the best of the news, you can see the highlights of [Day 1 of CES 20
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-crafting-cinematic-experiences-with-magix-video-pro-x/"><u>[New] Crafting Cinematic Experiences with Magix Video Pro X</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/lawless-soundscape-secrets-to-high-resolution-audio-recording-for-2024/"><u>[New] Flawless Soundscape Secrets to High-Resolution Audio Recording for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-huawei-mate-and-p-series-phones-activating-built-in-recorders-for-screen-capture/"><u>[Updated] Huawei Mate and P Series Phones Activating Built-In Recorders for Screen Capture</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-top-5-sites-to-download-text-effects/"><u>[Updated] In 2024, Top 5 Sites to Download Text Effects</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-ultimate-techniques-for-screen-recording-games-on-win10/"><u>2024 Approved Ultimate Techniques for Screen Recording Games on Win10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-to-installing-amd-rx-6800-drivers-on-windows-compatible-with-windows-111087/"><u>Comprehensive Guide to Installing AMD RX 6800 Drivers on Windows - Compatible with Windows 11/10/8/7</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-co-branded-narratives-for-youtube-audiences/"><u>Crafting Co-Branded Narratives for YouTube Audiences</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-canon-mf743cdw-printer-drivers-compatible-with-windows-os/"><u>Download & Install Canon MF743CDW Printer Drivers Compatible with Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-setup-for-your-logitech-m1-cu-2023-with-updated-driver-downloads/"><u>Effortless Setup for Your Logitech M1 Cu 2023 with Updated Driver Downloads</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-install-the-right-toshiba-driver-your-ultimate-windows-solution/"><u>Find & Install the Right Toshiba Driver: Your Ultimate Windows Solution</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-ultimate-guide-to-using-behringer-usb-audio-interface/"><u>Free Download: Ultimate Guide to Using Behringer USB Audio Interface</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-experts-guide-to-infinite-space-utilization/"><u>In 2024, Expert's Guide to Infinite Space Utilization</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Honor X8b? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-digital-depositories-customized-alert-sounds/"><u>In 2024, Top Digital Depositories Customized Alert Sounds</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-the-newest-nvidia-drivers-for-your-geforce-rtx-3080-on-windows-1187-systems/"><u>Install the Newest NVIDIA Drivers for Your GeForce RTX 3080 on Windows 11/8/7 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-hp-officejet-pro-8610-drivers-free-downloads-for-win10win8win7xpvista/"><u>Latest HP Officejet Pro 8610 Drivers: Free Downloads for Win10/Win8/Win7/XP/Vista</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-release-magiccard-rio-pro-driver-downloads-available-for-windows-users-versions-11-81-and-7/"><u>Latest Release: Magiccard Rio Pro Driver - Downloads Available for Windows Users (Versions 11, 8.1 & 7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/rtx-2060-super-graphics-card-drivers-compatible-with-windows-11/"><u>RTX 2060 Super Graphics Card Drivers - Compatible with Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/stream-movies-on-a-budget-with-these-12-free-downloads/"><u>Stream Movies on a Budget with These 12 Free Downloads</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-download-and-install-your-ultimate-guide-to-using-obs-on-a-macpc/"><u>[New] In 2024, Download & Install Your Ultimate Guide to Using OBS on a MacPC</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-navigate-your-way-to-the-best-idevice-apps-for-extracting-content-from-facebook/"><u>[New] In 2024, Navigate Your Way to the Best iDevice Apps for Extracting Content From Facebook</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-ultimate-windows-audio-suite/"><u>[Updated] In 2024, Ultimate Windows Audio Suite</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-technological-testing-and-tracking-the-vll-method/"><u>2024 Approved Technological Testing and Tracking The VLL Method</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-it-transformed-my-computer-experience-insights/"><u>A Week with an Ergonomic Split Keyboard: How It Transformed My Computer Experience - Insights</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/advanced-ai-voice-to-text-apps/"><u>Advanced AI Voice to Text Apps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/apples-upcoming-october-unveiling-anticipating-the-new-m4-mac-mini-enhanced-ipads-and-advancements-in-apple-ai/"><u>Apple’s Upcoming October Unveiling: Anticipating the New M4 Mac Mini, Enhanced iPads & Advancements in Apple AI</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-promo-prices-for-high-end-iogear-portable-devices-now-available-on-amazon-zdnet-special-report/"><u>Discover Promo Prices for High-End IOGEAR Portable Devices Now Available on Amazon – ZDNet Special Report</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-access-secure-your-savings-on-top-tier-october-game-discounts-up-to-1k-off/"><u>Exclusive Access: Secure Your Savings on Top-Tier October Game Discounts - Up to $1K Off!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-laptop-sale-slash-price-by-800-limited-offer-at-600-for-acer-porsche-design-check-out-the-deal-here/"><u>Exclusive Laptop Sale: Slash Price by $800 - Limited Offer at $600 for Acer Porsche Design! Check Out the Deal Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-review-of-framework-chromebook-a-revolutionary-step-towards-sustainable-tech/"><u>Exclusive Review of Framework Chromebook - A Revolutionary Step Towards Sustainable Tech</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-xiaomi-redmi-12-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Xiaomi Redmi 12 Lock Screen Password</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/insider-information-exposes-continued-stability-struggles-in-intel-processors-more-than-just-elevated-voltage-risks/"><u>Insider Information Exposes Continued Stability Struggles in Intel Processors — More than Just Elevated Voltage Risks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-productivity-grab-the-ultimate-multitasking-dock-at-a-steal-save-35-today-only-featured/"><u>Maximize Your Productivity: Grab the Ultimate Multitasking Dock at a Steal - Save 35% Today Only, Featured !</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/pro-audio-integration-essential-tips-for-podcasters-for-2024/"><u>Pro Audio Integration Essential Tips for Podcasters for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/steal-of-the-century-alert-score-your-iphone-15-pro-max-at-just-001-on-amazon-discover-this-incredible-offer-now/"><u>Steal-of-the-Century Alert: Score Your iPhone 15 Pro Max at Just $0.01 on Amazon! Discover This Incredible Offer Now</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhancing Smartphone Usability with Additional Physical Buttons
-date: 2024-09-05T19:54:08.261Z
-updated: 2024-09-06T19:54:08.261Z
+date: 2024-12-17T08:48:55.695Z
+updated: 2024-12-22T11:05:20.711Z
 tags:
   - android
 categories:
@@ -9,26 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/Phone-Buttons.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enhancing Smartphone Usability with Additional Physical Buttons
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Where Did the Buttons Go?](https://snapchat-videos.techidaily.com/quora-experts-live-snapchat-session-for-2024/)
@@ -58,20 +44,16 @@ _[Mr.Mikla/Shutterstock.com](https://www.shutterstock.com/image-photo/february-2
 Related: [How to Use an iPhone with a Broken Home Button](https://video-capture.techidaily.com/in-2024-real-time-film-extractor/) 
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Case for Buttons
 
 ![iPhone SE power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/iPhone-SE-2022s-power-button.jpg?width=1198&amp;trim=1,1&amp;bg-color=000&amp;pad=1,1) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Technically, you don't need any buttons on a modern smartphone. The iPhone and Android both have [gesture navigation](https://some-techniques.techidaily.com/in-2024-innovation-unveiled-the-complete-moto-z2-review/) and options for controlling volume and [power](https://some-knowledge.techidaily.com/in-2024-in-depth-audio-settings-in-windows-10/) with the touchscreen. However, they keep those physical buttons because they're more convenient than software.
 
@@ -85,22 +67,14 @@ Related: [How to Use an iPhone with a Broken Home Button](https://video-capture.
 
 Related: [How to Restart a Phone Without the Power Button](https://some-knowledge.techidaily.com/in-2024-in-depth-audio-settings-in-windows-10/) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Can You Add Buttons to a Phone?
 
 ![Tap back for flashlight hero.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/tap-for-flashlight-hero.png?width=1198&amp;trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Sadly, the phone industry is moving away from buttons. It's more likely that we'll see a phone with fewer buttons than more. So what can you do if you want more buttons on your phone? There are some options.
 
  Let's start by adding more buttons than you already have. With the help of a clever little gadget, you can add up to four buttons to your NFC-enabled phone. That includes most iPhones with iOS 14 and newer, plus the majority of Android devices.
@@ -112,11 +86,9 @@ Related: [How to Restart a Phone Without the Power Button](https://some-knowledg
 ![dimpleio-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/dimpleio-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  Dimple.io
 
 Add up to four buttons to the back of your phone using the power of NFC.
@@ -139,8 +111,6 @@ Related: [How to Turn On the Flashlight by Tapping Your iPhone's Back](https://b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +118,20 @@ Related: [How to Turn On the Flashlight by Tapping Your iPhone's Back](https://b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/rase-unwanted-black-fringes-on-youtube-tracks/"><u>[New] Erase Unwanted Black Fringes on YouTube Tracks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-seamless-media-switching-your-ultimate-guide-for-srt-conversion/"><u>[Updated] In 2024, Seamless Media Switching Your Ultimate Guide for SRT Conversion</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-realme-gt-5-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Realme GT 5 PC | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>A Detailed VPNa Fake GPS Location Free Review On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/comment-rectifier-les-erreurs-de-fichiers-manquants-dans-fall-guys/"><u>Comment Rectifier Les Erreurs De Fichiers Manquants Dans Fall Guys?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/evaluating-the-value-a-comparative-analysis-of-top-portable-monitors-and-their-benefits/"><u>Evaluating the Value: A Comparative Analysis of Top Portable Monitors and Their Benefits</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-premium-gameplay-at-unbeatable-prices-with-memorial-day-deals-offering-250-off-on-powerful-gaming-laptops/"><u>Experience Premium Gameplay at Unbeatable Prices With Memorial Day Deals Offering $250 Off on Powerful Gaming Laptops</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/facebook-video-freeze-up-solutions-for-secure-browser-users-for-2024/"><u>Facebook Video Freeze-Up Solutions for Secure Browser Users for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-explore-free-fb-visual-creation-tools-best/"><u>In 2024, Explore Free FB Visual Creation Tools - Best</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-the-latest-apple-unveils-new-13-and-15-macbook-air-featuring-revolutionary-m3-chip-exclusive-details-revealed/"><u>Introducing the Latest: Apple Unveils New 13 & 15 MacBook Air Featuring Revolutionary M3 Chip - Exclusive Details Revealed !</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranked-affordable-gaming-laptops-reviewed-by-professionals-insights-from-zdnet/"><u>Top-Ranked Affordable Gaming Laptops Reviewed by Professionals - Insights From ZDNet</u></a></li>
+</ul></div>
 

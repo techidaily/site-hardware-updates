@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Battle: Comparing the M3 Vs. M2 MacBook Air on ZDNet"
-date: 2024-12-11T19:35:55.585Z
-updated: 2024-12-12T18:49:10.671Z
+date: 2024-12-15T10:24:01.068Z
+updated: 2024-12-21T21:56:18.952Z
 tags:
   - laptops
 categories:
@@ -24,10 +24,6 @@ Recently, I did a thing: I switched my heavyweight Windows PC for a docked [16-i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### See also
 
 * [Still have a Windows 10 PC? You have 5 options before support ends next year](https://www.zdnet.com/article/have-a-windows-10-pc-that-cant-be-upgraded-you-have-5-options-before-support-ends-next-year/)
@@ -44,10 +40,14 @@ So what if I told you you can remap the Apple keyboard so that the Globe key, wh
 
 (Even if you've always been a Mac user, and everything I just wrote meant nothing to you, you'll still want to read this. There's a good chance that the following remapping feature will benefit you just as much, too.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to remap the Globe key into the Command key
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open up Keyboard settings
@@ -57,7 +57,7 @@ Let's start by running a Spotlight Search (clicking the magnifying glass on the 
 You can also access this menu by clicking the Apple icon on the top left of the status bar > System Preferences > and then Keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Open Modifier Keys
@@ -67,7 +67,7 @@ On the bottom right of the Keyboard settings should be a button labeled "Modifie
 Screenshot by June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Remap the Globe key to Command
@@ -79,7 +79,7 @@ Note: There is a "Control key" on the Mac keyboard but it doesn't function the s
 Screenshot by June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How this helps
@@ -116,19 +116,22 @@ From a Windows user perspective, being able to still access my usual keyboard sh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-time-stamping-your-photos/"><u>[New] The Ultimate Guide to Time-Stamping Your Photos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/air-cooled-masterpiece-this-computer-breaks-the-mold-utilizing-a-giant-center-fan-against-centrifugal-forces/"><u>Air-Cooled Masterpiece: This Computer Breaks the Mold, Utilizing a Giant Center Fan Against Centrifugal Forces</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/epson-xp-430-printer-driver-installation-guide-for-windows-systems-complete-tutorial/"><u>Epson XP-430 Printer Driver Installation Guide for Windows Systems (Complete Tutorial)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/essential-8-open-source-tools-for-effective-enterprise-video-meetings-for-2024/"><u>Essential 8 Open Source Tools for Effective Enterprise Video Meetings for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-m-audio-fast-track-driver-installation-files-compatible-with-windows-117881/"><u>Free M-Audio Fast Track Driver Installation Files Compatible with Windows 11/7/8/8.1</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-windows-compatible-amd-radeon-graphics-drivers-here/"><u>Get the Latest Windows-Compatible AMD Radeon Graphics Drivers Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-updated-drivers-on-your-toshiba-satellite-using-windows/"><u>How to Install Updated Drivers on Your Toshiba Satellite Using Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-version-of-sapphire-driver-software-for-windows-systems/"><u>Latest Version of Sapphire Driver Software for Windows Systems</u></a></li>
-<li><a href="https://extra-information.techidaily.com/optimal-webcams-enhancing-audio-experience/"><u>Optimal Webcams Enhancing Audio Experience</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/proven-strategies-to-capture-and-archive-ps3-games-for-2024/"><u>Proven Strategies to Capture and Archive PS3 Games for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/scripting-success-integrating-chatgpt-into-video-content-creation/"><u>Scripting Success: Integrating ChatGPT Into Video Content Creation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-lenovo-t420-driver-management-and-updates-on-windows-platforms/"><u>Ultimate Guide: Lenovo T420 Driver Management and Updates on Windows Platforms</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win-710-screenscape-save-hiccup-get-it-right-solved/"><u>Win 7/10 Screenscape Save Hiccup - Get It Right [Solved]</u></a></li>
-<li><a href="https://win-net.techidaily.com/windows-os-111087ssd/"><u>Windows OS (11/10/8/7)をSSDに移すためのインストールなし方法説明</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-streamlined-video-logitechs-background-editing-guide/"><u>[New] 2024 Approved Streamlined Video - Logitech's Background Editing Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-digital-detailing-at-your-command/"><u>[Updated] Digital Detailing at Your Command</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-monetizing-popularity-pay-per-million-views/"><u>[Updated] Monetizing Popularity Pay Per Million Views</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/1-crafting-unique-titles-for-your-ebooks-using-fliphtml5-a-step-by-step-guide/"><u>1. Crafting Unique Titles for Your eBooks Using FlipHTML5: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/2024s-elite-picks-for-windows-power-laptops-expert-insights-and-evaluations-zdnet/"><u>2024'S Elite Picks for Windows Power Laptops: Expert Insights and Evaluations | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-it-transformed-my-pc-setup-insights-from-zdnet/"><u>A Week with an Ergonomic Split Keyboard: How It Transformed My PC Setup - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-buy-anti-prime-day-alert-secure-your-discounted-hp-victus-515-gaming-laptop-deal-unveiled-by-zdnet/"><u>Best Buy Anti-Prime Day Alert! Secure Your Discounted HP Victus 지킷랄로피 ($515) - Gaming Laptop Deal Unveiled by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dell-unveils-innovative-concept-luna-disassembling-like-lego-bricks-a-glimpse-into-tomorrows-computing/"><u>Dell Unveils Innovative Concept Luna: Disassembling Like LEGO Bricks - A Glimpse Into Tomorrow’s Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-apple-m3-macbook-pro-up-to-200-discount-at-amazons-spectacular-spring-deal-insights/"><u>Get the Latest Apple M3 MacBook Pro Up to $200 Discount at Amazon’s Spectacular Spring Deal - Insights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-motorola-by-fonelab-android-recover-music/"><u>How to recover old music from your Motorola</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-a2-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi A2 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-live-tiktok-sessions-via-integrated-zoom-platforms/"><u>Mastering Live TikTok Sessions via Integrated Zoom Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximizing-connectivity-top-techniques-for-expanding-ports-on-macbook-and-ipad-pro-zdnet/"><u>Maximizing Connectivity: Top Techniques for Expanding Ports on MacBook & iPad Pro - ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/prime-day-alert-unbeatable-price-on-highly-rated-lenovo-and-dell-alternative-2-in-1-laptop-s-top-picks/"><u>Prime Day Alert: Unbeatable Price on Highly Rated Lenovo and Dell Alternative 2-in-1 Laptop 'S Top Picks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/prime-setup-the-finest-4k-dslr-shoulder-rigs-reviewed-for-2024/"><u>Prime Setup The Finest 4K DSLR Shoulder Rigs Reviewed for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-setting-up-a-new-gmail-account-on-your-android-smartphone/"><u>Step-by-Step Guide: Setting Up a New Gmail Account on Your Android Smartphone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-your-productivity-with-the-ultimate-docking-station-bundle-now-available-for-a-steep-discount/"><u>Unleash Your Productivity with the Ultimate Docking Station Bundle, Now Available for a Steep Discount !</u></a></li>
 </ul></div>
 

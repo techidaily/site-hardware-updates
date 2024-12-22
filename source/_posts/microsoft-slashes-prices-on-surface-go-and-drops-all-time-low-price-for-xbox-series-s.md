@@ -1,7 +1,7 @@
 ---
 title: Microsoft Slashes Prices on Surface Go and Drops All-Time Low Price for Xbox Series S
-date: 2024-12-07T22:31:52.152Z
-updated: 2024-12-12T18:19:30.309Z
+date: 2024-12-14T22:00:44.923Z
+updated: 2024-12-22T09:08:45.241Z
 tags:
   - laptops
 categories:
@@ -27,7 +27,7 @@ Microsoft is known for its innovative products in gaming, computers, and more. A
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Save hundreds on Surface tablets and laptops**
@@ -43,7 +43,7 @@ Under the tablet's hood, you'll find a blazing-fast processor (12th Gen Intel Co
 Meanwhile, if you're preference is for laptops, then Microsoft has other deals for you. You can save $200 on the Surface Laptop 5, up to $646 on the Surface Laptop 4, and $150 on the Surface Laptop Go 2\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Get the Xbox Series S at its lowest price ever**
@@ -59,7 +59,7 @@ This is a digital console, meaning you'll have ample room to download games on i
 Overall, the Xbox Series S is an excellent gaming system for those looking for jaw-dropping graphics, access to a diverse gaming library, and fast performance. In addition, Microsoft lowered its price to $239.99, making it the best time to buy one. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Want to save even more on Microsoft devices?**
@@ -110,22 +110,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-crafting-fast-fortnite-icons-in-minutes/"><u>[Updated] Crafting Fast Fortnite Icons in Minutes</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-essential-iphone-podcast-retrieval-handbook/"><u>[Updated] In 2024, The Essential iPhone Podcast Retrieval Handbook</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-practices-for-resolving-compatibility-and-performance-problems-of-startech-drivers-on-windows-11-8-and-e/"><u>Best Practices for Resolving Compatibility and Performance Problems of StarTech Drivers on Windows 11, 8 & E</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-to-installing-newest-huion-software-for-windows-systems/"><u>Comprehensive Guide to Installing Newest Huion Software for Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-essential-drivers-for-hp-elitebook-x360-1030-g2-model/"><u>Download Essential Drivers for HP EliteBook X360 1030 G2 Model</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-fresh-nvidia-mx150-graphics-driver-update-on-your-windows-device/"><u>Easy Steps to Fresh Nvidia MX150 Graphics Driver Update on Your Windows Device</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-seamless-spotify-links-on-windows-11-pc/"><u>Ensuring Seamless Spotify Links on Windows 11 PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-update-secure-hp-officejet-5255-printer-drivers-for-optimal-performance/"><u>Find & Update: Secure HP OfficeJet 5255 Printer Drivers for Optimal Performance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/generative-ai-mastery-avoid-these-7-frequent-mistakes/"><u>Generative AI Mastery: Avoid These 7 Frequent Mistakes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-msi-b350-tomahawk-driver-updates-for-windows-107-systems/"><u>Get the Latest MSI B350 Tomahawk Driver Updates for Windows 10/7 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-download-the-newest-hp-laptop-drivers-compatible-with-windows-os/"><u>How to Find and Download the Newest HP Laptop Drivers Compatible with Windows OS</u></a></li>
-<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-apple-iphone-14-pro-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect Apple iPhone 14 Pro and iPad</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-photography-for-the-masses-the-best-12-sites-offering-accessible-stock-images/"><u>In 2024, Photography for the Masses - The Best 12 Sites Offering Accessible Stock Images</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-total-environmental-immersion-in-media-creation/"><u>In 2024, Total Environmental Immersion in Media Creation</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/simple-methods-for-downloading-and-installing-updated-drivers-on-a-dell-d31atur-peripheral-device/"><u>Simple Methods for Downloading and Installing Updated Drivers on a Dell D31atur Peripheral Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-wacom-cintiq-pen-drawing-pad-software/"><u>Update Your Wacom Cintiq Pen Drawing Pad Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/would-you-benefit-from-an-upgrade-to-chatgpt-plus-subscription/"><u>Would You Benefit From an Upgrade to ChatGPT Plus Subscription?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-epic-martial-arts-arcade-classics-revisited/"><u>[New] 2024 Approved Epic Martial Arts Arcade Classics Revisited</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-navigating-through-the-sea-of-user-interactions-on-youtube/"><u>[New] In 2024, Navigating Through the Sea of User Interactions on YouTube</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-unlocking-viral-potential-with-ai-driven-video-titles-for-2024/"><u>[Updated] Unlocking Viral Potential with AI-Driven Video Titles for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-15-inch-laptop-with-complete-set-of-ports-available-for-just-250-at-walmart-tech-news/"><u>Asus 15 Inch Laptop with Complete Set of Ports: Available for Just $250 at Walmart | Tech News</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-8-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 8 with a Broken Screen?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correct-misaligned-graphics-outputs/"><u>Correct Misaligned Graphics Outputs</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/dont-panic-over-lost-iphone-data-securely-recover-files-with-ease-and-precision-via-stellar/"><u>Don't Panic Over Lost iPhone Data: Securely Recover Files with Ease and Precision via Stellar</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/enhance-playstation-2-experience-top-5-android-emulators/"><u>Enhance PlayStation 2 Experience Top 5 Android Emulators</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/from-legacy-to-cutting-edge-choosing-between-the-m3-and-m1-macbook-pro-models/"><u>From Legacy to Cutting-Edge: Choosing Between the M3 and M1 MacBook Pro Models</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-vivo-v30-lite-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Vivo V30 Lite 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-5-long-lasting-laptop-batteries-of-2023-reviewed/"><u>Top 5 Long-Lasting Laptop Batteries of 2023 - Reviewed</u></a></li>
+<li><a href="https://article-posts.techidaily.com/top-tunes-apps-win-edition-for-2024/"><u>Top Tunes Apps Win Edition for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-student-laptops-comprehensive-reviews-and-experts-picks-zdnet/"><u>Top-Ranking Student Laptops: Comprehensive Reviews & Experts' Picks - ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upcoming-alienware-gaming-laptops-set-for-ces-2023-unveiling-insider-info-techradar/"><u>Upcoming Alienware Gaming Laptops Set for CES 2023 Unveiling - Insider Info | TechRadar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-this-asus-notebook-outperforms-apples-macbook-top-reasons-you-need-to-switch-an-in-depth-comparison-by-zdnet/"><u>Why This ASUS Notebook Outperforms Apple's MacBook: Top Reasons You Need To Switch! - An In-Depth Comparison by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnets-exclusive-list-ultimate-prime-day-prep-deals-of-2n24-for-smart-shoppers/"><u>ZDNet's Exclusive List: Ultimate Prime Day Prep Deals of 2N24 for Smart Shoppers</u></a></li>
 </ul></div>
 

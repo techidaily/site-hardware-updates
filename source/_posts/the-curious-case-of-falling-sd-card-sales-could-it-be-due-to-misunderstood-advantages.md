@@ -1,7 +1,7 @@
 ---
 title: The Curious Case of Falling SD Card Sales - Could It Be Due to Misunderstood Advantages?
-date: 2024-09-05T19:53:56.094Z
-updated: 2024-09-06T19:53:56.094Z
+date: 2024-12-17T23:44:11.150Z
+updated: 2024-12-21T16:49:46.750Z
 tags:
   - android
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  SD cards have long been a staple in digital storage. While they're still used by photographers, handheld gamers, and enthusiasts, they've fallen out of the mainstream since the moment phones stopped shipping with microSD card slots. I believe they deserve to be back in the spotlight.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  A Terabyte in Your Wallet
 
  My favorite thing about SD cards is that they're so small that you can put one into a paper-thin wallet and hardly notice it, yet they can store vast amounts of data. Regular-size SD cards are already tiny, but microSD cards are absolutely minuscule; you can hold one at the tip of your finger. It's truly impressive that manufacturers have somehow managed to squeeze in [1.5TB and even 2TB](https://eaxpv-info.techidaily.com/updated-how-to-make-the-most-of-youtube-tv-offerings-for-2024/) worth of storage.
@@ -31,6 +35,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A microSD card and SD card adapter placed on a brown leather wallet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/rsz_img20240729164143.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ismar Hrnjicevic / How-To Geek
 
  These modern, high-capacity microSD cards aren't your regular run-off-the-mill storage devices, either, as most of them have reasonably fast transfer rates. It's no [Thunderbolt 5](https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-xs-without-a-passcode-drfone-by-drfone-ios/), but V90 SD cards can do a _minimum_ of 90MB/sec, enough to record 8K video directly to the SD card.
@@ -38,11 +46,9 @@ Ismar Hrnjicevic / How-To Geek
  Fast SD cards are awesome for a lot of things, as you can transfer files from one device to another in a short amount of time. For instance, if you go to a [LAN party](https://win11-tips.techidaily.com/how-to-resolve-windows-upgrade-failures-and-errors/) and need to get a game quickly onto your laptop, you could create a copy from a PC that already has the game, paste it onto your laptop, and start playing in just 15–20 minutes. It's miles faster than downloading the game from the web, and you wouldn't steal internet bandwidth from your friends.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Better Than USB Flash Drives
 
  Almost everything I've said so far also rings true for USB flash drives. USB flash drives are also reasonably small, have large storage capacities, and can potentially reach higher transfer speeds thanks to newer USB interfaces. This [SanDisk 1TB USB flash drive](https://www.amazon.com/dp/B0CLBNMBK2?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004140&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwhy-are-sd-cards-declining-when-theyre-so-awesome%2F&asc%5Fcampaign=Evergreen) can reach read speeds of up to 400MB/s. Not to mention that the USB interface is ubiquitous, in no small part, thanks to [USB-C](https://screen-activity-recording.techidaily.com/navigating-lenovo-screen-capture-tools-effortlessly/).
@@ -50,6 +56,10 @@ Ismar Hrnjicevic / How-To Geek
  I love USB flash drives, and I use them all the time, but SD cards are simply better in most regards. I already mentioned how tiny a microSD card is, but it really puts things into perspective when you see them next to each other.
 
 ![A microSD card and SD card adapter next to three different USB flash drives.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/img20240729173912.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ismar Hrnjicevic / How-To Geek
 
@@ -61,12 +71,6 @@ Ismar Hrnjicevic / How-To Geek
 
 ![A person holding a microSD card.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/52849011009_f6e8b51064_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jordan Gloor / How-To Geek
 
  The last argument in favor of microSD cards is standardization. The [SD Association](https://www.sdcard.org/) sets the standards for various SD card specifications. This includes clearly defined speed classes that ensure consistent performance, which makes shopping for a microSD card a stress-free experience. If your device calls for a [UHS-II U3 card](https://www.amazon.com/SanDisk-128GB-Extreme-UHS-II-Memory/dp/B08YF7PB14?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004140&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwhy-are-sd-cards-declining-when-theyre-so-awesome%2F&asc%5Fcampaign=Evergreen), you can get a microSD card with that specification (or better), knowing it'll work as expected.
@@ -83,20 +87,8 @@ Jordan Gloor / How-To Geek
 
 ![SD and MicroSD cards on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/sd-cards-3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Cheap Offline Storage
 
  Like other forms of flash memory, SD cards can last at least [10 years](https://facebook-record-videos.techidaily.com/whats-your-potential-income-from-youtube-sponsored-videos-in-2024/) under the right conditions. They're not as permanent as [M-DISCs](https://facebook-video-share.techidaily.com/updated-haute-couture-at-home-makeup-tools-and-techniques/), but 10 years is still a solid figure if you just use the SD card for redundancy.
@@ -104,21 +96,13 @@ Corbin Davenport / How-To Geek
  In addition to the cloud, you should always have [offline backups](https://extra-information.techidaily.com/concealed-viewers-guide-to-instagram-live-broadcasting-without-attention-for-2024/) of your most important files on as many offline storage devices as possible, so SD cards are a cheap way to create redundant backups. Just remember to check the SD cards occasionally to make sure your data doesn't get corrupted.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Expandable Storage in Phones Needs a Comeback
 
 ![Phone with microSD card.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/phone-with-microsd-card.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _[Daniel Jedzura/Shutterstock.com](https://www.shutterstock.com/image-photo/man-inserting-memory-card-sim-smartphone-1135113893)_
 
  While SD cards aren't going anywhere anytime soon, they are undoubtedly declining in popularity, and I think that it's a shame. It speaks volumes that you can't find a flagship phone with an SD card slot anymore; they're only available on budget and mid-range devices like the [OnePlus Nord N30 5G](https://www.amazon.com/OnePlus-Unlocked-Dual-SIM-Charging-Chromatic/dp/B0C22BRGLG?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004140&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwhy-are-sd-cards-declining-when-theyre-so-awesome%2F&asc%5Fcampaign=Evergreen).
@@ -137,8 +121,6 @@ _[Daniel Jedzura/Shutterstock.com](https://www.shutterstock.com/image-photo/man-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +128,26 @@ _[Daniel Jedzura/Shutterstock.com](https://www.shutterstock.com/image-photo/man-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-integrating-audio-elements-into-facebooks-visual-stories/"><u>[New] Integrating Audio Elements Into Facebook's Visual Stories</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-9-fitness-trends-to-captivate-your-online-audience-with-action-for-2024/"><u>[Updated] 9 Fitness Trends to Captivate Your Online Audience with Action for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-enhancing-your-presence-on-tiktok-from-mac-and-windows-pcs/"><u>[Updated] Enhancing Your Presence on TikTok From Mac and Windows PCs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-identifying-the-top-12-easiest-to-use-flip-screen-cams/"><u>[Updated] Identifying the Top 12 Easiest to Use Flip Screen Cams</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-beginners-vlogging-landscape/"><u>2024 Approved Navigating Beginner's Vlogging Landscape</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ace-your-projects-with-these-premium-video-editing-laptops-expertly-tested-and-evaluated-pcmag/"><u>Ace Your Projects with These Premium Video Editing Laptops - Expertly Tested & Evaluated | PCMag</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-most-outstanding-laptops-of-2024-comprehensive-analysis-and-testing/"><u>Discover the Most Outstanding Laptops of 2024: Comprehensive Analysis and Testing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortlessly-transitioning-to-a-windows-less-lifestyle-with-an-hp-chromebook-insights-from-tech-expert-zdnet/"><u>Effortlessly Transitioning to a Windows-Less Lifestyle with an HP Chromebook, Insights From Tech Expert | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/embrace-the-pixel-eighta-now-and-skip-the-long-wait-for-pixel-9-launch/"><u>Embrace the Pixel eightA Now and Skip the Long Wait for Pixel 9 Launch</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experts-pick-best-laptop-for-hybrid-work-life-up-to-1k-discount-on-select-lenovo-models/"><u>Experts' Pick: Best Laptop for Hybrid Work Life - Up to $1K Discount on Select Lenovo Models</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-ready-to-play-save-big-on-a-high-performance-gaming-laptop-this-memorial-day-exclusive-offer-from-brand-name-featured-on-zdnet/"><u>Get Ready to Play: Save Big on a High-Performance Gaming Laptop This Memorial Day – Exclusive Offer From [Brand Name] - Featured on ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-s18e-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo S18e Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/navigating-the-digital-realm-uploading-with-premiere-and-youtube/"><u>Navigating the Digital Realm Uploading with Premiere & YouTube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/october-prime-day-exclusive-meta-unveils-splendid-512gb-quest-3-offer-top-picks-for-virtual-reality-enthusiasts/"><u>October Prime Day Exclusive: Meta Unveils Splendid 512GB Quest 3 Offer – Top Picks for Virtual Reality Enthusiasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/prime-day-alert-save-big-with-a-whopping-460-discount-on-the-microsoft-surface-pro-hu-ztechnews/"><u>Prime Day Alert: Save Big with a Whopping $460 Discount on the Microsoft Surface Pro ˈHu| ZTechNews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-deal-8tb-samsung-t5-nvme-ssds-available-at-a-steep-36-discount-on-amazon-insights-from-zdnet/"><u>Snag the Deal: 8TB Samsung T5 NVMe SSDs Available at a Steep 36% Discount on Amazon - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-edge-of-innovation-4-reasons-claudes-ai-outperforms-chatgpt/"><u>The Edge of Innovation: 4 Reasons Claude's AI Outperforms ChatGPT</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-gaming-laptop-discounts-get-the-gigabyte-a5-k1-for-40-off-this-black-friday-exclusive-offer/"><u>Unbeatable Gaming Laptop Discounts: Get the Gigabyte A5 K1 for 40% Off This Black Friday Exclusive Offer</u></a></li>
+</ul></div>
 

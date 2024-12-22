@@ -1,7 +1,7 @@
 ---
 title: "[Query]: What Are some Fascinating Examples of Animal Intelligence?"
-date: 2024-12-09T20:46:40.519Z
-updated: 2024-12-12T20:39:31.873Z
+date: 2024-12-21T06:55:31.553Z
+updated: 2024-12-21T20:00:51.167Z
 tags:
   - laptops
 categories:
@@ -20,7 +20,7 @@ This week, Microsoft held its fall Microsoft Surface launch event where the comp
 Surface remains one of Microsoft's most popular products, with revenue increasing 3% year-over-year by $226 million in the fourth quarter of its [2022 financial year](https://www.microsoft.com/en-us/Investor/earnings/FY-2022-Q3/more-personal-computing-performance#:~:text=Surface%20revenue%20increased%20%24195%20million,increased%20%24305%20million%20or%207%25.&text=Gross%20margin%20increased%20%24755%20million,and%20Search%20and%20news%20advertising.). But that wasn't always the case, and Surface represents a big shift in Microsoft's business over the last decade. Here is how the Surface earned its spot as one of Microsoft's best sellers. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Windows
@@ -119,24 +119,16 @@ Microsoft has to make sure that it continues to upgrade its Surface lineup to st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-discover-the-undiscovered-top-social-media-memes/"><u>[New] Discover the Undiscovered Top Social Media Memes</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-stop-in-app-video-buffering-issues-for-2024/"><u>[New] Stop In-App Video Buffering Issues for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-satire-skills-video-comedy-mastery-tips/"><u>[Updated] Satire Skills Video Comedy Mastery Tips</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/5-solutions-for-motorola-edge-40-neo-unlock-without-password-by-drfone-android/"><u>5 Solutions For Motorola Edge 40 Neo Unlock Without Password</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722970242815-effortless-setup-for-your-new-pioneer-dj-ddj-sx2-get-the-latest-driver-here/"><u>Effortless Setup for Your New Pioneer DJ DDJ-SX2 - Get the Latest Driver Here!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-low-light-techniques-for-iphone/"><u>Essential Low-Light Techniques for iPhone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-latest-innovations-with-toms-electronics-reviews/"><u>Exploring the Latest Innovations with Tom's Electronics Reviews</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/eye-catching-graphic-principles-for-podcast-titles-for-2024/"><u>Eye-Catching Graphic Principles for Podcast Titles for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-nvme-drivers-and-set-them-up-in-windows-easily/"><u>How to Get the Latest NVMe Drivers and Set Them Up in Windows Easily</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-your-hands-on-updated-nvidia-quadro-rtx-8000-drivers-for-win-11-8-and-7-systems/"><u>How to Get Your Hands on Updated Nvidia Quadro RTX 8000 Drivers for Win 11, 8 & 7 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-install-updated-drivers-for-your-epson-printer-on-windows-11/"><u>How to Successfully Install Updated Drivers for Your Epson Printer on Windows 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-vivo-s17t-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Vivo S17t Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-realme-gt-5-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Realme GT 5 Phone?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/september-marks-release-of-intels-ultra-series-launch-unveiling-cutting-edge-processors-powered-by-lunar-lake-technology/"><u>September Marks Release of Intel's Ultra Series Launch: Unveiling Cutting-Edge Processors Powered by Lunar Lake Technology</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-next-level-performance-introducing-amperes-powerful-51nterous-ampereone-aurora-processor-boosted-by-advanced-ai-and-hbm-support/"><u>Unlock Next-Level Performance: Introducing Ampere's Powerful 51Nterous AmpereOne Aurora Processor, Boosted by Advanced AI and HBM Support</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-secrets-behind-top-notch-tech-gadgets-at-toms-hardware-hub/"><u>Unveiling the Secrets Behind Top-Notch Tech Gadgets at Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updated-hp-printer-software-for-windows-11-easy-download-guide/"><u>Updated HP Printer Software for Windows 11: Easy Download Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-insight-into-excellence-a-detailed-guide-to-mastering-vivacut-editing/"><u>[New] Insight Into Excellence A Detailed Guide to Mastering VivaCut Editing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-streamline-video-calls-using-google-hangouts-efficiently/"><u>[Updated] In 2024, Streamline Video Calls Using Google Hangouts Efficiently</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/anticipated-announcements-at-apples-oct-event-the-new-m4-mac-mini-and-upcoming-ipad-releases/"><u>Anticipated Announcements at Apple's Oct Event: The New M4 Mac Mini & Upcoming iPad Releases</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-laptop-with-a-4k-docking-station-bring-ultra-high-definition-displays-without-upgraded-internal-tech-insights-from-zdnet/"><u>Enhance Your Laptop with a 4K Docking Station: Bring Ultra-High Definition Displays Without Upgraded Internal Tech - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-dual-functionality-of-lenovos-new-hybrid-device-a-windows-laptop-and-android-tablet-with-remarkable-capabilities-review/"><u>Exploring the Dual-Functionality of Lenovo's New Hybrid Device: A Windows Laptop & Android Tablet with Remarkable Capabilities Review</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-itel-p40-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Itel P40</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-conquering-content-diversity-with-verticalized-h-video-posts/"><u>In 2024, Conquering Content Diversity with Verticalized H-Video Posts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximize-your-pcs-potential-overcome-fps-decrease-in-forza-horizon-5-fixed/"><u>Maximize Your PC's Potential: Overcome FPS Decrease in Forza Horizon 5 [FIXED]</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-looking-for-a-change-top-10-adobe-premiere-elements-alternatives-to-consider-for-2024/"><u>New Looking for a Change? Top 10 Adobe Premiere Elements Alternatives to Consider for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/slash-your-clutter-discover-the-ultimate-11-in-1-docking-station-at-a-44-discount-insights/"><u>Slash Your Clutter: Discover the Ultimate 11-in-1 Docking Station at a 44% Discount - Insights</u></a></li>
 </ul></div>
 

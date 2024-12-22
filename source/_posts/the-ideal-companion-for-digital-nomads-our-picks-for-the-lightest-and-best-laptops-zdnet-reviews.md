@@ -1,7 +1,7 @@
 ---
 title: "The Ideal Companion for Digital Nomads: Our Picks for the Lightest & Best Laptops | ZDNet Reviews"
-date: 2024-12-05T19:19:18.501Z
-updated: 2024-12-12T16:02:21.527Z
+date: 2024-12-16T06:17:08.433Z
+updated: 2024-12-21T21:36:50.191Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/00d8a989d7a324ab139f90cea816e72b6f2451ab8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -93,7 +93,7 @@ Compared to a MacBook, one could argue that the Yoga Slim 7x is at least better 
 The MacBook is better suited for the iOS ecosystem, however Lenovo has been making strides in developing a data transfer feature between its laptop and iPhones. So if you're not sure which one to get, the Yoga Slim 7x might be the better long-term investment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,22 +134,16 @@ Creators might also appreciate the fact that Lenovo is also giving [two free mon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-from-raw-footage-crafting-engaging-videos-on-windows-11/"><u>[Updated] From Raw Footage Crafting Engaging Videos on Windows 11</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-developing-dynamic-instagram-highlight-summaries/"><u>2024 Approved Developing Dynamic Instagram Highlight Summaries</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-realme-11-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Realme 11 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723262355587-create-your-portable-desktop-amd-ryzen-pc-in-a-mini-keyboard-with-trackpad-and-battery-attach-only-monitor-to-complete-setup/"><u>Create Your Portable Desktop: AMD Ryzen PC in a Mini Keyboard with Trackpad & Battery, Attach Only Monitor to Complete Setup!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/diagnosing-and-restoring-your-malfunctioning-samsung-blu-ray-player/"><u>Diagnosing and Restoring Your Malfunctioning Samsung Blu-Ray Player</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-lenovo-ideapad-100-drivers-complete-guide-for-windows-11-users/"><u>Download & Update Lenovo IdeaPad 100 Drivers: Complete Guide for Windows 11 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-your-logitech-k350-drivers-with-this-guide/"><u>Download Your Logitech K350 Drivers with This Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-updating-thunderbolt-3-drivers-on-windows-1187/"><u>Easy Guide to Downloading & Updating Thunderbolt 3 Drivers on Windows 11/8/7</u></a></li>
-<li><a href="https://win-tips.techidaily.com/enabling-hyper-vs-remote-administration-capabilities-a-comprehensive-tutorial/"><u>Enabling Hyper-V's Remote Administration Capabilities – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-latest-buzz-on-xbox-vr-gear-projections-of-costs-and-release-timelines/"><u>Exploring the Latest Buzz on Xbox VR Gear: Projections of Costs and Release Timelines</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-14-pro-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 14 Pro with iTunes | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hassle-free-guide-to-finding-and-installing-canon-software-on-windows/"><u>Hassle-Free Guide to Finding and Installing Canon Software on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-latest-logitech-c92c-webcam-software-for-windows-10-and-8/"><u>How to Get Latest Logitech C92C Webcam Software for Windows 10 & 8</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-social-media-savvy-instagrams-best-tips-for-gif-uploads-and-posting/"><u>In 2024, Social Media Savvy Instagram's Best Tips for GIF Uploads and Posting</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/learn-to-edit-like-a-pro-with-this-ultimate-final-cut-pro-instructional-series/"><u>Learn to Edit Like a Pro with This Ultimate Final Cut Pro Instructional Series</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovo-t500-drivers-download-and-upadte-easily/"><u>Lenovo T500 Drivers Download & Upadte Easily</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-process-easily-upgrade-your-microsoft-drivers-in-windows-operating-systems-7810/"><u>Step-by-Step Process: Easily Upgrade Your Microsoft Drivers in Windows Operating Systems (7/8/10)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-secrets-of-snapsharing-creating-invisible-chronicles/"><u>[New] In 2024, Secrets of Snapsharing Creating Invisible Chronicles</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-elevate-your-lone-broadcast-tips-from-single-source-experts-for-2024/"><u>[Updated] Elevate Your Lone Broadcast Tips From Single-Source Experts for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/3000-delight-exploring-the-high-end-game-on-dells-luxurious-laptop-and-its-surprising-perks-insights-for-tech-enthusiasts/"><u>$3,000 Delight: Exploring the High-End Game on Dell’s Luxurious Laptop & Its Surprising Perks - Insights for Tech Enthusiasts!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/anticipating-the-arrival-of-iphone-16-discover-the-most-recent-insights-and-predictions-available-now/"><u>Anticipating the Arrival of iPhone 16? Discover The Most Recent Insights and Predictions Available Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huge-discount-save-300-on-the-asus-vivobook-pro-now-available-exclusively-on-amazon-tech-insight/"><u>Huge Discount: Save $300 on the Asus VivoBook Pro Now Available Exclusively on Amazon Tech Insight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-era-of-bots-is-ai-claude-the-future-star/"><u>New Era of Bots: Is AI Claude the Future Star?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-entry-not-found-error-in-windows/"><u>Quick Fix for Entry Not Found Error in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-guide-extending-windows-menu-options-in-xp-7-8-and-10/"><u>Tech Guide: Extending Windows Menu Options in XP, 7, 8 & 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-performance-on-a-budget-discovering-the-top-non-thinkpadmacbook-productivity-laptop-now-30-off-during-prime-day-insights/"><u>Unbeatable Performance on a Budget: Discovering the Top Non-ThinkPad/MacBook Productivity Laptop, Now 30% Off During Prime Day - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unmissable-cyber-monday-savings-razer-blade-14-slashes-prices-by-920-snap-up-deals-on-gaming-laptops-with-zdnet/"><u>Unmissable Cyber Monday Savings: Razer Blade 14 Slashes Prices by $920 | Snap-Up Deals on Gaming Laptops with ZDNET</u></a></li>
+<li><a href="https://os-tips.techidaily.com/your-iphone-will-host-contacts-list-in-new-app-soon-heres-why-it-matters/"><u>Your iPhone Will Host Contacts List in New App Soon - Here's Why It Matters</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Insider Techniques: Master Code Tests for Evaluating Secondhand Android Smartphones"
-date: 2024-09-01T05:42:15.709Z
-updated: 2024-09-02T05:42:15.709Z
+date: 2024-12-16T23:03:00.656Z
+updated: 2024-12-21T19:53:05.398Z
 tags:
   - android
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/3b1acf72418bcbc32cbafc2ecf801ef760b09fcf6
 * [Test the Charging Port and Headset Port](https://hardware-help.techidaily.com/getting-your-windows-computer-up-and-running-in-no-time-with-corsair-driver-download/)
 * [Test the Sensors](https://youtube-clips.techidaily.com/updated-captivate-audiences-unveiling-secrets-for-striking-youtube-banners/)
 * [Test Battery Health](https://win-howtos.techidaily.com/logitechs-leap-forward-wireless-woes-end/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -59,10 +63,11 @@ thumbnail: https://thmb.techidaily.com/3b1acf72418bcbc32cbafc2ecf801ef760b09fcf6
 
 ![Secret Android code for diagnostics entered into the dialler.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/cis-code.png) 
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![Hidden settings for testing Android hadware.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1716229820401.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close 
 
@@ -72,19 +77,16 @@ Close
 
 ![Highlighted check info button in the testing menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/check-info.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![Hardware info page revealing the IMEI numbers on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/info.png) 
 
 ![IMEI test results with a clean IMEI number.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/imei-check.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close 
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Test the Buttons and Vibration Motor
 
  On the main menu, tap “Keyboard Test” to test the physical buttons on the phone. When you press a button, it should light up green. Faulty buttons will appear red. The phone I’m testing has three buttons, all working perfectly.
@@ -92,15 +94,11 @@ Close
 ![Keyboard test menu item in the CIT tools.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/key.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Successfully testing physical buttons on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/key-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 Close 
 
  Once satisfied, tap “Pass” to automatically move to the vibration motor test. Tap “No Vibration," “Vibration Interval," and “Continuous Vibration” to make sure the motor works in different modes. Tap “Pass” to mark it.
@@ -109,10 +107,11 @@ Close
 
 ![Different vibration motor modes being tested on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1716229820357.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 Close 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Test the Screen
 
@@ -120,28 +119,24 @@ Close
 
 ![Menu item for triggering the screen test on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screen.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Android device backlight test.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screen-1-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close 
 
  After that, you’ll land on the touch sensor test, which is just a bunch of blocks that fill in when you touch them. Next up is the color test. Touch the screen to start the test and scroll through the solid colors. You’re looking for any bright or dark spots on the screen.
 
 ![Testing the touch sensors on an Android device.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screen-3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Testing screen colors on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screen-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close 
 
  Once you’ve made sure that the colors are showing up consistently, tap “Pass.” And with that, you’ve successfully tested the display.
@@ -154,18 +149,12 @@ Close
 
 ![Testing the speakerphone on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/call-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
 
  Once again, you’ll press the numbers read out loud to you. Mark it “Pass,” and you’ll get the mic test. Say something close to the mic and see if the phone picks up the sound.
 
 ![Testing the phone mic on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/call-3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Test the Charging Port and Headset Port
 
  Newer premium phones don’t have those anymore, but 3.5mm headphone ports are still common among budget Android phones. Tap “Headset Test” and connect a wired headset. It’ll automatically record ambient sound using the headset mic and play it back through the headset. You can also test the headset buttons here. Take the headset out to complete the test.
@@ -182,9 +171,6 @@ Close
 
 ![Charging port being tested on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/charger-1-1.jpg) 
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 Close 
 
  If the current reading is below 1A, the cable itself might be faulty, so I recommend testing with a different cable just to make sure.
@@ -198,23 +184,22 @@ Close
 ![Fingerprint sensor test results showing a faulty sensor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1716229820169.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Testing fingerprint enrollment on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/fingerprint-3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 Close 
 
  Next up is the proximity sensor. Tap “Proximity Sensor,” cover the front of the phone with your hand and watch the value change. If it doesn’t change, the sensor is broken and it won’t turn off your screen when you pick up a call.
 
 ![Highlighting the proximity sensor test button on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/prox.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Proximity sensor test in progress on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/prox-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Arrow highlighting a successful proximity sensor test on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/prox-3.jpg) 
 
@@ -224,23 +209,14 @@ Close
 
 ![Arrow highlighting the the accelerometer test button on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/acc.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Accelerometer test in progress on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/accelerometer.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
 
  The light sensor automatically controls your screen brightness. To test it, tap “Light Sensor,” bring the phone close to a source of light, and wait for the DAC value to change.
 
 ![Triggering the light sensor test on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/light.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Successful light sensor test on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/light-2.jpg) 
 
 Close 
@@ -251,14 +227,14 @@ Close
 
 ![Automatic Wi-Fi and Bluetooth test in progress on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/wifi-2.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Pass tags indicating successful Wi-Fi and Bluetooth hardware checks on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/wifi-3.jpg) 
 
 Close 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ##  Test Battery Health
 
  You’ll need a separate code to check the battery's health. On Xiaomi, Redmi, and Poco devices, open the dialler app and type \*#\*#6485#\*#\*. Once again, you can search “battery health secret code + the phone’s brand name” to find the right code for the device you’re testing.
@@ -277,8 +253,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -286,4 +260,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-essential-tips-for-glow-in-the-dark-portraiture/"><u>[Updated] 2024 Approved Essential Tips for Glow-in-the-Dark Portraiture</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-discover-the-richest-content-for-maximum-ig-revenue-for-2024/"><u>[Updated] Discover the Richest Content for Maximum IG Revenue for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-becoming-a-specialist-in-srt-text-management/"><u>[Updated] In 2024, Becoming a Specialist in SRT Text Management</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-master-image-security-with-best-watermarks-software-for-2024/"><u>[Updated] Master Image Security with Best Watermarks Software for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103291054-bypass-the-frustrating-itbm-driver-not-available-message-quick-and-effective-fixes-inside/"><u>Bypass the Frustrating 'ITBM Driver Not Available' Message – Quick and Effective Fixes Inside!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-reviews-ultimate-guide-to-the-best-ram-upgrades-of-2023-for-professionals-and-gamers/"><u>Expert Reviews: Ultimate Guide to the Best RAM Upgrades of 2023 for Professionals and Gamers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/explore-cutting-edge-techniques-in-vivacut-detailed-review-and-guide-2024/"><u>Explore Cutting Edge Techniques in VivaCut Detailed Review & Guide 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-metas-exceptional-offer-the-512gb-quest-3-presents-unbeatable-value-in-todays-virtual-reality-market-insights-from-zdnet/"><u>Explore Meta's Exceptional Offer: The 512GB Quest 3 Presents Unbeatable Value in Today's Virtual Reality Market - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-hardware-with-toms-technology-chronicles/"><u>Exploring Hardware with Tom's Technology Chronicles</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/game-enthusiasts-guide-to-early-black-friday-deals-october-2024-special-discounts-on-zdnet/"><u>Game Enthusiasts' Guide to Early Black Friday Deals - October 2024 Special Discounts on ZDNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-realme-10t-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Realme 10T 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/rugged-laptop-reviews-withstands-dramatic-drop-test-at-waist-level/"><u>Rugged Laptop Reviews : Withstands Dramatic Drop-Test at Waist Level!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-big-in-savings-unlock-250-off-the-powerful-acer-nitro-5-for-gamers-exclusive-offer-at-zdnet/"><u>Score Big in Savings: Unlock $250 Off the Powerful Acer Nitro 5 for Gamers | Exclusive Offer at ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-hp-copilotplus-as-a-game-changer-in-remote-work-success-insights-and-proof-from-zdnets-test-run/"><u>The HP Copilot+ as a Game-Changer in Remote Work Success – Insights and Proof From ZDNet's Test Run</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-unvarnished-truth-about-dells-latest-innovations-in-their-xps-lineup-expert-reviews-at-zdnet/"><u>The Unvarnished Truth About Dell's Latest Innovations in Their XPS Lineup | Expert Reviews at ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-110-unbeatable-christmas-offers-on-tech-gadgets-including-ipads-televisions-and-notebooks-your-guide-to-savings-with-zdnet/"><u>Top 110 Unbeatable Christmas Offers on Tech Gadgets Including iPads, Televisions & Notebooks – Your Guide to Savings with ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/unplugging-troubles-stay-aware-of-power-save-mode/"><u>Unplugging Troubles: Stay Aware of Power Save Mode</u></a></li>
+</ul></div>
 

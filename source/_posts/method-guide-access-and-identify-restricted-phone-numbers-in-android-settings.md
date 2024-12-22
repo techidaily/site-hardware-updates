@@ -1,7 +1,7 @@
 ---
 title: "Method Guide: Access and Identify Restricted Phone Numbers in Android Settings"
-date: 2024-09-01T05:41:30.469Z
-updated: 2024-09-02T05:41:30.469Z
+date: 2024-12-17T10:25:35.570Z
+updated: 2024-12-22T09:50:18.328Z
 tags:
   - android
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 
  We'll take three approaches to view your list of blocked contacts on Android: through the Phone app, Google Contacts app, and the Messages app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Why Block Contacts
 
 [Blocking contacts](https://printer-issues.techidaily.com/steps-to-troubleshoot-unresponsive-hp-print-subsystems/) primarily helps you [filter out unwanted calls and messages](https://techtrends.techidaily.com/guide-ensuring-your-email-address-securely-listed-online/) from spammers, telemarketers, or even ex-associates. It ensures that you are not bothered by unsolicited communication.
@@ -37,15 +41,17 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 ![Blocked Numbers Tab in Phone App Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/blocked-numbers-in-phone-settings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This will open up a list of all the blocked numbers on your device.
 
 ![List of blocked numbers on Android phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/blocked-numbers-list-android.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Again, this may look different depending on your device, but there should be a section in the settings somewhere to see a list of blocked numbers.
 
 ##  Using The Google Contacts App
@@ -58,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 
  That's all there is to it!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Using The Messages App
 
  Checking for blocked contacts through your phone's Messages app will show you all the text messages that you didn't receive from spam and blocked numbers.
@@ -70,20 +73,19 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 ![Spam and blocked tab in Messages app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/spam-and-blocked-tab-in-messages-menu-android.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This will show you all texts from blocked numbers. It's a good way to occasionally check to make sure you didn't miss something you wanted to see.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How To Unblock Contacts
 
  To unblock contacts, you can usually just tap on the number or the "X" beside it from the list of blocked numbers. The list can typically be found at Settings > Blocked Numbers. Check out our [full guide on unblocking numbers](https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-asus-rog-phone-8-pro-fixed-drfone-by-drfone-virtual-android/) for more detailed instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Tell if You've Been Blocked
 
  Sometimes, you might be on the receiving end of the blocking action. And when it happens, there are no alerts or notifications to tell you if you have been blocked. But you might suspect that you've been blocked if your calls don't go through when you call the number or if it always redirects to voicemail. But then, the person's phone might just be switched off.
@@ -96,8 +98,6 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +105,21 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-playback-operation-for-srt-across-operating-systems/"><u>[New] In 2024, Playback Operation for SRT Across Operating Systems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-design-marvels-japanese-homescape-in-mc-landscape/"><u>[Updated] Design Marvels Japanese Homescape in MC Landscape</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-exploring-varieties-in-gesture-tech/"><u>[Updated] In 2024, Exploring Varieties in Gesture Tech</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-bargains-on-amazon-for-octoprime-2024-exclusive-deals-that-are-still-going-on-techradar/"><u>Best Bargains on Amazon for OctoPrime 2024 - Exclusive Deals That Are Still Going On! | TechRadar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compact-yet-capable-a-review-of-the-surprisingly-multifaceted-smallest-chromebook-on-zdnets-test-bench/"><u>Compact Yet Capable: A Review of The Surprisingly Multifaceted Smallest Chromebook on ZDNet's Test Bench</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-hands-on-the-latest-behringer-sound-card-software-directly-here/"><u>Get Your Hands on the Latest Behringer Sound Card Software Directly Here</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-nokia-g42-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Nokia G42 5G Devices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-vivo-v30-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Vivo V30 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-machines-might-proven-strategies-to-extend-battery-life-on-a-windows-pc-guidance-by-tech-experts-at-zdnet/"><u>Maximize Your Machine’s Might: Proven Strategies to Extend Battery Life on a Windows PC | Guidance by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722987245835-no-more-game-crashes-decode-and-repair-your-cod-vanguard-en-error-0x00001338-on-pc-now/"><u>No More Game Crashes – Decode and Repair Your COD Vanguard E:N (Error 0X00001338) on PC Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/reverted-to-windows-home-by-accident-during-pc-reset-discover-steps-to-regain-your-premium-license/"><u>Reverted to Windows Home by Accident During PC Reset? Discover Steps to Regain Your Premium License!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-big-with-last-chance-savings-top-38-must-have-costco-cyber-monday-offers-for-electronics/"><u>Score Big with Last Chance Savings: Top 38 Must-Have Costco Cyber Monday Offers for Electronics</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/top-10-revolutionary-singing-software-for-soloists-on-the-move/"><u>Top 10 Revolutionary Singing Software for Soloists on the Move</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-best-two-in-one-gadget-of-the-year-with-an-overlooked-workplace-advantage-expert-reviews/"><u>Unveiling the Best Two-in-One Gadget of the Year with an Overlooked Workplace Advantage | Expert Reviews</u></a></li>
+</ul></div>
 

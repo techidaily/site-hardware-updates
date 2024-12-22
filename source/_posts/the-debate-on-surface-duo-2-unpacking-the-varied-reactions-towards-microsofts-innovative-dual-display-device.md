@@ -1,7 +1,7 @@
 ---
 title: "The Debate on Surface Duo 2: Unpacking the Varied Reactions Towards Microsoft's Innovative Dual-Display Device"
-date: 2024-09-01T05:44:55.544Z
-updated: 2024-09-02T05:44:55.544Z
+date: 2024-12-18T17:10:01.200Z
+updated: 2024-12-22T06:15:32.131Z
 tags:
   - android
 categories:
@@ -11,12 +11,20 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
 ## The Debate on Surface Duo 2: Unpacking the Varied Reactions Towards Microsoft's Innovative Dual-Display Device
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Surface Duo 2 Reviews](https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-realme-12plus-5g-drfone-by-drfone-virtual-android/)
 * [Software Is the Problem](https://article-helps.techidaily.com/updated-ultimate-live-setting-picks/)
 
  There's a lot of talk over [foldable phones](https://instagram-videos.techidaily.com/make-your-content-stand-out-with-instagrams-procedural-slow-mo-journey/) and whether they're the future of smartphones. Microsoft decided to go a slightly different route to get a giant screen phone in the Surface Duo 2\. The phone is out now, and so are the mixed reviews for Microsoft's dual-screen phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Surface Duo 2 Reviews
 
@@ -44,9 +52,9 @@ Related: [Microsoft's Surface Duo 2 Blows the Original Away](https://sim-unlock.
  Outside of the traditional tech websites, [CNN](https://www.cnn.com/2021/10/21/cnn-underscored/microsoft-surface-duo-2-review/index.html) also published a review of the Microsoft Surface Duo 2\. Overall, it sounds like reviewer Jacob Krol is quite happy with the phone. The review kicks off with the following: "Polish and refinement --- the two words to sum up Microsoft's Surface Duo 2\. After several days with this dual-screen phone, it's clear that Microsoft corrected mistakes and listened to feedback with the Duo 2." Krol summed up the phone by saying, "Duo 2 is ultimately best for someone who wants to focus on two apps at once and seeks a device that puts productivity at the very center."
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Software Is the Problem
 
  While it seems like Microsoft really listened to the complaints thrown it after the release of the original [Surface Duo](https://www.reviewgeek.com/56416/surface-duo-review-a-desktop-in-my-pocket/) from a hardware perspective, it doesn't appear that the company managed to get the software right. While the phone seems to be a lot better than the first-generation, it looks like it still has some work to do to justify that $1,500 price tag.
@@ -54,8 +62,9 @@ Related: [Microsoft's Surface Duo 2 Blows the Original Away](https://sim-unlock.
 ![6478249_sd-2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/6478249_sd-2.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  Surface Duo 2 5G 128GB
 
 The Surface Duo 2 is out right now and you can order one, though it's not cheap.
@@ -68,8 +77,6 @@ The Surface Duo 2 is out right now and you can order one, though it's not cheap.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -77,4 +84,20 @@ The Surface Duo 2 is out right now and you can order one, though it's not cheap.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/treamline-channels-effortlessly-top-10-online-design-aids-for-2024/"><u>[New] Streamline Channels Effortlessly Top 10 Online Design Aids for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-essential-guide-to-dslr-and-live-streaming-on-computers/"><u>[Updated] In 2024, Essential Guide to DSLR and Live Streaming on Computers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-maximizing-mobile-smartphones-and-youtube-success-for-2024/"><u>[Updated] Maximizing Mobile Smartphones & YouTube Success for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazons-8tb-samsung-t5-ssd-remains-discounted-by-36-post-october-prime-deals-insights-for-tech-enthusiasts-on-zdnet/"><u>Amazon's 8TB Samsung T5 SSD Remains Discounted by 36% Post-October Prime Deals - Insights for Tech Enthusiasts on ZDNet</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/best-5-complimentary-tools-for-crafting-e-books-a-top-ranked-guide/"><u>Best 5 Complimentary Tools For Crafting E-Books: A Top Ranked Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-to-the-linksys-ea8300-wireless-router-multi-device-connectivity-explored/"><u>Comprehensive Guide to the Linksys EA8300 Wireless Router: Multi-Device Connectivity Explored</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/discovering-the-best-screen-recorder-obs-studio-vs-fraps/"><u>Discovering the Best Screen Recorder OBS Studio Vs Fraps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/financial-investment-for-youtube-ads-success-for-2024/"><u>Financial Investment for Youtube Ads Success for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/is-this-lenovo-thinkpad-your-ideal-choice-for-an-unbeatable-ultra-portable-laptop-insights/"><u>Is This Lenovo ThinkPad Your Ideal Choice for an Unbeatable Ultra-Portable Laptop? - Insights</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-your-roblox-launching-problems-expert-tips-and-techniques-for-2n22-gamers/"><u>Solve Your Roblox Launching Problems: Expert Tips and Techniques for 2N22 Gamers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-tier-screen-quality-meets-unbeatable-price-in-the-latest-lightweight-notebook-techbargainsexposed/"><u>Top-Tier Screen Quality Meets Unbeatable Price in the Latest Lightweight Notebook | TechBargainsExposed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleashing-creative-potential-discover-the-hidden-powerhouse-in-this-understated-asus-laptop-exclusive-zdnet-review/"><u>Unleashing Creative Potential: Discover the Hidden Powerhouse in This Understated Asus Laptop - Exclusive ZDNet Review</u></a></li>
+</ul></div>
 

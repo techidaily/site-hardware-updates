@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Black Friday Bargain: Snag Lenovo's Flex 지난에 $99 Deal Before Cyber Monday Chaos | ZDNET"
-date: 2024-12-06T02:28:47.781Z
-updated: 2024-12-12T17:47:15.897Z
+date: 2024-12-14T20:21:06.724Z
+updated: 2024-12-22T10:30:36.879Z
 tags:
   - laptops
 categories:
@@ -16,7 +16,7 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 Cyber Monday is one of the best times of the year to purchase your next laptop or tablet. Considerable discounts plus major brands equal unparalleled savings. Say you're working within a limited budget, though -- under $100 or under $500\. I compared the best laptops by their standout features, including processing power, RAM, and operating system, to arrive at the best laptop under $500 and under $100 this Cyber Monday.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -24,7 +24,7 @@ Cyber Monday is one of the best times of the year to purchase your next laptop o
 [![04-bf-cm.png](https://www.zdnet.com/a/img/resize/954e855aae296b0590d40ff6eba4167fd27f3d67/2022/11/29/2911e8eb-1a11-4aa3-8ff7-015c7e854046/04-bf-cm.png?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Black Friday and Cyber Monday tech deals still available If you missed out on this year's mega sale events, no problem. ZDNET is rounding up the best tech deals still available, right here.  Read now](https://www.zdnet.com/collection/cyber-monday/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In the under $500 category, you get the highest savings on the [HP Pavilion 15t-eg200 laptop](https://www.tkqlhce.com/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-pavilion-laptop-15t-eg200-laptop-4u8e0av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The 15.6-inch laptop is on sale through HP for $450 -- a markdown of $450 from its original $900 price. It comes with a Windows 11 Home operating system, an Intel® Core™ i5 processor, an Intel® Iris® Xe Graphics card, 8 GB memory, and 256 GB storage. It has a fingerprint reader, a long lasting battery that supports fast charging of about 50% in 45 minutes, and an HD wide vision 720p HD camera that's perfect for Zoom calls with noise reduction and integrated microphones. 
@@ -73,15 +73,21 @@ If your budget is in the under $100 category, and you want the best value for yo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/xpert-mp3-creation-guide-top-video-to-audio-devices/"><u>[New] Expert MP3 Creation Guide Top Video-to-Audio Devices</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-understanding-facebooks-new-ranking-system-for-2024/"><u>[Updated] Understanding Facebook's New Ranking System for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-to-installing-toshiba-printer-software-in-windows-environments/"><u>Comprehensive Guide to Installing Toshiba Printer Software in Windows Environments</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-how-walmartplus-offers-unmatched-shopping-value/"><u>Exploring How Walmart+ Offers Unmatched Shopping Value</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-logitech-g-pro-wireless-controller-download-now-for-windows/"><u>Get Your Hands on Logitech G PRO Wireless Controller – Download Now for Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-the-correct-dell-wireless-drivers/"><u>How to Download and Install the Correct Dell Wireless Drivers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-enable-live-sound-input-for-obs-on-windows-11/"><u>How to Enable Live Sound Input for OBS on Windows 11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installing-the-latest-amd-gpu-drivers-for-windows-systems/"><u>Installing the Latest AMD GPU Drivers for Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-for-error-during-oculus-vr-windows-install/"><u>Quick Fix for Error During Oculus VR Windows Install</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-solutions-fixing-ralink-rt3290-wi-fi-drivers-on-windows-10-8-and-ebuild/"><u>Troubleshooting Solutions: Fixing Ralink RT3290 Wi-Fi Drivers on Windows 10, 8 & Ebuild</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-channel-success-story-turning-budget-into-brands/"><u>[New] 2024 Approved Channel Success Story Turning Budget Into Brands</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-easy-to-follow-guide-recording-non-root-android-sounds/"><u>[New] 2024 Approved Easy-to-Follow Guide Recording Non-Root Android Sounds</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-innovative-prime-lenses-for-top-tier-film-projects/"><u>[New] 2024 Approved Innovative Prime Lenses for Top-Tier Film Projects</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-streamlining-color-correction-with-premiere-pro-luts/"><u>[New] 2024 Approved Streamlining Color Correction with Premiere Pro LUTs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capturing-the-moment-leading-recorder-analysis-for-2024/"><u>[Updated] Capturing the Moment Leading Recorder Analysis for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-skyhigh-snapshot-top-5-time-lapse-videos/"><u>2024 Approved Skyhigh Snapshot - Top 5 Time-Lapse Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/2024s-elite-lenovo-laptop-lineup-comprehensive-testing-and-insightful-review/"><u>2024'S Elite Lenovo Laptop Lineup: Comprehensive Testing and Insightful Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-my-entire-tech-setup-transformed/"><u>A Week with an Ergonomic Split Keyboard: How My Entire Tech Setup Transformed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-amazon-bargains-before-prime-day-2024-top-savings-spots-featured/"><u>Best Amazon Bargains Before Prime Day 2024: Top Savings Spots Featured</u></a></li>
+<li><a href="https://windows11.techidaily.com/dive-into-windows-11-auditory-setup-and-use/"><u>Dive Into Windows 11 Auditory Setup and Use</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-y100-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo Y100 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-apple-iphone-13-pro-max-how-to-unlock-a-disabled-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 13 Pro Max How to Unlock a Disabled Apple iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-an-unbeatable-price-on-hp-victus-15-gaming-laptop-exclusive-515-offer-during-best-buys-prime-day-sale-techradar/"><u>Score an Unbeatable Price on HP Victus 15 Gaming Laptop - Exclusive $515 Offer During Best Buy's Prime Day Sale | TechRadar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-dual-function-gadget-of-the-year-revealed-by-zdnet-featuring-an-office-game-changer/"><u>The Ultimate Dual-Function Gadget of the Year Revealed by ZDNet, Featuring an Office Game Changer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-dual-purpose-tech-of-the-year-unlocking-its-underappreciated-office-potential/"><u>Top Rated Dual-Purpose Tech of The Year - Unlocking Its Underappreciated Office Potential</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-alert-top-tier-gaming-audio-experience-awaits-at-best-buy-discover-why-this-test-drive-took-my-breath-away/"><u>Unbeatable Deal Alert: Top-Tier Gaming Audio Experience Awaits at Best Buy - Discover Why This Test Drive Took My Breath Away!</u></a></li>
 </ul></div>
 

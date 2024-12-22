@@ -1,7 +1,7 @@
 ---
 title: "AMD-Powered Upgrade: Introducing the All-New Frameworks 13 - A Modular Gaming Laptop for Enhanced Performance News"
-date: 2024-12-07T19:44:02.964Z
-updated: 2024-12-13T01:52:48.501Z
+date: 2024-12-15T16:59:23.786Z
+updated: 2024-12-22T02:21:51.368Z
 tags:
   - laptops
 categories:
@@ -35,11 +35,11 @@ Cons
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## G.Skill RipJaws S5
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best RAM overall
 
@@ -90,14 +90,10 @@ Cons
 * Pricey
 * May not be compatible with some newer DDR5-enabled motherboards
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## G.Skill Trident Z RGB
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best RAM for gaming
@@ -158,7 +154,7 @@ Whether you're sticking to a budget while building a PC, or don't want to spend 
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best RAM?
@@ -189,10 +185,6 @@ If you're wanting to set up or upgrade a server, you'll want to choose a RAM opt
 | Kingston Fury Renegade Pro    | A RAM upgrade for a dedicated server. This bundle includes four 32GB RAM sticks, each of which is pre-registered as server memory to streamline the upgrade process. |
 | Patriot Signature             | A budget-friendly RAM upgrade. The 2-8GB stick bundle retails for under $50.                                                                                         |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did I choose each RAM?
 
 While researching RAM for this best list, I kept these criteria in mind:
@@ -202,7 +194,7 @@ While researching RAM for this best list, I kept these criteria in mind:
 * **Performance:** Each option on this list has been researched to ensure that the RAM conforms to minimum system requirements for popular programs like web browsers, Adobe Creative Cloud, and gaming.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I use all four RAM slots? Or leave two open?
@@ -211,17 +203,21 @@ You can absolutely use all four RAM slots on your motherboard, but there's a cav
 
 If one pair of RAM sticks are rated for lower clock speeds than the other, your computer will try to match all four RAM to the lower speed. Usually this doesn't cause major issues, but you may see some stuttering while playing demanding games or multitasking in work programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is 64GB of RAM too much?
 
 For most people, 64GB of RAM is absolutely overkill. Even for a decent gaming PC, most users won't need more than 16GB. Content creators who use streaming or recording software while playing games and creative professionals who work in 3D modeling or video programs may need 64GB of RAM to help render finished videos, photos, and models (and some workstations have up to 128GB of RAM, but these are usually reserved for PC rigs used for professional filmmaking, game production, or super-computing).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is DDR4 RAM still good?
 
 If you're shopping for new RAM to drop into your PC and wonder what the difference between DDR4 and DDR5 is: it's basically an indicator of hardware generation. While DDR4 is an older form-factor, it's still a viable option -- especially if you're looking to save a bit of cash. You can still find motherboards and CPUs that support DDR4 RAM, and you'll get similar base and overclocking results as newer DDR5 products. Though you may see performance issues in asset-heavy programs like Photoshop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative RAM picks worth considering?
 
@@ -288,6 +284,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 * [The best Android phones you can buy (including a surprise pick)](https://www.zdnet.com/article/best-android-phone/ "The best Android phones you can buy (including a surprise pick)")
 * [The best robot vacuum and mop combos (and if they're worth the money)](https://www.zdnet.com/article/best-robot-vacuum-mop/ "The best robot vacuum and mop combos (and if they're worth the money)")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###   
 
 ###
@@ -307,20 +307,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-master-the-art-of-captivating-instagram-video-audiences/"><u>[Updated] 2024 Approved Master the Art of Captivating Instagram Video Audiences</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-explore-top-10-no-cost-digital-photography-tools/"><u>[Updated] Explore Top 10 No-Cost Digital Photography Tools</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-unlock-your-creative-potential-top-7-hidden-tiktok-emojis/"><u>[Updated] Unlock Your Creative Potential Top 7 Hidden TikTok Emojis</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-enhance-your-videography-youtube-studio-edition-techniques/"><u>2024 Approved Enhance Your Videography YouTube Studio Edition Techniques</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-pce-ac56-driver-issues-in-windows-1087-solved/"><u>ASUS PCE-AC56 Driver Issues in Windows 10/8/7 [SOLVED]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-tutorial-on-acquiring-asus-atk01-00-acpi-drivers/"><u>Comprehensive Tutorial on Acquiring ASUS ATK01 00 ACPI Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-focusrite-scarlett-solo-professional-audio-interface-on-windows/"><u>Download Focusrite Scarlett Solo Professional Audio Interface on Windows!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-official-nvidia-geforce-rtx-3070-ti-drivers-compatible-with-windows-1087/"><u>Download Official NVIDIA GeForce RTX 3070 Ti Drivers Compatible with Windows 10/8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-canon-d530-camera-firmware-version-download-here/"><u>Get the Newest Canon D530 Camera Firmware Version - Download Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-asus-monitor-up-and-running-seamless-driver-installation/"><u>Get Your ASUS Monitor Up and Running: Seamless Driver Installation</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/how-to-blend-in-as-an-audience-member-on-tiktok-for-2024/"><u>How to Blend in as an Audience Member on TikTok for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-climbing-to-youtube-zenith-a-step-by-step-guide-to-creative-studio-mastery/"><u>In 2024, Climbing to YouTube Zenith A Step-by-Step Guide to Creative Studio Mastery</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-hp-laserjet-p1007-drivers-install-guide-get-your-printer-running-smoothly/"><u>Latest HP LaserJet P1007 Drivers Install Guide - Get Your Printer Running Smoothly!</u></a></li>
-<li><a href="https://windows11.techidaily.com/mending-disabled-trash-can-symbol-on-win11-os/"><u>Mending Disabled Trash Can Symbol on Win11 OS</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-infinix-hot-40-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Infinix Hot 40</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-your-first-adobe-presenter-video/"><u>[New] In 2024, The Ultimate Guide to Your First Adobe Presenter Video</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-your-go-to-list-for-effortless-downloads-of-fb-stories-for-2024/"><u>[New] Your Go-To List for Effortless Downloads of FB Stories for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-analyzing-youtube-rankings-what-drives-top-placement/"><u>[Updated] Analyzing YouTube Rankings What Drives Top Placement?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-brief-path-to-past-posts-reinstating-reddit-removals-quickly/"><u>[Updated] Brief Path to Past Posts Reinstating Reddit Removals Quickly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/2024s-elite-picks-for-15-inch-laptops-in-depth-testing-and-expert-analysis-zdnet/"><u>2024'S Elite Picks for 15-Inch Laptops: In-Depth Testing & Expert Analysis | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/cyber-week-shopping-extravaganza-discover-the-best-deals-for-2e-2022-on-znet-ultimate-discounts-awaiting/"><u>Cyber Week Shopping Extravaganza: Discover the Best Deals for 2E-2022 on Znet | Ultimate Discounts Awaiting!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-the-newest-msi-bluetooth-driver-compatible-with-windows-10-and-11/"><u>Download & Install the Newest MSI Bluetooth Driver Compatible with Windows 10 and 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-deal-unveiled-by-zdnet-lenovo-enterprise-laptop-slashed-to-just-1000-below-msrp-before-prime-day-bonanza/"><u>Exclusive Deal Unveiled by ZDNet: Lenovo Enterprise Laptop Slashed to Just $1,000 Below MSRP Before Prime Day Bonanza</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-oppo-a56s-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Oppo A56s 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-11-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Realme 11 Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-victus-amo-15-get-your-powerhouse-gaming-machine-for-just-515-with-the-exclusive-anti-prime-day-offer-at-best-buy/"><u>HP Victus Amo 15: Get Your Powerhouse Gaming Machine for Just $515 with the Exclusive Anti-Prime Day Offer at Best Buy</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-first-time-streamers-unite-learn-obs-and-broadcast-to-youtube/"><u>In 2024, First-Time Streamers Unite Learn OBS & Broadcast to Youtube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/prime-day-blowout-top-deals-and-steep-discounts-to-grab-in-octobers-ultimate-shopping-event-smartsaverguide/"><u>Prime Day Blowout: Top Deals and Steep Discounts to Grab in October's Ultimate Shopping Event | SmartSaverGuide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/selecting-the-perfect-college-laptop-key-factors-and-top-10-recommendations-insights/"><u>Selecting the Perfect College Laptop: Key Factors and Top 10 Recommendations – Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-restoring-default-sound-controls-on-your-pc-with-windows-tips-from-zdnet/"><u>Step-by-Step Guide: Restoring Default Sound Controls on Your PC with Windows - Tips From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-3-optimal-vpn-services-for-seamless-olympic-games-viewing-experience-insights-from-zdnet/"><u>Top 3 Optimal VPN Services for Seamless Olympic Games Viewing Experience - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-choosing-your-perfect-oled-laptop-insider-ratings-and-in-depth-analysis/"><u>Ultimate Guide to Choosing Your Perfect OLED Laptop : Insider Ratings & In-Depth Analysis</u></a></li>
 </ul></div>
 

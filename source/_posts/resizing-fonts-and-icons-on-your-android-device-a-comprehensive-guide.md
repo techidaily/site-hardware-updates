@@ -1,7 +1,7 @@
 ---
 title: "Resizing Fonts & Icons on Your Android Device: A Comprehensive Guide"
-date: 2024-09-01T05:41:37.013Z
-updated: 2024-09-02T05:41:37.013Z
+date: 2024-12-14T19:07:50.897Z
+updated: 2024-12-22T04:07:56.050Z
 tags:
   - android
 categories:
@@ -37,64 +37,51 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
 ![Tap the gear icon to open Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240216-105435.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  Now go to the "Display" settings.
 
 ![Display section in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240216-105440.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Look for "Display Size and Text" or "Screen Zoom."
 
 ![Display Size and Text section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240216-105444.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
  Slide the dot on the scale for "Display Size" to adjust the size. You can swipe between the previews to see how things will look.
 
 ![Adjust the display scale.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240216-105449.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  That's it. The display size will change in real time as you move the dot on the scale.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ##  How to Change Only the Text Size on Android
 
  What if you only want to adjust the size of the text? We can do that too. First, swipe down once or twice—depending on your phone—to reveal the Quick Settings menu. Select the gear icon to go to the system settings.
 
 ![Tap the gear icon to open Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240216-105435.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
  Now go to the "Display" settings.
 
 ![Display section in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240216-105440.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Look for "Display Size and Text" or "Font Size and Style."
 
 ![Display Size and Text section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240216-105444.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Slide the dot on the scale for "Font Size" to adjust the text size. You can see a preview of the text at the top of the screen.
 
 ![Adjust the Font Size.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-16_11-04-06.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it. The text size for your entire phone will change with this setting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Temporarily Magnify the Screen on Android
 
@@ -104,9 +91,17 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
 ![Tap the gear icon to open Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240216-105435.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Scroll down to "Accessibility."
 
 ![Select "Accessibility."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/2021-08-24_13-49-22.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Select "Magnification." On a Samsung device, you'll need to go to "Visibility Enhancements" first.
 
@@ -116,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
 ![Enable the "Magnification Shortcut."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/2021-08-24_14-06-14.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Android 12 introduced a visible Magnification Shortcut that floats on the edge of the screen. You can tap this to switch between different magnification modes.
 
 ![Tap the floating shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/2021-08-24_13-52-24.png) 
@@ -123,6 +122,10 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
  Previous versions of Android have a two-finger gesture to bring up the magnification modes. Simply swipe up from the bottom of the screen with two fingers.
 
 ![Swipe up with two fingers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/2021-08-24_13-54-18.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In both cases, you have a number of methods to zoom in while using Magnification.
 
@@ -151,8 +154,6 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +161,23 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-capture-and-replay-top-tools-to-secure-every-web-moment/"><u>[New] Capture & Replay Top Tools to Secure Every Web Moment</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-a-comprehensive-review-of-the-lightroom-app-on-android/"><u>[Updated] A Comprehensive Review of the Lightroom App on Android</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-critique-of-the-frolicking-tale-a-videotape-retrospective/"><u>[Updated] In 2024, Critique of 'The Frolicking Tale' A Videotape Retrospective</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/400-bargain-hp-latest-laptop-compatible-mouse-and-all-access-to-ms-365-exclusive-offer/"><u>$400 Bargain: HP Latest Laptop, Compatible Mouse, and All-Access to MS 365 - Exclusive Offer !</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-free-meme-makers-the-ultimate-resource-guide/"><u>2024 Approved Free Meme Makers – The Ultimate Resource Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/astonishing-combination-top-tier-oled-display-and-webcam-on-acer-laptop-the-latest-test-results-revealed/"><u>Astonishing Combination: Top-Tier OLED Display & Webcam on Acer Laptop - The Latest Test Results Revealed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-prime-day-shopping-discounts-for-gamers-in-octo/"><u>Best Prime Day Shopping Discounts for Gamers in Octo</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-lenovos-innovative-tech-seamlessly-transfers-files-from-iphones-with-latest-laptop-models-why-you-shouldnt-miss-out/"><u>Discover Lenovo's Innovative Tech: Seamlessly Transfers Files From iPhones with Latest Laptop Models - Why You Shouldn't Miss Out!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discovering-the-hidden-gems-how-dell-delivers-innovative-functionality-on-a-budget-as-reviewed/"><u>Discovering the Hidden Gems: How Dell Delivers Innovative Functionality on a Budget, as Reviewed</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-vivo-s18e-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Vivo S18e FRP</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-vid-recorders-vault-top-techniques-for-tv-streaming/"><u>In 2024, Vid-Recorder's Vault Top Techniques for TV Streaming</u></a></li>
+<li><a href="https://win-data.techidaily.com/transform-your-desktop-with-yl-softwares-hd-panoramic-images-and-static-wallpapers-the-ultimate-visual-experience-set/"><u>Transform Your Desktop with YL Software’s HD Panoramic Images and Static Wallpapers – The Ultimate Visual Experience Set</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-black-friday-bargain-snag-the-hp-envy-x360-with-a-stunning-40-discount-just-499/"><u>Unbeatable Black Friday Bargain! Snag the HP Envy X360 with a Stunning 40% Discount - Just $499</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-october-prime-day-offer-on-metas-latest-512gb-quest-3-top-virtual-reality-sale-by-zdnet/"><u>Unbeatable October Prime Day Offer on Meta’s Latest 512GB Quest 3 – Top Virtual Reality Sale by ZDNet!</u></a></li>
+</ul></div>
 

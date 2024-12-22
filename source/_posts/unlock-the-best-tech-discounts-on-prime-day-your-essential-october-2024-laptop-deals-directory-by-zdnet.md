@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Best Tech Discounts on Prime Day: Your Essential October 2024 Laptop Deals Directory by ZDNET"
-date: 2024-12-06T22:10:05.358Z
-updated: 2024-12-13T00:35:57.228Z
+date: 2024-12-16T19:31:05.242Z
+updated: 2024-12-21T23:27:09.995Z
 tags:
   - laptops
 categories:
@@ -77,7 +77,7 @@ Microsoft's 2024 Surface Laptop is a fast, lightweight laptop with a fantastic b
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXKQYNPD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1a1c0df6-aee8-4a14-89f7-e3005adc54fc%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best laptops for students
@@ -98,10 +98,6 @@ Asus/ZDNET
 * [MSI Thin 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMSI-Thin-144Hz-Gaming-Laptop%2Fdp%2FB0BT3CD75G%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1a1c0df6-aee8-4a14-89f7-e3005adc54fc%7Cdtp&dtb=1) (2023) for $920 ($79 off) - As its name implies, the Thin 15 is an ultraportable gaming machine with an Intel Core i7 processor and Nvidia RTX 4050 graphics card along with a 15.6-inch, 144Hz display. Last year's version is a solid gaming option under that $1,000 price point.
 * [Asus TUF Gaming A15 (2024)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-NVIDIA%C2%AE-GeForce-FA506NF-ES51%2Fdp%2FB0CRDF25TQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1a1c0df6-aee8-4a14-89f7-e3005adc54fc%7Cdtp&dtb=1) for $599 ($100 off) - The TUF line of laptops features solid gaming hardware along with military-grade durability. The A15 is a solid gaming laptop that fits this description to a T, marked way down to a competitive price for 8GB of RAM, 512GB of storage, and an Nvidia GeForce RTX 2050 graphics card.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best laptops for photo editing
 
 * [Acer Chromebook Spin 714](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChromebook-CP714-1WN-53M9-i5-1235U-1920x1200-Keyboard%2Fdp%2FB0BJH9LGK8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1a1c0df6-aee8-4a14-89f7-e3005adc54fc%7Cdtp&dtb=1) for $522 ($227 off): If you're looking for a good sale price on a convertible 2-in-1, Acer's Chromebook Spin 714 brings all the light efficiency of a Chromebook to a portable form factor. This is a great editing device if you often use Google Photos. Also, with a new purchase, you get Gemini Advanced, 2TB of cloud storage, and more free for three months.
@@ -109,7 +105,7 @@ Asus/ZDNET
 * [Microsoft Surface Laptop Snapdragon X Elite](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXKQYNPD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1a1c0df6-aee8-4a14-89f7-e3005adc54fc%7Cdtp&dtb=1) for $1,499 ($100 off): This Copilot+ certified laptop features the more competent Snapdragon X Elite chip and 1TB of storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More October Prime Day 2024 laptop deals
@@ -121,6 +117,10 @@ Kyle Kucharski/ZDNET
 * [Acer Nitro 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHexa-Core-GeForce-Display-Backlit-AN16-41-R148%2Fdp%2FB0D3VJXSWK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1a1c0df6-aee8-4a14-89f7-e3005adc54fc%7Cdtp&dtb=1) for $799 (save $200): This mid-range gaming laptop has a 16-inch display with a 165Hz refresh rate and is built with an Nvidia GeForce RTX 4050 graphics card.
 * [Acer Swift Go 14](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Facer-Display-Experiences-Processor-SFG14-72T-718K%2Fdp%2FB0CNDTGC77%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1a1c0df6-aee8-4a14-89f7-e3005adc54fc%7Cdtp&dtb=1) for $927 (save $72): This lightweight laptop features an Intel Core Ultra 7 155H CPU, Intel Arc graphics, 16GB of RAM, and a 512GB SSD.
 * [HP 17-inch Touch Laptop](https://qvc.uikc.net/c/159047/565130/9368?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.qvc.com%2Fhp-17-touch-laptop-intel-n200-4gb-ram-128gb-ssd-w-hp-mouse-%2526-ms365.product.E324465.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for $479 (Save $80): For a large-screen laptop with touch capabilities, HP's 17-inch Touch comes in a variety of bold colorways, and is bundled with a mouse in this QVC deal. This is a solid choice for users who want a large screen to play media, but only need a basic hardware configuration.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Buy laptop deals
 
@@ -137,16 +137,12 @@ Kyle Kucharski/ZDNET
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Amazon's October Prime Day 2024?
 
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals before and after those days as well. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Are laptops really cheaper on Prime Day?
 
@@ -163,6 +159,10 @@ When compiling the list of the best deals, we considered the following:
 * **Price**: Naturally, the price point of our recommended laptops has to include a worthwhile discount. While some discounts are small in relation to an overall price tag - for example, $30 off a $150 device - and other discounts are in the hundreds of dollars, we wanted to ensure that in any case, it's value for money.
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What are the best October Prime Day 2024 deals?
 
@@ -230,24 +230,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-building-mental-armor-against-online-critics-for-2024/"><u>[Updated] Building Mental Armor Against Online Critics for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-prime-video-cameras-that-will-elevate-your-twitch-channel/"><u>[Updated] Prime Video Cameras That Will Elevate Your Twitch Channel</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-realme-narzo-n55-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme Narzo N55 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-steelseries-engine-enhanced-features-and-support-for-windows-11/"><u>Download SteelSeries Engine: Enhanced Features and Support for Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-installing-hp-officejet-4650-drivers-on-windows-systems/"><u>Easy Guide to Downloading and Installing HP OfficeJet 4650 Drivers on Windows Systems</u></a></li>
-<li><a href="https://win-best.techidaily.com/erstellen-eines-multiboot-usb-sticks-mit-rufus-fur-verschiedene-windows-versionen/"><u>Erstellen Eines Multiboot USB-Sticks Mit Rufus Für Verschiedene Windows Versionen</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-amd-r9-gpu-drivers-for-windows-easy-step-by-step-guide-to-updating/"><u>Get the Latest AMD R9 GPU Drivers for Windows: Easy Step-by-Step Guide to Updating</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-brother-l2540dw-windows-printer-driver-software-and-easy-installation-steps/"><u>Get the Latest Brother L2540DW Windows Printer Driver Software & Easy Installation Steps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-epson-v600-driver-software-now/"><u>Get the Latest Epson V600 Driver Software Now!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/gmail-insights-how-to-tell-if-an-email-has-been-read-or-not/"><u>Gmail Insights: How to Tell if an Email Has Been Read or Not</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-motorola-edge-40-neo-frp-by-drfone-android/"><u>How Can We Bypass Motorola Edge 40 Neo FRP?</u></a></li>
-<li><a href="https://win-great.techidaily.com/how-to-fix-google-drive-file-stream-issues-in-windows-11/"><u>How to Fix Google Drive File Stream Issues in Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/intel-optane-support-for-windows-easy-download-and-update-process-explained/"><u>Intel Optane Support for Windows - Easy Download and Update Process Explained</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-iphone-compatible-drivers-for-windows-11-free-download-and-installation/"><u>Latest iPhone Compatible Drivers for Windows 11 - Free Download and Installation</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-zero-cost-wonders-the-best-free-vob-video-editing-software/"><u>New 2024 Approved Zero-Cost Wonders The Best Free VOB Video Editing Software</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/overcoming-known-graphic-drivers-problems-effective-solutions-revealed/"><u>Overcoming 'Known Graphic Drivers Problems': Effective Solutions Revealed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ryzen-9-9960h-benchmarks-show-up-to-18-speed-boost-over-core-i9-1esteem-efficient-at-just-250-watts/"><u>Ryzen 9 9960H Benchmarks Show Up to 18% Speed Boost Over Core I9-1esteem, Efficient at Just 250 Watts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/speed-capturing-screens-with-sound-for-2024/"><u>Speed Capturing Screens With Sound for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-how-to-revamping-motherboard-software-on-your-windows-system/"><u>The Ultimate How-To: Revamping Motherboard Software on Your Windows System</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boosting-laptop-longevity-expert-tips-for-enhancing-battery-performance-on-windows-devices-insights/"><u>Boosting Laptop Longevity: Expert Tips for Enhancing Battery Performance on Windows Devices - Insights</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/download-imgburn-free-software-a-comprehensive-guide-for-creating-iso-files-from-copy-protected-dvds/"><u>Download ImgBurn Free Software: A Comprehensive Guide for Creating ISO Files From Copy-Protected DVDs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-apples-affordable-excellence-m2-macbook-air-at-just-749-during-amazons-prime-day-event-insights/"><u>Experience Apple's Affordable Excellence: M2 MacBook Air at Just $749 During Amazon's Prime Day Event – Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-next-level-gaming-how-dells-premium-3k-laptop-upgraded-my-expectations-with-innovative-tech/"><u>Experience Next-Level Gaming: How Dell's Premium $3K Laptop Upgraded My Expectations with Innovative Tech</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-exceptional-workstation-laptops-unrelated-to-thinkpads-and-macbooks-comprehensive-guide/"><u>Exploring Exceptional Workstation Laptops Unrelated to ThinkPads and MacBooks - Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-quick-tips-speeding-up-video-playback-on-snapchat-for-novices/"><u>In 2024, Quick Tips Speeding Up Video Playback on Snapchat for Novices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/msis-high-performance-gaming-display-now-huge-sale-save-nearly-300-on-newegg-exclusive-report/"><u>MSI's High-Performance Gaming Display Now Huge Sale: Save Nearly $300 on Newegg - Exclusive Report</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/schaffen-sie-zuverlassige-datensicherungen-mit-externen-laufwerken-ein-umfassender-leitfaden/"><u>Schaffen Sie Zuverlässige Datensicherungen Mit Externen Laufwerken – Ein Umfassender Leitfaden</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/selecting-the-ultimate-steadicams-for-flawless-dslr-shoots-for-2024/"><u>Selecting the Ultimate Steadicams for Flawless DSLR Shoots for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/slash-450-off-the-newest-m1-powered-512gb-macbook-pro-exclusive-offer-from-zdnet/"><u>Slash $450 Off the Newest M1 Powered 512GB MacBook Pro - Exclusive Offer From ZDNET!</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/step-by-step-techniques-for-diagnosing-and-fixing-pc-components-insights-by-yl-software-experts/"><u>Step-by-Step Techniques for Diagnosing and Fixing PC Components - Insights by YL Software Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-7-standing-desks-of-2023-reviewed/"><u>Top 7 Standing Desks of 2023 Reviewed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1729392278461-top-rated-streaming-microphones-expert-picks-by-zdnet/"><u>Top-Rated Streaming Microphones : Expert Picks by ZDNet</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/transform-your-hdr-images-into-professional-grade-time-lapses-with-gopro-studio/"><u>Transform Your HDR Images Into Professional-Grade Time Lapses with GoPro Studio</u></a></li>
 </ul></div>
 

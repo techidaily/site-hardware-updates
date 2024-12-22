@@ -1,7 +1,7 @@
 ---
 title: "Future of Office Tech: Adapting Workplace Gadgets for Success in an Age of Artificial Intelligence - Insights"
-date: 2024-12-10T00:47:26.584Z
-updated: 2024-12-12T19:02:51.632Z
+date: 2024-12-18T17:30:43.956Z
+updated: 2024-12-22T01:15:23.857Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,15 +134,24 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-bridging-gaps-online-effective-techniques-for-screenshare-on-fb/"><u>[New] In 2024, Bridging Gaps Online Effective Techniques for Screenshare on FB</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-best-10-no-cost-video-conferencing-solutions-unveiled/"><u>[Updated] 2024 Approved Best 10 No-Cost Video Conferencing Solutions Unveiled</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tweeted-cinematics-from-video-to-wavmp3/"><u>[Updated] In 2024, Tweeted Cinematics From Video to WAV/MP3</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-optimizing-video-meetings-with-tighter-focus-areas/"><u>[Updated] Optimizing Video Meetings with Tighter Focus Areas</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-flight-dynamics-unveiling-bebops-parrot-capabilities/"><u>2024 Approved Flight Dynamics Unveiling Bebop’s Parrot Capabilities</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatible-with-windows-1187-newest-driver-releases-for-tp-links-ac-wireless-network-adapters/"><u>Compatible with Windows 11/8/7 – Newest Driver Releases for TP-Link's AC Wireless Network Adapters</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-install-m-audio-fast-track-dac-software-setup-for-multiple-windows-versions-10788n/"><u>Easy Install: M-Audio Fast Track DAC Software Setup for Multiple Windows Versions (10/7/8/8.n)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/logitech-g-prodigy-gaming-mouse-driver-and-installation-package-download/"><u>Logitech G Prodigy Gaming Mouse Driver & Installation Package Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/loongson-unveils-the-power-of-its-newest-16-core-3c-paralleling-intels-ice-lake-16-core-chip/"><u>Loongson Unveils the Power of Its Newest 16-Core 3C, Paralleling Intel's Ice Lake 16-Core Chip</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211266220-9798887936321-moment-of-the-broken-covenant/"><u>Moment of the Broken Covenant | Free Book</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unveiling-hidden-shared-memories-in-messenger/"><u>[New] In 2024, Unveiling Hidden Shared Memories in Messenger</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-comprehensive-insight-into-the-ultra-clear-lg-monitor/"><u>[Updated] 2024 Approved Comprehensive Insight Into the Ultra-Clear LG Monitor</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-secrets-of-style-perfecting-your-macootd-on-tiktok-for-2024/"><u>[Updated] Secrets of Style Perfecting Your MacOOTD on TikTok for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1-comprehensive-guide-to-evaluating-vpn-services-insights-from-zdnet/"><u>1. Comprehensive Guide to Evaluating VPN Services: Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-hidden-gem-in-top-office-gadgets-the-most-underappreciated-2-in-1-device-of-the-year-insights/"><u>A Hidden Gem in Top Office Gadgets: The Most Underappreciated 2-in-1 Device of the Year - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-alternative-top-recommended-windows-laptop-now-beats-macbook-air-price-and-offers-a-sale-insights/"><u>Affordable Alternative: Top-Recommended Windows Laptop Now Beats MacBook Air Price & Offers a Sale - Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-the-samsung-un65ru8000fxza-an-exploration-into-its-clever-tech-and-impressive-visuals/"><u>Discovering the Samsung UN65RU8000FXZA - An Exploration Into Its Clever Tech and Impressive Visuals</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/full-day-battery-endurance-for-your-macbook-expert-strategies-and-techniques/"><u>Full-Day Battery Endurance for Your MacBook: Expert Strategies and Techniques</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-motorola-moto-g13-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Motorola Moto G13 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-realizing-unseen-friend-requests/"><u>In 2024, Realizing Unseen Friend Requests</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-not-found-the-ultimate-list/"><u>Overcoming Windows Not Found: The Ultimate List</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/prime-day-savings-alert-unveiling-an-exceptional-lenovo-and-dell-alternative-the-ultimate-guide-to-choosing-a-budget-friendly-2-in-1-laptop-by-zdnet-experts13/"><u>Prime Day Savings Alert! Unveiling an Exceptional, Lenovo & Dell Alternative: The Ultimate Guide to Choosing a Budget-Friendly 2-in-1 Laptop by ZDNET Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-hp-victus-15-gamers-dream-at-a-steal-just-515-with-exclusive-best-buy-prime-day-blowout-learn-how/"><u>Snag the HP Victus 15 Gamer's Dream at a Steal: Just $515 With Exclusive Best Buy Prime Day Blowout – Learn How !</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snap-up-the-bargain-exclusive-amazon-offer-with-36-off-samsung-t5-8tb-ssd-after-prime-revealed-by-zdnet/"><u>Snap Up the Bargain: Exclusive Amazon Offer with 36% Off Samsung T5 8TB SSD After Prime - Revealed by ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guilty-gear-strives-lag-issues-for-smoother-gameplay/"><u>Troubleshooting Guilty Gear Strive's Lag Issues for Smoother Gameplay</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-atandt-mobile-roaming-terms-and-conditions/"><u>Understanding AT&T Mobile Roaming Terms and Conditions</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/understanding-http3-a-complete-guide-to-the-next-generation-internet-protocol/"><u>Understanding HTTP/3: A Complete Guide to the Next-Generation Internet Protocol</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiled-top-performing-computers-from-the-2024-consumer-electronics-show-insights/"><u>Unveiled: Top-Performing Computers From the 2024 Consumer Electronics Show – Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-samsungs-latest-copilotplus-pc-enhancements-advanced-ai-integration-highlighted-by-zdnet/"><u>Unveiling Samsung’s Latest Copilot+ PC Enhancements: Advanced AI Integration Highlighted by ZDNet</u></a></li>
 </ul></div>
 

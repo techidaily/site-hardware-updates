@@ -1,7 +1,7 @@
 ---
 title: Innovative Laptop Holder Enables Mobile Phones to Act as Extra Monitors, Says ZDNet Review
-date: 2024-12-10T23:32:40.089Z
-updated: 2024-12-12T17:22:11.480Z
+date: 2024-12-19T02:33:59.036Z
+updated: 2024-12-21T16:04:25.013Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ Here are some of the most interesting features I saw during my hands-on briefing
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Smart Share
@@ -61,7 +61,7 @@ Kyle Kucharski/ZDNET
 Besides the Smart Share features, there are four different "modes" that activate various features. You can toggle each feature on or off individually, to avoid being bombarded with different prompts. Here are the most impactful ones I saw during my time trying the new laptops.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shield Mode
@@ -70,7 +70,7 @@ Besides the Smart Share features, there are four different "modes" that activate
 * The VPN auto-launch feature will start your preferred VPN automatically upon connecting to any public Wi-Fi network, a handy function if you spend a lot of time working in coffee shops.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Attention Mode
@@ -80,7 +80,7 @@ Besides the Smart Share features, there are four different "modes" that activate
 Kyle Kucharski/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Collaboration Mode
@@ -88,7 +88,7 @@ Kyle Kucharski/ZDNET
 * Designed mostly for virtual meetings, activating this mode enables your preset camera features, such as background blur, low light enhancer, or touch ups.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Wellness Mode
@@ -133,24 +133,17 @@ We'll definitely be doing some additional testing of the smart modes when we get
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-pathway-to-pairing-perfection-obspluszoom-guide/"><u>[New] In 2024, The Pathway to Pairing Perfection OBS+Zoom Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-speed-up-photobooks-instructions-for-faster-google-collage-creation/"><u>[Updated] Speed Up Photobooks Instructions for Faster Google Collage Creation</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/20plus-free-business-slideshow-templates-makers-and-ideas-for-2024/"><u>20+ Free Business Slideshow Templates, Makers, and Ideas for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-radeon-driver-installation-guide-for-windows-7-users/"><u>AMD Radeon Driver Installation Guide for Windows 7 Users</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/crafting-video-magic-summit-for-2024/"><u>Crafting Video Magic Summit for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-acer-monitor-drivers-complete-guide-and-step-by-step-instructions/"><u>Download Acer Monitor Drivers: Complete Guide & Step-by-Step Instructions</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-learning-7-strategies-for-windows-users/"><u>Enhancing Learning: 7 Strategies for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fast-track-your-pc-with-samsung-m2070fw-drivers-download-without-hassle/"><u>Fast Track Your PC with Samsung M2070FW Drivers - Download Without Hassle</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-deskjet-2600-drivers-suitable-for-windows-operating-systems-7-8-and-10/"><u>Get the Latest HP DeskJet 2600 Drivers Suitable for Windows Operating Systems 7, 8 & 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-set-up-corsair-hardware-drivers-for-windows-with-no-hassle/"><u>How to Download and Set Up Corsair Hardware Drivers for Windows with No Hassle</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-streaming-google-meet-to-youtube-a-compreenas-step-by-step-guide/"><u>In 2024, Streaming Google Meet to YouTube - A Compreenas Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-the-benchmark-battle-ryzen-ai-9-hx-eclipses-core-i7-and-m3-max-redefining-high-performance-standards-on-passmark/"><u>Inside the Benchmark Battle: Ryzen Ai 9 Hx Eclipses Core I7 and M3 Max, Redefining High-Performance Standards on Passmark</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/master-your-pc-upgrades-at-toms-authoritative-hardware-source/"><u>Master Your PC Upgrades at Tom's Authoritative Hardware Source</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/nostalgic-tech-alert-why-these-8-classic-smartphone-features-deserve-a-comeback/"><u>Nostalgic Tech Alert: Why These 8 Classic Smartphone Features Deserve a Comeback</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snapdragon-x-cpu-takes-off-in-performance-metrics-secures-65-of-geekbench-6-scores-benchmark-devs-take/"><u>Snapdragon X CPU Takes Off in Performance Metrics, Secures 6.5% of Geekbench 6 Scores - Benchmark Dev's Take</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-persistent-crash-issues-with-microsoft-edge-on-windows-11-systems/"><u>Solving Persistent Crash Issues with Microsoft Edge on Windows 11 Systems</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210165943-9781642986921-the-road-to-the-hike-of-lake-haiyaha/"><u>The Road to the Hike of Lake Haiyaha | Free Book</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-features-how-to-install-logitech-mx-master-software-properly/"><u>Unlocking Features: How to Install Logitech MX Master Software Properly</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-elevating-android-video-to-a-new-level-time-lapse-excellence/"><u>[New] 2024 Approved Elevating Android Video to a New Level Time-Lapse Excellence</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-execute-a-budget-friendly-youtube-seminar/"><u>[Updated] In 2024, How to Execute a Budget-Friendly Youtube Seminar</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-metaverse-laughs-creating-viral-digital-cartoons/"><u>2024 Approved Metaverse Laughs Creating Viral Digital Cartoons</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-ultimate-compilation-of-ios-compatible-ps2-games/"><u>2024 Approved Ultimate Compilation of iOS-Compatible PS2 Games</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/challenging-windows-copilot-how-the-enhanced-ai-capabilities-of-googles-latest-chromebook-may-dominate/"><u>Challenging Windows Copilot: How the Enhanced AI Capabilities of Google’s Latest Chromebook May Dominate</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-samsungs-enhanced-copilotplus-pc-with-cutting-edge-ai-capabilities-insider-report/"><u>Exploring Samsung's Enhanced Copilot+ PC with Cutting-Edge AI Capabilities Insider Report</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/fast-fixes-removing-restrictions-from-your-lg-dvd-players-region-code/"><u>Fast Fixes: Removing Restrictions From Your LG DVD Player's Region Code</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-play-8t-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor Play 8T? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/is-msis-steam-deck-a-game-changer-for-handheld-consoles-exploring-its-potential-triumphs-insights/"><u>Is MSI's Steam Deck a Game-Changer for Handheld Consoles? Exploring Its Potential Triumphs | Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/is-the-era-of-dual-screens-dawned-with-lenovo-yoga-book-9i-insights/"><u>Is the Era of Dual-Screens Dawned with Lenovo Yoga Book 9I? Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbelievable-deal-alert-experience-ultimate-audio-bliss-with-a-top-tier-speaker-set-now-50-off-at-best-buy/"><u>Unbelievable Deal Alert: Experience Ultimate Audio Bliss with a Top-Tier Speaker Set Now 50% OFF at Best Buy!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top Tablet Deals on Cyber Monday: Get $600 Off Microsoft Surface Pro 8 Post-Black Friday Sale Insider"
-date: 2024-12-06T21:39:39.182Z
-updated: 2024-12-12T18:52:56.867Z
+date: 2024-12-18T09:06:02.753Z
+updated: 2024-12-21T16:53:48.283Z
 tags:
   - laptops
 categories:
@@ -32,7 +32,7 @@ The lowest price point available is $799 for a platinum model with an Intel Evo 
 **Read on:** [Microsoft Surface Pro 8 for Business review: Still in love](https://www.zdnet.com/article/microsoft-surface-pro-8-for-business-review/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -77,21 +77,19 @@ ZDNET is also keeping an eye out for other tablet deals on the market in the run
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-complete-guide-to-inverted-footage-in-instagram/"><u>[New] In 2024, The Complete Guide to Inverted Footage in Instagram</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-step-by-step-approach-to-crafting-youtube-intros/"><u>[Updated] 2024 Approved Step-by-Step Approach to Crafting YouTube Intros</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-systematic-guide-unearthing-youtubes-concealed-content/"><u>[Updated] 2024 Approved Systematic Guide Unearthing YouTube's Concealed Content</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-unleash-creativity-premier-vimeo-editors-deliver/"><u>[Updated] 2024 Approved Unleash Creativity Premier Vimeo Editors Deliver</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722972861662-arduino-uno-and-windows-fixing-the-drivers-compatibility-concerns/"><u>Arduino Uno and Windows: Fixing the Drivers Compatibility Concerns.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-installing-hp-laserjet-pro-mfp-m428fdw-drivers-on-all-windows-platforms/"><u>Complete Guide to Installing HP LaserJet Pro MFP M428fdw Drivers on All Windows Platforms</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disarming-error-0x80040610-a-practical-guide-to-outlook-recovery/"><u>Disarming Error 0X80040610: A Practical Guide to Outlook Recovery</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/discover-the-leading-performance-trackers-for-runners-top-picks-of-2024/"><u>Discover the Leading Performance Trackers for Runners - Top Picks of 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-amd-gpu-tools-for-bitcoin-mining-and-ethereum-transactions-in-windows-environments/"><u>Get the Latest AMD GPU Tools for Bitcoin Mining and Ethereum Transactions in Windows Environments</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-video-driver-software-on-your-toshiba-notebook-windows-edition/"><u>How to Get the Newest Video Driver Software on Your Toshiba Notebook - Windows Edition</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722965632695-hp-envy-5660-seamless-driver-download-and-setup-tutorial/"><u>HP Envy 5660 - Seamless Driver Download & Setup Tutorial!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/nubia-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Nubia Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-guide-installing-the-latest-dell-speaker-driver/"><u>Quick Guide: Installing the Latest Dell Speaker Driver</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-8-best-parent-approved-monitoring-tools/"><u>Top 8 Best Parent-Approved Monitoring Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-logitech-rx250-mouse-drivers-supported-by-windows-7-8-and-10-easy-driver-downloads/"><u>Update Logitech RX250 Mouse Drivers: Supported by Windows 7, 8 & 10 - Easy Driver Downloads</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/voices-on-the-page-techniques-for-effective-scriptwriting/"><u>Voices on the Page Techniques for Effective Scriptwriting</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixed-google-meet-microphone-not-working-on-window-1110/"><u>[FIXED] Google Meet Microphone Not Working on Window 11/10</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-precision-in-capturing-an-expert-obs-skype-guide/"><u>[New] Precision in Capturing An Expert OBS Skype Guide</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ces-2023-highlights-and-breakthroughs-from-the-first-day-insights/"><u>CES 2023 Highlights and Breakthroughs From the First Day - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fix-your-macbooks-restless-sleep-and-overheating-problems-the-essential-utility-revealed-on-zdnet/"><u>Fix Your MacBook's Restless Sleep and Overheating Problems – The Essential Utility Revealed on ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/grab-your-pre-owned-microsoft-surface-laptop-with-128gb-storage-for-only-320-techdeals/"><u>Grab Your Pre-Owned Microsoft Surface Laptop with 128GB Storage for Only $320 | TechDeals</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-the-power-of-persuasion-hire-success-stories-1-10/"><u>In 2024, The Power of Persuasion Hire Success Stories #1-10</u></a></li>
+<li><a href="https://win-docs.techidaily.com/is-browserbrokerexe-a-threat-a-comprehensive-guide-to-its-security-implications/"><u>Is Browser_broker.exe a Threat? A Comprehensive Guide to Its Security Implications</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-to-windows-11-credential-manager/"><u>Navigating to Windows 11 Credential Manager</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/perfecting-the-sync-siri-voice-control-for-tiktok-users-for-2024/"><u>Perfecting the Sync Siri Voice Control for TikTok Users for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-steps-to-recover-an-unresponsive-off-screen-window/"><u>Resolved: Steps to Recover an Unresponsive Off-Screen Window</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/select-access-microsoft-unveils-cross-platform-window-support-on-chromebooks-and-macs/"><u>Select Access: Microsoft Unveils Cross-Platform Window Support on Chromebooks and Macs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-power-bank-for-your-laptop-at-a-steep-discount-quality-assurance-through-the-years-on-zdnet/"><u>Top-Rated Power Bank for Your Laptop at a Steep Discount: Quality Assurance Through the Years on ZDNET</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/wie-sie-mit-einem-asus-notebook-den-wiederherstellungsmodus-in-windows-11-nutzen-konnen-eine-praktische-anleitung/"><u>Wie Sie Mit Einem Asus-Notebook Den Wiederherstellungsmodus in Windows 11 Nutzen Können: Eine Praktische Anleitung</u></a></li>
 </ul></div>
 

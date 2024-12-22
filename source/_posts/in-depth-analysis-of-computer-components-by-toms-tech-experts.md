@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of Computer Components by Tom's Tech Experts
-date: 2024-08-23T13:51:02.260Z
-updated: 2024-08-24T13:51:02.260Z
+date: 2024-12-15T23:33:45.701Z
+updated: 2024-12-21T18:38:15.777Z
 tags:
   - cpu
 categories:
@@ -27,6 +27,10 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
  The Ryzen 9 5900XT, on the other hand, should provide a significant upgrade over the current[Ryzen 9 5900X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) . Weirdly, AMD chose that model name since the Ryzen 9 5900XT is closer to the[Ryzen 9 5950X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) than the Ryzen 9 5900X. The Ryzen 9 5900XT wields the same 16 Zen 3 cores as the former in addition to the 64MB L3 cache and 105W TDP. The Ryzen 9 5900XT has a 100 MHz lower base and boost clock than the Ryzen 9 5950X.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -37,14 +41,11 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
  AMD has kept the pricing under wraps for the Ryzen 9 5900XT and the Ryzen 7 5800XT. However, we should know tomorrow how much the new refreshed chips cost. Don't forget to double back for our review of the two processors and two new 5000XT SKUs.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -53,8 +54,18 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-beauty-brilliance-masterclasses-and-product-explorations/"><u>[New] 2024 Approved Beauty Brilliance Masterclasses and Product Explorations</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-vloggers-guide-to-smooth-cinematography-equipment/"><u>[New] In 2024, Vlogger’s Guide to Smooth Cinematography Equipment</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-video-sharing-platform-showdown-which-is-ideal-for-your-individual-usage/"><u>[Updated] 2024 Approved Video Sharing Platform Showdown Which Is Ideal for Your Individual Usage?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-elite-streamers-choice-for-secure-downloads-8-for-2024/"><u>[Updated] Elite Streamer’s Choice for Secure Downloads 8 for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-amazon-offers-before-prime-day-2024-exclusive-tips-and-tricks/"><u>Best Amazon Offers Before Prime Day 2024: Exclusive Tips & Tricks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intelligent-computing-redefined-how-lenovos-innovative-ai-thinkpads-are-setting-new-standards-for-business-laptops-exclusive-analysis-by-zdnet/"><u>Intelligent Computing Redefined: How Lenovo's Innovative AI ThinkPads Are Setting New Standards for Business Laptops – Exclusive Analysis by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-deal-before-its-gone-8tb-samsung-t5-ssd-available-for-less-than-half-price-at-amazon-zdnet-report/"><u>Snag the Deal Before It's Gone: 8TB Samsung T5 SSD Available for Less Than Half Price at Amazon | ZDNet Report</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-65-holiday-laptop-bargains-for-gamers-exclusive-offers-featured-by-zdnet/"><u>Top 65 Holiday Laptop Bargains for Gamers - Exclusive Offers Featured by ZDNet</u></a></li>
+<li><a href="https://fox-making.techidaily.com/unable-to-start-your-pc-or-laptop-a-comprehensive-guide-to-booting-issues-and-solutions-by-experts-at-yl-software/"><u>Unable to Start Your PC or Laptop? A Comprehensive Guide to Booting Issues & Solutions - By Experts at YL Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unlock-the-full-potential-of-your-mac-with-this-ultimate-guide-to-setting-up-and-mastering-hot-corners-zdnet/"><u>Unlock the Full Potential of Your Mac with This Ultimate Guide to Setting Up and Mastering Hot Corners | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-affordable-excellence-a-deep-dive-into-dells-lesser-known-laptop-with-impressive-capabilities-insights-from-zdnet/"><u>Unveiling Affordable Excellence: A Deep-Dive Into Dell's Lesser-Known Laptop with Impressive Capabilities - Insights From ZDNET</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

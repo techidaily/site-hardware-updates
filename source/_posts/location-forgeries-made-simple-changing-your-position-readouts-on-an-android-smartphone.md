@@ -1,7 +1,7 @@
 ---
 title: "Location Forgeries Made Simple: Changing Your Position Readouts on an Android Smartphone"
-date: 2024-09-01T05:43:59.745Z
-updated: 2024-09-02T05:43:59.745Z
+date: 2024-12-17T09:09:17.291Z
+updated: 2024-12-22T04:47:20.871Z
 tags:
   - android
 categories:
@@ -28,13 +28,25 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 
 ![Go to "Developer Options."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230914-164758.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Scroll all the way down to "Select Mock Location App."
 
 ![Select "Select Mock Location App."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230914-164829.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select "Fake GPS" from the list.
 
 ![Tap "Fake GPS."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230914-164836.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, we can open the Fake GPS app and choose a fake location. Simply use your finger to move the pin to any location on the map and tap the start button in the bottom right corner.
 
@@ -44,9 +56,17 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 
 ![Tap "Allow."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230914-165026.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The app will close, and your location is now being spoofed. You can test this by opening a maps app. To stop spoofing, swipe down from the top of the screen and tap "Pause" on the Fake GPS notification.
 
 ![Tap "Pause" to end spoofing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230914-165115.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's it! This is a surprisingly simple and effective little trick. [Location on Android devices is complex](https://instagram-video-recordings.techidaily.com/new-stepwise-insta-story-image-integration-techniques-for-maximum-impact-for-2024/) and [messy sometimes](https://vp-tips.techidaily.com/updated-2024-approved-sj7-4k-star-camera-an-in-depth-look-at-the-latest-action-tech/). This is one way you can take it into your control.
 
@@ -56,8 +76,6 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -65,8 +83,26 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-pixel-perfecting-free-high-quality-mobile-photography-boost/"><u>[New] Pixel Perfecting Free, High-Quality Mobile Photography Boost</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/product-name-the-revolutionary-accessory-for-upgrading-to-dual-twin-4k-displays-on-any-laptop-regardless-of-inbuilt-capabilities/"><u>[Product Name]: The Revolutionary Accessory for Upgrading to Dual Twin 4K Displays on Any Laptop, Regardless of Inbuilt Capabilities</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-editing-made-easy-youtube-editiontop-10-tips-for-newbies/"><u>[Updated] 2024 Approved Editing Made Easy YouTube Edition—Top 10 Tips for Newbies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-kinemaster-the-ultimate-guide-to-smooth-video-edits/"><u>[Updated] 2024 Approved Kinemaster The Ultimate Guide to Smooth Video Edits</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-easy-steps-to-activatedisable-video-multitasking-on-devices-for-2024/"><u>[Updated] Easy Steps to Activate/Disable Video Multitasking on Devices for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-innovative-pathways-ensuring-correct-iphone-snapchat-data-flow/"><u>[Updated] In 2024, Innovative Pathways Ensuring Correct iPhone-Snapchat Data Flow</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/breaking-apple-unveils-budget-friendly-m2-macbook-air-at-an-impressive-799-before-the-big-october-sale-exclusive-on-zdnet/"><u>Breaking: Apple Unveils Budget-Friendly M2 MacBook Air at an Impressive $799 Before the Big October Sale - Exclusive on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-grab-the-8tb-samsung-t5-external-ssd-at-an-amazing-36-off-price-as-featured/"><u>Don't Miss Out! Grab the 8TB Samsung T5 External SSD at an Amazing 36% Off Price, As Featured</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/elevating-listeners-interest-writing-podcast-summaries/"><u>Elevating Listeners' Interest Writing Podcast Summaries</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experiencing-lenovos-clear-computing-revolution-a-firsthand-look-at-the-transparent-laptop-at-mwc-insights-from-zdnet/"><u>Experiencing Lenovo's Clear Computing Revolution: A Firsthand Look at the Transparent Laptop at MWC - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huge-savings-snag-the-ultimate-gamer-and-vlogger-pc-at-a-breathtakingly-discounted-price/"><u>Huge Savings: Snag the Ultimate Gamer & Vlogger PC at a Breathtakingly Discounted Price !</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oneplus-nord-ce-3-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked OnePlus Nord CE 3 5G Phone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-soaring-in-high-definition-an-in-depth-xiaomi-analysis/"><u>In 2024, Soaring in High Definition An In-Depth Xiaomi Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/power-up-with-intels-latest-innovation-transforming-the-future-of-laptops-and-their-amazing-features/"><u>Power Up with Intel's Latest Innovation: Transforming the Future of Laptops and Their Amazing Features</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-a-steal-save-36-on-the-ultra-capacity-8tb-samsung-t5-ssd-from-amazon-post-prime-day-insider-info/"><u>Score a Steal: Save 36% on the Ultra-Capacity 8TB Samsung T5 SSD From Amazon Post-Prime Day - Insider Info</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-redmi-note-12-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Xiaomi Redmi Note 12 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-touchscreen-laptop-reviews-in-depth-analysis-by-tech-experts-zdnet/"><u>Top-Ranking Touchscreen Laptop Reviews: In-Depth Analysis by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-find-the-ideal-gaming-laptop-during-sales-season-picks/"><u>Ultimate Guide: Find the Ideal Gaming Laptop During Sales Season Picks!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/videosnap-messenger-edition-for-2024/"><u>VideoSnap – Messenger Edition for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

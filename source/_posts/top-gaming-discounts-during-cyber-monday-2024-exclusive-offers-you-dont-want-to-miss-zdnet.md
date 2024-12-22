@@ -1,7 +1,7 @@
 ---
 title: "Top Gaming Discounts During Cyber Monday 2024: Exclusive Offers You Don't Want to Miss | ZDNet"
-date: 2024-12-07T22:09:41.256Z
-updated: 2024-12-13T04:44:37.854Z
+date: 2024-12-17T04:32:19.878Z
+updated: 2024-12-22T01:16:51.415Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ Here are some of our favorite Best Buy deals that remain available on the digita
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Our favorite 48-Hour Flash Sale deals at Best Buy
 
 ![galaxy-s24-ultra-2024](https://www.zdnet.com/a/img/resize/01cdf104edbcfc2824d2887471bb859bd9300f88/2024/07/12/02e3a444-211a-4951-92d4-e777f151db7e/galaxy-s24-ultra-2024.jpg?auto=webp&width=1280)
@@ -37,10 +41,6 @@ Amazon/ZDNET
 * [Jabra Elite 10 Earbuds for $199 (save $50)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fjabra-elite-10-dolby-atmos-true-wireless-in-ear-heaphones-titanium-black%2F6553257.p%3FskuId%3D6553257&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20for%20october%20prime%20day%202024%3A%20still%20available&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals-2024-10-11%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Jabra's latest wireless earbuds have a comfortable and secure fit, good noise cancellation, and excellent sound quality.
 * [Govee Hexa Wall Light Panels for $99 (save $30)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgovee-hexa-wall-light-panels-7-panels-multi%2F6503425.p%3FskuId%3D6503425&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20for%20october%20prime%20day%202024%3A%20still%20available&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals-2024-10-11%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Create a personalized lighting display with inspiration for your gaming room, living room, bedroom, and more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Buy deals under $30
 
 Best Buy/ZDNET
@@ -52,10 +52,6 @@ Best Buy/ZDNET
 * [Norton 360 Deluxe Security Software for $20 (save $55)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fnorton-360-deluxe-3-device-antivirus-internet-security-software-vpn-dark-web-monitoring-1-year-subscription-android-mac-os-windows-apple-ios-digital%2F6346689.p%3FskuId%3D6346689&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20for%20october%20prime%20day%202024%3A%20still%20available&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals-2024-10-11%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Get online protection for up to three devices with this one-year subscription of the popular antivirus software.
 
 **Also:** [**Best Prime Day deals under $25**](https://www.zdnet.com/article/best-prime-day-deals-under-25-2024-10-07/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Buy laptop deals
 
@@ -70,7 +66,7 @@ Best Buy/ZDNET
 **Also:** [**Best Prime Day laptop deals**](https://www.zdnet.com/article/best-early-prime-day-laptop-deals-2024/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Buy TV deals
@@ -90,7 +86,7 @@ Samsung/ZDNET
 **Also: [Best Prime Day TV deals](https://www.zdnet.com/home-and-office/home-entertainment/best-prime-day-tv-deals-10-07-2024/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Buy appliance deals
@@ -108,7 +104,7 @@ LG/ZDNET
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Does Best Buy price match Amazon Prime Day deals?
@@ -120,6 +116,10 @@ No. Best Buy's Price Match Guarantee does not apply to discounts that are exclus
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What are the best October Prime Day 2024 deals?
 
@@ -187,20 +187,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-video-branding-incorporating-watermarks-into-youtube-media/"><u>[New] In 2024, Elevate Video Branding Incorporating Watermarks Into YouTube Media</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-whats-ideal-for-you-understanding-vimeo-membership-tiers-for-2024/"><u>[New] What's Ideal for You? Understanding Vimeo Membership Tiers for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-step-by-step-guide-to-reinventing-your-tiktok-look/"><u>[Updated] 2024 Approved Step-by-Step Guide to Reinventing Your TikTok Look</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-ios-compatible-ps2-games-simulator-roundup/"><u>2024 Approved IOS-Compatible PS2 Games Simulator Roundup</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-pixels-to-perfection-design-tips-for-captivating-banners/"><u>2024 Approved Pixels to Perfection Design Tips for Captivating Banners</u></a></li>
-<li><a href="https://discover-data.techidaily.com/explore-the-ultimate-snagit-replacement-with-allavsoft-seamless-functionality-on-both-mac-and-windows-platforms/"><u>Explore the Ultimate Snagit Replacement with Allavsoft: Seamless Functionality on Both Mac & Windows Platforms!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-lg-is-reaping-profits-in-tv-sector-with-boosted-demand-in-europe-and-expansion-into-streaming-services-analysis-by-zdnet/"><u>How LG Is Reaping Profits in TV Sector with Boosted Demand in Europe and Expansion Into Streaming Services - Analysis by ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-samsung-galaxy-z-flip-5-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Samsung Galaxy Z Flip 5 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-on-streaming-google-meet-directly-to-youtube-channel/"><u>In 2024, Step by Step on Streaming Google Meet Directly to YouTube Channel</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/limited-offer-high-definition-85/"><u>Limited Offer: High-Definition 85</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/massive-800-discount-on-top-rated-lg-oled-television-celebrate-labor-day-with-unbeatable-savings-tech-insights/"><u>Massive $800 Discount on Top-Rated LG OLED Television - Celebrate Labor Day with Unbeatable Savings! | Tech Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/massive-labor-day-discount-top-tier-samsung-television-now-just-43-cheaper-a-detailed-review-techradar/"><u>Massive Labor Day Discount: Top-Tier Samsung Television Now Just 43% Cheaper – A Detailed Review | TechRadar</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mini-led-or-oled-understanding-their-disparities-to-help-select-your-next-tv-purchase/"><u>Mini LED or OLED - Understanding Their Disparities to Help Select Your Next TV Purchase</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/money-saving-lg-mini-led-takes-on-my-g2-oled-how-it-triumphs-in-quality-design-and-price-for-holiday-deals-digital-trends/"><u>Money-Saving LG Mini LED Takes on My G2 OLED - How It Triumphs in Quality, Design & Price for Holiday Deals! | Digital Trends</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/panasonics-triumphant-return-introducing-their-latest-trio-of-cutting-edge-4k-televisions-exclusive-from-zdnet/"><u>Panasonic's Triumphant Return: Introducing Their Latest Trio of Cutting-Edge 4K Televisions - Exclusive From ZDNet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-boost-your-creativity-on-instagram-with-free-filters/"><u>[New] Boost Your Creativity on Instagram with Free Filters</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-mastering-media-making-filmoras-edge-over-democreator/"><u>[New] Mastering Media Making Filmora's Edge Over Democreator</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-youtube-on-fb-maximizing-auto-play-efficiency-for-2024/"><u>[New] YouTube on FB Maximizing Auto-Play Efficiency for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-dive-into-camtasias-ken-burns-feature-rich-tutorial-for-2024/"><u>[Updated] Dive Into Camtasia’s Ken Burns Feature-Rich Tutorial for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-facetime-for-android-the-ten-best-free-alternatives-to-facetime-on-android/"><u>2024 Approved FaceTime for Android The Ten Best Free Alternatives to FaceTime on Android</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-screen-grab-insights-a-critical-appraisal/"><u>2024 Approved Screen Grab Insights A Critical Appraisal</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-tips-for-shaping-images-with-photoshop-curves/"><u>2024 Approved Tips for Shaping Images with Photoshop Curves</u></a></li>
+<li><a href="https://article-files.techidaily.com/a-visual-editor-writes-guide-to-leveraging-luts-in-adobe-premiere-pro/"><u>A Visual Editor' Writes Guide to Leveraging LUTs in Adobe Premiere Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/access-officially-updated-drivers-to-enhance-your-epson-scanning-experience-download-now/"><u>Access Officially Updated Drivers to Enhance Your Epson Scanning Experience – Download Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-update-to-your-epson-wf-3520-compatible-windows-drivers-download/"><u>Easy Update to Your Epson WF-3520: Compatible Windows Drivers Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-download-get-your-latest-wireless-nic-drivers-now/"><u>Effortless Download: Get Your Latest Wireless NIC Drivers Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixing-intel-hd-graphics-630-driver-problems-in-windows-a-comprehensive-guide/"><u>Fixing Intel HD Graphics 630 Driver Problems in Windows – A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-upgrade-to-the-latest-graphics-driver-for-amd-ryzen-3-2200g-cpus/"><u>How to Upgrade to the Latest Graphics Driver for AMD Ryzen 3 2200G CPUs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-officejet-pro-8740-printer-drivers-download-and-install-on-windows-11/"><u>HP OfficeJet Pro 8740 Printer Drivers - Download & Install on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-thunderbolt-3-ports-updated-driver-installation-guide/"><u>Lenovo Thunderbolt 3 Ports: Updated Driver Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-scansnap-ix500-driver-for-windows-easily/"><u>Update ScanSnap iX500 Driver For Windows Easily</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-newest-hp-network-driver-software-on-windows-11-7-and-8-systems/"><u>Update to Newest HP Network Driver Software on Windows 11, 7, and 8 Systems</u></a></li>
 </ul></div>
 

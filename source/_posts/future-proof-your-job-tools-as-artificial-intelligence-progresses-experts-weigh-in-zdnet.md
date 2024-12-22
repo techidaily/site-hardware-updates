@@ -1,7 +1,7 @@
 ---
 title: "Future-Proof Your Job Tools as Artificial Intelligence Progresses: Experts Weigh In (ZDNet)"
-date: 2024-12-06T21:00:09.351Z
-updated: 2024-12-12T18:24:59.052Z
+date: 2024-12-18T08:22:58.648Z
+updated: 2024-12-22T09:34:38.473Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,18 +134,19 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/que-razones-impiden-que-cambie-el-dvd-directamente-a-un-disco-duro-sin-ripear/"><u>¿Qué Razones Impiden Que Cambie El DVD Directamente a Un Disco Duro Sin Ripear?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-unlocking-advanced-functionalities-of-zoom-on-windows-10/"><u>[New] Unlocking Advanced Functionalities of Zoom on Windows 10</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-androids-evolving-landscape-in-virtual-reality360-viewing/"><u>[Updated] 2024 Approved Android's Evolving Landscape in Virtual Reality/360 Viewing</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-elevate-your-images-with-quantum-hdr-expertise/"><u>[Updated] Elevate Your Images with Quantum HDR Expertise</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-expert-techniques-for-integrating-standardized-luts-in-post-production-workflows/"><u>[Updated] Expert Techniques for Integrating Standardized LUTs in Post-Production Workflows</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/decouvrez-les-3-meilleures-methodes-efficaces-pour-restaurer-vos-informations-a-partir-dune-mbr-corrompue-etapes-simplifiees/"><u>Découvrez Les 3 Meilleures Méthodes Efficaces Pour Restaurer Vos Informations À Partir D’une MBR Corrompue : Étapes Simplifiées</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-samsung-m2070-ready-quick-driver-download-guide/"><u>Get Your Samsung M2070 Ready! Quick Driver Download Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-install-webcam-support-in-windows-amoning/"><u>How to Seamlessly Install WebCam Support in Windows amoNing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-pcs-wifi-drivers-in-windows-11-and-10/"><u>How to Update Your PC's WiFi Drivers in Windows 11 and 10</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-stability-showcase-premium-phone-compatible-tripods/"><u>In 2024, Stability Showcase Premium Phone-Compatible Tripods</u></a></li>
-<li><a href="https://win-net.techidaily.com/schritt-fur-schritt-anleitung-zur-nutzung-von-dell-os-wiederherstellungstools-unter-windows-11/"><u>Schritt-Für-Schritt-Anleitung Zur Nutzung Von Dell OS-Wiederherstellungstools Unter Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/successfully-installing-the-latest-mouse-drivers-on-your-windows-7-system/"><u>Successfully Installing the Latest Mouse Drivers on Your Windows 7 System</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-definitive-guide-to-removing-persistent-youtube-channels-on-all-screens-for-2024/"><u>The Definitive Guide to Removing Persistent Youtube Channels on All Screens for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nleash-your-youtube-earnings-achieving-prosperity-at-the-50-written-excerpt-for-2024/"><u>[New] Unleash Your YouTube Earnings Achieving Prosperity at the 50 Written Excerpt for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-top-30-boosting-bots-for-enhanced-discord-servers/"><u>[Updated] 2024 Approved Top 30 Boosting Bots for Enhanced Discord Servers</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-huawei-nova-y91-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/6loh5rqq5zue5ps2562s5pwf6zqc5bcl5rgc5oplus05oml77ya5aac5l2v6yen5paw6zal5qmf5zkm6jmv55cg77yf/"><u>資源回收筒故障尋求援手：如何重新開機和處理？</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-acer-trackpad-drivers-optimized-for-windows-10/"><u>Download the Newest Acer TrackPad Drivers Optimized for Windows 10!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/icloud5/"><u>ICloud画像の下ろし方はじめての人でも簡単に学べる5つの手順完全ガイド</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-evasion-techniques-for-youtube-bans/"><u>In 2024, Evasion Techniques for YouTube Bans</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-basic-printer-and-scanner-drivers-in-windows-11-step-by-step-tutorial/"><u>Install Basic Printer and Scanner Drivers in Windows 11: Step-by-Step Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-your-roccat-mousedeck-today-secure-download-options-below/"><u>Install Your Roccat Mousedeck Today – Secure Download Options Below</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-hp-spectre-x360-driver-downloads-for-windows/"><u>Latest HP Spectre X360 Driver Downloads for Windows</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/masterful-technology-for-virtual-meetings/"><u>Masterful Technology for Virtual Meetings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigate-through-updating-your-pcs-webcam-drivers-on-a-windows-10-platform/"><u>Navigate Through Updating Your PC’s WebCam Drivers on a Windows 10 Platform</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-steps-to-update-your-windows-battery-drivers-a-hassle-free-guide/"><u>Simple Steps to Update Your Window's Battery Drivers: A Hassle-Free Guide!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/webcam-driver-downloads-for-windows-7-fast-and-simple-process/"><u>Webcam Driver Downloads for Windows 7 - Fast and Simple Process</u></a></li>
 </ul></div>
 

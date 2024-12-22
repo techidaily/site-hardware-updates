@@ -1,7 +1,7 @@
 ---
 title: "Unboxing the Apple M3 MacBook Air: Top 3 Surprising Features Explored - Detailed Review by ZDNet"
-date: 2024-12-07T01:16:07.469Z
-updated: 2024-12-12T16:36:14.835Z
+date: 2024-12-15T08:35:26.949Z
+updated: 2024-12-22T03:28:35.428Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ That's right. Apple said the "A" word, and it's not being shy about it, as my af
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple is _officially_ in the AI PC race
@@ -55,7 +55,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Apple also wants you to know that it's _been_ in the [AI PC race](https://www.zdnet.com/article/what-is-an-ai-pc-and-should-you-buy-one/) since the very beginning, with just about every Mac model now carrying neural engines for machine learning. The new MacBook Air is "the best consumer laptop for AI," the company touts in its Monday press release, but we'll have to see for ourselves when we put the 13- and 15-inch models through the wringer soon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. I can finally recommend the Midnight color
@@ -67,7 +67,7 @@ AI aside, there is one subtle design change to the new MacBooks that I really di
 Considering how easy it was to get smudges and marks on the original Midnight color of the MacBook Air -- which made lighter hue options look like rockstars -- this is a welcome change. Having fumbled with the MacBooks for a quick 10-minute photo-op, the fingerprints were noticeable, though not as bad as I remembered on the M2 Air. For me, this makes the Midnight variant recommendable again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Dual-monitor support is a bigger deal than it seems
@@ -110,22 +110,20 @@ All in all, the changes to the newest line of MacBook Air feel subtle on paper b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-get-hd-quality-facebook-videos-on-pcmobile-for-2024/"><u>[New] Get HD Quality Facebook Videos on PC/Mobile for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-vlc-media-recorder-assessment-report/"><u>[New] In 2024, VLC Media Recorder Assessment Report</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-streamlining-conversational-data-with-azure-speech-to-text/"><u>[Updated] Streamlining Conversational Data with Azure Speech to Text</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-ion-air-pro-3-visionary-revolutionizing-action-video/"><u>2024 Approved ION Air Pro 3 Visionary - Revolutionizing Action Video</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808097950-do-you-need-a-vpn-yes-you-do-heres-why/"><u>Do You Need a VPN? Yes, You Do. Here’s Why.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975740753-effortless-driver-update-guide-for-synaptic-ps2-touchpads-get-started-now/"><u>Effortless Driver Update Guide for Synaptic PS/2 Touchpads - Get Started Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-tips-on-resolving-hp-officejet-pro-6978-driver-issues-quickly/"><u>Expert Tips on Resolving HP OfficeJet Pro 6978 Driver Issues Quickly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-logitech-mk710-software-installer-latest-version/"><u>Free Logitech MK710 Software Installer - Latest Version</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722976804189-get-the-newest-software-updates-for-your-msi-x470-download-now/"><u>Get the Newest Software Updates for Your MSI X470 - Download Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-updated-logitech-hd-webcam-c270-drivers-for-a-seamless-experience-on-windows-1011/"><u>Get the Updated Logitech HD Webcam C270 Drivers for a Seamless Experience on Windows 10/11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-4k-capture-gear-the-18-best-ones/"><u>In 2024, Excellent 4K Capture Gear - The 18 Best Ones</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-a58-4g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo A58 4G FRP</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/official-logitech-audio-driver-software-download-for-windows-os-versions-10-7-and-8/"><u>Official Logitech Audio Driver Software - Download for Windows OS Versions: 10, 7, and 8</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-download-guide-for-sound-blaster-z-audio-driver-on-windows-10/"><u>Quick & Easy Download Guide for Sound Blaster Z Audio Driver on Windows 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/saving-your-device-from-disaster-expert-tips-for-drying-out-a-soaked-iphoneipod/"><u>Saving Your Device From Disaster: Expert Tips for Drying Out a Soaked iPhone/iPod</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/score-big-savings-walmart-slashes-24-from-apples-airtag-bundle-for-labor-day-insider-tips-from-zdnet/"><u>Score Big Savings: Walmart Slashes $24 From Apple's AirTag Bundle for Labor Day - Insider Tips From ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-or-get-new-drivers-for-your-hp-officejet-n35055-device/"><u>Update or Get New Drivers for Your HP OfficeJet N35055 Device</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-going-beyond-why-you-might-want-an-alternate-to-vidmas-reader/"><u>[Updated] 2024 Approved Going Beyond Why You Might Want an Alternate to Vidma's Reader</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-seamless-stories-from-the-past-accessing-older-fb-content-on-pcmobile/"><u>[Updated] Seamless Stories From The Past Accessing Older FB Content on PC/Mobile</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/corsair-fans-secure-optimal-compatibility-with-h80i-v2-driver-update/"><u>Corsair Fans: Secure Optimal Compatibility with H80I V2 Driver Update.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-canon-ip110-printer-drivers-for-latest-windows-versions-11-10-8-and-7/"><u>Download Canon IP110 Printer Drivers for Latest Windows Versions (11, 10, 8 & 7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-logitech-brio-webcam-drivers-and-software-downloads-for-windows-win-1087/"><u>Easy Setup: Logitech Brio Webcam Drivers & Software Downloads for Windows (Win 10/8/7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhancing-your-brother-device-functionality-windows-compatible-driver-upgrades-available-now/"><u>Enhancing Your Brother Device Functionality: Windows-Compatible Driver Upgrades Available Now!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expanding-creative-horizons-large-scale-output-via-canva-and-chatgpt/"><u>Expanding Creative Horizons: Large Scale Output via Canva and ChatGPT</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-officejet-pro-8740-drivers-for-windows-operating-systems-win11-win10-win8/"><u>Get the Latest HP OfficeJet Pro 8740 Drivers for Windows Operating Systems (Win11, Win10, Win8)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-geforce-gtx-460-graphics-card-drivers-installed-on-your-pc/"><u>How to Get the Latest GeForce GTX 460 Graphics Card Drivers Installed on Your PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-infinix-hot-40i-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Infinix Hot 40i Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-realme-c67-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Realme C67 5G online without jailbreak</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-tecno-camon-20-premier-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Tecno Camon 20 Premier 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211455276-9798330397693-mastering-alchemy/"><u>Mastering Alchemy | Free Book</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quick-fixes-to-keep-your-photos-app-fixed-on-win-11-for-2024/"><u>Quick Fixes to Keep Your Photos App Fixed on Win 11 for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-complete-blueprint-for-screen-capture-excellence-with-adobe-captivity-for-2024/"><u>The Complete Blueprint for Screen Capture Excellence with Adobe Captivity for 2024</u></a></li>
 </ul></div>
 

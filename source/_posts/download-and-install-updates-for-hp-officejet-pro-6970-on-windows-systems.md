@@ -1,7 +1,7 @@
 ---
 title: Download & Install Updates for HP OfficeJet Pro 6970 on Windows Systems
-date: 2024-08-23T13:51:41.022Z
-updated: 2024-08-24T13:51:41.022Z
+date: 2024-12-19T03:07:48.518Z
+updated: 2024-12-22T01:22:14.698Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/7e038d9e1eb98894fb3abf6a7f282bd0c46245669
 1. **[Download HP OfficeJet 6970 Pro driver manually](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Update HP OfficeJet 6970 Pro driver automatically](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Download HP OfficeJet 6970 Pro driver manually
 
  The HP manufacturer provides the driver software for their printers, so you can manually download the printer driver you need from the HP support website.
@@ -37,6 +41,10 @@ Here’s what you need to do:
  2) Type**OfficeJet Pro 6970** in the search box and choose**HP OfficeJet Pro 6970 All-in-One Printer series** in the drop-down list. Then the support page for this printer will open.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-263.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Software, Drivers and Firmware** on the left.
 
@@ -53,8 +61,9 @@ Here’s what you need to do:
  If this method doesn’t work for you, don’t worry. Move on to the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Update HP OfficeJet 6970 Pro driver automatically
 
  If you don’t have the time, patience, or computer skills, you can update your HP OfficeJet 6970 Pro driver automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -70,13 +79,9 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-268.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged HP printer to automatically download the correct version of this driver, then you can manually install it (you can do this with the**Free** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or outdated on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – You’ll be prompted to upgrade when you click**Update All** ).
@@ -84,8 +89,9 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-270.png)
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Once updated, restart your computer to take effect.
 
  If you come across any problem with Driver Easy, please feel free to contact our support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -102,8 +108,6 @@ Here’s what you need to do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +115,21 @@ Here’s what you need to do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-tuneful-images-the-apple-fusion-method-for-2024/"><u>[New] Tuneful Images The Apple Fusion Method for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-gain-on-ig-unveiling-high-payoff-content-strategies-for-2024/"><u>[Updated] Gain on IG Unveiling High-Payoff Content Strategies for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-photo-booth-woes-why-videos-halt-in-2024/"><u>[Updated] Photo Booth Woes Why Videos Halt, In 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-digital-audio-prowess-the-top-9-mic-recorders-for-23/"><u>2024 Approved Digital Audio Prowess The Top 9 Mic Recorders for '23</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harnessing-high-dynamic-range-the-future-of-photo-techniques/"><u>2024 Approved Harnessing High Dynamic Range The Future of Photo Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazing-deal-alert-grab-a-15-inch-asus-laptop-with-essential-ports-at-walmart-for-only-250-spotted-by-zdnet/"><u>Amazing Deal Alert: Grab a 15-Inch ASUS Laptop with Essential Ports at Walmart for Only $250 - Spotted by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazingly-affordable-laptop-with-stunning-display-a-must-have-find/"><u>Amazingly Affordable Laptop with Stunning Display: A Must-Have Find!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/black-friday-blowout-save-big-with-this-deal-250-off-the-versatile-power-packed-dell-inspiron-16-inch-2-in-1-laptop-zdnet/"><u>Black Friday Blowout! Save Big with This Deal: $250 Off the Versatile, Power-Packed Dell Inspiron 16-Inch 2-in-1 Laptop | ZDNET</u></a></li>
+<li><a href="https://win-bits.techidaily.com/error-al-acceder-a-la-copia-de-respaldo-oculto-en-windows-como-solucionarlo/"><u>Error Al Acceder a La Copia De Respaldo Oculto en Windows - Cómo Solucionarlo</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-slow-motion-camera-apps-for-android-and-iphone/"><u>In 2024, Best Slow Motion Camera Apps for Android And iPhone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-microsofts-cutting-edge-surface-pro-10-and-laptop-nv6-with-advanced-ai-integration-the-latest-innovations-unveiled-zdnet/"><u>Introducing Microsoft's Cutting-Edge Surface Pro 10 and Laptop Nv6 with Advanced AI Integration - The Latest Innovations Unveiled | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-productivity-with-the-satechi-universal-usb-c-hub-at-only-150-review/"><u>Maximize Productivity with the Satechi Universal USB-C Hub at Only $150 Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/slash-your-costs-secure-an-incredible-discount-of-over-650-on-the-latest-acer-gaming-rig-now-available-on-newegg/"><u>Slash Your Costs: Secure an Incredible Discount of Over $650 on the Latest Acer Gaming Rig - Now Available on Newegg!</u></a></li>
+</ul></div>
 

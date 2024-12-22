@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Vintage Technique: Transferring Data From Your PC to Mobile Device"
-date: 2024-08-28T02:05:32.971Z
-updated: 2024-08-29T02:05:32.971Z
+date: 2024-12-18T16:23:37.453Z
+updated: 2024-12-22T01:10:31.595Z
 tags:
   - android
 categories:
@@ -27,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/4c147f639cee2585f7f88020d64ed44f6ab3d2fb8
  You might expect that moving files from one device to another would be simple by now. That's mostly true if all of your devices come from the same company, but that's often not the case. Imagine my surprise when I re-stumbled across a 53-year-old way of moving files around that is still faster than most of the modern methods. It's known as FTP.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Is FTP?
 
  FTP stands for "File Transfer Protocol." Developer Abhay Bhushan created the protocol way back in 1971\. He was inducted into the Internet Hall of Fame in 2023.
@@ -36,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/4c147f639cee2585f7f88020d64ed44f6ab3d2fb8
  FTP involves sending files from a server device to a client. This can take place over the internet or a local area network. For our purposes, we'll be using FTP to send files from one device (the server) to another (the client) connected to the same Wi-Fi network.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Download an Alternative File Manager
 
  You likely need to begin by downloading an alternative file manager. The default file managers for Android phones, like Files by Google and Samsung My Files, don't come with FTP support baked in.
@@ -47,8 +49,9 @@ thumbnail: https://thmb.techidaily.com/4c147f639cee2585f7f88020d64ed44f6ab3d2fb8
  You can download Material Files from the [Play Store](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004633/https://play.google.com/store/apps/details?id=me.zhanghai.android.files) or, if that isn't an option (say, you removed all Google software and [turned your Android phone into a dumb phone](https://hardware-tips.techidaily.com/expert-recommendations-on-top-password-storage-apps-from-no-cost-to-full-price-options/)), you can find the app on [F-Droid](https://f-droid.org/packages/me.zhanghai.android.files/) instead.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Activate the FTP Server
 
  The process is largely similar regardless of which file manager you choose. Here's how it looks in Material Files.
@@ -64,8 +67,9 @@ Close
  If you're not at home, [set up a hotspot on your phone](https://article-posts.techidaily.com/a-filmmakers-approach-to-classroom-instructional-videos-for-2024/) and connect your other device to that network before enabling the FTP connection. Or you should [learn how to use SFTP instead](https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-f14-5g-pattern-lock-screen-by-drfone-android/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Access the FTP Server from Your Computer
 
  FTP used to be baked into web browsers, but you can still access it through file managers. You connect to an FTP address using the prefix ftp:// followed by the numbers visible on your phone. For this example, the numbers are ftp://192.168.68.62:2121/.
@@ -77,16 +81,13 @@ Close
 ![Prompt for FTP username and password in GNOME Files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-from-2024-08-06-10-28-40.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  At this point, the files on your phone will appear on your file manager as though you were browsing local files on your computer. You can manage these files as you would local files. Copy and paste entire folders. Reorganize your phone's internal storage. Make backups. The works.
 
 ![GNOME Files connected to an FTP server.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-from-2024-08-06-10-24-53.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  You can manage files even more quickly by downloading a dedicated FTP client like [Filezilla](https://filezilla-project.org), which is available for Windows, macOS, and Linux. You can even [use FTP in a terminal](https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y27s-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/) if you so choose.
 
  When you're done, be sure to turn the server back off on your phone.
@@ -101,8 +102,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +109,26 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-crafting-motivational-life-vlogs-for-fan-engagement/"><u>[New] 2024 Approved Crafting Motivational Life Vlogs for Fan Engagement</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-up-close-and-personal-tips-for-sharper-videos-on-videoleap/"><u>[New] 2024 Approved Up Close & Personal Tips for Sharper Videos on Videoleap</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-googles-portal-for-efficient-podcast-submission/"><u>[Updated] Google's Portal for Efficient Podcast Submission</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-visionguard-recorder-update-and-assessment-2023/"><u>[Updated] VisionGuard Recorder Update and Assessment 2023</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-unveiling-the-secrets-to-youtube-shorts-template-creation/"><u>2024 Approved Unveiling the Secrets to YouTube Shorts Template Creation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/choosing-your-ideal-screen-neo-qled-or-oled-a-comprehensive-guide-by-zdnet/"><u>Choosing Your Ideal Screen: Neo QLED or OLED - A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/conference-committees-resolve-differences-between-house-and-senate-versions-of-a-bill/"><u>Conference Committees Resolve Differences Between House and Senate Versions of a Bill.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-offer-alert-save-big-on-premium-85-inch-tvs-for-only-900-limited-time-available-this-labor-day-holiday-act-fast/"><u>Exclusive Offer Alert: Save Big on Premium 85-Inch TVs for Only $900, Limited Time Available This Labor Day Holiday - Act Fast!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-bang-for-your-buck-with-sony-bravia-the-best-budget-friendly-television-we-recommend-now-on-sale-cnet/"><u>Get the Most Bang for Your Buck with Sony Bravia, The Best Budget-Friendly Television We Recommend - Now On Sale! | CNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/june-2024s-top-discounted-electronics-at-best-buy-showcased-by-zdnet/"><u>June 2024'S Top Discounted Electronics at Best Buy Showcased by ZDNet</u></a></li>
+<li><a href="https://win-docs.techidaily.com/leading-seo-experts-based-in-jeddah-discover-top-rankings-with-seo-powersuites-assistance/"><u>Leading SEO Experts Based in Jeddah - Discover Top Rankings with SEO PowerSuite's Assistance</u></a></li>
+<li><a href="https://article-posts.techidaily.com/leading-spots-for-digital-3d-glamour-text-artistry-for-2024/"><u>Leading Spots for Digital 3D Glamour Text Artistry for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/massive-savings-alert-grab-the-85-tcl-television-at-a-stunning-25-discount-post-labor-day-insights-for-smart-shoppers/"><u>Massive Savings Alert: Grab the 85 TCL Television at a Stunning 25% Discount Post-Labor Day - Insights for Smart Shoppers!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-pathway-to-college-savings-with-apple-musics-student-discount-program-expert-advice/"><u>Navigating the Pathway to College Savings with Apple Music's Student Discount Program: Expert Advice</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/prime-day-extravaganza-secure-your-discounted-samsung-frame-television-for-35-less-today-advice-and-tips-by-zdnet/"><u>Prime Day Extravaganza: Secure Your Discounted Samsung Frame Television for 35% Less Today, Advice & Tips by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/professional-picks-for-high-quality-tvs-below-1k-insiders-selection-on-zdnet/"><u>Professional Picks for High-Quality TVs Below $1K | Insider's Selection on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionize-your-living-room-unlock-a-decade-of-updates-with-free-software-enhancements-on-samsung-ai-tvs/"><u>Revolutionize Your Living Room: Unlock a Decade of Updates with Free Software Enhancements on Samsung AI TVs</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-oppo-reno-8t-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Oppo Reno 8T 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unlocking-zooms-potential-by-leveraging-skype-for-2024/"><u>Unlocking Zoom's Potential by Leveraging Skype for 2024</u></a></li>
+</ul></div>
 

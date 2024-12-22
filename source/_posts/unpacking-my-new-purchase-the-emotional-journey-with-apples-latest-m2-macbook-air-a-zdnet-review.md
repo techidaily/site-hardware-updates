@@ -1,7 +1,7 @@
 ---
 title: "Unpacking My New Purchase: The Emotional Journey with Apple's Latest M2 MacBook Air - A ZDNet Review"
-date: 2024-11-30T22:05:17.850Z
-updated: 2024-12-06T19:18:04.568Z
+date: 2024-12-16T07:57:09.217Z
+updated: 2024-12-22T05:52:11.885Z
 tags:
   - laptops
 categories:
@@ -35,7 +35,7 @@ Getty/MacLife Magazine
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why it's the top product of 2022
@@ -43,7 +43,7 @@ Getty/MacLife Magazine
 One of the other common criticisms of this product when it was first released was that it's now a bit of a tweener in the Mac product line -- with the very-capable [M1 MacBook Air](https://go.shopyourlikes.com/pi/244cb3ab772a00eb37169c21806273bf37215920?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2) still on sale and now serving as the entry-level, under-$1,000 Mac laptop and the robust [MacBook Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3C57XLR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd4f3244e-a7a4-4576-bbf5-65d2a79d96d2%7Cdtp&dtb=1) line being the go-to option for professionals and creators who need more oomph. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -65,7 +65,7 @@ My conclusion: The M2 MacBook Air can now handle about 75% of what you used to n
 That can potentially save you $500-$1,000\. The M2 MacBook Air I tested included the 10-core GPU and 16 GB of RAM and retails for $1,700\. But, a comparable MacBook Pro is going to run you at least $2,000-$2,500.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -95,7 +95,7 @@ While no Apple product ever really flies under the radar, the accomplishments of
 You can watch our short video summing why the M2 MacBook Air is ZDNET's 2022 Product of the Year as a [YouTube Short](https://www.youtube.com/shorts/SlyOpp2rlKk) (embedded below), [Instagram Reel](https://www.instagram.com/reel/CmtsrSzqrrb/?hl=en), or on [TikTok](https://www.tiktok.com/@zdnet%5Fofficial/video/7182202897806019886).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Honorable mentions
@@ -142,14 +142,22 @@ You can watch our short video summing why the M2 MacBook Air is ZDNET's 2022 Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-simplifying-speech-integration-into-instagram-content/"><u>[New] In 2024, Simplifying Speech Integration Into Instagram Content</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-pro-free-mac-screen-logger/"><u>[Updated] 2024 Approved Pro-Free Mac Screen Logger</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-satirists-handbook-video-creation-for-comedy/"><u>[Updated] The Satirist's Handbook Video Creation for Comedy</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-on-camera-charisma-a-guide-to-personal-video-content/"><u>2024 Approved On-Camera Charisma A Guide to Personal Video Content</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-peak-performance-pc-components-selecting-the-optimal-cpu-for-gaming-enthusiasts/"><u>Discover Peak Performance PC Components: Selecting the Optimal CPU for Gaming Enthusiasts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-msi-gs65-up-to-date-with-the-latest-windows-drivers-here/"><u>Get Your MSi GS65 Up-to-Date with the Latest Windows Drivers Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-synaptic-driver-installation-on-windows/"><u>Quick and Easy Synaptic Driver Installation on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-compatibility-problems-how-to-correct-incorrect-sxs-configurations-in-windows-10-guide/"><u>Resolve Compatibility Problems: How to Correct Incorrect SxS Configurations in Windows 10 [Guide]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-and-hardware-reviews/"><u>Tom's Tech Insights & Hardware Reviews</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-design-a-great-gaming-youtube-banner-with-templates-for-2024/"><u>[New] How to Design a Great Gaming YouTube Banner with Templates for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-voice-logger-innovations-for-mac-users-unveiling-the-best-5-apps/"><u>[New] Voice Logger Innovations for Mac Users Unveiling the Best 5 Apps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-easy-laughs-await-best-free-meme-samples/"><u>[Updated] Easy Laughs Await Best FREE Meme Samples</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-10-best-tiktok-filters-to-make-your-videos-stand-out/"><u>[Updated] In 2024, 10 Best TikTok Filters to Make Your Videos Stand Out</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-efficient-hosts-guide-to-online-meeting-planning/"><u>2024 Approved The Efficient Host's Guide to Online Meeting Planning</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-poco-x5-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/avoid-hassles-with-our-simple-guide-to-installing-the-arduino-nano-driver-on-windows/"><u>Avoid Hassles with Our Simple Guide to Installing the Arduino Nano Driver on Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-conversational-ai-like-chatgpt-provide-critical-help-in-survival-situations/"><u>Can Conversational AI Like ChatGPT Provide Critical Help in Survival Situations?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-enjoy-optimal-performance-with-insignia-drivers-for-windows/"><u>Download and Enjoy Optimal Performance with Insignia Drivers for Windows!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-setup-for-samsung-m207eus-download-the-latest-printer-drivers-today/"><u>Effortless Setup for Samsung M207eus: Download the Latest Printer Drivers Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-hp-z440-workstation-graphics-card-drivers-free-downloads-available-now/"><u>Get the Newest HP Z440 Workstation Graphics Card Drivers – Free Downloads Available Now!</u></a></li>
+<li><a href="https://windows11.techidaily.com/guiding-users-through-windows-error-0x0000004e-woes/"><u>Guiding Users Through Windows' Error 0X0000004E Woes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-amd-radeon-r9-series-drivers-on-your-pc-with-windows-os/"><u>How to Get the Newest AMD Radeon R9 Series Drivers on Your PC with Windows OS</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-samsung-galaxy-f54-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Samsung Galaxy F54 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-fix-how-to-swiftly-install-the-newest-intel-dual-band-ac-3160-wi-fi-driver/"><u>Instant Fix: How to Swiftly Install the Newest Intel Dual Band AC 3160 Wi-Fi Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-setup-download-drivers-for-brother-mfc-7360n-on-pcs-running-windows-1187/"><u>Quick and Simple Setup: Download Drivers for Brother MFC-7360N on PCs Running Windows 11/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/realtek-wireless-lan-driver-issue-in-windows-11107-fixed/"><u>Realtek Wireless LAN Driver Issue in Windows 11/10/7 [Fixed]</u></a></li>
 </ul></div>
 

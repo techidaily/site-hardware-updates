@@ -1,7 +1,7 @@
 ---
 title: "The OnePlus Solution: Embracing Innovation Beyond the Folded Screen Experience"
-date: 2024-09-01T05:41:48.831Z
-updated: 2024-09-02T05:41:48.831Z
+date: 2024-12-17T17:59:17.041Z
+updated: 2024-12-22T05:20:05.924Z
 tags:
   - android
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/72f83f594e8347a65931f8cd6726d7752e9fa455e
 ---
 
 ## The OnePlus Solution: Embracing Innovation Beyond the Folded Screen Experience
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -108,6 +112,10 @@ Expand
 
 [See at OnePlus](https://onepluscom.pxf.io/c/5597632/916678/12532?subId1=UUhtgUeUpU2000740&subId2=ehtg&u=https%3A%2F%2Fwww.oneplus.com%2Fus%2Flaunch%2Fopen) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  OnePlus Open Design: Size Matters
 
 ![OnePlus Open in black and green.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/53229760491_b73e0c9438_o.jpg) 
@@ -146,9 +154,6 @@ Close
 
 ![OnePlus Open with inside display opened.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/oneplus-open-28.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  The OnePlus Open has a 6.3-inch outside display with a resolution of 2484 x 1116 and a 20:9 aspect ratio. The interior display is 7.8 inches with a 2440 x 2268 resolution and nearly a 1:1 aspect ratio. Both displays are capable of up to 120Hz refresh rate and 2800 nits at peak brightness.
@@ -173,6 +178,10 @@ Close
 
 ![OnePlus Open home screen launcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/oneplus-open-32.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Joe Fedewa / How-To Geek
 
  At the time of writing in October 2023, the OnePlus Open was running OxygenOS 13.2 based on Android 13\. Software is incredibly important for foldables, and this is OnePlus’ first attempt at this form factor. My experience was mostly good, but there were some definite quirks.
@@ -180,6 +189,10 @@ Joe Fedewa / How-To Geek
  There’s not much to say about the software on the outside display. It’s the regular OxygenOS experience for phones. I’m generally a fan of what OnePlus is doing with its software, but there are some obvious influences from other companies. One influence that I liked is the iPhone App Library-esque large home screen folders that can launch apps without opening the full folder. One I’ve never found particularly useful is the “Shelf,” which is a secondary screen exclusively for widgets. I don’t know why that exists when I can put everything I need on the home screen.
 
 ![OnePlus Open with split screen apps and keyboard open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/oneplus-open-4.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
 
@@ -201,9 +214,6 @@ Close
 
  Overall, I was impressed with OxygenOS on a foldable device. There are some features that I think I would genuinely miss if I switched to a Pixel Fold or Galaxy Z Fold. It's not a perfect OS by any means, but the problems can be solved with updates. Oh, and OnePlus, please stop forcing a red lock screen clock on everyone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ##  OnePlus Open Performance & Battery Life: Awesome
 
 ![OnePlus Open running four apps at once.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/oneplus-open-21.jpg) 
@@ -218,29 +228,22 @@ Joe Fedewa / How-To Geek
 
 ![OnePlus Open battery settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot_2023-10-15-00-27-21-87_0ba066473b79d6e213a1f6f52505e2ee.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Like most OnePlus devices, the Open is equipped with the company’s “SUPERVOOC” fast wired charging. The 67W charging can take the battery from 1-100% in around 40 minutes, which is a pretty incredible feat. However, I have to admit, as cool as that is, I would much rather have wireless charging. With battery life this good, I never really needed a super fast top-up at an inopportune time.
 
  Performance and battery life is a category where I feel like the less I have to say, the better. To be a successful tablet-like foldable, the OnePlus Open needed to be powerful and it needed to have a long-lasting battery. Check and check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  OnePlus Open Camera Quality: Pretty Good For OnePlus
 
 ![OnePlus Open rear camera array.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/oneplus-open-8.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Joe Fedewa / How-To Geek
 
  OnePlus excels at a lot of things, but I don’t think the company has ever truly _nailed_ cameras. That’s the case again with the OnePlus Open, but it's very close to being great.
@@ -266,15 +269,13 @@ Joe Fedewa / How-To Geek
  Overall, I think this is probably one of—if not _the_—best camera setups OnePlus has shipped. That being said, it seems like no matter which phone I review, I always end up preferring the photos from a Pixel phone. Take that for whatever it’s worth.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Should You Buy the OnePlus Open?
 
 ![OnePlus Open slightly opened on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/oneplus-open-9.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  As mentioned, the OnePlus Open is the first tablet-like foldable I've used. I’ve been skeptical of how useful this form factor would actually be for me. Do I really need a tablet at the ready on me at all times? The vertical flip-style foldable phones seemed more practical. I think I'm a believer now.
@@ -282,6 +283,10 @@ Joe Fedewa / How-To Geek
  The real magic of the OnePlus Open is its size. That was really my concern about this style of foldable. Most of the time, when I was doing stuff out in the world, I didn’t open the full display. So, if the device was super heavy, it'd feel like carrying around extra weight for no reason. The fact that it’s lightweight and thin enough to feel like a typical smartphone makes the inside display a cherry on top.
 
 ![OnePlus Open in black and green.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/53230069333_a424095a91_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -291,14 +296,8 @@ Justin Duino / How-To Geek
 
 ![OnePlus Open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/productstill_2cmf_01_rgb-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 #####  OnePlus Open
 
 8/ 10 
@@ -375,8 +374,6 @@ Expand
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -384,4 +381,21 @@ Expand
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-insider-tips-for-facebook-cover-video-mastery/"><u>[New] 2024 Approved Insider Tips for Facebook Cover Video Mastery</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-10plus-top-free-youtube-image-extractors/"><u>[New] In 2024, 10+ Top FREE YouTube Image Extractors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1k-discounted-lenovo-device-ideal-for-seamless-hybrid-working-exclusive-insight-from-zdnet/"><u>$1K Discounted Lenovo Device Ideal for Seamless Hybrid Working - Exclusive Insight From ZDNet!</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-oppo-a1-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Oppo A1 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/leveraging-facebook-for-career-enhancement/"><u>Leveraging Facebook for Career Enhancement</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/octobers-top-vr-offer-meta-unveils-incredible-sale-on-their-latest-512gb-quest-pro-for-prime-day-shoppers-detailed-review/"><u>October's Top VR Offer: Meta Unveils Incredible Sale on Their Latest 512GB Quest Pro for Prime Day Shoppers - Detailed Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-the-hp-victus-15-gaming-laptop-for-a-steal-this-prime-day-only-530-at-best-buy-zdnet/"><u>Score the HP Victus 15 Gaming Laptop for a Steal This Prime Day - Only $530 at Best Buy | ZDNET</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/ssd-to-hdd-data-transfer-methods-on-windows-11-two-effective-approaches/"><u>SSD-to-HDD Data Transfer Methods on Windows 11: Two Effective Approaches</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-maximizing-your-workflow-with-the-new-thunderbolt-dock-and-its-ingenious-power-functionality-for-windows-users-zdnet/"><u>The Ultimate Guide to Maximizing Your Workflow with the New Thunderbolt Dock and Its Ingenious Power Functionality for Windows Users | ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/top-software-fur-das-kopieren-von-ssds-auf-einen-usb-speicherstick-unter-windows-11-10-8-7/"><u>Top Software Für Das Kopieren Von SSDs Auf Einen USB-Speicherstick Unter Windows 11 / 10 / 8 / 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-the-top-rated-portable-laptop-ideal-for-telecommuters-insider-review/"><u>Ultimate Guide: The Top-Rated Portable Laptop Ideal for Telecommuters - Insider Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-this-lenovo-laptop-is-a-game-changer-for-serious-users-an-in-depth-review/"><u>Why This Lenovo Laptop Is a Game-Changer for Serious Users: An In-Depth Review</u></a></li>
+</ul></div>
 

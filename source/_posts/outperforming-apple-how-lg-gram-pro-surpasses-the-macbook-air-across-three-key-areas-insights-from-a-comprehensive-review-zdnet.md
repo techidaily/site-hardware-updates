@@ -1,7 +1,7 @@
 ---
 title: "Outperforming Apple: How LG Gram Pro Surpasses the MacBook Air Across Three Key Areas - Insights From a Comprehensive Review | ZDNet"
-date: 2024-12-05T17:13:37.035Z
-updated: 2024-12-12T20:14:58.114Z
+date: 2024-12-14T23:44:53.936Z
+updated: 2024-12-21T18:21:42.944Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -48,10 +48,6 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 
 How did this happen? Let's dive in.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The experience is familiar
 
 This laptop is a radical shift in the Windows ecosystem, but it doesn't feel all that different from its predecessors. In fact, it's almost indistinguishable from the Intel-powered Surface Pro 9 that's sitting on my desk alongside it. The slim bezels around the displays of the two devices are nearly the same dimensions. The new device, at 1.9 pounds, is the same weight as the Surface Pro 9 and is a few ounces heavier than the Surface Pro X, although that's not something you really notice until you have to lug it through an airport as you rush to make a connection. The Type Cover from the older Surface Pro clicked into place on the Surface Pro 11, exactly as expected.
@@ -65,7 +61,7 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -85,7 +81,7 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -125,7 +121,7 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The AI story is incomplete
@@ -147,6 +143,10 @@ The Paint and Photos apps are also loaded with AI-based features for creating an
 The real question is whether those features are powerful enough to make you switch from your current image-processing tool to one of Microsoft's built-in options. History says that's a pretty big ask.
 
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How we test laptops
 
@@ -192,18 +192,20 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-mastery-in-gameye-advanced-recording-tips-for-2024/"><u>[New] Mastery in GamEye Advanced Recording Tips for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solution-center-finding-hidden-network-devices-in-win-10/"><u>[Solution Center] Finding Hidden Network Devices in Win 10</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-5-best-live-stream-video-conference-recorders/"><u>[Updated] 2024 Approved 5 Best Live Stream Video Conference Recorders</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-game-modders-and-tutorial-content-leaders/"><u>[Updated] 2024 Approved Game Modders & Tutorial Content Leaders</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cant-get-into-doom-eternal-master-the-techniques-to-resolve-launch-errors/"><u>Can't Get Into DOOM Eternal? Master the Techniques to Resolve Launch Errors</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/demystifying-ai-game-generators-for-2024/"><u>Demystifying AI Game Generators for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-updated-drivers-for-hp-officejet-t4500-printer-release/"><u>Download Updated Drivers for HP Officejet T4500 Printer, Release</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-motorola-moto-g84-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Motorola Moto G84 5G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-prime-racing-thrills-quintet-of-choice/"><u>In 2024, Prime Racing Thrills Quintet of Choice</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-drivers-for-logitech-gaming-steering-wheel-compatible-with-modern-windows-os-versions/"><u>Latest Drivers for Logitech Gaming Steering Wheel - Compatible with Modern Windows OS Versions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/official-nvidia-rtx-3070-ti-graphics-card-driver-free-download-for-windows-1187-users/"><u>Official NVIDIA RTX 3070 Ti Graphics Card Driver: Free Download for Windows 11/8/7 Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/resizing-icons-effortlessly-in-windows-10-a-step-by-step-guide/"><u>Resizing Icons Effortlessly in Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/tech-giant-intel-under-scrutiny-uncovering-the-details-of-a-recent-cpu-stability-lawsuit/"><u>Tech Giant Intel Under Scrutiny: Uncovering the Details of a Recent CPU Stability Lawsuit</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-step-by-step-strategy-for-quick-removal-on-youtube/"><u>[Updated] 2024 Approved Step-by-Step Strategy for Quick Removal on YouTube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-demystifying-income-flow-to-creators-within-the-short-video-model/"><u>[Updated] Demystifying Income Flow to Creators Within the Short Video Model</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-elite-pace-setter-pc-titles/"><u>[Updated] In 2024, Elite Pace-Setter PC Titles</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-logging-live-audio-on-the-go-a-user-friendly-manual-for-2024/"><u>[Updated] Logging Live Audio On-the-Go A User-Friendly Manual for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-my-entire-setup-changed/"><u>A Week with an Ergonomic Split Keyboard - How My Entire Setup Changed</u></a></li>
+<li><a href="https://win-bits.techidaily.com/best-free-streaming-services-for-music-videos-find-and-watch-your-favorite-tunes-online-and-off/"><u>Best Free Streaming Services for Music Videos: Find & Watch Your Favorite Tunes Online and Off</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-the-years-finest-tech-marvels-leading-gizmos-and-tools-of-2e23-spotlighted-by-zdnet/"><u>Explore the Year's Finest Tech Marvels: Leading Gizmos and Tools of 2E23 Spotlighted by ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-iphone-wireless-charging-issues-top-7-tips-and-tricks/"><u>How To Fix iPhone Wireless Charging Issues - Top 7 Tips & Tricks!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-shakes-up-laptop-industry-with-innovative-approach-that-even-apple-cant-match-expert-analysis/"><u>HP Shakes Up Laptop Industry with Innovative Approach that Even Apple Can't Match | Expert Analysis</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/reclaiming-your-work-six-effective-methods-to-restore-microsoft-word-docx-documents/"><u>Reclaiming Your Work: Six Effective Methods to Restore Microsoft Word (DOCX) Documents</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/restoring-default-sound-configuration-on-windows-a-step-by-step-guide/"><u>Restoring Default Sound Configuration on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-upgrades-enabling-vintage-dvd-playback-on-the-latest-apple-m-series-mac-computers/"><u>Seamless Upgrades: Enabling Vintage DVD Playback on the Latest Apple M-Series Mac Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-project-sputnik-the-secret-integration-of-ubuntu-on-premium-dell-systems-insights/"><u>Unveiling Project Sputnik: The Secret Integration of Ubuntu on Premium Dell Systems - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnets-battle-ready-4k-laptop-outshines-dell-latitude-an-in-depth-torture-test-review/"><u>ZDNet's Battle-Ready $4K Laptop Outshines Dell Latitude: An In-Depth Torture Test Review</u></a></li>
 </ul></div>
 

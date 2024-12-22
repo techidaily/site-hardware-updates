@@ -1,7 +1,7 @@
 ---
 title: "Asus' Discreet Marvel: A Design That Hides Stellar Creative Capabilities Revealed by ZDNet"
-date: 2024-12-10T22:17:26.177Z
-updated: 2024-12-13T00:36:55.594Z
+date: 2024-12-21T03:24:33.543Z
+updated: 2024-12-21T20:36:10.681Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,22 +112,20 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/download-instructions-how-to-install-logitechs-g-pro-controller-on-your-pc-windows-111087/"><u>[Download Instructions] How to Install Logitech's G Pro Controller on Your PC (Windows 11/10/8/7)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-navigating-the-world-of-virtual-backgrounds-for-online-media-professionals/"><u>[New] 2024 Approved Navigating the World of Virtual Backgrounds for Online Media Professionals</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-hone-your-message-effective-use-of-templates-for-shorts/"><u>[New] In 2024, Hone Your Message Effective Use of Templates for Shorts</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-best-20-facebook-jail-memes-to-brighten-up-your-day-filmora/"><u>[Updated] Best 20 Facebook Jail Memes to Brighten Up Your Day - Filmora</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/can-file-restoration-assist-in-retrieving-deleted-information-insights-from-yl-computings-expertise/"><u>Can File Restoration Assist in Retrieving Deleted Information: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-tutorial-download-and-install-canon-mf4500-printer-driver-today/"><u>Complete Tutorial: Download & Install Canon MF4500 Printer Driver Today!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-leading-ios-applications-for-business-in-2eby-microsoft-2022s-top-rated-selection/"><u>Discover the Leading iOS Applications for Business in 2Eby Microsoft: 2022'S Top-Rated Selection</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-ultimate-guide-to-installing-msi-sound-card-drivers-on-your-pc/"><u>Free Download: Ultimate Guide to Installing MSI Sound Card Drivers on Your PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-samsung-m2020-driver-software-for-your-phone-here/"><u>Get the Latest Samsung M2020 Driver Software for Your Phone Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-updated-epson-workforce-ds-30-software-compatible-with-windows-1087/"><u>Get the Updated Epson WorkForce DS-30 Software Compatible with Windows 10/8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-acer-device-online-free-wifi-drivers-and-step-by-step-setup-tutorials/"><u>Get Your Acer Device Online: FREE WiFi Drivers & Step-by-Step Setup Tutorials</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-effortlessly-get-the-arduino-nano-drivers-installed-for-windows-users/"><u>How to Effortlessly Get the Arduino Nano Drivers Installed for Windows Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-10-engaging-games-that-make-friends/"><u>In 2024, 10 Engaging Games That Make Friends</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-impact-of-ai-could-chatgpt-change-healthcare-forever/"><u>The Impact of AI: Could ChatGPT Change Healthcare Forever?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-advice-expert-gadget-guidance/"><u>Tom's Tech Advice: Expert Gadget Guidance</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-step-by-step-setting-up-snapchat-on-mac-for-2024/"><u>[New] Step-by-Step Setting Up Snapchat on Mac for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-apowersoft-screen-recorder-2023-review-for-high-performance-pcs/"><u>[Updated] 2024 Approved Apowersoft Screen Recorder 2023 Review for High-Performance PCs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discovering-the-charm-of-contemporary-lighting-the-taotronics-tt-dl16-revealed/"><u>Discovering the Charm of Contemporary Lighting: The TaoTronics TT-DL16 Revealed</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discovering-the-sx620s-balanced-capabilities/"><u>Discovering the SX620's Balanced Capabilities</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elgato-hd60-driver-glitches-fast-and-straightforward-repair-methods-inside/"><u>Elgato HD60 Driver Glitches? Fast and Straightforward Repair Methods Inside</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-compatible-intel-drivers-for-windows-11-10-and-7/"><u>Free Download: Compatible Intel Drivers for Windows 11, 10 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722956278202-get-the-latest-amd-gpio-device-driver-instant-access/"><u>Get the Latest AMD GPIO Device Driver – Instant Access!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-epson-v39-printer-drivers-up-to-date-on-windows-7-8-and-10/"><u>Get Your Epson V39 Printer Drivers Up to Date on Windows 7, 8 & 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975300714-how-to-fix-and-update-your-wi-fi-card-drivers-for-optimal-performance-download-now/"><u>How to Fix and Update Your Wi-Fi Card Drivers for Optimal Performance - Download Now</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/navigating-tomorrow-today-master-your-mixes-with-fifty-song-friday-at-karaoke-cloud-pro-pcdj/"><u>Navigating Tomorrow Today - Master Your Mixes with 'Fifty-Song-Friday' At Karaoke Cloud Pro | PCDJ</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/practical-ways-to-save-and-download-vimeo-footage-for-2024/"><u>Practical Ways to Save and Download Vimeo Footage for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/prove-your-productivity-the-best-6-computer-usage-tracker-tools/"><u>Prove Your Productivity: The Best 6 Computer Usage Tracker Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/proximity-prowess-mastering-the-art-of-roblox-magnification-for-2024/"><u>Proximity Prowess Mastering the Art of Roblox Magnification for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722960625857-quick-guide-how-to-install-or-upgrade-synaptics-touchpad-drivers-on-windows/"><u>Quick Guide: How to Install or Upgrade Synaptics Touchpad Drivers on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-brother-scanners-now-new-software-for-optimized-windows-compatibility/"><u>Update Your Brother Scanners Now: New Software for Optimized Windows Compatibility</u></a></li>
 </ul></div>
 

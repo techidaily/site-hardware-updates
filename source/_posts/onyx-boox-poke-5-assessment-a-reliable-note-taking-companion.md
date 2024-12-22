@@ -1,7 +1,7 @@
 ---
 title: "Onyx Boox Poke 5 Assessment: A Reliable Note-Taking Companion"
-date: 2024-09-01T05:41:34.364Z
-updated: 2024-09-02T05:41:34.364Z
+date: 2024-12-18T04:23:20.256Z
+updated: 2024-12-22T01:28:23.695Z
 tags:
   - android
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 ---
 
 ## Onyx Boox Poke 5 Assessment: A Reliable Note-Taking Companion
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -109,13 +113,9 @@ Expand
 [$170 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fboox-6-poke5-e-reader-2023%2F6547589.p%3FskuId%3D6547589) [$170 at B&H Photo Video](https://www.bhphotovideo.com/c/product/1767273-REG/boox%5Fopc1070r%5F6%5Fpoke5%5Flite%5Fe%5Fink.html/BI/22163/KBID/28708/SID/UUhtgUeUpU2000608?ap=y&amp%3Bsmp=y&amp%3Bsrsltid=AfmBOop7brN-NHjN6a-jh2dexrXlffWKG75VYkJj15Ciubrppm-VvCVreWc) [$170 at Walmart](https://www.walmart.com/ip/BOOX-POKE-5-6-E-READER/2968210903?wmlspartner=wlpa&selectedSellerId=101025981) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Design: Like Holding a Small Paperback
 
 ![The Boox Poke 5 in the front pocket of a purse.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/the-boox-poke5-in-the-front-pocket-of-a-pursejpg_53139408928_o.jpg) 
@@ -133,15 +133,13 @@ Joe Robinson / How-To Geek
  In terms of power, the Boox Poke 5 has a 1,500mAh battery that can be recharged using a USB-C cable. In the time I used the eReader, I never actually had to recharge the device, although I logged around a 25 percent decrease in battery life for every two hours I used the Poke 5.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Display: Crisp and Clear
 
 ![The Boox Poke 5 with the library open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/boox-poke5-with-the-library-open-3jpg_53138936501_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  The Boox Poke 5 is equipped with an E-Ink Carta HD e-paper display, which can also be found on competitive eReaders like the Kindle Paperwhite and Kobo Elipsa. The six-inch screen tops out at 1,448 x 1,072 resolution with 300 pixels per inch; and considering the small size, I was impressed by the level of detail the Poke 5 was able to pull off. If you’re not familiar with the look of an eReader, do know that [it’s not quite the same as a traditional tablet](https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oppo-a2-devices-by-drfone-android/), especially when it comes to font and images. Quite simply, what you see on an eReader screen will look far more like a printed book.
@@ -155,8 +153,9 @@ Joe Robinson / How-To Geek
  Using this dashboard, you’ll be able to adjust overall contrast and refresh modes. The latter is a great way to improve font and image quality based on what kind of content you’re looking at. I found the “Normal” and “Speed” modes worked best for straightforward eReader text and images. “Regal,” “A2,” and “X” are the other refresh modes, but they’re best saved for books and apps that require a lot of scrolling and page-turning. I thought these other three presets introduced a lot of unnecessary ghosting, especially when browsing the web with Chrome.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Connectivity and Compatibility: Covers All the Must-Haves
 
  The Poke 5 is built like a full-fledged Android 11 mini tablet, which means Wi-Fi is key. A network connection is essential when it comes to downloading books and hopping online, and seeing as there’s no option for cellular backup, you’ll want to make sure you’re using a safe and secure internet connection.
@@ -165,20 +164,10 @@ Joe Robinson / How-To Geek
 
  As far as supported file formats go, the Poke 5 can handle a pretty diverse array of document and media types, including EPUB, DOC, DOCX, RTF, TXT, JPG, PNG, MP3, and WAV.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ##  Software and User Interface: Android Doesn’t Always Listen
 
 ![Charging the Boox Poke 5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/charging-the-boox-poke5jpg_53139138404_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  The Boox Poke 5 runs Android 11 and is powered by a Qualcomm 2.0GHz quad-core chipset with 2GB of RAM. The Poke 5 also includes 32GB of onboard storage, which can be expanded up to 1TB with a microSD card. As far as performance goes, I wouldn’t call the Poke 5 a speedy device, but it always arrives at its destination. It takes the [eReader](https://extra-tips.techidaily.com/superior-10-mobile-apps-to-edit-your-face/) around 30 seconds to power on and assemble the user interface. Once the UI loads, you’ll have five main tabs to choose from at the bottom of the default home screen. These are “Library,” “Store,” “Storage,” “Apps,” and “Settings.”
@@ -206,6 +195,10 @@ Joe Robinson / How-To Geek
  I also liked having the ability to press and hold a word (which you can expand to include whole sentences, paragraphs, and pages) to pull up a dashboard of useful tools, including Neoreader’s built-in dictionary, a notepad feature, highlighting and underlining options, and more. If you’re the kind of person who swears by Webster for your definitions, you’ll also be able to link various online dictionaries to the Poke 5, which can also be pulled up through this sub-menu.
 
  I thought haptic feedback was solid, although I did have to repeat a long-press or two when the Poke 5 didn’t register my touch. This didn’t happen too often, and the occurrences overall were pretty random.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Apps and Entertainment: No Play Store Allowed
 
@@ -237,8 +230,6 @@ The Onyx Boox Poke 5 does a great job at standing in for all those beat-up paper
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -246,4 +237,20 @@ The Onyx Boox Poke 5 does a great job at standing in for all those beat-up paper
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-strategic-steps-for-effective-annotations-and-cards-on-your-youtube-videos/"><u>[Updated] Strategic Steps for Effective Annotations & Cards on Your YouTube Videos</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-updated-drivers-for-nvidia-rtx-2060-on-windows-11/"><u>Download Updated Drivers for NVIDIA RTX 2060 on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-black-friday-offer-secure-lenovos-top-of-the-line-thinkpad-x1-extreme-gen-4-for-just-half-the-price-shop-smart/"><u>Exclusive Black Friday Offer: Secure Lenovo's Top-of-the-Line ThinkPad X1 Extreme Gen 4 for Just Half the Price | Shop Smart</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-unprecedented-cinematic-brilliance-with-hps-revolutionary-imax-certified-envy-x360-discover-what-sets-it-apart/"><u>Experience Unprecedented Cinematic Brilliance with HP's Revolutionary IMAX-Certified Envy X360: Discover What Sets It Apart</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ideal-first-linux-os-options-thoroughly-tested-and-critiqued-by-professionals-zdnet-insights/"><u>Ideal First Linux OS Options: Thoroughly Tested & Critiqued by Professionals – ZDnet Insights</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-y100i-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-quick-guide-to-overcoming-instagram-video-hiccups/"><u>In 2024, Quick Guide to Overcoming Instagram Video Hiccups</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-productivity-with-the-ultimate-16-port-hub-for-creative-professionals-featured/"><u>Maximize Productivity with the Ultimate 16-Port Hub for Creative Professionals, Featured</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-deal-samsung-8tb-portable-ssd-t5-holds-a-steady-36-discount-on-amazon-insights/"><u>Snag the Deal: Samsung 8TB Portable SSD T5 Holds a Steady 36% Discount on Amazon, Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-performing-adaptable-laptop-wins-fans-and-praise-for-its-strong-tech-specs-insights/"><u>Top Performing, Adaptable Laptop Wins Fans and Praise for Its Strong Tech Specs - Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-realme-note-50-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Realme Note 50 Screen | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-failed-hardware-monitor-driver-load-problems/"><u>Troubleshooting Guide: Resolving Failed Hardware Monitor Driver Load Problems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-tecno-pova-6-pro-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Tecno Pova 6 Pro 5G FRP Bypass</u></a></li>
+</ul></div>
 

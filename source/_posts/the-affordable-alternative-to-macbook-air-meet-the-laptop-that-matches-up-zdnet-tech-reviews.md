@@ -1,7 +1,7 @@
 ---
 title: The Affordable Alternative to MacBook Air - Meet the Laptop That Matches Up | ZDNET Tech Reviews
-date: 2024-12-08T19:28:17.273Z
-updated: 2024-12-12T17:23:35.692Z
+date: 2024-12-14T20:39:15.866Z
+updated: 2024-12-21T18:39:40.569Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -71,7 +71,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 The Zephyrus G14 has one other major downside, besides its heating issue. The laptop comes with a lot of bloatware. The SSD is packed with several forgettable apps. Granted, some are useful. Armoury Crate controls the RGB lights and GeForce Experience manages your library of games. The onboard assistant? Not so much. At least, I didn't find myself looking for it. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's buying advice
@@ -114,24 +114,14 @@ The Zephyrus G14 starts at $1,600\. My review unit in particular costs $1,900, w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-exploring-high-definition-sw320-4k-monitor-experience/"><u>[Updated] In 2024, Exploring High Definition Sw320 4K Monitor Experience</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/1728475522831-2/"><u>2つの専門的なハードディスク暗号化解除手順</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-amd-radeon-gpu-drivers-for-windows-8-at-no-cost/"><u>Download AMD Radeon GPU Drivers for Windows 8 at No Cost</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-downloads-for-msi-b350-tomahawk-chipset-drivers-works-great-on-windows-os/"><u>Free Downloads for MSI B350 Tomahawk Chipset Drivers: Works Great on Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-upgrade-epson-wf-3520-windows-drivers-now-available/"><u>Get the Most Recent Upgrade: Epson WF 3520 Windows Drivers Now Available!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-sound-back-install-new-audio-drivers-on-windows-7/"><u>Get Your Sound Back: Install New Audio Drivers on Windows 7</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-find-and-install-toshiba-laptop-drivers-on-windows-devices/"><u>How to Find and Install Toshiba Laptop Drivers on Windows Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-tether-your-android-as-a-webcam-on-windows-11-pcs/"><u>How to Tether Your Android as a Webcam on Windows 11 PCs</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-samsung-galaxy-a05-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Samsung Galaxy A05 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-nokia-c32-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Nokia C32 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-xiaomi-redmi-note-13-proplus-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Xiaomi Redmi Note 13 Pro+ 5G to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-the-epson-es-400-scanner-software-for-windows-pcs-complete-tutorial/"><u>Installing the Epson ES-400 Scanner Software for Windows PCs - Complete Tutorial</u></a></li>
-<li><a href="https://article-posts.techidaily.com/jolly-video-recorder-critique/"><u>Jolly Video Recorder Critique</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-version-of-intel-iris-xe-graphics-drivers-for-windows-11-free-download/"><u>Latest Version of Intel® Iris XE Graphics Drivers for Windows 11 - Free Download</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-unique-image-creation-with-microsofts-advanced-copilot-feature/"><u>Mastering the Art of Unique Image Creation with Microsoft's Advanced Copilot Feature</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-guide-installing-windows-7-keyboard-drivers/"><u>Quick and Simple Guide: Installing Windows 7 Keyboard Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revitalize-your-computers-audio-experience-by-upgrading-usb-driver-on-various-windows-versions/"><u>Revitalize Your Computer's Audio Experience by Upgrading USB Driver on Various Windows Versions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/shedding-the-myths-discovering-a-comparably-sleek-and-power-packed-windows-option-for-laptop-lovers-techdigest/"><u>Shedding the Myths: Discovering a Comparably Sleek & Power-Packed Windows Option for Laptop Lovers | TechDigest</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722968889829-trustworthy-lenovo-thinkpad-drivers-and-firmware-update-guide-100-risk-free-download/"><u>Trustworthy Lenovo ThinkPad Drivers & Firmware Update Guide - 100% Risk-Free Download</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-subrip-file-creation-from-compressed-archives/"><u>[Updated] 2024 Approved SubRip File Creation From Compressed Archives</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/445-for-a-pre-owned-microsoft-surface-pro-8-find-the-best-refurbished-options-here-according-to-zdnet/"><u>$445 for a Pre-Owned Microsoft Surface Pro 8? Find the Best Refurbished Options Here, According to ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/beyond-the-sensational-stories-rethinking-social-media-scandals/"><u>Beyond the Sensational Stories: Rethinking Social Media Scandals</u></a></li>
+<li><a href="https://win-dash.techidaily.com/brother-scanner-driver-enhancements-whats-new-in-the-windows-edition/"><u>Brother Scanner Driver Enhancements: What's New in the Windows Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/deciding-on-your-ideal-apple-laptop-macbook-pro-vs-macbook-air-explained/"><u>Deciding on Your Ideal Apple Laptop: MacBook Pro Vs. MacBook Air Explained</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huge-gaming-discounts-await-october-2024-prime-day-deals-offering-sweeping-savings-of-1000plus/"><u>Huge Gaming Discounts Await! October 2024 Prime Day Deals Offering Sweeping Savings of $1,000+</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Tecno Phantom V Fold? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/reviving-your-logitech-g230-headset-microphone-a-comprehensive-troubleshooting-guide/"><u>Reviving Your Logitech G230 Headset Microphone: A Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-project-sputnik-the-strategic-introduction-of-ubuntu-on-premium-dell-devices-an-exclusive-insight/"><u>Unveiling Project Sputnik: The Strategic Introduction of Ubuntu on Premium Dell Devices - An Exclusive Insight</u></a></li>
 </ul></div>
 

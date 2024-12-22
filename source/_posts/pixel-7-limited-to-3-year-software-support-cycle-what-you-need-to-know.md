@@ -1,7 +1,7 @@
 ---
 title: "Pixel 7 Limited to 3-Year Software Support Cycle: What You Need To Know"
-date: 2024-09-05T19:54:41.983Z
-updated: 2024-09-06T19:54:41.983Z
+date: 2024-12-15T01:59:14.523Z
+updated: 2024-12-22T05:52:12.471Z
 tags:
   - android
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c1487439cf5694d3a9ccaf02.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pixel 7 Limited to 3-Year Software Support Cycle: What You Need To Know
 
 [The Pixel 7 lineup](https://ios-pokemon-go.techidaily.com/in-2024-why-cant-i-install-the-ipogo-on-apple-iphone-se-drfone-by-drfone-virtual-ios/) is now available for pre-order. Google showed several improvements during its Made by Google hardware event, such as the new Tensor G2 system-on-a-chip and an improved rear camera setup. But it forgot to mention one important detail --- you'll only get three major OS updates.
@@ -29,12 +23,6 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
 ![Screenshot from Google presentation that reads "Pixel Feature Drops: 5 years of updates."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/screenshot-10-06-2022-102117.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _Google_
 
  Not only did Google not mention this during the event, but it also seemingly went the extra mile to hide it and mislead users. Google touted that both phones would get "5 years of updates" [while it was talking about Pixel feature drops during the event](https://youtu.be/2NGjNQVbydc?t=1827), not mentioning or acknowledging that two of those five years would be for security patches only. The company also avoided mentioning it in the [spec sheet of the Pixel 7 lineup](https://store.google.com/product/pixel%5F7%5Fspecs?hl=en-US).
@@ -47,8 +35,6 @@ _Google_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -56,4 +42,25 @@ _Google_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-precision-editing-made-easy-top-5-techniques-for-trimming-and-cutting-vimeo-footage-for-2024/"><u>[New] Precision Editing Made Easy Top 5 Techniques for Trimming & Cutting Vimeo Footage for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/treamline-your-content-transform-videos-into-playful-animation-gifs/"><u>[New] Streamline Your Content Transform Videos Into Playful Animation Gifs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-from-novice-to-pro-transforming-zoom-into-a-youtube-live-staple/"><u>[Updated] From Novice to Pro Transforming Zoom Into a YouTube Live Staple</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-from-snaps-to-savings-on-snapchat/"><u>[Updated] From Snaps to Savings on Snapchat</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-stillness-to-streamline-adding-blurring-beauty-to-illustrator-photos/"><u>2024 Approved From Stillness to Streamline Adding Blurring Beauty to Illustrator Photos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-workspace-experience-the-dual-monitor-capability-with-your-m3-macbook-pro-just-as-you-can-with-the-m3-macbook-air/"><u>Elevate Your Workspace: Experience the Dual Monitor Capability with Your M3 MacBook Pro, Just as You Can With the M3 MacBook Air</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enabling-dynamic-hdr-in-windows-11-os/"><u>Enabling Dynamic HDR in Windows 11 OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/octobers-premier-savings-event-unmissable-gaming-discounts-up-to-1000-grab-them-before-theyre-gone/"><u>October's Premier Savings Event! Unmissable Gaming Discounts Up to $1,000 - Grab Them Before They're Gone!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-big-savings-with-the-black-friday-blowout-gigabytes-a5-k1-gaming-laptop-at-an-exclusive-40-off-insider-tips/"><u>Score Big Savings with the Black Friday Blowout: Gigabyte's A5 K1 Gaming Laptop at an Exclusive 40% Off Insider Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-big-savings-find-the-best-value-nvidia-gaming-laptops-on-sale-for-amazon-prime-day-2024-according-to-zdnet/"><u>Score Big Savings: Find the Best-Value Nvidia Gaming Laptops on Sale for Amazon Prime Day 2024, According to ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guide-overcoming-fortnites-blackout-problem-on-your-windows-machine/"><u>Solution Guide: Overcoming Fortnite's Blackout Problem on Your Windows Machine</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-buying-guide-for-black-friday-and-cyber-monday-laptop-bargains-techradar-insights/"><u>Ultimate Buying Guide for Black Friday and Cyber Monday Laptop Bargains - TechRadar Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unmissable-amazon-prime-day-offers-in-october-2024-top-bargains-you-can-snag-now/"><u>Unmissable Amazon Prime Day Offers in October 2024 - Top Bargains You Can Snag Now!</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/why-does-my-pc-shut-down-randomly-uncover-the-reasons-with-yl-computing/"><u>Why Does My PC Shut Down Randomly? Uncover the Reasons with YL Computing</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

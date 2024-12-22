@@ -1,7 +1,7 @@
 ---
 title: "Maintaining Data Integrity While Switching to Earlier Android App Versions: The Ultimate How-To Guide"
-date: 2024-09-01T05:44:43.724Z
-updated: 2024-09-02T05:44:43.724Z
+date: 2024-12-18T02:11:24.447Z
+updated: 2024-12-21T18:58:16.640Z
 tags:
   - android
 categories:
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/b2bf4cd4c4150768a4991186ca82f84c6e82b391b
 
  Sometimes an update breaks an app’s functionality or slows it down. Sometimes developers redesign the UI or leave out the features you like. But you can get your favorite interface and features back by downgrading the app to an older version.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What You Need to Downgrade an App
 
  The Android UI lets you downgrade some apps with a single tap. Just go to Settings > Apps > Manage Apps. Select the app you want to downgrade. Then tap “Uninstall Updates.” But for most apps, you’ll have to uninstall the current app and [sideload the older version](https://facebook-video-content.techidaily.com/updated-unlock-premium-quality-streaming-on-the-worlds-largest-network/) using an APK file. Either way, both methods log out all your accounts and erase any saved progress or preferences, which is far from ideal.
@@ -43,19 +40,28 @@ thumbnail: https://thmb.techidaily.com/b2bf4cd4c4150768a4991186ca82f84c6e82b391b
 
 [Back up your phone](https://youtube-help.techidaily.com/in-2024-master-your-stream-utilizing-youtubes-av1-technology/), including any important login credentials or app data before proceeding. Secondly, watch out for [critical security updates](https://common-error.techidaily.com/simple-solutions-troubleshooting-and-enhancing-your-file-explorer-on-windows-11/). We don’t recommend skipping or downgrading those.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Step 1\. Set Up ADB
 
  ADB is a command-line tool for interacting with an Android device through a computer. To set it up, you’ll need to download [SDK Platform Tools](https://developer.android.com/tools/releases/platform-tools) from the official Android website. Extract the downloaded zip file anywhere on your computer. Then open the extracted folder.
 
 ![An extracted folder containing Platform Tools.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/capture-6.PNG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hold down the Shift key and right-click on a blank area. When the context menu opens, click “Open Powershell Window Here.”
 
 ![A red arrow pointing at the context menu item for launching Powershell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/capture-10.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once the terminal appears, connect your Android device to your computer via a USB cable.
 
  On your phone, select “File Transfer” on the pop-up menu. Go to Settings > About Phone > Build Number. Tap Build Number seven times, or until you see the “You are now a developer!” message. This action unlocks [Developer Options on Android](https://desktop-recording.techidaily.com/premium-video-capture-without-extras-for-2024/).
@@ -65,8 +71,9 @@ thumbnail: https://thmb.techidaily.com/b2bf4cd4c4150768a4991186ca82f84c6e82b391b
 !['You are now a developer' message popping up in the settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/c.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Developer options toggle enabled in the settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/d.jpg) 
 
 Close 
@@ -75,19 +82,8 @@ Close
 
 ![A red arrow pointing at the USB debugging toggle in developer options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-12.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A red arrow pointing at the confirmation dialog for enabling USB debugging.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-13.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 Close 
 
  To test the ADB connection type the following command in the PowerShell terminal on your computer and press Enter.
@@ -96,14 +92,8 @@ adb devices
 
 ![ADB connection successfully established inside PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/capture-5.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The device ID should show up if the connection is working. If it returns a blank ID, you’ll have to install the Android drivers for your device first.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Step 2\. Downgrade an App Using ADB
 
  With ADB working, all you need is the APK file for the desired version of the app you want to downgrade to.
@@ -118,6 +108,10 @@ adb devices
 
 ![A red arrow pointing at the APK file for the old Twitter app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/capture-8.PNG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The APK file will likely have a long and complicated name. Renaming it to something simpler keeps things tidy and manageable.
 
  In the PowerShell window, type the following and press Enter. Remember to replace “twitter.apk” with the name of your APK file.
@@ -130,10 +124,6 @@ adb install -d twitter.apk
 
 ![Successful app installation inside an ADB terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/capture3.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
  The command restored the older version of Twitter without logging me out.
 
 ![The X (formerly Twitter) app being downgraded to the old Twitter app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/untitled-1.png) 
@@ -142,13 +132,18 @@ adb install -d twitter.apk
 
 ![APKM file extracted to a folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/capture-9.PNG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Navigate to the extracted folder and copy the APK files to the Platform Tools folder.
 
 ![Different split APK files inside the Platform Tools folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/capture-11.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Enter the following command in the PowerShell terminal.
 
 adb install-multiple -d base.apk config1.apk config2.apk config3.apk
@@ -164,8 +159,9 @@ adb install-multiple -d base.apk config1.apk config2.apk config3.apk
 ![Network preferences being highlighted in Google Play Store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/k.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Auto-update apps button being highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/l.png) 
 
 ![Auto-update apps menu in Google Play Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/z.png) 
@@ -184,8 +180,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +187,18 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-mastering-airtunes-on-your-apple-devices-quick-guide-to-repairs/"><u>[New] Mastering Airtunes on Your Apple Devices - Quick Guide to Repairs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-reap-endless-visual-resources-via-four-prime-youtube-sites/"><u>[New] Reap Endless Visual Resources via Four Prime YouTube Sites</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/2024s-leading-gaming-laptops-compared-elite-picks-from-razer-acer-msi-and-beyond-expert-analysis/"><u>2024'S Leading Gaming Laptops Compared: Elite Picks From Razer, Acer, MSI and Beyond | Expert Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-analysis-of-the-lenovo-thinkpad-x13s-exploring-its-high-end-arm-architecture-cutting-edge-5g-connectivity-and-exceptional-endurance-capabiliti68/"><u>Comprehensive Analysis of the Lenovo ThinkPad X13s: Exploring Its High-End ARM Architecture, Cutting-Edge 5G Connectivity & Exceptional Endurance Capabilities</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-apple-iphone-15-plus-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>Does Apple iPhone 15 Plus Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huge-discount-on-samsung-monitors-perfect-for-professional-photography-and-video-editing-now-just-500-cheaper-at-best-buy/"><u>Huge Discount on Samsung Monitors Perfect for Professional Photography & Video Editing - Now Just $500 Cheaper at Best Buy</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-s24-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Samsung Galaxy S24 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-workflow-why-the-16-port-dream-dock-is-essential-for-creatives-featuring-exclusive-insights/"><u>Maximize Your Workflow: Why the 16-Port Dream Dock Is Essential for Creatives - Featuring Exclusive Insights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-repair-damaged-pdf-v17-files-stellar-by-stellar-guide/"><u>Quickly Repair Damaged PDF v1.7 Files | Stellar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-savings-up-to-550-exclusive-offer-on-the-new-asus-14-rog-zephyrus-gaming-laptop-shop-now/"><u>Unlock Savings Up To $550: Exclusive Offer On The New ASUS 14 ROG Zephyrus Gaming Laptop - Shop Now !</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/warzone-wont-start-troubleshooting-guide-for-resolving-crashes/"><u>Warzone Won't Start? Troubleshooting Guide for Resolving Crashes</u></a></li>
+</ul></div>
 

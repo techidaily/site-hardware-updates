@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Unveils New Copilot+ PC Challengers to Apple's M3 MacBook Line: Exclusive Details"
-date: 2024-12-11T22:26:50.753Z
-updated: 2024-12-13T00:42:46.877Z
+date: 2024-12-17T18:07:33.070Z
+updated: 2024-12-21T19:54:33.345Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Microsoft Surface Pro and Laptop
@@ -60,10 +60,6 @@ The Surface Laptop comes in two configurations: 13.8 and 15 inches, with memory 
 
 The laptop is also thinner than its predecessors, now has a haptic touchpad, and can extend to up to three 4K _monitors while_ the device screen is active -- a subtle dig at Apple's M3 MacBook Air. As far as battery life goes, Microsoft says the new Surface Laptop has "nearly double the battery life of Surface Laptop 5," offering up to 22 hours of local video playback.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Lenovo Yoga Slim 7x and ThinkPad T14s Gen 6
 
 Kerry Wan/ZDNET
@@ -78,6 +74,10 @@ Thanks to the Snapdragon X Elite and Lenovo's AI Core, the Yoga Slim 7x and Thin
 
 The Lenovo Yoga Slim 7x will go on sale starting in June, with an _expected_ starting price of $1,199, while the ThinkPad T14s Gen 6 will launch around the same time with a starting price of $1,699.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. HP OmniBook X and EliteBook Ultra
 
 Kyle Kucharski/ZDNET
@@ -89,6 +89,10 @@ HP's new OmniBook X and EliteBook Ultra are among the thinnest Copilot+ PC unvei
 Designed for freelancers and developers, the new HP laptops leverage the Snapdragon X Elite chip for various generative AI and on-device tasks, including analyzing Excel spreadsheets, real-time coaching feedback for presentations, and other Copilot features. With the OmniBook X and EliteBook Ultra, HP is so committed to the AI narrative that it has applied a new "AI Helix" logo on the covers of the systems.
 
 The [OmniBook X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-omnibook-x-copilot-pc-14-2-2k-touch-screen-laptop-snapdragon-x-elite-16gb-memory-1tb-sdd-meteor-silver%2F6583279.p%3FskuId%3D6583279&publisher_slug=itechdaily19598&exclusive=1) and [EliteBook Ultra](https://www.tkqlhce.com/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-elitebook-ultra-14-inch-g1q-notebook-ai-pc&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) are available for preorders today for starting prices of $1,199 (up to 2TB of storage and 32GB of RAM) and $1,699 (512GB of storage with 16GB of RAM), respectively, and will begin shipping on June 18.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Dell XPS 13, Latitude 7455
 
@@ -105,7 +109,7 @@ For business users, Dell is also launching the Latitude 7455 with the Snapdragon
 The XPS 13 is available for preorder today at a starting price of $1,299, while the Latitude 7455 will launch later this year, with the price still to be confirmed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Acer Swift 14 AI
@@ -121,7 +125,7 @@ Powering the system is your choice of Qualcomm's Snapdragon X Elite or X Plus, b
 The Acer Swift 14 AI will first be available in Europe, the Middle East, and Asia in June, and eventually be sold in North America in July, with a starting price of $1,099.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Samsung Galaxy Book 4 Edge
@@ -135,10 +139,6 @@ While Samsung just recently launched its Galaxy Book 4 series, the latest Edge v
 The rest of the specs are relatively similar to the company's standard Galaxy Book models, with two sizes (14 and 16 inches), a Dynamic AMOLED 2X display that's treated with an anti-reflective coating, Wi-Fi 7, and a dedicated Copilot key. 
 
 The [14-inch Galaxy Book 4 Edge](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-books%2Fgalaxy-book4-edge%2F%3F&publisher_slug=itechdaily19598&exclusive=1) will start at $1,349, while the 16-inch size will start at $1,749 with 1TB of storage. Samsung says the laptops are available for preorder today and will even toss in a 50-inch Crystal UHD 4K TV to sweeten the pot.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Asus Vivobook S 15
 
@@ -184,24 +184,22 @@ The [Vivobook S 15](https://www.awin1.com/awclick.php?mid=31828&id=423585&clickr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/2024-approved-is-there-a-cash-incentive-in-critique-videos/"><u>2024 Approved Is There a Cash Incentive in Critique Videos?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-sata-interface-driver-download-compatible-with-modern-windows-os/"><u>AMD SATA Interface Driver Download – Compatible with Modern Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-your-pcs-gaming-potential-by-updating-dell-g3-video-card-drivers/"><u>Boost Your PC's Gaming Potential by Updating Dell G3 Video Card Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975928884-buckling-refers-to-sudden-deflection-of-structural-members-under-compressive-stress-which-can-lead-to-progressive-collapse/"><u>Buckling Refers to Sudden Deflection of Structural Members Under Compressive Stress, Which Can Lead to Progressive Collapse</u></a></li>
-<li><a href="https://video-capture.techidaily.com/experience-the-ps3-gaming-prowess-on-modern-pcs-for-2024/"><u>Experience the PS3 Gaming Prowess on Modern PCs for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-newest-razer-driver-updates-for-windows-users-across-multiple-versions/"><u>Get the Newest Razer Driver Updates for Windows Users Across Multiple Versions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-asus-xonar-dgx-sound-card-up-to-date-with-this-quick-driver-download-guide/"><u>Get Your ASUS Xonar DGX Sound Card Up-to-Date with This Quick Driver Download Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-logitech-g203-headset-on-windows-71011-driver-download-included/"><u>How to Update Your Logitech G203 Headset on Windows 7/10/11 - Driver Download Included</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-best-webinar-title-generator/"><u>In 2024, Best Webinar Title Generator</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-infinix-smart-8-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Infinix Smart 8 FRP</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x-flip-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo X Flip Phone Without Password?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-new-epson-perfection-v39-printer-drivers-on-windows-operating-systems-7810/"><u>Installing New Epson Perfection V39 Printer Drivers on Windows Operating Systems (7/8/10)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/next-generation-of-intel-desktops-could-exceed-heat-specs-raises-concerns-for-arrow-lake-series/"><u>Next Generation of Intel Desktops Could Exceed Heat Specs, Raises Concerns for Arrow Lake Series</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/real-time-media-magic-the-pmix-vs-wirecast-faceoff-for-2024/"><u>Real-Time Media Magic The PMix Vs. Wirecast Faceoff for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolving-compatibility-problems-with-hp-monitor-drivers-on-windows-operating-systems-1187/"><u>Resolving Compatibility Problems with HP Monitor Drivers on Windows Operating Systems (11/8/7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-fixing-intel-csr8510-a10-driver-compatibility-with-the-latest-windows-version/"><u>Step-by-Step: Fixing Intel CSR8510 A10 Driver Compatibility with the Latest Windows Version</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/telnet-connectivity-setup-for-win11-techies/"><u>Telnet Connectivity Setup for Win11 Techies</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210095313-9781000251777-the-constituents-of-medicinal-plants-2nd-ed/"><u>The Constituents of Medicinal Plants (2nd ed.) | Free Book</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-future-in-your-pocket-tecnos-latest-unveiling/"><u>The Future in Your Pocket: Tecno’s Latest Unveiling</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-decoding-the-tech-behind-immersive-vr-experiences/"><u>[Updated] 2024 Approved Decoding the Tech Behind Immersive VR Experiences</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-audfreetech-a-deep-dive-into-audio-file-liberation-techniques/"><u>[Updated] AudFreeTech A Deep Dive Into Audio File Liberation Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-from-silence-to-sounds-recording-with-audacity-on-a-mac/"><u>[Updated] From Silence to Sounds Recording with Audacity on a Mac</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-capture-unrooted-sounds-in-android-4-methods/"><u>[Updated] In 2024, Capture Unrooted Sounds in Android [4 Methods]</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-creator-studio-vs-youtube-studio-beta-which-one-is-better/"><u>[Updated] YouTube Creator Studio Vs. YouTube Studio (Beta) Which One Is Better?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/cambiar-archivo-de-mp3-a-formato-mp4-libre-y-gratuito-sin-perdida-de-calidad/"><u>Cambiar Archivo De MP3 a Formato MP4 Libre Y Gratuito Sin Pérdida De Calidad</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-scanner-drivers-download-for-windows-free-and-easy/"><u>Canon Scanner Drivers Download for Windows | Free & Easy</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-broadcom-wireless-drivers-ensuring-compatibility-and-seamless-connectivity/"><u>Download Broadcom Wireless Drivers: Ensuring Compatibility and Seamless Connectivity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-your-new-amd-radeon-drivers-optimized-for-windows-operating-system/"><u>Download Your New AMD Radeon Drivers: Optimized for Windows Operating System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-for-successfully-patching-and-refreshing-ati-radeon-drivers-in-windows-environment/"><u>Expert Tips for Successfully Patching and Refreshing ATI Radeon Drivers in Windows Environment</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-epson-wf-3620-driver-update-for-pcs-running-windows-1087-free-download/"><u>Get the Newest Epson WF-3620 Driver Update for PCs Running Windows 10/8/7 - Free Download!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-iphone-15-plus-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On iPhone 15 Plus Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-depth-kinetics-evaluation-2023/"><u>In-Depth Kinetics Evaluation 2023</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-startechs-usb-video-graphics-adaptor-driver-for-windows-and-mac/"><u>Installing StarTech's USB Video Graphics Adaptor Driver for Windows & Mac</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974274506-secure-your-asrock-ab350-pro4-with-free-windows-drivers-download-made-easy/"><u>Secure Your ASRock AB350 Pro4 with Free Windows Drivers – Download Made Easy</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976986837-tp-link-ac-wireless-network-card-drivers-updated-for-windows-operating-systems-11-8-and-groove-download-now/"><u>TP-Link AC Wireless Network Card Drivers Updated | For Windows Operating Systems (11, 8 & Groove) Download Now!</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/troubleshooting-graphics-hardware-drivers-failure-fixes-with-yls-innovative-software-guide/"><u>Troubleshooting Graphics Hardware Drivers Failure Fixes with YL's Innovative Software Guide</u></a></li>
 </ul></div>
 

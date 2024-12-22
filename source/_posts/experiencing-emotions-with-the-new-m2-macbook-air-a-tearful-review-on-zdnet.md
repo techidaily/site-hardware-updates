@@ -1,7 +1,7 @@
 ---
 title: Experiencing Emotions with the New M2 MacBook Air - A Tearful Review on ZDNet
-date: 2024-12-05T23:59:27.362Z
-updated: 2024-12-12T22:29:57.526Z
+date: 2024-12-15T23:57:58.669Z
+updated: 2024-12-22T01:16:59.551Z
 tags:
   - laptops
 categories:
@@ -22,13 +22,13 @@ Cliff Joseph/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [![Best tech products of 2022](https://www.zdnet.com/a/img/resize/3f88838e500b465de59bf97859df4b8cc8a9cd8a/2022/12/21/5246df34-aab3-4419-a17e-d162c8160806/zdgg-2022-overall.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) ZDNET editors loved these tech products and gadgets in 2022 Trying to find the absolute best tech products of 2022? From the iPhone 14 Pro Max to the Kindle Scribe to the Oura Ring Gen 3 Horizon, here are ZDNET's top gadgets of the year.  Read now](https://www.zdnet.com/article/best-tech-2022/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 How often can a gadget make you confront your own weaknesses, especially the lies you tell yourself?
 
@@ -41,7 +41,7 @@ Until I'm sure I don't just want it, but need it.
 Oh, all right, I may occasionally have a flexible definition of _need_.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The weakness. I just can't bear the weakness
@@ -60,10 +60,6 @@ But the M2 MacBook Air seemed to represent a departure from the old Air design. 
 
 There were two things I kept staring at: the midnight color and the new, non-tapered shape.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best MagSafe accessories: Top choices for the iPhone 12 and 13 Want to try the iPhone's MagSafe tech but not sure where to start? We'll show you some of our favorite accessories thus far.  Read now](https://www.zdnet.com/article/best-magsafe-accessory/)
@@ -79,12 +75,16 @@ And then there was the remarkable fact that an Apple store actually had the [mid
 Resistance was futile. Actually, it was non-existent, even if I still wondered whether this laptop could possibly be worth it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The lies I'd told myself
 
 With almost every gadget, it's one thing to play with it in a store. It's quite another to bring it into your daily life -- and I use a laptop at least 12 hours a day.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -110,7 +110,7 @@ Some (like ZDNET's [review of the M2 MacBook Air](https://www.zdnet.com/article/
 I've also noticed that MagSafe isn't quite what it used to be. Previously, it had flown out of its socket with minimal force. Now, you have to give it a perceptible tug before it detaches. I can't decide whether this is good or bad. I do like the sturdier feel of the cable, however. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## It's all ending in tears
@@ -169,20 +169,24 @@ Unless, that is, you're selling [a perfectly functional robot dog](https://www.z
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-audio-first-video-second-comparing-podcast-vs-youtube/"><u>[New] Audio First, Video Second? Comparing Podcast vs YouTube</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-how-to-spot-and-discard-phony-instagram-acquaintances/"><u>[New] How To Spot and Discard Phony Instagram Acquaintances</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-convenient-ways-to-screen-cast-lenovo-laptops/"><u>[Updated] In 2024, Convenient Ways to Screen Cast Lenovo Laptops</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-pairings-adding-songs-to-windows-11-videos-with-ease/"><u>2024 Approved Perfect Pairings Adding Songs to Windows 11 Videos with Ease</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/breakthrough-for-desktop-computing-amds-flagship-zen-5-processor-ryzen-9-9950x-outperforms-competitor-by-24-in-rendering-benchmark-assessment/"><u>Breakthrough for Desktop Computing: AMD’s Flagship Zen 5 Processor, Ryzen 9 9950X, Outperforms Competitor by 24% in Rendering Benchmark Assessment</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/caption-crafting-select-writing-apps-for-your-photos-for-2024/"><u>Caption Crafting Select Writing Apps for Your Photos for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722976038966-confusion-may-result-from-metabolic-disturbances-infections-toxic-ingestions-or-increased-intracranial-pressure/"><u>Confusion May Result From Metabolic Disturbances, Infections, Toxic Ingestions, or Increased Intracranial Pressure.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-dell-bluetooth-driver-downloads-for-windows-operating-systems/"><u>Free Dell Bluetooth Driver Downloads for Windows Operating Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-new-hp-3755-all-in-one-printer-driver-on-windows-systems-1087/"><u>How to Install the New HP 3755 All-in-One Printer Driver on Windows Systems (10/8/7)</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-essential-apps-to-extract-and-save-your-vimeo-videos/"><u>In 2024, Essential Apps to Extract and Save Your Vimeo Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-display-driver-updates-and-easy-installation-guide-for-windows/"><u>Latest Display Driver Updates and Easy Installation Guide for Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/proart-pa-329q-examining-a-premium-4k-monitor-for-professionals/"><u>ProArt PA 329Q Examining a Premium 4K Monitor for Professionals</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ranked-list-of-pristine-cost-free-websites-for-designers-delight/"><u>Ranked List of Pristine, Cost-Free Websites for Designers' Delight</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-for-easy-microsoft-driver-installationupdates-in-windows-1187/"><u>Step-by-Step Instructions for Easy Microsoft Driver Installation/Updates in Windows 11/8/7</u></a></li>
-<li><a href="https://extra-support.techidaily.com/stopwatch-like-pauses-tackling-frozen-photobooths-for-2024/"><u>Stopwatch-Like Pauses Tackling Frozen Photobooths for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-enhancing-quality-without-the-mic-a-practical-guide/"><u>[Updated] 2024 Approved Enhancing Quality without the Mic A Practical Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-figures-unveiled-exploring-youtubes-curious-numbers-2017/"><u>[Updated] 2024 Approved Figures Unveiled! Exploring YouTube's Curious Numbers (2017)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-end-scenes-unlocked-tutorials-to-enhance-viewing-experience/"><u>[Updated] In 2024, End Scenes Unlocked Tutorials to Enhance Viewing Experience</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-maximizing-engagement-youtube-links-as-a-catalyst/"><u>[Updated] In 2024, Maximizing Engagement YouTube Links as a Catalyst</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-macos-11-big-sur-system-details/"><u>[Updated] Navigating MacOS 11 Big Sur - System Details</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-superior-architects-cutting-edge-instagram-hlv-makers-for-2024/"><u>[Updated] Superior Architects Cutting-Edge Instagram HLV Makers for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-infusing-vitality-into-text-an-animated-adventure/"><u>2024 Approved Infusing Vitality Into Text An Animated Adventure</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-samsung-ssd-960-evo-drives-on-windows-pc-guide/"><u>Download & Install Samsung SSD 960 EVO Drives on Windows PC: Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-new-intel-usb-30-driver-package-supporting-windows-11-systems/"><u>Download the New Intel USB 3.0 Driver Package Supporting Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dts-surround-sound-problem-solved-fixes-for-device-recognition-issues/"><u>DTS Surround Sound Problem Solved: Fixes for Device Recognition Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-access-to-hps-professional-color-laser-jet-m452dn-printing-drivers/"><u>Easy Access to HP's Professional Color Laser Jet M452dn Printing Drivers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-11-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 11 Without Passcode Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-fresh-updates-for-your-wacom-digital-drawing-board-download-latest-cintiq-13hd-driver-now/"><u>Get Fresh Updates for Your Wacom Digital Drawing Board: Download Latest Cintiq 13HD Driver Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-version-of-the-epson-xp-420-driver-step-by-step-guide/"><u>How To Get The Newest Version Of The Epson XP 420 Driver - Step By Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-best-asus-mousepad-driver-on-your-windows-device/"><u>How to Install the Best ASUS Mousepad Driver on Your Windows Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-newest-amd-rx-6800-graphics-driver-on-windows-operating-systems-111087/"><u>How to Install the Newest AMD RX 6800 Graphics Driver on Windows Operating Systems (11/10/8/7)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-quick-iphone-photo-fixes-expert-hacks-for-better-snapshots/"><u>In 2024, Quick iPhone Photo Fixes Expert Hacks for Better Snapshots</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-finding-and-installing-lenovo-t430-drivers-for-multiple-windows-versions/"><u>Step-by-Step: Finding and Installing Lenovo T430 Drivers for Multiple Windows Versions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-poco-c65-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Poco C65 | Dr.fone</u></a></li>
 </ul></div>
 

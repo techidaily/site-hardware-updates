@@ -1,7 +1,7 @@
 ---
 title: Expert Insights on Owning the Budget-Friendly Surface Pro 11 - Top Tips From a Tech Guru | ZDNet
-date: 2024-12-09T19:10:12.775Z
-updated: 2024-12-13T01:04:41.875Z
+date: 2024-12-16T04:00:57.630Z
+updated: 2024-12-22T09:54:39.504Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -49,7 +49,7 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 How did this happen? Let's dive in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The experience is familiar
@@ -65,7 +65,7 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -83,10 +83,6 @@ In real-world usage, the Surface Pro 11 battery lasts twice as long as an equiva
 Screenshot by Ed Bott/ZDNET
 
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
 
@@ -124,6 +120,10 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The AI story is incomplete
 
 Every PC in the Copilot+ line includes a powerful neural processing unit designed to accelerate AI-based activities. Because I didn't spring for Microsoft's pricey new [Flex Keyboard](https://www.microsoft.com/en-us/d/surface-pro-flex-keyboard-with-slim-pen/93fzrmtgj6jw) and stuck with my old Type Cover, I didn't get a dedicated Copilot key. Instead, I had to run the [Copilot app](https://www.zdnet.com/article/microsoft-is-turning-windows-copilot-into-a-regular-app-and-heres-why-youll-like-it/), which works exactly like it does on any other Windows 11 PC. If it was chatting faster, I didn't notice.
@@ -145,7 +145,7 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -192,14 +192,22 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-moving-photos-and-videos-from-pc-to-iphone-effortlessly/"><u>[New] Moving Photos & Videos From PC to iPhone Effortlessly</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-swift-remedies-for-iphone-unfocused-shots-for-2024/"><u>[Updated] Swift Remedies for iPhone Unfocused Shots for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/acer-display-driver-downloads-secure-options-for-enhanced-graphics-performance/"><u>Acer Display Driver Downloads: Secure Options for Enhanced Graphics Performance</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/contemplating-if-video-selfies-need-validation-on-instagram/"><u>Contemplating if Video Selfies Need Validation On Instagram</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fast-track-to-connectivity-download-your-wi-fi-adapter-drivers-today/"><u>Fast Track to Connectivity: Download Your Wi-Fi Adapter Drivers Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-optimal-performance-rtx-2060-super-graphics-card-and-windows-11-compatible-drivers-now-available/"><u>Get Optimal Performance: RTX 2060 Super Graphics Card & Windows 11 Compatible Drivers Now Available!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-guide-installing-webcam-drivers-on-windows-7/"><u>Quick Guide: Installing WebCam Drivers on Windows 7</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/save-and-play-on-any-device-how-to-download-xboxclips-in-various-video-types-mp4-mov-avi-flv-wmv-mkv/"><u>Save & Play On Any Device: How to Download XboxClips in Various Video Types: MP4, MOV, AVI, FLV, WMV, MKV</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-what-to-do-when-your-pc-wont-turn-on/"><u>Troubleshooting Steps: What to Do When Your PC Won't Turn On</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-mastering-tiktok-bios-adding-linktree-seamlessly/"><u>[Updated] 2024 Approved Mastering TikTok Bios Adding Linktree Seamlessly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-boost-video-clarity-with-iphone-zoom-tools/"><u>[Updated] Boost Video Clarity with iPhone Zoom Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-multiport-hub-get-the-ultimate-13-in-1-docking-solution-with-dual-4k-support-for-only-49-explore-your-options-at-zdnet/"><u>Affordable Multiport Hub: Get the Ultimate 13-in-1 Docking Solution with Dual 4K Support for Only $49 - Explore Your Options at ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ai-powered-google-chromebook-plus-the-ultimate-challenge-to-microsofts-windows-copilot-insights-from-zdnet/"><u>AI-Powered Google Chromebook Plus: The Ultimate Challenge to Microsoft's Windows Copilot - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/apple-october-event-preview-exciting-releases-on-the-horizon-with-m4-mac-mini-and-enhanced-ipads-what-you-need-to-know-featured-by-zdnet/"><u>Apple October Event Preview: Exciting Releases on the Horizon with M4 Mac Mini and Enhanced iPads - What You Need to Know | Featured by ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-versions-how-gpt-4-differs-from-its-siblings-gpt-4-turbo-and-gpt-4o/"><u>Comparing Versions: How GPT-4 Differs From Its Siblings - GPT-4 Turbo & GPT-4o</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-immersive-technology-with-the-new-ar-laptop-featuring-a-massive-100-inch-screen-eliminating-traditional-monitors/"><u>Experience Immersive Technology with the New AR Laptop Featuring a Massive 100-Inch Screen, Eliminating Traditional Monitors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-best-chromebook-choices-for-2eplust4-comparative-analysis/"><u>Exploring the Best Chromebook Choices for 2E+t4 | Comparative Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-microsoft-plans-to-outsmart-the-apple-macbook-with-its-new-gen-ai-processor-insights/"><u>How Microsoft Plans to Outsmart the Apple MacBook with Its New-Gen AI Processor - Insights</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location on Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-xiaomi-mix-fold-3-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Xiaomi Mix Fold 3 Screen | Dr.fone</u></a></li>
+<li><a href="https://win-trending.techidaily.com/in-depth-analysis-how-dj-dex-elevates-your-mixing-skills-on-the-go-with-its-powerful-features-for-ipad-users/"><u>In-Depth Analysis: How DJ Dex Elevates Your Mixing Skills on the Go with Its Powerful Features for iPad Users</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/leading-cloud-data-platforms-ranked-your-guide-to-the-superior-options/"><u>Leading Cloud Data Platforms Ranked: Your Guide to the Superior Options</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-deal-on-a-discounted-samsung-t5-ssd-from-amazon-ahead-of-prime-day-up-to-half-off/"><u>Snag the Deal on a Discounted Samsung T5 SSD From Amazon Ahead of Prime Day - Up To Half-Off</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ideal-companion-for-digital-nomads-our-picks-for-the-lightest-and-best-laptops-zdnet-reviews/"><u>The Ideal Companion for Digital Nomads: Our Picks for the Lightest & Best Laptops | ZDNet Reviews</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-ultimate-iphone-cheat-sheet-for-insta-downloads-for-2024/"><u>The Ultimate iPhone Cheat Sheet for Insta Downloads for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Tecno Spark 10 4G | Dr.fone</u></a></li>
 </ul></div>
 

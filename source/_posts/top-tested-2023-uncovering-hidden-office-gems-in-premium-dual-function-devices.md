@@ -1,7 +1,7 @@
 ---
 title: "Top Tested 2023: Uncovering Hidden Office Gems in Premium Dual-Function Devices"
-date: 2024-12-08T17:48:41.883Z
-updated: 2024-12-13T03:15:30.193Z
+date: 2024-12-20T00:03:21.835Z
+updated: 2024-12-22T11:19:43.485Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -81,7 +81,7 @@ Alongside them are a pair of discrete microphones capable of picking out the fin
 So the high visual resolution, combined with the powerful audio system and recording features, make the HP Elitebook x360 one of the better laptops out there for on-the-go video calls.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -120,22 +120,18 @@ For more traditional users, I'd recommend the [Acer Swift 14](https://shop-links
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-insiders-guide-to-youtube-editing-mastery-using-sony-vegas-software/"><u>[New] The Insider's Guide to YouTube Editing Mastery Using Sony Vegas Software</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-virtual-adventure-awaits-with-these-top-12-pc-clickers/"><u>[Updated] In 2024, Virtual Adventure Awaits with These Top 12 PC Clickers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-your-pathway-to-personalized-youtube-music-selections/"><u>2024 Approved Your Pathway to Personalized YouTube Music Selections</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-hp-officejet-pro-8620-driver-on-windows/"><u>Download and Install HP Officejet Pro 8620 Driver on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-download-guide-thunderbolt-drivers-for-your-windows-computer/"><u>Easy Download Guide: Thunderbolt Drivers for Your Window's Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722974122519-easy-installation-instructions-for-hp-officejet-vee-3830-printer-driver-on-windows-pcs/"><u>Easy Installation Instructions for HP Officejet Vee 3830 Printer Driver on Windows PCs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-a-deactivated-or-disabled-instagram-presence-what-now/"><u>Fixing a Deactivated or Disabled Instagram Presence: What Now?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-correctly-install-and-manage-arduino-unos-drivers-in-your-windows-system/"><u>How to Correctly Install and Manage Arduino Uno's Drivers in Your Windows System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-asus-laptop-drivers-free-downloads-and-tips/"><u>How to Get the Latest ASUS Laptop Drivers – Free Downloads & Tips</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo Y28 5G? | Dr.fone</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/is-renting-dvds-for-personal-use-illegal-learn-about-fair-use-and-legal-copying-methods/"><u>Is Renting DVDs for Personal Use Illegal? Learn About Fair Use & Legal Copying Methods</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/is-virtualdub-obsolete-discover-the-best-free-video-editing-software-alternatives/"><u>Is Virtualdub Obsolete? Discover the Best Free Video Editing Software Alternatives</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revamp-computing-experience-with-quick-intel-cpu-driver-downloads/"><u>Revamp Computing Experience with Quick Intel CPU Driver Downloads</u></a></li>
-<li><a href="https://solve-help.techidaily.com/step-by-step-guide-to-resolve-technical-glitches-leveraging-yl-softwares-recommendations/"><u>Step-by-Step Guide to Resolve Technical Glitches: Leveraging YL Software's Recommendations</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-ranking-nintendo-switch-gear-and-peripherals/"><u>Top-Ranking Nintendo Switch Gear and Peripherals</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-driver-for-your-usb-compliant-tracking-device-today/"><u>Update Driver for Your USB Compliant Tracking Device Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-lenovos-battery-control-and-energy-distribution-drivers-with-ease/"><u>Upgrade Lenovo's Battery Control & Energy Distribution Drivers With Ease</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-official-hp-spectre-x360-windows-driver-software/"><u>[Free Download] Official HP Spectre X360 Windows Driver Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-10-superior-choices-high-end-video-conferencing-software-for-2024/"><u>[New] 10 Superior Choices High-End Video Conferencing Software for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-elite-selection-top-3d-video-players-for-android/"><u>[New] 2024 Approved Elite Selection Top 3D Video Players for Android</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-expert-tips-to-enhance-your-iphone-memo-making-skills/"><u>[New] In 2024, Expert Tips to Enhance Your iPhone Memo-Making Skills</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-oppo-reno-11-pro-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-hp-deskjet-series-printer-driver-packages-compatible-with-windows-11-10-8-and-7/"><u>Download and Update HP Deskjet Series Printer Driver Packages Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-automatic-amd-graphics-drivers/"><u>Easy Installation: Automatic AMD Graphics Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/maintain-a-positive-tone-users-are-often-looking-for-solutions-so-use-positive-words-like-guide-or-solutions-that-indicate-you-have-the-answer-theyre-seekin17/"><u>Maintain a Positive Tone: Users Are Often Looking for Solutions, so Use Positive Words Like Guide or Solutions that Indicate You Have the Answer They're Seeking. Avoid Using Negative Connotations in Your Titles</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-mp4-to-mp3-conversion-on-mobile-the-best-apps-and-tools/"><u>New MP4 to MP3 Conversion on Mobile The Best Apps and Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-drivers-problems-fixing-the-ralink-rt3290-on-windows-10-8-and-7/"><u>Resolving Drivers Problems: Fixing the Ralink RT3290 on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-of-the-roomba-j7-combination-bot-the-almost-perfect-dual-purpose-cleaner-zdnet-insights/"><u>Review of the Roomba J7 Combination Bot: The Almost Perfect Dual-Purpose Cleaner | ZDNet Insights</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/top-ranked-tools-for-restoring-word-files-a-comprehensive-guide/"><u>Top-Ranked Tools for Restoring Word Files: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-targus-displaylink-graphics-adapter-drivers-on-windows-windows-1087/"><u>Update Your Targus DisplayLink Graphics Adapter Drivers on Windows (Windows 10/8/7)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tutorial: How to Set Location Pins Using Google Maps Feature"
-date: 2024-09-05T19:53:58.893Z
-updated: 2024-09-06T19:53:58.893Z
+date: 2024-12-15T19:44:24.099Z
+updated: 2024-12-22T10:35:10.743Z
 tags:
   - android
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe181500be81f958d9b44354162.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Tutorial: How to Set Location Pins Using Google Maps Feature
 
 ### Quick Links
@@ -31,17 +25,9 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
  If you're looking to navigate to or save a location you found in Google Maps, but it's not a publically known location, you can drop a pin on the exact location. Doing so will help you to find it again.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Drop a Pin in Google Maps on Windows or Mac
 
  There are two ways to drop a pin on a location in Google Maps on your Windows or Mac computer. You can use the search bar to drop a pin automatically, or you can drop a pin on any location on the map manually.
@@ -56,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ![An example of a dropped pin in Google Maps, with the information panel on the left.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/03/Google-Maps-Dropped-Pin.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also drop a pin manually. To do this, select any location in the map view. A smaller gray pin icon will appear on the map, with a quick directions box appearing at the bottom.
 
  To view the larger red pin on that location (along with the information panel on the left), select the [map coordinates](https://tech-haven.techidaily.com/how-to-fix-i-forgot-my-ipad-passcodepassword/) in the quick directions box.
@@ -67,23 +57,9 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 ![To remove a pin, press the cross icon on the search bar, or click elsewhere on the map.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/03/Google-Maps-Exit-Pin.png) 
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  Drop a Pin in Google Maps on Android, iPhone, and iPad
 
  If you're using the Google Maps app on [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU210333/https://play.google.com/store/apps/details?id=com.google.android.apps.maps), [iPhone](https://apps.apple.com/gb/app/google-maps-transit-food/id585027354), or [iPad](https://apps.apple.com/gb/app/google-maps-transit-food/id585027354), you can also drop a pin on any location using the search bar or map view.
@@ -92,15 +68,13 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ![To drop a pin automatically in Google Maps on mobile devices, search for a location using the search bar, then tap on one of the search suggestions underneath.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/03/Google-Maps-Mobile-Search-Bar.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  A red pin will drop automatically on the location you've searched for, with a smaller information panel at the bottom. Tapping this information panel will bring up additional options and information, including directions, address and contact details, business reviews, and more.
 
 ![Searching for a location in Google Maps will generate a dropped pin in the same location. To view more information, tap the information panel at the bottom.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/03/Google-Maps-Mobile-Dropped-Pin.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to drop a pin manually, move to the area on the map that you'd like to drop the pin on, then press and hold on that location using your finger.
 
@@ -115,11 +89,9 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 ![To remove a temporary pin in Google Maps, tap the cross icon on the search bar, or tap elsewhere on the map.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/03/Google-Maps-Mobile-Exit-Pin.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Red pins are temporary, so doing this will remove the pin from the map, allowing you to search for other locations.
 
 <ins class="adsbygoogle"
@@ -128,8 +100,6 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +107,20 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-backyard-blogs-to-billion-sub-youtube-channel/"><u>[New] In 2024, From Backyard Blogs to Billion-Sub YouTube Channel</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-elite-eight-polishing-pictures-through-premium-grid-makers/"><u>[Updated] Elite Eight Polishing Pictures Through Premium Grid Makers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-free-fx-library-to-enhance-youtube-productions/"><u>[Updated] Free FX Library to Enhance YouTube Productions!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-visual-upgrades-top-apps-to-transform-your-photos-for-2024/"><u>[Updated] Visual Upgrades Top Apps to Transform Your Photos for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/apple-integrates-next-gen-m4-processors-to-supercharge-ai-on-every-mac-expected-launch-dates-announced/"><u>Apple Integrates Next-Gen M4 Processors to Supercharge AI on Every Mac - Expected Launch Dates Announced</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/diminuendo-film-narrative/"><u>Diminuendo Film Narrative</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-hottest-electronics-expert-picks-for-best-buys-finest-gifts-of-2023/"><u>Discover the Hottest Electronics: Expert Picks for Best Buy's Finest Gifts of 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-digital-distribution-models-gog-vs-steam/"><u>Dissecting Digital Distribution Models: GoG Vs Steam</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/holiday-shopping-hacks-revealed-score-stellar-discounts-on-tech-gadgets-and-entertainment-essentials-expert-picks-by-zdnet/"><u>Holiday Shopping Hacks Revealed: Score Stellar Discounts on Tech Gadgets and Entertainment Essentials | Expert Picks by ZDNET</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-samsung-galaxy-z-fold-5-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Samsung Galaxy Z Fold 5 Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/rediscovering-creativity-in-computing-the-return-of-the-eccentric-pc-era-and-why-it-matters/"><u>Rediscovering Creativity in Computing: The Return of the Eccentric PC Era and Why It Matters</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/story-2-the-overreliance-on-screening-alone/"><u>Story 2: The Overreliance on Screening Alone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlinking-messages-and-facebook-your-steps-to-chat-freely-on-messenger/"><u>Unlinking Messages & Facebook: Your Steps to Chat Freely on Messenger</u></a></li>
+</ul></div>
 

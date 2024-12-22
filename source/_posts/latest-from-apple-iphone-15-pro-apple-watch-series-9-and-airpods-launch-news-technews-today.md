@@ -1,7 +1,7 @@
 ---
 title: "Latest From Apple: IPhone 15 Pro, Apple Watch Series 9 & AirPods Launch News | TechNews Today"
-date: 2024-12-07T04:30:49.175Z
-updated: 2024-12-13T04:19:58.808Z
+date: 2024-12-19T05:51:44.432Z
+updated: 2024-12-21T20:54:24.465Z
 tags:
   - laptops
 categories:
@@ -27,7 +27,7 @@ Below, you'll find the best sales and discounts on Apple products, including Mac
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Apple deals of July 2024
@@ -130,7 +130,7 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple%2Fnew-ipad-pro-m4%2Fpcmcat1715092665904.c%3Fid%3Dpcmcat1715092665904&publisher_slug=itechdaily19598&exclusive=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  More Apple deals
@@ -180,7 +180,7 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I buy an iPhone without a plan?
@@ -192,7 +192,7 @@ Yes, but you must ensure that your new iPhone is not locked to a specific carrie
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is there a monthly fee for Apple iPads?
@@ -200,6 +200,10 @@ Apple's AirTag, a tracking device that connects to your account and allows you t
 This depends on the type of iPad you decide to purchase. If you opt for a Wi-Fi-only iPad -- regardless of whether you have bought a classic iPad, iPad mini, or iPad Pro -- then there will be no monthly fee or subscription. 
 
 However, if you choose an iPad with Wi-Fi and cellular connectivity, then you will need to pay for a mobile data plan to take advantage of the iPad's cellular features. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose these Apple deals?
 
@@ -234,10 +238,6 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best iPhone deals](https://www.zdnet.com/article/iphone-deals/)
 * [The best TV deals](https://www.zdnet.com/home-and-office/home-entertainment/tv-deals/)
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -283,20 +283,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-cold-climate-chronicles-highlights-from-the-icy-stage-for-2024/"><u>[New] Cold Climate Chronicles Highlights From the Icy Stage for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instaloops-unleashed-the-ultimate-guide-to-engagement/"><u>[New] In 2024, InstaLoops Unleashed The Ultimate Guide to Engagement</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-transforming-daily-routine-into-a-social-media-journey-on-fb/"><u>[Updated] 2024 Approved Transforming Daily Routine Into a Social Media Journey on FB</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1-experience-the-april-8-eclipse-with-googles-complimentary-viewing-options-learn-how/"><u>1. Experience the April 8 Eclipse with Google's Complimentary Viewing Options - Learn How!</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-seamless-merge-apple-music-and-videos-together/"><u>2024 Approved Seamless Merge Apple Music & Videos Together</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/beyond-sony-and-samsung-the-ultimate-guide-to-selecting-a-premium-gaming-television/"><u>Beyond Sony and Samsung: The Ultimate Guide to Selecting a Premium Gaming Television</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/breaking-sound-barriers-a-revolutionary-speaker-experience-that-outshines-bose-and-sonos-reviewed/"><u>Breaking Sound Barriers: A Revolutionary Speaker Experience that Outshines Bose & Sonos Reviewed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-personal-linguist-tips-and-tricks-for-seamless-language-translation/"><u>ChatGPT as Your Personal Linguist: Tips and Tricks for Seamless Language Translation</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-savings-up-to-1700-off-on-samsungs-innovative-the-frame-tv-exclusive-offer-spotted-by-zdnet/"><u>Discover Savings: Up To $1,700 Off On Samsung’s Innovative 'The Frame' TV - Exclusive Offer Spotted by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-prime-day-bargain-with-the-99-fire-tv-stick-on-amazon-your-guide-to-the-best-deal-available-today/"><u>Get Prime Day Bargain with the $99 Fire TV Stick on Amazon - Your Guide to the Best Deal Available Today!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 11 Pro</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-how-to-add-bitmoji-to-keyboard-complete-guide/"><u>New 2024 Approved How to Add Bitmoji to Keyboard? Complete Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-the-top-ranked-samsung-tv-at-43-discount-this-labor-day-insights-from-a-comprehensive-review-on-zdnet/"><u>Unbeatable Deal: The Top-Ranked Samsung TV at 43% Discount This Labor Day - Insights From a Comprehensive Review on ZDNet</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-copyright-definitions-and-implications-in-music/"><u>[New] 2024 Approved Copyright Definitions & Implications in Music</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-gratis-commerce-driven-presentation-templates-ideas/"><u>[New] 2024 Approved Gratis Commerce-Driven Presentation Templates Ideas</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-youtube-to-twitter-share-videos-without-twitting/"><u>[New] 2024 Approved YouTube to Twitter Share Videos Without Twitting</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-choosing-the-right-fps-30-or-60-which-is-better/"><u>[New] Choosing the Right FPS 30 or 60, Which Is Better?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-precision-in-photograph-preservation-phone-to-snapchat-guide/"><u>[Updated] 2024 Approved Precision in Photograph Preservation Phone to Snapchat Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-wireless-network-drivers-downloads-simple-and-secure-update-process/"><u>ASUS Wireless Network Drivers Downloads: Simple and Secure Update Process</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-logitech-drivers-for-windows-fast-and-simple/"><u>Download Logitech Drivers for Windows - Fast and Simple</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-crafting-compelling-videos-the-instagram-editors-playbook/"><u>In 2024, Crafting Compelling Videos The Instagram Editor's Playbook</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/relocate-your-boot-partition-onto-another-disk-in-windows-navigating-through-the-options-with-ease/"><u>Relocate Your Boot Partition Onto Another Disk in Windows Navigating Through the Options with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/smooth-radeon-driver-transitions-on-new-windows-11-laptops/"><u>Smooth Radeon Driver Transitions on New Windows 11 Laptops</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-broadcom-bluetooth-device-drivers-for-windows-operating-systems-windows-1187/"><u>Updated Broadcom Bluetooth Device Drivers for Windows Operating Systems - Windows 11/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-compatible-logitech-hd-webcam-software-and-drivers-downloads/"><u>Windows Compatible Logitech HD Webcam Software and Drivers Downloads</u></a></li>
 </ul></div>
 

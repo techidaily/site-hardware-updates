@@ -1,7 +1,7 @@
 ---
 title: "Massive $950 Off: Snap Up Lenovo's Premium Office Laptop Before October's Prime Deals - Insider Tips From ZDNet"
-date: 2024-12-11T23:41:57.143Z
-updated: 2024-12-12T20:05:03.667Z
+date: 2024-12-16T21:27:53.394Z
+updated: 2024-12-22T07:12:58.387Z
 tags:
   - laptops
 categories:
@@ -38,7 +38,7 @@ This laptop isn't solely for business professionals. Everybody can enjoy the dev
 Right now is the best time to buy this device. The [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cddc033e3-08fa-42b2-b4fe-eb896d4675a3%7Cdtp&dtb=1) is currently on sale at Amazon for $1,500\. That is almost $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cddc033e3-08fa-42b2-b4fe-eb896d4675a3%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -75,24 +75,17 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-exploring-uavs-operation-a-guide-to-aerial-robotics/"><u>[Updated] Exploring UAVs' Operation A Guide to Aerial Robotics</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-simplifying-the-art-of-gif-production/"><u>[Updated] In 2024, Simplifying the Art of GIF Production</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-indulge-with-top-youtube-movies-guides/"><u>2024 Approved Indulge with Top YouTube Movies Guides</u></a></li>
-<li><a href="https://win11.techidaily.com/bringing-forlorn-windows-apps-back-into-use/"><u>Bringing Forlorn Windows Apps Back Into Use</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-access-to-updated-drivers-for-amds-ati-radeon-hd-3450-graphics-card/"><u>Easy Access to Updated Drivers for AMD's ATI Radeon HD 3450 Graphics Card</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experts-picks-for-the-ultimate-selection-of-digital-notebooks-in-depth-analysis-and-ratings-zdnet/"><u>Experts' Picks for the Ultimate Selection of Digital Notebooks: In-Depth Analysis and Ratings | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-best-wifi-performance-update-drivers-for-windows-7-effortlessly/"><u>Get the Best WiFi Performance: Update Drivers for Windows 7 Effortlessly!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722956195071-get-the-newest-mpow-bluetooth-driver-version-now-perfect-for-windows-1187-systems/"><u>Get the Newest MPOW Bluetooth Driver Version Now – Perfect for Windows 11/8/7 Systems</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oneplus-nord-3-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on OnePlus Nord 3 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-intel-iris-plus-gfx-655-driver-for-windows-10-and-11-systems/"><u>How to Get the Newest Intel Iris Plus Gfx 655 Driver for Windows 10 and 11 Systems</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-to-light-your-youtube-video-for-2024/"><u>How To Light Your YouTube Video for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-6s-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-itel-p40-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Itel P40 Phones with/without a PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-hp-officejet-3830-drivers-on-your-pc-quick-and-easy-guide/"><u>Install HP Officejet 3830 Drivers on Your PC: Quick and Easy Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/next-gen-chip-wars-how-huawei-might-mirror-approaches-in-upcoming-kirin-processors-to-reflect-techniques-of-apple-and-intel/"><u>Next-Gen Chip Wars: How Huawei Might Mirror Approaches in Upcoming Kirin Processors to Reflect Techniques of Apple & Intel</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-installing-the-latest-epson-driver-updates-on-your-pc/"><u>Quick and Easy: Installing the Latest Epson Driver Updates on Your PC!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722966344107-resolved-lack-of-fundamental-printer-and-scanner-software-on-windows-11/"><u>Resolved: Lack of Fundamental Printer and Scanner Software on Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/speedy-downloads-of-amd-ryzen-5-2400g-graphics-drivers-for-hassle-free-computing/"><u>Speedy Downloads of AMD Ryzen 5 2400G Graphics Drivers for Hassle-Free Computing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-erase-effortlessly-social-media-live-on-desktop-and-phone/"><u>[New] In 2024, Erase Effortlessly Social Media Live on Desktop & Phone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-webcam-use-for-professional-meeting-records-for-2024/"><u>[New] Mastering Webcam Use for Professional Meeting Records for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-ultimate-thumbnail-blueprint-for-successful-videos/"><u>[New] The Ultimate Thumbnail Blueprint for Successful Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/2024-prime-day-ultimate-savings-guide-top-october-deals-still-on-sale-zdnet/"><u>2024 Prime Day Ultimate Savings Guide: Top October Deals Still on Sale | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-fixes-to-revive-your-laptop-charger-my-story-of-saving-the-macbook-pro/"><u>Free Fixes to Revive Your Laptop Charger: My Story of Saving the MacBook Pro</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Realme GT Neo 5? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-f15-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy F15 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-unveils-upgraded-copilotplus-pc-featuring-enhanced-ai-capabilities-exclusive-tech-news-on-zdnet/"><u>Samsung Unveils Upgraded Copilot+ PC Featuring Enhanced AI Capabilities - Exclusive Tech News on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-buying-a-tough-laptop-insider-info-from-zdnet/"><u>Ultimate Guide to Buying a Tough Laptop – Insider Info From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-the-ideal-college-laptop-picks-in-depth-analysis-by-tech-experts/"><u>Ultimate Guide to the Ideal College Laptop Picks: In-Depth Analysis by Tech Experts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-of-weather-surveillance-apps/"><u>Ultimate Selection of Weather Surveillance Apps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is the Release of an M3 MacBook Air Signaling a Shift Away From iPhone Hype? Insights From ZDNet
-date: 2024-12-05T21:21:18.174Z
-updated: 2024-12-13T01:06:46.279Z
+date: 2024-12-19T02:13:04.337Z
+updated: 2024-12-21T18:23:12.500Z
 tags:
   - laptops
 categories:
@@ -34,10 +34,6 @@ Based on all my experience, here's why Chromebooks are the perfect laptops for m
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Chromebooks are cheap
 
 The first reason is beyond dispute. Given how the economy has had a rather crushing effect on so many of our budgets, finding an inexpensive piece of hardware can be a real plus for anyone looking to stay productive. That's not to say every Chromebook is cheap. I once paid a premium for a [Chromebook Pixel](https://www.zdnet.com/article/googles-chromebook-pixel-lives-on-but-you-cant-buy-one/) \-- and that laptop remains one of my favorites. (The display and keyboard were best in class at the time.) 
@@ -62,6 +58,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Chromebooks are user-proof
 
 No other laptop operating system on the planet can claim to be as user-proof as [ChromeOS](https://www.zdnet.com/article/5-chromeos-tips-for-faster-navigation-and-a-more-efficient-experience/). Some would argue that's because there's so little you can do with a Chromebook, but that's patently false, especially considering that your Chromebook can run both [Android](https://www.zdnet.com/home-and-office/work-life/how-to-add-android-apps-to-your-chromebook/) and Linux apps. 
@@ -74,6 +74,10 @@ I've known users -- hello, family, are you listening? -- who've suffered to no e
 
 I've watched users continually break Windows and MacOS laptops (and come to me for help). The number of times I've had a Chromebook user do the same thing is… nil. Sure, a couple of times someone asked me, "How do I get this thing connected to a printer?" That's about it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Chromebooks are fast
 
 Take two laptops with basically the same hardware configuration, load one with Windows 11 and one with ChromeOS, and see which performs better. In every instance, you'll find ChromeOS to be exponentially faster. 
@@ -85,7 +89,7 @@ It's not just about how quickly apps open (Android _and_ Linux apps, see above),
 If you want a fast laptop at a reasonable price, get a Chromebook.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Chromebooks are reliable
@@ -97,7 +101,7 @@ In the 10 years since I've been using Chromebooks, I've only had one device with
 Even when using the [non-stable ChromeOS channel](https://www.zdnet.com/article/how-to-switch-release-channels-on-your-chromebook/), I've found the operating system to be exponentially more reliable than Windows. Anyone who argues this point hasn't used ChromeOS enough.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Chromebooks are secure
@@ -108,10 +112,6 @@ Thanks to ChromeOS's built-in security, even older, out-of-support Chromebooks a
 
 You won't need antivirus or anti-malware. Just make sure to apply any/all updates when they become available, avoid suspicious websites, and only install extensions from the official Google Chrome Store, and you're good to go. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Chromebooks can be easily restored
 
 Speaking of reliability, should you wind up having a problem with ChromeOS misbehaving (extremely unlikely, see above), you can simply do a "powerwash" (a factory reset), log back into your Google account, and you'll find everything there, minus whatever problem you were experiencing (and anything you'd previously saved to the Downloads folder).
@@ -121,7 +121,7 @@ Speaking of reliability, should you wind up having a problem with ChromeOS misbe
 No other operating system can compete with ChromeOS's ability to factory reset and return you to a pristine working state without having lost your data, bookmarks, apps, and more. I've never once worried about doing anything with a Chromebook, simply because I know I can do a quick power wash and be back working in minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -158,16 +158,18 @@ Chromebooks may not be the ideal solution for everyone. (Attempt any serious vid
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-perfecting-subtitles-in-media-ultimate-list-of-on-line-aid-sources/"><u>[Updated] Perfecting Subtitles in Media Ultimate List of On-Line Aid Sources</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-critique-of-vivas-video-capabilities-for-2024/"><u>A Critique of Viva's Video Capabilities for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/capturing-perfection-a-deep-dive-into-apeaksofts-technology/"><u>Capturing Perfection A Deep Dive Into Apeaksoft's Technology</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-amd-general-purpose-inputoutput-gpio-drivers-instantly/"><u>Download the Latest AMD General-Purpose Input/Output (GPIO) Drivers Instantly!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-setup-focusrite-scarlett-nv2i-2nd-gen-windows-drivers-available/"><u>Easy Setup: Focusrite Scarlett Nv2i 2Nd Gen Windows Drivers Available!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-v30-lite-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo V30 Lite 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-4-ways-for-apple-iphone-15-plus-to-mac-mirroring-drfone-by-drfone-ios/"><u>In 2024, Top 4 Ways for Apple iPhone 15 Plus to Mac Mirroring | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-tech-with-toms-hardware-in-depth-analysis-and-advice/"><u>Mastering Tech with Tom's Hardware – In-Depth Analysis and Advice</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/optimize-your-pc-for-gaming-with-latest-dell-g3-graphics-card-drivers/"><u>Optimize Your PC for Gaming with Latest Dell G3 Graphics Card Drivers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/switching-to-nocturnal-display-a-how-to-for-iphones/"><u>Switching to Nocturnal Display: A How-To for iPhones</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722973606612-update-your-system-with-new-rtx-2060-super-video-card-drivers-for-windows-11-download-here/"><u>Update Your System with New RTX 2060 Super Video Card Drivers for Windows 11 - Download Here!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-your-ultimate-manual-for-downloading-youtube-playlists/"><u>[New] 2024 Approved Your Ultimate Manual for Downloading YouTube Playlists</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-idea-to-implementation-crafting-a-powerful-documntary-narrative/"><u>[New] From Idea to Implementation Crafting a Powerful Documntary Narrative</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-melodies-meet-graphics-adding-soundtracks-to-powerpoint/"><u>[New] Melodies Meet Graphics Adding Soundtracks to PowerPoint</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-complete-guide-to-crafting-youtube-masterpieces-for-2024/"><u>[New] The Complete Guide to Crafting YouTube Masterpieces for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ai-advancements-and-enhanced-security-the-new-demands-for-next-gen-laptops-as-predicted-by-lenovo-on-zdnet/"><u>AI Advancements & Enhanced Security: The New Demands for Next-Gen Laptops as Predicted by Lenovo on ZDNET</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/common-fixes-when-windows-10-version-1607-wont-install-properly/"><u>Common Fixes When Windows 10 Version 1607 Won't Install Properly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/gigabyte-a5-k1-black-friday-sale-get-a-whopping-40-discount-on-top-tier-gaming-laptops-shop-now-at-zdnet/"><u>Gigabyte A5 K1 Black Friday Sale: Get a Whopping 40% Discount on Top-Tier Gaming Laptops - Shop Now at ZDNet!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-a34-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy A34 5G Phones with/without a PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-edge-speech-to-text-programs/"><u>In 2024, Leading Edge Speech-to-Text Programs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-completely-clearing-your-personal-data-from-a-windows-laptop-for-free-expert-tips-and-tricks/"><u>The Ultimate Guide to Completely Clearing Your Personal Data From a Windows Laptop for Free - Expert Tips & Tricks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transform-any-laptop-into-a-high-resolution-dual-display-powerhouse-with-our-innovative-gadget-reviews/"><u>Transform Any Laptop Into a High-Resolution Dual Display Powerhouse with Our Innovative Gadget Reviews</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/virtual-vanguards-identifying-the-top-7-fps-powerhouses-for-2024/"><u>Virtual Vanguards Identifying the Top 7 FPS Powerhouses for 2024</u></a></li>
 </ul></div>
 

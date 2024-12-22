@@ -1,7 +1,7 @@
 ---
 title: ZDNet's Insightful Analysis on the Latest Microsoft Surface Laptop - Expectations vs Reality
-date: 2024-12-07T01:22:46.679Z
-updated: 2024-12-12T17:55:58.822Z
+date: 2024-12-21T10:59:01.534Z
+updated: 2024-12-21T20:09:16.183Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -58,7 +58,7 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 | Size and weight | 12.1 L x 8.8 W x .57 H inches, 2.8 lbs                                                     |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How's the build quality?
@@ -79,6 +79,10 @@ Michael Gariffo/ZDNET
 
 **More: [The best laptops: Does Apple take the crown?](https://www.zdnet.com/article/best-laptop/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Features and ports
 
 That one on the top is the Surface Connect Port, not an SD card reader slot, which it so closely resembles.
@@ -86,10 +90,6 @@ That one on the top is the Surface Connect Port, not an SD card reader slot, whi
 Michael Gariffo/ZDNET
 
 Microsoft's port selection on the Surface Laptop 5 is very middle-of-the-road. That's a good thing. It acknowledges that plenty of USB-A peripherals still exist, so it includes a single USB-A port. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -144,7 +144,7 @@ This might be forgivable in a budget model. But even the base config [Surface La
 **More: [The 10 best webcams: Join your next Zoom call in HD](https://www.zdnet.com/article/best-webcam/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance and battery life
@@ -170,7 +170,7 @@ Overall, I'd have no qualms about leaving my charger at home and expecting to ge
 [Microsoft Surface Laptop 5 $1,117 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1738938556&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -227,18 +227,24 @@ Dell's latest entry in the XPS 13 lineup looks like it comes from further down t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-smooth-transitions-in-photography-mastering-face-focused-motion-blur-in-picsart/"><u>[New] In 2024, Smooth Transitions in Photography Mastering Face-Focused Motion Blur in Picsart</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-boosting-clickthrough-rates-with-attention-grabbing-youtube-thumbnails/"><u>[Updated] 2024 Approved Boosting Clickthrough Rates with Attention-Grabbing YouTube Thumbnails</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-efficiently-manipulate-iphone-images-to-your-desired-scale/"><u>[Updated] Efficiently Manipulate iPhone Images to Your Desired Scale</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-elite-8-streaming-software-selections-for-2024/"><u>[Updated] Elite 8 Streaming Software Selections for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-hp-officejet-pro-8600-printer-drivers-for-windows-computers/"><u>Download HP Officejet Pro 8600 Printer Drivers for Windows Computers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-brother-hl-l2380dw-driver-software-for-your-windows-pc/"><u>Download the Brother HL-L2380DW Driver Software for Your Windows PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-brother-dcp-l2530dw-windows-driver-step-by-step-guide/"><u>Get the Latest Brother DCP-L25^30DW Windows Driver - Step by Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-camera-up-and-running-driver-downloads-for-windows-11-to-7/"><u>Get Your Camera Up and Running: Driver Downloads for Windows 11 to 7</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-itel-p55-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975789049-how-to-properly-download-and-set-up-arduino-nano-boards-driver-on-a-windows-machine-solved/"><u>How to Properly Download and Set Up Arduino Nano Board's Driver on a Windows Machine - Solved!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigate-through-the-latest-amd-drivers-enhancement-for-win-11-10-and-older-systems/"><u>Navigate Through the Latest AMD Drivers Enhancement for Win 11, 10 & Older Systems</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211323722-9798885832991-the-creators-way/"><u>The Creator's Way | Free Book</u></a></li>
-<li><a href="https://fox-links.techidaily.com/your-guide-to-the-top-hdmi-tvs-21-a-comparison-chart-for-2024/"><u>Your Guide to the Top HDMI TVs (2.1) A Comparison Chart for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-simplifying-screen-views-during-google-meet-chats/"><u>[New] 2024 Approved Simplifying Screen Views During Google Meet Chats</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-mobile-identification-showdown-iphone-x-and-galaxy/"><u>[New] Mobile Identification Showdown IPhone X and Galaxy</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhancing-profits-creating-compelling-video-trailers/"><u>[Updated] In 2024, Enhancing Profits Creating Compelling Video Trailers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-rx-ve-560-driver-fixes-ensuring-compatibility-with-windows-111087-systems/"><u>AMD RX Ve 560 Driver Fixes: Ensuring Compatibility with Windows 11/10/8/7 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-installing-amd-rx-6800-xt-drivers-on-windows-operating-systems-win11-win10-win8-win7/"><u>Complete Guide to Installing AMD RX 6800 XT Drivers on Windows Operating Systems: Win11, Win10, Win8, Win7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-solution-for-realtek-hd-chipset-drives-issues/"><u>Comprehensive Solution for Realtek HD Chipset Drives Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-computer-maintenance-automation-for-windows-11-users/"><u>Effortless Computer Maintenance Automation for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortlessly-install-acer-bluetooth-driver-with-our-quick-guide-and-download/"><u>Effortlessly Install Acer Bluetooth Driver with Our Quick Guide and Download</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/enhancing-visual-flow-effortless-fade-tricks-for-2024/"><u>Enhancing Visual Flow Effortless Fade Tricks for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-canon-printer-software-mp280-compatible-with-windows-10-8-and-7/"><u>Free Download: Canon Printer Software MP280 Compatible with Windows 10, 8 & #7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-csr-bluetooth-devices-official-drivers-here/"><u>Get Your CSR Bluetooth Device's Official Drivers Here!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-oneplus-nord-ce-3-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your OnePlus Nord CE 3 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Realme GT Neo 5? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-urban-to-agrarian-journey-stardew-titles-traced/"><u>In 2024, Urban to Agrarian Journey Stardew Titles Traced</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-class-on-repairing-logitech-f710-drivers-for-windows-xp-vista-7-8-and-beyond/"><u>Master Class on Repairing Logitech F710 Drivers for Windows XP, Vista, 7, 8, and Beyond</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-to-finding-and-installing-hp-envy-5660-model-drivers/"><u>Quick Guide to Finding and Installing HP Envy 5660 Model Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-hp-speaker-sound-problems-on-windows-11-8-and-7/"><u>Resolving HP Speaker Sound Problems on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-rotation-revelation-manual-transform-your-visual-content-on-social-media-sites/"><u>The Rotation Revelation Manual Transform Your Visual Content on Social Media Sites</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-runtime-brokers-influence-on-pc-performance/"><u>Unveiling Runtime Broker's Influence on PC Performance</u></a></li>
 </ul></div>
 

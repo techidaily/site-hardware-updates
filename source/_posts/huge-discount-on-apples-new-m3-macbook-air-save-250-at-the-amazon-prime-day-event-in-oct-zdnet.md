@@ -1,7 +1,7 @@
 ---
 title: Huge Discount on Apple's New M3 MacBook Air - Save $250 at the Amazon Prime Day Event in Oct | ZDNet
-date: 2024-12-10T19:19:41.460Z
-updated: 2024-12-12T21:36:25.094Z
+date: 2024-12-21T03:56:32.200Z
+updated: 2024-12-22T11:31:23.758Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Jason Hiner/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ The Apple [M3 MacBook Pro 14"](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FU
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -59,7 +59,7 @@ In addition, with up to 22 hours of battery life, the M3 improves on previous ve
 The [M3 MacBook Pros](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5JLWJK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb12ee2ea-4d7b-4e84-84d3-0702024ae9c4%7Cdtp&dtb=1) come in three iconic colors of silver, space gray, and space black, with the all-aluminum body designed to resist scratches and dents, adding to the line's durable reputation. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -98,17 +98,16 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-pilot-to-perfection-complete-review-of-dji-phantom-4-for-2024/"><u>[Updated] Pilot to Perfection Complete Review of DJI Phantom 4 for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-essentials-of-expertly-editing-images-at-home/"><u>2024 Approved The Essentials of Expertly Editing Images at Home</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/choosing-between-iphone-16-and-iphone-15-a-detailed-comparison-for-your-next-upgrade-with-apple-techradar/"><u>Choosing Between iPhone 16 and iPhone 15: A Detailed Comparison for Your Next Upgrade with Apple | TechRadar</u></a></li>
-<li><a href="https://win-hot.techidaily.com/defis-et-performances-xcopy-par-rapport-a-robocopy-un-guide-complet-pour-les-utilisateurs-dos-windows/"><u>Défis Et Performances : Xcopy Par Rapport À Robocopy - Un Guide Complet Pour Les Utilisateurs D'OS Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-setup-hp-printer-scanner-drivers-on-your-windows-pc/"><u>Download & Setup HP Printer Scanner Drivers on Your Windows PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-download-and-install-epson-v700-software-for-windows-users/"><u>Easy Guide to Download and Install Epson V700 Software for Windows Users</u></a></li>
-<li><a href="https://win-data.techidaily.com/how-to-create-a-clone-of-windows-server-2012-r2-hdd/"><u>How to Create a Clone of Windows Server 2012 (R2) HDD</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-keep-your-epson-xp-640-printer-updated-on-a-windows-machine/"><u>How to Keep Your Epson XP-640 Printer Updated on a Windows Machine</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-world-of-lut-filters-for-obs-mastery/"><u>In 2024, Navigating the World of LUT Filters for OBS Mastery</u></a></li>
-<li><a href="https://fox-that.techidaily.com/lost-iphone-found-solutions-explaining-offline-issues-with-find-my-and-fixing-them/"><u>Lost iPhone, Found Solutions: Explaining Offline Issues with 'Find My' And Fixing Them</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212270873-no-sound-in-steam-games-quick-troubleshooting-techniques-will-help/"><u>No Sound in Steam Games? Quick Troubleshooting Techniques Will Help!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-downloading-and-updating-your-canoscan-lide-220-printer-software/"><u>Step-by-Step Instructions: Downloading and Updating Your CanoScan LiDE 220 Printer Software</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-secrets-to-penning-popular-vlog-dialogue-plans/"><u>[New] The Secrets to Penning Popular Vlog Dialogue Plans</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-binocular-vision-the-leading-digital-photo-enhancements/"><u>[Updated] Binocular Vision The Leading Digital Photo Enhancements</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-ios-steps-for-acquiring-itunes-subscriptions/"><u>[Updated] Mastering iOS Steps for Acquiring iTunes Subscriptions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-acers-impressive-combo-of-high-quality-oled-screen-and-advanced-webcams-in-our-latest-review-zdnet/"><u>Discover Acer's Impressive Combo of High-Quality OLED Screen and Advanced Webcams in Our Latest Review | ZDNET</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-11-pro-max-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone 11 Pro Max to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-whats-next-for-apple-in-october-spotlight-on-upcoming-m4-mac-mini-enhanced-ipad-lineup-and-ai-advancements-zdnet-insights/"><u>Exploring What's Next for Apple in October: Spotlight on Upcoming M4 Mac Mini, Enhanced iPad Lineup, and AI Advancements | ZDNET Insights</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-enhance-video-visibility-using-creator-studio-wisdom/"><u>In 2024, Enhance Video Visibility Using Creator Studio Wisdom</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/in-depth-analysis-the-features-and-performance-of-claude-pro-versus-chatgpt-plus/"><u>In-Depth Analysis: The Features and Performance of Claude Pro versus ChatGPT Plus</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-vivo-y27-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-tech-alert-score-an-affordable-15-asus-laptop-with-comprehensive-ports-from-walmart-for-a-steal-at-250-revealed/"><u>Top Tech Alert: Score an Affordable 15 Asus Laptop With Comprehensive Ports From Walmart for a Steal at $250, Revealed !</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-handmade-gift-guide-for-craft-enthusiasts-this-season-essential-tool-selections-featured/"><u>Ultimate Handmade Gift Guide for Craft Enthusiasts This Season: Essential Tool Selections Featured</u></a></li>
 </ul></div>
 

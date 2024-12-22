@@ -1,7 +1,7 @@
 ---
 title: Love at First Swipe with the Lighter-Than-Ever Gram Pro 17 - Available Now for Black Friday Deals!
-date: 2024-12-09T23:16:36.136Z
-updated: 2024-12-13T03:05:58.764Z
+date: 2024-12-19T19:15:13.428Z
+updated: 2024-12-22T02:25:48.252Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,20 +87,15 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-enjoy-every-frame-the-ultimate-guide-to-recording-netflix-on-os-x/"><u>[New] Enjoy Every Frame The Ultimate Guide to Recording Netflix on OS X</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-encompassing-angle-video-systems/"><u>[New] In 2024, Encompassing Angle Video Systems</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-masterpiece-models-best-of-the-computer-world-for-2024/"><u>[New] Masterpiece Models Best of the Computer World for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mastering-the-skill-how-to-securely-record-on-whatsapp/"><u>[Updated] 2024 Approved Mastering the Skill How to Securely Record on WhatsApp</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-techniques-for-youtube-video-format-switching-for-2024/"><u>[Updated] Ultimate Techniques for YouTube Video Format Switching for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-constructing-an-intriguing-trailer-blueprint/"><u>2024 Approved Constructing an Intriguing Trailer Blueprint</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-high-revenue-streaming-star-across-the-globe/"><u>2024 Approved High Revenue Streaming Star Across the Globe</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722963584673-approach-discuss-the-impact-of-temperature-on-the-hydration-reaction-and-concrete-properties/"><u>Approach: Discuss the Impact of Temperature on the Hydration Reaction and Concrete Properties.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-sandisk-software-for-windows-11-a-step-by-step-tutorial/"><u>Download & Install SanDisk Software for Windows 11 - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/essential-guide-to-the-no-nonsense-cost-effective-procase-laptop-sleeve-for-macbook-pro-13/"><u>Essential Guide to the No-Nonsense, Cost-Effective ProCase Laptop Sleeve for MacBook Pro 1^3</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-new-hp-officejet-pro-8620-printer-drivers-on-your-windows-device/"><u>How to Install New HP OfficeJet Pro 8620 Printer Drivers on Your Windows Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/nvidia-quadro-rtx-8000-latest-driver-downloads-compatible-with-windows-7810/"><u>NVIDIA Quadro RTX #8000: Latest Driver Downloads Compatible with Windows 7/8/10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-updating-webcam-drivers-on-windows-10-a-comprehensive-guide/"><u>Troubleshooting and Updating Webcam Drivers on Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/uncovering-the-capabilities-of-xbox-360-does-it-play-blu-ray-discs-all-you-need-to-know/"><u>Uncovering the Capabilities of Xbox 360 - Does It Play Blu-Ray Discs? All You Need to Know</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722972572647-windows-10-gamers-rejoice-free-steelseries-engine-enhancement-tool-now-available/"><u>Windows 10 Gamers Rejoice: Free SteelSeries Engine Enhancement Tool Now Available</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-sparking-interest-customized-anime-style-subscribers-on-your-youtube-channel-filmora/"><u>[New] 2024 Approved Sparking Interest Customized, Anime-Style Subscribers on Your YouTube Channel (Filmora)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-step-by-step-guide-to-personalize-and-change-video-covers-on-facebook/"><u>[New] 2024 Approved Step-by-Step Guide to Personalize and Change Video Covers on Facebook</u></a></li>
+<li><a href="https://fox-info.techidaily.com/digital-radios-unleashed-the-recorders-essential-handbook-for-2024/"><u>Digital Radios Unleashed The Recorder's Essential Handbook for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratis-online-konverter-avi-na-mp4-movavi-snimek-prekvapeni/"><u>Gratis Online Konvertér AVI Na MP4 - Movavi Snímek Překvapení</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveil-the-art-of-creating-astonishing-gopro-time-lapse-videos/"><u>In 2024, Unveil the Art of Creating Astonishing GoPro Time-Lapse Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/rev-up-your-gameplay-an-exclusive-look-at-dells-premium-300e-laptop-with-unique-perks/"><u>Rev Up Your Gameplay: An Exclusive Look at Dell's Premium $3,00E Laptop with Unique Perks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-a-bargain-with-two-portable-monitors-for-your-laptop-save-120-on-teamgee-today-shopping-tips/"><u>Score a Bargain with Two Portable Monitors for Your Laptop! Save $120 on TeamGee Today Shopping Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/slash-your-costs-with-44-savings-the-ultimate-11-in-1-portable-hub-for-a-neat-workspace-now-on-sale-at-zdnet/"><u>Slash Your Costs with 44% Savings: The Ultimate 11-in-1 Portable Hub for a Neat Workspace - Now on Sale at ZDNet!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-nlra-was-enacted-in-1urt-which-are-the-most-important-things-we-can-learn-from-them/"><u>The NLRA Was Enacted in 1Urt, Which Are the Most Important Things We Can Learn From Them?</u></a></li>
 </ul></div>
 

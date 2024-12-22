@@ -1,7 +1,7 @@
 ---
 title: How Lenovo's Innovative Dual-Screen Laptop Transformed My Productivity - A Deep Dive by ZDNet
-date: 2024-12-06T02:50:14.095Z
-updated: 2024-12-13T02:42:11.569Z
+date: 2024-12-17T11:22:56.016Z
+updated: 2024-12-21T23:31:35.531Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Kerry Wan/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -41,7 +45,7 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -57,10 +61,6 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 | Price                 | Starting at [$1,980](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-12-Core-i7-1360P-Fingerprint-Thunderbolt4%2Fdp%2FB0CR9S1KFL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C662ab0d3-0fc7-4094-a31e-3d04102aa8a9%7Cdtp&dtb=1) |
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
 
@@ -83,7 +83,7 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does it perform?
@@ -107,7 +107,7 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
@@ -131,7 +131,7 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## One thing to keep in mind
@@ -182,21 +182,24 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-cut-the-cord-with-youtube-mp3-conversion-tools-for-2024/"><u>[New] Cut the Cord with YouTube-MP3 Conversion Tools for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-veiled-valuables-unlocking-the-secrets-in-the-2023-online-marketplace/"><u>[Updated] 2024 Approved Veiled Valuables Unlocking the Secrets in the 2023 Online Marketplace</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-mastering-virtual-identity-your-metaverse-persona-creation-companion/"><u>[Updated] In 2024, Mastering Virtual Identity Your Metaverse Persona Creation Companion</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722978147160-dti-provides-detailed-images-of-white-matter-tracts-useful-for-assessing-traumatic-brain-injury-or-multiple-scleroserole-plaques/"><u>DTI Provides Detailed Images of White Matter Tracts, Useful for Assessing Traumatic Brain Injury or Multiple Scleroserole Plaques</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-toshiba-driver-updates-for-your-windows-pc-heres-how/"><u>Get the Latest Toshiba Driver Updates for Your Windows PC - Here's How</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-new-amd-rx-amoled-6800-xt-driver-software-compatible-with-windows-operating-systems/"><u>Get the New AMD RX Amoled 6800 XT Driver Software Compatible with Windows Operating Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-samsung-printer-ready-on-windows-free-driver-downloads-here/"><u>Get Your Samsung Printer Ready on Windows: Free Driver Downloads Here</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-honor-magic-5-pro-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Honor Magic 5 Pro Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-officejet-5740-printer-driver-setup-made-simple-immediate-download-access/"><u>HP Officejet 5740 Printer Driver Setup Made Simple: Immediate Download Access</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/improve-your-gaming-experience-with-new-drivers-for-nvidias-geforge-gtx-1650-super-on-windows-11/"><u>Improve Your Gaming Experience with New Drivers for NVIDIA's GeForge GTX 1650 SUPER on Windows 11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-add-dynamic-blur-to-images-a-photoshop-journey/"><u>In 2024, Add Dynamic Blur to Images – A Photoshop Journey</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210340317-9781641845557-lifes-changeful-interruptions/"><u>Life's Changeful Interruptions | Free Book</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swift-update-process-for-enhanced-visual-experience-on-win10/"><u>Swift Update Process for Enhanced Visual Experience on Win10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-to-the-newest-epson-wf-3620-printer-driver-version-on-your-windows-1187-system-today/"><u>Upgrade to the Newest Epson WF-3620 Printer Driver Version on Your Windows 11/8/7 System Today</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138573514-9780595888740-what-if/"><u>What If? | Free Book</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/mpg3gp-movavi/"><u>オンラインで簡単! 無料MPGファイルの3GPへの変換 - Movavi</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-fabricate-fascinating-face-painting-gifs-on-giphy/"><u>[New] 2024 Approved Fabricate Fascinating Face-Painting Gifs on Giphy</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-homemade-video-making-top-5-efficient-methods-you-must-know/"><u>[Updated] Homemade Video Making Top 5 Efficient Methods You Must Know</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-enlarge-images-pixel-perfect-preservation/"><u>[Updated] In 2024, Enlarge Images Pixel-Perfect Preservation</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-master-class-selecting-the-top-10-4k-shoulder-rigs/"><u>2024 Approved Master Class Selecting the Top 10 4K Shoulder Rigs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-masterclass-in-virality-cutting-edge-strategies-for-instagram-films/"><u>2024 Approved Masterclass in Virality Cutting-Edge Strategies for Instagram Films</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-microsoft-drivers-made-easy-for-windows-1087-users/"><u>Download & Update Microsoft Drivers Made Easy - For Windows 10/8/7 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-sas-drivers-for-windows-1187-step-by-step-guide/"><u>Download Updated SAS Drivers for Windows 11/8/7: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-epson-wf-2630-printer-drivers-for-all-windows-versions-7-81-and-10/"><u>Easy Installation of Epson WF 2630 Printer Drivers for All Windows Versions (7, 8.1 & 10)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-setup-downloading-and-installing-logitech-steering-wheel-drivers-on-windows-7-8-or-10/"><u>Effortless Setup: Downloading and Installing Logitech Steering Wheel Drivers on Windows 7, 8 or 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722964841658-effortlessly-enhance-your-wifi-on-windows-7-download-and-update-drivers-today/"><u>Effortlessly Enhance Your WiFi on Windows 7 – Download & Update Drivers Today!</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-typing-flow-hotkeys-for-fast-copy-paste-in-win/"><u>Elevate Typing Flow: Hotkeys for Fast Copy-Paste in WIN</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hand-on-roccat-mouse-driving-program/"><u>Get Your Hand On: Roccat Mouse Driving Program</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-vivo-v27-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Vivo V27 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-razer-mouse-drivers-on-windows-easily-and-quickly/"><u>Install Razer Mouse Drivers on Windows — Easily & Quickly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-update-for-nvidia-quadro-rtx-eight-thousand-gpus-win11win10win7-driver-download/"><u>Latest Update for Nvidia Quadro RTX Eight Thousand GPUs - Win11/Win10/Win7 Driver Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ready-to-pair-get-csr-bluetooth-connectivity-with-these-drivers/"><u>Ready to Pair? Get CSR Bluetooth Connectivity with These Drivers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-the-antolin-antop-at-127-stylish-and-high-performance-antenna-delivers-flawless-tv-signal-without-charge/"><u>Review of the Antolin Antop AT-127: Stylish & High-Performance Antenna Delivers Flawless TV Signal Without Charge</u></a></li>
+<li><a href="https://win11.techidaily.com/the-journey-from-bat-to-executable-on-windows-os/"><u>The Journey: From .bat to Executable on Windows OS</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-narzo-60x-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme Narzo 60x 5G Device</u></a></li>
 </ul></div>
 

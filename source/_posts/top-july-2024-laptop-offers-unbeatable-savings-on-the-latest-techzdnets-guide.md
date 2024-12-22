@@ -1,7 +1,7 @@
 ---
 title: Top July 2024 Laptop Offers - Unbeatable Savings on the Latest Tech![ZDNet's Guide]
-date: 2024-12-08T18:50:17.227Z
-updated: 2024-12-12T16:31:08.635Z
+date: 2024-12-18T05:36:31.323Z
+updated: 2024-12-22T09:57:07.174Z
 tags:
   - laptops
 categories:
@@ -96,7 +96,7 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Low-Blue-Processor-Ethernet-Bluetooth%2Fdp%2FB0CVN88CFX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7416397a-03d3-4af7-ac08-8fcae75ad900%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternative laptop deals
@@ -115,10 +115,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [ASUS ROG Strix Scar 15 gaming laptop deal for $1749 (save $250) $1,749 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RMW1L7Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7416397a-03d3-4af7-ac08-8fcae75ad900%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Walmart laptop deals
 
 [ASUS Vivobook 16-inch laptop deal for $499 (save $200) $499 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-16-PC-Laptop-Intel-Core-i7-1255U-16GB-512GB-Win-11-Home-Black-F1605ZA-WS74%2F5023779612&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -132,7 +128,7 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [HP Chromebook X360 14-inch FHD touchscreen 2-in-1 laptop deal for $279 (save $120) $279 at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Chromebook-X360-14-inch-FHD-IPS-Touch-2-in-1-Laptop-Intel-Processor-N100-4GB-RAM-64GB-eMMC-Sky-Blue%2F5123764557&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best Buy laptop deals
@@ -144,10 +140,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Lenovo Flex 5i 14-inch FHD touchscreen 2-in-1 laptop deal for $380 (save $170) $380 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-flex-5i-14-fhd-touchscreen-2-in-1-laptop-intel-core-i3-1215u-with-8gb-memory-intel-uhd-graphics-256gb-ssd-storm-grey%2F6571566.p%3FskuId%3D6571566&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 [ASUS Zenbook 14-inch OLED touchscreen laptop deal for $1,300 (save $200) $1,300 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-zenbook-14-120hz-oled-touch-laptop-evo-intel-13-gen-core-i9-with-32gb-memory-nvidia-geforece-rtx-3050-1tb-ssd-gray%2F6548463.p%3FskuId%3D6548463&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Apple MacBook deals
 
@@ -173,6 +165,10 @@ When compiling the list of the best deals, we considered the following:
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What specifications do I need to look for in a laptop?
 
 The right specs depend on your needs and how you intend to use your new laptop -- whether for gaming, studies, video calling, or simply daily internet surfing. We break it down for you below:
@@ -181,6 +177,10 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **Graphics card/GPU:** Again, gamers and content creators will want a higher graphics card to reflect the beautiful imagery for their gaming. I personally recommend that gamers opt for at least an RTX 3060 at the moment. However, again, internet surfers and workers shouldn't worry too much about the graphics if you're focusing on building out Word documents.
 * **Storage**: For those that focus on lighter laptop use, 256GB of SSD storage will be plenty of space for your laptop. However, if you need more storage for high-resolution photos, videos, or more, you'll want to opt for 512GB of storage or even 1TB.
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Do I need a gaming laptop or a "regular" laptop?
 
@@ -192,13 +192,13 @@ When you're considering your budget for a new laptop, you have to consider what 
 
 If you're a gamer who needs a high-spec laptop with a decent graphics card, top-of-the-range display and high refresh rate, you should expect to pay more than $500 - $600 -- and potentially beyond $1,000\. However, if you need a laptop for basic tasks, studying, and streaming, you can easily get away with a basic laptop for a few hundred dollars. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best deals by retailer
 
@@ -257,19 +257,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-earning-mastery-executing-a-3-step-procedure-to-evaluate-your-youtube-income/"><u>[New] 2024 Approved Earning Mastery Executing a 3-Step Procedure to Evaluate Your YouTube Income</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/everaging-view-counts-for-financial-freedom-online-for-2024/"><u>[New] Leveraging View Counts for Financial Freedom Online for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-journey-to-freedom-with-free-movie-player-os-x-and-windows/"><u>[Updated] Journey to Freedom with FREE MOVIE PLAYER (OS X & Windows)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-crafting-perfect-lines-in-digital-imagery/"><u>2024 Approved Crafting Perfect Lines in Digital Imagery</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-easy-tips-to-create-a-funny-meme/"><u>2024 Approved Easy Tips to Create a Funny Meme</u></a></li>
-<li><a href="https://games-able.techidaily.com/comprehensive-guide-to-fixing-driver-not-starting-on-windows-11/"><u>Comprehensive Guide to Fixing Driver Not Starting on Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-keeping-your-ati-radeon-gpu-drivers-current-for-windows-computers/"><u>Comprehensive Guide: Keeping Your ATI Radeon GPU Drivers Current for Windows Computers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-logitech-hd-webcam-c525-drivers-for-windows-1087-free-download/"><u>Download Logitech HD Webcam C525 Drivers for Windows 10/8/7 - Free Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-hp-universal-print-drivers-for-windows-users/"><u>Easy Installation of HP Universal Print Drivers for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-install-the-correct-drivers-for-your-brother-mfc-nwdw-printer-running-windows/"><u>Find and Install the Correct Drivers for Your Brother MFC-Nwdw Printer Running Windows</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-iphone-8-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on iPhone 8</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-asus-pce-ac68-device-drivers-for-quick-installation/"><u>Latest ASUS PCE-AC68 Device Drivers for Quick Installation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/no-charge-access-to-asus-realtek-driver-suite-sound-perfection-awaits/"><u>No Charge Access to ASUS Realtek Driver Suite: Sound Perfection Awaits</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unlocking-potential-lenovo-bt-driver-for-win10/"><u>Unlocking Potential: Lenovo BT Driver for Win10</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-5-ways-to-download-facebook-story-on-desktop-and-mobile-for-2024/"><u>[New] 5 Ways to Download Facebook Story on Desktop and Mobile for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/outube-vs-dailymention-spotlighting-key-aspects/"><u>[New] YouTube Vs. DailyMention Spotlighting Key Aspects</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-discreet-marvel-a-design-that-hides-stellar-creative-capabilities-revealed-by-zdnet/"><u>Asus' Discreet Marvel: A Design That Hides Stellar Creative Capabilities Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discount-alert-apple-m3-macbook-air-available-at-250-less-on-amazon-prime-day-offer/"><u>Discount Alert: Apple M3 MacBook Air Available at $250 Less on Amazon Prime Day Offer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusively-invited-enjoy-windows-on-your-chromebook-or-mac-with-microsofts-latest-innovation-zdnet-insider/"><u>Exclusively Invited: Enjoy Windows on Your Chromebook or Mac with Microsoft's Latest Innovation | ZDNet Insider</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ai-depths-power-less-to-powerful/"><u>Exploring AI Depths: Power-Less to Powerful</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-your-tech-bargain-asus-15-inch-laptop-for-250-at-walmart-featuring-every-port-you-need/"><u>Find Your Tech Bargain: Asus 15-Inch Laptop for $250 at Walmart, Featuring Every Port You Need!</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-passion-to-profit-instagrams-new-tools-for-creators/"><u>From Passion to Profit: Instagram's New Tools for Creators</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/haptic-realities-now/"><u>Haptic Realities Now</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-honor-magic-5-lite-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Honor Magic 5 Lite</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-installation-stalls-tips-for-smooth-microsoft-flt/"><u>Resolving Installation Stalls: Tips for Smooth Microsoft Flt</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-power-of-polyglots-windows-1011-keys-for-translation/"><u>Unlock the Power of Polyglots: Windows 10/11 Keys for Translation</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Oppo A2? | Dr.fone</u></a></li>
 </ul></div>
 

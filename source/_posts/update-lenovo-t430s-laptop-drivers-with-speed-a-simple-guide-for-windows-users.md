@@ -1,7 +1,7 @@
 ---
 title: "Update Lenovo T430s Laptop Drivers with Speed: A Simple Guide for Windows Users"
-date: 2024-08-23T13:52:37.550Z
-updated: 2024-08-24T13:52:37.550Z
+date: 2024-12-17T19:10:34.719Z
+updated: 2024-12-22T00:04:56.100Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/3fa43d6f71cce068e0819f69e55936ad32ff4ea72
 
  Honestly speaking, there’s no such thing as “Targus DisplayLink driver”, but there are certain drivers designed for a Targus device (such as a docking station) that adopts the DisplayLink technology. For example, Targus Dock 190 is one of the featured products using the DisplayLink technology.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How can I update my Targus DisplayLink drivers?
 
  If you’re using a Targus device which adopts the DisplayLink technology, please keep in mind that updating your drivers in time can ensure the stability of your device and prevent lots of problems from happening. Generally there’re two ways you can update your drivers:
@@ -37,9 +41,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 1: Automatically update your Targus DisplayLink driver (Recommended)
 
  If you don’t have the time, patience, or computer skills to update your Targus DisplayLink driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -53,13 +54,22 @@ OR
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the Targus DisplayLink driver for now, hit the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-361.png)
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at**<support@drivereasy.com>** .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Manually update your Targus DisplayLink driver
 
@@ -68,32 +78,26 @@ OR
 1. Find your way to the official website of[Targus](https://us.targus.com/) .
 2. In the top right of this web page, click**Support** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-365.png)
 3. Select**Drivers & Manuals** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-367.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Type the**model name** or**serial number** of your Targus product into the search box to locate the corresponding drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-368.png) Alternatively, you may select**Category** and then**Product** to look for the drivers of your product.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-370.png)
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. After locating the corresponding driver for your product, click on the**Download** button below.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-372.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 6. Right-click on the file (with a ZIP extension) you’ve just downloaded to open the context menu. Then click**Extract All…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-375.png)
 7. In the pop-up window, click**Browse…** and choose a destination folder where you want to decompress the file. Then, click**Extract** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-376.png)
 8. Wait till the decompression process finishes. Then**copy** the full path of the destination folder. (The path will be different depending on your choice in the last step. )![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-20_15-47-31.png)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 9. On your keyboard, press the **Windows Logo Key** and **R**  at the same time to open the**Run**  box. Type **devmgmt.msc** and click **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap13-2.png)
 10. In the**Device Manager** window, locate your Targus device and then right-click on it to open the context menu. Select**Update driver** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap14-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 11. If prompted, click**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-384.png)
 12. **Paste** the full path copied in**Step 8** onto the address bar. Remember to check the **Include subfolders** box. Then hit the **Next** button.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-387.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 13. Now Windows will search for the driver and install it automatically. When everything’s done, click**Finish** . Then **restart** your computer for the changes to take effect even if you’re not asked to.
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You may also look for drivers in the official website of[**DisplayLink**](https://www.displaylink.com/downloads/windows) .
 
@@ -110,8 +114,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +121,26 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-chart-a-course-to-prominence-in-facebooks-hierarchy-for-2024/"><u>[New] Chart a Course to Prominence in Facebook's Hierarchy for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-flawless-screen-recorders/"><u>[New] In 2024, Flawless Screen Recorders</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovate-and-create-chrome-oss-10-best-sketches-tools/"><u>[New] Innovate and Create Chrome OS's 10 Best Sketches Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-davinci-resolve-wont-open-on-windows-pc/"><u>[SOLVED] DaVinci Resolve Won’t Open on Windows PC</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-powerhouse-why-experts-prefer-this-laptop-over-macbook-air-a-comparison-you-dont-want-to-miss/"><u>Affordable Powerhouse: Why Experts Prefer This Laptop Over MacBook Air - A Comparison You Don't Want to Miss!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-book-trailers-a-curated-list-of-5/"><u>Best Book Trailers A Curated List of 5</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/budget-friendly-laptop-resurrects-once-popular-tech-term-whats-the-hype-about-zdnet/"><u>Budget-Friendly Laptop Resurrects Once Popular Tech Term - What's the Hype About? | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-the-years-finest-tech-marvels-leading-gizmos-and-tools-of-2e23-spotlighted/"><u>Explore the Year's Finest Tech Marvels: Leading Gizmos and Tools of 2E23 Spotlighted</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-iphone-15-pro-max-by-drfone-ios/"><u>How to Bypass iCloud Lock from iPhone 15 Pro Max</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-sluggish-to-speedy-on-android-vids/"><u>In 2024, Transform Sluggish to Speedy on Android Vids</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-dells-compact-performance-beast-the-ultimate-gamer-laptop-that-takes-workplaces-by-storm-zdnet/"><u>Introducing Dell's Compact Performance Beast: The Ultimate Gamer Laptop That Takes Workplaces by Storm | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-vs-newer-deciding-on-the-right-apple-macbook-air-m3-or-m2-with-expert-insights-zdnet/"><u>New Vs. Newer: Deciding on the Right Apple MacBook Air (M3 or M2) with Expert Insights | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/power-your-devices-like-never-before-grab-the-ultimate-docking-station-deal-of-35-off-today/"><u>Power Your Devices Like Never Before - Grab the Ultimate Docking Station Deal of 35% Off Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-100-unbeatable-walmart-christmas-bargains-explore-the-hottest-savings-of-the-season/"><u>Top 100 Unbeatable Walmart Christmas Bargains - Explore the Hottest Savings of the Season!</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/top-rated-no-cost-apps-for-downloading-videos-from-facebook-on-ios-and-android-devices/"><u>Top Rated No-Cost Apps for Downloading Videos From Facebook on iOS and Android Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transform-your-workstation-experience-with-the-ultimate-12-port-docking-station-a-game-changer-for-windows-pc-owners/"><u>Transform Your Workstation Experience with the Ultimate 12-Port Docking Station - A Game Changer for Windows PC Owners</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-power-of-portability-how-the-huawei-matebook-x-pro-challenges-elite-laptops-review/"><u>Unveiling the Power of Portability: How the Huawei MateBook X Pro Challenges Elite Laptops Review</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/1714937848862-updated-in-2024-how-to-add-audio-fade-out-effect/"><u>Updated In 2024, How to Add Audio Fade Out Effect?</u></a></li>
+</ul></div>
 

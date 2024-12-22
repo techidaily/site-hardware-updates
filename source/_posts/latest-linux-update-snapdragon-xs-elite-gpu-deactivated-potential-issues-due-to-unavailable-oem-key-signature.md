@@ -1,7 +1,7 @@
 ---
 title: "Latest Linux Update: Snapdragon X's Elite GPU Deactivated - Potential Issues Due to Unavailable OEM Key Signature"
-date: 2024-08-23T13:51:18.287Z
-updated: 2024-08-24T13:51:18.287Z
+date: 2024-12-17T02:11:25.188Z
+updated: 2024-12-22T09:28:06.381Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  With all these technologies working in tandem, the overclocker achieved an idle frequency of 5.86 GHz. In stress testing, the maximum single-thread clock speed was 5.758 GHz, with a maximum multi-core frequency of 5.454 GHz operating at 95.2 degrees Celsius at a package power of 172.1 watts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,14 +45,11 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  SkatterBencher's 5.8 GHz and 6 GHz overclocks represent the highest on the new 9700X. Der8auer and Overclocking.com showcased their respective overclocks on the 9700X but could only eke out 5.4G Hz. The main difference was that both outlets did manual overclocks, whereas SkatterBencher used AMD's plethora of overclocking tools, enabling them to hit higher frequencies.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -57,9 +58,24 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-elevating-your-instagram-post-visibility-and-interaction/"><u>[New] 2024 Approved Elevating Your Instagram Post Visibility and Interaction</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/reaking-into-the-world-of-youtube-stellar-intros-in-imovie-for-2024/"><u>[New] Breaking Into the World of YouTube Stellar Intros in iMovie for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-bring-your-creative-windows-video-projects-online-via-vimeo-for-2024/"><u>[New] Bring Your Creative Windows Video Projects Online via Vimeo for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1-free-online-jpeg-file-converter-movavi-photo-editor/"><u>1. Free Online JPEG File Converter - Movavi Photo Editor</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/captioning-videos-efficiently-on-vimeo-platform-for-2024/"><u>Captioning Videos Efficiently on Vimeo Platform for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725289910784-dvd-shrink/"><u>DVD Shrinkオープニング失敗の原因とその対策詳しく見る【修正完了】</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-leave-a-life360-group-on-infinix-note-30-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Infinix Note 30 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-look-anticipating-innovative-releases-at-apples-october-event-the-next-gen-m4-mac-mini-revamped-ipad-lineup-and-cutting-edge-intelligence/"><u>Inside Look: Anticipating Innovative Releases at Apple's October Event – The Next-Gen M4 Mac Mini, Revamped iPad Lineup & Cutting-Edge Intelligence</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/marathon-battery-and-striking-style-top-reviewed-13/"><u>Marathon Battery & Striking Style: Top Reviewed 13</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximizing-productivity-how-to-expand-usb-cthunderbolt-connections-on-your-macbook-and-ipad-pro-expert-guide/"><u>Maximizing Productivity: How to Expand USB-C/Thunderbolt Connections on Your MacBook and iPad Pro - Expert Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-make-a-lasting-impression-with-the-best-video-invitation-apps-for-2024/"><u>New Make a Lasting Impression with the Best Video Invitation Apps for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-big-savings-explore-unparalleled-gaming-audio-quality-on-sale-at-best-buy-the-latest-review-by-zdnet/"><u>Score Big Savings! Explore Unparalleled Gaming Audio Quality on Sale at Best Buy | The Latest Review by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-surprising-secret-of-asuss-quietly-impressive-laptop-a-creators-dream-machine-unveiled-by-zdnet/"><u>The Surprising Secret of Asus's Quietly Impressive Laptop – A Creator's Dream Machine Unveiled by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-picks-unbeatable-prime-day-laptop-offers-await-you-this-october-2024-insights-from-zdnet/"><u>Top Picks: Unbeatable Prime Day Laptop Offers Await You This October 2024 - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-performing-productivity-tablet-that-outshines-both-lenovo-and-microsoft-insider-tips-from-a-tech-guru/"><u>Top-Performing Productivity Tablet That Outshines Both Lenovo & Microsoft - Insider Tips From a Tech Guru</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-solutions-for-life-is-strange-true-colors-crashing-problems/"><u>Troubleshooting & Solutions for Life Is Strange: True Colors Crashing Problems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-flexibility-in-computing-how-lenovo-redefines-the-notebook-with-its-auto-swivel-feature-at-ifa-2024-zdnet/"><u>Unveiling Flexibility in Computing: How Lenovo Redefines the Notebook with Its Auto-Swivel Feature at IFA 2024 | ZDNET</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->

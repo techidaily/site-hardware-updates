@@ -1,7 +1,7 @@
 ---
 title: MacBook Air at an Unbeatable Price of Just $280 - Spotted by ZDNet
-date: 2024-12-06T17:59:16.231Z
-updated: 2024-12-12T21:22:17.090Z
+date: 2024-12-19T09:20:39.605Z
+updated: 2024-12-21T20:54:29.225Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,22 +81,18 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-a-beginners-roadmap-for-instagram-reels-mastery/"><u>[New] 2024 Approved A Beginner's Roadmap for Instagram Reels Mastery</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/eciphering-youtubes-monetary-mechanisms/"><u>[New] Deciphering YouTube's Monetary Mechanisms</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-a-stellar-visual-identity-the-ultimate-guide-to-yt-design/"><u>[Updated] In 2024, Crafting a Stellar Visual Identity The Ultimate Guide to YT Design</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-beginners-guide-to-periscope-live-streaming/"><u>2024 Approved Beginner's Guide to Periscope Live Streaming</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-choosing-the-best-a-dive-into-obs-and-twitch-streaming/"><u>2024 Approved Choosing the Best A Dive Into OBS & Twitch Streaming</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-pro-tips-optimal-videography-with-these-top-12-portable-cams/"><u>2024 Approved Pro Tips Optimal Videography with These Top 12 Portable Cams</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amds-new-gaming-benchmarks-showcase-zen-4-flagship-overpowering-older-zen-5-ryzen-7-7800x3d-emerges-as-the-faster-contender-leading-by-up-to-23-against-ryze2/"><u>AMD's New Gaming Benchmarks Showcase Zen 4 Flagship Overpowering Older Zen 5: Ryzen 7 7800X3D Emerges as the Faster Contender, Leading by Up to 23% Against Ryzen 9 9900X</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-leading-cpus-for-an-enhanced-gaming-experience/"><u>Discover the Leading CPUs for an Enhanced Gaming Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-solutions-for-troubleshooting-logitech-c615-control-panel-problems/"><u>Easy Solutions for Troubleshooting Logitech C615 Control Panel Problems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expanding-your-digital-workspace-setting-up-an-android-tablet-as-dual-screen/"><u>Expanding Your Digital Workspace: Setting Up an Android Tablet as Dual Screen</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-official-epson-v700-printing-software-for-windows-operating-systems-windows-71081/"><u>Get Official Epson V700 Printing Software for Windows Operating Systems [Windows 7/10/8.1]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/keep-your-dell-xps-15-running-smoothly-with-updated-driver-instructions-for-windows/"><u>Keep Your Dell XPS 15 Running Smoothly with Updated Driver Instructions (For Windows)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-geforce-gtx-1650-super-drivers-for-enhanced-performance-on-windows-11/"><u>Latest NVIDIA GeForce GTX 1650 Super Drivers for Enhanced Performance on Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-access-amd-radeon-rx-470-driver-downloads-and-updates/"><u>Quick Access: AMD Radeon RX 470 Driver Downloads & Updates</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/screen-recorder-freedom-top-10-no-cost-choices-for-cameras-for-2024/"><u>Screen Recorder Freedom Top 10 No-Cost Choices for Cameras for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/separating-the-sincere-from-the-spoof-in-the-windows-store/"><u>Separating the Sincere From the Spoof in the Windows Store</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/windows-10-64-bit-epson-ds-530-driver-download-and-installation-guide/"><u>Windows 10 64-Bit Epson DS-530 Driver Download & Installation Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-a-deeper-insight-into-augmented-reality-stickers-by-google-for-2024/"><u>[Updated] A Deeper Insight Into Augmented Reality Stickers by Google for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-professional-portrait-maker-for-passports-desktop-and-online-access-only/"><u>[Updated] In 2024, Professional Portrait Maker for Passports – Desktop & Online Access Only</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-quick-and-painless-ways-to-screen-record-stories-for-2024/"><u>[Updated] Quick & Painless Ways to Screen Record Stories for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/discover-the-richest-mountain-biking-audio-archives-online/"><u>Discover the Richest Mountain Biking Audio Archives Online</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-techkeys-bluetooth-device-driver-on-various-windows-versions/"><u>Easy Installation of Techkey's Bluetooth Device Driver on Various Windows Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-more-power-and-speed-in-your-favorite-games-update-your-nvidia-gtx-1660-ti-gpu-driver/"><u>Get More Power and Speed in Your Favorite Games: Update Your NVIDIA GTX 1660 Ti GPU Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-acer-predator-xb271h-monitor-drivers-fast-and-simple-installation/"><u>Get the Latest Acer Predator XB271H Monitor Drivers – Fast & Simple Installation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-g29-steering-wheel-gamepad-driver-for-pc-operating-systems/"><u>Get Your Logitech G29 Steering Wheel Gamepad Driver for PC Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-logitech-g203-mouse-driver-ensure-compatibility-with-windows-7-10-and-latest-update-11/"><u>Install Logitech G203 Mouse Driver: Ensure Compatibility with Windows 7, 10 & Latest Update (11)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/record-google-hangout-4-solutions-for-2024/"><u>Record Google Hangout [4 Solutions] for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/secretive-suggestions-for-enhanced-vlc-usage-for-2024/"><u>Secretive Suggestions for Enhanced VLC Usage for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/tactics-to-determine-igtv-viewership-success/"><u>Tactics to Determine IGTV Viewership Success</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/visit-the-official-nvidia-drivers-page-httpswwwnvidiacomen-usdrivers/"><u>Visit the Official NVIDIA Drivers Page (https://www.nvidia.com/en-us/drivers/).</u></a></li>
 </ul></div>
 

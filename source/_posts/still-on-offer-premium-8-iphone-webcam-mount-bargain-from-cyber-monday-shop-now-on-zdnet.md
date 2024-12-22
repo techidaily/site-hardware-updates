@@ -1,7 +1,7 @@
 ---
 title: "Still On Offer: Premium $8 iPhone Webcam Mount Bargain From Cyber Monday - Shop Now on ZDNet"
-date: 2024-12-11T22:51:30.634Z
-updated: 2024-12-12T19:42:29.839Z
+date: 2024-12-15T18:23:04.914Z
+updated: 2024-12-21T23:39:02.826Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ I've seen the likes of Belkin put out [quality iPhone mounts for this purpose](h
 All that's needed to make Continuity Camera happen is a Mac computer running MacOS Ventura, an iPhone running on iOS 16, and a mount to keep the handset afloat. That's where the Elephant Card comes in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,16 +81,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-screen-scribes-editing-edition-guide-for-2024/"><u>[New] Screen Scribes Editing Edition Guide for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-uniform-iptv-system-utilization/"><u>[Updated] 2024 Approved Uniform IPTV System Utilization</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-all-inclusive-breakdown-deciphering-google-podcasts/"><u>2024 Approved All-Inclusive Breakdown Deciphering Google Podcasts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-digital-dive-capturing-the-days-lifelike-snapshots-on-fb/"><u>2024 Approved Digital Dive Capturing the Day's Lifelike Snapshots on FB</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-logitech-g402-input-device-drivers-and-utility-tools-download-instructions/"><u>Complete Logitech G402 Input Device Drivers & Utility Tools Download Instructions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-downloading-and-updating-windows-audio-card-drivers/"><u>Comprehensive Guide: Downloading and Updating Windows Audio Card Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-epson-v700-driver-here-supports-windows-7-through-to-10/"><u>Get Your Epson V700 Driver Here! Supports Windows 7 Through to 10</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/intels-extended-warranties-unveiled-a-detailed-look-at-coverage-for-tiger-lake-tgl-and-rocket-lake-based-processors/"><u>Intel's Extended Warranties Unveiled - A Detailed Look at Coverage for Tiger Lake (TGL) and Rocket Lake-Based Processors</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/leading-the-sled-team/"><u>Leading the Sled Team</u></a></li>
-<li><a href="https://win-able.techidaily.com/masterful-methods-to-mend-javascript-errors-in-your-discord-experience/"><u>Masterful Methods to Mend JavaScript Errors in Your Discord Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expressive-faces-with-motion-blur-in-picsart/"><u>[New] Expressive Faces with Motion Blur in Picsart</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-get-the-best-of-both-worlds-with-top-asymmetric-microphones/"><u>[New] Get the Best of Both Worlds with Top Asymmetric Microphones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-z170-pro-gaming-drivers-download-easily-and-quickly/"><u>ASUS Z170 Pro Gaming Drivers Download. Easily & Quickly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-hid-keyboard-drivers-with-simple-steps/"><u>Download & Update HID Keyboard Drivers with Simple Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-the-amd-radeon-r9-360-drivers-for-windows-11-step-by-step-guide/"><u>Download and Update the AMD Radeon R9 360 Drivers for Windows 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-iphone-15-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on iPhone 15</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-release-freshly-updated-hp-officejet-pro-9015-driver-beginning-is-here-get-yours-today/"><u>New Release: Freshly Updated HP OfficeJet Pro 9015 Driver - Beginning Is Here, Get Yours Today!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-future-of-tablet-displays-unveiling-insights-from-apples-ipad-pro-with-tandem-oled-technology-zdnet/"><u>The Future of Tablet Displays: Unveiling Insights From Apple's iPad Pro with Tandem OLED Technology | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-windows-pcs-bluetooth-support-microsoft-driver-downloads-for-windows-101187/"><u>Update Your Windows PC's Bluetooth Support: Microsoft Driver Downloads for Windows 10/11/8/7</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-beat-breakers-the-premier-list-of-todays-chart-toppers-and-their-signatures-online/"><u>Updated Beat Breakers The Premier List of Todays Chart-Toppers and Their Signatures Online</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover Top Tech Pickings From Tom's Hardware Scoops
-date: 2024-08-23T13:52:03.699Z
-updated: 2024-08-24T13:52:03.699Z
+date: 2024-12-20T06:14:51.494Z
+updated: 2024-12-22T00:50:24.007Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
 
  Ryzen 9 9950X’s performance boosts over the 7950X are nothing to scoff at. While some overclocking headroom is lost over the 7950X, AMD’s own[benchmarks](https://www.tomshardware.com/tag/benchmark) and[recent leaked tests in the wild](https://www.tomshardware.com/pc-components/cpus/amds-new-zen-5-flagship-gets-benchmarked-ryzen-9-9950x-engineering-sample-isnt-as-impressive-in-blender-at-maximum-power-settings) show a 30% increase in performance for the same wattage. For more details from Zen 5 Tech Day about the entire Granite Ridge lineup and Strix Point,[see our full coverage of the event](https://www.tomshardware.com/pc-components/cpus/amd-deep-dives-zen-5-ryzen-9000-and-strix-point-cpu-rdna-35-gpu-and-xdna-2-architectures) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,14 +43,11 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,8 +56,26 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-echo-your-thoughts-cost-included-not-here/"><u>[Updated] 2024 Approved Echo Your Thoughts, Cost Included? Not Here</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-how-to-use-free-text-animations-online-and-offline-solutions/"><u>[Updated] 2024 Approved How to Use Free Text Animations [Online and Offline Solutions]</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-from-filer-to-fanfare-transmitting-videos-across-services/"><u>[Updated] From Filer to Fanfare Transmitting Videos Across Services</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-oneplus-unlock-without-password-by-drfone-android/"><u>5 Solutions For OnePlus Unlock Without Password</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boosting-chrome-os-development-with-your-insight-a-guide-to-effective-user-feedback/"><u>Boosting Chrome OS Development with Your Insight: A Guide to Effective User Feedback</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-file-transfers-remedy-for-utorrent-on-windows/"><u>Enabling File Transfers: Remedy for uTorrent on Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/google-pixel-tablet-reveal-exciting-specs-launch-date-and-what-to-expect/"><u>Google Pixel Tablet Reveal: Exciting Specs, Launch Date & What to Expect</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-microsoft-surpasses-apple-with-ai-powered-surface-computers-the-future-of-personal-tech/"><u>How Microsoft Surpasses Apple with AI-Powered Surface Computers: The Future of Personal Tech</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-v27e-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Vivo V27e Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-meizu-21-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Meizu 21 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-probook-x360-goes-affordable-at-230-your-next-business-laptop-choice/"><u>HP ProBook X360 Goes Affordable at $230 - Your Next Business Laptop Choice</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maintain-your-high-performance-laptop-at-the-ideal-temp-with-this-must-have-accessory-according-to-zdnet/"><u>Maintain Your High-Performance Laptop at the Ideal Temp with This Must-Have Accessory - According to ZDNET</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-mov-video-cutter-reviews-top-6-free-options/"><u>New 2024 Approved MOV Video Cutter Reviews Top 6 Free Options</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-picks-for-the-ultimate-gamers-rig-an-in-depth-review-and-comparison-of-leading-brands-like-razer-acer-and-msi/"><u>Top Picks for the Ultimate Gamer's Rig : An In-Depth Review & Comparison of Leading Brands Like Razer, Acer, and MSI</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ultraportable-laptop-with-all-day-battery-life-best-of-2023-reviewed-by-zdnet/"><u>Top Ultraportable Laptop with All-Day Battery Life - Best of 2023 Reviewed by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-vr-savings-alert-secure-metas-last-chance-october-prime-day-quest-3-with-huge-512gb-storage-discount-gadgetguru/"><u>Unbeatable VR Savings Alert: Secure Meta’s Last-Chance October Prime Day Quest 3 with Huge 512GB Storage Discount | GadgetGuru</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbelievable-deal-top-ranked-gaming-speakers-now-just-150-less-on-amazon-find-out-why-they-took-my-breath-away-zdnet/"><u>Unbelievable Deal: Top-Ranked Gaming Speakers Now Just $150 Less on Amazon - Find Out Why They Took My Breath Away | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-microsofts-latest-innovations-a-comprehensive-review-of-the-october-surface-launch-zdnet/"><u>Unveiling Microsoft's Latest Innovations: A Comprehensive Review of the October Surface Launch - ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/usb-audio-device-troubleshooting-how-to-refresh-drivers-on-windows-versions-11-10-and-7/"><u>USB Audio Device Troubleshooting: How to Refresh Drivers on Windows (Versions 11, 10, and 7)</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->

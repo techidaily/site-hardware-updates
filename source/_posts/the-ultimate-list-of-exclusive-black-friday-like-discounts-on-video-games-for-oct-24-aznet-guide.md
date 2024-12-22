@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Exclusive Black Friday-Like Discounts on Video Games for Oct '24 - AZNET Guide
-date: 2024-12-05T20:23:49.533Z
-updated: 2024-12-12T21:01:58.093Z
+date: 2024-12-21T07:46:04.570Z
+updated: 2024-12-22T01:34:06.055Z
 tags:
   - laptops
 categories:
@@ -22,6 +22,10 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Dell holiday deals
 
 * [Dell Inspiron 15 3520 Intel Core i5 touch laptop](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fdell-inspiron-15-3520-touch-laptop-intel-core-i5-8gb-memory-256gb-ssd-carbon-black%2F6553026.p%3FskuId%3D6553026&publisher_slug=itechdaily19598&exclusive=1) for $350 (save $250)
@@ -33,7 +37,7 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Dell holiday deals
@@ -93,10 +97,6 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Dell laptop holiday deals
 
 * [Dell G15 gaming laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-G15-5535-Gaming-Laptop%2Fdp%2FB0CJGBMD42%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1): $1,000 (save $150)
@@ -106,7 +106,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell XPS 13 9310 13.4-inch touch laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-XPS-9310-Laptop-Touchscreen%2Fdp%2FB09PR52BHK%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1) for $1,071 (save $429)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell desktop holiday deals
@@ -118,15 +118,15 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell Optiplex 7080 Intel i5](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-7080-business-desktops-workstations%252Fp%252F1VK-0001-6GXW7) for $520 (save $179)
 * [Dell OptiPlex 3000 Desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-3000-student-home-office%252Fp%252F1VK-0001-6EUX9) for $1,200 (save $440)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Dell monitor holiday deals
 
 * [Dell S2721HS 27-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721HS-Adjustable-Response-FreeSync%2Fdp%2FB09S4ZZMS9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1): $180 (save $40)
 * [Dell SE2422HX 24-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-inch-Monitor-1920-1080%2Fdp%2FB096MXR34N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1): $100 (save $30)
 * [Dell 27-inch 4K FreeSync monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721QS-Ultra-Thin-DisplayPort-Certified%2Fdp%2FB08DQWG3JG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1) for $297 (save $33)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose these holiday deals?
 
@@ -135,7 +135,7 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best holiday deals?
@@ -210,19 +210,18 @@ Here are the top deals by category we've found so far:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-wave-weaver-toolkit/"><u>[New] 2024 Approved Wave Weaver Toolkit</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-top-10-android-mobas-essential-players-list/"><u>[New] Top 10 Android MOBAs Essential Players' List</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-vistas-backgrounds-boosting-live-quality/"><u>[Updated] Best Vistas Backgrounds Boosting Live Quality</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-leveraging-nvidia-tools-for-screen-capture/"><u>2024 Approved Leveraging NVIDIA Tools for Screen Capture</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-walkthrough-for-successful-amd-radeon-graphics-card-driver-update/"><u>Comprehensive Walkthrough for Successful AMD Radeon Graphics Card Driver Update</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-hp-officejet-pro-8610-printer-drivers-on-windows-1187xpvista-step-by-step-guide/"><u>Download & Install HP Officejet Pro 8610 Printer Drivers on Windows 11/8/7/XP/Vista: Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-download-of-lenovo-t430-drivers-for-windows-operating-systems-windows-10-8-and-7/"><u>Effortless Download of Lenovo T430 Drivers for Windows Operating Systems (Windows 10, 8 & 7)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/elevate-your-digital-identity-top-101-masterclass-in-personal-bios-for-2024/"><u>Elevate Your Digital Identity Top 101 Masterclass in Personal Bios for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-allow-unverified-drivers-in-windows-pressure-a-simple-guide-for-windows-10-users/"><u>How to Allow Unverified Drivers in Windows Pressure: A Simple Guide for Windows 10 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-update-huion-pen-tablet-drivers-in-windows-effortlessly/"><u>How to Find and Update Huion Pen Tablet Drivers in Windows Effortlessly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-officejet-pro-8610-driver-update-for-multiple-windows-versions-including-11-8-7-xp-and-vista/"><u>HP Officejet Pro ˈ8610 Driver Update for Multiple Windows Versions Including 11, 8, 7, XP & Vista</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/simplified-guide-for-microsoft-ergonomic-sculpt-keyboard-drivers-update/"><u>Simplified Guide for Microsoft Ergonomic Sculpt Keyboard Drivers Update</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-guide-boosting-picture-quality-with-5-proven-techniques/"><u>Ultimate Guide: Boosting Picture Quality with 5 Proven Techniques</u></a></li>
-<li><a href="https://blog-min.techidaily.com/understanding-the-basics-of-videots-a-guide-to-handling-and-playing-vts-file-formats/"><u>Understanding the Basics of VIDEO_TS: A Guide to Handling and Playing .vts File Formats</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-effortless-guide-how-to-automate-recording-of-your-google-gatherings/"><u>[New] In 2024, Effortless Guide How to Automate Recording of Your Google Gatherings</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchat-chronicles-unveiled-an-array-of-more-than-a-hundred-inspiring-title-concepts/"><u>[New] In 2024, Snapchat Chronicles Unveiled An Array of More Than a Hundred Inspiring Title Concepts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-zoom-meeting-fundamentals-for-the-uninitiated-for-2024/"><u>[New] Zoom Meeting Fundamentals for the Uninitiated for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastering-instagram-stories-step-by-step-recording-guide-for-2024/"><u>[Updated] Mastering Instagram Stories Step-by-Step Recording Guide for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comprehensive-guide-to-creating-dvd-copies-and-iso-images-with-winx-dvd-copy-tool/"><u>Comprehensive Guide to Creating DVD Copies and ISO Images with WinX DVD Copy Tool</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-epson-ds-530-printer-drivers-on-a-64-bit-windows-10-machine/"><u>How to Install Epson DS-530 Printer Drivers on a 64-Bit Windows 10 Machine</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Realme 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-printer-software-upgrade-find-and-install-latest-drivers-for-windows-10-and-11/"><u>HP Printer Software Upgrade: Find and Install Latest Drivers for Windows 10 & 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-the-newest-logitech-brio-webcam-driver-for-seamless-integration-with-windows-systems-w11-w8-w7/"><u>Install the Newest Logitech Brio Webcam Driver for Seamless Integration with Windows Systems (W11, W8, W7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/official-epson-workforce-ds-30-printer-driver-download-compatible-with-windows-10-8-and-7/"><u>Official Epson WorkForce DS-30 Printer Driver Download | Compatible with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solved-how-to-restore-functionality-of-a-non-working-logitech-g433-mic/"><u>Solved! How to Restore Functionality of a Non-Working Logitech G433 Mic</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlock-optimal-video-playback-by-tuning-speed-in-snapchat/"><u>Unlock Optimal Video Playback by Tuning Speed in Snapchat</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-pc-with-the-newest-intel-wi-fi-ac-9560-drivers-for-optimal-performance/"><u>Update Your PC with the Newest Intel Wi-Fi AC 9560 Drivers for Optimal Performance</u></a></li>
 </ul></div>
 

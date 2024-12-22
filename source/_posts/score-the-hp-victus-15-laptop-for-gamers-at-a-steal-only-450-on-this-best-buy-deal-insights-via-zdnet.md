@@ -1,7 +1,7 @@
 ---
 title: Score The HP Victus #15 Laptop for Gamers at a Steal – Only $450 on This Best Buy Deal | Insights via ZDNET
-date: 2024-12-08T17:39:22.023Z
-updated: 2024-12-13T03:34:56.890Z
+date: 2024-12-14T23:34:43.580Z
+updated: 2024-12-22T01:32:50.585Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,19 +63,17 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-cutting-edge-captures-delving-into-iphone-xs-camera/"><u>[New] In 2024, Cutting Edge Captures Delving Into iPhone X's Camera</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-lost-and-found-30-free-speech-to-text-mac-hits/"><u>[New] Lost and Found 30 Free Speech-to-Text Mac Hits</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-thrifty-choices-for-virtual-reality-heads/"><u>[Updated] Thrifty Choices for Virtual Reality Heads</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-setup-for-elgato-drivers-download-and-install-in-a-flash/"><u>Effortless Setup for Elgato Drivers - Download & Install in a Flash</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-11-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 11 Passcode not Working?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-zte-nubia-flip-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On ZTE Nubia Flip 5G</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-se-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone SE Screen Mirroring You Must Know | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-logitech-audio-device-drivers-for-windows-versions-10-7-and-8-free-download/"><u>Latest Logitech Audio Device Drivers for Windows Versions: 10, 7, and 8 - Free Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723262305054-navigate-the-world-of-gadgets-find-reliable-tips-and-specs-today/"><u>Navigate the World of Gadgets: Find Reliable Tips and Specs Today</u></a></li>
-<li><a href="https://games-able.techidaily.com/rediscover-fascination-with-new-fallout-video-titles/"><u>Rediscover Fascination with New Fallout Video Titles</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-up-your-pc-games-how-to-update-drivers-on-a-nvidia-gtx-1660-ti-graphics-card/"><u>Step Up Your PC Games: How to Update Drivers on a NVIDIA GTX 1660 Ti Graphics Card</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-updating-your-pcs-webcam-drivers-on-windows-1nt/"><u>Step-by-Step Guide to Updating Your PC's Webcam Drivers on Windows 1nT</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upcoming-december-launch-all-about-the-next-gen-intel-arrow-lake-s-processor/"><u>Upcoming December Launch: All About the Next-Gen Intel Arrow Lake-S Processor</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/xsplit-archive-assessing-video-game-splits-for-2024/"><u>XSplit Archive Assessing Video Game Splits for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2023how-to-share-videos-on-twitter-on-your-phone-without-retweeting-in-2024/"><u>[New] 2023|How to Share Videos on Twitter on Your Phone Without Retweeting, In 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-from-video-conference-to-youtube-broadcast-google-meet-explained/"><u>[Updated] From Video Conference to Youtube Broadcast Google Meet Explained</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-sifting-through-the-sands-of-youtube-conversations/"><u>[Updated] Sifting Through the Sands of YouTube Conversations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-to-activate-amazon-echo-dot-pairing-mode/"><u>Easy Steps to Activate Amazon Echo Dot Pairing Mode</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enabling-apple-apps-for-enhanced-viewing-experience-on-your-fire-stick/"><u>Enabling Apple Apps for Enhanced Viewing Experience on Your Fire Stick</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-victus-15-now-only-530-at-best-buy-ultimate-savings-on-a-high-performance-gaming-laptop/"><u>HP Victus 15 Now Only $530 at Best Buy: Ultimate Savings on a High-Performance Gaming Laptop!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-motorola-razr-40-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Motorola Razr 40 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/scrolling-on-touchpad-not-working-solved/"><u>Scrolling on Touchpad Not Working [SOLVED]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transform-your-connectivity-the-ultimate-guide-to-choosing-the-best-6-in-1-usb-c-hub-for-optimal-cable-management-zdnet/"><u>Transform Your Connectivity: The Ultimate Guide to Choosing the Best 6-in-1 USB-C Hub for Optimal Cable Management | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-premium-touchscreen-notebooks-thoroughly-testing-and-insights-cnet/"><u>Ultimate Guide to Premium Touchscreen Notebooks - Thoroughly Testing & Insights | CNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-premium-17-inch-notebooks-as-chosen-by-zdnet/"><u>Ultimate Guide: Premium 17-Inch Notebooks as Chosen by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-workstation-with-apples-fresh-release-the-enhanced-13-and-15-inch-macbook-air-powered-by-m3-processor-get-insights/"><u>Upgrade Your Workstation with Apple's Fresh Release: The Enhanced 13- and 15-Inch MacBook Air Powered by M3 Processor – Get Insights</u></a></li>
 </ul></div>
 

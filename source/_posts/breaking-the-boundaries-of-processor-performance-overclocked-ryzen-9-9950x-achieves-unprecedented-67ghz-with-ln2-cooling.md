@@ -1,7 +1,7 @@
 ---
 title: "Breaking the Boundaries of Processor Performance: Overclocked Ryzen 9 9950X Achieves Unprecedented 6.7GHz with LN2 Cooling"
-date: 2024-08-23T13:52:30.447Z
-updated: 2024-08-24T13:52:30.447Z
+date: 2024-12-19T17:22:50.372Z
+updated: 2024-12-22T01:46:24.686Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  With all these technologies working in tandem, the overclocker achieved an idle frequency of 5.86 GHz. In stress testing, the maximum single-thread clock speed was 5.758 GHz, with a maximum multi-core frequency of 5.454 GHz operating at 95.2 degrees Celsius at a package power of 172.1 watts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,14 +45,11 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  SkatterBencher's 5.8 GHz and 6 GHz overclocks represent the highest on the new 9700X. Der8auer and Overclocking.com showcased their respective overclocks on the 9700X but could only eke out 5.4G Hz. The main difference was that both outlets did manual overclocks, whereas SkatterBencher used AMD's plethora of overclocking tools, enabling them to hit higher frequencies.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -57,8 +58,26 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-composing-prime-canon-temporal-vignettes/"><u>[Updated] 2024 Approved Composing Prime Canon Temporal Vignettes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-leveraging-facetimes-features-for-exceptional-audio-capturing/"><u>[Updated] 2024 Approved Leveraging FaceTime's Features for Exceptional Audio Capturing</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-creating-compelling-content-with-personalized-video-setups-for-2024/"><u>[Updated] Creating Compelling Content with Personalized Video Setups for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-tips-for-recording-high-quality-video-in-zoom/"><u>[Updated] Tips for Recording High-Quality Video in Zoom</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-decoding-ig-analytics-mastering-the-art-of-social-media-insights/"><u>2024 Approved Decoding IG Analytics Mastering the Art of Social Media Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/athletic-advocates-mastering-machine-dialogue/"><u>Athletic Advocates, Mastering Machine Dialogue</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/choosing-the-perfect-college-laptop-top-4-factors-and-10-recommended-models-insights/"><u>Choosing the Perfect College Laptop: Top 4 Factors & 10 Recommended Models - Insights</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/customizing-mouse-preferences-for-optimal-performance-using-yls-easy-tutorials/"><u>Customizing Mouse Preferences for Optimal Performance Using YL's Easy Tutorials</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-ultimate-best-buy-bargains-for-octobers-prime-day-2024-live-savings-spotlight-on-zdnet/"><u>Discover the Ultimate Best Buy Bargains for October's Prime Day, 2024 - Live Savings Spotlight on ZDNET</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-honor-magic-6-pro-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Honor Magic 6 Pro Phone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-the-elite-compilation-9-online-mic-recorders-ranked/"><u>In 2024, The Elite Compilation 9 Online Mic Recorders Ranked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-ios-18-a-step-by-step-to-customize-apples-new-control-center-features/"><u>Mastering iOS 18: A Step-by-Step to Customize Apple's New Control Center Features</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-oled-laptop-picks-comprehensive-reviews-and-analysis-by-tech-experts-gizmocritic/"><u>Top-Ranking OLED Laptop Picks - Comprehensive Reviews & Analysis by Tech Experts | GizmoCritic</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-vpn-providers-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated VPN Providers : Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshoot-your-macbook-pro-charger-issues-a-step-by-step-guide-to-restoring-power-without-cost/"><u>Troubleshoot Your MacBook Pro Charger Issues: A Step-by-Step Guide to Restoring Power Without Cost</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-choosing-a-high-performance-touchscreen-laptop-expert-ratings-and-thorough-testing-by-zdnet/"><u>Ultimate Guide to Choosing a High-Performance Touchscreen Laptop: Expert Ratings & Thorough Testing by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-choosing-a-video-editors-laptop-industry-insights-and-ratings-cnet/"><u>Ultimate Guide to Choosing a Video Editor's Laptop: Industry Insights & Ratings | CNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-score-amazing-savings-on-laptops-this-oct-24-exclusive-deals-revealed/"><u>Ultimate Guide: Score Amazing Savings on Laptops This Oct '24 – Exclusive Deals Revealed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleashing-creativity-this-festive-season-essential-gift-ideas-for-handy-diyers-as-recommended/"><u>Unleashing Creativity This Festive Season: Essential Gift Ideas for Handy DIYers, as Recommended</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->

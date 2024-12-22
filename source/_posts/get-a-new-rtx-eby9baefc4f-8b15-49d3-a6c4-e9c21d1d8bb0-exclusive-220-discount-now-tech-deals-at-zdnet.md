@@ -1,7 +1,7 @@
 ---
 title: Get a New RTX Eby_9baefc4f-8b15-49d3-A6c4-E9c21d1d8bb0! Exclusive $220 Discount Now | Tech Deals at ZDNET!
-date: 2024-12-06T16:36:23.974Z
-updated: 2024-12-12T16:17:16.560Z
+date: 2024-12-21T10:05:23.677Z
+updated: 2024-12-21T19:44:54.210Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kerry Wan/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ Right now, Amazon is selling the [15-inch MacBook Air (M2) for $250 off](https:/
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -107,7 +107,7 @@ The laptop is capable of 4K exports on Adobe Premiere Pro and editing RAW files 
 What I found myself missing when testing the MacBook Air was the 120Hz ProMotion display from the Pro line. All it took was an hour or two before my eyes adapted to the slower, less smooth 60Hz panel, but the larger 15-inch display didn't make the transition easy. In fact, it made the difference more apparent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -146,22 +146,20 @@ But everything else about it is as good as the current $1,050 price point gets. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-from-unverified-beginnings-to-high-flying-fame-on-instagram-unveil-the-6-keys/"><u>[New] 2024 Approved From Unverified Beginnings to High-Flying Fame on Instagram Unveil the 6 Keys</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-thinkpad-thunderbolt-3-dock-driver/"><u>[UPDATE] ThinkPad Thunderbolt 3 Dock Driver</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-game-on-with-mastery-the-2023-review-of-kinemaster-for-android/"><u>[Updated] Game On with Mastery The 2023 Review of KineMaster for Android</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/broder-hl-l2360dw-driver-update-download-for-smooth-printing-experience/"><u>Brøder HL-L2360DW Driver Update: Download for Smooth Printing Experience</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/effective-methods-for-converting-webm-videos-into-gif-animations-online-and-offline-solutions/"><u>Effective Methods for Converting WebM Videos Into GIF Animations - Online and Offline Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722963427141-effortless-windows-7-keyboard-driver-download-get-started-now/"><u>Effortless Windows 7 Keyboard Driver Download – Get Started Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/groove-music-summer-vibes-a-playlist-curated-to-capture-the-essence-of-a-carefree-summer-perfect-for-when-you-want-to-feel-uplifted-and-joyful/"><u>Groove Music 'Summer Vibes': A Playlist Curated to Capture the Essence of a Carefree Summer, Perfect for when You Want to Feel Uplifted and Joyful</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-xiaomi-mix-fold-3-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Xiaomi Mix Fold 3</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-yts-game-changers-the-elite-ladies-in-gaming/"><u>In 2024, YT's Game Changers The Elite Ladies in Gaming</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/newest-nvidia-rtx-2080-graphics-card-driver-software-for-win10-win7-and-win8/"><u>Newest Nvidia RTX 2080 Graphics Card Driver Software for Win10, Win7 & Win8</u></a></li>
-<li><a href="https://win11.techidaily.com/reimagine-calendars-with-personal-flair-using-windows-outlook/"><u>Reimagine Calendars with Personal Flair Using Windows Outlook</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-and-installing-intel-hd-graphics-5500-drivers/"><u>Step-by-Step Guide: Updating and Installing Intel HD Graphics 5500 Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-updating-samsungs-usb-drivers-for-optimal-smartphone-functionality/"><u>Troubleshooting and Updating Samsung's USB Drivers for Optimal Smartphone Functionality</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-pc-with-new-amd-radeon-hd-graphics-driver-for-windows-7-get-it-now/"><u>Update Your PC with New AMD Radeon HD Graphics Driver for Windows 7 - Get It Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/windows-installation-guide-how-to-get-your-logitech-g600-drivers/"><u>Windows Installation Guide: How to Get Your Logitech G600 Drivers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-stock-savvy-streams-discover-the-top-video-resources/"><u>[Updated] 2024 Approved Stock Savvy Streams Discover the Top Video Resources</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-overcome-unseen-blanks-in-game-transmission/"><u>[Updated] In 2024, Overcome Unseen Blanks in Game Transmission</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-internet-idolaters-top-ten-youtube-sensations-for-2024/"><u>[Updated] Internet Idolaters Top Ten YouTube Sensations for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-picture-in-picture-video-integration-for-mac-os-x/"><u>2024 Approved Navigating Picture in Picture Video Integration for Mac OS X</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-ultimate-auditory-interface-win/"><u>2024 Approved Ultimate Auditory Interface, WIN</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-canon-pixma-mx925-printer-software-for-pc/"><u>Download Canon PIXMA MX925 Printer Software for PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-insignia-usbhdd-drives-swift-setup-for-windows-users/"><u>Get Your Hands on Insignia USB/HDD Drives - Swift Setup for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-gift-windows-apps-on-christmas-via-the-microsoft-store/"><u>How to Gift Windows Apps on Christmas via the Microsoft Store</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/improved-compatibility-essential-scanning-and-printing-hardware-drivers-added-to-windows-1/"><u>Improved Compatibility: Essential Scanning & Printing Hardware Drivers Added to Windows 1</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-logitech-momo-trackmania-wheel-on-pc-first-time-driver-setup-guide-and-download-link/"><u>Install Logitech MOMO TrackMania Wheel on PC – First-Time Driver Setup Guide and Download Link</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-logitech-f710-driver-support-across-multiple-windows-platforms-windows-111087-solutions/"><u>Mastering Logitech F710 Driver Support Across Multiple Windows Platforms: Windows 11/10/8/7 Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/maximizing-sound-levels-on-windows-11-devices-effective-strategies-inside/"><u>Maximizing Sound Levels on Windows 11 Devices - Effective Strategies Inside</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-steps-to-refresh-your-asus-pcs-usb-driver-software/"><u>Simple Steps to Refresh Your ASUS PC's USB Driver Software</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/success-story-eliminating-the-troublesome-minecraft-issue-exiting-at-code-nought/"><u>Success Story: Eliminating the Troublesome Minecraft Issue - Exiting at Code Nought</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/the-ultimate-guide-to-your-unique-tiktok-hash-code/"><u>The Ultimate Guide to Your Unique TikTok Hash Code</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Windows Fans Rejoice! Lenovo Unveils a Competing Mac Studio, Promising Superior Features | ZDNET
-date: 2024-12-09T21:45:51.575Z
-updated: 2024-12-13T05:02:44.233Z
+date: 2024-12-16T03:35:54.336Z
+updated: 2024-12-22T04:35:25.464Z
 tags:
   - laptops
 categories:
@@ -22,7 +22,7 @@ At [CES 2024](https://www.zdnet.com/topic/ces-2024/), Lenovo plans to show off a
 Without question, the new PC resembles a [Mac Studio](https://www.zdnet.com/article/apple-mac-studio-m2-ultra-review/), coming with a main desktop unit in the shape of a small box alongside a monitor. It houses all of the major components like a neural processing unit, or NPU for short. This utilizes [AI](https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/) to provide a third resource for the computer, improving its overall performance. It can even be upgraded, letting you modulate the device's performance however you want.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -85,20 +85,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-from-basic-snaps-to-spectacular-shots-snapchats-edits-for-everyone/"><u>[Updated] In 2024, From Basic Snaps to Spectacular Shots Snapchat's Edits for Everyone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-key-strategies-utilizing-hashtags-in-youtube-gaming-content/"><u>[Updated] Key Strategies Utilizing Hashtags in YouTube Gaming Content</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-peeling-back-the-layers-of-magix-image-suite/"><u>2024 Approved Peeling Back the Layers of MAGIX Image Suite</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/effective-strategies-for-avoiding-hardware-breakdowns-in-windows-systems-tips-from-yl-software-experts/"><u>Effective Strategies for Avoiding Hardware Breakdowns in Windows Systems - Tips From YL Software Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-your-pc-with-the-newest-intel-irisplus-graphics-655-drivers-for-windows-11/"><u>Enhance Your PC with the Newest Intel Iris+ Graphics 655 Drivers for Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-sound-working-in-no-time-realtek-asusio-driver-for-windows-11/"><u>Get Your Sound Working in No Time - Realtek Asusio Driver for Windows 11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-play-7twithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor Play 7Twith/without a PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oppo-a1-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Oppo A1 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/improve-your-gaming-with-roccat-mouse-driver-download-here/"><u>Improve Your Gaming with Roccat Mouse Driver - Download Here</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/macs-best-in-show-top-10-screenshot-utilities-unveiled/"><u>Mac's Best in Show Top 10 Screenshot Utilities Unveiled</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigate-through-common-pitfalls-in-setting-up-intel-thermal-framework-and-platform-drivers-comprehveled/"><u>Navigate Through Common Pitfalls in Setting Up Intel Thermal Framework and Platform Drivers [Comprehveled]</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/necromunda-hired-gun-crashes-on-your-computer-discover-the-causes-and-remedies-for-a-smooth-experience/"><u>Necromunda: Hired Gun Crashes on Your Computer? Discover the Causes and Remedies for a Smooth Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-access-freshly-updated-drivers-for-hp-deskjet-2700-printers-get-them-now/"><u>Quick Access: Freshly Updated Drivers for HP Deskjet 2700 Printers - Get Them Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-tips-for-rndis-driver-installation-and-download-issues-on-windows-computers/"><u>Troubleshooting Tips for RNDIS Driver Installation & Download Issues on Windows Computers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-digital-diary-keepers-securely-download-tweets-videos/"><u>[New] 2024 Approved Digital Diary Keepers Securely Download Tweets' Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-mastering-facetime-capturing-conversations-live/"><u>[New] Mastering FaceTime Capturing Conversations Live</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-boost-stories-interaction-with-peculiar-creative-questions/"><u>[Updated] Boost Stories Interaction with Peculiar Creative Questions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-simple-scan-capture-solution-w10-os/"><u>2024 Approved Simple Scan-Capture Solution - W10 OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/apple-unveils-new-13-inch-and-15-inch-macbook-air-with-enhanced-performance-the-revolutionary-m3-processor-explained-insight/"><u>Apple Unveils New 13-Inch and 지15-Inch MacBook Air with Enhanced Performance: The Revolutionary M3 Processor Explained Insight</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-apple-iphone-13-pro-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From Apple iPhone 13 Pro without Password?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/is-it-possible-to-reassign-your-pre-existing-windows-upgrade-to-different-hardware-a-comprehensive-guide/"><u>Is It Possible to Reassign Your Pre-Existing Windows Upgrade to Different Hardware? A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/laugh-loops-unlocked-zero-cost-humor-hub-for-2024/"><u>Laugh Loops Unlocked Zero-Cost Humor Hub for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-15-inch-laptops-comprehensive-testing-and-reviews-by-industry-experts-zdnet/"><u>Top Rated 15-Inch Laptops - Comprehensive Testing & Reviews by Industry Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-a-whopping-250-off-on-acers-powerhouse-laptop-for-gamers-exclusive-insights-inside-special/"><u>Unlock a Whopping $250 Off on Acer's Powerhouse Laptop for Gamers, Exclusive Insights Inside! Special</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unmissable-savings-on-computers-the-premier-laptop-offers-of-july-2-cuffs-curated-by-experts-at-zdnet/"><u>Unmissable Savings on Computers: The Premier Laptop Offers of July 2 Cuffs, Curated by Experts at ZDNET</u></a></li>
 </ul></div>
 

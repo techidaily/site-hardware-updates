@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Portable Displays of 2024: Comprehensive Tests & Reviews by ZDNet"
-date: 2024-12-08T18:20:59.099Z
-updated: 2024-12-12T20:51:12.667Z
+date: 2024-12-14T16:34:08.632Z
+updated: 2024-12-22T02:36:03.739Z
 tags:
   - laptops
 categories:
@@ -24,13 +24,13 @@ All of the ultraportable laptops on this list sport cutting-edge form factors, a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's the best lightweight laptop right now?
 
 Our overall top pick for the best lightweight laptop has to go to the [Apple MacBook Air M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24JRLR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C668fdd14-62fe-4f5f-ab26-348748ed1dd8%7Cdtp&dtb=1). In terms of portability, sleek form factor, solid battery life, and AI-capabilities, the MacBook Air M3 reigns supreme among the lightest of the light. It might not be the best pick for you, however, so we included other options that round out the spectrum of common use cases. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best ultraportable laptops of 2024
 
@@ -108,10 +108,14 @@ Cons
 * Comes pre-loaded with bloatware
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Asus ROG Zephyrus G14
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best lightweight laptop for gaming
 
@@ -145,7 +149,7 @@ Cons
 ## LG Gram Pro 17
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best lightweight laptop with a 17" display
@@ -176,10 +180,6 @@ Pros
 Cons 
 * Battery life is not the best
 * Expensive
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Lenovo ThinkPad X1 Carbon
 
@@ -220,10 +220,6 @@ The best lightweight laptop for you depends on what you want to get out of it. L
 | ASUS ROG Zephyrus G14               | The lightest machine you can get while still calling it a proper gaming laptop.          |
 | LG Gram Pro 17                      | The lightest, thinnest 17-inch laptop on the market, no matter the cost.                 |
 | Lenovo X1 Carbon                    | A durable, powerful laptop for work.                                                     |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test lightweight laptops
 
@@ -269,10 +265,6 @@ Most laptops today weigh between two and a half and five pounds, with a five-pou
 
 The heaviest laptops on this list are the Asus ROG Zephyrus G14 and the 15-inch MacBook Air M3, each weighing just 3.3 pounds. In the laptop world, that's light. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What slim laptop backpack do we recommend?
 
 We love lightweight laptops because they're easy to carry around. But the backpack you carry it in is just as important. There are many great backpacks out there for transporting your laptop, but here are a few we recommend.
@@ -281,6 +273,10 @@ We love lightweight laptops because they're easy to carry around. But the backpa
 
 [ZDNET RECOMMENDS Matein Travel Laptop Backpack Packed with travel-friendly features like a luggage strap and an anti-theft back pocket that protects your valuables, the Matein travel laptop is an inexpensive and solid travel backpack for your laptop. A bonus feature is an external USB charging port for easy charging on the go. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBackpack-Business-Charging-Resistant-Computer%2Fdp%2FB06XZTZ7GB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C668fdd14-62fe-4f5f-ab26-348748ed1dd8%7Cdtp&dtb=1)[ZDNET RECOMMENDS Herschel Little America Backpack Herschel backpacks have a timeless design that's comfortable to wear thanks to the contoured padded back straps. It comes in two sizes which can hold up to a 13-inch laptop or a 15-inch laptop. Its drawstring closure expands to create extra storage space while the magnetic front straps secure what's inside. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB00838TCGO%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C668fdd14-62fe-4f5f-ab26-348748ed1dd8%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which operating system should you choose: Windows, MacOS, Chrome OS, or Linux?
 
 While every computing platform has its loyal supporters, most people end up using a particular operating system because of key applications running on it, employer preferences, or budgetary constraints. Windows, which ranges from budget to premium, and Apple's MacOS, which is exclusive to premium devices, cover a broad spectrum. Chrome OS is mostly limited to mid-range devices.
@@ -288,6 +284,10 @@ While every computing platform has its loyal supporters, most people end up usin
 **Also:** **[Comparing the best Macs: Is a MacBook or Mac Studio right for you?](https://www.zdnet.com/article/best-mac/)** 
 
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative lightweight laptops worth considering?
 
@@ -335,19 +335,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-deciphering-the-coded-language-of-concealed-youtube-movies/"><u>[Updated] In 2024, Deciphering the Coded Language of Concealed YouTube Movies</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-step-by-step-guide-live-broadcast-of-recorded-videos-on-fb/"><u>[Updated] In 2024, Step-by-Step Guide Live Broadcast of Recorded Videos on FB</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-breakthrough-methods-in-logging-whatsapp-communication/"><u>2024 Approved Breakthrough Methods in Logging WhatsApp Communication</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/amp-up-your-cars-vision-with-five-headlight-mods/"><u>Amp up Your Car's Vision with Five Headlight Mods</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-5-high-end-drones-for-professionals/"><u>Best 5 High-End Drones for Professionals</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatible-sm-bus-controller-software-downloads-for-windows-operating-systems-win11-to-win7/"><u>Compatible SM Bus Controller Software Downloads for Windows Operating Systems: Win11 to Win7</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-samsung-galaxy-s23plus-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Samsung Galaxy S23+ Face Lock?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-set-up-your-epson-wf-3540-printer-with-windows-drivers-quick-and-easy-steps/"><u>How to Set Up Your Epson WF-3540 Printer with Windows Drivers: Quick and Easy Steps</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-15-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 15 i Do? Get Answers here | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-the-installation-of-intels-dptf-driver-expert-techniques-for-a-smooth-setup/"><u>Mastering the Installation of Intel's DPTF Driver: Expert Techniques for a Smooth Setup</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-unleash-your-creativity-avi-editor-for-windows-8-with-advanced-features-for-2024/"><u>New Unleash Your Creativity AVI Editor for Windows 8 with Advanced Features for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-broadcom-bluetooth-driver-installation-steps-for-windows-11-8-and-7-users/"><u>Secure Broadcom Bluetooth Driver Installation Steps for Windows 11, 8 & 7 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-installing-realtek-alc-network-adapter-drivers-in-windows-10/"><u>Step-by-Step Tutorial: Installing Realtek ALC Network Adapter Drivers in Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-downloading-and-updating-thunderbolt-drivers-for-windows-computers/"><u>Ultimate Guide to Downloading and Updating Thunderbolt Drivers for Windows Computers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-skills-style-success-your-roadmap-in-the-creative-industry/"><u>[New] Skills, Style, Success Your Roadmap in the Creative Industry</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-achieve-profitability-with-powerful-facebook-video-marketing-tips-for-2024/"><u>[Updated] Achieve Profitability with Powerful Facebook Video Marketing Tips for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-elite-online-collection-of-video-downloader-tools/"><u>[Updated] In 2024, Elite Online Collection of Video Downloader Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-a-sincere-look-at-high-quality-audio-streaming-recordcast/"><u>2024 Approved A Sincere Look at High-Quality Audio Streaming RecordCast</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-advice-on-enhancing-vhs-images-using-technology-for-2024/"><u>Expert Advice on Enhancing VHS Images Using Technology for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-new-update-for-your-epson-tm-t88v-printing-device-windows-compatible-software-downloads/"><u>Get the New Update for Your EPSON TM-T88V Printing Device: Windows Compatible Software Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-access-to-samsung-m2070fw-driver-upgrades-secure-and-swift-downloads-here/"><u>Instant Access to Samsung M2070FW Driver Upgrades: Secure and Swift Downloads Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-pcs-potential-with-the-latest-nvidia-geforce-210-driver-upgrade-on-windows-10/"><u>Maximize Your PC's Potential with the Latest NVIDIA GeForce 210 Driver Upgrade on Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/optimize-your-dell-system-with-a-new-smbus-controller-driver-update/"><u>Optimize Your Dell System with a New SMBus Controller Driver Update</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-getting-and-updating-your-razer-controller-drivers-across-multiple-windows-os/"><u>Step-by-Step Guide: Getting & Updating Your Razer Controller Drivers Across Multiple Windows OS</u></a></li>
+<li><a href="https://tools.techidaily.com/youcam-online-editor/buy-now/"><u>YouCam Online Editor All Products - Buy Now</u></a></li>
 </ul></div>
 

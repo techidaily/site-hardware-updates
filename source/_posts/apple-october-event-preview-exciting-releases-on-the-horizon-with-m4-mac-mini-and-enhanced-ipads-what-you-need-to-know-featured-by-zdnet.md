@@ -1,7 +1,7 @@
 ---
 title: "Apple October Event Preview: Exciting Releases on the Horizon with M4 Mac Mini and Enhanced iPads - What You Need to Know | Featured by ZDNET"
-date: 2024-12-07T18:03:06.569Z
-updated: 2024-12-12T18:24:54.393Z
+date: 2024-12-15T05:11:32.170Z
+updated: 2024-12-22T04:27:32.957Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,18 +218,15 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-discovering-charismatic-faces-on-your-snaps/"><u>[New] In 2024, Discovering Charismatic Faces on Your Snaps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-premiere-add-ons-for-firefox-recording/"><u>[Updated] 2024 Approved Premiere Add-Ons for Firefox Recording</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-a-streamers-checklist-for-flawless-twitch-live-recordings-for-2024/"><u>[Updated] A Streamer's Checklist for Flawless Twitch Live Recordings for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-essential-guide-to-youtubes-premier-unboxers/"><u>2024 Approved Essential Guide to YouTube's Premier Unboxers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/9-innovative-applications-of-chatgpt-for-wellness/"><u>9 Innovative Applications of ChatGPT for Wellness</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/audiophiles-dream-list-top-2024-audio-wearables/"><u>Audiophile's Dream List: Top 2024 Audio Wearables</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722969952033-get-the-latest-hp-officejet-pro-8600-drivers-for-your-windows-pc-free-downloads-available/"><u>Get the Latest HP Officejet Pro ˈ8600 Drivers for Your Windows PC – Free Downloads Available!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722963640124-instant-downloads-get-your-lexar-usb-driver-now/"><u>Instant Downloads: Get Your Lexar USB Driver Now!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-using-duckduckgo-for-web-browsing-safe-find-out-here/"><u>Is Using DuckDuckGo for Web Browsing Safe? Find Out Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/perform-a-quick-update-of-processor-drivers-on-your-windows-device/"><u>Perform a Quick Update of Processor Drivers on Your Windows Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/solving-connectivity-problems-issue-resolved-your-computer-can-now-detect-tp-link-wireless-adapter-tl-wn7/"><u>Solving Connectivity Problems: [Issue Resolved] Your Computer Can Now Detect TP-Link Wireless Adapter (TL-WN7#)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-rapidly-overcoming-logitech-c615-driver-challenges/"><u>The Ultimate Guide to Rapidly Overcoming Logitech C615 Driver Challenges</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-or-downgrade-the-ultimate-guide-for-hp-laserjet-printers-p3015-drivers-windows/"><u>Update or Downgrade: The Ultimate Guide for HP LaserJet Printers P3015 Drivers (Windows)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-transforming-tweetstream-into-hd-visionary-content/"><u>[New] In 2024, Transforming Tweetstream Into HD Visionary Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-giggle-galore-curating-the-funniest-10-short-form-web-series-ideas/"><u>[Updated] In 2024, Giggle Galore Curating the Funniest 10 Short-Form Web Series Ideas</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-listeners-crossroads-podcasts-versus-youtube-for-your-favorite-content/"><u>[Updated] Listeners' Crossroads Podcasts versus YouTube for Your Favorite Content</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1-affordable-college-computing-the-best-value-laptop-under-300-expert-review-by-zdnet/"><u>1. Affordable College Computing: The Best Value Laptop Under $300 - Expert Review by ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-seeking-consistent-income-through-youtube/"><u>In 2024, Seeking Consistent Income Through YouTube</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-oppo-a79-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Oppo A79 5G</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-5-premium-5g-ultrabooks-expert-picks/"><u>Top 5 Premium 5G Ultrabooks : Expert Picks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-highlights-from-ces-2024-zdnet-experts-choice-selections/"><u>Top Highlights From CES 2024: ZDNet Experts Choice Selections</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-robot-vacuum-cleaners-comprehensive-reviews-and-buyers-guide/"><u>Top-Rated Robot Vacuum Cleaners: Comprehensive Reviews & Buyer's Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnets-ultimate-tricks-to-preserve-the-pristine-appearance-of-your-macbook-pro/"><u>ZDNet's Ultimate Tricks to Preserve the Pristine Appearance of Your MacBook Pro</u></a></li>
 </ul></div>
 

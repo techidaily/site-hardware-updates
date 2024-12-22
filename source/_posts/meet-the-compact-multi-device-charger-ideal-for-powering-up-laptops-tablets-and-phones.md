@@ -1,7 +1,7 @@
 ---
 title: "Meet the Compact Multi-Device Charger: Ideal for Powering Up Laptops, Tablets & Phones"
-date: 2024-12-07T02:44:18.895Z
-updated: 2024-12-12T20:41:51.511Z
+date: 2024-12-20T04:03:46.357Z
+updated: 2024-12-21T23:11:11.554Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -93,7 +93,7 @@ Compared to a MacBook, one could argue that the Yoga Slim 7x is at least better 
 The MacBook is better suited for the iOS ecosystem, however Lenovo has been making strides in developing a data transfer feature between its laptop and iPhones. So if you're not sure which one to get, the Yoga Slim 7x might be the better long-term investment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,22 +134,17 @@ Creators might also appreciate the fact that Lenovo is also giving [two free mon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-best-skype-recorders-for-quality-compiled/"><u>[Updated] 2024 Approved Best Skype Recorders for Quality Compiled</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-transforming-doubt-into-action-channeling-vlogger-excellence/"><u>[Updated] Transforming Doubt Into Action Channeling Vlogger Excellence</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatible-and-up-to-date-hp-pagewide-pro-477dw-drivers-for-windows-operating-system-win11-win10-and-win8/"><u>Compatible and Up-to-Date HP PageWide PRO 477DW Drivers for Windows Operating System: Win11, Win10 & Win8</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conveying-messages-with-flair-an-iphone-emoji-users-manual/"><u>Conveying Messages with Flair: An iPhone Emoji User's Manual</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-drivers-for-rtx-2070-super-on-windows-1011-step-by-step-guide/"><u>Download and Update Drivers for RTX 2070 Super on Windows 10/11: Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-newest-tp-link-wifi-adapter-drivers-compatible-with-windows-1187/"><u>Download the Newest TP-Link WiFi Adapter Drivers Compatible with Windows 11/8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-insights-into-pc-components-by-tom-toms-gear-hub/"><u>Expert Insights Into PC Components by Tom - Tom's Gear Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-install-the-right-dell-network-adapter-utilities-for-windows-7-machines/"><u>Find and Install the Right Dell Network Adapter Utilities for Windows 7 Machines</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-drivers-for-your-canon-mg3022-step-by-step-guide-to-download-and-update/"><u>Get the Newest Drivers for Your Canon MG3022 - Step-by-Step Guide to Download and Update</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/o-make-a-youtube-reaction-video-for-2024/"><u>How to Make a YouTube Reaction Video for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-nokia-c12-pro-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Nokia C12 Pro?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-versatile-online-creations-simple-and-inclusive-ideas-for-your-first-videos/"><u>In 2024, Versatile Online Creations Simple and Inclusive Ideas for Your First Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-epson-wf-3620-driver-updates-available-for-download-on-windows-1187/"><u>Latest Epson WF-3620 Driver Updates Available for Download on Windows 11/8/7</u></a></li>
-<li><a href="https://win-hot.techidaily.com/launch-announcement-updated-songbookdb-is-now-live-perfect-for-djs/"><u>Launch Announcement: Updated SongbookDB Is Now Live - Perfect for DJs!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-for-updating-your-synaptics-touchpad-software/"><u>Step-by-Step Tutorial for Updating Your Synaptics Touchpad Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-audio-device-isolation-explained/"><u>Windows Audio Device Isolation Explained</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-how-to-edit-hauls-a-comprehensive-video-guide/"><u>[New] In 2024, How to Edit Hauls A Comprehensive Video Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-list-of-firefox-plugins-for-easy-facebook-video-retrieval-2023-edition/"><u>[New] The Ultimate List of Firefox Plugins for Easy Facebook Video Retrieval, 2023 Edition</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-hypervision-pro-all-in-one-4k-screen-desks-for-2024/"><u>[Updated] HyperVision Pro All-in-One 4K Screen Desks for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-week-with-an-ergo-split-keyboard-how-my-typing-experience-transformed-insights-from-zdnet/"><u>A Week with an Ergo-Split Keyboard: How My Typing Experience Transformed - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/apples-new-deal-the-m2-macbook-air-now-a-steal-at-799-beating-the-upcoming-prime-day-rush/"><u>Apple's New Deal: The M2 MacBook Air Now a Steal at $799, Beating the Upcoming Prime Day Rush!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expand-your-laptops-capabilities-a-detailed-tutorial-on-installing-additional-ram-by-experts-at-zdnet/"><u>Expand Your Laptop's Capabilities: A Detailed Tutorial on Installing Additional RAM by Experts at ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-this-budget-friendly-laptop-reignites-a-classic-buzzword-in-the-technology-sphere-zdnets-analysis/"><u>How This Budget-Friendly Laptop Reignites a Classic Buzzword in the Technology Sphere | ZDNET's Analysis.</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-6s-plus-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 6s Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-maximizing-twitter-video-quality-full-hd-tips/"><u>In 2024, Maximizing Twitter Video Quality Full HD Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-the-access-entry-corrupted-windows-malfunction/"><u>Reversing the 'Access Entry Corrupted' Windows Malfunction</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-sensational-deal-on-quest-3-with-512gb-storage-metas-latest-offer-that-dominates-the-vr-market-zdnet-insight/"><u>Snag the Sensational Deal on Quest 3 with 512GB Storage - Meta's Latest Offer That Dominates the VR Market | ZDNET Insight</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-usb-flash-drive-picks-your-ultimate-guide/"><u>Top-Rated USB Flash Drive Picks : Your Ultimate Guide</u></a></li>
 </ul></div>
 

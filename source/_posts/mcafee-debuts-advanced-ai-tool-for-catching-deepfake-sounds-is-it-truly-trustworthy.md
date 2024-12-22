@@ -1,7 +1,7 @@
 ---
 title: McAfee Debuts Advanced AI Tool for Catching Deepfake Sounds - Is It Truly Trustworthy?
-date: 2024-12-08T21:44:44.588Z
-updated: 2024-12-12T18:43:36.232Z
+date: 2024-12-17T16:10:46.034Z
+updated: 2024-12-21T17:18:15.050Z
 tags:
   - laptops
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to configure specific DNS servers on your Chromebook
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **What you'll need:** The only thing you'll need for this is a Chromebook with an updated version of Chrome OS. Make sure to always keep your operating system up-to-date, so you always have the latest features and (more importantly) the latest security and bug fixes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Settings
@@ -61,7 +61,7 @@ Screenshot by Jack Wallen/ZDNET
 **Also: [How to connect to a network share from your Chromebook](https://www.zdnet.com/home-and-office/work-life/how-to-connect-to-a-network-share-from-your-chromebook/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable automatic IP address configuration
@@ -73,7 +73,7 @@ By default, Chrome OS uses DHCP to acquire IP addresses. To use a specific DNS s
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change the Name Servers
@@ -120,14 +120,22 @@ And that's all you need to do to give your Chromebook a speed and security boost
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-copyright-concern-unscheduled-video-displacement-for-2024/"><u>[New] Copyright Concern Unscheduled Video Displacement for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-infinix-note-30-pro-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Infinix Note 30 Pro Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/construct-humor-memes-via-adobe-for-2024/"><u>Construct Humor Memes via Adobe for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-techkeys-ultimate-bluetooth-adapter-drivers-compatible-with-windows-1078/"><u>Download Techkey's Ultimate Bluetooth Adapter Drivers Compatible with Windows 10/7/8</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-drivers-for-your-canon-mg2900-printer/"><u>Download the Latest Drivers for Your Canon MG2900 Printer</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-techniques-optimal-live-cricket-broadcasting/"><u>In 2024, Top 10 Techniques Optimal Live Cricket Broadcasting</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-and-compatible-drivers-for-the-epson-ds-530-on-64-bit-windows-10-computers/"><u>Latest & Compatible Drivers for the Epson DS-530 on 64-Bit Windows 10 Computers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolve-your-network-adapter-woes-in-windows-7-with-these-simple-fixes/"><u>Resolve Your Network Adapter Woes in Windows 7 with These Simple Fixes</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-avidemux-audio-troubleshooting-quick-solutions/"><u>Updated Avidemux Audio Troubleshooting Quick Solutions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-motorola-moto-e13-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Motorola Moto E13 to Roku | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-solutions-addressing-the-synaptics-smbus-driver-conflict-on-windows-11-systems/"><u>Comprehensive Solutions: Addressing the Synaptics SMBus Driver Conflict on Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-your-lenovo-ideapad-100s-drivers-easy-tutorial-for-windows-10-operating-system/"><u>Download and Update Your Lenovo IdeaPad 100'S Drivers: Easy Tutorial for Windows 10 Operating System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-epson-v700-driver-for-windows-download-guide-for-win78110-systems/"><u>Get Your Epson V700 Driver for Windows - Download Guide for Win7/8.1/10 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722956815587-get-your-m-audio-fast-track-ultra-driver-installer-at-no-cost/"><u>Get Your M-Audio Fast Track Ultra Driver Installer at No Cost!</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-adjusting-text-highlight-on-windows-11/"><u>Guide to Adjusting Text Highlight on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-end-gpu-spendback-three-big-regrets-here/"><u>High-End GPU Spendback: Three Big Regrets Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-download-and-update-toshiba-laptop-drivers-in-windows-1087/"><u>How to Seamlessly Download and Update Toshiba Laptop Drivers in Windows 10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/huge-savings-alert-get-your-lenovo-pro-laptops-for-up-to-50-less-before-october-prime-day-gadget-news-hub/"><u>Huge Savings Alert: Get Your Lenovo Pro Laptops for Up to 50% Less Before October Prime Day | Gadget News Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/overcoming-window-updates-a-guide-to-solving-your-hp-laserjet-p2035-driver-glitches/"><u>Overcoming Window Updates: A Guide to Solving Your HP LaserJet P2035 Driver Glitches</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-start-codegpt-with-visual-studio-code/"><u>Quick Start: CodeGPT with Visual Studio Code</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/schritt-fur-schritt-leitfaden-zur-einrichtung-einer-kostenlosen-automatischen-datenabgleichlosung/"><u>Schritt-Für-Schritt Leitfaden Zur Einrichtung Einer Kostenlosen Automatischen Datenabgleichlösung</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-next-big-thing-in-diy-how-gpt-4-will-transform-your-experience/"><u>The Next Big Thing in DIY: How GPT-4 Will Transform Your Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-solving-universal-print-driver-errors-for-samsung-devices-windows/"><u>Troubleshooting and Solving Universal Print Driver Errors for Samsung Devices (Windows)</u></a></li>
+<li><a href="https://windows11.techidaily.com/tutorial-switching-to-quake-with-terminal/"><u>Tutorial: Switching to Quake with Terminal</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728478520623-windows-11-bitlocker/"><u>Windows 11上快速解決 BitLocker 設定 (八項指南)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-compatible-thunderbolt-drivers-download-and-enhance-your-pcs-performance/"><u>Windows Compatible Thunderbolt Drivers – Download and Enhance Your PC's Performance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Setting Up & Operating the Android Debug Bridge (ADB) Tool"
-date: 2024-09-01T05:44:18.930Z
-updated: 2024-09-02T05:44:18.930Z
+date: 2024-12-18T07:51:19.256Z
+updated: 2024-12-21T21:14:20.895Z
 tags:
   - android
 categories:
@@ -27,20 +27,18 @@ thumbnail: https://thmb.techidaily.com/e90a41374ab8bcea029035e600ef5fff009cee16e
 
  We've covered some other tricks that require ADB in the past, including [backing up and restoring your smartphone or tablet](https://buynow-reviews.techidaily.com/logitech-c615-camera-assessment-balancing-cost-effectiveness-with-high-functionality/) and [installing Android apps to your SD card by default](https://facebook-record-videos.techidaily.com/new-2024-approved-epic-battle-royale-thumbnails-done-fast/). ADB is used for a variety of geeky Android tricks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Step One: Download Platform Tools
 
 ![Download Platform Tools.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/10/2021-10-28_13-03-40.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  Head to the [Android SDK Platform Tools download page.](https://developer.android.com/studio/releases/platform-tools) Select the link for your operating system from the "Downloads" section. This will download a ZIP file, which you can unzip wherever you want to store the ADB files--they're portable, so you can put them anywhere you want.
 
  That's all we have to do for now. Just make sure to remember where you unzipped the files, we will need to access that later.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Step Two: Enable USB Debugging on Your Phone
 
  To use ADB with your Android device, you must [enable a feature called "USB Debugging."](https://desktop-recording.techidaily.com/premium-video-capture-without-extras-for-2024/) Open your phone's app drawer, tap the Settings icon, and select "About Phone". Scroll all the way down and tap the "Build Number" item seven times. You should get a message saying you are now a developer.
@@ -49,10 +47,11 @@ thumbnail: https://thmb.techidaily.com/e90a41374ab8bcea029035e600ef5fff009cee16e
 
 ![Enable USB Debugging.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/10/Screenshot_20211028-130124.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Later on, when you connect your phone to your computer, you'll see a popup entitled "Allow USB Debugging?" on your phone. Check the "Always allow from this computer" box and tap OK.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Step Three: Test ADB and Install Your Phone's Drivers (if Needed)
 
@@ -68,18 +67,6 @@ adb devices
 
 ![Run &quot;.\adb devices&quot; to list connected Android phones.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/10/ADB-debug.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You should see a device in the list. If your device is connected but nothing appears in the list, you'll need to install the appropriate drivers.
 
  In the vast majority of cases, your PC will automatically detect your phone and set it up with the appropriate drivers. If that doesn't happen, you can usually find the drivers for your device from the [XDA Developers](http://forum.xda-developers.com/) forums or your manufacturer's website. The drivers for Google devices, like Pixel phones, can be [found on Google's website](https://developer.android.com/studio/run/win-usb). Google also has [a list of USB drivers sorted by manufacturer](https://developer.android.com/studio/run/oem-usb) that will save you a ton of time.
@@ -90,17 +77,22 @@ adb devices
 
 ![Open &quot;Portable Devices,&quot; then right-click your phone and click &quot;Properties.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/10/properties.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the Driver tab, click "Update Driver."
 
 ![Open the &quot;Drive&quot; tab, then click &quot;Update Driver.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/10/tab-then-update.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Use the Browse my computer for driver software option.
 
 ![Click &quot;Browse My Computer For Drivers.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/10/manually-browse.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
  Find the drivers you downloaded for your device.
 
 ![Browse to the local drivers, tick &quot;Include Subfolders,&quot; then click &quot;Next&quot; to install the drivers manually.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/10/1-2-3.png) 
@@ -125,8 +117,9 @@ adb devices
 * Change your phone's USB mode to PTP, MTP (File Transfer/Android Auto), or USB Tethering.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Step Four (Optional): Add ADB to Your System PATH
 
  As it stands, you have to navigate to ADB's folder and open a Command Prompt there whenever you want to use it. However, if you add it to your Windows System PATH, that won't be necessary--you can just type `adb` from the Command Prompt to run commands whenever you want, no matter what folder you're in.
@@ -157,8 +150,6 @@ Related: [How to Edit Your System PATH for Easy Command Line Access in Windows](
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +157,22 @@ Related: [How to Edit Your System PATH for Easy Command Line Access in Windows](
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-updates.techidaily.com/bargain-hunters-gem-snag-a-30-discount-on-the-durable-anker-er-737-power-bank-deals-curated/"><u>Bargain Hunter’s Gem: Snag a $30 Discount on the Durable Anker Er 737 Power Bank | Deals Curated</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ergonomics-revolutionized-one-week-of-using-a-split-keyboard-reshaped-my-peripheral-experience-gizmoguide/"><u>Ergonomics Revolutionized: One Week of Using a Split Keyboard Reshaped My Peripheral Experience | GizmoGuide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-vivo-x100-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Vivo X100 Phones with/without a PC</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-perfect-skype-recordings-mastering-the-art-of-obs/"><u>In 2024, Perfect Skype Recordings Mastering the Art of OBS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-synthesizing-best-canon-temporal-videography/"><u>In 2024, Synthesizing Best Canon Temporal Videography</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-the-art-of-on-the-fly-picture-cropping/"><u>Mastering the Art of On-The-Fly Picture Cropping</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-television-problem-solving-top-strategies-for-diy-repairs/"><u>Mastering the Art of Television Problem-Solving: Top Strategies for DIY Repairs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/prepare-for-strange-encounters-in-meetings-as-zoom-launches-on-vision-pro-headsets-insights-by-zdnet/"><u>Prepare for Strange Encounters in Meetings as Zoom Launches on Vision Pro Headsets | Insights by ZDNet.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-your-bargain-today-metas-quest-3-with-512gb-storage-tops-october-prime-deals-exclusive-insight/"><u>Snag Your Bargain Today! Meta’s Quest 3 with 512GB Storage Tops October Prime Deals – Exclusive Insight.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-october-prime-day-offer-meta-unveils-exceptional-512gb-quest-3-virtual-reality-bundle-exclusive-sale/"><u>Top October Prime Day Offer: Meta Unveils Exceptional 512GB Quest 3 Virtual Reality Bundle - Exclusive Sale !</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-touchscreen-laptop-picks-in-depth-analysis-and-ratings-techradar/"><u>Top-Rated Touchscreen Laptop Picks: In-Depth Analysis and Ratings | TechRadar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unboxing-lenovo-thinkpad-x1-fold-a-curious-blend-of-playful-innovation-and-premium-pricing-explored/"><u>Unboxing Lenovo ThinkPad X1 Fold: A Curious Blend of Playful Innovation & Premium Pricing Explored</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unmatched-ai-tools-for-visual-storytelling/"><u>Unmatched AI Tools for Visual Storytelling</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-all-round-champion-of-laptops-a-crowds-favorite-with-robust-hardware-features-expert-review/"><u>Unveiling the All-Round Champion of Laptops: A Crowd's Favorite with Robust Hardware Features | Expert Review</u></a></li>
+</ul></div>
 

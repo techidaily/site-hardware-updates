@@ -1,7 +1,7 @@
 ---
 title: "Conserve Power on Android: Utilize Built-In Battery Saving Functionality"
-date: 2024-09-01T05:45:16.022Z
-updated: 2024-09-02T05:45:16.022Z
+date: 2024-12-21T10:54:08.907Z
+updated: 2024-12-22T08:02:18.276Z
 tags:
   - android
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/d6b13d6022d969432c71e6aff3fa672b2a4e175cf
 ---
 
 ## Conserve Power on Android: Utilize Built-In Battery Saving Functionality
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/d6b13d6022d969432c71e6aff3fa672b2a4e175cf
 
  Apps running in the background can be a leading reason why an Android phone's battery drains quickly. To tackle this problem, most Android phones offer a feature that lets you stop the apps' background activity, reducing battery usage. Samsung refers to this feature as "Deep Sleeping Apps," while other devices may call it by different names.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What Is the Deep Sleeping Apps List?
 
  On Samsung phones, the Deep Sleeping Apps list contains apps that are put into a deep sleep state, which prevents them from running in the background and consuming your phone's resources, especially the battery.
@@ -38,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/d6b13d6022d969432c71e6aff3fa672b2a4e175cf
  Other manufacturers offer a similar feature, though it might not be in a list format; you may need to manually turn off background activity for individual apps. Once you turn off the background activity of an app, you will [stop receiving notifications from it](https://fox-glue.techidaily.com/updated-tips-on-how-skip-edgenuity-videos/), [the app won't update automatically](https://youtube-zero.techidaily.com/cing-video-success-top-8-yt-thumbnail-strategies-for-2024/), and it may take longer to load the next time you open it.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Put an App Into Deep Sleep to Reduce Battery Consumption
 
  If you don't use some apps frequently, Samsung phones automatically add them to the Deep Sleeping Apps list. If you want to add apps manually, you can do so easily. To put an app into a deep sleep, open the Settings app and navigate to Battery > Background Usage Limits. Next, tap on "Deep Sleeping Apps" to open the list.
@@ -50,27 +52,18 @@ thumbnail: https://thmb.techidaily.com/d6b13d6022d969432c71e6aff3fa672b2a4e175cf
 
 ![Adding apps to the deep sleeping apps list in Android settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/adding-apps-to-the-deep-sleeping-apps-list-in-android-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
  Manually added apps will appear under the User-Added category, while those automatically added by your phone will be listed under the Automatically Added category.
 
 ![User-added and automatically added apps in the deep sleeping apps list in Android settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/user-added-and-automatically-added-apps-in-the-deep-sleeping-apps-list-in-android-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
  On Pixel phones, you need to manually turn off background activity for each app. To do this, open the Settings app, navigate to the battery settings, and tap "Battery Usage." Next, locate and tap on the app for which you want to disable background activity, and switch off the toggle next to "Allow Background Activity."
 
  If you use a device from a different manufacturer, the instructions might vary, but you should be able to find this setting either in the battery settings or the app's info.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Remove an App from the Deep Sleep List
 
  While adding an app to the Deep Sleeping Apps list can extend your battery life, you might miss essential notifications from these apps. If, for some reason, you want to start receiving notifications from a particular app, you can easily remove it from the list and allow it to run in the background again.
@@ -80,9 +73,14 @@ No advertising on the website.
 ![Removing apps from the deep sleeping apps list in Android settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/removing-apps-from-the-deep-sleeping-apps-list-in-android-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On other phones, you need to enable background activity for individual apps from the settings, similar to how you turn it off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Other Key Settings to Manage Background Activity
 
@@ -98,8 +96,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +103,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-high-five-lookout-breakdown/"><u>[New] 2024 Approved High-Five Lookout Breakdown</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-discovering-the-worlds-most-popular-shorter-videos-free/"><u>[Updated] 2024 Approved Discovering the World's Most Popular Shorter Videos (FREE)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-best-real-time-stage-performances/"><u>[Updated] Best Real-Time Stage Performances</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/300-discount-top-ranking-non-thinkpad-non-macbook-laptop-proven-to-boost-productivity-available-now-on-prime-dayexclusive-review-techradar/"><u>$300 Discount: Top-Ranking Non-ThinkPad, Non-MacBook Laptop Proven to Boost Productivity - Available Now on Prime Day![Exclusive Review] | TechRadar</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-your-journey-through-the-world-of-iphone-memos/"><u>2024 Approved Your Journey Through the World of iPhone Memos</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1728488629672-windows-11/"><u>順調なWindows 11アップグレード中断の究極ガイド</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-laptop-revives-popular-old-school-tech-jargon-pcmag/"><u>Affordable Laptop Revives Popular Old-School Tech Jargon | PCMag</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-canon-mx280-printer-drivers-compatible-with-windows-11-8-and-7/"><u>Download Canon MX280 Printer Drivers - Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hunt-down-the-latest-prime-day-steals-proven-deals-on-hp-apple-razer-laptops-and-more-revealed-here/"><u>Hunt Down the Latest Prime Day Steals: Proven Deals on HP, Apple, Razer Laptops and More Revealed Here</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-sprint-through-photo-composition-googles-easy-way/"><u>In 2024, Sprint Through Photo Composition - Google's Easy Way</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/minimize-soil-disturbance-reduced-tillage-practices-help-preserve-mycorrhizal-networks-that-can-span-large-areas-beneath-crop-roots-thereby-improving-plant-51/"><u>Minimize Soil Disturbance: Reduced Tillage Practices Help Preserve Mycorrhizal Networks that Can Span Large Areas Beneath Crop Roots, Thereby Improving Plant Access to Nutrients.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-non-lenovo-non-mac-laptops-a-revelation-from-my-rigorous-tests-at-zdnet/"><u>Top-Ranking Non-Lenovo, Non-Mac Laptops: A Revelation From My Rigorous Tests at ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-laptops-for-creatives-comprehensive-reviews-and-testing-by-professionals/"><u>Top-Rated Laptops for Creatives: Comprehensive Reviews & Testing by Professionals</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnet-recommends-the-ideal-hybrid-laptop-for-students-perfectly-combining-workload-management-with-leisure-activities/"><u>ZDNet Recommends the Ideal Hybrid Laptop for Students, Perfectly Combining Workload Management with Leisure Activities</u></a></li>
+</ul></div>
 

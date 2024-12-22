@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Latest Innovations Revealed at the Annual Surface and AI Showcase: Highlights From This Week"
-date: 2024-12-08T23:28:10.613Z
-updated: 2024-12-12T20:39:52.996Z
+date: 2024-12-20T06:07:51.950Z
+updated: 2024-12-22T03:33:11.806Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ Here's everything that the company announced during its October event.
 **Also: [How did Microsoft manage to get it right with Surface?](https://www.zdnet.com/article/how-did-microsoft-manage-to-get-it-right-with-surface/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Surface Laptop 5 gets a splash of color
@@ -60,6 +60,10 @@ What's different about the new Surface Laptop starts with the 12th-generation In
 [Buy the Surface Laptop 5 View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?)
 
 The Surface Laptop 5 will be available in select markets beginning on Oct. 25 with a [starting price of $999](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?) for the i5, 8GB of RAM, and 256GB model. The laptop will be available in classic Platinum, Black, and Sandstone colorways, as well as a new leafy "Sage" option. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Goodbye Surface Pro X, hello Surface Pro 9
 
@@ -80,7 +84,7 @@ Not-so-big news: The rest is a standard Surface Pro affair; 2-in-1 design with a
 As far as pricing goes, the Intel-based Surface Pro 9 starts at [$999](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (i5, 8GB RAM, 128GB), and the ARM-based model starts at [$1,299](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (SQ3, 8GB RAM, 128GB). The former comes in Platinum, Graphite, Forest, and Sapphire, while the latter only comes in Platinum. Preorders start today. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The aptly-named Surface Studio 2+
@@ -98,7 +102,7 @@ For all the performance gains that you're getting, Microsoft is making you pay t
 [Buy the Surface Studio 2+ View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Studio-2/8VLFQC3597K4?)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Presenter+ and Audio Dock
@@ -112,10 +116,6 @@ Releasing alongside the new Surface products are the Microsoft Presenter+ and Mi
 **More: [Microsoft's new accessories are geared toward the hybrid era of work](https://www.zdnet.com/article/microsofts-new-accessories-are-geared-toward-the-hybrid-era-of-work/)**
 
 The Microsoft Audio Dock is both a docking station with four ports (HDMI, 2x USB-C, and USB-A) and a speaker for audio input and output. For $249, which is not cheap for either of its two functions, Microsoft promises "premium sound" and noise-reducing microphones that will help you "be heard clearly in your next online meeting."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Microsoft Designer takes on Canva
 
@@ -163,17 +163,20 @@ Microsoft officials say that Designer is targeted at consumers more than anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-decoding-the-perfection-of-hp-envy-27s-design/"><u>[New] 2024 Approved Decoding the Perfection of HP Envy 27'S Design</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-niconico-stars-in-snapchat-moments/"><u>[New] In 2024, Niconico Stars in Snapchat Moments</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-spotlight-secrets-perfecting-vlogger-lights/"><u>[Updated] 2024 Approved Spotlight Secrets Perfecting Vlogger Lights</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-combining-chords-and-clips-the-ultimate-fb-video-soundtrack-for-2024/"><u>[Updated] Combining Chords and Clips The Ultimate FB Video Soundtrack for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-unveiling-asmrs-benefits-a-health-perspective/"><u>[Updated] Unveiling ASMR’s Benefits A Health Perspective</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-poco-f5-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Poco F5 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-enhance-audio-performance-driver-update-guide-for-windows-11107/"><u>How to Enhance Audio Performance: Driver Update Guide for Windows 11/10/7</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-7-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 7 Randomly Asking for Apple ID Password</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/instagram-edge-video-cutting-techniques-to-boost-engagement/"><u>Instagram Edge Video Cutting Techniques to Boost Engagement</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-m-audio-fast-track-driver-installation-files-for-windows-users-win-10-7-8-and-81/"><u>Latest M-Audio Fast Track Driver Installation Files for Windows Users (Win 10, 7, 8 & 8.1)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/next-generation-of-intel-cpus-could-face-hotter-running-challenges-says-industry-insider-arrow-lake-series-concerned/"><u>Next Generation of Intel CPUs Could Face Hotter Running Challenges, Says Industry Insider – Arrow Lake Series Concerned</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/overcoming-common-challenges-with-updating-amd-radeon-drivers/"><u>Overcoming Common Challenges with Updating AMD Radeon Drivers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-cutting-edge-capture-ranking-the-prime-6-4k-dslr-models-for-2024/"><u>[New] Cutting-Edge Capture Ranking the Prime 6 4K DSLR Models for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-evaluating-mr-beasts-financial-heft/"><u>[New] In 2024, Evaluating Mr. Beast's Financial Heft</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-auroras-influence-on-modern-image-processing-techniques/"><u>[Updated] Aurora's Influence on Modern Image Processing Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-comparison-between-sharex-and-rivals/"><u>[Updated] The Ultimate Comparison Between ShareX & Rivals</u></a></li>
+<li><a href="https://extra-information.techidaily.com/5-best-no-cost-video-enhancement-platforms/"><u>5 Best No-Cost Video Enhancement Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-windows-compatible-graphics-drivers-latest-version-available-now/"><u>ASUS Windows-Compatible Graphics Drivers - Latest Version Available Now</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevating-movie-experience-adding-subtitles-to-windows-media-player/"><u>Elevating Movie Experience Adding Subtitles to Windows Media Player</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-surround-sound-setup-effortless-installation-of-updated-nahimic-drivers/"><u>Enhance Your Surround Sound Setup: Effortless Installation of Updated Nahimic Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-to-repairing-realtek-lan-drivers-on-windows-11-windows-10-and-windows-n7/"><u>Guide to Repairing Realtek LAN Drivers on Windows 11, Windows 10 & Windows N7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-amd-vega-cuatro-docenas-drivers-update-on-your-pc-with-windows-os/"><u>How to Get the Latest AMD Vega Cuatro Docenas Drivers Update on Your PC with Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-windows-11-compatibility-solving-airpods-microphone-problems/"><u>How to Repair Windows 11 Compatibility: Solving AirPods Microphone Problems</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-highest-rated-10-non-game-screenshot-tools/"><u>In 2024, Highest Rated 10 Non-Game Screenshot Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-realtek-audio-driver-downloads-compatible-with-windows-11107/"><u>Latest Realtek Audio Driver Downloads Compatible with Windows 11/10/7</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/preserve-your-playtime-expert-tips-for-recording-on-a-sony-ps4/"><u>Preserve Your Playtime: Expert Tips for Recording on a Sony PS4</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-corsair-gaming-headset-drivers-on-windows-pcs/"><u>Step-by-Step Guide: Updating Your Corsair Gaming Headset Drivers on Windows PCs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Limited Leisure Moments? Here Are The Cream of the Crop: 15 Great Android Apps to Pass the Time Quickly!"
-date: 2024-09-01T05:45:31.065Z
-updated: 2024-09-02T05:45:31.065Z
+date: 2024-12-16T23:04:05.322Z
+updated: 2024-12-22T02:46:08.693Z
 tags:
   - android
 categories:
@@ -37,6 +37,10 @@ _QS Monkey Land: King of Fruits_ is essentially a [Suika](https://suikagame.com/
 
  Although there's no time limit, you can time your fruit drops because the container is affected by gravity. This deceptively simple game involves a lot of skill and thinking. I still haven't matched two watermelons, even after two months of playing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 [Alto's Adventure](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003357/https://play.google.com/store/apps/details?id=com.noodlecake.altosadventure) 
 
  There are many endless runners perfect for quick sessions [on the toilet](https://visual-screen-recording.techidaily.com/updated-in-2024-how-to-use-a-whiteboard-in-google-meet-on-laptopiphoneandroid/), but my favorite is _Alto's Adventure_. Its gorgeous, minimalistic graphics and interface are a breath of fresh air compared to other endless runners, such as _Subway Surfers_. Your character automatically snowboards to the right, and you control the character by tapping and holding to jump or maneuver.
@@ -47,9 +51,6 @@ _QS Monkey Land: King of Fruits_ is essentially a [Suika](https://suikagame.com/
 
 _Horizon Chase_ pays homage to old-school Nintendo and Sega arcade racers like [_Lotus_](https://en.wikipedia.org/wiki/Lotus%5F%28video%5Fgame%5Fseries%29) and _[Top Gear](https://en.wikipedia.org/wiki/Top%5FGear%5F%28video%5Fgame%29)_. This modernized retro racer has you blazing through tracks at neckbreak speeds, so most races are incredibly short. Although the cars aren't licensed, they look just like the real deal.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 [Fallout Shelter](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003357/https://play.google.com/store/apps/details?id=com.bethsoft.falloutshelter) 
 
  I played _Fallout Shelter_ back when it was first released in 2015 (shortly before _Fallout 4_), and it's been my favorite base-building simulator on mobile ever since. The goal is simple—keep your dwellers nourished and protected while simultaneously growing your base. It's the type of game where you check in for a couple of minutes per day to be rewarded with steady progression.
@@ -60,20 +61,22 @@ _Horizon Chase_ pays homage to old-school Nintendo and Sega arcade racers like [
 
  If Fallout Shelter sounds too involved, _Egg, Inc._ is the perfect alternative. It's an adorable idle clicker where you click a big red button to spawn chickens, which lay money-making eggs. As you progress, you get more money to upgrade your base to earn more money, and the cycle repeats. The most efficient way to play it is to open the app a few times per day to upgrade your base, so it's ideal for two-minute sessions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6 [Crossy Road](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003357/https://play.google.com/store/apps/details?id=com.yodo1.crossyroad) 
 
  Why did the chicken cross the road? To unlock new characters, of course. _Crossy Roads_ is a fun little arcade platformer where your goal is to get as far across the road as possible without dying. Just like _Floppy Bird_, individual sessions are incredibly short and entirely depend on how good you are. My favorite part is unlocking new characters. Some of them even change the environment, which is pretty cool.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7 [Mars: Mars](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003357/https://play.google.com/store/apps/details?id=com.pomelogames.MarsGame) 
 
 _Mars: Mars_ is an endless platformer that involves jumping between platforms, but instead of starting from the beginning, when you fail, you go back to the previous platform. Just like in Crossy Roads, you can unlock new characters that completely change the environment. Many of them are based on historical figures, like Marilyn Monroe and Jimi Hendrix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8 [Don't Touch The Spikes](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003357/https://play.google.com/store/apps/details?id=com.ketchapp.donttouchthespikes) 
 
 _Don't Touch the Spikes_ is a dead simple game. You tap on the screen to make a bird fly, and you score points by hitting the side walls without touching the spikes. You can unlock new birds, but that's about all there is to this game—it's simple, addictive, and fun.
@@ -83,15 +86,17 @@ _Don't Touch the Spikes_ is a dead simple game. You tap on the screen to make a 
 _Bike Race_ is all about completing bite-sized levels to earn one to three stars, depending on how fast you finish the track. It's more of a platformer than a racing game, though. There's also a healthy level of competition against other players in the form of leaderboards.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10 [Minesweeper](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003357/https://play.google.com/store/apps/details?id=Draziw.Button.Mines&hl=en&gl=US) 
 
  Do you remember that one [old-school Windows game](https://phone-solutions.techidaily.com/bypass-iphone-6s-plus-activation-lock-without-previous-owner-by-drfone-ios-unlock-ios-unlock/) that nobody knew how to play? _Minesweeper_ is a logic puzzle game that requires you to think. Your goal is to uncover all squares without tripping any mines that hide under the squares. The numbers tell you how many mines are adjacent to that square in a 3x3 pattern. You can find a few tricks online to get better at the game, but even without any "game knowledge," it's a lot of fun, and you'll hardly spend more than five minutes per session.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 11 [I Love Hue](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003357/https://play.google.com/store/apps/details?id=com.zutgames.ilovehue) 
 
 _I Love Hue_ is a beautiful visual puzzle game that involves arranging colored tiles in gradients. The game gets progressively harder as you go. You could argue that it sharpens your visual perception, but I just like it because it's quick and relaxing.
@@ -100,31 +105,19 @@ _I Love Hue_ is a beautiful visual puzzle game that involves arranging colored t
 
  If colors aren't your cup of tea, _Infinity Loop_ is another puzzle game that gets progressively harder as you unlock higher levels. The goal is to connect all loops so that they don't have any open ends. It's simple, bite-sized fun, which is sometimes all you really need from a mobile game.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 13 [General Knowledge Quiz](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003357/https://play.google.com/store/apps/details?id=com.timleg.quiz) 
 
 ![General Knowledge Quiz](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![General Knowledge Quiz](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/t-dknpzp6lihqqtyyi2ik0j1myzz5inb.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![General Knowledge Quiz](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-1.png) 
 
@@ -136,9 +129,6 @@ _General Knowledge Quiz_ is my favorite random trivia game, and I genuinely lear
 
 _Puzzly Words_ is a unique word puzzle game where you're given letters and have to use as many as possible to create three words in a minute. you get to play four rounds, so matches don't last longer than five minutes in total. My colleague Tony Phillips featured Puzzly Words in his [roundup of his favorite word games](https://facebook-record-videos.techidaily.com/updated-2024-approved-brevity-in-action-the-process-of-shortening-youtube-videos/).
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 15 [Tiny Gladiators 2](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003357/https://play.google.com/store/apps/details?id=com.boombitgames.Tiny2) 
 
  If you want a game that requires some level of skill and has an excellent progression system and multiplayer, _Tiny Gladiators 2_ is for you. You fight against various enemies and bosses in a 2D arena with nothing but a few simple movements and special attacks. There's even a fun little story, complete with narrative cinematics. Most rounds only take a couple of minutes at most, but some game modes can go for longer.
@@ -153,8 +143,6 @@ _Puzzly Words_ is a unique word puzzle game where you're given letters and have 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +150,26 @@ _Puzzly Words_ is a unique word puzzle game where you're given letters and have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-top-5-best-action-cameras-for-hunting/"><u>[New] In 2024, Top 5 Best Action Cameras for Hunting</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/treamline-your-watching-with-edge-free-youtube-content-for-2024/"><u>[New] Streamline Your Watching with Edge-Free YouTube Content for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-mvps-of-frugal-filmmaking-tech/"><u>[New] The MVPs of Frugal Filmmaking Tech</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1000-deal-on-optimal-lenovo-devices-tailored-for-productive-hybrid-working-environments-spotlight-review-computingtoday/"><u>$1,000 Deal on Optimal Lenovo Devices Tailored for Productive Hybrid Working Environments - Spotlight Review | ComputingToday</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-browsing-bygone-tales-in-the-facebook-universe-with-devices/"><u>2024 Approved Browsing Bygone Tales in the Facebook Universe with Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-high-end-luxuries-of-dells-3k-gamer-rig-a-firsthand-review/"><u>Discover the High-End Luxuries of Dell's $3K Gamer Rig: A Firsthand Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-travel-devices-ranked-for-205-insights-and-tips-by-zdnets-gear-guide/"><u>Essential Travel Devices Ranked for 2^05 - Insights and Tips by ZDNet's Gear Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-guide-to-live-photos-and-full-screen-videos-on-iphones/"><u>In 2024, In-Depth Guide to Live Photos and Full-Screen Videos on iPhones</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-unmatched-clarity-best-microphones-for-podcasters/"><u>In 2024, Unmatched Clarity Best Microphones for Podcasters</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/last-minute-blowout-sale-on-amazon-and-walmart-for-oct-prime-day-2024-top-offers-techreview/"><u>Last Minute Blowout Sale on Amazon & Walmart for Oct 'Prime Day' 2024 – Top Offers! | TechReview</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-podcast-picks-for-google-enthusiasts-for-2024/"><u>Prime Podcast Picks for Google Enthusiasts for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/quick-instructions-for-downloading-and-fun-with-ifunny-memes-for-2024/"><u>Quick Instructions for Downloading and Fun with iFunny Memes for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-38-unbeatable-cyber-weekend-bargains-at-costco-premier-prices-on-televisions-laptops-and-tablets-zdnets-exclusive-sneak-peek/"><u>Top 38 Unbeatable Cyber Weekend Bargains at Costco: Premier Prices on Televisions, Laptops & Tablets - ZDNet's Exclusive Sneak Peek</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-portable-laptops-for-business-trips-not-an-apple-or-dell/"><u>Top Portable Laptops for Business Trips - Not an Apple or Dell!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-power-of-samsungs-new-copilotplus-pc-your-ideal-pick-for-a-premier-windows-deal-today-according-to-zdnet-reviews/"><u>Unveiling the Power of Samsung's New Copilot+ PC – Your Ideal Pick for a Premier Windows Deal Today, According to ZDNET Reviews!</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/xbox-one-s-flip-zu-einer-grosseren-ssdhdd-fur-verbesserte-leistung/"><u>Xbox One S - Flip Zu Einer Größeren SSD/HDD Für Verbesserte Leistung</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-expertise-pathway-choosing-between-standard-studio-and-beta-for-2024/"><u>YouTube Expertise Pathway Choosing Between Standard Studio and Beta for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnets-review-the-ultimate-multi-tasker-laptop-that-delivers-impressive-hardware-and-popularity-among-users/"><u>ZDNet's Review: The Ultimate Multi-Tasker Laptop that Delivers Impressive Hardware & Popularity Among Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnets-ultimate-durability-showdown-can-a-4000-rugged-laptop-beat-the-dell-latitude/"><u>ZDNet's Ultimate Durability Showdown: Can a $4,000 Rugged Laptop Beat the Dell Latitude?</u></a></li>
+</ul></div>
 

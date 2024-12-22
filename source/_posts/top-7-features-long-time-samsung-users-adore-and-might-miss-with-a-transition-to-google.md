@@ -1,7 +1,7 @@
 ---
 title: Top 7 Features Long-Time Samsung Users Adore and Might Miss with a Transition to Google
-date: 2024-09-01T05:40:54.355Z
-updated: 2024-09-02T05:40:54.355Z
+date: 2024-12-20T22:01:02.927Z
+updated: 2024-12-22T04:57:43.184Z
 tags:
   - android
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Top 7 Features Long-Time Samsung Users Adore and Might Miss with a Transition to Google
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -23,52 +27,49 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Samsung Galaxy phones have been dominating for over a decade, but the Google Pixel series has started to pick up steam in recent years. While both are based on the Android operating system at their core, they offer wildly different experiences. You will miss some things if you make the switch.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Camera Modes
 
  There's a very good chance that you switched to a Pixel phone for the cameras. And yeah, they do take some pretty amazing photos. However, the actual camera app on the Pixel phones leaves a lot to be desired.
 
  The Google Camera app on the Pixel phones is very minimal. That's usually a good thing, but Samsung Galaxy phones have “Pro” modes that let you tweak things like focus, ISO, exposure, and more. They also have fun modes like “Portrait Video.” [This is stuff you don't get with a simplified camera app](https://win-howtos.techidaily.com/troubleshooting-tips-for-fixing-windows-11s-persistent-black-screen-fault/).
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Bixby Routines
 
 ![Screenshot of Google Pixel Rules feature.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot_20240110-143142.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 The extent of Google's automation feature.
 
  If we're listing reasons to ditch Samsung phones, Bixby is probably one of them. However, there is one [really handy tool called Bixby Routines](https://fox-helps.techidaily.com/new-in-2024-sleepy-sequences-examining-bedtime-story-video-adaptations/). You can choose actions to be a “trigger,” and then you pick what actions should happen when the trigger happens. If you never used it, you'd be surprised at how sophisticated and useful it is.
 
  Pixel phones have something similar called “Rules,” but it's a disservice to even call it "similar" to Bixby Routines. The only things you can use as triggers are connecting to a Wi-Fi network or going to a place. Google could do so much more than they are with this feature.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Secure Folder
 
 [Secure Folder](https://facebook-video-share.techidaily.com/updated-building-your-ultimate-youtube-music-list-step-by-step-guide-webmobile-for-2024/) is a cool Samsung feature that you may not have even known about. Most people think it’s only for hiding secret stuff or work accounts, but it can do a lot more than that. Apps in the Secure Folder are separate from the apps in the main part of your phone. Photos, videos, and files are separate, too.
 
  All this essentially allows you to have a separate phone inside your phone. Pixel phones, on the other hand, can only use the [“Locked Folder” in Google Photos](https://some-knowledge.techidaily.com/gigglegraphics-suite-for-2024/) or the [“Safe Folder” in the Files app](https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-motorola-moto-e13-drfone-by-drfone-virtual/), and that’s it. If you want to have more than one of the same apps on a Pixel phone, you have to use other ways.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Good Lock
 
  Personally, when I switch from Samsung to Google, the thing I might miss the most is Good Lock. [It's a suite of add-ons that make the basic features even better](https://extra-skills.techidaily.com/in-2024-metaverse-mastery-rapidly-assemble-your-digital-self/). You can change the lock screen, volume controls, make custom themes, and a lot more. It's honestly amazing for tech lovers.
 
  Google doesn't have anything like Good Lock. In fact, even the core Galaxy experience (One UI) has more customization options than the Pixel UI. If you really love having a ton of tweaks and controls at your disposal, you're going to feel very limited with a Pixel phone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ##  Better One-Handed Mode
 
 ![Screenshot of Google Pixel one-handed mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot_20240110-143209.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Pixel's only one-handed mode.
 
@@ -77,8 +78,9 @@ The Pixel's only one-handed mode.
  Samsung’s one-handed mode lets you slide the screen down or shrink it to a corner. You can also change the size and position of the shrunken screen. You can activate it by double-tapping the home button or using a gesture. Pixel’s one-handed mode only lets you slide the screen down. You cannot adjust the size or position of the screen.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Edge Panel
 
  Having your most often-used apps and shortcuts at easy reach is one of the most important things on a smartphone. You don't want to get lost in your phone for every little task. [Samsung aids in this mission with the Edge Panels feature](https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-realme-11-5g-drfone-by-drfone-virtual-android/), which puts your favorite apps, contacts, tools, and more in a slide-out drawer on the edge of your screen.
@@ -101,8 +103,6 @@ The Pixel's only one-handed mode.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +110,24 @@ The Pixel's only one-handed mode.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-innovations-and-hacks-every-content-creator-should-know-about-reels/"><u>[New] Innovations and Hacks Every Content Creator Should Know About Reels</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-mastering-live-streams-from-your-gopro-camera-to-social-networks-for-2024/"><u>[New] Mastering Live Streams From Your GoPro Camera to Social Networks for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/our-blueprint-to-top-ranked-business-youtube-channels/"><u>[New] Your Blueprint to Top-Ranked Business YouTube Channels</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-guide-enable-and-show-bluetooth-adapter-in-windows-device-manager/"><u>Essential Guide: Enable & Show Bluetooth Adapter in Windows Device Manager</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exceptional-savings-on-a-large-screen-upgrade-swapping-out-your-tv-for-a-high-quality-cost-effective-projector-at-20-off-zdnet/"><u>Exceptional Savings on a Large Screen Upgrade: Swapping Out Your TV for a High-Quality, Cost-Effective Projector at 20% Off! [ZDNet]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-reviews-the-creme-de-la-creme-of-43-smart-tv-models-techradar/"><u>Expert Reviews: The Crème De La Crème of 43 Smart TV Models | TechRadar</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/how-and-where-are-sticky-notes-saved-on-windows-11-step-by-step-instructions/"><u>How & Where Are Sticky Notes Saved on Windows 11 - Step-by-Step Instructions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huge-sale-alert-cutting-edge-amazon-fire-tv-omni-series-qled-now-just-150-cheaper-dont-miss-out/"><u>Huge Sale Alert: Cutting-Edge Amazon Fire TV Omni Series QLED Now Just $150 Cheaper – Don't Miss Out!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/iconic-japanese-electronics-giant-panasonic-returns-to-the-us-unveils-trio-of-cutting-edge-4k-tvs-zdnet-insights/"><u>Iconic Japanese Electronics Giant Panasonic Returns to the U.S., Unveils Trio of Cutting-Edge 4K TVs - ZDNET Insights</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-x9b-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor X9b To Phone | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-samsungs-affordable-oled-tv-the-budget-friendly-alternative-to-the-s95d-at-900-cheaper-insights-from-zdnet/"><u>Introducing Samsung's Affordable OLED TV: The Budget-Friendly Alternative to the S95D at $900 Cheaper - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/june-2024s-most-unbeatable-best-buy-deals-revealed/"><u>June 2024'S Most Unbeatable Best Buy Deals Revealed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/labor-day-specials-prime-time-tv-deals-above-age-55-your-ultimate-shopping-list-from-zdnet/"><u>Labor Day Specials : Prime Time TV Deals Above Age 55 - Your Ultimate Shopping List From ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/labor-day-party-and-synonyms-for-best-like-unforgettable-and-perfect/"><u>Labor Day, Party, and Synonyms for 'Best' Like Unforgettable and Perfect.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/live-streaming-nfl-matches-a-comprehensive-guide-on-how-to-watch-them-online/"><u>Live Streaming NFL Matches: A Comprehensive Guide on How to Watch Them Online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/sonys-immersive-sound-experience-with-the-pulse-explorer-gaming-earbuds-a-deep-dive/"><u>Sony's Immersive Sound Experience with the Pulse Explorer Gaming Earbuds - A Deep Dive</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-the-power-of-chatgpt-in-your-excel-workflows/"><u>Unleash the Power of ChatGPT in Your Excel Workflows</u></a></li>
+</ul></div>
 

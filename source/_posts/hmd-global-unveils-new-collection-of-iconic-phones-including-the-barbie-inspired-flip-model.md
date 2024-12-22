@@ -1,7 +1,7 @@
 ---
 title: HMD Global Unveils New Collection of Iconic Phones Including the Barbie-Inspired Flip Model
-date: 2024-09-01T05:43:57.110Z
-updated: 2024-09-02T05:43:57.110Z
+date: 2024-12-15T16:09:41.021Z
+updated: 2024-12-21T18:22:22.064Z
 tags:
   - android
 categories:
@@ -31,8 +31,6 @@ HMD Global has been making phones and tablets with the Nokia name since 2016, an
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -40,8 +38,26 @@ HMD Global has been making phones and tablets with the Nokia name since 2016, an
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-resizing-youtube-images-step-by-step-guide/"><u>[New] 2024 Approved Resizing YouTube Images Step-by-Step Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-easier-cinematography-perfecting-fade-effects-for-2024/"><u>[New] Easier Cinematography Perfecting Fade Effects for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-boost-engagement-crafting-the-perfect-instagram-unboxing/"><u>[New] In 2024, Boost Engagement Crafting the Perfect Instagram Unboxing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-maximize-your-impact-strategic-approaches-to-facebook-bios/"><u>[Updated] In 2024, Maximize Your Impact Strategic Approaches to Facebook Bios</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-top-pick-find-my-preferred-macbooks-usb-c-charging-cable-under-70-on-amazon-detailed-reviews-and-deals-featured/"><u>Affordable Top Pick: Find My Preferred MacBook's USB-C Charging Cable Under $70 on Amazon - Detailed Reviews & Deals Featured</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-an-underestimated-laptop-add-on-transformed-my-device-into-a-powerhouse-the-ultimate-tech-upgrade/"><u>How an Underestimated Laptop Add-On Transformed My Device Into a Powerhouse - The Ultimate Tech Upgrade</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/join-the-fun-best-gratuitous-meme-tools-available/"><u>Join the Fun Best Gratuitous Meme Tools Available</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximizing-your-impact-on-chromeos-development-the-ultimate-guide-to-submitting-valuable-feedback-and-its-importance/"><u>Maximizing Your Impact on ChromeOS Development: The Ultimate Guide to Submitting Valuable Feedback and Its Importance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/picsart-shield-invisible-smile-vanished-gaze/"><u>Picsart Shield Invisible Smile, Vanished Gaze</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/protect-your-privacy-research-reveals-risks-of-unauthorized-access-by-computer-techs/"><u>Protect Your Privacy: Research Reveals Risks of Unauthorized Access by Computer Techs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-restoring-default-sound-controls-on-your-pc-with-windows-tips/"><u>Step-by-Step Guide: Restoring Default Sound Controls on Your PC with Windows - Tips</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-updated-guide-to-google-nest-hub-2nd-generation-the-benefits-of-integrating-a-camera/"><u>The Updated Guide to Google Nest Hub, 2Nd Generation - The Benefits of Integrating a Camera</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-5-exciting-new-copilotplus-powered-laptops-unveiled-at-ifa-202n4-featuring-a-special-selection-for-gamers/"><u>Top 5 Exciting New Copilot+ Powered Laptops Unveiled at IFA 202N4, Featuring a Special Selection for Gamers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-iphone-15s-resistance-how-effective-is-its-waterproofing/"><u>Understanding iPhone 15'S Resistance: How Effective Is Its Waterproofing?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-the-power-of-play-huge-savings-alert-on-asuss-rog-zephyrus-now-only-550-cheaper-dive-into-details-at-zdnet/"><u>Unleash the Power of Play: Huge Savings Alert on Asus's ROG Zephyrus, Now Only $550 Cheaper! Dive Into Details at ZDNET.</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Score a Steal with Samsung's T5 Solid State Drive at Amazon – Early Access to Prime Day Prices | TechSpot by ZDNET
-date: 2024-12-11T21:43:52.529Z
-updated: 2024-12-13T02:07:35.916Z
+date: 2024-12-16T18:38:30.090Z
+updated: 2024-12-22T08:25:53.877Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH4T0S-AM%2Fdp%2FB0CMDJXZ19%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C723879d4-c1fa-4ffa-a686-d0f1c7defacc%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,21 +65,18 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-navigating-facebooks-fresh-features-and-changes/"><u>[New] 2024 Approved Navigating Facebook's Fresh Features & Changes</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-embracing-metaverse-characters-a-guide-to-seamless-avatars-for-2024/"><u>[New] Embracing Metaverse Characters A Guide to Seamless Avatars for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-pushing-boundaries-with-yis-action-camera-and-4k-capture/"><u>[Updated] 2024 Approved Pushing Boundaries with Yi's Action Camera & 4K Capture</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-slimmed-down-cloud-keeping-at-low-cost-high-space/"><u>[Updated] In 2024, Slimmed-Down Cloud Keeping at Low Cost, High Space</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-night-owls-techniques-for-long-exposure-iphone-pics/"><u>[Updated] Night Owls' Techniques for Long-Exposure iPhone Pics</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-clearing-background-artifacts-in-figma/"><u>2024 Approved Step-by-Step Clearing Background Artifacts in Figma</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-hp-officejet-pro-8600-printer-drivers-compatible-with-windows-systems/"><u>Download HP Officejet Pro 8600 Printer Drivers: Compatible With Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-todays-latest-magicard-rio-pro-driver-software-suite-for-pc-users-on-any-window-version/"><u>Download Today's Latest Magicard Rio Pro Driver Software Suite for PC Users on Any Window Version</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-to-modifying-driver-files-for-usb-serial-bridge-devices/"><u>Guide to Modifying Driver Files for USB Serial Bridge Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-easily-overcome-driver-challenges-solving-the-asus-pce-ac56-issue-on-windows-11-8-and-solved/"><u>How to Easily Overcome Driver Challenges: Solving the ASUS PCE-AC56 Issue on Windows 11, 8 & ([Solved])</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-and-thoughts-on-samsung-galaxy-note20-ultra-with-5g-capabilities/"><u>In-Depth Analysis & Thoughts on Samsung Galaxy Note20 Ultra with 5G Capabilities</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-release-of-realteks-bluetooth-drivers-secure-download-for-windows-11-and-10-devices/"><u>Latest Release of RealTek's Bluetooth Drivers - Secure Download for Windows 11 & 10 Devices</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-budget-friendly-filmmaking-essentials-software-you-need/"><u>New 2024 Approved Budget-Friendly Filmmaking Essentials Software You Need</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/tech-spotlight-on-intel-core-ultra-k-5-ghz-and-4th-process-node-innovation-lacking-avx-512-features-as-per-cpu-z-analysis/"><u>Tech Spotlight on Intel Core Ultra K - 5 GHz & 4Th Process Node Innovation, Lacking AVX-512 Features as per CPU-Z Analysis</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo X Flip? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/your-ultimate-guide-to-deciphering-tiktoks-pfp-emoji/"><u>Your Ultimate Guide to Deciphering TikTok's PFP Emoji</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-fb-videos-unleashed-with-new-mobile-app/"><u>[New] 2024 Approved FB Videos Unleashed with New Mobile App</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-supreme-seminar-strategist-summit/"><u>[New] Supreme Seminar Strategist Summit</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-essential-iphones-guide-to-great-night-images/"><u>[Updated] The Essential iPhones Guide to Great Night Images</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-relish-in-9-festive-full-length-films-exclusive-youtube-offering/"><u>2024 Approved Relish in 9 Festive, Full-Length Films Exclusive YouTube Offering</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976065858-free-downloads-for-msi-b350-tomahawk-chipset-drivers-works-great-on-windows-os/"><u>Free Downloads for MSI B350 Tomahawk Chipset Drivers: Works Great on Windows OS!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-free-focusrite-scarlett-18i20-drivers-for-pc-download-now/"><u>Get Your Free Focusrite Scarlett 18I20 Drivers for PC - Download Now</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-nanofilm-whiz/"><u>In 2024, NanoFilm Whiz</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-time-capsule-converting-single-photographs-to-video/"><u>In 2024, Time Capsule Converting Single Photographs to Video</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-driver-updates-how-to-get-the-latest-acer-aspire-windows-compatible-software/"><u>Mastering Driver Updates: How to Get the Latest Acer Aspire Windows Compatible Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/obtain-canon-mg3620-printer-drivers-instantly-trustworthy-and-trouble-free-installation-options/"><u>Obtain Canon MG3620 Printer Drivers Instantly – Trustworthy and Trouble-Free Installation Options</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-for-easy-gtx-amoji-1660-driver-update/"><u>Step-by-Step Tutorial for Easy GTX Amoji 1660 Driver Update</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-artisans-approach-to-hdr-creation-in-photoshop-for-2024/"><u>The Artisan's Approach to HDR Creation in Photoshop for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transformation-gratuite-du-fichier-audio-3gp-au-format-wma-en-ligne-tutoriel-de-movavi/"><u>Transformation Gratuite Du Fichier Audio 3GP Au Format WMA en Ligne - Tutoriel De Movavi</u></a></li>
 </ul></div>
 

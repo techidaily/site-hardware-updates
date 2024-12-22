@@ -1,7 +1,7 @@
 ---
 title: Is Stock Android Pre-Installed on Google Pixel Phones?
-date: 2024-08-28T02:05:29.451Z
-updated: 2024-08-29T02:05:29.451Z
+date: 2024-12-15T02:02:58.753Z
+updated: 2024-12-22T06:57:54.157Z
 tags:
   - android
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
  Google announces new devices, like the [Pixel 8 and Pixel 8 Pro](https://tiktok-clips.techidaily.com/2024-approved-copying-safely-on-tiktok-a-2023-guide-to-rights-checks/), alongside a [major Android upgrade](https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-motorola-razr-40-by-drfone-android/). During these events, the company often talks about [features introduced with these versions](https://article-posts.techidaily.com/seamless-strategy-integrating-linktree-into-your-tiktok-bio/). But many of these features don't make their way to devices from other brands. Shouldn't they be available for every phone or tablet that receives the upgrade? That's when the differences between "stock Android" and "Google's Android" come in.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is Stock Android?
 
 ![AOSP Android 12](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/AOSP.png) 
@@ -36,15 +40,17 @@ AOSP Android 12
  The AOSP GSI is a bare-bones implementation, mostly for developers. But it's the "purest" form of Android you can get—the same you'd get by [downloading Android's source code and compiling it yourself](https://source.android.com/docs/setup/create/gsi#building-gsis).
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Which Devices Run Stock Android?
 
 ![Nexus 5 back cover.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/04/IMG_3416.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Cameron Summerson / How-To Geek
 
  Currently, no major manufacturer sells devices featuring stock Android. Some brands, like Lenovo/Motorola and Google, limit visual changes to a minimum, but they still make under-the-hood customizations.
@@ -58,15 +64,13 @@ Cameron Summerson / How-To Geek
  Nowadays, low-tier phones usually ship with [Android (Go Edition)](https://tech-recovery.techidaily.com/explore-the-samsung-galaxy-z-flip-6-unveiling-its-launch-day-costs-capabilities-and-latest-updates/), a version with fewer features and lower requirements. Differently from the Nexus and GPE lines, Android (Go Edition) allows devices with manufacturer customizations, like Samsung's One UI Core. Therefore, it's not a "stock Android" initiative per se.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Google’s Android Is Not Stock Android
 
 ![Material You themes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/Material-You-hero.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 Google
 
  That brings us to the point: how are "stock Android" and the system used in Pixel devices different? The simple answer is Pixel devices are all-in on Google's services.
@@ -84,8 +88,9 @@ Google
 ![Front facing selfie camera on the Google Pixel 8 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/53249989349_531796845c_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Justin Duino / How-To Geek  
 
  Pixel phones and tablets, on the other hand, are Google's vision of what it thinks Android _is meant to be_. They're made for the general public, [not just developers and enthusiasts](https://video-capture.techidaily.com/step-by-step-techniques-for-high-quality-lenovo-captures-for-2024/). One might define the Pixels as "Google's iPhones." The comparison is not totally untrue. Even Google admits this by [placing the devices as direct competitors](https://fox-http.techidaily.com/updated-in-2024-essential-list-premier-free-video-player-choices-for-pctabletsmartphone-users/).
@@ -106,8 +111,6 @@ Justin Duino / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +118,20 @@ Justin Duino / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-20-youtube-time-savers-that-will-skyrocket-engagement-rates-for-2024/"><u>[New] 20 YouTube Time Savers That Will Skyrocket Engagement Rates for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-mastering-photo-aesthetics-the-essence-of-luts/"><u>[New] 2024 Approved Mastering Photo Aesthetics The Essence of LUTs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-low-cost-pc-unlock-with-ideal-obs-settings-for-2024/"><u>[New] Low-Cost PC - Unlock with Ideal OBS Settings for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-seamless-tv-integration-looping-videos-from-youtube-on-large-screens/"><u>[New] Seamless TV Integration Looping Videos From YouTube on Large Screens</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-discreetly-watch-instas-hidden-gems-here/"><u>[Updated] 2024 Approved Discreetly Watch Insta's Hidden Gems, Here</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-how-to-embed-a-youtube-playlist-on-a-website/"><u>[Updated] In 2024, How to Embed A YouTube Playlist On a Website</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-huawei-p60-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Huawei P60 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-video-guide-to-hairstyles/"><u>In 2024, Ultimate Video Guide to Hairstyles</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/make-a-splash-with-instagram-reels-using-tried-and-true-tiktok-hacks-for-2024/"><u>Make a Splash with Instagram Reels Using Tried-and-True TikTok Hacks for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/must-watch-tv-series-and-films-on-hulu-disneyplus-and-more-this-march-our-expert-guide-by-zdnet/"><u>Must-Watch TV Series and Films on Hulu, Disney+, and More This March: Our Expert Guide by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigate-the-future-of-television-with-our-pros-guide-to-premium-32-inch-screens-zdnet-insights/"><u>Navigate the Future of Television with Our Pros' Guide to Premium 32-Inch Screens | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/sony-bravia-the-most-affordable-top-quality-television-in-regular-sales-recommended-by-zdnet/"><u>Sony Bravia: The Most Affordable Top-Quality Television in Regular Sales – Recommended by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-techniques-on-how-to-thoroughly-cleanse-lcdled-displays-for-optimal-viewing-experience/"><u>Step-by-Step Techniques on How to Thoroughly Cleanse LCD/LED Displays for Optimal Viewing Experience</u></a></li>
+</ul></div>
 

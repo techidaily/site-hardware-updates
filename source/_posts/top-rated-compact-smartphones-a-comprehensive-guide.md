@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Compact Smartphones : A Comprehensive Guide"
-date: 2024-09-01T05:42:35.997Z
-updated: 2024-09-02T05:42:35.997Z
+date: 2024-12-18T02:46:19.655Z
+updated: 2024-12-22T08:31:55.443Z
 tags:
   - android
 categories:
@@ -55,6 +55,10 @@ Best Small Flip Phone
 
 ![iPhone 15 Pro showing the titanium back.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/53214028421_22760ef745_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
 | Pros                  | Cons                         |
@@ -86,9 +90,6 @@ The Apple iPhone 15 Pro features a titanium design with Action button, A17 Pro c
 
 ![OxygenOS on the OnePlus Nord N30 5G](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/person-holding-the-oneplus-nord-n30-5g-with-the-settings-openjpg_52920102511_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _Hannah Stryker / How-To Geek_
 
 | Pros                           | Cons                        |
@@ -106,14 +107,12 @@ _Hannah Stryker / How-To Geek_
 
 ![oneplus-nordn30](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/oneplus-nordn30.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Best Small Budget Phone
 
 #####  OnePlus Nord N30 5G
@@ -129,8 +128,9 @@ The OnePlus Nord N30 might not be the most exciting phone ever built, but for le
 ![Apple iPhone SE](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-iphonese-hero-3up-220308_b.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Apple
 
 | Pros                                 | Cons              |
@@ -147,6 +147,10 @@ Apple
  While the iPhone SE is small, you might be surprised that it's only marginally smaller than the iPhone 15 Pro despite its 4.7-inch display. It clocks in at 5.45 inches tall, 2.65 inches wide, and 0.29 inches deep. That makes it just slightly more compact than its newer cousin. But if you need something small, this is one to keep on your shopping list.
 
 ![black iphone se 2022](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/black-iphone-se-2022-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
@@ -180,13 +184,15 @@ Dhruv Bhutani / How-To Geek
 ![flip 5-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/flip-5-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Best Small Android Phone
 
 #####  Samsung Galaxy Z Flip 5
@@ -217,14 +223,12 @@ Nokia
 
 ![Nokia Flip](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/nokia-flip.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Best Small Flip Phone
 
 #####  Nokia 2780 Flip
@@ -239,8 +243,6 @@ The Nokia 2780 Flip isn't a true smartphone, but its compact size, retro styling
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -248,4 +250,18 @@ The Nokia 2780 Flip isn't a true smartphone, but its compact size, retro styling
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-professional-photogridding-services-to-polish-your-art/"><u>[New] 2024 Approved Professional Photogridding Services to Polish Your Art</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-how-to-reclaim-full-volume-from-partially-muted-fb-tracks/"><u>[New] How to Reclaim Full Volume From Partially Muted FB Tracks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-roadmap-to-powerful-instagram-partnerships-and-campaigns-for-2024/"><u>[New] The Roadmap to Powerful Instagram Partnerships & Campaigns for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/from-traditional-to-split-one-users-journey-on-the-road-to-enhanced-comfort-at-their-workstation-cnet/"><u>From Traditional to Split: One User's Journey on the Road to Enhanced Comfort at Their Workstation | CNET</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How To Simulate GPS Movement With Location Spoofer On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/microsofts-new-surface-lineup-could-this-be-enough-for-me-to-give-up-my-macbook/"><u>Microsoft's New Surface Lineup: Could This Be Enough for Me to Give Up My MacBook?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-camcorders-enhancing-podcasting/"><u>Premium Camcorders Enhancing Podcasting</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seamless-transition-from-windows-to-linux-mint-a-step-by-step-guide-for-enhanced-performance/"><u>Seamless Transition From Windows to Linux Mint: A Step-by-Step Guide for Enhanced Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-metas-top-tier-oct-virtual-reality-offer-with-their-exclusive-512gb-quest-3-at-unbeatable-prices-this-prime-day-insider-info/"><u>Snag Meta's Top-Tier Oct. Virtual Reality Offer With Their Exclusive 512GB Quest 3 at Unbeatable Prices This Prime Day – Insider Info!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-why-this-reliable-ipad-pro-usb-c-hub-stands-out-featured/"><u>The Ultimate Guide: Why This Reliable iPad Pro USB-C Hub Stands Out - Featured</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-hidden-gem-in-asuss-newest-laptop-a-designers-dream/"><u>Unveiling the Hidden Gem in ASUS's Newest Laptop - A Designer’s Dream!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unveiling Samsung's Game-Changing Copilot+ Laptop - Exclusive Review & Top Deal on Windows Devices!
-date: 2024-12-11T16:00:14.993Z
-updated: 2024-12-13T02:08:41.035Z
+date: 2024-12-15T07:01:48.010Z
+updated: 2024-12-22T00:16:56.733Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kerry Wan/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -45,7 +45,7 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -61,6 +61,10 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 | Price                 | Starting at [$1,980](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-12-Core-i7-1360P-Fingerprint-Thunderbolt4%2Fdp%2FB0CR9S1KFL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3063c541-0a07-494c-8996-37e9adf54d26%7Cdtp&dtb=1) |
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
 
@@ -83,7 +87,7 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does it perform?
@@ -106,6 +110,10 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Evaluating Lenovo's dual-screen software
 
 With such unique hardware, Lenovo had to build unique software for Windows 11 so that it behaves properly and gives you extra functionality.
@@ -126,10 +134,6 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## One thing to keep in mind
 
 Having a laptop with two screens means you'll have to lug around a separate keyboard, mouse, and kickstand, all three of which (plus a stylus) come in the box. It's a lot of separate things you have to remember to bring, and I'm going to be honest with you, it can be inconvenient.
@@ -139,10 +143,6 @@ Max Buondonno/ZDNET
 When I'm working on my MacBook or -- quite frankly -- any other laptop in my arsenal, all I have to do is close the lid and load it into my backpack when I'm finished. With the Yoga Book 9i, I have to close the laptop > collapse the kickstand > place the keyboard inside the collapsed kickstand > stack the keyboard/kickstand combo, mouse, and stylus on top of the laptop > shove it all in my bag and pray I can find it later when it's time to go back to work.
 
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -182,18 +182,21 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-frames-to-fun-youtube-gifs-creation-made-simple-for-2024/"><u>[Updated] From Frames to Fun YouTube GIFs Creation Made Simple for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-obs-streaming-windows-and-mac-guide/"><u>[Updated] OBS Streaming [Windows and Mac Guide]</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/burst-to-blast-android-apps-transform-slow-motion/"><u>Burst to Blast Android Apps Transform Slow Motion</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/enhancing-performance-pc-upgrade-suggestions/"><u>Enhancing Performance: PC Upgrade Suggestions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-downloads-of-logiteches-driving-force-pro-wheel-software-works-with-win-7810/"><u>Free Downloads of Logiteche's Driving Force Pro Wheel Software - Works with Win 7/8/10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-easily-update-intel-video-chip-drivers-a-step-by-step-tutorial/"><u>How to Easily Update Intel Video Chip Drivers: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208737870-hp-laptop-usb-connection-issues-expert-solutions-to-get-your-port-working-again/"><u>HP Laptop USB Connection Issues? Expert Solutions to Get Your Port Working Again</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-the-virtual-quest-a-jaunt-vr-exploration/"><u>In 2024, The Virtual Quest A Jaunt VR Exploration</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/key-fact-4-mrm-enhances-quantitation-multiple-reaction-monitoring-is-a-targeted-approach-that-improves-sensitivity-and-selectivity-in-quantitative-mass-spec12/"><u>Key Fact #4: MRM Enhances Quantitation - Multiple Reaction Monitoring Is a Targeted Approach that Improves Sensitivity and Selectivity in Quantitative Mass Spectrometry Analyses.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-geforce-rtx-groovy-drivers-download-now-for-win-10-8-and-7/"><u>Latest NVIDIA GeForce RTX Groovy Drivers - Download Now for Win 10, 8 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revamp-audio-quality-quickly-with-the-newest-nahimic-driver-update/"><u>Revamp Audio Quality Quickly with the Newest Nahimic Driver Update</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-comprehensive-gadget-digest-inside-look-by-toms-tech-vault/"><u>The Comprehensive Gadget Digest: Inside Look by Tom's Tech Vault</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-fast-track-your-visuals-the-best-pinterest-downloaders-listed-for-2024/"><u>[New] Fast-Track Your Visuals The Best Pinterest Downloaders Listed for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-how-to-convert-jpg-and-png-images-to-pdf-on-an-iphone/"><u>[Updated] How to Convert JPG and PNG Images to PDF on an iPhone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-illuminating-interactions-mastering-animate-texts-in-stories-for-2024/"><u>[Updated] Illuminating Interactions Mastering Animate Texts in Stories for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hot-tunes-essential-background-scores-for-viral-yt-shorts/"><u>[Updated] In 2024, Hot Tunes Essential Background Scores For Viral YT Shorts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-optimizing-engagement-on-igtv-through-thoughtful-dimension-tweaks/"><u>[Updated] In 2024, Optimizing Engagement on IGTV Through Thoughtful Dimension Tweaks</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-pro-converter-mp4-videos-for-social-media-fb-focus-for-2024/"><u>[Updated] Pro Converter MP4 Videos for Social Media (FB Focus) for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazons-8tb-samsung-t5-nvme-ssd-steals-the-show-post-prime-day-with-a-whopping-36-discount-insider-look-by-zdnet/"><u>Amazon's 8TB Samsung T5 NVMe SSD Steals the Show Post-Prime Day with a Whopping 36% Discount: Insider Look by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/diving-into-day-one-of-ces-2023-key-product-launches-and-announcements-featured-zdnet/"><u>Diving Into Day One of CES 2023: Key Product Launches and Announcements Featured | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/is-lenovos-innovative-yoga-book-9i-the-game-changer-for-dual-display-laptops-insights/"><u>Is Lenovo's Innovative Yoga Book 9I the Game Changer for Dual-Display Laptops? Insights</u></a></li>
+<li><a href="https://fox-links.techidaily.com/navigating-the-world-of-windows-11s-in-built-high-dynamic-range-feature-for-2024/"><u>Navigating the World of Windows 11'S In-Built High Dynamic Range Feature for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-apple-unveils-m3-chip-powered-macbook-air-explore-the-upgrades-in-the-latest-13-and-15-models-insights-from-zdnet/"><u>New Apple Unveils M3 Chip Powered MacBook Air: Explore the Upgrades in the Latest 13 & 15 Models - Insights From ZDNet!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranked-gaming-headphones-professional-reviews-and-ratings-pcmag/"><u>Top-Ranked Gaming Headphones : Professional Reviews and Ratings - PCMag</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-windows-laptop-picks-comprehensive-expert-reviews-and-comparisons-zdnet/"><u>Top-Ranking Windows Laptop Picks - Comprehensive Expert Reviews & Comparisons | ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-secrets-of-acurite-pro-weather-station-01036m-easy-assembly-reliable-design-revealed/"><u>Unveiling the Secrets of AcuRite Pro Weather Station 01036M: Easy Assembly, Reliable Design Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-weather-app-companions-guide/"><u>Win Weather App Companions Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/winter-woes-understanding-the-reason-behind-charging-issues-with-ipads-macbooks-and-iphones-zdnet-insights/"><u>Winter Woes: Understanding the Reason Behind Charging Issues with iPads, MacBooks, and iPhones | ZDNet Insights</u></a></li>
 </ul></div>
 

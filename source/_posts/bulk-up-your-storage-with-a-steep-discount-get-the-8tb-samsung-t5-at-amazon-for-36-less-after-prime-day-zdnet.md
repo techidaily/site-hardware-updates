@@ -1,7 +1,7 @@
 ---
 title: "Bulk Up Your Storage with a Steep Discount: Get the 8TB Samsung T5 at Amazon for 36%% Less After Prime Day | ZDNET"
-date: 2024-12-09T02:24:02.379Z
-updated: 2024-12-13T03:42:42.993Z
+date: 2024-12-19T16:11:30.197Z
+updated: 2024-12-21T21:49:29.314Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2d460d9b-c08e-42f0-88ee-8dd732741921%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,20 +65,24 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-daily-digital-deluge-youtubes-prime-videos-ranked-1-10/"><u>[New] In 2024, Daily Digital Deluge YouTube's Prime Videos Ranked #1-10</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-seamless-story-connectivity-on-facebook-4-tips/"><u>[New] Seamless Story Connectivity on Facebook (4 Tips)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-icue-no-device-detected-issue/"><u>[Solved] ICUE No Device Detected Issue</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-photographers-guide-to-negative-imaging/"><u>2024 Approved The Photographer’s Guide to Negative Imaging</u></a></li>
-<li><a href="https://win-blog.techidaily.com/conversion-sin-costo-desde-mp4-al-formato-flv-utilizando-la-solucion-en-linea-de-movavi-guia-paso-a-paso/"><u>Conversión Sin Costo Desde MP4 Al Formato FLV Utilizando La Solución en Línea De Movavi: Guía Paso a Paso</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-installing-hp-printer-drivers-on-windows-1011-systems/"><u>Easy Guide to Downloading & Installing HP Printer Drivers on Windows 10/11 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-your-printing-experience-updating-epson-wf-7720-drivers-on-windows-computers/"><u>Enhance Your Printing Experience: Updating Epson WF-7720 Drivers on Windows Computers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-canon-mp560-driver-quick-download-and-setup-instructions/"><u>Get the Latest Canon MP560 Driver: Quick Download & Setup Instructions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-revise-and-upgrade-the-driver-software-of-a-usb-serial-bridge-device/"><u>How to Revise and Upgrade the Driver Software of a USB-Serial Bridge Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-set-up-your-logitech-momo-wheel-driver-on-a-pc-step-by-step-guide/"><u>How to Set Up Your Logitech MOMO Wheel Driver on a PC - Step by Step Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v27-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo V27 Pro Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/logitecs-g515-lightspeed-tkl-showcase-high-quality-economic-price-tag-for-gamers-and-typists-alike/"><u>Logitec's G515 Lightspeed TKL Showcase - High Quality, Economic Price Tag for Gamers and Typists Alike</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-the-installation-process-the-best-way-to-update-your-windows-with-epson-et-4550-drivers/"><u>Mastering the Installation Process: The Best Way to Update Your Windows with Epson ET-4550 Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/nvidia-geforce-rtx-3070-ti-driver-update-windows-1187-compatible-version-available-now/"><u>NVIDIA GeForce RTX 3070 Ti Driver Update - Windows 11/8/7 Compatible Version Available Now</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/x-professional-audio-toolkit-personal-computing/"><u>X-Professional Audio Toolkit, Personal Computing</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-complete-picture-guide-to-vsco-app/"><u>[New] Complete Picture Guide to VSCO App</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-engaging-audiences-with-dynamic-photoviewer-content-in-pixiz/"><u>[New] Engaging Audiences with Dynamic Photoviewer Content in Pixiz</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-vr-equipment-enhancing-flight-control/"><u>2024 Approved Best VR Equipment Enhancing Flight Control</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-access-to-up-to-date-kodak-printer-drivers-download-now/"><u>Easy Access to Up-to-Date Kodak Printer Drivers – Download Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-device-functionality-on-windows-11-with-recent-lenovo-driver-updates/"><u>Enhance Device Functionality on Windows 11 with Recent Lenovo Driver Updates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-complete-guide-and-amd-gpio-device-driver/"><u>Free Download: Complete Guide & AMD GPIO Device Driver</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gaming-masterpiece-samsungs-ue590-in-depth-review-for-2024/"><u>Gaming Masterpiece - Samsung's UE590 In-Depth Review for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-poco-f5-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Poco F5 5G?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-deskjet-ink-advantage-vehicle-3050a-secure-free-drivers-and-improvements-for-windows-users/"><u>HP Deskjet Ink Advantage Vehicle 3050A - Secure Free Drivers and Improvements for Windows Users</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-260-ci-wi-fi-aware-driver-compatibility-with-usb-ports/"><u>Resolving 260 Ci Wi-Fi Aware Driver Compatibility with USB Ports</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-installation-of-nvidia-1080-drivers-on-windows-10-step-by-step-process/"><u>Seamless Installation of Nvidia 1080 Drivers on Windows 10: Step by Step Process</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-downloading-and-installing-steelseries-windows-software/"><u>Step-by-Step Guide to Downloading & Installing SteelSeries Windows Software</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-adding-custom-fonts-on-your-windows-system-tips-from-yl-computing/"><u>Step-by-Step Guide: Adding Custom Fonts on Your Windows System - Tips From YL Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722972442453-the-balance-of-power-and-strategic-interests-are-significant-factors-that-influence-states-decisions-regarding-nuclear-armament-or-disarmament/"><u>The Balance of Power and Strategic Interests Are Significant Factors that Influence States' Decisions Regarding Nuclear Armament or Disarmament.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-influence-of-ai-powered-chatbots-on-modern-content-production-techniques/"><u>The Influence of AI-Powered Chatbots on Modern Content Production Techniques</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96296140-9780834841918-the-stars-within-you/"><u>The Stars Within You | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-dell-inspiron-15-driver-software-for-windows-11-systems/"><u>Updated Dell Inspiron 15 Driver Software for Windows 11 Systems</u></a></li>
 </ul></div>
 

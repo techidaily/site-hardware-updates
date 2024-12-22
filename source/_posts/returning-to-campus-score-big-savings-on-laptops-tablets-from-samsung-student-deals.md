@@ -1,7 +1,7 @@
 ---
 title: Returning to Campus? Score Big Savings on Laptops, Tablets From Samsung | Student Deals
-date: 2024-12-08T18:18:09.374Z
-updated: 2024-12-12T22:15:11.177Z
+date: 2024-12-15T08:17:51.959Z
+updated: 2024-12-22T01:16:25.091Z
 tags:
   - laptops
 categories:
@@ -51,7 +51,7 @@ If you want to shop around, Samsung isn't the only brand offering student discou
 * [Razer Education Purchase Program](https://razer.a9yw.net/c/159047/642901/10229?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.razer.com%2Feducation%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -90,24 +90,18 @@ However, stock may expire at any time. ZDNET remains committed to finding, shari
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-premier-livestream-networks-you-need-to-watch/"><u>[New] The Premier Livestream Networks You Need To Watch</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-opening-overtures-10-superior-tunes-to-pique-interest/"><u>2024 Approved Opening Overtures 10 Superior Tunes to Pique Interest</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-samsung-galaxy-f14-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Samsung Galaxy F14 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-network-performance-by-refreshing-the-driver-for-your-usb-30-ethernet-adapter-windows/"><u>Boost Network Performance by Refreshing the Driver for Your USB 3.0 Ethernet Adapter (Windows)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/direct-download-techkey-bluetooth-driver-for-win-10-7-and-8-pcs/"><u>Direct Download: Techkey Bluetooth Driver for Win 10, 7 & 8 PCs</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/does-infinix-note-30i-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Infinix Note 30i Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-amd-ryzen-5-2400g-graphics-card-drivers-download-now/"><u>Easy Installation: AMD Ryzen 5 2400G Graphics Card Drivers - Download Now</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ack-to-pure-content-how-to-block-youtube-ads-on-all-devices/"><u>Get Back to Pure Content How to Block YouTube Ads on All Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hassle-free-download-of-wacom-intuos-pro-drivers-specifically-for-windows-11-users/"><u>Hassle-Free Download of Wacom Intuos Pro Drivers Specifically for Windows 11 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-or-update-your-epson-l3150-driver-on-windows-1187/"><u>How to Install or Update Your Epson L3150 Driver on Windows 11/8/7</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-neo-5-se-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Realme GT Neo 5 SE Phone without Google Account?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/next-level-computing-power-unleashed-the-newly-released-epyc-zen-5-chip-with-its-remarkable-128-cores-and-half-a-gigabyte-l3-cache/"><u>Next-Level Computing Power Unleashed: The Newly Released EPYC Zen 5 Chip with Its Remarkable 128 Cores and Half a Gigabyte L3 Cache</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/simple-steps-how-to-efficiently-clone-your-sd-card-on-a-windows-pc/"><u>Simple Steps: How to Efficiently Clone Your SD Card on a Windows PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-the-latest-drivers-for-scansnap-ix5e-on-windows-computers/"><u>Step-by-Step Guide: Installing the Latest Drivers for ScanSnap iX5e on Windows Computers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-comprehensive-computer-system-guide/"><u>Tom's Tech Insights: Comprehensive Computer System Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-overwatchs-launch-blues-strategies-to-defeat-the-black-screen-glitch/"><u>Troubleshooting Overwatch's Launch Blues - Strategies to Defeat the Black Screen Glitch</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-unmatched-power-ryzen-ai-9-hx-370-surpasses-intel-in-single-core-jumps-past-core-ultra-and-ryzen-models-with-zen-5-tech/"><u>Unleash Unmatched Power: Ryzen AI 9 HX 370 Surpasses Intel in Single-Core, Jumps Past Core Ultra & Ryzen Models with Zen 5 Tech</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-assemble-media-pieces-in-youtube-sorted-views/"><u>[Updated] Assemble Media Pieces in YouTube Sorted Views</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-captivating-content-crafting-impactful-insta-videos/"><u>[Updated] In 2024, Captivating Content Crafting Impactful Insta-Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-rise-to-the-top-the-essentials-of-starting-a-youtube-gaming-sensation-for-2024/"><u>[Updated] Rise to the Top The Essentials of Starting a YouTube Gaming Sensation for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-and-downloading-personalized-insta-ringtones/"><u>Crafting & Downloading Personalized Insta Ringtones</u></a></li>
+<li><a href="https://win11.techidaily.com/cut-down-complexity-set-terminal-as-the-default-cli/"><u>Cut-Down Complexity: Set Terminal as the Default CLI</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-make-every-meme-shine-on-9gag/"><u>In 2024, How to Make Every Meme Shine on 9GAG</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-variants-of-moviemaker-pro-on-windows/"><u>In 2024, Variants of MovieMaker Pro on WIndows</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-digital-disruptions-a-comprehensive-collection-of-online-sound-effects/"><u>New Digital Disruptions A Comprehensive Collection of Online Sound Effects</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionary-m3-macbook-air-unleashed-apple-introduces-an-affordable-ai-powered-laptop-for-everyone-exclusive-zdnet-review/"><u>Revolutionary M3 MacBook Air Unleashed: Apple Introduces an Affordable AI-Powered Laptop for Everyone - Exclusive ZDNet Review</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/tag-tricks-to-triumph-youtube-gamers-edition/"><u>Tag Tricks to Triumph YouTube Gamers Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-impact-of-winter-on-electronics-how-your-iphone-and-laptops-can-lose-power-during-the-chilly-months/"><u>The Impact of Winter on Electronics: How Your iPhone and Laptops Can Lose Power During the Chilly Months</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-showdown-how-googles-ai-enhanced-chromebook-poses-threat-to-microsofts-copilot/"><u>The Ultimate Showdown: How Google's AI-Enhanced Chromebook Poses Threat to Microsoft's Copilot</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-prime-day-game-discounts-of-2024-exclusive-list/"><u>Top Prime Day Game Discounts of 2024: Exclusive List</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exclusive: Discover the Ultimate List of Top Dell Deals for Black Friday and Cyber Monday Across Platforms Such as Best Buy & Amazon | Gizmodo"
-date: 2024-12-06T21:33:06.794Z
-updated: 2024-12-13T00:46:04.331Z
+date: 2024-12-14T16:15:23.160Z
+updated: 2024-12-22T10:00:40.156Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell holiday deals
@@ -37,7 +37,7 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Dell holiday deals
@@ -97,6 +97,10 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Dell laptop holiday deals
 
 * [Dell G15 gaming laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-G15-5535-Gaming-Laptop%2Fdp%2FB0CJGBMD42%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1): $1,000 (save $150)
@@ -106,7 +110,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell XPS 13 9310 13.4-inch touch laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-XPS-9310-Laptop-Touchscreen%2Fdp%2FB09PR52BHK%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1) for $1,071 (save $429)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell desktop holiday deals
@@ -119,7 +123,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell OptiPlex 3000 Desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-3000-student-home-office%252Fp%252F1VK-0001-6EUX9) for $1,200 (save $440)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell monitor holiday deals
@@ -133,10 +137,6 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best holiday deals?
 
@@ -210,21 +210,20 @@ Here are the top deals by category we've found so far:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-high-fidelity-transformation-choosing-the-best-video-converters/"><u>[Updated] 2024 Approved High Fidelity Transformation Choosing the Best Video Converters</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-capture-the-best-with-top-windows-11-hd-webcams-for-2024/"><u>[Updated] Capture the Best with Top Windows 11 HD Webcams for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-downloading-with-confidence-your-vrecorder-guide/"><u>[Updated] In 2024, Downloading with Confidence Your VRecorder Guide</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-how-to-craft-and-modify-iphone-motion-videos-reducing-pace-effectively/"><u>2024 Approved How to Craft & Modify iPhone Motion Videos Reducing Pace Effectively</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-downloading-logitech-c920-webcam-drivers-compatible-with-windows-1011/"><u>Complete Guide to Downloading Logitech C920 Webcam Drivers - Compatible with Windows 10/11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-gimp-free-image-editing-software-evaluation-across-various-platforms/"><u>Comprehensive GIMP Free Image Editing Software Evaluation Across Various Platforms</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-updated-hid-compatible-mouse-software-today/"><u>Download Updated HID-Compatible Mouse Software Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-fixes-to-resolve-lenovos-usb-drivers-troubles/"><u>Effortless Fixes to Resolve Lenovo's USB Drivers Troubles</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-install-newest-toshiba-satellite-drivers-in-windows-with-ease/"><u>Find and Install Newest Toshiba Satellite Drivers in Windows with Ease</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-updated-hp-wireless-lan-card-drivers-for-windows-10-compatible-systems-win7811/"><u>Get Updated HP Wireless LAN Card Drivers for Windows 10 Compatible Systems: Win7/8/11</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-gionee-f3-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Gionee F3 Pro Without Password | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-oppo-reno-11-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Oppo Reno 11 5G Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigate-the-tech-world-with-toms-hardware-advice/"><u>Navigate the Tech World with Tom's Hardware Advice</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-random-generator/"><u>Random Generator for Google Sheets</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simple-guide-how-to-deactivate-voice-navigation-on-a-samsung-tv-model/"><u>Simple Guide: How to Deactivate Voice Navigation on a Samsung TV Model</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-your-graphics-performance-with-the-new-nvidia-driver-downloads-for-multiple-windows-versions/"><u>Upgrade Your Graphics Performance with the New NVIDIA Driver Downloads for Multiple Windows Versions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-ultimate-tutorial-for-turning-twitter-videos-into-gifs/"><u>[New] 2024 Approved The Ultimate Tutorial for Turning Twitter Videos Into GIFs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-from-choreographies-to-filters-a-comparison-of-content-creation-on-tiktok-and-snap/"><u>[New] In 2024, From Choreographies to Filters A Comparison of Content Creation on TikTok & Snap</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-icecream-screen-recorder-how-to-guide-and-indepth-review/"><u>[New] In 2024, Icecream Screen Recorder - How-To Guide and Indepth Review</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-astronomys-best-showcase-10-prime-hd-sky-archives-for-2024/"><u>[Updated] Astronomy's Best Showcase - 10 Prime HD Sky Archives for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/dissecting-the-mistakes-5-incidents-that-mark-facebooks-record/"><u>Dissecting the Mistakes: 5 Incidents That Mark Facebook’s Record</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/economical-laptop-bargain-secure-the-powerful-dell-latitude-5491-at-just-219-exclusive-offer/"><u>Economical Laptop Bargain: Secure the Powerful Dell Latitude 5491 at Just $219 - Exclusive Offer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-sneak-peek-at-prime-day-and-cyber-monday-laptop-deals-coming-in-october-2024/"><u>Exclusive Sneak Peek at Prime Day & Cyber Monday Laptop Deals Coming in October 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/gaming-enthusiasts-await-with-bated-breath-as-msi-releases-new-product-lineup-insights/"><u>Gaming Enthusiasts Await with Bated Breath as MSI Releases New Product Lineup – Insights</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/macbook-showdown-pro-vs-air-what-makes-one-right-for-you-detailed-insights-and-reviews-cnet/"><u>MacBook Showdown: Pro Vs. Air - What Makes One Right for You? Detailed Insights & Reviews | CNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/savings-alert-secure-a-stellar-deal-on-the-8tb-samsung-t5-ssd-post-prime-day-up-to-36-off-see-it-now-on-amazon-tech-insights-from-zdnet/"><u>Savings Alert: Secure a Stellar Deal on the 8TB Samsung T5 SSD Post-Prime Day - Up to 36% Off! See It Now on Amazon | Tech Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/slash-your-budget-without-compromising-quality-exclusive-150-off-deal-for-ultimate-gaming-speakers-on-amazon-reviews/"><u>Slash Your Budget Without Compromising Quality: Exclusive $150 Off Deal for Ultimate Gaming Speakers on Amazon Reviews</u></a></li>
+<li><a href="https://win-dash.techidaily.com/speedy-setup-for-razer-mamba-free-driver-software-here/"><u>Speedy Setup for Razer Mamba - Free Driver Software Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-the-best-m2-nvme-ssds-of-2024-in-depth-analysis-and-ratings-techadvocate/"><u>Ultimate Guide to the Best M.2 NVMe SSDs of 2024: In-Depth Analysis and Ratings | TechAdvocate</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Vivo Y78 5G | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Taking Screenshots: A Comprehensive Guide for Samsung Galaxy Users"
-date: 2024-09-05T19:53:46.284Z
-updated: 2024-09-06T19:53:46.284Z
+date: 2024-12-18T22:51:50.694Z
+updated: 2024-12-22T06:11:01.993Z
 tags:
   - android
 categories:
@@ -11,18 +11,6 @@ thumbnail: https://thmb.techidaily.com/1d52a784f1445afeffa363db79a58daa37aba7018
 
 ## Mastering the Art of Taking Screenshots: A Comprehensive Guide for Samsung Galaxy Users
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Power + Volume Down](https://some-tips.techidaily.com/in-2024-ultimate-guide-for-crafting-top-charting-youtube-titles/)
@@ -32,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/1d52a784f1445afeffa363db79a58daa37aba7018
 * [Hey Bixby](https://some-guidance.techidaily.com/2024-approved-the-missing-links-to-proper-window-11-mastery-revealed-here/)
 
  Android phones all generally work the same, but there are plenty of small differences. Samsung Galaxy phones, in particular, have some unique quirks. If you have a Samsung device, there are multiple ways to take a screenshot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Power + Volume Down
 
@@ -53,22 +45,18 @@ Justin Duino / How-To Geek
 
 ![open the shade and tap the gear icon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230912_164339_nova-launcher.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Scroll down to the "Advanced Features" section and select it.
 
 ![Select "Panels."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230912_164520_edge-panels.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then, go to "Motions and Gestures."
 
 ![Go to "Motions and Gestures."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230912_164349_settings.jpg) 
@@ -77,20 +65,12 @@ Justin Duino / How-To Geek
 
 ![Toggle on "Palm Swipe to Capture."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230912_164355_settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now, to perform the gesture, place the side of your open hand (the pinky side) on the display and slide it from right to left. The screen will flash when the screenshot has been taken.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Capture a Long or Scrolling Screenshot
 
  What if you want to capture more than what you can see on the screen? "Scroll Capture" allows you to take a long screenshot, such as a web page.
@@ -104,21 +84,13 @@ Justin Duino / How-To Geek
 ![Tap the long screenshot icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230912_164407_settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you've captured everything that you want to save, tap the crop icon to finish.
 
 ![Tap the crop icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230912_164407a_settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now, you can crop to your exact desired size and tap the save icon presented as a downward-facing arrow.
 
 ![Finish up by tapping the save icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230912_164451_samsung-capture.jpg) 
@@ -135,34 +107,10 @@ Justin Duino / How-To Geek
 
 ![open display settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230912_164501_settings.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Toggle the switch on for "Edge Panels," and then select the option.
 
 ![Enable "Edge Panels" and select it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230912_164515_settings.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  An animation will show how the Edge Panels can be accessed. Go to "Panels."
 
 ![Select "Panels."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230912_164520_edge-panels.jpg) 
@@ -175,24 +123,20 @@ Justin Duino / How-To Geek
 
 ![Select one of the capture shapes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230912_164540_edge-panels.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A rectangle or oval shape will appear on the screen with handles that you can use to adjust the selection. Tap "Done" when you have the area that you want to capture highlighted.
 
 ![Adjust the crop and tap "Done."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230912_164552_edge-panels.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  An edit screen will appear with options to "Extract Text" from the image, draw on it, and share it. Tap the save icon when you're finished.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Hey Bixby
 
  Can't reach your phone but still want to take a screenshot? Samsung's "Bixby" virtual assistant that comes pre-installed on many Galaxy devices can take a screenshot with a voice command.
@@ -208,37 +152,21 @@ Justin Duino / How-To Geek
 ![Select "Voice Wake-Up."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230912_164647_bixby-voice.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Toggle the switch on for "Voice Wake-Up" and choose a wake-up phrase.
 
 ![Toggle it on and choose a phrase.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230912_164652_bixby-voice.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  With that out of the way, you simply need to wake Bixby and say "take a screenshot" or "screenshot" whenever you want to take one.
 
 ![Wake Bixby and say "screenshot."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230912_164707_nova-launcher.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The screen will flash, and you'll get the usual screenshot editing tools. Samsung Galaxy devices offer a lot of options for taking a screenshot. Hopefully, one of these methods will make it into your workflow.
 
 <ins class="adsbygoogle"
@@ -247,8 +175,6 @@ Justin Duino / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -256,4 +182,26 @@ Justin Duino / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-fix-low-quality-footage-on-different-devices/"><u>[New] 2024 Approved Fix Low-Quality Footage on Different Devices</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-advanced-mobiles-for-crafting-perfect-dji-videos/"><u>[New] Advanced Mobiles for Crafting Perfect DJi Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-download-premium-facebook-hd-content-anywhere-for-2024/"><u>[Updated] Download Premium Facebook HD Content Anywhere for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-the-seven-best-youtube-live-streaming-tools-for-iphoneandroid/"><u>[Updated] Unveiling The Seven Best YouTube Live Streaming Tools for iPhone/Android</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-what-is-mixed-reality/"><u>[Updated] What Is Mixed Reality?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/beyond-dell-and-lenovo-the-best-alternative-office-2-in-1-laptops-reviewed-by-zdnet/"><u>Beyond Dell and Lenovo: The Best Alternative Office 2-in-1 Laptops Reviewed by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elite-laptop-selection-of-eplus2024-comprehensive-analysis-and-expert-reviews/"><u>Elite Laptop Selection of E+2024: Comprehensive Analysis and Expert Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-the-innovative-ar-laptop-without-a-display-became-even-superior-and-budget-friendly-exclusive-coverage-by-zdnet/"><u>How the Innovative AR Laptop Without a Display Became Even Superior and Budget-Friendly – Exclusive Coverage by ZDNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-vivo-s17e-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Vivo S17e.</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-first-timers-map-to-earning-wealth-with-periscope/"><u>In 2024, First-Timer's Map to Earning Wealth with Periscope</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/is-mcafees-new-ai-based-solution-to-detect-deepfake-voices-a-game-changer-zdnet-explores-reliability/"><u>Is McAfee's New AI-Based Solution to Detect Deepfake Voices a Game Changer? ZDNet Explores Reliability</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95698566-9781101993590-living-presence-revised/"><u>Living Presence (Revised) | Free Book</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-freely-accessing-your-adobe-protected-pdf-and-ebook-content-without-drm-restrictions/"><u>Step-by-Step Guide: Freely Accessing Your Adobe Protected PDF and eBook Content Without DRM Restrictions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-40-unbeatable-christmas-tech-specials-on-macbooks-dell-hp-and-others-features/"><u>Top 40 Unbeatable Christmas Tech Specials on MacBooks, Dell, HP & Others - Features</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-98-unmissable-cyber-monday-savings-of-2022-zdnets-comprehensive-list/"><u>Top 98 Unmissable Cyber Monday Savings of 2022 - ZDNet's Comprehensive List</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-picks-must-have-tech-accessories-for-savvy-travelers-insights-from-zdnet/"><u>Top Picks: Must-Have Tech Accessories for Savvy Travelers - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleashing-efficiency-with-lenovos-game-changing-dual-display-laptop-exclusive-review-by-zdnet/"><u>Unleashing Efficiency with Lenovo's Game-Changing Dual-Display Laptop | Exclusive Review by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/walmarts-hottest-offers-for-july-24-unveiled-by-zdnet-shop-smart/"><u>Walmart's Hottest Offers for July '24 Unveiled by ZDNet - Shop Smart!</u></a></li>
+<li><a href="https://win-guides.techidaily.com/wiederherstellung-verlorener-daten-nach-versehentiger-loschung-mit-diskpart/"><u>Wiederherstellung Verlorener Daten Nach Versehentiger Löschung Mit Diskpart</u></a></li>
+</ul></div>
 

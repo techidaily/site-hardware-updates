@@ -1,7 +1,7 @@
 ---
 title: "Exploring The Extreme: My Experience with the World’s Tiniest Webcam and Its Remarkable Adaptability | ZDNet"
-date: 2024-12-09T04:13:41.262Z
-updated: 2024-12-12T21:57:13.650Z
+date: 2024-12-15T22:04:20.583Z
+updated: 2024-12-21T20:38:33.527Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ I also need to mention a couple of things that may be dealbreakers for you. Firs
 Also, be aware the IdeaPad Pro 5i comes with a bunch of bloatware. The laptop's 1TB of storage is more like 880GB, if you take into account all the apps Lenovo preinstalled.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -93,7 +93,7 @@ Also, be aware the IdeaPad Pro 5i comes with a bunch of bloatware. The laptop's 
 If you're looking for a less expensive 16-inch laptop, [Lenovo's Yoga 7i](https://www.zdnet.com/article/this-699-lenovo-laptop-made-me-a-believer-in-the-2-in-1-form-factor-and-its-on-sale-for-memorial-day/) is several hundred dollars cheaper, although you're trading in the impressive OLED screen for one that's much more low-key. If you want an OLED laptop in a slightly less expensive package, check out the [Acer Swift X 14](https://www.zdnet.com/article/i-tested-acers-swift-x-laptop-and-its-performance-surprised-me-in-3-ways/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -140,20 +140,22 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-swiftly-expand-your-youtube-following-for-minimal-cost/"><u>[New] 2024 Approved Swiftly Expand Your YouTube Following for Minimal Cost</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-comprequad-video-captioning-techniques-for-youtube/"><u>[New] The Comprequad Video Captioning Techniques for YouTube</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-minimca-haven-unveiling-simple-homes-in-minecraft/"><u>[Updated] 2024 Approved MiniMCA Haven Unveiling Simple Homes in Minecraft</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-flawlessimage-advanced-bg-eraser-app/"><u>[Updated] FlawlessImage Advanced BG Eraser App</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-shoot-and-score-top-techniques-for-great-youtube-cinematography/"><u>[Updated] Shoot and Score Top Techniques for Great YouTube Cinematography</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-techniques-for-unlinking-youtube-videos-from-devices-for-2024/"><u>[Updated] Techniques for Unlinking YouTube Videos From Devices for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-oppo-k11xmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Oppo K11xMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Honor 100 Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-setting-up-airplay-technology-for-hdtv-viewing-experience/"><u>Step-by-Step Tutorial: Setting Up AirPlay Technology for HDTV Viewing Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-non-branded-soundbar-beats-bose-and-sony-in-our-review-insights-from-zdnet/"><u>Top Non-Branded Soundbar Beats Bose and Sony in Our Review - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranked-roku-devices-comprehensive-reviews-and-testing-by-tech-experts-digital-trends/"><u>Top-Ranked Roku Devices : Comprehensive Reviews & Testing by Tech Experts | Digital Trends</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranking-roku-devices-expert-picks-for-the-ultimate-streaming-experience-zdnet/"><u>Top-Ranking Roku Devices: Expert Picks for the Ultimate Streaming Experience - ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-4k-television-models-comprehensive-reviews-by-tech-specialists-pcmag/"><u>Top-Rated 4K Television Models - Comprehensive Reviews by Tech Specialists | PCMag</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/transform-your-iphone-into-an-intuitive-tv-control-device-with-these-expert-tips-by-zdnet/"><u>Transform Your iPhone Into an Intuitive TV Control Device with These Expert Tips by ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-discover-why-this-samsung-television-stands-out-as-a-timeless-classic-with-prices-lower-than-ever/"><u>Unbeatable Deal: Discover Why This Samsung Television Stands Out as a Timeless Classic with Prices Lower Than Ever!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-understanding-and-controlling-safaris-pip-feature-for-2024/"><u>[New] Understanding and Controlling Safari's PIP Feature for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mastering-animations-and-crafting-custom-visual-impact/"><u>[Updated] Mastering Animations & Crafting Custom Visual Impact</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-intel-rst-drivers-supported-windows-os-guide-8-to-11-updates-included/"><u>Download and Install Intel RST Drivers: Supported Windows OS Guide - 8 to 11 Updates Included</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-gaming-performance-with-nvidias-latest-geforce-gtx-1650-super-driver-for-windows-users/"><u>Enhance Gaming Performance with NVIDIA's Latest GeForce GTX 1650 Super Driver for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hp-photosmart-absolutely-free-driver-software-now/"><u>Get Your HP Photosmart Absolutely Free Driver Software Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-epson-xp-245-driver-on-windows-7810-step-by-step-download-tutorials/"><u>How to Install Epson Xp-245 Driver on Windows 7/8/10: Step by Step Download Tutorials</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-securely-download-and-install-updated-razer-control-software-for-older-windows-operating-systems-7-xp-vista/"><u>How to Securely Download and Install Updated Razer Control Software for Older Windows Operating Systems (7, XP, Vista)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-12-pro-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme 12 Pro 5G Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-the-latest-asus-pce-ac6n-ac68-network-interface-card-drivers-without-hesitation/"><u>Install the Latest ASUS PCE-AC6n (AC68) Network Interface Card Drivers without Hesitation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-updates-and-downloads-for-hp-deskjet-3700-drivers-improve-your-printing-experience/"><u>Latest Updates and Downloads for HP DeskJet 3700 Drivers - Improve Your Printing Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/lost-ark-optimization-fixing-the-sudden-dip-in-frames-per-second-fps/"><u>Lost Ark Optimization: Fixing the Sudden Dip in Frames Per Second (FPS)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-launch-failures-with-your-pacfific-drive-expert-advice-and-fixes/"><u>Resolving Launch Failures with Your Pacfific Drive: Expert Advice & Fixes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-hp-officejet-4655-get-new-drivers-here/"><u>Update Your HP Officejet 4655 - Get New Drivers Here!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/vollstandige-produktspezifikationen-von-winxvideo-ai-detaillierte-ubersicht-und-funktionen/"><u>Vollständige Produktspezifikationen Von WinXVideo AI - Detaillierte Übersicht Und Funktionen</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/windows-serverhyper-v/"><u>Windows Serverの安全なバックアップ対策:Hyper-Vとの互換性あり</u></a></li>
 </ul></div>
 

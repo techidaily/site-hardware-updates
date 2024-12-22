@@ -1,7 +1,7 @@
 ---
 title: "Secure a Steal with B&H: Exclusive Deal on Apple MacBook Pro 16-Inch M1 Max - Detailed Breakdown & Comparison From ZDNet"
-date: 2024-12-06T00:58:32.086Z
-updated: 2024-12-13T04:34:46.513Z
+date: 2024-12-21T00:42:48.965Z
+updated: 2024-12-21T18:29:03.976Z
 tags:
   - laptops
 categories:
@@ -40,14 +40,10 @@ For a recap of all the products unveiled during Apple's "Scary Fast" event -- an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What products did get announced
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## M3 chips in all sizes
@@ -71,7 +67,7 @@ Much like the M2 processors that classify Apple's latest Mac computers by perfor
 * M3 Max: Starting at 16 main processing cores (12 performance and four efficiency) and 40 graphics cores, and now supports up to 128GB of unified memory
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. 14-inch and 16-inch MacBook Pro
@@ -90,6 +86,10 @@ What hasn't changed is the form factors of the new MacBook Pros, with Liquid Ret
 
 The 14- and 16-inch MacBook Pros are available for preorder right now, starting at $1,599 and $2,499, respectively, with the M3 and M3 Pro models seeing earlier ship times (as soon as next week), and the M3 Max models being slated for late November.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. iMac with M3
 
 Jason Hiner/ZDNET
@@ -103,7 +103,7 @@ Apple says the M3 chip allows the new 24-inch iMac to perform at twice the speed
 The 24-inch iMac is now available for preorder starting at $1,299 and will begin shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What products didn't get announced
@@ -129,7 +129,7 @@ With the iPhone being the last major product to transition over from Lightning t
 With the new 24-inch iMac, Apple will continue to bundle Lightning-equipped Magic Keyboard and Mouse peripherals, giving some users reasons to retain their cables.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to rewatch Apple's 'Scary Fast' event
@@ -166,18 +166,24 @@ The keynote presentation began on Monday, Oct. 30, 2023, at 5 p.m. PT (8 p.m. ET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flash-forward-quick-youtube-playlists-distribution/"><u>[New] In 2024, Flash Forward Quick Youtube Playlists Distribution</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/prehensive-look-at-lighting-your-youtube-videos-right/"><u>A Comprehensive Look at Lighting Your YouTube Videos Right</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-lenovo-x1-carbon-graphics-and-system-drivers-on-windows-operating-systems/"><u>Effortless Installation of Lenovo X1 Carbon Graphics and System Drivers on Windows Operating Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-seamless-printing-with-the-newest-epson-wf-n3620-drivers-compatible-with-all-windows-versions-windows-1187/"><u>Ensure Seamless Printing with the Newest Epson WF-N3620 Drivers - Compatible With All Windows Versions (Windows 11/8/7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-advice-from-toms-gadget-hub-unveiling-the-best-in-tech/"><u>Expert Advice From Tom's Gadget Hub: Unveiling the Best in Tech</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-meets-vhs-easy-tutorials-for-a-retro-look-for-2024/"><u>Final Cut Pro Meets VHS Easy Tutorials for a Retro Look for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-logitech-g920-gamepad-setup-and-installation-guide-windows-11-10-8-and-7-compatibility/"><u>Free Logitech G920 Gamepad Setup & Installation Guide: Windows 11, 10, 8, and 7 Compatibility</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-better-controls-discover-the-latest-update-for-your-logitech-extreme-3d-pro-drivers/"><u>Get Better Controls – Discover the Latest Update for Your Logitech Extreme 3D Pro Drivers</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-note-12-4g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi Note 12 4G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-ace-2-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus Ace 2 Pro to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/scansnap-driver-download-and-update-for-windows-easily/"><u>ScanSnap Driver Download & Update for Windows EASILY</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-unsupported-commands-on-computer-screens/"><u>Troubleshooting Unsupported Commands on Computer Screens</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-ultimate-memelife-top-meme-creator-tool-download/"><u>[New] In 2024, Ultimate Memelife Top Meme Creator Tool Download</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-speech-synthesis-simplified-from-ssa-to-compelling-srt-files-for-2024/"><u>[Updated] Speech Synthesis Simplified From SSA to Compelling SRT Files for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-androids-premier-choice-top-10-free-fb-video-extractor/"><u>2024 Approved Android's Premier Choice Top 10 Free FB Video Extractor</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-source-to-get-dell-network-adapter-driver-for-win7-operating-system/"><u>Best Source to Get Dell Network Adapter Driver for Win7 Operating System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/busting-the-silence-restoring-mic-functionality-on-windows-10-computers/"><u>Busting the Silence: Restoring Mic Functionality on Windows 10 Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/corsair-liquid-cpu-cooler-driver-guide-for-windows-users-windows-8-10-and-11/"><u>Corsair Liquid CPU Cooler Driver Guide for Windows Users (Windows 8, 10 & 11)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/diagnosing-and-repairing-your-usb-device-connection-in-windows-10/"><u>Diagnosing and Repairing Your USB Device Connection in Windows 10</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/easy-breezy-football-broadcasting-on-a-budget/"><u>Easy-Breezy Football Broadcasting on a Budget</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-performance-update-windows-11-version-2004-with-essential-connexent-drivers/"><u>Enhance Performance - Update Windows 11 Version 2004 With Essential Connexent Drivers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-opinion-on-the-gaomon-pd1560-writing-board-worth-your-investment/"><u>Expert Opinion on the Gaomon PD1560 Writing Board - Worth Your Investment?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-intel-ac-9560-wifi-drivers-here/"><u>Get the Most Recent Intel AC 9560 WiFi Drivers Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969846266-grab-your-free-qualcomm-atheros-ar938x-drivers-with-ease-step-by-step-guide-included/"><u>Grab Your Free Qualcomm Atheros AR938X Drivers with Ease – Step by Step Guide Included!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-get-the-latest-linksys-wrt54g-drivers-downloaded-speed-up-your-network/"><u>How to Easily Get the Latest Linksys WRT54G Drivers Downloaded - Speed up Your Network!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-infinix-note-30-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Infinix Note 30 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-corsair-icue-interface-for-enhanced-pc-setup-windows-10-and-11-supported/"><u>Install Corsair iCUE Interface for Enhanced PC Setup - Windows 10 and 11 Supported</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-free-ae-design-blueprints-for-2024/"><u>Premium Free AE Design Blueprints for 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/resolving-windows-driver-problems-a-comprehensive-guide-by-yl-computing/"><u>Resolving Windows Driver Problems: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-final-art-piece-must-have-an-interactive-element-that-allows-viewers-to-change-lighting-conditions-representing-fluctuating-energy-input/"><u>The Final Art Piece Must Have an Interactive Element that Allows Viewers to Change Lighting Conditions, Representing Fluctuating Energy Input</u></a></li>
 </ul></div>
 

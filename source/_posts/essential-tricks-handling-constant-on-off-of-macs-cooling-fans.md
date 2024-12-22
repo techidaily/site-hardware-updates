@@ -1,7 +1,7 @@
 ---
 title: "Essential Tricks: Handling Constant On-Off of Mac's Cooling Fans"
-date: 2024-12-05T20:27:22.737Z
-updated: 2024-12-12T22:24:43.745Z
+date: 2024-12-16T04:05:10.963Z
+updated: 2024-12-21T20:12:51.686Z
 tags:
   - laptops
 categories:
@@ -27,7 +27,7 @@ While the chips promise a notable leap in power and efficiency, the spotlight no
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fast, but an iterative advancement
@@ -43,7 +43,7 @@ Jason Hiner/ZDNET
 There's no actual new functionality in these chips; it's like comparing a Lamborghini (or a Tesla Model S "Plaid") from a few years ago with 600HP to one with 1000HP. Impressive performance boost, yes, but what's the actual impact for the average end-user? We can still only legally drive 65 mph/105 kph on most crowded highways in North America -- we need the application autobahn to fully take advantage of them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPU optimization and AI improvements, but where are the apps?
@@ -55,7 +55,7 @@ The enhancements in GPU optimization and improved and increased AI cores in the 
 In the long term, these improvements will also likely trickle down into the [Vision Pro headset](https://www.zdnet.com/article/i-tried-apple-vision-pro-and-its-far-ahead-of-where-i-expected/) and, potentially, [iPad Pro](https://www.zdnet.com/article/ipad-pro-2022-review/). However, where do the apps take advantage of these on the consumer side? Yes, some Pro apps and some 3D games can today, but that's a relatively small part of Apple's target market today. And let's face it, the PC is still the gaming king, for now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Generative AI question
@@ -73,7 +73,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Don't discount the low-end Macbook as an industry disruptor
@@ -87,7 +87,7 @@ I know of many professionals who aren't content creation types who spend a lot o
 We should also consider what impact the lower-end M3 systems are going to have on an already weakened Wintel market. Firstly, any M1 and M2 Mac machines already in the retail channel that were already very competitive with the Intel machines being offered by other manufacturers will drop in price significantly and will apply even more pressure, additionally decimating Intel's relevancy in many market segments.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## This is ultimately an Intel-killing play
@@ -132,20 +132,20 @@ The M3 chips aren't merely a product release; they are Apple's bold statement of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-essential-8-free-tools-enhancing-business-video-conferencing-efficiency/"><u>[New] 2024 Approved Essential 8 Free Tools Enhancing Business Video Conferencing Efficiency</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-discover-8-youtube-thumbnail-generators-online/"><u>[Updated] In 2024, Discover 8 YouTube Thumbnail Generators Online</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-most-popular-6-free-and-quick-youtube-video-repositories/"><u>[Updated] The Most Popular 6 Free & Quick YouTube Video Repositories</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-honor-90-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Honor 90 Pro Activity | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-download-and-installation-made-easy-for-ez-grabber-users/"><u>2024 Approved Download and Installation Made Easy for EZ Grabber Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-blockchain-drivers-download-and-install-for-windows/"><u>AMD Blockchain Drivers Download and Install for Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722973402805-boost-your-pcs-speed-easy-intel-cpu-driver-downloads-inside/"><u>Boost Your PC's Speed: Easy Intel CPU Driver Downloads Inside!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-advanced-hardware-solutions-through-toms-expertise/"><u>Discover Advanced Hardware Solutions Through Tom's Expertise</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dive-deep-into-pc-gear-with-toms-hardware-hub/"><u>Dive Deep Into PC Gear with Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-the-new-intel-iris-plus-gf-640-drivers-your-guide-to-a-speedy-update/"><u>Easy Installation of the New Intel Iris Plus GF 640 Drivers: Your Guide to a Speedy Update</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-get-your-webcam-up-and-running-on-windows-7/"><u>Easy Steps: Get Your WebCam Up and Running on Windows 7</u></a></li>
-<li><a href="https://blog-min.techidaily.com/enhanced-ai-and-improved-image-creation-the-new-upgrades-of-googles-bard/"><u>Enhanced AI & Improved Image Creation: The New Upgrades of Google's Bard</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-samsung-galaxy-note20-ultra-5g-smartphone-evaluation/"><u>In-Depth Samsung Galaxy Note20 Ultra 5G Smartphone Evaluation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovo-thinkpad-t450-driver-update-fast-and-simple-installation-guide/"><u>Lenovo ThinkPad T450 Driver Update: Fast and Simple Installation Guide</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/iuodleocoeocpoodqplusodroocsplusodvoodieobrusruwplusqtroqq3jgblj5bjgorkui3og73jgarjgrvjgrdjg6hjg7pjg4jjgpljganjgybop6pmsbrjgzfjgb7jgznjgyvvvj8i/"><u>ファイルレコードの修復:読み取り不能なセグメントをどう解決しますか？</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevate-videos-innovative-youtube-editing-techniques-revealed-for-2024/"><u>[New] Elevate Videos Innovative YouTube Editing Techniques Revealed for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-essential-tutorial-for-stunning-hdr-portraits-for-2024/"><u>[New] The Essential Tutorial for Stunning HDR Portraits for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-dynamics-an-in-depth-look-at-luminances-hdr/"><u>2024 Approved Unveiling the Dynamics An In-Depth Look at Luminance's HDR</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-vidmessenger-extractor-plus/"><u>2024 Approved VidMessenger Extractor Plus</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-itel-a70-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-tutorial-updating-and-downloading-zebra-zp450-printer-drivers-easy-step-by-step/"><u>Comprehensive Tutorial: Updating and Downloading Zebra ZP450 Printer Drivers - Easy Step by Step</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-hp-officejet-pro-8610-drivers-compatible-with-windows-1087xpvista/"><u>Download & Update: HP Officejet Pro 8610 Drivers Compatible with Windows 10/8/7/XP/Vista</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instant-interaction-the-art-of-crafting-instagram-stories-questions/"><u>Instant Interaction The Art of Crafting Instagram Stories Questions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-update-for-tp-links-80211ac-adapter-software-on-windows-pcs/"><u>Latest Update for TP-Link's 802.11Ac Adapter Software on Windows PCs!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simplify-installation-complimentary-intel-82579v-chipset-drivers-available-now/"><u>Simplify Installation: Complimentary Intel 82579V Chipset Drivers Available Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/successful-installation-of-hp-elitebook-8460p-drivers-on-windows-complete-guide/"><u>Successful Installation of HP EliteBook 8460P Drivers on Windows: Complete Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-vivo-g2-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Vivo G2 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-the-features-of-mavix-m9-gaming-chair-the-epitome-of-ergonomic-design-and-personalization-zdnet-review/"><u>Unraveling the Features of Mavix M9 Gaming Chair: The Epitome of Ergonomic Design & Personalization | ZDNET Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-and-enhance-connectivity-with-newly-released-zexmote-bluetooth-driver-for-windows-1178/"><u>Upgrade and Enhance Connectivity with Newly Released Zexmote Bluetooth Driver for Windows 11/7/8</u></a></li>
+<li><a href="https://fox-access.techidaily.com/zooming-into-aesthetics-a-visual-effects-handbook-for-meetings/"><u>Zooming Into Aesthetics A Visual Effects Handbook for Meetings</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unleashing Potential in Subtlety - How Asus Delivers a Laptop with Impressive Features for Creatives, Spotted
-date: 2024-12-09T04:49:08.086Z
-updated: 2024-12-12T18:34:32.845Z
+date: 2024-12-19T19:53:56.510Z
+updated: 2024-12-22T02:00:27.539Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,16 +112,15 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-initiating-an-entrepreneurial-journey-with-just-a-click-on-mobile-devices/"><u>[New] In 2024, Initiating an Entrepreneurial Journey with Just a Click on Mobile Devices</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-instagram-utilizing-search-to-expand-your-filters/"><u>[Updated] 2024 Approved Mastering Instagram Utilizing Search to Expand Your Filters</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-srgb-vs-rgb-decoding-color-standards-for-devices/"><u>[Updated] In 2024, Srgb vs Rgb Decoding Color Standards for Devices</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-zeroing-in-precision-backdrop-deduplication-with-photopea-for-2024/"><u>[Updated] Zeroing In Precision Backdrop Deduplication with Photopea for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-tech-insights-the-best-browser-screen-capture-tools-of-the-year/"><u>2024 Approved Tech Insights The Best Browser Screen Capture Tools of the Year</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-updates-hp-laserjet-1320-drivers-for-windows/"><u>Download & Install Updates: HP LaserJet 1320 Drivers for Windows</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/enhance-your-coding-experience-with-emeditors-minimalzen-color-theme-for-text-editors/"><u>Enhance Your Coding Experience with EmEditor's MinimalZen Color Theme for Text Editors</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-updated-nvidia-display-drivers-for-your-windows-pc-now/"><u>Get Updated Nvidia Display Drivers for Your Windows PC Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-update-nvidia-geforce-980-ti-video-card-drivers/"><u>How to Download & Update NVIDIA GeForce 980 Ti Video Card Drivers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/master-image-enhancement-10-pro-tips-for-using-pixlr-effectively/"><u>Master Image Enhancement 10 Pro Tips for Using Pixlr Effectively</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-complete-solution-for-downloading-and-setting-up-a-dell-mouse-driver/"><u>The Complete Solution for Downloading and Setting Up a Dell Mouse Driver</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-transform-your-video-footage-with-advanced-screen-recording-tech/"><u>[Updated] 2024 Approved Transform Your Video Footage with Advanced Screen Recording Tech</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/direct-links-for-newest-nvidia-driver-updates-save-time-improve-performance/"><u>Direct Links for Newest NVIDIA Driver Updates - Save Time, Improve Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-creative-x-fi-gamer-audio-driver-pack-for-windows-10/"><u>Download and Update Creative X-Fi Gamer Audio Driver Pack for Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-update-guide-for-zebra-zp450-driver-software-download-and-installation-steps/"><u>Easy Update Guide for Zebra ZP450 Driver Software - Download & Installation Steps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-hds-finest-picks-reviewing-top-screen-recorders/"><u>In 2024, HD's Finest Picks Reviewing Top Screen Recorders</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-v29-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Vivo V29 Pro Lock Screen Password?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/premium-fb-videograbber-tools-secure-fast-file-grab/"><u>Premium FB Videograbber Tools Secure, Fast File Grab</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-samsung-galaxy-s25-ultra-anticipated-launch-details-pricing-info-and-rumored-specifications/"><u>Unveiling the Samsung Galaxy S25 Ultra: Anticipated Launch Details, Pricing Info & Rumored Specifications</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updating-your-amd-drivers-on-windows-10-11-and-7-a-comprehensive-guide/"><u>Updating Your AMD Drivers on Windows 10, 11 & 7: A Comprehensive Guide</u></a></li>
 </ul></div>
 

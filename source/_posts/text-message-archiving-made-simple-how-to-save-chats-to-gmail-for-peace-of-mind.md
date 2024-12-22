@@ -1,7 +1,7 @@
 ---
 title: "Text Message Archiving Made Simple: How to Save Chats to Gmail for Peace of Mind"
-date: 2024-09-01T05:45:48.201Z
-updated: 2024-09-02T05:45:48.201Z
+date: 2024-12-17T08:18:22.347Z
+updated: 2024-12-22T08:33:07.624Z
 tags:
   - android
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/730a9c7a00f1a79a6d3634630cd288f1352fb7a32
 
  Backing up your text messages from your Android phone to your Gmail account is so simple, there's no reason to not back them up and make them search-friendly in the process. Read on to see how you can turn your Gmail account into an SMS vault.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What You'll Need
 
  It's easy to lose your text messages. Everything from switching phones to fumble fingers can drop your messages in front of the digital reaper---just last night I managed to accidentally delete a massive SMS thread when I really only intended to delete a single message that refused to send.
@@ -34,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/730a9c7a00f1a79a6d3634630cd288f1352fb7a32
 * A [Gmail account](https://gmail.com/)
 * A free copy of [SMS Backup+](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU222669/https://play.google.com/store/apps/details?id=com.zegoggles.smssync&hl=en) from the Google Play Store
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  UPDATE: 3/15/22
 
  As of September 14, 2020, Google no longer allows this app to access your Gmail account. Fortunately, there is a workaround available in March 2022.)
@@ -45,13 +46,18 @@ thumbnail: https://thmb.techidaily.com/730a9c7a00f1a79a6d3634630cd288f1352fb7a32
 
  Technically, you can dig around the advanced settings of SMS Backup+ to reconfigure it to work with any IMAP-enabled email server. However, since it was designed to work with Gmail and works so well with Gmail's search, threading, and starring functionality, we're not going to mess with a good thing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Step One: Configure Your Gmail Account for IMAP Access
 
 ## ![Click "Enable IMAP."](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2012/05/649x158x2012-05-01_145126.jpg.pagespeed.gp+jp+jw+pj+js+rj+rp+rw+ri+cp+md.ic.5R2u2ddr9D.jpg "2012-05-01_145126") 
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  SMS Backup+ requires IMAP access to your Gmail account to function. Let's take a moment and hop over to the Gmail account we're planning on using with the application and check the status.
 
  Log in to your Gmail account and navigate to Settings > [Forwarding and POP/IMAP](https://mail.google.com/mail/u/0/#settings/fwdandpop). Check "Enable IMAP." Scroll down and click "Save Changes."
@@ -64,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/730a9c7a00f1a79a6d3634630cd288f1352fb7a32
 
 ![Click "App Passwords."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/09/click-app-passwords.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click the drop-down box named"Select Apps" and set it to "Other (Custom Name)."
 
 ![Click Select App, then select "Other" from the drop down menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/09/click-select-app-then-click-other-in-drop-down-menu.png) 
@@ -74,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/730a9c7a00f1a79a6d3634630cd288f1352fb7a32
  Set the name to something descriptive --- like SMS Backup+ --- and click "Generate."
 
  You'll be provided with a password. Keep the window open, or temporarily save this password somewhere safe. You'll need it in just a minute.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Step Two: Install and Configure SMS Backup+
 
@@ -87,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/730a9c7a00f1a79a6d3634630cd288f1352fb7a32
 
 ![Tap "Custom IMAP Server."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/09/click-Custom-IMAP-Server.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There is a lot to enter here. Tap "Authentication" and change it from "XOAuth2 (Gmail)" to "Plain Text."
 
 ![Select "Plain Text."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/09/select-Plain-text.png) 
@@ -95,19 +106,12 @@ thumbnail: https://thmb.techidaily.com/730a9c7a00f1a79a6d3634630cd288f1352fb7a32
 
 ![Type the server address into the text field, then click "OK."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/09/set-the-server-address-then-tap-OK.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  Then go through the rest of the options --- enter your email, the password you just generated, and make sure the "Security" is set to TLS. You don't have to tick "Trust All Certificates," so leave it unticked.
 
  Go back to the main menu, and click "Backup". We didn't come all this way not to back things up!
 
 ![Tap "Backup."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/09/click-Backup.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The backup process will start, and depending on how many messages you have, will take anywhere from a minute to a half hour (or longer!) to complete. It chugs along at a few messages per second.
 
 ![SMS Syncing to Gmail.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/09/syncing-sms.png) 
@@ -116,20 +120,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![SMS/MMS shown in the gmail inbox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/09/2016-09-15_12h20_46.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Success! SMS Backup+ automatically backs up your SMS messages as well as your MMS messages. Not only are all of our text messages there but the pictures we've sent back and forth are backup up to Gmail along with the messages. Now that we've got everything humming along, let's look at some advanced options.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Step Three (Optional): Turn On Automatic Backups
 
  If you do nothing else before leaving this tutorial, you need to turn on the automatic backup feature. Leaving things up to manual backup in a surefire way to forget. From the main screen, tap "Auto backup" to turn it on, and then tap on "Auto backup settings" to configure the frequency. The default configuration is a bit aggressive. You may wish to, as we did, decrease the frequency of backups.
 
 ![Options to decrease sync frequency.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/09/options.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can even set it to only backup over Wi-Fi. That way, if you're backing up a lot of MMS, you won't burn through your mobile data.
 
 ![Tick "Require Wifi."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/09/tick-require-Wi-Fi.png) 
@@ -138,16 +140,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Advanced backup settings,](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/09/advanced-backup-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  There isn't much to look at under the Restore settings, but you can take advantage of a handy Gmail-centric trick. When SMS Backup+ stores your messages in Gmail it creates a thread for each contact. You can tell SMS Backup+ to only restore the contacts with starred threads which allows you to quickly select which conversations are important enough to restore via the star system in Gmail.
 
 ![Restore options menu,](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/09/restore-options.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  There you have it! All your text messages (including multimedia attachments) are backed up within Gmail where you can easily search them and restore them to your handset should the need arise.
 
 ---
@@ -160,8 +160,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +167,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-origami-inspired-best-minimalist-homes-in-minecraft/"><u>[New] Origami Inspired Best Minimalist Homes in Minecraft</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-from-idea-to-execution-making-memorable-fb-videos/"><u>[Updated] From Idea to Execution Making Memorable FB Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-speak-out-altering-soundtracks-in-ps4ps5-games/"><u>[Updated] Speak Out Altering Soundtracks in PS4/PS5 Games</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-top-picks-excellent-fb-lite-video-downloaders-of-2023/"><u>[Updated] The Top Picks Excellent FB Lite Video Downloaders of 2023</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inside-the-evolved-sony-bdp-s6700-world/"><u>2024 Approved Inside the Evolved Sony BDP-S6700 World</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-200-back-on-apples-latest-m3-macbook-pro-with-the-amazonspring-deal-exclusive-insights/"><u>Get $200 Back on Apple's Latest M3 MacBook Pro with the Amazonspring Deal - Exclusive Insights</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-how-to-facetime-with-your-android-phone/"><u>In 2024, How To Facetime with Your Android Phone ?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-the-palette-of-airborne-mechanics/"><u>In 2024, The Palette of Airborne Mechanics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionary-updates-how-the-latest-final-cut-pro-for-ipad-transforms-filmmaking-experience-insights-from-zdnet/"><u>Revolutionary Updates: How the Latest Final Cut Pro for iPad Transforms Filmmaking Experience - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-100-walmarts-holiday-bargains-your-ultimate-shopping-guide-techspot/"><u>Top 100 Walmart's Holiday Bargains: Your Ultimate Shopping Guide | TechSpot</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-2024-webcams-optimized-for-live-streaming-in-depth-analysis-by-tech-experts-zdnet/"><u>Top-Rated 2024 Webcams Optimized for Live Streaming - In-Depth Analysis by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/understanding-apples-latest-move-adding-9-mac-models-to-its-obsolete-roster-insights-from-zdnet/"><u>Understanding Apple's Latest Move: Adding 9 Mac Models to Its 'Obsolete' Roster | Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-exclusive-best-buy-offer-claim-your-complimentary-macbook-air-m3-step-by-step-guide-revealed-by-zdnet/"><u>Unlock Exclusive Best Buy Offer: Claim Your Complimentary MacBook Air M3 – Step-by-Step Guide Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/whats-in-store-for-the-tech-community-exclusive-preview-of-apple-intelligence-next-gen-ipads-and-more-at-october-event/"><u>What's in Store for the Tech Community? Exclusive Preview of Apple Intelligence, Next-Gen iPads, and More at October Event</u></a></li>
+</ul></div>
 

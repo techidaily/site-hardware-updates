@@ -1,7 +1,7 @@
 ---
 title: "From Google Now to Evolution: Unveiling the Next Generation of Google's Virtual Helper"
-date: 2024-09-01T05:45:28.566Z
-updated: 2024-09-02T05:45:28.566Z
+date: 2024-12-17T09:44:13.326Z
+updated: 2024-12-22T04:12:16.809Z
 tags:
   - android
 categories:
@@ -42,9 +42,9 @@ _[Google Developers](https://www.youtube.com/watch?v=VuC0i4xTyrI)_
 Related: [The 10 Greatest Versions of Android, Ranked](https://facebook-video-content.techidaily.com/powerful-tactics-leveraging-youtube-links-for-fb-exposure/) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Did Google Now Do?
 
  In the beginning, Google Now was pretty limited, but it quickly gained more abilities.
@@ -58,15 +58,13 @@ DbSchema database designer for all databases, schema design in the team, schema 
  This concept was considered pretty revolutionary at the time. You could have fun conversations with Apple's Siri, but Google Now was actually useful. It was super handy to open Google Now and get a readout of your day. Upcoming appointments, commute times, birthdays, and so much more, right there without having to ask for it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Slow Decline
 
 ![google assistant discover logo](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/02/google-assistant-snapshot-hero.png?width=1198&amp;trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  While Google Now was pretty great and it had a lot of loyal fans, it had a branding problem. Apple's Siri and Amazon's Alexa both had actual names and personalities that people connected with. They felt more natural and like real "assistants."
 
  Google Now could certainly do voice searches, but it wasn't as conversational. It really felt like you were just using Google in a different way. And as cool as the Now concept was, it didn't always work. Sometimes you still needed to manually ask for something.
@@ -77,13 +75,18 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 Related: [What Is the Google Assistant "Snapshot" Feature?](https://youtube-tips.techidaily.com/024-approved-flexibility-in-viewing-with-youtube-tv-options/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Google Digs Another Grave
 
 ![Google Snapshot going away.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/Screenshot_20220303-165355_Google.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  It didn't really matter what Google called the Now replacements---"Today" or "Snapshot"---it was clear that they were not a priority. Their prominence in Android was replaced by Google Assistant.
 
  Google essentially buried Snapshot in the Google app for a while, then briefly [brought it into the limelight again in late 2020](https://www.reviewgeek.com/52031/google-updates-assistant-snapshots-to-agregate-your-tasks-in-one-place/). You could still access it both on the iPhone and Android, but by this time it just wasn't something many people knew or cared about.
@@ -91,20 +94,13 @@ Related: [What Is the Google Assistant "Snapshot" Feature?](https://youtube-tips
  Snapshot limped on for a while until Google finally [pulled the plug in early 2022](https://9to5google.com/2022/03/03/google-snapshot-going-away-soon-notice/). You'll still be able to ask Google Assistant for all the information you can find in Snapshot, but only if you ask. The concept of intelligently providing information before you ask for it is officially dead.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Long Live Google Discover
 
 ![google discover logo](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/google-discover-feed-hero.png?width=1198&amp;trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  There's one product we haven't mentioned yet, but it almost certainly has contributed to Google Now's downfall. Google Now used to live on the left-most home screen on Google Pixel phones and some other devices, but it was replaced by [Google Discover](https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-oppo-find-n3-drfone-by-drfone-virtual-android/).
 
  Google Discover is the company's content aggregating service. It serves up articles from around the web that it thinks you'll be interested in. Google Now did a little bit of this, but it wasn't the primary focus. Discover has become a pretty popular method of finding news both on Android phones and iPhones.
@@ -127,8 +123,6 @@ Related: [How to Turn Off "OK Google" on Your Android Phone or Tablet](https://f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +130,17 @@ Related: [How to Turn Off "OK Google" on Your Android Phone or Tablet](https://f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-firefoxs-pip-explained-a-users-handbook/"><u>[Updated] Firefox's PIP Explained A User's Handbook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-how-to-boost-youtube-video-spacing-for-2024/"><u>[Updated] How to Boost YouTube Video Spacing for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-unmatched-video-quality-leading-windows-phones-apps-for-2024/"><u>[Updated] Unmatched Video Quality Leading Windows Phones Apps for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-laptop-gadget-the-ultimate-tool-every-tech-enthusiast-requires-for-optimal-temperature-control/"><u>Essential Laptop Gadget: The Ultimate Tool Every Tech Enthusiast Requires for Optimal Temperature Control</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-premium-screen-quality-on-a-budget-with-this-top-rated-lightweight-laptop-insights/"><u>Experience Premium Screen Quality on a Budget with This Top Rated Lightweight Laptop - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-victus-15-gaming-laptop-now-only-530-exclusive-deal-at-best-buy-featured/"><u>HP Victus 15 Gaming Laptop Now Only $530 - Exclusive Deal at Best Buy Featured !</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-xiaomi-redmi-note-12-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Xiaomi Redmi Note 12 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oneplus-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass OnePlus FRP Without Computer</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-y27-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Vivo Y27 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-ultraportable-computers-comprehensive-review-by-tech-experts-zdnet/"><u>Top-Rated Ultraportable Computers : Comprehensive Review by Tech Experts | ZDNet</u></a></li>
+</ul></div>
 

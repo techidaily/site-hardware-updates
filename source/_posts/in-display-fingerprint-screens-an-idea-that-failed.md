@@ -1,7 +1,7 @@
 ---
 title: "In-Display Fingerprint Screens: An Idea That Failed"
-date: 2024-09-05T19:54:10.878Z
-updated: 2024-09-06T19:54:10.878Z
+date: 2024-12-18T09:32:39.039Z
+updated: 2024-12-21T17:18:48.214Z
 tags:
   - android
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/a052456309a6b8597a2b650cfe52a2444e64bbcfce72d5244fd939ae4cf23b37.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## In-Display Fingerprint Screens: An Idea That Failed
 
 ### Quick Links
@@ -27,11 +21,9 @@ thumbnail: https://thmb.techidaily.com/a052456309a6b8597a2b650cfe52a2444e64bbcfc
  Under-display fingerprint scanners were supposed to be great. Just put your finger on the touch screen like you would anyway, and a built-in sensor unlocks the phone. That was the dream, but in reality, they're worse than the alternatives.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  A Brief History of Fingerprint Scanners
 
 ![An iPhone silhouette with a Touch ID logo on its screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/iphone_touch_id_hero_1.jpg?width=1198&amp;trim=1,1&amp;bg-color=000&amp;pad=1,1) 
@@ -47,20 +39,16 @@ thumbnail: https://thmb.techidaily.com/a052456309a6b8597a2b650cfe52a2444e64bbcfc
 Related: [What Is Face ID?](https://instagram-video-files.techidaily.com/new-mastering-instagram-concealing-tags-efficiently/) 
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Promise of In-Display Fingerprint Scanners
 
 ![Person tapping a biometric identification app on a smartphone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/biometric-id-smartphone-hand.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[Prostock-studio/Shutterstock.com](https://www.shutterstock.com/image-photo/biometric-identification-woman-unlocking-smartphone-scanning-1898376952)_
 
@@ -74,12 +62,6 @@ _[Prostock-studio/Shutterstock.com](https://www.shutterstock.com/image-photo/bio
 
  That was okay, though. Bleeding edge technology always has its problems, but the potential is exciting. I could envision a future where you don't have to put your finger in a very specific spot and wait a second for it to be scanned. A future where simply swiping the lock screen is all it takes to scan your finger.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Future We Got Instead
 
 ![Google Pixel 6a's fingerprint sensor icon on the lock screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Google-Pixel-6as-fingerprint-sensor-icon-on-the-lock-screen.jpg) 
@@ -101,27 +83,17 @@ Related: [The Best Samsung Phones of 2023](https://instagram-clips.techidaily.co
 Related: [Google Tries to Justify Pixel 6's Slow Fingerprint Scanner](https://tiktok-video-recordings.techidaily.com/updated-expert-strategies-for-keeping-tiktok-videos-available/) 
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Embrace the Face
 
 ![The "Use Face ID with a Mask" screen on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/Use-Face-ID-with-a-Mask-screen-on-iPhone.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  Apple seems to think facial recognition is the future, and having used Face ID, I think I agree. The potential of under-display scanners seemed great, but the real-world implementation has left much to be desired.
@@ -144,8 +116,6 @@ Related: [How to Use Face ID With a Mask on iPhone](https://some-techniques.tech
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +123,24 @@ Related: [How to Use Face ID With a Mask on iPhone](https://some-techniques.tech
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-city-planning-for-climate-action-a-comprehensive-guide/"><u>[Updated] 2024 Approved City Planning for Climate Action A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-comedy-in-a-click-best-funny-short-video-suggestions-for-youtubers/"><u>[Updated] Comedy in a Click Best Funny Short Video Suggestions for YouTubers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ultimate-8k-showcase-cameras-at-the-forefront-for-2024/"><u>[Updated] Ultimate 8K Showcase Cameras at the Forefront for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/3070-enjoy-a-sweet-deal-with-immediate-savings-at-220-off-tech-news/"><u>3070 - Enjoy a Sweet Deal with Immediate Savings at $220 Off! | Tech News</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/a-comprehensive-guide-to-building-facebook-slideshow-mastery/"><u>A Comprehensive Guide to Building Facebook Slideshow Mastery</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-full-week-with-the-split-ergo-keyboard-how-one-change-revolutionized-my-workspace-insights/"><u>A Full Week with the Split Ergo-Keyboard: How One Change Revolutionized My Workspace - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazons-biggest-sales-of-the-year-dont-miss-out-on-october-prime-day-deals-best-picks-and-discounts-await-savvyshoppernews/"><u>Amazon's Biggest Sales of the Year: Don't Miss Out on October Prime Day Deals - Best Picks & Discounts Await | SavvyShopperNews</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/capture-save-and-share-mastering-playstation-4-recordings/"><u>Capture, Save & Share Mastering PlayStation 4 Recordings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-seamless-windows-free-computing-with-the-latest-deal-on-an-hp-chromebook-for-only-136-off/"><u>Discover Seamless Windows-Free Computing with the Latest Deal on an HP Chromebook for Only $136 Off</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/epubor-ebook-creation-the-ultimate-digital-publishing-solution/"><u>Epubor eBook Creation: The Ultimate Digital Publishing Solution</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/futureproof-your-pc-with-the-elite-ssd-picks-insights/"><u>Futureproof Your PC with the Elite SSD Picks - Insights</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-xiaomi-13-ultra-to-mac-drfone-by-drfone-android/"><u>How to Mirror Xiaomi 13 Ultra to Mac? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-future-is-now-with-apple-integrating-ai-into-every-mac-through-the-revolutionary-m4-processor-lineup/"><u>The Future Is Now with Apple: Integrating AI Into Every Mac Through the Revolutionary M4 Processor Lineup.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-shopping-guide-for-octobers-prime-gaming-deals-get-your-favorite-titles-at-half-price-or-less-techradar/"><u>Ultimate Shopping Guide for October's Prime Gaming Deals: Get Your Favorite Titles at Half Price or Less | TechRadar</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/ultimate-troubleshooting-techniques-for-system-thread-exception-not-handled-errors-on-windows-10-top-5-methods/"><u>Ultimate Troubleshooting Techniques for System Thread Exception Not Handled Errors on Windows 10 (Top 5 Methods)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlocking-viral-potential-hashtags-for-gamers-vlogs-for-2024/"><u>Unlocking Viral Potential Hashtags for Gamers' Vlogs for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-samsung-galaxy-chromebook-an-in-depth-review-and-why-its-a-top-bargain-for-windows-users-insights/"><u>Unveiling Samsung Galaxy Chromebook: An In-Depth Review & Why It's a Top Bargain for Windows Users - Insights</u></a></li>
+</ul></div>
 

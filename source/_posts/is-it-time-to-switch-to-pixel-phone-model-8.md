@@ -1,7 +1,7 @@
 ---
 title: Is It Time to Switch to Pixel Phone Model 8?
-date: 2024-09-01T05:44:41.400Z
-updated: 2024-09-02T05:44:41.400Z
+date: 2024-12-18T04:59:06.958Z
+updated: 2024-12-21T17:40:30.566Z
 tags:
   - android
 categories:
@@ -20,11 +20,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Since 2016, Google has released a new Pixel phone every October. The new Pixel is often compared to the last Pixel, but not everyone upgrades every year. How do the Pixel 8 and Pixel 8 Pro compare to previous generations?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Enter the Pixel 8
 
  Before we dive into the comparisons, let's rundown the general features of the Pixel 8 and Pixel 8 Pro. The Pixel 8 has a 6.2-inch display with 120Hz refresh rate, while the Pro's 6.7-inch display has an adaptive 1 to 120Hz refresh rate. The [Google Tensor](https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-xiaomi-redmi-k70-pro-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/) G3 processor powers the phones with 8 or 12GB of RAM.
 
 ![Google Pixel 8 and Google Pixel 8 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/53234654388_41bd822075_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -33,15 +41,13 @@ Justin Duino / How-To Geek
  Both models run Android 14 out of the box with seven years of OS upgrades to look forward to. The Pixel 8 starts at $699, and the Pixel 8 Pro starts at $999\. Now, we can take a look at how it shakes down compared to older Pixel phones that you might be rocking right now.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Pixel 8 vs. Pixel 7: Minor Upgrades
 
 ![oogle Pixel 7 resting on a desk](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/Google-Pixel-7-Review-1-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  Like many smartphone upgrades these days, the differences between the Pixel 8 and its predecessor are not drastic. For starters, the phones look a bit different. The Pixel 8 series has a more rounded shape, and the bezels and displays have been shrunk a tiny bit to make the phones smaller.
@@ -54,16 +60,10 @@ Joe Fedewa / How-To Geek
 
  To be honest, it's a similar experience all around between the two generations. If your Pixel 7 Pro or Pixel 7 is still in good condition, there's not a huge reason to upgrade this year. [Google's trade-in deals are certainly not helping, either.](https://fox-http.techidaily.com/updated-in-2024-essential-list-premier-free-video-player-choices-for-pctabletsmartphone-users/) 
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Pixel 8 vs. Pixel 6: Performance Boost
 
 ![Pixel 6 Pro and Pixel 6 side by side in a hand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/pixel6-pro-and-pixel6.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  Let's go back to 2021 and take a look at the Pixel 6 and Pixel 6 Pro compared to the new Pixel 8 series. The displays on the Pixel 8 Pro and 6 Pro are almost the same. The 6 Pro actually has a slightly higher resolution at 512 pp vs the 8 Pro's 489 ppi. The Pixel 8's display is slightly smaller than the Pixel 6's (6.2 vs 6.4 in), but otherwise essentially the same.
@@ -75,15 +75,17 @@ Justin Duino / How-To Geek
  The upgrades from the Pixel 6 to the Pixel 8 are not as big as you might expect. The biggest difference is the processor. Going from the original Google Tensor to the Tensor G3 is a nice boost. Other than that, you're getting a bigger ultrawide camera and more of the same.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Pixel 8 vs Pixel 5: Time to Upgrade
 
 ![The Sage Green Pixel 5 lying screen-down on a tree trunk](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/54e38b9b.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Cameron Summerson / How-To Geek
 
 Cameron Summerson
@@ -104,8 +106,6 @@ Cameron Summerson
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +113,20 @@ Cameron Summerson
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-integrated-dynamic-movement-analysis/"><u>[New] In 2024, Integrated Dynamic Movement Analysis</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-mastering-youtube-screens-final-touches/"><u>[New] Mastering YouTube Screens' Final Touches</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-optimal-low-price-nintendo-simulations/"><u>[Updated] In 2024, Optimal Low-Price Nintendo Simulations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unraveling-lightrooms-potential-on-android-devices/"><u>[Updated] Unraveling Lightroom's Potential on Android Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-buys-prime-day-exclusive-save-on-hp-victus-aentipram-offer-at-450-gaming-laptop-steals/"><u>Best Buy's Prime Day Exclusive: Save on HP Victus ˈæntiːpraɪmデイ Offer at $450 - Gaming Laptop Steals!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-gaming-with-hps-new-price-drop-the-victus-15-laptop-for-only-530-at-best-buy-revealed-by-zdnet/"><u>Get Gaming with HP's New Price Drop: The Victus 15 Laptop for Only $530 at Best Buy, Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-this-ultra-light-laptop-outshone-my-expectations-making-macbook-air-a-forgotten-memory/"><u>How This Ultra-Light Laptop Outshone My Expectations, Making MacBook Air a Forgotten Memory</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/o-add-text-to-youtube-video/"><u>How to Add Text to YouTube Video</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-honor-x50i-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-poco-c50-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/my-heartfelt-journey-using-apples-latest-m2-macbook-air-unveiled-at-zdnet/"><u>My Heartfelt Journey Using Apple's Latest M2 MacBook Air, Unveiled at ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/save-44-the-ultimate-11-in-1-hub-for-a-cleaner-clutter-free-workspace-tech-deals-on-zdnet/"><u>Save 44%: The Ultimate 11-in-1 Hub for a Cleaner, Clutter-Free Workspace | Tech Deals on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-samsungs-latest-offer-the-ultimate-guide-to-copilotplus-top-windows-laptop-bargain-on-zdnet/"><u>Unveiling Samsung's Latest Offer: The Ultimate Guide to Copilot+ - Top Windows Laptop Bargain on ZDNet</u></a></li>
+</ul></div>
 

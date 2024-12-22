@@ -1,7 +1,7 @@
 ---
 title: "Controlling Sound Levels: A Step-by-Step Guide to Managing App Audio Settings on Your Samsung Device"
-date: 2024-09-01T05:41:12.700Z
-updated: 2024-09-02T05:41:12.700Z
+date: 2024-12-14T19:09:05.333Z
+updated: 2024-12-21T16:07:05.984Z
 tags:
   - android
 categories:
@@ -33,9 +33,17 @@ thumbnail: https://thmb.techidaily.com/4e313b1018e0c2499cbd20182728d1887cb747f9b
 
 ![Go to "Sound Assistant."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot_20231002_100933_good-lock.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select "Individual App Volumes."
 
 ![Select "Individual App Volumes."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot_20231002_100939_sound-assistant.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We'll start by adding the apps you'd like to control individually. Tap the floating plus button in the bottom right corner.
 
@@ -49,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/4e313b1018e0c2499cbd20182728d1887cb747f9b
 
 ![Control volume.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot_20231002_101039_sound-assistant.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Go back to the Sound Assistant settings and select "Customize Volume Panel."
 
 ![Select "Customize Volume Panel."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot_20231002_101052_sound-assistant.jpg) 
@@ -57,9 +69,17 @@ thumbnail: https://thmb.techidaily.com/4e313b1018e0c2499cbd20182728d1887cb747f9b
 
 ![Go to the "Expanded Panel" tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot_20231002_101120_sound-assistant.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lastly, make sure "App Volume" is selected. This will add a slider in the volume menu for the apps you selected earlier when they are active.
 
 ![Make sure "App Volume" is selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot_20231002_101125_sound-assistant.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's all there is for the setup; let's put it to use. While playing audio with one of the apps you selected, press a volume key on your Samsung Galaxy device. Select the three-dot icon at the top of the volume controls to expand it.
 
@@ -77,8 +97,6 @@ thumbnail: https://thmb.techidaily.com/4e313b1018e0c2499cbd20182728d1887cb747f9b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -86,17 +104,17 @@ thumbnail: https://thmb.techidaily.com/4e313b1018e0c2499cbd20182728d1887cb747f9b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/approved-safarichrome-youtube-on-the-move-autoplay-options/"><u>2024 Approved Safari/Chrome YouTube On-the-Move AutoPlay Options</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-soundbite-revolution-key-strategies-for-youtubes-music-clips/"><u>2024 Approved The Soundbite Revolution Key Strategies for YouTube's Music Clips</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-itel-p55plus-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Itel P55+ Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-access-securing-your-spot-for-amazons-prime-day-early-bird-offers-complete-guide/"><u>Exclusive Access: Securing Your Spot for Amazon's Prime Day Early Bird Offers - Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-non-functioning-screen-saver-on-windows-10-easily/"><u>How to Resolve Non-Functioning Screen Saver on Windows 10 Easily</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-vivo-v29-pro-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Vivo V29 Pro Face Lock?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/is-it-time-to-upgrade-to-an-8k-television-pros-and-cons-decoded-by-a-tech-guru-insights-for-savvy-shoppers/"><u>Is It Time to Upgrade to an 8K Television? Pros and Cons Decoded by a Tech Guru - Insights for Savvy Shoppers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/labor-day-special-score-unbeatable-prices-on-premium-qled-tvs-tested-and-recommended-by-zdnet-now-1k-off/"><u>Labor Day Special: Score Unbeatable Prices on Premium QLED TVs Tested and Recommended by ZDNET, Now $1K Off!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionize-your-home-cinema-experience-boost-tv-picture-quality-in-5-simple-steps-expert-guide-from-zdnet/"><u>Revolutionize Your Home Cinema Experience! Boost TV Picture Quality in 5 Simple Steps | Expert Guide From ZDNET</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/video-journey-mastery-10-leading-apps-to-up-your-youtube-short-game-for-2024/"><u>Video Journey Mastery 10 Leading Apps to Up Your Youtube Short Game for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

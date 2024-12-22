@@ -1,7 +1,7 @@
 ---
 title: "Affordable Laptop Revives Classic Tech Trend, Stirs Up Old Conversation: A Look at Yesteryear's Hype! - ZDNet"
-date: 2024-12-10T18:10:37.521Z
-updated: 2024-12-13T04:03:19.993Z
+date: 2024-12-16T19:16:28.440Z
+updated: 2024-12-21T16:45:51.001Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -85,7 +85,7 @@ I have been integrating Copilot into my workflow as I learn more about how to us
 The Surface's battery life has been fantastic, too. I get over 15 hours of use from a single charge, and it has yet to fully deplete to zero by the time I call a benchmarking test. The combination of smart design with meaningful trade-offs is what gives this laptop its marathon battery life, and opens it up for a variety of use cases from a creator or productivity perspective. Basically, this is a laptop you can work remotely with for the whole day without a charger.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -95,7 +95,7 @@ I mentioned this before, but the direction that Microsoft took with this laptop 
 The Surface Laptop is a flagship mid-range device that's well-rounded enough to take on a variety of roles. Despite a few trade-offs, it's everything it should be for the price. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -132,18 +132,16 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-clearing-process-for-youtubes-pending-video-list/"><u>[Updated] In 2024, Clearing Process for YouTube's Pending Video List</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-download-panopto-screen-recorder-and-record-video/"><u>[Updated] In 2024, Download Panopto Screen Recorder and Record Video</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-reddit-a-step-by-step-guide-for-effective-posts/"><u>2024 Approved Mastering Reddit A Step-By-Step Guide for Effective Posts</u></a></li>
-<li><a href="https://fox-that.techidaily.com/6-effective-methods-to-resolve-aol-email-issues-on-your-iphone/"><u>6 Effective Methods to Resolve AOL Email Issues on Your iPhone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discovering-innovation-with-toms-computer-components-reviews/"><u>Discovering Innovation with Tom's Computer Components Reviews</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/for-new-gopro-users-here-are-essential-accessories/"><u>For New GoPro Users, Here Are Essential Accessories</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/gif-velocity-controllers-online-and-mobile-essentials/"><u>GIF Velocity Controllers Online and Mobile Essentials</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xr-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XR to Android? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-a59-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Oppo A59 5G Phone Without Password?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-deskjet-3050a-printer-drivers-updated-free-download-guide-for-windows-users/"><u>HP Deskjet 3050A Printer Drivers Updated: Free Download Guide for Windows Users</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-cutting-edge-zooming-tactics-for-collaborative-ms-teams/"><u>In 2024, Cutting Edge Zooming Tactics for Collaborative MS Teams</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/keep-your-connectivity-strong-how-to-apply-wireless-driver-updates-on-windows-11-and-10-systems/"><u>Keep Your Connectivity Strong: How to Apply Wireless Driver Updates on Windows 11 and 10 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722976969707-update-your-windows-system-with-new-nvidia-mx150-gpu-drivers-now/"><u>Update Your Windows System with New Nvidia MX150 GPU Drivers Now!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-eco-film-frameworks-unlimited-free-template-access-for-pros-and-amateurs-for-2024/"><u>[New] Eco-Film Frameworks Unlimited Free Template Access for Pros & Amateurs for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-finest-ups-units-of-2024-a-comparative-review/"><u>Exploring the Finest UPS Units of 2024 - A Comparative Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/high-speed-innovation-and-revolutionary-product/"><u>High-Speed, Innovation, and Revolutionary Product.</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/how-to-fix-the-p-dev310-error-message-on-your-hulu-streaming-device/"><u>How to Fix the 'P-DEV310' Error Message on Your Hulu Streaming Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-basics-opening-command-prompt-across-different-windows-editions/"><u>Mastering the Basics: Opening Command Prompt Across Different Windows Editions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/save-big-on-hp-victus-15-score-a-steal-at-515-during-best-buys-prime-day-exclusive-offer-tech-insights/"><u>Save Big on HP Victus 15 - Score a Steal at $515 During Best Buy's Prime Day Exclusive Offer – Tech Insights</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/streamlined-transcoding-xml-and-ttml-into-professional-srt-for-2024/"><u>Streamlined Transcoding XML & TTML Into Professional SRT for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-value-for-money-laptops-with-windows-os-under-1k-ultra-performance-meets-efficiency/"><u>Top Value-for-Money Laptops with Windows OS Under $1K - Ultra Performance Meets Efficiency</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-laptop-picks-for-2e24-comprehensive-tests-and-reviews-by-tech-gurus-zdnet/"><u>Top-Ranking Laptop Picks for 2E24: Comprehensive Tests & Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-capturing-desktop-images-on-your-laptop-including-dell-and-lenovo/"><u>Ultimate Guide to Capturing Desktop Images on Your Laptop (Including Dell and Lenovo)</u></a></li>
 </ul></div>
 

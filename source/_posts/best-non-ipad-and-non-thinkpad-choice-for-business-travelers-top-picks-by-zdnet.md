@@ -1,7 +1,7 @@
 ---
 title: "Best Non-iPad and Non-ThinkPad Choice for Business Travelers: Top Picks by ZDNet"
-date: 2024-12-11T17:51:12.772Z
-updated: 2024-12-12T23:25:57.097Z
+date: 2024-12-19T10:12:27.729Z
+updated: 2024-12-22T04:25:43.382Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Cesar Cadenas/ZDNET
 And for one of the best qualities of this laptop: battery life is absolutely phenomenal. I [performed our usual test](https://www.zdnet.com/article/how-we-test-laptops/) of running a YouTube livestream at 720p and 50% brightness. At its peak, the Surface Pro lasted just under 13 hours on a single charge. That's just shy of Microsoft's purported 14-hour battery life. In practical usage, this is a device that will easily last multiple days on a single charge. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,18 +122,17 @@ Prices for the device start at $999.99\. My review unit with the 12-core Snapdra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-diy-ig-videos-tips-and-template-inspirations/"><u>[Updated] DIY IG Videos Tips & Template Inspirations</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-scaling-up-on-igtv-through-powerful-hash-tagging-for-2024/"><u>[Updated] Scaling Up on IGTV Through Powerful Hash Tagging for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-installing-the-latest-microsoft-surface-pro-cuits-best-practices-for-windows-users/"><u>Comprehensive Guide: Installing the Latest Microsoft Surface Pro Cuits - Best Practices for Windows Users</u></a></li>
-<li><a href="https://fox-http.techidaily.com/convert-srt-with-ease-the-finest-free-converters-ranked-for-2024/"><u>Convert SRT with Ease - The Finest FREE Converters Ranked for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-intel-thunderbolt-driver-fast-simplified-steps/"><u>Download Intel Thunderbolt Driver Fast - Simplified Steps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-intels-top-tier-nvme-drivers-quick-simple-steps-inside/"><u>Download Intel's Top-Tier NVMe Drivers - Quick, Simple Steps Inside</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-logitech-gaming-speaker-drivers-windows-compatible/"><u>Download Logitech Gaming Speaker Drivers (Windows Compatible)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-sades-headset-driver-updates-ensuring-safe-and-easy-compatibility-with-windows-os/"><u>Get the Latest Sades Headset Driver Updates - Ensuring Safe & Easy Compatibility with Windows OS</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-achieving-precision-with-obs-implementing-timer-functionality/"><u>In 2024, Achieving Precision with OBS Implementing Timer Functionality</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolve-problems-with-the-realtek-rtl8723be-network-adapter-drivers-easily/"><u>Resolve Problems with the Realtek RTL8723BE Network Adapter Drivers Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-the-mystery-of-your-broken-shift-key-with-these-effective-tips/"><u>Solve the Mystery of Your Broken Shift Key with These Effective Tips</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ideographers-essentials-top-9-gear-upgrades-for-mobile-filming/"><u>The Videographer's Essentials - Top 9 Gear Upgrades for Mobile Filming</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-tips-and-tricks-to-excel-at-pokemon-unite-on-pc/"><u>Ultimate Tips and Tricks to Excel at Pokémon Unite on PC</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/implified-customization-for-your-youtube-channel-url-for-2024/"><u>[New] Simplified Customization for Your YouTube Channel URL for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-behind-the-curtain-peek-tracking-insta-post-watchers/"><u>[Updated] 2024 Approved Behind-the-Curtain Peek Tracking Insta Post Watchers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-tricks-to-download-twitter-videos-and-turn-into-mp3-files/"><u>[Updated] 2024 Approved Tricks to Download Twitter Videos and Turn Into MP3 Files</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/apple-marks-9-new-mac-variants-as-obsolete-implications-decoded/"><u>Apple Marks 9 New Mac Variants as Obsolete: Implications Decoded</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/1716464589034-epic-battle-royale-thumbnails-done-fast/"><u>Epic Battle Royale Thumbnails, Done Fast!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guard-against-unwanted-access-how-pc-repair-specialists-may-compromise-your-files-and-images-study-shows-zdnet/"><u>Guard Against Unwanted Access: How PC Repair Specialists May Compromise Your Files & Images, Study Shows | ZDnet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-fixing-hitches-when-sharing-subscriptions-with-your-loved-ones/"><u>Guide to Fixing Hitches When Sharing Subscriptions with Your Loved Ones</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-14-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 14 Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-used-apple-laptops-market-a-guide-to-dodge-scams-and-land-great-deals/"><u>Navigating Used Apple Laptops Market: A Guide to Dodge Scams and Land Great Deals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-desired-visionos-enhancements-hopes-for-apples-big-reveal-at-wwdc/"><u>Top 10 Desired VisionOS Enhancements: Hopes for Apple's Big Reveal at WWDC!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/understanding-apples-m3-series-key-insights-before-your-purchase-decision/"><u>Understanding Apple’s M3 Series: Key Insights Before Your Purchase Decision</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-iphone-14-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and iPhone 14</u></a></li>
 </ul></div>
 

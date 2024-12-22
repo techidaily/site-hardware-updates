@@ -1,7 +1,7 @@
 ---
 title: "Lenovo’s Innovative Compact Laptop Revealed: Exclusive TrackPoint Feature + Hidden Gems for Productivity Pros!"
-date: 2024-12-09T00:18:28.246Z
-updated: 2024-12-12T19:05:15.984Z
+date: 2024-12-20T16:30:22.103Z
+updated: 2024-12-22T05:02:40.875Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,18 +134,22 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/he-complete-guide-to-edit-your-video-with-youtube-studio-editor-for-2024/"><u>[New] The Complete Guide to Edit Your Video with YouTube Studio Editor for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ballot-box-bonanza-prime-politic-strategy-games/"><u>[Updated] In 2024, Ballot Box Bonanza Prime Politic Strategy Games</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-spark-interest-10-innovative-highlight-ideas-to-try-now/"><u>[Updated] In 2024, Spark Interest 10 Innovative Highlight Ideas to Try Now</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-premier-computing-choices-the-finest-selection/"><u>[Updated] Premier Computing Choices The Finest Selection</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-mastering-windows-11-photo-app-stability-troubleshooting/"><u>2024 Approved Mastering Windows 11 Photo App Stability Troubleshooting</u></a></li>
-<li><a href="https://review-topics.techidaily.com/change-location-on-yik-yak-for-your-vivo-y27s-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Vivo Y27s to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comparing-intel-and-amd-processors-determining-the-superior-chip/"><u>Comparing Intel and AMD Processors: Determining the Superior Chip</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722969343303-get-your-logitech-k400-plus-mouse-drivers-here/"><u>Get Your Logitech K400 Plus Mouse Drivers Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-nexiq-usb-link-2-driver-installed-effortlessly/"><u>Get Your Nexiq USB Link 2 Driver Installed Effortlessly</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-12ipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 12/iPad Without Computer | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Infinix GT 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-the-official-logitech-driving-force-gt-driver-for-your-gaming-pc-running-any-version-of-windows/"><u>Secure the Official Logitech Driving Force GT Driver for Your Gaming PC Running Any Version of Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-your-intel-hd-graphics-630-drivers-solutions-for-a-smooth-windows-experience/"><u>Troubleshooting Your Intel HD Graphics 630 Drivers: Solutions for a Smooth Windows Experience</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unlock-the-secrets-to-preserving-web-streamed-tv-shows-for-2024/"><u>[New] Unlock the Secrets to Preserving Web-Streamed Tv Shows for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-innovators-crafting-immersive-viewscape/"><u>[Updated] 2024 Approved Innovators Crafting Immersive Viewscape</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cease-sudden-shuts-in-windows-11-systems/"><u>Cease Sudden Shuts in Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-best-game-changing-speakers-on-a-budget-enjoy-a-staggering-150-discount-now-featured-in-zdnet/"><u>Discover the Best Game-Changing Speakers on a Budget: Enjoy a Staggering $150 Discount Now - Featured in ZDNet!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discovering-lgs-revolutionary-17-inch-gram-pro-a-game-changer-in-lightweight-laptops/"><u>Discovering LG's Revolutionary 17-Inch Gram Pro - A Game-Changer in Lightweight Laptops</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-tips-for-safe-implementation-of-chatgpt-in-mental-wellness-coaching/"><u>Essential Tips for Safe Implementation of ChatGPT in Mental Wellness Coaching</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Infinix Note 30? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/save-big-on-gaming-in-octobers-exclusive-deal-extravaganza-seize-your-chance-to-snag-discounts-up-to-1000-dont-miss-out/"><u>Save Big on Gaming in October's Exclusive Deal Extravaganza! Seize Your Chance to Snag Discounts up to $1000 – Don’t Miss Out</u></a></li>
+<li><a href="https://win-answers.techidaily.com/streamline-data-management-by-linking-your-microsoft-forms-with-excel-online-instantly/"><u>Streamline Data Management by Linking Your Microsoft Forms with Excel Online Instantly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-most-innovative-dual-purpose-device-with-a-hidden-workplace-gem-review/"><u>The Most Innovative Dual-Purpose Device with a Hidden Workplace Gem Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-3-unbeatable-cyber-monday-2022-laptop-offers-for-under-1k-on-amazon-costco-and-dell-exclusive-insights/"><u>Top 3 Unbeatable Cyber Monday 2022 Laptop Offers for Under $1K on Amazon, Costco & Dell – Exclusive Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-picks-best-non-ipad-non-thinkpad-tablets-ideal-for-business-on-the-go-zdnet-insights/"><u>Top Picks: Best Non-iPad, Non-ThinkPad Tablets Ideal for Business on the Go | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-testbeds-for-touchscreen-laptops-in-depth-analysis-and-reviews-by-pros-techsavvy/"><u>Top-Ranking Testbeds for Touchscreen Laptops - In-Depth Analysis & Reviews by Pros | TechSavvy</u></a></li>
+<li><a href="https://windows11.techidaily.com/transitioning-to-kali-your-windows-pathway/"><u>Transitioning to Kali: Your Windows Pathway</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-samsungs-latest-innovation-the-enhanced-ai-powered-copilotplus-pc-showcased/"><u>Unveiling Samsung's Latest Innovation: The Enhanced AI-Powered Copilot+ PC Showcased</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/xiaomi-redmi-12-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Xiaomi Redmi 12 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 </ul></div>
 

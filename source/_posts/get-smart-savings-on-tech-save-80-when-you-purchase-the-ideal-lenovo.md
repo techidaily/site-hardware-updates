@@ -1,7 +1,7 @@
 ---
 title: "Get Smart Savings on Tech: Save $80 When You Purchase the Ideal Lenovo"
-date: 2024-12-11T02:47:23.829Z
-updated: 2024-12-13T03:07:42.479Z
+date: 2024-12-20T18:20:59.564Z
+updated: 2024-12-21T18:51:40.272Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ One tool I've found to be quite effective is the [StarTech.com Universal Laptop 
 [ZDNET RECOMMENDS StarTech.com Universal Laptop Lock This anti-theft laptop locking system features a push-to-lock system that allows for quick-lock without a key. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fexec%2Fobidos%2FASIN%2FB0CG9WXC8P%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1543b5d4-da8c-4f2b-8aec-3447eb62e023%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The specs
@@ -97,7 +97,7 @@ Adrian Kingsley-Hughes/ZDNET
 All in all, this is a tough lock that's well-designed to keep your stuff secured. The only real downside: a steel cable weighing some 5.2 oz (147 g) is a fair weight to lug around with you if you plan on using this when out and about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,24 +134,24 @@ While a determined or skilled attacker could potentially overcome this lock, suc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-ultimate-roguelike-rankings-the-best-10-games/"><u>[New] In 2024, Ultimate Roguelike Rankings The Best 10 Games</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-2023s-most-captivating-channel-the-ultimate-story-showcase/"><u>2024 Approved 2023'S Most Captivating Channel The Ultimate Story Showcase</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-strix-point-ryzen-unleashes-new-contender-the-ryzen-ai-9-hx-375-beats-its-predecessor/"><u>AMD Strix Point Ryzen Unleashes New Contender: The Ryzen AI 9 HX 375 Beats Its Predecessor</u></a></li>
-<li><a href="https://win-answers.techidaily.com/defeat-memory-error-1-cuestionar-12707-your-comprehensive-guide-to-a-smooth-gameplay-experience-on-call-of-duty-modern-warfare-3/"><u>Defeat Memory Error 1 Cuestionar 12707: Your Comprehensive Guide to a Smooth Gameplay Experience on Call of Duty: Modern Warfare 3</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-hid-keyboard-drivers-quick-guide-on-downloading-and-updating/"><u>Effortless HID Keyboard Drivers: Quick Guide on Downloading & Updating</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-download-official-hp-officejet-3830-printer-driver-for-windows-os/"><u>Find & Download Official HP OfficeJet 3830 Printer Driver for Window's OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-latest-brother-mfc-l2740dw-drivers-for-your-windows-computer/"><u>Get Latest Brother MFC-L2740DW Drivers for Your Windows Computer</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/how-to-import-music-to-inshot-video-editor-in-2024/"><u>How to Import Music to Inshot Video Editor, In 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-itel-p55-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Itel P55</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-logitech-g510-driver-setup-for-windows-operating-systems-78110/"><u>Latest Logitech G510 Driver Setup for Windows Operating Systems (7/8/1#/10)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/manufacturing-typo-causes-potential-shift-in-amds-ryzen-90e-launch-calendar-emergence-of-unplanned-ryzen-7-component/"><u>Manufacturing Typo Causes Potential Shift in AMD's Ryzen 90E Launch Calendar: Emergence of Unplanned Ryzen 7 Component</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-concurrent-wi-fi-and-ethernet-on-windows-pcs/"><u>Mastering Concurrent Wi-Fi and Ethernet on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-away-from-blocked-router-configuration/"><u>Navigating Away From Blocked Router Configuration</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/noworrycapture-quick-and-easy-win11-recordings/"><u>NoWorryCapture - Quick and Easy Win11 Recordings</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/official-update-from-amd-ryzen-amoeba5000xt-series-on-track-for-timely-release-date-this-month/"><u>Official Update From AMD: Ryzen Amoeba5000XT Series on Track for Timely Release Date This Month</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/optimal-mov-recording-settings-for-windows-11-for-2024/"><u>Optimal MOV Recording Settings for Windows 11 for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-complete-guide-to-high-performance-computing-by-toms-hardware/"><u>The Complete Guide to High-Performance Computing by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722978290438-update-to-the-newest-drivers-for-your-msi-x470-motherboard-today/"><u>Update to the Newest Drivers for Your MSI X470 Motherboard Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/user-friendly-guide-to-getting-your-printer-setup-right-brother-l2/"><u>User-Friendly Guide To Getting Your Printer Setup Right - Brother L2</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-quick-guide-to-free-youtube-closure-creation/"><u>[New] Quick Guide to Free YouTube Closure Creation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-drift-innocations-ghost-s-action-camera-review/"><u>[Updated] Drift Innocations Ghost-S Action Camera Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazons-top-pick-save-big-with-a-high-quality-macbook-usb-c-charging-cable-for-under-70/"><u>Amazon's Top Pick: Save Big with a High-Quality MacBook USB-C Charging Cable for Under $70</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/charge-up-to-7-gadgets-simultaneously-with-this-long-lasting-140w-portable-power-bank-a-comprehensive-review-by-zdnet/"><u>Charge Up To 7 Gadgets Simultaneously with This Long-Lasting 140W Portable Power Bank: A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-ultimate-selection-of-high-performance-gaming-ssds-for-ps5-xbox-and-pc-expert-picks-from-zdnet/"><u>Discover the Ultimate Selection of High-Performance Gaming SSDs for PS5, Xbox, & PC - Expert Picks From ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-unparalleled-audio-quality-of-best-buys-featured-speaker-system-at-50-off-as-revealed-by-zdnet-experts/"><u>Discover the Unparalleled Audio Quality of Best Buy's Featured Speaker System at 50% Off, as Revealed by ZDNet Experts!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/enhance-live-broadcast-quality-with-streamlabs-obs-tips/"><u>Enhance Live Broadcast Quality with Streamlabs OBS Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/final-opportunity-for-incredible-discounts-unbeatable-october-prime-day-2024-gaming-offers-available-now/"><u>Final Opportunity for Incredible Discounts! Unbeatable October Prime Day 2024 Gaming Offers Available Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-this-budget-friendly-computer-reignites-an-old-school-tech-buzzword-unraveling-the-trend/"><u>How This Budget-Friendly Computer Reignites an Old School Tech Buzzword - Unraveling the Trend</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/icloud-unlocker-download-unlock-icloud-lock-for-your-apple-iphone-15-pro-by-drfone-ios/"><u>iCloud Unlocker Download Unlock iCloud Lock for your Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-the-first-steps-in-starting-a-review-channel-for-tech-gadgets/"><u>In 2024, The First Steps in Starting a Review Channel for Tech Gadgets</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-the-nightfall-a-comprehensive-look-at-cooperative-parkour-mechanics-in-dying-light/"><u>Mastering the Nightfall: A Comprehensive Look at Cooperative Parkour Mechanics in Dying Light</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-savings-on-amazon-prime-day-2024-with-these-exceptional-deals-from-best-buy-zdnet-insights/"><u>Maximize Your Savings on Amazon Prime Day 2024 with These Exceptional Deals From Best Buy | ZDNet Insights</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-a-guide-to-understanding-the-nuances-of-accompanying-pictures-with-soundscape/"><u>New A Guide to Understanding the Nuances of Accompanying Pictures with Soundscape</u></a></li>
+<li><a href="https://techtrends.techidaily.com/playing-minecraft-solo-a-guide-to-enjoying-the-game-without-an-internet-connection-on-windows-11/"><u>Playing Minecraft Solo: A Guide to Enjoying the Game Without an Internet Connection on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-the-top-notch-meta-vr-offer-with-512gb-quest-headset-this-october-exclusive-deal-alert-on-zdnet/"><u>Score the Top-Notch Meta VR Offer with 512GB Quest Headset This October, Exclusive Deal Alert on ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbelievable-deal-top-ranked-gaming-speakers-now-just-150-less-on-amazon-find-out-why-they-took-my-breath-away/"><u>Unbelievable Deal: Top-Ranked Gaming Speakers Now Just $150 Less on Amazon - Find Out Why They Took My Breath Away</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-best-10-free-manga-sites-to-read-online/"><u>Updated 2024 Approved Best 10 Free Manga Sites to Read Online</u></a></li>
 </ul></div>
 

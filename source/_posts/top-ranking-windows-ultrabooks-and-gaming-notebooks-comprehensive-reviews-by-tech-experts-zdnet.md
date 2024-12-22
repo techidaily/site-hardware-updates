@@ -1,7 +1,7 @@
 ---
 title: Top-Ranking Windows Ultrabooks & Gaming Notebooks , Comprehensive Reviews by Tech Experts | ZDNet
-date: 2024-12-09T18:02:14.340Z
-updated: 2024-12-13T01:43:54.960Z
+date: 2024-12-16T03:51:04.413Z
+updated: 2024-12-22T07:52:10.959Z
 tags:
   - laptops
 categories:
@@ -25,16 +25,12 @@ All of the ultraportable laptops on this list sport cutting-edge form factors, a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the best lightweight laptop right now?
 
 Our overall top pick for the best lightweight laptop has to go to the [Apple MacBook Air M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24JRLR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb372b0e0-f807-4ada-91fc-3819fe7f0ce6%7Cdtp&dtb=1). In terms of portability, sleek form factor, solid battery life, and AI-capabilities, the MacBook Air M3 reigns supreme among the lightest of the light. It might not be the best pick for you, however, so we included other options that round out the spectrum of common use cases. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best ultraportable laptops of 2024
 
@@ -85,10 +81,6 @@ Cons
 
 ## Acer Swift Go 14
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best lightweight laptop for AI
 
 The Acer Swift Go 14 is one of the first portable laptops to come with Intel's new "Meteor Lake" processor, which has a dual-core neural processing unit (NPU) designed to take on AI workloads. This makes the Acer Swift Go 14 well-positioned to handle AI technology as it becomes increasingly more ubiquitous, giving it an edge that makes it our pick for best lightweight AI laptop.
@@ -114,6 +106,10 @@ Pros
 Cons 
 * Compact size means it can run hot
 * Comes pre-loaded with bloatware
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Asus ROG Zephyrus G14
 
@@ -146,11 +142,11 @@ Cons
 * Design tradeoffs for ultra portability
 * Expensive
 
-## LG Gram Pro 17
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## LG Gram Pro 17
 
 ### Best lightweight laptop with a 17" display
 
@@ -198,7 +194,7 @@ It also comes with an 8MP webcam that can shoot in 4K, perfect for presenting a 
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best lightweight laptop?
@@ -241,6 +237,10 @@ We use a combination of methods to test laptops here at ZDNET. First, we acquire
 
 Ultimately, our goal is to break down the capabilities of each and every laptop we test into digestible terms that real people can find useful. There is a lot of noise and confusion when it comes to navigating the laptop and computer consumer market, so we hope to bring an intuitive element to the whole process by leveraging our team's decades of experience. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Factors to consider when choosing a lightweight laptop
 
 These laptops all offer solid performance in their own right, but paired with their lightweight design, bring a new level of convenience with their portability. Keep in mind that the differences in their weight here are broken down to tenths of a pound, while most people won't even notice much of a difference between two and three pounds. These other factors went into the decision making process: 
@@ -256,10 +256,6 @@ The answer to this question is simple: laptops are made to be carried around, an
 Ultraportability does come with tradeoffs, however, both in terms of design and cost. When talking about design, the constraints on manufacturers to squeeze value out of every square inch of space in the laptop means that certain elements may be smaller, lighter, or in non-conventional locations. This especially refers to the laptop's battery, its display, or the laptop's keyboard. 
 
 In terms of cost, ultraportable laptops are often made with high-end, special lightweight materials that are going to cost more to produce and manufacture than simple plastic or aluminum. All of the laptops on this list were chosen for their well-designed, functional form factors and use of lightweight materials.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How much does a typical laptop weigh?
 
@@ -277,6 +273,10 @@ We love lightweight laptops because they're easy to carry around. But the backpa
 
 [ZDNET RECOMMENDS Matein Travel Laptop Backpack Packed with travel-friendly features like a luggage strap and an anti-theft back pocket that protects your valuables, the Matein travel laptop is an inexpensive and solid travel backpack for your laptop. A bonus feature is an external USB charging port for easy charging on the go. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBackpack-Business-Charging-Resistant-Computer%2Fdp%2FB06XZTZ7GB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb372b0e0-f807-4ada-91fc-3819fe7f0ce6%7Cdtp&dtb=1)[ZDNET RECOMMENDS Herschel Little America Backpack Herschel backpacks have a timeless design that's comfortable to wear thanks to the contoured padded back straps. It comes in two sizes which can hold up to a 13-inch laptop or a 15-inch laptop. Its drawstring closure expands to create extra storage space while the magnetic front straps secure what's inside. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB00838TCGO%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb372b0e0-f807-4ada-91fc-3819fe7f0ce6%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which operating system should you choose: Windows, MacOS, Chrome OS, or Linux?
 
 While every computing platform has its loyal supporters, most people end up using a particular operating system because of key applications running on it, employer preferences, or budgetary constraints. Windows, which ranges from budget to premium, and Apple's MacOS, which is exclusive to premium devices, cover a broad spectrum. Chrome OS is mostly limited to mid-range devices.
@@ -286,7 +286,7 @@ While every computing platform has its loyal supporters, most people end up usin
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are there alternative lightweight laptops worth considering?
@@ -335,16 +335,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-easy-way-change-clownfish-tone-in-windows/"><u>[Updated] 2024 Approved Easy Way Change Clownfish Tone in Windows</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unveiling-video-content-strategies-on-youtube/"><u>[Updated] 2024 Approved Unveiling Video Content Strategies on YouTube</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-synthetic-worlds-the-future-of-gaming-with-vr-for-2024/"><u>[Updated] Synthetic Worlds The Future of Gaming with VR for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-your-pc-experience-free-geforce-gt-710-driver-downloads-for-windows-users/"><u>Enhance Your PC Experience - Free GeForce GT 710 Driver Downloads for Windows Users</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/draft-to-edit-essential-film-techniques-via-youtube-for-2024/"><u>From Draft to Edit Essential Film Techniques via YouTube for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-canon-mg3620-drivers-easy-guide-for-smooth-printing-experience/"><u>Get Canon MG3620 Drivers: Easy Guide for Smooth Printing Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instant-setup-guide-canon-pro-100-printer-drivers-compatible-with-windows-systems/"><u>Instant Setup Guide: Canon PRO-100 Printer Drivers Compatible with Windows Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mp3wavdavinci-resolve/"><u>MP3、WAVファイル読み込みに失敗するDaVinci Resolveでのトラブルシューティング方法</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/sas-drivers-download-and-update-in-windows-1187/"><u>SAS Drivers Download & Update in Windows 11/8/7</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-tutorial-for-sharing-photos-from-phone-memory/"><u>The Ultimate Tutorial for Sharing Photos From Phone Memory</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-social-media-powerhouses-an-insightful-guide-to-facebook-twitter-instagram-and-youtube/"><u>Understanding Social Media Powerhouses: An Insightful Guide to Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-crafting-the-perfect-schedule-for-jobs-and-youtube/"><u>[New] In 2024, Crafting the Perfect Schedule for Jobs & YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/egal-landscapes-understanding-youtube-and-cc-divergences-for-2024/"><u>[New] Legal Landscapes Understanding YouTube & CC Divergences for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-screen-guards-protect-your-device-capture-better/"><u>[Updated] 2024 Approved Screen Guards Protect Your Device, Capture Better</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-motorola-moto-g14-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Motorola Moto G14 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-starting-strategies-for-an-engaging-fb-giveaway/"><u>2024 Approved Starting Strategies for an Engaging FB Giveaway</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-meizu-21-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-rx-6800-xt-driver-updates-how-to-install-them-successfully-across-win11-win10-win8-and-win7-systems/"><u>AMD RX 6800 XT Driver Updates: How to Install Them Successfully Across Win11, Win10, Win8 & Win7 Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-jest-in-layout-and-edit-suite/"><u>Best Jest in Layout & Edit Suite</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-tutorial-installing-your-toshiba-printers-drivers-in-windows-with-ease/"><u>Complete Tutorial: Installing Your Toshiba Printer's Drivers in Windows with Ease</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-hp-deskjet-inkjet-all-in-one-printer-driver-v208c-for-windows-11/"><u>Download HP DeskJet Inkjet All-in-One Printer Driver V2.08c for Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effective-solutions-to-fix-realtek-rtl8723be-driver-errors-on-windowslinux/"><u>Effective Solutions to Fix Realtek RTL8723BE Driver Errors on Windows/Linux</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-focusrite-scarlett-solo-driver-installed-tutorial-for-windows-users/"><u>Get Your Focusrite Scarlett Solo Driver Installed - Tutorial for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-started-with-the-updated-driver-for-logitech-extreme-3d-pro-gaming-equipment/"><u>Getting Started with the Updated Driver for Logitech Extreme 3D PRO Gaming Equipment</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-wolcen-lords-of-mayhem-game-crashing-on-windows-pcs/"><u>How to Fix 'Wolcen: Lords of Mayhem' Game Crashing on Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-securely-install-nvidia-display-drivers-for-enhanced-gaming-and-work-on-pc-windows/"><u>How to Securely Install NVIDIA Display Drivers for Enhanced Gaming and Work on PC (Windows)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210920216-9780719826887-lamp-of-the-goddess/"><u>Lamp of the Goddess | Free Book</u></a></li>
+<li><a href="https://facebook.techidaily.com/oculus-quest-update-rescheduled-for-next-fiscal-year/"><u>Oculus Quest Update: Rescheduled for Next Fiscal Year</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/optimize-your-workstation-nvidia-quadro-graphics-drivers-for-windows-11/"><u>Optimize Your Workstation: NVIDIA Quadro Graphics Drivers for Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-guide-to-installing-and-updating-scansnap-drivers-for-windows-users/"><u>Quick & Easy Guide to Installing and Updating ScanSnap Drivers for Windows Users</u></a></li>
 </ul></div>
 

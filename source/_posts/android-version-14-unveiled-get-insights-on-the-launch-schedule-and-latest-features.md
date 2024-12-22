@@ -1,7 +1,7 @@
 ---
 title: Android Version 14 Unveiled! Get Insights on the Launch Schedule and Latest Features
-date: 2024-09-01T05:42:48.640Z
-updated: 2024-09-02T05:42:48.640Z
+date: 2024-12-15T21:51:40.231Z
+updated: 2024-12-21T17:32:15.112Z
 tags:
   - android
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Android Version 14 Unveiled! Get Insights on the Launch Schedule and Latest Features
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -45,31 +49,38 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  The [iPhone 14 has an emergency satellite communication](https://facebook-video-content.techidaily.com/updated-navigating-retro-facebook-stories-pcmobile-guide-for-2024/) feature that allows you to literally connect to satellites when you have no Wi-Fi or data connection. Google's Hiroshi Lockheimer has [already confirmed](https://twitter.com/lockheimer/status/1565355464086265856?ref%5Fsrc=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1565355464086265856%7Ctwgr%5E9d2f02ccd2d06fe7b6cfad0e9c6526346b2e3a48%7Ctwcon%5Es1%5F&ref%5Furl=https%3A%2F%2Fwww.androidpolice.com%2Fandroid-14%2F) that Android will have the same technology in the next release, Android 14.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Splitting the Share Menu From System Updates
 
 ![Android share menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Android-share-menu.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Android Share Menu
 
  The Android share menu is one of the most complained-about areas of the operating system. It's the menu that appears when you want to share something from one app to another—or to specific people. Currently, updating the share menu requires full system updates, but Android 14 might split it out into an independently updateable module. This would allow Google to update it more frequently and easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Adapting Apps to Different Screen Sizes
 
  First and foremost, Google is continuing to work on [making Android great for many different screen sizes](https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/). This has become important in the age of foldable devices with transforming screen sizes. Google updated its [large-screen app quality checklist](https://developer.android.com/docs/quality-guidelines/tablet-app-quality), making it easier for developers to see how their apps scale. They've also [introduced new layouts](https://developer.android.com/large-screens/gallery).
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Regional Preference Settings
 
  Android 13 introduced [per-app language settings](https://article-knowledge.techidaily.com/in-2024-digital-stagecraft-unlocking-voice-manipulation-with-affordable-technology/), and Android 14 appears to be taking that idea to other formats. A new "[Regional Preferences](https://www.xda-developers.com/android-14-regional-preferences/)" feature will allow you to set preferences for weather units, calendar format, and numbers. This way, for example, you won't need to tell a weather app you prefer Fahrenheit manually.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Better Physical Keyboard and Touchpad Support
 
 ![Android Tablet With Mouse and Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/Android-Tablet-With-Mouse-and-Keyboard.png) 
@@ -78,9 +89,6 @@ Sydney Butler / How-To Geek
 
  Speaking of screen sizes, Android 14 may include [better support for using physical keyboards](https://www.xda-developers.com/android-14-improved-keyboard-support/) with Android tablets. Google is preparing to add support for customizing modifier keys, including Caps Lock, Ctrl, Alt, Windows, etc. This would make keyboards a lot more useful with Android devices. There may also be more options for how touchpad gestures and scrolling should work.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Customizable Lock Screen Shortcuts
 
 ![Android 14 lock screen shortcuts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/2023-06-09_15-19-10.jpg) 
@@ -94,8 +102,9 @@ Sydney Butler / How-To Geek
  Some Android devices come with an annoying amount of bloatware pre-installed. This can be anything from carrier apps to sponsored games. Android 14 may include a section in the Developer Options menu for uninstalling "[Apps Installed in the Background](https://twitter.com/MishaalRahman/status/1590757745447571457)," which is the name of the feature. It's not yet clear if this will be for Android 14 or 15.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Predictive Back Gesture
 
  Android's back gesture is not the greatest, especially since apps don't always make it clear where you'll be going when you use the gesture. To make this a little clearer, Android 14 will [show you a preview](https://www.xda-developers.com/android-14-predictive-back-gesture/) of where you'll go when using the gesture. As you swipe in from the side of the display, you'll see a glimpse of the previous screen.
@@ -108,12 +117,13 @@ Sydney Butler / How-To Geek
 
  Currently, using dual SIMs in your phone is a bit of a pain. You have to manually switch SIMs if the primary SIM isn't getting good reception. A [new option in the SIM settings](https://9to5google.com/2023/02/08/android-14-dual-sim-automatic/) aims to fix that. Users can toggle on "Switch Mobile Data Automatically," and Android will attempt to automatically switch between the SIMs based on cellular coverage. iPhones have had this feature for a few years.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  App Cloning
 
  Cloning apps is something you've [needed a third-party app](https://techtrends.techidaily.com/top-rated-affordable-beginners-guide-to-building-a-home-theater-system/) or [Samsung phone](https://facebook-video-share.techidaily.com/updated-building-your-ultimate-youtube-music-list-step-by-step-guide-webmobile-for-2024/) for in the past. Android 14 may bring the feature officially to Android. A [new "Cloned Apps" menu](https://9to5google.com/2023/02/08/android-14-cloned-apps/) is present in the "Apps" section. Not all apps will be available for cloning, as developers and manufacturers can choose to opt out of the feature.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Use Your Android Phone as a Webcam
 
@@ -123,16 +133,10 @@ _Joe Fedewa / How-To Geek_
 
  Apple made it possible to [use iPhones as webcams](https://dvd-bd.techidaily.com/diy-tutorial-transform-your-mp4-videos-into-a-professional-costless-dvd-with-ease/) last year. Now, Google is looking to add the ability to Android devices as well. A [project in progress](https://android-review.googlesource.com/c/platform/system/sepolicy/+/2410788) will allow you to plug and play an Android device as a "USB Video Class" (UVC) webcam. This means it would work easily as a webcam on most devices rather than being locked to a system like Apple's method.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Passkey Support for Apps
 
 [Passkeys](https://location-social.techidaily.com/how-to-change-your-apple-iphone-12-pro-max-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/) are shaping up to be the new way of signing into things on your phone. They replace passwords and PINs with more secure biometrics. Dashlane—a popular password manager—has already [announced](https://blog.dashlane.com/dashlane-passkey-support-android/) support for passkeys in Android 14\. 1Password has also [announced](https://9to5google.com/2023/02/09/1password-passkey-2023/) support for passkeys, and we should only see more in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ###  iOS-Like Photo Permissions
 
  The iPhone has a privacy option—[introduced in iOS 14](https://fox-links.techidaily.com/new-streamlining-your-creative-process-in-gopro-studio/)—that allows you to give an app access to only select photos rather than all or nothing. Android 14 may [get a similar feature](https://www.xda-developers.com/android-14-photo-picker-forced/). When an app requests access to media, you would be able to choose only the files you want to give, or allow the app to access all files. It's not clear if this will be in the final version of Android 14, but it would certainly be a welcome change.
@@ -146,17 +150,13 @@ _Joe Fedewa / How-To Geek_
  The public nicknames may have ended, but the internal nicknames have persisted. Android 10's internal codename was "Quince Tart," Android 11 was "Red Velvet Cake," Android 12 was "Snow Cone," and Android 13 was "Tiramisu."
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Which Devices Will Get Android 14?
 
 ![Google Pixel 7](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/Google-Pixel-7-Review-13.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 Joe Fedewa / How-To Geek
 
  The big question with a new Android update is which [Android phones](https://twitter-videos.techidaily.com/hot-takes-highlight-twitters-trending-topics-for-2024/) will get it. Google has already announced which of its Pixel phones are compatible with the Android 14 Developer Previews.
@@ -181,8 +181,6 @@ Joe Fedewa / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +188,17 @@ Joe Fedewa / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-charting-growth-the-best-online-stock-yts/"><u>[Updated] 2024 Approved Charting Growth The Best Online Stock YTs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-jokegenius-easy-login-creative-video-making/"><u>[Updated] 2024 Approved JokeGenius Easy Login, Creative Video Making</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-binge-watch-every-transformers-movie-in-their-official-series-order/"><u>How to Binge Watch Every Transformers Movie in Their Official Series Order</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-ultimate-cheat-sheet-pro-instagram-photo-enhancements/"><u>In 2024, The Ultimate Cheat Sheet Pro Instagram Photo Enhancements</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-review-of-the-efficient-apc-back-ups-be600m1-with-built-in-charger-for-your-usb-devices/"><u>In-Depth Review of the Efficient APC Back-UPS BE600M1 with Built-In Charger for Your USB Devices</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/meet-lora-renowned-writer-and-aomei-specialist-unveiled-for-seo-enthusiasts/"><u>Meet Lora – Renowned Writer and AOMEI Specialist Unveiled for SEO Enthusiasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/shop-the-incredible-discount-apples-macbook-air-with-m2-chip-goes-for-only-749-on-amazons-october-prime-day-spotlight-by-zdnet/"><u>Shop the Incredible Discount: Apple's MacBook Air with M2 Chip Goes for Only $749 on Amazon's October Prime Day – Spotlight by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/student-chromebooks-attacked-by-bedbugs-a-recurring-tech-nightmare-in-schools-insights/"><u>Student Chromebooks Attacked by Bedbugs: A Recurring Tech Nightmare in Schools Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-ultrabooks-comprehensive-tests-and-reviews-by-tech-gurus-zdnets-picks/"><u>Top-Rated Ultrabooks : Comprehensive Tests & Reviews by Tech Gurus | ZDNet's Picks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unexpectedly-impressive-discovering-a-non-macbook-laptop-that-outshines-apples-iconic-design-in-power-and-performance-reviews/"><u>Unexpectedly Impressive: Discovering a Non-MacBook Laptop That Outshines Apple’s Iconic Design in Power and Performance - Reviews</u></a></li>
+</ul></div>
 
