@@ -1,7 +1,7 @@
 ---
 title: The Affordable Alternative to MacBook Air - Meet the Laptop That Matches Up | ZDNET Tech Reviews
-date: 2024-12-14T20:39:15.866Z
-updated: 2024-12-21T18:39:40.569Z
+date: 2024-12-21T18:56:45.925Z
+updated: 2024-12-27T21:53:16.467Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -71,7 +71,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 The Zephyrus G14 has one other major downside, besides its heating issue. The laptop comes with a lot of bloatware. The SSD is packed with several forgettable apps. Granted, some are useful. Armoury Crate controls the RGB lights and GeForce Experience manages your library of games. The onboard assistant? Not so much. At least, I didn't find myself looking for it. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's buying advice
@@ -114,14 +114,24 @@ The Zephyrus G14 starts at $1,600\. My review unit in particular costs $1,900, w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-subrip-file-creation-from-compressed-archives/"><u>[Updated] 2024 Approved SubRip File Creation From Compressed Archives</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/445-for-a-pre-owned-microsoft-surface-pro-8-find-the-best-refurbished-options-here-according-to-zdnet/"><u>$445 for a Pre-Owned Microsoft Surface Pro 8? Find the Best Refurbished Options Here, According to ZDNet</u></a></li>
-<li><a href="https://facebook.techidaily.com/beyond-the-sensational-stories-rethinking-social-media-scandals/"><u>Beyond the Sensational Stories: Rethinking Social Media Scandals</u></a></li>
-<li><a href="https://win-dash.techidaily.com/brother-scanner-driver-enhancements-whats-new-in-the-windows-edition/"><u>Brother Scanner Driver Enhancements: What's New in the Windows Edition</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/deciding-on-your-ideal-apple-laptop-macbook-pro-vs-macbook-air-explained/"><u>Deciding on Your Ideal Apple Laptop: MacBook Pro Vs. MacBook Air Explained</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/huge-gaming-discounts-await-october-2024-prime-day-deals-offering-sweeping-savings-of-1000plus/"><u>Huge Gaming Discounts Await! October 2024 Prime Day Deals Offering Sweeping Savings of $1,000+</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Tecno Phantom V Fold? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/reviving-your-logitech-g230-headset-microphone-a-comprehensive-troubleshooting-guide/"><u>Reviving Your Logitech G230 Headset Microphone: A Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-project-sputnik-the-strategic-introduction-of-ubuntu-on-premium-dell-devices-an-exclusive-insight/"><u>Unveiling Project Sputnik: The Strategic Introduction of Ubuntu on Premium Dell Devices - An Exclusive Insight</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-navigating-to-your-youtube-comments-easily/"><u>[New] In 2024, Navigating to Your YouTube Comments Easily</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-leveraging-high-roi-crafting-dynamic-animated-ads-for-fb/"><u>[Updated] 2024 Approved Leveraging High ROI Crafting Dynamic Animated Ads for FB</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-reclaim-your-social-space-after-a-hack/"><u>[Updated] Reclaim Your Social Space After a Hack</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-spotting-a-block-snapchat-notifications-gone-mute/"><u>2024 Approved Spotting a Block Snapchat Notifications Gone Mute</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-videographers-minecraft-6-proven-ways-to-document-gameplay/"><u>2024 Approved The Videographer's Minecraft 6 Proven Ways to Document Gameplay</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-unveils-zen-5-architecture-with-ryzen-9-9950x-latest-benchmarks-show-mixed-results-in-high-power-mode/"><u>AMD Unveils Zen 5 Architecture with Ryzen 9 9950X; Latest Benchmarks Show Mixed Results in High-Power Mode</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-pixma-mp280-driver-software-download-guide-windows-compatibility/"><u>Canon PIXMA MP280 Driver Software Download Guide - Windows Compatibility</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/direct-access-to-the-latest-amd-radeon-r5-driver-download-for-various-windows-versions/"><u>Direct Access to the Latest AMD Radeon R5 Driver Download for Various Windows Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-graphics-experience-nvidia-geforce-rtx-3090-drivers-for-windows-legacy-versions-10-8-and-7/"><u>Elevate Your Graphics Experience: NVIDIA GeForce RTX 3090 Drivers for Windows Legacy Versions (10, 8 & 7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/epichloe-festucae-endophytic-fungus-in-association-with-the-grasses-of-the-genus-festuca-such-as-fescue-festuca-arundinacea/"><u>Epichloë Festucae (Endophytic Fungus) in Association with the Grasses of the Genus Festuca, Such as Fescue (Festuca Arundinacea</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-crystal-clear-sound-with-the-newest-sades-headset-drivers-free-and-safe-download/"><u>Experience Crystal Clear Sound with the Newest Sades Headset Drivers - Free & Safe Download!</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/hoogbezwenbarse-probleem-in-windows-de-opgelotte-harde-schijffractuur/"><u>Hoogbezwenbarse Probleem in Windows: De Opgelotte Harde Schijffractuur</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fix-undetected-tl-wn722n-nic-in-your-windows-computer-setup/"><u>How to Fix Undetected TL-WN722N NIC in Your Windows Computer Setup</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-enriching-videos-with-no-cost-sounds-legally/"><u>In 2024, Enriching Videos with No-Cost Sounds Legally</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/los-mejores-programas-gratuitos-para-extraer-y-convertir-contenido-en-mp4aviwmv-a-traves-de-un-cddvd-en-windows-cuidar-en-2021/"><u>Los Mejores Programas Gratuitos Para Extraer Y Convertir Contenido en MP4/AVI/WMV a Través De Un CD/DVD en Windows Cuidar en 2021</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-guide-canon-driver-installation-and-updates-on-windows/"><u>Simple Guide: Canon Driver Installation and Updates on Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-on-repairing-your-pc-with-help-from-chatgpt/"><u>Step-by-Step Guide on Repairing Your PC with Help From ChatGPT</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/successful-installation-guide-updating-your-intel-optane-drivers-on-windows-systems/"><u>Successful Installation Guide: Updating Your Intel Optane Drivers on Windows Systems</u></a></li>
 </ul></div>
 

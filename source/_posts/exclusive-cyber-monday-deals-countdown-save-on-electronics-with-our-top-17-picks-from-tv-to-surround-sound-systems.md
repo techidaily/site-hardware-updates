@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Cyber Monday Deals Countdown: Save on Electronics with Our Top 17 Picks From TV to Surround Sound Systems"
-date: 2024-12-14T23:07:15.457Z
-updated: 2024-12-21T17:02:25.123Z
+date: 2024-12-26T00:27:55.104Z
+updated: 2024-12-27T17:18:36.800Z
 tags:
   - laptops
 categories:
@@ -22,15 +22,15 @@ Black Friday and Cyber Monday just passed, but that doesn't mean you have to giv
 
 [![04-bf-cm.png](https://www.zdnet.com/a/img/resize/954e855aae296b0590d40ff6eba4167fd27f3d67/2022/11/29/2911e8eb-1a11-4aa3-8ff7-015c7e854046/04-bf-cm.png?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Black Friday and Cyber Monday tech deals still available If you missed out on this year's mega sale events, no problem. ZDNET is rounding up the best tech deals still available, right here.  Read now](https://www.zdnet.com/collection/cyber-monday/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Target has an expansive catalog of items on sale, but we only picked items that have at least a 20% discount since we know there's lots of gift-giving going on. We included all kinds of devices, from smartwatches to TVs and wireless headphones. So, if you're looking for a discount, we've got you covered. 
 
 If you're doing all or most of your holiday shopping at Target, it's important to know that the prices included in this list are how much you'll pay if you buy the item online, and prices will vary if you decide to buy an item in-store. Typically, buying online is cheaper, regardless of whether you then have it shipped or pick it up from the store. 
 
 If you're looking for all holiday deals, our experts searched other major retailers, like [Walmart](https://www.zdnet.com/article/walmart-early-cyber-monday-deals-november-27-2022/), [Costco](https://www.zdnet.com/home-and-office/costco-early-cyber-monday-deals-november-27-2022/), [Best Buy](https://www.zdnet.com/article/best-buy-early-cyber-monday-deals-november-27-2022/), [Amazon](https://www.zdnet.com/article/amazon-early-cyber-monday-deals-november-27-2022/), and [Newegg](https://www.zdnet.com/article/newegg-early-cyber-monday-deals-november-27-2022/) to help you find the [best Cyber Monday deals](https://www.zdnet.com/article/best-early-cyber-monday-deals-november-27-2022/) still available. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Best Target Cyber Monday deals**
 
@@ -69,13 +69,13 @@ Amazon's streaming media player includes 4K viewing, live and free TV channels, 
 
 [View now at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Famazon-fire-tv-stick-with-4k-ultra-hd-streaming-media-player-and-alexa-voice-remote-2nd-generation%2F-%2FA-54188026%23lnk%3Dsametab&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Target Cyber Monday Smartwatch Deals**
 
 [Garmin Venu 2S Smartwatch for $300 (save $50) $300 at Garmin](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.garmin.com/en-US/p/707572/pn/010-02429-01)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Target Cyber Monday headphones deals**
 
@@ -86,10 +86,6 @@ Amazon's streaming media player includes 4K viewing, live and free TV channels, 
 [JBL Tune Wireless On-Ear Headphones for $30 (save $20) $25 at JBL](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.jbl.com/over-ear-headphones/TUNE510BT-.html?dwvar%5FTUNE510BT-%5Fcolor=White-AM-Current)
 
 [Bose QuietComfort 45 wireless bluetooth noise-cancelling headphones for $230 (save $100) $230 at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fbose-quietcomfort-45-wireless-bluetooth-noise-cancelling-headphones%2F-%2FA-84692788%3Fpreselect%3D82797330%23lnk%3Dsametab&publisher%5Fslug=zdnet&article%5Fname=17%20best%20target%20cyber%20monday%20deals%20still%20available%20in%202022%3A%20tvs%2C%20headphones%2C%20speakers%20on%20sale&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Ftarget-best-holiday-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Target Cyber Monday streaming device deals**
 
@@ -112,7 +108,7 @@ Amazon's streaming media player includes 4K viewing, live and free TV channels, 
 [Google Nest Mini (2nd generation) for $20 (save $29) $20 at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fgoogle-nest-mini-2nd-generation%2F-%2FA-78589456&publisher%5Fslug=zdnet&article%5Fname=17%20best%20target%20cyber%20monday%20deals%20still%20available%20in%202022%3A%20tvs%2C%20headphones%2C%20speakers%20on%20sale&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Ftarget-best-holiday-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose Cyber Monday deals at Target?
@@ -126,12 +122,16 @@ Scouring through deals means comparing prices across many retailers and finding 
 Black Friday is always the Friday following Thanksgiving Day. This year, Black Friday was on Nov. 25.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When is Cyber Monday 2022?
 
 Cyber Monday is the Monday after Thanksgiving and is when most online retailers have a holiday sale. This year, Cyber Monday was on Nov. 28.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best holiday deals 2022?
 
@@ -184,7 +184,7 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best holiday 2022 deals under $30](https://www.zdnet.com/home-and-office/best-holiday-deals-under-30-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Cyber Monday live blog deals still available**
@@ -235,24 +235,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-best-3d-entrance-makers-for-youtube-creators/"><u>[New] 2024 Approved Best 3D Entrance Makers for YouTube Creators</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-easy-steps-for-enhanced-productivity-keyboard-based-screen-recordings-in-os-x/"><u>[Updated] 2024 Approved Easy Steps for Enhanced Productivity Keyboard-Based Screen Recordings in OS X</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-boosting-meeting-impact-with-simple-snap-camera-steps/"><u>[Updated] In 2024, Boosting Meeting Impact with Simple Snap Camera Steps</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-spotlight-tiktoks-breakthrough-challenges/"><u>[Updated] In 2024, Spotlight TikTok's Breakthrough Challenges</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-transforming-your-view-with-the-hp-envy-27-monitor/"><u>[Updated] Transforming Your View with the HP Envy 27 Monitor</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-playback-paradox-starting-at-the-finish-line-on-youtube/"><u>2024 Approved The Playback Paradox Starting at the Finish Line on YouTube</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-download-acpi-drivers/"><u>How to Download ACPI Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-reveals-compact-aio-desktop-surprising-twists-beyond-at-tech-conference/"><u>HP Reveals Compact AIO Desktop: Surprising Twists Beyond at Tech Conference</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-from-setup-to-streaming-the-definitive-guide-for-live-tv-screen-sharing-on-windows/"><u>In 2024, From Setup to Streaming The Definitive Guide for Live TV Screen-Sharing on Windows</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pros-in-mac-streaming-the-top-5-applications-for-2024/"><u>Pros in Mac Streaming The Top 5 Applications for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/tech-unboxed-immersive-dive-into-lenovos-cutting-edge-snapdragon-x-series-laptops-thinner-and-more-powerful-than-ever-zdnet-reviews/"><u>Tech Unboxed: Immersive Dive Into Lenovo's Cutting-Edge Snapdragon X Series Laptops - Thinner and More Powerful than Ever | ZDNET Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-17-unbeatable-cyber-monday-bargains-discounted-tvs-headphones-and-speakers-shop-now-at-zdnet/"><u>Top 17 Unbeatable Cyber Monday Bargains: Discounted TVs, Headphones & Speakers - Shop Now at ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-lenovo-notebook-suggestion-for-remote-and-office-jobs-save-big-with-a-1k-discount/"><u>Top Lenovo Notebook Suggestion for Remote & Office Jobs: Save Big with a $1K Discount!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranking-vpn-providers-comprehensive-evaluation-by-industry-experts-insights/"><u>Top-Ranking VPN Providers : Comprehensive Evaluation by Industry Experts - Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/tts-zu-mp4-zehn-methoden-fur-eine-schnelle-und-hochwertige-konvertierung/"><u>TTS Zu MP4 - Zehn Methoden Für Eine Schnelle Und Hochwertige Konvertierung</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-the-leading-touchscreen-laptops-in-depth-analysis-and-ratings-pcmag/"><u>Ultimate Guide to the Leading Touchscreen Laptops: In-Depth Analysis & Ratings | PCMag</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-your-potential-with-amazons-current-offer-on-a-premium-16-port-thunderbolt-dock-save-70-today-exclusive-insights-from-zdnet/"><u>Unleash Your Potential with Amazon's Current Offer on a Premium 16-Port Thunderbolt Dock – Save $70 Today! Exclusive Insights From ZDNet.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-methodology-behind-zdnets-rigorous-vpn-performance-assessments/"><u>Unveiling the Methodology Behind ZDNet's Rigorous VPN Performance Assessments</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-your-google-chrome-now-dont-miss-out-on-the-latest-security-enhancements-this-weekend-tips-from-zdnet/"><u>Upgrade Your Google Chrome Now: Don't Miss Out on the Latest Security Enhancements This Weekend - Tips From ZDNet</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-twitter-video-download-tool-for-mp3-conversion-for-2024/"><u>[New] Twitter Video Download Tool for MP3 Conversion for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-charting-success-with-these-top-15-youtube-introduction-techniques/"><u>[Updated] In 2024, Charting Success with These Top 15 YouTube Introduction Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-practices-for-downloading-and-installing-nvidia-quadro-rtx-4000-drivers-step-by-step-guide/"><u>Best Practices for Downloading & Installing NVIDIA Quadro RTX 4000 Drivers – Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dive-deep-the-ultimate-win11-mouse-properties-guide/"><u>Dive Deep: The Ultimate Win11 Mouse Properties Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-hp-deskjet-inkjet-9325e-printer-drivers-compatible-with-windows/"><u>Free Download: HP Deskjet Inkjet 9325E Printer Drivers - Compatible with Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-up-to-date-a-step-by-step-process-for-reinstalling-windows-bluetooth-adapter-drivers/"><u>Getting Up-to-Date: A Step-by-Step Process for Reinstalling Windows Bluetooth Adapter Drivers</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721267175179-immediate-access-to-prostar-iphoneguard-bestselling-data-retrieval-tool/"><u>Immediate Access to Prostar iPhoneguard - Bestselling Data Retrieval Tool</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1724766349171-macx-dvd-ripper-pro/"><u>MacX DVD Ripper Pro製品手引き: 正しいインストールと操作方法解説</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-guide-asus-laptop-trackpad-drivers-compatible-with-windows-10/"><u>Quick & Easy Guide: ASUS Laptop Trackpad Drivers Compatible with Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-installation-dell-latitude-e6420-drivers-downloaded-in-a-flash/"><u>Quick and Easy Installation: Dell Latitude E6420 Drivers Downloaded in a Flash!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/ranking-hexacopter-marvels-10-for-2024/"><u>Ranking Hexacopter Marvels #10 for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/secure-your-memories-long-term-webcam-video-storage-in-vlc/"><u>Secure Your Memories Long-Term Webcam Video Storage in VLC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-update-process-modern-sataahci-drive-controllers/"><u>Simple Update Process: Modern SATA/AHCI Drive Controllers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/steelseries-driver-software-downloads-and-setup-guide-optimize-your-windows-experience/"><u>SteelSeries Driver Software Downloads & Setup Guide - Optimize Your Windows Experience</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/top-5-free-mp3-editors-for-windows-11-users-effortless-audio-trimming/"><u>Top 5 Free MP3 Editors for Windows 11 Users: Effortless Audio Trimming</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-virtual-reality-making-spherical-videos-on-iphone-for-2024/"><u>Unleashing Virtual Reality Making Spherical Videos on iPhone for 2024</u></a></li>
 </ul></div>
 

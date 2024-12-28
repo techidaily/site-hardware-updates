@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Best Affordable Lenovo Devices: Powerful Options for Today's Hybrid Workforce with a $1,000 Deal!"
-date: 2024-12-18T16:47:48.365Z
-updated: 2024-12-22T08:43:58.455Z
+date: 2024-12-25T00:56:14.142Z
+updated: 2024-12-27T17:23:24.000Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7de9d47f-95cf-42d0-9213-b57cc5420698%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,500 -- $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7de9d47f-95cf-42d0-9213-b57cc5420698%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -79,18 +79,15 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-unboxing-the-essence-of-dji-inspire-2/"><u>[Updated] In 2024, Unboxing the Essence of DJI Inspire 2</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/back-up-your-computer-easily-free-solutions-to-transfer-data-to-onedrive-across-various-windows-os-platforms/"><u>Back Up Your Computer Easily: Free Solutions to Transfer Data to OneDrive Across Various Windows OS Platforms</u></a></li>
-<li><a href="https://fox-that.techidaily.com/essential-troubleshooting-steps-for-silent-iphones-receiving-calls/"><u>Essential Troubleshooting Steps for Silent iPhones Receiving Calls</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experts-rank-the-top-15-inch-laptops-of-2024-in-depth-analysis-and-ratings-for-smart-shoppers-guide/"><u>Experts Rank the Top 15-Inch Laptops of 2024 - In-Depth Analysis and Ratings for Smart Shoppers Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-color-harmony-made-easy-a-step-by-step-fcp-guide/"><u>In 2024, Color Harmony Made Easy A Step-by-Step FCP Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-vivo-y27-4g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo Y27 4G to Protect Your Individual Information</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oppo-a78-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Oppo A78 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-essentials-of-elevating-your-youtube-entrance-ranks-for-2024/"><u>The Essentials of Elevating Your Youtube Entrance Ranks for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-quintessential-tech-evolutions-of-2023-that-shifted-the-industry-paradigm-insights-from-zdnet/"><u>The Quintessential Tech Evolutions of 2023 that Shifted the Industry Paradigm | Insights From ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-cyber-monday-promotions-save-massive-discounts-on-razer-blade-14-laptops-up-to-920-off-tech-insights/"><u>Unbeatable Cyber Monday Promotions: Save Massive Discounts on Razer Blade 14 Laptops (Up to $920 Off) | Tech Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-productivity-lenovo-introduces-ai-enhanced-thinkpads-tailored-for-todays-business-professionals/"><u>Unleash Productivity: Lenovo Introduces AI-Enhanced ThinkPads Tailored for Today's Business Professionals</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleashing-next-level-productivity-with-the-acer-chromebook-516ge-review-on-zdnet/"><u>Unleashing Next-Level Productivity with the Acer Chromebook 516GE Review on ZDNet</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-xcover-7-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-gold-standard-of-livestream-performances/"><u>[New] Gold Standard of Livestream Performances</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/add-motion-blur-effect-to-photos-in-photoshop/"><u>Add Motion Blur Effect to Photos in Photoshop</u></a></li>
+<li><a href="https://driver-download.techidaily.com/boost-your-pcs-performance-with-the-new-intel-iris-540-graphics-driver-update-a-user-friendly-approach/"><u>Boost Your PC's Performance with the New Intel Iris 540 Graphics Driver Update: A User-Friendly Approach</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-setup-for-epson-wf-2750-printer-how-to-get-the-correct-drivers/"><u>Complete Setup for Epson WF-2750 Printer - How to Get the Correct Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-geforce-gtx-460-drivers-on-windows-simple-guide/"><u>Download GeForce GTX 460 Drivers on Windows: Simple Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-compatible-acer-touchpad-driver-for-windows-11-users/"><u>Free Download: Compatible Acer Touchpad Driver for Windows 11 Users</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-s17-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo S17 Pro Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-infinix-smart-8-hd-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Infinix Smart 8 HD Screen | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722964901109-simple-steps-install-the-latest-epson-drivers-on-windows-without-a-hitch/"><u>Simple Steps: Install the Latest Epson Drivers on Windows Without a Hitch!</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-pathways-three-keys-to-gaming-files/"><u>Windows Pathways: Three Keys to Gaming Files</u></a></li>
 </ul></div>
 

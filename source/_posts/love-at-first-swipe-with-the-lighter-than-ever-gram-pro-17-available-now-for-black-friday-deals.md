@@ -1,7 +1,7 @@
 ---
 title: Love at First Swipe with the Lighter-Than-Ever Gram Pro 17 - Available Now for Black Friday Deals!
-date: 2024-12-19T19:15:13.428Z
-updated: 2024-12-22T02:25:48.252Z
+date: 2024-12-24T19:42:23.435Z
+updated: 2024-12-28T00:23:49.085Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,15 +87,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-sparking-interest-customized-anime-style-subscribers-on-your-youtube-channel-filmora/"><u>[New] 2024 Approved Sparking Interest Customized, Anime-Style Subscribers on Your YouTube Channel (Filmora)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-step-by-step-guide-to-personalize-and-change-video-covers-on-facebook/"><u>[New] 2024 Approved Step-by-Step Guide to Personalize and Change Video Covers on Facebook</u></a></li>
-<li><a href="https://fox-info.techidaily.com/digital-radios-unleashed-the-recorders-essential-handbook-for-2024/"><u>Digital Radios Unleashed The Recorder's Essential Handbook for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gratis-online-konverter-avi-na-mp4-movavi-snimek-prekvapeni/"><u>Gratis Online Konvertér AVI Na MP4 - Movavi Snímek Překvapení</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unveil-the-art-of-creating-astonishing-gopro-time-lapse-videos/"><u>In 2024, Unveil the Art of Creating Astonishing GoPro Time-Lapse Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/rev-up-your-gameplay-an-exclusive-look-at-dells-premium-300e-laptop-with-unique-perks/"><u>Rev Up Your Gameplay: An Exclusive Look at Dell's Premium $3,00E Laptop with Unique Perks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/score-a-bargain-with-two-portable-monitors-for-your-laptop-save-120-on-teamgee-today-shopping-tips/"><u>Score a Bargain with Two Portable Monitors for Your Laptop! Save $120 on TeamGee Today Shopping Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/slash-your-costs-with-44-savings-the-ultimate-11-in-1-portable-hub-for-a-neat-workspace-now-on-sale-at-zdnet/"><u>Slash Your Costs with 44% Savings: The Ultimate 11-in-1 Portable Hub for a Neat Workspace - Now on Sale at ZDNet!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-nlra-was-enacted-in-1urt-which-are-the-most-important-things-we-can-learn-from-them/"><u>The NLRA Was Enacted in 1Urt, Which Are the Most Important Things We Can Learn From Them?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-navigating-youtube-video-production-tools/"><u>[New] In 2024, Navigating YouTube Video Production Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-discovering-hidden-treasures-windows-11s-new-offerings/"><u>2024 Approved Discovering Hidden Treasures Windows 11'S New Offerings</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cross-device-communication-made-easy-managing-a-single-phone-number-on-all-your-tech-tools/"><u>Cross-Device Communication Made Easy: Managing a Single Phone Number on All Your Tech Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-premier-drones-dominating-the-skies/"><u>Discover the Premier Drones Dominating the Skies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-downgrade-from-sierra-to-el-capitan-on-macs/"><u>In 2024, Guide to Downgrade From Sierra to El Capitan on Macs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-xiaomi-redmi-k70-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Xiaomi Redmi K70 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-lenovo-webcam-driver-updates-for-windows-7-users/"><u>Latest Lenovo Webcam Driver Updates for Windows 7 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-sapphire-driver-updates-available-get-them-here/"><u>Latest Sapphire Driver Updates Available: Get Them Here!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-through-new-camera-settings-in-ios-11-for-2024/"><u>Navigating Through New Camera Settings in iOS 11 for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/overcoming-challenges-with-pci-secure-data-handler-resolved-control-mechanisms/"><u>Overcoming Challenges with PCI Secure Data Handler: Resolved Control Mechanisms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-razer-mouse-driver-setup-for-windows-users-a-step-by-step-tutorial/"><u>Seamless Razer Mouse Driver Setup for Windows Users - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solution-wind-speeds-over-5msec-can-increase-the-rate-of-moisture-loss-through-evaporation-leading-to-uneven-drying-surface-defects-and-reduced-strength-in-81/"><u>Solution: Wind Speeds over 5M/Sec Can Increase the Rate of Moisture Loss Through Evaporation, Leading to Uneven Drying, Surface Defects, and Reduced Strength in the Concrete.</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/solve-your-moviebox-woes-top-fixes-for-issues-on-ios-14-and-older-apple-devices/"><u>Solve Your MovieBox Woes: Top Fixes for Issues on iOS 14 and Older Apple Devices!</u></a></li>
 </ul></div>
 

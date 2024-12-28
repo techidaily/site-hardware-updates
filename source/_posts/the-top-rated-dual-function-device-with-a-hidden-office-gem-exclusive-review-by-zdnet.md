@@ -1,7 +1,7 @@
 ---
 title: "The Top-Rated Dual-Function Device with a Hidden Office Gem: Exclusive Review by ZDNet"
-date: 2024-12-18T19:55:43.219Z
-updated: 2024-12-21T18:18:08.721Z
+date: 2024-12-20T19:37:35.176Z
+updated: 2024-12-28T00:23:59.184Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -81,7 +81,7 @@ Alongside them are a pair of discrete microphones capable of picking out the fin
 So the high visual resolution, combined with the powerful audio system and recording features, make the HP Elitebook x360 one of the better laptops out there for on-the-go video calls.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -120,19 +120,24 @@ For more traditional users, I'd recommend the [Acer Swift 14](https://shop-links
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-innovative-metaverse-perspectives-a-30-quote-collection/"><u>[New] Innovative Metaverse Perspectives A 30-Quote Collection</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-graceful-gallops-on-frozen-ground/"><u>[Updated] 2024 Approved Graceful Gallops on Frozen Ground</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-depth-look-nikon-d7500-specifications/"><u>[Updated] In-Depth Look Nikon D7500 Specifications</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-update-short-twitter-video-coverage/"><u>[Updated] Update Short Twitter Video Coverage</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-set-up-steelseries-graphics-driver-on-your-pc/"><u>Download and Set Up SteelSeries Graphics Driver on Your PC</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-infinix-hot-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-hp-wireless-network-drivers-for-windows-computers/"><u>How to Download and Install HP Wireless Network Drivers for Windows Computers</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-sony-xperia-1-v-phone-by-drfone-android/"><u>How to Unlock a Network Locked Sony Xperia 1 V Phone?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-lava-yuva-2-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Lava Yuva 2</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/incremental-volume-easing-in-logic-pro-audio-workflows/"><u>Incremental Volume Easing in Logic Pro Audio Workflows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/official-logitech-g510-software-installation-guide-supports-windows-7-to-10/"><u>Official Logitech G510 Software Installation Guide - Supports Windows 7 to 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-guide-download-and-update-epson-et-2750-printer-software-for-pcs/"><u>Quick Guide: Download & Update Epson ET-2750 Printer Software for PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-driver-installation-for-asus-z370-e-fast-and-simple/"><u>Step-by-Step Driver Installation for ASUS Z370-E - Fast & Simple</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-budget-4k-photography-systems/"><u>Top Budget 4K Photography Systems</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-empowerment-in-film-a-selection-of-inspiring-titles-for-2024/"><u>[New] Empowerment in Film A Selection of Inspiring Titles for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-verdict-on-video-clips-a-deep-dive-into-inshots-performance/"><u>2024 Approved The Verdict on Video Clips A Deep Dive Into InShot's Performance</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-lenovo-thinkphone-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Lenovo ThinkPhone Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/gaming-display-bargain-49-inch-aorus-oled-by-gigabyte-now-a-steal-at-969-price-spike/"><u>Gaming Display Bargain: 49-Inch Aorus OLED by Gigabyte Now a Steal at $969 Price Spike</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-best-rated-gamers-dream-dell-s3222dgm-for-a-record-low-of-just-229/"><u>Get Your Hands on the Best Rated Gamer's Dream, Dell S3222DGM for a Record Low of Just $229!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hit-save-on-high-definition-with-alienwares-curved-gaming-masterpiece-100-off-the-aw3225qf-brilliantly-crafted-4k-qd-oled-display-at-a-blistering-240-hz/"><u>Hit Save on High Definition with Alienware's Curved Gaming Masterpiece: $100 Off the AW3225QF - Brilliantly Crafted 4K QD-OLED Display at a Blistering 240 Hz</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-pro-max-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 Pro Max without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-webcam-driver-for-windows-10/"><u>How to Update Webcam Driver for Windows 10</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-by-tom-unveiling-top-hardware-picks/"><u>In-Depth Analysis by Tom: Unveiling Top Hardware Picks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-toms-hardware-tech-reviews-and-insights/"><u>Inside Tom's Hardware: Tech Reviews and Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/leading-edge-bent-display-panels-for-gamers/"><u>Leading Edge Bent Display Panels for Gamers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/level-up-your-gaming-world-with-the-high-performance-acer-nitro-now-on-sale-at-only-81/"><u>Level Up Your Gaming World with the High-Performance Acer Nitro - Now on Sale at Only $81</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/masterclass-on-tech-reviewed-a-deep-dive-into-computer-hardware-with-tom/"><u>Masterclass on Tech Reviewed: A Deep Dive Into Computer Hardware with Tom</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mastering-hp-printer-configuration-on-microsoft-systems/"><u>Mastering HP Printer Configuration on Microsoft Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-your-tech-needs-through-expert-advice-from-toms-hardware/"><u>Mastering Your Tech Needs Through Expert Advice From Tom's Hardware</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-accessing-windows-pre-launch-settings/"><u>Step-by-Step: Accessing Windows' Pre-Launch Settings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-world-of-components-with-toms-hardware-explorations/"><u>The World of Components with Tom's Hardware Explorations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-blu-ray-dvd-regions-without-cost-for-cross-player-compatibility/"><u>Unlocking Blu-Ray DVD Regions Without Cost for Cross-Player Compatibility</u></a></li>
 </ul></div>
 

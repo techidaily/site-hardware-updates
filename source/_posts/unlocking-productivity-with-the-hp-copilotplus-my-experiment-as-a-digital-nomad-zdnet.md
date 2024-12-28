@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Productivity with the HP Copilot+: My Experiment as a Digital Nomad | ZDNet"
-date: 2024-12-15T07:58:34.870Z
-updated: 2024-12-21T21:26:20.228Z
+date: 2024-12-26T18:24:44.301Z
+updated: 2024-12-27T22:52:20.615Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccc7251f7-0016-403a-b148-f5d67345d58a%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,520 -- nearly $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccc7251f7-0016-403a-b148-f5d67345d58a%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -79,24 +79,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-free-frameworks-amplify-your-youtube-vision/"><u>[New] Free Frameworks Amplify Your YouTube Vision</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-unveiling-the-secrets-of-high-quality-ps4-game-broadcasts/"><u>[Updated] Unveiling the Secrets of High-Quality PS4 Game Broadcasts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725290204529-vobmp4/"><u>优选的VOB与MP4影片转换软件 - 实用指南：快速完成格式改变</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/breaking-apple-unveils-budget-friendly-m2-macbook-air-at-an-impressive-799-before-the-big-october-sale-exclusive/"><u>Breaking: Apple Unveils Budget-Friendly M2 MacBook Air at an Impressive $799 Before the Big October Sale - Exclusive</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-nvidias-new-high-performance-studio-notebook-range-with-unprecedented-gaming-and-creative-capabilities-insights-from-zdnet/"><u>Discover Nvidia’s New High-Performance Studio Notebook Range with Unprecedented Gaming and Creative Capabilities - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-grab-the-discounted-lenovo-thinkpad-l14-gen-3-for-77-off-during-cyber-monday-sale-zdnet/"><u>Don't Miss Out! Grab the Discounted Lenovo ThinkPad L14 Gen 3 for 77% Off During Cyber Monday Sale | ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/experience-effortless-living-with-these-9-ai-solutions/"><u>Experience Effortless Living with These 9 AI Solutions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722668869789-expert-picks-top-performing-outside-media-drives-of-the-year-20236/"><u>Expert Picks: Top-Performing Outside Media Drives of the Year 202#36</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/follower-erosion-how-to-spot-it-on-insta-for-2024/"><u>Follower Erosion How to Spot It on Insta for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-reinstalling-microsoft-store-apps/"><u>Guide to Reinstalling Microsoft Store Apps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-can-you-move-your-existing-windows-software-license-across-different-computers-tips-and-tricks-for-seamless-transition/"><u>How Can You Move Your Existing Windows Software License Across Different Computers? Tips & Tricks for Seamless Transition</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-apple-iphone-6-activation-lock-by-drfone-ios/"><u>How to Remove Apple iPhone 6 Activation Lock</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastery-in-motion-a-thorough-review-of-magix-vpxs-features/"><u>In 2024, Mastery in Motion A Thorough Review of Magix VPX's Features</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-your-favorite-games-before-prime-days-end-exclusive-october-2024-discounts-reviewed-by-toms-hardware/"><u>Secure Your Favorite Games Before Prime Day's End: Exclusive October 2024 Discounts Reviewed by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-the-hp-zbook-studio-g9-professional-mobility-meets-powerful-graphics-pcworld-review/"><u>The Ultimate Guide to the HP ZBook Studio G9: Professional Mobility Meets Powerful Graphics | PCWorld Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-18-unbeatable-prime-day-offers-on-hp-apple-razer-and-other-brands-exclusive-deals-from-zdnet/"><u>Top 18 Unbeatable Prime Day Offers on HP, Apple, Razer & Other Brands - Exclusive Deals From ZDNet!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-exclusive-savings-on-hp-victus-15-gaming-laptop-at-515-prime-day-deal-alert/"><u>Unlock Exclusive Savings on HP Victus 15 Gaming Laptop at $515 – Prime Day Deal Alert !</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/zdnet-reveals-shop-the-high-capacity-8tb-samsung-t5-ssd-now-for-a-whopping-36-lesser-price-after-prime-day/"><u>ZDNet Reveals: Shop the High-Capacity 8TB Samsung T5 SSD Now for a Whopping 36% Lesser Price After Prime Day!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfecting-snaps-a-guide-to-optimal-video-and-image-zoom/"><u>[New] Perfecting Snaps A Guide to Optimal Video and Image Zoom</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-setup-hp-envy-amo-5660-drivers-with-simple-steps/"><u>Download & Setup HP Envy Amo 5660 Drivers with Simple Steps</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974651792-get-the-newest-epson-wf-3620-printer-driver-software-on-windows-11windows-8windows-7-download-here/"><u>Get the Newest Epson WF-3620 Printer Driver Software on Windows 11/Windows 8/Windows 7 - Download Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/gigabyte-z370p-motherboard-drivers-download-get-the-latest-update-now/"><u>Gigabyte Z370P Motherboard Drivers Download - Get the Latest Update Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-and-set-up-brother-mfc-l2700dw-drivers-on-your-windows-machine/"><u>How to Get and Set Up Brother MFC-L2700DW Drivers on Your Windows Machine</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-hp-laserjet-m506-driver-step-by-step-instructions/"><u>How to Update Your HP LaserJet M506 Driver - Step by Step Instructions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guide-maximizing-apple-podcast-listing-chances/"><u>In 2024, Guide Maximizing Apple Podcast Listing Chances</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovative-av-producers-the-ultimate-web-watchlist/"><u>Innovative AV Producers The Ultimate Web Watchlist</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-downloads-for-hp-stream-display-adapters/"><u>Instant Downloads for HP Stream Display Adapters</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722962953006-latest-nvidia-geforce-gtx-1650-super-drivers-for-windows-10-and-11-free-update-now/"><u>Latest NVIDIA GeForce GTX 1650 Super Drivers for Windows 10 & 11 - Free Update Now</u></a></li>
+<li><a href="https://article-files.techidaily.com/launch-your-clips-free-intro-downloads/"><u>Launch Your Clips Free Intro Downloads</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-through-the-dossiers-of-facebook-disclosures/"><u>Navigating Through the Dossiers of Facebook Disclosures</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/replace-the-current-usb-cable-with-an-official-apple-lightning-to-usb-cable-for-iphones-or-a-certified-usb-cable-for-newer-ipads-you-can-purchase-them-from-291/"><u>Replace the Current USB Cable with an Official Apple Lightning to USB Cable (for iPhones) or a Certified USB Cable (for Newer iPads). You Can Purchase Them From Apple Store or Authorized Resellers.</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/stealthy-threats-uncovering-and-defending-against-image-based-malware-infections/"><u>Stealthy Threats: Uncovering and Defending Against Image-Based Malware Infections</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-reasons-why-claude-surpasses-chatgpt-as-an-ai-conversationalist/"><u>Top 4 Reasons Why Claude Surpasses ChatGPT as an AI Conversationalist</u></a></li>
 </ul></div>
 

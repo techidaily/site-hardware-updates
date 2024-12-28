@@ -1,7 +1,7 @@
 ---
 title: Get Your HP Printer Software for OfficeJet Pro 8740 on Windows 11/10/8 Systems
-date: 2024-08-23T13:46:45.955Z
-updated: 2024-08-24T13:46:45.955Z
+date: 2024-12-21T20:14:35.186Z
+updated: 2024-12-27T20:38:33.128Z
 tags:
   - win11
   - win10
@@ -36,9 +36,19 @@ Follow these steps:
 2. Type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c379a3ed4.jpg)
 3. Find your printer in Device Manager. It can display in**Print queues** ,**Printers** , or**Other devices.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right click on your**Epson WF 3620 printer** , and click**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c3ac0fc97.png)
 5. If you see a notification popup, check the box next to**Delete the driver software for this device** , then click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c412411da.jpg)
 
  After uninstalling, you can now download the printer driver from official website.
@@ -49,6 +59,10 @@ Follow these steps:
 3. In the**Downloads** tab, make sure the detected**Operating System** is correct. Then click**Download** to download the driver package.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c4d2efa90.jpg)
 4. Run the downloaded file and follow the on-screen instructions to finish the installation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This method requires time and computer skills. If this method doesn’t work for you, don’t worry. You can try[method 2](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -64,6 +78,11 @@ Follow these steps:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c53c6a756.jpg)
 3. You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click**Update All** to automatically download and install the correct version of_**ALL**_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c6040133d.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer to take effect.
@@ -71,6 +90,10 @@ Follow these steps:
  Note: If you have any problems while using Driver Easy, feel free to contact our support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When should I update Epson WF 3620 driver
 
@@ -94,8 +117,6 @@ Follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -103,8 +124,23 @@ Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-for-experts-only-top-5-best-drones-to-buy/"><u>[New] For Experts Only – Top 5 Best Drones to Buy</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-transform-your-screen-pip-tutorials-for-macos-enthusiasts/"><u>[New] In 2024, Transform Your Screen PIP Tutorials for macOS Enthusiasts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-unveiling-the-power-of-high-quality-gaming-screenshots/"><u>[New] Unveiling the Power of High-Quality Gaming Screenshots</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-unlocking-full-potential-with-powerdirector-a-comprehensive-review/"><u>[Updated] In 2024, Unlocking Full Potential with PowerDirector - A Comprehensive Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-simplified-guide-to-stories-mechanics/"><u>[Updated] Simplified Guide to Stories' Mechanics</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-rndis-network-adapter-drivers-for-windows-a-comprehensive-guide/"><u>Download & Update RNDIS Network Adapter Drivers for Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-hp-deskjet-3755-all-in-one-printer-software-compatible-with-windows-1187/"><u>Download the Newest HP DeskJet 3755 All-In-One Printer Software Compatible with Windows 11/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-driver-installation-tips-for-scansnap-ix500-users-in-windows-environments/"><u>Effortless Driver Installation Tips for ScanSnap iX500 Users in Windows Environments</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-your-rainbow-six-connection-error-with-these-easy-steps/"><u>Fixing Your Rainbow Six Connection Error with These Easy Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-epson-tm-t88v-driver-version-for-windows-pcs-free-download/"><u>Get the Most Recent EPSON TM-T88V Driver Version for Windows PCs – Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-latest-sound-blaster-z-wireless-drivers/"><u>Get Your Hands on the Latest Sound Blaster Z Wireless Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-refresh-your-amd-drivers-for-optimal-performance-on-various-windows-versions/"><u>How to Refresh Your AMD Drivers for Optimal Performance on Various Windows Versions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ice-skates-and-epochs-a-look-at-beijings-olympic-saga-2022/"><u>Ice Skates & Epochs A Look at Beijing's Olympic Saga, 2022</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205006815-resolve-the-windows-10-missing-bluetooth-problem-swiftly-and-with-simple-fixes/"><u>Resolve the 'Windows 10 Missing Bluetooth' Problem Swiftly and with Simple Fixes!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/top-8-best-free-and-paid-video-collage-apps-for-android/"><u>Top 8 Best Free and Paid Video Collage Apps for Android</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-fix-guide-for-windows-11s-troublesome-bluetooth-pairings-now-working/"><u>Ultimate Fix Guide for Windows 11'S Troublesome Bluetooth Pairings - Now Working!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

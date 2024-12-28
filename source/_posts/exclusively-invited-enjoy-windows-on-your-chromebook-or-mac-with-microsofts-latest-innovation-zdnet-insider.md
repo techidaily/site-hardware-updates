@@ -1,7 +1,7 @@
 ---
 title: "Exclusively Invited: Enjoy Windows on Your Chromebook or Mac with Microsoft's Latest Innovation | ZDNet Insider"
-date: 2024-12-20T07:33:22.552Z
-updated: 2024-12-22T06:12:05.188Z
+date: 2024-12-20T16:39:30.652Z
+updated: 2024-12-27T19:23:34.539Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ That's right. Apple said the "A" word, and it's not being shy about it, as my af
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple is _officially_ in the AI PC race
@@ -55,7 +55,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Apple also wants you to know that it's _been_ in the [AI PC race](https://www.zdnet.com/article/what-is-an-ai-pc-and-should-you-buy-one/) since the very beginning, with just about every Mac model now carrying neural engines for machine learning. The new MacBook Air is "the best consumer laptop for AI," the company touts in its Monday press release, but we'll have to see for ourselves when we put the 13- and 15-inch models through the wringer soon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. I can finally recommend the Midnight color
@@ -67,7 +67,7 @@ AI aside, there is one subtle design change to the new MacBooks that I really di
 Considering how easy it was to get smudges and marks on the original Midnight color of the MacBook Air -- which made lighter hue options look like rockstars -- this is a welcome change. Having fumbled with the MacBooks for a quick 10-minute photo-op, the fingerprints were noticeable, though not as bad as I remembered on the M2 Air. For me, this makes the Midnight variant recommendable again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Dual-monitor support is a bigger deal than it seems
@@ -110,17 +110,19 @@ All in all, the changes to the newest line of MacBook Air feel subtle on paper b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-exclusive-roundup-affordable-high-quality-live-streaming-services/"><u>[New] 2024 Approved Exclusive Roundup Affordable, High-Quality Live Streaming Services</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-gifs-and-graphics-iphone-laughter/"><u>[New] In 2024, GIFs & Graphics IPhone Laughter</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-no-money-no-problem-guide-to-flying-solo-in-google-meet-for-2024/"><u>[New] No Money? No Problem! Guide to Flying Solo in Google Meet for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-achieving-youtube-earnings-excellence-strategies-and-beyond/"><u>[Updated] In 2024, Achieving YouTube Earnings Excellence - Strategies and Beyond</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pinnacle-video-cameras-a-2024-outlook/"><u>[Updated] Pinnacle Video Cameras A 2024 Outlook</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/aerial-excellence-with-mi-drone-a-high-quality-look/"><u>Aerial Excellence with MI Drone - A High-Quality Look</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-hp-officejet-3830-windows-printer-drivers-free-and-fast/"><u>Download the HP Officejet 3830 Windows Printer Drivers - Free & Fast</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-way-to-obtain-and-implement-the-driver-software-for-hp-laserjet-pro-m402n-in-your-windows-computer/"><u>Easy Way to Obtain and Implement the Driver Software for HP LaserJet Pro M402n in Your Windows Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-corsair-mouse-driver-fast-easy-installation-steps/"><u>Get Your Corsair Mouse Driver - Fast, Easy Installation Steps!</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 Plus To Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/quick-fix-for-lost-login-reclaim-your-facebook-passcode/"><u>Quick Fix for Lost Login: Reclaim Your Facebook Passcode</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-or-install-zebra-printer-drivers-for-windows-latest-versions-available-now/"><u>Update or Install Zebra Printer Drivers for Windows - Latest Versions Available Now!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-top-quality-no-cost-desktop-recording-the-best-apps-list/"><u>[New] In 2024, Top Quality, No Cost Desktop Recording The Best Apps List</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-leading-screen-grabbers-top-picks-for-windows-11/"><u>[New] Leading Screen Grabbers Top Picks for Windows 11</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-dark-moments-decoded-for-iphone-users/"><u>[Updated] 2024 Approved Dark Moments Decoded for iPhone Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1-how-to-integrate-rtsp-live-streaming-into-your-website-with-vlc-and-html5-for-seamless-viewing/"><u>1. How to Integrate RTSP Live Streaming Into Your Website with VLC and HTML5 for Seamless Viewing</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/invisible-culprits-affecting-windows-11s-efficiency/"><u>Invisible Culprits Affecting Windows 11'S Efficiency</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-a-steal-immersive-qhd-gaming-experience-on-the-affordable-dell-ips-monitor-at-199/"><u>Score a Steal - Immersive QHD Gaming Experience on the Affordable Dell IPS Monitor at $199</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-ultimate-gamingproductivity-screen-the-samsung-pixel-dense-viewfinity-s9-monitor-with-stunning-5k-display-and-inbuilt-4k-cam-now-at-an-unbelievable38/"><u>Snag the Ultimate Gaming/Productivity Screen: The Samsung Pixel-Dense ViewFinity S9 Monitor with Stunning 5K Display & Inbuilt ^4K Cam – Now at an Unbelievable $899 Price, Save 44%!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-tech-comparison-guide-a-deep-dive-into-computer-hardware/"><u>The Ultimate Tech Comparison Guide: A Deep Dive Into Computer Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-gadget-guide-in-depth-analysis-of-computer-components/"><u>Tom's Gadget Guide: In-Depth Analysis of Computer Components</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-gear-the-ultimate-guide-to-hardware-reviews/"><u>Tom's Tech Gear: The Ultimate Guide to Hardware Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-exploring-the-latest-in-computer-components/"><u>Tom's Tech Hub: Exploring the Latest in Computer Components</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-tablet-deals-on-cyber-monday-get-600-off-microsoft-surface-pro-8-post-black-friday-sale-zdnet-insider/"><u>Top Tablet Deals on Cyber Monday: Get $600 Off Microsoft Surface Pro 8 Post-Black Friday Sale | ZDNET Insider</u></a></li>
 </ul></div>
 

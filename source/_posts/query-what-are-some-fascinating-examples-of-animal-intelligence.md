@@ -1,7 +1,7 @@
 ---
 title: "[Query]: What Are some Fascinating Examples of Animal Intelligence?"
-date: 2024-12-21T06:55:31.553Z
-updated: 2024-12-21T20:00:51.167Z
+date: 2024-12-26T17:54:36.519Z
+updated: 2024-12-27T18:54:00.451Z
 tags:
   - laptops
 categories:
@@ -20,7 +20,7 @@ This week, Microsoft held its fall Microsoft Surface launch event where the comp
 Surface remains one of Microsoft's most popular products, with revenue increasing 3% year-over-year by $226 million in the fourth quarter of its [2022 financial year](https://www.microsoft.com/en-us/Investor/earnings/FY-2022-Q3/more-personal-computing-performance#:~:text=Surface%20revenue%20increased%20%24195%20million,increased%20%24305%20million%20or%207%25.&text=Gross%20margin%20increased%20%24755%20million,and%20Search%20and%20news%20advertising.). But that wasn't always the case, and Surface represents a big shift in Microsoft's business over the last decade. Here is how the Surface earned its spot as one of Microsoft's best sellers. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Windows
@@ -119,16 +119,21 @@ Microsoft has to make sure that it continues to upgrade its Surface lineup to st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-insight-into-excellence-a-detailed-guide-to-mastering-vivacut-editing/"><u>[New] Insight Into Excellence A Detailed Guide to Mastering VivaCut Editing</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-streamline-video-calls-using-google-hangouts-efficiently/"><u>[Updated] In 2024, Streamline Video Calls Using Google Hangouts Efficiently</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/anticipated-announcements-at-apples-oct-event-the-new-m4-mac-mini-and-upcoming-ipad-releases/"><u>Anticipated Announcements at Apple's Oct Event: The New M4 Mac Mini & Upcoming iPad Releases</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-your-laptop-with-a-4k-docking-station-bring-ultra-high-definition-displays-without-upgraded-internal-tech-insights-from-zdnet/"><u>Enhance Your Laptop with a 4K Docking Station: Bring Ultra-High Definition Displays Without Upgraded Internal Tech - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-dual-functionality-of-lenovos-new-hybrid-device-a-windows-laptop-and-android-tablet-with-remarkable-capabilities-review/"><u>Exploring the Dual-Functionality of Lenovo's New Hybrid Device: A Windows Laptop & Android Tablet with Remarkable Capabilities Review</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-itel-p40-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Itel P40</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-conquering-content-diversity-with-verticalized-h-video-posts/"><u>In 2024, Conquering Content Diversity with Verticalized H-Video Posts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximize-your-pcs-potential-overcome-fps-decrease-in-forza-horizon-5-fixed/"><u>Maximize Your PC's Potential: Overcome FPS Decrease in Forza Horizon 5 [FIXED]</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-looking-for-a-change-top-10-adobe-premiere-elements-alternatives-to-consider-for-2024/"><u>New Looking for a Change? Top 10 Adobe Premiere Elements Alternatives to Consider for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/slash-your-clutter-discover-the-ultimate-11-in-1-docking-station-at-a-44-discount-insights/"><u>Slash Your Clutter: Discover the Ultimate 11-in-1 Docking Station at a 44% Discount - Insights</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-dissecting-the-functionality-of-burst-in-gopro-filming/"><u>[New] 2024 Approved Dissecting the Functionality of Burst in GoPro Filming</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-exploring-the-world-of-aspect-ratios-in-youtube-content/"><u>[New] In 2024, Exploring the World of ASPECT RATIOS in YOUTUBE Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-techniques-for-efficiently-blending-flv-files/"><u>[New] Techniques for Efficiently Blending FLV Files</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-essential-software-for-recording-educational-experiences/"><u>[Updated] 2024 Approved Essential Software for Recording Educational Experiences</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-photoshop-grading-made-simple-for-everyone/"><u>[Updated] Photoshop Grading Made Simple for Everyone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-ultimate-list-of-twitter-sensations/"><u>2024 Approved The Ultimate List of Twitter Sensations</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-demystifying-asuss-mg28uq-a-comprehensive-4k-review/"><u>In 2024, Demystifying ASUS's MG28UQ - A Comprehensive 4K Review</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-iphone-6-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 6 Device from iCloud</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-your-machine-hardware-insights-from-toms-systems-hub/"><u>Master Your Machine: Hardware Insights From Tom's Systems Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-hardware-with-toms-guidance-a-resourceful-tech-hub/"><u>Mastering Hardware with Tom's Guidance - A Resourceful Tech Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-technology-choices-with-expertise-from-toms-hardware-insights/"><u>Mastering Technology Choices with Expertise From Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-technology-decisions-guidance-from-toms-hardware-hub/"><u>Mastering Technology Decisions: Guidance From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-your-devices-key-tips-and-reviews-by-tom-hardware-specialist/"><u>Mastering Your Devices: Key Tips and Reviews by Tom Hardware Specialist</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-electronics-trustworthy-tips-from-toms-hardware-experts/"><u>Navigating the World of Electronics: Trustworthy Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/pioneering-computing-solutions-insights-from-toms-tech-oasis/"><u>Pioneering Computing Solutions - Insights From Tom's Tech Oasis</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/troubleshooting-solo-earbuds/"><u>Troubleshooting Solo Earbuds</u></a></li>
 </ul></div>
 

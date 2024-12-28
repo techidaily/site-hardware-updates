@@ -1,7 +1,7 @@
 ---
 title: "Free Download: Official MSI Z370-A Pro Motherboard Drivers"
-date: 2024-08-23T13:47:49.869Z
-updated: 2024-08-24T13:47:49.869Z
+date: 2024-12-20T22:41:13.862Z
+updated: 2024-12-27T21:34:18.669Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ Your Asus DVD drive is not working well after upgrading to Windows 10? It’s pr
 3. In Device Manager, click**View** and then select**Show hidden devices** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/dvd.jpg)
 4. Expand**DVD/CD-ROM drives** , if you see a yellow mark next to the device name (usually an exclamation or a question mark), there’s a problem with the driver, and you need to update it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## STEP 2 – Update your dvd drivers
 
 There are three ways you can update your audio drivers:
@@ -42,8 +46,9 @@ There are three ways you can update your audio drivers:
 [**Method 3**](https://tools.techidaily.com/drivereasy/download/) **[– Automatically (Recommended)](https://tools.techidaily.com/drivereasy/download/)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1 – Uninstall then reinstall the driver via Device Manager
 
  To fix the ASUS DVD driver issue, you can uninstall the driver first then allow Windows to reinstall it.
@@ -54,12 +59,18 @@ To do so, follow these steps:
 2. Type**devmgmt.msc** and click **OK** . This will start the Windows 10 Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/dvd1.jpg)
 3. Expand**DVD/CD-ROM drives** , right-click the device and select**Uninstall** .
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Restart your computer and open Device Manager.
 5. Right-click on your DVD device and select**Update driver** . Then follow the instructions on the screen.
 6. After installing the latest driver, restart your PC and check to see if the DVD driver problem is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 2 –** **Download and install the driver manually**
 
@@ -67,14 +78,12 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/asus-1024x706.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
  Once you’ve downloaded the utility, double-click on the downloaded file and follow the on-screen instructions to install it. Then run this program to manage your ASUS DVD driver.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3 – Automatically update drivers
 
  If you don’t have the time, patience or computer skills to update the drivers manually, you can do it automatically with Driver Easy.
@@ -86,13 +95,7 @@ To do so, follow these steps:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu1-2.jpg)
 3. Click the**Update** button next to the ASUS DVD driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click**Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Hopefully you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
 * [Drivers](https://tools.techidaily.com/drivereasy/download/)
@@ -103,8 +106,6 @@ To do so, follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +113,20 @@ To do so, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-vimeos-zero-dollar-video-editing-pathway/"><u>[New] 2024 Approved Vimeo's Zero-Dollar Video Editing Pathway</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-your-gaming-nvidias-updated-geforce-210-graphics-drivers-fully-supported-on-windows-11-machines/"><u>Boost Your Gaming: NVIDIA's Updated GeForce 210 Graphics Drivers Fully Supported on Windows 11 Machines</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-ultimate-guide-to-the-scarlett-solo-driver-for-windows-users/"><u>Download & Install: The Ultimate Guide to the Scarlett Solo Driver for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-download-ultimate-guide-to-installing-a-mouse-driver-on-windows-7/"><u>Effortless Download: Ultimate Guide to Installing a Mouse Driver on Windows 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-faster-performance-update-targus-displaylink-drivers-for-windows-1187-now/"><u>Get Faster Performance: Update Targus DisplayLink Drivers for Windows 11/8/7 Now!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-after-deleting-from-recently-deleted-on-iphone-xr-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover deleted photos after deleting from Recently Deleted on iPhone XR | Stellar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6 To Other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-samsung-galaxy-m54-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Samsung Galaxy M54 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/subir-videos-desde-mp4mpeg-a-flv-sin-costo-con-convertidor-online-de-movavi/"><u>Subir Videos Desde MP4/MPEG a FLV Sin Costo Con Convertidor Online De Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-altitude-range-where-it-is-typically-found-and-why-this-elevation-is-critical-to-its-development/"><u>The Altitude Range Where It Is Typically Found and Why This Elevation Is Critical to Its Development</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitter-video-downloader-download-twitter-videos-to-iphone-for-2024/"><u>Twitter Video Downloader Download Twitter Videos to iPhone for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-12-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 12 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
+</ul></div>
 

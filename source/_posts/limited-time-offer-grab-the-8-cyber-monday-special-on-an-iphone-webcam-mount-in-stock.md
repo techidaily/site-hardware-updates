@@ -1,7 +1,7 @@
 ---
 title: "Limited Time Offer: Grab the $8 Cyber Monday Special on an iPhone Webcam Mount - In Stock!"
-date: 2024-12-17T05:52:48.850Z
-updated: 2024-12-22T07:43:43.177Z
+date: 2024-12-22T20:14:43.971Z
+updated: 2024-12-27T18:55:02.460Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ I've seen the likes of Belkin put out [quality iPhone mounts for this purpose](h
 All that's needed to make Continuity Camera happen is a Mac computer running MacOS Ventura, an iPhone running on iOS 16, and a mount to keep the handset afloat. That's where the Elephant Card comes in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,24 +81,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-enthusiastic-presentation-appraisal-version-08-for-2024/"><u>[New] Enthusiastic Presentation Appraisal, Version 08 for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ssential-asmr-mics-for-optimal-audio-experience-for-2024/"><u>[New] Essential ASMR Mics for Optimal Audio Experience for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ailoring-textual-terminals/"><u>[New] Tailoring Textual Terminals</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-iphone-photo-burst-how-to-take-burst-images/"><u>[Updated] IPhone Photo Burst How to Take Burst Images</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-youtubes-copyright-landscape-decoded-a-complete-analysis/"><u>[Updated] YouTube's Copyright Landscape Decoded A Complete Analysis</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-tailoring-retrospective-analysis-with-twitter-archives/"><u>2024 Approved Tailoring Retrospective Analysis with Twitter Archives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/affordable-innovation-discover-the-top-5-house-from-a-box-options-under-50k-zdnet/"><u>Affordable Innovation: Discover the Top 5 House From a Box Options Under $50K | ZDnet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-laptop-performance-by-installing-more-ram-expert-advice-on-pc-hardware/"><u>Boost Laptop Performance by Installing More RAM – Expert Advice on PC Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/embracing-the-no-windows-lifestyle-how-hps-latest-chromebook-surpassed-expectations-review/"><u>Embracing the No-Windows Lifestyle: How HP's Latest Chromebook Surpassed Expectations Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-windows-security-running-as-administrator/"><u>Navigating Windows Security: Running As Administrator</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-recurrent-game-errors-mastering-stability-throughout-the-finals-on-windows-or-mac/"><u>Overcoming Recurrent Game Errors: Mastering Stability Throughout The Finals on Windows or Mac</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-highly-adaptable-laptop-that-delights-crowds-and-features-robust-hardware-insider-review/"><u>The Highly Adaptable Laptop that Delights Crowds & Features Robust Hardware – Insider Review</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-influence-of-immersive-technology/"><u>The Influence of Immersive Technology</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-revamped-dell-xps-laptops-now-include-cutting-edge-artificeal-intelligence-features-without-compromising-on-looks-insights-from-zdnet/"><u>The Revamped Dell XPS Laptops Now Include Cutting-Edge Artificeal Intelligence Features without Compromising on Looks | Insights From ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-5-affordable-webcams-expert-review/"><u>Top 5 Affordable Webcams : Expert Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-gaming-headphones-and-speakers-of-2024-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Gaming Headphones & Speakers of 2024 - Comprehensive Reviews by Tech Experts | ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-video-editing-laptops-comprehensive-reviews-and-comparisons-by-professionals/"><u>Top-Rated Video Editing Laptops: Comprehensive Reviews & Comparisons by Professionals</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-savings-like-never-before-grab-the-powerhouse-acer-nitro-5-at-an-incredible-discounted-rate-of-250-off/"><u>Unleash Savings Like Never Before: Grab the Powerhouse Acer Nitro 5 at an Incredible Discounted Rate of $250 Off!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/why-the-15-inch-macbook-air-is-a-perfect-choice-for-many-save-250-today/"><u>Why the 15-Inch MacBook Air Is a Perfect Choice for Many: Save $250 Today!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-symphony-of-screens-how-music-enhances-vimeo-content/"><u>[New] 2024 Approved Symphony of Screens How Music Enhances Vimeo Content</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-integrating-luts-into-film-colorwork/"><u>[Updated] In 2024, Integrating Luts Into Film Colorwork</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-prime-strategies-for-high-quality-youtube-mp3mpeg/"><u>2024 Approved Prime Strategies for High-Quality YouTube MP3/MPEG</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/advance-your-gaming-experience-by-upgrading-to-asus-nvidia-geforce-rtx-a5000-graphics-card/"><u>Advance Your Gaming Experience by Upgrading to ASUS NVIDIA GeForce RTX A5000 Graphics Card</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-your-geforce-experience-scanning-problem-in-win/"><u>Bypassing Your GeForce Experience Scanning Problem in Win</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-access-freshly-updated-wireless-adapter-drivers-ready-for-download/"><u>Easy Access: Freshly Updated Wireless Adapter Drivers Ready for Download!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-drivers-update-for-your-microsoft-sculpt-keyboard-step-by-step-guide/"><u>Effortless Drivers Update for Your Microsoft Sculpt Keyboard - Step by Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-toms-computer-essentials-the-ultimate-hardware-resource/"><u>Exploring Tom's Computer Essentials: The Ultimate Hardware Resource</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-logitech-unifying-recipier-driver-download-for-windows-machines/"><u>Free Logitech Unifying Recipier Driver Download for Windows Machines</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-best-performance-download-updated-drivers-for-your-nvidia-gtx-1650-super-on-windows-11/"><u>Get the Best Performance: Download Updated Drivers for Your NVIDIA GTX 1650 Super on Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y200e-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y200e 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/how-to-transferring-youtube-shorts-from-pcandroid-or-ios/"><u>How-To Transferring YouTube Shorts From PC/Android or iOS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-through-the-latest-changes-in-logitech-extreme-3d-drivers/"><u>Navigating Through the Latest Changes in Logitech Extreme 3D Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/reviving-your-igfxem-module-a-comprehensive-guide-to-fixing-failures/"><u>Reviving Your Igfxem Module: A Comprehensive Guide to Fixing Failures</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/softening-playlist-sounds-on-pcmac-systems-for-2024/"><u>Softening Playlist Sounds on PC/Mac Systems for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/solving-scanner-issues-adjusting-images-without-access-to-brightnesscontrast-controls-insights-by-yl-software/"><u>Solving Scanner Issues: Adjusting Images Without Access to Brightness/Contrast Controls – Insights by YL Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-fixes-why-your-pc-doesnt-recognize-a-steam-controller-in-windows/"><u>Troubleshooting Fixes: Why Your PC Doesn't Recognize a Steam Controller in Windows</u></a></li>
 </ul></div>
 

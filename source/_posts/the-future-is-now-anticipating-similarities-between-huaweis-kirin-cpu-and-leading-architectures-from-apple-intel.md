@@ -1,7 +1,7 @@
 ---
 title: "The Future Is Now: Anticipating Similarities Between Huawei's Kirin CPU and Leading Architectures From Apple, Intel"
-date: 2024-08-23T13:50:08.083Z
-updated: 2024-08-24T13:50:08.083Z
+date: 2024-12-24T22:00:03.369Z
+updated: 2024-12-27T19:04:18.391Z
 tags:
   - cpu
 categories:
@@ -34,6 +34,10 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,14 +46,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -58,8 +59,18 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-a-comprehensive-look-at-uploading-images-to-youtube/"><u>[New] A Comprehensive Look at Uploading Images to YouTube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-enhance-browsing-performance-unlocking-the-power-of-picture-in-picture/"><u>[New] Enhance Browsing Performance Unlocking the Power of Picture-in-Picture</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-web-supplement-fb-stories-downloader/"><u>[Updated] In 2024, Web Supplement FB Stories Downloader</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-your-engagement-now-discover-these-key-youtube-shortcuts/"><u>Boost Your Engagement Now! - Discover These Key YouTube Shortcuts</u></a></li>
+<li><a href="https://article-files.techidaily.com/decode-and-listen-srt-files-in-winosx/"><u>Decode and Listen SRT Files in Win/OSX</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-guide-to-updating-and-downloading-dell-screen-drivers/"><u>Effortless Guide to Updating and Downloading Dell Screen Drivers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-a-list-android-3d-viewing-tools/"><u>In 2024, A-List Android 3D Viewing Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722979093894-obtain-updated-amd-ryzen-system-drivers-at-no-cost-start-here/"><u>Obtain Updated AMD Ryzen System Drivers at No Cost – Start Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-download-of-intels-ultra-fast-usb-30-drivers-for-windows-11-users/"><u>Quick and Easy Download of Intel's Ultra-Fast USB 3.0 Drivers for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quickly-install-your-corsair-void-pro-drivers-with-our-step-by-step-tutorial/"><u>Quickly Install Your Corsair Void Pro Drivers with Our Step-by-Step Tutorial!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-pc-issues-a-guide-to-overcoming-gray-zone-warfare-software-crashes/"><u>Resolving PC Issues: A Guide to Overcoming Gray Zone Warfare Software Crashes</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Lenovo's Ultimate Portable Secret Revealed! The Ingenious TrackPoint Feature & Extra Tricks Within | Insights
-date: 2024-12-18T10:41:38.316Z
-updated: 2024-12-22T01:41:44.355Z
+date: 2024-12-23T18:16:28.353Z
+updated: 2024-12-27T16:40:46.376Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,22 +116,24 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-add-personal-touch-to-videos-with-text-labels-using-photos-app-windows-11/"><u>[New] Add Personal Touch to Videos with Text Labels Using Photos App (Windows 11)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-navigate-the-maze-of-gopro-4k-an-editors-manual/"><u>[New] Navigate the Maze of GoPro 4K An Editor's Manual</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-innovate-or-stagnate-the-must-know-fb-ad-trends-for-24/"><u>[Updated] 2024 Approved Innovate or Stagnate – The Must-Know FB Ad Trends for '24</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-strategies-for-troubleshooting-missing-pdhdll-files/"><u>Effective Strategies for Troubleshooting Missing pdh.dll Files</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exciting-news-price-cut-on-top-ranked-msi-gamers-dream-notebook-save-550/"><u>Exciting News: Price Cut on Top-Ranked MSI Gamer's Dream Notebook - Save $550!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-samsung-unpacked-live-get-the-lowdown-on-galaxy-s23-and-galaxy-book-at-zdnets-in-depth-event-review/"><u>Experience Samsung Unpacked Live: Get the Lowdown on Galaxy S23 and Galaxy Book at ZDNET's In-Depth Event Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-the-best-of-neweggs-2023-holiday-blowout-deals-in-one-place-expert-tips/"><u>Find the Best of Newegg's 2023 Holiday Blowout Deals in One Place - Expert Tips</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-oppo-reno-11-pro-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Oppo Reno 11 Pro 5G</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Where Is the Best Place to Catch Dratini On Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/meet-the-new-slender-superstar-lgs-latest-and-leanest-gram-laptop-on-the-market-zdnet-insights/"><u>Meet the New Slender Superstar: LG's Latest and Leanest Gram Laptop on the Market - ZDNet Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/misconceptions-why-ai-cant-decipher-cryptocurrency-trends/"><u>Misconceptions: Why AI Can't Decipher Cryptocurrency Trends</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/slash-150-from-your-next-game-setup-with-the-best-immersive-audio-system-available-at-discounted-rates-on-amazon-review-by-zdnet/"><u>Slash $150 From Your Next Game Setup with the Best Immersive Audio System Available at Discounted Rates on Amazon | Review by ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-future-of-work-gadgets-in-an-ai-powered-world-perspectives-by-zdnet/"><u>The Future of Work Gadgets in an AI-Powered World: Perspectives by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-50-unbeatable-christmas-offers-on-electronics-and-more-at-newegg-features-by-zdnet/"><u>Top 50 Unbeatable Christmas Offers on Electronics & More at Newegg - Features by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-samsungs-advanced-copilotplus-pc-system-with-cutting-edge-ai-upgrades-a-comprehensive-review-gadget-guide/"><u>Unveiling Samsung's Advanced Copilot+ PC System with Cutting-Edge AI Upgrades: A Comprehensive Review | Gadget Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-premium-combo-exclusive-afx-design-tools/"><u>[New] 2024 Approved Premium Combo Exclusive AFX Design Tools</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-top-30-anime-inspired-videos-reshaping-online-culture/"><u>[New] In 2024, Top 30 Anime-Inspired Videos Reshaping Online Culture</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlock-youtube-monetization-with-500-subscribers/"><u>[New] Unlock YouTube Monetization with 500 Subscribers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unveiling-the-magic-in-haul-video-creation/"><u>[New] Unveiling the Magic in Haul Video Creation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-facing-copyright-challenges-on-youtube-know-your-rights/"><u>[Updated] 2024 Approved Facing Copyright Challenges on YouTube Know Your Rights</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-voice-overhaul-made-simple-explore-7-best-audio-editing-apps/"><u>2024 Approved Voice Overhaul Made Simple Explore 7 Best Audio Editing Apps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-vega-64-latest-driver-downloads-and-updates-for-windows-systems-fixed/"><u>AMD Radeon Vega 64: Latest Driver Downloads and Updates for Windows Systems [FIXED!]</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-you-use-the-newest-controller-with-an-older-system/"><u>Can You Use the Newest Controller with an Older System?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-latest-dymo-4xl-label-printer-software-version/"><u>Download & Install the Latest DYMO 4XL Label Printer Software Version</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-download-of-sm-bus-driver-for-multiple-windows-editions-11-10-8-and-7-supported/"><u>Easy Download of SM Bus Driver for Multiple Windows Editions: 11, 10, 8, and 7 Supported</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-install-epson-perfection-v600-drivers-available-online/"><u>Easy Install: Epson Perfection V600 Drivers Available Online</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-for-m-audio-fast-track-driver-on-windows-10-7-8-and-81/"><u>Easy Installation Guide for M-Audio Fast Track Driver on Windows 10, 7, 8 and 8.1</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970729915-epson-artisan-1430-driver-download-windows-11108/"><u>Epson Artisan 1430 Driver Download – Windows 11/10/8</u></a></li>
+<li><a href="https://win-news.techidaily.com/evaluating-cloud-computing-benefits-vs-drawbacks-a-comprehensive-guide-by-yl-computing/"><u>Evaluating Cloud Computing: Benefits Vs. Drawbacks - A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-compatible-drivers-usb-to-hdmi-upgrade-tool-now-online/"><u>Get the Latest Compatible Drivers - USB to HDMI Upgrade Tool Now Online!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-sony-xperia-5-v-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Sony Xperia 5 V Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-your-pc-build-tips-from-toms-hardware-experts/"><u>Mastering Your PC Build: Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-update-your-brother-hl-3170cdw-with-new-drivers/"><u>Step-by-Step Guide to Update Your Brother HL-3170CDW with New Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-sound-card-software-free-downloads-of-sound-blaster-audigy-fx-drivers-today/"><u>Upgrade Your Sound Card Software - Free Downloads of Sound Blaster Audigy FX Drivers Today</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Returning to Campus? Score Big Savings on Laptops, Tablets From Samsung | Student Deals
-date: 2024-12-15T08:17:51.959Z
-updated: 2024-12-22T01:16:25.091Z
+date: 2024-12-23T16:52:48.935Z
+updated: 2024-12-27T21:07:09.217Z
 tags:
   - laptops
 categories:
@@ -51,7 +51,7 @@ If you want to shop around, Samsung isn't the only brand offering student discou
 * [Razer Education Purchase Program](https://razer.a9yw.net/c/159047/642901/10229?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.razer.com%2Feducation%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -90,18 +90,22 @@ However, stock may expire at any time. ZDNET remains committed to finding, shari
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-assemble-media-pieces-in-youtube-sorted-views/"><u>[Updated] Assemble Media Pieces in YouTube Sorted Views</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-captivating-content-crafting-impactful-insta-videos/"><u>[Updated] In 2024, Captivating Content Crafting Impactful Insta-Videos</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-rise-to-the-top-the-essentials-of-starting-a-youtube-gaming-sensation-for-2024/"><u>[Updated] Rise to the Top The Essentials of Starting a YouTube Gaming Sensation for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-and-downloading-personalized-insta-ringtones/"><u>Crafting & Downloading Personalized Insta Ringtones</u></a></li>
-<li><a href="https://win11.techidaily.com/cut-down-complexity-set-terminal-as-the-default-cli/"><u>Cut-Down Complexity: Set Terminal as the Default CLI</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-make-every-meme-shine-on-9gag/"><u>In 2024, How to Make Every Meme Shine on 9GAG</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-variants-of-moviemaker-pro-on-windows/"><u>In 2024, Variants of MovieMaker Pro on WIndows</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-digital-disruptions-a-comprehensive-collection-of-online-sound-effects/"><u>New Digital Disruptions A Comprehensive Collection of Online Sound Effects</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revolutionary-m3-macbook-air-unleashed-apple-introduces-an-affordable-ai-powered-laptop-for-everyone-exclusive-zdnet-review/"><u>Revolutionary M3 MacBook Air Unleashed: Apple Introduces an Affordable AI-Powered Laptop for Everyone - Exclusive ZDNet Review</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/tag-tricks-to-triumph-youtube-gamers-edition/"><u>Tag Tricks to Triumph YouTube Gamers Edition</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-impact-of-winter-on-electronics-how-your-iphone-and-laptops-can-lose-power-during-the-chilly-months/"><u>The Impact of Winter on Electronics: How Your iPhone and Laptops Can Lose Power During the Chilly Months</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-showdown-how-googles-ai-enhanced-chromebook-poses-threat-to-microsofts-copilot/"><u>The Ultimate Showdown: How Google's AI-Enhanced Chromebook Poses Threat to Microsoft's Copilot</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-prime-day-game-discounts-of-2024-exclusive-list/"><u>Top Prime Day Game Discounts of 2024: Exclusive List</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-ultimate-high-performance-desktop-pcs/"><u>[New] Ultimate High-Performance Desktop PCs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-zoomers-guide-to-enhancing-call-quality-with-filters/"><u>[Updated] The Zoomer's Guide to Enhancing Call Quality with Filters</u></a></li>
+<li><a href="https://win-dash.techidaily.com/asus-notebook-driver-software-fresh-install-and-upgrades/"><u>ASUS Notebook Driver Software: Fresh Install and Upgrades</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/correcting-incompatibility-fixing-hp-monitor-drivers-for-windows-1087-users/"><u>Correcting Incompatibility: Fixing HP Monitor Drivers for Windows 10/8/7 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cryptos-and-chatbots-top-5-collaboration-benefits/"><u>Cryptos and Chatbots: Top 5 Collaboration Benefits</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-drivers-for-brother-mfc-7860dw-printer-on-windows/"><u>Download and Update Drivers for Brother MFC-7860DW Printer on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-wifi-experience-on-windows-comprehensive-tutorials-for-drivers-update-in-win10-and-win11/"><u>Enhance Your WiFi Experience on Windows: Comprehensive Tutorials for Drivers Update in Win10 & Win11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exclusive-look-at-nvidia-shield-tv-pro-the-ideal-choice-for-hardcore-gamers-entertainment-hub/"><u>Exclusive Look at Nvidia Shield TV Pro - The Ideal Choice for Hardcore Gamers' Entertainment Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-installing-new-display-drivers-for-your-toshiba-satellite-under-windows-os/"><u>Guide: Installing New Display Drivers for Your Toshiba Satellite Under Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-quick-and-simple-setup-for-your-keyspan-usa-19hs-device-driver-on-windows-pcs/"><u>Guide: Quick and Simple Setup for Your Keyspan USA-19HS Device Driver on Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-current-asus-dvd-driver-free-guide/"><u>How To Install The Current ASUS DVD Driver – Free Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-premium-top-8-smoothest-capture-tools/"><u>In 2024, Premium Top 8 Smoothest Capture Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-installation-guide-for-microsoft-wireless-mouse-amoker-driver-software/"><u>Instant Installation Guide for Microsoft Wireless Mouse amoKer Driver Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/m2020-mobile-device-free-download-of-official-samsung-drivers/"><u>M2020 Mobile Device - Free Download of Official Samsung Drivers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-zoom-conferences-volume-essential-tips-for-pc-owners/"><u>Reviving Your Zoom Conference's Volume: Essential Tips for PC Owners</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tips-to-make-instagram-videos-with-music/"><u>Tips To Make Instagram Videos With Music</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-driver-refresh-how-to-update-and-reinstall-video-card-drivers/"><u>Windows Driver Refresh: How to Update and Reinstall Video Card Drivers</u></a></li>
 </ul></div>
 

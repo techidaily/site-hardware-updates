@@ -1,7 +1,7 @@
 ---
 title: "Asus' Discreet Marvel: A Design That Hides Stellar Creative Capabilities Revealed by ZDNet"
-date: 2024-12-21T03:24:33.543Z
-updated: 2024-12-21T20:36:10.681Z
+date: 2024-12-22T20:25:03.087Z
+updated: 2024-12-27T16:56:52.825Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,20 +112,19 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-step-by-step-setting-up-snapchat-on-mac-for-2024/"><u>[New] Step-by-Step Setting Up Snapchat on Mac for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-apowersoft-screen-recorder-2023-review-for-high-performance-pcs/"><u>[Updated] 2024 Approved Apowersoft Screen Recorder 2023 Review for High-Performance PCs</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discovering-the-charm-of-contemporary-lighting-the-taotronics-tt-dl16-revealed/"><u>Discovering the Charm of Contemporary Lighting: The TaoTronics TT-DL16 Revealed</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discovering-the-sx620s-balanced-capabilities/"><u>Discovering the SX620's Balanced Capabilities</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/elgato-hd60-driver-glitches-fast-and-straightforward-repair-methods-inside/"><u>Elgato HD60 Driver Glitches? Fast and Straightforward Repair Methods Inside</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-compatible-intel-drivers-for-windows-11-10-and-7/"><u>Free Download: Compatible Intel Drivers for Windows 11, 10 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722956278202-get-the-latest-amd-gpio-device-driver-instant-access/"><u>Get the Latest AMD GPIO Device Driver – Instant Access!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-epson-v39-printer-drivers-up-to-date-on-windows-7-8-and-10/"><u>Get Your Epson V39 Printer Drivers Up to Date on Windows 7, 8 & 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975300714-how-to-fix-and-update-your-wi-fi-card-drivers-for-optimal-performance-download-now/"><u>How to Fix and Update Your Wi-Fi Card Drivers for Optimal Performance - Download Now</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/navigating-tomorrow-today-master-your-mixes-with-fifty-song-friday-at-karaoke-cloud-pro-pcdj/"><u>Navigating Tomorrow Today - Master Your Mixes with 'Fifty-Song-Friday' At Karaoke Cloud Pro | PCDJ</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/practical-ways-to-save-and-download-vimeo-footage-for-2024/"><u>Practical Ways to Save and Download Vimeo Footage for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/prove-your-productivity-the-best-6-computer-usage-tracker-tools/"><u>Prove Your Productivity: The Best 6 Computer Usage Tracker Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/proximity-prowess-mastering-the-art-of-roblox-magnification-for-2024/"><u>Proximity Prowess Mastering the Art of Roblox Magnification for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722960625857-quick-guide-how-to-install-or-upgrade-synaptics-touchpad-drivers-on-windows/"><u>Quick Guide: How to Install or Upgrade Synaptics Touchpad Drivers on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-brother-scanners-now-new-software-for-optimized-windows-compatibility/"><u>Update Your Brother Scanners Now: New Software for Optimized Windows Compatibility</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-aspect-ratios-decoded-youtube-edition-a-quick-reference-guide/"><u>[New] 2024 Approved Aspect Ratios Decoded YouTube Edition – A Quick Reference Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-easy-screen-capture-app-w10-edition/"><u>[New] 2024 Approved Easy Screen Capture App, W10 Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-21plus-puzzling-pictures-assemble-a-joyous-vision/"><u>[New] 21+ Puzzling Pictures Assemble a Joyous Vision</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-extract-gif-content-seamlessly-on-various-devices-for-2024/"><u>[Updated] How To Extract GIF Content Seamlessly on Various Devices for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726029806342-mkv/"><u>最新テクニックを使ったMKVビデオのトリミング・カット作業ガイド</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exceptional-clarity-and-versatility-tested-an-in-depth-look-at-the-asus-rog-strix-xg27acs-monitor/"><u>Exceptional Clarity and Versatility Tested: An In-Depth Look at the Asus Rog Strix XG27ACS Monitor</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-next-level-fps-with-the-asrock-pg27qft2a-180-hz-gamers-screen-review/"><u>Experience Next-Level FPS with the ASRock PG27QFT2A 180 Hz Gamer's Screen Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-gadget-analysis-at-toms-hardware-hub/"><u>Expert Gadget Analysis at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-computing-gear-with-toms-hardware-a-detailed-guide/"><u>Exploring Computing Gear with Tom's Hardware - A Detailed Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-gadgets-and-gear-toms-authoritative-hardware-analysis/"><u>Exploring Gadgets & Gear: Tom’s Authoritative Hardware Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-best-deal-just-249-for-a-stunning-34-inch-asus-tuf-curved-monitor-amazon-exclusive/"><u>Get the Best Deal: Just $249 for a Stunning 34-Inch Asus TUF Curved Monitor - Amazon Exclusive!</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-version-of-fixated-five-nights-at-freddys-resolved-security-glitch/"><u>PC Version of Fixated 'Five Nights at Freddy's - Resolved Security Glitch</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-motorola-moto-e13-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Motorola Moto E13 Phone Hassle-Free</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-nokia-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Nokia Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
 

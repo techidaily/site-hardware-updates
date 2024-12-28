@@ -1,7 +1,7 @@
 ---
 title: "Anticipated Announcements at Apple's Oct Event: The New M4 Mac Mini & Upcoming iPad Releases"
-date: 2024-12-17T23:21:38.079Z
-updated: 2024-12-22T01:34:32.495Z
+date: 2024-12-22T19:10:50.218Z
+updated: 2024-12-27T21:27:35.557Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,22 +118,20 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-a-detailed-guidance-how-to-change-or-customize-your-ringtone-on-an-iphone/"><u>[Updated] A Detailed Guidance How To Change Or Customize Your Ringtone On An iPhone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-showcase-spaces-perfect-live-stream-flair/"><u>[Updated] In 2024, Showcase Spaces Perfect Live Stream Flair</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-smoothing-video-borders-on-teamcollaboration-platforms/"><u>[Updated] In 2024, Smoothing Video Borders on TeamCollaboration Platforms</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-straightforward-approach-turn-video-upside-down-with-vlc/"><u>[Updated] In 2024, Straightforward Approach Turn Video Upside Down with VLC</u></a></li>
-<li><a href="https://fox-info.techidaily.com/a-guide-to-crafting-impactful-handp-ads-on-facebook/"><u>A Guide to Crafting Impactful H&P Ads on Facebook</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210040112-9781885983893-cold-moon/"><u>Cold Moon | Free Book</u></a></li>
-<li><a href="https://win-able.techidaily.com/cutting-edge-fixes-for-improving-your-minecraft-experience-on-desktops-tips-and-tricks-2023-update/"><u>Cutting Edge Fixes for Improving Your Minecraft Experience on Desktops (Tips & Tricks) - 2023 Update</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/design-your-perfect-gamers-paradise-expert-tips-and-essentials-inspired/"><u>Design Your Perfect Gamer's Paradise: Expert Tips & Essentials - Inspired</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exceptional-2-in-1-tech-marvels-of-this-year-featuring-an-overlooked-office-benefit-revealed/"><u>Exceptional 2-in-1 Tech Marvels of This Year Featuring an Overlooked Office Benefit, Revealed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/follow-up-question-2/"><u>Follow-Up Question 2:</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/lexposition-abbyy-a-la-banque-et-innovation-2018-presentation-des-solutions-dintelligence-artificielle-pour-le-traitement-de-donnees/"><u>L'Exposition ABBYY À La Banque Et Innovation 2018: Présentation Des Solutions D'intelligence Artificielle Pour Le Traitement De Données</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-film-viewing-with-the-quirky-designed-soundbar-that-addressed-my-most-baffling-audio-problems-digital-world-news/"><u>Revolutionize Your Film Viewing With the Quirky-Designed Soundbar That Addressed My Most Baffling Audio Problems | Digital World News</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-3-affordable-laptops-on-cyber-monday-exclusive-offers-from-costco-amazon-and-dell-for-under-1k-guide/"><u>Top 3 Affordable Laptops on Cyber Monday: Exclusive Offers From Costco, Amazon & Dell for Under $1K Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-picks-best-non-ipad-non-thinkpad-tablets-ideal-for-business-on-the-go-insights/"><u>Top Picks: Best Non-iPad, Non-ThinkPad Tablets Ideal for Business on the Go Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-savings-on-top-rated-gaming-speaker-system-up-to-60-off-at-amazon-zdnet-news/"><u>Unbeatable Savings on Top-Rated Gaming Speaker System, Up to 60% Off at Amazon | ZDNET News</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-ultimate-gaming-experience-top-rated-speaker-system-goes-on-sale-at-best-buy-spotted-by-zdnet/"><u>Unleash Ultimate Gaming Experience: Top-Rated Speaker System Goes On Sale at Best Buy - Spotted by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-workplace-efficiency-an-in-depth-look-at-this-years-hidden-gem-among-2-in-1-laptops/"><u>Unlocking Workplace Efficiency: An In-Depth Look at This Year's Hidden Gem Among 2-In-1 Laptops</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ominate-search-results-powerful-youtube-seo-techniques-exposed-for-2024/"><u>[New] Dominate Search Results Powerful YouTube SEO Techniques Exposed for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-finding-top-8-free-reliable-srt-translator-picks-online/"><u>[New] Finding Top 8 Free, Reliable SRT Translator Picks Online</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-a-closer-look-at-apples-m1-computing-powerhouse/"><u>[Updated] In 2024, A Closer Look at Apple’s M1 Computing Powerhouse</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862680396-899-lenovo-legion-slim-5-laptop-a-gamers-dream-equipped-with-the-latest-rtx-4060-graphics-card/"><u>$899 Lenovo Legion Slim 5 Laptop: A Gamer’s Dream - Equipped with the Latest RTX 4060 Graphics Card!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dominate-the-rollers-essential-pc-multiplayer-tactics-for-roller-champions/"><u>Dominate the Rollers: Essential PC Multiplayer Tactics for Roller Champions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-capture-to-screen-advanced-editing-strategies-for-full-spherical-video-content-in-adobe-premiere-pro/"><u>From Capture to Screen Advanced Editing Strategies for Full Spherical Video Content in Adobe Premiere Pro</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-achieving-high-quality-fb-video-1080p-streaming-guide/"><u>In 2024, Achieving High-Quality FB Video 1080P Streaming Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-magic-v2-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor Magic V2 Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-experts-guide-to-navigating-with-windows-narrator/"><u>The Expert's Guide to Navigating with Windows Narrator</u></a></li>
+<li><a href="https://win11.techidaily.com/top-strategies-to-overcome-hyper-v-blue-screen-on-windows/"><u>Top Strategies to Overcome Hyper-V Blue Screen on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-resource-for-pc-enthusiasts-toms-hardware-insights/"><u>Ultimate Resource for PC Enthusiasts: Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862722115-unleash-productivity-with-the-intel-infused-acemagix-x1-2-x-14-fhd-displays-for-an-unmatched-view-available-from-899/"><u>Unleash Productivity with the Intel-Infused Acemagix X1: 2 X 14 FHD Displays for an Unmatched View - Available From $899!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-cutting-edge-tech-a-journey-through-toms-hardware-world/"><u>Unveiling Cutting-Edge Tech: A Journey Through Tom's Hardware World</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-high-performance-gadgets-with-toms-computer-insights/"><u>Unveiling High-Performance Gadgets with Tom's Computer Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-gadgets-with-toms-digital-workshop/"><u>Unveiling the Latest Gadgets with Tom's Digital Workshop</u></a></li>
 </ul></div>
 

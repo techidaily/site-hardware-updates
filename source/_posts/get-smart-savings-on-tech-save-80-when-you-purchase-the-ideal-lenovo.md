@@ -1,7 +1,7 @@
 ---
 title: "Get Smart Savings on Tech: Save $80 When You Purchase the Ideal Lenovo"
-date: 2024-12-20T18:20:59.564Z
-updated: 2024-12-21T18:51:40.272Z
+date: 2024-12-23T16:50:18.821Z
+updated: 2024-12-27T16:41:36.263Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ One tool I've found to be quite effective is the [StarTech.com Universal Laptop 
 [ZDNET RECOMMENDS StarTech.com Universal Laptop Lock This anti-theft laptop locking system features a push-to-lock system that allows for quick-lock without a key. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fexec%2Fobidos%2FASIN%2FB0CG9WXC8P%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1543b5d4-da8c-4f2b-8aec-3447eb62e023%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The specs
@@ -97,7 +97,7 @@ Adrian Kingsley-Hughes/ZDNET
 All in all, this is a tough lock that's well-designed to keep your stuff secured. The only real downside: a steel cable weighing some 5.2 oz (147 g) is a fair weight to lug around with you if you plan on using this when out and about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,24 +134,19 @@ While a determined or skilled attacker could potentially overcome this lock, suc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-quick-guide-to-free-youtube-closure-creation/"><u>[New] Quick Guide to Free YouTube Closure Creation</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-drift-innocations-ghost-s-action-camera-review/"><u>[Updated] Drift Innocations Ghost-S Action Camera Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amazons-top-pick-save-big-with-a-high-quality-macbook-usb-c-charging-cable-for-under-70/"><u>Amazon's Top Pick: Save Big with a High-Quality MacBook USB-C Charging Cable for Under $70</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/charge-up-to-7-gadgets-simultaneously-with-this-long-lasting-140w-portable-power-bank-a-comprehensive-review-by-zdnet/"><u>Charge Up To 7 Gadgets Simultaneously with This Long-Lasting 140W Portable Power Bank: A Comprehensive Review by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-ultimate-selection-of-high-performance-gaming-ssds-for-ps5-xbox-and-pc-expert-picks-from-zdnet/"><u>Discover the Ultimate Selection of High-Performance Gaming SSDs for PS5, Xbox, & PC - Expert Picks From ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-unparalleled-audio-quality-of-best-buys-featured-speaker-system-at-50-off-as-revealed-by-zdnet-experts/"><u>Discover the Unparalleled Audio Quality of Best Buy's Featured Speaker System at 50% Off, as Revealed by ZDNet Experts!</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/enhance-live-broadcast-quality-with-streamlabs-obs-tips/"><u>Enhance Live Broadcast Quality with Streamlabs OBS Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/final-opportunity-for-incredible-discounts-unbeatable-october-prime-day-2024-gaming-offers-available-now/"><u>Final Opportunity for Incredible Discounts! Unbeatable October Prime Day 2024 Gaming Offers Available Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-this-budget-friendly-computer-reignites-an-old-school-tech-buzzword-unraveling-the-trend/"><u>How This Budget-Friendly Computer Reignites an Old School Tech Buzzword - Unraveling the Trend</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/icloud-unlocker-download-unlock-icloud-lock-for-your-apple-iphone-15-pro-by-drfone-ios/"><u>iCloud Unlocker Download Unlock iCloud Lock for your Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-the-first-steps-in-starting-a-review-channel-for-tech-gadgets/"><u>In 2024, The First Steps in Starting a Review Channel for Tech Gadgets</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mastering-the-nightfall-a-comprehensive-look-at-cooperative-parkour-mechanics-in-dying-light/"><u>Mastering the Nightfall: A Comprehensive Look at Cooperative Parkour Mechanics in Dying Light</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximize-your-savings-on-amazon-prime-day-2024-with-these-exceptional-deals-from-best-buy-zdnet-insights/"><u>Maximize Your Savings on Amazon Prime Day 2024 with These Exceptional Deals From Best Buy | ZDNet Insights</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-a-guide-to-understanding-the-nuances-of-accompanying-pictures-with-soundscape/"><u>New A Guide to Understanding the Nuances of Accompanying Pictures with Soundscape</u></a></li>
-<li><a href="https://techtrends.techidaily.com/playing-minecraft-solo-a-guide-to-enjoying-the-game-without-an-internet-connection-on-windows-11/"><u>Playing Minecraft Solo: A Guide to Enjoying the Game Without an Internet Connection on Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/score-the-top-notch-meta-vr-offer-with-512gb-quest-headset-this-october-exclusive-deal-alert-on-zdnet/"><u>Score the Top-Notch Meta VR Offer with 512GB Quest Headset This October, Exclusive Deal Alert on ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbelievable-deal-top-ranked-gaming-speakers-now-just-150-less-on-amazon-find-out-why-they-took-my-breath-away/"><u>Unbelievable Deal: Top-Ranked Gaming Speakers Now Just $150 Less on Amazon - Find Out Why They Took My Breath Away</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-best-10-free-manga-sites-to-read-online/"><u>Updated 2024 Approved Best 10 Free Manga Sites to Read Online</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-rogelikes-past-present-and-emerging-futures/"><u>[New] 2024 Approved Rogelikes Past, Present, & Emerging Futures</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rand-yourself-differently-strategies-for-finding-uncommon-names/"><u>[New] Brand Yourself Differently Strategies for Finding Uncommon Names</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-unlock-the-potential-of-your-youtube-videos-in-movie-maker/"><u>[New] In 2024, Unlock the Potential of Your YouTube Videos in Movie Maker</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-spotlight-strategies-brightening-your-visual-narrative/"><u>[New] Spotlight Strategies Brightening Your Visual Narrative</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-share-live-feeds-skip-the-retweet-tactics-for-2024/"><u>[Updated] Share Live Feeds Skip the Retweet Tactics for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-downloading-and-setting-up-the-linksys-wusb6300-network-drivers-easy-tutorial/"><u>Complete Guide: Downloading and Setting Up the Linksys WUSB6300 Network Drivers | Easy Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-intel-nvme-driver-downloads-get-your-system-up-to-speed/"><u>Effortless Intel NVMe Driver Downloads - Get Your System Up to Speed!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/examining-the-crackdown-on-intels-processor-woes-a-deep-dive-into-the-new-class-action-litigation/"><u>Examining the Crackdown on Intel's Processor Woes: A Deep Dive Into the New Class-Action Litigation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975925276-find-and-update-canon-mp250-printer-drivers-easy-download-options-here/"><u>Find & Update Canon MP250 Printer Drivers - Easy Download Options Here</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-how-to-get-your-steelseries-gg-engine-up-and-running-again-on-windows/"><u>Fixes & Solutions: How to Get Your SteelSeries GG Engine Up and Running Again on Windows</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/how-to-share-a-tiktok-video-on-twitter-for-2024/"><u>How to Share A Tiktok Video on Twitter for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-or-download-the-newest-intel-uhd-graphics-drivers-on-your-windows-11-pc-a-step-by-step-guide/"><u>How to Update or Download the Newest Intel UHD Graphics Drivers on Your Windows 11 PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-online-video-flipper-top-tools-for-the-job/"><u>New In 2024, Online Video Flipper Top Tools for the Job</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-honor-x50-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Honor X50 Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

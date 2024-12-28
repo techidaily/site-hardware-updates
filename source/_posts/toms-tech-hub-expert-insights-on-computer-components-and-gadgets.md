@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Hub: Expert Insights on Computer Components and Gadgets"
-date: 2024-08-23T13:47:01.233Z
-updated: 2024-08-24T13:47:01.233Z
+date: 2024-12-25T21:47:25.644Z
+updated: 2024-12-27T20:39:06.637Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,20 +53,21 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  But even if having a local image generator / chatbot is really valuable to you, you don't need a special PC or an on-case screen on the case to get those features. MSI may have its own branded apps, but it's likely using the same chat and image generation that's available elsewhere. Anyone who has a decent graphics card can download and install Stable Diffusion image generator or LLama for chat. If you have an RTX card, try[ComfyUI](https://github.com/comfyanonymous/ComfyUI) , which is a very powerful frontend for Stable Diffusion.
 
  What you can't get elsewhere is a full HD screen that takes up the entire front surface of your chassis. We have seen some cases with screens on the front -- the[Jonsbo D41](https://www.jonsbo.com/en/products/D41MESHSCREENBlack.html) comes to mind. But MSI's display takes up the entire space and is meant to be an integral part of the user experience, not just a cute special effect.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -71,8 +76,20 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-discovering-new-dimensions-making-video-from-photographic-slices-with-pixiz/"><u>[Updated] 2024 Approved Discovering New Dimensions Making Video From Photographic Slices with Pixiz</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-gopro-max-versus-hero-11-ultimate-review-guide/"><u>[Updated] 2024 Approved GoPro Max Versus Hero 11 Ultimate Review Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-the-learners-guide-to-best-rated-history-yt-channels-1-10/"><u>2024 Approved The Learner's Guide to Best-Rated History YT Channels #1-10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-compatible-software-for-samsungs-850-series-evo-solid-state-drive/"><u>Download Compatible Software for Samsung's 850 Series EVO Solid State Drive</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-flawlessly-install-latest-drivers-for-nvidias-geforce-gtx-660-series/"><u>Easy Steps to Flawlessly Install Latest Drivers for Nvidia's GeForce GTX ₰660 Series</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-techniques-for-downloading-and-installing-lenovo-thinkpad-drivers-without-any-worries/"><u>Expert Techniques for Downloading and Installing Lenovo ThinkPad Drivers Without Any Worries!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-magic-5-lite-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor Magic 5 Lite Phone FRP Lock</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-14-plus-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone 14 Plus You Should Try Out</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/revolutionizing-marketing-with-interactive-tiktok-content-for-2024/"><u>Revolutionizing Marketing with Interactive TikTok Content for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-and-swift-driver-acquisition-for-your-acer-predator-xb271-hi-fi-display/"><u>Secure and Swift Driver Acquisition for Your Acer Predator XB271 Hi-Fi Display</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/startech-usb-video-capture-card-driver-get-your-free-version-now/"><u>StarTech USB Video Capture Card Driver - Get Your Free Version Now!</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-note-30-pro-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Note 30 Pro.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-announced-basic-peripheral-driver-availability-restored-on-windows/"><u>Update Announced: Basic Peripheral Driver Availability Restored on Windows</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Microsoft Slashes Prices on Surface Go and Drops All-Time Low Price for Xbox Series S
-date: 2024-12-14T22:00:44.923Z
-updated: 2024-12-22T09:08:45.241Z
+date: 2024-12-23T23:01:48.370Z
+updated: 2024-12-27T16:07:02.471Z
 tags:
   - laptops
 categories:
@@ -27,7 +27,7 @@ Microsoft is known for its innovative products in gaming, computers, and more. A
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Save hundreds on Surface tablets and laptops**
@@ -43,7 +43,7 @@ Under the tablet's hood, you'll find a blazing-fast processor (12th Gen Intel Co
 Meanwhile, if you're preference is for laptops, then Microsoft has other deals for you. You can save $200 on the Surface Laptop 5, up to $646 on the Surface Laptop 4, and $150 on the Surface Laptop Go 2\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Get the Xbox Series S at its lowest price ever**
@@ -59,7 +59,7 @@ This is a digital console, meaning you'll have ample room to download games on i
 Overall, the Xbox Series S is an excellent gaming system for those looking for jaw-dropping graphics, access to a diverse gaming library, and fast performance. In addition, Microsoft lowered its price to $239.99, making it the best time to buy one. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Want to save even more on Microsoft devices?**
@@ -110,21 +110,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-epic-martial-arts-arcade-classics-revisited/"><u>[New] 2024 Approved Epic Martial Arts Arcade Classics Revisited</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-navigating-through-the-sea-of-user-interactions-on-youtube/"><u>[New] In 2024, Navigating Through the Sea of User Interactions on YouTube</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-unlocking-viral-potential-with-ai-driven-video-titles-for-2024/"><u>[Updated] Unlocking Viral Potential with AI-Driven Video Titles for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-15-inch-laptop-with-complete-set-of-ports-available-for-just-250-at-walmart-tech-news/"><u>Asus 15 Inch Laptop with Complete Set of Ports: Available for Just $250 at Walmart | Tech News</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-8-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 8 with a Broken Screen?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correct-misaligned-graphics-outputs/"><u>Correct Misaligned Graphics Outputs</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/dont-panic-over-lost-iphone-data-securely-recover-files-with-ease-and-precision-via-stellar/"><u>Don't Panic Over Lost iPhone Data: Securely Recover Files with Ease and Precision via Stellar</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/enhance-playstation-2-experience-top-5-android-emulators/"><u>Enhance PlayStation 2 Experience Top 5 Android Emulators</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/from-legacy-to-cutting-edge-choosing-between-the-m3-and-m1-macbook-pro-models/"><u>From Legacy to Cutting-Edge: Choosing Between the M3 and M1 MacBook Pro Models</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-vivo-v30-lite-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Vivo V30 Lite 5G to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-5-long-lasting-laptop-batteries-of-2023-reviewed/"><u>Top 5 Long-Lasting Laptop Batteries of 2023 - Reviewed</u></a></li>
-<li><a href="https://article-posts.techidaily.com/top-tunes-apps-win-edition-for-2024/"><u>Top Tunes Apps Win Edition for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranking-student-laptops-comprehensive-reviews-and-experts-picks-zdnet/"><u>Top-Ranking Student Laptops: Comprehensive Reviews & Experts' Picks - ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upcoming-alienware-gaming-laptops-set-for-ces-2023-unveiling-insider-info-techradar/"><u>Upcoming Alienware Gaming Laptops Set for CES 2023 Unveiling - Insider Info | TechRadar</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/why-this-asus-notebook-outperforms-apples-macbook-top-reasons-you-need-to-switch-an-in-depth-comparison-by-zdnet/"><u>Why This ASUS Notebook Outperforms Apple's MacBook: Top Reasons You Need To Switch! - An In-Depth Comparison by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/zdnets-exclusive-list-ultimate-prime-day-prep-deals-of-2n24-for-smart-shoppers/"><u>ZDNet's Exclusive List: Ultimate Prime Day Prep Deals of 2N24 for Smart Shoppers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-from-virtual-speaker-to-reel-showman-fb-live-recording-tactics/"><u>[New] 2024 Approved From Virtual Speaker to Reel Showman FB Live Recording Tactics</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-ultimate-vr-immersion-review-series-oculus-edition/"><u>[Updated] 2024 Approved Ultimate VR Immersion Review Series – Oculus Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-advanced-photographic-techniques-from-auto-to-smart-hdr/"><u>[Updated] Advanced Photographic Techniques From Auto to Smart HDR</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bridging-the-gap-how-adding-these-4-ai-features-can-boost-iphones-competitiveness-with-android-analysis-by-zdnet/"><u>Bridging the Gap: How Adding These 4 AI Features Can Boost iPhone’s Competitiveness with Android | Analysis by ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-motorola-moto-g73-5g-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Motorola Moto G73 5G</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-pc-gaming-download-optimized-geforce-rtx-3090-drivers-for-windows-11-8-and-7/"><u>Elevate Your PC Gaming - Download Optimized GeForce RTX 3090 Drivers for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-epson-wf-3520-printer-drivers-compatible-with-all-windows-versions/"><u>Find and Install Epson WF-3520 Printer Drivers – Compatible with All Windows Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722962195583-get-the-latest-killer-e2500-gigabit-ethernet-drivers-here/"><u>Get the Latest Killer E2500 Gigabit Ethernet Drivers Here</u></a></li>
+<li><a href="https://techtrends.techidaily.com/hosting-karaoke-parties-at-home-tips-for-an-unforgettable-evening-of-fun-and-music/"><u>Hosting Karaoke Parties at Home: Tips for an Unforgettable Evening of Fun and Music</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-broadcom-bluetooth-driver-on-windows-1087-devices/"><u>How to Install Broadcom Bluetooth Driver on Windows 10/8/7 Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keep-your-toshiba-laptop-running-smoothly-download-and-update-window-compatible-drivers-now/"><u>Keep Your Toshiba Laptop Running Smoothly: Download & Update Window-Compatible Drivers Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-release-copperlink-cables-from-pci-sig-enable-seamless-pci-express-gen-5-and-gen-6-connectivity-future-proof-with-pcie-70-in-progress/"><u>New Release: CopperLink Cables From PCI-SIG Enable Seamless PCI Express Gen 5 & Gen #6 Connectivity; Future-Proof with PCIe 7.0 in Progress</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969087953-quick-fixes-to-your-logitech-c615s-driver-woes-troubleshoot-with-ease/"><u>Quick Fixes to Your Logitech C615's Driver Woes – Troubleshoot with Ease</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionize-your-audio-experience-with-nests-smart-speaker-designed-for-enthusiast-listeners/"><u>Revolutionize Your Audio Experience with Nest's Smart Speaker Designed for Enthusiast Listeners</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/shape-players-guide-to-distortion-and-more-for-2024/"><u>Shape Players' Guide to Distortion and More for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/spot-these-14-common-facebook-scams-before-its-too-late/"><u>Spot These 14 Common Facebook Scams Before It's Too Late</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-expert-guidance-on-the-latest-hardware/"><u>Tom's Tech Insights: Expert Guidance on the Latest Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-resolving-problems-with-acer-drivers-on-pcs/"><u>Troubleshooting and Resolving Problems with Acer Drivers on PCs</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/1726220809511-wmv-flac/"><u>자이오스 WMV FLAC 원룰 전환 - 무료 비주얼: 온라인에서 가장 효과적인 해결책</u></a></li>
 </ul></div>
 

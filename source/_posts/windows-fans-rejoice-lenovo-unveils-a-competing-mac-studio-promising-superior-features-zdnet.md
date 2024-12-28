@@ -1,7 +1,7 @@
 ---
 title: Windows Fans Rejoice! Lenovo Unveils a Competing Mac Studio, Promising Superior Features | ZDNET
-date: 2024-12-16T03:35:54.336Z
-updated: 2024-12-22T04:35:25.464Z
+date: 2024-12-26T21:27:30.320Z
+updated: 2024-12-28T00:56:12.048Z
 tags:
   - laptops
 categories:
@@ -22,7 +22,7 @@ At [CES 2024](https://www.zdnet.com/topic/ces-2024/), Lenovo plans to show off a
 Without question, the new PC resembles a [Mac Studio](https://www.zdnet.com/article/apple-mac-studio-m2-ultra-review/), coming with a main desktop unit in the shape of a small box alongside a monitor. It houses all of the major components like a neural processing unit, or NPU for short. This utilizes [AI](https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/) to provide a third resource for the computer, improving its overall performance. It can even be upgraded, letting you modulate the device's performance however you want.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -85,16 +85,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-digital-diary-keepers-securely-download-tweets-videos/"><u>[New] 2024 Approved Digital Diary Keepers Securely Download Tweets' Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-mastering-facetime-capturing-conversations-live/"><u>[New] Mastering FaceTime Capturing Conversations Live</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-boost-stories-interaction-with-peculiar-creative-questions/"><u>[Updated] Boost Stories Interaction with Peculiar Creative Questions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-simple-scan-capture-solution-w10-os/"><u>2024 Approved Simple Scan-Capture Solution - W10 OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/apple-unveils-new-13-inch-and-15-inch-macbook-air-with-enhanced-performance-the-revolutionary-m3-processor-explained-insight/"><u>Apple Unveils New 13-Inch and 지15-Inch MacBook Air with Enhanced Performance: The Revolutionary M3 Processor Explained Insight</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-apple-iphone-13-pro-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From Apple iPhone 13 Pro without Password?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/is-it-possible-to-reassign-your-pre-existing-windows-upgrade-to-different-hardware-a-comprehensive-guide/"><u>Is It Possible to Reassign Your Pre-Existing Windows Upgrade to Different Hardware? A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/laugh-loops-unlocked-zero-cost-humor-hub-for-2024/"><u>Laugh Loops Unlocked Zero-Cost Humor Hub for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-15-inch-laptops-comprehensive-testing-and-reviews-by-industry-experts-zdnet/"><u>Top Rated 15-Inch Laptops - Comprehensive Testing & Reviews by Industry Experts | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-a-whopping-250-off-on-acers-powerhouse-laptop-for-gamers-exclusive-insights-inside-special/"><u>Unlock a Whopping $250 Off on Acer's Powerhouse Laptop for Gamers, Exclusive Insights Inside! Special</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unmissable-savings-on-computers-the-premier-laptop-offers-of-july-2-cuffs-curated-by-experts-at-zdnet/"><u>Unmissable Savings on Computers: The Premier Laptop Offers of July 2 Cuffs, Curated by Experts at ZDNET</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-reviving-camera-victory-over-obs-glitches/"><u>[New] 2024 Approved Reviving Camera Victory Over OBS Glitches</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-petite-plot-puzzle-piece/"><u>[Updated] Petite Plot Puzzle Piece</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-achieving-professional-sound-without-a-mic/"><u>[Updated] The Ultimate Guide Achieving Professional Sound without a Mic</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-essential-guide-to-social-media-video-ratios-on-facebook/"><u>2024 Approved Essential Guide to Social Media Video Ratios on Facebook</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-down-the-monetization-barriers-for-2024/"><u>Breaking Down the Monetization Barriers for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-pc-experience-master-graphics-driver-revisions-in-windows-11/"><u>Enhance Your PC Experience - Master Graphics Driver Revisions in Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/finding-and-implementing-asus-wifi-adapter-drivers-a-step-by-step-process/"><u>Finding and Implementing ASUS WiFi Adapter Drivers – A Step-by-Step Process</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-upgrade-free-hp-officejet-pro-9015-printer-drivers-now-available/"><u>Get the Latest Upgrade: Free HP OfficeJet Pro 9015 Printer Drivers Now Available!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974469112-get-the-newest-hp-officejet-pro-8720-windows-driver-software-free-of-charge/"><u>Get the Newest HP Officejet Pro 8720 Windows Driver Software Free of Charge</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-nokia-c12-plus-by-drfone-android/"><u>How to Bypass FRP from Nokia C12 Plus?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-and-set-up-soundmax-audio-driver-software-for-microsoft-windows-computers/"><u>How to Get and Set Up SoundMAX Audio Driver Software for Microsoft Windows Computers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Realme GT Neo 5 SE? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intels-non-k-processor-lines-hit-by-catastrophic-instability-no-recalls-announced-for-affected-65w-and-up-models/"><u>Intel's Non-K Processor Lines Hit by Catastrophic Instability; No Recalls Announced for Affected 65W and Up Models</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-the-logitech-mx-software-a-comprehensive-tutorial/"><u>Mastering the Logitech MX Software: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976583093-step-by-step-instructions-downloading-and-updating-the-epson-et-3760-printer-drivers-on-a-windows-machine-expert-tips/"><u>Step-by-Step Instructions: Downloading and Updating the Epson ET-3760 Printer Drivers on a Windows Machine | Expert Tips!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unlock-stunning-1080p-video-edits-with-the-best-software/"><u>Updated 2024 Approved Unlock Stunning 1080P Video Edits with the Best Software</u></a></li>
 </ul></div>
 

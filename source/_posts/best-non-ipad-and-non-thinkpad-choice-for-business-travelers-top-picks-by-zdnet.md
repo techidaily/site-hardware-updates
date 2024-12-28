@@ -1,7 +1,7 @@
 ---
 title: "Best Non-iPad and Non-ThinkPad Choice for Business Travelers: Top Picks by ZDNet"
-date: 2024-12-19T10:12:27.729Z
-updated: 2024-12-22T04:25:43.382Z
+date: 2024-12-24T23:06:01.765Z
+updated: 2024-12-27T19:43:00.790Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Cesar Cadenas/ZDNET
 And for one of the best qualities of this laptop: battery life is absolutely phenomenal. I [performed our usual test](https://www.zdnet.com/article/how-we-test-laptops/) of running a YouTube livestream at 720p and 50% brightness. At its peak, the Surface Pro lasted just under 13 hours on a single charge. That's just shy of Microsoft's purported 14-hour battery life. In practical usage, this is a device that will easily last multiple days on a single charge. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,17 +122,20 @@ Prices for the device start at $999.99\. My review unit with the 12-core Snapdra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/implified-customization-for-your-youtube-channel-url-for-2024/"><u>[New] Simplified Customization for Your YouTube Channel URL for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-behind-the-curtain-peek-tracking-insta-post-watchers/"><u>[Updated] 2024 Approved Behind-the-Curtain Peek Tracking Insta Post Watchers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-tricks-to-download-twitter-videos-and-turn-into-mp3-files/"><u>[Updated] 2024 Approved Tricks to Download Twitter Videos and Turn Into MP3 Files</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/apple-marks-9-new-mac-variants-as-obsolete-implications-decoded/"><u>Apple Marks 9 New Mac Variants as Obsolete: Implications Decoded</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/1716464589034-epic-battle-royale-thumbnails-done-fast/"><u>Epic Battle Royale Thumbnails, Done Fast!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guard-against-unwanted-access-how-pc-repair-specialists-may-compromise-your-files-and-images-study-shows-zdnet/"><u>Guard Against Unwanted Access: How PC Repair Specialists May Compromise Your Files & Images, Study Shows | ZDnet</u></a></li>
-<li><a href="https://fox-that.techidaily.com/guide-to-fixing-hitches-when-sharing-subscriptions-with-your-loved-ones/"><u>Guide to Fixing Hitches When Sharing Subscriptions with Your Loved Ones</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-14-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 14 Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-used-apple-laptops-market-a-guide-to-dodge-scams-and-land-great-deals/"><u>Navigating Used Apple Laptops Market: A Guide to Dodge Scams and Land Great Deals</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-10-desired-visionos-enhancements-hopes-for-apples-big-reveal-at-wwdc/"><u>Top 10 Desired VisionOS Enhancements: Hopes for Apple's Big Reveal at WWDC!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/understanding-apples-m3-series-key-insights-before-your-purchase-decision/"><u>Understanding Apple’s M3 Series: Key Insights Before Your Purchase Decision</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-iphone-14-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and iPhone 14</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ow-to-create-gifs-from-youtube-videos/"><u>[New] How to Create GIFs From YouTube Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-humor-hub-for-apple-devices-for-2024/"><u>[Updated] Humor Hub for Apple Devices for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/boost-zoom-audio-solutions-for-waveform-woes-for-2024/"><u>Boost Zoom Audio Solutions for Waveform Woes for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-enhance-your-windows-experience-with-the-latest-canon-drivers/"><u>Download & Enhance Your Windows Experience with the Latest Canon Drivers!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-upgrade-geforce-gtx-1660-super-graphics-card-drivers/"><u>Download and Upgrade: GeForce GTX 1660 Super Graphics Card Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-downloading-and-setup-the-comprehensive-guide-to-installing-epson-xp-410-drivers-on-windows/"><u>Easy Downloading & Setup: The Comprehensive Guide to Installing Epson XP-410 Drivers on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fresh-amd-radeon-windows-drivers-available-free-downloads/"><u>Fresh AMD Radeon Windows Drivers Available – Free Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-to-repairing-the-80211ac-supported-realtek-rtl8821ae-network-interface-controller-drivers/"><u>Guide to Repairing the 802.11Ac Supported Realtek RTL8821ae Network Interface Controller Drivers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-cut-the-clutter-not-quality-explore-top-37-apps-for-mobile-videos-downsize/"><u>In 2024, Cut the Clutter, Not Quality Explore Top 37 Apps for Mobile Videos Downsize</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965580565-latest-konica-minolta-driver-downloads-compatible-with-windows-11-10-8-and-7-get-started-now/"><u>Latest Konica Minolta Driver Downloads Compatible with Windows 11, 10, 8, and 7 – Get Started Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-visual-enhancement-fresh-driver-download-and-setup-info/"><u>Lenovo Visual Enhancement: Fresh Driver Download & Setup Info</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/optimize-your-speakers-with-new-sound-card-drivers-download-now-windows/"><u>Optimize Your Speakers with New Sound Card Drivers - Download Now (Windows)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/premiere-pros-shadowy-showdown/"><u>Premiere Pro's Shadowy Showdown</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-package-unregistered-photo-problems-in-windows-os/"><u>Solving 'Package Unregistered' Photo Problems in Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-tips-for-a-broken-headset-microphone-connection/"><u>Step-by-Step Repair Tips for a Broken Headset Microphone Connection</u></a></li>
 </ul></div>
 

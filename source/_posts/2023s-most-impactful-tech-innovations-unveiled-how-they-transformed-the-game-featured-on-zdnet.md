@@ -1,7 +1,7 @@
 ---
 title: 2023'S Most Impactful Tech Innovations Unveiled | How They Transformed the Game - Featured on ZDNET
-date: 2024-12-17T07:53:25.755Z
-updated: 2024-12-22T04:05:15.884Z
+date: 2024-12-24T22:36:44.994Z
+updated: 2024-12-27T18:20:06.907Z
 tags:
   - laptops
 categories:
@@ -17,10 +17,6 @@ Whether you've been busy with the kids or catching up with the daily news on you
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -39,7 +35,7 @@ And, if you're still waiting to hear from some major companies, keep checking ba
 ![LG 97-inch M3 OLED smart webOS TV](https://www.zdnet.com/a/img/resize/506f09c228df659cacc5d524977b1b805c7b4dca/2023/01/03/6f43e8d1-cf31-43f8-b6cd-25bc58e9cb75/97m3-image-4.jpg?auto=webp&fit=crop&height=360&width=640)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LG
@@ -47,6 +43,10 @@ LG
 While LG unveiled its [new line of C, G, and Z OLED models](https://www.zdnet.com/home-and-office/home-entertainment/lgs-2023-tv-lineup-c3-g3-z3-models/), it also launched a surprise wireless plug-and-play 97-inch TV. It comes with Zero Connect and One Wall Design for a flush wall experience – no wires needed.
 
 Read our [first look at the M3 OLED TV here](https://www.zdnet.com/home-and-office/home-entertainment/lg-97-inch-oled-tv-m3-ces-2023/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Asus debuts all-new laptops across the board
 
@@ -64,15 +64,15 @@ Post-pandemic life has seen a surge in interest in personal health tech, and thi
 
 Learn more about the new [smart toilet sensors here](https://www.zdnet.com/home-and-office/smart-home/ces-2023-sees-the-launch-of-two-smart-toilet-sensors/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MSI drops new laptops for gamers and creatives
 
 MSI
 
 Fans of the [MSI gaming laptop family](https://us.msi.com/), rejoice -- new models of fan favorites like the Stealth, Pulse, Raider, and Vector laptops were announced this morning. You should be able to preorder these gaming powerhouses shortly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Roku and Hisense offer new models and upgrades
 
@@ -81,10 +81,6 @@ Roku
 While [Hisense upgraded its U8 line's picture](https://www.zdnet.com/home-and-office/home-entertainment/ces-2023-hisense-unveils-new-u6k-u7k-and-u8k-tvs/) with ULED X technology, Roku announced that it's entering the smart TV game with a new line of Roku panels. 
 
 Read more about [Roku making its own TVs](https://www.zdnet.com/home-and-office/home-entertainment/ces-2023-roku-to-begin-offering-its-own-tv-builds-this-year/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Samsung adds new security software with Knox Matrix
 
@@ -96,10 +92,6 @@ Check out the article version of the interview [here](https://www.zdnet.com/arti
 
 **Also:** [**What's in the tech bag ZDNET's EIC takes to CES?**](https://www.zdnet.com/article/what-tech-is-in-the-ces-2023-bag-of-zdnets-editor-in-chief/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## HP focuses on sustainability and hybrid work with new laptops
 
 HP
@@ -108,6 +100,10 @@ While HP dropped new Dragonfly Pro chromebooks and laptops, it also debuted a se
 
 Read about [new HP laptops are coming to shoppers' carts here](https://www.zdnet.com/article/laptops-chromebooks-all-in-one-pcs-and-more-take-a-look-at-hps-hybrid-focused-device-portfolio/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Track your feathered friends with the Bird Buddy smart feeder
 
 Bird Buddy
@@ -115,6 +111,10 @@ Bird Buddy
 You're used to indoor appliances with smart features, but now with the Bird Buddy hummingbird feeder, you'll be able to track who's coming to snack at your feeding stations. Don't worry -- while they're not squirrel-proof, they're designed to handle a visit from both feathered and furry friends.
 
 Read more about the [Bird Buddy smart feeders featured this year](https://www.zdnet.com/home-and-office/yard-outdoors/ces-2023-this-new-smart-bird-feeder-can-capture-up-close-images-of-hummingbirds/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## HyperX debuts new gaming mice
 
@@ -170,21 +170,15 @@ If you want the best of the news, you can see the highlights of [Day 1 of CES 20
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-download-and-install-your-ultimate-guide-to-using-obs-on-a-macpc/"><u>[New] In 2024, Download & Install Your Ultimate Guide to Using OBS on a MacPC</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-navigate-your-way-to-the-best-idevice-apps-for-extracting-content-from-facebook/"><u>[New] In 2024, Navigate Your Way to the Best iDevice Apps for Extracting Content From Facebook</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-ultimate-windows-audio-suite/"><u>[Updated] In 2024, Ultimate Windows Audio Suite</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-technological-testing-and-tracking-the-vll-method/"><u>2024 Approved Technological Testing and Tracking The VLL Method</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-it-transformed-my-computer-experience-insights/"><u>A Week with an Ergonomic Split Keyboard: How It Transformed My Computer Experience - Insights</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/advanced-ai-voice-to-text-apps/"><u>Advanced AI Voice to Text Apps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/apples-upcoming-october-unveiling-anticipating-the-new-m4-mac-mini-enhanced-ipads-and-advancements-in-apple-ai/"><u>Apple’s Upcoming October Unveiling: Anticipating the New M4 Mac Mini, Enhanced iPads & Advancements in Apple AI</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-promo-prices-for-high-end-iogear-portable-devices-now-available-on-amazon-zdnet-special-report/"><u>Discover Promo Prices for High-End IOGEAR Portable Devices Now Available on Amazon – ZDNet Special Report</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-access-secure-your-savings-on-top-tier-october-game-discounts-up-to-1k-off/"><u>Exclusive Access: Secure Your Savings on Top-Tier October Game Discounts - Up to $1K Off!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-laptop-sale-slash-price-by-800-limited-offer-at-600-for-acer-porsche-design-check-out-the-deal-here/"><u>Exclusive Laptop Sale: Slash Price by $800 - Limited Offer at $600 for Acer Porsche Design! Check Out the Deal Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-review-of-framework-chromebook-a-revolutionary-step-towards-sustainable-tech/"><u>Exclusive Review of Framework Chromebook - A Revolutionary Step Towards Sustainable Tech</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-xiaomi-redmi-12-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Xiaomi Redmi 12 Lock Screen Password</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/insider-information-exposes-continued-stability-struggles-in-intel-processors-more-than-just-elevated-voltage-risks/"><u>Insider Information Exposes Continued Stability Struggles in Intel Processors — More than Just Elevated Voltage Risks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximize-your-productivity-grab-the-ultimate-multitasking-dock-at-a-steal-save-35-today-only-featured/"><u>Maximize Your Productivity: Grab the Ultimate Multitasking Dock at a Steal - Save 35% Today Only, Featured !</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/pro-audio-integration-essential-tips-for-podcasters-for-2024/"><u>Pro Audio Integration Essential Tips for Podcasters for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/steal-of-the-century-alert-score-your-iphone-15-pro-max-at-just-001-on-amazon-discover-this-incredible-offer-now/"><u>Steal-of-the-Century Alert: Score Your iPhone 15 Pro Max at Just $0.01 on Amazon! Discover This Incredible Offer Now</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-gamer-tested-streaming-software-picks/"><u>[New] 2024 Approved Gamer-Tested Streaming Software Picks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-exploring-top-rated-frame-rate-choices-for-cinema-slow-motion-for-2024/"><u>[New] Exploring Top-Rated Frame Rate Choices for Cinema Slow-Motion for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-oppo-reno-8t-by-drfone-android/"><u>How to Show Wi-Fi Password on Oppo Reno 8T</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-advanced-siri-shortcuts-for-an-enhanced-iphone-experience-as-revealed/"><u>Mastering Advanced Siri Shortcuts for an Enhanced iPhone Experience as Revealed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/rapid-setup-of-lexars-usb-driver-download-in-a-snap/"><u>Rapid Setup of Lexar's USB Driver - Download in a Snap</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/razer-naga-support-where-to-download-the-most-recent-driver-packages-for-windows-users/"><u>Razer Naga Support: Where to Download the Most Recent Driver Packages for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-compatibility-issues-with-bluetooth-on-the-latest-windows-11-platform/"><u>Resolving Compatibility Issues with Bluetooth on the Latest Windows 11 Platform</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-standard-curing-period-for-concrete-under-normal-conditions-is-at-least-7-days/"><u>The Standard Curing Period for Concrete Under Normal Conditions Is at Least 7 Days</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/top-10-affordable-video-chat-for-android-users-for-2024/"><u>Top 10 Affordable Video Chat for Android Users for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/windows-10-challenges-loom-ahead-for-microsoft-only-one-year-remaining-to-address-issues-insights-from-zdnet/"><u>Windows 10 Challenges Loom Ahead for Microsoft: Only One Year Remaining to Address Issues - Insights From ZDNet</u></a></li>
 </ul></div>
 

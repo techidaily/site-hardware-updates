@@ -1,7 +1,7 @@
 ---
 title: "Massive $950 Off: Snap Up Lenovo's Premium Office Laptop Before October's Prime Deals - Insider Tips From ZDNet"
-date: 2024-12-16T21:27:53.394Z
-updated: 2024-12-22T07:12:58.387Z
+date: 2024-12-26T00:21:38.848Z
+updated: 2024-12-27T22:35:44.369Z
 tags:
   - laptops
 categories:
@@ -38,7 +38,7 @@ This laptop isn't solely for business professionals. Everybody can enjoy the dev
 Right now is the best time to buy this device. The [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cddc033e3-08fa-42b2-b4fe-eb896d4675a3%7Cdtp&dtb=1) is currently on sale at Amazon for $1,500\. That is almost $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cddc033e3-08fa-42b2-b4fe-eb896d4675a3%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -75,17 +75,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-erase-effortlessly-social-media-live-on-desktop-and-phone/"><u>[New] In 2024, Erase Effortlessly Social Media Live on Desktop & Phone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-webcam-use-for-professional-meeting-records-for-2024/"><u>[New] Mastering Webcam Use for Professional Meeting Records for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/he-ultimate-thumbnail-blueprint-for-successful-videos/"><u>[New] The Ultimate Thumbnail Blueprint for Successful Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/2024-prime-day-ultimate-savings-guide-top-october-deals-still-on-sale-zdnet/"><u>2024 Prime Day Ultimate Savings Guide: Top October Deals Still on Sale | ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-fixes-to-revive-your-laptop-charger-my-story-of-saving-the-macbook-pro/"><u>Free Fixes to Revive Your Laptop Charger: My Story of Saving the MacBook Pro</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Realme GT Neo 5? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-f15-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy F15 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/samsung-unveils-upgraded-copilotplus-pc-featuring-enhanced-ai-capabilities-exclusive-tech-news-on-zdnet/"><u>Samsung Unveils Upgraded Copilot+ PC Featuring Enhanced AI Capabilities - Exclusive Tech News on ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-buying-a-tough-laptop-insider-info-from-zdnet/"><u>Ultimate Guide to Buying a Tough Laptop – Insider Info From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-the-ideal-college-laptop-picks-in-depth-analysis-by-tech-experts/"><u>Ultimate Guide to the Ideal College Laptop Picks: In-Depth Analysis by Tech Experts</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-of-weather-surveillance-apps/"><u>Ultimate Selection of Weather Surveillance Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-10-iphone-camera-features-you-should-know-in-ios-11/"><u>[Updated] 10 iPhone Camera Features You Should Know in iOS 11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-steady-and-true-keeping-it-all-together-in-your-youtube-shoots/"><u>[Updated] Steady and True Keeping It All Together in Your YouTube Shoots</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-frame-your-vision-leading-lines-for-dynamic-iphone-photos/"><u>2024 Approved Frame Your Vision Leading Lines for Dynamic iPhone Photos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-geforce-gtx-460-drivers-on-windows-step-by-step-guide/"><u>Download GeForce GTX 460 Drivers on Windows: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-update-process-for-targus-displaylink-drivers-on-windows-os-versions/"><u>Easy Update Process for Targus DisplayLink Drivers on Windows OS Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-latest-driver-software-for-razer-blackwidow-gaming-peripherals/"><u>How to Install the Latest Driver Software for Razer BlackWidow Gaming Peripherals</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-lava-yuva-3-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Lava Yuva 3 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-free-online-video-editors-like-imovie-top-picks/"><u>New 2024 Approved Free Online Video Editors Like iMovie Top Picks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/optimize-gaming-performance-on-win-111087-with-amd-rx-6900-xt-latest-graphics-card-drivers-download/"><u>Optimize Gaming Performance on Win 11/10/8/7 with AMD RX 6900 XT Latest Graphics Card Drivers Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-evga-drivers-on-windows-devices/"><u>Step-by-Step Guide: Updating EVGA Drivers on Windows Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-logitech-brio-camera-driver-installation-for-windows-operating-systems/"><u>Step-by-Step Logitech BRIO Camera Driver Installation for Windows Operating Systems</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/reators-guide-to-the-top-9-affordable-video-editing-apps/"><u>The Creator's Guide to the Top 9 Affordable Video Editing Apps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/standing-youtubes-ad-free-experience-with-a-plan-for-2024/"><u>Understanding YouTube's Ad-Free Experience with a Plan for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-amd-vega-gpu-drivers-with-ease-for-an-ultimate-gaming-performance/"><u>Update Your AMD Vega GPU Drivers with Ease for an Ultimate Gaming Performance</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-complete-insight-into-the-wave-editor-vital-elements-expert-opinions-and-instructional-videos/"><u>Updated Complete Insight Into the Wave Editor Vital Elements, Expert Opinions, and Instructional Videos</u></a></li>
 </ul></div>
 

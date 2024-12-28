@@ -1,7 +1,7 @@
 ---
 title: "Future of Office Tech: Adapting Workplace Gadgets for Success in an Age of Artificial Intelligence - Insights"
-date: 2024-12-18T17:30:43.956Z
-updated: 2024-12-22T01:15:23.857Z
+date: 2024-12-21T20:17:03.741Z
+updated: 2024-12-28T00:44:29.670Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,24 +134,24 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unveiling-hidden-shared-memories-in-messenger/"><u>[New] In 2024, Unveiling Hidden Shared Memories in Messenger</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-comprehensive-insight-into-the-ultra-clear-lg-monitor/"><u>[Updated] 2024 Approved Comprehensive Insight Into the Ultra-Clear LG Monitor</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-secrets-of-style-perfecting-your-macootd-on-tiktok-for-2024/"><u>[Updated] Secrets of Style Perfecting Your MacOOTD on TikTok for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1-comprehensive-guide-to-evaluating-vpn-services-insights-from-zdnet/"><u>1. Comprehensive Guide to Evaluating VPN Services: Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/a-hidden-gem-in-top-office-gadgets-the-most-underappreciated-2-in-1-device-of-the-year-insights/"><u>A Hidden Gem in Top Office Gadgets: The Most Underappreciated 2-in-1 Device of the Year - Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/affordable-alternative-top-recommended-windows-laptop-now-beats-macbook-air-price-and-offers-a-sale-insights/"><u>Affordable Alternative: Top-Recommended Windows Laptop Now Beats MacBook Air Price & Offers a Sale - Insights</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discovering-the-samsung-un65ru8000fxza-an-exploration-into-its-clever-tech-and-impressive-visuals/"><u>Discovering the Samsung UN65RU8000FXZA - An Exploration Into Its Clever Tech and Impressive Visuals</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/full-day-battery-endurance-for-your-macbook-expert-strategies-and-techniques/"><u>Full-Day Battery Endurance for Your MacBook: Expert Strategies and Techniques</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-motorola-moto-g13-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Motorola Moto G13 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-realizing-unseen-friend-requests/"><u>In 2024, Realizing Unseen Friend Requests</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-not-found-the-ultimate-list/"><u>Overcoming Windows Not Found: The Ultimate List</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/prime-day-savings-alert-unveiling-an-exceptional-lenovo-and-dell-alternative-the-ultimate-guide-to-choosing-a-budget-friendly-2-in-1-laptop-by-zdnet-experts13/"><u>Prime Day Savings Alert! Unveiling an Exceptional, Lenovo & Dell Alternative: The Ultimate Guide to Choosing a Budget-Friendly 2-in-1 Laptop by ZDNET Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-the-hp-victus-15-gamers-dream-at-a-steal-just-515-with-exclusive-best-buy-prime-day-blowout-learn-how/"><u>Snag the HP Victus 15 Gamer's Dream at a Steal: Just $515 With Exclusive Best Buy Prime Day Blowout – Learn How !</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snap-up-the-bargain-exclusive-amazon-offer-with-36-off-samsung-t5-8tb-ssd-after-prime-revealed-by-zdnet/"><u>Snap Up the Bargain: Exclusive Amazon Offer with 36% Off Samsung T5 8TB SSD After Prime - Revealed by ZDNet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guilty-gear-strives-lag-issues-for-smoother-gameplay/"><u>Troubleshooting Guilty Gear Strive's Lag Issues for Smoother Gameplay</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-atandt-mobile-roaming-terms-and-conditions/"><u>Understanding AT&T Mobile Roaming Terms and Conditions</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/understanding-http3-a-complete-guide-to-the-next-generation-internet-protocol/"><u>Understanding HTTP/3: A Complete Guide to the Next-Generation Internet Protocol</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiled-top-performing-computers-from-the-2024-consumer-electronics-show-insights/"><u>Unveiled: Top-Performing Computers From the 2024 Consumer Electronics Show – Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-samsungs-latest-copilotplus-pc-enhancements-advanced-ai-integration-highlighted-by-zdnet/"><u>Unveiling Samsung’s Latest Copilot+ PC Enhancements: Advanced AI Integration Highlighted by ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-pinnacle-peak-tracker-your-highest-youtube-rankings/"><u>[New] 2024 Approved Pinnacle Peak Tracker Your Highest YouTube Rankings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ken-burns-effect-techniques-for-camtasia-users-for-2024/"><u>[Updated] Ken Burns Effect Techniques for Camtasia Users for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-mirrorless-mastery-with-best-gimbals-selection/"><u>[Updated] Mirrorless Mastery with Best Gimbals Selection</u></a></li>
+<li><a href="https://article-tips.techidaily.com/comprehensive-evaluation-samsung-gear-360-vr-camera/"><u>Comprehensive Evaluation Samsung Gear 360 VR Camera</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-to-amds-zen-5-the-new-wave-of-efficiency-with-smaller-cores-and-advanced-chip-structure-featuring-dual-ccxs/"><u>Comprehensive Guide to AMD's Zen 5 - The New Wave of Efficiency With Smaller Cores and Advanced Chip Structure Featuring Dual CCXs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-advice-keep-your-intel-hd-graphics-5500-updated-with-ease/"><u>Expert Advice: Keep Your Intel HD Graphics 5500 Updated with Ease</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-basic-tools-to-advanced-systems-prepping-for-transformation/"><u>From Basic Tools to Advanced Systems Prepping for Transformation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-behringers-premium-driver-software-now-free-trial-and-full-download/"><u>Get Behringer's Premium Driver Software Now – Free Trial and Full Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-firmware-and-software-enhancements-for-your-hp-laserjet-pro-m4-n-printer/"><u>Latest Firmware and Software Enhancements for Your HP LaserJet Pro M4_ N Printer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-updates-installing-the-thunderbolt-3-dock-adapter-on-your-lenovo-thinkpad/"><u>Latest Updates: Installing the Thunderbolt 3 Dock Adapter on Your Lenovo ThinkPad</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-pc-components-with-expertise-from-toms-tech-hub/"><u>Navigating PC Components with Expertise From Tom's Tech Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973204491-nvidia-rtx-tiri-driver-for-widnows-10-8-and-7-get-your-free-download-here/"><u>NVIDIA RTX ˈtiːɡri Driver for Widnows 10, 8 & 7 - Get Your Free Download Here!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/select-the-perfect-smartwatch-5-must-know-criteria-for-informed-shopping/"><u>Select the Perfect Smartwatch: 5 Must-Know Criteria for Informed Shopping</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-guide-installing-drivers-on-windows-with-one-click-solutions/"><u>Simple Guide: Installing Drivers on Windows with One-Click Solutions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ltimate-voyage-guide-from-novice-to-esteemed-travel-blogger/"><u>The Ultimate Voyage Guide From Novice to Esteemed Travel Blogger</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-10-photo-libraries-for-free-visuals-worldwide/"><u>Top 10 Photo Libraries for Free Visuals Worldwide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-repairing-your-steelseries-arctis-pros-non-functional-mic/"><u>Troubleshooting Guide: Repairing Your SteelSeries Arctis Pro's Non-Functional Mic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solving-audio-latency-issues/"><u>Ultimate Guide: Solving Audio Latency Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973942573-update-and-install-epson-l3n-50-driver-on-windows-10-8-and-7-direct-links-here/"><u>Update and Install Epson L3n-50 Driver on Windows 10, 8 & 7 - Direct Links Here!</u></a></li>
 </ul></div>
 

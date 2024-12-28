@@ -1,7 +1,7 @@
 ---
 title: Advanced Computer Systems Breakdown by Tom's Hardware Specialist
-date: 2024-08-23T13:43:39.703Z
-updated: 2024-08-24T13:43:39.703Z
+date: 2024-12-21T19:47:47.390Z
+updated: 2024-12-27T19:44:47.626Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
 
  Ryzen 9 9950X’s performance boosts over the 7950X are nothing to scoff at. While some overclocking headroom is lost over the 7950X, AMD’s own[benchmarks](https://www.tomshardware.com/tag/benchmark) and[recent leaked tests in the wild](https://www.tomshardware.com/pc-components/cpus/amds-new-zen-5-flagship-gets-benchmarked-ryzen-9-9950x-engineering-sample-isnt-as-impressive-in-blender-at-maximum-power-settings) show a 30% increase in performance for the same wattage. For more details from Zen 5 Tech Day about the entire Granite Ridge lineup and Strix Point,[see our full coverage of the event](https://www.tomshardware.com/pc-components/cpus/amd-deep-dives-zen-5-ryzen-9000-and-strix-point-cpu-rdna-35-gpu-and-xdna-2-architectures) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,14 +43,11 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,8 +56,21 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-spread-the-rhythm-sharing-playlists-in-minutes/"><u>[Updated] 2024 Approved Spread the Rhythm Sharing Playlists in Minutes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-premium-mac-image-transformer/"><u>[Updated] Premium Mac Image Transformer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/brother-hl-2280dw-drivers-for-windows-download-for-windows-111087-systems/"><u>Brother HL-2280DW Drivers for Windows: Download for Windows 11/10/8/7 Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crucial-aspects-when-elevating-your-4k-cinematography/"><u>Crucial Aspects When Elevating Your 4K Cinematography</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-nvidia-quadro-rtx-4000-graphics-card-drivers-get-your-free-update-now/"><u>Download the Latest NVIDIA Quadro RTX 4000 Graphics Card Drivers: Get Your Free Update Now!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-samsung-galaxy-s24-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on Samsung Galaxy S24</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-nvidia-geforce-rtx-3080-drivers-compatible-with-windows-10-8-and-7/"><u>Free Download: NVIDIA GeForce RTX 3080 Drivers Compatible with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-rtx-3nvidia-geforce-3070-ti-driver-compatible-with-win-10-8-and-7/"><u>Get the Latest RTX 3Nvidia GeForce 3070 Ti Driver - Compatible with Win 10, 8 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-multiple-pdf-files-stellar-by-stellar-guide/"><u>How to Repair Multiple PDF Files | Stellar</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-honor-x50i-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Honor X50i to Mac? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/aging-colored-backdrops-for-seamless-edits/"><u>Leveraging Colored Backdrops for Seamless Edits</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-best-of-the-best-top-hd-video-editing-software-for-2024/"><u>New Best of the Best Top HD Video Editing Software for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/utionize-your-intellect-with-these-15-yt-channels/"><u>Revolutionize Your Intellect with These 15 YT Channels</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updating-your-epson-wf-7720-printer-software-for-optimal-performance-on-windows/"><u>Updating Your Epson WF-7720 Printer Software for Optimal Performance on Windows</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->

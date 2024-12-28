@@ -1,7 +1,7 @@
 ---
 title: "Investigating Allegations Againnst Intel: Class Action Over Processor Performance Failures Begins"
-date: 2024-08-23T13:44:41.664Z
-updated: 2024-08-24T13:44:41.664Z
+date: 2024-12-24T17:41:17.690Z
+updated: 2024-12-27T21:25:44.797Z
 tags:
   - cpu
 categories:
@@ -34,6 +34,10 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,14 +46,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -58,8 +59,24 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/2024-approved-hdrs-edge-pushing-video-production-to-new-heights/"><u>2024 Approved HDR's Edge Pushing Video Production to New Heights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-invisible-strategies-to-avoid-home-school-vids/"><u>2024 Approved Invisible Strategies to Avoid Home School Vids</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-graphics-driver-software-for-radeon-rx-asterisk-5700-xt-download-for-windows-11-10-8-and-7/"><u>AMD Graphics Driver Software for Radeon RX Asterisk 5700 XT - Download for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hp-network-adapter-up-and-running-for-win-10-7-or-er-8-driver-download-tips/"><u>Get Your HP Network Adapter Up and Running for Win 10, 7 or Er 8 - Driver Download Tips</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-nubia-z50-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-samsung-galaxy-a34-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Samsung Galaxy A34 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-refresh-driver-settings-for-a-logitech-m310-mouse-compatibly/"><u>How to Refresh Driver Settings for a Logitech M310 Mouse Compatibly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-geforce-rtx-3080-drivers-compatible-with-windows-11-8-and-7/"><u>Latest NVIDIA GeForce RTX 3080 Drivers: Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-graphics-drivers-free-downloads-for-windows-10-7-and-8/"><u>Latest Nvidia Graphics Drivers: Free Downloads for Windows 10, 7 & 8</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016126512-league-of-legends-voice-chat-problems-solutions-to-get-you-talking-again/"><u>League of Legends Voice Chat Problems? Solutions to Get You Talking Again</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/miniaturized-audio-excellence-with-yamaha-mcr-b020bl/"><u>Miniaturized Audio Excellence with Yamaha MCR-B020BL</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/overcoming-realtek-wi-fi-driver-challenges-on-windows-11107-a-step-by-step-fix-tutorial/"><u>Overcoming Realtek Wi-Fi Driver Challenges on Windows 11/10/7 – A Step-by-Step Fix Tutorial</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/passos-faceis-para-clonagem-de-disco-rigido-usando-um-pen-drive-formatado-manual-completo-2024/"><u>Passos Fáceis Para Clonagem De Disco Rigido Usando Um Pen Drive Formatado: Manual Completo 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-to-downloading-your-intel-cpus-latest-drivers/"><u>Quick Guide to Downloading Your Intel CPU's Latest Drivers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/red-carpet-rollouts-top-picks-for-iphone-filmmakers-choices-for-2024/"><u>Red Carpet Rollouts Top Picks for iPhone Filmmakers' Choices for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-pcs-sound-capabilities-find-and-install-the-best-windows-7-audio-drivers/"><u>Update Your PC's Sound Capabilities: Find & Install the Best Windows 7 Audio Drivers</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->

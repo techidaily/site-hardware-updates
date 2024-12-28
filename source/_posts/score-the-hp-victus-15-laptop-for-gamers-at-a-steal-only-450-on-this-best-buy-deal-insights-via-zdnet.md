@@ -1,7 +1,7 @@
 ---
 title: Score The HP Victus #15 Laptop for Gamers at a Steal – Only $450 on This Best Buy Deal | Insights via ZDNET
-date: 2024-12-14T23:34:43.580Z
-updated: 2024-12-22T01:32:50.585Z
+date: 2024-12-23T17:13:49.113Z
+updated: 2024-12-27T16:03:05.352Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,17 +63,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2023how-to-share-videos-on-twitter-on-your-phone-without-retweeting-in-2024/"><u>[New] 2023|How to Share Videos on Twitter on Your Phone Without Retweeting, In 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-from-video-conference-to-youtube-broadcast-google-meet-explained/"><u>[Updated] From Video Conference to Youtube Broadcast Google Meet Explained</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-sifting-through-the-sands-of-youtube-conversations/"><u>[Updated] Sifting Through the Sands of YouTube Conversations</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-steps-to-activate-amazon-echo-dot-pairing-mode/"><u>Easy Steps to Activate Amazon Echo Dot Pairing Mode</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enabling-apple-apps-for-enhanced-viewing-experience-on-your-fire-stick/"><u>Enabling Apple Apps for Enhanced Viewing Experience on Your Fire Stick</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-victus-15-now-only-530-at-best-buy-ultimate-savings-on-a-high-performance-gaming-laptop/"><u>HP Victus 15 Now Only $530 at Best Buy: Ultimate Savings on a High-Performance Gaming Laptop!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-motorola-razr-40-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Motorola Razr 40 to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/scrolling-on-touchpad-not-working-solved/"><u>Scrolling on Touchpad Not Working [SOLVED]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/transform-your-connectivity-the-ultimate-guide-to-choosing-the-best-6-in-1-usb-c-hub-for-optimal-cable-management-zdnet/"><u>Transform Your Connectivity: The Ultimate Guide to Choosing the Best 6-in-1 USB-C Hub for Optimal Cable Management | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-premium-touchscreen-notebooks-thoroughly-testing-and-insights-cnet/"><u>Ultimate Guide to Premium Touchscreen Notebooks - Thoroughly Testing & Insights | CNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-premium-17-inch-notebooks-as-chosen-by-zdnet/"><u>Ultimate Guide: Premium 17-Inch Notebooks as Chosen by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-your-workstation-with-apples-fresh-release-the-enhanced-13-and-15-inch-macbook-air-powered-by-m3-processor-get-insights/"><u>Upgrade Your Workstation with Apple's Fresh Release: The Enhanced 13- and 15-Inch MacBook Air Powered by M3 Processor – Get Insights</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-unfiltered-truth-insights-into-instagram-reels/"><u>[Updated] In 2024, The Unfiltered Truth Insights Into Instagram Reels</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-ultimate-sj-cam-s6-review-the-pros-guide/"><u>[Updated] In 2024, Ultimate SJ-CAM S6 Review The Pro's Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-honor-90-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Honor 90 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-and-amd-at-their-best-in-the-stunning-new-asus-lineup-zenbook-s-and-tuf-a14-showcase-elite-technology-meets-elegance/"><u>Intel and AMD at Their Best in the Stunning New Asus Lineup: Zenbook S & TUF A14 Showcase Elite Technology Meets Elegance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/leaked-details-revealed-preview-of-samsungs-latest-galaxy-book4-edge-with-snapdragon-chipset-before-microsoft-unveils-new-hardware/"><u>Leaked Details Revealed: Preview of Samsung's Latest Galaxy Book4 Edge with Snapdragon Chipset Before Microsoft Unveils New Hardware</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/make-waves-in-youtube-essential-mobile-based-production-tips-for-2024/"><u>Make Waves in YouTube Essential Mobile-Based Production Tips for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/massive-sale-on-lenovo-legion-750-off-for-nvidia-rtx-4080-up-to-240hz-screen/"><u>Massive Sale on Lenovo Legion: $750 Off for NVIDIA RTX 4080 - Up to 240Hz Screen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-technology-with-toms-hardware-expertise-the-definitive-guide/"><u>Mastering Technology with Tom's Hardware Expertise - The Definitive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigate-the-world-of-technology-in-depth-hardware-reviews-by-tom/"><u>Navigate the World of Technology: In-Depth Hardware Reviews by Tom</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-tech-with-tom-hardware-breakdowns-for-smart-buys/"><u>Navigating Tech with Tom: Hardware Breakdowns for Smart Buys</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-gadgets-and-systems-lessons-from-toms-hardware/"><u>Navigating the World of Gadgets and Systems: Lessons From Tom's Hardware</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209988874-9780989126311-undermind/"><u>UnderMind | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-ungroup-taskbar-icons-easily/"><u>Win 11: Ungroup Taskbar Icons Easily</u></a></li>
 </ul></div>
 

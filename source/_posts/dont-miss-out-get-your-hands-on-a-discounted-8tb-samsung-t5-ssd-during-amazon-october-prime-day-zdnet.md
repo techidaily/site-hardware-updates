@@ -1,7 +1,7 @@
 ---
 title: Don't Miss Out! Get Your Hands on a Discounted 8TB Samsung T5 SSD During Amazon October Prime Day | ZDNET
-date: 2024-12-17T19:48:15.804Z
-updated: 2024-12-22T09:49:14.380Z
+date: 2024-12-22T22:16:54.706Z
+updated: 2024-12-27T19:32:43.632Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce74f4426-3b28-4d32-87bd-c6b12107cdc1%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,19 +65,20 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-enhancing-youtube-video-screens-without-barriers/"><u>[New] 2024 Approved Enhancing YouTube Video Screens Without Barriers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unlock-your-potential-with-ez-grabber-installation-and-usage/"><u>[New] 2024 Approved Unlock Your Potential with EZ Grabber - Installation & Usage</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-explore-and-snap-downloads-of-tiktok-videos-for-2024/"><u>[New] Explore and Snap Downloads of TikTok Videos for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-platforms-enhance-your-youtube-presence/"><u>[New] Top Platforms Enhance Your YouTube Presence</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-rx-6800-driver-download-for-windows-111087/"><u>AMD RX 6800 Driver Download for Windows 11/10/8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/bcm20702a0-download-and-install-windows-drivers-with-ease/"><u>BCM20702A0: Download & Install Windows Drivers with Ease</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-logitech-m510-driver-update-tutorial-get-started-today/"><u>Easy Logitech M510 Driver Update Tutorial - Get Started Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-updated-hid-keyboard-drivers/"><u>Effortless Installation of Updated HID Keyboard Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-tips-for-successfully-downloading-and-updating-your-zebra-zp450-printer-drivers/"><u>Expert Tips for Successfully Downloading & Updating Your Zebra ZP450 Printer Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-install-updates-for-your-canon-mg2520-printer-driver-on-windows-computers/"><u>How to Find & Install Updates for Your Canon MG2520 Printer Driver on Windows Computers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-tutorial-uploading-youtube-to-instagram-stories-effortlessly/"><u>In 2024, Tutorial Uploading YouTube to Instagram Stories Effortlessly</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Vivo Y100i? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pinnacle-of-picture-perfection-with-video-enhance-v22-for-2024/"><u>Pinnacle of Picture Perfection with Video Enhance V2.2 for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-dsounddll-missing-or-unavailable-error-messages-a-comprehensive-guide/"><u>Resolving dSound.dll Missing or Unavailable Error Messages: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-beyond-periscope-top-6-peripheral-android-and-ios-apps-for-2024/"><u>[New] Beyond Periscope Top 6 Peripheral Android and iOS Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-detailed-tips-for-adequate-lighting-in-youtube-video-production-for-2024/"><u>[New] Detailed Tips for Adequate Lighting in YouTube Video Production for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-immersive-recording-enhancing-your-gaming-with-windows-11/"><u>[New] In 2024, Immersive Recording Enhancing Your Gaming with Windows 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leveraging-cross-functional-collaboration-for-comprehensive-market-research/"><u>2024 Approved Leveraging Cross-Functional Collaboration for Comprehensive Market Research</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-workspace-with-newly-released-asrock-monitors-a-duo-of-high-definition-27-ips-displays-one-flaunting-an-integrated-wi-fi-antenna/"><u>Elevate Your Workspace with Newly Released ASROCK Monitors – A Duo of High-Definition 27 IPS Displays, One Flaunting an Integrated Wi-Fi Antenna</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/essential-playgrounds-for-virtual-escapades-for-2024/"><u>Essential Playgrounds for Virtual Escapades for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/evaluating-the-mediocre-features-of-the-portable-viewsonic-va1655-monitor/"><u>Evaluating the Mediocre Features of the Portable ViewSonic VA1655 Monitor</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exceptional-offer-high-performance-asus-tuf-24-165-hz-gaming-monitor-ips-display-for-only-99-at-newegg/"><u>Exceptional Offer! High-Performance Asus TUF 24 165 Hz Gaming Monitor, IPS Display for Only $99 at Newegg</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-unparalleled-speed-with-tcls-latest-4k-gaming-screen-at-1000hz-refresh-rate/"><u>Experience Unparalleled Speed with TCL’s Latest 4K Gaming Screen at 1,000Hz Refresh Rate</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-analysis-dough-spectrum-27-oled-game-display-elite-color-precision-and-superior-quality/"><u>Expert Analysis: Dough Spectrum 27 OLED Game Display - Elite Color Precision & Superior Quality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-insights-from-toms-electronic-reviews/"><u>Expert Insights From Tom's Electronic Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-the-best-and-most-affordable-gaming-monitors-of-2024-including-high-quality-curved-displays-with-superior-refresh-rates/"><u>Explore the Best and Most Affordable Gaming Monitors of 2024, Including High-Quality Curved Displays with Superior Refresh Rates</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-quick-fix-flipping-clips-in-final-cut-pro-made-easy/"><u>New In 2024, Quick Fix Flipping Clips in Final Cut Pro Made Easy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/no-license-just-imagination-top-free-paint-apps/"><u>No License, Just Imagination: Top Free Paint Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-common-issues-with-youtube-connectivity-problems-explained/"><u>Understanding Common Issues with YouTube Connectivity Problems Explained</u></a></li>
 </ul></div>
 

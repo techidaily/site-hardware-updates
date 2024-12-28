@@ -1,7 +1,7 @@
 ---
 title: "Exploring Computing with Tom's Gear Hub: Detailed Analyses and Tips"
-date: 2024-08-23T13:43:42.210Z
-updated: 2024-08-24T13:43:42.210Z
+date: 2024-12-26T18:02:11.400Z
+updated: 2024-12-27T22:22:28.060Z
 tags:
   - cpu
 categories:
@@ -27,6 +27,10 @@ The official name for Intel's next-generation desktop platform and flagship chip
 
 [Previous leaks claim](https://www.tomshardware.com/pc-components/cpus/leaked-intel-arrow-lake-chipset-diagram-show-more-pcie-lanes-no-support-for-ddr4-new-chipset-boasts-two-m2-ssd-ports-connected-directly-to-cpu) that Z890 will be a noteworthy upgrade over Z790, providing integrated Thunderbolt 4 support, thanks to Thunderbolt 4 controller integration from Arrow Lake CPUs. Z890 is also rumored to come with four additional lanes of PCIe 5 storage for dedicated M.2 SSDs and a secondary PCIe 4.0 x 4 interface for a second M.2 drive. Rumors also stated that Intel will adopt the ["200" moniker](https://www.tomshardware.com/pc-components/cpus/intels-next-gen-desktop-cpus-have-leaked-arrow-lake-core-ultra-200-series-share-similar-core-counts-with-raptor-lake-refresh) for Arrow Lake-S, featuring a triple-digit numbering scheme rather than the five we have today. The flagship Arrow Lake-S part is cited as being called the Core Ultra 9 285K.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -35,14 +39,11 @@ The official name for Intel's next-generation desktop platform and flagship chip
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -51,9 +52,22 @@ The official name for Intel's next-generation desktop platform and flagship chip
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-from-pages-to-production-creating-a-movie-blueprint-for-2024/"><u>[New] From Pages to Production Creating a Movie Blueprint for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-channel-cash-flow-management-for-youtubers/"><u>[Updated] In 2024, Channel Cash Flow Management for YouTubers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-best-locations-for-finding-top-quality-insta-tones-and-crafting-excellent-alarms/"><u>2024 Approved Unveiling the Best Locations for Finding Top-Quality Insta Tones and Crafting Excellent Alarms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/beating-lag-and-improving-response-time-essential-techniques-for-optimal-play-in-chivalry-2/"><u>Beating Lag & Improving Response Time: Essential Techniques for Optimal Play in Chivalry 2</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-prodigy-ryan-kaji-dominates-youtube-revenue-race/"><u>Child Prodigy Ryan Kaji Dominates YouTube Revenue Race</u></a></li>
+<li><a href="https://techtrends.techidaily.com/create-digital-love-the-ultimate-guide-to-entering-a-heart-emoji-on-any-keyboard/"><u>Create Digital Love: The Ultimate Guide to Entering a Heart Emoji on Any Keyboard</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-dvd-formatting-tips-and-techniques-for-windows-users/"><u>Effortless DVD Formatting Tips and Techniques for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-latest-nvidia-gaming-drivers-now-compatible-with-windows-11-and-10/"><u>Get Your Latest Nvidia Gaming Drivers Now: Compatible with Windows 11 and 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-or-update-your-mpow-bluetooth-driver-on-windows-11-8-and-7-pcs/"><u>How to Install or Update Your MPOW Bluetooth Driver on Windows 11, 8, & 7 PCs</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For Apple iPhone 8 Plus?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-g433-headset-troubleshooting-resolving-sound-capture-problems/"><u>Logitech G433 Headset Troubleshooting: Resolving Sound Capture Problems</u></a></li>
+<li><a href="https://article-tips.techidaily.com/notable-book-trailers-showcasing-stories/"><u>Notable Book Trailers Showcasing Stories</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/qualcomm-usb-driver-package-install-now-for-windows-111087-support/"><u>Qualcomm USB Driver Package – Install Now for Windows 11/10/8/7 Support</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-poweradd-pilot-pro2-the-perfect-portable-charging-solution/"><u>Ultimate Guide: POWERADD Pilot Pro2 - The Perfect Portable Charging Solution</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/usb-c-drivers-for-windows-10-free-download-now/"><u>USB-C Drivers for Windows 10: Free Download Now</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->

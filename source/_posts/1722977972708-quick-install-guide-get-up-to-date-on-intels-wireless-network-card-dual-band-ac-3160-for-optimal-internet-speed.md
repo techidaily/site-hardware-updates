@@ -1,7 +1,7 @@
 ---
 title: "Quick Install Guide: Get Up-to-Date on Intel's Wireless Network Card - Dual Band AC 3160 for Optimal Internet Speed"
-date: 2024-08-23T13:44:07.170Z
-updated: 2024-08-24T13:44:07.170Z
+date: 2024-12-23T23:23:31.125Z
+updated: 2024-12-27T19:12:03.600Z
 tags:
   - win11
   - win10
@@ -74,6 +74,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-528.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click **Browse** to choose where you want to save your offline scan result. Then click the**Offline Scan** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-531.png)
@@ -82,9 +86,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-532.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Open the folder where you’ve saved the offline scan file. Then**save** the file in a USB flash drive and**transfer** it to another computer**with Internet access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-534.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy on that computer (the one with Internet access).
 
@@ -100,6 +112,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-540.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  12) Click the**Download** button next to**Intel Dual Band Wireless-AC 3160** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-671.png)
@@ -107,6 +123,10 @@ OR
  13) Choose where you’d like to save the downloaded driver, and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-542.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Wait for the download process to be complete.
 
@@ -129,6 +149,10 @@ Wait for the download process to be complete.
  2) On the pop-up page, click **Intel® PROSet/Wireless Software and Drivers for Intel® Dual Band Wireless-AC 3160.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-658-1024x326.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) On the next page, pay attention to the left section and find the EXE file corresponding to your Windows version. Once you’ve found the correct one, click the**Download** button below.
 
@@ -159,8 +183,6 @@ Wait for the download process to be complete.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,9 +190,20 @@ Wait for the download process to be complete.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-re-establishing-obs-audio-recording-capabilities/"><u>[New] 2024 Approved Re-Establishing OBS Audio Recording Capabilities</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-optimal-recorders-top-10-tools-for-webinars/"><u>[Updated] Optimal Recorders Top 10 Tools for Webinars</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-glacial-gala-winter-olympics-excellence/"><u>2024 Approved Glacial Gala Winter Olympics Excellence</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-maximizing-engagement-choosing-your-fb-video-direction/"><u>2024 Approved Maximizing Engagement - Choosing Your FB Video Direction</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-download-and-setup-of-wacom-intuos-pro-driver-for-enhanced-performance-on-windows-nix-systems/"><u>Easy Download and Setup of Wacom Intuos Pro Driver for Enhanced Performance on Windows Nix Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-canon-printerscanner-drivers-for-windows-quick-and-easy-download/"><u>Free Canon Printer/Scanner Drivers for Windows: Quick and Easy Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-updated-steelseries-mouse-control-software-download-and-installation-guide/"><u>Get Updated: SteelSeries Mouse Control Software Download and Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-install-and-manage-your-epson-xp-830-printers-drivers-a-definitive-guide/"><u>How to Seamlessly Install and Manage Your Epson XP-830 Printer's Drivers: A Definitive Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-honor-play-40c-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Honor Play 40C Phone Pattern Lock</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installation-guide-nvidia-quadro-drivers-for-windows-11-users/"><u>Installation Guide: NVIDIA Quadro Drivers for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-seagate-backup-plus-essential-advice-and-hacks-success/"><u>Mastering Seagate Backup Plus: Essential Advice and Hacks Success</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/perfecting-bokeh-mastering-instagram-story-blur-for-2024/"><u>Perfecting Bokeh Mastering Instagram Story Blur for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-itel-p55plus-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Itel P55+ Device</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->

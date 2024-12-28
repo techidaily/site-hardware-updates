@@ -1,7 +1,7 @@
 ---
 title: Unveiling Samsung's Game-Changing Copilot+ Laptop - Exclusive Review & Top Deal on Windows Devices!
-date: 2024-12-15T07:01:48.010Z
-updated: 2024-12-22T00:16:56.733Z
+date: 2024-12-22T23:54:24.994Z
+updated: 2024-12-27T23:21:58.451Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kerry Wan/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -44,10 +44,6 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications (as reviewed)
 
 | Dimensions            | 11.78 x 8.03 x 0.63 inches                                                                                                                                                                                                                                                                            |
@@ -63,7 +59,7 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
@@ -86,10 +82,6 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How does it perform?
 
 The twin 13.3-inch OLED displays look exceptional with deep black levels, vibrant colors, and 400 nits of brightness (a.k.a. enough for most lighting situations). They each sport 2.8K resolutions, so everything looks crisp, and Lenovo even includes 16:10 aspect ratios so you get a bit extra vertical room. They're also Dolby Vision certified. I have zero complaints about these screens, besides the fact they only have 60Hz refresh rates.
@@ -111,7 +103,7 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
@@ -134,6 +126,10 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## One thing to keep in mind
 
 Having a laptop with two screens means you'll have to lug around a separate keyboard, mouse, and kickstand, all three of which (plus a stylus) come in the box. It's a lot of separate things you have to remember to bring, and I'm going to be honest with you, it can be inconvenient.
@@ -143,6 +139,10 @@ Max Buondonno/ZDNET
 When I'm working on my MacBook or -- quite frankly -- any other laptop in my arsenal, all I have to do is close the lid and load it into my backpack when I'm finished. With the Yoga Book 9i, I have to close the laptop > collapse the kickstand > place the keyboard inside the collapsed kickstand > stack the keyboard/kickstand combo, mouse, and stylus on top of the laptop > shove it all in my bag and pray I can find it later when it's time to go back to work.
 
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -182,21 +182,20 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-fast-track-your-visuals-the-best-pinterest-downloaders-listed-for-2024/"><u>[New] Fast-Track Your Visuals The Best Pinterest Downloaders Listed for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-how-to-convert-jpg-and-png-images-to-pdf-on-an-iphone/"><u>[Updated] How to Convert JPG and PNG Images to PDF on an iPhone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-illuminating-interactions-mastering-animate-texts-in-stories-for-2024/"><u>[Updated] Illuminating Interactions Mastering Animate Texts in Stories for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hot-tunes-essential-background-scores-for-viral-yt-shorts/"><u>[Updated] In 2024, Hot Tunes Essential Background Scores For Viral YT Shorts</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-optimizing-engagement-on-igtv-through-thoughtful-dimension-tweaks/"><u>[Updated] In 2024, Optimizing Engagement on IGTV Through Thoughtful Dimension Tweaks</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-pro-converter-mp4-videos-for-social-media-fb-focus-for-2024/"><u>[Updated] Pro Converter MP4 Videos for Social Media (FB Focus) for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amazons-8tb-samsung-t5-nvme-ssd-steals-the-show-post-prime-day-with-a-whopping-36-discount-insider-look-by-zdnet/"><u>Amazon's 8TB Samsung T5 NVMe SSD Steals the Show Post-Prime Day with a Whopping 36% Discount: Insider Look by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/diving-into-day-one-of-ces-2023-key-product-launches-and-announcements-featured-zdnet/"><u>Diving Into Day One of CES 2023: Key Product Launches and Announcements Featured | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/is-lenovos-innovative-yoga-book-9i-the-game-changer-for-dual-display-laptops-insights/"><u>Is Lenovo's Innovative Yoga Book 9I the Game Changer for Dual-Display Laptops? Insights</u></a></li>
-<li><a href="https://fox-links.techidaily.com/navigating-the-world-of-windows-11s-in-built-high-dynamic-range-feature-for-2024/"><u>Navigating the World of Windows 11'S In-Built High Dynamic Range Feature for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/new-apple-unveils-m3-chip-powered-macbook-air-explore-the-upgrades-in-the-latest-13-and-15-models-insights-from-zdnet/"><u>New Apple Unveils M3 Chip Powered MacBook Air: Explore the Upgrades in the Latest 13 & 15 Models - Insights From ZDNet!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranked-gaming-headphones-professional-reviews-and-ratings-pcmag/"><u>Top-Ranked Gaming Headphones : Professional Reviews and Ratings - PCMag</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranking-windows-laptop-picks-comprehensive-expert-reviews-and-comparisons-zdnet/"><u>Top-Ranking Windows Laptop Picks - Comprehensive Expert Reviews & Comparisons | ZDNet</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-secrets-of-acurite-pro-weather-station-01036m-easy-assembly-reliable-design-revealed/"><u>Unveiling the Secrets of AcuRite Pro Weather Station 01036M: Easy Assembly, Reliable Design Revealed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-weather-app-companions-guide/"><u>Win Weather App Companions Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/winter-woes-understanding-the-reason-behind-charging-issues-with-ipads-macbooks-and-iphones-zdnet-insights/"><u>Winter Woes: Understanding the Reason Behind Charging Issues with iPads, MacBooks, and iPhones | ZDNet Insights</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-stylish-methodology-combining-gopro-imagery-into-360-video-tapestry/"><u>[Updated] In 2024, Stylish Methodology Combining GoPro Imagery Into 360 Video Tapestry</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-motorola-g54-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/all-you-need-to-know-about-the-next-gen-samsung-galaxy-s25-release-info-cost-estimates-and-features-revealed/"><u>All You Need to Know About the Next-Gen Samsung Galaxy S25: Release Info, Cost Estimates & Features Revealed 📱</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-wow-glitch-solutions-for-critical-failure-message-error-132/"><u>Beat WOW Glitch: Solutions for Critical Failure Message 'Error 132'</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-set-of-drivers-for-your-hp-spectre-x360-on-windows-download-now/"><u>Complete Set of Drivers for Your HP Spectre X360 on Windows (Download Now)</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/diagnosing-and-resolving-ram-troubles-in-your-pc-a-comprehensive-guide-by-yl-software-experts/"><u>Diagnosing and Resolving RAM Troubles in Your PC: A Comprehensive Guide by YL Software Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-now-msis-updated-bluetooth-software-for-seamless-connectivity-on-windows-1110/"><u>Download Now: MSI's Updated Bluetooth Software for Seamless Connectivity on Windows 11/10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-8-exceptional-and-free-html-editors-tailored-for-windows-devices/"><u>Explore 8 Exceptional and Free HTML Editors Tailored for Windows Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-install-canon-dr-c225-drivers-on-various-versions-of-windows-11-10-and-8/"><u>How to Easily Install Canon DR-C225 Drivers on Various Versions of Windows (11, 10 & 8)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-or-update-your-canon-mg252e-printer-driver-on-a-windows-pc/"><u>How to Install or Update Your Canon MG252e Printer Driver on a Windows PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-securely-get-and-install-linksys-ae250-wireless-router-updated-firmware-now/"><u>How to Securely Get & Install Linksys AE250# Wireless Router Updated Firmware Now</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/internal-screen-recording-huawei-mate-1020-and-p-series-devices-p20-p10/"><u>Internal Screen Recording Huawei Mate 10/20 & P Series Devices (P20, P10)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-geforce-gtx-1660-super-graphics-card-driver-downloads-and-updates/"><u>Latest NVIDIA GeForce GTX 1660 Super Graphics Card Driver Downloads & Updates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/m-audio-fast-track-driver-install-files-for-windows-11-to-8-users/"><u>M-Audio Fast Track Driver Install Files for Windows 11 to 8 Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-pc-issues-with-rainbow-six-extraction/"><u>Troubleshooting Guide: Resolving PC Issues with Rainbow Six Extraction</u></a></li>
 </ul></div>
 

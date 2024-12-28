@@ -1,7 +1,7 @@
 ---
 title: Get a New RTX Eby_9baefc4f-8b15-49d3-A6c4-E9c21d1d8bb0! Exclusive $220 Discount Now | Tech Deals at ZDNET!
-date: 2024-12-21T10:05:23.677Z
-updated: 2024-12-21T19:44:54.210Z
+date: 2024-12-24T22:14:16.551Z
+updated: 2024-12-27T18:18:39.694Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kerry Wan/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ Right now, Amazon is selling the [15-inch MacBook Air (M2) for $250 off](https:/
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -107,7 +107,7 @@ The laptop is capable of 4K exports on Adobe Premiere Pro and editing RAW files 
 What I found myself missing when testing the MacBook Air was the 120Hz ProMotion display from the Pro line. All it took was an hour or two before my eyes adapted to the slower, less smooth 60Hz panel, but the larger 15-inch display didn't make the transition easy. In fact, it made the difference more apparent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -146,20 +146,22 @@ But everything else about it is as good as the current $1,050 price point gets. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-stock-savvy-streams-discover-the-top-video-resources/"><u>[Updated] 2024 Approved Stock Savvy Streams Discover the Top Video Resources</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-overcome-unseen-blanks-in-game-transmission/"><u>[Updated] In 2024, Overcome Unseen Blanks in Game Transmission</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-internet-idolaters-top-ten-youtube-sensations-for-2024/"><u>[Updated] Internet Idolaters Top Ten YouTube Sensations for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-picture-in-picture-video-integration-for-mac-os-x/"><u>2024 Approved Navigating Picture in Picture Video Integration for Mac OS X</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-ultimate-auditory-interface-win/"><u>2024 Approved Ultimate Auditory Interface, WIN</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-canon-pixma-mx925-printer-software-for-pc/"><u>Download Canon PIXMA MX925 Printer Software for PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-insignia-usbhdd-drives-swift-setup-for-windows-users/"><u>Get Your Hands on Insignia USB/HDD Drives - Swift Setup for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-gift-windows-apps-on-christmas-via-the-microsoft-store/"><u>How to Gift Windows Apps on Christmas via the Microsoft Store</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/improved-compatibility-essential-scanning-and-printing-hardware-drivers-added-to-windows-1/"><u>Improved Compatibility: Essential Scanning & Printing Hardware Drivers Added to Windows 1</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-logitech-momo-trackmania-wheel-on-pc-first-time-driver-setup-guide-and-download-link/"><u>Install Logitech MOMO TrackMania Wheel on PC – First-Time Driver Setup Guide and Download Link</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-logitech-f710-driver-support-across-multiple-windows-platforms-windows-111087-solutions/"><u>Mastering Logitech F710 Driver Support Across Multiple Windows Platforms: Windows 11/10/8/7 Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/maximizing-sound-levels-on-windows-11-devices-effective-strategies-inside/"><u>Maximizing Sound Levels on Windows 11 Devices - Effective Strategies Inside</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/simple-steps-to-refresh-your-asus-pcs-usb-driver-software/"><u>Simple Steps to Refresh Your ASUS PC's USB Driver Software</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/success-story-eliminating-the-troublesome-minecraft-issue-exiting-at-code-nought/"><u>Success Story: Eliminating the Troublesome Minecraft Issue - Exiting at Code Nought</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/the-ultimate-guide-to-your-unique-tiktok-hash-code/"><u>The Ultimate Guide to Your Unique TikTok Hash Code</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-revolutionary-content-your-path-to-100k-views/"><u>[New] 2024 Approved Revolutionary Content Your Path to 100K Views</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-fb-content-horizontal-or-vertical-format-debate/"><u>[New] In 2024, FB Content Horizontal or Vertical Format Debate</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-start-with-simple-understanding-facebook-metrics-for-newbies/"><u>[Updated] 2024 Approved Start with Simple Understanding Facebook Metrics for Newbies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-expedite-youtube-video-submission-rapid-rendering-secrets/"><u>[Updated] In 2024, Expedite YouTube Video Submission Rapid Rendering Secrets</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-premier-10-battle-royale-challenges/"><u>2024 Approved Premier 10 Battle Royale Challenges</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862815135-huge-savings-alert-gigabytes-aorus-49-oled-gaming-screen-now-at-an-all-time-low-only-969/"><u>Huge Savings Alert: Gigabyte's Aorus 49 OLED Gaming Screen Now at an All-Time Low - Only $969!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-scaling-on-ios-devices-how-to-zoom-in-and-out/"><u>Mastering the Art of Scaling on iOS Devices: How to Zoom In & Out</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-explore-these-5-pinnacle-platforms-for-efficient-mp3-file-tagging-for-2024/"><u>New Explore These 5 Pinnacle Platforms for Efficient MP3 File Tagging for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862809951-snag-the-best-deal-dell-s3222dgm-gaming-monitor-now-at-unbeatable-229-price/"><u>Snag the Best Deal: Dell S3222DGM Gaming Monitor Now at Unbeatable $229 Price!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862773459-unbeatable-deal-portable-15/"><u>Unbeatable Deal: Portable 15</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlocking-digital-marketing-potential-with-the-support-of-cookiebot-technology/"><u>Unlocking Digital Marketing Potential with the Support of Cookiebot Technology</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-computer-components-with-toms-gear-guides/"><u>Unveiling Computer Components with Tom's Gear Guides</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-hardware-the-toms-experts-take/"><u>Unveiling the Latest in Hardware - The Tom's Experts Take</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-tech-trends-at-toms-gear-insights/"><u>Unveiling the Latest Tech Trends at Tom's Gear Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-top-gadgets-and-tech-trends-toms-hardware-expertise/"><u>Unveiling Top Gadgets and Tech Trends: Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-game-with-the-ultra-sharp-qhd-dell-gaming-monitor-now-under-200/"><u>Upgrade Your Game with the Ultra-Sharp QHD Dell Gaming Monitor - Now Under $200!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721992406739-why-certain-data-tasks-are-best-handled-by-excel-not-chatgpt-find-out-how/"><u>Why Certain Data Tasks Are Best Handled by Excel, Not ChatGPT – Find Out How</u></a></li>
 </ul></div>
 

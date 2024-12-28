@@ -1,7 +1,7 @@
 ---
 title: "AMD to Revolutionize Mobile Computing: Zen 5 Chip Brings Desktop's 115W Strength in a Portable Package, Teased by the Mighty Ryzen Strix Halo with 16 Cores & RDNA iGPU"
-date: 2024-08-23T13:45:43.224Z
-updated: 2024-08-24T13:45:43.224Z
+date: 2024-12-23T23:29:32.391Z
+updated: 2024-12-27T18:43:36.866Z
 tags:
   - cpu
 categories:
@@ -34,6 +34,10 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,14 +46,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -58,9 +59,23 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-pip-macos-sierras-guide-to-multimedia-magic/"><u>[New] Mastering PIP MacOS Sierra's Guide to Multimedia Magic</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-achieve-video-excellence-without-the-cost-of-fcp/"><u>[Updated] 2024 Approved Achieve Video Excellence Without the Cost of FCP</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unlock-the-power-of-engagement-to-monetize-facebook/"><u>[Updated] Unlock the Power of Engagement to Monetize Facebook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-ryzen-motherboard-driver-installation-latest-version-available-now/"><u>AMD Ryzen Motherboard Driver Installation - Latest Version Available Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/diy-solutions-for-a-non-heating-3d-printer-bed-issue/"><u>DIY Solutions for A Non-Heating 3D Printer Bed Issue</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-obtain-and-install-hp-wireless-network-adapter-drivers-for-windows-pcs/"><u>How To Obtain And Install HP Wireless Network Adapter Drivers For Windows PCs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/human-expertise-outshines-flawed-algorithms/"><u>Human Expertise Outshines Flawed Algorithms</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-expert-fade-strategies-for-dynamic-videos/"><u>In 2024, Expert Fade Strategies for Dynamic Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722964032922-logitech-g402-gamepad-drivers-and-downloads-get-set-up-today/"><u>Logitech G402 Gamepad Drivers & Downloads - Get Set Up Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-windows-update-recovery-techniques-for-smooth-operations/"><u>Mastering Windows Update Recovery Techniques for Smooth Operations</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mobile-time-lapse-magic-top-apps-for-creatives-2023-edition/"><u>Mobile Time-Lapse Magic Top Apps for Creatives (2023 Edition)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973683867-no-cost-full-features-how-to-easily-obtain-qualcomm-atheros-ar938x-driver-downloads-today/"><u>No Cost, Full Features: How to Easily Obtain Qualcomm Atheros AR938X Driver Downloads Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solution-to-mitigate-arc-blow-at-high-current-settings-a-welder-can-adjust-ground-clamp-positioning-turn-off-interfering-components-and-modify-their-welding106/"><u>Solution: To Mitigate Arc Blow at High Current Settings, a Welder Can Adjust Ground Clamp Positioning, Turn Off Interfering Components, and Modify Their Welding Technique by Altering Travel Speed and Electrode Angle</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-resolution-addressing-and-fixing-issues-with-samsungs-universal-driver-in-windows/"><u>Step-by-Step Resolution: Addressing and Fixing Issues with Samsung's Universal Driver in WINDOWS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/successfully-overcoming-device-driver-hurdles-on-windows-7-8-and-tenth-with-startech/"><u>Successfully Overcoming Device Driver Hurdles on Windows 7, 8 & Tenth with StarTech</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->

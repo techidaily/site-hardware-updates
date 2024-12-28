@@ -1,7 +1,7 @@
 ---
 title: "AMD's Gaming Prowess Elevated as Zen 4 Flagship Exceeds Zen 5 Benchmark Results: Ryzen 7 7800X3D Proves to Be 23%% Quicker than the Formerly Top-Tier Ryzen 9 9900X"
-date: 2024-08-23T13:45:46.136Z
-updated: 2024-08-24T13:45:46.136Z
+date: 2024-12-24T18:11:20.409Z
+updated: 2024-12-27T16:41:08.958Z
 tags:
   - cpu
 categories:
@@ -42,6 +42,10 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
 
  Sadly, we will have to wait a little longer than expected to get chips like the AMD Ryzen 9 9950X in Tom’s Hardware labs. Yesterday the news broke that these Zen 5 desktop chips would start to[roll out in August](https://www.tomshardware.com/pc-components/cpus/amd-delays-its-ryzen-9000-launch-due-to-unspecified-quality-issue-new-launch-in-august-chipmaker-pulls-back-all-units-shipped-globally-for-quality-checks) due to unspecified quality issue(s).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -50,14 +54,11 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -66,8 +67,20 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-dynamic-youtube-content-as-animated-gifs-without-downloads-for-2024/"><u>[New] Crafting Dynamic YouTube Content as Animated GIFs Without Downloads for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-pathway-to-lyrical-masterpieces-via-lyric-video-maker-software-for-2024/"><u>[Updated] The Pathway to Lyrical Masterpieces via Lyric Video Maker Software for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-lowering-audio-amplitude-progressively-using-lumafusion/"><u>2024 Approved Lowering Audio Amplitude Progressively Using Lumafusion</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-navigating-the-nuances-zoom-and-youtube-live-streaming-explored/"><u>2024 Approved Navigating the Nuances Zoom and YouTube Live Streaming Explored</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978309819-download-and-install-epson-wf-2750-drivers-complete-guide/"><u>Download & Install Epson WF-2750 Drivers - Complete Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-official-dell-g15-graphics-driver-for-your-windows-pc/"><u>Download and Install Official Dell G15 Graphics Driver for Your Windows PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-update-or-install-synaptic-touchpad-driver-with-ease/"><u>Easy Steps: Update or Install Synaptic Touchpad Driver with Ease</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-focusrite-scarlett-solo-desktop-audio-interface-for-pc/"><u>Free Download: Focusrite Scarlett Solo Desktop Audio Interface for PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-6-plus-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-audio-interface-device-drivers-for-your-windows-computer/"><u>Latest Audio Interface Device Drivers for Your Windows Computer</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/k-it-down-youtubes-video-trimming-process-for-2024/"><u>Shrink It Down YouTube's Video Trimming Process for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/twilight-tactics-a-complete-guide-to-nighttime-photography/"><u>Twilight Tactics A Complete Guide to Nighttime Photography</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

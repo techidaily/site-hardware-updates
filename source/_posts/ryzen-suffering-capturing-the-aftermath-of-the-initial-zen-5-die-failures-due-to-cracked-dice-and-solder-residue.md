@@ -1,7 +1,7 @@
 ---
 title: "Ryzen Suffering: Capturing the Aftermath of the Initial Zen 5 Die Failures Due to Cracked Dice & Solder Residue"
-date: 2024-08-23T13:49:21.791Z
-updated: 2024-08-24T13:49:21.791Z
+date: 2024-12-21T16:24:16.227Z
+updated: 2024-12-27T16:03:22.749Z
 tags:
   - cpu
 categories:
@@ -34,6 +34,10 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,14 +46,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -58,9 +59,17 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-top-5-cozy-winter-scenes-for-youtube-backdrops/"><u>[Updated] 2024 Approved Top 5 Cozy Winter Scenes for YouTube Backdrops</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-ps5xbox-series-x-gaming-sets-the-top-5-list/"><u>[Updated] PS5/Xbox Series X Gaming Sets The Top 5 List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-up-windows-11-camera-crash-zero-a00f-problem/"><u>Clearing Up Windows 11 Camera Crash: Zero-A00F Problem</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-your-logitech-m525-mouse-driver-and-compatible-programs/"><u>Download Your Logitech M525 Mouse Driver and Compatible Programs</u></a></li>
+<li><a href="https://win-great.techidaily.com/exploring-fee-structures-for-cryptocurrency-operations-insights-by-yl-computing/"><u>Exploring Fee Structures for Cryptocurrency Operations - Insights by YL Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-official-hp-deskjet-printer-software-updates-for-windows-7-8-and-10/"><u>Get Official HP Deskjet Printer Software Updates for Windows 7, 8 & 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-asus-mousepad-drivers-on-your-windows-computer-a-step-by-step-guide/"><u>How to Install ASUS Mousepad Drivers on Your Windows Computer: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-color-your-skies-dji-mini-2-and-air-2s-luts-complimentary-offer/"><u>In 2024, Color Your Skies – DJI Mini 2 & Air 2S LUTS Complimentary Offer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-t430-drivers-download-for-windows-11-8-7-easily/"><u>Lenovo T430 Drivers Download for Windows 11 / 8 /7 [Easily]</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-motorola-moto-g24-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Motorola Moto G24 for Parents | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->

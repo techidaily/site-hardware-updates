@@ -1,7 +1,7 @@
 ---
 title: "October Prime Day 2Amo: Top Savings for Gamers Still On Offer | ZDNET Exclusive Deals"
-date: 2024-12-20T09:28:38.417Z
-updated: 2024-12-22T09:10:54.911Z
+date: 2024-12-22T17:18:56.049Z
+updated: 2024-12-27T19:15:53.908Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ From Apple's [MacBook Pro M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FUR
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day laptop deals
 
@@ -99,7 +95,7 @@ Asus/ZDNET
 * [Asus TUF Gaming A15 (2024)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-NVIDIA%C2%AE-GeForce-FA506NF-ES51%2Fdp%2FB0CRDF25TQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) for $599 ($100 off) - The TUF line of laptops features solid gaming hardware along with military-grade durability. The A15 is a solid gaming laptop that fits this description to a T, marked way down to a competitive price for 8GB of RAM, 512GB of storage, and an Nvidia GeForce RTX 2050 graphics card.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best laptops for photo editing
@@ -132,12 +128,16 @@ Kyle Kucharski/ZDNET
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### When is Amazon's October Prime Day 2024?
 
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals before and after those days as well. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Are laptops really cheaper on Prime Day?
@@ -145,7 +145,7 @@ Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
@@ -161,7 +161,7 @@ When compiling the list of the best deals, we considered the following:
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What are the best October Prime Day 2024 deals?
@@ -230,24 +230,17 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-kinemaster-guide-to-seamless-green-screen-implementation-for-2024/"><u>[Updated] Kinemaster Guide to Seamless Green Screen Implementation for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-offline-adventures-top-10-android-journeys-without-connectivity/"><u>[Updated] Offline Adventures Top 10 Android Journeys Without Connectivity</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fusion-functionality-combining-watch-mac-access/"><u>2024 Approved Fusion Functionality Combining Watch, Mac Access</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/a-week-with-an-ergo-split-keyboard-how-one-change-transformed-my-tech-experience/"><u>A Week with an Ergo-Split Keyboard: How One Change Transformed My Tech Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/anticipated-announcements-at-apples-upcoming-october-showcase-the-new-m4-mac-mini-advanced-ipads-and-latest-innovations-in-siri-technology-insights/"><u>Anticipated Announcements at Apple's Upcoming October Showcase: The New M4 Mac Mini, Advanced iPads, and Latest Innovations in Siri Technology - Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/beyond-the-iconic-macbook-discovering-a-phenomenal-performance-leader-in-todays-laptops-zdnet-review/"><u>Beyond the Iconic MacBook: Discovering a Phenomenal Performance Leader in Today’s Laptops | ZDNet Review</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/broadcast-platform-showdown-obs-or-twitch-studio/"><u>Broadcast Platform Showdown OBS or Twitch Studio?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/command-openvpn-browse-resolv-conf-config-configpath/"><u>Command = ['Openvpn', '--Browse-Resolv-Conf', '--Config', Config_path</u></a></li>
-<li><a href="https://solve-info.techidaily.com/discover-available-features-exploring-the-control-panel-with-yl-computings-yl-software/"><u>Discover Available Features: Exploring the Control Panel with YL Computing's YL Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/dvd-conversion-and-ripping-mastery-on-windows-11-with-macx-pro-bundle-full-featured-multimedia-toolkit/"><u>DVD Conversion & Ripping Mastery on Windows 11 with MacX Pro Bundle – Full-Featured Multimedia Toolkit</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/get-sweating-to-top-exercromise-anthems-and-rhythms-for-2024/"><u>Get Sweating to Top Exercromise Anthems and Rhythms for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-crack-the-code-of-tinders-elite-profiles-with-these-tricks/"><u>In 2024, Crack the Code of Tinder's Elite Profiles with These Tricks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lg-gram-pro-vs-macbook-air-showdown-top-three-surprises-from-a-tech-reviews-comparison-on-zdnet/"><u>LG Gram Pro Vs. MacBook Air Showdown: Top Three Surprises From a Tech Reviews Comparison on ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/prime-day-oct-score-the-macbook-air-m1-at-an-unbeatable-price-of-799-exclusive-deal-alert/"><u>Prime Day Oct: Score the MacBook Air M1 at an Unbeatable Price of $799 - Exclusive Deal Alert!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/redefining-efficiency-with-lenovos-new-dual-display-laptop-a-game-changer-in-computing-expert-review-by-zdnet/"><u>Redefining Efficiency with Lenovo's New Dual-Display Laptop - A Game Changer in Computing | Expert Review by ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-basics-of-ai-explained-in-laymans-terms/"><u>The Basics of AI Explained in Layman's Terms</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-test-picks-the-ultimate-all-rounder-laptop-wowing-users-and-boasting-strong-hardware/"><u>Top Test Picks: The Ultimate All-Rounder Laptop Wowing Users and Boasting Strong Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/transform-your-laptop-into-a-multi-monitor-powerhouse-with-our-innovative-4k-display-adapter-regardless-of-original-hardware-specifications-cnet-gadgets/"><u>Transform Your Laptop Into a Multi-Monitor Powerhouse with Our Innovative 4K Display Adapter, Regardless of Original Hardware Specifications | CNET Gadgets</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unravel-your-cable-woes-with-this-game-changing-tangle-free-usb-c-lifesaver-for-travelers-techinsider/"><u>Unravel Your Cable Woes with This Game-Changing 'Tangle-Free' USB-C Lifesaver for Travelers | TechInsider</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-optimizing-images-with-ae-luts-step-by-step/"><u>[New] 2024 Approved Optimizing Images with AE LUTs Step-by-Step</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-slide-swivel-and-shift-a-comprehensive-guide-to-angled-photography-techniques-that-captivate-audiences-on-instagram-sites/"><u>[New] Slide, Swivel and Shift A Comprehensive Guide to Angled Photography Techniques that Captivate Audiences on Instagram Sites</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-exclusive-sites-for-youtube-content-surge-for-2024/"><u>[Updated] Exclusive Sites For YouTube Content Surge for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-lens-legends-battle-sj6-versus-xiaomis-yi-4k-visionary/"><u>2024 Approved Lens Legends Battle SJ6 Versus Xiaomi's Yi 4K Visionary</u></a></li>
+<li><a href="https://discover-best.techidaily.com/6-maitres-nageurs-gratuits-pour-la-conversion-de-films-dvd-proceder-au-transfert-complet-du-contenu-principal-en-format-video/"><u>6 Maîtres-Nageurs Gratuits Pour La Conversion De Films DVD - Procéder Au Transfert Complet Du Contenu Principal en Format Vidéo</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-intels-latest-leap-the-14th-generation-cpu-collection-commences-with-nine-models-and-a-distinctive-i9-14901ke-for-the-overclocking-enthusiast/"><u>Discover Intel's Latest Leap: The 14Th Generation CPU Collection Commences with Nine Models and a Distinctive I9-14901KE for the Overclocking Enthusiast</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-hp-zbook-15-g3-device-drivers-in-a-few-simple-steps-windows/"><u>Easy Installation of HP ZBook 15 G3 Device Drivers in a Few Simple Steps (Windows)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723262287644-gamers-with-intel-13th-or-14th-gen-cpus-new-game-update-features-crash-warnings-and-mitigation-steps/"><u>Gamers with Intel 13Th or 14Th Gen CPUs - New Game Update Features Crash Warnings and Mitigation Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978738845-get-your-bluetooth-adapter-drivers-with-eveo-download-now/"><u>Get Your Bluetooth Adapter Drivers with Eveo - Download Now!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-itel-p55plus-is-unlocked-by-drfone-android/"><u>How To Check if Your Itel P55+ Is Unlocked</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-premier-top-10-audio-manipulation-software-for-windows-and-mac-users-for-2024/"><u>New Premier Top 10 Audio Manipulation Software for Windows and Mac Users for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/step-by-step-stellar-photo-repair-guide-for-windows-users-a-complete-walkthrough/"><u>Step-by-Step Stellar Photo Repair Guide for Windows Users: A Complete Walkthrough</u></a></li>
 </ul></div>
 

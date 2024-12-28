@@ -1,7 +1,7 @@
 ---
 title: Get the New Canon PIXMA TS322 Driver Downloads Here!
-date: 2024-08-23T13:47:27.990Z
-updated: 2024-08-24T13:47:27.990Z
+date: 2024-12-23T18:27:52.086Z
+updated: 2024-12-27T18:46:01.698Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Your Asus DVD drive is not working well after upgrading to Windows 10? It’s pr
 **[STEP 1 – Confirm it’s a driver problem](https://tools.techidaily.com/drivereasy/download/)**
 **[STEP 2 – Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## STEP 1 – Confirm it’s a driver problem
 
  To confirm if your DVD drive problem is caused by driver issue, you need to check for the driver status in Device Manager:
@@ -29,6 +33,11 @@ Your Asus DVD drive is not working well after upgrading to Windows 10? It’s pr
 1. On your keyboard, press the**Windows logo key**  and **R** at the same time to invoke a **Run** command.
 2. Type**devmgmt.msc** and click **OK** . This will start the Device Manager.![](https://images.drivereasy.com/wp-content/uploads/2019/06/dvd1.jpg)
 3. In Device Manager, click**View** and then select**Show hidden devices** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/dvd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Expand**DVD/CD-ROM drives** , if you see a yellow mark next to the device name (usually an exclamation or a question mark), there’s a problem with the driver, and you need to update it.
 
 ## STEP 2 – Update your dvd drivers
@@ -41,9 +50,6 @@ There are three ways you can update your audio drivers:
 
 [**Method 3**](https://tools.techidaily.com/drivereasy/download/) **[– Automatically (Recommended)](https://tools.techidaily.com/drivereasy/download/)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1 – Uninstall then reinstall the driver via Device Manager
 
  To fix the ASUS DVD driver issue, you can uninstall the driver first then allow Windows to reinstall it.
@@ -54,16 +60,14 @@ To do so, follow these steps:
 2. Type**devmgmt.msc** and click **OK** . This will start the Windows 10 Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/dvd1.jpg)
 3. Expand**DVD/CD-ROM drives** , right-click the device and select**Uninstall** .
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Restart your computer and open Device Manager.
 5. Right-click on your DVD device and select**Update driver** . Then follow the instructions on the screen.
 6. After installing the latest driver, restart your PC and check to see if the DVD driver problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Method 2 –** **Download and install the driver manually**
 
  You can download ASUS DVD drivers utility from ASUS official website. Go to the[ASUS download center](https://www.asus.com/support/Download-Center/) , find the program that corresponds with your operating system and downloads it manually.
@@ -71,8 +75,9 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/asus-1024x706.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once you’ve downloaded the utility, double-click on the downloaded file and follow the on-screen instructions to install it. Then run this program to manage your ASUS DVD driver.
 
 ### Method 3 – Automatically update drivers
@@ -86,13 +91,11 @@ To do so, follow these steps:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu1-2.jpg)
 3. Click the**Update** button next to the ASUS DVD driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click**Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Hopefully you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
 * [Drivers](https://tools.techidaily.com/drivereasy/download/)
@@ -103,8 +106,6 @@ To do so, follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +113,19 @@ To do so, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-expert-advice-top-ranked-call-alert-creators-for-2024/"><u>[New] Expert Advice Top-Ranked Call Alert Creators for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-financial-impact-of-viewership-on-content-makers/"><u>[New] The Financial Impact of Viewership on Content Makers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitvid-mover-iphone-video-transfer-tool-for-2024/"><u>[Updated] TwitVid Mover IPhone Video Transfer Tool for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978232951-download-official-nvidia-geforce-rtx-3070-ti-drivers-compatible-with-windows-1187/"><u>Download Official NVIDIA GeForce RTX 3070 Ti Drivers Compatible with Windows 11/8/7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/efficient-and-straightforward-guide-for-downloadingupdating-surface-drivers/"><u>Efficient & Straightforward Guide for Downloading/Updating Surface Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-gaming-and-graphics-with-the-latest-nvidia-rtx-2070-super-drivers-on-windows-11/"><u>Enhance Gaming & Graphics with the Latest Nvidia RTX 2070 Super Drivers on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installation-guide-the-most-recent-driver-update-for-brother-hl-l2350dw/"><u>Installation Guide: The Most Recent Driver Update for Brother HL-L2350DW</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/is-the-meta-quest-pro-worth-your-investment/"><u>Is the Meta Quest Pro Worth Your Investment?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-tinkering-with-chatgpt-justified/"><u>Is Tinkering with ChatGPT Justified?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/ultimate-list-templates-for-youtube-previews/"><u>Ultimate List Templates for YouTube Previews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/up-to-date-drivers-for-enhancing-performance-of-nvidias-rtx-2080-across-various-windows-os/"><u>Up-to-Date Drivers for Enhancing Performance of NVIDIA's RTX 2080 Across Various Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-dell-wireless-network-driver-today-download-here/"><u>Update Your Dell Wireless Network Driver Today - Download Here</u></a></li>
+</ul></div>
 

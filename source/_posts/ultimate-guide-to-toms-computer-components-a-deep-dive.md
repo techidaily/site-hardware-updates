@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Tom's Computer Components: A Deep Dive"
-date: 2024-08-23T13:50:13.185Z
-updated: 2024-08-24T13:50:13.185Z
+date: 2024-12-25T17:42:09.641Z
+updated: 2024-12-27T21:39:40.573Z
 tags:
   - cpu
 categories:
@@ -27,6 +27,10 @@ Content creator and extreme overclocker[Tony Yu](https://www.bilibili.com/opus/9
 
  Ryzen 9000 is AMD's latest generation of processors based on the Zen 5 CPU architecture. Reviews for The [Ryzen 5 9600X and Ryzen 7 9700X](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-9600x-cpu-review) went live earlier this morning. Both chips will be available starting tomorrow. Meanwhile, AMD's higher-end Ryzen 9 9950X and 9900X will go on sale next Thursday, August 15.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -35,14 +39,11 @@ Content creator and extreme overclocker[Tony Yu](https://www.bilibili.com/opus/9
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -51,8 +52,22 @@ Content creator and extreme overclocker[Tony Yu](https://www.bilibili.com/opus/9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-mac-tips-capturing-class-notes-efficiently/"><u>[New] Mac Tips Capturing Class Notes Efficiently</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premium-narrative-blueprint-zone/"><u>[New] Premium Narrative Blueprint Zone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-writing-with-these-top-pc-apps/"><u>Boost Your Writing with These Top PC Apps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970283062-download-and-install-hp-elitebook-8460p-drivers-on-windows-solved/"><u>Download and Install HP EliteBook 8460P Drivers on Windows: Solved</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-mpow-bluetooth-drivers-for-windows-1187-compatible-and-updated/"><u>Download MPOW Bluetooth Drivers for Windows 11/8/7 – Compatible and Updated</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-to-use-amd-gpio-driver-available-now-for-immediate-download/"><u>Easy-to-Use AMD GPIO Driver Available Now For Immediate Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/efficiently-download-hp-officejet-5740-drivers-compatible-with-all-windows-versions-11108/"><u>Efficiently Download HP Officejet 5740 Drivers: Compatible with All Windows Versions (11/10/8)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-logitech-g920-mouse-drivers-on-your-pc-compatible-with-win11-win10-win8-and-win7/"><u>How to Get Logitech G920 Mouse Drivers on Your PC - Compatible with Win11, Win10, Win8 & Win7</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/key-view-figures-for-earning-living-on-youtube/"><u>Key View Figures for Earning Living on YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-file-removal-how-to-force-delete-difficult-folders-on-windows-11-using-revo-uninstaller/"><u>Mastering File Removal: How to Force Delete Difficult Folders on Windows 11 Using Revo Uninstaller</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-itunes-to-listen-to-podcasts/"><u>Navigating iTunes to Listen to Podcasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977087213-quick-install-get-your-official-samsung-m2070fw-printer-drivers-now/"><u>Quick Install: Get Your Official Samsung M2070FW Printer Drivers Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamlessly-update-your-windows-7s-wi-fi-drivers-download-tips/"><u>Seamlessly Update Your Windows 7'S Wi-Fi Drivers: Download Tips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/simplified-guide-to-free-youtube-card-designing-for-2024/"><u>Simplified Guide to Free YouTube Card Designing for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-mkv-to-mp4-format-change-on-pcs/"><u>Streamline: MKV to MP4 Format Change on PCs</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

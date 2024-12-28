@@ -1,7 +1,7 @@
 ---
 title: "The Future of High-Speed Connections: PCI-SIG's Latest Unveil - Superior CopperLynk Cabling for the Upcoming PCIe 5&6 Standards; Anticipating Release of Gen 7"
-date: 2024-08-23T13:50:00.991Z
-updated: 2024-08-24T13:50:00.991Z
+date: 2024-12-24T20:10:33.039Z
+updated: 2024-12-27T17:17:05.909Z
 tags:
   - desktop
 categories:
@@ -41,6 +41,10 @@ These are the specifications of the two Asus ROG NUC models:
 
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,14 +53,11 @@ These are the specifications of the two Asus ROG NUC models:
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -65,8 +66,20 @@ These are the specifications of the two Asus ROG NUC models:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/erfecting-your-videos-the-power-of-proper-thumbnails-for-2024/"><u>[New] Perfecting Your Videos The Power of Proper Thumbnails for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-rewinding-the-record-of-a-twitch-broadcast-top-ten-strategies-for-2024/"><u>[New] Rewinding the Record of a Twitch Broadcast Top Ten Strategies for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-unveiling-virtual-frontiers-anticipated-top-5-ps-vr-experiences-for-2024/"><u>[New] Unveiling Virtual Frontiers Anticipated Top 5 PS VR Experiences for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-video-card-software-update-compatible-with-windows-os-free-download/"><u>AMD Radeon Video Card Software Update – Compatible With Windows OS | Free Download</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-install-and-execute-android-applications-on-your-windows-10-pc/"><u>Guide: Install and Execute Android Applications on Your Windows 10 PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-installation-get-your-logitech-drivers-in-a-flash/"><u>Hassle-Free Installation: Get Your Logitech Drivers in a Flash!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-ensure-smooth-play-in-ring-of-elysium-by-preventing-game-crashes/"><u>How To Ensure Smooth Play in Ring of Elysium by Preventing Game Crashes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-or-install-new-drivers-on-your-asus-laptop-a-step-by-step-guide/"><u>How to Update or Install New Drivers on Your ASUS Laptop - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-strategies-combining-mind-mapping-tools-with-chatgpt-for-effective-idea-generation/"><u>Innovative Strategies: Combining Mind Mapping Tools with ChatGPT for Effective Idea Generation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973264500-latest-logitech-speaker-drivers-available-now-for-win11win7win8-users/"><u>Latest Logitech Speaker Drivers Available Now for Win11/Win7/Win8 Users!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-list-10-final-cut-pro-x-competitors-worth-exploring/"><u>New In 2024, The Ultimate List 10 Final Cut Pro X Competitors Worth Exploring</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978223001-subtract-3-from-both-sides-of-the-equation-to-get-rid-of-the-constant-term-on-the-left-hand-side-lhs/"><u>Subtract 3 From Both Sides of the Equation to Get Rid of the Constant Term on the Left-Hand Side (LHS)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-toshiba-dynabook-rescue-media-driver-pack-instructions-for-windows-users/"><u>Update Toshiba Dynabook Rescue Media - Driver Pack Instructions for Windows Users</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

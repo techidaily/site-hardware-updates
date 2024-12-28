@@ -1,7 +1,7 @@
 ---
 title: "Snag the Best: Ultimate Cyber Monday Deals on High-Performance Laptops <$1000 at Dell, Costco & Amazon | Recommendations"
-date: 2024-12-15T20:45:10.808Z
-updated: 2024-12-21T16:47:51.962Z
+date: 2024-12-23T01:06:27.962Z
+updated: 2024-12-27T21:17:54.803Z
 tags:
   - laptops
 categories:
@@ -18,10 +18,6 @@ Costco is my go-to for great quality products, bulk savings, amazing deals, and 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [![04-bf-cm.png](https://www.zdnet.com/a/img/resize/954e855aae296b0590d40ff6eba4167fd27f3d67/2022/11/29/2911e8eb-1a11-4aa3-8ff7-015c7e854046/04-bf-cm.png?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Black Friday and Cyber Monday tech deals still available If you missed out on this year's mega sale events, no problem. ZDNET is rounding up the best tech deals still available, right here.  Read now](https://www.zdnet.com/collection/cyber-monday/)
@@ -33,10 +29,6 @@ Keep in mind that you can only access these online deals and Costco's warehouse 
 * [Gold Star Members:](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/QuickMembershipApplicationView?catalogId=10701&langId=-1&storeId=10301&krypto=gfBAcwlW5XGaTu4MSo4kHXcIuBWfwIW6hToJURA1XLd4PoCsnroNXsBArenTZj6Qoy0e5hePJWyMu%2BXdDxt8mhS4t0sd9viyhjMEl%2FqXKv44SrdQDuZ6JdpluZDKiye8KhHVtzu4r1e2F9I9nzl6IVTvd8xc%2FWorB9E%2FH3gS6GO8R9OEKbmBQHsUvY9778ZdN5SmobCca5iIlwhAjkXA7dX37HmdMY0nWHmz%2FmU13gUuZ6WMC84SugcgviT28OyqJwjg6RpcvmnHVc51VAYPO57hhnTjnZ7eVtHbiEbXOlE%3D&ddkey=http%3AManageShoppingCartCmd?tag=zd-buy-button-20) $60 annual fee, valid at all Costco locations worldwide
 * [Business Members:](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/QuickMembershipApplicationView?catalogId=10701&langId=-1&storeId=10301&krypto=iSw8rvA%2BO68vwnffUq1fw6118Kv9v01BPPmnZMVK09G6tkaXWLcXEpSvkfbRQt5S31%2BwhQB31Mo54J428MsW2d61FqdxYj1Dz2ADTIscn7nRpSybZUryOHDKhcl6nOzlI6KqL%2BRpNphso7YD5rI76HsHHKviRtf34siQWdZ%2Bp61nY1m4YmQygRB7ia7M5pe1j6gUtdg3gsArTPRP88aPWuW7sf813GPLb1VIm9iUUyFM4o5jJgdYMnHNx7NQCulnwRw95Sdcs33%2Fi6zDq4QhOLf9IUtzaS%2FgXdlANVw%2FVlY%3D&ddkey=http%3AManageShoppingCartCmd) $60 annual fee, valid at all Costco locations worldwide, purchase for resale
 * [Executive Members:](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/QuickMembershipApplicationView?catalogId=10701&langId=-1&storeId=10301&krypto=h1OXv6tU3UkMLZWjDFxv%2FQCkaCGx65GC4BFsg8cXQfxkOkvgo6ALO%2Bl6ejb71sRxEBtFqB1SJq%2F1gW68DYBbGEzOo84201p4iK0Cyq%2FU3NaO%2BI0oWIsB%2B2v2xwjhURsu8Y0R2K685otVKnbYQ6fcPQNT%2FY1UhiqNBzuKDHglFjo7zSgvD8Yh6M%2F5J0XOECfkfaKZ%2FUphCOFrecBhX%2FrYipxztA0naD%2FeVuf9ykUqYl6grkgrx93XzMWi7Qs238bZK%2BgNSeyxdXBi0r18zamgB%2BAkpSuQQlNza4qXd3eJk7Q%3D&ddkey=http%3AManageShoppingCartCmd) $120 annual fee, valid at all Costco locations worldwide, annual 2% cash back on Costco purchases
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Latest Costco Cyber Monday deals still available**
 
@@ -54,7 +46,7 @@ Many of these deals have been available on and off since Black Friday, but we're
 * [LG 23 cu ft side-by-side Refrigerator for $1400 (save $250)](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/.product.4000037861.html)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Best Costco Cyber Monday deals still available**
@@ -121,10 +113,6 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [Acer Swift Edge 16" 4K OLED Laptop for $1,000 (Save $500) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/acer-swift-edge-16%22-4k-oled-laptop---amd-ryzen-7-6800u---windows-11.product.4000056371.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Costco Cyber Monday gaming deals still available**
 
 [HP Victus gaming desktop Radeon RX 6600XT for $700 (Save $300) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/hp-victus-gaming-desktop---amd-ryzen-7-5700g---radeon-rx-6600xt.product.4000056482.html)
@@ -133,15 +121,15 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [MSI Aegis RS Gaming Desktop for $3,600 (Save $400) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/msi-aegis-rs-gaming-desktop---intel-core-i9-12900kf----geforce-rtx-3080ti.product.100847630.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Costco Cyber Monday streaming device deals still available**
 
 [Chromecast (2-Pack) for $70 (Save $10) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/chromecast-with-google-tv-%284k%29%2c-2-pack.product.4000032491.html)
 
 [Roku Ultra 4K + Roku Stick 4K for $90 (save $40) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/roku-ultra-4k-%282022%29-with-voice-remote-pro-&-roku-stick-4k-with-voice-remote.product.100839742.html)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Costco Cyber Monday tablet deals still available**
 
@@ -181,6 +169,10 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [Ring Security 14-pc Kit for $230 (Save $120) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/ring-security-alarm-14-piece-kit-%28gen-2%29-with-stick-up-cam%2c-smokeco-listener-and-range-extender.product.100849368.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these Cyber Monday Costco deals?
 
 As a Costco member, I'm always on the lookout for the best deals and, thankfully, Costco makes this easy by consistently offering great deals on high-quality items. Here at ZDNET, we do the legwork for you and round up the best ones through research, experience, and our own expertise.
@@ -207,7 +199,7 @@ Costco opened at 9:00 am on Black Friday, November 25, 2022\.
 Though most warehouses open at 10:00am Monday through Friday, Cyber Monday deals at Costco were online-only, as is the tradition for the Cyber Monday sale.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When was Cyber Monday 2022?
@@ -219,7 +211,7 @@ Cyber Monday takes place on the next Monday following the Thanksgiving holiday a
 Black Friday 2022 was on November 25th, 2022; the day after Thanksgiving.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best holiday deals 2022?
@@ -229,6 +221,10 @@ ZDNET scoured holiday sales to find the best deals this year:
 * [The best holiday 2022 deals](https://www.zdnet.com/article/best-early-black-friday-deals-amazon-walmart-best-buy-and-more/)
 
 Our experts split out the best deals by retailer, brand, and category, which you can see below. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Holiday deals by retailer**
 
@@ -247,7 +243,7 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best holiday 2022 HP deals](https://www.zdnet.com/home-and-office/hp-best-holiday-deals-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Holiday deals by category**
@@ -275,6 +271,10 @@ Our experts split out the best deals by retailer, brand, and category, which you
  Here are some of the cheapest deals we found:
 
 * [The best holiday 2022 deals under $30](https://www.zdnet.com/home-and-office/best-holiday-deals-under-30-2022/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Cyber Monday live blog deals still available**
 
@@ -324,16 +324,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-achieve-peak-performance-with-win11-and-zoom-integration/"><u>[New] Achieve Peak Performance with Win11 & Zoom Integration</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-top-secret-instagram-stories-viewer-apps/"><u>[New] Top Secret Instagram Stories Viewer Apps</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-unveiling-the-path-to-captivating-photographic-alliances/"><u>[Updated] In 2024, Unveiling the Path to Captivating Photographic Alliances</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/1725284298158-winxvideo-ai/"><u>動画・写真品質向上のコツを集めた完全マニュアル - Winxvideo AIの手引き</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-dell-xps-16-macbook-pro-windows-laptop-techzn/"><u>Comprehensive Dell XPS 지인구 16 평가: MacBook Pro에게 질주하는 신세계의 Windows Laptop | TechZN</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-stunning-visuals-top-notch-display-laptop-goes-on-sale-exclusive-deal-at-zdnet/"><u>Experience Stunning Visuals: Top-Notch Display Laptop Goes On Sale - Exclusive Deal at ZDNet!</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/uch-money-do-youtubers-make-per-view/"><u>How Much Money Do YouTubers Make Per View</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-access-and-enjoy-fandangos-movie-library-on-apple-tv-the-perfect-stay-in-entertainment-solution/"><u>How to Access and Enjoy Fandango's Movie Library on Apple TV: The Perfect Stay-In Entertainment Solution</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovo-anticipates-evolving-laptop-requirements-emphasizing-enhanced-ai-and-security-features-insights/"><u>Lenovo Anticipates Evolving Laptop Requirements: Emphasizing Enhanced AI & Security Features Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/transforming-comfort-at-work-my-experience-switching-to-a-split-ergo-keyboard-for-seven-days/"><u>Transforming Comfort at Work: My Experience Switching to a Split-Ergo Keyboard for Seven Days</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726225087612-wmvflac-movavi/"><u>オンラインでワークフロー圧縮: WMVからFLACへの自由な変換 - MOVAVI</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-how-to-hit-the-airwaves-with-instagram-lives/"><u>[New] 2024 Approved How to Hit the Airwaves with Instagram Lives</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-all-encompassing-clarification-the-basics-of-googles-podcast-platform/"><u>[New] In 2024, All-Encompassing Clarification The Basics of Google's Podcast Platform</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-breaking-the-ice-with-instagrams-interactive-audience-queries/"><u>[Updated] Breaking the Ice with Instagram's Interactive Audience Queries</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-adapting-srt-to-sub-step-by-step-guide-and-tactics/"><u>[Updated] In 2024, Adapting SRT to SUB Step-by-Step Guide & Tactics</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-updated-hp-deskjet-ink-advantage-3050a-printer-drivers-on-windows-no-cost/"><u>Effortless Installation of Updated HP Deskjet Ink Advantage 3050A Printer Drivers on Windows - No Cost</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970218289-free-download-brother-mfc-9130cw-printer-drivers-and-software/"><u>Free Download: Brother MFC-9130CW Printer Drivers and Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-election-enthusiasts-essentials-quintessential-voting-games/"><u>In 2024, Election Enthusiasts' Essentials Quintessential Voting Games</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-the-latest-hp-pagewide-pro-477dw-printer-drivers-on-windows-11108-systems/"><u>Installing the Latest HP PageWide Pro 477DW Printer Drivers on Windows 11/10/8 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-brother-mfc-j480dw-windows-printer-software-upgrade-guide/"><u>Latest Brother MFC-J480DW Windows Printer Software Upgrade Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Motorola won’t play HEVC H.265 media, how to fix?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/perfect-discord-streams-tips-and-tricks/"><u>Perfect Discord Streams Tips & Tricks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/thinkpad-t420s-drivers-download-and-update-for-windows-11/"><u>ThinkPad T420s Drivers Download & Update For Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-insightful-computer-and-gadget-analysis/"><u>Tom's Tech Review: Insightful Computer & Gadget Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-installing-logitech-mx-master-drivers-and-setup/"><u>Ultimate Guide: Installing Logitech MX Master Drivers & Setup</u></a></li>
 </ul></div>
 

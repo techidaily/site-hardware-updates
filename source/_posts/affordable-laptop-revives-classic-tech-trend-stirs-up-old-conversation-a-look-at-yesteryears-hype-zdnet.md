@@ -1,7 +1,7 @@
 ---
 title: "Affordable Laptop Revives Classic Tech Trend, Stirs Up Old Conversation: A Look at Yesteryear's Hype! - ZDNet"
-date: 2024-12-16T19:16:28.440Z
-updated: 2024-12-21T16:45:51.001Z
+date: 2024-12-21T22:59:18.984Z
+updated: 2024-12-27T20:47:37.635Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -85,7 +85,7 @@ I have been integrating Copilot into my workflow as I learn more about how to us
 The Surface's battery life has been fantastic, too. I get over 15 hours of use from a single charge, and it has yet to fully deplete to zero by the time I call a benchmarking test. The combination of smart design with meaningful trade-offs is what gives this laptop its marathon battery life, and opens it up for a variety of use cases from a creator or productivity perspective. Basically, this is a laptop you can work remotely with for the whole day without a charger.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -95,7 +95,7 @@ I mentioned this before, but the direction that Microsoft took with this laptop 
 The Surface Laptop is a flagship mid-range device that's well-rounded enough to take on a variety of roles. Despite a few trade-offs, it's everything it should be for the price. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -132,16 +132,22 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-eco-film-frameworks-unlimited-free-template-access-for-pros-and-amateurs-for-2024/"><u>[New] Eco-Film Frameworks Unlimited Free Template Access for Pros & Amateurs for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-finest-ups-units-of-2024-a-comparative-review/"><u>Exploring the Finest UPS Units of 2024 - A Comparative Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/high-speed-innovation-and-revolutionary-product/"><u>High-Speed, Innovation, and Revolutionary Product.</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/how-to-fix-the-p-dev310-error-message-on-your-hulu-streaming-device/"><u>How to Fix the 'P-DEV310' Error Message on Your Hulu Streaming Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-basics-opening-command-prompt-across-different-windows-editions/"><u>Mastering the Basics: Opening Command Prompt Across Different Windows Editions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/save-big-on-hp-victus-15-score-a-steal-at-515-during-best-buys-prime-day-exclusive-offer-tech-insights/"><u>Save Big on HP Victus 15 - Score a Steal at $515 During Best Buy's Prime Day Exclusive Offer – Tech Insights</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/streamlined-transcoding-xml-and-ttml-into-professional-srt-for-2024/"><u>Streamlined Transcoding XML & TTML Into Professional SRT for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-value-for-money-laptops-with-windows-os-under-1k-ultra-performance-meets-efficiency/"><u>Top Value-for-Money Laptops with Windows OS Under $1K - Ultra Performance Meets Efficiency</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranking-laptop-picks-for-2e24-comprehensive-tests-and-reviews-by-tech-gurus-zdnet/"><u>Top-Ranking Laptop Picks for 2E24: Comprehensive Tests & Reviews by Tech Gurus | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-capturing-desktop-images-on-your-laptop-including-dell-and-lenovo/"><u>Ultimate Guide to Capturing Desktop Images on Your Laptop (Including Dell and Lenovo)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-hours-of-videography-expected-gb-usage-for-2024/"><u>[New] Hours of Videography Expected GB Usage for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-how-to-build-a-career-in-graphic-design/"><u>[New] In 2024, How to Build A Career In Graphic Design</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-grandest-gatherings-a-chronicle-of-the-most-voted-posts-top-10/"><u>[New] The Grandest Gatherings A Chronicle of the Most Voted Posts (Top 10)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/outube-content-creators-optimal-stabilizer-companies-for-2024/"><u>[New] YouTube Content Creators Optimal Stabilizer Companies for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-apple-iphone-11-pro-max-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About Apple iPhone 11 Pro Max Activation Lock</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canoscan-lide-123-image-scanner-free-software-and-latest-updates/"><u>CanoScan LiDE 123 Image Scanner - Free Software and Latest Updates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-updating-and-installing-latest-epson-drivers-on-windows-11/"><u>Complete Guide: Updating and Installing Latest Epson Drivers on Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/descarga-el-codificador-av1-hardwaresoftware-version-oficial-hora-de-actualizacion/"><u>Descarga El Codificador AV1 (Hardware/Software) - Versión Oficial Hora De Actualización</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-productivity-with-the-compatible-drivers-of-logitechs-premium-k40veil/"><u>Enhance Your Productivity with the Compatible Drivers of Logitech's Premium K40veil</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-successfully-solving-error-code-0x800f0922-during-windows-11-updates-top-8-fixes/"><u>Guide to Successfully Solving Error Code 0X800f0922 During Windows 11 Updates (Top 8 Fixes)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-xiaomi-civi-3-disney-100th-anniversary-edition-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Xiaomi Civi 3 Disney 100th Anniversary Edition Phone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-updated-drivers-for-your-amd-rx-6800-xt-on-windows-pcs-win11-win10-win8-win7/"><u>Install Updated Drivers for Your AMD RX 6800 XT on Windows PCs (Win11, Win10, Win8, Win7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/official-windows-11-64-bit-compatible-drivers-for-your-epson-ds-530-printer/"><u>Official Windows 11 (64-Bit) Compatible Drivers for Your Epson DS-530 Printer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-update-tutorial-for-scansnap-ix5500-drivers-on-microsoft-operating-systems/"><u>Quick Update Tutorial for ScanSnap iX5^500 Drivers on Microsoft Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722960252077-step-by-step-guide-installing-the-corsair-k70-rgb-mechanical-gaming-keyboard/"><u>Step by Step Guide: Installing the Corsair K70 RGB Mechanical Gaming Keyboard</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-guide-fixing-your-samsung-universal-print-driver-woes-under-windows-operating-system/"><u>Troubleshooting Guide: Fixing Your Samsung Universal Print Driver Woes Under Windows Operating System</u></a></li>
+<li><a href="https://win-able.techidaily.com/update-resolved-issue-why-elden-ring-is-now-available/"><u>Update: Resolved Issue - Why Elden Ring Is Now Available</u></a></li>
 </ul></div>
 

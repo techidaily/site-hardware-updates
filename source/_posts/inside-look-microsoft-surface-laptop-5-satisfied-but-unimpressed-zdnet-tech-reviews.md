@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: Microsoft Surface Laptop 5 - Satisfied but Unimpressed | ZDNet Tech Reviews"
-date: 2024-12-16T23:59:59.646Z
-updated: 2024-12-22T07:42:44.220Z
+date: 2024-12-25T20:27:01.415Z
+updated: 2024-12-27T17:40:16.758Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -76,7 +76,7 @@ Michael Gariffo/ZDNET
 **More: [The best laptops: Does Apple take the crown?](https://www.zdnet.com/article/best-laptop/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Features and ports
@@ -86,6 +86,10 @@ That one on the top is the Surface Connect Port, not an SD card reader slot, whi
 Michael Gariffo/ZDNET
 
 Microsoft's port selection on the Surface Laptop 5 is very middle-of-the-road. That's a good thing. It acknowledges that plenty of USB-A peripherals still exist, so it includes a single USB-A port. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -140,7 +144,7 @@ This might be forgivable in a budget model. But even the base config [Surface La
 **More: [The 10 best webcams: Join your next Zoom call in HD](https://www.zdnet.com/article/best-webcam/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance and battery life
@@ -165,10 +169,6 @@ Overall, I'd have no qualms about leaving my charger at home and expecting to ge
 
 [Microsoft Surface Laptop 5 $1,117 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1738938556&subId1=zd-__COM_CLICK_ID__-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 I may seem like I had high standards for this review, and I did. This is a flagship laptop from the company that makes Windows, after all. While those resources and ability to optimize for its own OS did show in aspects like the [Surface Laptop 5](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Lightweight-Processor-Multi-Tasking%2Fdp%2FB0B8Q8GFMM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc6fbb856-6656-4200-96bf-59e251b1e7c2%7Cdtp&dtb=1)'s consistently excellent build quality and performance, it faltered when it came to basic modern necessities like a decent webcam and a contemporary display layout. 
@@ -176,7 +176,7 @@ I may seem like I had high standards for this review, and I did. This is a flags
 If you never videoconference or if wasted space around your display doesn't bother you, you're looking at the best Windows laptop you could buy right now. Even if those things do irk a bit, I'd recommend balancing them against the exceptional performance, build, and aesthetics. The Surface Laptop 5 is frustratingly close to being that universal leader among Windows portables that Microsoft wants it to be. But, if Microsoft wants that crown, I hope it updates the components that held this generation back when it comes time to design the Surface Laptop 6.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -227,24 +227,21 @@ Dell's latest entry in the XPS 13 lineup looks like it comes from further down t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-audio-aficionados-quandary-pick-between-podcast-and-youtube-for-2024/"><u>[New] Audio Aficionados' Quandary Pick Between Podcast and YouTube for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-building-blocks-for-a-thriving-design-career/"><u>[New] Building Blocks for a Thriving Design Career</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/query-what-are-some-fascinating-examples-of-animal-intelligence/"><u>[Query]: What Are some Fascinating Examples of Animal Intelligence?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-extract-focus-from-logitech-cam-feed/"><u>[Updated] 2024 Approved Extract Focus From Logitech Cam Feed</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-crafting-content-that-wins-on-ig-unboxing-edition/"><u>[Updated] Crafting Content That Wins on IG Unboxing Edition</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-economical-mic-options-for-youtube-vloggers-for-2024/"><u>[Updated] Economical Mic Options for YouTube Vloggers for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-popular-tiktok-creations-dominating-twitter-discussions/"><u>[Updated] In 2024, Popular TikTok Creations Dominating Twitter Discussions</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-6-competitive-video-apps-as-periscope-substitutes/"><u>2024 Approved 6 Competitive Video Apps as Periscope Substitutes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amazons-8tb-samsung-t5-nvme-ssd-steals-the-show-post-prime-day-with-a-whopping-36-discount-insider-look/"><u>Amazon's 8TB Samsung T5 NVMe SSD Steals the Show Post-Prime Day with a Whopping 36% Discount: Insider Look</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-leading-affordable-laptops-of-2024-featuring-brands-like-lenovo-hp-asus-tech-reviews/"><u>Discover the Leading Affordable Laptops of 2024 Featuring Brands Like Lenovo, HP, Asus - Tech Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/elevate-your-game-day-audio-grab-the-epic-gaming-headset-system-for-35-off-at-amazon-the-inside-scoop-by-zdnet/"><u>Elevate Your Game Day Audio: Grab the Epic Gaming Headset System for 35% Off at Amazon - The Inside Scoop by ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-access-to-microsofts-latest-app-experience-windows-on-chromebooks-and-macs-available-now/"><u>Exclusive Access to Microsoft's Latest App: Experience Windows on Chromebooks & Macs - Available Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-insights-on-owning-the-budget-friendly-surface-pro-11-top-tips-from-a-tech-guru-zdnet/"><u>Expert Insights on Owning the Budget-Friendly Surface Pro 11 - Top Tips From a Tech Guru | ZDNet</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-educational-history-series-the-most-engaging-ones/"><u>In 2024, Educational History Series - The Most Engaging Ones</u></a></li>
-<li><a href="https://fox-links.techidaily.com/novice-necessities-your-first-steps-in-gopro-world-for-2024/"><u>Novice Necessities - Your First Steps in GoPro World for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/pc-manufacturers-brace-for-tough-season-potential-silver-lining-for-consumers-techinsight/"><u>PC Manufacturers Brace for Tough Season: Potential Silver Lining for Consumers? | TechInsight</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/reddits-hidden-gems-6-tactics-that-transform-beginners-into-titans/"><u>Reddit's Hidden Gems 6 Tactics That Transform Beginners Into Titans</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-your-discount-save-big-on-hp-victus-15-at-just-515-during-best-buys-exclusive-prime-day-offer-insights/"><u>Secure Your Discount: Save Big on HP Victus 15 at Just $515 During Best Buy's Exclusive Prime Day Offer - Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-2023-deals-on-ssds-and-holiday-savings-find-the-latest-offers/"><u>Top 2023 Deals on SSDs & Holiday Savings - Find the Latest Offers!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-effortlessly-combine-skype-and-zoom-for-productivity/"><u>[New] Effortlessly Combine Skype and Zoom for Productivity</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagram-edit-10-best-tools-unveiled/"><u>2024 Approved Instagram Edit 10 Best Tools Unveiled</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-transform-your-set-design-top-8-sites-providing-free-green-screen-footage-and-backdrop/"><u>2024 Approved Transform Your Set Design Top 8 Sites Providing Free Green Screen Footage & Backdrop</u></a></li>
+<li><a href="https://win-blog.techidaily.com/descubre-las-mejores-opciones-gratuitas-alternativas-al-pinnacle-studio-en-sistemas-operativos-windows-y-mac-clasificacion-completa/"><u>Descubre Las Mejores Opciones Gratuitas Alternativas Al Pinnacle Studio en Sistemas Operativos Windows Y Mac: Clasificación Completa</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-improved-ease-of-repair-for-the-new-iphone-cuffs-in-depth-analysis-by-apple-experts-at-zdnet/"><u>Discover Improved Ease of Repair for the New iPhone Cuffs | In-Depth Analysis by Apple Experts at ZDNET</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-charting-new-pathways-in-art-an-exclusive-look-at-the-top-10-low-cost-creator-platforms-on-youtube/"><u>In 2024, Charting New Pathways in Art An Exclusive Look at the Top 10 Low-Cost Creator Platforms on YouTube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-technology-insights-with-toms-comprehensive-hardware-analysis/"><u>Mastering Technology Insights with Tom’s Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-technology-with-tom-the-ultimate-hardware-review-site/"><u>Mastering Technology with Tom: The Ultimate Hardware Review Site</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-technology-with-toms-hardware-experts/"><u>Mastering Technology with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-your-setup-a-detailed-look-at-toms-pc-hardware-recommendations/"><u>Mastering Your Setup - A Detailed Look at Tom's PC Hardware Recommendations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/microsofts-ai-revolution-how-copilotplus-is-redefining-modern-computing-and-outpacing-2024-laps/"><u>Microsoft's AI Revolution: How Copilot+ Is Redefining Modern Computing & Outpacing 2024 Laps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/microsofts-copilot-takes-on-your-pc-check-out-the-new-lineup-of-snapdragon-elite-x-laptops-on-offer-today/"><u>Microsoft's Copilot Takes On Your PC - Check Out the New Lineup of Snapdragon Elite X Laptops on Offer Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/next-level-computing-with-a-twist-discover-the-astonishing-features-and-subtle-quirks-in-our-review-of-the-latest-dell-xps-models-16-9640-and-14-9440/"><u>Next-Level Computing with a Twist: Discover the Astonishing Features & Subtle Quirks in Our Review of the Latest Dell XPS Models - 16 (9640) and 14 (9440)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pacific-drive-crash-prevention-and-recovery-methods-for-personal-computers/"><u>Pacific Drive Crash Prevention and Recovery Methods for Personal Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-transforming-your-mp4-files-into-high-quality-wav-format-using-the-latest-audacity-software/"><u>Step-by-Step Tutorial: Transforming Your MP4 Files Into High-Quality WAV Format Using the Latest Audacity Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-your-phones-potential-with-custom-android-audio-alerts/"><u>Unlocking Your Phone's Potential with Custom Android Audio Alerts</u></a></li>
 </ul></div>
 

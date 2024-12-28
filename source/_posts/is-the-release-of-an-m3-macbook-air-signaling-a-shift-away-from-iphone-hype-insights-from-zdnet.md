@@ -1,7 +1,7 @@
 ---
 title: Is the Release of an M3 MacBook Air Signaling a Shift Away From iPhone Hype? Insights From ZDNet
-date: 2024-12-19T02:13:04.337Z
-updated: 2024-12-21T18:23:12.500Z
+date: 2024-12-26T23:35:49.614Z
+updated: 2024-12-27T18:56:47.772Z
 tags:
   - laptops
 categories:
@@ -59,7 +59,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Chromebooks are user-proof
@@ -74,10 +74,6 @@ I've known users -- hello, family, are you listening? -- who've suffered to no e
 
 I've watched users continually break Windows and MacOS laptops (and come to me for help). The number of times I've had a Chromebook user do the same thing is… nil. Sure, a couple of times someone asked me, "How do I get this thing connected to a printer?" That's about it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Chromebooks are fast
 
 Take two laptops with basically the same hardware configuration, load one with Windows 11 and one with ChromeOS, and see which performs better. In every instance, you'll find ChromeOS to be exponentially faster. 
@@ -89,7 +85,7 @@ It's not just about how quickly apps open (Android _and_ Linux apps, see above),
 If you want a fast laptop at a reasonable price, get a Chromebook.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Chromebooks are reliable
@@ -101,7 +97,7 @@ In the 10 years since I've been using Chromebooks, I've only had one device with
 Even when using the [non-stable ChromeOS channel](https://www.zdnet.com/article/how-to-switch-release-channels-on-your-chromebook/), I've found the operating system to be exponentially more reliable than Windows. Anyone who argues this point hasn't used ChromeOS enough.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Chromebooks are secure
@@ -112,6 +108,10 @@ Thanks to ChromeOS's built-in security, even older, out-of-support Chromebooks a
 
 You won't need antivirus or anti-malware. Just make sure to apply any/all updates when they become available, avoid suspicious websites, and only install extensions from the official Google Chrome Store, and you're good to go. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Chromebooks can be easily restored
 
 Speaking of reliability, should you wind up having a problem with ChromeOS misbehaving (extremely unlikely, see above), you can simply do a "powerwash" (a factory reset), log back into your Google account, and you'll find everything there, minus whatever problem you were experiencing (and anything you'd previously saved to the Downloads folder).
@@ -121,7 +121,7 @@ Speaking of reliability, should you wind up having a problem with ChromeOS misbe
 No other operating system can compete with ChromeOS's ability to factory reset and return you to a pristine working state without having lost your data, bookmarks, apps, and more. I've never once worried about doing anything with a Chromebook, simply because I know I can do a quick power wash and be back working in minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -158,18 +158,17 @@ Chromebooks may not be the ideal solution for everyone. (Attempt any serious vid
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-your-ultimate-manual-for-downloading-youtube-playlists/"><u>[New] 2024 Approved Your Ultimate Manual for Downloading YouTube Playlists</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-idea-to-implementation-crafting-a-powerful-documntary-narrative/"><u>[New] From Idea to Implementation Crafting a Powerful Documntary Narrative</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-melodies-meet-graphics-adding-soundtracks-to-powerpoint/"><u>[New] Melodies Meet Graphics Adding Soundtracks to PowerPoint</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-complete-guide-to-crafting-youtube-masterpieces-for-2024/"><u>[New] The Complete Guide to Crafting YouTube Masterpieces for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ai-advancements-and-enhanced-security-the-new-demands-for-next-gen-laptops-as-predicted-by-lenovo-on-zdnet/"><u>AI Advancements & Enhanced Security: The New Demands for Next-Gen Laptops as Predicted by Lenovo on ZDNET</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/common-fixes-when-windows-10-version-1607-wont-install-properly/"><u>Common Fixes When Windows 10 Version 1607 Won't Install Properly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/gigabyte-a5-k1-black-friday-sale-get-a-whopping-40-discount-on-top-tier-gaming-laptops-shop-now-at-zdnet/"><u>Gigabyte A5 K1 Black Friday Sale: Get a Whopping 40% Discount on Top-Tier Gaming Laptops - Shop Now at ZDNet!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-a34-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy A34 5G Phones with/without a PC</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-edge-speech-to-text-programs/"><u>In 2024, Leading Edge Speech-to-Text Programs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-completely-clearing-your-personal-data-from-a-windows-laptop-for-free-expert-tips-and-tricks/"><u>The Ultimate Guide to Completely Clearing Your Personal Data From a Windows Laptop for Free - Expert Tips & Tricks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/transform-any-laptop-into-a-high-resolution-dual-display-powerhouse-with-our-innovative-gadget-reviews/"><u>Transform Any Laptop Into a High-Resolution Dual Display Powerhouse with Our Innovative Gadget Reviews</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/virtual-vanguards-identifying-the-top-7-fps-powerhouses-for-2024/"><u>Virtual Vanguards Identifying the Top 7 FPS Powerhouses for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-elevating-aerial-photography-with-gopro-karma-for-2024/"><u>[New] Elevating Aerial Photography with GoPro Karma for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/uick-ascent-to-youtube-affiliates-with-10k-vistas/"><u>[New] Quick Ascent to YouTube Affiliates with 10K Vistas</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-achieving-high-quality-tiktok-videos-the-zoom-method/"><u>[Updated] 2024 Approved Achieving High-Quality TikTok Videos The Zoom Method</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-exploring-beyond-vlc-a-modern-streamers-guide-for-2024/"><u>[Updated] Exploring Beyond VLC A Modern Streamer's Guide for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-guide-to-downloading-wi-fi-drivers-for-windows-7-operating-system/"><u>Effortless Guide to Downloading Wi-Fi Drivers for Windows 7 Operating System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-smooth-performance-with-new-epson-wf-7720-driver-updates-on-pcs/"><u>Ensure Smooth Performance with New Epson WF-7720 Driver Updates on PCs</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-deskjet-254e-series-driver-download-enhance-connectivity-and-printing-quality/"><u>HP Deskjet 254E Series Driver Download: Enhance Connectivity and Printing Quality</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-get-to-know-the-pros-of-engaging-with-asmr/"><u>In 2024, Get to Know the Pros of Engaging with ASMR</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-tutorial-for-arduino-nano-setup-on-windows-easy-fixed/"><u>The Ultimate Tutorial for Arduino Nano Setup on Windows - Easy, Fixed!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-steps-fixing-hp-beats-audio-driver-issues-across-windows-versions/"><u>Troubleshooting Steps: Fixing HP Beats Audio Driver Issues Across Windows Versions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlocking-secure-dvds-made-easy-unveiling-the-best-8-techniques-and-5-free-alternatives/"><u>Unlocking Secure DVDs Made Easy: Unveiling the Best 8 Techniques and 5 Free Alternatives</u></a></li>
 </ul></div>
 

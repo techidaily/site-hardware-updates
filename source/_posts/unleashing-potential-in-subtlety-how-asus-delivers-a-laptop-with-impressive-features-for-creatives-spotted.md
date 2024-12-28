@@ -1,7 +1,7 @@
 ---
 title: Unleashing Potential in Subtlety - How Asus Delivers a Laptop with Impressive Features for Creatives, Spotted
-date: 2024-12-19T19:53:56.510Z
-updated: 2024-12-22T02:00:27.539Z
+date: 2024-12-26T20:17:20.085Z
+updated: 2024-12-27T22:04:57.947Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,15 +112,18 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-transform-your-video-footage-with-advanced-screen-recording-tech/"><u>[Updated] 2024 Approved Transform Your Video Footage with Advanced Screen Recording Tech</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/direct-links-for-newest-nvidia-driver-updates-save-time-improve-performance/"><u>Direct Links for Newest NVIDIA Driver Updates - Save Time, Improve Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-creative-x-fi-gamer-audio-driver-pack-for-windows-10/"><u>Download and Update Creative X-Fi Gamer Audio Driver Pack for Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-update-guide-for-zebra-zp450-driver-software-download-and-installation-steps/"><u>Easy Update Guide for Zebra ZP450 Driver Software - Download & Installation Steps</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-hds-finest-picks-reviewing-top-screen-recorders/"><u>In 2024, HD's Finest Picks Reviewing Top Screen Recorders</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-v29-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Vivo V29 Pro Lock Screen Password?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/premium-fb-videograbber-tools-secure-fast-file-grab/"><u>Premium FB Videograbber Tools Secure, Fast File Grab</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-samsung-galaxy-s25-ultra-anticipated-launch-details-pricing-info-and-rumored-specifications/"><u>Unveiling the Samsung Galaxy S25 Ultra: Anticipated Launch Details, Pricing Info & Rumored Specifications</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updating-your-amd-drivers-on-windows-10-11-and-7-a-comprehensive-guide/"><u>Updating Your AMD Drivers on Windows 10, 11 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-a-guide-to-googles-augmented-reality-sticker-features/"><u>[New] In 2024, A Guide to Google's Augmented Reality Sticker Features</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-top-tweets-review-the-full-year-in-videos/"><u>[New] In 2024, Top Tweets Review The Full Year in Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-superior-mkv-player-pcandroid-experience/"><u>[Updated] Superior MKV Player PC/Android Experience</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-how-to-record-overwatch/"><u>2024 Approved How to Record Overwatch</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-simplifycast-the-ultimate-guide-to-starting-your-podcast-livestream/"><u>2024 Approved SimplifyCast The Ultimate Guide to Starting Your Podcast Livestream</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/navigating-instagrams-video-time-policy-for-2024/"><u>Navigating Instagram's Video Time Policy for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-latest-in-electronics-with-toms-hardware-experts/"><u>Navigating the Latest in Electronics with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-latest-in-technology-with-insights-from-toms-hardware/"><u>Navigating the Latest in Technology with Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-computers-and-electronics-with-toms-guidance/"><u>Navigating the World of Computers and Electronics with Tom's Guidance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-computing-with-tomn-hardware-insights/"><u>Navigating the World of Computing with Tom'n Hardware Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-economical-gaming-displays-best-curved-and-flat-options-with-g-sync-support/"><u>Navigating the World of Economical Gaming Displays: Best Curved and Flat Options with G-Sync Support</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-samsung-galaxy-s24plus-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Samsung Galaxy S24+ FRP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-torrents-made-easy-top-five-recommendations/"><u>Windows Torrents Made Easy: Top Five Recommendations</u></a></li>
 </ul></div>
 

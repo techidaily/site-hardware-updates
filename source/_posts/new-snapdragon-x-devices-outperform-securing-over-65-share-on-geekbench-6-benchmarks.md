@@ -1,7 +1,7 @@
 ---
 title: New Snapdragon X Devices Outperform, Securing Over 6.5%% Share on Geekbench 6 Benchmarks
-date: 2024-08-23T13:50:29.188Z
-updated: 2024-08-24T13:50:29.188Z
+date: 2024-12-21T18:56:48.423Z
+updated: 2024-12-27T16:37:49.304Z
 tags:
   - cpu
 categories:
@@ -32,6 +32,10 @@ Another upcoming Arrow Lake chip, which will compete against the[best CPUs](http
 
  As always, take these results with a pinch of salt. The conditions in which the Core Ultra 7 was running are unknown. However, we won't see what Arrow Lake is capable of until in a few months, as Intel's next-generation chips have been rumored to launch in October, while AMD's Ryzen 9000 lineup is just right around the corner.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -40,14 +44,11 @@ Another upcoming Arrow Lake chip, which will compete against the[best CPUs](http
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -56,8 +57,18 @@ Another upcoming Arrow Lake chip, which will compete against the[best CPUs](http
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-exploring-the-merits-of-obs-studio-and-fraps-for-recording-screens/"><u>[New] 2024 Approved Exploring the Merits of OBS Studio & Fraps for Recording Screens</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-finest-8-platforms-for-sharing-3d-text-psd-files-for-2024/"><u>[New] The Finest 8 Platforms for Sharing 3D Text PSD Files for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-top-10-mobile-photography-enhancers-ios-and-android-comparison/"><u>2024 Approved Top 10 Mobile Photography Enhancers IOS & Android Comparison</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719581170012-96-off-for-lifetime-access-learn-a-new-language-today-at-black-friday-prices/"><u>96%‌ OFF For Lifetime Access: Learn A New Language Today At Black Friday Prices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cost-free-winx-dvd-ripping-software-for-easy-dvd-to-mp4aviiphoneandroid-format-conversion/"><u>Cost-Free WinX DVD Ripping Software for Easy DVD to MP4/AVI/iPhone/Android Format Conversion</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-laserjet-p1nsiii-p1006m15-series-driver-software-here/"><u>Get the Latest HP LaserJet P1nsiii (P1006/M15 Series) Driver Software Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-intel-chip-drivers-instantly-a-user-friendly-download-guide/"><u>Get Your Intel Chip Drivers Instantly – A User-Friendly Download Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-all-in-one-deskjet-3755-printer-driver-download-for-modern-windows-operating-systems/"><u>HP All-In-One Deskjet 3755 Printer Driver Download for Modern Windows Operating Systems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-google-pixel-7a-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Google Pixel 7a to Roku | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-pitfalls-for-novice-youtube-creators-for-2024/"><u>Top 8 Pitfalls for Novice YouTube Creators for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrading-and-rebooting-usb-audio-control-drivers-on-windows-versions-11-10-and-7/"><u>Upgrading and Rebooting USB Audio Control Drivers on Windows Versions: 11, 10, & 7</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
