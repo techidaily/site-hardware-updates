@@ -1,7 +1,7 @@
 ---
 title: "Discovering HP's New Spectre X360: A Must-Have for Top Tech Picks - Insights & Reviews From ZDNet"
-date: 2024-12-26T19:02:46.468Z
-updated: 2024-12-27T20:00:41.117Z
+date: 2025-01-01T14:12:39.700Z
+updated: 2025-01-06T09:27:19.372Z
 tags:
   - laptops
 categories:
@@ -68,6 +68,10 @@ Cons
 * Only compatible for 100V to 250V devices
 * Max of 15W on USB-C
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tessan International Plug Adapter
 
 ### Best adapter for international travel
@@ -105,10 +109,6 @@ Multipoint  Yes
 Headphone Type  Over-ear wireless headphones
 
 Water-Resistant  No IP rating
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Sony WH-1000XM5 headphones
 
@@ -149,14 +149,10 @@ Headphone Type  Wireless earbuds
 Water-Resistant  Yes (IPX4 -- splash-proof)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods Pro 2
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best travel earbuds
 
@@ -190,7 +186,7 @@ Cons
 ## iPad Pro
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best travel tablet
@@ -221,11 +217,11 @@ Cons
 * Pricey at $280
 * Drains laptop battery
 
-## Duex Plus monitor
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Duex Plus monitor
 
 ### Best travel monitor
 
@@ -256,10 +252,14 @@ Cons
 * 360-footage requires a larger MicroSD card
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Insta360 X3
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best action camera for travel
 
@@ -292,10 +292,6 @@ Pros
 Cons 
 * Only available as a website
 * No flight, transportation, or restaurant booking
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Guide AI trip planner
 
@@ -344,6 +340,10 @@ All the items on this list were carefully selected, as most have various functio
 | Insta360 X3                              | Want a compact action camera that captures photos at every angle.                                                                                                                         |
 | Guide AI trip planner                    | Want to plan your trip itinerary using AI or looking to stay organized throughout your travels.                                                                                           |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did I choose these travel tech gadgets?
 
 To compile my list and decide which travel tech was the best of the best, I turned to experts and enthusiasts. I consulted Nick Yiu, who took 15 flights in 2022, the executive editor of travel publication The Points Guy, [Scott Mayerowitz](https://thepointsguy.com/author/smayerowitz/), and Lonely Planet Destinations Managing Editor Alex Howard. As a frequent traveler myself, I also drew from my own experience and looked at products ZDNET has reviewed.   
@@ -354,6 +354,10 @@ Ultimately, I weighted the following aspects when curating this list:
 * **Price:** Useful travel gadgets don't have to be a hefty investment, especially when you have hotel, transportation, and flights to consider -- or, let's be real, you can easily forget the gadgets in a car or hotel. The devices on this list are top-quality devices that won't break the bank.
 * **Functionality:** Traveling requires fitting all of your essentials in a tight, compact space. This means you should only take devices that advance common traveling components, such as charging your phone, tuning out noise on the plane, or storing and recording memories.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What should I look for in a good piece of travel tech?
 
 According to The Points Guy Executive Editor Scott Mayerowtiz, it's important to travel with tech that is lightweight, compact, and durable. 
@@ -363,10 +367,6 @@ According to The Points Guy Executive Editor Scott Mayerowtiz, it's important to
 That said, it's also important not to get the most expensive item on the market, "How many chargers have you left in a hotel room when checking out in a rush?" joked Mayerowitz. "Maybe it doesn't have to be the 'best' product out there. Be mindful that things on the road get damaged." 
 
 I considered Mayerowitzs' tips on what to look for when compiling this list -- making sure I talked to someone who had hands-on experience with every product and could vouch for it's quality. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is smart luggage worth it?
 
@@ -420,22 +420,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-affordable-audio-capture-tools-ranked-1-to-10/"><u>[New] In 2024, Affordable Audio Capture Tools Ranked #1 to #10</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-speedy-windows-file-checkout-tutorial-for-2024/"><u>[New] Speedy Windows File Checkout Tutorial for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-transform-footage-into-visual-art-with-youtube-studio/"><u>[Updated] 2024 Approved Transform Footage Into Visual Art with YouTube Studio</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/300-discount-on-the-ultra-performa-omen-transcend-14-with-rtx-graphics-and-stunning-oled-screen/"><u>$300 Discount on the Ultra-Performa Omen Transcend 14 with RTX Graphics and Stunning OLED Screen</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/advanced-system-analysis-by-tom-your-reliable-source-for-hardware-info/"><u>Advanced System Analysis by Tom - Your Reliable Source for Hardware Info</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/enabling-steam-library-folder-editability-in-win-11/"><u>Enabling Steam Library Folder Editability in Win 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862657922-experience-next-level-gaming-with-the-affordable-lenovo-legion-slim-ebranded-as-a-high-quality-gaming-laptop-under-1100-on-newegg/"><u>Experience Next-Level Gaming with the Affordable Lenovo Legion Slim Ebranded as a High-Quality Gaming Laptop Under $1,100 on Newegg.</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/how-to-retrieve-data-following-a-system-revert-on-windows-781011/"><u>How to Retrieve Data Following a System Revert on Windows 7/8/10/11</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-expert-picks-laptops-that-transform-raw-footage/"><u>In 2024, Expert Picks Laptops That Transform Raw Footage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-the-complexities-of-onedrive-errors/"><u>Navigating Through the Complexities of OneDrive Errors</u></a></li>
-<li><a href="https://facebook.techidaily.com/subtle-show-of-approval-fb-like-anonymity-tips/"><u>Subtle Show of Approval: FB Like Anonymity Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-the-ultimate-guide-to-computer-hardware/"><u>Tom's Tech Review: The Ultimate Guide to Computer Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-your-guide-to-cutting-edge-gadgets-and-systems/"><u>Tom's Tech Reviews: Your Guide to Cutting-Edge Gadgets and Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-ultrabook-and-luxury-laptop-picks-of-2024/"><u>Top-Rated Ultrabook & Luxury Laptop Picks of 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-cutting-edge-tech-secrets-at-toms-hardware-sanctuary/"><u>Unveiling Cutting-Edge Tech Secrets at Tom's Hardware Sanctuary</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-power-of-the-lenovo-legion-pro-5i-gen-9-an-exceptional-gaming-laptop-with-an-excellent-price-tag/"><u>Unveiling the Power of the Lenovo Legion Pro 5I (Gen 9) - An Exceptional Gaming Laptop with an Excellent Price Tag</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-luts-unveiled-transforming-the-lands-market/"><u>[New] LUTs Unveiled Transforming the Lands Market</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-vlc-recordings-tips-and-tricks-for-2024/"><u>[New] VLC Recordings Tips and Tricks for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-top-cricket-ultimate-guide-to-live-streaming-selection/"><u>2024 Approved Top Cricket Ultimate Guide to Live Streaming Selection</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/apples-enduring-legacy-the-impending-retirement-of-a-top-seller/"><u>Apple's Enduring Legacy: The Impending Retirement of a Top Seller</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-tech-bargains-available-now-unbeatable-prices-on-samsung-monitors-apple-pixel-watch-series-2-refurbished-macbook-airs-and-other-hot-electronics/"><u>Best Tech Bargains Available Now: Unbeatable Prices on Samsung Monitors, Apple Pixel Watch Series 2, Refurbished MacBook Airs, and Other Hot Electronics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-value-gaming-pcs-for-less-than-1000-our-picks/"><u>Best Value Gaming PCs for Less than $1,000 - Our Picks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/blindsmagic-smart-motorized-roller-shades-unveiled-an-ultimate-step-by-step-diy-review-for-smart-home-enthusiasts/"><u>BlindsMagic Smart Motorized Roller Shades Unveiled: An Ultimate Step-by-Step DIY Review for Smart Home Enthusiasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-your-focus-with-small-screen-setups-the-surprising-advantages-revealed/"><u>Boost Your Focus with Small-Screen Setups - The Surprising Advantages Revealed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/choose-a-weatherproof-smart-plug-ensure-durability-against-external-conditions/"><u>Choose a Weatherproof Smart Plug - Ensure Durability Against External Conditions</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/enlarge-your-digital-footprint-proven-methods-to-multi-stream-on-youtube-and-twitch/"><u>Enlarge Your Digital Footprint Proven Methods to Multi-Stream on Youtube & Twitch</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-tecno-spark-10c-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Tecno Spark 10C Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nokia-g310-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nokia G310 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-12-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 12?</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-no-browser-scenarios-in-new-oss/"><u>Overcoming No-Browser Scenarios in New OSs</u></a></li>
 </ul></div>
 

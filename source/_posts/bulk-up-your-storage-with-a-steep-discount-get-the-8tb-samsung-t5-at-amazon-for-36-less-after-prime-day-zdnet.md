@@ -1,7 +1,7 @@
 ---
 title: "Bulk Up Your Storage with a Steep Discount: Get the 8TB Samsung T5 at Amazon for 36%% Less After Prime Day | ZDNET"
-date: 2024-12-19T16:11:30.197Z
-updated: 2024-12-21T21:49:29.314Z
+date: 2025-01-03T13:27:15.187Z
+updated: 2025-01-06T02:53:32.212Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2d460d9b-c08e-42f0-88ee-8dd732741921%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,24 +65,22 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-complete-picture-guide-to-vsco-app/"><u>[New] Complete Picture Guide to VSCO App</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-engaging-audiences-with-dynamic-photoviewer-content-in-pixiz/"><u>[New] Engaging Audiences with Dynamic Photoviewer Content in Pixiz</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-best-vr-equipment-enhancing-flight-control/"><u>2024 Approved Best VR Equipment Enhancing Flight Control</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-access-to-up-to-date-kodak-printer-drivers-download-now/"><u>Easy Access to Up-to-Date Kodak Printer Drivers – Download Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-device-functionality-on-windows-11-with-recent-lenovo-driver-updates/"><u>Enhance Device Functionality on Windows 11 with Recent Lenovo Driver Updates</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-complete-guide-and-amd-gpio-device-driver/"><u>Free Download: Complete Guide & AMD GPIO Device Driver</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gaming-masterpiece-samsungs-ue590-in-depth-review-for-2024/"><u>Gaming Masterpiece - Samsung's UE590 In-Depth Review for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-poco-f5-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Poco F5 5G?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-deskjet-ink-advantage-vehicle-3050a-secure-free-drivers-and-improvements-for-windows-users/"><u>HP Deskjet Ink Advantage Vehicle 3050A - Secure Free Drivers and Improvements for Windows Users</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked Apple iPhone 11 Pro Max</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolving-260-ci-wi-fi-aware-driver-compatibility-with-usb-ports/"><u>Resolving 260 Ci Wi-Fi Aware Driver Compatibility with USB Ports</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-installation-of-nvidia-1080-drivers-on-windows-10-step-by-step-process/"><u>Seamless Installation of Nvidia 1080 Drivers on Windows 10: Step by Step Process</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-downloading-and-installing-steelseries-windows-software/"><u>Step-by-Step Guide to Downloading & Installing SteelSeries Windows Software</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-guide-adding-custom-fonts-on-your-windows-system-tips-from-yl-computing/"><u>Step-by-Step Guide: Adding Custom Fonts on Your Windows System - Tips From YL Computing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722972442453-the-balance-of-power-and-strategic-interests-are-significant-factors-that-influence-states-decisions-regarding-nuclear-armament-or-disarmament/"><u>The Balance of Power and Strategic Interests Are Significant Factors that Influence States' Decisions Regarding Nuclear Armament or Disarmament.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-influence-of-ai-powered-chatbots-on-modern-content-production-techniques/"><u>The Influence of AI-Powered Chatbots on Modern Content Production Techniques</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96296140-9780834841918-the-stars-within-you/"><u>The Stars Within You | Free Book</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updated-dell-inspiron-15-driver-software-for-windows-11-systems/"><u>Updated Dell Inspiron 15 Driver Software for Windows 11 Systems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-personalize-speakability-changing-your-tone-on-instagram-posts/"><u>[Updated] 2024 Approved Personalize Speakability Changing Your Tone on Instagram Posts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-amplify-your-influence-the-ultimate-list-of-instagram-apps/"><u>[Updated] In 2024, Amplify Your Influence The Ultimate List of Instagram Apps</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-dj-beats-unleashed-high-fidelity-templates-downloaded-easily/"><u>[Updated] In 2024, DJ Beats Unleashed High-Fidelity Templates Downloaded Easily</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-cost-free-treasure-hunts-finding-gorgeous-tiktok-backdrops/"><u>2024 Approved Cost-Free Treasure Hunts Finding Gorgeous TikTok Backdrops</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/british-english-vs-american-english-differences-spelling-pronunciation-and-more/"><u>British English vs American English Differences: Spelling, Pronunciation and More</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-huion-pen-tablet-programs-and-drivers-for-windows-operating-system/"><u>Compatible Huion Pen Tablet Programs & Drivers for Windows Operating System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-canon-scanner-drivers-for-windows-users-downloads-available-at-no-charge/"><u>Effortless Installation of Canon Scanner Drivers for Windows Users: Downloads Available at No Charge</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-optimal-performance-with-latest-dymo-4xl-label-printer-software-installation/"><u>Ensure Optimal Performance with Latest DYMO 4XL Label Printer Software Installation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-the-silent-problem-rapid-guide-for-astro-a50-audio-troubleshooting/"><u>Fix the Silent Problem: Rapid Guide for Astro A50 Audio Troubleshooting</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-epson-v39-scanner-and-printer-drivers-for-pcs-running-windows-7-8-and-10/"><u>Free Download: Epson V39 Scanner and Printer Drivers for PCs Running Windows 7, 8 & 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-oculus-headset-ready-drivers-for-windows-11-10-8-and-7-download-links-here/"><u>Get Your Oculus Headset Ready: Drivers for Windows 11, 10, 8 & 7 Download Links Here!</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2020-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2020) to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-your-amd-radeon-gpu-drivers-common-problems-and-fixes/"><u>How to Update Your AMD Radeon GPU Drivers: Common Problems and Fixes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-hp-ethernet-driver-on-windows-1178-step-by-step-guide/"><u>Installing HP Ethernet Driver on Windows 11/7/8 – Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keep-your-computer-connected-with-the-latest-microsoft-bluetooth-driver-downloads-windows-11-10-8-and/"><u>Keep Your Computer Connected with the Latest Microsoft Bluetooth Driver Downloads (Windows 11, 10, 8 &</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/lightrooms-ultimate-guide-to-premium-luts/"><u>LightRoom's Ultimate Guide to Premium LUTs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-walkthrough-fresh-amd-graphics-card-drivers-installation-across-various-windows-editions/"><u>The Ultimate Walkthrough: Fresh AMD Graphics Card Drivers Installation Across Various Windows Editions</u></a></li>
 </ul></div>
 

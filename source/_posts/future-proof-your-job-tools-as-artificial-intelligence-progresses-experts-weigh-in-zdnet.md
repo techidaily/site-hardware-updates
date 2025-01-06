@@ -1,7 +1,7 @@
 ---
 title: "Future-Proof Your Job Tools as Artificial Intelligence Progresses: Experts Weigh In (ZDNet)"
-date: 2024-12-18T08:22:58.648Z
-updated: 2024-12-22T09:34:38.473Z
+date: 2025-01-03T01:18:09.189Z
+updated: 2025-01-06T12:25:29.235Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,19 +134,20 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/nleash-your-youtube-earnings-achieving-prosperity-at-the-50-written-excerpt-for-2024/"><u>[New] Unleash Your YouTube Earnings Achieving Prosperity at the 50 Written Excerpt for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-top-30-boosting-bots-for-enhanced-discord-servers/"><u>[Updated] 2024 Approved Top 30 Boosting Bots for Enhanced Discord Servers</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-huawei-nova-y91-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/6loh5rqq5zue5ps2562s5pwf6zqc5bcl5rgc5oplus05oml77ya5aac5l2v6yen5paw6zal5qmf5zkm6jmv55cg77yf/"><u>資源回收筒故障尋求援手：如何重新開機和處理？</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-newest-acer-trackpad-drivers-optimized-for-windows-10/"><u>Download the Newest Acer TrackPad Drivers Optimized for Windows 10!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/icloud5/"><u>ICloud画像の下ろし方はじめての人でも簡単に学べる5つの手順完全ガイド</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-evasion-techniques-for-youtube-bans/"><u>In 2024, Evasion Techniques for YouTube Bans</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-basic-printer-and-scanner-drivers-in-windows-11-step-by-step-tutorial/"><u>Install Basic Printer and Scanner Drivers in Windows 11: Step-by-Step Tutorial</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-your-roccat-mousedeck-today-secure-download-options-below/"><u>Install Your Roccat Mousedeck Today – Secure Download Options Below</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-hp-spectre-x360-driver-downloads-for-windows/"><u>Latest HP Spectre X360 Driver Downloads for Windows</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/masterful-technology-for-virtual-meetings/"><u>Masterful Technology for Virtual Meetings</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigate-through-updating-your-pcs-webcam-drivers-on-a-windows-10-platform/"><u>Navigate Through Updating Your PC’s WebCam Drivers on a Windows 10 Platform</u></a></li>
-<li><a href="https://win-dash.techidaily.com/simple-steps-to-update-your-windows-battery-drivers-a-hassle-free-guide/"><u>Simple Steps to Update Your Window's Battery Drivers: A Hassle-Free Guide!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/webcam-driver-downloads-for-windows-7-fast-and-simple-process/"><u>Webcam Driver Downloads for Windows 7 - Fast and Simple Process</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unleashing-the-potential-of-instavids-planning-for-success/"><u>[New] Unleashing the Potential of InstaVids Planning for Success</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-musicreactionvids10-discovering-2023s-stars/"><u>[Updated] In 2024, MusicReactionVids10 Discovering 2023'S Stars</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-cut-down-catch-more-the-best-url-reducers-for-youtube/"><u>2024 Approved Cut Down, Catch More The Best URL Reducers for YouTube</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-proven-youtube-seo-methods-for-video-rankings/"><u>2024 Approved Proven YouTube SEO Methods for Video Rankings</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/bokeh-magic-the-best-ios-and-android-apps-for-creative-blur-effects/"><u>Bokeh Magic The Best iOS and Android Apps for Creative Blur Effects</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/elevate-your-content-secrets-to-becoming-a-staff-favorite-at-vimeo-for-2024/"><u>Elevate Your Content Secrets to Becoming a Staff Favorite at Vimeo for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-gameplay-with-the-latest-nvidia-geforce-rtx-2080-ti-graphics-card-drivers/"><u>Enhance Gameplay with the Latest NVIDIA GeForce RTX 2080 Ti Graphics Card Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixing-compatibility-issues-between-newest-thinkpad-models-and-the-updated-thunderbolt-3-docking-software/"><u>Fixing Compatibility Issues Between Newest ThinkPad Models and the Updated Thunderbolt 3 Docking Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-version-of-intel-hd-graphics-4400-drivers-now/"><u>Get the Latest Version of Intel® HD Graphics 4400 Drivers Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976167411-get-updated-epson-wf-3640-drivers-for-windows-operating-systems-here/"><u>Get Updated Epson WF-3640 Drivers for Windows Operating Systems Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-the-latest-hp-4605e-laserjet-pro-m127fn-printer-drivers-compatible-with-all-systems/"><u>Install the Latest HP 4605E (LaserJet Pro M127FN) Printer Drivers - Compatible with All Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-driver-updates-for-your-windows-10-webcam-a-comprehensive-guide/"><u>Mastering Driver Updates for Your Windows 10 Webcam - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/multiversus-no-more-master-the-art-of-fixing-crashes-with-our-top-8/"><u>MultiVersus No More! Master the Art of Fixing Crashes with Our Top 지정된 8 해결책</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-windows-cant-find-an-appropriate-printer-driver/"><u>Resolved: How to Fix 'Windows Can't Find an Appropriate Printer Driver'</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-epson-l3150-printer-drivers-to-support-windows-11-8-and-7-download-now/"><u>Update Your Epson L3150 Printer Drivers to Support Windows 11, 8 & 7 - Download Now</u></a></li>
 </ul></div>
 

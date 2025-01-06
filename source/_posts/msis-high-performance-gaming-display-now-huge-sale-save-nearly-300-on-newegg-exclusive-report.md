@@ -1,7 +1,7 @@
 ---
 title: "MSI's High-Performance Gaming Display Now Huge Sale: Save Nearly $300 on Newegg - Exclusive Report"
-date: 2024-12-14T19:39:13.537Z
-updated: 2024-12-22T04:19:40.835Z
+date: 2025-01-05T07:00:50.739Z
+updated: 2025-01-05T22:26:45.539Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ You can pick up a new [MSI Stealth 14 Studio gaming laptop](https://shop-links.c
 **Also:** [**The best gaming laptops**](https://www.zdnet.com/article/best-gaming-laptop/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended:
@@ -65,7 +65,7 @@ Speaking of which: I absolutely adore the MUX switch, which is what lets you cho
 Taylor Clemons/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## My only real complaint
@@ -81,7 +81,7 @@ Taylor Clemons/ZDNET
 The laptop also has a decently fast charging time, taking about an hour to reach full charge from completely dead. This is perfect for situations when you forget to charge overnight or need to quickly top up the laptop during a lunch break or meeting. As with all fast-charging devices, you'll notice a slowdown in power transfer as the battery approaches full charge. This helps prevent damage from overcharging, which can shorten the overall life and performance of the battery.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How it handles gaming
@@ -95,7 +95,7 @@ Taylor Clemons/ZDNET
 The laptop even was able to handle the [ARMA III](https://store.steampowered.com/app/107410/Arma%5F3/) base game, which is notorious for requiring Herculean efforts from graphics cards and CPUs to even be able to load you into a server. I'd bought ARMA III years ago to play with friends over Discord, and this was the first time I'd been able to just load into the lobby and mess around with controls, settings, and mods before _finally_ being able to play a match after all this time. So the Stealth 14 Studio gets extra points in my book for letting me spend time with and stay connected to friends I don't get to see very often in-person. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### A worthy investment
@@ -140,19 +140,24 @@ _Correction: This review has been edited to reflect accurate information as prov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevating-your-channel-youtube-backlink-basics/"><u>[New] 2024 Approved Elevating Your Channel YouTube Backlink Basics</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-how-to-amplify-in-game-voices-naturally-step-by-step-process-for-free-fire-players/"><u>[New] 2024 Approved How to Amplify In-Game Voices Naturally Step-by-Step Process for Free Fire Players</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-the-best-cheap-action-cameras-to-purchase-for-under-100/"><u>[Updated] The Best Cheap Action Cameras to Purchase for Under $100</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquering-malfunctions-in-star-wars-squadrons-ultimate-crash-guide-revealed/"><u>Conquering Malfunctions in Star Wars Squadrons – Ultimate Crash Guide Revealed</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/guia-paso-a-paso-para-reparar-tu-historial-de-wechat-sin-backup/"><u>Guía Paso a Paso Para Reparar Tu Historial De WeChat Sin Backup</u></a></li>
-<li><a href="https://win-popular.techidaily.com/guia-paso-a-paso-como-implementar-la-copia-de-seguridad-incremental-con-vss-en-aomei-backupper/"><u>Guía Paso a Paso: Cómo Implementar La Copia De Seguridad Incremental Con VSS en AOMEI Backupper</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-razer-blade-17-drivers-windows-111087/"><u>How to Update Razer Blade 17 Drivers | Windows 11/10/8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-logitech-c525-high-definition-camera-drivers-in-windows-step-by-step/"><u>Installing Logitech C525 High Definition Camera Drivers in Windows (Step-by-Step)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/magicard-rio-pro-driver-fresh-release-optimized-for-windows-os-versions/"><u>Magicard Rio Pro Driver - Fresh Release: Optimized for Windows OS Versions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/osha-requires-guardrails-and-fall-arrest-systems-when-workers-are-more-than-10-feet-above-lower-levels/"><u>OSHA Requires Guardrails and Fall Arrest Systems when Workers Are More than 10 Feet Above Lower Levels.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/speedy-deployment-of-samsung-m2070fw-drivers-click-for-download/"><u>Speedy Deployment of Samsung M2070FW Drivers - Click for Download</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-y02t-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Honor Magic 5 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-updating-your-pcs-web-cam-driver-on-a-windows-10-system/"><u>Troubleshooting & Updating Your PC's Web Cam Driver on a Windows 10 System</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-best-tools-to-create-stunning-igtv-video-edits/"><u>[Updated] 2024 Approved Best Tools to Create Stunning IGTV Video Edits</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-kinemaster-edition-creating-polished-transitions-in-filmmaking/"><u>[Updated] 2024 Approved Kinemaster Edition Creating Polished Transitions in Filmmaking</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-religious-ringtones-for-daily-devotion-and-driving/"><u>[Updated] Religious Ringtones for Daily Devotion and Driving</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-quality-sd-card-for-sony-alpha-7s-ii/"><u>[Updated] Top-Quality SD Card for Sony Alpha 7S II</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-step-by-step-guide-to-mobile-snapchat-screen-recording/"><u>2024 Approved Step-by-Step Guide to Mobile Snapchat Screen Recording</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-vision-of-a-domestic-robotic-helper-shaping-our-homes-with-ai/"><u>Apple's Vision of a Domestic Robotic Helper - Shaping Our Homes with AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-action-6-analytical-applications-unveiled/"><u>ChatGPT in Action: 6 Analytical Applications Unveiled</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970659933-constraint-b-include-direct-quotes-from-bill-jones-ensuring-to-rephrase-them-as-cooking-tips-or-wisdom/"><u>Constraint B: Include Direct Quotes From Bill Jones, Ensuring to Rephrase Them as Cooking Tips or Wisdom</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-intel-wireless-ac-7260-network-adapter-driver-now/"><u>Download the Latest Intel Wireless-AC ^7260 Network Adapter Driver Now!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-diagonal-line-skew/"><u>Eradicate Diagonal Line Skew</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-amds-new-zen-grower-architecture-achieves-an-unparalleled-density-of-8315-billion-transistors-per-die-marking-a-significant-28-improvement/"><u>How AMD's New Zen Grower Architecture Achieves an Unparalleled Density of 8.315 Billion Transistors per Die, Marking a Significant 28% Improvement</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-optimize-your-presence-on-spotify-ads/"><u>How to Optimize Your Presence on Spotify Ads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-beats-audio-driver-issue-in-windows-1187-solved/"><u>HP Beats Audio Driver Issue in Windows 11/8/7 [Solved]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-officejet-pro-8710-driver-installation-guide-and-download-for-pcs/"><u>HP Officejet Pro 8710 Driver Installation Guide and Download for PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revitalize-your-pc-learn-how-to-refresh-ati-radeon-drivers-on-a-windows-system/"><u>Revitalize Your PC: Learn How to Refresh ATI Radeon Drivers on a Windows System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simplify-your-pc-updates-seamless-driver-installation-with-windows-update/"><u>Simplify Your PC Updates: Seamless Driver Installation with Windows Update</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-how-to-install-nvme-drivers-on-your-windows-pc/"><u>Step-by-Step Guide: How to Install NVMe Drivers on Your Windows PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-zebra-zp450-printing-device-a-step-by-step-download-guide/"><u>Update Your Zebra ZP450 Printing Device: A Step-by-Step Download Guide</u></a></li>
 </ul></div>
 

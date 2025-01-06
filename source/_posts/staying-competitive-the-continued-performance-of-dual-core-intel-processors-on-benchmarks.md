@@ -1,7 +1,7 @@
 ---
 title: "Staying Competitive: The Continued Performance of Dual-Core Intel Processors on Benchmarks"
-date: 2024-08-23T13:42:34.521Z
-updated: 2024-08-24T13:42:34.521Z
+date: 2025-01-05T00:07:37.482Z
+updated: 2025-01-05T20:18:18.301Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  With all these technologies working in tandem, the overclocker achieved an idle frequency of 5.86 GHz. In stress testing, the maximum single-thread clock speed was 5.758 GHz, with a maximum multi-core frequency of 5.454 GHz operating at 95.2 degrees Celsius at a package power of 172.1 watts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,14 +45,11 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  SkatterBencher's 5.8 GHz and 6 GHz overclocks represent the highest on the new 9700X. Der8auer and Overclocking.com showcased their respective overclocks on the 9700X but could only eke out 5.4G Hz. The main difference was that both outlets did manual overclocks, whereas SkatterBencher used AMD's plethora of overclocking tools, enabling them to hit higher frequencies.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -57,8 +58,19 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2023s-top-free-premiere-pro-masterpieces-for-2024/"><u>[New] 2023'S Top Free Premiere Pro Masterpieces for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-techniques-for-extracting-and-storing-instagram-video-files-pcmac-systems/"><u>[New] 2024 Approved Techniques for Extracting and Storing Instagram Video Files (PC/Mac Systems)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ey-youtube-policies-every-channel-owner-must-understand-for-2024/"><u>[New] Key YouTube Policies Every Channel Owner Must Understand for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-gaming-rigs-top-three-sub-500-dollar-pc-setups-perfect-for-fortnite-battles-tested-by-toms-hardware/"><u>Affordable Gaming Rigs: Top Three Sub-500 Dollar PC Setups Perfect for Fortnite Battles - Tested by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-gadget-guides-by-toms-hardware-experts/"><u>Comprehensive Gadget Guides by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/from-subsonic-to-supersonic-the-surprising-speed-of-canned-gas-and-the-formation-of-shock-diamonds-observed-by-engineers/"><u>From Subsonic to Supersonic: The Surprising Speed of Canned Gas and the Formation of Shock Diamonds Observed by Engineers</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/navigating-tiktok-web-efficiently-as-a-mac-user-for-2024/"><u>Navigating TikTok Web Efficiently as a Mac User for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-xiaomi-redmi-12-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Xiaomi Redmi 12</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/supersonic-phenomenon-how-a-common-can-of-compressed-air-reaches-sonic-velocity/"><u>Supersonic Phenomenon: How a Common Can of Compressed Air Reaches Sonic Velocity</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-choosing-the-perfect-space-heater-techwise-insights/"><u>Ultimate Guide to Choosing the Perfect Space Heater - TechWise Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unexpected-hazards-in-computer-restoration-dealing-with-secret-weapons-and-rodents/"><u>Unexpected Hazards in Computer Restoration: Dealing with Secret Weapons & Rodents</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

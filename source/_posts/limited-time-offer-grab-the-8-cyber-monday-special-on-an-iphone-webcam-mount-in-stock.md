@@ -1,7 +1,7 @@
 ---
 title: "Limited Time Offer: Grab the $8 Cyber Monday Special on an iPhone Webcam Mount - In Stock!"
-date: 2024-12-22T20:14:43.971Z
-updated: 2024-12-27T18:55:02.460Z
+date: 2024-12-29T23:44:35.478Z
+updated: 2025-01-06T06:48:12.196Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ I've seen the likes of Belkin put out [quality iPhone mounts for this purpose](h
 All that's needed to make Continuity Camera happen is a Mac computer running MacOS Ventura, an iPhone running on iOS 16, and a mount to keep the handset afloat. That's where the Elephant Card comes in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,22 +81,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-symphony-of-screens-how-music-enhances-vimeo-content/"><u>[New] 2024 Approved Symphony of Screens How Music Enhances Vimeo Content</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-integrating-luts-into-film-colorwork/"><u>[Updated] In 2024, Integrating Luts Into Film Colorwork</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-prime-strategies-for-high-quality-youtube-mp3mpeg/"><u>2024 Approved Prime Strategies for High-Quality YouTube MP3/MPEG</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/advance-your-gaming-experience-by-upgrading-to-asus-nvidia-geforce-rtx-a5000-graphics-card/"><u>Advance Your Gaming Experience by Upgrading to ASUS NVIDIA GeForce RTX A5000 Graphics Card</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-your-geforce-experience-scanning-problem-in-win/"><u>Bypassing Your GeForce Experience Scanning Problem in Win</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-access-freshly-updated-wireless-adapter-drivers-ready-for-download/"><u>Easy Access: Freshly Updated Wireless Adapter Drivers Ready for Download!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-drivers-update-for-your-microsoft-sculpt-keyboard-step-by-step-guide/"><u>Effortless Drivers Update for Your Microsoft Sculpt Keyboard - Step by Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-toms-computer-essentials-the-ultimate-hardware-resource/"><u>Exploring Tom's Computer Essentials: The Ultimate Hardware Resource</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-logitech-unifying-recipier-driver-download-for-windows-machines/"><u>Free Logitech Unifying Recipier Driver Download for Windows Machines</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-best-performance-download-updated-drivers-for-your-nvidia-gtx-1650-super-on-windows-11/"><u>Get the Best Performance: Download Updated Drivers for Your NVIDIA GTX 1650 Super on Windows 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y200e-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y200e 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/how-to-transferring-youtube-shorts-from-pcandroid-or-ios/"><u>How-To Transferring YouTube Shorts From PC/Android or iOS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-through-the-latest-changes-in-logitech-extreme-3d-drivers/"><u>Navigating Through the Latest Changes in Logitech Extreme 3D Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/reviving-your-igfxem-module-a-comprehensive-guide-to-fixing-failures/"><u>Reviving Your Igfxem Module: A Comprehensive Guide to Fixing Failures</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/softening-playlist-sounds-on-pcmac-systems-for-2024/"><u>Softening Playlist Sounds on PC/Mac Systems for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/solving-scanner-issues-adjusting-images-without-access-to-brightnesscontrast-controls-insights-by-yl-software/"><u>Solving Scanner Issues: Adjusting Images Without Access to Brightness/Contrast Controls – Insights by YL Software</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-fixes-why-your-pc-doesnt-recognize-a-steam-controller-in-windows/"><u>Troubleshooting Fixes: Why Your PC Doesn't Recognize a Steam Controller in Windows</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-tips-for-perfect-iptv-stream-snapping/"><u>[Updated] In 2024, Tips for Perfect IPTV Stream Snapping</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transformative-tech-upgrading-phones-for-a-vr-experience/"><u>[Updated] Transformative Tech Upgrading Phones for a VR Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/12-common-windows-11-aesthetic-oddities/"><u>12 Common Windows 11 Aesthetic Oddities</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-key-iphone-photography-utilities-for-watermarking/"><u>2024 Approved Key iPhone Photography Utilities for Watermarking</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-its-potential-to-revolutionize-video-game-creation/"><u>AI and Its Potential to Revolutionize Video Game Creation</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/download-free-ultimate-windows-11-8-and-7-compatible-video-merge-application/"><u>Download Free Ultimate Windows 11, 8 & 7 Compatible Video Merge Application</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-enhanced-privacy-with-grapheneos-why-this-android-alternative-is-a-must-try/"><u>Explore Enhanced Privacy with GrapheneOS: Why This Android Alternative Is a Must-Try</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-mystery-why-is-sd-card-popularity-dwindling-despite-their-remarkable-features/"><u>Exploring the Mystery: Why Is SD Card Popularity Dwindling Despite Their Remarkable Features?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-oneplus-nord-n30-se-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your OnePlus Nord N30 SE</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/identifying-spam-threats-discovering-the-reasons-for-frequent-unsolicited-calls-to-you/"><u>Identifying Spam Threats: Discovering the Reasons for Frequent Unsolicited Calls to You</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/insider-techniques-master-code-tests-for-evaluating-secondhand-android-smartphones/"><u>Insider Techniques: Master Code Tests for Evaluating Secondhand Android Smartphones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-the-latest-upgrade-amazons-new-fire-hd-8-with-innovative-wireless-charge-feature/"><u>Introducing the Latest Upgrade: Amazon's New Fire HD 8 with Innovative Wireless Charge Feature</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-thinkbook-plus-5-the-ultimate-dual-os-convertible-laptop-experience/"><u>Lenovo ThinkBook Plus 5: The Ultimate Dual-OS Convertible Laptop Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lost-your-android-lock-code-a-guide-on-retrieve-and-secure-your-device-again/"><u>Lost Your Android Lock Code? A Guide on Retrieve and Secure Your Device Again</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-get-creative-with-these-top-rated-video-dubbing-apps-for-2024/"><u>New Get Creative with These Top-Rated Video Dubbing Apps for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-simplify-video-editing-on-mac-with-mkvtoolnix-for-2024/"><u>New Simplify Video Editing on Mac with MKVtoolnix for 2024</u></a></li>
 </ul></div>
 

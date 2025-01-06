@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Cyber Monday Tech Bargains: Find the Ultimate Laptop Offers of October 2024 | ZDNet"
-date: 2024-12-26T22:27:23.028Z
-updated: 2024-12-27T17:16:53.521Z
+date: 2024-12-31T12:29:49.905Z
+updated: 2025-01-05T19:06:45.006Z
 tags:
   - laptops
 categories:
@@ -77,7 +77,7 @@ Microsoft's 2024 Surface Laptop is a fast, lightweight laptop with a fantastic b
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXKQYNPD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8bcae6f1-74dc-4589-954a-2b5acd825983%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best laptops for students
@@ -98,6 +98,10 @@ Asus/ZDNET
 * [MSI Thin 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMSI-Thin-144Hz-Gaming-Laptop%2Fdp%2FB0BT3CD75G%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8bcae6f1-74dc-4589-954a-2b5acd825983%7Cdtp&dtb=1) (2023) for $920 ($79 off) - As its name implies, the Thin 15 is an ultraportable gaming machine with an Intel Core i7 processor and Nvidia RTX 4050 graphics card along with a 15.6-inch, 144Hz display. Last year's version is a solid gaming option under that $1,000 price point.
 * [Asus TUF Gaming A15 (2024)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-NVIDIA%C2%AE-GeForce-FA506NF-ES51%2Fdp%2FB0CRDF25TQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8bcae6f1-74dc-4589-954a-2b5acd825983%7Cdtp&dtb=1) for $599 ($100 off) - The TUF line of laptops features solid gaming hardware along with military-grade durability. The A15 is a solid gaming laptop that fits this description to a T, marked way down to a competitive price for 8GB of RAM, 512GB of storage, and an Nvidia GeForce RTX 2050 graphics card.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best laptops for photo editing
 
 * [Acer Chromebook Spin 714](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChromebook-CP714-1WN-53M9-i5-1235U-1920x1200-Keyboard%2Fdp%2FB0BJH9LGK8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8bcae6f1-74dc-4589-954a-2b5acd825983%7Cdtp&dtb=1) for $545 ($227 off): If you're looking for a good sale price on a convertible 2-in-1, Acer's Chromebook Spin 714 brings all the light efficiency of a Chromebook to a portable form factor. This is a great editing device if you often use Google Photos. Also, with a new purchase, you get Gemini Advanced, 2TB of cloud storage, and more free for three months.
@@ -105,7 +109,7 @@ Asus/ZDNET
 * [Microsoft Surface Laptop Snapdragon X Elite](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXL68236%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8bcae6f1-74dc-4589-954a-2b5acd825983%7Cdtp&dtb=1) for $1,560 ($139 off): The higher-end Copilot+ certified laptop with the 12-core Snapdragon X Elite chip and 1TB of storage is also still on sale following October Prime Day.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More October Prime Day 2024 laptop deals
@@ -117,10 +121,6 @@ Kyle Kucharski/ZDNET
 * [Acer Nitro 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHexa-Core-GeForce-Display-Backlit-AN16-41-R148%2Fdp%2FB0D3VJXSWK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8bcae6f1-74dc-4589-954a-2b5acd825983%7Cdtp&dtb=1) for $799 (save $200): This mid-range gaming laptop has a 16-inch display with a 165Hz refresh rate and is built with an Nvidia GeForce RTX 4050 graphics card.
 * [Acer Swift Go 14](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Facer-Display-Experiences-Processor-SFG14-72T-718K%2Fdp%2FB0CNDTGC77%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8bcae6f1-74dc-4589-954a-2b5acd825983%7Cdtp&dtb=1) for $699 (save $300): This lightweight laptop features an Intel Core Ultra 7 155H CPU, Intel Arc graphics, 16GB of RAM, and a 512GB SSD.
 * [HP 17-inch Touch Laptop](https://qvc.uikc.net/c/159047/565130/9368?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.qvc.com%2Fhp-17-touch-laptop-intel-n200-4gb-ram-128gb-ssd-w-hp-mouse-%2526-ms365.product.E324465.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for $479 (Save $80): For a large-screen laptop with touch capabilities, HP's 17-inch Touch comes in a variety of bold colorways, and is bundled with a mouse in this QVC deal. This is a solid choice for users who want a large screen to play media, but only need a basic hardware configuration.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Buy laptop deals
 
@@ -137,20 +137,20 @@ Kyle Kucharski/ZDNET
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Amazon's October Prime Day 2024?
 
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals before and after those days as well. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Are laptops really cheaper on Prime Day?
 
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
 
@@ -230,22 +230,24 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-adding-emojis-in-youtube-discussions/"><u>[Updated] In 2024, Adding Emojis in YouTube Discussions</u></a></li>
-<li><a href="https://facebook.techidaily.com/achieve-prestige-exclusive-badge-from-meta/"><u>Achieve Prestige: Exclusive Badge From Meta</u></a></li>
-<li><a href="https://win11.techidaily.com/autonomous-windows-update-an-offline-methodology/"><u>Autonomous Windows Update: An Offline Methodology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-googles-new-gemini-artificial-intelligence-rival-the-capabilities-of-chatgpt/"><u>Can Google's New Gemini Artificial Intelligence Rival the Capabilities of ChatGPT?</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/detailed-insights-into-youtubes-perfected-aspect-ratios-for-2024/"><u>Detailed Insights Into YouTube's Perfected Aspect Ratios for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-xiaomi-redmi-note-12-proplus-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Xiaomi Redmi Note 12 Pro+ 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-lava-agni-2-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Lava Agni 2 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-dell-xps-13-9345-analyzed-timeless-elegance-combines-with-next-gen-snapdragon-x-elite-technology/"><u>The Dell XPS 13 (9345) Analyzed: Timeless Elegance Combines with Next-Gen Snapdragon X Elite Technology</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-verdict-on-the-latest-microsoft-surface-pro-impressive-looks-overshadowed-by-lackluster-artificial-intelligence-features/"><u>The Verdict on the Latest Microsoft Surface Pro: Impressive Looks Overshadowed by Lackluster Artificial Intelligence Features</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-expert-reviews-and-comprehensive-guides/"><u>Tom's Tech Insights: Expert Reviews and Comprehensive Guides</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-computer-hardware-toms-expert-analysis/"><u>Ultimate Guide to Computer Hardware: Tom's Expert Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-new-possibebilities-with-the-innovative-acemagic-x1-two-display-device/"><u>Unleash New Possibebilities With the Innovative Acemagic X1 Two-Display Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-the-secrets-of-pcs-with-toms-system-advice/"><u>Unlock the Secrets of PCs with Tom's System Advice</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-tech-secrets-insights-from-toms-hardware-review/"><u>Unlocking Tech Secrets: Insights From Tom's Hardware Review</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unpacking-the-versatile-use-cases-for-chatgpt/"><u>Unpacking the Versatile Use Cases for ChatGPT</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unraveling-technology-secrets-with-expertise-from-toms-hardware/"><u>Unraveling Technology Secrets with Expertise From Tom’s Hardware</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-producers-playbook-strategies-to-win-over-youtube-viewers/"><u>[Updated] 2024 Approved The Producer's Playbook Strategies to Win Over YouTube Viewers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-monetizing-your-content-deciphering-the-minimum-views-needed-for-2024/"><u>[Updated] Monetizing Your Content Deciphering the Minimum Views Needed for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1-top-3-methods-for-capturing-antenna-television-programming/"><u>1. Top 3 Methods for Capturing Antenna Television Programming</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1-understanding-white-balance-a-comprehensive-guide-for-photographers/"><u>1. Understanding White Balance: A Comprehensive Guide for Photographers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-vuebell-video-doorbell-top-budget-friendly-home-security-reviews/"><u>Affordable VueBell Video Doorbell - Top Budget-Friendly Home Security Reviews</u></a></li>
+<li><a href="https://solve-help.techidaily.com/enhance-your-online-presence-with-manycam-cutting-edge-live-video-solutions-and-fake-webcams/"><u>Enhance Your Online Presence with ManyCam: Cutting-Edge Live Video Solutions & Fake Webcams</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-smooth-setup-seamless-screenshots-on-dell-devices/"><u>In 2024, Smooth Setup Seamless Screenshots on Dell Devices</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-vlc-player-insider-top-10-underrated-functions/"><u>In 2024, VLC Player Insider Top 10 Underrated Functions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphoneipad-update-issues-find-easy-fixes-with-these-9-methods/"><u>IPhone/iPad Update Issues: Find Easy Fixes with These 9 Methods</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/review-of-govee-rgbif-floormodifier-luminary-elevate-your-space-with-vibrant-colors-and-relaxing-tunes/"><u>Review of Govee RGBiF Floormodifier Luminary: Elevate Your Space with Vibrant Colors & Relaxing Tunes!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/selecting-the-best-all-in-one-aio-liquid-cpu-cooler-tips-and-tricks/"><u>Selecting the Best All-in-One (AIO) Liquid CPU Cooler: Tips and Tricks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/stop-youtube-taking-over-as-your-apple-tvandroid-tv-desktop-background-easy-fix-guide/"><u>Stop YouTube Taking Over as Your Apple TV/Android TV Desktop Background - Easy Fix Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-fascinating-history-of-how-bluetooth-got-its-name/"><u>The Fascinating History of How Bluetooth Got Its Name</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-5-indispensable-features-for-an-efficient-and-safe-power-generation-facility/"><u>Top 5 Indispensable Features for an Efficient and Safe Power Generation Facility.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-picks-for-portable-laptop-screens-your-ultimate-shopping-list/"><u>Top Picks for Portable Laptop Screens - Your Ultimate Shopping List!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-sleep-monitoring-devices-find-your-perfect-match/"><u>Top Rated Sleep Monitoring Devices - Find Your Perfect Match</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-reasons-not-to-invest-in-pokemon-series-microsd-memory-cards/"><u>Top Reasons Not to Invest in Pokémon Series MicroSD Memory Cards</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-persistent-farting-sounds-from-alexa-device-a-comprehensive-guide/"><u>Troubleshooting Persistent 'Farting' Sounds From Alexa Device - A Comprehensive Guide</u></a></li>
 </ul></div>
 

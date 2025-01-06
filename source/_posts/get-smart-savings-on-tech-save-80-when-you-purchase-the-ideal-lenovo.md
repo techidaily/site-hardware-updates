@@ -1,7 +1,7 @@
 ---
 title: "Get Smart Savings on Tech: Save $80 When You Purchase the Ideal Lenovo"
-date: 2024-12-23T16:50:18.821Z
-updated: 2024-12-27T16:41:36.263Z
+date: 2025-01-05T08:46:05.391Z
+updated: 2025-01-05T17:37:29.951Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ One tool I've found to be quite effective is the [StarTech.com Universal Laptop 
 [ZDNET RECOMMENDS StarTech.com Universal Laptop Lock This anti-theft laptop locking system features a push-to-lock system that allows for quick-lock without a key. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fexec%2Fobidos%2FASIN%2FB0CG9WXC8P%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1543b5d4-da8c-4f2b-8aec-3447eb62e023%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The specs
@@ -97,7 +97,7 @@ Adrian Kingsley-Hughes/ZDNET
 All in all, this is a tough lock that's well-designed to keep your stuff secured. The only real downside: a steel cable weighing some 5.2 oz (147 g) is a fair weight to lug around with you if you plan on using this when out and about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,19 +134,20 @@ While a determined or skilled attacker could potentially overcome this lock, suc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-rogelikes-past-present-and-emerging-futures/"><u>[New] 2024 Approved Rogelikes Past, Present, & Emerging Futures</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/rand-yourself-differently-strategies-for-finding-uncommon-names/"><u>[New] Brand Yourself Differently Strategies for Finding Uncommon Names</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-unlock-the-potential-of-your-youtube-videos-in-movie-maker/"><u>[New] In 2024, Unlock the Potential of Your YouTube Videos in Movie Maker</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-spotlight-strategies-brightening-your-visual-narrative/"><u>[New] Spotlight Strategies Brightening Your Visual Narrative</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-share-live-feeds-skip-the-retweet-tactics-for-2024/"><u>[Updated] Share Live Feeds Skip the Retweet Tactics for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-guide-downloading-and-setting-up-the-linksys-wusb6300-network-drivers-easy-tutorial/"><u>Complete Guide: Downloading and Setting Up the Linksys WUSB6300 Network Drivers | Easy Tutorial</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-intel-nvme-driver-downloads-get-your-system-up-to-speed/"><u>Effortless Intel NVMe Driver Downloads - Get Your System Up to Speed!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/examining-the-crackdown-on-intels-processor-woes-a-deep-dive-into-the-new-class-action-litigation/"><u>Examining the Crackdown on Intel's Processor Woes: A Deep Dive Into the New Class-Action Litigation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975925276-find-and-update-canon-mp250-printer-drivers-easy-download-options-here/"><u>Find & Update Canon MP250 Printer Drivers - Easy Download Options Here</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-solutions-how-to-get-your-steelseries-gg-engine-up-and-running-again-on-windows/"><u>Fixes & Solutions: How to Get Your SteelSeries GG Engine Up and Running Again on Windows</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/how-to-share-a-tiktok-video-on-twitter-for-2024/"><u>How to Share A Tiktok Video on Twitter for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-or-download-the-newest-intel-uhd-graphics-drivers-on-your-windows-11-pc-a-step-by-step-guide/"><u>How to Update or Download the Newest Intel UHD Graphics Drivers on Your Windows 11 PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-online-video-flipper-top-tools-for-the-job/"><u>New In 2024, Online Video Flipper Top Tools for the Job</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-honor-x50-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Honor X50 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-which-live-stream-software-wins-exploring-obs-vs-streamlabs-for-2024/"><u>[New] Which Live Stream Software Wins? Exploring OBS Vs. Streamlabs for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-ultimate-microphone-recordings-list-9-reviews-of-choice/"><u>[Updated] 2024 Approved The Ultimate Microphone Recordings List 9 Reviews of Choice</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-hits-and-tags-mastering-the-language-of-virality-in-youtube-shorts/"><u>[Updated] In 2024, Hits & Tags Mastering the Language of Virality in YouTube Shorts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-lecture-audio-recording-techniques-for-mac-users/"><u>[Updated] Lecture Audio Recording Techniques for Mac Users</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-streamlining-youtube-videos-adding-subtitles-and-cc-proficiently/"><u>[Updated] Streamlining YouTube Videos Adding Subtitles & CC Proficiently</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-flexibility-why-foldable-smartphones-are-worth-the-cost/"><u>Affordable Flexibility: Why Foldable Smartphones Are Worth the Cost</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/android-phone-performance-boosted-by-usb-c-upgrade-understanding-the-difference-between-usb-c-31-and-20-speeds/"><u>Android Phone Performance Boosted by USB-C Upgrade: Understanding the Difference Between USB-C 3.1 and 2.0 Speeds</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-why-your-google-pixel-7-pro-needs-a-sturdy-screen-shield/"><u>Comprehensive Guide: Why Your Google Pixel 7 Pro Needs a Sturdy Screen Shield</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-benefits-of-using-mozilla-firefox-on-your-android-device/"><u>Discover the Benefits of Using Mozilla Firefox on Your Android Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-key-drawbacks-of-usb-c-technology-a-must-read-list/"><u>Discover the Key Drawbacks of USB-C Technology – A Must-Read List</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ditch-the-bulky-wallet-my-magnetic-phone-case-revolution/"><u>Ditch the Bulky Wallet: My Magnetic Phone Case Revolution!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/techniques-to-restructure-your-youtube-sequence/"><u>Fast Techniques to Restructure Your YouTube Sequence</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-13-pro-max-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 13 Pro Max With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tech-showdown-how-dysons-innovative-ontrac-eardrops-aim-to-outdo-the-iconic-apple-airpods-max/"><u>Tech Showdown: How Dyson's Innovative 'OnTrac' Eardrops Aim to Outdo the Iconic Apple AirPods Max</u></a></li>
 </ul></div>
 

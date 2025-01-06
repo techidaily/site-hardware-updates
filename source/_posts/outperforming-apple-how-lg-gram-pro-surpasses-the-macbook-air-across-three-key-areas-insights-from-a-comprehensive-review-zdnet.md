@@ -1,7 +1,7 @@
 ---
 title: "Outperforming Apple: How LG Gram Pro Surpasses the MacBook Air Across Three Key Areas - Insights From a Comprehensive Review | ZDNet"
-date: 2024-12-26T19:50:43.166Z
-updated: 2024-12-27T16:01:56.959Z
+date: 2025-01-03T12:28:41.744Z
+updated: 2025-01-06T13:42:41.909Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -49,7 +49,7 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 How did this happen? Let's dive in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The experience is familiar
@@ -63,6 +63,10 @@ And as for the software, well … It's Windows 11, which looks and acts the same
 The big difference is that this next-gen device is extremely cool and quiet. After a three-hour Zoom call the other day, the chassis was barely warm; on an Intel-based machine, it would have been uncomfortably hot. There's a fan inside the Surface Pro 11, but I have yet to hear it run, even under the most demanding conditions. It's also extremely responsive, with none of the hesitation I occasionally noticed on the Surface Pro X. If you've used an M2-equipped MacBook Air, the feeling will be familiar.
 
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Battery life is a huge win
 
@@ -79,10 +83,6 @@ In real-world usage, the Surface Pro 11 battery lasts twice as long as an equiva
 Screenshot by Ed Bott/ZDNET
 
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
 
@@ -121,7 +121,7 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The AI story is incomplete
@@ -145,7 +145,7 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -192,18 +192,16 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-the-ultimate-strategy-for-role-assignment-on-discord/"><u>[New] 2024 Approved The Ultimate Strategy for Role Assignment on Discord</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-protect-photos-our-picks-for-superior-watermarkers/"><u>[New] Protect Photos - Our Picks for Superior Watermarkers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-youtube-seo-guide-how-to-improve-youtube-videos-rankings/"><u>2024 Approved YouTube SEO Guide How to Improve YouTube Videos Rankings</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-prism-of-design-from-theory-to-practice-for-2024/"><u>A Prism of Design From Theory to Practice for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/comparing-video-tools-bandicam-and-camtasia-explored/"><u>Comparing Video Tools Bandicam & Camtasia Explored</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-motorola-edge-40-neo-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Motorola Edge 40 Neo</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-of-latest-hardware-by-toms-tech-experts/"><u>In-Depth Analysis of Latest Hardware by Tom's Tech Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-the-gadgets-tips-and-reviews-from-toms-equipment-digest/"><u>Inside the Gadgets: Tips & Reviews From Tom’s Equipment Digest</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/master-the-art-of-linux-gameplay-on-the-all-amd-tuxedo-sirius-gen2-stunning-visuals-and-lightning-fast-response-time-with-an-incredible-165hz-display-from-j2/"><u>Master the Art of Linux Gameplay on the All-AMD Tuxedo Sirius Gen2 - Stunning Visuals & Lightning Fast Response Time with an Incredible 165Hz Display From Just 1,699€</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-pc-gear-selection-through-toms-hardware-guidance/"><u>Mastering PC Gear Selection Through Tom's Hardware Guidance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-your-digital-world-with-toms-hardware-experts/"><u>Mastering Your Digital World with Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-high-performance-pc-builds-the-toms-hardware-perspective/"><u>Navigating High-Performance PC Builds - The Tom's Hardware Perspective</u></a></li>
-<li><a href="https://program-issues.techidaily.com/say-goodbye-to-crashes-in-diablo-ii-resurrected-solutions-revealed/"><u>Say Goodbye to Crashes in Diablo II: Resurrected - Solutions Revealed!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-media-mosaic-maker/"><u>[Updated] 2024 Approved Media Mosaic Maker</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-battery-life-to-final-cut-a-drone-editors-journey/"><u>[Updated] From Battery Life to Final Cut A Drone Editor's Journey</u></a></li>
+<li><a href="https://win-great.techidaily.com/3-methodes-pratiques-pour-proteger-votre-systeme-dexploitation-windows-7-ou-8-sur-un-ordinateur-portable-hp/"><u>3 Méthodes Pratiques Pour Protéger Votre Système D'Exploitation Windows 7 Ou 8 Sur Un Ordinateur Portable HP</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortless-conversion-from-iso-to-mp3-the-ultimate-guide-to-seamless-audio-format-transformation/"><u>Effortless Conversion From ISO to MP3: The Ultimate Guide to Seamless Audio Format Transformation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-logitech-g733-microphone-working-again-step-by-step-fixes/"><u>How To Get Your Logitech G733 Microphone Working Again: Step By Step Fixes</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-vivo-v30-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Vivo V30 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-picks-from-the-ultimate-guide-to-computex-2024-how-to-geek-awards/"><u>Top Picks From the Ultimate Guide to Computex 2024 - How-To Geek Awards</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-2024-pet-gadgets-on-amazon-ultimate-savings-alert/"><u>Top-Rated 2024 Pet Gadgets on Amazon: Ultimate Savings Alert!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transform-your-house-into-a-smarter-space-8-hassle-free-home-assistant-tricks/"><u>Transform Your House Into a Smarter Space: 8 Hassle-Free Home Assistant Tricks!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transforming-your-vehicle-into-a-portable-workspace-mastering-remote-work-on-seaside-adventures/"><u>Transforming Your Vehicle Into a Portable Workspace: Mastering Remote Work on Seaside Adventures</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-electronics-offers-grab-the-jbl-bar-groop-700-fire-hd-max-tablet-from-amazon-and-smart-video-doorbells-at-unmatched-prices/"><u>Unbeatable Electronics Offers: Grab the JBL Bar Groop 700, Fire HD Max Tablet From Amazon, and Smart Video Doorbells at Unmatched Prices!</u></a></li>
 </ul></div>
 

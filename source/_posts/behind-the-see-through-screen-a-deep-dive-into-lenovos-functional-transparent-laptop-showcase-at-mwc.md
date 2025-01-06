@@ -1,7 +1,7 @@
 ---
 title: "Behind the See-Through Screen: A Deep Dive Into Lenovo's Functional Transparent Laptop Showcase at MWC"
-date: 2024-12-17T05:02:07.359Z
-updated: 2024-12-22T11:42:45.477Z
+date: 2025-01-01T05:37:55.943Z
+updated: 2025-01-05T21:03:20.824Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -67,7 +67,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -106,22 +106,22 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-drone-tech-the-best-for-your-constant-presence/"><u>[Updated] In 2024, Drone Tech The Best for Your Constant Presence</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-on-camera-charisma-a-guide-to-personal-video-content/"><u>[Updated] On-Camera Charisma A Guide to Personal Video Content</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-hp-laserjet-1018-printer-software-and-drivers/"><u>Download the HP LaserJet 1018 Printer Software and Drivers</u></a></li>
-<li><a href="https://win-dash.techidaily.com/effortless-update-of-common-sataahci-controller-drivers/"><u>Effortless Update of Common SATA/AHCI Controller Drivers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-sonys-psvr-2-revolution-insights-on-pricing-strategies-launch-timelines-and-comprehensive-system-specifications/"><u>Explore Sony’s PSVR 2 Revolution: Insights on Pricing Strategies, Launch Timelines, and Comprehensive System Specifications</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-installing-the-hp-deskjet-2755e-printer-software-on-windows-systems/"><u>Free Download: Installing the HP Deskjet 2755E Printer Software on Windows Systems</u></a></li>
-<li><a href="https://discover-data.techidaily.com/guide-convert-and-save-buzzfeed-videos-as-mp4wmvmovflvavi-for-mac-or-pc-users/"><u>Guide: Convert & Save BuzzFeed Videos as MP4/WMV/MOV/FLV/AVI for Mac or PC Users</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-t2-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Vivo T2 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-oculus-headset-drivers-on-pcs-running-windows-11-10-8-or-7/"><u>Installing Oculus Headset Drivers on PCs Running Windows 11, 10, 8 or #7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-version-of-epson-ds-530-driver-downloads-for-windows-11-64-bit-systems-secure-your-print-jobs/"><u>Latest Version of Epson DS-530 Driver Downloads for Windows 11 64-Bit Systems - Secure Your Print Jobs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-whatsapp-and-instagram-messaging-without-a-facebook-login-strategies-inside/"><u>Navigating WhatsApp and Instagram Messaging without a Facebook Login – Strategies Inside</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/optimize-your-computers-input-device-compatibility-with-the-latest-hid-driver-update/"><u>Optimize Your Computer's Input Device Compatibility with the Latest HID Driver Update</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722961018542-regular-maintenance-testing-and-drills-are-essential-to-maintain-the-functionality-and-effectiveness-of-fire-suppression-systems-over-time/"><u>Regular Maintenance, Testing, and Drills Are Essential to Maintain the Functionality and Effectiveness of Fire Suppression Systems over Time.</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellars-best-practices-in-data-sanitization-a-compilation-of-insights-and-methods/"><u>Stellar's Best Practices in Data Sanitization: A Compilation of Insights & Methods</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/transform-your-bedtime-routine-with-top-tier-sleep-technology-for-ultimate-relaxation/"><u>Transform Your Bedtime Routine with Top-Tier Sleep Technology for Ultimate Relaxation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-canon-mg3000-step-by-step-guide-to-downloading-drivers/"><u>Update Your Canon MG3000: Step-by-Step Guide to Downloading Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updated-scan-driver-software-for-your-epson-perfection-v39-compatible-with-windows-os-78-and-windows-10/"><u>Updated Scan Driver Software for Your Epson Perfection V39: Compatible with Windows OS 7/8 and Windows 10</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-first-rate-6-software-for-visual-text-conversion-for-2024/"><u>[New] First-Rate 6 Software for Visual Text Conversion for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-crafting-visually-striking-fb-ad-videos-for-2024/"><u>[Updated] Crafting Visually Striking FB Ad Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-mp4-software-elevate-your-mac-productions-for-2024/"><u>[Updated] Essential MP4 Software Elevate Your Mac Productions for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-unveils-exciting-software-updates-and-innovations-at-worldwide-developers-conference-get-the-full-lowdown/"><u>Apple Unveils Exciting Software Updates and Innovations at Worldwide Developers Conference - Get the Full Lowdown!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-intel-irisplus-gpu-driver-version-for-your-windows-growers-guide-understanding-and-applying-soil-amendments-for-improved-plant-health/"><u>Compatible Intel® Iris+ GPU Driver Version for Your Windows Grower's Guide: Understanding and Applying Soil Amendments for Improved Plant Health</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-latest-hp-laptop-driver-updates-for-windows-operating-systems/"><u>Download and Install Latest HP Laptop Driver Updates for Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722961097524-download-corsair-keyboard-software-for-windows-free-and-secure/"><u>Download CORSAIR Keyboard Software for Windows: Free and Secure</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-dell-display-driver-installation-guide/"><u>Effortless Dell Display Driver Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-g35-onboarded-on-windows-systems-windows-7810/"><u>Get Your Logitech G35 Onboarded on Windows Systems (Windows 7/8/10)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-and-update-for-optimal-performance-steelseries-arctis-5-headset-drivers/"><u>How to Install and Update for Optimal Performance: SteelSeries Arctis 5 Headset Drivers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-popsocket-mounts-for-optimal-video-shooting/"><u>In 2024, PopSocket Mounts for Optimal Video Shooting</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keeping-your-lenovo-thinkpad-in-top-shape-secure-and-up-to-date-drivers-downloaded/"><u>Keeping Your Lenovo ThinkPad in Top Shape: Secure & Up-to-Date Drivers Downloaded</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/lg-tech-assist-how-to-enjoy-espnplus-channels-via-your-smart-tv/"><u>LG Tech Assist: How to Enjoy ESPN+ Channels via Your Smart TV</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-startech-driver-conflicts-on-windows-10-8-and-7-solutions-exposed/"><u>Resolving StarTech Driver Conflicts on Windows 10, 8 & 7 - Solutions Exposed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-update-error-code-0xc1900208-step-by-step-solutions/"><u>Resolving Windows 11 Update Error Code 0xC1900208: Step-by-Step Solutions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/secrets-of-the-pocket-acquiring-no-pay-images-for-2024/"><u>Secrets of the Pocket Acquiring No-Pay Images for 2024</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/startmenu-components-on-your-pc/"><u>Startmenu Components on Your PC</u></a></li>
 </ul></div>
 

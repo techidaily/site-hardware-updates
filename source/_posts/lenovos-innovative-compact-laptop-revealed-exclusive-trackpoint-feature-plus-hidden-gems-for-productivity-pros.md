@@ -1,7 +1,7 @@
 ---
 title: "Lenovo’s Innovative Compact Laptop Revealed: Exclusive TrackPoint Feature + Hidden Gems for Productivity Pros!"
-date: 2024-12-23T00:37:37.492Z
-updated: 2024-12-27T16:03:47.598Z
+date: 2025-01-04T03:58:23.844Z
+updated: 2025-01-06T11:12:36.222Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,18 +134,24 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-revenue-breakdown-a-deep-dive-into-podcast-finances/"><u>[Updated] In 2024, Revenue Breakdown A Deep Dive Into Podcast Finances</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-upload-and-share-your-visual-content-on-youtube/"><u>[Updated] In 2024, Upload & Share Your Visual Content on YouTube</u></a></li>
-<li><a href="https://program-issues.techidaily.com/after-effects-stability-issues-on-windows-11-and-10-solutions-unveiled/"><u>After Effects Stability Issues on Windows 11 & 10: Solutions Unveiled</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-pro-100-driver-download-and-installation-for-windows-users-hassle-free-setup/"><u>Canon PRO 100 Driver Download & Installation for Windows Users - Hassle-Free Setup</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatible-and-updated-driver-for-dell-v305-aio-on-windows-7-how-to-get-it/"><u>Compatible and Updated Driver for Dell V305 AIO on Windows 7 - How to Get It?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/dynamic-background-adaptation-in-microsoft-teams-beforeafter-calls/"><u>Dynamic Background Adaptation in Microsoft Teams Before/After Calls</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/efficiently-upgrade-sata-drivers-on-windows-the-ultimate-how-to-guide/"><u>Efficiently Upgrade SATA Drivers on Windows: The Ultimate How-To Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-set-up-corsair-k70-mouse-software-and-driver-download/"><u>Effortless Set-Up: Corsair K70 Mouse Software & Driver Download</u></a></li>
-<li><a href="https://program-issues.techidaily.com/hoi4-crashes-no-more-expert-strategies-to-ensure-uninterrupted-gameplay/"><u>HoI4 Crashes No More! Expert Strategies to Ensure Uninterrupted Gameplay</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-cmusbdacsys-causes-bsod-on-windows-systems/"><u>Resolved: Fixing 'CMUSBDAC.sys' Causes BSoD on Windows Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/solutions-to-stop-fallout-3-game-crashes-on-windows-11-computers/"><u>Solutions to Stop Fallout 3 Game Crashes on Windows 11 Computers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-updating-to-the-newest-sound-blaster-z-driver-on-windows-11/"><u>Step-by-Step Guide to Updating to the Newest Sound Blaster Z Driver on Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-infinix-hot-30-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Infinix Hot 30 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cultivating-a-brand-identity-youtube-visibility-without-spending/"><u>[Updated] In 2024, Cultivating a Brand Identity YouTube Visibility without Spending</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-essential-software-packages-and-drivers-for-hp-elitebook-x360-1030-g2/"><u>Download the Essential Software Packages & Drivers for HP EliteBook X360 1030 G2</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-downloader-tool-install-epson-printer-drivers-on-windows/"><u>Free Downloader Tool - Install Epson Printer Drivers on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-intel-rapid-storage-technology-driver-downloads-and-updates-for-windows-111087/"><u>Free Intel Rapid Storage Technology Driver Downloads & Updates for Windows 11/10/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-refresh-cpu-drivers-for-better-performance-on-windows-computers/"><u>How to Easily Refresh CPU Drivers for Better Performance on Windows Computers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-motorola-moto-g73-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Motorola Moto G73 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-discover-the-best-top-rated-video-animation-apps-for-android-iphone-and-ipad/"><u>In 2024, Discover the Best Top-Rated Video Animation Apps for Android, iPhone, and iPad</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-exploring-metaverse-ranking-best-8-vr-headsets/"><u>In 2024, Exploring Metaverse Ranking Best 8 VR Headsets</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfecting-onestream-broadcasts-essential-strategies-explored/"><u>In 2024, Perfecting OneStream Broadcasts Essential Strategies Explored</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-the-stars-of-literature-with-barnes-and-noble-nook-glowlight-3-an-insightful-review/"><u>Navigating the Stars of Literature with Barnes & Noble Nook GlowLight 3 – An Insightful Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/optimized-hearing-latest-nahimic-audio-drivers-deliver-superior-sound-clarity/"><u>Optimized Hearing: Latest Nahimic Audio Drivers Deliver Superior Sound Clarity</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reveal-invisible-hdd-solving-windows-11-problem/"><u>Reveal Invisible HDD: Solving Windows 11 Problem</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722966480690-successfully-overcoming-asus-pce-ac56-driver-woes-across-windows-10-8-and-7/"><u>Successfully Overcoming ASUS PCE-AC56 Driver Woes Across Windows 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-35-unbeatable-cyber-monday-offers-find-the-best-bargains-on-dell-products-at-retail-giants-like-best-buy-and-amazon/"><u>Top 35 Unbeatable Cyber Monday Offers: Find the Best Bargains on Dell Products at Retail Giants Like Best Buy & Amazon</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-verizon-phone-upgrades-offered-this-month/"><u>Top Verizon Phone Upgrades Offered This Month</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/ultimate-guide-to-2023s-top-value-zero-cost-live-broadcasting-tools-for-2024/"><u>Ultimate Guide to 2023'S Top Value, Zero-Cost Live Broadcasting Tools for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-special-deals-on-the-latest-amd-gaming-bundle-ryzen-7000-cpus-plus-radeon-rx-7000-gpus-plus-bonus-games-excludes-coming-soon-ryzen-9000/"><u>Unlock Special Deals on the Latest AMD Gaming Bundle: Ryzen 7000 CPUs + Radeon RX 7000 GPUs - Plus Bonus Games! Excludes Coming Soon Ryzen 9000</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-the-current-hp-laserjet-pro-m404n-drivers-direct-download-links-available/"><u>Update to the Current HP LaserJet Pro M404N Drivers – Direct Download Links Available!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-brother-printer-driver-on-windows-a-comprehensive-guide/"><u>Update Your Brother Printer Driver on Windows: A Comprehensive Guide</u></a></li>
 </ul></div>
 

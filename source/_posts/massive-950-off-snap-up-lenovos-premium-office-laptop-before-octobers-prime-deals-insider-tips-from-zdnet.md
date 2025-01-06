@@ -1,7 +1,7 @@
 ---
 title: "Massive $950 Off: Snap Up Lenovo's Premium Office Laptop Before October's Prime Deals - Insider Tips From ZDNet"
-date: 2024-12-26T00:21:38.848Z
-updated: 2024-12-27T22:35:44.369Z
+date: 2025-01-01T13:46:35.967Z
+updated: 2025-01-05T16:57:19.301Z
 tags:
   - laptops
 categories:
@@ -38,7 +38,7 @@ This laptop isn't solely for business professionals. Everybody can enjoy the dev
 Right now is the best time to buy this device. The [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cddc033e3-08fa-42b2-b4fe-eb896d4675a3%7Cdtp&dtb=1) is currently on sale at Amazon for $1,500\. That is almost $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cddc033e3-08fa-42b2-b4fe-eb896d4675a3%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -75,20 +75,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-10-iphone-camera-features-you-should-know-in-ios-11/"><u>[Updated] 10 iPhone Camera Features You Should Know in iOS 11</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-steady-and-true-keeping-it-all-together-in-your-youtube-shoots/"><u>[Updated] Steady and True Keeping It All Together in Your YouTube Shoots</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-frame-your-vision-leading-lines-for-dynamic-iphone-photos/"><u>2024 Approved Frame Your Vision Leading Lines for Dynamic iPhone Photos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-geforce-gtx-460-drivers-on-windows-step-by-step-guide/"><u>Download GeForce GTX 460 Drivers on Windows: Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-update-process-for-targus-displaylink-drivers-on-windows-os-versions/"><u>Easy Update Process for Targus DisplayLink Drivers on Windows OS Versions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-latest-driver-software-for-razer-blackwidow-gaming-peripherals/"><u>How to Install the Latest Driver Software for Razer BlackWidow Gaming Peripherals</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-lava-yuva-3-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Lava Yuva 3 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-free-online-video-editors-like-imovie-top-picks/"><u>New 2024 Approved Free Online Video Editors Like iMovie Top Picks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/optimize-gaming-performance-on-win-111087-with-amd-rx-6900-xt-latest-graphics-card-drivers-download/"><u>Optimize Gaming Performance on Win 11/10/8/7 with AMD RX 6900 XT Latest Graphics Card Drivers Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-evga-drivers-on-windows-devices/"><u>Step-by-Step Guide: Updating EVGA Drivers on Windows Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-logitech-brio-camera-driver-installation-for-windows-operating-systems/"><u>Step-by-Step Logitech BRIO Camera Driver Installation for Windows Operating Systems</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/reators-guide-to-the-top-9-affordable-video-editing-apps/"><u>The Creator's Guide to the Top 9 Affordable Video Editing Apps</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/standing-youtubes-ad-free-experience-with-a-plan-for-2024/"><u>Understanding YouTube's Ad-Free Experience with a Plan for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-amd-vega-gpu-drivers-with-ease-for-an-ultimate-gaming-performance/"><u>Update Your AMD Vega GPU Drivers with Ease for an Ultimate Gaming Performance</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-complete-insight-into-the-wave-editor-vital-elements-expert-opinions-and-instructional-videos/"><u>Updated Complete Insight Into the Wave Editor Vital Elements, Expert Opinions, and Instructional Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-discover-the-most-popular-screen-recorders-free-version/"><u>[New] Discover the Most Popular Screen Recorders - Free Version</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-virtual-exploration-a-tactical-approach/"><u>[Updated] The Art of Virtual Exploration A Tactical Approach</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-blueear-wireless-earmuff-headband-assessment-stylish-and-functional-audio-with-solid-performance/"><u>Comprehensive BlueEar Wireless Earmuff Headband Assessment: Stylish and Functional Audio with Solid Performance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-on-understanding-lg-distribution-networks/"><u>Comprehensive Guide on Understanding LG Distribution Networks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-tp-link-ub400-wireless-usb-adapter-drivers/"><u>Download and Update TP-Link UB400 Wireless USB Adapter Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fresh-lenovo-thinkpad-t430-drivers-for-your-windows-system-windows-11-n-8-and-7-a-user-friendly-download-guide/"><u>Fresh Lenovo ThinkPad T430 Drivers for Your Windows System [Windows 11, N 8 & 7]: A User-Friendly Download Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-epson-gt-s50-drivers-for-your-windows-pc-windows-7-8-10-supported/"><u>Get the Latest Epson GT-S50 Drivers for Your Windows PC (Windows 7, 8, 10 Supported)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-vivo-x100-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Vivo X100 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-drivers-for-your-canon-mg3000/"><u>How to Get the Newest Drivers for Your Canon MG3000</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-perfecting-your-videos-the-power-of-proper-thumbnails/"><u>In 2024, Perfecting Your Videos The Power of Proper Thumbnails</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-asus-bt500-bluetooth-adapter-software-compatible-with-windows-11108-get-here/"><u>Latest Asus BT500 Bluetooth Adapter Software Compatible with Windows 11/10/8 - Get Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-intel-irisplus-graphics-amics-655-windows-drivers-for-10-and-11-operating-systems/"><u>Latest Intel Iris+ Graphics Amics 655 Windows Drivers for 10 & 11 Operating Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-efficiency-on-macos-using-craft-a-comprehensive-guide-to-mastering-this-powerful-document-platform-tech-insights/"><u>Maximize Efficiency on macOS Using Craft: A Comprehensive Guide to Mastering This Powerful Document Platform | Tech Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/metamorphic-rocks-help-geologists-understand-past-plate-movements-and-reconstruct-paleogeography/"><u>Metamorphic Rocks Help Geologists Understand Past Plate Movements and Reconstruct Paleogeography.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-quadro-drivers-for-w10-secure-and-authentic-downloads-directly-from-nvidia/"><u>NVIDIA Quadro Drivers for W10: Secure & Authentic Downloads Directly From Nvidia</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simplified-instructions-for-integrating-the-keyspan-usa-19hs-keyboard-with-a-windows-system/"><u>Simplified Instructions for Integrating the Keyspan USA-19HS Keyboard With a Windows System</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-nubia-red-magic-8s-pro-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Nubia Red Magic 8S Pro Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-capabilities-a-detailed-look-at-the-netgear-nighthawk-x4-wireless-mesh-extender-functionality-and-efficiency/"><u>Unpacking the Capabilities: A Detailed Look at the Netgear Nighthawk X4 Wireless Mesh Extender Functionality and Efficiency</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/video-dxgkrnl-fatal-error-blue-screen-on-windows-11-fixed/"><u>Video Dxgkrnl Fatal Error Blue Screen on Windows 11 [Fixed]</u></a></li>
 </ul></div>
 

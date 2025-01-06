@@ -1,7 +1,7 @@
 ---
 title: "Apple's Upcoming October Unveiling: Anticipating the M4 Mac Mini, Latest iPad Models & Advancements in AI"
-date: 2024-12-27T00:46:30.062Z
-updated: 2024-12-27T18:39:01.729Z
+date: 2024-12-30T21:01:18.261Z
+updated: 2025-01-06T01:11:31.589Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,18 +118,19 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-immerse-yourself-in-a-shared-tiktok-journey/"><u>[New] In 2024, Immerse Yourself in a Shared TikTok Journey</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-insiders-selection-premium-webinar-tools-for-2024/"><u>[New] Insider's Selection Premium Webinar Tools for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-clips-to-classrooms-harnessing-youtubes-potential-for-teaching-for-2024/"><u>[Updated] From Clips to Classrooms Harnessing YouTube's Potential for Teaching for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-premium-10-audio-enhancers-for-multiple-systems-for-2024/"><u>[Updated] Premium 10 Audio Enhancers for Multiple Systems for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-unleashing-potential-current-vr-innovations/"><u>2024 Approved Unleashing Potential Current VR Innovations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/affordable-thor-vs-darth-vader-desktop-screen-by-china-dazzling-deal-at-just-139/"><u>Affordable 'Thor vs Darth Vader' Desktop Screen by China - Dazzling Deal at Just $139!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/expert-insights-on-movavis-flashback-express-an-in-depth-application-review-and-analysis/"><u>Expert Insights on Movavi's FlashBack Express: An In-Depth Application Review and Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862816406-get-the-best-in-gaming-displays-with-alienwares-360-hz-oled-monitor-high-score-meets-low-cost/"><u>Get the Best in Gaming Displays with Alienware’s 360 Hz OLED Monitor - High Score Meets Low Cost!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862833764-huge-savings-alert-samsungs-latest-55-inch-oled-monitor-hits-lowest-price-ever/"><u>Huge Savings Alert: Samsung's Latest 55-Inch OLED Monitor Hits Lowest Price Ever</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-shortening-success-youtubes-leading-link-minimizers-compared/"><u>In 2024, Shortening Success YouTube's Leading Link Minimizers Compared</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mastering-the-conversion-process-turning-mpeg-files-into-dvds-and-back-again/"><u>Mastering the Conversion Process: Turning MPEG Files Into DVDs and Back Again</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862839349-score-big-savings-acers-stunning-34-inch-curved-monitor-goes-down-to-200-at-newegg/"><u>Score Big Savings: Acer's Stunning 34-Inch Curved Monitor Goes Down to $200 at Newegg</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-usb-c-driver-on-windows-10/"><u>[Download] USB-C Driver on Windows 10</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-endless-entertainment-loop-youtube-content-on-tv/"><u>[New] Endless Entertainment Loop YouTube Content on TV</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-master-the-art-of-radial-filtering-with-photoshop/"><u>[New] In 2024, Master the Art of Radial Filtering with Photoshop</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-pro-tools-for-netflix-capture-a-mac-guide-of-six-strategies-for-2024/"><u>[New] Pro Tools for Netflix Capture A Mac Guide of Six Strategies for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-innovative-shooting-modes-smart-hdr-3-and-4-explained-simply/"><u>[Updated] Innovative Shooting Modes Smart HDR 3 & 4 Explained Simply</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/broadcast-software-beyond-standard-obs/"><u>Broadcast Software Beyond Standard OBS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-updates-for-hp-elitebook-8460p-drivers-on-windows-solutions-and-guides/"><u>Download & Install Updates for HP EliteBook 8460P Drivers on Windows: Solutions and Guides</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/from-videos-to-vibrant-gifs-youtube-conversion-techniques/"><u>From Videos to Vibrant GIFs YouTube Conversion Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/greatest-stop-motion-animations-ranked-1-15-for-2024/"><u>Greatest Stop-Motion Animations Ranked #1-15 for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-update-windows-sata-drivers-a-comprehensive-tutorial/"><u>How to Download and Update Windows SATA Drivers - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-effortlessly-upgrade-and-enhance-amd-graphics-performance/"><u>How to Effortlessly Upgrade and Enhance AMD Graphics Performance</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-a59-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Oppo A59 5G Bootloader Easily</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722964640226-quick-and-painless-setup-of-your-samsung-m2070-drivers-a-comprehensive-guide/"><u>Quick and Painless Setup of Your Samsung M2070 Drivers - A Comprehensive Guide!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-the-chatgpt-capacity-exceeded-message-on-your-windows-pc/"><u>Troubleshooting the ‘ChatGPT Capacity Exceeded’ Message on Your Windows PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "A Glimpse Into the Next Wave of Processing Power: Parallels in Design as Huawei Looks to Apple M-Series & Intel for Kirin Advancements"
-date: 2024-08-23T13:42:02.505Z
-updated: 2024-08-24T13:42:02.505Z
+date: 2025-01-03T07:03:49.647Z
+updated: 2025-01-06T01:11:31.463Z
 tags:
   - cpu
 categories:
@@ -34,6 +34,10 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,14 +46,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -58,9 +59,26 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-clear-the-chaos-edit-and-cull-your-bulky-tiktok-collections-for-2024/"><u>[New] Clear the Chaos Edit & Cull Your Bulky TikTok Collections for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-soundbite-strategies-transform-your-voice-records/"><u>[Updated] In 2024, Soundbite Strategies Transform Your Voice Records</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-capturing-screen-content-on-huawei-mate-10-20-and-p-series-phones-via-built-in-recorders/"><u>2024 Approved Capturing Screen Content on Huawei Mate 10, 20 & P-Series Phones via Built-In Recorders</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-forging-a-massive-online-following-on-facebook/"><u>2024 Approved Forging a Massive Online Following on Facebook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-unveils-new-gaming-mouse-rog-keris-ii-ace-a-lightweight-rivals-to-the-iconic-deathadder-v3-pro/"><u>Asus Unveils New Gaming Mouse - ROG Keris II Ace, a Lightweight Rivals to the Iconic DeathAdder V3 Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-wonders-of-gpt-4-universal-access-unveiled/"><u>Discover the Wonders of GPT-4: Universal Access Unveiled</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discovering-the-digital-core-with-toms-computer-components-guides/"><u>Discovering the Digital Core with Tom’s Computer Components Guides</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-toms-gear-roundup-in-depth-reviews-of-cutting-edge-hardware/"><u>Exploring Tom's Gear Roundup: In-Depth Reviews of Cutting-Edge Hardware</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-enable-and-use-remote-functionality-on-your-samsung-qled-or-led-tvs/"><u>How To Enable and Use Remote Functionality on Your Samsung QLED or LED TVs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-zte-nubia-z60-ultra-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock ZTE Nubia Z60 Ultra Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/innovative-equipment-evaluations-by-tom-top-rated-hardware-analysis/"><u>Innovative Equipment Evaluations by Tom - Top-Rated Hardware Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/reinventing-sound-how-creatives-x-fi-transforms-after-nearly-two-decades-with-cutting-edge-ai-ear-mapping-innovation/"><u>Reinventing Sound: How Creative's X-Fi Transforms After Nearly Two Decades with Cutting-Edge AI Ear Mapping Innovation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionary-tiny-radiation-sensor-unveiled-capable-of-piercing-through-barriers-and-potentially-fitting-in-smartphones-according-to-scientists/"><u>Revolutionary Tiny Radiation Sensor Unveiled; Capable of Piercing Through Barriers and Potentially Fitting in Smartphones, According to Scientists</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/screen-recorder-apps-for-iphoneipad-users/"><u>Screen Recorder Apps for iPhone/iPad Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723964489483-the-revolutionary-keychron-q1-he-a-comprehensive-wireless-gaming-and-typing-experience-unleashed/"><u>The Revolutionary Keychron Q1 HE: A Comprehensive Wireless Gaming and Typing Experience Unleashed!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-exploring-the-world-of-advanced-hardware/"><u>Tom's Tech Hub: Exploring the World of Advanced Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-your-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Hub: Your Guide to the Latest in Computer Hardware</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-techniques-to-solve-overwatch-2-not-working-problem/"><u>Top Techniques to Solve 'Overwatch 2 Not Working' Problem</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-discussion-treasures-for-listener-retention/"><u>Updated Discussion Treasures for Listener Retention</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->

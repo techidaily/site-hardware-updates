@@ -1,7 +1,7 @@
 ---
 title: "Snag the Best: Ultimate Cyber Monday Deals on High-Performance Laptops <$1000 at Dell, Costco & Amazon | Recommendations"
-date: 2024-12-23T01:06:27.962Z
-updated: 2024-12-27T21:17:54.803Z
+date: 2024-12-30T00:24:32.648Z
+updated: 2025-01-06T04:51:00.657Z
 tags:
   - laptops
 categories:
@@ -44,10 +44,6 @@ Many of these deals have been available on and off since Black Friday, but we're
 * [CyberPower 1500VA Uninterruptible power supply (UPS) for $149 (Save $30)](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/cyberpower-1500va--900watts-true-sine-wave-uninterruptible-power-supply-%28ups%29.product.100527623.html)
 * [Ring Stick Up Cam (3-Pack) for $200 (save $50)](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/ring-stick-up-cam-battery-%283rd-gen%29-%2b-mounts---3-pack.product.100572894.html)
 * [LG 23 cu ft side-by-side Refrigerator for $1400 (save $250)](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/.product.4000037861.html)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Best Costco Cyber Monday deals still available**
 
@@ -127,10 +123,6 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [Roku Ultra 4K + Roku Stick 4K for $90 (save $40) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/roku-ultra-4k-%282022%29-with-voice-remote-pro-&-roku-stick-4k-with-voice-remote.product.100839742.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Costco Cyber Monday tablet deals still available**
 
 [Samsung Galaxy Tab A8 + Book cover for $220 (Save $80) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/samsung-galaxy-tab-a8-10.5%22-wi-fi-tablet-64gb---silver---includes-book-cover.product.100830442.html)
@@ -138,6 +130,10 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 [Samsung Galaxy 12.4" Tab S7 + Keyboard for $460 (Save $140) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/samsung-galaxy-12.4%22-tab-s7-fe-wi-fi-tablet-64gb---mystic-black---includes-keyboard.product.100792001.html)
 
 [Samsung Galaxy 10.4-inch S6 Lite Tab + Book cover for $260 (save $120) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/samsung-galaxy-10.4%22-tab-s6-lite-64gb---oxford-gray---includes-book-cover.product.100660228.html)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Costco Cyber Monday headphone deals still available**
 
@@ -169,13 +165,13 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [Ring Security 14-pc Kit for $230 (Save $120) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/ring-security-alarm-14-piece-kit-%28gen-2%29-with-stick-up-cam%2c-smokeco-listener-and-range-extender.product.100849368.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these Cyber Monday Costco deals?
 
 As a Costco member, I'm always on the lookout for the best deals and, thankfully, Costco makes this easy by consistently offering great deals on high-quality items. Here at ZDNET, we do the legwork for you and round up the best ones through research, experience, and our own expertise.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What's the best Costco membership type?
 
@@ -190,6 +186,10 @@ Here's how the different memberships stack up:
 | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Purchase for resale                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Annual 2% cash back on qualified Costco purchases                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Additional benefits for Travel and Costco services                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What were Costco's holiday hours during Black Friday and Cyber Monday?
 
 The Costco warehouses closed for Thanksgiving, but the retailer did have some exclusive deals through the online store. 
@@ -198,21 +198,17 @@ Costco opened at 9:00 am on Black Friday, November 25, 2022\.
 
 Though most warehouses open at 10:00am Monday through Friday, Cyber Monday deals at Costco were online-only, as is the tradition for the Cyber Monday sale.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When was Cyber Monday 2022?
 
 Cyber Monday takes place on the next Monday following the Thanksgiving holiday and Black Friday. This year it was on November 28, 2022\. We combed through all the best Cyber Monday deals as the day went on, to bring you the latest ones available.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When was Black Friday 2022?
 
 Black Friday 2022 was on November 25th, 2022; the day after Thanksgiving.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best holiday deals 2022?
 
@@ -223,7 +219,7 @@ ZDNET scoured holiday sales to find the best deals this year:
 Our experts split out the best deals by retailer, brand, and category, which you can see below. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Holiday deals by retailer**
@@ -235,6 +231,10 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best holiday 2022 deals at Walmart](https://www.zdnet.com/article/walmart-best-holiday-deals-2022/)
 * [Top early holiday 2022 deals at Best Buy](https://www.zdnet.com/article/best-buy-holiday-deals-2022/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Holiday deals by brand**
 
 * [The best holiday 2022 Apple deals](https://www.zdnet.com/article/apple-best-holiday-deals-2022/)
@@ -243,7 +243,7 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best holiday 2022 HP deals](https://www.zdnet.com/home-and-office/hp-best-holiday-deals-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Holiday deals by category**
@@ -273,7 +273,7 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best holiday 2022 deals under $30](https://www.zdnet.com/home-and-office/best-holiday-deals-under-30-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Cyber Monday live blog deals still available**
@@ -324,20 +324,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-how-to-hit-the-airwaves-with-instagram-lives/"><u>[New] 2024 Approved How to Hit the Airwaves with Instagram Lives</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-all-encompassing-clarification-the-basics-of-googles-podcast-platform/"><u>[New] In 2024, All-Encompassing Clarification The Basics of Google's Podcast Platform</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-breaking-the-ice-with-instagrams-interactive-audience-queries/"><u>[Updated] Breaking the Ice with Instagram's Interactive Audience Queries</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-adapting-srt-to-sub-step-by-step-guide-and-tactics/"><u>[Updated] In 2024, Adapting SRT to SUB Step-by-Step Guide & Tactics</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-updated-hp-deskjet-ink-advantage-3050a-printer-drivers-on-windows-no-cost/"><u>Effortless Installation of Updated HP Deskjet Ink Advantage 3050A Printer Drivers on Windows - No Cost</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722970218289-free-download-brother-mfc-9130cw-printer-drivers-and-software/"><u>Free Download: Brother MFC-9130CW Printer Drivers and Software</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-election-enthusiasts-essentials-quintessential-voting-games/"><u>In 2024, Election Enthusiasts' Essentials Quintessential Voting Games</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-the-latest-hp-pagewide-pro-477dw-printer-drivers-on-windows-11108-systems/"><u>Installing the Latest HP PageWide Pro 477DW Printer Drivers on Windows 11/10/8 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-brother-mfc-j480dw-windows-printer-software-upgrade-guide/"><u>Latest Brother MFC-J480DW Windows Printer Software Upgrade Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/motorola-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Motorola won’t play HEVC H.265 media, how to fix?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/perfect-discord-streams-tips-and-tricks/"><u>Perfect Discord Streams Tips & Tricks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/thinkpad-t420s-drivers-download-and-update-for-windows-11/"><u>ThinkPad T420s Drivers Download & Update For Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-insightful-computer-and-gadget-analysis/"><u>Tom's Tech Review: Insightful Computer & Gadget Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-installing-logitech-mx-master-drivers-and-setup/"><u>Ultimate Guide: Installing Logitech MX Master Drivers & Setup</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-striking-fp-designs-for-a-memorable-tiktok-identity/"><u>[New] 2024 Approved Striking FP Designs for a Memorable TikTok Identity</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-reddit-user-bio-image-guide-size-in-pixels-type-length/"><u>[New] In 2024, Reddit User Bio Image Guide Size in Pixels, Type, Length</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-foremost-companies-pioneering-vr-technology/"><u>2024 Approved Foremost Companies Pioneering VR Technology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-budget-friendly-pinterest-video-grabs/"><u>2024 Approved Top 5 Budget-Friendly Pinterest Video Grabs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beat-the-wait-efficient-iphone-time-lapse-tricks/"><u>Beat the Wait Efficient iPhone Time-Lapse Tricks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/disabling-safe-mode-a-step-by-step-guide-for-your-android-device/"><u>Disabling Safe Mode: A Step-by-Step Guide for Your Android Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-benefits-of-android-bedtime-feature-transform-your-nightly-routine/"><u>Discover the Benefits of Android Bedtime Feature: Transform Your Nightly Routine</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-benefits-of-private-spaces-in-android-15-a-comprehensive-guide/"><u>Discover the Benefits of Private Spaces in Android 15: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effective-strategies-for-controlling-application-access-rights-in-android-os/"><u>Effective Strategies for Controlling Application Access Rights in Android OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effective-strategies-to-prevent-android-system-from-terminating-running-services-in-the-background/"><u>Effective Strategies to Prevent Android System From Terminating Running Services in the Background</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/embrace-the-future-of-playing-classic-games-with-smartphone-emulators/"><u>Embrace the Future of Playing Classic Games with Smartphone Emulators</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enjoy-unlimited-privacy-discover-the-new-pixel-7-with-complimentary-vpn-access/"><u>Enjoy Unlimited Privacy: Discover the New Pixel 7 with Complimentary VPN Access</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-longer-battery-performance-with-the-latest-android-15-enhancements/"><u>Experience Longer Battery Performance with the Latest Android 15 Enhancements!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-how-to-turn-on-encrypted-private-dns-for-enhanced-security-on-android-phones/"><u>Expert Tips: How to Turn On Encrypted Private DNS for Enhanced Security on Android Phones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-recording-to-reality-a-detailed-look-at-the-sj-cam-s6-for-2024/"><u>From Recording to Reality A Detailed Look at the SJ-CAM S6 for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-decide-your-videoclip-layout-fbs-dilemma/"><u>In 2024, Decide Your Videoclip Layout FB’s Dilemma</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-look-at-xvideo-hub-a-full-studio-guide/"><u>In 2024, In-Depth Look at XVideo Hub A Full Studio Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streaming-through-vlc-a-comprehensive-guide-to-mp4-and-format-switches-for-2024/"><u>Streaming Through VLC A Comprehensive Guide to MP4 & Format Switches for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-motorola-edge-40-pro-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Motorola Edge 40 Pro Phone</u></a></li>
 </ul></div>
 

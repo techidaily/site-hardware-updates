@@ -1,7 +1,7 @@
 ---
 title: Windows Fans Rejoice! Lenovo Unveils a Competing Mac Studio, Promising Superior Features | ZDNET
-date: 2024-12-26T21:27:30.320Z
-updated: 2024-12-28T00:56:12.048Z
+date: 2024-12-29T21:09:08.839Z
+updated: 2025-01-06T08:08:01.776Z
 tags:
   - laptops
 categories:
@@ -22,7 +22,7 @@ At [CES 2024](https://www.zdnet.com/topic/ces-2024/), Lenovo plans to show off a
 Without question, the new PC resembles a [Mac Studio](https://www.zdnet.com/article/apple-mac-studio-m2-ultra-review/), coming with a main desktop unit in the shape of a small box alongside a monitor. It houses all of the major components like a neural processing unit, or NPU for short. This utilizes [AI](https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/) to provide a third resource for the computer, improving its overall performance. It can even be upgraded, letting you modulate the device's performance however you want.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -85,22 +85,21 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-reviving-camera-victory-over-obs-glitches/"><u>[New] 2024 Approved Reviving Camera Victory Over OBS Glitches</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-petite-plot-puzzle-piece/"><u>[Updated] Petite Plot Puzzle Piece</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-achieving-professional-sound-without-a-mic/"><u>[Updated] The Ultimate Guide Achieving Professional Sound without a Mic</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-essential-guide-to-social-media-video-ratios-on-facebook/"><u>2024 Approved Essential Guide to Social Media Video Ratios on Facebook</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-down-the-monetization-barriers-for-2024/"><u>Breaking Down the Monetization Barriers for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-your-pc-experience-master-graphics-driver-revisions-in-windows-11/"><u>Enhance Your PC Experience - Master Graphics Driver Revisions in Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/finding-and-implementing-asus-wifi-adapter-drivers-a-step-by-step-process/"><u>Finding and Implementing ASUS WiFi Adapter Drivers – A Step-by-Step Process</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-upgrade-free-hp-officejet-pro-9015-printer-drivers-now-available/"><u>Get the Latest Upgrade: Free HP OfficeJet Pro 9015 Printer Drivers Now Available!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722974469112-get-the-newest-hp-officejet-pro-8720-windows-driver-software-free-of-charge/"><u>Get the Newest HP Officejet Pro 8720 Windows Driver Software Free of Charge</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-nokia-c12-plus-by-drfone-android/"><u>How to Bypass FRP from Nokia C12 Plus?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-and-set-up-soundmax-audio-driver-software-for-microsoft-windows-computers/"><u>How to Get and Set Up SoundMAX Audio Driver Software for Microsoft Windows Computers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Realme GT Neo 5 SE? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/intels-non-k-processor-lines-hit-by-catastrophic-instability-no-recalls-announced-for-affected-65w-and-up-models/"><u>Intel's Non-K Processor Lines Hit by Catastrophic Instability; No Recalls Announced for Affected 65W and Up Models</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-the-logitech-mx-software-a-comprehensive-tutorial/"><u>Mastering the Logitech MX Software: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722976583093-step-by-step-instructions-downloading-and-updating-the-epson-et-3760-printer-drivers-on-a-windows-machine-expert-tips/"><u>Step-by-Step Instructions: Downloading and Updating the Epson ET-3760 Printer Drivers on a Windows Machine | Expert Tips!</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unlock-stunning-1080p-video-edits-with-the-best-software/"><u>Updated 2024 Approved Unlock Stunning 1080P Video Edits with the Best Software</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-fb-cover-video-excellence-strategies-for-leadership-in-social-media/"><u>[Updated] In 2024, FB Cover Video Excellence Strategies for Leadership in Social Media</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-listing-of-best-5-sd-cards-for-gopro-hero-cameras/"><u>2024 Approved Exclusive Listing of Best 5 SD Cards for GoPro HERO Cameras</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/360-degree-cameras-vs-3d-cameras-what-are-the-differences-in-2024/"><u>360 Degree Cameras Vs 3D Cameras What Are the Differences, In 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-amd-graphics-card-drivers-for-blockchain-on-windows/"><u>Download & Install AMD Graphics Card Drivers for Blockchain on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-methods-to-refresh-your-corsair-headset-driver-for-windows-os/"><u>Easy Methods to Refresh Your Corsair Headset Driver for Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-compatibility-and-optimize-functionality-new-pl2-303-usb-to-serial-adapter-driver-for-windows-systems-download/"><u>Ensure Compatibility & Optimize Functionality: New PL2 303 USB To Serial Adapter Driver for Windows Systems Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-update-your-canon-dr-c225-printer-drivers-for-windows-windows-11108/"><u>Find and Update Your Canon DR-C225 Printer Drivers for Windows (Windows 11/10/8)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comparing-the-best-in-class-for-4k-screen-reality/"><u>In 2024, Comparing the Best in Class for 4K Screen Reality</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-sony-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Sony Face Lock?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-the-latest-steelseries-mouse-software/"><u>Install the Latest SteelSeries Mouse Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-compatible-drivers-available-now-download-updated-hp-deskjet-ink-advantage-f381-wi-fi-all-in-one-printer/"><u>Latest Compatible Drivers Available Now: Download Updated HP DeskJet Ink Advantage F381 Wi-Fi All-in-One Printer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-your-zexmte-bluetooth-device-download-official-windows-compatible-driver-for-windows-1078/"><u>Secure Your Zexmte Bluetooth Device - Download Official Windows-Compatible Driver for WINDOWS 10/7/8</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722962946686-solution-magnetic-particle-testing-mpt-is-most-suitable-for-ferromagnetic-materials-that-can-be-magnetized/"><u>Solution: Magnetic Particle Testing (MPT) Is Most Suitable for Ferromagnetic Materials that Can Be Magnetized.</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-world-of-no-cost-picture-frame-movies-for-2024/"><u>Unlocking the World of No-Cost Picture Frame Movies for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-from-full-blast-to-quietude-implementing-audio-volume-transitions-in-imovie-for-2024/"><u>Updated From Full Blast to Quietude Implementing Audio Volume Transitions in iMovie for 2024</u></a></li>
 </ul></div>
 

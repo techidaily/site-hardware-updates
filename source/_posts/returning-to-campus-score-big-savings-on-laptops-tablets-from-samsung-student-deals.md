@@ -1,7 +1,7 @@
 ---
 title: Returning to Campus? Score Big Savings on Laptops, Tablets From Samsung | Student Deals
-date: 2024-12-23T16:52:48.935Z
-updated: 2024-12-27T21:07:09.217Z
+date: 2025-01-01T12:08:13.564Z
+updated: 2025-01-06T05:28:17.290Z
 tags:
   - laptops
 categories:
@@ -51,7 +51,7 @@ If you want to shop around, Samsung isn't the only brand offering student discou
 * [Razer Education Purchase Program](https://razer.a9yw.net/c/159047/642901/10229?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.razer.com%2Feducation%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -90,22 +90,22 @@ However, stock may expire at any time. ZDNET remains committed to finding, shari
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-ultimate-high-performance-desktop-pcs/"><u>[New] Ultimate High-Performance Desktop PCs</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-zoomers-guide-to-enhancing-call-quality-with-filters/"><u>[Updated] The Zoomer's Guide to Enhancing Call Quality with Filters</u></a></li>
-<li><a href="https://win-dash.techidaily.com/asus-notebook-driver-software-fresh-install-and-upgrades/"><u>ASUS Notebook Driver Software: Fresh Install and Upgrades</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/correcting-incompatibility-fixing-hp-monitor-drivers-for-windows-1087-users/"><u>Correcting Incompatibility: Fixing HP Monitor Drivers for Windows 10/8/7 Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cryptos-and-chatbots-top-5-collaboration-benefits/"><u>Cryptos and Chatbots: Top 5 Collaboration Benefits</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-drivers-for-brother-mfc-7860dw-printer-on-windows/"><u>Download and Update Drivers for Brother MFC-7860DW Printer on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-your-wifi-experience-on-windows-comprehensive-tutorials-for-drivers-update-in-win10-and-win11/"><u>Enhance Your WiFi Experience on Windows: Comprehensive Tutorials for Drivers Update in Win10 & Win11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exclusive-look-at-nvidia-shield-tv-pro-the-ideal-choice-for-hardcore-gamers-entertainment-hub/"><u>Exclusive Look at Nvidia Shield TV Pro - The Ideal Choice for Hardcore Gamers' Entertainment Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-installing-new-display-drivers-for-your-toshiba-satellite-under-windows-os/"><u>Guide: Installing New Display Drivers for Your Toshiba Satellite Under Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-quick-and-simple-setup-for-your-keyspan-usa-19hs-device-driver-on-windows-pcs/"><u>Guide: Quick and Simple Setup for Your Keyspan USA-19HS Device Driver on Windows PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-current-asus-dvd-driver-free-guide/"><u>How To Install The Current ASUS DVD Driver – Free Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-premium-top-8-smoothest-capture-tools/"><u>In 2024, Premium Top 8 Smoothest Capture Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instant-installation-guide-for-microsoft-wireless-mouse-amoker-driver-software/"><u>Instant Installation Guide for Microsoft Wireless Mouse amoKer Driver Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/m2020-mobile-device-free-download-of-official-samsung-drivers/"><u>M2020 Mobile Device - Free Download of Official Samsung Drivers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-zoom-conferences-volume-essential-tips-for-pc-owners/"><u>Reviving Your Zoom Conference's Volume: Essential Tips for PC Owners</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tips-to-make-instagram-videos-with-music/"><u>Tips To Make Instagram Videos With Music</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/windows-driver-refresh-how-to-update-and-reinstall-video-card-drivers/"><u>Windows Driver Refresh: How to Update and Reinstall Video Card Drivers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-leverage-hashtags-in-igtv-for-fan-base-explosion/"><u>[New] In 2024, Leverage Hashtags in IGTV for Fan Base Explosion</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-revolutionizing-play-leading-vr-handwear-selections/"><u>[Updated] Revolutionizing Play Leading VR Handwear Selections</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978060906-ace-your-gaming-session-secure-acer-predator-xb271h-ultimate-drivers-without-delay/"><u>Ace Your Gaming Session: Secure Acer Predator XB271H Ultimate Drivers Without Delay</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/advanced-material-ui-enhanced-admin-panel-with-laravel-official-crafted-by-creative-tim-and-team-at-updivision/"><u>Advanced Material UI: Enhanced Admin Panel with Laravel - Official Crafted by Creative Tim and Team at Updivision</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-network-driver-download-and-update-for-windows/"><u>Asus Network Driver Download and Update for Windows</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/delving-into-darkness-a-critical-look-at-bloodbornes-world/"><u>Delving Into Darkness: A Critical Look at Bloodborne's World</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-a-swift-18-boost-ryzen-9-9950x-surpasses-the-core-i9-14900k-at-comparable-wattage/"><u>Experience a Swift 18% Boost: Ryzen ^9 9950X Surpasses the Core I9-14900K at Comparable Wattage</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fast-and-simple-installation-of-acer-wireless-drivers/"><u>Fast & Simple Installation of Acer Wireless Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-up-and-running-fast-downloading-the-latest-ati-radeon-hd-echnology-drivers/"><u>Get Up and Running Fast: Downloading the Latest ATI Radeon HD Echnology Drivers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-gopro-spectrum-an-intensive-feature-by-feature-comparison/"><u>In 2024, GoPro Spectrum An Intensive Feature-By-Feature Comparison</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-itel-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Itel Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-editors-edge-adding-sleek-fades-to-your-work-for-2024/"><u>The Editor's Edge Adding Sleek Fades to Your Work for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-melody-meets-discovering-crossfade-magic/"><u>The Melody Meets Discovering Crossfade Magic</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-cpu-deals-of-2024-your-ultimate-comparison-chart-for-budget-friendly-choices/"><u>Top CPU Deals of 2024 - Your Ultimate Comparison Chart for Budget-Friendly Choices</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/translate-live-video-making-it-possible-with-the-best-tool/"><u>Translate Live Video Making It Possible With The Best Tool</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-fixing-csr8510-a10-motherboard-drivers-in-windows-easily-resolved/"><u>Troubleshooting and Fixing CSR8510 A10 Motherboard Drivers in Windows Easily [RESOLVED]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-kindle-oasis-2019-assessment-nearly-indistinguishable-from-real-paper/"><u>Ultimate Kindle Oasis (2019) Assessment - Nearly Indistinguishable From Real Paper!</u></a></li>
 </ul></div>
 

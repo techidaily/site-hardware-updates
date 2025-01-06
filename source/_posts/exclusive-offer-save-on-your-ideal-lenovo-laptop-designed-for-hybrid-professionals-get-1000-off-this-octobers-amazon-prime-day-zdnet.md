@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Offer: Save on Your Ideal Lenovo Laptop Designed for Hybrid Professionals - Get $1,000 Off This October's Amazon Prime Day! | ZDNet"
-date: 2024-12-20T20:13:56.462Z
-updated: 2024-12-27T19:13:41.923Z
+date: 2025-01-01T21:45:15.130Z
+updated: 2025-01-05T20:10:34.464Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3714981f-3a77-4004-9f5f-505a32073051%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,520 -- nearly $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3714981f-3a77-4004-9f5f-505a32073051%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -79,22 +79,20 @@ At the time of this writing, it is the second day of Amazon's October Prime Day 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-optimal-speech-recognition-the-google-methodology-for-2024/"><u>[Updated] Optimal Speech Recognition The Google Methodology for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-magix-composition-wizard-an-audio-editing-experience/"><u>2024 Approved Magix Composition Wizard An Audio Editing Experience</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-the-path-to-youtube-gaming-popularity/"><u>2024 Approved The Path to YouTube Gaming Popularity</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/about-nubia-frp-bypass-by-drfone-android/"><u>About Nubia FRP Bypass</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-out-the-toms-guide-to-cutting-edge-computer-equipment/"><u>Inside Out: The Tom's Guide to Cutting-Edge Computer Equipment</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovo-yoga-pro-9i-unveiled-slender-frame-meets-responsive-touchpad/"><u>Lenovo Yoga Pro 9I Unveiled: Slender Frame Meets Responsive Touchpad</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovos-latest-masterpiece-revealed-a-detailed-look-at-the-gen-12-thinkpad-x1-carbon-ultraportability-meets-cutting-edge-tech/"><u>Lenovo's Latest Masterpiece Revealed: A Detailed Look at the Gen 12 ThinkPad X1 Carbon - Ultraportability Meets Cutting-Edge Tech</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lighter-than-air-stronger-than-steel-the-marvel-of-structural-carbon-fiber-batteries-redefining-device-mobility/"><u>Lighter Than Air, Stronger than Steel: The Marvel of Structural Carbon Fiber Batteries Redefining Device Mobility</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-hardware-hacks-with-toms-technology-forums/"><u>Mastering Hardware Hacks with Tom's Technology Forums</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-technology-a-deep-dive-into-hardware-tips-by-tomexpert/"><u>Mastering Technology: A Deep Dive Into Hardware Tips by TomExpert</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-your-tech-choices-comprehensive-insights-from-tomhrenology/"><u>Mastering Your Tech Choices: Comprehensive Insights From Tom'hrenology</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigate-the-tech-scene-with-guidance-from-toms-hardware/"><u>Navigate the Tech Scene with Guidance From Tom's Hardware</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/samsung-ru7300-the-ultimate-guide-for-choosing-a-shape-shifting-smart-tv-with-quality-display/"><u>Samsung RU7300: The Ultimate Guide for Choosing a Shape-Shifting Smart TV with Quality Display</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-ipados-drawing-wonders/"><u>The Ultimate Guide to iPadOS Drawing Wonders</u></a></li>
-<li><a href="https://article-files.techidaily.com/thrifty-shopping-for-cameras-the-most-economical-lists-under-100-for-2024/"><u>Thrifty Shopping for Cameras The Most Economical Lists Under $100 for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-7-must-use-traffic-navigation-applications/"><u>Top 7 Must-Use Traffic Navigation Applications</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/turn-off-notifications-with-ease-a-guide-to-mutifying-incoming-calls-on-your-android-smartphone/"><u>Turn Off Notifications with Ease: A Guide to Mutifying Incoming Calls on Your Android Smartphone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-how-to-change-the-destination-where-screenshots-are-saved-on-your-mac/"><u>[New] In 2024, How to Change the Destination Where Screenshots Are Saved on Your Mac</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-exclusive-guide-to-instagrams-hidden-functionality-for-2024/"><u>[Updated] Exclusive Guide to Instagram's Hidden Functionality for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-no-pay-maximum-fun-20-custom-lut-sets-for-dji-miniair-users/"><u>[Updated] No Pay, Maximum Fun 20 Custom LUT Sets for DJI Mini/Air Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/t-friendly-webinar-strategies-for-youtube/"><u>Budget-Friendly Webinar Strategies for YouTube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/cooler-master-elevates-psu-game-with-new-lineup-offering-up-to-2000w-of-power/"><u>Cooler Master Elevates PSU Game with New Lineup Offering Up to 2000W of Power!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/diagnosing-ram-issues-a-comprehensive-guide-on-how-to-check-your-pcs-memory/"><u>Diagnosing RAM Issues: A Comprehensive Guide on How to Check Your PC's Memory</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dial-back-the-dazzle-a-close-look-at-our-astoundingly-bright-mini-led-tv-display/"><u>Dial Back the Dazzle: A Close Look at Our Astoundingly Bright Mini LED TV Display</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-new-8bitdo-replica-a-tribute-to-classic-ibm-model-m-keyboards/"><u>Discover the New 8BitDo Replica: A Tribute to Classic IBM Model M Keyboards</u></a></li>
+<li><a href="https://blog-min.techidaily.com/editando-videos-en-perfeccionamiento-adquira-la-herramienta-mas-segura-para-windows-and-mac-con-descuentos-que-no-puedes-perderse/"><u>Editando Videos en Perfeccionamiento - Adquira La Herramienta Más Segura Para Windows & Mac Con Descuentos Que No Puedes Perderse.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-techniques-for-revamping-your-powerpoint-slides/"><u>Effortless Techniques for Revamping Your PowerPoint Slides</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-website-engagement-through-cookiebot-solutions/"><u>Elevate Website Engagement Through Cookiebot Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/embracing-a-smarter-home-key-considerations-and-actionable-steps-for-transformation/"><u>Embracing a Smarter Home: Key Considerations & Actionable Steps for Transformation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-add-ons-for-a-full-featured-home-assistant-experience/"><u>Essential Add-Ons for a Full-Featured Home Assistant Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/future-cloud-costs-top-2024-storages-and-lowest-rates/"><u>Future Cloud Costs Top 2024 Storages & Lowest Rates</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-elevating-music-management-the-best-rated-platforms-for-mp3-file-metadata-editing/"><u>Updated Elevating Music Management The Best-Rated Platforms for MP3 File Metadata Editing</u></a></li>
 </ul></div>
 

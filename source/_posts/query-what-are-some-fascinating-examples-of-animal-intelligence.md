@@ -1,7 +1,7 @@
 ---
 title: "[Query]: What Are some Fascinating Examples of Animal Intelligence?"
-date: 2024-12-26T17:54:36.519Z
-updated: 2024-12-27T18:54:00.451Z
+date: 2024-12-31T17:00:27.277Z
+updated: 2025-01-06T06:05:27.621Z
 tags:
   - laptops
 categories:
@@ -20,7 +20,7 @@ This week, Microsoft held its fall Microsoft Surface launch event where the comp
 Surface remains one of Microsoft's most popular products, with revenue increasing 3% year-over-year by $226 million in the fourth quarter of its [2022 financial year](https://www.microsoft.com/en-us/Investor/earnings/FY-2022-Q3/more-personal-computing-performance#:~:text=Surface%20revenue%20increased%20%24195%20million,increased%20%24305%20million%20or%207%25.&text=Gross%20margin%20increased%20%24755%20million,and%20Search%20and%20news%20advertising.). But that wasn't always the case, and Surface represents a big shift in Microsoft's business over the last decade. Here is how the Surface earned its spot as one of Microsoft's best sellers. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Windows
@@ -119,21 +119,18 @@ Microsoft has to make sure that it continues to upgrade its Surface lineup to st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-dissecting-the-functionality-of-burst-in-gopro-filming/"><u>[New] 2024 Approved Dissecting the Functionality of Burst in GoPro Filming</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-exploring-the-world-of-aspect-ratios-in-youtube-content/"><u>[New] In 2024, Exploring the World of ASPECT RATIOS in YOUTUBE Content</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-techniques-for-efficiently-blending-flv-files/"><u>[New] Techniques for Efficiently Blending FLV Files</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-essential-software-for-recording-educational-experiences/"><u>[Updated] 2024 Approved Essential Software for Recording Educational Experiences</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-photoshop-grading-made-simple-for-everyone/"><u>[Updated] Photoshop Grading Made Simple for Everyone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-ultimate-list-of-twitter-sensations/"><u>2024 Approved The Ultimate List of Twitter Sensations</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-demystifying-asuss-mg28uq-a-comprehensive-4k-review/"><u>In 2024, Demystifying ASUS's MG28UQ - A Comprehensive 4K Review</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-iphone-6-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 6 Device from iCloud</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/master-your-machine-hardware-insights-from-toms-systems-hub/"><u>Master Your Machine: Hardware Insights From Tom's Systems Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-hardware-with-toms-guidance-a-resourceful-tech-hub/"><u>Mastering Hardware with Tom's Guidance - A Resourceful Tech Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-technology-choices-with-expertise-from-toms-hardware-insights/"><u>Mastering Technology Choices with Expertise From Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-technology-decisions-guidance-from-toms-hardware-hub/"><u>Mastering Technology Decisions: Guidance From Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-your-devices-key-tips-and-reviews-by-tom-hardware-specialist/"><u>Mastering Your Devices: Key Tips and Reviews by Tom Hardware Specialist</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-electronics-trustworthy-tips-from-toms-hardware-experts/"><u>Navigating the World of Electronics: Trustworthy Tips From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/pioneering-computing-solutions-insights-from-toms-tech-oasis/"><u>Pioneering Computing Solutions - Insights From Tom's Tech Oasis</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/troubleshooting-solo-earbuds/"><u>Troubleshooting Solo Earbuds</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solved-usb-ports-not-working-on-laptop/"><u>[SOLVED] USB Ports Not Working on Laptop</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-expert-video-grabbing-extras-fb-and-firefox-edition/"><u>[Updated] In 2024, Expert Video Grabbing Extras FB & Firefox Edition</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-learn-to-activate-picture-in-picture-viewing-on-iphones-youtube-app/"><u>[Updated] Learn to Activate Picture-in-Picture Viewing on iPhone's Youtube App</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-master-the-art-of-podcast-writing-with-expert-guidance/"><u>[Updated] Master the Art of Podcast Writing with Expert Guidance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/common-problems-and-fixes-for-non-responsive-windows-10-search-tool/"><u>Common Problems and Fixes for Non-Responsive Windows 10 Search Tool</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-yours-before-it-sells-out-exclusive-moto-tags-for-motorcycles-are-ready/"><u>Get Yours Before It Sells Out: Exclusive Moto Tags For Motorcycles Are Ready!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-syncing-your-apple-devices-how-to-cast-your-maciphoneipad-display-onto-an-apple-tv/"><u>Guide: Syncing Your Apple Devices - How to Cast Your Mac/iPhone/iPad Display Onto an Apple TV</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/illuminate-with-style-affordable-yet-stylish-solar-powered-patio-lighting-options/"><u>Illuminate with Style: Affordable Yet Stylish Solar-Powered Patio Lighting Options</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-nokia-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Nokia</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-20-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 20 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-evaluation-of-the-dreame-x40-ultra-the-pinnacle-of-luxurious-automated-cleaning/"><u>In-Depth Evaluation of the Dreame X40 Ultra: The Pinnacle of Luxurious Automated Cleaning</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-game-masterpieces-from-google-play-beta-pc/"><u>Unveiling Game Masterpieces From Google Play Beta (PC)</u></a></li>
 </ul></div>
 

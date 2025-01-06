@@ -1,7 +1,7 @@
 ---
 title: Expert Insights on Owning the Budget-Friendly Surface Pro 11 - Top Tips From a Tech Guru | ZDNet
-date: 2024-12-24T22:52:59.444Z
-updated: 2024-12-27T23:35:40.799Z
+date: 2025-01-01T07:02:50.670Z
+updated: 2025-01-06T07:19:57.042Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Ed Bott/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -49,7 +45,7 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 How did this happen? Let's dive in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The experience is familiar
@@ -65,7 +61,7 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -83,6 +79,10 @@ In real-world usage, the Surface Pro 11 battery lasts twice as long as an equiva
 Screenshot by Ed Bott/ZDNET
 
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
 
@@ -121,7 +121,7 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The AI story is incomplete
@@ -145,7 +145,7 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -192,18 +192,19 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-ideal-low-impact-recording-devices-for-eco-conscious-filmmakers-for-2024/"><u>[New] Ideal Low-Impact Recording Devices for Eco-Conscious Filmmakers for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-leading-8-android-calling-apps-more-than-four-people/"><u>[New] Leading 8 Android Calling Apps More Than Four People</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-the-insiders-look-how-to-change-and-enhance-tiktok-audio-quality/"><u>[New] The Insider’s Look How to Change and Enhance TikTok Audio Quality</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-igtv-mastery-best-video-editors-for-social-media/"><u>[Updated] 2024 Approved IGTV Mastery Best Video Editors for Social Media</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-finest-11-streaming-sound-recorders/"><u>[Updated] In 2024, The Finest 11 Streaming Sound Recorders</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-hardware-with-tom-top-picks-and-reviews/"><u>Exploring Hardware with Tom: Top Picks & Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-latest-in-technology-with-toms-gear/"><u>Exploring the Latest in Technology with Tom's Gear</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/forged-from-laptop-to-desktop-the-ultimate-sustainable-aio-workstation-by-flying-lotus-powered-by-battery-assembled-through-3d-printing/"><u>Forged From Laptop to Desktop: The Ultimate, Sustainable AIO Workstation by Flying Lotus - Powered by Battery, Assembled Through 3D Printing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-ready-to-play-unleash-epic-gaming-with-lenovos-legion-slim-5-and-a-potent-rtx-ntegrated-4060-at-an-amazing-price-of-899/"><u>Get Ready to Play! Unleash Epic Gaming with Lenovo's Legion Slim 5 and a Potent RTX Ntegrated 4060 at an Amazing Price of $899.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-toms-computing-gear-in-depth-guides-and-tips/"><u>Inside Tom's Computing Gear: In-Depth Guides and Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/introducing-the-latest-in-computing-power-starfives-jh7110-soc-board-with-risc-v-support-and-deepcomputing-alliance/"><u>Introducing the Latest in Computing Power: StarFive's JH7110 SoC Board with RISC-V Support and DeepComputing Alliance</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/revive-hd-files-precision-driven-recovery/"><u>Revive HD Files: Precision-Driven Recovery</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-vivo-s17e-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Vivo S17e FRP Bypass</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-expert-techniques-for-live-streaming-your-gopro-to-social-channels/"><u>[Updated] Expert Techniques for Live Streaming Your GoPro to Social Channels</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unlocking-hidden-images-on-snapchat-for-2024/"><u>[Updated] Unlocking Hidden Images on Snapchat for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-one-change-transformed-my-entire-tech-setup-zdnet/"><u>A Week with an Ergonomic Split Keyboard: How One Change Transformed My Entire Tech Setup | ZDNet</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/behind-the-scenes-of-iscreen-capture-for-2024/"><u>Behind the Scenes of iScreen Capture for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exciting-announcement-apple-eyes-game-changing-features-for-may-7th-ipad-showcase/"><u>Exciting Announcement: Apple Eyes Game-Changing Features for May 7Th iPad Showcase</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expand-your-space-latest-chromebooks-come-with-complimentary-year-long-2tb-cloud-backup/"><u>Expand Your Space: Latest Chromebooks Come with Complimentary Year-Long 2TB Cloud Backup</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-innovative-ways-the-best-eight-uses-for-your-home-automation-system-home-assistant/"><u>Explore Innovative Ways: The Best Eight Uses for Your Home Automation System, Home Assistant</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-lenovos-innovative-offerings-the-newly-released-thinkpad-t1-grope-t14s-and-yoga-slim-with-qualcomm-processors/"><u>Explore Lenovo's Innovative Offerings: The Newly Released ThinkPad T1 Grope T14S and Yoga Slim with Qualcomm Processors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/foie-gras-terrine/"><u>Foie Gras Terrine</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/for-smb-printing-needs/"><u>For SMB Printing Needs</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-reconnect-and-fix-media-problems-in-your-windows-computer/"><u>How To Correctly Reconnect and Fix Media Problems in Your Windows Computer</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-realme-c33-2023-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Realme C33 2023 Phone Pattern Lock</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-why-microsoft-surface-laptop-4-reigns-supreme/"><u>Ultimate Guide to Why Microsoft Surface Laptop 4 Reigns Supreme</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-ring-video-doorbell-2-analysis-top-of-the-line-security/"><u>Ultimate Ring Video Doorbell 2 Analysis: Top of the Line Security</u></a></li>
 </ul></div>
 

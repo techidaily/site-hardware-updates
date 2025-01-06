@@ -1,7 +1,7 @@
 ---
 title: "Unleash the Power of Alienware's M18: Exclusive Post-Labor Day Discounts Await on This Incredible Gaming Machine"
-date: 2024-12-19T00:31:48.001Z
-updated: 2024-12-22T00:31:01.061Z
+date: 2024-12-31T12:21:06.881Z
+updated: 2025-01-06T13:45:46.398Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -79,7 +79,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -91,7 +91,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -128,16 +128,19 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/nlock-the-full-potential-of-your-youtube-videos-with-these-tips-for-2024/"><u>[New] Unlock the Full Potential of Your YouTube Videos with These Tips for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-elevate-your-gaming-experience-with-these-5-techniques-on-windows-11-for-2024/"><u>[Updated] Elevate Your Gaming Experience with These 5 Techniques on Windows 11 for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-from-novice-to-experienced-6-strategies-for-quick-verification-on-instagram/"><u>2024 Approved From Novice to Experienced 6 Strategies for Quick Verification on Instagram</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/convert-wav-files-to-high-quality-flac-with-movavis-hassle-free-online-tool/"><u>Convert WAV Files to High-Quality FLAC with Movavi's Hassle-Free Online Tool</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-advice-on-diagnosing-and-resolving-issues-with-the-realtek-rtl873b-driver-software/"><u>Expert Advice on Diagnosing and Resolving Issues with the Realtek RTL87#3B Driver Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-dell-latitude-e6430-running-smoothly-updated-drivers-and-fixes-on-windows-solved/"><u>Get Your Dell Latitude E6430 Running Smoothly: Updated Drivers & Fixes on Windows [SOLVED]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-ricoh-mp-c4503-driver-here-free-and-easy-installation-instructions/"><u>Get Your Ricoh MP C4503 Driver Here: Free and Easy Installation Instructions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-your-hands-on-the-newest-corsair-mouse-software-version/"><u>How To Get Your Hands On The Newest Corsair Mouse Software Version</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-repair-hp-monitor-drivers-in-windows-10-8-and-7/"><u>How to Repair HP Monitor Drivers in Windows 10, 8 & 7</u></a></li>
-<li><a href="https://win11.techidaily.com/regain-control-rejuvenating-your-hesitant-windows-11-pc/"><u>Regain Control: Rejuvenating Your Hesitant Windows 11 Pc</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fixing-the-semaphore-timed-out-error-code-0x80070079/"><u>Resolved: Fixing the 'Semaphore Timed Out' Error Code 0X80070079</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-bring-your-spotify-mixes-online-5-top-playlist-conversion-apps-for-youtube/"><u>[Updated] 2024 Approved Bring Your Spotify Mixes Online 5 Top Playlist Conversion Apps for YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-step-by-step-guide-to-writing-slug-lines/"><u>[Updated] A Step-by-Step Guide to Writing Slug Lines</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-navigating-the-tiktok-facebook-content-exchange/"><u>[Updated] In 2024, Navigating the TikTok-Facebook Content Exchange</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-spinning-media-a-quick-guide-to-rotating-videos-in-vlc/"><u>2024 Approved Spinning Media A Quick Guide to Rotating Videos in VLC</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-honor-x50i-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Honor X50i Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/decode-and-defeat-the-definitive-fixes-for-dead-space-remake-start-up-problems-updated-guide-2024/"><u>Decode and Defeat: The Definitive Fixes for Dead Space Remake Start-Up Problems – Updated Guide 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-asus-touchpad-drivers-fast-compatible-with-windows-11-systems/"><u>Download ASUS Touchpad Drivers Fast - Compatible with Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-new-nvidia-geforce-rtx-2070-drivers-optimized-performance-on-windows-systems/"><u>Download the New NVIDIA GeForce RTX 2070 Drivers: Optimized Performance on Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-driver-update-for-samsung-c460-start-now/"><u>Effortless Driver Update for Samsung C460 - Start Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-thunderbolt-driver-downloads-for-windows-computers/"><u>Free Thunderbolt Driver Downloads for Windows Computers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Realme GT Neo 5? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/lgs-upcoming-headset-release-a-leap-towards-the-future-of-vr-is-it-meta-quest-3-pro/"><u>LG's Upcoming Headset Release: A Leap Towards The Future of VR - Is It Meta Quest 3 Pro?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-driver-downloads-for-surface-book-2-effortlessly-enhance-performance/"><u>Seamless Driver Downloads for Surface Book 2 - Effortlessly Enhance Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tech-insights-from-tom-a-deep-dive-into-advanced-hardware/"><u>Tech Insights From Tom: A Deep Dive Into Advanced Hardware</u></a></li>
 </ul></div>
 

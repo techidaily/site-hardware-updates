@@ -1,7 +1,7 @@
 ---
 title: "Still On Offer: Premium $8 iPhone Webcam Mount Bargain From Cyber Monday - Shop Now on ZDNet"
-date: 2024-12-15T18:23:04.914Z
-updated: 2024-12-21T23:39:02.826Z
+date: 2025-01-04T21:13:35.137Z
+updated: 2025-01-06T01:20:05.161Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ I've seen the likes of Belkin put out [quality iPhone mounts for this purpose](h
 All that's needed to make Continuity Camera happen is a Mac computer running MacOS Ventura, an iPhone running on iOS 16, and a mount to keep the handset afloat. That's where the Elephant Card comes in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,16 +81,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expressive-faces-with-motion-blur-in-picsart/"><u>[New] Expressive Faces with Motion Blur in Picsart</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-get-the-best-of-both-worlds-with-top-asymmetric-microphones/"><u>[New] Get the Best of Both Worlds with Top Asymmetric Microphones</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-z170-pro-gaming-drivers-download-easily-and-quickly/"><u>ASUS Z170 Pro Gaming Drivers Download. Easily & Quickly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-hid-keyboard-drivers-with-simple-steps/"><u>Download & Update HID Keyboard Drivers with Simple Steps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-the-amd-radeon-r9-360-drivers-for-windows-11-step-by-step-guide/"><u>Download and Update the AMD Radeon R9 360 Drivers for Windows 11: Step-by-Step Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-iphone-15-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on iPhone 15</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/new-release-freshly-updated-hp-officejet-pro-9015-driver-beginning-is-here-get-yours-today/"><u>New Release: Freshly Updated HP OfficeJet Pro 9015 Driver - Beginning Is Here, Get Yours Today!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-future-of-tablet-displays-unveiling-insights-from-apples-ipad-pro-with-tandem-oled-technology-zdnet/"><u>The Future of Tablet Displays: Unveiling Insights From Apple's iPad Pro with Tandem OLED Technology | ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-windows-pcs-bluetooth-support-microsoft-driver-downloads-for-windows-101187/"><u>Update Your Windows PC's Bluetooth Support: Microsoft Driver Downloads for Windows 10/11/8/7</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-beat-breakers-the-premier-list-of-todays-chart-toppers-and-their-signatures-online/"><u>Updated Beat Breakers The Premier List of Todays Chart-Toppers and Their Signatures Online</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-altering-articulations-in-free-fire-arena/"><u>[Updated] Altering Articulations in Free Fire Arena</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-joymakerbox-sign-up-share-smiles-create/"><u>[Updated] JoyMakerBox Sign Up, Share Smiles, Create</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pivotal-software-in-shaping-the-future-of-vtuber-audio-identity/"><u>2024 Approved Pivotal Software in Shaping the Future of VTuber Audio Identity</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/cam-crossover-showdown-sj6-power-meets-yis-four-k-kickstart/"><u>Cam Crossover Showdown SJ6 Power Meets Yi’s Four-K Kickstart</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-lenovo-wireless-bluetooth-driver-compatible-with-windows-710-secure-and-updated-version/"><u>Download and Install Lenovo Wireless Bluetooth Driver: Compatible with Windows 7/10 - Secure & Updated Version</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-offer-grab-your-amd-gaming-package-with-ryzen-7000-and-radeon-rx/"><u>Exclusive Offer: Grab Your AMD Gaming Package with Ryzen 7000 & Radeon RX</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-nubia-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Nubia Pattern Lock Screen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-official-canon-printer-drivers-for-your-windows-computer-easy-download/"><u>Get the Official Canon Printer Drivers for Your Windows Computer - Easy Download</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-poco-f5-pro-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Poco F5 Pro 5G</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-chat-room-to-screen-step-by-step-google-meet-youtube-streams/"><u>In 2024, From Chat Room to Screen Step-by-Step Google Meet YouTube Streams</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-usb-30-driver-software-easily-on-windows-systems/"><u>Installing USB 3.0 Driver Software Easily on Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-methods-to-update-your-asus-maximus-x-heros-drivers-effectively/"><u>Quick and Easy Methods to Update Your ASUS Maximus X Hero's Drivers Effectively</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-internet-access-with-intel-find-and-install-wi-fi-driver-software-on-your-windows-pc/"><u>Seamless Internet Access with Intel: Find & Install Wi-Fi Driver Software on Your Windows PC</u></a></li>
+<li><a href="https://fox-info.techidaily.com/simplified-approach-to-crafting-xml-for-podcasts/"><u>Simplified Approach to Crafting XML for Podcasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-to-get-your-dell-g15-up-to-date-on-windows-pcs/"><u>Step-by-Step Instructions to Get Your Dell G15 Up to Date on Windows PCs</u></a></li>
 </ul></div>
 

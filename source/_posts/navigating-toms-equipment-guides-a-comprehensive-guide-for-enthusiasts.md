@@ -1,7 +1,7 @@
 ---
 title: "Navigating Tom's Equipment Guides: A Comprehensive Guide for Enthusiasts"
-date: 2024-08-23T13:40:45.379Z
-updated: 2024-08-24T13:40:45.379Z
+date: 2025-01-01T09:27:49.976Z
+updated: 2025-01-05T21:01:14.955Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -53,8 +57,6 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -62,8 +64,19 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-essential-choice-10-budget-friendly-caption-tools/"><u>[New] 2024 Approved Essential Choice 10 Budget-Friendly Caption Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-elevate-your-presence-online-capture-high-definition-webcam-footage-in-vlc/"><u>[Updated] 2024 Approved Elevate Your Presence Online Capture High-Definition Webcam Footage in VLC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-hunt-and-beat-top-10-games-inspired-by-ghost-of-tsushima/"><u>[Updated] Hunt & Beat Top 10 Games Inspired by Ghost of Tsushima</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-discover-the-thrill-panasonics-wearable-actioncam-hx-a1/"><u>[Updated] In 2024, Discover the Thrill Panasonic’s Wearable ActionCam, HX-A1</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-xiaomi-14-unlock-without-password-by-drfone-android/"><u>5 Solutions For Xiaomi 14 Unlock Without Password</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/extensive-benchmarking-of-engineering-sample-for-amd-ryzen-9-9950x-using-blender-at-diverse-thermal-design-power-ratings-showcasing-noteworthy-gains-in-proc59/"><u>Extensive Benchmarking of 'Engineering Sample' For AMD Ryzen 9 9950X Using Blender at Diverse Thermal Design Power Ratings - Showcasing Noteworthy Gains in Processor Efficiency</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722972897815-free-download-install-your-steelseries-gaming-mouse-drivers-today/"><u>Free Download: Install Your SteelSeries Gaming Mouse Drivers Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/global-cpu-speed-showdown-watercooled-ryzen-9-9950x-zen-flagship-trails-just-behind-heavyweight-contenders-core-rich-xeon-and-powerful-threadripper-chips-in5/"><u>Global CPU Speed Showdown: Watercooled Ryzen 9 9950X, Zen Flagship Trails Just Behind Heavyweight Contenders Core-Rich Xeon and Powerful Threadripper Chips in New Rankings</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-witcher-3-wild-hunt-launch-errors-for-a-smooth-gaming-experience/"><u>Overcoming 'Witcher 3: Wild Hunt' Launch Errors for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-fix-how-to-easily-obtain-and-install-asus-router-wi-fi-drivers/"><u>Quick Fix: How to Easily Obtain and Install ASUS Router Wi-Fi Drivers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-essential-manual-to-fb-video-playback-settings-for-2024/"><u>The Essential Manual to FB Video Playback Settings for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-sataahci-controller-drivers-with-minimal-hassle/"><u>Update SATA/AHCI Controller Drivers with Minimal Hassle</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

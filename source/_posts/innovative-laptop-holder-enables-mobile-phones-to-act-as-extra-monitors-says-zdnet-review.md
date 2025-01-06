@@ -1,7 +1,7 @@
 ---
 title: Innovative Laptop Holder Enables Mobile Phones to Act as Extra Monitors, Says ZDNet Review
-date: 2024-12-20T23:46:27.390Z
-updated: 2024-12-27T19:19:11.549Z
+date: 2025-01-04T10:41:20.377Z
+updated: 2025-01-06T04:47:48.192Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ Here are some of the most interesting features I saw during my hands-on briefing
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Smart Share
@@ -61,7 +61,7 @@ Kyle Kucharski/ZDNET
 Besides the Smart Share features, there are four different "modes" that activate various features. You can toggle each feature on or off individually, to avoid being bombarded with different prompts. Here are the most impactful ones I saw during my time trying the new laptops.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shield Mode
@@ -70,7 +70,7 @@ Besides the Smart Share features, there are four different "modes" that activate
 * The VPN auto-launch feature will start your preferred VPN automatically upon connecting to any public Wi-Fi network, a handy function if you spend a lot of time working in coffee shops.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Attention Mode
@@ -80,7 +80,7 @@ Besides the Smart Share features, there are four different "modes" that activate
 Kyle Kucharski/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Collaboration Mode
@@ -88,7 +88,7 @@ Kyle Kucharski/ZDNET
 * Designed mostly for virtual meetings, activating this mode enables your preset camera features, such as background blur, low light enhancer, or touch ups.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Wellness Mode
@@ -133,22 +133,20 @@ We'll definitely be doing some additional testing of the smart modes when we get
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-decoding-periscope-its-features-pricing-and-registration-guide/"><u>[New] Decoding Periscope Its Features, Pricing & Registration Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cutting-edge-youtube-video-editing-techniques-premiere-pro/"><u>[Updated] 2024 Approved Cutting Edge YouTube Video Editing Techniques - Premiere Pro</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-achieving-smooth-video-playback-on-portable-devices/"><u>[Updated] Achieving Smooth Video Playback on Portable Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-radeon-hd-6350-driver-downloads-and-updates-how-to-optimize-your-windows-experience/"><u>AMD Radeon HD 6350 Driver Downloads & Updates: How to Optimize Your Windows Experience</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/como-superar-el-error-de-duplicacion-de-unidad-con-acronis-guia-completa-y-solucionada/"><u>Cómo Superar El Error De Duplicación De Unidad Con Acronis: Guía Completa Y Solucionada</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/convertire-i-file-mxf-in-mp4-senza-costi-le-strategie-migliore-su-pc-o-mac/"><u>Convertire I File MXF in MP4 Senza Costi: Le Strategie Migliore Su PC O Mac</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-nvidia-geforce-rtx-30-series-drivers-for-windows-11-quick-and-secure/"><u>Download NVIDIA GeForce RTX 30 Series Drivers for Windows 11 - Quick & Secure</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-download-and-install-official-sony-vaio-drivers-for-your-windows-system/"><u>Easy Steps to Download and Install Official Sony Vaio Drivers for Your Windows System</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-the-missing-touchpad-driver-dilemma/"><u>Fixing the Missing Touchpad Driver Dilemma</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722979130044-get-your-thrustmaster-t150-stealth-plus-gamepad-up-and-running-fast-driver-downloads/"><u>Get Your Thrustmaster T150 Stealth Plus Gamepad Up and Running - Fast Driver Downloads!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-tecno-spark-10-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Tecno Spark 10 5G</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-vivo-y100-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Vivo Y100 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-sliceshot-synopsis/"><u>In 2024, SliceShot Synopsis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-or-update-the-driver-for-your-brother-mfc-l2690dw-all-in-one-printer/"><u>Install or Update the Driver for Your Brother MFC-L2690DW All-in-One Printer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-your-logitech-sound-card-drivers-today-supports-win-11-7-and-8-systems/"><u>Install Your Logitech Sound Card Drivers Today! Supports Win 11, 7, and #8 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-setup-secure-the-latest-focusrite-scarlett-2i2-drivers-made-for-windows-users/"><u>Seamless Setup: Secure the Latest Focusrite Scarlett 2I2 Drivers Made For Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-and-speedy-access-to-free-acer-wifi-drivers-step-by-step-tutorials/"><u>Secure & Speedy Access to Free Acer WiFi Drivers - Step-by-Step Tutorials</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-excellent-windows-compatible-video-recorders/"><u>[Updated] In 2024, Excellent Windows-Compatible Video Recorders</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-spark-sponsorships-a-guide-to-easy-fundraising-for-budget-channels/"><u>[Updated] Spark Sponsorships A Guide to Easy Fundraising for Budget Channels</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/2023s-elite-selection-exploring-premium-choices-for-your-samsung-galaxy-z-flip-4-phone-case/"><u>2023'S Elite Selection: Exploring Premium Choices for Your Samsung Galaxy Z Flip 4 Phone Case</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-melding-audio-with-visuals-digitally/"><u>2024 Approved Melding Audio With Visuals Digitally</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/access-top-10-trending-apps-with-google-play-store-on-your-firestick-or-fire-tablet/"><u>Access Top 10 Trending Apps with Google Play Store on Your Firestick or Fire Tablet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/advancements-in-android-enhanced-experience-with-google-docs-on-tablets-and-foldable-devices/"><u>Advancements in Android: Enhanced Experience with Google Docs on Tablets and Foldable Devices</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-iphone-15-plus-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons From iPhone 15 Plus? Find the Best Solution Here</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-insights-ranking-the-best-21-hdmi-monitor-models/"><u>In 2024, Expert Insights Ranking the Best 2.1 HDMI Monitor Models</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-f54-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy F54 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-the-power-of-quantum-hdr-for-2024/"><u>In-Depth Analysis The Power of Quantum HDR for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-to-update-windows-spotlight-imagery/"><u>Step-by-Step to Update Windows Spotlight Imagery</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/three-proven-techniques-for-initiating-recovery-mode-on-windows-server-2016/"><u>Three Proven Techniques for Initiating Recovery Mode on Windows Server 2016</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/understanding-the-unique-paths-of-tech-giants-google-vs-apple/"><u>Understanding the Unique Paths of Tech Giants: Google Vs. Apple</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-battery-insight-a-comprehensive-tutorial-for-showcasing-battery-on-android/"><u>Unlocking Battery Insight: A Comprehensive Tutorial for Showcasing Battery % on Android</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-multitasking-potential-with-youtubes-pip-functionality-on-android-phones-and-tablets/"><u>Unlocking Multitasking Potential with YouTube's PiP Functionality on Android Phones and Tablets</u></a></li>
 </ul></div>
 

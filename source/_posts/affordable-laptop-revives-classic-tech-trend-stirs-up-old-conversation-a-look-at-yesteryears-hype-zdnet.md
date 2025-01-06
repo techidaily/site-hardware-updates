@@ -1,7 +1,7 @@
 ---
 title: "Affordable Laptop Revives Classic Tech Trend, Stirs Up Old Conversation: A Look at Yesteryear's Hype! - ZDNet"
-date: 2024-12-21T22:59:18.984Z
-updated: 2024-12-27T20:47:37.635Z
+date: 2025-01-01T22:34:21.408Z
+updated: 2025-01-06T04:28:27.637Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -85,7 +85,7 @@ I have been integrating Copilot into my workflow as I learn more about how to us
 The Surface's battery life has been fantastic, too. I get over 15 hours of use from a single charge, and it has yet to fully deplete to zero by the time I call a benchmarking test. The combination of smart design with meaningful trade-offs is what gives this laptop its marathon battery life, and opens it up for a variety of use cases from a creator or productivity perspective. Basically, this is a laptop you can work remotely with for the whole day without a charger.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -95,7 +95,7 @@ I mentioned this before, but the direction that Microsoft took with this laptop 
 The Surface Laptop is a flagship mid-range device that's well-rounded enough to take on a variety of roles. Despite a few trade-offs, it's everything it should be for the price. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -132,22 +132,17 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-hours-of-videography-expected-gb-usage-for-2024/"><u>[New] Hours of Videography Expected GB Usage for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-how-to-build-a-career-in-graphic-design/"><u>[New] In 2024, How to Build A Career In Graphic Design</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-the-grandest-gatherings-a-chronicle-of-the-most-voted-posts-top-10/"><u>[New] The Grandest Gatherings A Chronicle of the Most Voted Posts (Top 10)</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/outube-content-creators-optimal-stabilizer-companies-for-2024/"><u>[New] YouTube Content Creators Optimal Stabilizer Companies for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-apple-iphone-11-pro-max-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About Apple iPhone 11 Pro Max Activation Lock</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canoscan-lide-123-image-scanner-free-software-and-latest-updates/"><u>CanoScan LiDE 123 Image Scanner - Free Software and Latest Updates</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-guide-updating-and-installing-latest-epson-drivers-on-windows-11/"><u>Complete Guide: Updating and Installing Latest Epson Drivers on Windows 11</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/descarga-el-codificador-av1-hardwaresoftware-version-oficial-hora-de-actualizacion/"><u>Descarga El Codificador AV1 (Hardware/Software) - Versión Oficial Hora De Actualización</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-your-productivity-with-the-compatible-drivers-of-logitechs-premium-k40veil/"><u>Enhance Your Productivity with the Compatible Drivers of Logitech's Premium K40veil</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-successfully-solving-error-code-0x800f0922-during-windows-11-updates-top-8-fixes/"><u>Guide to Successfully Solving Error Code 0X800f0922 During Windows 11 Updates (Top 8 Fixes)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-xiaomi-civi-3-disney-100th-anniversary-edition-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Xiaomi Civi 3 Disney 100th Anniversary Edition Phone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-updated-drivers-for-your-amd-rx-6800-xt-on-windows-pcs-win11-win10-win8-win7/"><u>Install Updated Drivers for Your AMD RX 6800 XT on Windows PCs (Win11, Win10, Win8, Win7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/official-windows-11-64-bit-compatible-drivers-for-your-epson-ds-530-printer/"><u>Official Windows 11 (64-Bit) Compatible Drivers for Your Epson DS-530 Printer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-update-tutorial-for-scansnap-ix5500-drivers-on-microsoft-operating-systems/"><u>Quick Update Tutorial for ScanSnap iX5^500 Drivers on Microsoft Operating Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722960252077-step-by-step-guide-installing-the-corsair-k70-rgb-mechanical-gaming-keyboard/"><u>Step by Step Guide: Installing the Corsair K70 RGB Mechanical Gaming Keyboard</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-guide-fixing-your-samsung-universal-print-driver-woes-under-windows-operating-system/"><u>Troubleshooting Guide: Fixing Your Samsung Universal Print Driver Woes Under Windows Operating System</u></a></li>
-<li><a href="https://win-able.techidaily.com/update-resolved-issue-why-elden-ring-is-now-available/"><u>Update: Resolved Issue - Why Elden Ring Is Now Available</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-ultimate-guide-to-ios-based-interview-and-journey-podcasts-for-2024/"><u>[New] Ultimate Guide to iOS-Based Interview & Journey Podcasts for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-best-wedding-stories-online-youtube-plus-vimeos-selection-8/"><u>[Updated] The Best Wedding Stories Online YouTube + Vimeo's Selection (8)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-realme-12-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Realme 12 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-online.techidaily.com/automate-your-files-seamlessly-integrating-a-local-folder-with-google-drive/"><u>Automate Your Files: Seamlessly Integrating a Local Folder with Google Drive</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-se-2020-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone SE (2020) Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-compressor-essentials-optimizing-video-files-in-final-cut-pro-x-for-2024/"><u>New Compressor Essentials Optimizing Video Files in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-note-taking-with-apples-tool-compatibility-guide-for-windows-and-android-users/"><u>Seamless Note Taking with Apple's Tool: Compatibility Guide for Windows & Android Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stabilizing-windows-11-post-upgrade/"><u>Stabilizing Windows 11 Post-Upgrade</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-activating-your-android-devices-flashlight/"><u>Step-by-Step Guide: Activating Your Android Device's Flashlight</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-creating-a-functional-action-button-on-your-android-device/"><u>Step-by-Step Guide: Creating a Functional Action Button on Your Android Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-curious-case-of-falling-sd-card-sales-could-it-be-due-to-misunderstood-advantages/"><u>The Curious Case of Falling SD Card Sales - Could It Be Due to Misunderstood Advantages?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-no-experience-guide-to-earning-on-reddit-13-strategies-inside/"><u>The Ultimate, No-Experience Guide to Earning on Reddit - 13 Strategies Inside</u></a></li>
 </ul></div>
 

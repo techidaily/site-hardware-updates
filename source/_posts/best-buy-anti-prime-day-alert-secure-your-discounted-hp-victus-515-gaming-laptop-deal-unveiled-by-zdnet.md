@@ -1,7 +1,7 @@
 ---
 title: Best Buy Anti-Prime Day Alert! Secure Your Discounted HP Victus 지킷랄로피 ($515) - Gaming Laptop Deal Unveiled by ZDNet
-date: 2024-12-26T21:46:01.790Z
-updated: 2024-12-27T16:16:35.499Z
+date: 2025-01-02T11:12:43.344Z
+updated: 2025-01-05T19:56:56.002Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,18 +63,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-channel-conversion-secrets-yt-vs-igtv/"><u>[New] 2024 Approved Channel Conversion Secrets YT Vs IGTV</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-step-by-step-guide-to-background-dimming-in-videos/"><u>[Updated] Step-by-Step Guide to Background Dimming in Videos</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-the-unseen-secrets-of-optimizing-win11-performance-for-2024/"><u>[Updated] The Unseen Secrets of Optimizing Win11 Performance for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-twitch-live-reset-guide/"><u>[Updated] Twitch Live Reset Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/advanced-pc-components-guide-by-toms-tech-hub/"><u>Advanced PC Components Guide by Tom’s Tech Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-unveils-new-adol-book-laptop-featuring-exclusive-fragrance-dispenser-for-a-pleasant-user-experience/"><u>Asus Unveils New Adol Book Laptop Featuring Exclusive Fragrance Dispenser for a Pleasant User Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/balancing-act-dissecting-the-mixed-reactions-to-the-powerhouse-asus-rog-zephyrus-g1-6/"><u>Balancing Act: Dissecting the Mixed Reactions to the Powerhouse Asus ROG Zephyrus G1 6</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/clash-of-giants-intel-core-ultra-7-258v-and-amds-new-phoenix-processor-compete-in-latest-bapco-rankings/"><u>Clash of Giants: Intel Core Ultra 7 258V & AMD's New 'Phoenix' Processor Compete in Latest BAPCO Rankings</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/decoding-gadgets-with-tom-in-depth-hardware-evaluations/"><u>Decoding Gadgets with Tom - In-Depth Hardware Evaluations</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On HTC U23 Pro? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-oppo-reno-8t-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Oppo Reno 8T Phone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-supercharge-your-chat-essential-whatsapp-tactics-revealed/"><u>In 2024, Supercharge Your Chat Essential WhatsApp Tactics Revealed</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Planning to Use a Pokemon Go Joystick on Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-achieving-clear-communication-on-skype/"><u>[New] 2024 Approved Achieving Clear Communication on Skype</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-vloggers-guide-to-choosing-camera-essentials-the-top-9-accessories/"><u>2024 Approved Vloggers' Guide to Choosing Camera Essentials - The Top 9 Accessories</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-huawei-nova-y71-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Huawei Nova Y71 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/early-orders-show-promising-future-my-insights-on-the-anticipated-launch-of-apple-vision-pro-as-covered/"><u>Early Orders Show Promising Future: My Insights on the Anticipated Launch of Apple Vision Pro, as Covered</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-your-perfect-gaming-palmtop-below-100-heres-the-ideal-choice/"><u>Find Your Perfect Gaming Palmtop Below $100 - Here's the Ideal Choice!</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-samsung-galaxy-a54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-sufficient-is-an-8gb-graphics-card-for-gaming-the-answer-varies-by-game/"><u>How Sufficient Is an 8GB Graphics Card for Gaming? The Answer Varies by Game</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-these-intelligent-household-innovations-simplify-daily-living/"><u>How These Intelligent Household Innovations Simplify Daily Living</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-digital-detox-ignoring-negativity-on-youtube/"><u>In 2024, Digital Detox Ignoring Negativity on YouTube</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/indispensable-must-haves-transforming-your-space-into-an-ideal-remote-work-environment/"><u>Indispensable Must-Haves: Transforming Your Space Into an Ideal Remote Work Environment</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-the-revolutionary-stick-figure-camera-your-ultimate-privacy-solution/"><u>Introducing the Revolutionary Stick Figure Camera - Your Ultimate Privacy Solution</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/key-tips-to-maintain-and-preserve-your-hard-drives-functionality-over-time/"><u>Key Tips to Maintain and Preserve Your Hard Drive's Functionality Over Time</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-tipps-und-techniken-zur-reduzierung-der-dateigrosse-von-mov-filmen-effizient-komprimieren/"><u>Top Tipps Und Techniken Zur Reduzierung Der Dateigröße Von MOV-Filmen Effizient Komprimieren</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unveiling-the-best-ways-to-capture-your-minecraft-quests-on-a-mac/"><u>Unveiling the Best Ways to Capture Your Minecraft Quests on a Mac</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Explore the Year's Finest Tech Marvels: Leading Gizmos and Tools of 2E23 Spotlighted by ZDNet"
-date: 2024-12-20T19:59:56.663Z
-updated: 2024-12-22T11:06:47.476Z
+date: 2025-01-02T23:00:05.427Z
+updated: 2025-01-05T20:36:59.006Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,18 +134,16 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/download-now-official-amd-graphics-driver-for-radeon-rx-cu3i-6900-xt-supporting-win11win10win8win7/"><u>[Download Now] Official AMD Graphics Driver for Radeon RX Cu3i (6900 XT) Supporting Win11/Win10/Win8/Win7</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-pioneering-physical-activity-bests-in-virtual-treadmills-for-2024/"><u>[New] Pioneering Physical Activity Bests in Virtual Treadmills for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-nocturnal-nuances-essential-tips-for-moonlit-portraiture-for-2024/"><u>[Updated] Nocturnal Nuances Essential Tips for Moonlit Portraiture for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/composing-captivating-cutting-edge-synopses/"><u>Composing Captivating Cutting-Edge Synopses</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-system-efficiency-with-recent-upgrades-to-the-dell-bus-control-firmware/"><u>Enhance System Efficiency with Recent Upgrades to the Dell Bus Control Firmware</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-cause-of-window-10s-screen-tremors-a-step-by-step-guide/"><u>Fixing the Cause of Window 10'S Screen Tremors: A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/oes-youtube-count-views-its-not-as-simple-as-you-think/"><u>How Does YouTube Count Views? It's Not as Simple as You Think</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-download-epson-ds-530-printer-software-for-the-latest-windows-11-update/"><u>How to Find and Download Epson DS-530 Printer Software for the Latest Windows 11 Update</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/introducing-the-easy-serve-feature-arfs-innovative-automatic-pet-food-dispenser/"><u>Introducing the Easy-Serve Feature: Arf’s Innovative Automatic Pet Food Dispenser</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/newest-thunderbolt-3-dock-controllers-optimizing-your-lenovo-thinkpad-experience/"><u>Newest Thunderbolt 3 Dock Controllers: Optimizing Your Lenovo ThinkPad Experience</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/ram-diagnostics-and-troubleshooting-with-yl-software-ensuring-optimal-performance-of-computer-memory/"><u>RAM Diagnostics and Troubleshooting with YL Software | Ensuring Optimal Performance of Computer Memory</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/sluggish-boot-times-uncover-the-reasons-behind-your-computers-delays-with-yl-software-solutions/"><u>Sluggish Boot Times: Uncover the Reasons Behind Your Computer's Delays with YL Software Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/speed-boost-alert-update-your-windows-system-for-the-new-and-improved-gigabit-ethernet-driver-supporting-usb-30-technology/"><u>Speed Boost Alert! Update Your Windows System for the New and Improved Gigabit Ethernet Driver Supporting USB 3.0 Technology.</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-how-to-overlay-photos-on-computer-desktop-and-online/"><u>[Updated] 2024 Approved How to Overlay Photos on Computer (Desktop & Online)</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-metaversal-journey-versus-omniverse-quest/"><u>2024 Approved Metaversal Journey Versus Omniverse Quest</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-pce-ac56-driver-issues-in-windows-1087-solved/"><u>ASUS PCE-AC56 Driver Issues in Windows 10/8/7 [SOLVED]</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-xr-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone XR</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-tutorial-on-acquiring-asus-atk01-00-acpi-drivers/"><u>Comprehensive Tutorial on Acquiring ASUS ATK01 00 ACPI Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-official-nvidia-geforce-rtx-3070-ti-drivers-compatible-with-windows-1087/"><u>Download Official NVIDIA GeForce RTX 3070 Ti Drivers Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oneplus-nord-n30-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your OnePlus Nord N30 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-hp-laserjet-p1007-drivers-install-guide-get-your-printer-running-smoothly/"><u>Latest HP LaserJet P1007 Drivers Install Guide - Get Your Printer Running Smoothly!</u></a></li>
+<li><a href="https://games-able.techidaily.com/screen-and-sanctuary-packing-essentials-for-travel-gamers/"><u>Screen & Sanctuary: Packing Essentials for Travel Gamers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/tailoring-youtube-video-sharing-preferences/"><u>Tailoring YouTube Video Sharing Preferences</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-0x80072efd-problem-on-your-pc-with-windows-10/"><u>Troubleshooting the 0X80072EFD Problem on Your PC with Windows 10</u></a></li>
 </ul></div>
 

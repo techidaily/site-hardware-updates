@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Black Friday Bargain: Snag Lenovo's Flex 지난에 $99 Deal Before Cyber Monday Chaos | ZDNET"
-date: 2024-12-24T22:10:52.719Z
-updated: 2024-12-27T23:34:55.158Z
+date: 2024-12-30T09:58:46.316Z
+updated: 2025-01-05T21:01:40.564Z
 tags:
   - laptops
 categories:
@@ -16,7 +16,7 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 Cyber Monday is one of the best times of the year to purchase your next laptop or tablet. Considerable discounts plus major brands equal unparalleled savings. Say you're working within a limited budget, though -- under $100 or under $500\. I compared the best laptops by their standout features, including processing power, RAM, and operating system, to arrive at the best laptop under $500 and under $100 this Cyber Monday.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -24,7 +24,7 @@ Cyber Monday is one of the best times of the year to purchase your next laptop o
 [![04-bf-cm.png](https://www.zdnet.com/a/img/resize/954e855aae296b0590d40ff6eba4167fd27f3d67/2022/11/29/2911e8eb-1a11-4aa3-8ff7-015c7e854046/04-bf-cm.png?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Black Friday and Cyber Monday tech deals still available If you missed out on this year's mega sale events, no problem. ZDNET is rounding up the best tech deals still available, right here.  Read now](https://www.zdnet.com/collection/cyber-monday/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In the under $500 category, you get the highest savings on the [HP Pavilion 15t-eg200 laptop](https://www.tkqlhce.com/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-pavilion-laptop-15t-eg200-laptop-4u8e0av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The 15.6-inch laptop is on sale through HP for $450 -- a markdown of $450 from its original $900 price. It comes with a Windows 11 Home operating system, an Intel® Core™ i5 processor, an Intel® Iris® Xe Graphics card, 8 GB memory, and 256 GB storage. It has a fingerprint reader, a long lasting battery that supports fast charging of about 50% in 45 minutes, and an HD wide vision 720p HD camera that's perfect for Zoom calls with noise reduction and integrated microphones. 
@@ -73,17 +73,22 @@ If your budget is in the under $100 category, and you want the best value for yo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-seamlessly-switch-from-gif-to-video-with-top-5-online-tools/"><u>[Updated] 2024 Approved Seamlessly Switch From GIF to Video with Top 5 Online Tools</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-unfading-flight-ambitions-top-10-longevity-drone-lists/"><u>[Updated] 2024 Approved Unfading Flight Ambitions Top 10 Longevity Drone Lists</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-secrets-buying-a-high-quality-360-camera-today/"><u>[Updated] Unveiling the Secrets Buying a High-Quality 360 Camera Today</u></a></li>
-<li><a href="https://games-able.techidaily.com/easy-guide-to-establish-stronger-gaming-access-controls-on-ps5/"><u>Easy Guide to Establish Stronger Gaming Access Controls on PS5</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-seamless-printing-with-the-newest-epson-l3110-drivers-windows-friendly/"><u>Ensure Seamless Printing with the Newest Epson L3110 Drivers - Windows Friendly!</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-crafting-timeless-videos-with-retro-filmmaking-skills/"><u>In 2024, Crafting Timeless Videos with Retro Filmmaking Skills</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-12-pro-max-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 12 Pro Max Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722970768249-install-the-newest-hp-envy-56e-drivers-fast-and-trouble-free/"><u>Install the Newest HP Envy 56E Drivers – Fast and Trouble-Free</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/logitech-g433-mic-problems-now-fixed-and-ready-for-action/"><u>Logitech G433 Mic Problems - Now Fixed and Ready for Action!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-quickly-update-to-intel-iris-plus-graphics-driver-v640/"><u>Step-by-Step Tutorial: Quickly Update to Intel Iris + Graphics Driver V640!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-downloading-and-using-the-hp-laserjet-pro-m402n-driver-in-windows/"><u>The Ultimate Guide to Downloading and Using the HP LaserJet Pro M402n Driver in Windows</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winning-with-winxvideo-ai-einfache-bildschirm-webcam-und-audioaufzeichnungslosung/"><u>Winning with WinxVideo AI: Einfache Bildschirm, Webcam- Und Audioaufzeichnungslösung</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-seamlessly-integrate-your-switch-pro-into-steam-gaming/"><u>[New] 2024 Approved Seamlessly Integrate Your Switch Pro Into Steam Gaming</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/capturing-speech-iphone-memo-making-steps/"><u>Capturing Speech IPhone Memo-Making Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-to-masking-language-indicator-on-win11/"><u>Expert Guide to Masking Language Indicator on Win11</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/expert-software-recommendations-to-restore-accidentally-erased-disk-partitions/"><u>Expert Software Recommendations to Restore Accidentally Erased Disk Partitions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock Apple iPhone 8 Plus 3 Ways To Unlock</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-motion-monitoring-made-easy-best-apps-for-android-and-ios/"><u>In 2024, Motion Monitoring Made Easy Best Apps for Android and iOS</u></a></li>
+<li><a href="https://facebook.techidaily.com/maximizing-audience-reach-posting-instagram-reels-on-facebook/"><u>Maximizing Audience Reach: Posting Instagram Reels on Facebook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/setting-up-weather-notifications-keep-track-of-outside-temperatures-directly-from-your-smartphone/"><u>Setting Up Weather Notifications: Keep Track of Outside Temperatures Directly From Your Smartphone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-tips-for-launching-camera-on-samsung-galaxy-devices/"><u>Speedy Tips for Launching Camera on Samsung Galaxy Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-activating-call-forwarding-on-your-mobile-device/"><u>Step-by-Step Guide: Activating Call Forwarding on Your Mobile Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-downloading-and-setting-up-android-13-beta-version-on-your-device/"><u>Step-by-Step Guide: Downloading and Setting Up Android 13 Beta Version on Your Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-locating-the-unique-serial-number-on-your-android-smartphone/"><u>Step-by-Step Guide: Locating the Unique Serial Number on Your Android Smartphone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-monitoring-your-android-devices-usage-duration/"><u>Step-by-Step Guide: Monitoring Your Android Device's Usage Duration</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-viewing-and-copying-data-with-your-android-clipboard/"><u>Step-by-Step Tutorial: Viewing and Copying Data with Your Android Clipboard</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/top-5-essential-applications-every-owner-of-a-kindle-paperwhite-3-should-have/"><u>Top 5 Essential Applications Every Owner of a Kindle Paperwhite 3 Should Have</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-android-applications-for-audio-streaming-your-ultimate-guide/"><u>Top-Rated Android Applications for Audio Streaming: Your Ultimate Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-resolving-driver-corrupted-expool-bugs-in-your-windows-10-system/"><u>Understanding and Resolving 'DRIVER CORRUPTED EXPOOL' Bugs in Your Windows 10 System</u></a></li>
 </ul></div>
 

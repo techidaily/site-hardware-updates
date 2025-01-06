@@ -1,7 +1,7 @@
 ---
 title: Lenovo's Ultimate Portable Secret Revealed! The Ingenious TrackPoint Feature & Extra Tricks Within | Insights
-date: 2024-12-23T18:16:28.353Z
-updated: 2024-12-27T16:40:46.376Z
+date: 2025-01-04T11:43:14.483Z
+updated: 2025-01-06T03:17:03.918Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,24 +116,24 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-premium-combo-exclusive-afx-design-tools/"><u>[New] 2024 Approved Premium Combo Exclusive AFX Design Tools</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-top-30-anime-inspired-videos-reshaping-online-culture/"><u>[New] In 2024, Top 30 Anime-Inspired Videos Reshaping Online Culture</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unlock-youtube-monetization-with-500-subscribers/"><u>[New] Unlock YouTube Monetization with 500 Subscribers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-unveiling-the-magic-in-haul-video-creation/"><u>[New] Unveiling the Magic in Haul Video Creation</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-facing-copyright-challenges-on-youtube-know-your-rights/"><u>[Updated] 2024 Approved Facing Copyright Challenges on YouTube Know Your Rights</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-voice-overhaul-made-simple-explore-7-best-audio-editing-apps/"><u>2024 Approved Voice Overhaul Made Simple Explore 7 Best Audio Editing Apps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-radeon-vega-64-latest-driver-downloads-and-updates-for-windows-systems-fixed/"><u>AMD Radeon Vega 64: Latest Driver Downloads and Updates for Windows Systems [FIXED!]</u></a></li>
-<li><a href="https://games-able.techidaily.com/can-you-use-the-newest-controller-with-an-older-system/"><u>Can You Use the Newest Controller with an Older System?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-latest-dymo-4xl-label-printer-software-version/"><u>Download & Install the Latest DYMO 4XL Label Printer Software Version</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-download-of-sm-bus-driver-for-multiple-windows-editions-11-10-8-and-7-supported/"><u>Easy Download of SM Bus Driver for Multiple Windows Editions: 11, 10, 8, and 7 Supported</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-install-epson-perfection-v600-drivers-available-online/"><u>Easy Install: Epson Perfection V600 Drivers Available Online</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-for-m-audio-fast-track-driver-on-windows-10-7-8-and-81/"><u>Easy Installation Guide for M-Audio Fast Track Driver on Windows 10, 7, 8 and 8.1</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722970729915-epson-artisan-1430-driver-download-windows-11108/"><u>Epson Artisan 1430 Driver Download – Windows 11/10/8</u></a></li>
-<li><a href="https://win-news.techidaily.com/evaluating-cloud-computing-benefits-vs-drawbacks-a-comprehensive-guide-by-yl-computing/"><u>Evaluating Cloud Computing: Benefits Vs. Drawbacks - A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-compatible-drivers-usb-to-hdmi-upgrade-tool-now-online/"><u>Get the Latest Compatible Drivers - USB to HDMI Upgrade Tool Now Online!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-sony-xperia-5-v-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Sony Xperia 5 V Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-your-pc-build-tips-from-toms-hardware-experts/"><u>Mastering Your PC Build: Tips From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-update-your-brother-hl-3170cdw-with-new-drivers/"><u>Step-by-Step Guide to Update Your Brother HL-3170CDW with New Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-your-sound-card-software-free-downloads-of-sound-blaster-audigy-fx-drivers-today/"><u>Upgrade Your Sound Card Software - Free Downloads of Sound Blaster Audigy FX Drivers Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixed-steam-not-detecting-controller-on-windows/"><u>[Fixed] Steam Not Detecting Controller on Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-entry-level-insights-navigating-hd-and-uhd-video-standards/"><u>[New] Entry-Level Insights Navigating HD & UHD Video Standards</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-cut-to-zero-download-custom-ending-scenes-effortlessly/"><u>[New] In 2024, Cut to Zero - Download Custom Ending Scenes Effortlessly</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-passport-selfie-maker-top-quality-instant-access-for-desktoponline-use/"><u>[New] Passport Selfie Maker – Top Quality, Instant Access for Desktop/Online Use</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-ultimate-guide-to-ipad-based-time-lapse-videos/"><u>[Updated] The Ultimate Guide to iPad-Based Time-Lapse Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-top-15-action-camera-picks-beyond-your-gopro-needs/"><u>2024 Approved Top 15 Action Camera Picks Beyond Your GoPro Needs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adopt-a-streamlined-approach-to-input-customization/"><u>Adopt a Streamlined Approach to Input Customization</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/finally-divide-the-total-distance-traveled-by-all-vehicles-by-the-earths-circumference-to-find-out-how-many-times-around-the-earth-this-is-37600-km-40074-km4/"><u>Finally, Divide the Total Distance Traveled by All Vehicles by the Earth's Circumference to Find Out How Many Times Around the Earth This Is: $37,600$ Km / $40,074$ Km $ Approx 0.938$.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/from-google-now-to-evolution-unveiling-the-next-generation-of-googles-virtual-helper/"><u>From Google Now to Evolution: Unveiling the Next Generation of Google's Virtual Helper</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-keeping-your-android-applications-active-when-they-move-into-the-background/"><u>Guide: Keeping Your Android Applications Active When They Move Into the Background</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/limited-leisure-moments-here-are-the-cream-of-the-crop-15-great-android-apps-to-pass-the-time-quickly/"><u>Limited Leisure Moments? Here Are The Cream of the Crop: 15 Great Android Apps to Pass the Time Quickly!</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>List of Pokémon Go Joysticks On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-app-replication-a-comprehensive-guide-to-cloning-android-applications/"><u>Mastering App Replication: A Comprehensive Guide to Cloning Android Applications</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/multiple-users-unlocked-mastering-personalized-profile-creation-on-your-android-device/"><u>Multiple Users Unlocked: Mastering Personalized Profile Creation on Your Android Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/personalize-android-quick-access-menu-with-these-easy-adjustment-techniques/"><u>Personalize Android Quick Access Menu with These Easy Adjustment Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/personalizing-your-timepiece-tailoring-the-lock-screen-clock-on-android/"><u>Personalizing Your Timepiece: Tailoring the Lock Screen Clock on Android</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/qualcomms-latest-innovation-snapdragon-4-gen-2-transforms-the-budget-phone-market/"><u>Qualcomm's Latest Innovation: Snapdragon 4 Gen 2 Transforms the Budget Phone Market</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/spotting-bingchatgpt-token-conspiracies-in-the-digital-space-for-safety-and-security/"><u>Spotting BingChatGPT Token Conspiracies in the Digital Space for Safety and Security</u></a></li>
 </ul></div>
 

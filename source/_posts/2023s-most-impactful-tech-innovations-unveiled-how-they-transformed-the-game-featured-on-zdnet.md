@@ -1,7 +1,7 @@
 ---
 title: 2023'S Most Impactful Tech Innovations Unveiled | How They Transformed the Game - Featured on ZDNET
-date: 2024-12-24T22:36:44.994Z
-updated: 2024-12-27T18:20:06.907Z
+date: 2024-12-30T08:45:39.822Z
+updated: 2025-01-06T06:28:57.871Z
 tags:
   - laptops
 categories:
@@ -34,19 +34,11 @@ And, if you're still waiting to hear from some major companies, keep checking ba
 
 ![LG 97-inch M3 OLED smart webOS TV](https://www.zdnet.com/a/img/resize/506f09c228df659cacc5d524977b1b805c7b4dca/2023/01/03/6f43e8d1-cf31-43f8-b6cd-25bc58e9cb75/97m3-image-4.jpg?auto=webp&fit=crop&height=360&width=640)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 LG
 
 While LG unveiled its [new line of C, G, and Z OLED models](https://www.zdnet.com/home-and-office/home-entertainment/lgs-2023-tv-lineup-c3-g3-z3-models/), it also launched a surprise wireless plug-and-play 97-inch TV. It comes with Zero Connect and One Wall Design for a flush wall experience – no wires needed.
 
 Read our [first look at the M3 OLED TV here](https://www.zdnet.com/home-and-office/home-entertainment/lg-97-inch-oled-tv-m3-ces-2023/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Asus debuts all-new laptops across the board
 
@@ -55,6 +47,10 @@ Asus
 In addition to a new line of [eco-friendly laptops for workers and students](https://www.zdnet.com/article/asus-unveils-two-sustainably-designed-laptops-for-business-executives-and-students/), Asus released information regarding its gaming Chromebook, the Vibe CX34\. It also debuted a 3D OLED laptop that consumers can use sans 3D glasses.
 
 Check the [high-end specs of the Vibe CX34 Chromebook here](https://www.zdnet.com/article/asus-new-vibe-cx34-gaming-chromebook-brings-some-high-end-specs/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The year of the smart toilet sensor
 
@@ -71,7 +67,7 @@ MSI
 Fans of the [MSI gaming laptop family](https://us.msi.com/), rejoice -- new models of fan favorites like the Stealth, Pulse, Raider, and Vector laptops were announced this morning. You should be able to preorder these gaming powerhouses shortly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Roku and Hisense offer new models and upgrades
@@ -81,6 +77,10 @@ Roku
 While [Hisense upgraded its U8 line's picture](https://www.zdnet.com/home-and-office/home-entertainment/ces-2023-hisense-unveils-new-u6k-u7k-and-u8k-tvs/) with ULED X technology, Roku announced that it's entering the smart TV game with a new line of Roku panels. 
 
 Read more about [Roku making its own TVs](https://www.zdnet.com/home-and-office/home-entertainment/ces-2023-roku-to-begin-offering-its-own-tv-builds-this-year/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Samsung adds new security software with Knox Matrix
 
@@ -92,6 +92,10 @@ Check out the article version of the interview [here](https://www.zdnet.com/arti
 
 **Also:** [**What's in the tech bag ZDNET's EIC takes to CES?**](https://www.zdnet.com/article/what-tech-is-in-the-ces-2023-bag-of-zdnets-editor-in-chief/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## HP focuses on sustainability and hybrid work with new laptops
 
 HP
@@ -99,10 +103,6 @@ HP
 While HP dropped new Dragonfly Pro chromebooks and laptops, it also debuted a series of other laptops, monitors, and webcams. Also announced was a focus on sustainability, with many products being constructed from post-consumer recycled materials.
 
 Read about [new HP laptops are coming to shoppers' carts here](https://www.zdnet.com/article/laptops-chromebooks-all-in-one-pcs-and-more-take-a-look-at-hps-hybrid-focused-device-portfolio/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Track your feathered friends with the Bird Buddy smart feeder
 
@@ -112,10 +112,6 @@ You're used to indoor appliances with smart features, but now with the Bird Budd
 
 Read more about the [Bird Buddy smart feeders featured this year](https://www.zdnet.com/home-and-office/yard-outdoors/ces-2023-this-new-smart-bird-feeder-can-capture-up-close-images-of-hummingbirds/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## HyperX debuts new gaming mice
 
 HyperX
@@ -123,6 +119,10 @@ HyperX
 Gamers can also pick up a new gaming mouse thanks to the announced Pulsefire Haste 2 gaming mouse (wired and wireless versions), shipping in March in stores and online. There's also the HyperX Clutch Gladiate Xbox Controller, available in April, and a new line of 3D-printed accessories, starting with a [Cozy Cat keycap](https://www.zdnet.com/home-and-office/home-entertainment/hyperx-launches-new-line-of-3d-printed-keycaps-headphone-backplates-and-more/). 
 
 Get the details on the [Pulsefire Haste 2 and Clutch Gladiate Xbox controller](https://www.zdnet.com/home-and-office/home-entertainment/hyperxs-ces-2023-lineup-includes-haste-2-mice-clutch-gladiate-xbox-controller/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## AMD announces Ryzen 7040 series
 
@@ -170,15 +170,20 @@ If you want the best of the news, you can see the highlights of [Day 1 of CES 20
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-gamer-tested-streaming-software-picks/"><u>[New] 2024 Approved Gamer-Tested Streaming Software Picks</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-exploring-top-rated-frame-rate-choices-for-cinema-slow-motion-for-2024/"><u>[New] Exploring Top-Rated Frame Rate Choices for Cinema Slow-Motion for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-oppo-reno-8t-by-drfone-android/"><u>How to Show Wi-Fi Password on Oppo Reno 8T</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-advanced-siri-shortcuts-for-an-enhanced-iphone-experience-as-revealed/"><u>Mastering Advanced Siri Shortcuts for an Enhanced iPhone Experience as Revealed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/rapid-setup-of-lexars-usb-driver-download-in-a-snap/"><u>Rapid Setup of Lexar's USB Driver - Download in a Snap</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/razer-naga-support-where-to-download-the-most-recent-driver-packages-for-windows-users/"><u>Razer Naga Support: Where to Download the Most Recent Driver Packages for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolving-compatibility-issues-with-bluetooth-on-the-latest-windows-11-platform/"><u>Resolving Compatibility Issues with Bluetooth on the Latest Windows 11 Platform</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-standard-curing-period-for-concrete-under-normal-conditions-is-at-least-7-days/"><u>The Standard Curing Period for Concrete Under Normal Conditions Is at Least 7 Days</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/top-10-affordable-video-chat-for-android-users-for-2024/"><u>Top 10 Affordable Video Chat for Android Users for 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/windows-10-challenges-loom-ahead-for-microsoft-only-one-year-remaining-to-address-issues-insights-from-zdnet/"><u>Windows 10 Challenges Loom Ahead for Microsoft: Only One Year Remaining to Address Issues - Insights From ZDNet</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-capturing-clarity-mastering-hd-videos-from-tweet/"><u>[New] 2024 Approved Capturing Clarity Mastering HD Videos From Tweet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-collaborative-screen-recording/"><u>[Updated] In 2024, Collaborative Screen Recording</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-copyright-laws-and-content-capture-for-2024/"><u>[Updated] YouTube Copyright Laws and Content Capture for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-instantly-start-youtube-videos-on-your-facebook-timeline/"><u>2024 Approved Instantly Start YouTube Videos on Your Facebook Timeline</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-freshest-drivers-for-the-lenovo-thunderbolt-3-hub/"><u>Download Freshest Drivers for the Lenovo Thunderbolt 3 Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-for-high-performance-validity-touch-id-sensor-driver-toolkit-free-downloads-available/"><u>Easy Setup for High-Performance Validity Touch ID Sensor Driver Toolkit - Free Downloads Available</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-shopping-guide-to-the-best-websites-for-box-enigmas-for-2024/"><u>Exclusive Shopping Guide to the Best Websites for Box Enigmas for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-out-of-your-graphics-card-amd-radeon-hd-ab-soluteby-downloading-and-updating-drivers-on-windows-10/"><u>Get the Most Out of Your Graphics Card: AMD Radeon HD Ab-Soluteby Downloading and Updating Drivers on Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-update-your-pc-with-the-intel-wireless-ac-9560-driver-download/"><u>How to Easily Update Your PC with the Intel Wireless AC 9560 Driver Download</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-overcome-difficulties-in-sharing-subscriptions-among-families/"><u>How to Overcome Difficulties in Sharing Subscriptions Among Families</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-fixes-for-haldll-error-messages-on-different-versions-of-windows-including-vista-7-8-10-and-11/"><u>Quick Fixes for hal.dll Error Messages on Different Versions of Windows, Including Vista, 7, 8, 10, and 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-printing-on-windows-update-and-download-hp-laserjet-1320-drivers-today/"><u>Seamless Printing on Windows - Update & Download HP LaserJet 1320 Drivers Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-windows-drivers-without-an-active-connection/"><u>Step-by-Step Guide: Installing Windows Drivers Without an Active Connection</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ltimate-guide-to-student-centric-historical-yt-channels-for-2024/"><u>The Ultimate Guide to Student-Centric Historical YT Channels for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-computers-performance-download-intel-raid-driver-software-supported-by-windows-versions-11108win7/"><u>Upgrade Your Computer's Performance: Download Intel RAID Driver Software - Supported by Windows (Versions 11/10/8/^[Win7])</u></a></li>
 </ul></div>
 

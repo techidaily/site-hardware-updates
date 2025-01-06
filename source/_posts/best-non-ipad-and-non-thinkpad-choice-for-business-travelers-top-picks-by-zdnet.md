@@ -1,7 +1,7 @@
 ---
 title: "Best Non-iPad and Non-ThinkPad Choice for Business Travelers: Top Picks by ZDNet"
-date: 2024-12-24T23:06:01.765Z
-updated: 2024-12-27T19:43:00.790Z
+date: 2025-01-04T09:34:49.522Z
+updated: 2025-01-06T12:59:57.312Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Cesar Cadenas/ZDNET
 And for one of the best qualities of this laptop: battery life is absolutely phenomenal. I [performed our usual test](https://www.zdnet.com/article/how-we-test-laptops/) of running a YouTube livestream at 720p and 50% brightness. At its peak, the Surface Pro lasted just under 13 hours on a single charge. That's just shy of Microsoft's purported 14-hour battery life. In practical usage, this is a device that will easily last multiple days on a single charge. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,20 +122,17 @@ Prices for the device start at $999.99\. My review unit with the 12-core Snapdra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ow-to-create-gifs-from-youtube-videos/"><u>[New] How to Create GIFs From YouTube Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-humor-hub-for-apple-devices-for-2024/"><u>[Updated] Humor Hub for Apple Devices for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/boost-zoom-audio-solutions-for-waveform-woes-for-2024/"><u>Boost Zoom Audio Solutions for Waveform Woes for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-enhance-your-windows-experience-with-the-latest-canon-drivers/"><u>Download & Enhance Your Windows Experience with the Latest Canon Drivers!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-upgrade-geforce-gtx-1660-super-graphics-card-drivers/"><u>Download and Upgrade: GeForce GTX 1660 Super Graphics Card Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-downloading-and-setup-the-comprehensive-guide-to-installing-epson-xp-410-drivers-on-windows/"><u>Easy Downloading & Setup: The Comprehensive Guide to Installing Epson XP-410 Drivers on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fresh-amd-radeon-windows-drivers-available-free-downloads/"><u>Fresh AMD Radeon Windows Drivers Available – Free Downloads</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-to-repairing-the-80211ac-supported-realtek-rtl8821ae-network-interface-controller-drivers/"><u>Guide to Repairing the 802.11Ac Supported Realtek RTL8821ae Network Interface Controller Drivers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-cut-the-clutter-not-quality-explore-top-37-apps-for-mobile-videos-downsize/"><u>In 2024, Cut the Clutter, Not Quality Explore Top 37 Apps for Mobile Videos Downsize</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722965580565-latest-konica-minolta-driver-downloads-compatible-with-windows-11-10-8-and-7-get-started-now/"><u>Latest Konica Minolta Driver Downloads Compatible with Windows 11, 10, 8, and 7 – Get Started Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovo-visual-enhancement-fresh-driver-download-and-setup-info/"><u>Lenovo Visual Enhancement: Fresh Driver Download & Setup Info</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/optimize-your-speakers-with-new-sound-card-drivers-download-now-windows/"><u>Optimize Your Speakers with New Sound Card Drivers - Download Now (Windows)</u></a></li>
-<li><a href="https://article-posts.techidaily.com/premiere-pros-shadowy-showdown/"><u>Premiere Pro's Shadowy Showdown</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-package-unregistered-photo-problems-in-windows-os/"><u>Solving 'Package Unregistered' Photo Problems in Windows OS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-tips-for-a-broken-headset-microphone-connection/"><u>Step-by-Step Repair Tips for a Broken Headset Microphone Connection</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-dynamic-face-effects-instantaneous-motion-blur-for-striking-images-with-picsart/"><u>[New] 2024 Approved Dynamic Face Effects Instantaneous Motion Blur for Striking Images with Picsart</u></a></li>
+<li><a href="https://facebook.techidaily.com/demystifying-the-purpose-behind-vague-content-sharing/"><u>Demystifying the Purpose Behind Vague Content Sharing</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-valves-new-upgrades-advanced-game-distribution-in-families-and-improved-parental-management-systems-on-steam/"><u>Discover Valve's New Upgrades: Advanced Game Distribution in Families and Improved Parental Management Systems on Steam</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-four-primary-techniques-of-ai-oversight-by-authorities/"><u>Exploring the Four Primary Techniques of AI Oversight by Authorities</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-v27-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo V27 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/is-instagrams-self-validation-a-game-changer-for-2024/"><u>Is Instagram’s Self-Validation a Game Changer for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-secure-browsing-a-comprehensive-tutorial-for-setting-up-a-vpn-on-android-smartphones/"><u>Mastering Secure Browsing: A Comprehensive Tutorial for Setting Up a VPN on Android Smartphones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-the-art-of-taking-screenshots-a-comprehensive-guide-for-samsung-galaxy-users/"><u>Mastering the Art of Taking Screenshots: A Comprehensive Guide for Samsung Galaxy Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/optimize-smartphone-longevity-enable-self-restart-feature-on-samsung-galaxy-every-week/"><u>Optimize Smartphone Longevity: Enable Self-Restart Feature on Samsung Galaxy Every Week</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-disable-all-android-sensor-features-with-a-single-action/"><u>Quick Guide: Disable All Android Sensor Features with a Single Action</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revival-of-swappable-phone-power-packs-a-new-era-in-mobile-technology/"><u>Revival of Swappable Phone Power Packs: A New Era in Mobile Technology</u></a></li>
 </ul></div>
 

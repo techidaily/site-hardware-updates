@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Apple Product Launches in October: Anticipating the New M4 Mac Mini, Latest iPad Models & Enhancements to Siri - Insights From ZDNet"
-date: 2024-12-15T16:28:51.901Z
-updated: 2024-12-22T01:09:26.301Z
+date: 2025-01-04T07:03:30.718Z
+updated: 2025-01-06T12:24:14.378Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,20 +118,14 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-enhancing-your-content-10-exceptional-reacting-techniques-for-2024/"><u>[New] Enhancing Your Content 10 Exceptional Reacting Techniques for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-stream-wars-evaluation-who-comes-out-on-top-obs-or-twitch-studio/"><u>[New] In 2024, Stream Wars Evaluation Who Comes Out on Top, OBS or Twitch Studio?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-becoming-an-illustration-maestro-best-mac-free-tools/"><u>[Updated] 2024 Approved Becoming an Illustration Maestro - Best Mac Free Tools</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-rise-above-the-crowd-10-proven-techniques-for-video-standout/"><u>[Updated] In 2024, Rise Above the Crowd 10 Proven Techniques for Video Standout</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-for-installing-soundmax-audio-drivers-on-your-pc-with-windows-os/"><u>Easy Steps for Installing SoundMAX Audio Drivers on Your PC with Windows OS</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/expert-iphoneandroid-blur-application-guide/"><u>Expert iPhone/Android Blur Application Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-tips-to-address-lg-display-driver-concerns-across-windows-11-8-and-7-systems/"><u>Expert Tips to Address LG Display Driver Concerns Across Windows 11, 8, and 7 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-drivers-for-your-microsoft-surface-book-2-in-just-a-few-minutes/"><u>Get the Newest Drivers for Your Microsoft Surface Book 2 in Just a Few Minutes!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-geforce-rtx-3070-driver-updates-and-download-for-your-pc-windows-1110-supported/"><u>Get the Newest GeForce RTX 3070 Driver Updates & Download for Your PC (Windows 11/10 Supported)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-the-most-recent-epson-tm-t88v-driver-version-for-your-windows-pc-step-by-step/"><u>How to Download and Install the Most Recent EPSON TM-T88V Driver Version for Your Windows PC - Step by Step</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-epson-et-3760-printer-setup-and-maintenance-in-windows-downloading-and-keeping-drivers-updated-for-best-results/"><u>Mastering Epson ET-3760 Printer Setup and Maintenance in Windows: Downloading and Keeping Drivers Updated for Best Results</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-installation-of-updated-d-link-drivers-in-windows-expert-tips-and-solutions/"><u>Seamless Installation of Updated D-Link Drivers in Windows - Expert Tips & Solutions</u></a></li>
-<li><a href="https://facebook.techidaily.com/second-lifes-future-role-amidst-the-metaverse-evolution/"><u>Second Life's Future Role Amidst The Metaverse Evolution</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/nner-workings-of-youtubes-system-after-an-upload/"><u>The Inner Workings of YouTube's System After an Upload</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/ultimate-guide-3-easy-ways-to-create-ghost-images-on-windows-11/"><u>Ultimate Guide: 3 Easy Ways to Create Ghost Images on Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1715806247227-2024-approved-detailed-evaluation-razer-kiyo-webcam/"><u>2024 Approved Detailed Evaluation - Razer Kiyo Webcam</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-to-accessing-hp-technical-support-applications/"><u>Comprehensive Guide to Accessing HP Technical Support Applications</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-official-drivers-for-your-new-samsung-tlc-flash-drive/"><u>Download & Install Official Drivers for Your New Samsung TLC Flash Drive</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/1716803484168-in-2024-how-to-make-collab-videos-and-grow-your-channel/"><u>In 2024, How to Make Collab Videos And Grow Your Channel?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/master-your-art-on-iphone-discover-the-8-prime-drawing-tools-for-2024/"><u>Master Your Art on iPhone Discover the 8 Prime Drawing Tools for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/professional-video-editor-and-converter-suite-unlock-premium-features-in-factory-pro/"><u>Professional Video Editor & Converter Suite: Unlock Premium Features in Factory Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-resource-for-computer-enthusiasts-by-toms-hardware/"><u>The Ultimate Resource for Computer Enthusiasts by Tom's Hardware</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transform-your-brand-with-a-decades-worth-of-smm-wisdom-distilled-into-10-steps/"><u>Transform Your Brand with a Decade's Worth of SMM Wisdom, Distilled Into 10 Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722962379673-update-your-hp-scanjet-printer-for-windows-downloads-for-w10w11w8w7-users/"><u>Update Your HP Scanjet Printer for Windows: Downloads for W10/W11/W8/W7 Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Snapdragon X CPU Takes the Lead in Latest Geekbench 6 Testing, Marking 6.5%% Performance Milestone
-date: 2024-08-23T13:39:48.118Z
-updated: 2024-08-24T13:39:48.118Z
+date: 2025-01-01T22:39:10.353Z
+updated: 2025-01-06T13:41:22.803Z
 tags:
   - cpu
 categories:
@@ -27,6 +27,10 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
  The Cixin P1 is a very unique processor. While it does not fulfill Beijing's goals of being a fully home-grown processor because it uses Arm CPU and GPU designs, the chip is specifically designed for the needs of the Chinese market and stands ready to enjoy some level of success. It also sadly does not meet[Microsoft](https://www.tomshardware.com/tag/microsoft) 's arbitrary "AI PC" requirements. The P1's NPU on its own is only 30 TOPS — shy of the 40 TOPS target — though it's likely that Cixin could not care less about Windows Copilot+ certification.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -37,14 +41,11 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
  Cixin is a very young company, first established in 2021, that has been growing thanks to investments from 15-20 public and private investment partners listed on its website. This freshness to the Chinese tech scene may limit widespread adoption early on, so we'll have to wait and see if Cixin manages to succeed in the huge, hungry tech market seeking[separation from U.S. interference](https://www.tomshardware.com/tech-industry/manufacturing/china-commerce-minister-frustrated-by-us-interfering-in-international-lithography-exports-via-third-countries) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -53,8 +54,26 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-interpreting-the-functionality-behind-blue-icons-in-chat-apps-for-2024/"><u>[New] Interpreting the Functionality Behind Blue Icons in Chat Apps for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-unlocking-audible-content-from-twitter-videos/"><u>[Updated] Unlocking Audible Content From Twitter Videos</u></a></li>
+<li><a href="https://win-premium.techidaily.com/accelerate-your-pcs-performance-top-strategies-from-yl-computing/"><u>Accelerate Your PC's Performance: Top Strategies From YL Computing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-video-making-smartphones-announced-here/"><u>Best Video-Making Smartphones Announced Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-and-fast-download-the-logitech-rx250-driver-for-windows-os-versions-7810/"><u>Compatible & Fast: Download the Logitech RX250 Driver for Windows OS Versions (7/8/10)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-instructions-to-get-your-arduino-drivers-running-on-windows-operating-system/"><u>Easy Instructions to Get Your Arduino Drivers Running on Windows Operating System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722965520282-find-and-secure-official-corsair-mouse-driver-downloads-today/"><u>Find and Secure Official Corsair Mouse Driver Downloads Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-drivers-for-your-hp-officejet-inkjet-model-4655-quick-and-safe-download-process/"><u>Get the Newest Drivers for Your HP OfficeJet Inkjet Model 4655: Quick and Safe Download Process</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-90-pro-lock-screen-password-by-drfone-android/"><u>How To Change Honor 90 Pro Lock Screen Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-realme-c67-4g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Realme C67 4G</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-infinix-zero-30-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Infinix Zero 30 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-13t-pro-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi 13T Pro Phone without Google Account?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-version-available-download-realteks-bluetooth-driver-for-modern-windows-systems/"><u>Latest Version Available: Download Realtek's Bluetooth Driver for Modern Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/reliable-lenovo-thinkpad-driver-software-free-safe-installation/"><u>Reliable Lenovo ThinkPad Driver Software - Free, Safe Installation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-printer-drivers-download-and-installation-guide-for-windows-users/"><u>Samsung Printer Drivers Download & Installation Guide for Windows Users</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unparalleled-mac-capture-tools-assessed/"><u>Unparalleled Mac Capture Tools Assessed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-computer-essential-drivers-for-the-msi-b350-motherboard-by-toms-available-for-windows-11-and-windows-cuidado-7/"><u>Update Your Computer: Essential Drivers for the MSI B350 Motherboard by TOM's, Available for Windows 11 and Windows Cuidado 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-pc-with-newest-epson-wf-cued-7710-printer-drivers-for-windows-win11-win8187/"><u>Update Your PC with Newest Epson WF-Cued 7710 Printer Drivers for Windows (Win11, Win8.1/8/7)</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->

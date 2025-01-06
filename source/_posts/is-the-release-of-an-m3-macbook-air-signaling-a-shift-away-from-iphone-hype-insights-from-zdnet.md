@@ -1,7 +1,7 @@
 ---
 title: Is the Release of an M3 MacBook Air Signaling a Shift Away From iPhone Hype? Insights From ZDNet
-date: 2024-12-26T23:35:49.614Z
-updated: 2024-12-27T18:56:47.772Z
+date: 2025-01-03T14:18:21.925Z
+updated: 2025-01-06T13:47:23.611Z
 tags:
   - laptops
 categories:
@@ -34,6 +34,10 @@ Based on all my experience, here's why Chromebooks are the perfect laptops for m
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Chromebooks are cheap
 
 The first reason is beyond dispute. Given how the economy has had a rather crushing effect on so many of our budgets, finding an inexpensive piece of hardware can be a real plus for anyone looking to stay productive. That's not to say every Chromebook is cheap. I once paid a premium for a [Chromebook Pixel](https://www.zdnet.com/article/googles-chromebook-pixel-lives-on-but-you-cant-buy-one/) \-- and that laptop remains one of my favorites. (The display and keyboard were best in class at the time.) 
@@ -59,7 +63,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Chromebooks are user-proof
@@ -74,6 +78,10 @@ I've known users -- hello, family, are you listening? -- who've suffered to no e
 
 I've watched users continually break Windows and MacOS laptops (and come to me for help). The number of times I've had a Chromebook user do the same thing is… nil. Sure, a couple of times someone asked me, "How do I get this thing connected to a printer?" That's about it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Chromebooks are fast
 
 Take two laptops with basically the same hardware configuration, load one with Windows 11 and one with ChromeOS, and see which performs better. In every instance, you'll find ChromeOS to be exponentially faster. 
@@ -85,7 +93,7 @@ It's not just about how quickly apps open (Android _and_ Linux apps, see above),
 If you want a fast laptop at a reasonable price, get a Chromebook.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Chromebooks are reliable
@@ -97,7 +105,7 @@ In the 10 years since I've been using Chromebooks, I've only had one device with
 Even when using the [non-stable ChromeOS channel](https://www.zdnet.com/article/how-to-switch-release-channels-on-your-chromebook/), I've found the operating system to be exponentially more reliable than Windows. Anyone who argues this point hasn't used ChromeOS enough.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Chromebooks are secure
@@ -108,10 +116,6 @@ Thanks to ChromeOS's built-in security, even older, out-of-support Chromebooks a
 
 You won't need antivirus or anti-malware. Just make sure to apply any/all updates when they become available, avoid suspicious websites, and only install extensions from the official Google Chrome Store, and you're good to go. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Chromebooks can be easily restored
 
 Speaking of reliability, should you wind up having a problem with ChromeOS misbehaving (extremely unlikely, see above), you can simply do a "powerwash" (a factory reset), log back into your Google account, and you'll find everything there, minus whatever problem you were experiencing (and anything you'd previously saved to the Downloads folder).
@@ -119,10 +123,6 @@ Speaking of reliability, should you wind up having a problem with ChromeOS misbe
 **Also: [5 ChromeOS settings you should change for a more secure Chromebook - here's how](https://www.zdnet.com/article/5-chromeos-settings-you-should-change-for-a-more-secure-chromebook-heres-how/)**
 
 No other operating system can compete with ChromeOS's ability to factory reset and return you to a pristine working state without having lost your data, bookmarks, apps, and more. I've never once worried about doing anything with a Chromebook, simply because I know I can do a quick power wash and be back working in minutes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -158,17 +158,24 @@ Chromebooks may not be the ideal solution for everyone. (Attempt any serious vid
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-elevating-aerial-photography-with-gopro-karma-for-2024/"><u>[New] Elevating Aerial Photography with GoPro Karma for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/uick-ascent-to-youtube-affiliates-with-10k-vistas/"><u>[New] Quick Ascent to YouTube Affiliates with 10K Vistas</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-achieving-high-quality-tiktok-videos-the-zoom-method/"><u>[Updated] 2024 Approved Achieving High-Quality TikTok Videos The Zoom Method</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-exploring-beyond-vlc-a-modern-streamers-guide-for-2024/"><u>[Updated] Exploring Beyond VLC A Modern Streamer's Guide for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-guide-to-downloading-wi-fi-drivers-for-windows-7-operating-system/"><u>Effortless Guide to Downloading Wi-Fi Drivers for Windows 7 Operating System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-smooth-performance-with-new-epson-wf-7720-driver-updates-on-pcs/"><u>Ensure Smooth Performance with New Epson WF-7720 Driver Updates on PCs</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-deskjet-254e-series-driver-download-enhance-connectivity-and-printing-quality/"><u>HP Deskjet 254E Series Driver Download: Enhance Connectivity and Printing Quality</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-get-to-know-the-pros-of-engaging-with-asmr/"><u>In 2024, Get to Know the Pros of Engaging with ASMR</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-tutorial-for-arduino-nano-setup-on-windows-easy-fixed/"><u>The Ultimate Tutorial for Arduino Nano Setup on Windows - Easy, Fixed!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-steps-fixing-hp-beats-audio-driver-issues-across-windows-versions/"><u>Troubleshooting Steps: Fixing HP Beats Audio Driver Issues Across Windows Versions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unlocking-secure-dvds-made-easy-unveiling-the-best-8-techniques-and-5-free-alternatives/"><u>Unlocking Secure DVDs Made Easy: Unveiling the Best 8 Techniques and 5 Free Alternatives</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-essential-racing-games-the-ultimate-5-list/"><u>[New] 2024 Approved Essential Racing Games The Ultimate 5-List</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-snap-a-caption-seamless-integration-of-text-on-windows-and-mac-pics/"><u>[New] In 2024, Snap a Caption Seamless Integration of Text on Windows & Mac Pics</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-trusted-picks-best-5-videographer-software-tools-for-2024/"><u>[New] Trusted Picks Best 5 Videographer Software Tools for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-guide-to-free-online-youtube-mp3-converters/"><u>[Updated] The Ultimate Guide to Free Online YouTube-MP3 Converters</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-nvidias-3d-vision-drivers-at-no-cost-windows-compatibility-tips-and-tricks/"><u>Download Nvidia's 3D Vision Drivers at No Cost: Windows Compatibility Tips & Tricks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-drivers-for-your-epson-wf-2760-on-windows-11108-devices/"><u>Download the Latest Drivers for Your Epson WF-2760 on Windows 11/10/8 Devices</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevating-your-videos-visual-impact-youtubthumbnail-design-on-macos/"><u>Elevating Your Video's Visual Impact YoutubThumbnail Design on macOS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-enhanced-control-with-roccat-mouse-manager-download/"><u>Experience Enhanced Control with Roccat Mouse Manager Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixing-corsair-h115i-compatibility-and-drivers-on-windows-8-10-and-11/"><u>Fixing Corsair H115i Compatibility and Drivers on Windows 8, 10 & 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-official-logitech-m52e-mouse-drive-and-compatibility-patches/"><u>How to Get the Official Logitech M52e Mouse Drive and Compatibility Patches</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-and-install-the-latest-dell-laptop-e6430-drivers-for-windows-operating-system/"><u>How To: Get And Install The Latest Dell Laptop E6430 Drivers For Windows Operating System</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-oppo-k11x-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Oppo K11x Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-your-brother-dcp-l2540dw-printer-now-effortless-windows-driver-guide/"><u>Install Your Brother DCP-L2540DW Printer Now – Effortless Windows Driver Guide</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-approaches-to-silence-echoes-in-professional-audio-recording/"><u>New In 2024, Approaches to Silence Echoes in Professional Audio Recording</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-windows-scanner-not-available-errors/"><u>Resolving Windows Scanner Not Available Errors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/success-free-downloads-for-stable-1535-network-connectivity-drivers/"><u>Success! Free Downloads for Stable 1535 Network Connectivity Drivers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-art-of-surrendering-to-the-spectacle-posting-immersive-videos-on-facebook-for-2024/"><u>The Art of Surrendering to the Spectacle Posting Immersive Videos on Facebook for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722972818815-upgrade-to-latest-hp-deskjet-ink-advantage-3050a-windows-printer-drivers-no-cost/"><u>Upgrade to Latest HP Deskjet Ink Advantage 3050A Windows Printer Drivers - No Cost!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971114767-upgrade-your-nvidia-rtx-2080-with-new-windows-1011-drivers-free-downloads-available/"><u>Upgrade Your Nvidia RTX 2080 with New Windows 10/11 Drivers - Free Downloads Available!</u></a></li>
 </ul></div>
 

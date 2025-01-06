@@ -1,7 +1,7 @@
 ---
 title: "Mass Production Commences for Cixin's Latest 12-Core Arm-Based AI Processor: Achieving 45 TOPS Benchmark in China"
-date: 2024-08-23T13:41:41.048Z
-updated: 2024-08-24T13:41:41.048Z
+date: 2024-12-30T12:02:00.004Z
+updated: 2025-01-05T21:55:02.979Z
 tags:
   - cpu
 categories:
@@ -34,6 +34,10 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,14 +46,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -58,8 +59,26 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-startling-audience-with-compelling-intros/"><u>[New] 2024 Approved Startling Audience with Compelling Intros</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-step-by-step-starting-a-skype-call-on-android/"><u>[New] In 2024, Step-by-Step Starting a Skype Call on Android</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-football-film-breakdown-premier-insights-on-youtube/"><u>[Updated] In 2024, Football Film Breakdown Premier Insights on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-prime-picks-easy-youtube-template-downloads/"><u>2024 Approved Prime Picks Easy YouTube Template Downloads</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-essential-guide-to-cost-free-cam-screen-recording-apps/"><u>2024 Approved The Essential Guide to Cost-Free Cam Screen Recording Apps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-venturing-into-new-realities-best-metaverse-headsets-guide/"><u>2024 Approved Venturing Into New Realities Best Metaverse Headsets Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-nokia-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Nokia</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-cutting-edge-technology-with-toms-gadgets-guide/"><u>Exploring Cutting-Edge Technology with Tom's Gadgets Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-latest-in-technology-with-toms-hardware-guides-and-breakdowns/"><u>Exploring the Latest in Technology with Tom's Hardware Guides and Breakdowns</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-latest-innovations-an-insightful-guide-into-toms-hardware/"><u>Exploring the Latest Innovations: An Insightful Guide Into Tom's Hardware</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-xiaomi-redmi-note-12-proplus-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Xiaomi Redmi Note 12 Pro+ 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-ultimate-list-most-compelling-zombie-themed-video-games/"><u>In 2024, Ultimate List Most Compelling Zombie-Themed Video Games</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/raspberry-pi-pico-makes-playing-pong-a-breeze-with-innovative-persistence-of-vision-and-custom-firmware-controls/"><u>Raspberry Pi Pico Makes Playing Pong a Breeze with Innovative Persistence of Vision and Custom Firmware Controls</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/raspberry-pis-public-offering-targets-689m-milestone/"><u>Raspberry Pi's Public Offering Targets $689M Milestone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revamp-your-iphones-settings-a-quick-how-to-guide-on-regional-adjustments/"><u>Revamp Your iPhone's Settings: A Quick How-To Guide on Regional Adjustments</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-versatile-swiss-army-knife-of-cybersecurity-master-the-art-with-the-open-source-raspberry-pi-rp2040-hackbat-penter-tool/"><u>The Versatile Swiss Army Knife of Cybersecurity: Master the Art with the Open Source Raspberry Pi RP2040 Hackbat PENTER Tool</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-computer-components-in-depth-reviews-and-advice/"><u>Tom's Computer Components: In-Depth Reviews and Advice</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-expert-insights-into-computer-hardware/"><u>Tom's Tech Review: Expert Insights Into Computer Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-your-ultimate-guide-to-the-latest-computer-hardware/"><u>Tom's Tech Review: Your Ultimate Guide to the Latest Computer Hardware</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Get a New RTX Eby_9baefc4f-8b15-49d3-A6c4-E9c21d1d8bb0! Exclusive $220 Discount Now | Tech Deals at ZDNET!
-date: 2024-12-24T22:14:16.551Z
-updated: 2024-12-27T18:18:39.694Z
+date: 2025-01-02T18:16:13.735Z
+updated: 2025-01-05T20:13:03.118Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kerry Wan/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ Right now, Amazon is selling the [15-inch MacBook Air (M2) for $250 off](https:/
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -107,7 +107,7 @@ The laptop is capable of 4K exports on Adobe Premiere Pro and editing RAW files 
 What I found myself missing when testing the MacBook Air was the 120Hz ProMotion display from the Pro line. All it took was an hour or two before my eyes adapted to the slower, less smooth 60Hz panel, but the larger 15-inch display didn't make the transition easy. In fact, it made the difference more apparent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -146,22 +146,19 @@ But everything else about it is as good as the current $1,050 price point gets. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-revolutionary-content-your-path-to-100k-views/"><u>[New] 2024 Approved Revolutionary Content Your Path to 100K Views</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-fb-content-horizontal-or-vertical-format-debate/"><u>[New] In 2024, FB Content Horizontal or Vertical Format Debate</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-start-with-simple-understanding-facebook-metrics-for-newbies/"><u>[Updated] 2024 Approved Start with Simple Understanding Facebook Metrics for Newbies</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-expedite-youtube-video-submission-rapid-rendering-secrets/"><u>[Updated] In 2024, Expedite YouTube Video Submission Rapid Rendering Secrets</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-premier-10-battle-royale-challenges/"><u>2024 Approved Premier 10 Battle Royale Challenges</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862815135-huge-savings-alert-gigabytes-aorus-49-oled-gaming-screen-now-at-an-all-time-low-only-969/"><u>Huge Savings Alert: Gigabyte's Aorus 49 OLED Gaming Screen Now at an All-Time Low - Only $969!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-scaling-on-ios-devices-how-to-zoom-in-and-out/"><u>Mastering the Art of Scaling on iOS Devices: How to Zoom In & Out</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-explore-these-5-pinnacle-platforms-for-efficient-mp3-file-tagging-for-2024/"><u>New Explore These 5 Pinnacle Platforms for Efficient MP3 File Tagging for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862809951-snag-the-best-deal-dell-s3222dgm-gaming-monitor-now-at-unbeatable-229-price/"><u>Snag the Best Deal: Dell S3222DGM Gaming Monitor Now at Unbeatable $229 Price!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862773459-unbeatable-deal-portable-15/"><u>Unbeatable Deal: Portable 15</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlocking-digital-marketing-potential-with-the-support-of-cookiebot-technology/"><u>Unlocking Digital Marketing Potential with the Support of Cookiebot Technology</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-computer-components-with-toms-gear-guides/"><u>Unveiling Computer Components with Tom's Gear Guides</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-hardware-the-toms-experts-take/"><u>Unveiling the Latest in Hardware - The Tom's Experts Take</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-tech-trends-at-toms-gear-insights/"><u>Unveiling the Latest Tech Trends at Tom's Gear Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-top-gadgets-and-tech-trends-toms-hardware-expertise/"><u>Unveiling Top Gadgets and Tech Trends: Tom's Hardware Expertise</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-your-game-with-the-ultra-sharp-qhd-dell-gaming-monitor-now-under-200/"><u>Upgrade Your Game with the Ultra-Sharp QHD Dell Gaming Monitor - Now Under $200!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721992406739-why-certain-data-tasks-are-best-handled-by-excel-not-chatgpt-find-out-how/"><u>Why Certain Data Tasks Are Best Handled by Excel, Not ChatGPT – Find Out How</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-cutting-edge-photo-and-video-enhancement-top-8-editing-apps-for-modern-devices/"><u>[New] 2024 Approved Cutting-Edge Photo & Video Enhancement Top 8 Editing Apps for Modern Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-finding-the-best-mp4-recorder-on-market-for-2024/"><u>[New] Finding the Best MP4 Recorder on Market for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-from-one-to-another-mastering-playlists-pivoting-for-2024/"><u>[Updated] From One to Another Mastering Playlists Pivoting for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boosting-aux-outputs-made-simple-with-nahimics-new-driver-update/"><u>Boosting AUX Outputs Made Simple with Nahimic's New Driver Update</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/can-128gb-hold-extensive-video-content-in-2024/"><u>Can 128GB Hold Extensive Video Content, In 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-guide-to-downloading-and-updating-epson-wf-3520-drivers-on-pcs-and-laptops/"><u>Essential Guide to Downloading & Updating Epson WF-3520 Drivers on PCs and Laptops</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722957445863-flame-propagation-speed-is-critical-for-efficient-combustion-in-gasoline-engines/"><u>Flame Propagation Speed Is Critical for Efficient Combustion in Gasoline Engines.</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-methods-for-extracting-video-tweets-from-twitter-and-youtube-into-mp3-format/"><u>In 2024, Methods for Extracting Video Tweets From Twitter & YouTube Into MP3 Format</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-the-newest-hp-scanjet-software-compatible-with-win11win8win7-get-it-here/"><u>Install the Newest HP Scanjet Software: Compatible with Win11/Win8/Win7 - Get It Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-canon-ip110-drivers-on-various-windows-versions-download-guide-and-tips/"><u>Installing Canon iP110 Drivers on Various Windows Versions: Download Guide and Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-fifa-22-not-working-properly-on-your-windows-pc/"><u>Resolved: How to Fix FIFA 22 Not Working Properly on Your Windows PC</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-voice-over-advantage-elevating-video-quality/"><u>The Voice-Over Advantage Elevating Video Quality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-return-and-refund-guidelines-for-digiartyn-winxdvd-program/"><u>Understanding the Return and Refund Guidelines for Digiarty'n WinXDVD Program</u></a></li>
 </ul></div>
 

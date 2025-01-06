@@ -1,7 +1,7 @@
 ---
 title: "Asus' Discreet Marvel: A Design That Hides Stellar Creative Capabilities Revealed by ZDNet"
-date: 2024-12-22T20:25:03.087Z
-updated: 2024-12-27T16:56:52.825Z
+date: 2025-01-04T10:54:27.275Z
+updated: 2025-01-05T23:46:20.563Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,19 +112,20 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-aspect-ratios-decoded-youtube-edition-a-quick-reference-guide/"><u>[New] 2024 Approved Aspect Ratios Decoded YouTube Edition – A Quick Reference Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-easy-screen-capture-app-w10-edition/"><u>[New] 2024 Approved Easy Screen Capture App, W10 Edition</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-21plus-puzzling-pictures-assemble-a-joyous-vision/"><u>[New] 21+ Puzzling Pictures Assemble a Joyous Vision</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-extract-gif-content-seamlessly-on-various-devices-for-2024/"><u>[Updated] How To Extract GIF Content Seamlessly on Various Devices for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726029806342-mkv/"><u>最新テクニックを使ったMKVビデオのトリミング・カット作業ガイド</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exceptional-clarity-and-versatility-tested-an-in-depth-look-at-the-asus-rog-strix-xg27acs-monitor/"><u>Exceptional Clarity and Versatility Tested: An In-Depth Look at the Asus Rog Strix XG27ACS Monitor</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-next-level-fps-with-the-asrock-pg27qft2a-180-hz-gamers-screen-review/"><u>Experience Next-Level FPS with the ASRock PG27QFT2A 180 Hz Gamer's Screen Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-gadget-analysis-at-toms-hardware-hub/"><u>Expert Gadget Analysis at Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-computing-gear-with-toms-hardware-a-detailed-guide/"><u>Exploring Computing Gear with Tom's Hardware - A Detailed Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-gadgets-and-gear-toms-authoritative-hardware-analysis/"><u>Exploring Gadgets & Gear: Tom’s Authoritative Hardware Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-best-deal-just-249-for-a-stunning-34-inch-asus-tuf-curved-monitor-amazon-exclusive/"><u>Get the Best Deal: Just $249 for a Stunning 34-Inch Asus TUF Curved Monitor - Amazon Exclusive!</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-version-of-fixated-five-nights-at-freddys-resolved-security-glitch/"><u>PC Version of Fixated 'Five Nights at Freddy's - Resolved Security Glitch</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-motorola-moto-e13-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Motorola Moto E13 Phone Hassle-Free</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-nokia-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Nokia Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-capture-studio-ultimate-professional-record/"><u>[Updated] 2024 Approved Capture Studio Ultimate Professional Record</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-11-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 11 activation lock with a professional tool</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-out-the-webp-savings-in-google-chrome-for-windows/"><u>Cutting Out the WebP Savings in Google Chrome for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-driver-upgrade-tips-for-the-asus-maximus-x-hero-system/"><u>Effortless Driver Upgrade Tips for the ASUS Maximus X Hero System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/epson-gt-s50-printer-software-for-windows-users-version-compatible-with-windows-7-8-and-10/"><u>Epson GT-S50 Printer Software for Windows Users: Version Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-brother-hl-l2300d-printer-drivers-installed-now/"><u>Get Your Brother HL-L2300D Printer Drivers Installed Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-obtain-the-brother-hl-l2380dw-print-driver-software-for-seamless-windows-compatibility/"><u>How to Obtain the Brother HL-L2380DW Print Driver Software for Seamless Windows Compatibility</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-no-license-plenty-of-melodies-top-10-online-websites/"><u>In 2024, No License, Plenty of Melodies - Top 10 Online Websites</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-through-cutting-edge-technology-at-toms-computer-hub/"><u>Navigating Through Cutting-Edge Technology at Tom's Computer Hub</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/oneplus-10-preview-estimated-unveiling-dates-cost-analysis-innovative-features-and-industry-rumors-explained/"><u>OnePlus 10 Preview: Estimated Unveiling Dates, Cost Analysis, Innovative Features & Industry Rumors Explained</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/pc-video-editing-made-easy-a-review-of-vn-editor/"><u>PC Video Editing Made Easy A Review of VN Editor</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-install-of-corsair-void-pro-drives-on-windows-systems-your-step-by-step-guide/"><u>Quick and Easy Install of Corsair Void Pro Drives on Windows Systems – Your Step-by-Step Guide!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-update-your-pc-with-new-toshiba-copier-drivers-on-a-windows-platform/"><u>Step-by-Step: Update Your PC with New Toshiba Copier Drivers on a Windows Platform</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-motorola-by-fonelab-android-recover-music/"><u>Undelete lost music from Motorola</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/youtube-monetization-carryminati-ajey-nagar-youtube-income-2023/"><u>YouTube Monetization CarryMinati (Ajey Nagar) YouTube Income 2023</u></a></li>
 </ul></div>
 

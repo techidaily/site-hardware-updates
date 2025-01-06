@@ -1,7 +1,7 @@
 ---
 title: "Apple October Event Preview: Exciting Releases on the Horizon with M4 Mac Mini and Enhanced iPads - What You Need to Know | Featured by ZDNET"
-date: 2024-12-20T16:28:26.194Z
-updated: 2024-12-27T16:48:49.159Z
+date: 2024-12-31T20:42:14.341Z
+updated: 2025-01-06T04:07:52.546Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,24 +218,20 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/erfect-your-yt-thumbnails-with-these-mac-tips/"><u>[New] Perfect Your YT Thumbnails with These Mac Tips</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-perfecting-iphone-photo-albums-seamless-integration-with-icloud/"><u>[Updated] Perfecting iPhone Photo Albums Seamless Integration with iCloud</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-top-ios-slideshow-creation-tools-xs-max-a9-for-2024/"><u>[Updated] Top iOS Slideshow Creation Tools (XS Max - A9) for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/available-now-microsoft-copilotplus-devices-your-guide-to-the-latest-snapdragon-elite-x-series/"><u>Available Now: Microsoft Copilot+ Devices - Your Guide to the Latest Snapdragon Elite X Series</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-computer-insights-by-toms-electronics-hub/"><u>Comprehensive Computer Insights by Tom's Electronics Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-computer-insights-by-toms-lab/"><u>Comprehensive Computer Insights by Tom's Lab</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/delving-into-digital-devices-expert-advice-from-toms-hardware-team/"><u>Delving Into Digital Devices: Expert Advice From Tom's Hardware Team</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-latest-in-tech-with-toms-hardware-hub/"><u>Discover the Latest in Tech with Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-most-affordable-and-powerful-gaming-notebooks-under-1k/"><u>Discover the Most Affordable and Powerful Gaming Notebooks Under $1K</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discovering-innovations-with-toms-hardware-guides/"><u>Discovering Innovations with Tom's Hardware Guides</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dive-into-digital-devices-with-toms-comprehensive-hardware-reviews/"><u>Dive Into Digital Devices with Tom's Comprehensive Hardware Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dramatically-discounted-asus-rog-zephyrus-g1-6-with-ace-performance-features-250-off-the-list-price/"><u>Dramatically Discounted: Asus ROG Zephyrus G1 6 with Ace Performance Features, $250 Off the List Price</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-nubia-red-magic-9-proplus-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Nubia Red Magic 9 Pro+ Phone</u></a></li>
-<li><a href="https://facebook.techidaily.com/meet-your-new-reality-discovering-six-compelling-aspects-of-fbs-metaverse/"><u>Meet Your New Reality: Discovering Six Compelling Aspects of FB's Metaverse</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/top-10-text-tools-elevating-creative-compositions/"><u>Top 10 Text Tools Elevating Creative Compositions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-ranking-mini-tablets-of-2024-professional-evaluations-and-reviews-by-tech-experts-pcmag/"><u>Top-Ranking Mini Tablets of 2024: Professional Evaluations & Reviews by Tech Experts | PCMag</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-11-and-your-hp-laptop-solve-the-silent-screen-issue-now/"><u>Windows 11 and Your HP Laptop: Solve the Silent Screen Issue Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1-unveiling-the-secrets-of-google-discover-a-comprehensive-guide-for-mobile-users/"><u>1. Unveiling the Secrets of Google Discover: A Comprehensive Guide for Mobile Users</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-understanding-user-generated-music-rights-on-instagram/"><u>2024 Approved Understanding User-Generated Music Rights on Instagram</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/6-from-just-599/"><u>6 - From Just $599</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/android-device-longevities-forecasting-update-support-duration/"><u>Android Device Longevities: Forecasting Update Support Duration</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/choose-versatility-over-gimmicks-opt-for-a-separate-refrigerator-and-ipad-rather-than-a-smart-fridge/"><u>Choose Versatility Over Gimmicks: Opt for a Separate Refrigerator and iPad Rather than a Smart Fridge</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-tutorial-on-powering-off-any-android-smartphone/"><u>Complete Tutorial on Powering Off Any Android Smartphone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-most-effective-non-google-solutions-available-for-android-users/"><u>Discover the Most Effective Non-Google Solutions Available for Android Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-reasons-behind-my-preference-for-microsoft-edge-on-my-android-device/"><u>Discover the Reasons Behind My Preference for Microsoft Edge on My Android Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/foreseeing-future-firewalls-the-latest-in-security-trends/"><u>Foreseeing Future Firewalls: The Latest in Security Trends</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nubia-z50s-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nubia Z50S Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-setting-up-your-digital-stage-your-first-youtube-profile/"><u>In 2024, Setting Up Your Digital Stage Your First YouTube Profile</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-visual-storytelling-key-shot-techniques-for-beginners/"><u>Mastering Visual Storytelling Key Shot Techniques for Beginners</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reviving-sound-diy-fixes-for-a-non-responsive-audio-unit/"><u>Reviving Sound: DIY Fixes for a Non-Responsive Audio Unit</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-places-to-access-westeros-themed-phone-sounds/"><u>Top Places to Access Westeros-Themed Phone Sounds</u></a></li>
 </ul></div>
 

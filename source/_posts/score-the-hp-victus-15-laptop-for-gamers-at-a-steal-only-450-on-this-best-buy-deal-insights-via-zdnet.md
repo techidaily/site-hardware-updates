@@ -1,7 +1,7 @@
 ---
 title: Score The HP Victus #15 Laptop for Gamers at a Steal – Only $450 on This Best Buy Deal | Insights via ZDNET
-date: 2024-12-23T17:13:49.113Z
-updated: 2024-12-27T16:03:05.352Z
+date: 2025-01-03T01:55:10.170Z
+updated: 2025-01-06T05:35:06.339Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,20 +63,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-unfiltered-truth-insights-into-instagram-reels/"><u>[Updated] In 2024, The Unfiltered Truth Insights Into Instagram Reels</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-ultimate-sj-cam-s6-review-the-pros-guide/"><u>[Updated] In 2024, Ultimate SJ-CAM S6 Review The Pro's Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-honor-90-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Honor 90 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Xiaomi 13T? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/intel-and-amd-at-their-best-in-the-stunning-new-asus-lineup-zenbook-s-and-tuf-a14-showcase-elite-technology-meets-elegance/"><u>Intel and AMD at Their Best in the Stunning New Asus Lineup: Zenbook S & TUF A14 Showcase Elite Technology Meets Elegance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/leaked-details-revealed-preview-of-samsungs-latest-galaxy-book4-edge-with-snapdragon-chipset-before-microsoft-unveils-new-hardware/"><u>Leaked Details Revealed: Preview of Samsung's Latest Galaxy Book4 Edge with Snapdragon Chipset Before Microsoft Unveils New Hardware</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/make-waves-in-youtube-essential-mobile-based-production-tips-for-2024/"><u>Make Waves in YouTube Essential Mobile-Based Production Tips for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/massive-sale-on-lenovo-legion-750-off-for-nvidia-rtx-4080-up-to-240hz-screen/"><u>Massive Sale on Lenovo Legion: $750 Off for NVIDIA RTX 4080 - Up to 240Hz Screen</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-technology-with-toms-hardware-expertise-the-definitive-guide/"><u>Mastering Technology with Tom's Hardware Expertise - The Definitive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigate-the-world-of-technology-in-depth-hardware-reviews-by-tom/"><u>Navigate the World of Technology: In-Depth Hardware Reviews by Tom</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-tech-with-tom-hardware-breakdowns-for-smart-buys/"><u>Navigating Tech with Tom: Hardware Breakdowns for Smart Buys</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-gadgets-and-systems-lessons-from-toms-hardware/"><u>Navigating the World of Gadgets and Systems: Lessons From Tom's Hardware</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209988874-9780989126311-undermind/"><u>UnderMind | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/win-11-ungroup-taskbar-icons-easily/"><u>Win 11: Ungroup Taskbar Icons Easily</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/xpert-tips-to-transform-lengthy-videos-into-engaging-segmented-content-for-2024/"><u>[New] Expert Tips to Transform Lengthy Videos Into Engaging, Segmented Content for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-making-your-photoshop-projects-pop-with-3d-text-design/"><u>[New] Making Your Photoshop Projects Pop with 3D Text Design</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-discover-the-best-beat-detectors-free-and-easy-to-use/"><u>2024 Approved Discover the Best Beat Detectors – Free & Easy to Use</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/adolescent-adventures-await-in-these-top-teen-movies-available-on-netflix/"><u>Adolescent Adventures Await in These Top Teen Movies Available on Netflix</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-app-aesthetics-with-win11s-automatic-tuning/"><u>Boosting App Aesthetics with Win11's Automatic Tuning</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/examining-the-elite-the-top-10-pc-vr-headsets-of-now/"><u>Examining the Elite The Top 10 PC VR Headsets of Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-analysis-of-the-roborock-s8-maxv-ultra-unmatched-quality-in-premium-robot-vacuums/"><u>Expert Analysis of the Roborock S8 MaxV Ultra - Unmatched Quality in Premium Robot Vacuums</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-review-unveiling-the-miniature-marvel-that-is-ugreens-qi2-charging-station-a-workspace-lifesaver/"><u>Expert Review: Unveiling the Miniature Marvel that Is Ugreen's Qi2 Charging Station - A Workspace Lifesaver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-why-laser-projectors-tend-to-be-more-heavier-than-traditional-ones/"><u>Exploring Why Laser Projectors Tend to Be More Heavier Than Traditional Ones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-premium-value-save-big-on-your-new-robot-vacuum-purchase-the-enhanced-yeedi-c13-pro-model/"><u>Get Premium Value: Save Big on Your New Robot Vacuum Purchase - The Enhanced YEEDI C13 Pro Model</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-an-english-monetary-manufacturer-converts-electronic-waste-to-precious-metals/"><u>How an English Monetary Manufacturer Converts Electronic Waste to Precious Metals</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-curated-compilation-of-online-videoaudio-magicians/"><u>In 2024, A Curated Compilation of Online Video/Audio Magicians</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-iphone-12-pro-max-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your iPhone 12 Pro Max on MetroPCS</u></a></li>
+<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-samsung-galaxy-s23-ultra-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Samsung Galaxy S23 Ultra – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/necessity-of-gaming-laptops-for-devoted-laptop-game-enthusiasts-a-must-or-just-a-myth/"><u>Necessity of Gaming Laptops for Devoted Laptop Game Enthusiasts: A Must or Just a Myth?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/review-of-kasa-ks240-for-seamless-apple-homekit-compatibility-and-enhanced-smart-home-automation/"><u>Review of Kasa KS240 for Seamless Apple HomeKit Compatibility & Enhanced Smart Home Automation</u></a></li>
 </ul></div>
 

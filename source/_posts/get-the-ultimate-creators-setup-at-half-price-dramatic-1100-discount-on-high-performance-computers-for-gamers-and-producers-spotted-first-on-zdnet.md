@@ -1,7 +1,7 @@
 ---
 title: Get the Ultimate Creator's Setup at Half Price! Dramatic $1,100 Discount on High-Performance Computers for Gamers and Producers – Spotted First on ZDNet.
-date: 2024-12-23T17:14:28.727Z
-updated: 2024-12-27T23:53:56.086Z
+date: 2024-12-31T19:44:03.741Z
+updated: 2025-01-05T18:39:31.265Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -79,7 +79,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -91,7 +91,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -128,16 +128,21 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-comparing-screen-recorders-the-leader-vs-contenders/"><u>[New] In 2024, Comparing Screen Recorders The Leader Vs. Contenders</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-recording-facebook-video-calls-4-methods-for-2024/"><u>[New] Recording Facebook Video Calls [4 Methods] for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-grassroots-video-marketing-strategies/"><u>[Updated] 2024 Approved Grassroots Video Marketing Strategies</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-universal-sm-bus-controller-drivers-ensuring-compatibility-with-all-windows-versions-111087/"><u>Download the Universal SM Bus Controller Drivers - Ensuring Compatibility with All Windows Versions (11/10/8/7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-guide-techkey-bluetooth-adapter-drivers-compatible-with-win1178/"><u>Easy Installation Guide: Techkey Bluetooth Adapter Drivers Compatible with Win11/7/8</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-realtek-sound-drivers-now-compatible-with-windows-10-and-7/"><u>Get Realtek Sound Drivers Now - Compatible with Windows 10 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hassle-free-downloading-and-updating-of-microsoft-surface-device-drivers-tips-and-tricks/"><u>Hassle-Free Downloading and Updating of Microsoft Surface Device Drivers: Tips & Tricks</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-13-pro-max-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 13 Pro Max In Different Conditionsin</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-simplify-tv-broadcasts-introducing-youtube-content-loops/"><u>In 2024, Simplify TV Broadcasts Introducing YouTube Content Loops</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/mac-guida-rapido-alla-conversione-di-musica-in-formato-dvd-audio-in-mp3-senza-costi/"><u>Mac: Guida Rapido Alla Conversione Di Musica in Formato DVD-Audio in MP3 Senza Costi</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/uninterrupted-gaming-action-strategies-for-overcoming-frame-rate-challenges-in-the-division-2/"><u>Uninterrupted Gaming Action - Strategies for Overcoming Frame Rate Challenges in The Division 2</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-transforming-spoken-words-into-written-text-using-in-built-tools-of-office-suite-ms-word/"><u>[New] 2024 Approved Transforming Spoken Words Into Written Text Using In-Built Tools of Office Suite - MS Word</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-cyberspace-enhancer-facebook-story-backup-tool-for-2024/"><u>[Updated] Cyberspace Enhancer Facebook Story Backup Tool for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-sees-significant-drop-in-gaming-profits-by-59-impressive-surge-of-115-for-data-center-earnings/"><u>AMD Sees Significant Drop in Gaming Profits by 59%; Impressive Surge of 115% for Data Center Earnings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/combat-black-screen-disruptions-in-gaming-feeds-for-2024/"><u>Combat Black Screen Disruptions in Gaming Feeds for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-corsair-drivers-for-windows-computer-easily/"><u>Download Corsair Drivers for Windows Computer Easily!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/epson-workforce-ds-30-driver-installation-guide-for-windows-108-users/"><u>Epson Workforce DS 30 Driver Installation Guide for Windows 10/8 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-software-downloading-epson-scanner-and-driver-packs/"><u>Essential Software: Downloading Epson Scanner and Driver Packs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-corsair-k70-mouse-ready-with-these-easy-driver-instructions/"><u>Get Your Corsair K70 Mouse Ready with These Easy Driver Instructions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-hp-officejet-pro-8600-printer-driver-for-windows/"><u>How to Download and Install HP Officejet Pro 8600 Printer Driver for Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-samsung-galaxy-f34-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Samsung Galaxy F34 5G Devices</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/identifying-frequent-audiovideo-problems-on-windows-pcs-a-guide-by-yl-computing/"><u>Identifying Frequent Audio/Video Problems on Windows PCs: A Guide by YL Computing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/intellectual-property-rules-for-instagram-beats-for-2024/"><u>Intellectual Property Rules for Instagram Beats for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-amd-rx-6900-xt-drivers-download-for-windows-111087-supported-systems/"><u>Latest AMD RX 6900 XT Drivers: Download for Windows 11/10/8/7 Supported Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/moving-between-streaming-giants-transferring-playlists-from-apple-music-to-youtube-music-and-back/"><u>Moving Between Streaming Giants: Transferring Playlists From Apple Music to YouTube Music and Back</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-unleash-your-creativity-video-editing-on-mac-os-x-yosemite-for-beginners/"><u>New 2024 Approved Unleash Your Creativity Video Editing on Mac OS X Yosemite for Beginners</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/pixelpatchwork-android-and-ios-instagram-collage-for-2024/"><u>PixelPatchwork Android & iOS Instagram Collage for 2024</u></a></li>
 </ul></div>
 

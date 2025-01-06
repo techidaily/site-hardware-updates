@@ -1,7 +1,7 @@
 ---
 title: Huge Discount on Apple's New M3 MacBook Air - Save $250 at the Amazon Prime Day Event in Oct | ZDNet
-date: 2024-12-22T22:37:01.384Z
-updated: 2024-12-27T21:55:30.812Z
+date: 2025-01-04T04:01:08.982Z
+updated: 2025-01-06T03:34:25.862Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Jason Hiner/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ The Apple [M3 MacBook Pro 14"](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FU
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -59,7 +59,7 @@ In addition, with up to 22 hours of battery life, the M3 improves on previous ve
 The [M3 MacBook Pros](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5JLWJK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb12ee2ea-4d7b-4e84-84d3-0702024ae9c4%7Cdtp&dtb=1) come in three iconic colors of silver, space gray, and space black, with the all-aluminum body designed to resist scratches and dents, adding to the line's durable reputation. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -98,24 +98,24 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-supreme-storytelling-spanning-eight-movie-types/"><u>[Updated] 2024 Approved Supreme Storytelling Spanning Eight Movie Types</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/busting-stereotypes-truths-behind-language-learning/"><u>Busting Stereotypes: Truths Behind Language Learning</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-pixma-mx410-driver-installation-guide-for-windows-users/"><u>Canon PIXMA MX410 Driver Installation Guide for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/customer-expresses-frustration-with-intels-replacement-policy-allegations-that-recently-acquired-core-i9-cpus-were-fraudulent/"><u>Customer Expresses Frustration with Intel's Replacement Policy - Allegations That Recently Acquired Core I9 CPUs Were Fraudulent</u></a></li>
-<li><a href="https://fox-that.techidaily.com/dealing-with-a-delayed-iphone-screen-shutdown-here-are-some-expert-tips/"><u>Dealing with a Delayed iPhone Screen Shutdown? Here Are Some Expert Tips</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/doze-outros-editors-de-videos-gratuitos-que-substituem-o-windows-movie-maker/"><u>Doze Outros Editors De Vídeos Gratuitos Que Substituem O Windows Movie Maker</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-methods-to-enhance-connectivity-updating-your-computers-wireless-drivers-in-windows-1110/"><u>Easy Methods to Enhance Connectivity: Updating Your Computer's Wireless Drivers in Windows 11/10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-fix-for-your-elgato-hd6e-driver-issues-step-by-step-guide/"><u>Effortless Fix for Your Elgato HD6e Driver Issues | Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-updated-pci-hardware-drivers-for-all-major-windows-versions/"><u>Get Updated PCI Hardware Drivers for All Major Windows Versions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/getting-your-steelseries-arctis-5-up-to-speed-driver-download-and-setup/"><u>Getting Your SteelSeries Arctis 5 up to Speed: Driver Download and Setup</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-update-your-msi-sound-card-drivers-for-windows-machines/"><u>How To Download & Update Your MSI Sound Card Drivers for Windows Machines</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-f04-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Itel P40+? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-honor-x50iplus-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Honor X50i+ to Protect Your Individual Information</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-zte-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock ZTE Phone without Google Account?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/insider-tips-how-to-secure-verification-on-xs-platform-after-its-evolution-from-twitter/"><u>Insider Tips: How to Secure Verification on X's Platform After Its Evolution From Twitter</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-troubles-heres-how-to-fix-five-nights-at-freddys-security-breach-crashes/"><u>PC Troubles? Here's How to Fix 'Five Nights at Freddy's: Security Breach Crashes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722971638751-upgrade-to-enhanced-network-speed-with-gigabyte-ethernet-driver-free-download-now/"><u>Upgrade to Enhanced Network Speed with Gigabyte Ethernet Driver - Free Download Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-your-network-with-the-latest-tp-link-adapters-drivers-compatible-with-win11-8-and-7/"><u>Upgrade Your Network with the Latest TP-Link Adapters Drivers – Compatible with Win11, 8 and 7</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unveil-the-ultimate-8-online-places-to-find-free-3d-text-files/"><u>[New] In 2024, Unveil the Ultimate 8 Online Places to Find FREE 3D Text Files</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-premier-online-galleries-of-premium-vectors/"><u>2024 Approved Premier Online Galleries of Premium Vectors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/extended-playtime-with-googles-pixel/"><u>Extended Playtime with Google's Pixel</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-oppo-find-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/galaxy-s22-upgraded-experience-the-latest-with-android-13-and-one-ui-5/"><u>Galaxy S22 Upgraded: Experience the Latest with Android 13 & One UI 5</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/has-another-smartphone-mimicked-the-iphone-14-pros-groundbreaking-dynamic-island-design/"><u>Has Another Smartphone Mimicked the iPhone 14 Pro's Groundbreaking Dynamic Island Design?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-do-you-use-your-android-phone-as-a-car-remote-control-with-carkey-feature/"><u>How Do You Use Your Android Phone as a Car Remote Control with CarKey Feature?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-manually-adjust-screen-brightness-and-deactivate-auto-brightness-feature-in-android/"><u>How to Manually Adjust Screen Brightness and Deactivate Auto-Brightness Feature in Android</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-decoding-visual-history-navigating-reverse-search-on-instagram/"><u>In 2024, Decoding Visual History Navigating Reverse Search on Instagram</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-potential-innovations-in-gif-artistry/"><u>In 2024, Unlocking Potential Innovations in GIF Artistry</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-unveiling-the-secrets-inside-the-google-pixel-7/"><u>In-Depth Analysis: Unveiling the Secrets Inside the Google Pixel 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-the-new-cross-platform-video-editor-compatible-with-chrome-os-and-android-devices/"><u>Introducing the New Cross-Platform Video Editor: Compatible with Chrome OS & Android Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/iphone-vs-android-costs-are-smartphones-really-equal-in-price/"><u>IPhone Vs. Android Costs: Are Smartphones Really Equal in Price?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-facial-recognition-easily-manage-your-android-device-with-just-a-look/"><u>Master Facial Recognition: Easily Manage Your Android Device with Just a Look</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-top-5-reaction-video-makers/"><u>New Top 5 Reaction Video Makers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/on-the-go-gyroscopic-footage-smoother/"><u>On-the-Go Gyroscopic Footage Smoother</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/perfecting-your-youtube-presence-a-video-upload-manual-for-2024/"><u>Perfecting Your YouTube Presence A Video Upload Manual for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-your-hp-156-inch-touchscreen-laptop-for-just-230-less-exclusive-offers-from-zdnet/"><u>Snag Your HP 15.6-Inch Touchscreen Laptop for Just $230 Less | Exclusive Offers From ZDNET</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steelseries-arctis-e-headset-mic-issues-heres-how-to-get-it-working-again/"><u>SteelSeries Arctis E Headset Mic Issues? Here's How to Get It Working Again</u></a></li>
 </ul></div>
 

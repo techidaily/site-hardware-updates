@@ -1,7 +1,7 @@
 ---
 title: Unlocking Expectations for October's Apple Event Featuring Revolutionary M4 Mac Mini and Latest iPads - Dive Into Innovative AI Updates! | DigitalSavvyNet
-date: 2024-12-26T18:19:41.917Z
-updated: 2024-12-27T19:30:03.295Z
+date: 2025-01-01T22:41:50.284Z
+updated: 2025-01-05T20:56:16.087Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,19 +118,16 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/onvert-any-youtube-tracking-ios-solutions-in-6-free-tools-for-2024/"><u>[New] Convert Any YouTube Tracking IOS Solutions in 6 Free Tools for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-insightful-pricing-comparison-for-cloud-platforms/"><u>[New] Insightful Pricing Comparison for Cloud Platforms</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-ultimate-list-of-top-quality-cost-free-luts-for-2024/"><u>[Updated] Ultimate List of Top-Quality, Cost-Free LUTs for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-confirms-release-of-new-processor-meet-the-higher-performing-sibling-ryzen-ai-9-hx-375/"><u>AMD Confirms Release of New Processor: Meet the Higher-Performing Sibling - Ryzen AI 9 HX 375</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-logitech-steering-wheel-gamepad-software-for-windows-gaming-systems/"><u>Download and Install Logitech Steering Wheel Gamepad Software for Windows Gaming Systems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-garmin-forerunner-945-best-in-multisport-wearables/"><u>In-Depth Look at the Garmin Forerunner 945: Best in Multisport Wearables</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-supported-intel-wireless-ac-9560-drivers-secure-your-downloads-today/"><u>Latest Supported Intel Wireless AC ^9560 Drivers – Secure Your Downloads Today!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/leading-small-tablet-devices-of-the-year-202-in-depth-expert-reviews-and-ratings/"><u>Leading Small Tablet Devices of the Year (202#): In-Depth Expert Reviews & Ratings</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolved-missing-default-printer-and-scanner-drivers-on-windows-11-operating-system/"><u>Resolved: Missing Default Printer & Scanner Drivers on Windows 11 Operating System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-integration-acquiring-and-implementing-wacom-intuos-pro-drivers-for-windows-10/"><u>Seamless Integration: Acquiring and Implementing Wacom Intuos Pro Drivers for Windows 10</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/securely-distributing-exclusive-youtube-videos-through-gmail/"><u>Securely Distributing Exclusive YouTube Videos Through Gmail</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-how-to-boost-your-playstation-5-performance-with-an-upgraded-internal-ssd/"><u>Ultimate How-To: Boost Your PlayStation 5 Performance with an Upgraded Internal SSD</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-secrets-of-tech-wonders-toms-inside-scoop-on-hardware-innovations/"><u>Unveiling Secrets of Tech Wonders: Tom's Inside Scoop on Hardware Innovations</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-visionaries-choice-for-watching-vr/"><u>[New] 2024 Approved Visionaries' Choice for Watching VR</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-achieving-perfect-time-lapses-with-ios-devices-for-2024/"><u>[New] Achieving Perfect Time-Lapses with iOS Devices for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-streamlining-your-filming-setup-the-beginners-companion/"><u>[Updated] 2024 Approved Streamlining Your Filming Setup The Beginner's Companion</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/digital-memory-reawakened-macs-deletion-undoer/"><u>Digital Memory Reawakened: Mac's Deletion Undoer</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaining-starfield-previews-a-step-by-step-guide/"><u>Gaining Starfield Previews: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-the-control-a-guide-to-transforming-your-android-device-into-a-google-tv-remote/"><u>Mastering the Control: A Guide to Transforming Your Android Device Into a Google TV Remote</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/meet-the-future-with-oneplus-10t-ultra-fast-charging-capability-and-cutting-edge-android-12-system/"><u>Meet the Future with OnePlus 10T - Ultra-Fast Charging Capability and Cutting-Edge Android 12 System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/my-journey-away-from-mobile-melodies-why-i-became-a-less-frequent-user-of-phone-tunes/"><u>My Journey Away From Mobile Melodies: Why I Became a Less Frequent User of Phone Tunes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/my-transformation-embracing-the-unmatched-comfort-of-leather-phone-cases/"><u>My Transformation: Embracing the Unmatched Comfort of Leather Phone Cases</u></a></li>
+<li><a href="https://discover-help.techidaily.com/navigating-tomorrows-digital-finance-landscape-with-expert-analysis-on-cryptocurrency-trends-by-yl-software/"><u>Navigating Tomorrow's Digital Finance Landscape with Expert Analysis on Cryptocurrency Trends by YL Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-setting-up-your-phones-google-assistant-drive-feature/"><u>Quick Guide: Setting Up Your Phone's Google Assistant Drive Feature</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Beyond ThinkPads and MacBooks: Discovering Exceptional Productivity Laptops for Power Users"
-date: 2024-12-27T00:06:44.536Z
-updated: 2024-12-27T22:03:29.513Z
+date: 2024-12-29T22:27:40.088Z
+updated: 2025-01-06T09:08:04.388Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,18 +134,24 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-lut-enthusiasts-delight-free-bundles-with-dji-minis-and-air-2/"><u>[New] LUT Enthusiasts' Delight – Free Bundles with DJI Minis & Air 2</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-navigating-the-multi-stream-experience-on-netflix/"><u>[New] Navigating the Multi-Stream Experience on Netflix</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-solar-lights-for-eco-friendly-illumination-expert-picks-of-2023-techradar/"><u>Best Solar Lights for Eco-Friendly Illumination - Expert Picks of 2023 | TechRadar</u></a></li>
-<li><a href="https://win11.techidaily.com/blueprint-for-winapp-and-web-browser-mastery/"><u>Blueprint for WinApp and Web Browser Mastery</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-latest-insignia-bluetooth-adapter-drivers-on-windows/"><u>Download & Install Latest Insignia Bluetooth Adapter Drivers on Windows</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-oppo-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Oppo</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-updated-sata-interface-drivers-on-windows-systems/"><u>Effortless Installation of Updated SATA Interface Drivers on Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-updating-and-downloading-intels-hd-graphics-5500-drivers/"><u>Guide: Updating and Downloading Intel's HD Graphics #5500 Drivers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/immediate-fixes-for-airdrop-malfunctions-learn-with-our-top-16-tips/"><u>Immediate Fixes for AirDrop Malfunctions - Learn With Our Top 16 Tips</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-introductory-tips-gradual-amplification-techniques/"><u>In 2024, Introductory Tips Gradual Amplification Techniques</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/listenguide-breakdown-for-2024/"><u>ListenGuide Breakdown for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722977477058-master-mbox-2-driver-management-free-downloads-and-effortless-update-processes-for-windows-users/"><u>Master MBox 2 Driver Management: Free Downloads & Effortless Update Processes for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-acer-sound-card-drivers-fast-and-simple-steps/"><u>Update Your Acer Sound Card Drivers - Fast and Simple Steps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-is-taking-screenshots-of-youtube-videos-illegal/"><u>[New] 2024 Approved Is Taking Screenshots of YouTube Videos Illegal?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-expert-trackers-for-social-media-hashes-in-fb-tweet-and-ig-for-2024/"><u>[New] Expert Trackers for Social Media Hashes in FB, Tweet & IG for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-facebooks-forgotten-treasures-how-to-rescue-conversations-and-videos-for-2024/"><u>[Updated] Facebook's Forgotten Treasures How to Rescue Conversations and Videos for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-professional-streaming-best-devices-to-record-live-sessions/"><u>[Updated] In 2024, Professional Streaming Best Devices to Record Live Sessions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-functionality-in-windows-11-with-these-5-simple-steps/"><u>How to Restore Sound Functionality in Windows 11 with These 5 Simple Steps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comparative-income-freelance-vs-full-time-podcaster/"><u>In 2024, Comparative Income Freelance Vs. Full-Time Podcaster</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-oppo-find-x6-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Oppo Find X6</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-student-project-showcase-tips-with-movavi/"><u>Innovative Student Project Showcase Tips with Movavi</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-pinnacle-studio-not-your-cup-of-tea-try-these-mac-alternatives/"><u>New Pinnacle Studio Not Your Cup of Tea? Try These Mac Alternatives</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-15-free-windows-11-customization-skins-boost-your-pcs-look/"><u>Top 15 FREE Windows 11 Customization Skins: Boost Your PC's Look</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-complete-steps-for-performing-a-full-hard-reset-on-your-android-device/"><u>Ultimate Guide: Complete Steps for Performing a Full Hard Reset on Your Android Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-play-mobile-music-through-a-windows-eos-10-system/"><u>Ultimate Guide: Play Mobile Music Through a Windows eOS 10 System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-lenovo-tab-excellence-assessment-dominating-the-tablet-world-like-a-titan/"><u>Ultimate Lenovo Tab Excellence Assessment: Dominating the Tablet World Like a Titan</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/understanding-f-droid-a-comprehensive-guide-highlighting-its-unique-features-compared-to-googles-play-store/"><u>Understanding F-Droid: A Comprehensive Guide Highlighting Its Unique Features Compared to Google's Play Store</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unfold-the-future-samsung-reveals-release-date-for-upcoming-foldable-devices-on-july-10th/"><u>Unfold the Future: Samsung Reveals Release Date for Upcoming Foldable Devices on July 10Th</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-advanced-settings-a-beginners-tutorial-for-turning-on-developer-features-and-usb-debug-in-android/"><u>Unlocking Advanced Settings: A Beginner's Tutorial for Turning On Developer Features and USB Debug in Android</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-ease-of-use-essential-strategies-for-handling-oversized-android-phones-solo/"><u>Unlocking Ease of Use: Essential Strategies for Handling Oversized Android Phones Solo</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-the-full-potential-of-your-phone-insights-into-android-gaming-mastery/"><u>Unlocking the Full Potential of Your Phone: Insights Into Android Gaming Mastery</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-the-concept-of-under-screen-fingerprints-doesnt-work-out/"><u>Why the Concept of Under-Screen Fingerprints Doesn't Work Out</u></a></li>
 </ul></div>
 

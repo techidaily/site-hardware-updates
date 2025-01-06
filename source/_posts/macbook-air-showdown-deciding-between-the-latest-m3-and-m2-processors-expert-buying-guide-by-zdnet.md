@@ -1,7 +1,7 @@
 ---
 title: "MacBook Air Showdown: Deciding Between the Latest M3 and M2 Processors | Expert Buying Guide by ZDNET"
-date: 2024-12-26T00:19:12.175Z
-updated: 2024-12-27T22:04:27.720Z
+date: 2024-12-31T13:34:10.150Z
+updated: 2025-01-06T08:23:14.491Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,10 @@ Since there are many variations and generations of both the iPad and the MacBook
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | **iPad Pro (7th gen)** | **MacBook Air**                                             |                                                                                                  |
@@ -45,7 +49,7 @@ Since there are many variations and generations of both the iPad and the MacBook
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You should buy an iPad Pro if...
@@ -53,7 +57,7 @@ Since there are many variations and generations of both the iPad and the MacBook
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. You want Apple's most efficient processor
@@ -64,19 +68,11 @@ A more efficient processor means the iPad speeds through app load times, 4K vide
 
 **Also:** [**I replaced my MacBook with an M4 iPad Pro and was less bothered than I expected**](https://www.zdnet.com/article/ipad-pro-2024-review/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/ipad-pro-2024-review/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22I%20replaced%20my%20MacBook%20with%20an%20M4%20iPad%20Pro%20and%20was%20less%20bothered%20than%20I%20expected%22%7D)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. You draw or take notes using an Apple Pencil
 
 For digital artists, drawing on a tablet with a stylus can be much easier than working on a computer or laptop. The iPad Pro supports the Apple Pencil Pro, which has a range of useful features for drawing, including a squeeze gesture for quick tool, color, and other changes, a gyroscope for precise control of pens and brush tools with a simple rotation, and custom haptic feedback that you can feel via a pulse. 
 
 As ZDNET editor-in-chief Jason Hiner noted in his [hands-on review](https://www.zdnet.com/article/ipad-pro-and-ipad-air-2024-buying-advice/), "The M4 OLED iPad Pro is a much easier sell for professional digital artists."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. You need something portable for on-the-go tasks
 
@@ -97,7 +93,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You should buy a MacBook if...
@@ -117,6 +113,10 @@ The MacBook Air also has more internal storage options than the iPad Pro: 8GB, 1
 The MacBook Air is compatible with AI features and applications, thanks to its M3 processor. This allows you to better handle AI workloads, like summarizing longer text, browsing the web with a specific focus, generating Excel formulas, writing code, making graphs and charts, and more.
 
 MacOS is getting an [Apple Intelligence](https://www.zdnet.com/article/apple-intelligence-arrives-next-month-6-ai-upgrades-iphone-users-can-expect-first/) update in September 2024, so AI will be even more seamlessly involved in the MacBook Air experience, with everything from Siri to creating unique images. Plus, the M3 chip means the MacBook Air is future-proofed for the inevitable deluge of AI applications coming.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. You like the option of using external displays
 
@@ -160,17 +160,22 @@ You can access everything on your MacBook Air on a larger display setup, allowin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-harmonizing-scores-with-cinematic-vision-in-film-trailers/"><u>[New] Harmonizing Scores with Cinematic Vision in Film Trailers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/effortless-group-video-chat-with-androids-facetime-for-2024/"><u>Effortless Group Video Chat with Android's Facetime for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-geforce-rtx-3070-driver-for-win-10-8-and-7-safe-downloads/"><u>Get the Latest GeForce RTX 지오트3070파이 Driver for Win 10, 8 & 7 - Safe Downloads</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-geforce-rtx-3060-ti-drivers-on-windows-compatibility-tips/"><u>Get the Newest GeForce RTX 3060 Ti Drivers on Windows - Compatibility Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722972920711-get-the-newest-sas-software-windows-compatible-free-downloads/"><u>Get the Newest SAS Software: Windows Compatible – Free Downloads!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-find-x6-pro-phone-without-google-account-by-drfone-android/"><u>How to Unlock Oppo Find X6 Pro Phone without Google Account?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Realme 11 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722972975975-latest-mpow-bluetooth-drivers-for-windows-get-your-download-here/"><u>Latest MPOW Bluetooth Drivers for Windows: Get Your Download Here!</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/playlist-embedding-on-sites-using-youtube/"><u>Playlist Embedding on Sites Using YouTube</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-your-hp-officejet-4655-driver-update-now-best-methods-for-download-and-installation/"><u>Secure Your HP OfficeJet 4655 Driver Update Now - Best Methods for Download & Installation</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/securely-documenting-your-google-voice-talks-for-2024/"><u>Securely Documenting Your Google Voice Talks for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-boost-sound-level-for-twitters-quiet-vids-for-2024/"><u>[New] Boost Sound Level for Twitter's Quiet Vids for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-an-experts-blueprint-for-calculating-your-videos-impact-and-income/"><u>[Updated] 2024 Approved An Expert's Blueprint for Calculating Your Video's Impact & Income</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/t-download-and-mp3-creation-for-streaming-video-files-for-2024/"><u>Direct Download & MP3 Creation for Streaming Video Files for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-management-using-mspcm-toolbar-in-w11-os/"><u>Efficient Management Using MSPCM Toolbar in W11 OS</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210105589-9781841815060-godsfield-companion-crystals/"><u>Godsfield Companion: Crystals | Free Book</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-ace-2-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus Ace 2 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-13-pro-max-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 13 Pro Max Without a Passcode</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/key-tech-accessories-every-student-should-include-in-their-school-bag/"><u>Key Tech Accessories Every Student Should Include in Their School Bag</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/method-guide-access-and-identify-restricted-phone-numbers-in-android-settings/"><u>Method Guide: Access and Identify Restricted Phone Numbers in Android Settings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/on-the-horizon-android-13-release-but-will-it-reach-your-device/"><u>On the Horizon: Android 13 Release - But Will It Reach Your Device?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/oneplus-9-pro-receives-significant-software-upgrade/"><u>OnePlus 9 Pro Receives Significant Software Upgrade</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/onyx-boox-poke-5-assessment-a-reliable-note-taking-companion/"><u>Onyx Boox Poke 5 Assessment: A Reliable Note-Taking Companion</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/predicting-the-future-of-your-androids-software-updates-how-long-can-you-expect/"><u>Predicting the Future of Your Android's Software Updates - How Long Can You Expect?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resizing-fonts-and-icons-on-your-android-device-a-comprehensive-guide/"><u>Resizing Fonts & Icons on Your Android Device: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/save-big-phones-under-1000-dont-compromise-on-quality/"><u>Save Big: Phones Under $1,000 Don’t Compromise on Quality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-your-power-the-ultimate-guide-to-preventing-charger-cord-pilferage-with-a-simple-plug-lock/"><u>Secure Your Power: The Ultimate Guide to Preventing Charger Cord Pilferage with a Simple Plug Lock</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/xbox-ones-elite-series-2-controller-unrivaled-in-performance-and-quality/"><u>Xbox One's Elite Series 2 Controller - Unrivaled in Performance and Quality</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Best Affordable Lenovo Devices: Powerful Options for Today's Hybrid Workforce with a $1,000 Deal!"
-date: 2024-12-25T00:56:14.142Z
-updated: 2024-12-27T17:23:24.000Z
+date: 2024-12-30T05:46:46.562Z
+updated: 2025-01-06T11:05:55.530Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7de9d47f-95cf-42d0-9213-b57cc5420698%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,500 -- $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7de9d47f-95cf-42d0-9213-b57cc5420698%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -79,15 +79,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-gold-standard-of-livestream-performances/"><u>[New] Gold Standard of Livestream Performances</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/add-motion-blur-effect-to-photos-in-photoshop/"><u>Add Motion Blur Effect to Photos in Photoshop</u></a></li>
-<li><a href="https://driver-download.techidaily.com/boost-your-pcs-performance-with-the-new-intel-iris-540-graphics-driver-update-a-user-friendly-approach/"><u>Boost Your PC's Performance with the New Intel Iris 540 Graphics Driver Update: A User-Friendly Approach</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-setup-for-epson-wf-2750-printer-how-to-get-the-correct-drivers/"><u>Complete Setup for Epson WF-2750 Printer - How to Get the Correct Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-geforce-gtx-460-drivers-on-windows-simple-guide/"><u>Download GeForce GTX 460 Drivers on Windows: Simple Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-compatible-acer-touchpad-driver-for-windows-11-users/"><u>Free Download: Compatible Acer Touchpad Driver for Windows 11 Users</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-s17-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo S17 Pro Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-infinix-smart-8-hd-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Infinix Smart 8 HD Screen | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722964901109-simple-steps-install-the-latest-epson-drivers-on-windows-without-a-hitch/"><u>Simple Steps: Install the Latest Epson Drivers on Windows Without a Hitch!</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-pathways-three-keys-to-gaming-files/"><u>Windows Pathways: Three Keys to Gaming Files</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-elevating-your-craft-top-camera-optics-for-professional-videos-for-2024/"><u>[New] Elevating Your Craft Top Camera Optics for Professional Videos for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-renowned-crafters-exquisite-instagram-hlv-designers-online-for-2024/"><u>[New] Renowned Crafters Exquisite Instagram HLV Designers Online for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-experts-list-of-top-vector-stock-portals/"><u>[New] The Expert's List of Top Vector Stock Portals</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-prevent-social-discomfort-block-options/"><u>[Updated] 2024 Approved Prevent Social Discomfort Block Options</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-leverage-free-luts-to-upgrade-your-obs-video-production-quality/"><u>[Updated] Leverage Free LUTs to Upgrade Your OBS Video Production Quality</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-ultimate-verdicts-in-camcorders-which-superiorly-captures-sports-for-2024/"><u>[Updated] Ultimate Verdicts in Camcorders Which Superiorly Captures Sports for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722963899462-download-the-ultimate-usb-webcam-drivers-simple-and-swift-setup/"><u>Download the Ultimate USB Webcam Drivers: Simple and Swift Setup</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-freshest-amd-radeon-rx-480-driver-updates-just-a-click-away/"><u>Effortless Installation: Freshest AMD Radeon RX 480 Driver Updates Just a Click Away</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-offer-alert-the-latest-ipad-9th-gen-is-yours-for-just-250-after-apples-cutting-edge-announcement/"><u>Exclusive Offer Alert: The Latest iPad (9Th Gen) Is Yours for Just $250 After Apple's Cutting-Edge Announcement</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-creative-webcam-software-updates-for-windows/"><u>Free Download: Creative Webcam Software Updates for Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-plus-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 Plus to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-software-version-available-for-brother-hl-l2350dw-free-download/"><u>Latest Software Version Available for Brother HL-L2350DW - Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-modern-hardware-a-journey-through-toms-tech-reviews/"><u>Mastering Modern Hardware: A Journey Through Tom's Tech Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-downloading-and-installing-the-intel-ac-7260-wireless-network-driver/"><u>Step-by-Step Guide to Downloading and Installing the Intel AC 7260 Wireless Network Driver</u></a></li>
 </ul></div>
 

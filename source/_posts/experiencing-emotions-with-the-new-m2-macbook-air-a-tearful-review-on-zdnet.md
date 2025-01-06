@@ -1,7 +1,7 @@
 ---
 title: Experiencing Emotions with the New M2 MacBook Air - A Tearful Review on ZDNet
-date: 2024-12-26T20:12:59.410Z
-updated: 2024-12-27T18:35:12.848Z
+date: 2025-01-01T11:53:51.305Z
+updated: 2025-01-06T09:21:06.630Z
 tags:
   - laptops
 categories:
@@ -22,12 +22,16 @@ Cliff Joseph/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [![Best tech products of 2022](https://www.zdnet.com/a/img/resize/3f88838e500b465de59bf97859df4b8cc8a9cd8a/2022/12/21/5246df34-aab3-4419-a17e-d162c8160806/zdgg-2022-overall.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) ZDNET editors loved these tech products and gadgets in 2022 Trying to find the absolute best tech products of 2022? From the iPhone 14 Pro Max to the Kindle Scribe to the Oura Ring Gen 3 Horizon, here are ZDNET's top gadgets of the year.  Read now](https://www.zdnet.com/article/best-tech-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 How often can a gadget make you confront your own weaknesses, especially the lies you tell yourself?
@@ -39,6 +43,10 @@ I can usually resist the latest, greatest, most hyped-up piece of technology.
 Until I'm sure I don't just want it, but need it. 
 
 Oh, all right, I may occasionally have a flexible definition of _need_.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The weakness. I just can't bear the weakness
 
@@ -56,10 +64,6 @@ But the M2 MacBook Air seemed to represent a departure from the old Air design. 
 
 There were two things I kept staring at: the midnight color and the new, non-tapered shape.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best MagSafe accessories: Top choices for the iPhone 12 and 13 Want to try the iPhone's MagSafe tech but not sure where to start? We'll show you some of our favorite accessories thus far.  Read now](https://www.zdnet.com/article/best-magsafe-accessory/)
@@ -74,17 +78,9 @@ And then there was the remarkable fact that an Apple store actually had the [mid
 
 Resistance was futile. Actually, it was non-existent, even if I still wondered whether this laptop could possibly be worth it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The lies I'd told myself
 
 With almost every gadget, it's one thing to play with it in a store. It's quite another to bring it into your daily life -- and I use a laptop at least 12 hours a day.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -110,7 +106,7 @@ Some (like ZDNET's [review of the M2 MacBook Air](https://www.zdnet.com/article/
 I've also noticed that MagSafe isn't quite what it used to be. Previously, it had flown out of its socket with minimal force. Now, you have to give it a perceptible tug before it detaches. I can't decide whether this is good or bad. I do like the sturdier feel of the cable, however. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## It's all ending in tears
@@ -122,6 +118,10 @@ But no tale this positive has a happy ending.
 So, as I write this, I'm staring into space, blaring at myself for being so impulsive.
 
 You see, but weeks after I bought my M2 Air, [the price began to descend](https://www.zdnet.com/article/apple-macbook-air-laptop-2022-m2-chip-cyber-monday-deals-2022-lowest-prices-ever/). Then it descended even more. Perhaps this is something to do with [the market prospects for laptops in 2023](https://www.zdnet.com/article/theres-a-long-cold-winter-ahead-for-pc-makers-that-could-be-good-news-for-pc-buyers/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -169,16 +169,16 @@ Unless, that is, you're selling [a perfectly functional robot dog](https://www.z
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-synchronizing-scenes-local-and-cloud-editing/"><u>[New] In 2024, Synchronizing Scenes Local & Cloud Editing</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-hidden-layers-to-understanding-instagram-stories/"><u>[Updated] In 2024, The Hidden Layers to Understanding Instagram Stories</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-mastering-insta-daily-strategies-for-amassing-1000plus-likesmonth-for-2024/"><u>[Updated] Mastering Insta Daily Strategies for Amassing 1,000+ Likes/Month for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-secrets-unveiled-best-practices-for-recording-roblox-games-on-a-mac/"><u>2024 Approved Secrets Unveiled Best Practices for Recording Roblox Games on a Mac</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-smartphone-solutions-top-voice-changer-applications/"><u>2024 Approved Smartphone Solutions Top Voice Changer Applications</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-quintessential-scene-composers-haven/"><u>In 2024, Quintessential Scene Composer's Haven</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-showdown-how-the-stylish-and-speedy-gigabyte-aorus-fn32-p-4k-oled-elevates-your-gaming-experience/"><u>The Ultimate Showdown: How the Stylish and Speedy Gigabyte Aorus FN32-P 4K OLED Elevates Your Gaming Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-digital-workshop-mastering-the-art-of-modern-computer-components/"><u>Tom's Digital Workshop: Mastering the Art of Modern Computer Components</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-explore-advanced-computer-components/"><u>Tom's Tech Hub - Explore Advanced Computer Components</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-expert-guides-and-reviews/"><u>Tom's Tech Insights: Expert Guides and Reviews</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-tiktok-success-10-secrets-to-trending-and-going-viral/"><u>Unlocking TikTok Success: 10 Secrets to Trending and Going Viral</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-bridge-the-gap-in-airdrop-transfers-solutions-for-iphones-ipads-and-macs/"><u>[New] 2024 Approved Bridge the Gap in Airdrop Transfers Solutions for iPhones, iPads & Macs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-realme-c53-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Realme C53 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/an-in-depth-look-at-basic-and-simplified-hdr-photography-for-2024/"><u>An In-Depth Look at Basic and Simplified HDR Photography for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-of-the-best-fastest-and-most-stable-wireless-driver-software-free/"><u>Best of the Best: Fastest & Most Stable Wireless Driver Software Free</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effective-strategies-to-repair-and-update-your-windows-10s-malfunctioning-bluetooth-drivers/"><u>Effective Strategies to Repair and Update Your Windows 10'S Malfunctioning Bluetooth Drivers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevating-your-experience-with-my-ai-6-reasons-why-snapchat-is-more-than-just-playtime/"><u>Elevating Your Experience with My AI: 6 Reasons Why Snapchat Is More Than Just Playtime</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-online-vob-to-mkv-conversion-with-movavi-effortless-video-format-change/"><u>Free Online VOB to MKV Conversion with Movavi - Effortless Video Format Change</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/production-delays-for-amds-ryzen-9000-typo-troubles-and-unexpected-impact-on-ryzen-5-9600x/"><u>Production Delays for AMD's Ryzen 9000 - Typo Troubles and Unexpected Impact on Ryzen 5 9600X</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/purchase-locations-for-amds-latest-processors-ryzen-7-9700x-and-ryzen-5-9600x/"><u>Purchase Locations for AMD's Latest Processors: Ryzen 7 9700X & Ryzen 5 9600X</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simplify-your-interaction-with-ai-the-ultimate-chrome-add-on-for-flawless-chatgpt-invocations/"><u>Simplify Your Interaction with AI: The Ultimate Chrome Add-On for Flawless ChatGPT Invocations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamlined-techniques-for-discovering-highly-engaged-youtube-remarks/"><u>Streamlined Techniques for Discovering Highly Engaged YouTube Remarks</u></a></li>
 </ul></div>
 

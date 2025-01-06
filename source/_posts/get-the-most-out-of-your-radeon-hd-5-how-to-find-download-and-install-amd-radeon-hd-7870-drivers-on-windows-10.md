@@ -1,7 +1,7 @@
 ---
 title: Get the Most Out of Your Radeon HD 5. How to Find, Download & Install AMD Radeon HD 7870 Drivers on Windows 10
-date: 2024-08-23T13:39:19.693Z
-updated: 2024-08-24T13:39:19.693Z
+date: 2025-01-04T17:36:29.519Z
+updated: 2025-01-06T14:23:11.839Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/2c72878e4c5b851b7d621c520b7075b9d80e911d0
 1. **[Download HP OfficeJet 6970 Pro driver manually](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Update HP OfficeJet 6970 Pro driver automatically](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Download HP OfficeJet 6970 Pro driver manually
 
  The HP manufacturer provides the driver software for their printers, so you can manually download the printer driver you need from the HP support website.
@@ -37,6 +41,10 @@ Here’s what you need to do:
  2) Type**OfficeJet Pro 6970** in the search box and choose**HP OfficeJet Pro 6970 All-in-One Printer series** in the drop-down list. Then the support page for this printer will open.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-263.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Software, Drivers and Firmware** on the left.
 
@@ -53,8 +61,9 @@ Here’s what you need to do:
  If this method doesn’t work for you, don’t worry. Move on to the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Update HP OfficeJet 6970 Pro driver automatically
 
  If you don’t have the time, patience, or computer skills, you can update your HP OfficeJet 6970 Pro driver automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -70,8 +79,9 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-268.png)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged HP printer to automatically download the correct version of this driver, then you can manually install it (you can do this with the**Free** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or outdated on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – You’ll be prompted to upgrade when you click**Update All** ).
@@ -79,8 +89,9 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-270.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Once updated, restart your computer to take effect.
 
  If you come across any problem with Driver Easy, please feel free to contact our support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -97,8 +108,6 @@ Here’s what you need to do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +115,20 @@ Here’s what you need to do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-2024-edition-movavi-video-editing-suite-assessment/"><u>[New] 2024 Edition Movavi Video Editing Suite Assessment</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/valuating-tseries-business-model-with-youtube-viewership-metrics/"><u>[New] Evaluating TSeries' Business Model with YouTube Viewership Metrics</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-tips-and-tricks-for-professional-logitech-webcam-recordings/"><u>[New] Tips & Tricks for Professional Logitech Webcam Recordings</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-charisma-of-jittery-text-2-methods-unleashed/"><u>[Updated] The Charisma of Jittery Text 2 Methods Unleashed</u></a></li>
+<li><a href="https://article-posts.techidaily.com/accessible-no-cost-tools-to-craft-professional-slideshows/"><u>Accessible, No-Cost Tools to Craft Professional Slideshows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/arduino-uno-and-windows-compatibility-correcting-driver-errors-effectively/"><u>Arduino Uno and Windows Compatibility: Correcting Driver Errors Effectively</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/conversione-gratuita-di-dvd-ad-h265hevc-mp4-con-la-massima-qualita-come-trasformare-i-tuoi-film/"><u>Conversione Gratuita Di DVD Ad H.265/HEVC MP4 Con La Massima Qualità: Come Trasformare I Tuoi Film</u></a></li>
+<li><a href="https://driver-install.techidaily.com/expedite-bios-flash-for-dell-latitude/"><u>Expedite BIOS Flash for Dell Latitude</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-your-touchpad-back-to-life-winning-the-battle-against-broken-synaptic-drivers-in-windows-10/"><u>Getting Your Touchpad Back to Life: Winning the Battle Against Broken Synaptic Drivers in Windows 10</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-iphone-11-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling iPhone 11 Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-h265-hevc-video-on-redmi-note-13-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Redmi Note 13 5G</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-logitech-g29-steering-wheel-driver-version-installation-guide-for-pcs/"><u>Latest Logitech G29 Steering Wheel Driver Version: Installation Guide for PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-technology-a-deep-dive-by-toms-hardware-specialist/"><u>Unveiling the Latest in Technology: A Deep-Dive by Tom’s Hardware Specialist</u></a></li>
+</ul></div>
 

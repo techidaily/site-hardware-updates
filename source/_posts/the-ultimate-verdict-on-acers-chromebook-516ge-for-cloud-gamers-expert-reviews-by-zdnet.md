@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Verdict on Acer's Chromebook ^516GE for Cloud Gamers | Expert Reviews by ZDNET
-date: 2024-12-26T18:07:24.891Z
-updated: 2024-12-27T21:03:21.291Z
+date: 2024-12-29T19:37:45.714Z
+updated: 2025-01-06T10:06:49.768Z
 tags:
   - laptops
 categories:
@@ -34,10 +34,6 @@ thumbnail: https://www.zdnet.com/a/img/resize/9c5c604a660fb3917fa9d4e87d43e90659
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 The redesigned (13-inch) M2 MacBook Air was so impressive from a design and performance standpoint that ZDNET named it our [Product of the Year for 2022](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/). The [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is a worthy successor, now offered in two sizes, 13-inch and 15-inch. ZDNET has tested both over the past week and has been [impressed enough with their three big upgrades](https://www.zdnet.com/article/apple-m3-macbook-air-hands-on-these-3-new-features-stood-out-to-me-most/) that it makes these new machines an easy buy recommendation for pros and enthusiasts who need more AI power and multiple external monitors. But, there are also some important buying considerations. 
@@ -49,7 +45,7 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -76,7 +72,7 @@ The ability to run two external monitors with the lid closed is one of the M3 Ma
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the M3 MacBook Air
@@ -86,7 +82,7 @@ In terms of qualitative testing, I wrote this article on the M3 MacBook Air and 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
@@ -117,6 +113,10 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Cinebench CPU/GPU benchmark (higher is better)
 
 ---
@@ -144,10 +144,6 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 | CPU (Single Core)            | 140                 |
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best features of M3 MacBook Air?
 
@@ -178,6 +174,10 @@ The M3 MacBook Air in Midnight now has the same anodized coating as the M3 MacBo
 Jason Hiner/ZDNET
 
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6a4cd20f-90e2-4305-8adc-535aae82592c%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6a4cd20f-90e2-4305-8adc-535aae82592c%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Final thought
 
@@ -235,16 +235,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-high-resolution-spaces-for-online-viewers/"><u>[New] 2024 Approved High-Resolution Spaces for Online Viewers</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-step-by-step-guide-how-to-convert-youtube-streaming-into-a-free-screencast/"><u>[New] 2024 Approved Step by Step Guide How To Convert YouTube Streaming Into a Free Screencast</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-chronoscape-controls-rewinding-iphone-footage-efficiently/"><u>[New] Chronoscape Controls Rewinding iPhone Footage Efficiently</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-stream-video-smoothly-save-pcmac-screens-to-youtube/"><u>[New] In 2024, Stream Video Smoothly Save PC/Mac Screens to YouTube</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-step-by-step-guide-to-installing-steelseries-drivers-on-windows-systems/"><u>Easy Step-by-Step Guide to Installing SteelSeries Drivers on Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fix-how-to-get-windows-11-to-detect-your-usb-drive/"><u>Fix: How To Get Windows 11 To Detect Your USB Drive</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hassle-free-installation-of-brother-mfc-7360n-drivers-for-windows-operating-systems/"><u>Hassle-Free Installation of Brother MFC-7360N Drivers for Windows Operating Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722976865282-liberalism-as-a-political-philosophy-had-won-out-over-its-rivals-communism-fascism/"><u>Liberalism as a Political Philosophy Had Won Out over Its Rivals (Communism, Fascism).</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/voice-memos-unveiled-comparing-features-and-options-beyond-vocaroo-for-2024/"><u>Voice Memos Unveiled Comparing Features and Options Beyond Vocaroo for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-samsung-galaxy-s24-ultra-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Samsung Galaxy S24 Ultra? Fixed | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/windows-11-ready-free-rtx-2060-super-graphics-card-driver-software/"><u>Windows 11 Ready – Free RTX 2060 Super Graphics Card Driver Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-10-free-youtube-playlist-downloaders-onlinepcandroidios2/"><u>[New] In 2024, 10 FREE YouTube Playlist Downloaders [Online/PC/Android/iOS]2</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-creative-vanguard-audio-visual-convergence/"><u>[Updated] In 2024, Creative Vanguard Audio-Visual Convergence</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725284016663-dvd/"><u>「どんなDVDも簡単にダビング！特集：家庭で使える最新の手順解説」</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strengthening-community-wellness-with-targeted-ads/"><u>2024 Approved Strengthening Community Wellness with Targeted Ads</u></a></li>
+<li><a href="https://win-blog.techidaily.com/download-and-separate-audio-tracks-from-online-videos-easily/"><u>Download and Separate Audio Tracks From Online Videos Easily</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-realme-c33-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Realme C33 2023? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-androids-privacy-settings-a-comprehensive-tutorial-on-setting-up-guest-mode/"><u>Mastering Android’s Privacy Settings: A Comprehensive Tutorial on Setting up Guest Mode</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-battery-and-performance-essential-tips-for-an-additional-year-with-your-old-android-phone/"><u>Maximize Battery and Performance: Essential Tips for an Additional Year with Your Old Android Phone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/motorola-edge-plus-vs-galaxy-s2n-ultra-an-in-depth-comparison/"><u>Motorola Edge Plus vs Galaxy S2n Ultra: An In-Depth Comparison</u></a></li>
+<li><a href="https://extra-information.techidaily.com/oculus-game-collection-top-8-popular-picks/"><u>Oculus Game Collection Top 8 Popular Picks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/one-handed-notification-unlocking-guide-for-google-pixel-users/"><u>One-Handed Notification Unlocking Guide for Google Pixel Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-issues-with-the-absent-msvcrtdll-file-a-comprehensive-guide/"><u>Resolving Issues with the Absent msvcrt.dll File: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revitalize-your-whatsapp-conversations-with-top-message-formatting-techniques/"><u>Revitalize Your WhatsApp Conversations with Top Message Formatting Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revive-and-continue-usage-of-any-app-on-your-android-phone-or-tablet/"><u>Revive and Continue Usage of Any App on Your Android Phone or Tablet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-the-budget-friendly-amazon-fire-tablet-for-a-steal-just-30-ahead-of-prime-day-event/"><u>Score the Budget-Friendly Amazon Fire ^Tablet for a Steal - Just $30 Ahead of Prime Day Event</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-guide-connecting-your-android-device-with-your-television/"><u>Seamless Guide: Connecting Your Android Device with Your Television</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-trick-alert-enlarge-your-google-map-experience-with-a-single-tap/"><u>Simple Trick Alert: Enlarge Your Google Map Experience with a Single Tap!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-activating-wi-fi-voice-calls-on-your-android-device/"><u>Step-by-Step Guide: Activating Wi-Fi Voice Calls on Your Android Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-xiaomi-redmi-k70e-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Xiaomi Redmi K70E Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 
