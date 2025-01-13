@@ -1,7 +1,7 @@
 ---
 title: "Massive $950 Off: Snap Up Lenovo's Premium Office Laptop Before October's Prime Deals - Insider Tips From ZDNet"
-date: 2025-01-01T13:46:35.967Z
-updated: 2025-01-05T16:57:19.301Z
+date: 2025-01-06T17:17:19.914Z
+updated: 2025-01-12T20:34:37.129Z
 tags:
   - laptops
 categories:
@@ -38,7 +38,7 @@ This laptop isn't solely for business professionals. Everybody can enjoy the dev
 Right now is the best time to buy this device. The [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cddc033e3-08fa-42b2-b4fe-eb896d4675a3%7Cdtp&dtb=1) is currently on sale at Amazon for $1,500\. That is almost $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cddc033e3-08fa-42b2-b4fe-eb896d4675a3%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -75,24 +75,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-discover-the-most-popular-screen-recorders-free-version/"><u>[New] Discover the Most Popular Screen Recorders - Free Version</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-virtual-exploration-a-tactical-approach/"><u>[Updated] The Art of Virtual Exploration A Tactical Approach</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-blueear-wireless-earmuff-headband-assessment-stylish-and-functional-audio-with-solid-performance/"><u>Comprehensive BlueEar Wireless Earmuff Headband Assessment: Stylish and Functional Audio with Solid Performance</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-on-understanding-lg-distribution-networks/"><u>Comprehensive Guide on Understanding LG Distribution Networks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-tp-link-ub400-wireless-usb-adapter-drivers/"><u>Download and Update TP-Link UB400 Wireless USB Adapter Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fresh-lenovo-thinkpad-t430-drivers-for-your-windows-system-windows-11-n-8-and-7-a-user-friendly-download-guide/"><u>Fresh Lenovo ThinkPad T430 Drivers for Your Windows System [Windows 11, N 8 & 7]: A User-Friendly Download Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-epson-gt-s50-drivers-for-your-windows-pc-windows-7-8-10-supported/"><u>Get the Latest Epson GT-S50 Drivers for Your Windows PC (Windows 7, 8, 10 Supported)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-vivo-x100-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Vivo X100 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-drivers-for-your-canon-mg3000/"><u>How to Get the Newest Drivers for Your Canon MG3000</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-perfecting-your-videos-the-power-of-proper-thumbnails/"><u>In 2024, Perfecting Your Videos The Power of Proper Thumbnails</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-asus-bt500-bluetooth-adapter-software-compatible-with-windows-11108-get-here/"><u>Latest Asus BT500 Bluetooth Adapter Software Compatible with Windows 11/10/8 - Get Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-intel-irisplus-graphics-amics-655-windows-drivers-for-10-and-11-operating-systems/"><u>Latest Intel Iris+ Graphics Amics 655 Windows Drivers for 10 & 11 Operating Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximize-efficiency-on-macos-using-craft-a-comprehensive-guide-to-mastering-this-powerful-document-platform-tech-insights/"><u>Maximize Efficiency on macOS Using Craft: A Comprehensive Guide to Mastering This Powerful Document Platform | Tech Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/metamorphic-rocks-help-geologists-understand-past-plate-movements-and-reconstruct-paleogeography/"><u>Metamorphic Rocks Help Geologists Understand Past Plate Movements and Reconstruct Paleogeography.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/nvidia-quadro-drivers-for-w10-secure-and-authentic-downloads-directly-from-nvidia/"><u>NVIDIA Quadro Drivers for W10: Secure & Authentic Downloads Directly From Nvidia</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/simplified-instructions-for-integrating-the-keyspan-usa-19hs-keyboard-with-a-windows-system/"><u>Simplified Instructions for Integrating the Keyspan USA-19HS Keyboard With a Windows System</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-nubia-red-magic-8s-pro-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Nubia Red Magic 8S Pro Users</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-capabilities-a-detailed-look-at-the-netgear-nighthawk-x4-wireless-mesh-extender-functionality-and-efficiency/"><u>Unpacking the Capabilities: A Detailed Look at the Netgear Nighthawk X4 Wireless Mesh Extender Functionality and Efficiency</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/video-dxgkrnl-fatal-error-blue-screen-on-windows-11-fixed/"><u>Video Dxgkrnl Fatal Error Blue Screen on Windows 11 [Fixed]</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-adjusting-story-video-playback-rate-on-instagram/"><u>[New] Adjusting Story Video Playback Rate on Instagram</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-scouting-the-best-screenshot-and-recorders-of-today/"><u>[Updated] 2024 Approved Scouting the Best Screenshot & Recorders of Today</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-screen-spectaculor-the-premier-6-hdmi-21-models-reviewed-for-2024/"><u>[Updated] Screen Spectaculor The Premier 6 HDMI 2.1 Models Reviewed for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-optimizing-facebook-videos-for-hd-broadcasts-and-beyond/"><u>2024 Approved Optimizing Facebook Videos for HD Broadcasts and Beyond</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-nokia-c210-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Nokia C210 Phone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quick-windows-data-assessment-tutorial-for-2024/"><u>Quick Windows Data Assessment Tutorial for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/ready-set-delete-top-windows-redundancies-you-can-eliminate/"><u>Ready, Set, Delete: Top Windows Redundancies You Can Eliminate</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/scorching-discount-alert-up-to-170-off-amazons-popular-fire-tv-qled-series-act-fast-on-this-exclusive-offer-full-details-zdnet/"><u>Scorching Discount Alert: Up to $170 Off Amazon's Popular Fire TV QLED Series! Act Fast on This Exclusive Offer - Full Details | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-your-dream-lg-oled-television-for-a-bargain-exclusive-labor-day-offer-with-savings-of-up-to-80-cups-check-out-the-latest-reviews-on-zdnet/"><u>Snag Your Dream LG OLED Television for a Bargain: Exclusive Labor Day Offer with Savings of up to $80 Cups! Check Out the Latest Reviews on ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-setting-up-airplay-technology-for-hdtv-viewing-experience/"><u>Step-by-Step Tutorial: Setting Up AirPlay Technology for HDTV Viewing Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-non-branded-soundbar-beats-bose-and-sony-in-our-review-insights-from-zdnet/"><u>Top Non-Branded Soundbar Beats Bose and Sony in Our Review - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranked-roku-devices-comprehensive-reviews-and-testing-by-tech-experts-digital-trends/"><u>Top-Ranked Roku Devices : Comprehensive Reviews & Testing by Tech Experts | Digital Trends</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-roku-devices-expert-picks-for-the-ultimate-streaming-experience-zdnet/"><u>Top-Ranking Roku Devices: Expert Picks for the Ultimate Streaming Experience - ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-4k-television-models-comprehensive-reviews-by-tech-specialists-pcmag/"><u>Top-Rated 4K Television Models - Comprehensive Reviews by Tech Specialists | PCMag</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transform-your-iphone-into-an-intuitive-tv-control-device-with-these-expert-tips-by-zdnet/"><u>Transform Your iPhone Into an Intuitive TV Control Device with These Expert Tips by ZDNET</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-unresponsive-file-explorer-in-windows-10-tips-and-fixes/"><u>Troubleshooting Unresponsive File Explorer in Windows 10 – Tips and Fixes</u></a></li>
 </ul></div>
 

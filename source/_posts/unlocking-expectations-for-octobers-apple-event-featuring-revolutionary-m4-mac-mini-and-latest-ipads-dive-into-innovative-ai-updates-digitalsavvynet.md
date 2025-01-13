@@ -1,7 +1,7 @@
 ---
 title: Unlocking Expectations for October's Apple Event Featuring Revolutionary M4 Mac Mini and Latest iPads - Dive Into Innovative AI Updates! | DigitalSavvyNet
-date: 2025-01-01T22:41:50.284Z
-updated: 2025-01-05T20:56:16.087Z
+date: 2025-01-10T01:55:19.813Z
+updated: 2025-01-13T02:47:40.293Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,16 +118,24 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-visionaries-choice-for-watching-vr/"><u>[New] 2024 Approved Visionaries' Choice for Watching VR</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-achieving-perfect-time-lapses-with-ios-devices-for-2024/"><u>[New] Achieving Perfect Time-Lapses with iOS Devices for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-streamlining-your-filming-setup-the-beginners-companion/"><u>[Updated] 2024 Approved Streamlining Your Filming Setup The Beginner's Companion</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/digital-memory-reawakened-macs-deletion-undoer/"><u>Digital Memory Reawakened: Mac's Deletion Undoer</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaining-starfield-previews-a-step-by-step-guide/"><u>Gaining Starfield Previews: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-the-control-a-guide-to-transforming-your-android-device-into-a-google-tv-remote/"><u>Mastering the Control: A Guide to Transforming Your Android Device Into a Google TV Remote</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/meet-the-future-with-oneplus-10t-ultra-fast-charging-capability-and-cutting-edge-android-12-system/"><u>Meet the Future with OnePlus 10T - Ultra-Fast Charging Capability and Cutting-Edge Android 12 System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/my-journey-away-from-mobile-melodies-why-i-became-a-less-frequent-user-of-phone-tunes/"><u>My Journey Away From Mobile Melodies: Why I Became a Less Frequent User of Phone Tunes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/my-transformation-embracing-the-unmatched-comfort-of-leather-phone-cases/"><u>My Transformation: Embracing the Unmatched Comfort of Leather Phone Cases</u></a></li>
-<li><a href="https://discover-help.techidaily.com/navigating-tomorrows-digital-finance-landscape-with-expert-analysis-on-cryptocurrency-trends-by-yl-software/"><u>Navigating Tomorrow's Digital Finance Landscape with Expert Analysis on Cryptocurrency Trends by YL Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-guide-setting-up-your-phones-google-assistant-drive-feature/"><u>Quick Guide: Setting Up Your Phone's Google Assistant Drive Feature</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-enhancing-engagement-10-must-have-tools-for-ig-gurus/"><u>[New] Enhancing Engagement 10 Must-Have Tools for IG Gurus</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-liminal-film-narrative-plan/"><u>[New] Liminal Film Narrative Plan</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-screen-play-perfect-apples-no1-top-8-movie-app-guide/"><u>[New] Screen Play Perfect Apple's No.1, Top 8 Movie App Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-cinematographers-choice-best-lenses-for-4k-excellence-for-2024/"><u>[Updated] The Cinematographer's Choice Best Lenses for 4K Excellence for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/2023s-ultimate-tech-wishlist-fulfilled-with-top-picks-from-best-buy-featured/"><u>2023'S Ultimate Tech Wishlist Fulfilled with Top Picks From Best Buy | Featured</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-how-to-proficiently-use-a-switch-pro-controller-on-steam/"><u>2024 Approved How to Proficiently Use a Switch Pro Controller on Steam</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ing-new-territory-youtubes-revised-policies/"><u>Charting New Territory YouTube's Revised Policies</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/essential-guide-to-the-best-8-no-cost-videoconferencing-platforms/"><u>Essential Guide to the Best 8 No-Cost Videoconferencing Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/exclusive-got-ringtones-where-to-find-them-online/"><u>Exclusive GoT Ringtones - Where to Find Them Online</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-poco-f5-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Poco F5 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-oppo-a58-4g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Oppo A58 4G?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/innovative-transformation-unveiled-discovering-the-worlds-slickest-gadget-a-lenovo-dual-purpose-laptoptablet-insights/"><u>Innovative Transformation Unveiled: Discovering the World’s Slickest Gadget, a Lenovo Dual-Purpose Laptop/Tablet | Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/october-primed-for-metas-unbeatable-512gb-quest-3-offer-this-vr-shopping-season-insights/"><u>October Primed for Meta's Unbeatable 512GB Quest 3 Offer This VR Shopping Season Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-ultimate-vr-experience-with-metas-limited-time-october-deal-on-512gb-quest-3-prime-day-bargain-hunters-guide/"><u>Snag the Ultimate VR Experience with Meta's Limited-Time October Deal on 512GB Quest 3 - Prime Day Bargain Hunter’s Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-49-unmissable-newegg-holiday-offers-insider-picks/"><u>Top 49 Unmissable Newegg Holiday Offers - Insider Picks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-laptop-bargains-in-july-2024-explore-the-latest-offers/"><u>Top Rated Laptop Bargains in July 2024 - Explore the Latest Offers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-student-friendly-chromebooks-thoroughly-vetted-by-tech-experts-zdnet/"><u>Top-Rated Student-Friendly Chromebooks: Thoroughly Vetted by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transform-clutter-to-clarity-with-the-all-inclusive-11-in-1-dock-pro-up-to-44-cheaper/"><u>Transform Clutter to Clarity with the All-Inclusive 11-in-1 Dock Pro, Up to 44% Cheaper !</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-essential-holiday-gift-ideas-for-crafters-and-builders-expert-suggestions/"><u>Unveiling Essential Holiday Gift Ideas for Crafters and Builders: Expert Suggestions</u></a></li>
 </ul></div>
 

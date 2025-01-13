@@ -1,7 +1,7 @@
 ---
 title: Unleashing Potential in Subtlety - How Asus Delivers a Laptop with Impressive Features for Creatives, Spotted
-date: 2025-01-04T03:46:37.043Z
-updated: 2025-01-06T09:38:46.611Z
+date: 2025-01-08T21:52:02.724Z
+updated: 2025-01-13T01:40:54.559Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,20 +112,22 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-get-hd-quality-facebook-videos-on-pcmobile/"><u>[New] 2024 Approved Get HD Quality Facebook Videos on PC/Mobile</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-windows-11-the-ultimate-screen-grabber-collection/"><u>[New] In 2024, Windows 11 The Ultimate Screen Grabber Collection</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-optimal-live-streaming-scenery-ideas-for-2024/"><u>[New] Optimal Live Streaming Scenery Ideas for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elite-5-earbuds-youtubes-best-companions/"><u>[Updated] 2024 Approved Elite 5 Earbuds YouTube's Best Companions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-old-to-new-crafting-a-video-journey-from-classic-photos/"><u>[Updated] Old to New Crafting a Video Journey From Classic Photos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-facebooks-guide-to-enhancing-past-recordings-for-live-streaming/"><u>2024 Approved Facebook's Guide to Enhancing Past Recordings for Live Streaming</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beginner-friendly-yet-teeming-with-expert-functions-the-latest-dji-mini-3-drone-explained-innovation-unveiled/"><u>Beginner-Friendly yet Teeming with Expert Functions, The Latest DJI Mini 3 Drone Explained | Innovation Unveiled</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-installation-complete-guide-to-lenovo-t430-drivers-for-wndows-1187-users/"><u>Effortless Installation: Complete Guide to Lenovo T430 Drivers for Wndows 11/8/7 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-intel-nic-drivers-now-fully-updated-for-windows-11-10-and-7-users/"><u>Get Your Intel NIC Drivers Now! Fully Updated for Windows 11, 10 & 7 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-most-recent-drivers-for-your-lenovo-thunderbolt-3-port/"><u>How to Install the Most Recent Drivers for Your Lenovo Thunderbolt 3 Port</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-set-up-the-logiteche-momo-wheel-drivers-and-installation-guide-for-enthusiast-gamers/"><u>How To Set Up The Logiteche Momo Wheel: Drivers & Installation Guide For Enthusiast Gamers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/improve-printing-performance-download-and-update-hp-officejet-pro-8720-drivers-for-windows-systems/"><u>Improve Printing Performance: Download & Update HP OfficeJet Pro 8720 Drivers for Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovos-official-guide-to-downloading-and-updating-bluetooth-drivers-for-windows-710/"><u>Lenovo's Official Guide to Downloading and Updating Bluetooth Drivers for Windows 7/10</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-the-connection-display-your-ipadiphone-on-the-screen-via-five-unique-techniques/"><u>Mastering the Connection: Display Your iPad/iPhone on the Screen via Five Unique Techniques</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-setup-installing-your-mediatek-vcom-usb-drivers-now/"><u>Quick Setup: Installing Your MediaTek VCOM USB Drivers Now!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-elevate-visual-storytelling-with-windows-photos-and-story-remix-techniques-for-2024/"><u>[New] Elevate Visual Storytelling with Windows Photos & Story Remix Techniques for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nhance-engagement-with-effective-yt-summary-writing-for-2024/"><u>[New] Enhance Engagement with Effective YT Summary Writing for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-pushing-past-vimeos-limits-with-top-10-editors-for-2024/"><u>[Updated] Pushing Past Vimeo's Limits with Top 10 Editors for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-high-end-cameras-for-stunning-4k-content-top-18/"><u>2024 Approved High-End Cameras for Stunning 4K Content (Top 18)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordably-elite-the-top-notch-display-on-this-budget-laptop-that-exceeds-expectations/"><u>Affordably Elite: The Top-Notch Display on This Budget Laptop That Exceeds Expectations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-scoop-best-buys-top-picks-for-october-prime-day-2024-still-going-strong/"><u>Exclusive Scoop: Best Buy's Top Picks for October Prime Day 2024 Still Going Strong</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/exploring-hardware-integration-a-step-by-nstep-guide-in-the-system-settings-control-panel-with-yl-computing-solutions/"><u>Exploring Hardware Integration: A Step-by-nStep Guide in the System Settings (Control Panel) with YL Computing Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/half-price-hp-pavilion-laptops-on-cyber-monday-202n-save-big-with-a-450-deal-at-50-off-zdnet/"><u>Half-Price HP Pavilion Laptops on Cyber Monday 202N - Save Big with a $450 Deal at 50% Off! | ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-proven-strategies-against-photos-app-issues-on-windows-11/"><u>In 2024, Proven Strategies Against Photos App Issues on Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-script-zip-up-creating-srt-from-video-archives-fastly/"><u>In 2024, Script Zip-Up Creating SRT From Video Archives Fastly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/macbook-air-with-m1-chip-at-unbeatable-649-price-exclusive-deal/"><u>MacBook Air with M1 Chip at Unbeatable $649 Price – Exclusive Deal !</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-ai-integration-incorporating-gpt-3-into-your-python-projects/"><u>Mastering AI Integration: Incorporating GPT-3 Into Your Python Projects</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/returning-students-rejoice-save-big-with-samsung-deals-on-tech-gear-for-class/"><u>Returning Students Rejoice: Save Big with Samsung Deals on Tech Gear for Class!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-the-premier-linux-laptops-of-2024-meticulously-tested-for-performance-and-reliability/"><u>Ultimate Guide to the Premier Linux Laptops of 2024, Meticulously Tested for Performance and Reliability</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-stunning-visual-delights-with-our-top-rated-thin-and-light-laptop-exclusive-sale-alert-tech-savvy-today/"><u>Unlock Stunning Visual Delights with Our Top-Rated Thin & Light Laptop - Exclusive Sale Alert! | Tech Savvy Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unmissable-savings-on-apple-products-for-july-202-find-the-latest-iphone-discounts-apple-watch-bargains-and-budget-friendly-ipads-now-gadgetzone/"><u>Unmissable Savings on Apple Products for July 202#: Find the Latest iPhone Discounts, Apple Watch Bargains, and Budget-Friendly iPads Now | GadgetZone</u></a></li>
 </ul></div>
 

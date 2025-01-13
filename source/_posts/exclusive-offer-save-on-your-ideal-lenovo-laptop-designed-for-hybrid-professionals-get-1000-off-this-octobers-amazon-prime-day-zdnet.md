@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Offer: Save on Your Ideal Lenovo Laptop Designed for Hybrid Professionals - Get $1,000 Off This October's Amazon Prime Day! | ZDNet"
-date: 2025-01-01T21:45:15.130Z
-updated: 2025-01-05T20:10:34.464Z
+date: 2025-01-09T23:55:15.646Z
+updated: 2025-01-13T02:38:44.122Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3714981f-3a77-4004-9f5f-505a32073051%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,520 -- nearly $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3714981f-3a77-4004-9f5f-505a32073051%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -79,20 +79,19 @@ At the time of this writing, it is the second day of Amazon's October Prime Day 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-how-to-change-the-destination-where-screenshots-are-saved-on-your-mac/"><u>[New] In 2024, How to Change the Destination Where Screenshots Are Saved on Your Mac</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-exclusive-guide-to-instagrams-hidden-functionality-for-2024/"><u>[Updated] Exclusive Guide to Instagram's Hidden Functionality for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-no-pay-maximum-fun-20-custom-lut-sets-for-dji-miniair-users/"><u>[Updated] No Pay, Maximum Fun 20 Custom LUT Sets for DJI Mini/Air Users</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/t-friendly-webinar-strategies-for-youtube/"><u>Budget-Friendly Webinar Strategies for YouTube</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/cooler-master-elevates-psu-game-with-new-lineup-offering-up-to-2000w-of-power/"><u>Cooler Master Elevates PSU Game with New Lineup Offering Up to 2000W of Power!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/diagnosing-ram-issues-a-comprehensive-guide-on-how-to-check-your-pcs-memory/"><u>Diagnosing RAM Issues: A Comprehensive Guide on How to Check Your PC's Memory</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dial-back-the-dazzle-a-close-look-at-our-astoundingly-bright-mini-led-tv-display/"><u>Dial Back the Dazzle: A Close Look at Our Astoundingly Bright Mini LED TV Display</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-new-8bitdo-replica-a-tribute-to-classic-ibm-model-m-keyboards/"><u>Discover the New 8BitDo Replica: A Tribute to Classic IBM Model M Keyboards</u></a></li>
-<li><a href="https://blog-min.techidaily.com/editando-videos-en-perfeccionamiento-adquira-la-herramienta-mas-segura-para-windows-and-mac-con-descuentos-que-no-puedes-perderse/"><u>Editando Videos en Perfeccionamiento - Adquira La Herramienta Más Segura Para Windows & Mac Con Descuentos Que No Puedes Perderse.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-techniques-for-revamping-your-powerpoint-slides/"><u>Effortless Techniques for Revamping Your PowerPoint Slides</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/elevate-website-engagement-through-cookiebot-solutions/"><u>Elevate Website Engagement Through Cookiebot Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/embracing-a-smarter-home-key-considerations-and-actionable-steps-for-transformation/"><u>Embracing a Smarter Home: Key Considerations & Actionable Steps for Transformation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/essential-add-ons-for-a-full-featured-home-assistant-experience/"><u>Essential Add-Ons for a Full-Featured Home Assistant Experience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/future-cloud-costs-top-2024-storages-and-lowest-rates/"><u>Future Cloud Costs Top 2024 Storages & Lowest Rates</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-elevating-music-management-the-best-rated-platforms-for-mp3-file-metadata-editing/"><u>Updated Elevating Music Management The Best-Rated Platforms for MP3 File Metadata Editing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-fbx-methods-for-perfect-gaming-saves/"><u>[New] 2024 Approved FBX Methods for Perfect Gaming Saves</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-secrets-of-creating-a-bespoke-tiktok-hashtag/"><u>[New] In 2024, Secrets of Creating a Bespoke TikTok Hashtag</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-premium-voice-recorder-tools-for-mac-discovering-the-five-top-apps/"><u>[New] Premium Voice Recorder Tools for Mac Discovering The Five Top Apps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-phantom-pitches-is-this-magical-talker-an-illusion-or-reality-explore-more-options-for-2024/"><u>[Updated] Phantom Pitches Is This Magical Talker an Illusion or Reality? Explore More Options for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fusing-images-online-and-desktop-harmoniously/"><u>2024 Approved Fusing Images Online & Desktop Harmoniously</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-exclusive-insider-tips-on-game-deals-during-the-ultimate-october-prime-day-2024-save-big-with-discounts-up-to-1000-zdnet/"><u>Don't Miss Out: Exclusive Insider Tips on Game Deals During the Ultimate October Prime Day 2024 – Save Big with Discounts up to $1,000 | ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-gigabynter-network-drivers-today-zero-cost/"><u>Download and Install Gigabynter Network Drivers Today – Zero Cost!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/enhance-your-photos-on-instagram-with-easy-free-filters-access/"><u>Enhance Your Photos on Instagram with Easy, Free Filters Access</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-finest-windows-screen-grabbers-a-comprehensive-guide-to-17-tools-by-movavi/"><u>Exploring the Finest Windows Screen Grabbers: A Comprehensive Guide to 17 Tools by Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-mwcs-exclusive-lenovo-laptop-lineup-our-comprehensive-testing-and-best-picks/"><u>Inside MWC's Exclusive Lenovo Laptop Lineup: Our Comprehensive Testing & Best Picks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-versatile-laptop-review-popular-choice-and-impressive-hardware-features-insights/"><u>The Ultimate Versatile Laptop Review: Popular Choice and Impressive Hardware Features Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-laptop-picks-for-2eplus4-thoroughly-evaluated-by-tech-aficionados-zdnet/"><u>Top-Ranking Laptop Picks for 2E+4: Thoroughly Evaluated by Tech Aficionados | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-power-at-a-bargain-snap-up-the-hp-victus-15-for-just-515-during-best-buys-prime-day-special-insights/"><u>Unleash Power at a Bargain: Snap Up the HP Victus 15 for Just $515 During Best Buy's Prime Day Special - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upcoming-tech-reveal-potential-early-march-release-for-apples-macbook-air-ipad-pro-and-ipad-air-reported/"><u>Upcoming Tech Reveal? Potential Early March Release for Apple's MacBook Air, iPad Pro and iPad Air - Reported</u></a></li>
 </ul></div>
 

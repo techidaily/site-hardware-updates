@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary AMD Zen 5 CPU: Combining Mobile Convenience with Desktop-Class Power at Just 115W – Exclusive Preview of the Formidable Ryzen Strix Halo's 16 Core, RDNA iGPU"
-date: 2024-08-19T05:59:10.391Z
-updated: 2024-08-20T05:59:10.391Z
+date: 2025-01-12T00:06:59.779Z
+updated: 2025-01-12T19:59:51.886Z
 tags:
   - cpu
 categories:
@@ -34,6 +34,10 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,14 +46,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -58,8 +59,26 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/evenue-revolution-joining-elite-at-500-subs-level/"><u>[New] Revenue Revolution Joining Elite at 500 Subs Level</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-best-mkv-solvers-on-macos/"><u>[Updated] 2024 Approved Best MKV Solvers on macOS</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-perfect-photos-effortless-best-10-screenshot-sticker-enhancers-for-smartphones/"><u>[Updated] 2024 Approved Perfect Photos, Effortless Best 10 Screenshot-Sticker Enhancers for Smartphones</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-redefining-visual-standards-hdr-vs-standard-sdr/"><u>[Updated] 2024 Approved Redefining Visual Standards HDR Vs. Standard SDR</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-xs-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password From iPhone XS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/building-your-dream-4k-video-editing-studio-a-diy-blueprint/"><u>Building Your Dream 4K Video Editing Studio A DIY Blueprint</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722962148772-easily-update-your-pc-with-the-latest-canon-mf743cdw-driver-for-windows/"><u>Easily Update Your PC with the Latest Canon MF743CDW Driver for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-access-to-free-hp-designjet-500-printer-drivers-online/"><u>Easy Access to Free HP DesignJet 500 Printer Drivers Online</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-update-your-windows-printer-drivers-brother-mfc-786ebefore-2019/"><u>Find and Update Your Windows Printer Drivers - Brother MFC-786ebefore 2019</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-honor-100-pro-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Honor 100 Pro?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-lexar-usb-drivers-with-one-click-secure-simple-and-speedy/"><u>Install Lexar USB Drivers with One Click: Secure, Simple, and Speedy</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-new-gadgets-and-gizmos-at-toms-hardware-hub/"><u>Navigating New Gadgets & Gizmos at Tom's Hardware Hub</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-y27s-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo Y27s Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-easily-obtaining-the-most-recent-graphics-driver-for-your-dell-d3100-laptop/"><u>Quick Guide: Easily Obtaining the Most Recent Graphics Driver for Your Dell D3100 Laptop</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/razer-drivers-download-and-update-in-windows-10-8-7-xp-and-vista/"><u>Razer Drivers Download & Update in Windows 10, 8, 7, XP and Vista</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/secure-approach-verifying-your-youtube-login-details/"><u>Secure Approach Verifying Your YouTube Login Details</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solving-problems-with-the-realtek-rtl8811au-network-adapter-driver/"><u>Solving Problems with the Realtek RTL8811AU Network Adapter Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-pc-download-nvidias-latest-geforce-rtx-3080-driver-for-windows-users/"><u>Update Your PC: Download NVIDIA's Latest GeForce RTX 3080 Driver for Windows Users!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->

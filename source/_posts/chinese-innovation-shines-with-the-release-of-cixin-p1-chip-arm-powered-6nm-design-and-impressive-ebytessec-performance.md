@@ -1,7 +1,7 @@
 ---
 title: Chinese Innovation Shines with the Release of Cixin P1 Chip - Arm-Powered, 6Nm Design and Impressive Ebytes/Sec Performance
-date: 2024-08-19T06:01:40.629Z
-updated: 2024-08-20T06:01:40.630Z
+date: 2025-01-06T16:08:21.893Z
+updated: 2025-01-12T16:44:47.622Z
 tags:
   - cpu
 categories:
@@ -27,6 +27,10 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
  The Cixin P1 is a very unique processor. While it does not fulfill Beijing's goals of being a fully home-grown processor because it uses Arm CPU and GPU designs, the chip is specifically designed for the needs of the Chinese market and stands ready to enjoy some level of success. It also sadly does not meet[Microsoft](https://www.tomshardware.com/tag/microsoft) 's arbitrary "AI PC" requirements. The P1's NPU on its own is only 30 TOPS — shy of the 40 TOPS target — though it's likely that Cixin could not care less about Windows Copilot+ certification.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -37,14 +41,11 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
  Cixin is a very young company, first established in 2021, that has been growing thanks to investments from 15-20 public and private investment partners listed on its website. This freshness to the Chinese tech scene may limit widespread adoption early on, so we'll have to wait and see if Cixin manages to succeed in the huge, hungry tech market seeking[separation from U.S. interference](https://www.tomshardware.com/tech-industry/manufacturing/china-commerce-minister-frustrated-by-us-interfering-in-international-lithography-exports-via-third-countries) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -53,8 +54,21 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-advanced-strategies-in-ps3-gaming-broadcasting/"><u>[Updated] Advanced Strategies in PS3 Gaming Broadcasting</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-discovering-gems-20-underrated-tiktok-raps/"><u>[Updated] Discovering Gems 20 Underrated TikTok Raps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-your-iphone-selfie-upgrade-choose-from-8-stars-for-2024/"><u>[Updated] Your iPhone Selfie Upgrade - Choose From #8 Stars for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/banish-flickering-screens-a-windows-11-guide/"><u>Banish Flickering Screens: A Windows 11 Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-latest-innovations-with-toms-electronics-reviews/"><u>Exploring the Latest Innovations with Tom's Electronics Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fast-track-to-connectivity-download-your-wi-fi-adapter-drivers-today/"><u>Fast Track to Connectivity: Download Your Wi-Fi Adapter Drivers Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-optimal-performance-rtx-2060-super-graphics-card-and-windows-11-compatible-drivers-now-available/"><u>Get Optimal Performance: RTX 2060 Super Graphics Card & Windows 11 Compatible Drivers Now Available!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-oneplus-nord-3-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror OnePlus Nord 3 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/instagram-photo-frame-sizing-tips-for-2024/"><u>Instagram Photo Frame Sizing Tips for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-installing-webcam-drivers-on-windows-7/"><u>Quick Guide: Installing WebCam Drivers on Windows 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/september-marks-release-of-intels-ultra-series-launch-unveiling-cutting-edge-processors-powered-by-lunar-lake-technology/"><u>September Marks Release of Intel's Ultra Series Launch: Unveiling Cutting-Edge Processors Powered by Lunar Lake Technology</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-financial-breakdown-of-spotifys-subscription-model/"><u>The Financial Breakdown of Spotify's Subscription Model</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-to-set-up-single-sign-on-in-windows-operating-system/"><u>The Ultimate Tutorial to Set Up Single Sign On in Windows Operating System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-next-level-performance-introducing-amperes-powerful-51nterous-ampereone-aurora-processor-boosted-by-advanced-ai-and-hbm-support/"><u>Unlock Next-Level Performance: Introducing Ampere's Powerful 51Nterous AmpereOne Aurora Processor, Boosted by Advanced AI and HBM Support</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->

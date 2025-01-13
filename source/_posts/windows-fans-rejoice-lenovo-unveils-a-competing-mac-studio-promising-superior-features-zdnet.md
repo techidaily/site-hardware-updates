@@ -1,7 +1,7 @@
 ---
 title: Windows Fans Rejoice! Lenovo Unveils a Competing Mac Studio, Promising Superior Features | ZDNET
-date: 2024-12-29T21:09:08.839Z
-updated: 2025-01-06T08:08:01.776Z
+date: 2025-01-09T20:57:35.167Z
+updated: 2025-01-12T23:10:37.888Z
 tags:
   - laptops
 categories:
@@ -22,7 +22,7 @@ At [CES 2024](https://www.zdnet.com/topic/ces-2024/), Lenovo plans to show off a
 Without question, the new PC resembles a [Mac Studio](https://www.zdnet.com/article/apple-mac-studio-m2-ultra-review/), coming with a main desktop unit in the shape of a small box alongside a monitor. It houses all of the major components like a neural processing unit, or NPU for short. This utilizes [AI](https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/) to provide a third resource for the computer, improving its overall performance. It can even be upgraded, letting you modulate the device's performance however you want.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -85,21 +85,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-fb-cover-video-excellence-strategies-for-leadership-in-social-media/"><u>[Updated] In 2024, FB Cover Video Excellence Strategies for Leadership in Social Media</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-listing-of-best-5-sd-cards-for-gopro-hero-cameras/"><u>2024 Approved Exclusive Listing of Best 5 SD Cards for GoPro HERO Cameras</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/360-degree-cameras-vs-3d-cameras-what-are-the-differences-in-2024/"><u>360 Degree Cameras Vs 3D Cameras What Are the Differences, In 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-amd-graphics-card-drivers-for-blockchain-on-windows/"><u>Download & Install AMD Graphics Card Drivers for Blockchain on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-methods-to-refresh-your-corsair-headset-driver-for-windows-os/"><u>Easy Methods to Refresh Your Corsair Headset Driver for Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-compatibility-and-optimize-functionality-new-pl2-303-usb-to-serial-adapter-driver-for-windows-systems-download/"><u>Ensure Compatibility & Optimize Functionality: New PL2 303 USB To Serial Adapter Driver for Windows Systems Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-update-your-canon-dr-c225-printer-drivers-for-windows-windows-11108/"><u>Find and Update Your Canon DR-C225 Printer Drivers for Windows (Windows 11/10/8)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-comparing-the-best-in-class-for-4k-screen-reality/"><u>In 2024, Comparing the Best in Class for 4K Screen Reality</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-sony-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Sony Face Lock?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-the-latest-steelseries-mouse-software/"><u>Install the Latest SteelSeries Mouse Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-compatible-drivers-available-now-download-updated-hp-deskjet-ink-advantage-f381-wi-fi-all-in-one-printer/"><u>Latest Compatible Drivers Available Now: Download Updated HP DeskJet Ink Advantage F381 Wi-Fi All-in-One Printer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-your-zexmte-bluetooth-device-download-official-windows-compatible-driver-for-windows-1078/"><u>Secure Your Zexmte Bluetooth Device - Download Official Windows-Compatible Driver for WINDOWS 10/7/8</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722962946686-solution-magnetic-particle-testing-mpt-is-most-suitable-for-ferromagnetic-materials-that-can-be-magnetized/"><u>Solution: Magnetic Particle Testing (MPT) Is Most Suitable for Ferromagnetic Materials that Can Be Magnetized.</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-the-world-of-no-cost-picture-frame-movies-for-2024/"><u>Unlocking the World of No-Cost Picture Frame Movies for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-from-full-blast-to-quietude-implementing-audio-volume-transitions-in-imovie-for-2024/"><u>Updated From Full Blast to Quietude Implementing Audio Volume Transitions in iMovie for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-impression-making-techniques-crafting-powerful-podcast-logos-for-2024/"><u>[Updated] Impression-Making Techniques Crafting Powerful Podcast Logos for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-step-by-step-freeipodcasts-downloads-on-iphone/"><u>[Updated] In 2024, Step-by-Step FreeiPodcasts Downloads on iPhone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-essential-igtv-feeds-for-modern-viewers/"><u>2024 Approved Essential IGTV Feeds for Modern Viewers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/2024s-leading-gaming-laptops-compared-elite-picks-from-razer-acer-msi-and-beyond-expert-analysis-by-zdnet/"><u>2024'S Leading Gaming Laptops Compared: Elite Picks From Razer, Acer, MSI and Beyond | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-month-with-a-dell-xps-15-why-i-made-the-switch-from-my-macbook-tech-insights/"><u>A Month with a Dell XPS 15: Why I Made the Switch From My MacBook | Tech Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/advanced-hardware-guides-from-toms-technology-zone/"><u>Advanced Hardware Guides From Tom's Technology Zone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-guide-find-your-ideal-laptop-at-unbeatable-prices-during-the-october-202-query/"><u>Expert Guide: Find Your Ideal Laptop at Unbeatable Prices During the October 202 [Query]</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-unparalleled-selection-of-8-android-multiparty-tools/"><u>In 2024, Unparalleled Selection of 8 Android Multiparty Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/m3-max-what-buyers-need-to-understand/"><u>M3 Max - What Buyers Need to Understand</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-xiaomi-14-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Xiaomi 14</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-top-rated-portable-computers-perfect-for-telecommuters-as-reviewed-by-zdnet/"><u>Ultimate Guide: Top-Rated Portable Computers Perfect for Telecommuters, as Reviewed by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-go-hybrid-discover-comparable-windows-contenders-to-macbook-air-with-cutting-edge-features-insights/"><u>Why Go Hybrid? Discover Comparable Windows Contenders to MacBook Air with Cutting-Edge Features Insights</u></a></li>
 </ul></div>
 

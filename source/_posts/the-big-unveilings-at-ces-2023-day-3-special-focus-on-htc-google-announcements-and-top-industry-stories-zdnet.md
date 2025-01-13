@@ -1,7 +1,7 @@
 ---
 title: "The Big Unveilings at CES 2023 Day 3: Special Focus on HTC, Google Announcements, and Top Industry Stories | ZDNET"
-date: 2025-01-01T12:16:03.773Z
-updated: 2025-01-06T12:49:33.260Z
+date: 2025-01-07T19:32:43.600Z
+updated: 2025-01-12T21:23:37.384Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,6 @@ Cons
 
 ## Razer Blade 17
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best gaming laptop overall
 
 **Razer Blade 17 specs: Processor:** Intel Core i9 | **Screen size:** 17.3 inches | **Graphics:** RTX 3080 Ti | **Operating system:** Windows 11 
@@ -70,15 +66,7 @@ Cons
 * Not so portable
 * Loud fans
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Acer Nitro 5
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best gaming laptop value
 
@@ -107,6 +95,10 @@ Cons
 
 ## Asus ROG Zephyrus G14
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best ultra-portable gaming laptop
 
 **Asus ROG Zephyrus G14 specs: Processor:** AMD Ryzen 9 8945HS | **Screen size:** 14 inches | **Graphics:** Nvidia GeForce RTX 4060 GPU | **Operating system:** Windows 11 Home
@@ -131,10 +123,14 @@ Cons
 * Plastic construction
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## HP Victus 15
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best HP gaming laptop
 
@@ -161,10 +157,6 @@ Cons
 * Expensive
 * Very heavy
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MSI GT77 Titan
 
 ### Best 17-inch gaming laptop
@@ -178,6 +170,10 @@ It starts with a super-fast 13th-Generation Intel Core i9-13980HX processor. Fro
 The NVIDIA GeForce RTX 4080 graphics card will do your games justice and works in hand with the Cherry MX Ultra Low Profile mechanical keyboard. Connectivity is great with options for Thunderbolt 4 and USB-Type C ports. Meanwhile, MSI OverBoost Ultra technology pushes for maximum performance while preventing overheating through its Cooler Boost Titan system. 
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best gaming laptop?
 
@@ -207,6 +203,10 @@ That's where I can help. Before you buy the best gaming laptop, consider these s
 | HP Victus 15                     | A popular gaming laptop with a clear 1080p display and wide-viewing panels. The battery also lasts up to eight hours.                                               |
 | MSI GT77 Titan                   | A powerhouse gaming laptop with market-leading mini-LED display technology and an upgraded i9 processor.                                                            |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did I choose these gaming laptops?
 
 Before you buy a gaming laptop, take a moment to reflect on these considerations.
@@ -217,7 +217,7 @@ Before you buy a gaming laptop, take a moment to reflect on these considerations
 * **Price:** The cost of a good gaming laptop can vary significantly, with the difference ranging several thousands of dollars. Things like your processor, graphics card, and memory can all impact the price, so keep these things in mind when shopping. To help give you an idea of what to expect, we found that the best gaming laptops range from $650 to more than $3,800 in price.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which brand is best for gaming laptops?
@@ -280,24 +280,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-dissecting-mobile-photography-with-android-lightroom-for-2024/"><u>[Updated] Dissecting Mobile Photography with Android Lightroom for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-start-crafting-movies-xp-edition-install-guide/"><u>[Updated] In 2024, Start Crafting Movies Xp Edition Install Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-free-video-intro-templates-you-need-to-download/"><u>2024 Approved Free Video Intro Templates You Need to Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-your-game-update-dell-inspiron-n3070-graphics-driver/"><u>Enhance Your Game: Update Dell Inspiron N3070 Graphics Driver</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/enhancing-work-efficiency-with-windows-11s-pomodoro-clock-benefits-and-limitations/"><u>Enhancing Work Efficiency with Windows 11'S Pomodoro Clock: Benefits & Limitations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fixing-issues-with-your-amd-radeon-drivers-step-by-step-guide/"><u>Fixing Issues with Your AMD Radeon Drivers: Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-epson-gt-s50-drivers-compatible-with-windows-7810/"><u>Get the Latest Epson GT S50 Drivers Compatible with Windows 7/8/10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-logitech-g910-software-compatible-with-windows-operating-system/"><u>Get the Newest Logitech G910 Software Compatible with Windows Operating System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-nvidia-geforce-940mx-drivers-for-your-pc-or-laptop/"><u>Get the Newest Nvidia GeForce 지팬 940MX Drivers for Your PC or Laptop</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/improve-your-game-with-newly-released-nvidia-drivers-for-windows-1110-free-downloads/"><u>Improve Your Game with Newly Released NVIDIA Drivers for Windows 11/10 – FREE Downloads</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-action-camera-faceoff-gopro-hero-vs-yi-4k-new-edition-review/"><u>In 2024, Action Camera Faceoff GoPro Hero Vs. Yi 4K - New Edition Review</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, All You Need To Know About Mega Greninja For Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-14-pro-max-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 14 Pro Max Without Passcode Now</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/misez-sur-movavi-pour-une-conversion-vhs-a-numerique-sans-frais-comment-le-faire/"><u>Misez Sur Movavi Pour Une Conversion VHS À Numérique Sans Frais – Comment Le Faire ?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-realme-narzo-60-pro-5g-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Realme Narzo 60 Pro 5G</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/samsung-m2070-drivers-update-effortless-setup-in-minutes/"><u>Samsung M2070 Drivers Update: Effortless Setup in Minutes!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-free-driver-downloads-for-your-lenovo-x1-carbon-windows-107/"><u>Step-by-Step Guide: Free Driver Downloads for Your Lenovo X1 Carbon (Windows 10/7)</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/the-quintessential-fb-video-list-for-you/"><u>The Quintessential FB Video List for You</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Review: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-emotionally-enhanced-youtube-commentary-for-2024/"><u>[New] Emotionally-Enhanced YouTube Commentary for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-adapt-video-ratios-through-web-interface/"><u>[Updated] Adapt Video Ratios Through Web Interface</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-asmr-sounds-promoting-deep-sleep/"><u>2024 Approved Top ASMR Sounds Promoting Deep Sleep</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-your-next-favorite-youtuber-might-be-just-a-test-away-six-categories-explored/"><u>In 2024, Your Next Favorite YouTuber Might Be Just a Test Away Six Categories Explored</u></a></li>
+<li><a href="https://win-blog.techidaily.com/preventing-darkest-dungeon-2-pc-instability-and-sudden-closes-a-complete-guide/"><u>Preventing Darkest Dungeon 2 PC Instability and Sudden Closes: A Complete Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/scorching-deal-alert-snag-your-85-inch-tcl-television-for-25-less-labor-day-countdown-begins-find-exclusive-offers-on-zdnet/"><u>Scorching Deal Alert: Snag Your 85-Inch TCL Television for 25% Less - Labor Day Countdown Begins | Find Exclusive Offers on ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-unbeatable-prime-day-bargains-get-your-samsung-frame-tv-at-40-off-shop-now-for-top-deals/"><u>Score Unbeatable Prime Day Bargains: Get Your Samsung Frame TV at 40% Off - Shop Now for Top Deals!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/security-updates-rolled-out-in-new-apple-ios-1ve-651-release-exclusive-details-on-zdnet/"><u>Security Updates Rolled Out in New Apple iOS 1Ve-6.5.1 Release | Exclusive Details on ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/struggling-with-muffled-dialogues-on-your-tv-discover-3-essential-tips-for-crystal-clear-audio-plus-2-bonus-free-solutions/"><u>Struggling with Muffled Dialogues on Your TV? Discover 3 Essential Tips for Crystal Clear Audio - Plus 2 Bonus Free Solutions!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-iconic-japanese-brand-panasonic-unveils-three-cutting-edge-problem-write-an-equation-for-the-following-statement-and-then-solve-it-a-number-added-to-its236/"><u>The Iconic Japanese Brand Panasonic Unveils Three Cutting-Edge # Problem: Write an Equation for the Following Statement and Then Solve It: A Number Added to Itself Plus Four Times the Same Number Equals 90. What Is the Original Number?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-methods-for-catching-nfl-games-in-real-time-tips-and-tricks-from-zdnet/"><u>The Ultimate Methods for Catching NFL Games in Real Time - Tips & Tricks From ZDNet!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/be-video-creation-secrets-of-the-professionals-unveiled/"><u>YouTube Video Creation Secrets of the Professionals Unveiled</u></a></li>
 </ul></div>
 

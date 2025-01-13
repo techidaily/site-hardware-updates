@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial for Updating and Downloading CanoScan LiDE 120 Drivers
-date: 2024-08-19T06:02:56.384Z
-updated: 2024-08-20T06:02:56.384Z
+date: 2025-01-06T03:17:28.492Z
+updated: 2025-01-12T18:44:46.192Z
 tags:
   - win11
   - win10
@@ -21,12 +21,20 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 
  It’s always important to keep your**Synaptics drivers** up-to-date so as to keep your Synaptics products (such as a touchpad) in tiptop shape and nip all kinds of problems in the bud. In this post, we’re going to show you 2 easy options to help you get the latest**Synaptics drivers** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 options to update Synaptics drivers
 
  Both methods below work in **Windows 10** , **8.1** , and **7** . You may not have to try both; just browse through the list and take your pick:
 
 1. [**Update my Synaptics drivers manually**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Update my Synaptics drivers automatically (Recommended)**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 1: Update my Synaptics drivers manually**
 
@@ -41,8 +49,9 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Method 2: Update my Synaptics drivers automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update your Killer network  driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -55,22 +64,16 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5aefd675a7c.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5bf49744f0.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. **Restart**   your computer for the changes to take effect.
+
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have any problems while using **Driver Easy** , feel free to contact our support team at **<support@drivereasy.com>** . Be sure to attach **the URL of this article** if needed for more expedient and efficient guidance.
@@ -87,8 +90,6 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -96,4 +97,24 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-unfollowers-alert-on-your-instagram-map/"><u>[New] Unfollowers Alert on Your Instagram Map</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-transforming-passion-into-a-fulfilling-design-career/"><u>[Updated] Transforming Passion Into a Fulfilling Design Career</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-the-code-to-content-creator-commerce-with-carminati-ajay/"><u>[Updated] Unlocking the Code to Content Creator Commerce with Carminati (AJay)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-quick-guide-embedding-time-markers-on-youtube-videos-desktopmobile/"><u>2024 Approved Quick Guide Embedding Time Markers on YouTube Videos (Desktop/Mobile)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/capturing-attention-how-to-edit-and-crop-videography-for-instagram-success/"><u>Capturing Attention How to Edit & Crop Videography for Instagram Success</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-logitech-k35n-keyboard-drivers-step-by-step-guide-to-get-your-keys-functioning-perfectly/"><u>Download & Install Logitech K35n Keyboard Drivers: Step-by-Step Guide to Get Your Keys Functioning Perfectly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-upgrade-nvidia-rtx-2080-super-drivers-for-optimal-performance-on-windows-11-systems/"><u>Download & Upgrade NVIDIA RTX 2080 Super Drivers for Optimal Performance on Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-latest-gigabyte-network-adapter-drivers/"><u>Free Download: Latest Gigabyte Network Adapter Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-overcome-compatibility-challenges-with-xbox-accessories-on-older-windows-systems/"><u>How to Overcome Compatibility Challenges with Xbox Accessories on Older Windows Systems</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-apple-iphone-15-plus-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 15 Plus Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/jest-jammer-photo-assembler/"><u>Jest Jammer Photo Assembler</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-microsoft-bluetooth-driver-updates-for-windows-operating-systems-win-10-11-8-and-7-supported/"><u>Latest Microsoft Bluetooth Driver Updates for Windows Operating Systems: Win 10, 11, 8, and 7 Supported</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/microsoft-mouse-driver-update-procedure-for-windows-users/"><u>Microsoft Mouse Driver Update Procedure for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978657161-surface-book-drivers-download-and-update-easily/"><u>Surface Book Drivers Download & Update EASILY</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/unlocking-system-secrets-how-to-safely-access-the-windows-registry-with-tips-from-yl-software-experts/"><u>Unlocking System Secrets: How to Safely Access the Windows Registry with Tips From YL Software Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-new-innovations-with-toms-hardware-insights/"><u>Unveiling New Innovations with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-to-the-new-geforce-rtx-3080-drivers-compatible-with-windows-11-8-and-nvida-nvidia/"><u>Upgrade to the New GeForce RTX 3080 Drivers - Compatible with Windows 11, 8 & Nvida (NVIDIA)</u></a></li>
+</ul></div>
 

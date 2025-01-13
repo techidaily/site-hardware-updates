@@ -1,7 +1,7 @@
 ---
 title: "The Top-Rated Dual-Function Device with a Hidden Office Gem: Exclusive Review by ZDNet"
-date: 2024-12-31T16:38:38.533Z
-updated: 2025-01-06T10:19:55.452Z
+date: 2025-01-12T00:23:38.760Z
+updated: 2025-01-12T18:54:46.204Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -81,7 +81,7 @@ Alongside them are a pair of discrete microphones capable of picking out the fin
 So the high visual resolution, combined with the powerful audio system and recording features, make the HP Elitebook x360 one of the better laptops out there for on-the-go video calls.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -120,19 +120,15 @@ For more traditional users, I'd recommend the [Acer Swift 14](https://shop-links
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-fbx-filming-made-simple-a-step-by-step-approach/"><u>[New] 2024 Approved FBX Filming Made Simple A Step-by-Step Approach</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-unique-choir-compositions-as-your-smartphone-tones/"><u>[Updated] 2024 Approved Unique Choir Compositions as Your Smartphone Tones</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-channel-to-checkbook-conversion-the-path-from-adsense-to-banking-for-2024/"><u>[Updated] Channel to Checkbook Conversion The Path From AdSense to Banking for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-discover-8-trusted-online-content-marketing-tools/"><u>[Updated] In 2024, Discover 8 Trusted Online Content Marketing Tools</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/a-guide-to-profitable-animated-fb-advertising-techniques-for-2024/"><u>A Guide to Profitable, Animated FB Advertising Techniques for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-rated-android-podcasters/"><u>Best-Rated Android Podcasters</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722960089918-downloadupdate-your-surface-device-drivers-with-simple-steps/"><u>Download/Update Your Surface Device Drivers with Simple Steps!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-mpow-bluetooth-drivers-on-your-windows-pc-windows-1187/"><u>How to Get the Newest MPOW Bluetooth Drivers on Your Windows PC (Windows 11/8/7)</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-6-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 6 in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Realme Narzo N55? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-version-of-canoscan-lide-220-software-with-improved-features/"><u>Latest Version of Canoscan LiDE 220 Software with Improved Features</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ready-set-race-grab-the-top-z270-carbon-drivers-today/"><u>Ready, Set, Race? Grab the Top Z270 Carbon Drivers Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-complete-guide-to-canon-eos-driver-updates-and-free-downloads/"><u>The Complete Guide to Canon EOS Driver Updates and Free Downloads</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-tecno-spark-10-pro-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Tecno Spark 10 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-quick-guide-capturing-time-lapse-on-your-ipad/"><u>[New] 2024 Approved Quick Guide Capturing Time Lapse on Your iPad</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-5-step-plan-for-clearing-overexposed-iphone-hd-videos-using-premiere-pro/"><u>[New] 5 Step Plan for Clearing Overexposed iPhone HD Videos Using Premiere Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-browsing-experience-now-dont-miss-out-on-the-latest-google-chrome-update-this-weekend-techsavvy-news/"><u>Enhance Browsing Experience Now: Don't Miss Out on the Latest Google Chrome Update This Weekend | TechSavvy News</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-tecno-camon-30-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Tecno Camon 30 Pro 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-peak-of-puns-premium-meme-templates/"><u>In 2024, Peak of Puns Premium Meme Templates</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/meme-magic-perfect-10-design-tips-and-tricks/"><u>Meme Magic Perfect 10 Design Tips & Tricks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/microsoft-surface-laptop-5-reviewed-up-close-exploring-the-familiar-yet-innovative-features-techinsights/"><u>Microsoft Surface Laptop 5 Reviewed Up Close: Exploring the Familiar Yet Innovative Features | TechInsights</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/portuguese-parallelism-brazilians-vs-europeans/"><u>Portuguese Parallelism: Brazilians Vs. Europeans</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/uncovering-the-top-rated-dual-function-device-of-the-year-with-a-hidden-workplace-perk-a-zdnet-review/"><u>Uncovering the Top Rated Dual-Function Device of the Year with a Hidden Workplace Perk: A ZDNet Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-hidden-charge-discover-the-special-thunderbolt-docks-secret-windows-benefit-zdnet-insider/"><u>Unveiling the Hidden Charge: Discover the Special Thunderbolt Dock's Secret Windows Benefit | ZDNet Insider</u></a></li>
 </ul></div>
 

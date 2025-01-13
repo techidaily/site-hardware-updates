@@ -1,7 +1,7 @@
 ---
 title: Get a New RTX Eby_9baefc4f-8b15-49d3-A6c4-E9c21d1d8bb0! Exclusive $220 Discount Now | Tech Deals at ZDNET!
-date: 2025-01-02T18:16:13.735Z
-updated: 2025-01-05T20:13:03.118Z
+date: 2025-01-11T19:45:29.145Z
+updated: 2025-01-12T16:51:42.168Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kerry Wan/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ Right now, Amazon is selling the [15-inch MacBook Air (M2) for $250 off](https:/
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -107,7 +107,7 @@ The laptop is capable of 4K exports on Adobe Premiere Pro and editing RAW files 
 What I found myself missing when testing the MacBook Air was the 120Hz ProMotion display from the Pro line. All it took was an hour or two before my eyes adapted to the slower, less smooth 60Hz panel, but the larger 15-inch display didn't make the transition easy. In fact, it made the difference more apparent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -146,19 +146,20 @@ But everything else about it is as good as the current $1,050 price point gets. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-cutting-edge-photo-and-video-enhancement-top-8-editing-apps-for-modern-devices/"><u>[New] 2024 Approved Cutting-Edge Photo & Video Enhancement Top 8 Editing Apps for Modern Devices</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-finding-the-best-mp4-recorder-on-market-for-2024/"><u>[New] Finding the Best MP4 Recorder on Market for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-from-one-to-another-mastering-playlists-pivoting-for-2024/"><u>[Updated] From One to Another Mastering Playlists Pivoting for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boosting-aux-outputs-made-simple-with-nahimics-new-driver-update/"><u>Boosting AUX Outputs Made Simple with Nahimic's New Driver Update</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/can-128gb-hold-extensive-video-content-in-2024/"><u>Can 128GB Hold Extensive Video Content, In 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/essential-guide-to-downloading-and-updating-epson-wf-3520-drivers-on-pcs-and-laptops/"><u>Essential Guide to Downloading & Updating Epson WF-3520 Drivers on PCs and Laptops</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722957445863-flame-propagation-speed-is-critical-for-efficient-combustion-in-gasoline-engines/"><u>Flame Propagation Speed Is Critical for Efficient Combustion in Gasoline Engines.</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-methods-for-extracting-video-tweets-from-twitter-and-youtube-into-mp3-format/"><u>In 2024, Methods for Extracting Video Tweets From Twitter & YouTube Into MP3 Format</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-the-newest-hp-scanjet-software-compatible-with-win11win8win7-get-it-here/"><u>Install the Newest HP Scanjet Software: Compatible with Win11/Win8/Win7 - Get It Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-canon-ip110-drivers-on-various-windows-versions-download-guide-and-tips/"><u>Installing Canon iP110 Drivers on Various Windows Versions: Download Guide and Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-fifa-22-not-working-properly-on-your-windows-pc/"><u>Resolved: How to Fix FIFA 22 Not Working Properly on Your Windows PC</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-voice-over-advantage-elevating-video-quality/"><u>The Voice-Over Advantage Elevating Video Quality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-return-and-refund-guidelines-for-digiartyn-winxdvd-program/"><u>Understanding the Return and Refund Guidelines for Digiarty'n WinXDVD Program</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-expert-tips-to-perfectly-utilize-instagrams-sound-stickers/"><u>[New] 2024 Approved Expert Tips to Perfectly Utilize Instagram's Sound Stickers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-step-by-step-guide-to-applying-new-colors-and-textures-on-past-media/"><u>[New] Step-by-Step Guide to Applying New Colors & Textures on Past Media</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-quick-fixes-for-storing-vimeo-video-files/"><u>[Updated] Quick Fixes for Storing Vimeo Video Files</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtubes-foremost-ad-creators-a-showcase-of-excellence/"><u>2024 Approved YouTube's Foremost Ad Creators A Showcase of Excellence</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-week-with-an-ergonomic-split-keyboard-transforming-my-pc-setup-and-productivity/"><u>A Week with an Ergonomic Split Keyboard: Transforming My PC Setup & Productivity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/beyond-convention-testing-the-extraordinary-and-pricey-lenovo-thinkpad-x1-fold/"><u>Beyond Convention: Testing the Extraordinary and Pricey Lenovo ThinkPad X1 Fold</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-samsung-galaxy-a05-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Samsung Galaxy A05 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-correct-problems-with-your-itunes-audio-configuration/"><u>How To Correct Problems With Your iTunes Audio Configuration</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-moto-g34-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/prime-day-exclusive-get-your-essential-work-laptop-at-a-steep-discount-from-lenovo-what-hybrid-employees-need-to-know-tech-advice-by-zdnet/"><u>Prime Day Exclusive: Get Your Essential Work Laptop at a Steep Discount From Lenovo - What Hybrid Employees Need to Know | Tech Advice by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-conversion-how-this-hidden-base-turns-your-laptop-into-high-performance-desktop-powerhouse-insights/"><u>Seamless Conversion: How This Hidden-Base Turns Your Laptop Into High-Performance Desktop Powerhouse - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-student-laptops-comprehensive-reviews-and-buyers-guide-pcmag/"><u>Top-Rated Student Laptops: Comprehensive Reviews & Buyer's Guide - PCMag</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unmatched-performance-the-top-2-in-1-laptop-beyond-hp-and-lenovo-discoveries/"><u>Unmatched Performance: The Top 2-in-1 Laptop Beyond HP and Lenovo Discoveries</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-channels-for-filmmakers-to-learn-filmmaking-tips-for-2024/"><u>YouTube Channels for Filmmakers to Learn Filmmaking Tips for 2024</u></a></li>
 </ul></div>
 

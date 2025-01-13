@@ -1,7 +1,7 @@
 ---
 title: "Massive Savings: Unlock 36%% Discount on the 8TB Samsung Portable SSD - Now Available on Amazon | TechNews by ZDNet"
-date: 2025-01-03T12:02:04.799Z
-updated: 2025-01-06T06:40:16.171Z
+date: 2025-01-11T00:36:00.344Z
+updated: 2025-01-12T22:58:30.994Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2362e90f-b768-47d7-98bd-3041538b2c7e%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,17 +65,24 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-hardware-basics-preparing-for-big-sur-os/"><u>[Updated] 2024 Approved Hardware Basics Preparing for Big Sur OS</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-newbie-vlogger-tips-simple-video-concepts-for-2024/"><u>[Updated] Newbie Vlogger Tips Simple Video Concepts for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-elevate-your-content-perfecting-videos-on-instagram/"><u>2024 Approved Elevate Your Content Perfecting Videos on Instagram</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exploring-benq-bl2711u-ultra-hd-monitor-deep-dive/"><u>Exploring BenQ BL2711U Ultra-HD Monitor Deep Dive</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-google-pixel-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-tp-link-wifi-driver-updates-compatible-with-windows-11-8-and-nul/"><u>Latest TP-Link WiFi Driver Updates: Compatible with Windows 11, 8 & Nul</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-premier-guide-to-selecting-the-finest-android-weather-widget-apps/"><u>The Premier Guide to Selecting the Finest Android Weather Widget Apps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-why-choosing-an-affordable-smartphone-prop-is-key-for-every-tech-enthusiast/"><u>The Ultimate Guide: Why Choosing an Affordable Smartphone Prop Is Key for Every Tech Enthusiast</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-reasons-to-switch-to-firefox-browser-app-on-android-smartphones-and-tablets/"><u>Top Reasons to Switch to Firefox Browser App on Android Smartphones and Tablets</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-strategies-for-identifying-bulky-android-applications-and-saving-device-storage/"><u>Top Strategies for Identifying Bulky Android Applications and Saving Device Storage</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-chinas-ambitious-moon-expedition-aimed-at-retrieving-lunar-rocks/"><u>Unveiling China's Ambitious Moon Expedition: Aimed at Retrieving Lunar Rocks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-zero-dollar-mp3-recorders-skype-call-edition-for-2024/"><u>[New] Zero Dollar MP3 Recorders Skype Call Edition for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-amplify-focus-on-the-little-things-with-videoleap-zoom-for-2024/"><u>[Updated] Amplify Focus on the Little Things with VideoLeap Zoom for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-mastering-language-free-top-8-srt-translation-websites/"><u>[Updated] In 2024, Mastering Language Free, Top 8 SRT Translation Websites</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-earning-edge-reached-for-subscribers-above-500/"><u>2024 Approved Earning Edge Reached for Subscribers Above 500</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/early-access-get-the-samsung-t5-solid-state-drive-for-nearly-half-price-on-amazon-ahead-of-octobers-prime-shopping-extravaganza-zdnet/"><u>Early Access: Get the Samsung T5 Solid State Drive for Nearly Half Price On Amazon Ahead of October's Prime Shopping Extravaganza | ZDNET</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y100-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-7-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 7 without Face ID</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-play-8t-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor Play 8T</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-warzones-dev-error-5573-essential-tips-and-fixes-for-console-and-pc-gamers/"><u>Overcome Warzone's Dev Error #5573: Essential Tips & Fixes for Console & PC Gamers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pinnacle-phones-the-supreme-choices-in-mobile-video-recording/"><u>Pinnacle Phones The Supreme Choices in Mobile Video Recording</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-your-essential-lenovo-workstation-at-a-1000-deal-this-october-prime-day-expert-recommendation-by-zdnet/"><u>Snag Your Essential Lenovo Workstation at a $1,000 Deal This October Prime Day – Expert Recommendation by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-your-hp-156-inch-touchscreen-laptop-for-just-230-less-exclusive-offers/"><u>Snag Your HP 15.6-Inch Touchscreen Laptop for Just $230 Less | Exclusive Offers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-your-iphone-for-a-bargain-this-october-get-the-latest-macbook-air-with-m2-processor-on-sale-for-just-749-during-amazons-prime-day-event-insider-details11/"><u>Snag Your iPhone for a Bargain This October! Get the Latest MacBook Air with M2 Processor on Sale for Just $749 During Amazon's Prime Day Event – Insider Details</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-review-why-this-lenovo-2-in-1-reigns-supreme-for-professionals-on-zdnet/"><u>The Ultimate Review: Why This Lenovo 2-in-1 Reigns Supreme for Professionals on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-6-compelling-advantages-of-choosing-a-chromebook-over-other-laptops-insights-from-zdnet/"><u>Top 6 Compelling Advantages of Choosing a Chromebook Over Other Laptops: Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-durable-and-robust-laptop-picks-comprehensive-guide/"><u>Top Durable and Robust Laptop Picks Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-prime-day-specials-exclusive-october-2024-laptop-offers-on-zdnet/"><u>Top-Rated Prime Day Specials: Exclusive October 2024 Laptop Offers on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-shotgun-method-for-snapping-pics-of-your-pcmac-screen-dell-lenovo-and-more-learn/"><u>Ultimate Shotgun Method for Snapping Pics of Your PC/Mac Screen: Dell, Lenovo and More - Learn</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-facets-a-thorough-examination-of-imochats-performance/"><u>Unveiling the Facets: A Thorough Examination of ImoChat's Performance</u></a></li>
 </ul></div>
 

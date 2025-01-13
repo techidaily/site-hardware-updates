@@ -1,7 +1,7 @@
 ---
 title: "The Ideal Companion for Digital Nomads: Our Picks for the Lightest & Best Laptops | ZDNet Reviews"
-date: 2025-01-03T17:03:21.263Z
-updated: 2025-01-06T06:07:32.503Z
+date: 2025-01-12T02:16:54.636Z
+updated: 2025-01-12T17:22:58.191Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/00d8a989d7a324ab139f90cea816e72b6f2451ab8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -93,7 +93,7 @@ Compared to a MacBook, one could argue that the Yoga Slim 7x is at least better 
 The MacBook is better suited for the iOS ecosystem, however Lenovo has been making strides in developing a data transfer feature between its laptop and iPhones. So if you're not sure which one to get, the Yoga Slim 7x might be the better long-term investment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,20 +134,17 @@ Creators might also appreciate the fact that Lenovo is also giving [two free mon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-elevate-your-video-game-with-these-5-youtube-thumbnail-builders/"><u>[Updated] 2024 Approved Elevate Your Video Game with These 5 YouTube Thumbnail Builders</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-saving-pc-views-with-a-single-click-win/"><u>[Updated] 2024 Approved Saving PC Views with a Single Click (Win)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-how-to-find-the-best-videographer/"><u>[Updated] How to Find the Best Videographer</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-launching-into-the-world-of-vlogging/"><u>[Updated] In 2024, Launching Into the World of Vlogging</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-speak-and-stun-on-snapchat-voice-change-made-simple-for-2024/"><u>[Updated] Speak and Stun on Snapchat Voice Change Made Simple for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amazing-61-screen-size-explore-the-best-phones-with-large-e-ink-displays/"><u>Amazing 6.1 Screen Size: Explore the Best Phones with Large E-Ink Displays!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exclusive-removal-of-win11s-official-store/"><u>Exclusive Removal of Win11's Official Store</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-epson-wf-3540-printer-software-installed-on-windows-systems/"><u>Get the Latest Epson WF-3540 Printer Software Installed on Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-make-win11s-canvas-come-alive-the-guide-to-creating-intriguing-ai-images-via-paint-tool-sai/"><u>How to Make Win11's Canvas Come Alive: The Guide to Creating Intriguing AI Images via Paint Tool SAI</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-vivo-y56-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Vivo Y56 5G</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unblocking-techniques-viewing-hidden-contacts-on-your-android-device/"><u>Unblocking Techniques: Viewing Hidden Contacts on Your Android Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-elite-contenders-for-mwc-202ers-best-of-show-trophies/"><u>Unveiling the Elite Contenders for MWC 202Er's Best of Show Trophies!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-truth-reasons-for-choosing-less-capacity-in-your-phones-power-source/"><u>Unveiling the Truth: Reasons for Choosing Less Capacity in Your Phone's Power Source</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/why-mobile-reading-wins-choosing-ebooks-for-iphone-over-kindle-devices/"><u>Why Mobile Reading Wins: Choosing Ebooks for iPhone over Kindle Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/why-your-phone-deserves-two-usb-c-ports-a-case-for-enhanced-convenience-and-power-sharing/"><u>Why Your Phone Deserves Two USB-C Ports: A Case for Enhanced Convenience and Power Sharing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-mini-media-magic-which-social-site-captures-the-crowd-faster-youtubes-or-tiktoks/"><u>[Updated] Mini-Media Magic Which Social Site Captures the Crowd Faster? YouTubes or TikToks?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-simplified-webinar-recording-methods-for-windows-and-mac-users/"><u>[Updated] Simplified Webinar Recording Methods for Windows & Mac Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722853498112-astonishing-emoji-revelations-youll-never-expect-to-know/"><u>Astonishing Emoji Revelations You'll Never Expect to Know</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-latest-updates-on-lenovos-newly-revamped-thinkpad-x1-a-deep-dive/"><u>Discover the Latest Updates on Lenovo's Newly Revamped ThinkPad X1: A Deep Dive</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-techniques-to-resolve-csgo-starting-errors-on-pc/"><u>Effective Techniques to Resolve CSGO Starting Errors on PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-apple-m3-macbook-air-for-less-save-250-at-amazons-prime-sale-this-october-according-to-zdnet-coverage/"><u>Get Your Apple M3 MacBook Air for Less! Save $250 at Amazon's Prime Sale This October, According to ZDNet Coverage</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-vivo-v29e-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Vivo V29e to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-look-apples-latest-innovation-with-the-m3-macbook-air-and-its-best-in-class-traits-zdnet/"><u>Inside Look: Apple's Latest Innovation with the M3 MacBook Air and Its Best-In-Class Traits | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-four-reasons-holding-me-back-from-upgrading-to-an-iphone-16-pro-a-detailed-review/"><u>Top Four Reasons Holding Me Back From Upgrading to an iPhone 16 Pro - A Detailed Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/unravel-mysteries-in-browser-based-quests/"><u>Unravel Mysteries in Browser-Based Quests</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-ultimate-match-to-macbook-the-power-of-microsoft-surface-pro-nine-review/"><u>Unveiling the Ultimate Match to MacBook: The Power of Microsoft Surface Pro Nine Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/whats-new-with-ps5-slim-find-out-release-dates-pricing-info-and-hardware-capabilities/"><u>What's New with PS5 Slim? Find Out Release Dates, Pricing Info, and Hardware Capabilities!</u></a></li>
 </ul></div>
 

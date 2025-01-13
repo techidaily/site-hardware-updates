@@ -1,7 +1,7 @@
 ---
 title: "Game Developer Declares Total Crash Rate on Intel CPUs: Faulty 13Th and 14Th Gen Chips Sold by Alderon Games"
-date: 2024-08-19T06:02:24.668Z
-updated: 2024-08-20T06:02:24.668Z
+date: 2025-01-07T16:29:41.841Z
+updated: 2025-01-13T03:34:16.691Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best
 
  The Ryzen 9 9950X's performance is impressive. The CPU leveraged AMD's PBO and Curve Optimizer technologies with speedy RAM. The system utilizes a custom loop to remain cool during the[benchmarks](https://www.tomshardware.com/tag/benchmark) . Extreme overclockers can break world records with this chip once they put it under liquid nitrogen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,14 +43,11 @@ AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,8 +56,22 @@ AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/avigating-youtube-submission-with-imovie-files/"><u>[New] Navigating YouTube Submission with iMovie Files</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-instagram-image-enhancement-tips/"><u>[Updated] In 2024, Instagram Image Enhancement Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-metaverse-adventures-to-share-with-pals/"><u>2024 Approved Best Metaverse Adventures to Share with Pals</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-11-pro-max-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 11 Pro Max and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/altering-articulations-in-free-fire-arena/"><u>Altering Articulations in Free Fire Arena</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-driver-setup-for-your-lenovo-ideapad-x230-in-minutes-get-them-now/"><u>Complete Driver Setup for Your Lenovo Ideapad X230 in Minutes - Get Them Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722968691637-download-and-update-killer-network-driver-now-compatible-with-windows-11-8-and-7-no-cost/"><u>Download and Update Killer Network Driver Now: Compatible with Windows 11, 8, and 7 - No Cost</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixing-xbox-controller-connection-problems-in-windows-10-8-and-7/"><u>Fixing Xbox Controller Connection Problems in Windows 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/newest-upgrade-enhanced-hid-standard-mouse-software/"><u>Newest Upgrade: Enhanced HID Standard Mouse Software</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/review-of-samsung-galaxy-watch-active-the-ultimate-health-and-fitness-companion/"><u>Review of Samsung Galaxy Watch Active - The Ultimate Health & Fitness Companion</u></a></li>
+<li><a href="https://driver-install.techidaily.com/setup-mx870-canon-printer-drivers-for-win-1178/"><u>Setup MX870 Canon Printer Drivers for Win 11/7/8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-how-to-easily-install-new-drivers-for-asus-maximus-x-hero-gpus/"><u>Step-by-Step Tutorial: How to Easily Install New Drivers for ASUS Maximus X Hero GPUs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/streamlined-accessibility-learning-iphoneipad-techniques-for-podcast-downloads/"><u>Streamlined Accessibility Learning iPhone/iPad Techniques for Podcast Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-tutorial-on-updating-intel-hd-graphics-5500-drivers-successfully/"><u>Ultimate Tutorial on Updating Intel HD Graphics 5500 Drivers Successfully</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

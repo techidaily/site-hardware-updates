@@ -1,7 +1,7 @@
 ---
 title: Get the Ultimate Creator's Setup at Half Price! Dramatic $1,100 Discount on High-Performance Computers for Gamers and Producers – Spotted First on ZDNet.
-date: 2024-12-31T19:44:03.741Z
-updated: 2025-01-05T18:39:31.265Z
+date: 2025-01-07T19:37:49.017Z
+updated: 2025-01-12T19:36:49.026Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -79,7 +79,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -91,7 +91,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -128,21 +128,19 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-transforming-spoken-words-into-written-text-using-in-built-tools-of-office-suite-ms-word/"><u>[New] 2024 Approved Transforming Spoken Words Into Written Text Using In-Built Tools of Office Suite - MS Word</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-cyberspace-enhancer-facebook-story-backup-tool-for-2024/"><u>[Updated] Cyberspace Enhancer Facebook Story Backup Tool for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-sees-significant-drop-in-gaming-profits-by-59-impressive-surge-of-115-for-data-center-earnings/"><u>AMD Sees Significant Drop in Gaming Profits by 59%; Impressive Surge of 115% for Data Center Earnings</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/combat-black-screen-disruptions-in-gaming-feeds-for-2024/"><u>Combat Black Screen Disruptions in Gaming Feeds for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-corsair-drivers-for-windows-computer-easily/"><u>Download Corsair Drivers for Windows Computer Easily!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/epson-workforce-ds-30-driver-installation-guide-for-windows-108-users/"><u>Epson Workforce DS 30 Driver Installation Guide for Windows 10/8 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/essential-software-downloading-epson-scanner-and-driver-packs/"><u>Essential Software: Downloading Epson Scanner and Driver Packs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-corsair-k70-mouse-ready-with-these-easy-driver-instructions/"><u>Get Your Corsair K70 Mouse Ready with These Easy Driver Instructions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-hp-officejet-pro-8600-printer-driver-for-windows/"><u>How to Download and Install HP Officejet Pro 8600 Printer Driver for Windows</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-samsung-galaxy-f34-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Samsung Galaxy F34 5G Devices</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/identifying-frequent-audiovideo-problems-on-windows-pcs-a-guide-by-yl-computing/"><u>Identifying Frequent Audio/Video Problems on Windows PCs: A Guide by YL Computing</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/intellectual-property-rules-for-instagram-beats-for-2024/"><u>Intellectual Property Rules for Instagram Beats for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-amd-rx-6900-xt-drivers-download-for-windows-111087-supported-systems/"><u>Latest AMD RX 6900 XT Drivers: Download for Windows 11/10/8/7 Supported Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/moving-between-streaming-giants-transferring-playlists-from-apple-music-to-youtube-music-and-back/"><u>Moving Between Streaming Giants: Transferring Playlists From Apple Music to YouTube Music and Back</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-unleash-your-creativity-video-editing-on-mac-os-x-yosemite-for-beginners/"><u>New 2024 Approved Unleash Your Creativity Video Editing on Mac OS X Yosemite for Beginners</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/pixelpatchwork-android-and-ios-instagram-collage-for-2024/"><u>PixelPatchwork Android & iOS Instagram Collage for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1726809475279-6x-90/"><u> [6X = 90 </u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-expert-picks-of-premium-timelapse-capture-software-for-2024/"><u>[Updated] Expert Picks of Premium Timelapse Capture Software for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-remove-image-background-with-photopea/"><u>[Updated] How to Remove Image Background With Photopea</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-understanding-and-implementing-discord-text-styles/"><u>[Updated] Understanding & Implementing Discord Text Styles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-rectifying-the-curved-illusion-in-your-gopro-videos/"><u>2024 Approved Rectifying the Curved Illusion in Your GoPro Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-tecno-spark-20-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Tecno Spark 20 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/achieve-ultimate-clarity-3-key-projector-adjustments-guaranteed-by-experts-at-zdnet/"><u>Achieve Ultimate Clarity: 3 Key Projector Adjustments Guaranteed by Experts at ZDNet</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/guidelines-pour-capturer-facilement-le-contenu-video-avec-audio-et-camera-grace-a-winx-movie-editor/"><u>Guidelines Pour Capturer Facilement Le Contenu Vidéo Avec Audio Et Caméra Grâce À WinX Movie Editor</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-heartfelt-communication-in-hungarys-dialect/"><u>Mastering Heartfelt Communication in Hungary's Dialect</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-alert-save-200-on-the-stunning-58-hisense-4k-fire-tv-now-at-just-349-shop-today/"><u>Unbeatable Deal Alert: Save $200 on the Stunning 58 Hisense 4K Fire TV, Now at Just $349 - Shop Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unexpected-audio-marvels-my-top-pick-for-an-immersive-sound-system-outside-of-bose-and-sonos-reviewed-on-zdnet/"><u>Unexpected Audio Marvels: My Top Pick for an Immersive Sound System Outside of Bose & Sonos, Reviewed on ZDNET</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unique-content-creation-the-ultimate-guide-to-6-video-types-for-2024/"><u>Unique Content Creation The Ultimate Guide to 6 Video Types for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-television-display-with-simple-adjustments-top-5-settings-to-elevate-picture-quality/"><u>Upgrade Your Television Display with Simple Adjustments: Top 5 Settings to Elevate Picture Quality</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top July 2024 Laptop Offers - Unbeatable Savings on the Latest Tech![ZDNet's Guide]
-date: 2024-12-30T16:48:48.075Z
-updated: 2025-01-06T14:06:17.775Z
+date: 2025-01-10T19:29:03.803Z
+updated: 2025-01-12T17:46:56.860Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ If you see something that looks like a great deal, we recommend adding it to you
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best laptop deals
 
@@ -99,10 +95,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Low-Blue-Processor-Ethernet-Bluetooth%2Fdp%2FB0CVN88CFX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7416397a-03d3-4af7-ac08-8fcae75ad900%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Alternative laptop deals
 
 ### Amazon laptop deals
@@ -120,7 +112,7 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [ASUS ROG Strix Scar 15 gaming laptop deal for $1749 (save $250) $1,749 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RMW1L7Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7416397a-03d3-4af7-ac08-8fcae75ad900%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Walmart laptop deals
@@ -145,6 +137,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [ASUS Zenbook 14-inch OLED touchscreen laptop deal for $1,300 (save $200) $1,300 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-zenbook-14-120hz-oled-touch-laptop-evo-intel-13-gen-core-i9-with-32gb-memory-nvidia-geforece-rtx-3050-1tb-ssd-gray%2F6548463.p%3FskuId%3D6548463&publisher_slug=itechdaily19598&exclusive=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Apple MacBook deals
 
 [Apple MacBook Air, 15-inch, M2 chip, 1TB deal for $1,599 (save $300) $1,599 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-macbook-air-15-laptop-m2-chip-16gb-memory-1tb-ssd-midnight%2F6382794.p%3FskuId%3D6382794&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -158,7 +154,7 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these laptop deals?
@@ -182,9 +178,17 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **Storage**: For those that focus on lighter laptop use, 256GB of SSD storage will be plenty of space for your laptop. However, if you need more storage for high-resolution photos, videos, or more, you'll want to opt for 512GB of storage or even 1TB.
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Do I need a gaming laptop or a "regular" laptop?
 
 Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular laptop with high specs, but content creators or those who work with heavy editing software should opt for a designer's laptop or a gaming laptop. Not because, of course, you want to have the best gaming specs on the side, but because those laptops come with powerful CPUs, GPUs, and high RAM to handle the heavy requirements that software needs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How much should I pay for a good laptop?
 
@@ -195,10 +199,6 @@ If you're a gamer who needs a high-spec laptop with a decent graphics card, top-
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best deals by retailer
 
@@ -257,21 +257,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-embark-on-a-journey-through-augmented-space/"><u>[New] Embark on a Journey Through Augmented Space</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-7-simple-methods-for-capturing-youtube-content/"><u>[Updated] In 2024, 7 Simple Methods for Capturing YouTube Content</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-unlimited-potential-with-best-in-class-pp-templates-for-2024/"><u>[Updated] Unlimited Potential with Best-in-Class PP Templates for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-set-sights-on-success-essential-background-music-for-gym-goers/"><u>2024 Approved Set Sights on Success Essential Background Music for Gym-Goers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/beginners-guide-to-simple-yet-effective-filming-gear/"><u>Beginner's Guide to Simple, Yet Effective Filming Gear</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-razr-40-ultra-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Razr 40 Ultra Phone Forgot Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oppo-reno-10-pro-5g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Oppo Reno 10 Pro 5G</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-excellent-auditory-recording-devices-for-classrooms/"><u>In 2024, Excellent Auditory Recording Devices for Classrooms</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-smart-lighting-solutions/"><u>Top-Rated Smart Lighting Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/travel-friendly-bluetooth-audio-system-your-ultimate-companion-for-easy-journeys/"><u>Travel-Friendly Bluetooth Audio System - Your Ultimate Companion for Easy Journeys</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-launchpad-resolving-mac-boot-issues-via-recovery-options/"><u>Troubleshooting Launchpad: Resolving Mac Boot Issues via Recovery Options</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-nuphy-air75-v2-why-every-mac-enthusiast-needs-this-mechanical-masterpiece/"><u>Ultimate Guide to NuPhy Air75 V2: Why Every Mac Enthusiast Needs This Mechanical Masterpiece</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/understanding-wi-fi-signal-enhancers-extenders-boosters-and-repeaters-explained/"><u>Understanding Wi-Fi Signal Enhancers: Extenders, Boosters & Repeaters Explained</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unleash-the-full-spectrum-of-sound-best-apps-for-music-videos/"><u>Unleash the Full Spectrum of Sound Best Apps for Music Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-enhanced-performance-the-impact-of-upgrading-your-mouses-buttons/"><u>Unlock Enhanced Performance: The Impact of Upgrading Your Mouse's Buttons</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-ultimate-gamepad-my-unwavering-passion-despite-new-releases/"><u>Unveiling the Ultimate Gamepad: My Unwavering Passion Despite New Releases</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-zoom-class-chronicling/"><u>[New] In 2024, Zoom Class Chronicling</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-punpals-create-hilarious-memes-now/"><u>[Updated] In 2024, PunPals - Create Hilarious Memes Now</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-15-plus-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 15 Plus Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazons-8tb-samsung-t5-drive-remains-36-cheaper-post-prime-day-insights-from-zdnet/"><u>Amazon's 8TB Samsung T5 Drive Remains 36% Cheaper Post-Prime Day - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/behind-closed-doors-how-microsofts-revolutionary-chip-could-outshine-the-iconic-macbook-zdnet-report/"><u>Behind Closed Doors: How Microsoft's Revolutionary Chip Could Outshine the Iconic MacBook | ZDNET Report</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/facebook-fb-upload-strategies-for-mobile-and-desktop-for-2024/"><u>Facebook FB Upload Strategies for Mobile & Desktop for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-a-discounted-acer-nitro-5-for-your-gaming-needs-save-250-deal/"><u>Get a Discounted Acer Nitro 5 for Your Gaming Needs | Save $250 Deal!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/harmonyhub-combining-ios-and-macos-photo-videos/"><u>HarmonyHub Combining iOS & macOS Photo-Videos</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-poco-m6-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Poco M6 5G Unlock Without Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020) Without Passcode?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/last-opportunity-snap-up-stellar-game-discounts-on-best-prime-days-of-october-2024-save-big-with-max-1k-off/"><u>Last Opportunity: Snap Up Stellar Game Discounts on Best Prime Days of October 2024 – Save Big with Max $1K Off!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/still-on-sale-top-bargains-of-amazon-prime-day-2024-in-october-techradar/"><u>Still on Sale - Top Bargains of Amazon Prime Day 2024 in October | TechRadar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-5-exciting-new-copilotplus-powered-laptops-unveiled-at-ifa-202n4-featuring-a-special-selection-for-gamers/"><u>Top 5 Exciting New Copilot+ Powered Laptops Unveiled at IFA 202N4, Featuring a Special Selection for Gamers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-8-mobile-mosaics-best-blend-of-affordable-and-premium-android-videomosaic-apps-for-2024/"><u>Top 8 Mobile Mosaics Best Blend of Affordable and Premium Android Videomosaic Apps for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-highlights-from-ces-2024-expert-recommendations-analysts/"><u>Top Highlights From CES 2024: Expert Recommendations Analysts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-picks-the-ultimate-guide-to-choosing-the-perfect-lightweight-laptop-for-effortless-remote-working/"><u>Top Picks: The Ultimate Guide to Choosing the Perfect Lightweight Laptop for Effortless Remote Working</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/triple-display-setup-made-simple-how-the-ugreen-dock-enhances-your-m1-mac-experience-zdnet-guide/"><u>Triple Display Setup Made Simple: How the Ugreen Dock Enhances Your M1 Mac Experience - ZDNet Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnets-insider-tip-score-the-samsung-odyssey-neo-g8-at-a-steep-550-off-limited-time-offer-from-best-buy-for-prime-shoppers/"><u>ZDNET's Insider Tip: Score the Samsung Odyssey Neo G8 at a Steep $550 Off - Limited Time Offer From Best Buy for Prime Shoppers!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Deal: Top Choice 15-Inch MacBook Air Now at a Steep Discount – Save $250 Today!"
-date: 2024-12-29T18:24:59.404Z
-updated: 2025-01-05T19:45:53.062Z
+date: 2025-01-09T00:22:48.724Z
+updated: 2025-01-12T16:10:30.749Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kerry Wan/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ Right now, Amazon is selling the [15-inch MacBook Air (M2) for $250 off](https:/
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -107,7 +107,7 @@ The laptop is capable of 4K exports on Adobe Premiere Pro and editing RAW files 
 What I found myself missing when testing the MacBook Air was the 120Hz ProMotion display from the Pro line. All it took was an hour or two before my eyes adapted to the slower, less smooth 60Hz panel, but the larger 15-inch display didn't make the transition easy. In fact, it made the difference more apparent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -146,22 +146,21 @@ But everything else about it is as good as the current $1,050 price point gets. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-precision-in-practice-tailoring-ps4-recordings-to-suit-your-style/"><u>[New] In 2024, Precision in Practice Tailoring PS4 Recordings to Suit Your Style</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/access-free-updated-graphics-driver-software-for-nvidias-rtx-2080-ideal-for-windows-10-and-11-users/"><u>Access Free Updated Graphics Driver Software for NVIDIA's RTX 2080 - Ideal for Windows 10 and 11 Users</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-itel-a05s-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Itel A05s</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-updated-drivers-for-nvidia-rtx-nc60-super-on-windows-11-enhance-your-gaming-experience/"><u>Download Updated Drivers for Nvidia RTX nC60 Super on Windows 11 - Enhance Your Gaming Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-and-download-for-upgraded-epson-v600-driver-software/"><u>Easy Guide & Download for Upgraded Epson V600 Driver Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-installation-free-hp-officejet-3830-drivers-for-windows-systems/"><u>Effortless Installation: Free HP Officejet 3830 Drivers for Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fix-windows-10-unrecognized-usb-drives-complete-solution/"><u>Fix: Windows 10 Unrecognized USB Drives - Complete Solution</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-version-of-sapphire-drivers-free-downloads-and-tutorials-for-windows-pcs/"><u>Get the Latest Version of Sapphire Drivers - Free Downloads and Tutorials for Windows PCs</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-the-software-for-your-logitech-m510-mouse-a-user-friendly-manual/"><u>How to Update the Software for Your Logitech M510 Mouse: A User-Friendly Manual</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-harmony-and-law-instagrams-music-codex/"><u>In 2024, Harmony & Law Instagram's Music Codex</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-switch-between-normal-and-picture-in-picture-views-in-youtube/"><u>In 2024, How to Switch Between Normal and Picture In Picture Views in Youtube</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-masterful-lighting-techniques-for-iphone-users/"><u>In 2024, Masterful Lighting Techniques for IPhone Users</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/key-compliance-strategies-for-crypto-investments-insights-from-yl-computing-and-yl-software/"><u>Key Compliance Strategies for Crypto Investments: Insights From YL Computing & YL Software</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-13-pro-max-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 13 Pro Max Data From iCloud | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-driver-update-instructions-for-lenovo-x1-carbon-users-on-windows-11-and-7-systems/"><u>Step-by-Step Driver Update Instructions for Lenovo X1 Carbon Users on Windows 11 and 7 Systems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-ios-photo-editors-to-eliminate-objects-effectively/"><u>[New] Best iOS Photo Editors to Eliminate Objects Effectively</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-spark-joy-with-these-14-playful-text-animations/"><u>[New] Spark Joy with These 14 Playful Text Animations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-buys-exclusive-offer-save-on-hp-victus-15-gaming-laptop-at-just-515-during-prime-day-shop-now/"><u>Best Buy's Exclusive Offer: Save on HP Victus 15 Gaming Laptop at Just $515 During Prime Day - Shop Now</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-oceans-anew-top-camcorders-for-divers-and-snorkelers/"><u>In 2024, Explore Oceans Anew - Top Camcorders for Divers & Snorkelers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/microsoft-redefines-repair-with-new-laptop-line-ifixit-impressed-and-rivals-beware-insights-from-zdnet/"><u>Microsoft Redefines Repair with New Laptop Line, iFixit Impressed and Rivals Beware | Insights From ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/portuguese-cantonese-and-others-macaus-languages/"><u>Portuguese, Cantonese & Others: Macau's Languages</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/proven-value-picks-gamers-guide-to-cost-effective-laptop-powerhouses-cnet/"><u>Proven Value Picks: Gamer's Guide to Cost-Effective Laptop Powerhouses | CNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-a-steal-at-649-for-m1-macbook-air-top-discount-alert-find-all-you-need-to-know-on-zdnets-review/"><u>Score a Steal at $649 for M1 MacBook Air - Top Discount Alert! Find All You Need to Know on ZDNET's Review</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-art-of-crafting-successful-instagram-posts-for-2024/"><u>The Art of Crafting Successful Instagram Posts for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-ios-and-android-photo-blur-tools/"><u>Top iOS & Android Photo Blur Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-touchscreen-laptop-picks-thoroughly-vetted-by-tech-experts-zdnet/"><u>Top-Rated Touchscreen Laptop Picks: Thoroughly Vetted by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/understanding-video-frame-rates-a-comprehensive-guide/"><u>Understanding Video Frame Rates: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrading-your-iphone-in-the-coming-week-discover-essential-anker-charger-gadgets-that-perfectly-fit-your-needs-tips/"><u>Upgrading Your iPhone in the Coming Week? Discover Essential Anker Charger Gadgets That Perfectly Fit Your Needs - Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnets-pick-of-the-litter-the-robust-all-in-one-laptop-that-dominates-testing-scenarios-with-exceptional-hardware/"><u>ZDNet's Pick of the Litter: The Robust, All-in-One Laptop that Dominates Testing Scenarios with Exceptional Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnets-ultimate-ranking-of-m2-ssds-professional-evaluations-and-test-results/"><u>ZDNet's Ultimate Ranking of M.2 SSDs : Professional Evaluations and Test Results</u></a></li>
 </ul></div>
 

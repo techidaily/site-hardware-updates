@@ -1,7 +1,7 @@
 ---
 title: Love at First Swipe with the Lighter-Than-Ever Gram Pro 17 - Available Now for Black Friday Deals!
-date: 2024-12-30T02:48:07.565Z
-updated: 2025-01-06T13:22:34.332Z
+date: 2025-01-11T21:08:50.116Z
+updated: 2025-01-12T20:59:05.928Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,19 +87,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-perfect-discord-streams-tips-and-tricks/"><u>[New] 2024 Approved Perfect Discord Streams Tips & Tricks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-introduce-audible-elements-seamlessly-to-premiere-pro/"><u>[New] Introduce Audible Elements Seamlessly to Premiere Pro</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-blur-it-out-free-iphones-tips-for-crisp-image-edits/"><u>[Updated] In 2024, Blur It Out Free iPhones Tips for Crisp Image Edits</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/detailed-guide-to-minecraft-capturing-techniques-on-mac-for-2024/"><u>Detailed Guide to Minecraft Capturing Techniques on Mac for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-tutorial-how-to-install-latest-ati-driver-for-windows-users/"><u>Easy Tutorial: How to Install Latest ATI Driver for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-ensure-optimal-performance-updating-razer-blackwidows-controller-drivers/"><u>How to Ensure Optimal Performance: Updating Razer BlackWidow's Controller Drivers</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-finding-solid-video-editing-software-can-be-hard-thankfully-we-have-produced-a-top-five-list-of-the-best-free-mp4-video-editing-toolscheck-now/"><u>In 2024, Finding Solid Video Editing Software Can Be Hard. Thankfully, We Have Produced a Top Five List of the Best Free MP4 Video Editing tools.Check Now</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014299411-restore-sound-to-enhance-your-experience-with-black-ops-cold-war-on-windows-solved/"><u>Restore Sound to Enhance Your Experience with Black Ops Cold War on Windows - Solved!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-ranking-wireless-communication-devices-in-2eus/"><u>Top-Ranking Wireless Communication Devices in 2Eus</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-windrive-problems-neat-scanner-driver-fixes-revealed/"><u>Troubleshooting WinDrive Problems: Neat Scanner Driver Fixes Revealed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-convenience-how-to-get-and-install-a-samsung-usb-driver-on-your-windows-10-pc/"><u>Ultimate Convenience: How to Get and Install a Samsung USB Driver on Your Windows 10 PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-guide-resolving-nioh-2-complete-edition-stability-issues/"><u>Ultimate Guide: Resolving Nioh 2 Complete Edition Stability Issues</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/wacom-intuos-3-drivers-download-in-windows-work-100/"><u>Wacom Intuos 3 Drivers Download in Windows – [Work 100%]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/windows-1087-driver-update-process-easy-download-and-installation-for-usb-bluetooth-adapters/"><u>Windows 10/8/7 Driver Update Process - Easy Download and Installation for USB Bluetooth Adapters</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-champions-tech-the-ultimate-gaming-toolkit/"><u>[New] 2024 Approved Champion's Tech The Ultimate Gaming Toolkit</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-essential-tactics-for-dramatizing-success-stories-through-testimonials-for-2024/"><u>[Updated] Essential Tactics for Dramatizing Success Stories Through Testimonials for 2024</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/6ygp5yih44gq6zplusz5aow44kz44o844oh44od44kv44ks6yg45a6a44gz44kl5oml5byv44gnicfpn7plo7djgrpjg7zjg4fjg4pjgqjga7mpjzoqlwn/"><u>適切な音声コーデックを選定する手引き '音声コーデックの検証'</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-the-meaning-of-error-code-0x80070570-and-remedies-to-eliminate-it/"><u>Decoding the Meaning of Error Code 0X80070570 and Remedies to Eliminate It</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-how-lenovos-newly-released-thinkbook-outperforms-competitors-offering-unmatched-value-at-just-749-for-the-ideal-windows-machine/"><u>Discover How Lenovo's Newly Released ThinkBook Outperforms Competitors, Offering Unmatched Value at Just $749 for the Ideal Windows Machine</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-analysis-the-downside-of-dells-latest-xps-14-laptop-revealed-by-zdnet/"><u>Expert Analysis: The Downside of Dell's Latest XPS 14 Laptop Revealed by ZDNET</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2020-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2020) without Passcode or Face ID</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huge-savings-on-gaming-rigs-snag-a-whopping-600-discount-on-the-asus-rog-strix-g15-shop-now/"><u>Huge Savings on Gaming Rigs: Snag a Whopping $600 Discount on the ASUS ROG Strix G15 - Shop Now!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-realme-c67-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Realme C67 5G Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-scoop-on-lenovos-finest-a-deep-dive-into-the-best-mwc-releases-insights-from-digital-trends/"><u>Inside Scoop on Lenovo's Finest: A Deep Dive Into the Best MWC Releases - Insights From Digital Trends</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-immersion-score-the-ultimate-vr-experience-with-metas-quest-3-packing-a-massive-512gb-unmissable-offer/"><u>Maximize Immersion: Score the Ultimate VR Experience with Meta's Quest 3 Packing a Massive 512GB – Unmissable Offer !</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/meta-qc3-controller-bundle-offer-save-big-during-october-prime-day-event-get-your-hands-on-vr-fun/"><u>Meta QC3 Controller Bundle Offer - Save Big During October Prime Day Event, Get Your Hands-On VR Fun!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-12-unique-presents-ideal-for-tech-savvy-hackers-recommendations/"><u>Top 12 Unique Presents Ideal for Tech-Savvy Hackers: Recommendations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/turn-your-iphone-images-upside-down-with-precision-for-2024/"><u>Turn Your iPhone Images Upside Down with Precision for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-free-mov-trimmers-edit-videos-with-ease/"><u>Updated In 2024, Best Free MOV Trimmers Edit Videos with Ease</u></a></li>
 </ul></div>
 

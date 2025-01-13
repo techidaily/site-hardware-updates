@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Latest Tech at Tom's Electronics Hub
-date: 2024-08-19T05:59:46.908Z
-updated: 2024-08-20T05:59:46.908Z
+date: 2025-01-09T19:04:25.292Z
+updated: 2025-01-13T03:08:00.661Z
 tags:
   - cpu
 categories:
@@ -27,6 +27,10 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
  The Ryzen 9 5900XT, on the other hand, should provide a significant upgrade over the current[Ryzen 9 5900X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) . Weirdly, AMD chose that model name since the Ryzen 9 5900XT is closer to the[Ryzen 9 5950X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) than the Ryzen 9 5900X. The Ryzen 9 5900XT wields the same 16 Zen 3 cores as the former in addition to the 64MB L3 cache and 105W TDP. The Ryzen 9 5900XT has a 100 MHz lower base and boost clock than the Ryzen 9 5950X.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -37,14 +41,11 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
  AMD has kept the pricing under wraps for the Ryzen 9 5900XT and the Ryzen 7 5800XT. However, we should know tomorrow how much the new refreshed chips cost. Don't forget to double back for our review of the two processors and two new 5000XT SKUs.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -53,8 +54,20 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-secure-your-links-no-cost-high-efficiency-exporters-for-23-online/"><u>[Updated] 2024 Approved Secure Your Links No-Cost, High-Efficiency Exporters for '23 Online</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-capture-kings-warzone/"><u>2024 Approved Capture Kings Warzone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-thrustmaster-t300-driver-software-compatible-with-windows-11-and-10/"><u>Download Thrustmaster T300 Driver Software: Compatible with Windows 11 and 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fast-install-epson-workforce-ds-30-driver-for-windows-operating-systems-windows-1087/"><u>Fast Install: Epson WorkForce DS-30 Driver for Windows Operating Systems (Windows 10/8/7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-securely-download-and-install-logitech-g602-software-on-your-windows-computer/"><u>How to Securely Download & Install Logitech G602 Software on Your Windows Computer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-audio-transformation-software-magic-and-more/"><u>In 2024, Top Audio Transformation Software Magic and More</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivos-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivos Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-microsoft-audio-driver-in-windows-with-ease-free-download/"><u>Install Microsoft Audio Driver in Windows with Ease [Free Download]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-drivers-for-intel-iris-xe-graphics-655-supporting-windows-1011-systems/"><u>Latest Drivers for Intel Iris Xe Graphics 655: Supporting Windows 10/11 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-x220-simplified-driver-update-process-free-download/"><u>Lenovo X220 - Simplified Driver Update Process | Free Download</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/top-rated-apps-to-elevate-instagram-imagery-for-2024/"><u>Top-Rated Apps to Elevate Instagram Imagery for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-the-full-capabilities-of-zoom-on-windows-10-pcs/"><u>Unlocking The Full Capabilities of Zoom on Windows 10 PCs</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

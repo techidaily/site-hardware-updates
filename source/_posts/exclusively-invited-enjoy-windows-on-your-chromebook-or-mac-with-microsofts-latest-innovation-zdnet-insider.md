@@ -1,7 +1,7 @@
 ---
 title: "Exclusively Invited: Enjoy Windows on Your Chromebook or Mac with Microsoft's Latest Innovation | ZDNet Insider"
-date: 2025-01-01T20:35:21.829Z
-updated: 2025-01-05T16:26:40.890Z
+date: 2025-01-11T19:20:31.121Z
+updated: 2025-01-12T17:04:35.808Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ That's right. Apple said the "A" word, and it's not being shy about it, as my af
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple is _officially_ in the AI PC race
@@ -55,7 +55,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Apple also wants you to know that it's _been_ in the [AI PC race](https://www.zdnet.com/article/what-is-an-ai-pc-and-should-you-buy-one/) since the very beginning, with just about every Mac model now carrying neural engines for machine learning. The new MacBook Air is "the best consumer laptop for AI," the company touts in its Monday press release, but we'll have to see for ourselves when we put the 13- and 15-inch models through the wringer soon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. I can finally recommend the Midnight color
@@ -67,7 +67,7 @@ AI aside, there is one subtle design change to the new MacBooks that I really di
 Considering how easy it was to get smudges and marks on the original Midnight color of the MacBook Air -- which made lighter hue options look like rockstars -- this is a welcome change. Having fumbled with the MacBooks for a quick 10-minute photo-op, the fingerprints were noticeable, though not as bad as I remembered on the M2 Air. For me, this makes the Midnight variant recommendable again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Dual-monitor support is a bigger deal than it seems
@@ -110,24 +110,16 @@ All in all, the changes to the newest line of MacBook Air feel subtle on paper b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-must-know-facts-for-asmr-content-lovers/"><u>[New] 2024 Approved Must-Know Facts for ASMR Content Lovers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ssential-steps-to-apply-a-creative-commons-copyright/"><u>[New] Essential Steps to Apply a Creative Commons Copyright</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-how-to-get-verified-on-instagram-6-tips-to-grow-followers/"><u>[Updated] 2024 Approved How to Get Verified on Instagram 6 Tips to Grow Followers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-stepwise-process-for-capturing-live-soundtracks-online/"><u>[Updated] 2024 Approved Stepwise Process for Capturing Live Soundtracks Online</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-enhance-your-videos-effective-titles-and-keywords-on-youtube/"><u>[Updated] In 2024, Enhance Your Videos Effective Titles and Keywords on YouTube</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-ethernet-network-adapter-driver-download-at-no-charge/"><u>ASUS Ethernet Network Adapter Driver Download at No Charge</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-mg3000-printer-firmware-update-and-driver-software-free-downloads-available/"><u>Canon MG3000 Printer Firmware Update and Driver Software: Free Downloads Available</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/fixing-dark-mode-issues-during-recording-for-2024/"><u>Fixing Dark Mode Issues During Recording for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-epson-wf-2540-printing-solution-on-windows-78110-with-this-free-driver-download/"><u>Get Your Epson WF-2540 Printing Solution on Windows 7/8.1/10 with This Free Driver Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-razer-blackwidow-driver-razer-driver-support/"><u>How to Update Razer Blackwidow Driver | Razer Driver Support</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-next-level-video-editing-the-ultimate-guide-to-cool-effects/"><u>In 2024, Next-Level Video Editing The Ultimate Guide to Cool Effects</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instant-access-to-samsung-c460-device-drivers-start-here/"><u>Instant Access to Samsung C460 Device Drivers - Start Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instant-download-ultimate-guide-to-the-lexar-usb-drivers/"><u>Instant Download: Ultimate Guide to the Lexar USB Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722973963253-latest-graphics-card-software-get-your-geforce-rtx-amoled-3090-driver-for-windows-users/"><u>Latest Graphics Card Software: Get Your GeForce RTX Amoled 3090 Driver for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/more-than-15000-employees-face-job-loss-as-intel-hits-manufacturing-snags-with-meteor-lake-dividend-payments-on-pause/"><u>More than 15,000 Employees Face Job Loss as Intel Hits Manufacturing Snags with Meteor Lake; Dividend Payments on Pause</u></a></li>
-<li><a href="https://win11.techidaily.com/three-simplified-steps-for-customizing-win11-ui/"><u>Three Simplified Steps for Customizing Win11 UI</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-repairing-intel-chipset-driver-errors-across-windows-7-8-and-10/"><u>Troubleshooting and Repairing Intel Chipset Driver Errors Across Windows 7, 8 & 10</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-easy-voice-cutting-a-comprehensive-audacity-resource/"><u>Updated Easy Voice Cutting A Comprehensive Audacity Resource</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1728492577824-windows-11-m2-ssd/"><u>Windows 11 M.2 SSDの正しい徹底的な初期化手順</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-innovative-techniques-for-video-editing-on-windows-8-movie-maker/"><u>[New] 2024 Approved Innovative Techniques for Video Editing on Windows 8 Movie Maker</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-sharpening-vision-in-depth-hdr-techniques-in-photoshop/"><u>[New] In 2024, Sharpening Vision In-Depth HDR Techniques in PhotoShop</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-exploring-new-dimensions-q500-typhoon-adventure/"><u>[Updated] In 2024, Exploring New Dimensions Q500 Typhoon Adventure</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-innovative-strategies-for-recording-in-audacity/"><u>2024 Approved Innovative Strategies for Recording in Audacity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-hidden-gems-exploring-the-surprising-trackpoint-and-more-in-this-compact-lenovo-notebook-zdnet/"><u>Discover the Hidden Gems: Exploring the Surprising TrackPoint and More in This Compact Lenovo Notebook | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-cooling-gadget-every-tech-enthusiast-must-have-for-peak-laptop-performance-insights-from-zdnet/"><u>Essential Cooling Gadget Every Tech Enthusiast Must Have for Peak Laptop Performance - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-work-laptop-picks-alternatives-to-dell-and-lenovo-for-optimal-office-productivity/"><u>Essential Work Laptop Picks: Alternatives to Dell & Lenovo for Optimal Office Productivity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experiencing-lenovos-clearbook-a-functional-marvel-unveiled-at-mobile-world-congress-insights/"><u>Experiencing Lenovo's Clearbook: A Functional Marvel Unveiled at Mobile World Congress - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/forging-ethical-boundaries-in-the-ai-landscape/"><u>Forging Ethical Boundaries in the AI Landscape</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-se-2022-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simplify-your-desktop-resetting-icon-cache-on-win-7-8-and-vista-made-easy/"><u>Simplify Your Desktop: Resetting Icon Cache on Win 7, 8 & Vista Made Easy</u></a></li>
 </ul></div>
 

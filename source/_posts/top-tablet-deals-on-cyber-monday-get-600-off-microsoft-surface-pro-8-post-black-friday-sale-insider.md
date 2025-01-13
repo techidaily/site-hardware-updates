@@ -1,7 +1,7 @@
 ---
 title: "Top Tablet Deals on Cyber Monday: Get $600 Off Microsoft Surface Pro 8 Post-Black Friday Sale Insider"
-date: 2025-01-01T00:59:21.600Z
-updated: 2025-01-06T06:12:48.475Z
+date: 2025-01-12T00:47:01.945Z
+updated: 2025-01-12T20:01:12.825Z
 tags:
   - laptops
 categories:
@@ -32,7 +32,7 @@ The lowest price point available is $799 for a platinum model with an Intel Evo 
 **Read on:** [Microsoft Surface Pro 8 for Business review: Still in love](https://www.zdnet.com/article/microsoft-surface-pro-8-for-business-review/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -77,14 +77,19 @@ ZDNET is also keeping an eye out for other tablet deals on the market in the run
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-top-windows-11-capture-tools-win-edition/"><u>[New] In 2024, Top Windows 11 Capture Tools Win Edition</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-ultimate-brainiac-challenge-gk-quizzes-for-2024/"><u>[New] Ultimate Brainiac Challenge - GK Quizzes for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210656150-9789895377336-atlantis-rising/"><u>ATLANTIS RISING | Free Book</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-official-nvidia-940mx-graphics-card-drivers/"><u>Download and Install Official Nvidia 940MX Graphics Card Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722969797074-get-your-epson-es-400-compatible-software-installed-in-windows-now/"><u>Get Your Epson ES-400 Compatible Software Installed in Windows Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-repair-a-malfunctioning-samsung-blu-ray-media-device/"><u>How To Repair A Malfunctioning Samsung Blu Ray Media Device</u></a></li>
-<li><a href="https://win11.techidaily.com/interpreting-drive-labels-the-candd-dynamics/"><u>Interpreting Drive Labels: The C&D Dynamics</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/investigating-allegations-againnst-intel-class-action-over-processor-performance-failures-begins/"><u>Investigating Allegations Againnst Intel: Class Action Over Processor Performance Failures Begins</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/ultimate-mac-screen-recorder-solutions-beyond-bandicam-for-2024/"><u>Ultimate Mac Screen Recorder Solutions Beyond Bandicam for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-a-closer-examination-the-finest-mac-recording-software/"><u>[New] A Closer Examination The Finest Mac Recording Software</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-swift-and-simple-acquiring-itunes-radio-episodes/"><u>[Updated] In 2024, Swift and Simple Acquiring iTunes Radio Episodes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-iphone-hdr-techniques-and-tips/"><u>[Updated] The Ultimate Guide to iPhone HDR Techniques & Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/2024s-elite-selection-of-85-inch-tvs-ranked-and-analyzed-professional-expert-reviews-you-can-trust-pcmag/"><u>2024'S Elite Selection of 85-Inch TVs Ranked & Analyzed: Professional Expert Reviews You Can Trust | PCMag</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009193597-corrupted-game-files-heres-how-to-repair-and-get-back-into-the-action-by-2024/"><u>Corrupted Game Files? Here's How to Repair and Get Back Into the Action by 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-that-the-words-algorithm-chest-x-rays-and-oxford-university-are-included-in-separate-lines-within-the-poem-maintaining-their-original-context-but-rei238/"><u>Ensure that the Words Algorithm, Chest X-Rays, and Oxford University Are Included in Separate Lines Within the Poem, Maintaining Their Original Context but Reinterpreted Astrologically.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-top-tv-discounts-awaiting-you-this-labor-day-2n4-dont-miss-out-on-these-spectacular-savings-for-mature-audiences/"><u>Exclusive: Top TV Discounts Awaiting You This Labor Day 2N4! Don't Miss Out on These Spectacular Savings for Mature Audiences</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-what-to-do-when-your-pc-runs-on-windows-11-and-crashes/"><u>Expert Advice: What to Do When Your PC Runs on Windows 11 and Crashes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/leading-free-internet-phone-calls-software-ranked-you-cant-miss/"><u>Leading Free Internet Phone Calls Software Ranked You Can't Miss</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximizing-value-expert-tips-for-elevating-the-cheapest-98-inch-tv-to-elite-quality/"><u>Maximizing Value: Expert Tips for Elevating the Cheapest 98-Inch TV to Elite Quality!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/must-watch-tv-series-and-films-on-hulu-disneyplus-and-more-this-march-our-expert-guide-by-zdnet/"><u>Must-Watch TV Series and Films on Hulu, Disney+, and More This March: Our Expert Guide by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigate-the-future-of-television-with-our-pros-guide-to-premium-32-inch-screens-zdnet-insights/"><u>Navigate the Future of Television with Our Pros' Guide to Premium 32-Inch Screens | ZDNET Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-typography-across-languages-on-windows-pcs/"><u>Seamless Typography Across Languages on Windows PCs</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-updating-your-windows-10-hardware-drivers-easily/"><u>Step-by-Step Guide: Updating Your Windows 10 Hardware Drivers Easily</u></a></li>
 </ul></div>
 

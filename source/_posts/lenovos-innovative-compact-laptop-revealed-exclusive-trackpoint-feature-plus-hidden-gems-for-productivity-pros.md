@@ -1,7 +1,7 @@
 ---
 title: "Lenovo’s Innovative Compact Laptop Revealed: Exclusive TrackPoint Feature + Hidden Gems for Productivity Pros!"
-date: 2025-01-04T03:58:23.844Z
-updated: 2025-01-06T11:12:36.222Z
+date: 2025-01-06T03:34:33.010Z
+updated: 2025-01-12T22:53:15.152Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,24 +134,19 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cultivating-a-brand-identity-youtube-visibility-without-spending/"><u>[Updated] In 2024, Cultivating a Brand Identity YouTube Visibility without Spending</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-essential-software-packages-and-drivers-for-hp-elitebook-x360-1030-g2/"><u>Download the Essential Software Packages & Drivers for HP EliteBook X360 1030 G2</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-downloader-tool-install-epson-printer-drivers-on-windows/"><u>Free Downloader Tool - Install Epson Printer Drivers on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-intel-rapid-storage-technology-driver-downloads-and-updates-for-windows-111087/"><u>Free Intel Rapid Storage Technology Driver Downloads & Updates for Windows 11/10/8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-easily-refresh-cpu-drivers-for-better-performance-on-windows-computers/"><u>How to Easily Refresh CPU Drivers for Better Performance on Windows Computers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-motorola-moto-g73-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Motorola Moto G73 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-discover-the-best-top-rated-video-animation-apps-for-android-iphone-and-ipad/"><u>In 2024, Discover the Best Top-Rated Video Animation Apps for Android, iPhone, and iPad</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-exploring-metaverse-ranking-best-8-vr-headsets/"><u>In 2024, Exploring Metaverse Ranking Best 8 VR Headsets</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-perfecting-onestream-broadcasts-essential-strategies-explored/"><u>In 2024, Perfecting OneStream Broadcasts Essential Strategies Explored</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigating-the-stars-of-literature-with-barnes-and-noble-nook-glowlight-3-an-insightful-review/"><u>Navigating the Stars of Literature with Barnes & Noble Nook GlowLight 3 – An Insightful Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/optimized-hearing-latest-nahimic-audio-drivers-deliver-superior-sound-clarity/"><u>Optimized Hearing: Latest Nahimic Audio Drivers Deliver Superior Sound Clarity</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reveal-invisible-hdd-solving-windows-11-problem/"><u>Reveal Invisible HDD: Solving Windows 11 Problem</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722966480690-successfully-overcoming-asus-pce-ac56-driver-woes-across-windows-10-8-and-7/"><u>Successfully Overcoming ASUS PCE-AC56 Driver Woes Across Windows 10, 8 & 7</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-35-unbeatable-cyber-monday-offers-find-the-best-bargains-on-dell-products-at-retail-giants-like-best-buy-and-amazon/"><u>Top 35 Unbeatable Cyber Monday Offers: Find the Best Bargains on Dell Products at Retail Giants Like Best Buy & Amazon</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-verizon-phone-upgrades-offered-this-month/"><u>Top Verizon Phone Upgrades Offered This Month</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/ultimate-guide-to-2023s-top-value-zero-cost-live-broadcasting-tools-for-2024/"><u>Ultimate Guide to 2023'S Top Value, Zero-Cost Live Broadcasting Tools for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-special-deals-on-the-latest-amd-gaming-bundle-ryzen-7000-cpus-plus-radeon-rx-7000-gpus-plus-bonus-games-excludes-coming-soon-ryzen-9000/"><u>Unlock Special Deals on the Latest AMD Gaming Bundle: Ryzen 7000 CPUs + Radeon RX 7000 GPUs - Plus Bonus Games! Excludes Coming Soon Ryzen 9000</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-to-the-current-hp-laserjet-pro-m404n-drivers-direct-download-links-available/"><u>Update to the Current HP LaserJet Pro M404N Drivers – Direct Download Links Available!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-brother-printer-driver-on-windows-a-comprehensive-guide/"><u>Update Your Brother Printer Driver on Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-navigating-the-world-of-zoom-audio-to-text-tools/"><u>[Updated] In 2024, Navigating the World of Zoom Audio to Text Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-top-ten-webcam-enhancers-master-stream-quality-for-2024/"><u>[Updated] The Top-Ten Webcam Enhancers Master Stream Quality for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-beyond-boundaries-the-present-state-and-future-of-vr/"><u>2024 Approved Beyond Boundaries The Present State and Future of VR</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experts-reveal-top-non-hplenovo-2-in-1-laptops-with-exceptional-capabilities-zdnet-insights/"><u>Experts Reveal Top Non-HP/Lenovo 2-in-1 Laptops with Exceptional Capabilities | ZDNet Insights</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-elevate-your-content-game-with-professional-facebook-slideshow-techniques/"><u>In 2024, Elevate Your Content Game with Professional Facebook Slideshow Techniques</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-honor-x50iplus-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Honor X50i+ Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-look-how-microsoft-plans-to-triumph-over-the-macbook-with-next-gen-ai-chip-insiders-report/"><u>Inside Look: How Microsoft Plans to Triumph Over the MacBook with Next-Gen AI Chip | Insider's Report</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/masterclass-enable-and-enjoy-dvd-viewing-across-different-xbox-one-units/"><u>Masterclass: Enable and Enjoy DVD Viewing Across Different Xbox One Units</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/save-and-enjoy-your-favorite-coub-videos-with-ease/"><u>Save and Enjoy Your Favorite Coub Videos with Ease</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-non-dell-and-non-lenovo-business-laptops-the-best-alternatives-for-your-workspace/"><u>Top Non-Dell and Non-Lenovo Business Laptops: The Best Alternatives for Your Workspace</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-pick-the-ultimate-power-bank-choice-for-your-macbook-pro-reviewed-by-techexperts-at-zdnet/"><u>Top Pick: The Ultimate Power Bank Choice for Your MacBook Pro – Reviewed by TechExperts at ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-on-asus-vivobook-pro-save-300-today-on-amazon-zdnets-exclusive-offer/"><u>Unbeatable Deal on Asus VivoBook Pro - Save $300 Today on Amazon! [ZDNet's Exclusive Offer]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-you-should-think-twice-about-pricey-laptops-once-you-experience-lenovos-499-chromebook-plus-zdnet/"><u>Why You Should Think Twice About Pricey Laptops Once You Experience Lenovo's $499 Chromebook Plus | ZDNet</u></a></li>
 </ul></div>
 

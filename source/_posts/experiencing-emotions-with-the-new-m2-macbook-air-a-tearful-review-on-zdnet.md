@@ -1,7 +1,7 @@
 ---
 title: Experiencing Emotions with the New M2 MacBook Air - A Tearful Review on ZDNet
-date: 2025-01-01T11:53:51.305Z
-updated: 2025-01-06T09:21:06.630Z
+date: 2025-01-11T01:44:51.980Z
+updated: 2025-01-13T01:44:06.350Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Cliff Joseph/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -31,7 +31,7 @@ Cliff Joseph/ZDNET
 [![Best tech products of 2022](https://www.zdnet.com/a/img/resize/3f88838e500b465de59bf97859df4b8cc8a9cd8a/2022/12/21/5246df34-aab3-4419-a17e-d162c8160806/zdgg-2022-overall.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) ZDNET editors loved these tech products and gadgets in 2022 Trying to find the absolute best tech products of 2022? From the iPhone 14 Pro Max to the Kindle Scribe to the Oura Ring Gen 3 Horizon, here are ZDNET's top gadgets of the year.  Read now](https://www.zdnet.com/article/best-tech-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 How often can a gadget make you confront your own weaknesses, especially the lies you tell yourself?
@@ -43,10 +43,6 @@ I can usually resist the latest, greatest, most hyped-up piece of technology.
 Until I'm sure I don't just want it, but need it. 
 
 Oh, all right, I may occasionally have a flexible definition of _need_.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The weakness. I just can't bear the weakness
 
@@ -78,9 +74,17 @@ And then there was the remarkable fact that an Apple store actually had the [mid
 
 Resistance was futile. Actually, it was non-existent, even if I still wondered whether this laptop could possibly be worth it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The lies I'd told myself
 
 With almost every gadget, it's one thing to play with it in a store. It's quite another to bring it into your daily life -- and I use a laptop at least 12 hours a day.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -106,7 +110,7 @@ Some (like ZDNET's [review of the M2 MacBook Air](https://www.zdnet.com/article/
 I've also noticed that MagSafe isn't quite what it used to be. Previously, it had flown out of its socket with minimal force. Now, you have to give it a perceptible tug before it detaches. I can't decide whether this is good or bad. I do like the sturdier feel of the cable, however. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## It's all ending in tears
@@ -118,10 +122,6 @@ But no tale this positive has a happy ending.
 So, as I write this, I'm staring into space, blaring at myself for being so impulsive.
 
 You see, but weeks after I bought my M2 Air, [the price began to descend](https://www.zdnet.com/article/apple-macbook-air-laptop-2022-m2-chip-cyber-monday-deals-2022-lowest-prices-ever/). Then it descended even more. Perhaps this is something to do with [the market prospects for laptops in 2023](https://www.zdnet.com/article/theres-a-long-cold-winter-ahead-for-pc-makers-that-could-be-good-news-for-pc-buyers/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -169,16 +169,17 @@ Unless, that is, you're selling [a perfectly functional robot dog](https://www.z
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-bridge-the-gap-in-airdrop-transfers-solutions-for-iphones-ipads-and-macs/"><u>[New] 2024 Approved Bridge the Gap in Airdrop Transfers Solutions for iPhones, iPads & Macs</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-realme-c53-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Realme C53 Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/an-in-depth-look-at-basic-and-simplified-hdr-photography-for-2024/"><u>An In-Depth Look at Basic and Simplified HDR Photography for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-of-the-best-fastest-and-most-stable-wireless-driver-software-free/"><u>Best of the Best: Fastest & Most Stable Wireless Driver Software Free</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effective-strategies-to-repair-and-update-your-windows-10s-malfunctioning-bluetooth-drivers/"><u>Effective Strategies to Repair and Update Your Windows 10'S Malfunctioning Bluetooth Drivers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevating-your-experience-with-my-ai-6-reasons-why-snapchat-is-more-than-just-playtime/"><u>Elevating Your Experience with My AI: 6 Reasons Why Snapchat Is More Than Just Playtime</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/free-online-vob-to-mkv-conversion-with-movavi-effortless-video-format-change/"><u>Free Online VOB to MKV Conversion with Movavi - Effortless Video Format Change</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/production-delays-for-amds-ryzen-9000-typo-troubles-and-unexpected-impact-on-ryzen-5-9600x/"><u>Production Delays for AMD's Ryzen 9000 - Typo Troubles and Unexpected Impact on Ryzen 5 9600X</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/purchase-locations-for-amds-latest-processors-ryzen-7-9700x-and-ryzen-5-9600x/"><u>Purchase Locations for AMD's Latest Processors: Ryzen 7 9700X & Ryzen 5 9600X</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/simplify-your-interaction-with-ai-the-ultimate-chrome-add-on-for-flawless-chatgpt-invocations/"><u>Simplify Your Interaction with AI: The Ultimate Chrome Add-On for Flawless ChatGPT Invocations</u></a></li>
-<li><a href="https://extra-information.techidaily.com/streamlined-techniques-for-discovering-highly-engaged-youtube-remarks/"><u>Streamlined Techniques for Discovering Highly Engaged YouTube Remarks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726029698513-instagram/"><u>「インスタ映え！綺麗な画質でInstagramのビデオチャット録画テクニック」</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-y36-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effective-techniques-for-dividing-a-model-into-sections-for-3d-printing/"><u>Effective Techniques for Dividing a Model Into Sections for 3D Printing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/grab-your-dream-machine-exclusive-black-friday-sale-with-40-off-on-the-top-tier-gigabyge-a5-k1-gaming-laptop-s-pick/"><u>Grab Your Dream Machine: Exclusive Black Friday Sale with 40% Off on the Top-Tier Gigabyge A5 K1 Gaming Laptop 'S Pick</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hewlett-packards-exclusive-deal-of-the-season-save-up-to-71-on-computers-and-tech-accessories-find-your-bargains/"><u>Hewlett-Packard's Exclusive Deal of the Season: Save up to 71% on Computers & Tech Accessories - Find Your Bargains!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-this-affordable-windows-notebook-stacks-up-against-the-macbook-air-insights-from-zdnets-tech-analysis/"><u>How This Affordable Windows Notebook Stacks Up Against the MacBook Air - Insights From ZDNET's Tech Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximizing-performance-in-2023-expert-reviews-on-leading-gaming-and-workstation-memory-upgrades-zdnets-comprehensive-roundup/"><u>Maximizing Performance in 202^3: Expert Reviews on Leading Gaming and Workstation Memory Upgrades | ZDNet's Comprehensive Roundup</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-make-a-blockbuster-trailer-best-software-for-mac-and-windows-for-2024/"><u>New Make a Blockbuster Trailer Best Software for Mac and Windows for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/personalizing-user-profiles-a-comprehensive-guide-with-yl-computing/"><u>Personalizing User Profiles: A Comprehensive Guide with YL Computing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/strategies-et-pratiques-courantes-de-la-plateforme-dintelligence-artificielle-winx-video-questions-frequemment-posees-et-reponses-detaillees/"><u>Stratégies Et Pratiques Courantes De La Plateforme D'intelligence Artificielle WinX Video : Questions Fréquemment Posées Et Réponses Détaillées</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/troubleshooting-slow-performance-on-your-gpu-tips-and-solutions-by-yl-software/"><u>Troubleshooting Slow Performance on Your GPU - Tips & Solutions by YL Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-the-highest-quality-compact-monitors-of-202-cuits-comprehensive-zdnet-analysis/"><u>Ultimate Guide to the Highest Quality Compact Monitors of 202 Cuits - Comprehensive ZDNET Analysis</u></a></li>
 </ul></div>
 

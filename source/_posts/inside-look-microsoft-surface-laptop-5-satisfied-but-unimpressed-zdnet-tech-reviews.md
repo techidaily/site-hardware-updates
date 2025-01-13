@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: Microsoft Surface Laptop 5 - Satisfied but Unimpressed | ZDNet Tech Reviews"
-date: 2025-01-04T13:44:10.528Z
-updated: 2025-01-06T08:11:44.519Z
+date: 2025-01-11T17:42:07.994Z
+updated: 2025-01-12T23:22:10.431Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -56,10 +56,6 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 | Connectivity    | Wi-Fi 6, Bluetooth 5.1                                                                     |
 | Ports           | 1 x USB-C 4.0/Thunderbolt 4, 1 x USB-A 3.1, 3.5mm headphone jack, 1 x Surface Connect Port |
 | Size and weight | 12.1 L x 8.8 W x .57 H inches, 2.8 lbs                                                     |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How's the build quality?
 
@@ -79,6 +75,10 @@ Michael Gariffo/ZDNET
 
 **More: [The best laptops: Does Apple take the crown?](https://www.zdnet.com/article/best-laptop/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Features and ports
 
 That one on the top is the Surface Connect Port, not an SD card reader slot, which it so closely resembles.
@@ -86,6 +86,10 @@ That one on the top is the Surface Connect Port, not an SD card reader slot, whi
 Michael Gariffo/ZDNET
 
 Microsoft's port selection on the Surface Laptop 5 is very middle-of-the-road. That's a good thing. It acknowledges that plenty of USB-A peripherals still exist, so it includes a single USB-A port. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -139,10 +143,6 @@ This might be forgivable in a budget model. But even the base config [Surface La
 
 **More: [The 10 best webcams: Join your next Zoom call in HD](https://www.zdnet.com/article/best-webcam/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Performance and battery life
 
 Unlike on many other laptops I've tested recently, the keyboard deck remained entirely cool, no matter how hard I pushed the laptop.
@@ -166,7 +166,7 @@ Overall, I'd have no qualms about leaving my charger at home and expecting to ge
 [Microsoft Surface Laptop 5 $1,117 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1738938556&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -176,7 +176,7 @@ I may seem like I had high standards for this review, and I did. This is a flags
 If you never videoconference or if wasted space around your display doesn't bother you, you're looking at the best Windows laptop you could buy right now. Even if those things do irk a bit, I'd recommend balancing them against the exceptional performance, build, and aesthetics. The Surface Laptop 5 is frustratingly close to being that universal leader among Windows portables that Microsoft wants it to be. But, if Microsoft wants that crown, I hope it updates the components that held this generation back when it comes time to design the Surface Laptop 6.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -227,18 +227,24 @@ Dell's latest entry in the XPS 13 lineup looks like it comes from further down t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-videoleap-zoom-hacks-for-detailed-video-insight/"><u>[New] 2024 Approved Videoleap Zoom Hacks for Detailed Video Insight</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-expertly-curated-list-of-top-6-head-mounted-cameras-for-action-seekers/"><u>[New] In 2024, Expertly Curated List of Top 6 Head-Mounted Cameras for Action Seekers</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-pro-audio-software-win-edition-for-2024/"><u>[New] Pro Audio Software Win Edition for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-advantages-of-wi-fi-6-the-next-generation-wireless-protocol-80211ax-explained/"><u>Exploring the Advantages of Wi-Fi 6 - The Next Generation Wireless Protocol, 802.11AX Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-low-memory-warning-in-vmware-hosted-windows-environments/"><u>Fixing Low Memory Warning in VmWare-Hosted Windows Environments</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/game-on-anywhere-with-asuss-sleek-ultra-portable-14-fighter-the-perfect-blend-of-size-and-strength/"><u>Game On Anywhere with ASUS's Sleek, Ultra-Portable 14 Fighter – The Perfect Blend of Size and Strength!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-realme-11x-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Realme 11X 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-ceases-sales-of-exclusive-cloud-based-printing-solutions/"><u>HP Ceases Sales of Exclusive Cloud-Based Printing Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximize-your-television-value-invest-in-previous-generation-premium-models/"><u>Maximize Your Television Value: Invest in Previous Generation Premium Models</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximizing-kitchen-efficiency-opt-for-separate-fridge-and-ipad-over-smart-fridge-technology/"><u>Maximizing Kitchen Efficiency: Opt for Separate Fridge and iPad Over Smart Fridge Technology</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-back-to-basic/"><u>New In 2024, Back to Basic</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-htc-frp-bypass-by-drfone-android/"><u>Ultimate Guide from HTC FRP Bypass</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-methods-for-converting-twitter-videos-into-mp3-format/"><u>[New] 2024 Approved Methods for Converting Twitter Videos Into MP3 Format</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-windows-pc-live-tv-recording-tips-and-tricks/"><u>[New] Mastering Windows PC Live TV Recording Tips & Tricks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unbeatable-deals-on-top-quality-budget-friendly-asmr-mics/"><u>[Updated] Unbeatable Deals on Top Quality, Budget-Friendly ASMR Mics</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unraveling-the-itunes-radio-download-process/"><u>2024 Approved Unraveling the iTunes Radio Download Process</u></a></li>
+<li><a href="https://win-forum.techidaily.com/wavmpg-movavi/"><u>免費在线WAV至MPG转换 - 利用Movavi提�지取得效果更好</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ace-your-tech-upgrade-with-primes-finest-exclusive-laptop-bargains-in-october-2er-zdnet/"><u>Ace Your Tech Upgrade with Prime's Finest - Exclusive Laptop Bargains in October 2Er | ZDNET</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-ai-communications-with-these-7-key-techniques-for-better-chatgpt-replies/"><u>Elevate AI Communications with These 7 Key Techniques for Better ChatGPT Replies</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-14-pro-max-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 14 Pro Max to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hunt-the-best-deals-on-laptops-for-under-500-this-cyber-monday-plus-a-bonus-just-for-you-at-an-unbelievable-price-of-99/"><u>Hunt the Best Deals on Laptops for Under $500 This Cyber Monday, Plus a Bonus Just for You At an Unbelievable Price of $99!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-4k-visionary-review-blades-spectrum-expansion/"><u>In 2024, 4K Visionary Review Blade's Spectrum Expansion</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/macbook-showdown-determining-whether-the-macbook-pro-or-macbook-air-suits-your-needs-better-insights-from-tech-experts/"><u>MacBook Showdown: Determining Whether the MacBook Pro or MacBook Air Suits Your Needs Better - Insights From Tech Experts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-the-art-of-video-editing-on-vita-in-depth-analysis-2024/"><u>Mastering the Art of Video Editing on Vita In-Depth Analysis, 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-savings-with-this-essential-50-gadget-discover-how-it-could-slash-costs-for-tech-enthusiasts/"><u>Maximize Savings with This Essential $50 Gadget: Discover How It Could Slash Costs for Tech Enthusiasts!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/slash-priced-asus-laptop-deal-get-the-15-model-for-a-steal-at-250-from-walmart-all-ports-included/"><u>Slash-Priced ASUS Laptop Deal! Get the 15 Model for a Steal at $250 From Walmart, All Ports Included.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snap-up-the-deal-8tb-samsung-t5-ssd-available-at-a-steep-36-discount-on-amazon-insights/"><u>Snap Up the Deal: 8TB Samsung T5 SSD Available at a Steep 36% Discount on Amazon - Insights</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/spreading-twitter-vid-facebook-integration-methods-for-2024/"><u>Spreading Twitter Vid Facebook Integration Methods for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-44-discounts-on-seasonal-memory-units-and-solid-state-drives-insights/"><u>Top 44 Discounts on Seasonal Memory Units & Solid-State Drives - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-student-laptops-in-depth-tests-and-reviews-by-tech-experts/"><u>Top-Ranking Student Laptops: In-Depth Tests & Reviews by Tech Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-the-best-gaming-savings-of-early-prime-day-october-2024-with-our-insider-tips/"><u>Unlock the Best Gaming Savings of Early Prime Day October 2024 with Our Insider Tips</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Charging Experience with the 140W Multi-Device Companion - Now Available!
-date: 2025-01-04T00:25:23.466Z
-updated: 2025-01-06T08:24:45.361Z
+date: 2025-01-07T16:36:43.405Z
+updated: 2025-01-12T19:44:14.171Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ Here are some of the most interesting features I saw during my hands-on briefing
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Smart Share
@@ -61,7 +61,7 @@ Kyle Kucharski/ZDNET
 Besides the Smart Share features, there are four different "modes" that activate various features. You can toggle each feature on or off individually, to avoid being bombarded with different prompts. Here are the most impactful ones I saw during my time trying the new laptops.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shield Mode
@@ -70,7 +70,7 @@ Besides the Smart Share features, there are four different "modes" that activate
 * The VPN auto-launch feature will start your preferred VPN automatically upon connecting to any public Wi-Fi network, a handy function if you spend a lot of time working in coffee shops.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Attention Mode
@@ -80,7 +80,7 @@ Besides the Smart Share features, there are four different "modes" that activate
 Kyle Kucharski/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Collaboration Mode
@@ -88,7 +88,7 @@ Kyle Kucharski/ZDNET
 * Designed mostly for virtual meetings, activating this mode enables your preset camera features, such as background blur, low light enhancer, or touch ups.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Wellness Mode
@@ -133,19 +133,18 @@ We'll definitely be doing some additional testing of the smart modes when we get
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expedite-your-artistic-expression-fast-collages-on-the-fly/"><u>[New] Expedite Your Artistic Expression Fast Collages on the Fly</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-creating-stunning-time-lapse-videos-on-samsung-devices/"><u>[Updated] 2024 Approved Creating Stunning Time-Lapse Videos on Samsung Devices</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-auditing-video-content-monetization-success/"><u>2024 Approved Auditing Video Content Monetization Success</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correctly-address-and-fix-crc-related-data-mistakes/"><u>How to Correctly Address and Fix CRC-Related Data Mistakes</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-manage-and-delete-system-memory-dump-files-on-windows-11/"><u>How To Manage and Delete System Memory Dump Files on Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-of-govee-triad-multi-colored-floodlights-highly-adaptable-outdoor-lighting-at-a-considerable-price-point/"><u>In-Depth Analysis of Govee Triad Multi-Colored Floodlights: Highly Adaptable Outdoor Lighting at a Considerable Price Point</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-of-the-anker-maggo-mag6600-power-bank-6600mah-the-heftier-companion-to-your-iphone/"><u>In-Depth Analysis of the Anker MagGo MAG6600 Power Bank (6600mAh): The Heftier Companion to Your iPhone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-sony-ult-field-7-examination-your-go-to-bassy-festival-sound-system/"><u>In-Depth Sony ULT Field 7 Examination: Your Go-To Bassy Festival Sound System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/introducing-the-budget-friendly-walmart-4k-smart-box-now-available-for-50/"><u>Introducing the Budget-Friendly Walmart 4K Smart Box, Now Available for $50!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/introducing-the-new-beats-pill-how-apple-is-revolutionizing-the-bluetooth-speaker-arena-again/"><u>Introducing The New Beats Pill: How Apple Is Revolutionizing the Bluetooth Speaker Arena Again</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-honor-80-pro-straight-screen-edition-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Honor 80 Pro Straight Screen Edition Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/new-chromebook-models-offer-free-2tb-cloud-storage-annually/"><u>New Chromebook Models Offer Free 2TB Cloud Storage Annually</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/optimize-your-phones-soundplay-with-top-10/"><u>Optimize Your Phone's Soundplay With Top 10</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-and-installation-guide-for-insignia-bluetooth-receiver-drivers-in-windows/"><u>Update & Installation Guide for Insignia Bluetooth Receiver Drivers in Windows</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/gnite-conversations-top-10-creative-reaction-insights-for-videos/"><u>[New] Ignite Conversations Top 10 Creative Reaction Insights for Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-significant-strategies-for-modifying-playback-speed-on-spotify/"><u>[Updated] In 2024, Significant Strategies for Modifying Playback Speed on Spotify</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-free-digital-asset-valuation-tools/"><u>2024 Approved Free Digital Asset Valuation Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-artificial-intelligence-and-deepfakes-fueling-misinformation-campaigns/"><u>Are Artificial Intelligence and Deepfakes Fueling Misinformation Campaigns?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-picks-top-discounts-and-bargains-on-amazons-october-prime-day-2prise-limited-stock/"><u>Exclusive Picks: Top Discounts & Bargains on Amazon's October Prime Day 2Prise - Limited Stock!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-apple-m2-powered-macbook-air-deals-at-just-749-during-amazons-prime-day-bonanza-insights-from-zdnet/"><u>Exclusive: Apple M2-Powered MacBook Air Deals at Just $749 During Amazon's Prime Day Bonanza - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-unprecedented-flexibility-with-the-worlds-tiniest-webcam-insights-and-review/"><u>Exploring Unprecedented Flexibility with the World's Tiniest Webcam - Insights & Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-look-at-how-t-mobile-operates-seamless-domestic-roaming-for-customers/"><u>Inside Look at How T-Mobile Operates Seamless Domestic Roaming for Customers</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-top-meme-maker-apps-for-android-and-ios-devices-updated-2023/"><u>New Top Meme Maker Apps for Android and iOS Devices (Updated 2023)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-unveils-galaxy-s23-and-tab-s3-pro-a-glimpse-into-the-future-of-tech-innovation-zdnet/"><u>Samsung Unveils Galaxy S23 and Tab S3 Pro: A Glimpse Into the Future of Tech Innovation | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-2-in-1-business-laptops-alternatives-to-dell-and-lenovo-thinkpads-insider-picks-by-zdnet/"><u>Top 2-in-1 Business Laptops: Alternatives to Dell and Lenovo ThinkPads - Insider Picks by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-prime-day-computer-bargains-the-ultimate-shopping-guide-for-october-2024-insights-from-zdnet/"><u>Top Prime Day Computer Bargains: The Ultimate Shopping Guide for October 2024 - Insights From ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-the-difference-do-retweets-and-re-tweets-mean-the-same-thing/"><u>Understanding the Difference: Do 'Retweets' And 'Re-Tweets' Mean the Same Thing?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Beyond ThinkPads and MacBooks: Discovering Exceptional Productivity Laptops for Power Users"
-date: 2024-12-29T22:27:40.088Z
-updated: 2025-01-06T09:08:04.388Z
+date: 2025-01-09T20:59:55.543Z
+updated: 2025-01-13T02:20:04.225Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,24 +134,22 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-is-taking-screenshots-of-youtube-videos-illegal/"><u>[New] 2024 Approved Is Taking Screenshots of YouTube Videos Illegal?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-expert-trackers-for-social-media-hashes-in-fb-tweet-and-ig-for-2024/"><u>[New] Expert Trackers for Social Media Hashes in FB, Tweet & IG for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-facebooks-forgotten-treasures-how-to-rescue-conversations-and-videos-for-2024/"><u>[Updated] Facebook's Forgotten Treasures How to Rescue Conversations and Videos for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-professional-streaming-best-devices-to-record-live-sessions/"><u>[Updated] In 2024, Professional Streaming Best Devices to Record Live Sessions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-functionality-in-windows-11-with-these-5-simple-steps/"><u>How to Restore Sound Functionality in Windows 11 with These 5 Simple Steps</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-comparative-income-freelance-vs-full-time-podcaster/"><u>In 2024, Comparative Income Freelance Vs. Full-Time Podcaster</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-oppo-find-x6-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Oppo Find X6</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innovative-student-project-showcase-tips-with-movavi/"><u>Innovative Student Project Showcase Tips with Movavi</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-pinnacle-studio-not-your-cup-of-tea-try-these-mac-alternatives/"><u>New Pinnacle Studio Not Your Cup of Tea? Try These Mac Alternatives</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-15-free-windows-11-customization-skins-boost-your-pcs-look/"><u>Top 15 FREE Windows 11 Customization Skins: Boost Your PC's Look</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-complete-steps-for-performing-a-full-hard-reset-on-your-android-device/"><u>Ultimate Guide: Complete Steps for Performing a Full Hard Reset on Your Android Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-play-mobile-music-through-a-windows-eos-10-system/"><u>Ultimate Guide: Play Mobile Music Through a Windows eOS 10 System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-lenovo-tab-excellence-assessment-dominating-the-tablet-world-like-a-titan/"><u>Ultimate Lenovo Tab Excellence Assessment: Dominating the Tablet World Like a Titan</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/understanding-f-droid-a-comprehensive-guide-highlighting-its-unique-features-compared-to-googles-play-store/"><u>Understanding F-Droid: A Comprehensive Guide Highlighting Its Unique Features Compared to Google's Play Store</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unfold-the-future-samsung-reveals-release-date-for-upcoming-foldable-devices-on-july-10th/"><u>Unfold the Future: Samsung Reveals Release Date for Upcoming Foldable Devices on July 10Th</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-advanced-settings-a-beginners-tutorial-for-turning-on-developer-features-and-usb-debug-in-android/"><u>Unlocking Advanced Settings: A Beginner's Tutorial for Turning On Developer Features and USB Debug in Android</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-ease-of-use-essential-strategies-for-handling-oversized-android-phones-solo/"><u>Unlocking Ease of Use: Essential Strategies for Handling Oversized Android Phones Solo</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-the-full-potential-of-your-phone-insights-into-android-gaming-mastery/"><u>Unlocking the Full Potential of Your Phone: Insights Into Android Gaming Mastery</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/why-the-concept-of-under-screen-fingerprints-doesnt-work-out/"><u>Why the Concept of Under-Screen Fingerprints Doesn't Work Out</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-essence-of-virtual-story-delivery/"><u>[New] Essence of Virtual Story Delivery</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-streamlining-the-process-vimeo-to-mp3-conversion/"><u>[New] Streamlining the Process Vimeo to MP3 Conversion</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-masterful-approaches-to-live-sports-video-capture/"><u>2024 Approved Masterful Approaches to Live Sports Video Capture</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/2024s-elite-list-of-windows-powerhouse-laptops-in-depth-analysis-and-professional-ratings/"><u>2024'S Elite List of Windows Powerhouse Laptops: In-Depth Analysis and Professional Ratings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/desktop-gateway-to-smart-living-navigating-the-google-home-app-on-personal-computers/"><u>Desktop Gateway to Smart Living: Navigating the Google Home App on Personal Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-lenovos-top-value-pick-the-2024-749-thinkbook-your-ideal-windows-companion/"><u>Discover Lenovo's Top Value Pick: The 2024 $749 ThinkBook, Your Ideal Windows Companion</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-value-and-performance-my-review-of-the-affordable-surface-pro-11-insights-from-a-microsoft-guru-techzine/"><u>Exploring Value & Performance: My Review of the Affordable Surface Pro 11 - Insights From a Microsoft Guru | TechZine</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-samsung-t5-ssd-before-october-at-up-to-49-off-expert-analysis-and-deals-for-tech-savvy-shoppers-zdnet/"><u>Get Your Hands on the Samsung T5 SSD Before October at Up to 49% Off | Expert Analysis & Deals for Tech Savvy Shoppers - ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hands-on-with-the-magicbook-14-a-compelling-blend-of-work-performance-and-gaming-graphics-at-an-attractive-price-point-bytesavvy/"><u>Hands On With the MagicBook 14: A Compelling Blend of Work Performance and Gaming Graphics at an Attractive Price Point | ByteSavvy</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-motorola-moto-e13-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Motorola Moto E13 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-vivo-v27-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Vivo V27 Pro Data? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-generative-ai-becoming-a-new-tool-for-disinformation/"><u>Is Generative AI Becoming a New Tool for Disinformation?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/limited-time-offer-score-the-premium-hp-victus-cuatro-de-juego-laptop-for-just-515-with-best-buys-exclusive-anti-prime-deal/"><u>Limited Time Offer: Score the Premium HP Victus Cuatro De Juego Laptop for Just $515 with Best Buy's Exclusive Anti-Prime Deal!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/wing-down-the-video-platform-wars-youtube-shorts-against-tiktok-for-2024/"><u>Narrowing Down the Video Platform Wars YouTube Shorts Against TikTok for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-updates-to-optimize-your-gpus-nvidia-drivers/"><u>Swift Updates to Optimize Your GPU's Nvidia Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-beginners-choice-of-linux-distributions-thoroughly-evaluated-and-ranked-with-expert-reviews-zdnet/"><u>Ultimate Beginner's Choice of Linux Distributions: Thoroughly Evaluated & Ranked with Expert Reviews | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnets-top-highlights-from-the-best-of-ces-2024-editor-choice-selections/"><u>ZDNet's Top Highlights From the Best of CES 2024 – Editor Choice Selections</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis: Intel CPU Failures Linked to More than Just High Voltage - Leaked Evidence Shows"
-date: 2024-08-19T05:59:48.173Z
-updated: 2024-08-20T05:59:48.173Z
+date: 2025-01-07T20:19:31.790Z
+updated: 2025-01-12T21:18:27.492Z
 tags:
   - cpu
 categories:
@@ -27,6 +27,10 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
  The Cixin P1 is a very unique processor. While it does not fulfill Beijing's goals of being a fully home-grown processor because it uses Arm CPU and GPU designs, the chip is specifically designed for the needs of the Chinese market and stands ready to enjoy some level of success. It also sadly does not meet[Microsoft](https://www.tomshardware.com/tag/microsoft) 's arbitrary "AI PC" requirements. The P1's NPU on its own is only 30 TOPS — shy of the 40 TOPS target — though it's likely that Cixin could not care less about Windows Copilot+ certification.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -37,14 +41,11 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
  Cixin is a very young company, first established in 2021, that has been growing thanks to investments from 15-20 public and private investment partners listed on its website. This freshness to the Chinese tech scene may limit widespread adoption early on, so we'll have to wait and see if Cixin manages to succeed in the huge, hungry tech market seeking[separation from U.S. interference](https://www.tomshardware.com/tech-industry/manufacturing/china-commerce-minister-frustrated-by-us-interfering-in-international-lithography-exports-via-third-countries) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -53,8 +54,24 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-the-ultimate-list-of-superior-real-time-streaming-networks/"><u>[New] In 2024, The Ultimate List of Superior Real-Time Streaming Networks</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-top-15-virtual-classrooms-for-aspiring-scientists/"><u>[Updated] 2024 Approved Top 15 Virtual Classrooms for Aspiring Scientists</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/inners-guide-to-making-attractive-video-thumbnails-for-social-media-platforms/"><u>A Beginner's Guide to Making Attractive Video Thumbnails for Social Media Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-comprehensive-guide-for-amd-ryzen-graphics-and-motherboard-drivers/"><u>Download and Update: Comprehensive Guide for AMD Ryzen Graphics & Motherboard Drivers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/efficiently-recording-your-xbox-adventures/"><u>Efficiently Recording Your Xbox Adventures</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-setup-zexmte-bluetooth-adapter-driver-suitable-for-win10-win7-and-win8-systems/"><u>Effortless Setup: Zexmte Bluetooth Adapter Driver Suitable for Win10, Win7 and Win8 Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/find-out-whats-behind-that-mask-a-guide-to-retrieving-your-email-address/"><u>Find Out What's Behind That Mask: A Guide to Retrieving Your Email Address</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-laserjet-p1006-drivers-for-your-printer-today/"><u>Get the Latest HP LaserJet P1006 Drivers for Your Printer Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-updated-insignia-ns-pcy5bma2-drivers-for-windows-platforms-win11107-free-download/"><u>Get Updated Insignia NS-PCY5BMA2 Drivers for Windows Platforms (Win11/10/7) Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-latest-dolby-digital-drivers-here-compatible-with-windows-111081/"><u>Get Your Latest Dolby Digital Drivers Here: Compatible with Windows 11/10/8.1</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-pc-with-new-usb-c-driver-software-for-windows-10/"><u>How To Update Your PC With New USB-C Driver Software for Windows 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-online-practices-for-vhs-image-polishing-for-2024/"><u>Ideal Online Practices for VHS Image Polishing for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-masterful-phone-apps-altering-speech-patterns/"><u>In 2024, Masterful Phone Apps Altering Speech Patterns</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/quick-fixes-restoring-your-pc-with-windows-11-without-a-disc-or-flash-drive/"><u>Quick Fixes: Restoring Your PC with Windows 11 Without a Disc or Flash Drive</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/take-control-of-your-gaming-experience-with-the-latest/"><u>Take Control of Your Gaming Experience with the Latest</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-tips-getting-the-right-driver-for-your-epson-xp-830-printer-downloaded/"><u>Troubleshooting Tips: Getting the Right Driver for Your Epson XP-830 Printer Downloaded</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-top-10-anime-movies-of-all-time/"><u>Updated In 2024, Top 10 Anime Movies of All Time</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->

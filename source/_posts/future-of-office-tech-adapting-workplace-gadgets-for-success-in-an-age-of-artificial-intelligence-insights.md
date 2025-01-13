@@ -1,7 +1,7 @@
 ---
 title: "Future of Office Tech: Adapting Workplace Gadgets for Success in an Age of Artificial Intelligence - Insights"
-date: 2024-12-30T06:09:26.460Z
-updated: 2025-01-06T00:59:02.399Z
+date: 2025-01-12T02:52:18.745Z
+updated: 2025-01-12T21:16:16.623Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,24 +134,22 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/irst-steps-in-youtube-profitability-starting-a-channel-and-revenue-streams/"><u>[New] First Steps in YouTube Profitability Starting a Channel & Revenue Streams</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-capturereview-station/"><u>[Updated] 2024 Approved CaptureReview Station</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-explore-8-leading-youtube-growth-strategies-for-2024/"><u>[Updated] Explore 8 Leading Youtube Growth Strategies for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-control-center-creator-studio-essentials/"><u>[Updated] In 2024, Channel Control Center Creator Studio Essentials</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-slapstick-suggestions-a-guide-to-hilarious-short-form-videography/"><u>[Updated] Slapstick Suggestions A Guide to Hilarious Short-Form Videography</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-groundbreision-of-top-8-free-video-call-software-for-companies/"><u>2024 Approved Groundbreision of Top 8 Free Video Call Software for Companies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovating-sound-quality-top-6-recommendations-for-streamers/"><u>2024 Approved Innovating Sound Quality Top 6 Recommendations for Streamers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/as-android-leader-google-emerges-as-top-producer-of-bulky-pre-installed-apps/"><u>As Android Leader, Google Emerges as Top Producer of Bulky Pre-Installed Apps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/assessing-your-samsung-smartphones-battery-condition-and-next-steps/"><u>Assessing Your Samsung Smartphone's Battery Condition & Next Steps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-defensive-covers-for-your-samsung-galaxy-s24-smartphone-in-202n4/"><u>Best Defensive Covers for Your Samsung Galaxy S24 Smartphone in 202N4</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/budget-friendly-tech-unveiling-the-impressive-features-of-the-new-google-pixel-7a/"><u>Budget-Friendly Tech: Unveiling the Impressive Features of the New Google Pixel 7A</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/controlling-sound-levels-a-step-by-step-guide-to-managing-app-audio-settings-on-your-samsung-device/"><u>Controlling Sound Levels: A Step-by-Step Guide to Managing App Audio Settings on Your Samsung Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-how-to-access-your-devices-android-build-information/"><u>Discover How to Access Your Device's Android Build Information</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-tutorial-setting-up-and-using-voicemail-on-your-android-smartphone/"><u>Easy Tutorial: Setting Up and Using Voicemail on Your Android Smartphone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-your-mobile-experience-samsungs-elite-tablets-are-equipped-with-new-android-13-update/"><u>Enhance Your Mobile Experience - Samsung’s Elite Tablets Are Equipped With New Android 13 Update</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-ahead-of-its-time-with-the-google-pixel-8-blurring-lines-between-imagination-and-innovation/"><u>Experience Ahead of Its Time with the Google Pixel 8: Blurring Lines Between Imagination and Innovation</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-maximizing-video-success-on-youtube-long-term-creativity-commons-strategy/"><u>In 2024, Maximizing Video Success on YouTube Long-Term Creativity Commons Strategy</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/making-avatar-creation-a-breeze-in-the-digital-realm/"><u>Making Avatar Creation a Breeze in the Digital Realm</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/navigating-social-media-landscape-facebook-daily-use-for-2024/"><u>Navigating Social Media Landscape Facebook Daily Use for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-female-gamers-faction-yts-10-stars/"><u>[New] In 2024, Female Gamers Faction YT's #10 Stars</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-securely-connect-a-step-by-step-guide-to-discord-calls/"><u>[Updated] 2024 Approved Securely Connect A Step-by-Step Guide to Discord Calls</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1-upgrade-your-tech-game-with-the-affordable-499-lenovo-chromebook-plus-a-smart-investment-over-expensive-laptops-insights-from-zdnet/"><u>1. Upgrade Your Tech Game with the Affordable $499 Lenovo Chromebook Plus: A Smart Investment Over Expensive Laptops - Insights From ZDNet</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-instagram-elite-discover-the-leading-25-influential-souls/"><u>2024 Approved The Instagram Elite Discover the Leading 25 Influential Souls</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-unleashed-the-stylish-and-potent-laptop-that-delights-creatives-according-to-zdnet-reviews/"><u>Asus Unleashed: The Stylish and Potent Laptop that Delights Creatives, According to ZDNet Reviews</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-7-incredible-cost-free-educational-apps-to-boost-your-childs-back-to-school-success/"><u>Discover 7 Incredible, Cost-Free Educational Apps to Boost Your Child’s Back-to-School Success</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-ultimate-budget-college-laptop-that-outshines-macbooks-and-thinkpads-for-students-now-with-a-sweet-200-off-deal-zdnet-reviews/"><u>Discover the Ultimate Budget College Laptop That Outshines MacBooks and ThinkPads for Students - Now With a Sweet 200 Off Deal! | ZDNET Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experiencing-the-extraordinary-how-a-3k-dell-gaming-rig-turned-expectations-upside-down-zdnet/"><u>Experiencing the Extraordinary: How a $3K Dell Gaming Rig Turned Expectations Upside Down | ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-with-imei-code-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Plus with IMEI Code?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-itel-s23plus-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Itel S23+ to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-asus-rog-phone-8-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Asus ROG Phone 8 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-vivavideo-app-review/"><u>In 2024, VivaVideo App Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-t5-8tb-external-ssd-steals-the-spotlight-with-36-discount-post-prime-day-on-amazon-tech-insights/"><u>Samsung T5 8TB External SSD Steals the Spotlight with 36% Discount Post-Prime Day on Amazon - Tech Insights</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/speeding-up-your-pc-made-easy-a-step-by-step-guide-by-yl-software-experts/"><u>Speeding Up Your PC Made Easy: A Step-by-Step Guide by YL Software Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tearful-triumph-experiencing-the-power-of-the-latest-m2-macbook-air-reviews/"><u>Tearful Triumph: Experiencing the Power of the Latest M2 MacBook Air Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-performing-productivity-laptops-beyond-lenovo-and-macbooks-revealed-by-zdnet/"><u>Top-Performing Productivity Laptops: Beyond Lenovo and MacBooks Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnet-unveils-why-dell-inspiron-stands-out-as-a-premier-all-rounder-laptop-for-your-needs/"><u>ZDNet Unveils Why Dell Inspiron Stands Out as a Premier All-Rounder Laptop for Your Needs</u></a></li>
 </ul></div>
 

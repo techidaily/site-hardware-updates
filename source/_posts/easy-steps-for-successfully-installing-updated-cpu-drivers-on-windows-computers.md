@@ -1,7 +1,7 @@
 ---
 title: Easy Steps for Successfully Installing Updated CPU Drivers on Windows Computers
-date: 2024-08-23T13:37:26.850Z
-updated: 2024-08-24T13:37:26.850Z
+date: 2025-01-06T16:01:37.341Z
+updated: 2025-01-12T18:03:55.124Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ OR
 
 **[Option 2 – Automatically (recommended):](https://www.drivereasy.com/knowledge/canon-pixma-pro-100-driver-download-and-update-in-windows-10-7-and-8-1/#option2)**  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1 – Download and install the driver manually
 
  As a printer manufacturer, Canon provides printer drivers for their products on the website. To get the Canon PIXMA Pro 100 driver:
@@ -36,6 +40,10 @@ OR
  1) Go to the **[Canon Support center](https://www.usa.canon.com/internet/portal/us/home)**  , and click**Support** \>**Drivers & Downloads** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-108.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Type your printer model in the search box and click**Go** . In my case I type PIXMA PRO 100, and click**Go** .
 
@@ -49,7 +57,15 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-111-1024x299.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) After downloading, double click the downloaded file to run and follow the on-screen instructions to install the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the driver
 
@@ -69,6 +85,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-113.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Note: you can do it for free if you like, but it’s partly manual.
 
  If you have any problems while using Driver Easy, feel free to contact our support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) . Be sure to attach the URL of this article if you need further assistance.
@@ -85,8 +105,6 @@ Note: you can do it for free if you like, but it’s partly manual.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,8 +112,21 @@ Note: you can do it for free if you like, but it’s partly manual.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ltering-who-can-access-your-youtube-videos/"><u>[New] Altering Who Can Access Your YouTube Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-mac-users-guide-to-snapchat-integration-for-2024/"><u>[New] Mac Users' Guide to Snapchat Integration for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-speedy-steps-to-save-slideshows-for-2024/"><u>[Updated] Speedy Steps to Save Slideshows for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-android-and-ios-top-asmr-audio-picks/"><u>2024 Approved Android and iOS Top ASMR Audio Picks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-enhanced-nvidia-gtx-1650-super-drivers-optimized-for-the-latest-windows-versions/"><u>Download Enhanced NVIDIA® GTX 1650 Super Drivers – Optimized for the Latest Windows Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-hp-driver-downloads-and-setup-guides/"><u>Effortless Installation: HP Driver Downloads and Setup Guides</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enhance-your-hd-footage-with-these-5-premier-mp4-convertors-to-avchd/"><u>Enhance Your HD Footage with These 5 Premier MP4 Convertors to AVCHD!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/evaluating-ffmpegs-retention-of-sound-formats/"><u>Evaluating FFmpeg's Retention of Sound Formats</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974608054-get-your-arduino-mega-2560-up-and-running-fast-download-of-the-latest-microcontroller-drivers/"><u>Get Your Arduino Mega 2560 Up and Running: Fast Download of the Latest Microcontroller Drivers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-therapeutic-effects-of-asmr-for-everyone-for-2024/"><u>The Therapeutic Effects of ASMR for Everyone for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/trustworthy-and-free-sades-headset-driver-download-for-enhanced-windows-experience/"><u>Trustworthy and Free Sades Headset Driver Download for Enhanced Windows Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-the-newest-dolby-acoustic-drivers-for-windows-operating-systems-11-10-81/"><u>Update to the Newest Dolby Acoustic Drivers for Windows Operating Systems: 11 / 10 / 8.1</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->

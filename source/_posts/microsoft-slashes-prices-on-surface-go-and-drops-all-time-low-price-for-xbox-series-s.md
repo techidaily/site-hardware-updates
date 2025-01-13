@@ -1,7 +1,7 @@
 ---
 title: Microsoft Slashes Prices on Surface Go and Drops All-Time Low Price for Xbox Series S
-date: 2024-12-31T10:13:24.080Z
-updated: 2025-01-05T16:26:36.108Z
+date: 2025-01-11T02:45:49.892Z
+updated: 2025-01-13T00:38:42.896Z
 tags:
   - laptops
 categories:
@@ -27,7 +27,7 @@ Microsoft is known for its innovative products in gaming, computers, and more. A
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Save hundreds on Surface tablets and laptops**
@@ -43,7 +43,7 @@ Under the tablet's hood, you'll find a blazing-fast processor (12th Gen Intel Co
 Meanwhile, if you're preference is for laptops, then Microsoft has other deals for you. You can save $200 on the Surface Laptop 5, up to $646 on the Surface Laptop 4, and $150 on the Surface Laptop Go 2\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Get the Xbox Series S at its lowest price ever**
@@ -59,7 +59,7 @@ This is a digital console, meaning you'll have ample room to download games on i
 Overall, the Xbox Series S is an excellent gaming system for those looking for jaw-dropping graphics, access to a diverse gaming library, and fast performance. In addition, Microsoft lowered its price to $239.99, making it the best time to buy one. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Want to save even more on Microsoft devices?**
@@ -110,24 +110,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-metacosm-musings-the-best-quotations-for-virtual-inhabitants/"><u>[Updated] 2024 Approved Metacosm Musings The Best Quotations for Virtual Inhabitants</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-framefantasy-detailed-analysis-and-users-manual-2024/"><u>[Updated] FrameFantasy Detailed Analysis & User's Manual 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-unmatched-fast-picture-viewer-experience/"><u>[Updated] In 2024, Unmatched Fast Picture Viewer Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-strategies-for-enabling-uninstalled-features-in-win10win11/"><u>7 Strategies for Enabling Uninstalled Features in Win10/Win11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722961604346-effortless-installation-keeping-your-scansnap-up-to-date-on-pc/"><u>Effortless Installation: Keeping Your ScanSnap Up-to-Date on PC!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-steps-finding-and-applying-new-synaptics-drivers-on-windows-systems/"><u>Effortless Steps: Finding and Applying New Synaptics Drivers on Windows Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-vocabulary-unveiled-mastering-29-key-terms-in-artificial-intelligence/"><u>Essential Vocabulary Unveiled: Mastering 29 Key Terms in Artificial Intelligence</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/geforce-rtx-3060-ti-windows-drivers-download-guide-windows-10-and-11/"><u>GeForce RTX 3060 Ti Windows Drivers: Download Guide [Windows 10 & 11]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-officejet-pro-8600-windows-compatible-printing-software/"><u>Get the Latest HP Officejet Pro 8600 Windows-Compatible Printing Software</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/guia-sin-complicaciones-para-clonar-el-sistema-gpt-a-un-disco-ssd-con-interfaz-de-tabla-maestra/"><u>Guía Sin Complicaciones Para Clonar El Sistema GPT a Un Disco SSD Con Interfaz De Tabla Maestra</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/improve-display-quality-with-the-new-driver-update-for-usb-and-hdmi-devices/"><u>Improve Display Quality with the New Driver Update for USB & HDMI Devices</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-motorola-moto-g14-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Motorola Moto G14 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-things-you-need-to-know-about-music-for-instagram/"><u>In 2024, Things You Need to Know About Music for Instagram</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-hardware-with-toms-guides-top-gadgets-and-tips/"><u>Mastering Hardware with Tom's Guides - Top Gadgets and Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-downloads-and-upgrades-of-your-hid-keyboards-drivers/"><u>Seamless Downloads & Upgrades of Your HID Keyboard's Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-upgrade-how-to-get-the-newest-nvidia-drivers-for-your-geforce-rtx-1080-on-windows-10/"><u>Seamless Upgrade: How to Get the Newest NVIDIA Drivers for Your GeForce RTX 1080 on Windows 10</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-media-shunned-the-triple-list-of-no-facebook-nations/"><u>Social Media Shunned: The Triple List of No-Facebook Nations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/streamlined-process-secure-your-microsoft-wireless-mouse-5000-driver-download-now/"><u>Streamlined Process: Secure Your Microsoft Wireless Mouse 5000 Driver Download Now</u></a></li>
-<li><a href="https://win-dash.techidaily.com/windows-users-ultimate-guide-mastering-houseparty-with-easy-steps/"><u>Windows Users' Ultimate Guide: Mastering Houseparty with Easy Steps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-simple-tips-for-capturing-google-voice-conversations/"><u>[New] Simple Tips for Capturing Google Voice Conversations</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-masterful-text-effects-in-adobe-after-effects-for-2024/"><u>[Updated] Masterful Text Effects in Adobe After Effects for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-prime-day-shopping-discounts-for-gamers-in-octo/"><u>Best Prime Day Shopping Discounts for Gamers in Octo</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/beyond-aesthetics-how-this-modest-looking-asus-laptop-surprises-with-exceptional-creator-features-insights-from-zdnet/"><u>Beyond Aesthetics: How This Modest-Looking Asus Laptop Surprises with Exceptional Creator Features | Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exceptionally-adaptable-laptop-with-stunning-display-a-comprehensive-review-on-zdnet/"><u>Exceptionally Adaptable Laptop with Stunning Display: A Comprehensive Review on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-promo-alert-cut-costs-by-30-on-ankers-high-capacity-737-portable-charger-shop-smart-with-zdnet/"><u>Exclusive Promo Alert: Cut Costs by $30 on Anker's High-Capacity 737 Portable Charger - Shop Smart with ZDNet!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-unbeatable-value-get-your-hands-on-the-high-quality-asus-15-inch-laptop-for-only-250-at-walmart/"><u>Experience Unbeatable Value: Get Your Hands on the High-Quality Asus 15-Inch Laptop for Only $250 at Walmart!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-inspirational-quotations-for-the-metaverse-era/"><u>In 2024, Inspirational Quotations for the Metaverse Era</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-through-apples-portables-expert-advice-compared-between-macbook-pro-and-macbook-air-by-zdnet/"><u>Navigating Through Apple's Portables: Expert Advice Compared Between MacBook Pro and MacBook Air by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/power-users-delight-unveiling-the-two-must-have-traits-of-this-incredible-lenovo-laptop-insights-from-zdnet/"><u>Power User's Delight: Unveiling the Two Must-Have Traits of This Incredible Lenovo Laptop - Insights From ZDNet</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-oppo-a58-4g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Oppo A58 4G</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-infinix-hot-40-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Infinix Hot 40 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

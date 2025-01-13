@@ -1,7 +1,7 @@
 ---
 title: "Asus' Discreet Marvel: A Design That Hides Stellar Creative Capabilities Revealed by ZDNet"
-date: 2025-01-04T10:54:27.275Z
-updated: 2025-01-05T23:46:20.563Z
+date: 2025-01-10T19:23:19.594Z
+updated: 2025-01-12T18:33:00.474Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,20 +112,15 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-capture-studio-ultimate-professional-record/"><u>[Updated] 2024 Approved Capture Studio Ultimate Professional Record</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-11-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 11 activation lock with a professional tool</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cutting-out-the-webp-savings-in-google-chrome-for-windows/"><u>Cutting Out the WebP Savings in Google Chrome for Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-driver-upgrade-tips-for-the-asus-maximus-x-hero-system/"><u>Effortless Driver Upgrade Tips for the ASUS Maximus X Hero System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/epson-gt-s50-printer-software-for-windows-users-version-compatible-with-windows-7-8-and-10/"><u>Epson GT-S50 Printer Software for Windows Users: Version Compatible with Windows 7, 8 & 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-brother-hl-l2300d-printer-drivers-installed-now/"><u>Get Your Brother HL-L2300D Printer Drivers Installed Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-obtain-the-brother-hl-l2380dw-print-driver-software-for-seamless-windows-compatibility/"><u>How to Obtain the Brother HL-L2380DW Print Driver Software for Seamless Windows Compatibility</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-no-license-plenty-of-melodies-top-10-online-websites/"><u>In 2024, No License, Plenty of Melodies - Top 10 Online Websites</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-through-cutting-edge-technology-at-toms-computer-hub/"><u>Navigating Through Cutting-Edge Technology at Tom's Computer Hub</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/oneplus-10-preview-estimated-unveiling-dates-cost-analysis-innovative-features-and-industry-rumors-explained/"><u>OnePlus 10 Preview: Estimated Unveiling Dates, Cost Analysis, Innovative Features & Industry Rumors Explained</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/pc-video-editing-made-easy-a-review-of-vn-editor/"><u>PC Video Editing Made Easy A Review of VN Editor</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-install-of-corsair-void-pro-drives-on-windows-systems-your-step-by-step-guide/"><u>Quick and Easy Install of Corsair Void Pro Drives on Windows Systems – Your Step-by-Step Guide!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-update-your-pc-with-new-toshiba-copier-drivers-on-a-windows-platform/"><u>Step-by-Step: Update Your PC with New Toshiba Copier Drivers on a Windows Platform</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-motorola-by-fonelab-android-recover-music/"><u>Undelete lost music from Motorola</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/youtube-monetization-carryminati-ajey-nagar-youtube-income-2023/"><u>YouTube Monetization CarryMinati (Ajey Nagar) YouTube Income 2023</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-video-streamers-essentials-ultimate-hd-camera-guide/"><u>[New] 2024 Approved Video Streamers' Essentials – Ultimate HD Camera Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-community-resource-playing-games-without-limits-for-2024/"><u>[New] Community Resource Playing Games without Limits for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-srt-to-sub-streamlining-your-video-captions/"><u>[New] SRT to SUB Streamlining Your Video Captions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazons-8tb-samsung-t5-ssd-remains-discounted-by-36-post-october-prime-deals-insights-for-tech-enthusiasts-on-zdnet/"><u>Amazon's 8TB Samsung T5 SSD Remains Discounted by 36% Post-October Prime Deals - Insights for Tech Enthusiasts on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-how-to-upgrade-your-tech-game-with-our-new-ar-laptop-100-inch-display-no-additional-monitor-required-learn-more-on-zdnet/"><u>Discover How to Upgrade Your Tech Game with Our New AR Laptop: 100-Inch Display, No Additional Monitor Required - Learn More on ZDNET</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Tecno Spark 10 4G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-16-unbeatable-christmas-promotions-on-hp-laptops-and-desktops-exclusive-offers/"><u>Top 16 Unbeatable Christmas Promotions on HP Laptops & Desktops: Exclusive Offers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleashing-creative-potential-discover-the-hidden-powerhouse-in-this-understated-asus-laptop-exclusive-zdnet-review/"><u>Unleashing Creative Potential: Discover the Hidden Powerhouse in This Understated Asus Laptop - Exclusive ZDNet Review</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-mac-video-creator-effortless-video-production-for-beginners-and-pros/"><u>Updated In 2024, Mac Video Creator Effortless Video Production for Beginners and Pros</u></a></li>
 </ul></div>
 

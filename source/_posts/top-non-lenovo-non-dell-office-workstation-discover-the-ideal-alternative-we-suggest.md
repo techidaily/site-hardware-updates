@@ -1,7 +1,7 @@
 ---
 title: "Top Non-Lenovo, Non-Dell Office Workstation: Discover The Ideal Alternative We Suggest!"
-date: 2025-01-02T12:27:36.425Z
-updated: 2025-01-05T21:02:28.611Z
+date: 2025-01-10T17:47:45.121Z
+updated: 2025-01-12T21:32:04.546Z
 tags:
   - laptops
 categories:
@@ -39,10 +39,6 @@ Razer/ZDNET
 * [Gigabyte Aero 16 AMOLED 4K](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16834233528R): $1400 (save $2600 at Neweeg, **open box**)
 * [Gigabyte Aorus 17 XE4](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16834725189R): $1200 (save $1250, **open box**)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best holiday gaming laptop deals at Amazon
 
 ASUS/ZDNET
@@ -52,7 +48,7 @@ ASUS/ZDNET
 * [Asus ROG Strix Scar 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-GeForce-Keyboard-G533ZW-AS94Q%2Fdp%2FB0BDTVSXS9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0cd0bcf2-28d2-4d8e-9797-ef0cf5b06a34%7Cdtp&dtb=1): $1450 (save $600)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best holiday gaming laptop deals at Best Buy
@@ -71,6 +67,10 @@ MSI/ZDNET
 * [HP Omen 16](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-omen-16-165hz-full-hd-gaming-laptop-amd-ryzen-9-7940hs-16gb-memory-nvidia-geforce-rtx-4070-512gb-ssd-shadow-black%2F6536973.p%3FskuId%3D6536973&publisher_slug=itechdaily19598&exclusive=1): $1250 (save $600)
 * [Asus ROG Flow X13](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-rog-flow-x13-13-4-touchscreen-gaming-laptop-1920-x-1200-fhd-amd-ryzen-9-with-16gb-memory-512gb-ssd-off-black%2F6535502.p%3FskuId%3D6535502&publisher_slug=itechdaily19598&exclusive=1): $800 (save $450)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday gaming laptop deals at B&H Photo
 
 Lenovo/ZDNET
@@ -82,6 +82,10 @@ Lenovo/ZDNET
 * [Xenia XPG 15](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1766432-REG%2Fxpg%5F15260180%5F15%5F6%5Fxenia%5F15g%5Fgaming.html): $1200 (save $500)
 * [HP Omen 17](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1792500-REG%2Fhp%5F8r7u2ua%5Faba%5F17%5F3%5Fomen%5F17%5Fck2059nr%5Flaptop.html): $2499 (save $720)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday laptop deals at Walmart
 
 * [XPG Xenia 15G](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FXPG-Xenia-15G-15-6-FHD-Gaming-Laptop-Intel-Core-i7-13700H-16-GB-DDR5-NVIDIA-GeForce-RTX-4060-1-TB-SSD-Windows-11-Home-Black-75260049%2F2130763084%3Fathbdg%3DL1700&subId1=zd-__COM_CLICK_ID__-dtp): $1149 (save $551)
@@ -91,7 +95,7 @@ Lenovo/ZDNET
 * [XPG Xenia 15G](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FXPG-Xenia-15G-15-6-FHD-Gaming-Laptop-Intel-Core-i7-13700H-16-GB-DDR5-NVIDIA-GeForce-RTX-4060-1-TB-SSD-Windows-11-Home-Black-75260049%2F2130763084%3Fathbdg%3DL1700&subId1=zd-__COM_CLICK_ID__-dtp): $1149 (save $551)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best holiday gaming laptop deals at Newegg
@@ -121,20 +125,12 @@ Lenovo/ZDNET
 * [Razer Barracuda X wireless](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FRazer-Barracuda-X-Wireless-Stereo-Gaming-and-Mobile-Headset-for-PC-PS5-Nintendo-Switch-Android-2-4Ghz-Black%2F513768484%3Fathbdg%3DL1300&subId1=zd-__COM_CLICK_ID__-dtp): $69 (save $30 at Walmart)
 * [Corsair HS55 Surround wired](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FCORSAIR-HS55-Stereo-Gaming-Headset-Carbon-Multi-Platform-Compatible-Most-Devices-Including-PC-Mac-PS5-PS4-Xbox-Series-X-Nintendo-Switch-Mobile-Device%2F974565238&subId1=zd-__COM_CLICK_ID__-dtp): $39 (save $20 at Walmart)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best holiday gaming monitor deals
 
 * [Samsung Odyssey G85SB 34-inch curved OLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-DisplayHDR-FreeSync-Streaming-LS34BG850SNXZA%2Fdp%2FB0BLF2RWNV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0cd0bcf2-28d2-4d8e-9797-ef0cf5b06a34%7Cdtp&dtb=1): $900 (save $600 at Amazon)
 * [Samsung Odyssey Neo G9 49-inch curved gaming monitor](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-odyssey-49-1000r-curved-dual-qhd-freesync-g-sync-gaming-monitor-black%2F6468857.p%3FskuId%3D6468857&publisher_slug=itechdaily19598&exclusive=1): $1300 (save $900 at Best Buy)
 * [ViewSonic Elite XG 32-inch 4K LED](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fviewsonic-elite-xg320u-32-ips-led-4k-uhd-freesync-gaming-monitor-displayport-hdmi-usb-black%2F6487590.p%3FskuId%3D6487590&publisher_slug=itechdaily19598&exclusive=1): $600 (save $300 at Best Buy)
 * [LG 34-inch curved 1440p](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLG-34-144-Hz-OC-180-Hz-Nano-IPS-UWQHD-Gaming-Monitor-NVIDIA-G-SYNC-ULTIMATE-3440-x-1440-2K-DCI-P3-98-CIE1976-HDMI-DisplayPort-USB-UltraGear-34GP950G%2F388961716&subId1=zd-__COM_CLICK_ID__-dtp): $699 (save $598 at Walmart)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best holiday digital PC game deals
 
@@ -150,6 +146,10 @@ Lenovo/ZDNET
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best gaming laptop?
 
@@ -228,21 +228,22 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-a-comprehensible-list-of-mac-snippers-ranked/"><u>[New] 2024 Approved A Comprehensible List of Mac Snippers Ranked</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-cutting-edge-editing-meets-online-video-sharing-for-2024/"><u>[New] Cutting-Edge Editing Meets Online Video Sharing for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mastering-mobile-audio-iphone-voice-memos-made-easy/"><u>[Updated] 2024 Approved Mastering Mobile Audio IPhone Voice Memos Made Easy</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-skype-call-capture-guide-pcmac-edition/"><u>[Updated] In 2024, Skype Call Capture Guide PC/Mac Edition</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-launch-your-youtube-presence-step-by-step-guide/"><u>[Updated] Launch Your YouTube Presence Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-data.techidaily.com/comprehensive-tutorial-effortless-pdf-annotation-techniques-for-desktops-and-smartphones/"><u>Comprehensive Tutorial: Effortless PDF Annotation Techniques for Desktops & Smartphones</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-upgrade-epson-wf-7720-driver-on-your-windows-device/"><u>Easy Steps to Upgrade Epson WF-7720 Driver on Your Windows Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/gtx-1650-super-graphics-card-driver-downloads-and-updates-for-windows-11/"><u>GTX 1650 Super Graphics Card Driver Downloads & Updates for Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-deactivate-audio-boosting-functions-for-windows-11-systems/"><u>How to Deactivate Audio Boosting Functions for Windows 11 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-logitech-g602-mouse-software-on-your-windows-computer/"><u>How to Get the Latest Logitech G602 Mouse Software on Your Windows Computer</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-ultimate-guide-nine-exceptional-ai-voice-creators-poised-to-elevate-your-daily-life/"><u>In 2024, The Ultimate Guide Nine Exceptional AI Voice Creators Poised to Elevate Your Daily Life</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-current-graphics-drivers-for-your-nvidia-card-gtx-1-series-on-windows-1011-easy-tutorial-and-downloads/"><u>Install Current Graphics Drivers for Your NVIDIA® Card (GTX 1 Series) on Windows 10/11: Easy Tutorial and Downloads</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-tutorial-for-creating-mute-avi-video-files-edition/"><u>New Tutorial for Creating Mute AVI Video Files Edition</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-download-hid-keyboard-driver-support-update-with-ease-today/"><u>Quick-Download HID Keyboard Driver Support - Update with Ease Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-fix-hid-keyboard-installation-and-driver-updates-made-simple/"><u>Quick-Fix HID Keyboard Installation & Driver Updates Made Simple</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722976117358-successful-guide-installing-the-epson-xp-830-printer-driver-no-more-hassles/"><u>Successful Guide: Installing the Epson XP-830 Printer Driver - No More Hassles</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-secret-sauce-to-instagram-success-with-engaging-puzzles/"><u>[Updated] In 2024, The Secret Sauce to Instagram Success with Engaging Puzzles</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-understanding-telegram-advertising-for-new-marketing-entrants-for-2024/"><u>[Updated] Understanding Telegram Advertising For New Marketing Entrants for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-visionalign-studio/"><u>[Updated] VisionAlign Studio</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-ultimate-guide-to-single-platform-gaming-in-apex-legends/"><u>2024 Approved The Ultimate Guide to Single-Platform Gaming in Apex Legends</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/currently-unbeatable-metas-revolutionary-512gb-quest-procurement-top-virtual-reality-offer-on-zdnet/"><u>Currently Unbeatable: Meta's Revolutionary 512GB Quest Procurement - Top Virtual Reality Offer on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expand-your-workspace-how-to-use-a-unique-laptop-holder-designed-for-phones-as-secondary-displays-insights-from-zdnet-tech-analysis/"><u>Expand Your Workspace: How to Use a Unique Laptop Holder Designed for Phones as Secondary Displays | Insights From ZDNET Tech Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/futureproof-your-streams-with-the-leading-mic-selection-for-202-cufflinks-year-a-comprehensive-review-by-zdnet/"><u>Futureproof Your Streams with the Leading Mic Selection for 202 Cufflinks Year: A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-apple-iphone-13-pro-max-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On Apple iPhone 13 Pro Max in the Best Ways</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-the-art-of-picking-a-college-laptop-4-crucial-criteria-and-our-picks-top-10-expert-advice-by-zdnet/"><u>Master the Art of Picking a College Laptop: 4 Crucial Criteria and Our Picks (Top 10) | Expert Advice by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-workspace-with-this-11-port-usb-hub-now-44-discounted-insights/"><u>Maximize Your Workspace with This 11-Port USB Hub, Now 44% Discounted! - Insights</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-asus-wifi-routers-in-2/"><u>Top-Rated ASUS WiFi Routers in 2</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/trouble-with-your-skype-try-our-10-strategies-for-seamless-connectivity/"><u>Trouble with Your Skype? Try Our 10 Strategies for Seamless Connectivity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-apple-releases-enhanced-13-and-15-macbook-air-powered-by-m3-chip-key-updates-explored-techzone/"><u>Unveiling the Latest: Apple Releases Enhanced 13 & 15 MacBook Air Powered by M3 Chip - Key Updates Explored | TechZone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Honor Play 7T? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/will-msis-steam-deck-outplay-established-handheld-gaming-leaders-like-playstation-vita-and-switch-insights-from-industry-experts-zdnet/"><u>Will MSI's Steam Deck Outplay Established Handheld Gaming Leaders Like PlayStation Vita & Switch? Insights From Industry Experts | ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/windows-7-stereo-driver-update-packs-available-now-secure-free-download/"><u>Windows 7 Stereo Driver Update Packs Available Now - Secure Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnet-unveils-superior-productivity-laptop-for-primes-exclusive-300-discount-not-thinkpad-or-macbook/"><u>ZDNet Unveils Superior Productivity Laptop for Primes - Exclusive $300 Discount! (Not ThinkPad or MacBook)</u></a></li>
 </ul></div>
 

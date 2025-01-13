@@ -1,7 +1,7 @@
 ---
 title: Innovative Laptop Holder Enables Mobile Phones to Act as Extra Monitors, Says ZDNet Review
-date: 2025-01-04T10:41:20.377Z
-updated: 2025-01-06T04:47:48.192Z
+date: 2025-01-06T03:00:17.515Z
+updated: 2025-01-13T02:24:21.905Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ Here are some of the most interesting features I saw during my hands-on briefing
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Smart Share
@@ -61,7 +61,7 @@ Kyle Kucharski/ZDNET
 Besides the Smart Share features, there are four different "modes" that activate various features. You can toggle each feature on or off individually, to avoid being bombarded with different prompts. Here are the most impactful ones I saw during my time trying the new laptops.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shield Mode
@@ -70,7 +70,7 @@ Besides the Smart Share features, there are four different "modes" that activate
 * The VPN auto-launch feature will start your preferred VPN automatically upon connecting to any public Wi-Fi network, a handy function if you spend a lot of time working in coffee shops.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Attention Mode
@@ -80,7 +80,7 @@ Besides the Smart Share features, there are four different "modes" that activate
 Kyle Kucharski/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Collaboration Mode
@@ -88,7 +88,7 @@ Kyle Kucharski/ZDNET
 * Designed mostly for virtual meetings, activating this mode enables your preset camera features, such as background blur, low light enhancer, or touch ups.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Wellness Mode
@@ -133,20 +133,21 @@ We'll definitely be doing some additional testing of the smart modes when we get
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-excellent-windows-compatible-video-recorders/"><u>[Updated] In 2024, Excellent Windows-Compatible Video Recorders</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-spark-sponsorships-a-guide-to-easy-fundraising-for-budget-channels/"><u>[Updated] Spark Sponsorships A Guide to Easy Fundraising for Budget Channels</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/2023s-elite-selection-exploring-premium-choices-for-your-samsung-galaxy-z-flip-4-phone-case/"><u>2023'S Elite Selection: Exploring Premium Choices for Your Samsung Galaxy Z Flip 4 Phone Case</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-melding-audio-with-visuals-digitally/"><u>2024 Approved Melding Audio With Visuals Digitally</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/access-top-10-trending-apps-with-google-play-store-on-your-firestick-or-fire-tablet/"><u>Access Top 10 Trending Apps with Google Play Store on Your Firestick or Fire Tablet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/advancements-in-android-enhanced-experience-with-google-docs-on-tablets-and-foldable-devices/"><u>Advancements in Android: Enhanced Experience with Google Docs on Tablets and Foldable Devices</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-iphone-15-plus-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons From iPhone 15 Plus? Find the Best Solution Here</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-insights-ranking-the-best-21-hdmi-monitor-models/"><u>In 2024, Expert Insights Ranking the Best 2.1 HDMI Monitor Models</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-f54-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy F54 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-the-power-of-quantum-hdr-for-2024/"><u>In-Depth Analysis The Power of Quantum HDR for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-to-update-windows-spotlight-imagery/"><u>Step-by-Step to Update Windows Spotlight Imagery</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/three-proven-techniques-for-initiating-recovery-mode-on-windows-server-2016/"><u>Three Proven Techniques for Initiating Recovery Mode on Windows Server 2016</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/understanding-the-unique-paths-of-tech-giants-google-vs-apple/"><u>Understanding the Unique Paths of Tech Giants: Google Vs. Apple</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-battery-insight-a-comprehensive-tutorial-for-showcasing-battery-on-android/"><u>Unlocking Battery Insight: A Comprehensive Tutorial for Showcasing Battery % on Android</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-multitasking-potential-with-youtubes-pip-functionality-on-android-phones-and-tablets/"><u>Unlocking Multitasking Potential with YouTube's PiP Functionality on Android Phones and Tablets</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-visual-virtuosos-guide-choosing-the-best-6-4k-cameras/"><u>[New] In 2024, Visual Virtuosos Guide Choosing the Best 6 4K Cameras</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-razer-kiyo-webcam-detailed-review-for-2024/"><u>[New] Razer Kiyo Webcam - Detailed Review for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-enhancing-visual-storytelling-with-windows-11s-video-capabilities/"><u>[Updated] Enhancing Visual Storytelling with Windows 11'S Video Capabilities</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-start-your-affordable-webinar-journey-with-youtube/"><u>[Updated] Start Your Affordable Webinar Journey with YouTube</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-searching-for-free-sports-streaming-sites-look-no-further/"><u>2024 Approved Searching for Free Sports Streaming Sites? Look No Further</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-october-prime-day-sale-picks-at-best-buy-dont-miss-out/"><u>Exclusive October Prime Day Sale Picks at Best Buy - Don't Miss Out !</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-t2-pro-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo T2 Pro 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-blending-youtube-audio-features-into-video-projects/"><u>In 2024, Blending YouTube Audio Features Into Video Projects</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-follow-the-leaders-on-igtv-for-inspiration/"><u>In 2024, Follow the Leaders on IGTV for Inspiration</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/schlusselinformationen-fur-die-anschaffung-des-winx-dvd-video-programms-kauf-faq/"><u>Schlüsselinformationen Für Die Anschaffung Des WinX DVD Video-Programms - Kauf FAQ</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-your-samsung-t5-ssd-deal-now-up-to-50-off-before-october-exclusive-amazon-offer-spotted-by-zdnet/"><u>Secure Your Samsung T5 SSD Deal Now: Up to 50% Off Before October - Exclusive Amazon Offer Spotted by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/shop-the-incredible-discount-apples-macbook-air-with-m2-chip-goes-for-only-749-on-amazons-october-prime-day-spotlight-by-zdnet/"><u>Shop the Incredible Discount: Apple's MacBook Air with M2 Chip Goes for Only $749 on Amazon's October Prime Day – Spotlight by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/slash-your-expenses-the-50-gadget-that-could-preserve-millions-in-tech-costs-insights-from-zdnet/"><u>Slash Your Expenses: The $50 Gadget That Could Preserve Millions in Tech Costs - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/student-chromebooks-attacked-by-bedbugs-a-recurring-tech-nightmare-in-schools-insights/"><u>Student Chromebooks Attacked by Bedbugs: A Recurring Tech Nightmare in Schools Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-ultrabooks-comprehensive-tests-and-reviews-by-tech-gurus-zdnets-picks/"><u>Top-Rated Ultrabooks : Comprehensive Tests & Reviews by Tech Gurus | ZDNet's Picks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unexpectedly-impressive-discovering-a-non-macbook-laptop-that-outshines-apples-iconic-design-in-power-and-performance-reviews/"><u>Unexpectedly Impressive: Discovering a Non-MacBook Laptop That Outshines Apple’s Iconic Design in Power and Performance - Reviews</u></a></li>
 </ul></div>
 

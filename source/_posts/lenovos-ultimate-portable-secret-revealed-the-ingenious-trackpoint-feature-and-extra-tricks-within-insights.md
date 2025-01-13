@@ -1,7 +1,7 @@
 ---
 title: Lenovo's Ultimate Portable Secret Revealed! The Ingenious TrackPoint Feature & Extra Tricks Within | Insights
-date: 2025-01-04T11:43:14.483Z
-updated: 2025-01-06T03:17:03.918Z
+date: 2025-01-10T20:26:33.125Z
+updated: 2025-01-12T22:48:52.046Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,24 +116,20 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/fixed-steam-not-detecting-controller-on-windows/"><u>[Fixed] Steam Not Detecting Controller on Windows</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-entry-level-insights-navigating-hd-and-uhd-video-standards/"><u>[New] Entry-Level Insights Navigating HD & UHD Video Standards</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-cut-to-zero-download-custom-ending-scenes-effortlessly/"><u>[New] In 2024, Cut to Zero - Download Custom Ending Scenes Effortlessly</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-passport-selfie-maker-top-quality-instant-access-for-desktoponline-use/"><u>[New] Passport Selfie Maker – Top Quality, Instant Access for Desktop/Online Use</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-the-ultimate-guide-to-ipad-based-time-lapse-videos/"><u>[Updated] The Ultimate Guide to iPad-Based Time-Lapse Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-top-15-action-camera-picks-beyond-your-gopro-needs/"><u>2024 Approved Top 15 Action Camera Picks Beyond Your GoPro Needs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adopt-a-streamlined-approach-to-input-customization/"><u>Adopt a Streamlined Approach to Input Customization</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/finally-divide-the-total-distance-traveled-by-all-vehicles-by-the-earths-circumference-to-find-out-how-many-times-around-the-earth-this-is-37600-km-40074-km4/"><u>Finally, Divide the Total Distance Traveled by All Vehicles by the Earth's Circumference to Find Out How Many Times Around the Earth This Is: $37,600$ Km / $40,074$ Km $ Approx 0.938$.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/from-google-now-to-evolution-unveiling-the-next-generation-of-googles-virtual-helper/"><u>From Google Now to Evolution: Unveiling the Next Generation of Google's Virtual Helper</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-keeping-your-android-applications-active-when-they-move-into-the-background/"><u>Guide: Keeping Your Android Applications Active When They Move Into the Background</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/limited-leisure-moments-here-are-the-cream-of-the-crop-15-great-android-apps-to-pass-the-time-quickly/"><u>Limited Leisure Moments? Here Are The Cream of the Crop: 15 Great Android Apps to Pass the Time Quickly!</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>List of Pokémon Go Joysticks On Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-app-replication-a-comprehensive-guide-to-cloning-android-applications/"><u>Mastering App Replication: A Comprehensive Guide to Cloning Android Applications</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/multiple-users-unlocked-mastering-personalized-profile-creation-on-your-android-device/"><u>Multiple Users Unlocked: Mastering Personalized Profile Creation on Your Android Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/personalize-android-quick-access-menu-with-these-easy-adjustment-techniques/"><u>Personalize Android Quick Access Menu with These Easy Adjustment Techniques</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/personalizing-your-timepiece-tailoring-the-lock-screen-clock-on-android/"><u>Personalizing Your Timepiece: Tailoring the Lock Screen Clock on Android</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/qualcomms-latest-innovation-snapdragon-4-gen-2-transforms-the-budget-phone-market/"><u>Qualcomm's Latest Innovation: Snapdragon 4 Gen 2 Transforms the Budget Phone Market</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/spotting-bingchatgpt-token-conspiracies-in-the-digital-space-for-safety-and-security/"><u>Spotting BingChatGPT Token Conspiracies in the Digital Space for Safety and Security</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/oosting-views-with-analytics-in-youtube-strategy/"><u>[New] Boosting Views with Analytics in YouTube Strategy</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ree-film-resource-highlights-where-to-start-your-search/"><u>[New] Free Film Resource Highlights Where to Start Your Search</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-movavi-screen-recorder-11-for-2024/"><u>[New] Movavi Screen Recorder 11 for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-secrets-of-9-high-quality-webcam-enhancements/"><u>[Updated] Secrets of 9 High-Quality Webcam Enhancements</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-advanced-tactics-for-maximizing-the-use-of-virtual-boards-during-zoom-sessions-desktopiosandroid/"><u>2024 Approved Advanced Tactics for Maximizing the Use of Virtual Boards During Zoom Sessions (Desktop/iOS/Android)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-taste-titans-must-follow-culinary-creators-online/"><u>2024 Approved Taste Titans Must-Follow Culinary Creators Online</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-full-week-with-the-split-ergo-keyboard-how-one-change-revolutionized-my-workspace-insights-from-zdnet/"><u>A Full Week with the Split Ergo-Keyboard: How One Change Revolutionized My Workspace - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/diy-laptop-upgrades-how-to-successfully-boost-ram-insights/"><u>DIY Laptop Upgrades: How to Successfully Boost RAM - Insights</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-oppo-reno-10-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Oppo Reno 10 5G</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-unbeatable-memorial-day-savings-save-550-on-the-ultra-capable-lenovo-notebook-exclusive-deals/"><u>Experience Unbeatable Memorial Day Savings: Save $550 on the Ultra-Capable Lenovo Notebook - Exclusive Deals !</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/save-big-on-macbook-repairs-with-this-revolutionary-laptop-protector-insight/"><u>Save Big on MacBook Repairs with This Revolutionary Laptop Protector Insight</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-your-printer-update-officejet-pro-8620-drivers-in-windows/"><u>Secure Your Printer: Update OfficeJet Pro 8620 Drivers in Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/setting-up-bing-images-as-background-in-windows-10/"><u>Setting Up Bing Images as Background in Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-vpn-providers-comprehensive-reviews-by-tech-experts/"><u>Top-Rated VPN Providers : Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnets-expert-review-on-panasonic-toughbook-g2-a-robust-and-versatile-laptop-designed-for-harsh-environments/"><u>ZDNet's Expert Review on Panasonic Toughbook G2 - A Robust and Versatile Laptop Designed for Harsh Environments</u></a></li>
 </ul></div>
 

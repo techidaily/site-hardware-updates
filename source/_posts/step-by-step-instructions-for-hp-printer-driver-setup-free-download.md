@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for HP Printer Driver Setup – Free Download
-date: 2024-08-19T05:59:15.446Z
-updated: 2024-08-20T05:59:15.446Z
+date: 2025-01-11T22:09:15.904Z
+updated: 2025-01-13T03:49:03.412Z
 tags:
   - win11
   - win10
@@ -40,18 +40,30 @@ thumbnail: https://thmb.techidaily.com/f5fc965758dead74b06c9dd7514fff9b2e384059d
 1. Click the**Windows Logo key** in the bottom left corner of your computer screen.
 2. After the Start screen shows up, click the**magnifier** icon located in the upper right corner.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-05-41.png)
 3. Type**device** into the search box. Then select**Device Manager** from a list of search results.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1098.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Here comes**Device Manager** . Click the**▷** symbol to the left of**Biometric Devices** to expand its drop-down list.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1073.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Right-click on**Validity Sensors (WBF)** to open its context menu. Then select**Update Driver Software…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-11-03.png)
 6. Click**Search automatically for updated driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-18-21.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Wait till the download and installation process finishes.
 8. Click **Close** when it’s all done.
 9. Now your driver has been updated by Windows successfully. Don’t forget to**restart** your computer for the changes to take effect even if you’re not asked to.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **Option 2 – Update your driver from official websites**
 
  If you’d like to update your driver from its official website, you need to know the original equipment manufacturer (OEM) of your notebook or other devices with a fingerprint sensor. Given that the process of finding, downloading and installing the driver varies from person to person, this post will simply outline the method in a brief way.
@@ -61,8 +73,9 @@ thumbnail: https://thmb.techidaily.com/f5fc965758dead74b06c9dd7514fff9b2e384059d
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Option 3 – Update your driver automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update your**Validity fingerprint sensor driver** manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -74,13 +87,11 @@ thumbnail: https://thmb.techidaily.com/f5fc965758dead74b06c9dd7514fff9b2e384059d
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-38-22-2.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Validity fingerprint sensor driver for now, simply click the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-36-48-1.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  Driver Easy uses only**genuine drivers** , straight from your hardware manufacturer. And they’re all tested and certified – either by Microsoft or by itself. Or both.
@@ -100,8 +111,6 @@ thumbnail: https://thmb.techidaily.com/f5fc965758dead74b06c9dd7514fff9b2e384059d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +118,23 @@ thumbnail: https://thmb.techidaily.com/f5fc965758dead74b06c9dd7514fff9b2e384059d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-perfecting-webp-conversion-to-jpeg-format/"><u>[New] 2024 Approved Perfecting WebP Conversion to JPEG Format</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-harvest-hits-the-next-level-of-virtual-farms/"><u>[Updated] 2024 Approved Harvest Hits The Next Level of Virtual Farms</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-beginners-guide-to-zoom-breakout-rooms-for-2024/"><u>[Updated] Beginners Guide to Zoom Breakout Rooms for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-chart-success-using-youtube-statistics-to-grow-engagement/"><u>[Updated] In 2024, Chart Success Using YouTube Statistics to Grow Engagement</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-how-to-tell-fake-instagram-followers-fast-and-free/"><u>2024 Approved How to Tell Fake Instagram Followers (Fast and Free)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-vivo-y27-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Vivo Y27 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/breakthrough-announcement-intel-targets-cpu-stability-issues-with-upcoming-voltage-adjustment-patch-in-august/"><u>Breakthrough Announcement: Intel Targets CPU Stability Issues with Upcoming Voltage Adjustment Patch in August</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-sapphire-graphics-drivers-for-windows-a-complete-guide/"><u>Download & Update Sapphire Graphics Drivers for Windows: A Complete Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/eye-shadow-and-lips-tutorials-for-2024/"><u>Eye Shadow & Lips Tutorials for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-microsoft-ergo-keyboard-4000-drivers-hassle-free-step-by-step-instructions-included/"><u>Install Microsoft Ergo Keyboard 4000 Drivers Hassle-Free – Step by Step Instructions Included</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-discretion-in-digital-artistry/"><u>Mastering Discretion in Digital Artistry</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-quality-gigabyte-speaker-system-drivers-available-for-free-download/"><u>Top-Quality Gigabyte Speaker System Drivers Available for Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-newest-logitech-c270-webcam-drivers-for-enhanced-performance-on-windows-1011/"><u>Update to Newest Logitech C270 Webcam Drivers for Enhanced Performance on Windows 10/11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/wacom-artpad-hd-driver-update-enhance-your-digital-creations-today/"><u>Wacom ArtPad HD Driver Update: Enhance Your Digital Creations Today</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-back-printer-functionality-on-windows/"><u>Winning Back Printer Functionality on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/your-one-stop-resource-for-pc-builds-and-tech-advice-by-tom/"><u>Your One-Stop Resource for PC Builds and Tech Advice by Tom</u></a></li>
+</ul></div>
 

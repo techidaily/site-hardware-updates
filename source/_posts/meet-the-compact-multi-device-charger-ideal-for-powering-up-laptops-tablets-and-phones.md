@@ -1,7 +1,7 @@
 ---
 title: "Meet the Compact Multi-Device Charger: Ideal for Powering Up Laptops, Tablets & Phones"
-date: 2024-12-31T19:45:50.717Z
-updated: 2025-01-05T20:20:17.686Z
+date: 2025-01-11T18:19:01.704Z
+updated: 2025-01-13T02:45:45.515Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -93,7 +93,7 @@ Compared to a MacBook, one could argue that the Yoga Slim 7x is at least better 
 The MacBook is better suited for the iOS ecosystem, however Lenovo has been making strides in developing a data transfer feature between its laptop and iPhones. So if you're not sure which one to get, the Yoga Slim 7x might be the better long-term investment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,22 +134,19 @@ Creators might also appreciate the fact that Lenovo is also giving [two free mon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-the-best-cameras-for-youtube-from-beginners-to-professionals/"><u>[New] 2024 Approved The Best Cameras for YouTube From Beginners to Professionals</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-skyrocketing-performance-boosting-ram-in-minecraft/"><u>[New] Skyrocketing Performance Boosting RAM in Minecraft</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-essential-guide-to-choosing-top-gopro-cases/"><u>[Updated] In 2024, Essential Guide to Choosing Top GoPro Cases</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-unique-stories-crafting-powerful-yt-narratives-for-2024/"><u>[Updated] Unique Stories Crafting Powerful YT Narratives for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-top-6-benefits-of-snapchats-my-ai-beyond-its-fun-appeal/"><u>Discover the Top 6 Benefits of Snapchat's My AI Beyond Its Fun Appeal</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-newest-version-of-logitechs-g910-drivers-on-windows/"><u>Download the Newest Version of Logitech's G910 Drivers on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722976806013-fast-and-easy-ft232r-usb-to-serial-converter-drivers-get-them-now/"><u>Fast & Easy FT232R USB to Serial Converter Drivers - Get Them Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/freshly-updated-guide-find-download-and-install-epson-xp-430-windows-printer-drivers-easy-steps-inside/"><u>Freshly Updated Guide: Find, Download & Install Epson XP-430 Windows Printer Drivers - Easy Steps Inside</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-officially-supported-bluetooth-drivers-for-all-windows-versions/"><u>Get Your Hands on Officially Supported Bluetooth Drivers for All Windows Versions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-quickly-update-your-hyperx-audio-hardware-drivers/"><u>How to Quickly Update Your HyperX Audio Hardware Drivers</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-understanding-the-capacity-for-storing-videos-on-large-scale-drives-64128gb/"><u>In 2024, Understanding the Capacity for Storing Videos on Large-Scale Drives (64/128GB)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-canon-mx340-driver-on-pcs-running-windows-7810-download-guide/"><u>Installing Canon MX340 Driver on PCs Running Windows 7/8/10 - Download Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/permanently-solved-absent-inbuilt-printerscanner-support-for-windows-10-users/"><u>Permanently Solved: Absent Inbuilt Printer/Scanner Support for Windows 10 Users</u></a></li>
-<li><a href="https://extra-information.techidaily.com/transform-every-moment-top-tasks-to-master-while-immersing-in-your-favorite-podcasts/"><u>Transform Every Moment Top Tasks to Master While Immersing in Your Favorite Podcasts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-corsair-h115i-compatibility-problems-on-windows-8-10-and-11/"><u>Troubleshooting Corsair H115i Compatibility Problems on Windows 8, 10 & 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-compatibility-list-logiteche-g27-supported-by-windows-versions-11-10-and-7/"><u>Ultimate Compatibility List: Logiteche G27 Supported by Windows Versions 11, 10 & 7</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-drivers-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to reinstall your drivers on Windows 11 & 10</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-skyrocket-views-with-these-effective-youtube-methods/"><u>[New] In 2024, Skyrocket Views with These Effective YouTube Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-childs-play-in-the-sky-top-kid-friendly-drones-list/"><u>[Updated] Child's Play in the Sky Top Kid-Friendly Drones List</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-facebook-to-your-screen-top-5-downloader-apps/"><u>[Updated] Facebook to Your Screen Top 5 Downloader Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-highlighting-the-best-ways-to-convert-youtube-to-mp4/"><u>2024 Approved Highlighting the Best Ways to Convert YouTube to MP4</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-access-securing-your-spot-for-amazons-prime-day-early-bird-offers-complete-guide/"><u>Exclusive Access: Securing Your Spot for Amazon's Prime Day Early Bird Offers - Complete Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-logitech-g35-driver-and-installation-guide-for-various-windows-versions/"><u>Get Logitech G35 Driver and Installation Guide for Various Windows Versions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>How to Change Netflix Location to Get More Country Version On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/is-it-time-to-upgrade-to-an-8k-television-pros-and-cons-decoded-by-a-tech-guru-insights-for-savvy-shoppers/"><u>Is It Time to Upgrade to an 8K Television? Pros and Cons Decoded by a Tech Guru - Insights for Savvy Shoppers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/labor-day-special-score-unbeatable-prices-on-premium-qled-tvs-tested-and-recommended-by-zdnet-now-1k-off/"><u>Labor Day Special: Score Unbeatable Prices on Premium QLED TVs Tested and Recommended by ZDNET, Now $1K Off!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionize-your-home-cinema-experience-boost-tv-picture-quality-in-5-simple-steps-expert-guide-from-zdnet/"><u>Revolutionize Your Home Cinema Experience! Boost TV Picture Quality in 5 Simple Steps | Expert Guide From ZDNET</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/solving-the-issue-how-to-fix-a-non-responsive-computer-mouse-expert-tips-from-yl-computing/"><u>Solving the Issue: How to Fix a Non-Responsive Computer Mouse - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-the-secrets-of-lut-production-for-2024/"><u>Unlocking the Secrets of LUT Production for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnet-reviews-top-immersive-audio-gear-that-beats-both-bose-and-sonos-in-a-head-to-head-comparison/"><u>ZDNet Reviews Top Immersive Audio Gear That Beats Both Bose and Sonos in a Head-to-Head Comparison!</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/44oq44od44kv44ki44od44ox44ov44kh44kk44or5lit44gu5bplusf6kab44gq5oof5acx44gu44g5b6p5ywd5pa55rov/"><u>バックアップファイル中の必要な情報のみ復元方法</u></a></li>
 </ul></div>
 

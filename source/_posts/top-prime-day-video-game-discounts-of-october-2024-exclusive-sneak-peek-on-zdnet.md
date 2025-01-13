@@ -1,7 +1,7 @@
 ---
 title: Top Prime Day Video Game Discounts of October 2024 - Exclusive Sneak Peek on ZDNet
-date: 2024-12-29T21:14:41.163Z
-updated: 2025-01-05T21:17:00.824Z
+date: 2025-01-10T17:49:19.733Z
+updated: 2025-01-12T23:56:57.654Z
 tags:
   - laptops
 categories:
@@ -130,7 +130,7 @@ ZDNET
 * [The Last of Us Part 1 standard edition for $46 (save $24 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FThe-Last-of-Us-Part-I-PlayStation-5%2F1643604134%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Experience the award-winning story of Ellie and Joel as they make their way to Denver and the Fireflies through hordes of dangerous, fungus-infected zombies.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals
@@ -176,7 +176,7 @@ Nintendo/ZDNET
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $55 (save $25 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming PC deals
@@ -193,6 +193,10 @@ Kyle Kucharski/ZDNET
 * [HP Omen 45L for $2,200 (save $800 at HP)](https://www.anrdoezrs.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fomen-by-hp-45l-gaming-desktop-gt22-2085t-pc&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming PC built with a 14th generation Intel Core i7 CPU, GeForce RTX 4080 Super GPU, 16GB of RAM, and a 1TB SSD.
 * [HP Victus 15L desktop for $480 (save $370 at HP)](https://www.anrdoezrs.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-15l-gaming-desktop-tg02-0325m-59a32av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-level gaming desktop built with an AMD Ryzen 5 5600G processor, AMD Radeon RX 6400 GPU, 8GB of RAM, and a 256GB SSD.
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.jdoqocy.com/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day gaming laptop deals
 
@@ -231,15 +235,7 @@ Samsung/ZDNET
 * [MSI Ventus GeForce RTX 4060 Ti for $430 (save $70 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMSI-Ventus-GeForce-RTX-4060-Ti-16GB-GDDR6-PCI-Express-4-0-x8-ATX-Video-Card-RTX-4060-Ti-VENTUS-2X-BLACK-16G-OC%2F1508015956&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An Nivida 40 Series GPU with 16GB of DDR6 VRAM and support for up to 4 displays.
 * [Gigabyte GeForce RTX 4070 Ti Super Windforce Max OC Edition for $810 (save $114 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGIGABYTE-GeForce-RTX-4070-Ti-SUPER-WINDFORCE-MAX-OC-16G-Graphics-Card-3x-WINDFORCE-Fans-16GB-256-bit-GDDR6X-GV-N407TSWF3MAX-OC-16GD-Video-Card%2F6941118252&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end Nvidia RTX 40 Series graphics card with 16GB of VRAM, triple cooling fans, and dual BIOS controls.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
 
@@ -250,12 +246,16 @@ Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, wi
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -322,15 +322,24 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-vital-6-social-media-channels-for-commercial-success/"><u>[New] In 2024, Vital 6 Social Media Channels for Commercial Success</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-checklist-for-your-xbox-one-zooming-journey/"><u>[New] The Ultimate Checklist for Your Xbox One Zooming Journey</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-a-comprehensive-introduction-to-quantum-hdr-principles/"><u>[Updated] 2024 Approved A Comprehensive Introduction to Quantum HDR Principles</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726225618264-avimp3-movavi/"><u>直接在線上無成本地由AVI改變為MP3音訊 - Movavi 高效解決方案</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/connect-and-entertain-stream-xbox-games-on-the-worlds-stage-facebook-for-2024/"><u>Connect & Entertain Stream Xbox Games on the World's Stage - Facebook for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-xbox-wireless-controller-driets-simple-and-fast-setup/"><u>Download Xbox Wireless Controller Driets - Simple and Fast Setup</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-download-and-install-epson-l3150-printer-driver-on-windows-10-87/"><u>Easy Guide to Download & Install Epson L3150 Printer Driver on Windows 10, 8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-software-update-for-your-corsair-h80i-v2-cooling-system/"><u>Get the Newest Software Update for Your Corsair H80i V2 Cooling System</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-canon-mx922-software-upgrade-for-microsoft-windows-systems/"><u>Latest Canon MX922 Software Upgrade for Microsoft Windows Systems</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-unmatched-visual-quality-in-the-best-4k-panels-ranked-1-10/"><u>[New] 2024 Approved Unmatched Visual Quality in the Best 4K Panels, Ranked #1-10</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-experts-to-follow-on-igtv/"><u>[Updated] 2024 Approved Experts to Follow on IGTV</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfecting-altered-text-aesthetics-in-visual-media/"><u>[Updated] Perfecting Altered Text Aesthetics in Visual Media</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1-discover-lenovos-ultimate-value-in-tech-the-2024-thinkbook-for-under-750-a-top-pick-by-zdnet/"><u>1. Discover Lenovo's Ultimate Value in Tech: The 2024 ThinkBook for Under $750 - A Top Pick by ZDNet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-leading-5-audio-caps-for-streaming-enthusiasts/"><u>2024 Approved Leading 5 Audio Caps for Streaming Enthusiasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/2024s-ultimate-list-of-windows-laptops-tested-reviewed-and-ranked-by-professionals-zdnet/"><u>2024'S Ultimate List of Windows Laptops - Tested, Reviewed & Ranked by Professionals | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/apples-latest-move-expanding-the-obsolete-list-with-nine-new-mac-models-insights-from-zdnet/"><u>Apple’s Latest Move: Expanding the 'Obsolete' List with Nine New Mac Models - Insights From ZDNet</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/backup-rapido-della-posta-di-office-365-suggerimenti-e-tutorial/"><u>Backup Rapido Della Posta Di Office 365: Suggerimenti E Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-bargain-asus-notebook-for-250-on-walmart-shelves-complete-with-all-essential-ports/"><u>Discover the Bargain Asus Notebook for $250 on Walmart Shelves - Complete with All Essential Ports</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-audio-standards-integrating-premium-srt-into-mp4-files/"><u>Elevate Audio Standards Integrating Premium SRT Into MP4 Files</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-itel-p55-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Itel P55 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-tripping-up-avoid-common-tripod-mistakes-in-vlogging/"><u>In 2024, Tripping Up? Avoid Common Tripod Mistakes in Vlogging</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-look-i-experienced-every-new-ai-update-on-copilot-pcs-and-heres-why-it-might-just-live-up-to-its-hype-insider-report/"><u>Inside Look: I Experienced Every New AI Update on Copilot PCs & Here's Why It Might Just Live Up to Its Hype Insider Report</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/intellectual-edge-trivia-challenges-2024/"><u>Intellectual Edge Trivia Challenges 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/massive-savings-discover-the-steep-discount-on-an-8tb-samsung-t5-usb-flash-drive-available-now-on-amazon-insights/"><u>Massive Savings: Discover the Steep Discount on an 8TB Samsung T5 USB Flash Drive Available Now on Amazon - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/meet-hps-latest-innovation-in-portable-computing-next-gen-chromebooks-engineered-for-students-and-mobile-workers-featured-by-zdnet/"><u>Meet HP's Latest Innovation in Portable Computing: Next-Gen Chromebooks Engineered for Students and Mobile Workers, Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-next-gen-dell-xps-15-and-17-upgrades-announced-tech-analysis/"><u>The Next-Gen Dell XPS 15 & 17 Upgrades Announced | Tech Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-alert-save-60-on-top-rated-magsafe-stations-for-apple-gadgets-exclusive-offer/"><u>Unbeatable Deal Alert! Save $60 on Top-Rated MagSafe Stations for Apple Gadgets - Exclusive Offer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
 </ul></div>
 

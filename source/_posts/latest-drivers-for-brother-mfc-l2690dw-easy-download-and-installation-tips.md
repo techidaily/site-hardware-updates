@@ -1,7 +1,7 @@
 ---
 title: Latest Drivers for Brother MFC-L2690dw - Easy Download and Installation Tips!
-date: 2024-08-19T06:01:54.908Z
-updated: 2024-08-20T06:01:54.908Z
+date: 2025-01-12T03:28:38.662Z
+updated: 2025-01-12T17:50:37.932Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ Searching all over the Internet for your **Asus VG248QE** driver so that your mo
 
  But if you are running into problems like   **Asus VG248QE showing as generic PnP monitor**  and**no 144hz** , as many users have reported, it’s highly recommended you**update your graphics driver** for the best performance of your monitor.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to update your graphics driver
 
  Both methods below work in**Windows 10** ,**8.1** and**7** . You don’t have to try both, just browse through the list and take your pick:
@@ -33,8 +37,9 @@ Searching all over the Internet for your **Asus VG248QE** driver so that your mo
 2. **[Update your graphics driver manually](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1: Update your graphics driver automatically (Recommended)
 
  If you’re not confident playing around with drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -47,31 +52,21 @@ Searching all over the Internet for your **Asus VG248QE** driver so that your mo
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472685de9c9.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 
 ---
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Update your graphics driver manually
 
 **Warning** : Downloading the wrong driver or installing it incorrectly can compromise our PC’s stability and even cause the whole system to crash. So please proceed at your own peril.
@@ -81,16 +76,14 @@ Here’re we go:
 1. On your keyboard, press **the Windows logo key** and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Locate and double-click on **Display adapters** (aka. **Graphics card** , **Video card** ) and you can see your**brand and model of graphics card** right below.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
  (**Intel(R) HD Graphics 4000** in my case).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b47105a562f6.jpg)
 3. Go to the official website and check out the **Support** section for **driver downloads** .
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Enter your model type of the graphics card, find out and click the right download link for **your variant of Windows operating system** . Usually a few download options will be listed but you might want to click **the first** result for the latest driver version.
 5. Run the downloaded file install the driver.
 6. Restart your computer for the changes to take effect.
@@ -108,8 +101,6 @@ Here’re we go:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +108,19 @@ Here’re we go:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-all-encompassing-razer-camera-report-for-2024/"><u>[New] All-Encompassing Razer Camera Report for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-decode-the-past-comprehensive-tutorial-for-inverting-image-searches-on-instagram/"><u>[New] Decode the Past Comprehensive Tutorial for Inverting Image Searches on Instagram</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ideal-green-visual-effects-systems-practical-steps/"><u>[Updated] Ideal Green Visual Effects Systems Practical Steps</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-unlock-professional-vimeo-edits-without-paid-software/"><u>[Updated] In 2024, Unlock Professional Vimeo Edits Without Paid Software</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-tailored-audio-connector-for-podcasting-pros/"><u>[Updated] Tailored Audio Connector for Podcasting Pros</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-epson-wf-3640-printer-software-on-windows-devices/"><u>Easy Installation of Epson WF-3640 Printer Software on Windows Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-steelseries-engine-optimize-your-pc-gaming-on-windows-10-now/"><u>Get SteelSeries Engine: Optimize Your PC Gaming on Windows 10 Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-wireless-driver-software-instantly/"><u>How To Get The Newest Wireless Driver Software Instantly</u></a></li>
+<li><a href="https://win-dash.techidaily.com/improved-functionality-alert-download-the-new-driver-for-your-dell-2330d-or-2330dn-laser-printer-now/"><u>Improved Functionality Alert: Download the New Driver for Your Dell 2330D or 2330Dn Laser Printer Now!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-realme-12-pro-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Realme 12 Pro 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mr-beasts-economic-impact-analysis-for-2024/"><u>Mr. Beast's Economic Impact Analysis for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-through-toms-electronics-realm-top-picks-for-your-pc/"><u>Navigating Through Tom's Electronics Realm: Top Picks for Your PC</u></a></li>
+</ul></div>
 

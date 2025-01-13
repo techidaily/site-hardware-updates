@@ -1,7 +1,7 @@
 ---
 title: "Anticipated Announcements at Apple's Oct Event: The New M4 Mac Mini & Upcoming iPad Releases"
-date: 2024-12-31T22:36:30.793Z
-updated: 2025-01-05T23:51:52.410Z
+date: 2025-01-12T01:55:56.955Z
+updated: 2025-01-12T19:33:14.398Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,18 +118,16 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-framefusion-media-suite-for-2024/"><u>[New] FrameFusion Media Suite for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-soundscapes-from-social-media-videos/"><u>[New] In 2024, Soundscapes From Social Media Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-method-for-mastery-in-morphvox-usage/"><u>[New] The Ultimate Method for Mastery in MorphVOX Usage</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-starting-off-understanding-av1-compression/"><u>[Updated] In 2024, Starting Off Understanding AV1 Compression</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-sony-xperia-5-v-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Sony Xperia 5 V Phone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-motorola-moto-g24-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Motorola Moto G24 Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/masterclass-guide-to-overcoming-opengl-glitch-3/"><u>Masterclass Guide to Overcoming OpenGL Glitch #3</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-adjusting-button-layout-and-swipe-actions-for-enhanced-android-interaction/"><u>Step-by-Step Tutorial: Adjusting Button Layout & Swipe Actions for Enhanced Android Interaction</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-total-number-of-vehicles-is-already-given-as-8-times-106/"><u>The Total Number of Vehicles Is Already Given as $8 Times 10^6$.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-live-stream-the-2022-unpacked-showcase-of-samsung-devices-and-predictions-for-new-releases/"><u>The Ultimate Guide to Live-Stream the 2022 Unpacked Showcase of Samsung Devices and Predictions for New Releases</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-5-essential-mobile-programming-tools-to-kickstart-your-coding-adventure/"><u>Top 5 Essential Mobile Programming Tools to Kickstart Your Coding Adventure</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-7-features-long-time-samsung-users-adore-and-might-miss-with-a-transition-to-google/"><u>Top 7 Features Long-Time Samsung Users Adore and Might Miss with a Transition to Google</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-7-most-infamous-technology-commercials-ever-created/"><u>Top 7 Most Infamous Technology Commercials Ever Created</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-youtubes-prime-moments-celebrations-beyond-vidcon/"><u>[New] 2024 Approved Youtube's Prime Moments Celebrations Beyond VidCon</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-stop-in-app-video-buffering-issues/"><u>[New] Stop In-App Video Buffering Issues</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/achieve-synchronicity-with-your-browser-and-fbs-autoplay-feature-for-2024/"><u>Achieve Synchronicity with Your Browser and FB's Autoplay Feature for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-of-epson-wf-3540-printer-software-for-windows-users/"><u>Easy Installation of Epson WF-3540 Printer Software for Windows Users</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-reimagine-your-visuals-three-effective-techniques-for-backdrop-alteration-on-tiktok/"><u>In 2024, Reimagine Your Visuals Three Effective Techniques for Backdrop Alteration on TikTok</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/is-the-lenovo-yoga-book-9i-successful-in-popularizing-dual-screen-laptops-an-in-depth-review-by-zdnet/"><u>Is the Lenovo Yoga Book 9I Successful in Popularizing Dual-Screen Laptops? An In-Depth Review by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/oct-24-game-deals-alert-prime-day-savings-still-going-strong-cut-costs-by-1000plus/"><u>Oct '24 Game Deals Alert: Prime Day Savings Still Going Strong – Cut Costs by $1,000+</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionizing-desktop-expansion-how-windows-users-benefit-from-a-special-power-trick-in-new-12-in-1-thunderbolt-hub-spotlight-s-findings/"><u>Revolutionizing Desktop Expansion: How Windows Users Benefit From a Special Power Trick in New 12-in-1 Thunderbolt Hub | Spotlight 'S Findings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transform-your-digital-experience-with-windows-free-hp-chromebook-exceptional-savings-of-136-await/"><u>Transform Your Digital Experience with Windows-Free HP Chromebook: Exceptional Savings of $136 Await !</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-your-games-true-potential-with-the-best-immersive-sound-system-available-for-a-bargain-at-amazon-featured-and-reviewed/"><u>Unleash Your Game's True Potential with the Best Immersive Sound System - Available for a Bargain at Amazon, Featured and Reviewed !</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-gif-accelerators-online-and-mobile-solutions/"><u>Updated 2024 Approved Top GIF Accelerators Online and Mobile Solutions</u></a></li>
 </ul></div>
 

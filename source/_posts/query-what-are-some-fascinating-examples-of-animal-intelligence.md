@@ -1,7 +1,7 @@
 ---
 title: "[Query]: What Are some Fascinating Examples of Animal Intelligence?"
-date: 2024-12-31T17:00:27.277Z
-updated: 2025-01-06T06:05:27.621Z
+date: 2025-01-11T00:21:39.704Z
+updated: 2025-01-13T01:20:56.267Z
 tags:
   - laptops
 categories:
@@ -20,7 +20,7 @@ This week, Microsoft held its fall Microsoft Surface launch event where the comp
 Surface remains one of Microsoft's most popular products, with revenue increasing 3% year-over-year by $226 million in the fourth quarter of its [2022 financial year](https://www.microsoft.com/en-us/Investor/earnings/FY-2022-Q3/more-personal-computing-performance#:~:text=Surface%20revenue%20increased%20%24195%20million,increased%20%24305%20million%20or%207%25.&text=Gross%20margin%20increased%20%24755%20million,and%20Search%20and%20news%20advertising.). But that wasn't always the case, and Surface represents a big shift in Microsoft's business over the last decade. Here is how the Surface earned its spot as one of Microsoft's best sellers. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Windows
@@ -119,18 +119,19 @@ Microsoft has to make sure that it continues to upgrade its Surface lineup to st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://technical-tips.techidaily.com/solved-usb-ports-not-working-on-laptop/"><u>[SOLVED] USB Ports Not Working on Laptop</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-expert-video-grabbing-extras-fb-and-firefox-edition/"><u>[Updated] In 2024, Expert Video Grabbing Extras FB & Firefox Edition</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-learn-to-activate-picture-in-picture-viewing-on-iphones-youtube-app/"><u>[Updated] Learn to Activate Picture-in-Picture Viewing on iPhone's Youtube App</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-master-the-art-of-podcast-writing-with-expert-guidance/"><u>[Updated] Master the Art of Podcast Writing with Expert Guidance</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/common-problems-and-fixes-for-non-responsive-windows-10-search-tool/"><u>Common Problems and Fixes for Non-Responsive Windows 10 Search Tool</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-yours-before-it-sells-out-exclusive-moto-tags-for-motorcycles-are-ready/"><u>Get Yours Before It Sells Out: Exclusive Moto Tags For Motorcycles Are Ready!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-syncing-your-apple-devices-how-to-cast-your-maciphoneipad-display-onto-an-apple-tv/"><u>Guide: Syncing Your Apple Devices - How to Cast Your Mac/iPhone/iPad Display Onto an Apple TV</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/illuminate-with-style-affordable-yet-stylish-solar-powered-patio-lighting-options/"><u>Illuminate with Style: Affordable Yet Stylish Solar-Powered Patio Lighting Options</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-nokia-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Nokia</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-20-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 20 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-evaluation-of-the-dreame-x40-ultra-the-pinnacle-of-luxurious-automated-cleaning/"><u>In-Depth Evaluation of the Dreame X40 Ultra: The Pinnacle of Luxurious Automated Cleaning</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-game-masterpieces-from-google-play-beta-pc/"><u>Unveiling Game Masterpieces From Google Play Beta (PC)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-achieve-higher-interactions-mastering-the-art-of-square-videos-for-2024/"><u>[New] Achieve Higher Interactions Mastering the Art of Square Videos for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-iphoneandroid-autoplay-continuous-youtube-access/"><u>[New] IPhone/Android AutoPlay Continuous YouTube Access</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-resolve-instagrams-video-problems-swiftly/"><u>[New] Resolve Instagram's Video Problems Swiftly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-saving-on-cameras-the-best-value-of-cheap-action-choices/"><u>[New] Saving on Cameras The Best Value of Cheap ACTION Choices</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-enhancing-content-discovery-via-thumbnails/"><u>[Updated] 2024 Approved Enhancing Content Discovery via Thumbnails</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-ultimate-checklist-for-adding-effective-on-screen-captions-to-your-videos/"><u>[Updated] 2024 Approved The Ultimate Checklist for Adding Effective On-Screen Captions to Your Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipated-release-latest-rumors-suggest-new-ipad-models-due-in-early-spring-of-2024-tech-news/"><u>Anticipated Release: Latest Rumors Suggest New iPad Models Due in Early Spring of 2024 | Tech News</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-lenovo-laptops-tailored-for-the-modern-hybrid-worker-save-big/"><u>Best Lenovo Laptops Tailored for the Modern Hybrid Worker - Save Big!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/cutting-edge-practices-for-subtle-audio-reduction-on-lumafusion/"><u>Cutting-Edge Practices for Subtle Audio Reduction on Lumafusion</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-best-of-copilotplus-a-peek-into-the-gaming-ready-laptops-debuted-at-ifa-2024-tech-analysis-by-zdnet/"><u>Exploring the Best of Copilot+: A Peek Into the Gaming-Ready Laptops Debuted at IFA 2024 | Tech Analysis by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionize-your-productivity-with-lenovos-innovative-dual-screen-laptop-a-game-changer-for-modern-workflows/"><u>Revolutionize Your Productivity with Lenovo's Innovative Dual-Screen Laptop - A Game Changer for Modern Workflows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-cyber-monday-computers-bargains-exclusive-october-2024-guide/"><u>Top-Rated Cyber Monday Computers Bargains: Exclusive October 2024 Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-scoring-amazing-savings-on-laptops-for-the-october-premier-shopping-extravaganza-exclusive/"><u>Ultimate Guide to Scoring Amazing Savings on Laptops for the October Premier Shopping Extravaganza Exclusive</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbelievable-bargain-alert-255-chromebook-steals-the-show-at-octobers-prime-day-extravaganza/"><u>Unbelievable Bargain Alert: $255 Chromebook Steals the Show at October's Prime Day Extravaganza!</u></a></li>
 </ul></div>
 

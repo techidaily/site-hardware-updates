@@ -1,7 +1,7 @@
 ---
 title: Fire Range Evolves with AMD’s Zen 5 Chips Preserving FL1 Design; Upcoming Laptops Could Boost Performance with RTX-Series GPU Integration
-date: 2024-08-19T05:57:46.368Z
-updated: 2024-08-20T05:57:46.368Z
+date: 2025-01-09T20:41:11.084Z
+updated: 2025-01-13T03:33:17.858Z
 tags:
   - cpu
 categories:
@@ -34,6 +34,10 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,14 +46,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -58,8 +59,21 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-future-vision-evolving-trends-in-multicam-video-technology-for-2024/"><u>[Updated] Future Vision Evolving Trends in Multicam Video Technology for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pro-screencast-strategies-secrets-for-video-creators-for-2024/"><u>[Updated] Pro Screencast Strategies Secrets for Video Creators for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtubes-glamour-guild-comprehensive-style-compendium/"><u>[Updated] Youtube's Glamour Guild Comprehensive Style Compendium</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prime-6-low-cost-ultra-clear-4k-projection/"><u>In 2024, Prime 6 Low-Cost, Ultra-Clear 4K Projection</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-download-microsoft-ergo-4000-keyboard-drivers-streamlined-setup/"><u>Instant Download: Microsoft Ergo 4000 Keyboard Drivers – Streamlined Setup</u></a></li>
+<li><a href="https://fox-info.techidaily.com/integrating-photos-and-videos-a-guide-to-using-storyremix-in-windows-11/"><u>Integrating Photos & Videos A Guide to Using StoryRemix in Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keeping-your-computers-bluetooth-functional-up-to-date-drivers-from-microsoft-for-windows-users/"><u>Keeping Your Computer's Bluetooth Functional: Up-to-Date Drivers From Microsoft for Windows Users</u></a></li>
+<li><a href="https://win-net.techidaily.com/le-processus-simple-de-synchronisation-des-messages-e-mails-avec-votre-pc-une-solution-pratique-pour-tous-les-niveaux-dutilisateurs/"><u>Le Processus Simple De Synchronisation Des Messages E-Mails Avec Votre PC : Une Solution Pratique Pour Tous Les Niveaux D'Utilisateurs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-display-driver-free-download-and-latest-version-guide/"><u>Lenovo Display Driver: Free Download and Latest Version Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-to-upgrade-microsoft-sculpt-keyboard-software/"><u>Step-by-Step Instructions to Upgrade Microsoft Sculpt Keyboard Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-rtx-2070-super-gpu-drivers-free-download-for-windows-11-users/"><u>Update Your RTX 2070 Super GPU Drivers - Free Download for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-visual-experience-updated-drivers-for-the-rtx-2080-graphics-card-on-windows-11-platforms/"><u>Upgrade Your Visual Experience: Updated Drivers for the RTX 2080 Graphics Card on Windows 11 Platforms</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/video-post-production-powerhouses-a-comparison-of-adobe-premiere-and-after-effects/"><u>Video Post-Production Powerhouses A Comparison of Adobe Premiere and After Effects</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->

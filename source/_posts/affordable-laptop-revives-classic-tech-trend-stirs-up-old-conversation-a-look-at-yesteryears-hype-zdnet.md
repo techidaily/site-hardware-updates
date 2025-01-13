@@ -1,7 +1,7 @@
 ---
 title: "Affordable Laptop Revives Classic Tech Trend, Stirs Up Old Conversation: A Look at Yesteryear's Hype! - ZDNet"
-date: 2025-01-01T22:34:21.408Z
-updated: 2025-01-06T04:28:27.637Z
+date: 2025-01-08T16:28:14.411Z
+updated: 2025-01-12T20:02:34.261Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -85,7 +85,7 @@ I have been integrating Copilot into my workflow as I learn more about how to us
 The Surface's battery life has been fantastic, too. I get over 15 hours of use from a single charge, and it has yet to fully deplete to zero by the time I call a benchmarking test. The combination of smart design with meaningful trade-offs is what gives this laptop its marathon battery life, and opens it up for a variety of use cases from a creator or productivity perspective. Basically, this is a laptop you can work remotely with for the whole day without a charger.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -95,7 +95,7 @@ I mentioned this before, but the direction that Microsoft took with this laptop 
 The Surface Laptop is a flagship mid-range device that's well-rounded enough to take on a variety of roles. Despite a few trade-offs, it's everything it should be for the price. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -132,17 +132,16 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-ultimate-guide-to-ios-based-interview-and-journey-podcasts-for-2024/"><u>[New] Ultimate Guide to iOS-Based Interview & Journey Podcasts for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-best-wedding-stories-online-youtube-plus-vimeos-selection-8/"><u>[Updated] The Best Wedding Stories Online YouTube + Vimeo's Selection (8)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-realme-12-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Realme 12 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://win-online.techidaily.com/automate-your-files-seamlessly-integrating-a-local-folder-with-google-drive/"><u>Automate Your Files: Seamlessly Integrating a Local Folder with Google Drive</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-se-2020-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone SE (2020) Passcode without a Computer | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-compressor-essentials-optimizing-video-files-in-final-cut-pro-x-for-2024/"><u>New Compressor Essentials Optimizing Video Files in Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-note-taking-with-apples-tool-compatibility-guide-for-windows-and-android-users/"><u>Seamless Note Taking with Apple's Tool: Compatibility Guide for Windows & Android Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/stabilizing-windows-11-post-upgrade/"><u>Stabilizing Windows 11 Post-Upgrade</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-activating-your-android-devices-flashlight/"><u>Step-by-Step Guide: Activating Your Android Device's Flashlight</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-creating-a-functional-action-button-on-your-android-device/"><u>Step-by-Step Guide: Creating a Functional Action Button on Your Android Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-curious-case-of-falling-sd-card-sales-could-it-be-due-to-misunderstood-advantages/"><u>The Curious Case of Falling SD Card Sales - Could It Be Due to Misunderstood Advantages?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-no-experience-guide-to-earning-on-reddit-13-strategies-inside/"><u>The Ultimate, No-Experience Guide to Earning on Reddit - 13 Strategies Inside</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-path-to-profitable-product-placements-on-youtube/"><u>[New] 2024 Approved The Path to Profitable Product Placements on YouTube</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-be-selective-stop-instagram-suggested-updates/"><u>[Updated] 2024 Approved Be Selective Stop Instagram Suggested Updates</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-sync-video-elements-to-captivate-instagram-audiences/"><u>[Updated] 2024 Approved Sync Video Elements to Captivate Instagram Audiences</u></a></li>
+<li><a href="https://discover-data.techidaily.com/1728507126388-sd/"><u>「マイクロSDカードから失われたデータの自由回復法」</u></a></li>
+<li><a href="https://win-online.techidaily.com/effiziente-methoden-zur-datenwiederherstellung-fur-usb-flash-drives-myrecover-anleitungen/"><u>Effiziente Methoden Zur Datenwiederherstellung Für USB Flash Drives - MyRecover Anleitungen</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-rhythm-made-simple-top-online-analyzers-to-try-now-for-free/"><u>In 2024, Rhythm Made Simple Top Online Analyzers to Try Now for Free</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/say-goodbye-to-macbook-air-meet-its-stellar-windows-rival-with-impressive-portability-and-performance-spotlighted/"><u>Say Goodbye to MacBook Air? Meet Its Stellar Windows Rival with Impressive Portability and Performance - Spotlighted</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-travel-tech-essentials-in-2-discover-the-ultimate-list/"><u>Top Rated Travel Tech Essentials in 2# - Discover the Ultimate List</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-vpn-providers-comprehensive-analysis-and-recommendations-by-experts-techadvisor/"><u>Top-Rated VPN Providers : Comprehensive Analysis & Recommendations by Experts | TechAdvisor</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-creative-potential-with-asuss-latest-understated-powerhouse-insider-info/"><u>Unlocking Creative Potential with ASUS's Latest Understated Powerhouse - Insider Info</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-at-apples-october-showcase-new-m4-mac-mini-updated-ipad-lineup-and-ai-advancements-on-the-horizon-insights-from-zdnet/"><u>Unveiling at Apple’s October Showcase: New M4 Mac Mini, Updated iPad Lineup & AI Advancements on the Horizon - Insights From ZDNet</u></a></li>
 </ul></div>
 

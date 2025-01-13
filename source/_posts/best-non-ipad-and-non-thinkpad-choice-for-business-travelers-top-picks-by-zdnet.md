@@ -1,7 +1,7 @@
 ---
 title: "Best Non-iPad and Non-ThinkPad Choice for Business Travelers: Top Picks by ZDNet"
-date: 2025-01-04T09:34:49.522Z
-updated: 2025-01-06T12:59:57.312Z
+date: 2025-01-10T00:12:40.218Z
+updated: 2025-01-13T04:20:31.686Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Cesar Cadenas/ZDNET
 And for one of the best qualities of this laptop: battery life is absolutely phenomenal. I [performed our usual test](https://www.zdnet.com/article/how-we-test-laptops/) of running a YouTube livestream at 720p and 50% brightness. At its peak, the Surface Pro lasted just under 13 hours on a single charge. That's just shy of Microsoft's purported 14-hour battery life. In practical usage, this is a device that will easily last multiple days on a single charge. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,17 +122,17 @@ Prices for the device start at $999.99\. My review unit with the 12-core Snapdra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-dynamic-face-effects-instantaneous-motion-blur-for-striking-images-with-picsart/"><u>[New] 2024 Approved Dynamic Face Effects Instantaneous Motion Blur for Striking Images with Picsart</u></a></li>
-<li><a href="https://facebook.techidaily.com/demystifying-the-purpose-behind-vague-content-sharing/"><u>Demystifying the Purpose Behind Vague Content Sharing</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-valves-new-upgrades-advanced-game-distribution-in-families-and-improved-parental-management-systems-on-steam/"><u>Discover Valve's New Upgrades: Advanced Game Distribution in Families and Improved Parental Management Systems on Steam</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-four-primary-techniques-of-ai-oversight-by-authorities/"><u>Exploring the Four Primary Techniques of AI Oversight by Authorities</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-v27-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo V27 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/is-instagrams-self-validation-a-game-changer-for-2024/"><u>Is Instagram’s Self-Validation a Game Changer for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-secure-browsing-a-comprehensive-tutorial-for-setting-up-a-vpn-on-android-smartphones/"><u>Mastering Secure Browsing: A Comprehensive Tutorial for Setting Up a VPN on Android Smartphones</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-the-art-of-taking-screenshots-a-comprehensive-guide-for-samsung-galaxy-users/"><u>Mastering the Art of Taking Screenshots: A Comprehensive Guide for Samsung Galaxy Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/optimize-smartphone-longevity-enable-self-restart-feature-on-samsung-galaxy-every-week/"><u>Optimize Smartphone Longevity: Enable Self-Restart Feature on Samsung Galaxy Every Week</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-guide-disable-all-android-sensor-features-with-a-single-action/"><u>Quick Guide: Disable All Android Sensor Features with a Single Action</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revival-of-swappable-phone-power-packs-a-new-era-in-mobile-technology/"><u>Revival of Swappable Phone Power Packs: A New Era in Mobile Technology</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-protecting-melodies-on-instagram/"><u>[Updated] 2024 Approved Protecting Melodies on Instagram</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-expert-director-of-visuals-and-music/"><u>2024 Approved Expert Director of Visuals and Music</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/anticipated-announcements-at-apples-upcoming-october-showcase-the-new-m4-mac-mini-advanced-ipads-and-latest-innovations-in-siri-technology-insights-by-zdnet25/"><u>Anticipated Announcements at Apple's Upcoming October Showcase: The New M4 Mac Mini, Advanced iPads, and Latest Innovations in Siri Technology - Insights by ZDNet</u></a></li>
+<li><a href="https://media-tips.techidaily.com/converting-video-file-formats-from-mpeg-to-crisp-mp3-soundtracks/"><u>Converting Video File Formats: From MPEG to Crisp MP3 Soundtracks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hunt-for-the-best-unlocking-spectacular-savings-on-newest-laptops-during-octobers-prime-deals-bonanza-gadgetguru/"><u>Hunt for the Best: Unlocking Spectacular Savings on Newest Laptops During October's Prime Deals Bonanza | GadgetGuru</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-spoof-ballads-and-jests-the-funniest-sounds/"><u>In 2024, Spoof Ballads & Jests The Funniest Sounds</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovative-mobile-multimedia-tools-to-transform-photos/"><u>Innovative Mobile Multimedia Tools to Transform Photos</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-rectify-malfunctioning-discord-game-checker-on-windows/"><u>Tips to Rectify Malfunctioning Discord Game Checker on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-gaming-headsets-2024-comprehensive-reviews-by-tech-experts/"><u>Top Rated Gaming Headsets 2024 - Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleashing-productivity-how-the-hp-copilotplus-notebook-empowers-distance-working-a-real-life-test-by-zdnet/"><u>Unleashing Productivity: How the HP Copilot+ Notebook Empowers Distance Working - A Real-Life Test by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-apple-m3-macbook-air-top-3-impressive-upgrades-explored-techspot/"><u>Unveiling the Apple M3 MacBook Air - Top 3 Impressive Upgrades Explored | TechSpot</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Latest Innovations Revealed at the Annual Surface and AI Showcase: Highlights From This Week"
-date: 2025-01-05T03:18:57.512Z
-updated: 2025-01-06T05:21:44.639Z
+date: 2025-01-10T20:55:36.428Z
+updated: 2025-01-13T02:58:04.758Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ After months of [speculation](https://www.zdnet.com/article/microsofts-october-1
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured
@@ -42,7 +42,7 @@ Here's everything that the company announced during its October event.
 **Also: [How did Microsoft manage to get it right with Surface?](https://www.zdnet.com/article/how-did-microsoft-manage-to-get-it-right-with-surface/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Surface Laptop 5 gets a splash of color
@@ -60,6 +60,10 @@ What's different about the new Surface Laptop starts with the 12th-generation In
 [Buy the Surface Laptop 5 View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?)
 
 The Surface Laptop 5 will be available in select markets beginning on Oct. 25 with a [starting price of $999](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?) for the i5, 8GB of RAM, and 256GB model. The laptop will be available in classic Platinum, Black, and Sandstone colorways, as well as a new leafy "Sage" option. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Goodbye Surface Pro X, hello Surface Pro 9
 
@@ -79,10 +83,6 @@ Not-so-big news: The rest is a standard Surface Pro affair; 2-in-1 design with a
 
 As far as pricing goes, the Intel-based Surface Pro 9 starts at [$999](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (i5, 8GB RAM, 128GB), and the ARM-based model starts at [$1,299](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (SQ3, 8GB RAM, 128GB). The former comes in Platinum, Graphite, Forest, and Sapphire, while the latter only comes in Platinum. Preorders start today. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The aptly-named Surface Studio 2+
 
 The Surface Studio 2+ looks nearly identical to the Surface Studio 2.
@@ -98,7 +98,7 @@ For all the performance gains that you're getting, Microsoft is making you pay t
 [Buy the Surface Studio 2+ View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Studio-2/8VLFQC3597K4?)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Presenter+ and Audio Dock
@@ -114,7 +114,7 @@ Releasing alongside the new Surface products are the Microsoft Presenter+ and Mi
 The Microsoft Audio Dock is both a docking station with four ports (HDMI, 2x USB-C, and USB-A) and a speaker for audio input and output. For $249, which is not cheap for either of its two functions, Microsoft promises "premium sound" and noise-reducing microphones that will help you "be heard clearly in your next online meeting."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Designer takes on Canva
@@ -163,24 +163,21 @@ Microsoft officials say that Designer is targeted at consumers more than anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-comprehensively-conquering-hp-notebook-screen-recording-techniques-for-2024/"><u>[New] Comprehensively Conquering HP Notebook Screen Recording Techniques for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-audio-capture-mastery-in-windows-10/"><u>[New] In 2024, Audio Capture Mastery in Windows 10</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-mastering-filming-techniques-on-tiktok-platforms/"><u>[New] Mastering Filming Techniques on TikTok Platforms</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-prime-hashtag-combo-for-6-figure-youtube-traffic-surge/"><u>[Updated] Prime Hashtag Combo for 6-Figure Youtube Traffic Surge</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-selfie-validation-is-it-essential-for-instagram-users-in-2024/"><u>[Updated] Selfie Validation Is It Essential for Instagram Users, In 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/advanced-strategies-for-enhancing-footage-with-gopro-studio-for-2024/"><u>Advanced Strategies for Enhancing Footage with GoPro Studio for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-your-usb-camera-driver-today-fast-setup/"><u>Download Your USB Camera Driver Today – Fast Setup</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-download-the-best-compatible-drivers-for-brother-hl-l2360dw/"><u>Easy Download: The Best Compatible Drivers for Brother HL-L2360DW</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-the-error-of-msvcr80dll-that-cant-be-located-on-your-computer/"><u>Fix the Error of msvcr80.dll That Can't Be Located on Your Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-epson-et-2750-windows-drivers-free-and-instant-download/"><u>Get Your Epson ET- 2750 Windows Drivers - Free and Instant Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-free-qualcomm-atheros-ar3011-bluetooth-version-30-drivers-here/"><u>Get Your Free [Qualcomm Atheros] AR3011 Bluetooth Version 3.0 Drivers Here</u></a></li>
-<li><a href="https://win-docs.techidaily.com/guide-complet-comment-realiser-une-restauration-informatique-avec-google-drive/"><u>Guide Complet : Comment Réaliser Une Restauration Informatique Avec Google Drive</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-latest-msi-b350-tomahawk-chipset-and-graphics-drivers-on-pc-compatible-with-windows-107/"><u>How to Get Latest MSI B350 Tomahawk Chipset and Graphics Drivers on PC - Compatible with Windows 10/7</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://win-online.techidaily.com/issue-resolved-troubleshooting-and-repairing-shadow-copies-feature-errors-in-windows-10-7-and-8/"><u>Issue Resolved: Troubleshooting and Repairing 'Shadow Copies' Feature Errors in Windows 10, 7 & 8</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolving-startech-drivers-problems-on-windows-11-8-and-7-a-comprehensive-guide/"><u>Resolving StarTech Drivers Problems on Windows 11, 8 & 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ricoh-windows-compatible-printers-find-and-install-correct-drivers-now/"><u>Ricoh Windows Compatible Printers - Find & Install Correct Drivers Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/safe-and-fast-installation-of-sadeheadset-drivers-for-windows-enhance-your-listening-experience-now/"><u>Safe and Fast Installation of SadeHeadset Drivers for Windows: Enhance Your Listening Experience Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-your-printer-experience-hassle-free-epson-driver-downloads-and-updates/"><u>Upgrade Your Printer Experience: Hassle-Free Epson Driver Downloads & Updates</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-exploring-inshot-is-it-the-pinnacle-of-editing-for-2024/"><u>[Updated] Exploring InShot Is It the Pinnacle of Editing for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/anker-737-battery-sale-slash-30-off-with-this-compact-charger-exclusive-offer/"><u>Anker 737 Battery Sale: Slash $30 Off with This Compact Charger - Exclusive Offer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/audiences-rave-about-highly-adaptable-laptop-featuring-robust-build-and-performance-an-in-depth-review-by-techexpert/"><u>Audiences Rave About Highly Adaptable Laptop Featuring Robust Build and Performance: An In-Depth Review by TechExpert</u></a></li>
+<li><a href="https://blog-min.techidaily.com/beyond-silver-and-space-gray-why-apple-should-embrace-vibrant-hues-for-their-pro-line/"><u>Beyond Silver and Space Gray: Why Apple Should Embrace Vibrant Hues for Their Pro Line</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-7-plus-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone 7 Plus</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-s18-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/implementation-simple-dun-service-de-sauvegarde-pour-le-serveur-windows-server-2019-etapes-faciles-a-suivre/"><u>Implémentation Simple D'un Service De Sauvegarde Pour Le Serveur Windows Server 2019 : Étapes Faciles À Suivre</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/limited-offer-snag-the-premium-lg-gram-17-notebook-on-cyber-monday-for-huge-savings-up-to-400-discounted-price-at-dznet/"><u>Limited Offer! Snag the Premium LG Gram 17 Notebook on Cyber Monday for Huge Savings - Up to $400 Discounted Price at DZNET!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mac-mastery-how-to-reroute-the-control-and-command-buttons-effortlessly-gizmoguides/"><u>Mac Mastery: How To Reroute The Control & Command Buttons Effortlessly | GizmoGuides</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/next-gen-workhorse-laptops-arrive-discover-why-lenovos-newly-released-ai-thinkpads-are-a-game-changer-for-businesses-tech-analysis/"><u>Next-Gen Workhorse Laptops Arrive: Discover Why Lenovo's Newly Released AI ThinkPads Are a Game-Changer for Businesses Tech Analysis</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-network-reestablished-windows-7/"><u>Printer Network Reestablished, Windows 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-98-cyber-monday-bargains-of-2022-exclusive-picks-from-zdnet/"><u>Top 98 Cyber Monday Bargains of 2022 - Exclusive Picks From ZDNet</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/top-iphones-and-androids-ultimate-tiktok-marker-erasers-for-2024/"><u>Top iPhones & Androids Ultimate TikTok Marker Erasers for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transforming-images-into-engaging-animation-projects/"><u>Transforming Images Into Engaging Animation Projects</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-asus-rog-phone-8-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Asus ROG Phone 8 Pro IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbelievable-black-friday-aftermath-deals-on-microsoft-tablets-cyber-monday-savings-of-up-to-600-off-ms-surface-pro-8-find-your-purchase/"><u>Unbelievable Black Friday Aftermath Deals on Microsoft Tablets | Cyber Monday Savings of Up to $600 Off MS Surface Pro 8 - Find Your Purchase</u></a></li>
 </ul></div>
 

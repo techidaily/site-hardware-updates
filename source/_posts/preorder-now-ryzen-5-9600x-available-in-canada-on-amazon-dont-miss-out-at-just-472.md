@@ -1,7 +1,7 @@
 ---
 title: "Preorder Now: Ryzen 5 9600X Available in Canada on Amazon – Don't Miss Out at Just $472"
-date: 2024-08-19T06:02:22.577Z
-updated: 2024-08-20T06:02:22.577Z
+date: 2025-01-05T19:51:33.631Z
+updated: 2025-01-12T19:53:13.640Z
 tags:
   - cpu
 categories:
@@ -47,6 +47,10 @@ The AMD Ryzen 9000-series chips are slated to launch on July 31; but more than a
 
  With just 10 days to go before the official launch of the Ryzen 9000 desktop chips, it’s plausible that some retailers already have them in stock. However, we’re unsure of what to make of these Ryzen 9000 listings. PC21.fr seems to be a legitimate PC parts retailer and we could add the processor into our cart. But the 24-to-48-hour shipping time might sound unrealistic, especially as the chips haven’t officially launched yet. These listings might even be breaking a couple of NDAs with AMD and could lead to headaches for buyers if this was a listing mistake. So, we suggest holding off on buying these processors until after the official launch and MSRPs are known.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -55,14 +59,11 @@ The AMD Ryzen 9000-series chips are slated to launch on July 31; but more than a
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -71,8 +72,23 @@ The AMD Ryzen 9000-series chips are slated to launch on July 31; but more than a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-content-creation-evolution-studio-vs-innovative-beta/"><u>[New] 2024 Approved Content Creation Evolution Studio Vs. Innovative Beta</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-essential-vsco-editing-techniques-summary/"><u>[New] 2024 Approved Essential VSCO Editing Techniques Summary</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbyy-excelling-in-medical-record-digitization-healthcare-institution-selects-for-efficient-document-categorization/"><u>ABBYY Excelling in Medical Record Digitization: Healthcare Institution Selects for Efficient Document Categorization</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/diagnosing-and-restoring-your-malfunctioning-samsung-blu-ray-player/"><u>Diagnosing and Restoring Your Malfunctioning Samsung Blu-Ray Player</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722972754848-download-and-set-up-your-usb-cam-driver-in-no-time/"><u>Download & Set Up Your USB Cam Driver in No Time!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-hp-officejet-pro-8740-driver-for-pc-windows-11108-supported-version/"><u>Download HP OfficeJet Pro #8740 Driver for PC: Windows 11/10/8 Supported Version</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-your-logitech-k350-drivers-with-this-guide/"><u>Download Your Logitech K350 Drivers with This Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-honor-magic-v2-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Honor Magic V2?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-pcandroid-mkv-player/"><u>In 2024, Premium PC/Android MKV Player</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-tailoring-teammate-backgrounds-on-teams-chat/"><u>In 2024, Tailoring Teammate Backgrounds on Teams Chat</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-zero-cost-frame-perfection-on-youtube-video-viewing/"><u>In 2024, Zero-Cost Frame Perfection on YouTube Video Viewing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-content-extractor-the-best-of-the-rest/"><u>Instagram Content Extractor The Best of the Rest</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-microsoft-driver-management-download-and-update-tutorial-for-windows-10-8-and-n7/"><u>Mastering Microsoft Driver Management: Download & Update Tutorial for Windows 10, 8 & N7</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/professional-text-editing-with-emeditor-version-700-beta-advanced-features/"><u>Professional Text Editing with EmEditor Version 7.00 BETA - Advanced Features</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-process-easily-upgrade-your-microsoft-drivers-in-windows-operating-systems-7810/"><u>Step-by-Step Process: Easily Upgrade Your Microsoft Drivers in Windows Operating Systems (7/8/10)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-to-secure-wacom-intuos-pro-drivers-on-your-windows-10-pc/"><u>Step-by-Step Tutorial to Secure Wacom Intuos Pro Drivers on Your Windows 10 PC</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Game Day Audio: Grab the Epic Gaming Headset System for 35%% Off at Amazon - The Inside Scoop by ZDNET"
-date: 2025-01-01T18:01:47.843Z
-updated: 2025-01-05T18:22:18.335Z
+date: 2025-01-05T16:54:50.653Z
+updated: 2025-01-12T17:30:23.342Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an AMD Radeon RX 6550M graphics card and a screen capable of a 144Hz
 With 8GB of RAM, a 512GB SSD, and an AMD Ryzen 5 7000 series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,19 +63,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-navigating-authentic-growth-proven-youtube-view-strategies/"><u>[New] In 2024, Navigating Authentic Growth Proven YouTube View Strategies</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unleashing-fb-video-potential-with-speedy-insights/"><u>[New] Unleashing FB Video Potential with Speedy Insights</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-best-voice-modification-tools-for-mobile-devices/"><u>[Updated] 2024 Approved Best Voice Modification Tools for Mobile Devices</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-finance-frontiers-the-finest-youtube-channels-to-follow/"><u>[Updated] In 2024, Finance Frontiers The Finest YouTube Channels to Follow</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-push-past-filmora-discover-the-best-tablets-for-visual-excellence/"><u>[Updated] Push Past Filmora - Discover the Best Tablets for Visual Excellence</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-tongue-treasures-selecting-superb-audio-to-text-applications-for-2024/"><u>[Updated] Tongue Treasures Selecting Superb Audio to Text Applications for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-listeners-language-decoded-without-the-charge/"><u>2024 Approved Listeners' Language Decoded, Without the Charge</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-nopriceplaybacks-securely-save-your-games-anytime/"><u>2024 Approved NoPricePlaybacks Securely Save Your Games Anytime</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-pick-for-outdoor-audio-in-depth-analysis-of-sony-ult-field-1-the-ideal-compact-bluetooth-speaker/"><u>Top Pick for Outdoor Audio: In-Depth Analysis of Sony ULT Field 1 - The Ideal Compact Bluetooth Speaker</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-one-chip-solutions-the-ultimate-list-of-single-board-computers/"><u>Top Rated One-Chip Solutions: The Ultimate List of Single-Board Computers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-smartwatches-comprehensive-reviews-by-tech-specialists-zdnet/"><u>Top-Rated Smartwatches : Comprehensive Reviews by Tech Specialists | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/tracking-down-ultrawide-displays-how-and-where-to-purchase-them/"><u>Tracking Down Ultrawide Displays: How and Where to Purchase Them</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/transforming-entertainment-innovative-uses-for-a-tv-centric-smart-home-setup/"><u>Transforming Entertainment: Innovative Uses for a TV-Centric Smart Home Setup</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-technology-bargains-snag-the-latest-pixel-section-1-advanced-problem-on-hormone-related-tumors/"><u>Unbeatable Technology Bargains: Snag the Latest Pixel # Section 1: Advanced Problem on Hormone-Related Tumors</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-mastering-digital-conversion-old-photos-to-video/"><u>[New] 2024 Approved Mastering Digital Conversion Old Photos to Video</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagrams-visual-spectacle-becoming-a-reel-wizard/"><u>[New] Instagram's Visual Spectacle Becoming a Reel Wizard</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-peer-to-peer-fb-video-grabber/"><u>[Updated] Peer-to-Peer FB Video Grabber</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-shortcuts-to-excellent-iphone-time-lapse-videos/"><u>[Updated] Shortcuts to Excellent iPhone Time Lapse Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/adonit-nest-usb-hub-unbeatable-price-at-just-65-for-remote-professionals-exclusive-insight/"><u>Adonit Nest USB Hub - Unbeatable Price at Just $65 for Remote Professionals! Exclusive Insight</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/boost-your-teams-voice-chat-experience-with-these-solutions-to-squad-mic-malfunctions-the-2024-edition/"><u>Boost Your Team's Voice Chat Experience with These Solutions to Squad Mic Malfunctions - The 2024 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/cease-unwanted-windows-update-restarts/"><u>Cease Unwanted Windows Update Restarts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ergonomics-revolutionized-one-week-of-using-a-split-keyboard-reshaped-my-peripheral-experience-gizmoguide/"><u>Ergonomics Revolutionized: One Week of Using a Split Keyboard Reshaped My Peripheral Experience | GizmoGuide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsungs-newest-flagship-laptop-a-serious-contender-against-the-macbook-pro-tech-digest/"><u>Samsung's Newest Flagship Laptop: A Serious Contender Against the MacBook Pro | Tech Digest</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/seeking-out-facebooks-streamed-movies-and-shows-for-2024/"><u>Seeking Out Facebook's Streamed Movies & Shows for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rt-of-making-youtube-thumbnails-on-the-go-mobile-for-2024/"><u>The Art of Making YouTube Thumbnails on the Go (Mobile) for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-october-prime-day-offer-meta-unveils-exceptional-512gb-quest-3-virtual-reality-bundle-exclusive-sale/"><u>Top October Prime Day Offer: Meta Unveils Exceptional 512GB Quest 3 Virtual Reality Bundle - Exclusive Sale !</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-all-round-champion-of-laptops-a-crowds-favorite-with-robust-hardware-features-expert-review/"><u>Unveiling the All-Round Champion of Laptops: A Crowd's Favorite with Robust Hardware Features | Expert Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/winter-woes-understanding-the-reasons-behind-device-charge-failures-in-cold-weather-ipad-macbook-iphone/"><u>Winter Woes: Understanding the Reasons Behind Device Charge Failures in Cold Weather (iPad, MacBook, iPhone)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zerogpt-and-detectors-can-they-be-trusted-completely/"><u>ZeroGPT & Detectors: Can They Be Trusted Completely?</u></a></li>
 </ul></div>
 

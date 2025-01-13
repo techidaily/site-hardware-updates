@@ -1,7 +1,7 @@
 ---
 title: "Explore Lenovo's Latest Upgrades to the ThinkPad X1 Series: A Comprehensive Review by ZDNet"
-date: 2024-12-30T07:19:52.332Z
-updated: 2025-01-05T19:03:44.818Z
+date: 2025-01-11T18:39:36.726Z
+updated: 2025-01-13T01:31:50.387Z
 tags:
   - laptops
 categories:
@@ -22,7 +22,7 @@ Lenovo has showed off its forthcoming ThinkPad X1 laptops that will feature Inte
 The tech giant has showcased the high-end, 14-inch display [ThinkPad X1 Carbon Gen 11](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fnews.lenovo.com%2Fpressroom%2Fpress-releases%2Fthinkpad-x1-thinkvision-lenovo-go-power-hybrid-working%2F) and ThinkPad X1 Yoga Gen 8, as well as the 13-inch display ThinkPad X1 Nano Gen 3\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Windows 11
@@ -88,19 +88,22 @@ Neither the 14-inch or 16-inch IdeaPad Pro 5 with AMD will be available in North
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-avoid-payment-secure-your-free-fcp-copy/"><u>[New] Avoid Payment Secure Your Free FCP Copy</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/elve-into-youtube-metrics-using-the-power-of-social-blade/"><u>[New] Delve Into YouTube Metrics Using the Power of Social Blade</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-top-5-budget-friendly-methods-for-live-feed-recordings/"><u>[New] In 2024, Top 5 Budget-Friendly Methods for Live Feed Recordings</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-action-camera-showdown-sj-cam-s6-takes-the-spotlight/"><u>[Updated] Action Camera Showdown SJ-CAM S6 Takes the Spotlight</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-funnyframe-generator/"><u>[Updated] FunnyFrame Generator</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-apks-ensuring-safety-when-acquiring-applications/"><u>Exploring APKs: Ensuring Safety When Acquiring Applications</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-top-notch-alternatives-how-samsungs-stock-tools-outshine-googles-offerings/"><u>Exploring Top-Notch Alternatives: How Samsung’s Stock Tools Outshine Google's Offerings</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/freshly-updated-magiccard-rio-pro-driving-simulator-now-available-supports-windows-operating-systems-including-11-8-the-title-magicard-rio-pro-driver-latest237/"><u>Freshly Updated Magiccard Rio Pro Driving Simulator Now Available – Supports Windows Operating Systems Including 11, 8. The Title Magicard Rio Pro Driver | Latest Download | For Windows 11, 8.1 and 7 Could Be Rephrased As</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-restore-network-functionality-for-your-google-pixel-7-series-phones-in-just-4-easy-steps/"><u>How To Restore Network Functionality for Your Google Pixel 7 Series Phones in Just 4 Easy Steps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/identifying-signs-of-mobile-internet-throttling-what-you-need-to-know/"><u>Identifying Signs of Mobile Internet Throttling: What You Need to Know</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-ultimate-guide-to-effective-screen-recording-with-tunefab/"><u>In 2024, The Ultimate Guide to Effective Screen Recording with Tunefab</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/is-the-viability-of-modular-peripherals-beyond-apples-implementation-possible-for-competitors/"><u>Is the Viability of Modular Peripherals Beyond Apple's Implementation Possible for Competitors?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfect-palette-playbook-mastering-the-art-of-grading-for-2024/"><u>Perfect Palette Playbook Mastering the Art of Grading for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-presidents-day-blowout-sales-discounts-and-deals-on-amazon-walmart-best-buy-and-beyond/"><u>Top President's Day Blowout Sales - Discounts & Deals on Amazon, Walmart, Best Buy & Beyond</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-aspect-ratios-unveiled-a-complete-youtube-manual-for-2024/"><u>[Updated] Aspect Ratios Unveiled A Complete YOUTUBE Manual for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-entrance-video-analysis-review/"><u>2024 Approved Entrance Video Analysis Review</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-apple-iphone-11-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From Apple iPhone 11 How to Bypass?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-on-how-to-prevent-your-game-from-freezing-in-code-vein/"><u>Expert Advice on How To Prevent Your Game From Freezing in Code Vein</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/favorite-unique-ces-innovation-the-noteworthy-laptop-pen-that-writes-on-paper-review/"><u>Favorite Unique CES Innovation: The Noteworthy Laptop Pen That Writes on Paper Review</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-report-an-underage-facebook-account/"><u>How to Report an Underage Facebook Account</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hybrid-work-essentials-how-to-get-your-ideal-lenovo-laptop-at-a-steep-discount-today-insights-from-zdnet-tech-reviewers/"><u>Hybrid Work Essentials: How to Get Your Ideal Lenovo Laptop at a Steep Discount Today | Insights From ZDNET Tech Reviewers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-reno-11f-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Oppo Reno 11F 5G Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-google-chrome-efficiency-activating-the-power-saving-feature-explained-insights/"><u>Maximize Your Google Chrome Efficiency: Activating the Power-Saving Feature Explained - Insights</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-honor-x50-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-patch-nextgen-pro-6-driver-release/"><u>Quick-Patch: NextGen Pro 6 Driver Release</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ready-for-the-new-semester-unlock-exclusive-discounts-on-tech-gadgets-for-students-samsung-deals-from-zdnet/"><u>Ready for the New Semester? Unlock Exclusive Discounts on Tech Gadgets for Students - Samsung Deals From ZDNet!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionary-lenovo-hybrid-device-combines-powerful-windows-experience-with-versatile-android-tablet-functionality/"><u>Revolutionary Lenovo Hybrid Device Combines Powerful Windows Experience with Versatile Android Tablet Functionality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-discounts-on-laptops-during-octobers-black-friday-sales-expert-advice-from-pcmag/"><u>Top-Rated Discounts on Laptops During October's Black Friday Sales - Expert Advice From PCMag</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-price-alert-secure-your-hp-victus-15-for-only-515-with-best-buys-limited-time-anti-prime-day-blowout-featured/"><u>Unbeatable Price Alert! Secure Your HP Victus 15 for Only $515 with Best Buy's Limited-Time Anti-Prime Day Blowout, Featured</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upcoming-insights-unveiling-the-new-m4-mac-mini-latest-ipads-and-advancements-at-apples-september-showcase-detailed-coverage/"><u>Upcoming Insights: Unveiling the New M4 Mac Mini, Latest iPads & Advancements at Apple's September Showcase – Detailed Coverage</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Battle: Comparing the M3 Vs. M2 MacBook Air on ZDNet"
-date: 2025-01-02T23:01:30.294Z
-updated: 2025-01-06T05:57:34.675Z
+date: 2025-01-10T04:26:11.251Z
+updated: 2025-01-13T02:36:25.328Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ Recently, I did a thing: I switched my heavyweight Windows PC for a docked [16-i
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -45,7 +45,7 @@ So what if I told you you can remap the Apple keyboard so that the Globe key, wh
 (Even if you've always been a Mac user, and everything I just wrote meant nothing to you, you'll still want to read this. There's a good chance that the following remapping feature will benefit you just as much, too.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to remap the Globe key into the Command key
@@ -57,7 +57,7 @@ Let's start by running a Spotlight Search (clicking the magnifying glass on the 
 You can also access this menu by clicking the Apple icon on the top left of the status bar > System Preferences > and then Keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Open Modifier Keys
@@ -67,7 +67,7 @@ On the bottom right of the Keyboard settings should be a button labeled "Modifie
 Screenshot by June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Remap the Globe key to Command
@@ -79,7 +79,7 @@ Note: There is a "Control key" on the Mac keyboard but it doesn't function the s
 Screenshot by June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How this helps
@@ -116,16 +116,20 @@ From a Windows user perspective, being able to still access my usual keyboard sh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-affluent-animator-architects-for-2024/"><u>[New] Affluent Animator Architects for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-innovate-meme-designs-in-adobe-tools/"><u>[Updated] 2024 Approved Innovate Meme Designs in Adobe Tools</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-revolutionize-your-branding-50-free-youtube-banners-inside/"><u>[Updated] 2024 Approved Revolutionize Your Branding - 50 Free YouTube Banners Inside!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/corsairs-premium-air-a115-cpu-cooler-an-insightful-review-on-its-quiet-strong-performance-and-cost/"><u>Corsair's Premium Air A115 CPU Cooler - An Insightful Review on Its Quiet, Strong Performance and Cost</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-audio-docking-systems-for-immersive-experience/"><u>In 2024, Audio Docking Systems for Immersive Experience</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/rise-of-a-marketer-top-5-tips-from-the-prosphere/"><u>Rise of a Marketer Top 5 Tips From the Prosphere</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-your-vintage-apple-ii-computer-with-a-high-definition-media-extension/"><u>Upgrade Your Vintage Apple II Computer with a High-Definition Media Extension</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/why-actual-performance-outshines-factory-specs-uncover-the-truth-behind-real-world-results/"><u>Why Actual Performance Outshines Factory Specs: Uncover the Truth Behind Real-World Results</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/why-are-gaming-communities-divided-over-this-cutting-edge-anti-cheating-software/"><u>Why Are Gaming Communities Divided Over This Cutting-Edge Anti-Cheating Software?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/why-hasnt-this-smart-technology-revolutionized-every-home-yet/"><u>Why Hasn't This Smart Technology Revolutionized Every Home Yet?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/why-opting-for-an-affordable-soundbar-can-be-a-wise-choice/"><u>Why Opting for an Affordable Soundbar Can Be a Wise Choice</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-tips-and-hacks-for-using-instagram-filters-effectively/"><u>[New] In 2024, Tips & Hacks for Using Instagram Filters Effectively</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-video-reduction-tips-for-mac-users/"><u>[Updated] Instagram Video Reduction Tips for Mac Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-jargon-primer-for-virtual-experiences/"><u>A Jargon Primer for Virtual Experiences</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ergonomic-revolution-how-a-week-of-using-a-split-keyboard-transformed-my-tech-habits/"><u>Ergonomic Revolution: How a Week of Using a Split Keyboard Transformed My Tech Habits</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/generate-tones-with-ease-5-free-online-options/"><u>Generate Tones with Ease 5 Free Online Options</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/save-big-with-the-ultimate-list-of-storage-drive-bargains-for-the-festive-season-2023-zdnet/"><u>Save Big with the Ultimate List of Storage Drive Bargains for the Festive Season, 2023 | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-technology-innovations-the-ultimate-list-of-must-have-tech-gadgets-and-devices-from-2n23-zdnet/"><u>Top Technology Innovations: The Ultimate List of Must-Have Tech Gadgets & Devices From 2N23 | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-value-laptops-find-the-ultimate-windows-powered-machine-under-1k-techspot/"><u>Top Value Laptops: Find the Ultimate Windows-Powered Machine Under $1K | TechSpot</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/troubleshoot-your-sound-card-problems-with-yl-computing-fix-audio-failures-now/"><u>Troubleshoot Your Sound Card Problems with YL Computing - Fix Audio Failures Now!</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/type-i-interferons-ifn-alpha-and-ifn-beta-have-broad-antiviral-activity-while-type-ii-ifn-gamma-is-more-involved-in-cellular-immunity/"><u>Type I Interferons (IFN-Alpha and IFN-Beta) Have Broad Antiviral Activity, While Type II (IFN-Gamma) Is More Involved in Cellular Immunity.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-save-60-on-your-preferred-apple-magsafe-charger-today-only-exclusive-offer/"><u>Unbeatable Deal: Save $60 on Your Preferred Apple MagSafe Charger - Today Only! Exclusive Offer</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-ultimate-guide-to-real-time-audio-leveling-with-final-cut-pro-xs-autoduck-feature/"><u>Updated In 2024, The Ultimate Guide to Real-Time Audio Leveling with Final Cut Pro Xs AutoDuck Feature</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-editing-setup-with-50-off-premium-samsung-displays-at-best-buy-dont-miss-this-limited-time-bargain/"><u>Upgrade Your Editing Setup with 50% Off Premium Samsung Displays at Best Buy – Don’t Miss This Limited Time Bargain!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnets-top-pick-how-to-expand-your-workspace-using-this-clever-laptop-holder-and-phone-screen-combo/"><u>ZDNet's Top Pick: How to Expand Your Workspace Using This Clever Laptop Holder & Phone-Screen Combo</u></a></li>
 </ul></div>
 
